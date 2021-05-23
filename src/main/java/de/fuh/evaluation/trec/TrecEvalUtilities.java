@@ -1,5 +1,6 @@
 package de.fuh.evaluation.trec;
 
+import de.fuh.utilities.Utilities;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
@@ -23,6 +24,14 @@ import java.util.*;
  */
 public class TrecEvalUtilities {
 
+	private static Utilities ut = new Utilities();
+	//Load properties from main/resources folder
+	private static Properties prop = null;
+
+	public TrecEvalUtilities() throws IOException {
+		prop = ut.getProperties();
+	}
+
 	/**
 	 * Creates a QREL-styled file out of the results
 	 *
@@ -35,7 +44,8 @@ public class TrecEvalUtilities {
 
 		int lines;
 		String queryNr;
-		Directory index = FSDirectory.open(Paths.get("src/main/resources/index"));
+		System.out.println("PATH: "+prop.get("index").toString());
+		Directory index = FSDirectory.open(Paths.get(prop.get("index").toString()));
 		IndexSearcher searcher;
 		IndexReader reader = DirectoryReader.open(index);
 			searcher = new IndexSearcher(reader);
@@ -54,14 +64,12 @@ public class TrecEvalUtilities {
 				for (ScoreDoc sd : dm) {
 
 					Document doc = searcher.doc(sd.doc);
-					System.out.println("OUR" + doc.get("id"));
 
 					lines++;
 					// Compose line for output file
 					StringJoiner sj = new StringJoiner("\t");
 					sj.add(Integer.toString(cnt));
 					sj.add("0");
-					//sj.add(String.valueOf(sd.doc));
 					sj.add(String.valueOf(doc.get("id")));
 					sj.add(Integer.toString(lines));
 					sj.add(Double.toString(sd.score));
