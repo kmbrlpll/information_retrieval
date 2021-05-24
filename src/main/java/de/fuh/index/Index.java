@@ -117,8 +117,6 @@ public class Index {
             doc.add(new StringField(prop.get("field2").toString(), file.toString(), Field.Store.YES));
             doc.add(new StringField(prop.get("field3").toString(), file.getName().replace(".txt", ""), Field.Store.YES));
 
-            System.out.println("OUT: "+file.getName());
-
             if (indexWriter.getConfig().getOpenMode() == OpenMode.CREATE) {
                 indexWriter.addDocument(doc);
             } else {
