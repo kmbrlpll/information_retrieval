@@ -1,0 +1,36 @@
+Meeting: 2014 AACR Annual Meeting
+Title: The cBioPortal for Cancer Genomics as a clinical decision support
+tool
+
+
+As sequencing of tumor samples is entering clinical practice, there is an
+urgent need for new tools that facilitate the interpretation of sequence
+data so that they can effectively inform treatment decisions. To this
+end, we are evolving the cBioPortal for Cancer Genomics into a clinical
+decision support tool. The cBioPortal is a web-based visualization and
+analysis engine that makes complex cancer genomics data accessible to a
+wide range of cancer researchers and clinicians.To transition the
+cBioPortal towards use in clinical practice, we have recently developed
+the following new functions:1. Filtering of oncogenic mutations: By using
+information about the known or likely oncogenic effects of specific
+mutations, the portal can now filter out passenger events and highlight
+known and potentially druggable drivers.2. Clinical timelines: Compact
+and interactive visualization of a patient's clinical and treatment
+history3. Image support: Interactive visualization of histology images4.
+Support for multiple tumor samples from a single patient: The portal can
+display genomic differences and similarities of different samples (e.g.
+multiple sites of the same tumor, recurrence, metastasis, post-treatment)
+in the context of a patient's treatment history.5. Tumor clonality:
+Assessment of a tumor's purity and clonality / heterogeneity6. Targeted
+treatment suggestions: The portal matches drugs to drug targets that are
+altered in the patient's tumor.7. Clinical trial matching: Based on a
+patient's clinical history and the genomic alterations found in the
+tumor, the cBioPortal will identify relevant clinical trials.By making
+complex genomic data easily interpretable and linking it to information
+about drugs and clinical trials, the system has the potential to
+facilitate the proper use of genomic data in clinical decision making. We
+are constantly improving the software and will initially focus most
+strongly on the matching of patients to clinical trials. We are sharing
+the software with other hospitals, where it can be used by oncologists
+and tumor boards.
+

@@ -21,41 +21,33 @@ import java.util.Properties;
  */
 public class LuceneAnalyzer {
 
-    /**
-     * @param args
-     * @throws IOException
-     */
-    public static void main (String args[]) throws IOException {
-        Utilities ut = new Utilities();
-        Properties prop = ut.getProperties();
+    String text = "";
+    Analyzer ca = null;
+    Properties prop = null;
 
-        LuceneAnalyzer la = new LuceneAnalyzer();
-        Analyzer analyzer = new StandardAnalyzer();
-        WhitespaceAnalyzer wa = new WhitespaceAnalyzer();
-
-        Analyzer ca = CustomAnalyzer.builder()
+    public LuceneAnalyzer() throws IOException {
+        ca = CustomAnalyzer.builder()
                 .withTokenizer("standard")
                 .addTokenFilter("lowercase")
                 .addTokenFilter("stop")
-               // .addTokenFilter("ngram", "minGramSize", "1", "maxGramSize", "25")
+                .addTokenFilter("porterstem")
+                .addTokenFilter("capitalization")
+                //.addTokenFilter("ngram", "minGramSize", "1", "maxGramSize", "25")
                 .build();
-
-        List<String> list = la.analyze(prop.get("sample_text5").toString(), ca);
-        System.out.println(list);
+        Utilities ut = new Utilities();
+        prop = ut.getProperties();
     }
 
     /**
      * A generic analyzer method that analyse a given text with the given Analyzer
      *
      * @param text
-     * @param analyzer
      * @return
      * @throws IOException
      */
-    public List<String> analyze(String text, Analyzer analyzer) throws IOException {
+    public List<String> analyze(String text) throws IOException {
         List<String> tokenList = new ArrayList<String>();
-
-        TokenStream tokenStream = analyzer.tokenStream("content", text);
+        TokenStream tokenStream = ca.tokenStream("content", text);
         CharTermAttribute attribute = tokenStream.addAttribute(CharTermAttribute.class);
         tokenStream.reset();
 
@@ -63,5 +55,18 @@ public class LuceneAnalyzer {
             tokenList.add(attribute.toString());
         }
         return tokenList;
+    }
+
+    /**
+     * @param args
+     * @throws IOException
+     */
+    public static void main (String args[]) throws IOException {
+        Analyzer analyzer = new StandardAnalyzer();
+        WhitespaceAnalyzer wa = new WhitespaceAnalyzer();
+
+        LuceneAnalyzer la = new LuceneAnalyzer();
+        List<String> list = la.analyze(la.prop.get("sample_text5").toString());
+        System.out.println(list);
     }
 }

@@ -1,0 +1,31 @@
+Meeting: 2014 AACR Annual Meeting
+Title: MT-MMP cleavage profiling using rapid endopeptidase profiling
+library (REPLi)
+
+
+Matrix metalloproteinases (MMPs) are a family of zinc-dependent
+endopeptidases that are associated with the metastatic process. Relative
+to non-diseased tissue, the increased expression and activity of
+Membrane-type matrix metalloproteinases (MT-MMPs) such as MMP-15 within
+the prostate tumour microenvironment can be exploited in order to
+selectively activate highly toxic chemotherapeutics. The main advantage
+to such a targeted drug delivery system is a significant reduction of
+systemic toxicity, resulting in a highly efficacious and successful
+treatment for prostate cancer.We have screened 3375 peptides with a
+variety of residue combinations using Rapid Endopeptidase Profiling
+Library (REPLi). A small but smart design, the REPLi library template:
+MCA-Gly-Gly-Gly-Xaa-Xaa-Xaa-Gly-Gly-DPA-Lys-Lys contains a donor (MCA)
+and quenching acceptor (DPA) FRET pair. No fluorescence indicates the
+molecules within the pools are intact, however, upon cleavage, the
+tri-variable cores can be assessed via auto fluorescence of the MCA
+molecule.By analysing the 512 distinct substrate pools we have identified
+combinations of Phe/Tyr and Asn/Gln residues as having a greater MMP-15
+cleavage bias over MMP-14, with the opposite being true for variable
+cores with Ile/Leu and Lys/Arg combinations. Since most known substrates
+show little (if any) MMP selectivity this is a novel finding, and as
+such, provides us with insights that are essential for designing prodrugs
+targeted to specific MMPs.Through detailed metabolic studies, this
+information is being utilised in a bid to maximise the successful
+development of novel MMP-15 targeted paclitaxel conjugated prostate
+cancer prodrugs.
+

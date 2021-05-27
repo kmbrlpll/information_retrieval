@@ -1,0 +1,44 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Anti-cooperative allosteric inhibitors of thymidylate synthase as
+novel antineoplastic agents
+
+
+Thymidylate synthase (TS) inhibitors are a class of antineoplastic agents
+widely used for the treatment of gastrointestinal, breast, ovarian and
+other cancers. TS catalyzes reductive methylation of dUMP to dTMP and
+serves as the sole de novo source of thymidylate inside the cell. While
+TS is essential for DNA biosynthesis and normal cell proliferation, TS
+overexpression has been associated with resistant tumor phenotype and
+poor prognosis. Although TS inhibitor 5-flourouracil (5-FU) continues to
+be one of the most frequently used chemo-therapeutic agents, 5-FU and its
+metabolites can cause significant liver, cardiac and bone marrow toxicity
+and are associated with development of drug resistance. In this study, we
+developed a new strategy that targets TS subunit cooperativity by
+freezing isoform interconversions and structural dynamics of the enzyme.
+In TS catalytic mechanism, conserted motion of amino acid residues
+181-197 brings the catalytic Cys195 in and out of the active site. These
+small scale motions that translate across the dimer interface upon
+substrate binding and product release are integral to TS enzymatic
+function and can be taken advantage of in structure-based design of its
+inhibitors. For this purpose, we selected TS crystal structure with high
+asymmetry between the subunits (PDBID:1HVY) and used it as a template for
+molecular docking. The structure was prepared by removing heteroatoms and
+liganded molecules, followed by energy minimization in UCSF Chimera
+(1.5.2) and testing resulting geometries in Coot (0.6.2). We identified 5
+potential docking sites and selected the site at the dimer interface
+specific to inactive conformation of TS. National Cancer Institute (NCI)
+small molecule library of 139,735 compounds was extracted from ZINC and
+pruned for redundant structures and molecules with molecular weight less
+than 200 Da. Resulting compound library was docked (DOCK6.4) into the
+selected site in 1000 orientations with flexible bond parameters enabled.
+The top 1000 hits were re-scored using AMBER and visualized in PyMOL to
+check for consistency and geometric fit. 837 out of 1000 molecules were
+further selected and re-ranked based on predicted physicochemical
+characteristics (cLogP, pKa, solubility, etc.). The twenty-seven highest
+ranked compounds were requested from the NCI and tested for their effects
+on viability in HeLa, K562 and A549 human cancer cell lines. Five out of
+27 compounds reduced viability by more than 50% at a concentration of
+10uM; one of the compounds was effective below 1uM. In conclusion, by
+using this new approach that targets TS subunit cooperativity, we
+identified small molecules with potential anti-cancer activity.
+

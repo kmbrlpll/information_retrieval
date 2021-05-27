@@ -1,0 +1,22 @@
+Meeting: 2016 AACR Annual Meeting
+Title: An integrated pipeline for TCGA data analysis
+
+
+The accumulation of publicly available high-throughput experimental data
+has made analyzing the data a bottleneck in scientific discovery. In this
+study, we explore a computational, high-throughtput approach for
+identifying cancer related biological factors using the data available at
+the Cancer Genome Atlas (TCGA). We developed an integrative genomic
+analysis (IGA) tool, which performs multiple analysis tasks, including
+gene/protein level differential expression analysis, gene set level
+enrichment analysis and network/pathway level comparison. Several data
+types can be analyzed, including RNA-seq, DNA methylation, miRNA-seq, and
+proteomics. By varying cancer types, race groups, and data types, we are
+able to generate a large set of novel findings, which may serve as
+experimental targets for biologists and biochemists. Interactive reports
+are generated to facilitate further exploration of the biological
+significance of findings. With the high-throughput approach and
+intgrative tools, the bottlenect for us now shifts to publishing these
+results. We invite researchers in cancer research community to
+collaborate with us to publish the findings.
+

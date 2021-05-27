@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The long non-coding RNA GHSROS mediates expression of genes
+associated with tumor growth, metastasis and adverse disease outcome.
+
+
+Long non-coding RNAs (lncRNAs) play key regulatory roles in cancer
+progression and are emerging therapeutic targets. The objective of this
+study was to investigate the expression and function of the lncRNA GHSROS
+in prostate cancer. Quantitative RT-PCR revealed that GHSROS is highly
+expressed in a subset of prostate cancers (Gleason score 8-10; z-score
+>1; Mann-Whitney-Wilcoxon test P=0.0021). Forced overexpression of the
+lncRNA stimulated cell migration in vitro in the PC3 (1.82 ± 0.35,
+P=0.006; Student’s t-test), DU145 (1.94 ± 0.34, P=0.017), and LNCaP
+(1.27 ± 0.02, P=0.0002) prostate cancer cell lines. Cell proliferation
+was increased in GHSROS overexpressing PC3 (3.36 ± 1.91, P=0.029), DU145
+(1.749 ± 0.59, P=0.026), and LNCaP (1.39 ± 0.26, P=0.040) prostate
+cancer cell lines. These results were recapitulated in NOD/SCID mice,
+with increased tumor growth and Ki67 immunohistochemical staining in PC3
+(P=0.0040) and DU145 (P = 0.036) xenografts overexpressing the
+lncRNA.High-throughput transcriptome sequencing (RNA-seq) identified 400
+differentially expressed genes in GHSROS overexpressing PC3 cells, with
+enrichment of genes associated with motility, migration and regulation of
+cell growth. Further interrogation of the 400 gene set using Oncomine
+concept mapping, and interrogation of publicly-available clinical
+prostate cancer data sets, revealed a 34-gene signature associated with
+poorer disease outcome and metastatic progression. Preliminary analysis
+of The Cancer Genome Atlas (TCGA) data, suggest that the signature has
+potential as a prognostic indicator for disease free- or overall survival
+in numerous cancers. Finally, locked antisense oligonucleotide (LNA-ASO)
+inhibition of endogenous GHSROS reciprocally regulated cell growth
+(Student’s t-test; RNV124: -1.14 ± 0.06, P=0.049 and RNV104L: -1.18 ±
+0.05, P=0.030, migration (RNV124: -1.96 ± 0.11, P=0.004) and gene
+expression changes, supporting the observations from forced GHSROS
+overexpression experiments.In summary, we provide evidence that GHSROS is
+a prostate cancer associated lncRNA that promotes a gene expression
+signature which enhances the propensity for metastasis and adverse
+disease outcomes. We also demonstrate that GHSROS can be targeted using
+antisense oligonucleotides. Further studies on this lncRNA may provide
+new prognostic and therapeutic opportunities.
+
+

@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Chemoresistant cancer stem cells undergo gene changes that drive
+tumor recurrence.
+
+
+Despite the efficacy of chemotherapy, resistant cells are thought to
+contribute to tumor recurrence. In vitro models of recurrence must mimic
+the complexity and heterogeneity of in vivo tumors and provide the
+longevity needed to capture tumor dormancy following chemotherapy. We
+have previously described a 3D in vitro model that simulates in vivo
+tumors containing cancer stem cell niches. Encapsulation of murine renal
+adenocarcinoma (RENCA) cells in a double layer of agarose that form
+spherical macrobeads allows for the development of 3D tumor colonies
+comprised of tumor-initiating and tumor-amplifying cells within the inner
+agarose matrix. In the current study, we used the RENCA macrobead in
+combination with chemotherapy to evaluate genetic regulation that allows
+tumor dormancy and drives recurrence.
+
+RENCA macrobeads treated with docetaxel (5 μg/ml) undergo a significant
+loss of cell mass and a period of latency followed by tumor recurrence.
+RNA isolated from docetaxel-resistant cells (Wk.6 post-treatment),
+recurrent tumors (Wk.20 post-treatment) and paired vehicle controls were
+characterized using whole-transcriptome profiling (GeneChip® WT Pico Kit
+with Transciptome Analysis Console; Affymetrix).
+
+At Wk.6 post-treatment, genes associated with a stem cell phenotype
+(Car12, Arrb1, Nos2, Aldh1l2) and members of the ABC1 family associated
+with multidrug resistance were enriched in docetaxel-resistant cells.
+Genes regulating the canonical Wnt signaling pathway, specifically LRP
+family members, were significantly up regulated. Pathway analysis
+revealed dysregulated focal adhesion-PI3K-Akt-mTor-signaling, including
+genes modulating integrin adhesion (Itga5, Itga7), ECM receptor
+interaction (Lama5, Lamb2, Lamc1) and actin cytoskeletal remodeling
+(Vcl). Supporting the quiescent nature of the docetaxel-resistant
+population, genes implicated in DNA replication (Dbf4, Cdc6, Mcm5),
+transcriptional initiation (Taf13, Gtf2h1, Polr2i) and tumor progression
+(Mmp3, Mmp13) were significantly down regulated.
+
+At Wk.20 post-treatment, up regulation of matrix metalloproteinases
+(Mmp13) and partial retention of stem cell (Nos2, Car12) and drug
+resistant (Abcb1) genes supports the evolution of regenerated tumors to a
+metastatic phenotype. Genes involved in fatty acid β-oxidation (Acsl5,
+Lipf), oxidative phosphorylation (ND3, ND6) and the electron transport
+chain (COX2) were down regulated in concert with up regulation of Me2
+suggesting reduced flux through the TCA cycle and use of aerobic
+glycolysis in rapidly growing cells.
+
+This study further supports the RENCA macrobead as a model system to
+evaluate the biology of chemotherapy-resistant cells and tumor recurrence
+in a 3D microenvironment. These data are in line with the notion that
+chemotherapy-resistant cells exhibit a period of quiescence with a stem
+cell-like gene profile and experience an intrinsic transformation towards
+an invasive phenotype that drives tumor recurrence.
+
+

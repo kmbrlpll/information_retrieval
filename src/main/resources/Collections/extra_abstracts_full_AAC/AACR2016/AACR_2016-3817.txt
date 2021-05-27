@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Recombinant stapled proteins for the treatment of chronic myeloid
+leukemia
+
+
+The oncoprotein Bcr-Abl is the cause of chronic myeloid leukemia (CML).
+Current therapies target the tyrosine kinase domain of Bcr-Abl, but due
+to their non-curative nature, resistance to these drugs is common.
+Therefore, new treatments are needed for those patients refractive to
+available therapies. Bcr-Abl homo-oligomerization via its N-terminal
+coiled coil (CC) domain is required for tyrosine kinase activity. Our
+previous work has shown that it is possible to inhibit Bcr-Abl activity
+by targeting the CC domain with a peptidomemetic known as CCmut,
+delivered as a protein using a cell-penetrating peptide (CPP-CCmut).
+CPP-CCmut selectively enters leukemic cells and inhibits Bcr-Abl, as seen
+by Western blot, 7AAD, Annexin V, cell proliferation, and colony forming
+assays.This leukemia cell-permeable CPP-CCmut protein domain is our lead
+compound for CML therapy, but to be translatable to the clinic it must be
+modified to improve proteolytic stability. For this reason, we created
+stapled versions of this CPP-CCmut. Stapled peptides are resistant to
+proteolysis, and are emerging as a viable strategy for disrupting
+protein-protein interactions in diseases including HIV and cancer. Until
+recently, peptide stapling required incorporation of unnatural amino
+acids; therefore these peptides were created via solid-state synthesis.
+However, the synthesis of the 81 amino acid CPP-CCmut is no trivial
+matter. The ability to staple a longer sequence such as our protein
+domain is now possible using thiol-ene coupling. This exciting new
+chemistry allows for the stapling of recombinant proteins at substituted
+cysteine residues (instead of stapling substituted unnatural amino acids
+incorporated into synthetically made peptides). Thiol-ene coupling is
+used here to staple recombinant CPP-CCmut, and provides a path for
+translation of our lead compound to the clinic.Molecular modeling has
+identified optimal locations for staples on CPP-CCmut, which include
+29/36, 36/43, 50/57, 57/64, as well as double staples 29/36-50/57 and
+36/43-50/57. These staple locations still allow for dimerization of
+CPP-CCmut with Bcr-Abl, as indicated by free energy calculations and
+helicity. The staple locations have also been optimized for maximal
+coverage from proteolytic degradation.This work acts as a
+proof-of-concept that proteins (not just peptides) can be stapled, thus
+greatly expanding the variety and complexity of stapled proteins for use
+in the exciting field of targeting protein-protein interfaces to treat
+disease.
+

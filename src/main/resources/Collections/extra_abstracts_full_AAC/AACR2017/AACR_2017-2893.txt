@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: IGF2 is essential for tumor initiating cell activity in human
+colorectal cancer.
+
+
+A small fraction of all cells within individual tumours from colorectal
+cancer (CRC) patients drives long term tumor growth and metastases in
+immune-compromised mice. Targeting these tumor-initiating cells (TIC) may
+improve the long-term outcome in advanced CRC. To identify candidate
+genes which drive proliferation and survival of TIC, we have performed a
+large scale high throughput loss of function shRNA screen in
+three-dimensional TIC enriched patient spheroids. Spheroids were
+transduced with the barcoded Cellecta decipher library comprising 27,500
+shRNAs targeting 5043 genes associated with cell signaling pathways
+(Module 1). Two weeks later, cells were harvested for DNA isolation,
+barcode amplification and high-throughput barcode sequencing. Amongst
+others, we found 5/6 shRNAs targeting Insulin growth factor 2 (IGF2)
+scoring within a 20% depletion threshold, presenting depletion levels
+very similar to positive control shRNAs. mRNA expression profiling and
+qPCR analyses demonstrated low to moderate expression of the IGF2 gene
+product in the majority of patient spheroid cultures analyzed (n=17). In
+contrast, two out of 15 patient derived spheroid cultures analyzed
+demonstrated very pronounced IGF2 overexpression (>250 fold). Integrative
+SCNA profiling, expression and TAD profiling using the CESAM algorithm,
+followed by 4C Seq, demonstrated a tandem duplication of the IGF2 locus
+in these two patients which interrupts a IGF2 adjacent TAD boundary and
+results in de novo contact domain formation between the IGF2 promoter and
+a normally hidden distant super-enhancer. A dual luciferase reporter
+assay revealed that the hijacked enhancer is functionally active in human
+CRC cells and thereby may drive unphysiological IGF2 expression following
+enhancer hijacking. To assess the functional relevance of IGF2 tandem
+duplications, spheroids were transduced with RFP expressing lentiviral
+vectors encoding for 3 shRNAs targeting IGF2 as well as control shRNAs
+targeting EIF3A or scrambled shRNA. Strikingly, IGF2 knockdown led to a
+marked reduction of RFP+ cells in competitive proliferation assays and
+markedly reduced viability assessed by ATPlight assay. Moreover, IGF2
+knockdown strongly reduced tumor formation following xenotransplantation
+into immune deficient NSG mice. These data demonstrate that IGF2 is
+required for survival, proliferation and tumor-initiation of primary
+human TIC enriched spheroids. Notably, oncogenic miRNA-483 is encoded
+within intron 8 of IGF2, however, its function in IGF2 locus tandem
+duplicated cells remains elusive. Understanding the mechanisms of IGF2
+dependency and the role of miRNA-483 in this context will be essential
+for the future development of therapeutic approaches targeting IGF2
+expression in this patient subset harbouring tandem-duplications of the
+IGF2 locus.
+
+

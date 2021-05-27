@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: ICGC in the cloud
+
+
+In November 2015 members of this consortium and the International Cancer
+Genome Consortium (ICGC) jointly announced the availability of more than
+1,300 whole cancer genomes in the Amazon Web Services elastic compute
+cloud (EC2). Another 480 whole cancer genomes are available in the Cancer
+Genome Collaboratory, an academic cloud being built by this consortium.
+By making the data available in cloud compute form, researchers benefit
+from the high availability, scalability and economy offered by cloud
+services, and to avoid the large investment in compute resources and the
+time needed to download the data. Over the next year, we will increase
+the number of ICGC genomes available in the cloud, with the goal of
+placing the entire ICGC data set of 25,000 donors in academic and
+commercial clouds when the project is completed in 2018. For information
+and a getting-started guide, see
+https://dcc.icgc.org/icgc-in-the-cloud.Cloud computing represents a
+fundamental shift in the way that cancer genomics is performed. Because
+of the large size of the ICGC data set, it can take many months to
+download the data across a typical university broadband connection, and
+it requires a substantial investment in hardware in order to analyze it.
+In practice, this has meant that only large computational groups could
+perform whole-genome analysis at scale. Using the cloud, research groups
+of any size can launch large analytic processes, pay only for the compute
+that they use, and avoid charges for data transfer and long-term data
+storage.A practical demonstration of the power of working in compute
+clouds comes from our ongoing collaboration with the PanCancer Analysis
+of Whole Genomes Project (PCAWG; https://dcc.icgc.org/pcawg), which seeks
+to interpret patterns of variation in both coding and non-coding portions
+of cancer genomes. Upwards of 2,800 ICGC whole cancer genomes were
+subjected to a uniform data processing pipeline that included whole
+genome alignment, uniform quality control, and standardized germline and
+somatic variant calling using a large number of software packages that
+were adapted to run efficiently in the cloud. Using a series of 14
+academic and commercial compute clouds, we were able to process this 800
+terabyte data set in just over a year's time. Given the improvements in
+the software that occurred over this period, the whole project would take
+less than 4 months on just a single commercial cloud if we were to start
+over. When the project is completed later in 2016, we will again use
+academic and compute clouds to publish the PCAWG data, its major results,
+and all the software used during the analysis, thereby allowing the
+research community to integrate PCAWG with their own data sets, and apply
+the same analytic procedures.
+

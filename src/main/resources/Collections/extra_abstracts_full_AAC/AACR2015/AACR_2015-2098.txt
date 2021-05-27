@@ -1,0 +1,32 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Genome-wide comparison of PU.1 and Spi-B binding sites in a mouse
+B lymphoma cell line
+
+
+Background. The E26-transformation-specific (ETS) transcription factor
+Spi-B is required for the survival of Activated B Cell-type Diffuse Large
+B Cell Lymphoma cell lines and is recurrently amplified in B cell
+lymphoma. The ETS transcription factor PU.1 is highly related to Spi-B.
+Both PU.1 and Spi-B are expressed in B lymphoma cell lines, and have been
+demonstrated to redundantly activate transcription of genes required for
+differentiation and function. We hypothesized that Spi-B and PU.1 occupy
+similar regions of chromatin within the genome of a B lymphoma cell line.
+Results. To compare binding regions of Spi-B and PU.1, murine WEHI-279
+lymphoma cells were infected with retroviral vectors encoding
+3XFLAG-tagged PU.1 or Spi-B. Anti-FLAG chromatin immunoprecipitation
+followed by next generation sequencing (ChIP-seq) was performed. Analysis
+for high-stringency enriched genomic regions demonstrated that PU.1
+occupied 4528 regions and Spi-B occupied 3360 regions. 1900 of these
+regions exhibited at least 100 base pairs of overlap for both factors.
+Regions bound by Spi-B and PU.1 were frequently located within genes
+associated with immune response and activation of B cells. Motif-finding
+revealed that both transcription factors were predominantly located at
+the ETS core domain (GGAA), however, other unique motifs were identified
+when examining regions associated with only one of the two factors.
+Motifs associated with unique PU.1 binding included POU2F2, while unique
+motifs in the Spi-B regions contained a combined ETS-IRF motif.
+Conclusions. Our results suggest that complementary biological functions
+of PU.1 and Spi-B may be explained by their interaction with a similar
+set of regions in the genome of B lymphoma cells. However, sites uniquely
+occupied by PU.1 or Spi-B provide insight into their unique functions.
+

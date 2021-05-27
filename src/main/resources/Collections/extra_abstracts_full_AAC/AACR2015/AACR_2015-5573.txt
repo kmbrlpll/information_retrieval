@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Effects of endocrine disruptors on rat mammary transcriptome at
+critical developmental windows
+
+
+Background: Endocrine disruptors (EDs) are environmental chemicals that
+may disrupt endogenous hormones and have been linked to many adverse
+health outcomes including breast cancer. EDs have been shown to modulate
+the risk for mammary tumors in animal models, but their mechanisms at
+biologically relevant doses and during critical developmental windows
+remain poorly understood.Methods: We examined the individual and
+combinatorial (MIX) effects of three EDs commonly found in personal care
+products - diethyl phthalate (DEP), methyl paraben (MPB) and triclosan
+(TCS). Sprague-Dawley rats were exposed at four developmental windows -
+prenatal, neonatal, prepubertal and pubertal - at doses comparable to
+human exposure based on urinary levels reported in NHANES.
+Whole-transcriptome profiling was done using Affymetrix rat gene 2.0 st
+arrays.Results: Differential gene expression analysis by limma revealed
+that there were no substantial differences between the transcriptomes of
+prenatal and neonatal rats, so they were combined into a perinatal group.
+Control rats: Expression levels of 702 transcripts significantly differed
+between the prepubertal and perinatal periods; gene ontology (GO)
+enrichment showed that GO terms related to development and response to
+estrogen stimuli were up-regulated and immune signaling pathways were
+down-regulated. Upstream analysis using Ingenuity Pathway Analysis showed
+that -estradiol and estrogen receptor were among the top regulators
+up-regulated in the prepubertal window, and T-cell receptor and
+interleukins were among the top regulators down-regulated. The difference
+between later windows, i.e., between puberty and prepuberty was much less
+pronounced, with only 39 differentially expressed transcripts. ED-exposed
+rats: Large scale changes in mammary transcriptome were driven by
+developmental stage, while changes due to ED exposure appeared to be more
+subtle. One-way ANOVA among developmental windows demonstrated that only
+3000 transcripts were significantly changed in DEP and MPB and 4000
+transcripts changed in TCS and MIX compared to 6000 differentially
+expressed transcripts in control rats. Importantly, distinct signatures
+of genes were associated with each individual ED as well as MIX,
+suggesting distinctive mechanisms. Additionally, our data suggested that
+the pubertal window was the most susceptible; for example, 440
+transcripts were differentially expressed in the MPB group relative to
+control only at the pubertal window and GO terms related to DNA damage
+and ion transport were up- and down-regulated, respectively.Conclusions:
+Exposure to common EDs at levels comparable to human exposure resulted in
+measurable changes in mammary transcriptome and reveal novel mechanisms
+of ED action in mammary development. Findings from our study highlight
+the importance of taking into account the timing of exposure when
+studying the relationship between environment and disease.
+

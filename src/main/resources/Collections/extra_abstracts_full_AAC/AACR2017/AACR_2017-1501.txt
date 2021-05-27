@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Sideroflexin4: A novel regulator of iron metabolism in ovarian
+cancer.
+
+
+The five year survival rate for women with ovarian cancer is 9-34%. This
+high mortality is due to late stage diagnosis, marginally effective
+treatment and frequent disease recurrence. Alterations in metabolism have
+been widely recognized as an important hallmark of cancer. Metabolism of
+the micronutrient iron is significantly altered in many cancers,
+including ovarian cancers. The expression of genes governing iron
+transport (TFR1 and FPN), iron storage (FTL and FTH) and iron regulation
+(IRP1 and IRP2) are significantly altered in ovarian cancer compared to
+normal ovarian epithelial cells, resulting in higher intratumoral iron
+retention. However, specific pathways of intracellular iron utilization
+that are altered in cancer cells, and the functional consequences of
+disrupting these pathways, remain poorly understood.
+
+To identify pathways of iron utilization that are perturbed in ovarian
+cancer, we analyzed the expression of genes involved in iron metabolism
+using a publicly available microarray database of ovarian cancer and
+normal oviduct (GSE69428). We observed that sideroflexin4 (SFXN4), an
+inner mitochondrial membrane protein that is essential for mitochondrial
+respiratory homeostasis, was significantly upregulated (p= 0.002) in
+ovarian cancer patient samples. We screened several ovarian cancer cell
+lines and observed that SFXN4 was similarly up-regulated both at the mRNA
+and protein level when compared to normal human ovarian surface
+epithelial cells.
+
+To test the role of SFXN4 in ovarian cancer cells we performed knockdown
+and overexpression studies. Knockdown of SFXN4 induced S and G2-phase
+cell cycle arrest and reduced the ability of MDAH2774 and SKOV3 ovarian
+cancer cells to form colonies. Further investigation revealed that
+modulation of SFXN4 alters mitochondrial respiration by affecting
+iron-sulfur cluster biogenesis. Thus, knock-out cells exhibited impaired
+respiratory activity and a phenotype similar to cells with defects in
+iron-sulfur cluster biogenesis, including increased IRP-IRE binding and a
+decrease in IRP1/ACO1 aconitase activity. Furthermore, SFXN4 knock-out
+decreased the activity of iron-sulfur cluster-containing enzymes such as
+mitochondrial aconitase and succinate dehydrogenase.
+
+Based on these observations, we postulate that SFXN4 acts as a molecular
+mediator that channels the excess iron present in ovarian cancer cells to
+iron-sulfur cluster-dependent metabolic pathways that favor growth and
+metastasis. SFXN4 may be a potential druggable target in ovarian cancer.
+
+

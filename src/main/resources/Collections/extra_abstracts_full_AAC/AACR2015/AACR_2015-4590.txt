@@ -1,0 +1,65 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Polymorphisms in cell-cycle related genes modify the effect of
+NSAIDs on the risk of colorectal cancer
+
+
+The risk of colorectal cancer (CRC) is determined by the interplay of
+genetic and environmental factors. The aim of this study was to identify
+the association between polymorphisms in cell-cycle related genes and
+risk of colorectal cancer, and to evaluate the interaction with
+non-steroidal anti-inflammatory drug (NSAID) use.Patients with incident
+CRC were recruited in the framework of DACHS, a German population based
+case-control study. Altogether, 1756 cases and 1781 controls were
+genotyped for 223 candidate or tagging SNPs in 30 cell-cycle related
+genes using the Illumina GoldenGate Assay. The associations between
+polymorphisms and the risk of colorectal cancer were assessed with
+multivariate logistic regression. Effect modification by NSAIDs (use
+>1/month for >1 year) was tested by using a multiplicative interaction
+term. Haplotype analysis was performed using the haplo.stats R
+package.None of the studied SNPs were significantly associated with CRC
+after multiple test correction. NSAID use lowered the risk of colorectal
+cancer with an odds ratio (OR) of 0.59 (Confidence interval, CI:
+0.51-0.69, p = 9.58*10-11). Several polymorphisms in and near
+cyclin-dependent kinase 1 (CDK1) and cyclin-dependent kinase 2 (CDK2)
+showed interaction with NSAID use. However, only one signal remained
+significant after FDR correction; the homozygous wild genotype (GG) of
+rs2069408 neutralizes the protective effect of NSAID use (interaction
+pThe risk of colorectal cancer (CRC) is determined by the interplay of
+genetic and environmental factors. The aim of this study was to identify
+the association between polymorphisms in cell-cycle related genes and
+risk of colorectal cancer, and to evaluate the interaction with
+non-steroidal anti-inflammatory drug (NSAID) use.Patients with incident
+CRC were recruited in the framework of DACHS, a German population based
+case-control study. Altogether, 1756 cases and 1781 controls were
+genotyped for 223 candidate or tagging SNPs in 30 cell-cycle related
+genes using the Illumina GoldenGate Assay. The associations between
+polymorphisms and the risk of colorectal cancer were assessed with
+multivariate logistic regression. Effect modification by NSAIDs (use
+>1/month for >1 year) was tested by using a multiplicative interaction
+term. Haplotype analysis was performed using the haplo.stats R
+package.None of the studied SNPs were significantly associated with CRC
+after multiple test correction. NSAID use lowered the risk of colorectal
+cancer with an odds ratio (OR) of 0.59 (Confidence interval, CI:
+0.51-0.69, p = 9.58*10-11). Several polymorphisms in and near
+cyclin-dependent kinase 1 (CDK1) and cyclin-dependent kinase 2 (CDK2)
+showed interaction with NSAID use. However, only one signal remained
+significant after FDR correction; the homozygous wild genotype (GG) of
+rs2069408 neutralizes the protective effect of NSAID use (interaction
+p<0.001, FDR q = 0.018). The effect of NSAID use on CRC risk according
+the rs2069408 genotypes were the following (OR, 95%CI): 0.82 (0.65-1.02)
+for GG, 0.51 (0.42-0.61) for GA and 0.31 (0.22-0.45) for AA genotypes.
+Although non-significant after multiple test correction, interactions
+with NSAID use was observed at the rs4134950 polymorphism of the E2F3
+gene (interaction p = 0.003, FDR q = 0.152) and at rs17187428
+(interaction p = 0.004, FDR q = 0.164) and rs773108 (interaction p =
+0.005, FDR q = 0.166) in MYC. The haplotype analysis revealed six
+haplotype blocks in and near the genes E2F3, CDK2, CDK1, CDK6 and MYC
+that showed significant interaction with NSAID use regarding the risk of
+colorectal cancer.A possible mechanism of the interaction between NSAIDs
+and cell-cycle genes could be mediated via the cell-cycle related effects
+of MYC, the expression of which is regulated by the Wnt/-catenin pathway.
+This pathway plays a central role in colorectal cancer and was previously
+found to be inhibited by NSAIDs. The analyses of additional SNPs are
+ongoing to better understand the mechanism of the interaction between
+NSAID use and cell-cycle related genes.
+

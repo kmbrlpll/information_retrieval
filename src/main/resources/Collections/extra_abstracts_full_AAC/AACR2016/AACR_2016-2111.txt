@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Mitogen-activated protein kinase-driven Sprouty2 expression
+mediates resistance to receptor tyrosine kinase-targeted therapeutics in
+glioblastoma cells
+
+
+The therapeutic efficacy of inhibitors of oncogenic kinases in
+glioblastoma multiforme (GBM) has been disappointing to date. In
+glioblastoma and other malignancies, resistance to targeted therapeutics
+can arise through dynamic rewiring of cell signaling pathways responsible
+for tumorigenesis and survival. Here, we identify one such signaling
+rewiring process in glioblastoma cells that promotes expression of
+Sprouty2 (SPRY2). SPRY2 expression is of interest because we recently
+identified SPRY2 as a driver of glioblastoma cell and tumor proliferation
+and resistance to kinase inhibitors. Specifically, we found that SPRY2
+depletion reduced the ability of glioblastoma cells to form colonies in
+soft agar, to form subcutaneous tumors in mice, and to resist
+co-inhibition of the EGFR and MET receptor tyrosine kinases. In the
+present study we found that, in a panel of glioblastoma cell lines, SPRY2
+expression was initially reduced in response to inhibition of EGFR and
+MET. However, at later time points (24-48 hr after receptor inhibition)
+resurgent SPRY2 expression was observed even as EGFR and MET
+phosphorylation remained suppressed. To identify regulators responsible
+for resurgent SPRY2 expression, we undertook a quantitative systems
+biology approach based on partial least squares regression (PLSR)
+modeling wherein the phosphorylation states of multiple signaling
+pathways known to be regulated by EGFR and MET were measured at six time
+points during the 48 hrs after treatment of cells with EGFR and MET
+inhibitors. The PLSR model identified late stage (48 hr) phosphorylation
+of extracellular signal-regulated kinase (ERK) as having a role in
+cellular resistance to the inhibitors distinct from ERK phosphorylation
+at all other times. Inspection of the experimental data revealed that
+phosphorylated ERK, which was initially suppressed in response to EGFR
+and MET inhibition, also displayed a resurgence that paralleled the trend
+in SPRY2 expression. This correlation between ERK phosphorylation and
+SPRY2 expression is consistent with the documented ability of ERK to
+regulate SPRY2 expression transcriptionally. The importance of resurgent
+ERK phosphorylation was confirmed in experiments showing that its
+suppression through the use of a MEK inhibitor prevented resurgent SPRY2
+expression and augmented cell death in response to EGFR and MET
+inhibitors. We hypothesize that resurgent ERK phosphorylation and
+resultant SPRY2 expression occur due to the ability of glioblastoma cells
+to activate receptor tyrosine kinases other than EGFR and MET in response
+to inhibition of those receptors. Antibody microarray experiments have
+provided some initial clues about the identity of those receptors, and
+experiments are ongoing to validate those results.
+

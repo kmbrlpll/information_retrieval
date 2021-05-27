@@ -1,0 +1,42 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Transcriptome and pathway analysis identifies IRF1 as a predictor
+of progression free and overall survival in ovarian carcinoma
+
+
+Background: Epithelial Ovarian Cancer (EOC) is the most lethal female
+reproductive tract malignancy with nearly 200,000 new cases and > 125,000
+deaths attributable to the disease each year worldwide. Most patients
+present with advanced stage disease and the cornerstone of treatment is
+surgical debulking followed by platinum-based chemotherapy. The major
+contributor to the high fatality-to-case ratio is chemoresistant disease.
+In fact, while 80% of patients have a complete clinical response to their
+primary therapy, the majority will die from disease recurrence within 5
+years. The underlying tumor biology that distinguishes between platinum
+sensitivity and resistance is largely unknown. We sought to identify
+candidate biomarkers/pathways which could distinguish between these two
+states and test their prognostic ability.Methods: Ovarian tumor samples
+from patients with primary high-grade serous ovarian cancer were divided
+into two groups based on response to platinum status. Transcriptome
+analysis was performed using RNA-Seq and Ingenuity Pathway Analysis (IPA)
+was used to explore differences between these two sets of samples.
+Findings were validated using qtRT-PCR. Survival analysis was performed
+in two independent sample sets. The largest set consisted of the gene
+expression data and relapse free and overall survival information
+downloaded from GEO (Affymetrix microarrays only), EGA and TCGA,
+representing more than 1400 samples.Results: IPA highlighted that
+Interferon regulatory factor 1 (IRF1) was differentially expressed
+between the two clinical groups and that IRF1 expression was upregulated
+in the platinum-sensitive group. Validation studies performed on 31
+patient tumor samples demonstrated a significant difference in PFS
+between the low and high IRF1 groups (P = 0.027) as well as a distinct
+difference in the probability of recurrence. High levels of IRF1 strongly
+correlated with increased overall survival in late-stage disease
+regardless of debulking status and grade in those patients who received
+platinum therapy.Conclusion: The goal of this study was to identify
+candidate genes/pathways which might play a role in distinguishing
+between different platinum states of EOC. Using an RNA-Seq / pathway
+based approach, we identified differential levels of IRF1 as a predictor
+of both PFS and OS in patients treated with platinum agents - the gold
+standard of treatment. Future studies will evaluate the clinical utility
+of these findings.
+

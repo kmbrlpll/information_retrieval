@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Dose-dependent effects of bevacizumab on human HCC xenografts
+
+
+Introduction: Bevacizumab has demonstrated positive clinical treatment
+effect and is currently approved for treatment of colorectal carcinoma
+and NSCLC in combination with standard chemotherapy. Preclinical studies
+have shown decrease in microvascular density. We aim to determine if
+DCE-MRI is a sensitive enough technique to detect changes in fractional
+intravascular volume after administration of a single dose of
+bevacizumab. Materials and Methods: Mice: Twenty-seven male BALB/c mice
+(6 weeks old, 24 2g) formed the study population & were under 1-2 %
+isoflurane during the scanning. They were implanted with human-derived
+HCC xenograft line, sensitive to bevacizumab therapy. Two dose levels
+were investigated: low dose (n = 4) at 1 mg/kg and high dose (n=8) at 10
+mg/kg. Mice were scanned at baseline, day 1 and 5 after therapy. Fifteen
+control mice were similarly imaged after receiving omalizumab, a human
+anti-IgE antibody, at 10 mg/kg. Tumors were sectioned and stained
+immunohistochemically to identify CD34 for quantification of MVD.
+DCE-MRI: MRI was performed on a 7T scanner (Bruker ClinScan, Bruker
+BioSpin MRI GmbH, Germany). A 3D VIBE sequence was used with following
+parameters: TR = 3.04 ms, TE = 1.23 ms, FOV = 36 36 mm, 128 128 matrix, 8
+slices with thickness of 1 mm, & temporal resolution 2 s. Five sets of
+baseline images were acquired with = 6 & 14. It was followed by a dynamic
+sequence of 130 sets of images ( = 14). A dose of 100 L of Gd-DOTA
+(Dotarem, Guerbet SA, France) at 1 mmol/kg was injected through the tail
+vein after the first set of dynamic images. Data Processing: Region of
+interests corresponding to the xenograft and major artery were manually
+outlined. Blood volume was derived from the standard two-compartment
+model. Results: Baseline blood volume for the control group was 7.32 3.47
+%. The values were 9.67 1.72 % for the group treated with bevacizumab 1
+mg/kg and 10.02 3.85 % for the group dosed with bevacizumab 10 mg/kg. A
+reduction of 52.69 24.77 % in blood volume at Day 1 and 75.25 12.58 % at
+Day 5 was observed in the higher dose group, while a reduction of 6.10
+31.86 % at Day 1 and 56.99 9.18 % at Day 5 was observed in the lower dose
+group. An increase of 29.31 66.84 % at Day 1 was observed in the control
+group. There is a good correlation between percentage of MVD derived by
+CD34 staining with percentage of blood volume derived by the
+two-compartment model (r = 0.806, p = 0.0002). Conclusion: The results
+showed that the effects of bevacizumab are dose-related. A more gradual
+drop of blood volume was observed in group treated with bevacizumab 1
+mg/kg. On the other hand, a steep and immediate drop of blood volume was
+observed in group treated with bevacizumab 10 mg/kg. The results
+suggested potential of DCE-MRI as a sensitive biomarker of MVD and as a
+reliable non-destructive testing method for time course observation of
+MVD changes in animals. This facilitates translation and clinical
+application to early time points after anti-angiogenic therapy.
+

@@ -1,0 +1,39 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Discovery of biomarkers from highly enriched prostate cancer
+microparticles for prognostication of prostate cancer
+
+
+Prostate cancer microparticles (PCMPs) are essentially fragments of tumor
+cells that are present in various bodily fluids such as plasma and urine.
+By using nanoscale flow cytometry, multiple biomarkers can be assessed on
+PCMPs in patient plasma, a convenient fluid biopsy for prostate cancer
+(PCa). Discovering biomarkers specific for metastatic PCMPs would
+establish a non-invasive fluid biopsy for detecting the earliest onset of
+metastatic disease for patients post-prostatectomy. Discovery of
+biomarkers specific to Gleason score 6 (3+3) and 8 (4+4) lesions that are
+decorated on the surface of PCMPs would help establish a non-invasvie
+fluid biopsy for tumor upstaging (i.e., Gleason 6 to 7) of patients
+placed on active surveillance who have deferred prostatectomy. We
+hypothesize that biomarkers specific for metastatic PCMPs or Gleason
+Score-specific PCMPs can only be discovered via proteomics analysis on
+highly purified PCMPs from plasmas which have minimal levels of
+non-target microparticles and plasma proteins. To do this, plasmas were
+incubated with biotinylated anti-PSMA mAb and PSMA+ve microparticles were
+isolated from plasma by using a magnetic column after several
+purification runs. Eluted samples were then submitted to nanoscale flow
+cytometry in which elution fractions that exhibited minimal non-target
+microparticle concentrations (5 ng/mL, Gleason Score 3+3) and metastatic
+(N=7, confirmed bone metastases, PSA>10 ng/mL, Gleason 4+4) were
+isolated, evaluated and submitted for iTRAQ labeling, high pH reversed
+phase fractionation and LC-MS/MS analysis. All data was analyzed using
+Proteome Discoverer 1.3 and MASCOT v2.3 software. Mass spectometry
+analysis revealed 8 proteins significantly upregulated and 5 proteins
+downregulated in the majority of metastatic plasma samples compared to
+localized plasma samples. Data was normalized to albumin levels by
+western blot and mass spectrometry. Based on these results, we have
+identified 8 proteins that may be specific for a subpopulation of PCMPs
+from metastatic PCa patients. Out of these, 6 may be candidates for flow
+cytometry because they are membrane-bound or are cytoskeletal elements
+potentially exposed to the extracellular space (CLIC1, PVR, YWHAE, KRT16,
+K1C10, KRT2).
+

@@ -1,0 +1,43 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Notch1 affects ABCC1-mediated drug efflux and drug sensitivity in
+MCF7 breast cancer cells
+
+
+Development of multidrug resistance is a major impediment to the
+successful treatment of cancer. Although many cellular mechanisms are
+involved in multidrug resistant cancers, overexpression of ATP-binding
+cassette (ABC) membrane transporters represents one of the main
+determinants of the multidrug resistance phenotype. We have previously
+demonstrated a positive correlation of expression of intracellular Notch1
+(NIC) and the ABCC1 transporter; we found that NIC contributes to
+multidrug resistance by upregulation of ABCC1 (S Cho, M Lu et al, PNAS,
+in press, 2011). In order to determine whether there is a functional
+relationship between the two proteins, we performed drug efflux
+experiments. We treated drug-sensitive MCF-7 and multidrug resistant
+(MDR) MCF-7/VP breast cancer cells with the anticancer drug doxorubicin
+and measured the amount of drug efflux by flow cytometry over time. The
+MDR MCF-7/VP cells, which have high levels of activated Notch1 and ABCC1
+proteins, exhibited increased doxorubicin efflux, compared to the
+drug-sensitive MCF-7 cells. Since -secretase (GS) is required for the
+processing of Notch into its active form, NIC, we blocked GS activity
+using a GS inhibitor, DAPT, in MCF-7/VP cells and assayed drug efflux
+from them. We found that inhibition of Notch signaling by DAPT blocks
+ABCC1 mediated drug efflux. To better understand the connection between
+Notch, ABCC1, and drug efflux, we compared drug efflux in MCF-7 cells
+stably overexpressing NIC (ICN1-c4, which also overexpress ABCC1), and
+the empty vector control MCF-7 cells (pcDNA3). As expected, we saw
+increased drug efflux in the ICN1-c4 cells compared to MCF7/pcDNA3 cells.
+To establish whether the observed drug efflux is ABCC1-specific, we
+treated ICN1-c4 cells with either the ABCC1-specific inhibitors reversan
+or probenecid, or with an ABCC1 siRNA to knockdown ABCC1 expression, and
+then examined these cells for changes in drug efflux. We found that
+inhibition of ABCC1, by reducing ABCC1 activity or levels in the presence
+of activated Notch1, blocks drug efflux from ICN1-c4 cells. In addition,
+we also found that the ABCC1 inhibitor reversan sensitizes ICN1-c4 cells
+to doxorubicin, and knockdown of ABCC1 reverses the resistance of ICN1-c4
+cells to doxorubicin. These results strongly support the idea that Notch1
+exerts its effect on ABCC1-mediated drug efflux to a large extent through
+its induction of ABCC1. Overall, our results reveal a novel functional
+relationship between expression of Notch and ABCC1. (Supported in part by
+CA40570 [to WTB] and in part by UIC.)
+

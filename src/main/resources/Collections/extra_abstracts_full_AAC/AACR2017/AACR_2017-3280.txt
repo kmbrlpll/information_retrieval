@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Associations between ALDH1A1 polymorphisms, alcohol consumption,
+and mortality among Hispanic and non-Hispanic White women diagnosed with
+breast cancer: The Breast Cancer Health Disparities Study.
+
+
+ALDH1A1 is a marker of normal tissue stem cells and cancer stem cells,
+where it is involved in self-renewal, differentiation and
+self-protection. ALDH1A1 is also associated with alcohol sensitivity and
+dependence, and functions in the detoxification of acetaldehyde. Few
+epidemiological studies have examined the association between ALDH1A1 and
+mortality among women with breast cancer (BC). To date, none of these
+studies have included Hispanic women or evaluated the modifying effect of
+alcohol consumption.
+
+Using data from the Breast Cancer Health Disparities Study, we evaluated
+the associations between nine SNPs of ALDH1A1 (rs348481, rs168351,
+rs1888202, rs63319, rs722921, rs348461, rs348463, rs7027604, rs1424482)
+and overall mortality among 1134 Hispanic and 1160 non-Hispanic white
+(NHW) women diagnosed with incident invasive BC. Demographic and
+lifestyle factors were collected via in-person interviews. Modes of
+inheritance were considered for each SNP accordingly using their
+genotypes. Multivariate Cox proportional hazard regression models were
+used to calculate hazard ratios (HRs) and 95% confidence interval (CIs).
+Models were adjusted for percentage of Native American (NA) ancestry, BC
+summary stage, and study site. To detect effect modification, interaction
+terms were created between percentage of NA ancestry (low ≤0.28 versus
+high >0.28), alcohol consumption (ever versus never) and the SNPs. The
+likelihood ratio test was used to evaluate whether the interaction terms
+were significant. The Bonferroni correction was used to adjust for
+multiple comparisons.
+
+After a median follow-up time of 11 years from BC diagnosis to death, a
+total of 542 deaths occurred. The following four SNPs were significantly
+associated with overall mortality: rs1424482 (HRCC =1.33; 95% CI
+1.04-1.70), rs63319 (HRAA =1.30; 95% CI 1.06-1.60), rs7027604 (HRAA
+=1.37; 95% CI 1.11-1.70), and rs722921 (HRTA/AA =0.78; 95% CI 0.64-0.96).
+However, only rs7027604 remained significant after adjustment for
+multiple comparisons (Padj=0.035). Among women with low NA ancestry,
+rs63319 significantly increased risk of mortality (HRAA= 1.55; 95% CI
+1.20-1.99), while a non-significant inverse association was observed
+among women of high NA ancestry. Among ever drinkers, rs1888202
+significantly decreased risk of mortality (HRCG/GG=0.62; 95%CI
+0.45-0.85), while a non-significant inverse association was observed
+among non-drinkers. The adjusted P-values for these interactions were not
+significant.
+
+This study provides evidence that rs7027604 is associated with worse
+prognosis after BC diagnosis among Hispanic and NHW women. Future BC
+survival studies examining the relationship between ALDH1A1 and mortality
+should also explore the modifying effects of alcohol consumption with
+rs1888202 and NA ancestry with rs63319.
+
+

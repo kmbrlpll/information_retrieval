@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: ITD Assembler: An algorithm for internal tandem duplication
+discovery from short-read sequencing data
+
+
+Tandem duplication of coding sequence is an important mechanism of
+somatic mutation capable of activating oncogenes such as fms-related
+tyrosine kinase 3 (FLT3) as well as the potential for underlying
+constitutional or germline disease. Detection of internal tandem
+duplication (ITD) in short-read sequencing data remains challenging due
+to deficiencies in short-read alignment where reads carrying signatures
+of ITD are often unmapped. Assembly based approaches collapse repetitive
+sequences, resulting in reduced or lost genomic complexity. The majority
+of structural variation detection tools are limited to finding insertions
+that are contained entirely within individual read alignments, and are
+unable to detect read-spanning duplications. Tools designed to detect
+large structural variation from paired-end reads that map discordantly
+based on expected fragment size and orientation do not provide the
+precision needed to detect ITDs. Only tools that consider the
+characteristic alignment features that signal the presence of ITDs will
+be able to detect them; these alignment features include: an excess of
+reads with unaligned, soft-clipped bases, read pairs where one end is
+unmapped located near the site of insertion, and read pairs where both
+ends are unmapped.We introduce ITD Assembler, a novel approach that
+searches all unmapped reads from exome capture or whole genome sequencing
+data to identify duplications. From the entire set of unmapped reads plus
+subset of mapped reads harboring soft-clipped bases, de Bruijn graph
+assembly is applied to select reads that form cycles, indicative of
+duplicated sequence structures. Reads from de Bruijn graph cycles are
+then assembled using an Overlap Layout Consensus (OLC) methodology
+thereby alleviating the collapse of repeat sequences affecting de Bruijn
+graph assembly approaches. Resulting OLC assembled contigs are locally
+aligned to the reference sequence to annotate the position of ITDs.ITD
+Assembler was run on The Cancer Genome Atlas (TCGA) acute myeloid
+leukemia (AML) dataset, and FLT3-ITD detection rates were compared
+against orthogonal algorithms. ITD Assembler identified the highest
+percentage of TCGA FLT3-ITDs, reported significantly higher allele
+fractions, and discovered additional ITDs in the KIT, CEBPA and WT1
+cancer genes.
+

@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Chimeric antigen receptor macrophages (CARMA) for adoptive
+cellular immunotherapy of solid tumors.
+
+
+Chimeric antigen receptor (CAR) T cell immunotherapy has demonstrated
+profound results in hematologic malignancies but clinical efficacy in the
+solid tumor setting has not been observed. Barriers to T cell entry and
+function may partially explain this observation. As solid tumors actively
+recruit myeloid cells, we hypothesized that macrophages have the
+potential to be a powerful cellular immunotherapeutic agent in this
+setting if properly activated and redirected. We here describe the
+development of CAR macrophages (CARMA), demonstrating the feasibility,
+mechanism, and efficacy of this platform. To examine the function of CARs
+in macrophages, first generation anti-CD19, anti-mesothelin, or anti-HER2
+CARs with a CD3ζ intracellular domain were introduced into the THP1
+macrophage model. In vitro function was assessed via quantitative
+phagocytosis and luciferase-based specific killing assays. CARMA
+selectively phagocytosed and cleared cognate antigen-bearing tumor cells.
+To demonstrate the requirement for CAR-mediated intracellular signaling
+for activity, a CD3ζ-null CAR construct was tested in vitro. The
+deletion of CD3ζ significantly reduced the phagocytic and killing
+capacity (p70% CAR expression). Ad5f35 transduction polarized human
+macrophages toward a durable immunostimulatory M1 phenotype and rendered
+CARMA resistant to subversion toward the immunosuppressive M2 phenotype,
+as defined by surface markers and metabolomics. CARMA enhanced the
+proliferative capacity of CD8+ T cells in phytohemagglutinin activation
+assays and secreted factors that activated by-stander macrophages.
+Primary human anti-HER2 CARMA demonstrated targeted phagocytosis and
+killing of HER2 expressing ovarian and breast cancer cell lines, and
+exhibited a six-fold higher luciferase-based killing capacity of SKOV3
+cells compared to trastuzumab in vitro (p=0.002). Anti-HER2 CARMA was
+evaluated in vivo in an intraperitoneal (IP) SKOV3 ovarian cancer
+xenograft model. Mice that received IP CARMA had a decrease in tumor
+burden of approximately two orders of magnitude and had a 30-day survival
+benefit relative to untreated or control macrophage treated mice
+(p=0.018). In a systemically disseminated SKOV3 model, a single dose of
+IV CARMA led to a durable anti-tumor response (38-fold reduction relative
+to control on day 31 post-treatment; p=0.016) Lastly, we demonstrated
+that the blockade of the anti-phagocytic CD47/SIRPα axis enhanced the
+phagocytic capacity of CARMA. In summary, we here demonstrate that human
+macrophages engineered with a CAR exhibit targeted anti-tumor function in
+both in vitro and in vivo preclinical models. This novel cellular
+immunotherapeutic approach has a clear translational potential for the
+treatment of solid tumors.
+
+

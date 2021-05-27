@@ -1,0 +1,76 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Population pharmacokinetic model of ibrutinib, a Bruton's tyrosine
+kinase inhibitor, for the treatment of B-cell malignancies
+
+
+Chronic lymphocytic leukemia (CLL) and mantle cell lymphoma (MCL) are
+B-cell malignancies with initial high response rate to
+chemoimmunotherapy, but are largely considered incurable. Ibrutinib
+(PCI-32765), an oral Bruton's tyrosine kinase inhibitor recently approved
+to treat MCL, is under development for other B-cell malignancies. We
+developed a population pharmacokinetic (PK) model for describing data
+collected to date in clinical trials with ibrutinib.Ibrutinib plasma data
+were available from 3 clinical trials: 1) a phase 1 dose-escalation study
+in recurrent B-cell malignancies (doses: 1.25-12.5 mg/kg and 560 mg
+fixed); 2) a phase 1b/2 dose-finding study in CLL (doses: 420 and 840
+mg); 3) an open-label, phase 2, fixed-dose study in MCL (dose: 560 mg).
+Overall, 3477 observations were collected in 245 patients following
+single and repeated daily dosing on different treatment days. A
+2-compartment model with sequential zero to first order absorption and
+first order elimination was implemented. Analyses were performed with a
+log-transform-both-sides approach. Additive and exponential models were
+used to describe residual and inter-individual variability, respectively.
+The first-order conditional estimation method was implemented using
+NONMEM v 7.1.A linear model constructed with data collected following
+single and repeated doses of ibrutinib at different dose levels
+demonstrated that the PK was dose and time independent. Ibrutinib was
+rapidly absorbed and was characterized by a high oral plasma clearance
+(1000 L/h with between-subject variability of 21.9%; this, for a dose of
+560 mg, would lead to an average steady state concentration of 22 ng/mL,
+ie, 50 nM) and a high apparent volume of distribution at steady state
+(10,000 L). Though both values are confounded by absolute
+bioavailability, these values suggest that ibrutinib clearance and volume
+are high. The half-lives of distribution and terminal phases were
+estimated to be Chronic lymphocytic leukemia (CLL) and mantle cell
+lymphoma (MCL) are B-cell malignancies with initial high response rate to
+chemoimmunotherapy, but are largely considered incurable. Ibrutinib
+(PCI-32765), an oral Bruton's tyrosine kinase inhibitor recently approved
+to treat MCL, is under development for other B-cell malignancies. We
+developed a population pharmacokinetic (PK) model for describing data
+collected to date in clinical trials with ibrutinib.Ibrutinib plasma data
+were available from 3 clinical trials: 1) a phase 1 dose-escalation study
+in recurrent B-cell malignancies (doses: 1.25-12.5 mg/kg and 560 mg
+fixed); 2) a phase 1b/2 dose-finding study in CLL (doses: 420 and 840
+mg); 3) an open-label, phase 2, fixed-dose study in MCL (dose: 560 mg).
+Overall, 3477 observations were collected in 245 patients following
+single and repeated daily dosing on different treatment days. A
+2-compartment model with sequential zero to first order absorption and
+first order elimination was implemented. Analyses were performed with a
+log-transform-both-sides approach. Additive and exponential models were
+used to describe residual and inter-individual variability, respectively.
+The first-order conditional estimation method was implemented using
+NONMEM v 7.1.A linear model constructed with data collected following
+single and repeated doses of ibrutinib at different dose levels
+demonstrated that the PK was dose and time independent. Ibrutinib was
+rapidly absorbed and was characterized by a high oral plasma clearance
+(1000 L/h with between-subject variability of 21.9%; this, for a dose of
+560 mg, would lead to an average steady state concentration of 22 ng/mL,
+ie, 50 nM) and a high apparent volume of distribution at steady state
+(10,000 L). Though both values are confounded by absolute
+bioavailability, these values suggest that ibrutinib clearance and volume
+are high. The half-lives of distribution and terminal phases were
+estimated to be <1 h and 14 h, respectively. Administration of ibrutinib
+in fasting state was characterized by a 67% relative bioavailability
+compared to both meal conditions used in the clinical trials and
+administration after a high-fat meal. The PK parameters were not found to
+be significantly different between studies and clinical indications. Body
+weight and coadministration of antacids had a marginal effect on volume
+of distribution and duration of absorption processes, respectively. No
+significant effect of covariates such as age, gender, patient
+pretreatment, or clinical chemistry data was found. Population parameters
+and inter-individual variability were estimated with good precision. The
+model provided satisfactory goodness of fit, individual fittings, and
+visual predictive checks.In conclusion, the proposed population PK model
+was able to accommodate the plasma concentration-time profiles of
+ibrutinib across various trials.
+

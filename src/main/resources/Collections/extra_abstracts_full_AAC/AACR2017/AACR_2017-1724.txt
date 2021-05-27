@@ -1,0 +1,57 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genomic profiling of Vortex-enriched CTCs using whole genome
+amplification and multiplex PCR-based targeted next generation sequencing.
+
+
+Background: Genomic characterization of circulating tumor cells (CTCs)
+provides insights into cancer genetic changes, and might be utilized for
+cancer prognosis, diagnosis, as well as monitoring of therapeutic
+efficacy. Targeted Panel Next Generation Sequencing (NGS) enables
+analyzing CTC genetic variants of a focused gene panel at a relatively
+lower cost1. However, CTCs are rare, often resulting in very limited DNA
+quantities available that require whole genome amplification (WGA). In
+previous studies, we introduced the Vortex technology, a platform
+enabling label-free enrichment of CTCs from blood samples of colorectal
+cancer (CRC) patients and their use for genomic assays downstream2. In
+this study, we developed a simple and efficient NGS workflow for CTC
+samples collected by this technology.
+
+Method: An optimized workflow using the Qiagen GeneRead DNAseq targeted
+panel and Illumina MiSeq NGS was first verified on HCT116 CRC cell line
+before being applied on patient CTCs. For patient blood samples, CTCs
+were collected with the Vortex technology, immunostained (CK, Vimentin,
+CD45) and enumerated. Matched white blood cell (WBC) DNA was included to
+subtract germline background. Fresh frozen liver metastasis tissue was
+collected and analyzed using the same NGS workflow. DNA from CTCs was
+extracted and amplified using Qiagen REPLI-g single cell WGA kit.
+Mutation detection on the WGA amplified DNA was performed using the
+GeneRead DNAseq CRC targeted panel of 38 genes and MiSeq sequencing. The
+sequencing data were analyzed by QIAGEN NGS Data Analysis Web Portal and
+Ingenuity Variant Analysis software.
+
+Results: The Vortex technology was validated for the capture of CTCs from
+CRC patients. REPLI-g performed a uniform, unbiased amplification on
+fresh rare cells with a coverage of 97.7%, which enabled further targeted
+panel NGS. Blood from 3 CRC patients (P1, P2, P3) and 2 healthy donors
+(HD1, HD2) was processed with Vortex platform. Less than 1 CTCs/mL blood
+were found in HD1 and HD2. P1 and P2 had 66 and 20 CTCs/ mL of blood
+respectively, with many vimentin positive CTC clusters. P3 had 2 CTCs/mL
+of blood. No somatic mutation was found in healthy donors. Somatic
+variants were only detected in the CTCs from patient samples that were
+not present in matched germline WBCs. For P1, more mutations were found
+in the CTCs than in the liver metastasis while it was the opposite for P2
+and P3.
+
+Conclusion: For each patient, variants in CTCs and germline WBCs were
+analyzed from one blood sample using an optimized targeted NGS workflow
+and compared to liver mets. Our optimized workflow, using the Qiagen
+REPLIg and GeneRead DNAseq Targeted Panel NGS enabled the detection of
+CTC mutations for 38 CRC-focused genes. The inclusion of a germline WBC
+control in the workflow allowed the detection of mutations from pooled
+CTC samples collected using the Vortex technology.
+
+Altmüller J, et al. (2014). Biol Chem.
+
+Kidess-Sigal E, et al. (2016). Oncotarget.
+
+

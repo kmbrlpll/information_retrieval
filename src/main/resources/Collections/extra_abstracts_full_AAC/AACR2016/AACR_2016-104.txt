@@ -1,0 +1,38 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Investigation of genetic architecture of multiple myeloma by next
+generation sequencing
+
+
+Myeloma is a genetically heterogeneous disease and is sub-classified
+based on the presence of structural variants and genetic mutations.
+Structural variants/copy number changes are historically identified by
+traditional methods such as karyotyping and fluorescence in situ
+hybridization (FISH). Although microarray based genome wide analyses
+greatly improve the resolution of structural variation, they may be
+limited by probe density. Consequently, identification of structural
+variation may be insensitive to specific disrupted gene(s), neglecting
+the sequence complexity that might underlie these rearrangements.
+Determination of the specific breakpoints of structural variants at the
+nucleotide level is required for a better understanding of the genetic
+causes and to enhance the development of therapeutics for patients. The
+emergence of Next-Generation Sequencing (NGS) technology has led to the
+identification of structural variants in the genome at a higher
+resolution relative to currently used cytogenetic methods. We analyzed
+DNA extracted from a set of patients with multiple myeloma, who had
+Affymetrix SNP array (2.7 million probes) data, by whole exome sequencing
+(WES) at 100X coverage on the Illumina HiSeq platform to identify the
+full spectrum of associated genomic aberrations. Sequence data was mapped
+to the hg19 reference sequence and analyzed by various in-house developed
+and open source data analytic tools. Additionally, a custom sequence
+analysis pipeline was written to interrogate chromosomal deletions and
+translocations in these samples. Our analysis showed that 43% (6/14) of
+patients have deletions in chr17p and/or chr13q. We further confirmed
+structural variants using the Integrative Genomics Viewer (IGV). These
+data indicate the efficacy of WES for the precise determination of
+translocation and inversion breakpoints. In addition, we were able to
+identify single nucleotide variants (SNVs) and insertions/deletions
+(indels) in these samples. We then used the Ingenuity Variant Analysis
+(IGV) program to identify clinically actionable variants. These datasets
+are being further analyzed by various pathway analysis tools to define
+possible pathogenic mechanisms in multiple myeloma.
+

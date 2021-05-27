@@ -1,0 +1,27 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Engineering and mapping difficult proteins using comprehensive
+mutagenesis
+
+
+Alanine (Ala) scanning is a widely used mutagenesis approach for
+systematic evaluation of protein function, which for large targets can be
+laborious and time-consuming. We have developed a platform technology,
+Shotgun Mutagenesis, for rapid and comprehensive alanine scanning
+mutagenesis for protein mapping and engineering applications. Using this
+technology, every residue in a target protein is individually mutated,
+expressed in human cells, and assayed for desired functions. Critical
+mutations are rapidly identified using high-throughput 384-well assays
+including flow cytometry. Here we used Shotgun Mutagenesis to create
+comprehensive mutation libraries for different classes of targets
+including the GPCR CXCR4, bitter taste receptor TAS2R16 and the
+therapeutic antibody Palivizumab (Synagis). For the cancer target CXCR4,
+we identified critical residues for antibody binding (epitope mapping)
+and ligand-dependent activation (functional domain mapping). We also
+discovered TAS2R16 residues that can be altered for increased expression
+(protein optimization) and Palivizumab residues which tolerate germline
+substitutions permitting engineering of a maximally humanized antibody
+variant (antibody humanization). This platform allows comprehensive
+protein mapping and engineering of challenging targets previously
+considered prohibitively time-consuming or expensive, enabling discovery
+pathways for many untapped therapeutic targets.
+

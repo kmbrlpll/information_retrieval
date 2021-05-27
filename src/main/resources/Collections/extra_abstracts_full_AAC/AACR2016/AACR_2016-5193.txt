@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identification of molecular predictors of differential
+chemotherapy response using patient-derived xenografts
+
+
+Background: Clinical oncology trials in humans have major limitations,
+not the least of which is the inability to treat a single tumor with
+multiple drugs simultaneously to identify the most effective treatment
+options. In theory, this and other limitations can be overcome using an
+animal clinical trial platform that exploits collections of human cancer
+patient-derived xenograft (PDX) models.Clinically, breast cancers are
+divided into three distinct groups: those that express the estrogen
+hormone receptor (ER+) (which typically also express the progesterone
+hormone receptor (PR+)), those with amplified or overexpressed ErbB2
+(HER2) oncogene (HER2+), and those that express none of these three
+markers (triple negative breast cancer TNBC).Unlike ER+ and HER2+ breast
+cancers, there are currently no targeted therapies against TNBC.
+Treatment of TNBC entails surgery coupled with radio- or chemotherapy, or
+both. Chemotherapy options include Taxanes (e.g. Docetaxel, Paclitaxel),
+Anthracyclin based therapies (Adriamycin/Doxorubicin plus Cytoxan
+(cyclophosphamide) (AC), and more recently, and platinum-based agents
+(e.g. Cisplatin, Carboplatin). However, other than BRCA1/2 mutation
+status correlating with increased efficacy of platinum-based agents,
+there are currently no clinically useful predictors of differential
+treatment response among these three commonly used
+chemotherapeutics.Hypothesis: We hypothesized that a molecular predictor
+of differential chemotherapy response could be developed using human
+breast cancer patient-derived xenografts as the discovery
+platform.Materials and Methods: We tested this hypothesis in an animal
+clinical trial using 20 PDX treated with three chemotherapies vs.
+control. Molecular correlates of response were identified in RNAseq and
+proteomic data, and are being validated in a separate cohort of
+PDX.Results: We show that animal clinical trials are feasible, and can be
+conducted efficiently, using minimal staff. Further, we extend our
+previous analysis showing that treatment responses observed clinically
+are recapitulated in the PDX lines, thereby establishing clinical
+relevance of observed responses. Finally, we demonstrate that PDX show
+largely non-overlapping sensitivity to only one of the three agents
+tested, with corresponding largely non-overlapping molecular signatures
+delineating those PDX that respond to a given treatment from those that
+do not. Validation studies in newly developed PDX lines are
+ongoing.Conclusions: Together, these data suggest that PDX models should
+be useful for generating predictors of treatment response. Ultimately, if
+robust genetic, epigenetic, or molecular predictors of differential
+treatment response can be identified and applied clinically, it may be
+possible to avoid ineffective treatments, minimize exposure to cytotoxic
+agents, and ultimately increase survivorship.
+

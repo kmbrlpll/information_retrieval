@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genome-wide association study of energy intake and its
+relationship to prostate cancer.
+
+
+Background/Objectives: Previous studies suggested that high energy intake
+may increase the risk of prostate cancer. However, the mechanisms remain
+unclear. No genome-wide association studies (GWAS) have been conducted to
+detect the genetic variations in total energy intake. We aimed to
+identify genetic variants associated with total energy intake in men and
+women, and to determine the association between previously identified
+prostate cancer susceptibility loci and total energy intake.
+
+Methods: We conducted a genome-wide study using combined GWAS data from
+12,031 European-ancestry women and 6,743 European-ancestry men from the
+Nurses’ Health Study, Nurses’ Health Study II, Health Professionals
+Follow-up Study, and Physician’s Health Study. Total energy intake was
+measured through validated food-frequency questionnaires. Missing
+genotypes were imputed using MACH with 1000 Genomes Project ALL Phase I
+Integrated Release Version 3 Haplotypes as the reference panel. We
+stratified by sex and adjusted for age, weight, height, physical activity
+and three principal components accounting for subpopulation structure.
+Meta-analysis based on p-values across sex was implemented. SNP set
+analyses, including a weighted fixed-effects (Mendelian randomization,
+MR) and an unweighted random-effects approach (METASOFT), were used to
+test the association between prostate cancer risk loci and total energy
+intake using summary statistics of total energy intake from the combined
+GWAS and the summary statistics for genome-wide significant SNPs (NSNPs =
+104) from a GWAS of prostate cancer in 43,303 cases and 43,737 controls
+[Al Olama (2014) Nat Genet].
+
+Results: Three SNPs near gene ANKRD33 were genome-wide significantly (P
+Results: Three SNPs near gene ANKRD33 were genome-wide significantly (P <
+5.0×10-8) associated with the increase in total energy intake among men
+(rs10876214 [P = 5.81×10-10], rs9669605 [P = 1.46×10-8], and rs10783478
+[P = 2.42×10-8]). No significant genome-wide association was found in
+women or the meta-analysis combining men and women. SNP set analyses did
+not find a statistically significant association between established
+prostate cancer SNPs and energy intake (PMR = 0.11 and PMETASOFT = 0.09,
+respectively).
+
+Conclusions: We identified three significant SNPs near gene ANKRD33
+associated with increased total energy intake among men. Genetic alleles
+related to risk of prostate cancer were not associated with total energy
+intake. Larger GWAS studies of total energy intake are warranted to
+explore the genetic basis of energy intake, including possible
+differences between men and women, and the association between total
+energy intake, prostate cancer, and other cancers and chronic diseases.
+
+

@@ -1,0 +1,96 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Multi-omic profiling to predict response to gemcitabine/
+carboplatin (GC) plus iniparib (BSI-201) as neoadjuvant therapy for
+triple-negative (TN) and BRCA1/2 mutation-associated breast cancer using
+a pathway-based approach
+
+
+Background: TN and BRCA1-deficient breast tumors share clinicopathologic
+characteristics and are highly sensitive to DNA-damaging agents. This
+single-arm phase II study was designed to assess efficacy and safety of
+iniparib, whose mechanism of action is under investigation, in
+combination with GC in early-stage triple-negative and BRCA1/2
+mutation-associated breast cancer. Our objective was to use multi-omic
+profiling of breast tumors to identify markers associated with therapy
+response.Methods: Fresh-frozen breast tumor core biopsies were collected
+under ultrasound guidance (n=75 tumors from 74 patients (one patient with
+bilateral tumors)) prior to treatment. Tumor RNA and DNA was extracted,
+as well as matched peripheral whole blood DNA for germline comparison.
+Affymetrix U133 plus 2.0 array was used for whole genome expression
+analysis and Affymetrix Molecular Inversion Probe (MIP) was used for copy
+number variation analysis on 75 tumors. After normalization, we used the
+PARADIGM algorithm, a pathway-based approach for combining multi-omics
+data types on individual tumors.Results: We identified pathway features
+that correspond to pathologic response, assessed using the residual
+cancer burden (RCB) index. All patients were tested for BRCA germline
+mutation and 16 (22%) patients were positive. Overall, a low RCB (0,1)
+was observed in 43 (58%) patients and a high RCB (2,3) in 31 (42%)
+patients. Pathway-based analysis of these breast tumors revealed
+significant alterations in 459 of 1466 (31%) of the cancer-related
+pathways. Gene set enrichment analysis on the PARADIGM results identified
+differentially expressed pathways in tumors with RCB 0 (65 pathways at
+pBackground: TN and BRCA1-deficient breast tumors share clinicopathologic
+characteristics and are highly sensitive to DNA-damaging agents. This
+single-arm phase II study was designed to assess efficacy and safety of
+iniparib, whose mechanism of action is under investigation, in
+combination with GC in early-stage triple-negative and BRCA1/2
+mutation-associated breast cancer. Our objective was to use multi-omic
+profiling of breast tumors to identify markers associated with therapy
+response.Methods: Fresh-frozen breast tumor core biopsies were collected
+under ultrasound guidance (n=75 tumors from 74 patients (one patient with
+bilateral tumors)) prior to treatment. Tumor RNA and DNA was extracted,
+as well as matched peripheral whole blood DNA for germline comparison.
+Affymetrix U133 plus 2.0 array was used for whole genome expression
+analysis and Affymetrix Molecular Inversion Probe (MIP) was used for copy
+number variation analysis on 75 tumors. After normalization, we used the
+PARADIGM algorithm, a pathway-based approach for combining multi-omics
+data types on individual tumors.Results: We identified pathway features
+that correspond to pathologic response, assessed using the residual
+cancer burden (RCB) index. All patients were tested for BRCA germline
+mutation and 16 (22%) patients were positive. Overall, a low RCB (0,1)
+was observed in 43 (58%) patients and a high RCB (2,3) in 31 (42%)
+patients. Pathway-based analysis of these breast tumors revealed
+significant alterations in 459 of 1466 (31%) of the cancer-related
+pathways. Gene set enrichment analysis on the PARADIGM results identified
+differentially expressed pathways in tumors with RCB 0 (65 pathways at
+p<0.05) versus RCB 3 (37 pathways at pBackground: TN and BRCA1-deficient
+breast tumors share clinicopathologic characteristics and are highly
+sensitive to DNA-damaging agents. This single-arm phase II study was
+designed to assess efficacy and safety of iniparib, whose mechanism of
+action is under investigation, in combination with GC in early-stage
+triple-negative and BRCA1/2 mutation-associated breast cancer. Our
+objective was to use multi-omic profiling of breast tumors to identify
+markers associated with therapy response.Methods: Fresh-frozen breast
+tumor core biopsies were collected under ultrasound guidance (n=75 tumors
+from 74 patients (one patient with bilateral tumors)) prior to treatment.
+Tumor RNA and DNA was extracted, as well as matched peripheral whole
+blood DNA for germline comparison. Affymetrix U133 plus 2.0 array was
+used for whole genome expression analysis and Affymetrix Molecular
+Inversion Probe (MIP) was used for copy number variation analysis on 75
+tumors. After normalization, we used the PARADIGM algorithm, a
+pathway-based approach for combining multi-omics data types on individual
+tumors.Results: We identified pathway features that correspond to
+pathologic response, assessed using the residual cancer burden (RCB)
+index. All patients were tested for BRCA germline mutation and 16 (22%)
+patients were positive. Overall, a low RCB (0,1) was observed in 43 (58%)
+patients and a high RCB (2,3) in 31 (42%) patients. Pathway-based
+analysis of these breast tumors revealed significant alterations in 459
+of 1466 (31%) of the cancer-related pathways. Gene set enrichment
+analysis on the PARADIGM results identified differentially expressed
+pathways in tumors with RCB 0 (65 pathways at p<0.05) versus RCB 3 (37
+pathways at p<0.05). Tumors with complete pathologic response (RCB 0)
+were significantly enriched for immune-related pathways, including
+multiple interleukin signaling pathways. This signature appears to be
+primarily driven by increased signaling through SHC1, GRB2, PTPN6 and
+JAK2. Tumors that were least responsive (RCB 3) to therapy were enriched
+for NOTCH and WNT signaling cascades, primarily WNT1, CTBP1, CCND1 and
+APC.Conclusions: Using a pathway-based approach, predictors of pathologic
+response to GC plus iniparib were identified from pre-treatment tumor
+biopsies. Tumors with complete pathologic response were enriched for
+immune-related pathways, including interleukin signaling pathways. Least
+responsive tumors to this therapy were enriched for NOTCH and WNT
+signaling pathways. We plan to validate these findings in external
+datasets. Platinum-based therapies are under clinical investigation for
+TN and BRCA1/2-associated breast cancer and identification of response
+predictors can guide patient selection.
+

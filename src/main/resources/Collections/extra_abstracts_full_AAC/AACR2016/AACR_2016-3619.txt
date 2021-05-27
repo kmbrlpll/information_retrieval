@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Copy number estimation of cancer samples with genome, exome and
+targeted panel next generation sequencing
+
+
+Next-generation sequencing (NGS) is mainly used to obtain sequence
+variants (SNVs). However, obtaining copy number results from NGS has
+gained momentum in both research and clinical applications. While
+microarray has traditionally been the gold standard for copy number
+analysis, NGS is rapidly gaining momentum as the first line analysis for
+tumor samples. The genomic content captured may vary from batch to batch,
+where targeted regions may include the full genome, all exonic regions or
+may be limited to exonic regions in specific genes that have a clear
+diagnosis, are actionable with prescription drugs or compounds in
+clinical trials, or have known impacts on prognosis or outcome. Thus,
+obtaining copy number information from a range of NGS methods is needed.
+As a result, we have developed a method called BAM (pooled reference)
+which only requires the loading of BAM files and the NGS design file to
+generate copy number results. BAM (pooled reference) can derive copy
+number results from Whole Genome Sequencing (WGS), Whole Exome Sequencing
+(WES), and targeted panel NGS data. This method builds a reference file
+out of a pool of BAM files that are either from normal controls or from
+unrelated experimental samples, then generates copy number calls for each
+experimental sample. In combination with the VCF files that contain the
+sequence mutations, an integrated analysis of both events can be easily
+carried out. To test this algorithm, five colon adenocarcinoma whole
+exome sequencing samples were processed through the BAM (pooled
+reference) algorithm in Nexus Copy Number 8.0. GC correction schemes
+based on a range of window size and presence or absence of GC probe
+content were applied to the data and assessed for overall quality.
+Differences in overall read-depth resulted in variable sample quality
+across the cohorts, however most sample quality was adequate for copy
+number estimation and a quality threshold was assessed. Among the samples
+tested, the best quality after GC correction comes from the 50kb region
+size with or without the probes. Next, the copy number profiles of the
+TCGA COAD samples from WES and microarray were compared for accuracy.
+Using microarray results as a reference for assessing calls greater than
+5 MB, no false positive and one false negative call were observed; the
+single false negative call was attributable to low-level mosaicism in the
+tumor sample. Results indicate that relative copy number can be estimated
+and is comparable to the results achieved with microarray for the same
+targeted regions. This analysis series was then repeated using a
+secondary cohort of unrelated samples subjected to microarray and
+targeted panel NGS to validate results. The BAM (pooled reference) method
+has been tested in a variety of cancer samples. This is an ideal tool for
+copy number estimation with NGS results in cancer samples because it
+provides a way for non-pair matched analysis with genome, exome and
+targeted NGS.
+

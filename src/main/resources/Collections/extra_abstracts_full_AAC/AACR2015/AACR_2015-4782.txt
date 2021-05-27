@@ -1,0 +1,30 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Genome-wide chromatin profiling in bladder and prostate cancers
+
+
+Mutations in a few driver genes can cause cancer, and a main goal of
+cancer genome analysis has been the identification of these cancer genes.
+Recent findings, however, indicate that deregulation of enhancers can
+play a major role in carcinogenesis. In this study, we aim to understand
+how enhancer networks evolve during cancer initiation and progression and
+to identify epigenetic states that are predictive of cancer stage and
+drug response. We surveyed 15 bladder cell lines, including the T24
+lineage (T24, T24T, FL, and SL) and the UMUC3 lineage (UMUC3 and LUL2),
+and 10 prostate cancer cell lines including BPH1, DU145 and LNCap. These
+cell lines display different tumorigenic and metastatic potentials, and
+thus present a model for cancer progression and development of
+castration-resistance. DNase-seq was performed to map genome-wide
+regulatory profiles in these cells. The enhancers detected as DNase I
+hypersensitivity sites (DHSs) showed large-scale changes in the chromatin
+accessibility landscape during the acquisition of tumorigenic and
+metastatic phenotypes. Selective sets of gained or lost DHSs were
+identified. Among the changes during the T24 to T24T transition, the loss
+of DHSs was remarkable. Some of these DHSs were found near genes that are
+in the downstream response to HDACs. Induction of expression by the HDAC
+inhibitor, Na butyrate, was correlated with DNase-seq signal for these
+genes. Gene Ontology (GO) enrichment analysis also indentified a set of
+genes neighboring lost DHSs that belong to the focal adhesion class in GO
+category. This study identified a set of DHSs that were associated with
+cancer progression in bladder and prostate cancer, and the potential
+clinical application of the identified DHSs will be discussed.
+

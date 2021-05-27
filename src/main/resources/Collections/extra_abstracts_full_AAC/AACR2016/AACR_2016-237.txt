@@ -1,0 +1,38 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Enrichment of AXL-high/ MITF-low melanoma cells in the presence of
+MAPK inhibitors in vitro
+
+
+BRAF and MEK inhibitors have become a standard of care for patients with
+metastatic BRAF mutant (V600) melanoma. Despite their success, 10- 20% of
+patients exhibit intrinsic resistance and fail to respond to treatment.
+Recently, distinct transcriptional profiles have been associated with
+sensitivity to these drugs with intrinsically resistant melanomas
+exhibiting an AXL-high/ MITF-low phenotype (1). Using melanoma cell lines
+from the Cancer Cell Line Encyclopedia with matched gene expression data,
+we confirmed that AXL-high/ MITF-low cell lines had increased resistance
+to both BRAF (Dabrafenib) and MEK (Trametinib) inhibitors, either singly
+or in combination. Using flow cytometry with an AXL antibody, we observed
+that AXL-high/ MITF-low resistant cell lines frequently exhibited a high
+percentage of AXL+ cells (90%) while AXL-low/ MITF-high sensitive cell
+lines showed the opposite (5%). We hypothesized that the small percentage
+of AXL+ cells in the sensitive cell lines may be responsible for
+mechanisms of adaptive or acquired resistance (a feature that is
+frequently observed with the use of BRAF and MEK inhibitors in vitro and
+in the clinic). To explore this, we cultured sensitive cell lines in
+vitro for 5 days in the presence of combined Dabrafenib and Trametinib
+(DT) and performed flow cytometry to determine if there was a change in
+the percentage of AXL+ cells. All sensitive cell lines exhibited an
+enrichment of AXL+ cells with increasing concentrations of DT (maximum
+increase compared to DMSO control across individual cell lines ranged
+from 10% to 85%). It is unknown whether this phenomenon could be
+explained by a clonal selection or plastic epigenetic reprogramming
+process and as such, we are currently performing experiments to determine
+this. Looking to the future, identifying potential dependencies of
+AXL-low/ MITF-high melanomas will deepen our understanding of the biology
+supporting this resistant state and provide a platform for the design of
+future clinical intervention strategies in this subset of patients.1)
+Konieczkowski et al. 2014. Cancer Discovery. A melanoma cell state
+distinction influences sensitivity to MAPK pathway inhibitors.
+4(7):816-27.
+

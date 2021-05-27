@@ -1,0 +1,108 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Subtype-specific expression of small non-coding RNAs in breast
+cancer.
+
+
+We have performed a small RNA-sequencing (RNA-Seq) experiment to find
+candidate small non-coding RNAs (ncRNAs) in breast cancer (BC) for the
+identification of signatures that aid in the prediction of therapy
+responsiveness, prognosis or patient outcome. We used 195 invasive BC
+tumor and 20 benign breast tissue samples from the Kuopio Breast Cancer
+Project (KBCP) study material. KBCP material is collected from a
+genetically homogeneous population of Eastern Finland, and includes
+fresh-frozen and FFPE breast tissue samples, EDTA blood samples and
+serum, as well as comprehensive background/lifestyle information,
+clinical, treatment and follow-up data extending over 20 years. This
+well-defined material enables the identification of factors associating
+with BC risk, different stages of disease progression and outcome. Total
+RNA was extracted from the fresh-frozen BC and benign breast tissue using
+the Ambion mirVana miRNA Isolation Kit. Small RNA-Seq was performed using
+the Illumina TruSeq Small RNA Library Prep kit and the Illumina MiSeq
+next-generation sequencing instrument. Analyses were concentrated in
+PIWI-interacting RNAs (piRNAs) and other non-miRNA small ncRNAs
+(sncRNAs). Bioinformatic analysis commenced with quality control and
+preprocessing steps including read quality assessment (FastQC), adapter
+trimming (TRIMMOMATIC), and removal of e.g. ribosomal RNA reads (Bowtie).
+Preprocessed reads were aligned (Tophat) to human reference
+transcriptomes (piRNABank and GENCODE non-miRNA sncRNAs), followed by
+data conversions e.g. for visualization (samtools, IGVtools). Gene-wise
+read counts were collected using summarizeOverlaps R package, and
+statistically differentially expressed (DE) genes were identified using
+DESeq2 R package. We first compared the small RNA expression in the
+benign breast tissue with invasive BC and observed in total 635 sncRNAs
+and 94 piRNAs with differential expression (PAdjWe have performed a small
+RNA-sequencing (RNA-Seq) experiment to find candidate small non-coding
+RNAs (ncRNAs) in breast cancer (BC) for the identification of signatures
+that aid in the prediction of therapy responsiveness, prognosis or
+patient outcome. We used 195 invasive BC tumor and 20 benign breast
+tissue samples from the Kuopio Breast Cancer Project (KBCP) study
+material. KBCP material is collected from a genetically homogeneous
+population of Eastern Finland, and includes fresh-frozen and FFPE breast
+tissue samples, EDTA blood samples and serum, as well as comprehensive
+background/lifestyle information, clinical, treatment and follow-up data
+extending over 20 years. This well-defined material enables the
+identification of factors associating with BC risk, different stages of
+disease progression and outcome. Total RNA was extracted from the
+fresh-frozen BC and benign breast tissue using the Ambion mirVana miRNA
+Isolation Kit. Small RNA-Seq was performed using the Illumina TruSeq
+Small RNA Library Prep kit and the Illumina MiSeq next-generation
+sequencing instrument. Analyses were concentrated in PIWI-interacting
+RNAs (piRNAs) and other non-miRNA small ncRNAs (sncRNAs). Bioinformatic
+analysis commenced with quality control and preprocessing steps including
+read quality assessment (FastQC), adapter trimming (TRIMMOMATIC), and
+removal of e.g. ribosomal RNA reads (Bowtie). Preprocessed reads were
+aligned (Tophat) to human reference transcriptomes (piRNABank and GENCODE
+non-miRNA sncRNAs), followed by data conversions e.g. for visualization
+(samtools, IGVtools). Gene-wise read counts were collected using
+summarizeOverlaps R package, and statistically differentially expressed
+(DE) genes were identified using DESeq2 R package. We first compared the
+small RNA expression in the benign breast tissue with invasive BC and
+observed in total 635 sncRNAs and 94 piRNAs with differential expression
+(PAdj<0.05). Of these 520 sncRNAs and 73 piRNAs were upregulated, and 115
+sncRNAs and 21 piRNAs downregulated in the invasive tumors compared to
+benign breast tissue. When comparing the luminal BC subtype with
+triple-negative BC (TNBC) we observed 204 DE (PAdjWe have performed a
+small RNA-sequencing (RNA-Seq) experiment to find candidate small
+non-coding RNAs (ncRNAs) in breast cancer (BC) for the identification of
+signatures that aid in the prediction of therapy responsiveness,
+prognosis or patient outcome. We used 195 invasive BC tumor and 20 benign
+breast tissue samples from the Kuopio Breast Cancer Project (KBCP) study
+material. KBCP material is collected from a genetically homogeneous
+population of Eastern Finland, and includes fresh-frozen and FFPE breast
+tissue samples, EDTA blood samples and serum, as well as comprehensive
+background/lifestyle information, clinical, treatment and follow-up data
+extending over 20 years. This well-defined material enables the
+identification of factors associating with BC risk, different stages of
+disease progression and outcome. Total RNA was extracted from the
+fresh-frozen BC and benign breast tissue using the Ambion mirVana miRNA
+Isolation Kit. Small RNA-Seq was performed using the Illumina TruSeq
+Small RNA Library Prep kit and the Illumina MiSeq next-generation
+sequencing instrument. Analyses were concentrated in PIWI-interacting
+RNAs (piRNAs) and other non-miRNA small ncRNAs (sncRNAs). Bioinformatic
+analysis commenced with quality control and preprocessing steps including
+read quality assessment (FastQC), adapter trimming (TRIMMOMATIC), and
+removal of e.g. ribosomal RNA reads (Bowtie). Preprocessed reads were
+aligned (Tophat) to human reference transcriptomes (piRNABank and GENCODE
+non-miRNA sncRNAs), followed by data conversions e.g. for visualization
+(samtools, IGVtools). Gene-wise read counts were collected using
+summarizeOverlaps R package, and statistically differentially expressed
+(DE) genes were identified using DESeq2 R package. We first compared the
+small RNA expression in the benign breast tissue with invasive BC and
+observed in total 635 sncRNAs and 94 piRNAs with differential expression
+(PAdj<0.05). Of these 520 sncRNAs and 73 piRNAs were upregulated, and 115
+sncRNAs and 21 piRNAs downregulated in the invasive tumors compared to
+benign breast tissue. When comparing the luminal BC subtype with
+triple-negative BC (TNBC) we observed 204 DE (PAdj<0.05) sncRNAs and 32
+piRNAs. Of these, 103 sncRNAs and 18 piRNAs were upregulated, and 101
+sncRNAs and 14 piRNAs downregulated in TNBC compared to luminal tumors.
+Differential expression was also observed between ER (estrogen receptor)
+negative and ER positive invasive tumors. Of the 242 DE sncRNAs and 32
+piRNAs, 105 sncRNAs and 12 piRNAs were upregulated, and 137 sncRNAs and
+20 piRNAs downregulated in ER positive BC compared to ER negative.
+Preliminary results of hierarchical clustering and principal component
+analysis of normalized log2 piRNA and sncRNA expression levels revealed
+the potential for finding differences between BC subtypes. The subsequent
+statistical analysis enabled us to identify individual piRNAs and other
+sncRNAs as candidate druggable biomarkers for e.g. TNBC patients.
+
+

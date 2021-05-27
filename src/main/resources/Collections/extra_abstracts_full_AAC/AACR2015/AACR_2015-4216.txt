@@ -1,0 +1,41 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Targeting NANOG: genes, proteins and response to viral RNAi in
+preclinical models
+
+
+Purpose: Since the NANOG family controls stemness and neoplastic
+progression in human colorectal carcinoma (CRC), our postulate is that
+targeting the dominant NANOG and NANOGP8 members with viral vector
+delivered shRNA will inhibit CRC progression in preclinical models and
+that replicating viral vectors are more active than non-replicating
+vectors.Methods: Cells were human CRC lines (Clone A, CX-1 and LS174T)
+and mouse fibroblasts (3T3). shRNA specific to NANOG (shNG-1), NANOGP8
+(shNp8-1) or a control (shNEG) were created in lentivirus (LV) and
+chimeric adenovirus 5/3 (Ad5/3). CRC and 3T3 were cultured in monolayer
+with serum-containing medium or in suspension in ultra low attachment
+plates without serum. Nanostring 770 gene cancer panel was analyzed in 72
+hr cultures with NMF clustering and GSEA analysis. Annexin V expression
+and caspase-3, 8 or 9 activation in suspension culture assessed
+Apoptosis. LV or Ad5/3 shRNAs were added to spheroids in 3-D suspension
+cultures to test therapy in vitro. Intratumoral injection of LV or Ad5/3
+shRNA into 5-10 mm sub cutis nodules in groups of 5-10 NOD/SCID mice
+measured activity in vivo.Results: LV shNp8-1 in both Clone A and CX-1
+caused significant inhibition of TGF-beta, EGFR, NRF2, E2F3 and the
+Cyclin D1 pathways by NMF and GSEA analysis in monolayer culture. LV
+shNp8-1 inhibited growth of LS174T, Clone A and CX-1 by 50% in 3 days in
+3-D suspension cultures without further decrease. Apoptosis was due to
+Caspase 9 activation. In contrast, Ad5/3-shNp8-1 decreased spheroid
+growth by up to 94% at 9 -14 days while Ad5/3 decreases spheroid growth
+by 80%. Ad5/3-shNp8-1 but nit Ad5/3 was active in co-cultures with 3T3 to
+a 2:1 CRC:3T3 ratio. Transduction level was 50% in LV treated cells but
+90% in Ad5/3 treated cells. Intratumoral injection of LVshNG-1 or
+LVshNp8-1, decreased tumor size by 50% compared to LVshNEG or untreated
+CX-1 tumors for 11 days after which tumor growth rebounded to match
+controls. Ad5/3-shNp8-1 injection into 5-9 mm nodules inhibited CX-1 and
+LS14T growth by 50% until euthanized.Conclusions: Targeting NANOGP8 more
+than NANOG inhibits proliferation and activates apoptosis through
+multiple pathways. Nonreplicating LV delivered shRNA inhibited tumor
+growth in in vitro and in vivo preclinical models but replicating
+oncolytic Ad5/3 infects more cells and promotes shRNA efficacy.
+Replicating vectors targeting NANOG are important for further development.
+

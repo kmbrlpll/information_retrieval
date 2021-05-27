@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Rapid conversion to resistance, of a colon PDX with ret-fusion, by
+ponatinib treatment could potentially be attributed to the introduction
+of the gate keeper mutation V804M
+
+
+RET encodes a receptor tyrosine kinase (RTK) involved in cellular
+mechanisms of proliferation, migration and differentiation. RET fusions
+with different genes at 10q11.2 result in constitutively activation and
+drive tumor development in various cancers: 10-20% of sporadic papillary
+thyroid cancer1, spitzoid neoplasms, CMML and 1% of lung
+adenocarcinomas2,3. RET fusions have been suggested to be important
+therapeutic targets. Ponatinib, a multi-kinase inhibitor, was approved
+for the treatment of Ph+ chronic myeloid leukemia (CML) and acute
+lymphoblast leukemia (ALL), including CML with T315I/imatinib-resistance.
+Ponatinib has recently been found to potently inhibit the common NSCLC
+fusion variant, KIF5B-RET at clinically-achievable concentrations.We have
+established large collection of colorectal patient derived xenografts
+(PDXs)4,5. Two of the poorly differentiated adenocarcinoma, CR1520 and
+CR2518, contain two different chromosome 10 in-frame RET-fusions,
+CCDC6-RET (CR2518) and NCOA4-RET (CR1520), as revealed by RNAseq and
+Sanger Sequencing6. Both models have also demonstrated over-expressing
+ret gene at mRNA levels. More importantly, they both responded Ponatinib
+significantly along with dephosphorylation of RET and downstream AKT,
+confirming these two types of Ret fusions as oncogenic drivers in these
+two models6. In addition, we also observed that Ponatinib treatment also
+rapidly drives CR2518 into its resistance (The resistant derivative is
+called CR2545). To investigate the underlying mechanism of the
+resistance, we performed RNAseq analysis of CR2545, which revealed
+retaining of the ret-fusion, but also the introduction of a previously
+described gate-keeper mutation, V804M, at ret kinase domain. V804M, a
+mutation frequently found in familial medullary thyroid carcinoma (FMTC),
+introduces bulky amino acid at position 804 and found to resistant to
+vandetanib. This may contribute to the resistance. However, this notion
+apparently contradicts to the previous observation/claim that V804M is
+sensitive to Ponatinib7, and ponatinib should be used to treat
+RET-V804M/L cancers. It is possible that the described V804M containing
+vandetanib resistant cells are sensitive to ponatinib, but via a non-RET
+mechanism for the multi-kinase inhibition nature of ponatinib; or in our
+case, there are other non-RET Ponatinib resistant mechanisms been
+introduced in CR2545 where RET is no longer the key oncogenic driver. We
+are currently testing other RET inhibitors and also assessing
+pharmacodanamic (PD) parameters to further investigate RET resistant
+mechanism. The further findings from the ongoing studies will be
+presented at the meeting.
+

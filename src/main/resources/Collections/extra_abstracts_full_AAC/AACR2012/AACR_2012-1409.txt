@@ -1,0 +1,46 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Real-time in vivo imaging for sensitive detection of primary and
+metastatic disease in a human breast-to-lung orthotopic model
+
+
+Orthotopic mouse models of human disease are absolutely essential for
+validating therapeutic targets and assessing efficacy of emerging
+therapies. Early detection of in vivo tumor growth is a critical
+benchmark in humanized mouse models, for it reveals tumor take at a time
+of reasonable tumor burden. To develop an optimal mouse model of human
+metastatic breast cancer, we utilized TMD231 breast cancer cells (derived
+from MDA-MB-231) that have a high propensity to metastasize to the lung.
+TMD231 tumor take and improved kinetics of tumor growth and metastatic
+foci formation appeared more consistently and at a faster rate in
+NOD.Cg-Prkdcscid Il2rgtm1Wjl/SzJ (NSG) versus NOD/SCID mice. For in vivo
+detection of small tumor burden at study initiation and metastatic
+lesions over time, TMD231 breast cancer cells were transduced with
+lentiviral vectors that express either mCherry or E2-Crimson fluorescent
+proteins (FPs). Flow cytometric analysis indicated transduction
+efficiencies for the lentiviral vectors expressing mCherry and E2-Crimson
+in the TMD231 cells was >99% and >80%, respectively. TMD231 cells
+expressing either the mCherry or E2-Crimson FPs were implanted into NSG
+mice and were imaged weekly using the Optix MX3 (ART Technologies,
+Montreal, Canada) to assess to what degree fluorescently tagged cells
+could be longitudinally and non-invasively visualized at primary and
+secondary sites within the NSG mice. While photon emission from TMD231
+tumors expressing mCherry could be detected, levels were low and did not
+correlate with tumor growth overtime. In contrast, high levels of photon
+emission were detected using TMD231-E2-Crimson cells. Non-palpable tumors
+expressing the E2-Crimson FP could be detected in NSG mice as early as 7
+days post-implant into the mammary fat pad. Additionally, metastatic foci
+in the lung were detected via optical imaging as early as 2-3 weeks
+post-implant. Following imaging analysis, TMD231-E2-Crimson tumor size
+correlated to increased fluorescent intensity, tumor depth, and
+fluorescent concentration longitudinally. In vitro imaging analysis of
+TMD231-E2-Crimson cells confirmed the in vivo imaging results showing a
+linear relationship between cell number and fluorescent intensity. The
+discrepancy in the in vivo detection of mCherry versus E2-Crimson
+proteins is most likely due to the greater brightness of E2-Crimson, as
+well as the closer alignment of the excitation/emission spectra of
+E2-Crimson with the laser/filter set of the Optix MX3 imaging system. To
+confirm optical imaging results, H&E staining indicated the presence of
+numerous foci in the lungs post-mortem. The optimized orthotopic model
+described here is being used to investigate mechanisms of metastasis as
+well as novel therapeutic strategies in metastatic breast cancer.
+

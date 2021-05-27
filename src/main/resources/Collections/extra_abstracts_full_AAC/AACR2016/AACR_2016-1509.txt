@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: In silico prediction of the clinical response to the mTOR
+inhibitor everolimus using a Boolean model: validation from a cohort of
+the SHIVA trial
+
+
+Introduction:Around half of currently marketed molecularly targeted
+agents (MTAs) in oncology have a companion diagnostic predictive
+biomarker that is usually a single molecular alteration (e.g. V600E BRAF
+mutation for the BRAF inhibitor vemurafenib), whereas around half of MTAs
+lack a predictive biomarker of efficacy (e.g. mTOR inhibitors). We aimed
+at modeling mathematically the response to the mTOR inhibitor everolimus
+taking into account coexisting molecular alterations and validating the
+model on clinical data from the everolimus cohort of the SHIVA trial
+(Lancet Oncol. 2015).Material and methods:We constructed the molecular
+signaling network corresponding to the most frequent altered genes found
+in different cancer types. We translated this network in a Boolean model
+and simulated it stochastically. We also developed a method to simulate
+the pharmacodynamics of everolimus. A function comprising the
+probabilities of the phenotypes of the model (cell cycling, apoptosis,
+senescence and quiescence) has been used to predict the tumor growth
+kinetics from the molecular profiles. We evaluated whether the in silico
+model could be validated on clinical data from 45 patients with various
+tumor types treated with everolimus in the SHIVA trial following the
+identification of a molecular alteration involving the PI3K/AKT/mTOR
+pathway. The correlation between the reported progression-free survival
+(PFS) in the SHIVA trial and the PFS predicted by the model was
+evaluated.Results:There were 34 unique associations of alterations
+detected by target sequencing, comparative genomic hybridization array
+and immunohistochemistry in the cohort of 45 patients. We found a
+non-linear relation between the predicted PFS from the model and the
+reported PFS from the trial (Pearson correlation = 0.91, p value =
+1e-17). The two patients with the best PFS, one harboring a metastatic
+germinal tumor and the other a metastatic breast cancer, are precisely
+predicted by the model. Similarly, the model was able to predict
+efficiently the resistant tumors to everolimus.Conclusion:We were able to
+predict the response to everolimus and confirmed these predictions in
+data reported in the SHIVA trial using an in silico model of the
+molecular determinant of tumor growth. By this mean, we provide a novel
+approach to predict treatment response from the association of molecular
+alterations.
+

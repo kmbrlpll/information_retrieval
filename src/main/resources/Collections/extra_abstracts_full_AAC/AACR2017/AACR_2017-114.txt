@@ -1,0 +1,33 @@
+Meeting: 2017 AACR Annual Meeting
+Title: TG02 induces cell cycle arrest in glioblastoma.
+
+
+Dysregulated cell cycle contributes to the limitless replicative
+potential of cancer cells. The cyclin-dependent kinases (CDKs) and
+cyclins, the CDK-regulatory proteins are the key cell cycle machinery and
+can be targets for cancer therapy. TG02, a pyrimidine-based multi-kinase
+inhibitor has an anti-glioma effect which was demonstrated by our
+previous studies. An in vitro kinase spectrum assay of TG02 demonstrated
+inhibitory effects in several CDKs at the nanomolar level. To further
+investigate the molecular mechanisms of TG02-induced cell cycle
+regulation in glioma, a cell cycle analysis was performed by flow
+cytometry using the Click-It Edu Flow Cytometric Assay Kit in GSC923 and
+U251 cell lines, a human stem-like cell and patient derived cell line,
+respectively. Protein expression of CDKs and cyclins was tested by
+Western blotting. RNAseq analysis using Next Generation Sequencing was
+performed (only GSC923) and followed by a supervised hierarchical
+clustering analysis of cell cycle pathways that were derived from
+Qiangen’s Ingenuity Pathway Analysis (IPA). Our results showed that
+TG02 treatment results in G2/M-phase arrest in glioma cell lines. The
+protein expression of CDK1, CDK2, cyclin A2 and cyclinB1 are
+downregulated in both TG02 treated cell lines. Additionally, RNAseq
+analysis revealed downregulation of cyclins A2, B1 and B2 and significant
+irregulation in mRNA expression of G2/M checkpoint and spindle formation
+proteins, indicating G2 checkpoint and mitosis progression are also
+affected by TG02. Taken together, we demonstrated that TG02 induced cell
+cycle G2/M arrest through downregulating CDK and cyclin expression
+signaling in the preclinical models of glioblastoma. These findings
+strongly support the further investigation of TG02 as a potential therapy
+for malignant gliomas.
+
+

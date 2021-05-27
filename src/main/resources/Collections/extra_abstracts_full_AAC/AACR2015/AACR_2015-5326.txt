@@ -1,0 +1,37 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Intracellular bacterial delivery of a NIPP1-peptide kills tumor
+cells
+
+
+Protein phosphatase-1 (PP1) is a cancer target because it is involved in
+many cell signaling pathways. Its activity is tightly regulated by its
+interaction partners, mainly via the RVxF-binding motif. RVxF-containing
+peptides deregulate PP1 and have therapeutic potential as antagonists of
+increased cancer kinase signaling. Because PP1 is responsible for more
+than half of the dephosphorylations on Ser/Thr sites, it is essential in
+all eukaryotic cells and it is difficult to target systemically.
+Moreover, delivering peptides to cells extracellularly is inefficient
+because of poor cell permeability and proteolytic instability.To
+specifically transport therapeutic peptides into cancer cells, we
+engineered bacteria to be intracellular delivery vectors. A bacterial
+delivery system (BDS) was designed by creating a strain that lyses after
+cell invasion and releases its contents into the cytoplasm of cancer
+cells. A BDS strain was then manipulated to express a peptide containing
+the RVxF motif of Nuclear Inhibitor of PP1 (NIPP1; AA 142-224). The
+therapeutic potential of this strain was tested on MCF-7 cell monolayers
+and on 3D tumor tissue.The BDS was cloned by inserting the bacterial
+phage lysis gene E under the control of the sseJ promoter, a Salmonella
+promoter that is activated after cell invasion. The specificity of the
+sseJ promoter was tested by inserting GFP under its control and infecting
+MCF-7 cancer cells with Salmonella containing the plasmid. All
+intracellular bacteria expressed GPF after 4 hours of infection, while no
+fluorescence was measured in the bacteria outside the mammalian cells.
+After infection, the created BDS lysed in 78% of invaded cells. BDS
+delivery of the NIPP1-peptide to MCF-7 cancer cells killed 41% of
+infected cells while infection with control, empty BDS did not result in
+any death. When treating tumor tissue with BDS expressing NIPP1-peptide,
+39% of tumor tissue was killed after 9.5 hours, compared to 8% when
+treated with BDS alone. These results indicate that targeting
+phosphatases with intracellular peptide delivery by bacteria is feasible
+and reduces tumor tissue viability.
+

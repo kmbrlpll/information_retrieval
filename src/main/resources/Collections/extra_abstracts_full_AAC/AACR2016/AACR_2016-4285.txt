@@ -1,0 +1,35 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Intra-individual variation in circulating miRNA expression levels
+in human plasma samples
+
+
+Circulating miRNAs as possible non-invasive biomarkers for disease risk
+assessment and cancer early diagnosis has attracted increasing interest.
+Little information, however, is available regarding the intra-individual
+variation of circulating miRNA levels. We measured miRNA expression in
+repeated plasma samples that were collected 6 to 12 months apart from 53
+healthy individuals participating in a sub-study nested in the Shanghai
+Women's and Shanghai Men's Health Studies. Total RNA, including miRNA,
+was isolated from plasma using Qiagen's miRNeasy Serum/Plasma Kit. Three
+synthetic spike-in RNA oligos (osa-miR414, cel-miR248, and ath-miR159a)
+were added to control for variances in the starting material and the
+efficiency of RNA extraction. NanoString's Human v2 miRNA Expression
+Assay, which includes CodeSets of probes specific for 800 common human
+miRNAs, was used for the miRNA assays. The derived miRNA counts were
+first corrected by subtracting the background counts and then were
+normalized by using the average count from three spike-in oligos andthe
+top fifty miRNAs that gave most significant hybridization signals. The
+intra-individual variation was evaluated by an intra-class correlation
+coefficient (ICC). A total of 185 miRNAs were detected in at least 10% of
+samples. The detectable rate varied for each miRNA, with 69 and 44 miRNAs
+being detected in 50% and 75% of samples, respectively. The median ICC
+was 0.46 for all of the 185 detectable miRNAs. Among them, 41% (75
+miRNAs) had an ICC 0.5, and 42 miRNAs had an ICC 0.6. The ICC is higher
+for miRNAs with higher expression levels and higher detection rates, when
+compared to their counterparts with lower expression or detection rates.
+In summary, we found that 185 miRNAs were expressed in at least 10% of
+plasma samples, and 69 miRNAs in 50% of samples from healthy Chinese men
+and women, and that 75 of these miRNAs had an ICC 0.5. These results
+suggest that common circulating miRNAs can serve as reliable biomarkers
+for epidemiological and clinical research.
+

@@ -1,0 +1,42 @@
+Meeting: 2012 AACR Annual Meeting
+Title: STAT3 is a critical mediator of the pro-survival effect of
+Bcl-2-Rac1 interaction in human cancer cells
+
+
+We recently showed that Bcl-2 overexpression induced a pro-oxidant
+intracellular milieu resulting in an inhibition of apoptotic execution
+and that reversing the pro-oxidant milieu by inhibiting intracellular
+superoxide production sensitized Bcl-2-overexpressing cells to apoptotic
+stimuli. We provide evidence that the small GTPase Rac1 is functionally
+involved since gene silencing and functional inhibition of Rac1 blocked
+Bcl-2-mediated increase in intracellular superoxide production in tumor
+cells. A co-localization and physical interaction between the two
+proteins were observed, which could be blocked by the BH3 mimetics as
+well as by synthetic Bcl-2 BH3 domain peptides both in vitro and in vivo.
+The Bcl-2 BH3 peptides as well as silencing and functional inhibition of
+Rac1 reversed intracellular superoxide levels and overcame Bcl-2-mediated
+drug resistance in human leukemia and cervical cancer cells,
+demonstrating that this interaction is functionally relevant. Notably,
+the interaction was observed in primary cells from patients diagnosed
+with B-cell lymphoma with Bcl-2 overexpression but not in noncancerous
+tissue. Furthermore, computer simulation driven virtual predictive
+experiments based on the protein pathway dynamic network created by
+Cellworks Group Inc. were carried out to study the functional implication
+of this interaction. An HCT116 human colorectal cancer cell line with
+KRAS over-activation, PI3K overexpression, CDKN2A deletion, -catenin
+overexpression and Bcl-2 overexpression was created as a base line.
+Phenotypic indices of angiogenesis, proliferation, viability, metastasis
+as well as tumor volume were all found to be amplified in a variant cell
+line when Rac1 was overexpressed based on the above computer modeled
+HCT116. Strikingly, the expression levels of both STAT3 and -catenin were
+significantly upregulated in the variant cell line; however upon Rac1 or
+Bcl-2 knockdown in both the base and the variant cell lines, apoptotic
+markers such as Bax, caspase 3 and cleaved PARP1 were amplified while
+STAT3 and -catenin were significantly down-regulated. Intrigued by these
+predictions, we set out to verify the correlation between STAT3 signaling
+and Bcl-2-Rac1 interaction. Interestingly, there is indeed a strong
+correlation between the activation status of STAT3 (pY705) and Bcl-2
+expression as well as Rac1 activation status. Furthermore, STAT3 was
+found to be localized to mitochondria and our preliminary results suggest
+an association with Bcl-2.
+

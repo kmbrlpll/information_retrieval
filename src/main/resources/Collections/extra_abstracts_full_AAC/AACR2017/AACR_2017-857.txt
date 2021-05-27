@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: ELF3 modulates mesenchymal to epithelial transition through
+regulation of CD44 variant isoform expression in pancreatic cancer cells.
+
+
+BACKGROUND: Epithelial to Mesenchymal Transition (EMT) and Mesenchymal to
+Epithelial Transition (MET) may participate in pancreatic ductal
+adenocarcinoma (PDAC) metastasis. CD44 proteins are cell membrane
+proteins which function as co-receptors regulating many cellular
+functions. Some reports have shown that isoform switching from CD44
+variant form (CD44v) to CD44 standard form (CD44s) takes place during the
+EMT. (Brown et al., J. Clin. Invest, 2011, Yae et al., Nat Commun.,
+2012). The AIM of this study was to explore the regulation of CD44
+isoform switching in PDAC cells.
+
+Methods: The expression levels of CD44v and CD44s in PDAC cell lines were
+assessed by immunohistochemistry and immunoblot analysis. PDAC cell lines
+were implanted into immunodeficiency mice and treated with sulfasarazine
+for 14 days. Sulfasarazine, which inhibits glutamate-cysteine transport,
+reduces CD44v-dependent cell growth. CD44v or CD44s positive cells were
+isolated using flow cytometry and induced to undergo the EMT by TGF-β
+treatment (7.5ng/mL) for 72 hours. A doxycycline inducible system was
+employed to overexpress Slug, which promotes the EMT phenotype. To induce
+MET, the cells were released from TGF-β treatment and cultured for an
+additional 72 hours. E74-like ETS Transcription Factor 3 (ELF3)
+expression was knocked-down by siRNA transfection.
+
+RESULTS: Immunohistochemistry analysis revealed that CD44v protein is
+expressed specifically by PDAC with ductal structures within the complex
+tumor environment of these cancers. However, in contrast, CD44v
+expression was not observed in solitary infiltrating cancer cells.
+PANC-1, AsPC-1 and SUIT-2 PDAC cell lines expressed both CD44v and CD44s
+isoforms. Tumor mass in implanted PANC-1, AsPC-1 and SUIT-2 cells were
+reduced 69%, 50% and 36% respectively by sulfasarazine treatment
+following 2 weeks of therapy. However, CD44v null HPAC cells were
+resistant to sulfasarazine therapy following implantation. E-cadherin was
+expressed in CD44v positive cells but not in CD44s positive cells, and
+both CD44v and E-cadherin protein were reduced by TGF-β treatment. Slug
+over expressed cells were resistant to sulfasarazine treatment compared
+to non-Slug-induced cells. Removal of TGF-β restored both CD44v and
+E-cadherin expression levels which consistently occurs with MET. However,
+restoration of CD44v expression was diminished when ELF3 expression was
+reduced by siRNA transfection.
+
+CONCLUSION: The isoform switching between CD44v and CD44s was reversible.
+The expression of CD44v isoform appears to be controlled by ELF3 during
+MET.
+
+

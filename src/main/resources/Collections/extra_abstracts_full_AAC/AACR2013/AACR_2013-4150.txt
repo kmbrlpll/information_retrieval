@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Quantitative sequencing following PCR-driven library preparation
+with internal standard mixtures has improved analytical performance and
+lower cost.
+
+
+Background: Next-generation sequencing (NGS) is amenable to a multitude
+of clinical applications by virtue of its automated and highly
+parallelized analysis of nucleic acid templates. However, prior studies
+have identified non-systematic biases introduced during preparation of
+NGS libraries as the primary source of technical variation preventing
+immediate application for measuring nucleic acid abundance in the
+clinical setting. We reasoned that a PCR-based NGS library preparation
+protocol that incorporated competitive internal amplification control
+(IAC) mixtures (i.e. internal standards) would control for the majority
+of bias introduced during NGS library preparation, enabling clinical
+laboratories to offer cost effective moderately complex diagnostic panels
+from quantitative NGS data. Methods: In order to test this approach, we
+obtained reference material RNA titration pools used in the FDA-sponsored
+Sequencing Quality Control (SEQC) project that have been characterized
+for nucleic acid abundance by multiple qPCR, Microarray and NGS
+platforms. Using Multiplex-PCR with primers and competitive IAC for
+150-gene targets we prepared NGS libraries from: 1) gDNA to test general
+analytical performance, and 2) cDNA from reverse transcribed SEQC project
+reference material to determine accuracy in detecting fold change. Using
+gDNA mixed with serially titrated IAC mixtures as input, we observed a
+linear dynamic range over 106 orders of magnitude, with an average R2 =
+0.995 (0.993 0.997; 95% CI). There was a high correlation coefficient
+(R2= 0.96) between measured values for copies of nucleic acid abundance
+in two separate library preparations (separate reverse transcriptions and
+Multiplex PCR-based library preparations) from the same reference RNA
+material (FDA SEQC project Sample A). Because the SEQC project RNA
+Samples C and D represent a known cross titration between SEQC project
+RNA Samples A and B, by comparing measured to expected values for
+expression of each gene in Samples C and D it is possible to determine
+accuracy of the method. In preliminary studies, the correlation
+coefficient of expected versus observed for Sample C was R2 = 0.96, with
+an ROC curve-determined accuracy to detect a 3-fold change of 97% (95
+99%; 95% CI). Inter-platform and inter-laboratory comparisons are
+ongoing. Conclusion: The approach described here overcomes key sources of
+non-systematic bias introduced during NGS library preparation. This
+should enable reproducible inter-laboratory and inter-platform
+quantitative NGS results, and a clear path to regulatory approval for
+clinical diagnostic applications.
+

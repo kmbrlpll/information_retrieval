@@ -1,0 +1,35 @@
+Meeting: 2016 AACR Annual Meeting
+Title: OncoMD: A powerful genomics data analysis and interpretation
+platform for cancer discovery research
+
+
+Cancer cells gain fitness advantage over normal cells by accumulating
+mutations over time. Next Generation DNA sequencing technologies have
+made the detection of genetic alterations in tumor genomes affordable.
+Powerful data analysis and interpretation tools enable extraction of
+disease-relevant information from diverse genomics data to guide
+diagnosis and treatment decisions. We have built a robust cancer
+analytics platform OncoMD that combines tumor mutation profiles,
+expression signatures, copy number variations, epigenetic alterations and
+drug sensitivity to create a holistic view of human cancer enabling
+discovery of new targets for therapy and prognosis. We have analyzed the
+rich mutational data captured in OncoMD to identify potential T-cell
+neo-epitopes in different cancers and examined their prevalence in the
+context of the tumor microenvironment. The presence of T-cell
+neo-epitopes alone is not sufficient to sensitize tumors to immunotherapy
+drugs and requires cooperation from the tumor microenvironment. Although
+mutational burden was a strong predictor of T-cell neo-epitopes in our
+analysis, other genetic alterations such as overexpression, splicing,
+gene-fusions and insertions/deletions can produce altered peptides
+exhibiting high affinity binding to HLA class I and II molecules in
+cancers with low burden of missense mutations. We determined the number
+of potential T-cell neo-epitopes after classifying tumors based on their
+epithelial, stromal and immune cell content using gene expression
+signatures. We observed that the normalized T-cell neo-epitope burden was
+strongly anti-correlated with the T-cell content of the tumors, compared
+to their epithelial or stromal content. Together, our findings suggest
+that tumors enriched in T-cells may be subjected to immunoediting
+processes and carry relatively fewer T-cell neo-epitopes to avoid
+elimination. These tumors are likely to respond to immunotherapy
+treatments.
+

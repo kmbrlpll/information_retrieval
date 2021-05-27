@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Comprehensive characterization of genomic and transcriptomic
+heterogeneity in advanced bladder cancer by multiregional analysis.
+
+
+Background: Bladder cancer is a highly heterogeneous disease - both
+clinically, and at the genomic and the transcriptomic levels. Despite
+complete tumor resections, recurrent tumors share a high number of
+mutations with the initial/earlier tumors, indicating that new tumors
+arise from fields of transformed areas of cells in the urothelium (i.e.
+field disease). Furthermore, the high mutational load found in bladder
+cancer and the assumed high degree of heterogeneity may have huge
+implications on therapy response. Thus, detailed knowledge on tumor
+heterogeneity and mutational dynamics in adjacent normal urothelial cells
+is needed in order to understand field disease, disease development and
+disease progression. To address this, we performed comprehensive genomic
+and transcriptomic analysis of multiple samples of tumor and normal
+tissue procured from four cystectomy specimens and associated metastases.
+
+Methods: Multiple tumors, lymph node metastasis, relapse biopsies and
+adjacent normal tissue from four patients with muscle invasive disease
+were analyzed. A targeted panel (illumina TruSeq Custom Amplicon v1.5)
+was designed from whole exome sequencing of bulk tumor DNA and germline
+DNA. Targeted sequencing of DNA from small cellular regions procured by
+laser-microdissection from tumor biopsies and from adjacent normal tissue
+was used for generating a comprehensive genomic map of the bladder.
+Transcriptomic profiling (Fluidigm GE) was carried out using RNA from LMD
+procured tumor regions matching the regions used for targeted sequencing.
+
+Results: In total, whole exome sequencing was performed on DNA from 15
+bulk tumors with an average coverage of 59.2X. We identified a total of
+331, 862, 685 and 1344 mutations, respectively, in the four patients with
+15-85% of the mutations being ancestral. Of all the mutations, 95, 380,
+117 and 335, respectively, were estimated to have a functional impact.
+Targeted sequencing of 207, 595, 538 and 483 mutations in the four
+patients was performed on DNA from 137 small cellular regions, including
+DNA from 17 adjacent normal tissue areas. We observed low local
+heterogeneity while comparing more distant regions revealed significantly
+higher levels of heterogeneity. This observation was in agreement with
+the heterogeneity observed at the transcriptomic level, where some
+regions within the same bladder appeared to have basal characteristics
+while others appeared to have luminal characteristics.
+
+Conclusion: Large intra-patient genomic and transcriptomic heterogeneity
+can be observed in bladder cancer. However, even in multifocal tumors,
+all the regions shared a substantial number of mutations, indicating a
+common origin. Ongoing investigations indicate the presence of low
+frequency tumor associated mutations in normal appearing tissue.
+
+

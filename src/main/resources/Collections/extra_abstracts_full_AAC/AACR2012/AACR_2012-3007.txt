@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A novel five gene signature predicts overall and recurrence-free
+survival in NSCLC
+
+
+Gene expression profiling has been used to characterize prognosis in
+various cancers. Applying systems biology approach to cancer stem cell
+data generated from expression profiling of cell lines, a novel 5 gene
+signature was identified. Earlier studies had shown that side population
+cells isolated from established Non-Small Cell Lung Cancer (NSCLC) cell
+lines exhibit cancer stem cell properties. Microarray data from side
+population (SP) and main population (MP) cells isolated from 4 NSCLC
+lines (A549, H1650, H460, H1975) were used to examine gene expression
+profiles associated with stemness. Total RNA extracted from SP and MP
+samples were used to generate cRNA targets, which were hybridized to
+Human Genome U133A Plus 2.0 probe arrays. Raw data was processed and the
+mean center expression level for each gene was determined. We searched
+for differentially expressed genes that were over or under-expressed at
+least two fold commonly in all 4 cell lines. It was found that 354 genes
+were upregulated and 126 genes were downregulated in SP cells from all
+the 4 cell lines, compared to MP cells; of these, 89 up and 62
+downregulated genes (average 2 fold changes) were used for Principle
+Component Analysis (PCA) and MetaCoreTM pathway analysis. Pathway
+analysis demonstrated representation of 4 up regulated genes (TOP2A,
+AURKB, BRRN1, CDK1) in chromosome condensation pathway and 1 down
+regulated gene FUS in chromosomal translocation. The microarray data was
+validated using quantitative RT-PCR on the 5 selected genes and all
+showed robust correlations between microarray and qRT-PCR expression
+data. Further, we analyzed two independent microarray gene expression
+datasets that included 361 lung adenocarcinoma patients from NCI
+Director's Challenge Set (DCS) for overall survival (OS) and 63
+adenocarcinoma patients from Sungkyunkwan University (SKKU) for
+recurrence free survival (RFS). Statistical analyses were done using R
+package. Expression values were normalized using MAS5.0 and median
+expression values were used to dichotomize into low and high expression
+levels for 5 genes. To determine whether the gene signature correlates
+with poor prognosis, we performed Kaplan-Meier and log-rank test
+analysis. Kaplan-Meier analysis for survival showed significant trend for
+all the 5 genes. These genes predicted poor survival of patients in 361
+DCS as well as 63 adenocarcinoma samples from SKKU. Our results suggest
+that genes involved in chromosome condensation are likely related with
+cancer stem cell like properties and therefore predict survival in lung
+adenocarcinoma. Further studies are needed to validate the key genes to
+provide potential new targets to intervene progression of lung
+adenocarcinoma. Our findings highlight gene signature for effective
+identification of lung adenocarcinoma patients with poor prognosis and
+designing more aggressive or tailored therapeutic properties for such
+patients.
+

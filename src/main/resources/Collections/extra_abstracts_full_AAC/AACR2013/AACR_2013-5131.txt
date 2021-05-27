@@ -1,0 +1,35 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Modeling of EMT/MET transitions in breast cancer stem cells.
+
+
+Background: Recent studies suggest that breast cancer stem-like cells
+(BCSCs) exist in two freely interconvertible states: an EMT- and an
+MET-like state, and that conversion between these two states is regulated
+by both intracellular and microenvironmental signaling (Liu et al. 2012,
+Korkaya et al. 2012). Using a mathematical model, we quantify rates of
+transition between the EMT and MET-like states. We further explore BCSC
+behavior in response to alterations in microenvironmental signaling and
+examine key regulators of BCSC population dynamics.Methods: We employ a
+continuous-time Markov chain model to quantify rates of transition
+between the EMT and MET-like state for BCSCs. Our data-based modeling
+approach employs parameter estimates derived from mouse xenograft
+experiments from the Wicha laboratory (Liu et al. 2012) to estimate the
+equilibrium EMT- and MET-like state distributions. We expand our model to
+simulate BCSC population counts and EMT and MET state transitions in
+response to alterations in the complex regulatory network involving IL-6,
+HER2, miRNA, NF-B, and TGF- signaling.Results: We estimate the rate of
+BCSC transition from an EMT- to MET-like state to be 0.08 per cell per
+day, and the rate of transition from an MET- to EMT-like state to be
+0.013 per cell per day. Simulation studies examining the effects of
+abrogating microenvironmental signals individually and in combinations
+revealed that slowing both self-renewal rate and the rate of transition
+from an MET- to EMT-like state is essential to eradicating the total BCSC
+population. The fastest decline in the BCSC population was observed when
+IL-6 is inhibited and the activation of NF-B via HER2 signaling and IL-6
+feedback was blocked.Conclusions: Rates of transition between EMT- and
+MET-like states are estimated to occur frequently and these events are
+much more likely than dedifferentiation. Predictions from our
+mathematical model match experimental data (Korkaya et al. 2012) showing
+the efficacy of combined HER2 and IL-6 blockade in reducing the BCSC
+population.
+

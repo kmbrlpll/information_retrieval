@@ -1,0 +1,80 @@
+Meeting: 2014 AACR Annual Meeting
+Title: The heritability of melanoma differs between light- and
+dark-skinned individuals of European descent
+
+
+Melanoma is strongly associated with exposure to ultraviolet radiation
+(UV). The prevalence of melanoma is much higher in lighter-skinned
+Caucasians as compared to darker-skinned Caucasians who have a higher
+concentration of melanin in their skin which absorbs UV radiation and
+prevents it from reaching deeper layers of the skin to cause DNA damage.
+This suggests that the relative contributions of genes and environment in
+the etiology of melanoma and the genetic architecture of melanoma
+susceptibility may differ between these two groups.To test this
+hypothesis, we assessed the heritability of melanoma separately in
+self-reported light- and dark-skinned Caucasians using data from a
+previously published melanoma GWAS of 2000 cases and 1000 controls (Amos
+et al, 2011). Employing the GCTA method developed by Visscher et al (Yang
+et al, 2011), which estimates the additive genetic contributions of all
+genotyped single nucleotide polymorphisms (SNPs) to phenotypic variance,
+we observed that melanoma was highly heritable in dark-skinned Caucasians
+(h2 = 66%, SE = 25%, p = 0.0058), but not significantly heritable in
+light-skinned Caucasians (h2 = 15%, SE = 22%, p = 0.25). This suggests
+that whereas inherited common genetic variation contributes significantly
+to melanoma susceptibility in dark-skinned Caucasians, this is not the
+case in lighter-skinned Caucasians.To determine the consequences of this
+difference in heritability on melanoma risk, we investigated the
+enrichment of expression quantitative trait loci (eQTLs) separately in
+light-skinned Caucasians and dark-skinned Caucasians using a
+permutation-based strategy. We generated 1000 permutations of the
+melanoma GWAS, shuffling case-control status each time. In each of the
+permuted datasets, we calculated the percentage of significant
+disease-associated variants that are also eQTLs. Then we compared the
+actual percentage of GWAS hits that are eQTLs to the expected percentage
+under the null based on the permutations to assess whether there is a
+significant enrichment of functional variants in the GWAS. We found a
+significant enrichment of skin and lymphoblastoid cell line (LCL) eQTLs
+in among the melanoma-associated SNPs (p Melanoma is strongly associated
+with exposure to ultraviolet radiation (UV). The prevalence of melanoma
+is much higher in lighter-skinned Caucasians as compared to
+darker-skinned Caucasians who have a higher concentration of melanin in
+their skin which absorbs UV radiation and prevents it from reaching
+deeper layers of the skin to cause DNA damage. This suggests that the
+relative contributions of genes and environment in the etiology of
+melanoma and the genetic architecture of melanoma susceptibility may
+differ between these two groups.To test this hypothesis, we assessed the
+heritability of melanoma separately in self-reported light- and
+dark-skinned Caucasians using data from a previously published melanoma
+GWAS of 2000 cases and 1000 controls (Amos et al, 2011). Employing the
+GCTA method developed by Visscher et al (Yang et al, 2011), which
+estimates the additive genetic contributions of all genotyped single
+nucleotide polymorphisms (SNPs) to phenotypic variance, we observed that
+melanoma was highly heritable in dark-skinned Caucasians (h2 = 66%, SE =
+25%, p = 0.0058), but not significantly heritable in light-skinned
+Caucasians (h2 = 15%, SE = 22%, p = 0.25). This suggests that whereas
+inherited common genetic variation contributes significantly to melanoma
+susceptibility in dark-skinned Caucasians, this is not the case in
+lighter-skinned Caucasians.To determine the consequences of this
+difference in heritability on melanoma risk, we investigated the
+enrichment of expression quantitative trait loci (eQTLs) separately in
+light-skinned Caucasians and dark-skinned Caucasians using a
+permutation-based strategy. We generated 1000 permutations of the
+melanoma GWAS, shuffling case-control status each time. In each of the
+permuted datasets, we calculated the percentage of significant
+disease-associated variants that are also eQTLs. Then we compared the
+actual percentage of GWAS hits that are eQTLs to the expected percentage
+under the null based on the permutations to assess whether there is a
+significant enrichment of functional variants in the GWAS. We found a
+significant enrichment of skin and lymphoblastoid cell line (LCL) eQTLs
+in among the melanoma-associated SNPs (p < 10-4) in the GWAS of
+light-skinned but not dark-skinned Caucasians. Furthermore the target
+genes of these eQTLs showed a functional enrichment of response pathways
+to ultraviolet radiation (UV), the major cause of melanoma.Taken
+together, these findings indicate that melanoma susceptibility not only
+has varying contributions of genes and environment but also different
+genetic architectures in light- vs dark- Caucasians. More broadly,
+heritability can provide important insights into variable contributions
+of genetics and environment to cancer and other complex diseases, and can
+be used to divide patients into genetically homogenous subsets to
+maximize power to detect significant genotype-disease associations.
+

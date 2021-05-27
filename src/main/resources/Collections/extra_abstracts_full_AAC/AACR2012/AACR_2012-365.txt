@@ -1,0 +1,81 @@
+Meeting: 2012 AACR Annual Meeting
+Title: DNA double-strand break imaging with anti-H2AX antibodies does not
+alter DNA repair kinetics
+
+
+Introduction: DNA double-strand breaks (dsb) are caused by exposure to
+radiotherapy and various anticancer drugs and are very deleterious. Upon
+dsb formation, histone H2AX is phosphorylated to form H2AX foci at the
+break site. We have reported the development of a non-invasive in vivo
+DNA dsb imaging agent, based on anti-H2AX IgG, modified by addition of
+the cell penetrating and nuclear localizing peptide, TAT. It was
+demonstrated that fluorescent and radiolabelled anti-H2AX-TAT was
+internalized into cancer cells, and retained specifically in cells
+expressing H2AX foci, through binding to H2AX. Using in vivo fluorescence
+and SPECT imaging, we showed tumour uptake correlates with the extent of
+DNA dsb damage after radiation therapy (Cornelissen et al. Cancer Res
+2011 71:4539). Ideally, imaging H2AX in this way should not alter the
+physiology/ biology of the imaged organism. Therefore, we investigated
+the influence of anti-H2AX-Tat on DNA dsb repair kinetics using comet
+assays and H2AX and 53BP1 foci kinetics. These data were applied using a
+published mathematical model of non-homologous end joining (NHEJ) by
+Cucinotta et al. (Rad Res 2008 169, 214-222). Methods: A panel of four
+carcinoma cells (MCF7, MDA-MB-231/H2N, MDA-MB-468, MCF7) was exposed to a
+range of concentrations of anti-H2AX-Tat (0 - 0.5 g/mL) and irradiated 1
+h later (IR; 137Cs, 0.95 Gy/min, 0-4 Gy). At selected time points, cells
+were analysed using H2AX and 53BP1 foci staining and counting and comet
+assays. Foci counting was performed automatically using an InCell
+analyser. Comet assay results were analysed using software developed in
+house and expressed as Olive Tail Moment. H2AX foci kinetics data were
+modelled in silico using a concatenary model or an extended version of
+the NHEJ model, allowing for anti-H2AX-Tat binding to H2AX. The kinetics
+of dsb formation and resolution were calculated from the model (dsbcal),
+and validated using comet assay data. Results: The number of H2AX
+foci/cell was maximal at 0.5-1 h post IR. The affinity (KD) of
+anti-H2AX-Tat for H2AX was 25 nM. There was a trend towards a
+dose-dependent increase of the maximum number of foci. The concatenary
+model revealed no significant differences between treated and non-treated
+cells. However, using the NHEJ model, a dose-dependent decrease in the
+rate of phosphorylation of H2AX was demonstrated (in MCF7 cells exposed
+to 0-0.5 g/mL anti-H2AX-Tat, P = 2507-1462 copy1 h1; pIntroduction: DNA
+double-strand breaks (dsb) are caused by exposure to radiotherapy and
+various anticancer drugs and are very deleterious. Upon dsb formation,
+histone H2AX is phosphorylated to form H2AX foci at the break site. We
+have reported the development of a non-invasive in vivo DNA dsb imaging
+agent, based on anti-H2AX IgG, modified by addition of the cell
+penetrating and nuclear localizing peptide, TAT. It was demonstrated that
+fluorescent and radiolabelled anti-H2AX-TAT was internalized into cancer
+cells, and retained specifically in cells expressing H2AX foci, through
+binding to H2AX. Using in vivo fluorescence and SPECT imaging, we showed
+tumour uptake correlates with the extent of DNA dsb damage after
+radiation therapy (Cornelissen et al. Cancer Res 2011 71:4539). Ideally,
+imaging H2AX in this way should not alter the physiology/ biology of the
+imaged organism. Therefore, we investigated the influence of
+anti-H2AX-Tat on DNA dsb repair kinetics using comet assays and H2AX and
+53BP1 foci kinetics. These data were applied using a published
+mathematical model of non-homologous end joining (NHEJ) by Cucinotta et
+al. (Rad Res 2008 169, 214-222). Methods: A panel of four carcinoma cells
+(MCF7, MDA-MB-231/H2N, MDA-MB-468, MCF7) was exposed to a range of
+concentrations of anti-H2AX-Tat (0 - 0.5 g/mL) and irradiated 1 h later
+(IR; 137Cs, 0.95 Gy/min, 0-4 Gy). At selected time points, cells were
+analysed using H2AX and 53BP1 foci staining and counting and comet
+assays. Foci counting was performed automatically using an InCell
+analyser. Comet assay results were analysed using software developed in
+house and expressed as Olive Tail Moment. H2AX foci kinetics data were
+modelled in silico using a concatenary model or an extended version of
+the NHEJ model, allowing for anti-H2AX-Tat binding to H2AX. The kinetics
+of dsb formation and resolution were calculated from the model (dsbcal),
+and validated using comet assay data. Results: The number of H2AX
+foci/cell was maximal at 0.5-1 h post IR. The affinity (KD) of
+anti-H2AX-Tat for H2AX was 25 nM. There was a trend towards a
+dose-dependent increase of the maximum number of foci. The concatenary
+model revealed no significant differences between treated and non-treated
+cells. However, using the NHEJ model, a dose-dependent decrease in the
+rate of phosphorylation of H2AX was demonstrated (in MCF7 cells exposed
+to 0-0.5 g/mL anti-H2AX-Tat, P = 2507-1462 copy1 h1; p<0.01), as well as
+a lower affinity of DNA-PKcs for H2AX (M = 0.03 - 0.10 in MCF7 cells; p
+0.05). This was confirmed by comet assays. Conclusion: Anti-H2AX-TAT
+binding to H2AX reduces the rate of formation of new H2AX foci, but has
+no significant influence on DNA dsb repair. Therefore, the use of
+H2AX-Tat for imaging DNA dsbs does not alter DNA dsb status.
+

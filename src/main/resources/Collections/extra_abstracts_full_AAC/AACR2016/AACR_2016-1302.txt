@@ -1,0 +1,39 @@
+Meeting: 2016 AACR Annual Meeting
+Title: A comprehensive approach to delineate FGFR2 targeted therapy
+response in diffuse gastric cancer
+
+
+Dysregulation of fibroblast growth factor receptors (FGFRs) signaling has
+been associated with tumorigenesis and progression in various cancers.
+Preclinical models have shown that FGFR2 signaling activation due to
+FGFR2 amplification is essential driver for specific gastric cancers.
+Cancer cell lines or patient-derived gastric cancer xenograft models with
+FGFR2 amplification are highly sensitive to AZD4547, which is a
+small-molecule tyrosine kinase (TRK) inhibitor that selectively targets
+FGFR1-3. However, recent clinical trial studies failed to demonstrate the
+therapeutic potential of AZD4547 in patients with FGFR2 amplification.
+For this study, we identified critical genetic and molecular features
+that determine the response to FGFR2 inhibitors in gastric cancer.To
+systematically delineate the pathways that modulate response to FGFR2
+inhibitors, we identified CRISPR-library-based gene knockouts that result
+in resistance to AZD4547 in Kato III cells, a gastric cancer cell line
+with high sensitivity to this drug. Although majority of transduced Kato
+III cells undergo cell senescence upon AZD4547 treatment, a small
+population of resistant cells rendered by CRISPR knockout is enriched.
+Subsequent sequencing and pathway analysis reveal the alternative
+activated pathways that contribute to the cell growth in lieu of FGFR2
+inhibition.Furthermore, we applied the elastic-net regression analysis to
+identify genetic features associated with the drug sensitivity to FGFR2
+inhibition in cancer cell lines. The cell line drug response data are
+derived from the Cancer Therapeutic Response Portal (CTRP v2) and the
+Cancer Cell Line Encyclopedia (CCLE). Notably, few cancer cell lines have
+high FGFR2 copy numbers (CN>4). The elastic-net algorithm simultaneously
+integrates mutation, copy number, gene expression data, and forms
+multiple linear regression to learn the coefficient weights associated
+with FGFR2 inhibitor sensitivity. Using the method, we identify the whole
+spectrum of genetic and molecular features that are potential drug
+response markers.In summary, our study provides new insight into genetic
+and molecular features that implicate in the cellular response to FGFR2
+inhibitors, which can facilitate the development of more effective
+strategies to treat patients with FGFR2 amplification.
+

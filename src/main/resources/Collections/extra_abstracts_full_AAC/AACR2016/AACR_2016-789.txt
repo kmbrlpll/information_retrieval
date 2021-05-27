@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Leveraging transcriptomic and genomic data to better select models
+for preclinical oncology therapeutic development to identify cell lines
+most similar to patient tumors
+
+
+Cancer cell lines represent the front line of new compound testing, and
+results from these experiments often decide which compounds go on for
+further testing. Genomic context plays a critical role in drug response
+and now genomic data for tumors and cell lines are widely available.
+However, cell lines are often chosen based on ease of access, literature
+prevalence, and ease of culture. We combined gene expression and
+CNV/mutation profiling from four pancreatic cancer tumor datasets
+(GSE21501, GSE28735, ICGC, TCGA,) and three pancreatic cancer cell line
+datasets (Klijn et al, Collisson et al, and CCLE) to identify which cell
+lines best match patient tumors.CNV comparison revealed that popular cell
+lines do not always have the best CNV correlation with tumors: when
+comparing pancreatic cancer tumors to cell lines, the citations of the
+top five cell lines by CNV correlation were less than 10% of the
+pancreatic cancer cell line total. Next we filtered for driver mutations
+including SMAD4 and CDKN2A using mutation scoring algorithms and
+clustered tumors and cell lines. We found that many cell lines with few
+citation counts clustered readily amongst tumors (such as L33).
+Leveraging the hypothesis that different hits in the same pathway can
+have a similar downstream effect, we combined CNV, expression and
+mutation data and clustered cell lines together with tumors based on
+overall aberrations in MSigDB cancer pathways. L33 and YAPC clustered
+near tumors while the majority of other cell lines clustered together.To
+identify coexpressed gene clusters, we ran WGCNA individually in all
+seven datasets and discovered modules consistent in cell line and tumor
+datasets using iGraph. One of the most interesting modules (interferon
+regulated genes) is expressed highly in the majority of tumors profiled.
+About half of cell lines also express this module highly, suggesting that
+they may be more ideal models for high interferon expression tumors than
+other cell lines.Here we present evidence demonstrating that certain cell
+lines mimic pancreatic tumor genomes more closely while others represent
+patterns of genomic features not commonly observed in vivo. We also show
+that certain biologically relevant tumor subtypes may be better
+represented by some cell lines than others. Our analysis highlights the
+emerging role of genomics in advancing the clinical success of
+therapeutic trials.
+

@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Oncovirus detection and integration analysis from human tumor
+samples using targeted massively parallel sequencing.
+
+
+Viruses are a major contributor to oncogenesis, causing 10-15% of human
+cancers. Molecular pathways involved in malignant transformation are
+frequently activated by genetic alterations, including but not limited
+to, somatic mutations, copy number aberrations, structural variants, and
+oncoviruses. Precision cancer medicine aims to classify tumors by site,
+histology, and molecular tests to determine an “individualized”
+profile of cancer alterations. However, clinical tests for these various
+alterations are sequential, time consuming, and use a lot of material,
+which is often quite limited (e.g., biopsies). Moreover, tests for the
+presence of viral sequence are generally performed separately to tests
+(such as massively parallel sequencing) to detect human genomic
+alterations. Here we present a hybrid capture and massively parallel
+sequencing approach to detect viral infection concurrently with targeted
+genomic analysis, which may decrease assay costs, increase sensitivity
+and scalability, and detect many types of alterations, thereby providing
+a more complete tumor genetic profile all from a single sample.
+
+We have created a custom hybrid capture probeset for targeted Illumina
+sequencing to determine whether oncoviruses are present in tissue samples
+and also determine if the virus has integrated into the host’s genome.
+We have created both ‘detection’ and ‘integration’ baits for
+several oncoviruses, including polyomaviruses, human papilloma viruses,
+Epstein-Barr virus, human cytomegalovirus, Kaposi sarcoma herpesvirus,
+human T-lymphotropic virus, and hepatitis B virus. To distinguish between
+different strains of a single virus, strain-specific detection baits were
+created to bind to variable regions of viral genomes. The integration
+bait was designed to bind to regions of the viral genomes that are
+commonly integrated into the human genome. This baitset can also be
+combined with other capture panels targeting oncogenes to simultaneously
+determine infection and integration statuses, as well as somatic
+mutations, copy number and structural variants.
+
+To detect virus presence, reads were aligned to a hybrid reference of
+both the human, and targeted virus genomes. Viral integration status and
+integration loci were determined by leveraging discordant read pairs that
+aligned to both the human genome and a viral genome. We have tested our
+techniques on tissue samples that were infected with either Merkel Cell
+Polyomavirus or Epstein-Barr virus, as determined using quantitative
+polymerase chain reaction (qPCR) or immunohistochemistry (IHC)
+techniques, and have successfully detected these viruses and identified
+viral integration loci. Overall, this viral hybrid capture probeset
+provides the ability to simultaneously determine a tissue sample’s
+infection and viral integration status alongside other somatic genomic
+analyses, saving both time and sample material.
+
+

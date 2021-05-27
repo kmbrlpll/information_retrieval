@@ -1,0 +1,24 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Translational modeling of docetaxel-thalidomide combination
+treatment in metastatic, castrate-resistant prostate cancer: predicting
+clinical response using preclinical data
+
+
+A major cause of drug failure in the clinic is that preclinical studies
+do not predict with sufficient certainty what will happen in clinical
+practice. Accurately translating information from animal studies to the
+clinic would have a major impact on attrition rate. We have developed a
+mathematical model of a tumor cell population called the Virtual Tumour,
+which has been used extensively to predict the efficacy of single drug or
+drug combination treatment in preclinical studies. We have now extended
+and adapted our preclinical model to predict efficacy in the clinic, thus
+creating the Virtual Tumour Clinical. Here we show a comparative study of
+the preclinical Virtual Tumour calibrated model for prostate tumor
+xenografts in mice, with a Virtual Tumour Clinical version calibrated
+with a clinical data set comprising 53 prostate cancer patients treated
+with thalidomide, 25 treated with docetaxel and 50 treated with a
+docetaxel and thalidomide combination. PSA measurements were used as
+proxy for tumor size. We analysed the consistency, the capability and the
+limitations of the models in translating the effect of the drug
+combination from the preclinical situation to the clinic.
+

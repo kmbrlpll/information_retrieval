@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Oncomine Cancer Panel: simultaneous detection of clinically
+relevant hotspot mutations, CNVs, and gene fusions in solid tumors
+
+
+Introduction: The Oncomine Cancer Panel (OCP) is designed to
+simultaneously detect and report hotspot mutations, Copy Number Variants
+(CNVs) and gene fusions in 143 genes with minimal DNA/RNA sample input.
+The OCP utilizes the AmpliSeq library preparation chemistry for the Ion
+Torrent Next Generation Sequencing (NGS) platform, in combination with
+data annotations by the Oncomine Knowledgebase. Here we report analytical
+validation of OCP.Methods: DNA and RNA, extracted from the FFPE processed
+GM12878, was used as the negative control to evaluate the specificity of
+OCP. A RNA sample containing multiple oncogenic gene fusions, and a DNA
+sample containing multiple hotspot SNV and indels were used as the
+positive control. Fresh DNA from cancer cell lines (HCC1143 or NCI-H2122)
+along with DNA from matched normal cell lines, HorizonDx NGS standards
+TruQ-1, TruQ-2, several engineered FFPE samples with gene fusions or copy
+number changes, and 26 clinical FFPE samples of a variety of solid tumor
+types (lung, breast, colon, ovary, stomach, uterus and larynx) were used
+to evaluate the OCP performance. The analysis of the sequencing data was
+primarily performed with the OCP pipeline integrated with Oncomine
+Knowledgebase from Life Technologies, supplemented by the MolecularMD
+proprietary pipeline. Only the genetic alterations with clinical utility
+were selected as the final output from the data pipeline. Of these
+detected by OCP, the SBS and indels were confirmed by the Illumina
+TruSeq, Ion Torrent AmpliSeq commercial cancer panels, or by Sanger
+sequencing. Any CNVs detected were confirmed by FISH, if possible, and
+detected fusions were confirmed by RT-PCR or FISH.Results: No clinically
+relevant genetic alterations were detected from the negative control
+FFPE-GM12878, indicating the high specificity of the OCP. High
+specificity was achieved, in part, using stringent filters, which removed
+error prone regions from analysis. The LOD for SBS and short indel
+detection was 5%, as assessed by TruQ-1 and TruQ-2, each containing 15
+variants. While the exact LOD for gene fusion detection is currently
+under evaluation, the 100%, 50% and 20% fusion were detected in the RNA
+samples from serially diluted EML4-ALK or SL34A2-ROS1 fusion into the
+FFPE-GM12878 RNA. Four known gene amplifications (MYC, CCND1, MDM2, AKT1)
+with CNV from 5.4X to 14.5X in HCC1143, and a 15.7X MYC amplification in
+NCI-H2122 were detected. In addition, an EML4-ALK.E13A20 fusion was
+detected in a lung cancer FFPE sample, and confirmed by FISH. The
+analytical sensitivity and the specificity of the OCP are currently
+assessed with 26 clinical samples and three engineered FFPE
+samples.Conclusions: These results demonstrate the high sensitivity and
+specificity of OCP. With as little as 10 ng RNA and 20 ng DNA, OCP
+provides comprehensive screening of patient FFPE tumor specimens for the
+detection of a broad spectrum of clinically relevant genetic alterations.
+

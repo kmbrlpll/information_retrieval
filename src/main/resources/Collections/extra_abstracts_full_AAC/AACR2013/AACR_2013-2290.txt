@@ -1,0 +1,44 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Human gut microbiome and risk of colorectal cancer, a case-control
+study.
+
+
+Introduction: Inflammatory responses play a decisive role in colorectal
+cancer etiology, yet specific causes remain unclear. Our hypothesis is
+that gut microbial alterations promote colorectal carcinogenesis,
+possibly through inflammation. To test this hypothesis, we conducted a
+case-control study of the gut microbiome in 47 histologically confirmed
+colorectal cancer cases and 94 non-cancer controls (matched by gender and
+body mass index) who were previously recruited (Schiffman et al, 1989).
+Demographic and clinical information was assessed by questionnaire and
+medical chart review, and lyophilized fecal biospecimens for gut
+microbiome analysis were obtained before initiation of any
+treatment.Methods: Ribosomal 16S rRNA genes in fecal DNA were amplified
+by universal primers, bar coded and sequenced by 454 FLX technology. 16S
+rRNA bacterial gene sequences were binned into operational taxonomic
+units (OTUs) with 97% identity and aligned to fully sequenced microbial
+genomes (IMG/GG GreenGenes) in the QIIME pipeline. We performed t-tests
+and nonparametric Wilcoxon signed-rank tests to compare differences
+between colorectal cancer cases than controls on alpha diversity
+(Shannon's diversity index) and relative abundance of specific taxa,
+respectively, unadjusted for multiple comparisons.Results: From 141 fecal
+samples, we have obtained 794,217 16S rRNA gene sequence reads. Shannon's
+diversity index was significantly lower in cases (p=0.02; 7.86 for cases;
+8.33 for controls). In taxonomy-based analyses, Fusobacterium genus was
+significantly enriched in the colorectal cancer cases compared with
+control group (p=0.003). Relative abundance of Fusobacterium sequences
+ranged from 0-28.9% in cases (median 0.072%) compared to 0-1.3% in
+controls (median 0.027%). We also noted a relative decrease in abundance
+of Clostridia (p=0.01, class) and Actinobacteria (p=0.03, phylum) in the
+colorectal cancer group compared with controls.Conclusion: This first
+study of the gut microbiome in colorectal cancer patients compared with
+non-cancer controls suggests that the differential abundances in stool of
+Fusobacteria, and possibly Clostridia and Actinobacteria, are associated
+with risk of colorectal cancer. Consistent with our results, two recent
+studies reported that Fusobacterium sequences were enriched in human
+colorectal tumor tissue compared to adjacent normal tissue (Kostic et al,
+2012 and Castellarin et al, 2012). Fusobacterium is an anaerobic,
+Gram-negative bacteria, with invasive and proinflammatory characteristics
+through lipopolysaccharides. Further study is needed to define its role
+in colorectal carcinogenesis.
+

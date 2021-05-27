@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Exome sequencing to identify permissive mutations representing
+acquired vulnerabilities in lung cancer
+
+
+When a lung epithelial cell acquires a driver mutation (e.g. in KRAS) it
+often needs to acquire additional permissive genetic alterations to
+enable the cell to tolerate the oncogenic change. These permissive'
+alterations represent an acquired vulnerability' and consequently a novel
+therapeutic target in lung cancers driven by known, but currently
+un-targetable, driver mutations. Immortalized Human Bronchial Epithelial
+Cells (HBECs) represent a cell appropriate in vitro model to study the
+origin and pathogenesis of lung cancer following introduction of defined
+oncogenic changes. We have previously transformed HBECs to full
+malignancy by introducing five genetic manipulations (to CDK4, TERT,
+TP53, KRAS, MYC, BCL2, PTEN and/or STK11). While malignant transformation
+will be largely driven by the exogenous oncogenotype -i.e. the introduced
+oncogenic alterations- we hypothesize the cells also must undergo
+additional somatic permissive' changes to bypass anti-tumor mechanisms.
+While lung cancers are often highly mutated (mainly due to carcinogens in
+cigarette smoke), manipulated HBECs should exhibit fewer somatic
+mutations, providing greater power to identify important somatically
+acquired mutations that facilitate tumorigenic progression of lung
+epithelial cells.We have sequenced the exomes of a series of 22
+genetically manipulated HBECs derived from two individuals and
+representing 15 unique oncogenotypes (combinations of 3-5 introduced
+manipulations). Paired-end sequencing was performed with an Illumina
+HiSeq 2000 using a VCRome 2.1 liquid capture design exome chip. The
+median fold coverage was 114X, resulting in at least 90% of targeted
+bases are covered at >20-fold. Somatic mutations were called by comparing
+manipulated HBECs to their immortalized parental cell line.Manipulated
+HBECs had a median somatic mutation rate of 0.92 mutations/Mb, 7-9-fold
+lower than observed in lung cancers and tumor cell lines. The median
+mutation rate increased with the number of introduced manipulations
+(HBECs with three, four and five manipulations had 0.47, 0.97 and 0.92
+mutations/Mb, respectively). Non-synonymous somatic mutations were
+identified in 470 genes. Thirty-nine genes were mutated in 3 HBECs
+(recurrent mutations) and of these, 35 genes (none currently regarded as
+driver oncogenes and 5 potentially druggable' [DGIdb]) were also mutated
+in primary lung adenocarcinoma and squamous cell carcinomas (TCGA
+data).We found the introduction of defined oncogenic alterations in HBECs
+is accompanied by the acquisition of somatic mutations. Leveraging
+against public somatic mutation data for lung tumors has allowed us to
+prioritize mutations for follow up to better identify potential acquired
+vulnerabilities in lung cancer cells and therefore, novel therapeutic
+targets.
+

@@ -1,0 +1,32 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Redefining the somatic landscape of pancreatic adenocarcinoma
+
+
+Efforts to catalogue genomic abnormalities in pancreatic ductal
+adenocarcinoma (PDAC) have been challenging due to low tumor cellularity
+which requires deep sequencing to obtain adequate coverage of tumor DNA.
+To make whole genome sequencing (WGS) feasible with PDAC tumors, we have
+developed protocols for sequencing enriched tumor material by laser
+capture microdissection (LCM) from frozen samples and by flow sorting
+when fresh tissue is available. The enriched samples have a median tumor
+cellularity of 88% compared to a median cellularity of 12% in the bulk
+samples. Furthermore, the enrichment methods may also provide a source of
+normal or reference material, non-tumor cells in the case of LCM and
+CD45+ blood cells in the case of flow sorting, and eliminate the need for
+matched blood samples to call somatic variation. In conjunction with low
+quantity DNA input protocols for library construction, high quality next
+generation sequencing libraries are readily produced without sacrificing
+library complexity that enables somatic mutation, copy-number and
+structural variant detection at modest sequencing depths (50x). These
+methods are applicable to all tumor types where significant stromal
+contamination hinders somatic mutation detection. In addition to
+redefining the rates of known somatically altered genes in PDAC, such as
+CDKN2A and SMAD4, the high cellularity data set has also allowed us to
+evaluate PDAC tumor heterogeneity with the ability to detect sub-clonal
+variation that is not masked by non-tumor DNA. Moreover, in 50% of the
+samples sequenced to date, we observe evidence of punctuated evolution
+suggesting a catastrophic event during mutagenesis, which may be
+associated with the clinically observed rapid progression of the disease.
+The result of enhanced somatic mutation detection is a more comprehensive
+picture of the PDAC genomic landscape.
+

@@ -1,0 +1,39 @@
+Meeting: 2013 AACR Annual Meeting
+Title: drugCARD: a database of anticancer treatment regimens and drug
+combinations.
+
+
+Physiomics and Pharmacometrics have collaborated to design a new database
+of anti-cancer drugs and therapeutic treatment information. The objective
+is to provide a database of anti-neoplastic agents, regimens and
+combinations for use by clinicians and researchers in oncology.The
+drugCARD database, accessible through the web, offers data on more than
+130 anti-cancer drugs (small molecules and biologics) used in research
+and in the clinic. It contains information on drug combinations as well
+as several hundreds of cancer chemotherapy regimens used routinely in the
+clinic. The data are classified according to tumour type, species and
+experimental system (in vitro or in vivo). This database will be
+regularly expanded and curated with the most current
+information.Individual drug information contained within the database
+comprises pharmacokinetic profiles, mechanisms of action and resistance,
+dose-response effect, dosing limits, therapeutic index and
+immunosuppression data. Drug combinations are also referenced. The
+database covers synergy or antagonism, and includes the combination
+therapeutic index and cross-resistance information. Drug combinations
+where the level of synergy is dependent upon the drug schedule, drug
+sequence or administration timing are also referenced and thoroughly
+discussed. The user can browse and compare chemotherapeutic regimens, and
+analyse the overall drug dose over a course of treatment, by tumour type,
+in animal and clinical models. Moreover, the database enables users to
+design new combinations and regimens that obey dosing constraints (such
+as MLD and MTD), and can be used to determine drug candidates that could
+be combined with a new chemical or biological entity, given the
+respective mechanisms of action and other PK/PD data. Data can be
+exported for analysis in spreadsheets, modelling software or simulation
+packages. Advanced functions will include the ability to carry out
+statistical analysis on drug usage and dosing in various contexts.
+Finally, the database allows the expression and nomenclature of
+chemotherapy regimens to be standardized, which is of paramount
+importance in improving efficacy, as well as reducing medication errors
+(Kohler et al 1998).
+

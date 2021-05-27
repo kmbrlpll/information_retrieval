@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Isolation of both EpCAM+ and EpCAM- tumor cells in microfluidic
+devices
+
+
+Isolation and enumeration of circulating tumor cells (CTCs) in peripheral
+blood have been used for cancer diagnosis, prognosis, and theragnosis.
+The majority of the CTC isolation methods, including the FDA-approved
+CellSearch, employ antibodies against epithelial cell adhesion molecule
+(EpCAM). However, it is known that some CTCs express little or no EpCAM,
+partially due to epithelial-to-mesenchymal transition (EMT). As a result,
+an ideal method should be able to isolate all types of tumor cells
+including epithelial tumor cells (EpCAM positive), mesenchymal tumor
+cells (EpCAM negative), and those cells in the transition.We have
+investigated in using fibrin-immobilized microfluidic devices to isolate
+both EpCAM+ and EpCAM- cells, since it has been found that fibrin
+deposits on the surfaces of carcinoma and sarcoma cells where normal
+cells and tissue showed no deposits of fibrin during tumor
+progression/metastasis [1]. The microfluidic devices we used [2] are in
+the size of a microscope slide and each of them consists of an inlet, an
+outlet, and eight parallel channels connected via consecutive bifurcation
+between the inlet and outlet. There are micromixers inside the channels
+for enhanced interactions. The channels were first exposed with thrombin
+and then fibrinogen, followed by a buffer to stop the thrombin-activated
+fibrinogen's polymerization. At the end, a thin layer of fibrin polymer
+was formed on the surface of microchannels and the device was then used
+to isolate tumor cells.We tested the device for isolation of Pan-1
+(EpCAM+ pancreatic cancer cells), CCRF-CEM (EpCAM- leukemia cells), and
+MIAPaCa-2 cells (EpCAM- pancreatic cancer cells) in PBS (phosphate
+buffered saline). All of them showed capture efficiency of 80% to 90% at
+a flow rate of 1.0 L/s. The capture efficiency, calculated by dividing
+the number of cells captured by the number of cells introduced into the
+device, decreased as the flow rate increased from 0.5 L/s to 3 L/s,
+because there were less interaction time between cells and fibrin at a
+higher flow rate. Capture efficiency of 86+4% was obtained when CCRF-CEM
+cells were spiked in human whole blood at a concentration of 1 thousand
+to 1 million cells/mL. We also studied the effects of combining aptamers
+with fibrin on the channel surfaces and found an enhanced interaction
+between aptamer-specific tumor cells and the aptamer-fibrin surface.In
+summary, microfluidic devices with fibrin-immobilized channel surfaces
+were able to capture both EpCAM+ and EpCAM- cells, suggesting a
+possibility to isolate both epithelial and mesenchymal tumor cells.
+Moreover, the fibrin surface could be enhanced by tumor-cell-specific
+capture agents such as aptamers or antibodies.References:[1] F. W.
+Schardt, B. Schmausser and E. Bachmann, Histol Histopathol, 2013, 28,
+993-998.[2] W. A. Sheng, O. O. Ogunwobi, T. Chen, J. L. Zhang, T. J.
+George, C. Liu and Z. H. Fan, Lab Chip, 2014, 14, 89-98.
+

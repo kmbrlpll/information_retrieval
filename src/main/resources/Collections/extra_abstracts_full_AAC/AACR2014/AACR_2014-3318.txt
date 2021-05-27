@@ -1,0 +1,36 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Using synthetic lethal screening to identify therapeutic targets
+for innately platinum resistant lung cancer
+
+
+Although platinum-based chemotherapy is the standard of care for most
+cases of advanced lung adenocarcinoma, its effectiveness is limited by
+the frequent incidence of innate chemoresistance. As a result, response
+rates rarely exceed 20%, even though cis-platinum and carboplatin are
+highly effective in other settings such as small cell lung, ovarian and
+testicular cancers. We hypothesized that innate chemoresistance in lung
+adenocarcinoma is mediated by one or more signalling pathways dependent
+on the expression of a single gene, and that these pathways could
+ultimately be targeted therapeutically. To address this question, we
+developed a synthetic-lethal high throughput siRNA screen using the
+innately resistant A549 lung adenocarcinoma cell line. Optimisation of
+the screen was performed using a siRNA death control (PLK1), which
+induced cell death in the absence of platinum, and a sensitization
+control (MTOR), which enhanced cell death only in combination with a
+sublethal concentration of carboplatin. These independent controls
+revealed that the screening protocol performed within acceptable limits
+of variability, quality and reproducibility as determined by Z factor
+analysis. Screening was then performed using a pool of four siRNAs
+targeting a single gene in conjunction with vehicle treatment, or with
+carboplatin. After screening siRNAs targeting the 720 kinases, 256
+phosphatases and 4794 druggable targets of the human genome, we
+identified 50 candidate targets based on fold change difference between
+platinum and vehicle treatments, and statistical significance determined
+by multiple t-test corrected for false discovery rate. Preliminary
+integrated pathway analysis of RNA expression array and screening
+datasets revealed a highly significant enrichment of sensitizing genes in
+previously identified pathways as well as novel pathways. These data
+demonstrate that a synthetic-lethal approach can be used to identify
+therapeutic targets that could potentially sensitize lung adenocarcinoma
+to platinum-based chemotherapy.
+

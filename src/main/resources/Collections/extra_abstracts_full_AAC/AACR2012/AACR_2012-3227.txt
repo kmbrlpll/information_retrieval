@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: GX15-070 induces cell death in acute lymphoblastic leukemia (ALL)
+cells by regulating cellular cholesterol metabolism
+
+
+Introduction: With the improvement of treatment outcome in pediatric
+acute lymphoblastic leukemia (ALL), about 80% of the patients can be
+cured. However, around 10% of patients have poor outcome due to drug
+resistance which calls for novel drugs such as BH3-mimetics. We have
+previously demonstrated that GX15-070 (GX), a BH3-mimetic, could
+effectively induce cell death. In this study, we investigate the
+mechanisms of GX induced cell death in ALL cells. Method: Seven ALL cell
+lines were used in this study. Cell viability was determined by MTS assay
+(Promega). Western blot was used to detect protein expression level.
+Cholesterol (CHO) level was measured by Amplex Red Cholesterol Assay Kit
+(Promega). RT-PCR was done by Roche Light Cycler using SYBR Green.
+Results: There was a dose-dependent cell death induced in all 7 ALL cell
+lines after treatment with GX. Interestingly, genes that are involved in
+the CHO synthesis pathway such as LDLR, HMGCR, HMGSC1 and SQLE were
+upregulated after GX treatment. Furthermore, GX mediated reduction in
+cellular CHO levels was observed. To verify that CHO depletion could
+induce cell death in ALL cells, Lovastatin was applied. Our results
+showed that Lovastatin not only induced a dose-dependent cell death in
+all 7 ALL cell lines but also upregulated the genes mentioned above.
+Co-treatment of 0.1M GX and 25M Lovastatin could enhance the cell death
+by further decreasing CHO level. In addition, GX-induced cell death could
+also be enhanced by 10mM 2-Deoxy-D-glucose (2-DG) co-treatment. 2-DG is
+an inhibitor of glycolysis which provides metabolites for CHO metabolism.
+Next, to mimic a culture condition whereby CHO is depleted, we incubated
+the cells in HBSS without Fetal bovine serum (FBS) for 24h. This CHO
+depleted condition decreased the cellular CHO level to 46% compared to
+the cells that were cultured in 10% FBS and RPMI medium. After incubation
+in HBSS for 24h, 0.1M GX could eliminate more cells (80%) compared to the
+same dose of GX in serum supplemented RPMI medium (20%). Both HBSS
+incubation and GX treatment caused a decrease in anti-apoptotic protein
+Mcl-1 expression levels, while pro-apoptotic protein BIM and cleaved-PARP
+protein levels were upregulated. The two treatments did not alter the
+protein levels of other Bcl-2 family members. These results indicate that
+Mcl-1 expression is tightly controlled by cellular metabolism and CHO
+depletion can result in cell death. The mechanism of GX induced cell
+death may entail the suppression of Mcl-1 expression, hence sensitizing
+ALL cells to apoptosis. Conclusion: GX can regulate CHO metabolism to
+induce cell death in ALL cells which are normally dependent on aerobic
+glycolysis. This highlights the possibility of manipulating CHO
+metabolism to provide a specific way to treat leukemic cells. The
+administration of GX in the clinic, alone or in combination, may improve
+the treatment outcome of leukemia.
+

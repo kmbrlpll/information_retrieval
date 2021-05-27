@@ -1,0 +1,78 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Comprehensive catalog of culture-derived exosomal microRNA cargo
+from 4 discrete head and neck carcinoma cell lines
+
+
+Background: Exosomes are nano-sized (40-100 nm), membrane encapsulated
+vesicles that are released by cells into the extracellular space and
+function as intercellular signaling vectors through the horizontal
+transfer of biologic molecules, including non-coding RNA. MicroRNA
+(miRNA) are small (18-25 nucleotides in length), evolutionarily
+conserved, non-coding RNA molecules that are involved in regulation of
+gene expression in essentially all eukaryotic organisms through
+post-transcriptional degradation and translational inhibition of
+messenger RNA (mRNA). The purpose of this study was to catalog exosomal
+miRNA cargo that are differentially secreted from head and neck squamous
+cell carcinoma (HNSCC) cells in vitro using Next Generation
+miRNA-sequencing.Methods: We obtained 4 commercially available HNSCC cell
+lines: (1) H413 (female, buccal); (2) Detroit 562 (female, pharynx
+metastatic to pleura); (3) FaDu (male, hypopharynx) and (4) Cal 27 (male,
+tongue). We additionally obtained HGEPp primary human gingival epithelial
+cells (pooled from 3 healthy female donors) for comparison. Cells were
+cultivated in supplier-recommended media with 10% fetal bovine serum
+(FBS) that was super-depleted of exosomes via 18 hour ultracentrifugation
+at 100,000g and 1% penicillin/streptomycin at 37C with 5% CO2 in 150 cm2
+flasks with 25mL media. To achieve adequate volume for exosome isolation
+(50mL), cells were cultured in 2-pair sets of flasks in triplicate (6
+flasks total per cell line). Media was collected when cells reached
+80-90% confluence. Exosomes were isolated and purified from
+exosome-depleted cell culture media by differential ultracentrifugation
+and the presence of purified exosomes was verified via nanoparticle
+tracking analysis (NTA) using a NanoSight NS300 instrument. Total RNA was
+extracted from each exosome pellet using the miRNeasy Micro kit, and Next
+Generation miRNA-sequencing was subsequently performed by the University
+of Cincinnati Genomics, Epigenomics and Sequencing Core (Cincinnati, OH)
+using the Illumina HiSeq platform. Differential exosomal miRNA secretion
+was assessed between each HNSCC cell line and the non-pathologic gingival
+epithelial control cells, adjusting for false-discovery rate using the
+Benjamini and Hochberg method.Results: We observed 93 miRNA transcripts
+that were differentially secreted (Q Background: Exosomes are nano-sized
+(40-100 nm), membrane encapsulated vesicles that are released by cells
+into the extracellular space and function as intercellular signaling
+vectors through the horizontal transfer of biologic molecules, including
+non-coding RNA. MicroRNA (miRNA) are small (18-25 nucleotides in length),
+evolutionarily conserved, non-coding RNA molecules that are involved in
+regulation of gene expression in essentially all eukaryotic organisms
+through post-transcriptional degradation and translational inhibition of
+messenger RNA (mRNA). The purpose of this study was to catalog exosomal
+miRNA cargo that are differentially secreted from head and neck squamous
+cell carcinoma (HNSCC) cells in vitro using Next Generation
+miRNA-sequencing.Methods: We obtained 4 commercially available HNSCC cell
+lines: (1) H413 (female, buccal); (2) Detroit 562 (female, pharynx
+metastatic to pleura); (3) FaDu (male, hypopharynx) and (4) Cal 27 (male,
+tongue). We additionally obtained HGEPp primary human gingival epithelial
+cells (pooled from 3 healthy female donors) for comparison. Cells were
+cultivated in supplier-recommended media with 10% fetal bovine serum
+(FBS) that was super-depleted of exosomes via 18 hour ultracentrifugation
+at 100,000g and 1% penicillin/streptomycin at 37C with 5% CO2 in 150 cm2
+flasks with 25mL media. To achieve adequate volume for exosome isolation
+(50mL), cells were cultured in 2-pair sets of flasks in triplicate (6
+flasks total per cell line). Media was collected when cells reached
+80-90% confluence. Exosomes were isolated and purified from
+exosome-depleted cell culture media by differential ultracentrifugation
+and the presence of purified exosomes was verified via nanoparticle
+tracking analysis (NTA) using a NanoSight NS300 instrument. Total RNA was
+extracted from each exosome pellet using the miRNeasy Micro kit, and Next
+Generation miRNA-sequencing was subsequently performed by the University
+of Cincinnati Genomics, Epigenomics and Sequencing Core (Cincinnati, OH)
+using the Illumina HiSeq platform. Differential exosomal miRNA secretion
+was assessed between each HNSCC cell line and the non-pathologic gingival
+epithelial control cells, adjusting for false-discovery rate using the
+Benjamini and Hochberg method.Results: We observed 93 miRNA transcripts
+that were differentially secreted (Q < 0.05) in exosomes derived from at
+least one of the HNSCC cell lines relative to the non-pathologic
+epithelial control cells; 23 miRNA transcripts were differentially
+secreted by all 4 cell-lines.Conclusions: This provides evidence for
+differential secretion of miRNA in HNSCC-derived exosomes. These exosomal
+miRNA warrant further evaluation as potential biomarkers for HNSCC.
+

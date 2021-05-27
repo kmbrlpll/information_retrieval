@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Zebrafish as a model organism to study human pancreatic CSC's.
+
+
+Zebrafish is establishing itself as a powerful animal model for
+understanding human disease, including cancer. Xenotransplantation of
+human cancer cells into zebrafish is becoming an attractive research
+tools for studying cancer behaviour, both for established lines and
+primary tumours, however, its utility as a model for cancer stem cells
+(CSCs) is still in its infancy. In addition, only when the differences
+between primary tumours and established cancer cell lines are minimized
+will we be truly one step closer to developing biologically relevant
+personalized medicine platforms for cancer. To address these two
+limitations, we set out to achieve a deeper behavioral understanding of
+pancreatic CSCs inside the zebrafish embryo. The main methodology of this
+study was focused on the xenotransplantation of human primary pancreatic
+ductal adenocarcinoma (PDAC) cells (185 scd line) into zebrafish embryos
+using two different conditions: adherent cells (non-CSCs) vs
+sphere-derived cells (CSCs). Marked with a lipophilic dye, cells were
+injected into zebrafish embryos and incubated at 36ºC during 48h/72h to
+assess the proliferation of the injected cells. Self-developed Matlab
+software was used to analyze the intensity and area of the injected cells
+in order to give a ‘proliferation ratio’. Results obtained indicated
+that the sphere-derived cells proliferated and migrated at a higher rate
+than adherent cells. This is likely due to the different CSC content
+present between the two conditions tested: adherent pancreatic 185 cells
+contain 1% CSCs versus the 15% enrichment of CSCs in sphere-derived 185
+cells. Apart from the differential CSC content, we also hypothesize that
+the 3D environment afforded by the yolk sac of the zebrafish embryo
+additionally favors the expansion of CSCs. Importantly, similar results
+were obtained with CSCs isolated via FACsorting, using autofluorescence
+as a marker for CSCs. This work not only contributes to the behavioral
+understanding of pancreatic CSCs using the zebrafish model organism but
+more importantly concludes that 1) PDAC CSC proliferation and migration
+can be studied in zebrafish, 2) the zebrafish model represents a
+potentially powerful surrogate model for the study of PDAC CSC biology in
+vivo, and 3) this model can potentially be adapted for to test
+chemotherapeutics that specifically target PADC CSCs, the cell type
+considered to be the most chemoresistant and tumorigenic in pancreatic
+cancer.
+
+

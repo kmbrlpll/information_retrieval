@@ -1,0 +1,41 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Sample specific outlier kinase expression identified by RNA-Seq
+provide targets for precision therapy.
+
+
+Protein kinases represent a most effective class of therapeutic targets
+in cancer cells, and potent inhibitors of oncogenic kinases including
+ABL, AKT, ALK, AURKs, BRAF, CDKs, EGFR, ERBB2, FGFRs, KIT, MAPKs, MET,
+PIK3CA, PLKs, RET, SRC, S6Ks, and VEGFR are in clinical use, trials, or
+development. Presence of activating mutations, gene fusions or copy
+number amplification of many of these kinases predict responsiveness to
+specific inhibitors, for example, imatinib for BCR-ABL-positive chronic
+myeloid leukemia, trastuzumab and lapatinib for ERBB2-amplified breast
+cancers, gefitinib for lung cancers with kinase domain mutations in EGFR,
+and crizotinib for lung cancers with ALK gene fusions. However, tumors
+with defined kinase aberrations represent a very small proportion of all
+cancers, and we hypothesize that potentially most, if not all, cancers
+are dependent on specific kinases, and that Outlier Expression of
+specific kinases in individual samples may be indicative of selection
+during clonal evolution, and thus may represent a therapeutic avenue. To
+explore this hypothesis, we analyzed RNA-sequencing data from a
+compendium of 482 cancer and benign samples belonging to 25 different
+tissue types to define sample-specific kinome expression profiles.
+Comparing the expression of kinases within a sample and across sample
+sets, we identified distinct outlier kinases in individual samples,
+defined as genes showing the highest statistically significant levels of
+absolute and differential expression. Frequently observed outlier kinases
+included known therapeutic targets like ERBB2 and FGFR4 in breast cancer,
+distinct from MET, AKT2, and PLK2 in pancreatic cancer. Outlier kinases
+imparted sample-specific dependencies in various cell lines as assessed
+by siRNA knockdown or pharmacologic inhibition in vitro and in vivo.
+Outlier expression of polo-like kinases (PLKs) observed in a subset of
+KRAS-dependent pancreatic cancer cell lines conferred increased
+sensitivity to the PLK inhibitor BI 6727. Together, our results suggest
+that outlier kinases represent effective personalized therapeutic targets
+that are readily identifiable through RNA-sequencing of tumors. Next, to
+help translate these observations into treatment options, we are
+attempting to establish 3D tumoroid cultures from tumor samples that can
+be used to optimize combinations of therapeutics including outlier kinase
+inhibitors.
+

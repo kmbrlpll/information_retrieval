@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: A panel of in vitro kinase assays developed using a novel
+detection technology to predict and monitor EGFR inhibitor efficacy.
+
+
+The efficacy of kinase inhibitors, a highly studied class of drugs used
+to treat many forms of cancer, remains difficult to predict or tailor to
+individual specific carcinomas. Monitoring multiple biomarkers in the
+course of drug development may lead to more successful therapeutic design
+and patient treatment regimens. Here we discuss the generation and use of
+assays to measure a panel of kinase biomarkers using Acoustic Membrane
+Microparticle (AMMP) technology on the VIBE workstation to efficiently
+monitor both on- and off-target effects of kinase inhibitors directed
+against the EGFR family of tyrosine kinase receptors. These results may
+be used to better predict the roots of drug resistance.Two cell lines
+were selected for use in this study on the basis of EGFR expression. The
+epidermoid carcinoma A431 cell line is a high expressor of the
+endothelial growth factor class of receptors and, therefore, subject to
+EGFR inhibition. This line was used to evaluate on-target effects of the
+selected EGFR inhibitors. In contrast, the MCF-7 breast cancer cell line,
+a low expressor of EGFR class of receptors, should be much less
+susceptible to EGFR inhibition, and was used to better understand the
+off-target effects of the EGFR inhibitors.Cells were preincubated at
+reported IC50 concentrations of EGFR inhibitors gefitinib and neratinib,
+then stimulated by EGF, lysed, and assessed for cell surface receptor
+(EGFR and HER3) and cytosolic kinase (MEK, ERK, p38, JNK and AKT)
+activity. As expected, EGF stimulated a large phosphorylation event of
+EGFR, HER3, MEK and ERK in the A431 cell line, with little observable
+change for the MCF-7 cell line. A significant increase in the
+phosphorylation of p38 but little change in JNK was seen in both
+lines.The phosphorylation of EGFR and HER3 in the A431 cells appeared
+unaffected by gefitinib, but completely inhibited by neratinib.
+Unexpectedly, no downstream inhibition of EGF-stimulated MEK or ERK
+phosphorylation was observed in the A431 cell line for either inhibitor.
+In contrast, EGF-induced p38 phosphorylation was significantly inhibited
+in both the A431 and the MCF-7 cell lines.Here we have constructed a
+panel of assays that may be used to better predict biological activity,
+not only at the target site of a kinase drug, but also downstream of that
+site. This panel demonstrated that EGF was still able to activate both
+MEK and ERK despite failing to phosphorylate either the EGFR or HER3
+receptors, revealing that EGF may be acting through other receptors.
+Consequently, blocking of this class of receptors may only be partially
+effective in preventing EGF-induced activity. Further, preventing the
+phosphorylation of the EGF class of receptors may not be sufficient to
+completely inhibit the ligand induced phosphorylation of the Mitogen
+Activated Kinase pathway.
+

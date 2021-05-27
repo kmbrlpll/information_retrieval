@@ -1,0 +1,28 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Mutaome-based magnolin sensitivity in ovarian cancer cells
+
+
+Signaling pathways mediated through Ras/Raf/MEK/ERK and/or PI3K/AKT/mTOR
+signaling pathways play a key role in cell transformation and cancer
+development. During carcinogenesis, genomic alterations, accumulation of
+mutations and amplification of growth signaling, induce cellular
+phenotype changes including escaping aging, metabolic change of energy
+source and resistance against therapeutic agents. Recently, our research
+group has identified a natural compound, magnolin, that inhibits ERK1 and
+ERK2 kinase activities with about 87 uM and 16.5 uM of IC50,
+respectively. However, the effect of magnolin in cancer cells has been
+poorly understood. To explore the effect of magnolin in cancer cells, we
+examined anti-proliferation effect of magnolin in pancreatic, colon and
+ovarian cancer cells. We found that striking differences of cancer cell
+proliferation was observed in ovarian cancer cells, TOV112D and SKOV3, by
+magnolin treatment. In TCGA mutaome data-base analysis, we found that
+TOV112D and SKOV3 harbor the different mutations in different genes which
+are known to involve in chemo-resistance. In cell cycle analysis, we
+found that TOV112D reduced S-phase of cell cycle and increased
+G1/G0-phase of cell cycle. Importantly, activation protein profiles in
+TOV112D and SKOV3 cells by Western blotting showed that phosphorylation
+of p90RSK including RSK2 was higher in SKOV3 cells compared with TOV112D
+cells. These results strongly suggested that alteration of p90RSK
+signaling may play an important role in expression of chemo-resistance in
+ovarian cancer cells.
+

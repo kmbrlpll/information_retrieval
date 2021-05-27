@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The bromodomain inhibitor JQ1 sensitizes homologous recombination
+proficient ovarian cancer cells to the PARP inhibitor olaparib.
+
+
+Introduction: Lack of effective treatment options for high-grade serous
+ovarian cancers (HGSOC) retaining functional homologous recombination
+(HR) DNA repair pathways is a significant clinical problem. HR-proficient
+HGSOC tumors, for example those harboring cyclin E amplifications, have
+poorer clinical outcomes and show relative resistance to DNA-damaging
+platinum agents and newer poly ADP ribose polymerase inhibitors (PARPi).
+We and others have shown that using epigenetic drugs to reduce HR
+efficiency in HR-proficient HGSOC sensitizes these cancer cells to DNA
+damaging agents. One mechanism by which these drugs reduce HR efficiency
+is by transcriptional down-regulation of HR pathway components. An
+emerging class of epigenetic mediators of pro-tumorigenic transcription
+is the bromodomain (BRD) family of proteins, and BRD inhibitors (BRDi)
+have shown promising preclinical anti-tumor efficacy. However, it is
+unknown whether BRDi sensitize HR-proficient HGSOC to DNA damaging
+agents. Aims: To test the hypothesis that BRDi decrease efficiency of HR
+DNA repair in HR-proficient ovarian cancer cells, thereby sensitizing
+them to PARPi.
+
+Methods: The HR-proficient ovarian cancer cell lines, OVCAR-3 (cyclin
+E-amplified) and SKOV3, were treated with 0.01% DMSO vehicle, the PARPi
+olaparib (Astra Zeneca), the BRDi JQ1 or with the olaparib/JQ1
+combination. Sulforhodamine B (SRB) assays assessed cell growth and
+viability (72 hours treatment). Immunofluorescence (IF) assays assessed
+markers of DNA damage (pH2AX), apoptosis (cleaved caspase-3), and HR
+efficiency (RAD51 foci, and GFP expression in cells co-transfected with
+I-Sce1 endonuclease and DRGFP HR reporter plasmids) (24 hours treatment).
+Steady state levels of the HR protein BRCA1, pH2AX and cleaved caspase-3
+were assessed by western blot (24 hours treatment).
+
+Results: The combination of JQ1 and olaparib synergistically reduced
+cancer cell viability following isobologram analyses of SRB experiments.
+Compared to either drug alone, the JQ1/olaparib combination also
+significantly reduced BRCA1 expression and increased protein levels of
+cleaved caspase-3 and pH2AX in western blots, and also increased the
+number of cells displaying DNA damage and apoptosis in IF assays.
+Finally, JQ1 and olaparib combined to significantly reduce HR efficiency
+in our RAD51 foci formation and DRGFP assays compared to olaparib alone.
+
+Conclusions: Our results suggest that BRDi sensitize HR-proficient cells
+to DNA damaging drugs, in part by reducing efficiency of HR DNA repair.
+These findings have important implications for expanding the use of PARPi
+in HR-proficient HGSOC through rational combinations with epigenetic
+drugs such as BRDi that target the HR pathway.
+
+

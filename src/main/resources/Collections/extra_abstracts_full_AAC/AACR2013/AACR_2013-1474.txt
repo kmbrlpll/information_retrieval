@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: An RNAi-based functional classification of lung cancer reveals
+recurring subgroups strongly correlated with EMT status.
+
+
+Introduction: Personalized therapeutic approaches which stratify patients
+into subgroups based on mutation, amplification, or expression profiles
+have proven effective. Previously, we showed that mRNA expression
+profiling of nuclear receptors (NRs) segregated NSCLC patients into
+prognostic groups. Using a gene-library knockdown strategy, we aim to
+demonstrate the diagnostic and therapeutic value of NRs and their
+co-regulators (Co-Regs).Aims and Methods: We used a large panel of lung
+and breast cell lines of various types to develop a patient
+stratification scheme based on functional/survival response to pooled
+siRNA mini library screens. The first siRNA mini-library consists of 48
+NR and 72 CoReg targets. Screens were performed in triplicate across a
+panel of 54 lung cancers (NSCLC and SCLC), 20 breast cancers, 6
+immortalized human bronchial epithelial cell lines (HBECs), and a series
+of oncogenically progressed HBECs. Each triplicate assay was repeated
+three times using optimized transfection conditions and followed by
+statistical analysis (r>0.83 for replicate screens). A second siRNA
+library targeting 53 chromatin remodelers, 26 jumonji enzymes, and 23
+palmitoyl transferases was also screened against these same lines using
+the same protocol.Results and Conclusions:1) Response (inhibition or
+stimulation of growth) to any given siRNA knockdown was heterogeneous
+across the panel, reflecting the high degree of genetic/functional
+variability between cancer lines.2) 85% of the siRNA knockdowns reduced
+viability in at least one tumor line. Several knockdowns demonstrated
+selective killing of a significant portion of the cancer lines but not
+the normal HBECs. Many knockdowns differentially affected subsets of cell
+lines (suggesting possible personalized therapeutics) while others
+uniformly affected nearly the entire panel.3) Screening a series of
+oncogenically progressed HBECs (with p53, KRAS, LKB1) revealed new
+vulnerabilities detected by a change in response to NR/CoReg knockdown,
+highlighting the underlying biological changes accompanying
+oncogenesis.4) Unexpectedly, we found that classification of the tumor
+cells by the NR/CoReg mini-library was similar to the classification
+derived from the second library. The two libraries independently produced
+a similar subgrouping of the tumor panel. Combined analysis of the two
+libraries found similar groups.5) Although there was no obvious
+correlation between oncogenotypes or mRNA expression of individual NRs or
+CoRegs, one subgroup (n=26) consisted almost exclusively of lines that
+had undergone EMT, suggesting possible subtypes of mesenchymal cells.We
+conclude that siRNA-minilibrary screens targeting NRs, CoRegs, and
+chromatin remodeling genes provide a new functional classification of
+lung and breast cancer with strong translational potential. Work funded
+by CPRIT.
+

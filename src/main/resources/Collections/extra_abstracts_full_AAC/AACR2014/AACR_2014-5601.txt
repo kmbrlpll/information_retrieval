@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identification of critical steps involved in optimization of next
+generation sequencing (NGS) using a retrospective meta-analysis of a
+large clinical testing cohort
+
+
+Introduction: There is increased use of NGS technology in clinical
+applications. Promise of this platform's applicability in the assessment
+of somatic mutations is seen in improvements in sensitivity over other
+sequencing methods, higher throughput and rapidly decreasing cost. We
+analyzed a large cohort, n=1210, of sample data from routine testing
+since 2012 and find that results are robust. However, there are several
+areas that users of NGS technology can optimize to assure the highest
+levels of accuracy for clinical-grade sequencing results.Methods: NGS was
+performed as targeted sequencing of multiple exons (132 amplicons) from 5
+genes (ASXL1, RUNX1, ETV6, EZH2, and TP53). Patients had a prior
+diagnosis of, or were suspected of having, myelodysplastic syndrome
+(MDS). Validated sample types included bone marrow aspirates and
+peripheral blood. DNA was extracted from samples and processed in
+duplicate using a clinically validated testing procedure. Libraries were
+created using a Fluidigm Access Array system and sequencing was performed
+on the Illumina MiSeq platform. The limit of detection of this assay is
+5% mutant allele with a minimum depth of coverage of 500x. Alignment and
+variant calling was performed using NextGENe software. Custom Perl
+software was used to provide quality checking of results, duplicate run
+comparisons, and annotation from existing databases for known germline
+and somatic variants.Results: From 1210 random patient samples run in
+duplicate, 738 (61%) samples demonstrated 2081 variant calls in only one
+of the two replicates. The quality and quantity of input DNA is paramount
+to achieving stable results (DNA input accounts for 75% of singlicate
+results in this study). In addition, specific regions of sequence have
+been identified as hot spots of high variability, accounting for 21% of
+the singlicate calls in this study. For example, RUNX1 accounts for 46%
+of the singlicate calls and 84% of those are concentrated in exon 3, a
+254bp, GC-rich region. Finally, the resulting data must be well managed
+by analytical and bioinformatics tools to assure accuracy but meet the
+requirements of the high throughput and robust clinical setting. Although
+these factors can be mitigated, the use of duplicate testing of a large
+cohort of hematologic patient specimens allowed identification of these
+sources of variation, providing a cautionary note to others using NGS in
+a clinical setting.Conclusions: Duplicate NGS runs from about a year of
+clinical testing demonstrate robust results. However, laboratories need
+to address factors that may confound results such as input sample
+quantity/quality, amplicon design, and post-analytical processing. These
+can introduce the potential for false-positive/negative results in
+routine testing without additional confirmation.
+

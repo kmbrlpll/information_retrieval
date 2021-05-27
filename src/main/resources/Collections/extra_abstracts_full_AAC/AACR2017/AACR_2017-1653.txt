@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Modeling tumor immuno-dynamics to predict patient survival and
+immunotherapy efficacy.
+
+
+State of the art models of cancer survival are increasingly utilizing
+molecular data that feature the number of non-synonymous mutations, or a
+network based stratification of mutations, as significant predictors. It
+is widely hypothesized that this association between mutations and
+survival is a result of neo-epitopes that induce a robust anti-tumor
+immune response. Naively this implies that patient neo-epitope burden
+should better predict survival than that of mutations alone, however this
+has generally been difficult to prove. Indeed, mutations and predicted
+neo-epitopes explain roughly the same survival variance, likely due to
+the intertwined difficulties of neo-epitope prioritization and the often
+immuno-suppressive tumor microenvironment.
+
+Reasoning that integrating leading order immune response with novel
+neo-epitope prioritization will lead to superior performance, we built a
+statistical model to quantify the influence of tumor immune-dynamics on
+patient survival. Neoepitopes (MHC-I/II) were predicted from mutations
+and filtered on a self-ligandome. The clonal structure of these mutations
+and the distribution of resulting epitopes were assessed as predictive
+features. Additionally, the existing response to epitopes was assayed by
+incorporating TCR and BCR sequence counts and entropy as a proxy for
+clonal tumor infiltrating lymphocyte expansion.
+
+Leveraging the cancer genome atlas (TCGA) for 9 major cancer types
+including bladder (BLCA), breast (BRCA), colorectal (COAD/READ),
+glioblastoma (GBM), liver (LIHC), lung (NSCLC), melanoma (SKCM),
+pancreatic (PAAD), and uterine (UCEC) cancer, we obtained omics data for
+a total of 2,866 patients. Random forest based recursive feature
+elimination was used to determine which features were most likely to be
+predictive while overfitting was controlled with k-fold cross validation.
+A cox proportional hazard model of survival as a function of mutation
+burden and functions of neoepitope and immune response predictors was
+constructed using the selected features. Our results confirm that
+neoepitope and immune response based predictors for survival often
+significantly outperform mutation burden alone and simultaneously suggest
+a quantitative classification of immunotherapy efficacy across cancer
+subtypes.
+
+

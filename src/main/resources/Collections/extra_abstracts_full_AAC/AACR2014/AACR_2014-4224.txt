@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Histone deacetylase inhibitors induce ribosomal protein
+acetylation and modulate breast cancer cell viability
+
+
+Dysregulation of protein synthesis is crucial for tumorigenesis. The
+PI3K/AKT/mTOR pathway regulates ribosomes and mRNA translation.
+Inhibition of this pathway is an important approach under clinical
+evaluation for the treatment of malignancies including breast cancer.
+However, many are resistant to PI3K/AKT/mTOR inhibitors, necessitating
+alternative inhibitors of oncoprotein synthesis. Our studies in breast
+cancer cells implicate histone deacetylase inhibition (HDACi) in the
+impairment of ribosome function and oncoprotein synthesis. In particular,
+pan-HDAC inhibitors like Trichostatin A (TSA) induce decay of specific
+oncogenic transcripts (e.g. HER2) within 6 h of treatment via a
+polyribosome-dependent mechanism. Furthermore, we found that TSA induces
+the acetylation of the large ribosomal subunit protein L24. TSA also
+decreased 80S ribosome formation and selectively reduced the expression
+of the cap-dependently translated oncoproteins NBS1, cyclin D1, and
+survivin without inhibition of -tubulin and GAPDH.To elucidate the link
+between ribosomes and HDACi, we used tandem mass spectrometry to
+interrogate global acetylation changes within ribosomal proteins
+following treatment of HER2-positive SKBR3 breast cancer cells by either
+TSA or the HDAC6-selective inhibitor tubacin. Control and treated SKBR3
+ribosomal proteins were immunoprecipitated by an anti-acetyl-lysine
+antibody and subsequently digested by trypsin. The resulting
+acetyl-lysine peptides were analyzed by LC-MS/MS (AB SCIEX TripleTOF
+5600) and identified from Mascot and ProteinPilot databases. Peptides
+were quantitated by Skyline MS1 Filtering. We identified three ribosomal
+proteins (RPL24, RPL37A, RPL7A) with acetylation induced at least
+two-fold by 2 h of TSA treatment and 12 others whose acetylation was
+induced two-fold or greater by 6 h of TSA treatment (RPL19, RPL22, RPL27,
+RPL28, RPL3, RPL35A, RPL3L, RPL6, RPS13, RPS17L, RPS23, RPS27A). The
+profile of ribosomal proteins acetylated by treatment with the HDAC6
+selective inhibitor tubacin was significantly different.To further
+evaluate the cancer-association of these ribosomal proteins with
+pan-HDACi-induced acetylation, we analyzed a publically available
+microarray dataset including mRNA from breast cancers and normal mammary
+tissue from the same patient. Of the ribosomal protein genes with
+HDACi-inducible acetylation, we found 6 whose mRNA expression levels were
+significantly higher in breast cancers relative to matched normal mammary
+tissue: RPL19 (p=0.001), RPL24 (p=0.001), RPL3 (p=0.001), RPL7a
+(p=0.002), RPS23 (p=0.004), and RPL22 (p=0.05). These findings point
+toward a novel role of HDACi in modulating the acetylation of ribosomal
+proteins, some of which are upregulated in breast cancer. This
+acetylation could result in altered ribosome function, decreased
+oncoprotein translation, and ultimately reduced breast cancer cell growth
+and survival.
+

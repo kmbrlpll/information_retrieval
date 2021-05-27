@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: MicroRNA analysis of aromatase inhibitor-resistant breast cancer
+cells reveals upregulation of a unique miRNA cluster on chromosome 14
+
+
+Estrogen signaling has been shown to play a large role in the development
+and progression of breast tumors that express the estrogen receptor (ER).
+Thus, endocrine therapies that either inhibit ER action (tamoxifen or
+fulvestrant) or inhibit estrogen synthesis (aromatase inhibitors) have
+been increasingly valuable for the management of ER+ breast cancer. A
+frequent obstacle, however, is acquired resistance to endocrine
+therapies, often characterized by aberrant ER expression and heightened
+growth factor signaling. Another aspect of acquired endocrine resistance
+that is now being examined is the role of microRNA (miRNA). miRNAs are
+18-22 base pair RNA molecules whose primary role is to inhibit expression
+of mRNA targets by inhibition of translation or by degradation of the
+mRNA. Here, we have conducted next generation sequencing of the miRNA
+from three breast cancer cell lines - one ER+ line that is
+estrogen-dependent and AI-sensitive (MCF-7), and two ER+ long-term
+estrogen deprived (LTED) models of AI resistance (MCF-7:5C and MCF-7:2A).
+We found that in LTED/AI-resistant MCF-7:5C and MCF-7:2A cells there were
+over 330 and 240 miRNAs differentially expressed, respectively, compared
+to AI-sensitive MCF-7 breast cancer cells. Initially, we used qPCR to
+validate the expression of miRNAs that that were differentially expressed
+in both LTED cell lines vs. MCF-7. Notably, LTED cell lines had
+upregulated miR-181a (> 4 to 8-fold) and downregulated miR-221/222
+expression compared to MCF-7. Elevated miR-181a has been shown to be
+associated with more aggressive breast cancers whereas miR-221/222 play a
+role in tamoxifen resistance through targeting ER. Further bioinformatic
+analysis also revealed that the LTED cells had very unique expression
+profiles compared to one another, indicating that they have adapted to an
+estrogen-depleted environment through potentially different mechanisms.
+In MCF-7:5C cells, which have lost expression of the progesterone
+receptor (PR), a miRNA cluster on chromosome 14 is upregulated. This
+upregulated cluster, which encodes miR-127, miR-654, miR-889 and others,
+has been shown to be associated with Luminal B (ER+/PR-) breast cancer,
+consistent with the hormone receptor status of the MCF-7:5C cells. The
+oncogenic, estrogen-responsive miR-17/92 cluster on chromosome 13 is
+upregulated in the MCF-7:2A cells and these miRNAs target proteins
+including PTEN, p21, and Bim. Overall, these findings reveal altered
+expression of miRNAs in AI-resistant breast cancer cells and they suggest
+that targeting these miRNAs might be an effective strategy to reverse AI
+resistance in breast cancer patients.
+

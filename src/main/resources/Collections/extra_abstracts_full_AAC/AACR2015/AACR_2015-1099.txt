@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: High-throughput engineering and functional annotation of cancer
+fusion genes
+
+
+Next generation sequencing (NGS) technologies are rapidly being
+incorporated into the clinic to facilitate decisions on cancer patient
+care. Recognizing this, large-scale efforts by The Cancer Genome Atlas
+(TCGA) and others are generating a compendium of genomic aberrations
+found across major cancer types with the goal of identifying new
+therapeutic targets. The challenge now is to find ways to identify
+functional driver aberrations, as targeting driver events or their
+activated pathways offers the greatest hope of improving patient
+outcomes. Oncogenic transcript fusions resulting from chromosomal
+rearrangements represent an important class of such events. The
+successful targeting of fusion oncoproteins such as BCR-ABL and EML4-ALK
+with imatinib and crizotinib, respectively, provide strong rationale for
+comprehensive testing of cancer fusion genes. Unfortunately, the
+functional interrogation of fusion genes is complicated by the large
+quantity identified, inability to accurately predict those with driver
+activity, and significant technical roadblocks preventing fusion gene
+construction for biological assays. To circumvent these bottlenecks, we
+developed novel technologies permitting (1) high-throughput fusion gene
+construction using a novel multi-fragment DNA recombineering strategy
+with our platform of >35,000 human open reading frame gene clones, and
+(2) rapid lentiviral delivery of fusion genes to generalized and
+context-specific cell models to identify those with in vitro and in vivo
+driver activity and responsiveness to available therapeutics. As
+proof-of-concept, we used this approach to engineer known fusion
+oncogenes (BCR-ABL, EML4-ALK, and ETV6-NTRK3) and validated their
+transforming ability using our in vitro and in vivo driver screening
+systems, demonstrating our ability to rapidly deliver fusion genes with
+functional activity. In a pilot screen of fusion genes identified in
+pan-negative melanoma (i.e., devoid of signature mutations in BRAF and
+NRAS) by TCGA, we identified multiple uncharacterized BRAF and RAF1
+fusion events among others that strongly activate MAPK signaling and
+exhibit potent transforming activity. Moreover, cells carrying the BRAF
+and RAF1 gene fusions revealed a marked sensitivity to RAF and MEK
+inhibitors, a finding that may indicate use of these agents for patients
+whose tumors harbor these events. We are now scaling these efforts for
+the comprehensive analysis of uncharacterized gene fusions, ultimately
+allowing functionalization of thousands of fusion events across diverse
+cancer types. These systems will reveal the highest priority fusion gene
+targets to enroll in deep mechanistic biology studies, drug discovery and
+development programs ultimately leading to personalized treatment
+strategies.
+

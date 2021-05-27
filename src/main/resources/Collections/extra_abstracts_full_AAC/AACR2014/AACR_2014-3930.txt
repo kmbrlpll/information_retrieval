@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Recapitulating the microenvironment in vitro for comparative study
+of factors affecting tumor growth and vascularization
+
+
+Introduction: Tumor growth is dramatically affected by the
+microenvironment, including supporting cells such as the stroma and
+vasculature, mechanical factors, such as interstitial flow and
+extracellular matrix and aspects of the tumor mass itself, including
+shape. However, current tumor growth models, including xenograft models,
+2D and/or simplistic 3D cultures, are unable to address these
+interactions in a high throughput human-derived system. We have developed
+a novel microfluidic platform that combines human derived perfused
+microvessels, stroma, and interstitial flow with 3D culture. This
+platform was used to quantitatively compare the role of these
+microenvironmental factors on tumor growth.Methods: A microfluidic device
+was fabricated consisting of two supply channels on either side of a
+central tissue compartment. The inner stromal compartment consists of
+normal human fibroblasts (NHLFs) and GFP-labeled human colorectal
+adenocarcinoma tumor cells, SW620, seeded in a fibrin matrix. To simulate
+a vasculogenic-like process, human cord blood endothelial colony forming
+cells endothelial cells (ECFC-ECs) were distributed throughout the
+stromal channel with the fibroblasts and tumor cells.Tumor growth rate
+and area was compared across day, interstitial flow rates and tumor shape
+(fractal dimension, perimeter to area) with ANOVA.Results: Cell viability
+within the device was maintained under interstitial flow conditions for a
+period of 21 days. Within one week of culture, microvessel formation and
+significant tumor growth into spheroids (n=636) were observed. On
+average, tumor growth rate was 26% 62% per day with the highest growth
+rates observed on the first days. By day 7, many tumor masses had died
+off, with 2-3 large, fast growing tumors remaining per chamber. Highest
+tumor growth rates and areas were observed in tumor masses with a
+characteristic morphology of high perimeter to area and lower
+cohesion.Interstitial flow rates ranging from essentially static to
+supraphysiologic were generated. Differences in tumor growth rates were
+not statistically significant across chambers with different mean flow
+rates.To demonstrate intraluminal flow within the vascular network,
+fluorescently labeled dextran (40, 70, and 150 kDa) was introduced into
+the microfluidic lines. Dextran was retained in the vessel network, and
+showed tumor cells residing in the intraluminal space of the formed
+vasculature. By day 14, the network eroded, as the tumor masses overgrew
+and encompassed more than 60% of the chamber volume.Discussion: We have
+developed a novel 3D microfluidic system of the tumor microenvironment
+that features perfused capillaries and controlled interstitial flow.
+Tumor growth was affected by tumor characteristic shape in this model
+though interstitial flow appeared to play a lesser role. Vascular
+development was observed and its interaction with tumor growth will be
+analyzed in future work.
+

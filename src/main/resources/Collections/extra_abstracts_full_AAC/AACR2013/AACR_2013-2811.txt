@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: A prostate stroma-derived profile is predictive of early relapse
+and reflects potential mechanisms of aggressive disease.
+
+
+The microenvironment of prostate cancer plays a major role in tumor
+initiation, growth, and metastatic spread. Using RNA expression data from
+fresh frozen human prostatectomies for which the clinical outcome was
+followed for over 5 years, we have developed a general approach to
+identify gene expression changes of the tumor-adjacent stroma that
+distinguishes aggressive prostate cancer cases from indolent cases.
+Highly significant gene associations were defined by correlating
+expression with Disease-free Survival (DFS) and also, separately, by
+comparing RNA expression between cases that remained disease free for at
+least 4 years following surgery with those cases that exhibited relapse
+within 1 year of surgery. A total of 193 highly significant genes were
+identified, of which 15 were common to the two approaches. These 15 genes
+were used to develop a PAM (Prediction Analysis for Microarrays)-based
+algorithm to classify new cases as indolent or aggressive and to provide
+a probability for each classification. The algorithm was tested on
+stroma-enriched samples from 47 new cases with known outcome with an
+accuracy of 87% [1]. A potential functional basis for some the genes
+associated with aggressive disease was suggested by the observation that
+p53 expression is decreased in aggressive disease whereas p53-target
+genes and cell cycle inhibitors including p21, GADD45A, and GADD45B are
+increased, which is a pattern others have noted as suggestive of
+senescence [2]. Increased IGFBP6, Tubulin alpha 1a, and Lamin A/C further
+suggest a senescence-associated secretory phenotype [3]. A potential
+secretory factor of known significance in the growth of prostate cancer
+(IGF-1/Somatomedin-C) has elevated RNA levels in the stroma of the same
+cases. These features argue that an accurate and general prediction of
+aggressiveness may be derived from the tumor microenvironment and may be
+composed of genes that have functional roles in bringing about aggressive
+disease.[1] Jia et al. 2012 PLoS ONE, 7(8):e41371[2] Liebermann and
+Hoffman 2008 Journal of Molecular Signaling, 3:15[3] Coppe et al. 2008
+PLoS Biology, 6(12):e301Citation Format: Zhenyu Jia, Farahnaz
+Rahmatpanah, Xin Chen, Michael McClelland, Dan Mercola. A prostate
+stroma-derived profile is predictive of early relapse and reflects
+potential mechanisms of aggressive disease. [abstract]. In: Proceedings
+of the 104th Annual Meeting of the American Association for Cancer
+Research; 2013 Apr 6-10; Washington, DC. Philadelphia (PA): AACR; Cancer
+Res 2013;73(8 Suppl):Abstract nr 2811. doi:10.1158/1538-7445.AM2013-2811
+

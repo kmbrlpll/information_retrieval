@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Metabolic regulation of mutant p53 stability by the mevalonate
+pathway
+
+
+Introduction: Mutations in the p53 gene are mostly missense mutations and
+result in accumulation of dysfunctional p53 protein in tumors with
+oncogenic gain-of-function activities. Increasing evidence indicates that
+stabilization of mutant p53 (mutp53) in tumors is crucial for its
+oncogenic activities including tumor progression and drug resistance,
+while downregulation of mutp53 reduces oncogenicity of cancer cells.
+These observations suggest that malignant properties of cancer cells are
+dependent on the presence of mutp53, thus providing a rationale to
+identify compounds that deplete mutant p53 with little impact on
+wild-type p53.Experimental procedures: Toward this goal, we performed
+high throughput screens of chemical libraries (9,000 compounds) with
+Saos2 (p53 null) cells expressing a fusion protein of p53R175H and
+luciferase, using luciferase as a reporter.Summary of data: This
+screening led us to identify statins, a class of cholesterol-lowering
+medications, as compounds that induced degradation of p53R175H. We found
+that other inhibitors of the mevalonate pathway, such as
+6-fluoromevalonate and zoledronic acid, failed to induce p53R175H
+degradation, while statin-mediated inhibition of HMG-CoA reductase and
+subsequent reduction in mevalonte-5-phosphate triggered p53R175H
+degradation. These results suggest that statin's effect on p53R175H is
+specific and independent of protein prenylation/lipidation or cholesterol
+synthesis. Moreover, nuclear export of p53R175H was required for the
+statin-mediated degradation, which was mediated through an E3 ubiquitin
+ligase CHIP, but not MDM2. Interestingly, statins induced degradation of
+mainly conformational p53 mutants with minimal effects on the levels of
+wild-type p53 and DNA contact mutants.Conclusions: This is the first
+study demonstrating that mutp53 stability is regulated through a specific
+process of the mevalonate pathway, thereby providing a novel regulatory
+mechanism of mutp53 degradation. Our findings suggest that p53 mutation
+status in tumors may have an impact on efficacy of statins in cancer
+therapy.
+

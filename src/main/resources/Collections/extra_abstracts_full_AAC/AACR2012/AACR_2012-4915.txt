@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Characterization of the EGFR interactome reveals cellular dynamics
+of receptor signalling and internalisation
+
+
+The epidermal growth factor receptor (EGFR) is one part of the
+promiscuous signaling network that regulates proliferation, growth and
+differentiation of mammalian cells and its overexpression, aberrant or
+enhanced activation are frequent events in human cancers. EGFR signaling
+is realized by recruiting specific adaptor proteins to the activated
+intracellular receptor tyrosine kinase domain. We hypothesize that the
+pattern of recruited adaptor proteins is characteristic for respective
+EGFR related cellular responses. Therefore, we developed a method to
+decode the EGFR adaptor protein pattern in relation to its activation
+state. A431 cells were stimulated with 100 ng/ml EGF for 30 minutes and
+the EGFR-adaptor protein-complex was isolated by immunoprecipitation
+after gentle lysis using the specific EGFR antibody cetuximab
+biotinylated and bound to magnetic beads. Controls were precipitated from
+lysates of unstimulated A431 cells. After pre fractionation by 1D SDS
+PAGE and in gel digestion, protein complexes were characterized by
+LC-ESI-tandem high resolution mass spectrometry (LC-MS/MS). LC-MS/MS
+analyses reproducibly identified 68 proteins in three replicates of
+precipitates from lysates of unstimulated A431 cells. 64 of these
+proteins were assigned to gene ontology (GO) annotations and
+significantly enriched domains included intracellular localisation and
+protein transport proteins (29 proteins) and the EGFR signaling pathway
+(5 proteins). The first domain contained structural proteins such as
+actin and tubulin subunits as well as importins, exportins and
+transportins. Proteins within the EGFR signaling category included growth
+factor receptor bound protein 2 (Grb2) and signal transducer and
+activator of transcription 3 (STAT3). Biogrid analyses identified an
+interacting EGFR network consisting of 14 known interacting proteins
+including several subunits of the clathrin related adaptor protein
+complex. Semi-quantification showed that the interactions of these
+proteins with the EGFR were markedly pronounced upon EGF stimulation
+suggesting increased receptor internalization. These data were confirmed
+by Western Blotting and immunofluorescence microscopy. Furthermore,
+several proteins were found which associations to the EGFR are as yet
+unknown such as Hook homolog 2, MON2 homolog or FRG1 proteins.
+Quantification of dynamic changes will further be carried out by stable
+isotope labeling (SILAC) technology. As proof of principle, we were able
+to identify proteins which are part of the EGFR signaling pathway as well
+as proteins that relate to cellular localization and protein trafficking
+and which abundances changed upon EGFR stimulation. Using this approach
+will provide further insights into mechanisms of EGFR signal activation
+from a systems biology point of view.
+

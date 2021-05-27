@@ -1,0 +1,81 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Gene expression profile differences between early- and late-onset
+colorectal adenocarcinoma
+
+
+Introduction: Colorectal cancer (CRC) is the third most commonly
+diagnosed cancer and the second leading cause of cancer related deaths in
+the US. The overall incidence of CRC in the US has decreased over the
+past three decades, yet recent literature indicates increase in incidence
+among individuals younger than 50. These early-onset CRC tumors (EO) tend
+to be more aggressive and advanced at initial diagnosis. As the etiology
+of EO CRC is not understood yet, the aim of this study was to elucidate
+gene expression profiling in EO CRC and show its molecular uniqueness
+compared to late-onset (LO) CRC.Methods: Two cohorts of patients with
+sporadic EO CRC (age under 50) and LO CRC (age over 65) tumors were
+identified. Tumors and their matching non-involved tissue samples with
+equal representation of colon and rectal neoplasms from twelve EO
+patients and twelve LO patients were obtained. Patients with Lynch
+syndrome, familial adenomatous polyposis and inflammatory bowel disease
+were excluded. De-paraffinized tissues were macro-dissected from FFPE
+sections, RNA isolated and used for nanoString nCounter PanCancer
+Pathways Panel gene expression analysis to quantify transcript levels of
+770 genes representing 13 canonical cancer pathways. Statistical analysis
+was performed using the Gene Expression R-script module within the
+nCounter software v2.6. A gene was considered to be above background if
+the average count for the target gene was greater than the average counts
+for the eight negative control genes and if the P value of the t-test was
+less than 0.05.Results: We analyzed a total of twenty four tumor samples,
+six EO and six LO colon tumors and six EO and six LO rectal tumors. Their
+expression profiles were then compared to their matching non-involved
+tissues in order to identify genes that are unique to colon and rectal
+neoplasm, respectively. Out of 770 PanCancer Panel pathway genes assayed,
+98 genes were uniquely expressed in EO colon tumors with 73 genes being
+up- and 25 down-regulated with a fold change higher than two. 77 genes
+were uniquely expressed in EO rectal tumors, with 57 of them up-regulated
+and 20 down-regulated. Further statistical analysis revealed that, from
+265 genes differentially expressed specifically in EO colon tumors,
+changes in expression of 147 genes were statistically significant
+(pIntroduction: Colorectal cancer (CRC) is the third most commonly
+diagnosed cancer and the second leading cause of cancer related deaths in
+the US. The overall incidence of CRC in the US has decreased over the
+past three decades, yet recent literature indicates increase in incidence
+among individuals younger than 50. These early-onset CRC tumors (EO) tend
+to be more aggressive and advanced at initial diagnosis. As the etiology
+of EO CRC is not understood yet, the aim of this study was to elucidate
+gene expression profiling in EO CRC and show its molecular uniqueness
+compared to late-onset (LO) CRC.Methods: Two cohorts of patients with
+sporadic EO CRC (age under 50) and LO CRC (age over 65) tumors were
+identified. Tumors and their matching non-involved tissue samples with
+equal representation of colon and rectal neoplasms from twelve EO
+patients and twelve LO patients were obtained. Patients with Lynch
+syndrome, familial adenomatous polyposis and inflammatory bowel disease
+were excluded. De-paraffinized tissues were macro-dissected from FFPE
+sections, RNA isolated and used for nanoString nCounter PanCancer
+Pathways Panel gene expression analysis to quantify transcript levels of
+770 genes representing 13 canonical cancer pathways. Statistical analysis
+was performed using the Gene Expression R-script module within the
+nCounter software v2.6. A gene was considered to be above background if
+the average count for the target gene was greater than the average counts
+for the eight negative control genes and if the P value of the t-test was
+less than 0.05.Results: We analyzed a total of twenty four tumor samples,
+six EO and six LO colon tumors and six EO and six LO rectal tumors. Their
+expression profiles were then compared to their matching non-involved
+tissues in order to identify genes that are unique to colon and rectal
+neoplasm, respectively. Out of 770 PanCancer Panel pathway genes assayed,
+98 genes were uniquely expressed in EO colon tumors with 73 genes being
+up- and 25 down-regulated with a fold change higher than two. 77 genes
+were uniquely expressed in EO rectal tumors, with 57 of them up-regulated
+and 20 down-regulated. Further statistical analysis revealed that, from
+265 genes differentially expressed specifically in EO colon tumors,
+changes in expression of 147 genes were statistically significant
+(p<0.05). Similarly, from 275 genes differentially expressed in EO rectal
+tumors, 82 showed statistically significant alterations in
+expression.Conclusions: Results of this study suggest EO CRC as a
+distinct molecular subtype which is characterized by unique molecular
+events compared to LO disease. Further studies using larger cohorts of
+patients are needed to validate these findings. Such studies might offer
+the possibilities of coming up with novel molecular markers to enhance
+newer, faster and noninvasive detection modalities for young patients
+with CRC tumors.
+

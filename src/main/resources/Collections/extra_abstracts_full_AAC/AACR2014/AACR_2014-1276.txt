@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Red meat, poultry, and fish intake, genetic risk variants, and
+breast cancer risk among Hispanic and non-Hispanic white women: Results
+from the Breast Cancer Health Disparities Study
+
+
+Purpose: Breast cancer (BC) incidence rates are lower among US Hispanics
+compared to non-Hispanic white (NHW) women, and the proportion of Native
+American (NA) ancestry among Hispanic women is associated with BC risk.
+Meat intake is inconsistently associated with BC risk, though few studies
+have included Hispanic women. We investigated: a) the association between
+various meats and BC risk among Hispanic/NA and NHW women, and b) the
+potential interaction of meat intake with GWAS-identified risk variants.
+Methods: The Breast Cancer Health Disparities consortium includes 3
+population-based case-control studies conducted in the US and Mexico
+(N=4410 NHW, N=6163 Hispanic/NA). BC risk factor data and dietary intake
+were assessed by questionnaires. Five meat variables (gm/day) were
+harmonized across the 3 studies: red meat, processed red meat, poultry,
+fish, and tuna. We considered nutrient density variables, created with
+study-specific cut-points based on intake distribution among controls.
+Ten GWAS identified SNPs were genotyped, in addition to 104 Ancestry
+Informative Markers that were used to categorize participants by percent
+NA ancestry using STRUCTURE (Low: 0-28%; Intermediate: 29-70%; High:
+>70%). Multivariable logistic regression models were used to estimate
+odds ratios (ORs) and 95% confidence intervals (CI) of the association
+between meat variables and BC risk, stratified by menopause status,
+ethnicity, and, within Hispanics/NA, by percent NA ancestry. Interaction
+P values were obtained from likelihood ratio tests. Results: Among all
+women, processed meat was positively associated with pre-menopausal BC
+risk (Q3 vs. Q1 OR = 1.31; 95% CI = 1.08-1.55; trend p = 0.004;
+heterogeneity p = 0.027). This association appeared restricted to
+Hispanic/NA women, albeit a test of heterogeneity by ethnicity was not
+statistically significant. We also observed a positive association
+between tuna and BC risk only among pre-menopausal NHW women (Q3 vs. Q1
+OR = 1.41; 95% CI = 1.06-1.87; trend p = 0.007; heterogeneity p = 0.007).
+Among post-menopausal women a positive association between red meat and
+BC risk only among Hispanic/NA women of low percent NA ancestry (Q3 vs.
+Q1 OR = 2.06; 95% CI = 1.08-3.91; trend p = 0.037; heterogeneity p =
+0.02) was observed. After multiple testing correction marginally
+significant interactions among NHW women between intake of processed meat
+and rs3803662-TOX3 (corrected int p = 0.06) and between intake of tuna
+and rs2067980 (corrected int p = 0.06) were detected. Conclusion: Diets
+high in processed meats and tuna are associated with elevated BC risk
+among pre-menopausal Hispanic/NA and NHW women, respectively. Diets high
+in red meat are associated with elevated BC risk among post-menopausal
+Hispanic/NA women with low NA ancestry.
+

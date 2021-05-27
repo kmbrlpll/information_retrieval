@@ -1,0 +1,42 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Rare DNA variants are enriched at the BARD1 locus and likely
+influence neuroblastoma susceptibility.
+
+
+BACKGROUND: A genome-wide association study (GWAS) in neuroblastoma
+identified 8 regions where common polymorphisms are associated with
+neuroblastoma susceptibility. However, the biological mechanisms and
+causal SNPs are largely unknown. Rare variants, potentially in linkage
+with common polymorphisms but with a higher effect size, may contribute
+to cancer susceptibility at GWAS-defined loci and provide biological
+insight into mechanism.METHODS: To identify rare variants at
+neuroblastoma GWAS loci we performed ultradeep targeted resequencing of
+BARD1 and LMO1 on peripheral blood DNA using RainDance microdroplet
+RDT1000 PCR enrichment, and HiSeq2000 single end 100 bp reads. We
+aggregated existing whole-genome and exome sequence data from
+constitutional DNA of neuroblastoma cases (Molenaar et al, Nature 2012;
+NCI TARGET) on all replicated neuroblastoma GWAS regions.RESULTS: Exon
+sequence data were available for 517 cases for BARD1, and 330 cases for
+LMO1, LINC00340, LIN28B-HACE1, LMO1, DUSP12, DDX4-IL3RA, and HSB17B12
+(all genes with replicated associations to NB). The highest frequency of
+rare potentially damaging variants occurred in BARD1 with 7/517 cases
+(1.4%) containing novel (n=4) or rare (n=3) variants as defined by
+ESP6500, 1000 genomes project, and dbSNP135. Rare variants at BARD1 were
+associated with homozygosity or heterozygosity for the protective
+alleles. Using SIFT, PolyPhen-2 or MutationTaster, 6/7 variants were
+predicted to be deleterious, including a nonsense mutation in the domain
+mediating BARD1-BRCA1 heterodimerization and a nonsense mutation in a
+BRCT domain implicated in homology directed repair. Sanger sequencing of
+tumor DNA and RNA confirmed both nonsense mutations were present in their
+respective primary tumors. HEK293 cells transfected with BARD1 nonsense
+variants showed decreased stabilization of BRCA1.CONCLUSION: Novel and
+potentially damaging mutations in BARD1 exons are present in the
+constitutional DNA of 1% of patients with neuroblastoma and may
+contribute to disease susceptibility. However, BARD1 rare variants were
+not tagged by the common risk alleles providing an alternative mechanism
+to prime neuroblasts towards transformation. Further functional work,
+expansion of the targeted resequencing discovery cohort as a prelude to a
+larger case-control comparison, and incorporation of ENCODE data into
+analysis of non-coding SNPs may provide critical insights into
+neuroblastoma pathogenesis.
+

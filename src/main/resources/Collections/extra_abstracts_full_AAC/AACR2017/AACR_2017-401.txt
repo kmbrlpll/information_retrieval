@@ -1,0 +1,26 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Designing for success: the right CRISPR design strategies for the
+right experiment.
+
+
+CRISPR design is a complex multivariate problem. The weight of each
+variable differs depending on the experiment under consideration. Current
+methods of designing CRISPR experiments are based on a single-variable,
+resulting in poor experimental outcomes. From the numerous experiments
+enabled by the DESKGEN platform, we can demonstrate key design
+improvements to maximise experimental outcome.
+
+Our current scoring methods were tested and validated using an sgRNA
+library of over 3,500 sgRNAs in essential genes with a variety of
+predicted sgRNA activities and specificities. The predicted 'good' sgRNAs
+achieved significantly higher read depletion for essential genes, with
+fewer failing sgRNAs, compared to sgRNAs that didn't meet the scoring
+criteria. Our scoring algorithm incorporates multiple published
+observations for choosing effective sgRNAs, which differs from other
+CRISPR tools that tend to focus on one factor such as sgRNA sequence or
+specificity. We were unable to find correlations for some currently
+accepted sgRNA selection criteria, such as position within a gene, which
+demonstrates the need to constantly challenge and improve sgRNA design
+rules.
+
+

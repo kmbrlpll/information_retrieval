@@ -1,0 +1,75 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Systematic discovery of biomarkers for ovarian cancer by using the
+Human Protein Atlas database
+
+
+Purpose: The extensive accumulation of human protein expression datasets
+in normal and cancer tissues provides unique opportunities to perform
+systematic selection of tumor biomarkers. This study aims to discover
+biomarkers for ovarian cancer (OC) by data mining the Human Protein Atlas
+databases in a systematic manner.Design methods: The Human Protein Atlas
+website (HPA, www.proteinatlas.org) is a publicly available database with
+spatial distribution of 20,356 proteins in 44 different normal human
+tissues and 20 different types of cancers. It is ideal for biomarker
+discovery. SAS software version 9.4 was used to data mine HPA database.
+All the potential biomarkers should meet the following criteria: the
+protein have 75% high or medium expression in OC but have low or no
+expression in other types of cancers, and the protein have low or no
+expression in at least one type of tissues of ovary included in the HPA
+database, the overall expression in normal tissues is 40%. Then ELISA was
+used to test the diagnostic performance of some of the selected
+biomarkers.Results: Nineteen out of twenty different types of cancers
+included in the HPA database were studied in our study, carcinoid was
+excluded in the selection process due to the lack of proper normal
+control tissues. In general, PLAT might be a universal biomarker for 19
+cancers. In total, 2,593 potential biomarkers for OC were selected.
+Ninety seven proteins out of 2,593 proteins might be OC-specific
+according to the available data. After an intensive manual search from
+the website, twelve proteins (STC1, MSLN, LSM3, WFDC2/HE4, ZNF2, CRIP3,
+XAF1, SLC35E2B, IFT88, ATP13A3, ZNF787 and TROAP) were selected for
+further research. Among them, WFDC2/HE4, MSLN have already been reported
+to have good diagnostic performance in OC by other researchers. ELISA was
+further used to test whether serum autoantibodies against PLAT or MSLN
+can distinguish 44 OC patients from 48 normal controls. The AUC of
+anti-PLAT and anti-MSLN were 0.783 (P Purpose: The extensive accumulation
+of human protein expression datasets in normal and cancer tissues
+provides unique opportunities to perform systematic selection of tumor
+biomarkers. This study aims to discover biomarkers for ovarian cancer
+(OC) by data mining the Human Protein Atlas databases in a systematic
+manner.Design methods: The Human Protein Atlas website (HPA,
+www.proteinatlas.org) is a publicly available database with spatial
+distribution of 20,356 proteins in 44 different normal human tissues and
+20 different types of cancers. It is ideal for biomarker discovery. SAS
+software version 9.4 was used to data mine HPA database. All the
+potential biomarkers should meet the following criteria: the protein have
+75% high or medium expression in OC but have low or no expression in
+other types of cancers, and the protein have low or no expression in at
+least one type of tissues of ovary included in the HPA database, the
+overall expression in normal tissues is 40%. Then ELISA was used to test
+the diagnostic performance of some of the selected biomarkers.Results:
+Nineteen out of twenty different types of cancers included in the HPA
+database were studied in our study, carcinoid was excluded in the
+selection process due to the lack of proper normal control tissues. In
+general, PLAT might be a universal biomarker for 19 cancers. In total,
+2,593 potential biomarkers for OC were selected. Ninety seven proteins
+out of 2,593 proteins might be OC-specific according to the available
+data. After an intensive manual search from the website, twelve proteins
+(STC1, MSLN, LSM3, WFDC2/HE4, ZNF2, CRIP3, XAF1, SLC35E2B, IFT88,
+ATP13A3, ZNF787 and TROAP) were selected for further research. Among
+them, WFDC2/HE4, MSLN have already been reported to have good diagnostic
+performance in OC by other researchers. ELISA was further used to test
+whether serum autoantibodies against PLAT or MSLN can distinguish 44 OC
+patients from 48 normal controls. The AUC of anti-PLAT and anti-MSLN were
+0.783 (P < 0.001) and 0.666 (P = 0.006), respectively.Conclusions: HPA
+database have made systematic discovery of cancer biomarkers possible.
+PLAT and MSLN can distinguish OC from normal controls. Another 11
+proteins have great potential to serve as OC biomarkers and further
+validation studies are warranted to test their diagnostic performance and
+whether these biomarkers are OC specific.Keywords: ovarian cancer, tumor
+associated antigen, big data, data mining, systematic discoveryThis study
+was supported by grants from the General Program of National Natural
+Science Foundation of China (No. 81172086 and No.81372371). We would also
+like to acknowledge the Border Biomedical Research Center (BBRC) Core
+facilities at The University of Texas at El Paso (UTEP) for their help,
+which were funded by NIH Grant (5G12MD007592).
+

@@ -1,0 +1,27 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Molecular dynamics simulation of permeation pathway of cytochrome
+C through Bax pore.
+
+
+How cytochrome C is released from the mitochondria to the cytosol via Bax
+oligomeric pores, a process which is required for apoptosis, is still a
+mystery. Based on the residue-residue distances detected experimentally
+for Bax and its homologous protein (Bak), we recently computationally
+solve the first atomic model for Bax oligomeric pores at the membranes.
+Next, we investigate the mechanism at the microsecond time- and nanometer
+space- scale using coarse-grained replica exchange and all-atom MD
+simulations. Our free energy landscape depicts a low barrier for the
+permeation of cytochrome C into the Bax C-terminal mouth, with the
+pathway proceeding to the inner cavity and exiting via the N-terminal
+mouth. Release is guided by organized charged/hydrophilic surfaces. The
+hydrophilicity and negative charge of the pore surface gradually increase
+along the release pathway from the pore entry to the exit opening. Rather
+than inert passing of cytochrome C through a rigid pore, the flexible
+pore may selectively aid the cytochrome C passage. The energy barrier is
+under 4 kcal/mol. Thus, once the Bax pore is formed in the membrane, the
+release of cytochrome C may be readily achieved through energy
+fluctuations. Collectively, our work provides mechanistic insight and
+atomic detail into the release of cytochrome C through Bax oligomeric
+pores.
+
+

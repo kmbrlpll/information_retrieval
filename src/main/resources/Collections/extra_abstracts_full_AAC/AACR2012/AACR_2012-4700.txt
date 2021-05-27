@@ -1,0 +1,36 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A novel selective EZH2 inhibitor exhibits anti-tumor activity in
+lymphoma with EZH2 activating mutations
+
+
+EZH2 is the catalytic subunit of the Polycomb Repressive Complex 2 (PRC2)
+responsible for methylating histone H3 on lysine 27 (H3K27) and
+repressing transcription of target genes. Dysregulation of H3K27
+methylation is implicated in tumorigenesis in both solid and
+hematopoietic tumors and occurs through multiple mechanisms including
+elevation of EZH2 due to loss of regulating miRNAs; inactivating
+mutations in UTX, an H3K27 demethylase which acts in opposition to EZH2;
+and somatic mutations in EZH2. Point mutations identified in EZH2 in both
+follicular lymphoma (FL) and GCB diffuse large B cell lymphoma (DLBCL)
+exhibit increased H3K27 tri-methylation due to an altered histone
+substrate preference. This suggests that inhibitors of EZH2 activity may
+be effective in treating lymphomas carrying activating mutations in EZH2.
+We have identified first-in-class inhibitors of EZH2 which are
+highly-potent, reversible, SAM competitive, selective and equipotent
+against both WT and mutant EZH2. Cellular mechanistic studies demonstrate
+that inhibition of EZH2 decreases global H3K27me3 in both WT and EZH2
+mutant cell lines; however, the cell proliferation response is quite
+different. Overall, DLBCL cell lines harboring activating mutations in
+EZH2 are highly sensitive to EZH2 inhibition, while DLBCL cell lines with
+WT EZH2 are moderately sensitive or resistant. Transcriptional and
+ChIP-seq studies reveal differences in the transcriptional response of
+EZH2 target genes and methylation patterns among cell lines providing
+insight into the mechanism of sensitivity. In a mouse model bearing EZH2
+mutant DLBCL tumor xenografts, inhibition of EZH2 methyltransferase
+activity reduces global H3K27me3, increases expression of EZH2 target
+genes and inhibits the growth of tumors in a dose dependent manner.
+Together, these data demonstrate for the first time that direct
+inhibition of EZH2 methyltransferase activity is effective at inhibiting
+tumor growth and suggests a promising path forward in the clinic for the
+treatment of EZH2 mutant lymphoma.
+

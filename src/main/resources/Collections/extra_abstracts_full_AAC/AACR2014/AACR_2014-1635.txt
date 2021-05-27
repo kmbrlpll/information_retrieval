@@ -1,0 +1,28 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Discovery of novel SMAC mimetics as selective IAP inhibitors
+
+
+Inhibitor of apoptosis (IAP) proteins are widely considered as promising
+cancer drug targets, especially for drug-resistant tumors. Mimicking the
+IAP-binding motif of second mitochondria-derived activator of caspases
+(SMAC) is a rational strategy to design potential IAP inhibitors. In this
+report, we used the bioactive conformation of AVPI tetrapeptide in the
+N-terminus of SMAC as a template and performed a shape-based virtual
+screening against a drug-like compound library to identify novel IAP
+inhibitors. Top hits were subsequently docked to available IAP crystal
+structures as a secondary screening followed by validation using in vitro
+biological assays. Four novel hit compounds were identified to potently
+inhibit cell growth in two human melanoma (A375 and M14) and two human
+prostate (PC-3 and DU145) cancer cell lines. The best compound, UC-112,
+has IC50 values ranging from 0.7 to 3.4 M. UC-112 also potently inhibits
+the growth of P-glycoprotein (P-gp) overexpressed multidrug-resistant
+cancer cells, strongly activates capase-3/7 and caspase-9 activities, and
+selectively down-regulates survivin level at a concentration as low as 1
+M. Co-incubation of UC-112 with a known proteasome inhibitor (MG132)
+rescued survivin inhibition, consistent with the anticipated mechanism of
+action for UC-112. As a single agent, UC-112 strongly inhibits tumor
+growth and reduces both XIAP and survivin levels in an A375 human
+melanoma xenograft model. Overall, our study identified novel scaffolds,
+especially UC-112, as new platforms on which potent and selective IAP
+antagonists can be developed.
+

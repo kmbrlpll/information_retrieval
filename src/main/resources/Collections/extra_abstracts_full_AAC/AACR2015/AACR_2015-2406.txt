@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Validation of a simple low-cost method to monitor ctDNA in
+patients with solid cancers
+
+
+Background: Detection of circulation tumor DNA (ctDNA) in plasma has
+become a viable option for non-invasive monitoring of patients. Also
+termed liquid biopsy the approach is applicable for pre-diction of
+response and prediction of resistance to biological therapy (1, 2).
+Various techniques have been used for ctDNA detection, frequently
+employing clonal amplification on a digital PCR format (3) with limits of
+detection (LOD) below 0.01% of mutant alleles. However, these techniques
+suffer from high complexity, expensive instrumentation, and a
+considerable cost per sample. We hereby present a simple low-cost
+alternative that is implementable to routine ctDNA testing.Methods: A
+panel of PCR amplicons (106 - 174bp) was resolved by denaturing capillary
+electrophoresis (DCE) revealing minute presence of mutation specific
+hetero-duplexes. The final panel consisted of clinically relevant
+oncogenic mutations KRAS, NRAS, BRAF, PIK3CA and EGFR as well as
+cancer-related mutations in tumor suppressors TP53, APC and CTNNB1. A
+total of 299 patients was subsequently examined for presence of ctDNA in
+plasma including 194 with colorectal cancer (CRC), 26 with NSCLC and 79
+with pancreatic cancer (PanC). CtDNA status was correlated to TNM stage
+and tumor markers (CEA and Ca19-9). In a subset of CRC patients (n = 20)
+the ctDNA was monitored in 2 - 6 month intervals and correlated to the
+therapy response.Results: The experimental LOD value was in the range
+between 0.03 - 1% for all tested mutations within the panel. A minimum
+input amount of DNA was 5 pg (0,005 ng).. The overall rate of ctDNA
+detection was 32% for CRC (stages I - IV), 31% for NSCLC (stages III -
+IV) and 27% for PanC (stages II - IV). The highest detection rate, 69%,
+was observed in Stage IV CRC patients. Comparison with tumor markers (TM)
+revealed 62% of cases positive for both TM and ctDNA and 13% TM-negative
+cases with ctDNA positivity. Post-operative absence or persistence of
+ctDNA was related to the radicality of the surgical treatment and the
+ctDNA levels were concordant with the response to adjuvant chemotherapy.
+In several patients a disease progression was signalized based on ctDNA
+even prior to actual clinical detection by CT imaging.Conclusion: DCE is
+a simple technique applicable for detection of ctDNA in cancer patients
+without a need for costly hardware/software equipment. The detection
+rates are 10 - 15% lower compared to the dedicated dPCR techniques,
+however, the method requires ca 100x less input DNA, the cost per patient
+is about 10-fold lower and the turnaround time per test is under 5
+hours.Supported by the Czech Ministry of Health Grant 14383.Literature1.
+Bettegowda C et al. Sci Transl Med. 2014,6(224):224ra242. Douillard JY et
+al. J Thorac Oncol. 2014, 9(9):1345-1353.3. Benesova L et al. Anal
+Biochem 2013,433(2):227-234.
+

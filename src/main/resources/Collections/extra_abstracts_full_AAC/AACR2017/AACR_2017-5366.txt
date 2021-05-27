@@ -1,0 +1,25 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Detection of low-frequency somatic variants using single-molecule,
+real-time sequencing.
+
+
+Detection of somatic mutations, especially in heterogeneous tumor samples
+where variants may be present at a low level, is challenging. Single
+Molecule, Real-Time (SMRT®) Sequencing is ideal for minor variant
+detection because of its ability to sequence single molecules with very
+high accuracy (>QV40) using the circular consensus sequencing (CCS)
+approach.
+
+Here, we characterize the Sequel System for the detection of
+low-frequency somatic variants using constructs containing mutations in
+coding regions in EGFR, NPM1, AKT1 and JAK2 representing deletion,
+insertion, substitution and homopolymer variants. Wild type and mutant
+amplicons, provided by SeraCare, were mixed and serially diluted from 10%
+down to 0.1% allelic frequency. Independent SMRTbell libraries were
+constructed for each dilution point, sequenced and analyzed using SMRT
+Sequencing to identify the variants and determine the observed frequency.
+The random error profile and high-accuracy CCS reads make it possible to
+accurately detect low-frequency somatic variants. We will demonstrate
+sensitivity of the PacBio Systems to detect mutations down to 0.1%.
+
+

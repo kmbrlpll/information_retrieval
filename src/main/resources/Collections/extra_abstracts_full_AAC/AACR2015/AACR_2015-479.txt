@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Inhibition of the splicing of the EWS-FLI1 fusion transcript
+reverses EWS-FLI1 driven oncogenic expression in Ewing sarcoma
+
+
+Ewing sarcoma (ES) is a highly aggressive cancer of the bone and soft
+tissue. In 85% of ES tumors the primary oncogenic event is a
+t(11:22)(q24:q12) translocation that generates a fusion of the 5 end of
+EWSR1 and the 3 end of FLI1 referred to as EWS-FLI1. The exact genomic
+breakpoints within the EWSR1 and FLI1 genes vary, but typically occur
+within introns and require the splicing machinery to generate an in-frame
+EWS-FLI1 transcript. The most common EWS-FLI1 transcripts fuse either
+exon 7 of EWSR1 to exon 6 of FLI1 (a type I or a 7/6 fusion), or fuse
+exon 7 of EWSR1 to exon 5 of FLI1 (a type II or 7/5 fusion). In an
+estimated 40% of EWS-FLI1 driven tumors the generation of an in-frame
+EWS-FLI1 fusion transcript requires alternative splicing. In particular,
+translocations that retain exon 8 of EWSR1 generate an out-of-frame
+transcript unless this exon is removed. Using an assay of EWS-FLI1
+activity and genome-wide siRNA screening we have identified RNA
+processing as a therapeutic vulnerability in ES.Parallel genome-wide
+siRNA-mediated RNAi screens were conducted in ES TC32 cell lines
+expressing a luciferase (luc) reporter protein driven by either the
+promoter of the EWS-FLI1 target gene NR0B1 (TC32-NR0B1-luc) or the CMV
+promoter (TC32-CMV-luc). The top gene ontology terms associated with the
+28 priority candidate genes that when silenced induced a differential
+decrease in the TC32-NR0B1-luc signal versus the TC32-CMV-luc signal were
+mRNA splicing (p-value = 1.42E-08) and mRNA processing (p-value =
+2.32E-07). To investigate the mechanistic basis for the identification of
+specific RNA processing proteins as required for the activity of EWS-FLI1
+we focused on two lead candidate genes, the heterogeneous nuclear
+ribonucleoprotein H1, HNRNPH1, and the core splicing factor, SF3B1. Using
+PCR analysis we determined that HNRNPH1 is required for the splicing of
+EWS-FLI1 fusion transcripts expressed in ES cells in which the chromosome
+22 breakpoint retains EWSR1 exon 8, specifically in TC32 and SKNMC ES
+cells. We also show ES cell lines harboring 7/ 6 (TC32, SKNMC, and TC71)
+or 7/ 5 (RD-ES) EWS-FLI1 fusions are all sensitive to the
+loss-of-function of SF3B1. Quantitative RT-PCR, immunoblot, and whole
+transcriptome analysis show that disrupted splicing of the EWS-FLI1
+transcript alters its expression and reverses the expression of a
+significant proportion of genes that are targets of EWS-FLI1. These
+observations were confirmed in four ES cell lines using the splicing
+inhibitor Pladienolide B.Our results provide the basis for a novel
+strategy to target fusion oncogenes by interfering with RNA processing.
+This study has implications for the treatment of ES through inhibition of
+proteins required for expression of the EWS-FLI1 transcript and
+identifies a candidate lead compound for further clinical development.
+Our findings may also open up strategies for treatment of other cancers
+driven by fusion oncogenes.
+

@@ -1,0 +1,36 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Downregulation of hnRNP A1 by miRNAs as a new mechanism of
+survival in ovarian cancer
+
+
+Background. Posttranscriptional regulation is a critical control point
+for the expression of genes that promote or retard tumor growth. The
+mRNA-binding protein hnRNP A1 is required for the processing of miR-18a,
+an inhibitor of k-ras expression. In this study we hypothesized that
+downmodulation of hnRNP A1 by miR-25 and miR-15a controls the expression
+of miR-18a and k-ras by modulating nuclear and cytoplasmic miRNA
+processing at the posttranscriptional level. Methods. In this study, we
+determined the expression of hnRNP A1 at mRNA and protein levels in three
+parental ovarian cancer cells lines (Skov3ip1, HeyA8, and A2780) and
+their chemotherapy-resistant derivatives (Skov3-TR, HeyA8 MDR, and A2780
+cp20). We also predicted in silico which miRNAS can target hnRNP A1 and
+confirmed the miRNA expression by real-time PCR. Moreover, we inhibited
+miR-25 and mir-15a to determine their tumorigenic potential in vitro. We
+also correlated the expression of miR-25 and miR-15a and/or miR-18a and
+k-ras expression in the TCGA data. Results. Downregulation of hnRNP A1 at
+the RNA and protein levels was observed in the taxane-resistant cell
+lines but not in the cisplatin-resistant cell line. Furthermore, we
+predicted in silico that miR-25and miR-15a can target hnRNP A1 and
+confirmed the overexpression of these microRNAs in SKOV3-TR (5- and
+3-fold, respectively) and HeyA8 MDR (3-fold) by real-time PCR. We also
+analyzed overall survival, trying to find a correlation between k-ras and
+miR-15a (high 23.77, low 33.97 months), k-ras and miR-25 (high 16.95, low
+35.21 months), and the combination of k-ras, miR-25, and miR18a (k-ras
+high, miR25 high, mir18a low, 20.73 months; k-ras low, miR25 low, mir18a
+high, 31.49 months). Comparison of these data with a validation set
+yielded similar results. Conclusion. These results underscore the
+importance of a previously uncharacterized circuit of posttranscriptional
+regulation between miR-25 or -15a and RNA-binding protein hnRNP A1 that
+regulates miR-18a and k-ras expression. This circuit represents a unique
+opportunity for novel therapeutics approaches.
+

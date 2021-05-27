@@ -1,0 +1,57 @@
+Meeting: 2016 AACR Annual Meeting
+Title: In silico discovery of target genes and pathways associated with
+breast cancer brain and bone metastases
+
+
+Metastasis is the primary cause of death from breast cancer. Bone and
+brain are the most frequent sites for breast cancer metastasis. The aim
+of this study was to explore candidate genes associated with breast
+cancer bone and brain metastases. We compared the gene expression
+profiles of bone and brain metastases with primary tumors by compiling 55
+microarray data sets from Gene Expression Omnibus (GEO: GSE12763, primary
+tumor n = 30; GSE14017, bone metastasis n = 10, brain metastasis n = 15).
+A total of 160 differentially expressed genes were screened with a
+two-fold change, among which 109 genes were up-regulated and 51 genes
+were down-regulated in bone metastasis. Pathway analysis showed these
+differentially expressed genes were significantly related to bone
+development and cell adhesion (pMetastasis is the primary cause of death
+from breast cancer. Bone and brain are the most frequent sites for breast
+cancer metastasis. The aim of this study was to explore candidate genes
+associated with breast cancer bone and brain metastases. We compared the
+gene expression profiles of bone and brain metastases with primary tumors
+by compiling 55 microarray data sets from Gene Expression Omnibus (GEO:
+GSE12763, primary tumor n = 30; GSE14017, bone metastasis n = 10, brain
+metastasis n = 15). A total of 160 differentially expressed genes were
+screened with a two-fold change, among which 109 genes were up-regulated
+and 51 genes were down-regulated in bone metastasis. Pathway analysis
+showed these differentially expressed genes were significantly related to
+bone development and cell adhesion (p<0.01). Similarly, a total of 150
+differentially expressed genes were identified in brain metastasis, 36
+genes were up-regulated and 114 genes were down-regulated, which were
+enriched in immune response (pMetastasis is the primary cause of death
+from breast cancer. Bone and brain are the most frequent sites for breast
+cancer metastasis. The aim of this study was to explore candidate genes
+associated with breast cancer bone and brain metastases. We compared the
+gene expression profiles of bone and brain metastases with primary tumors
+by compiling 55 microarray data sets from Gene Expression Omnibus (GEO:
+GSE12763, primary tumor n = 30; GSE14017, bone metastasis n = 10, brain
+metastasis n = 15). A total of 160 differentially expressed genes were
+screened with a two-fold change, among which 109 genes were up-regulated
+and 51 genes were down-regulated in bone metastasis. Pathway analysis
+showed these differentially expressed genes were significantly related to
+bone development and cell adhesion (p<0.01). Similarly, a total of 150
+differentially expressed genes were identified in brain metastasis, 36
+genes were up-regulated and 114 genes were down-regulated, which were
+enriched in immune response (p<0.01). Moreover, protein-protein
+interaction analysis revealed highly connected hub genes that are
+expected to play an important role in brain and bone metastases. These
+hub genes were FOS, EGR1, CTNNB1, DCUN1D1, HIST1H4E, VIM, UBD, EGFR in
+bone metastasis, and HIST1H4E, DCUN1D1, CDC42, ESR1 in brain metastasis.
+Interestingly, two genes, DCUN1D1 and HIST1H4E were both up-regulated in
+bone and brain metastases. It is known that DCUN1D1 could induce
+extracellular matrix invasion while HIST1H4E played a critical role in
+regulating chromosomal accessibility and stability. These findings reveal
+potential biomarkers and therapeutic targets of breast cancer bone and
+brain metastases, which provide a molecular basis for our future in vitro
+and in vivo studies.
+

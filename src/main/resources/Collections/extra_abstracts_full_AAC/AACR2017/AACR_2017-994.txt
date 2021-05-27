@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Diagnosing leukemia structural variations via a novel genome
+mapping approach.
+
+
+Identification of structural variants (SVs) is critical to the prognosis
+of AML. SVs are not readily identified by next generation sequencing
+methods and are currently diagnosed by cytogenetics, an intrinsically low
+resolution tool. We have adapted a new method for determining large SVs
+as a clinical tool for evaluating AML and other cancer genomes. The
+Bionano Irys images in microfluidic nanochannels large (>150 Kb) segments
+of genomic DNA that have been bar coded by site specific nicking and
+local incorporation of fluorescent label. The complement of individual
+molecules can be assembled through matching bar codes to create a de novo
+map of the genome from which, by matching to a reference genome,
+identifies and catalogs structural variants at resolution of ca. 1 Kb.
+
+With this technology, we characterized structural variants signatures in
+breast cancer, renal clear cell carcinoma, and CML cell lines. Structural
+variants were then validated via PCR/Sanger sequencing, fluorescent in
+situ hybridization and whole genome sequencing. We identified a thorough
+compendium of consistent false positive rearrangements identified by this
+technology, most of which reflect errors in the reference human genome
+assembly. We then applied this methodology to ten AML patient samples,
+seven from archived blood samples and three directly obtained from newly
+diagnosed patients. Karyotyping on one archived sample identified a
+t(6:9) translocation in the majority of cells. We identified that
+rearrangement at a much higher resolution than cytogenetics, which
+allowed us to map the breakpoint via PCR/Sanger sequencing to nucleotide
+resolution and confirm a fusion of NUP214 to DEK, a known oncogene. We
+also discovered the reciprocal t(9:6) translocation, which had not been
+identified by cytogenetics. In the six other cases from archived samples,
+we have confirmed the translocation identified by cytogenetic karyotyping
+and in several cases found additional rearrangements. Moreover, in the
+first pediatric case, which we completed within five days of obtaining
+the sample, we have identified four distinct translocations, all of which
+have been associated previously with AML.
+
+Overall, this is technology has the ability to quickly and accurately
+identify SVs in cancer cell lines and AML patient samples with higher
+resolution than cytogenetics, demonstrating its clinical usefulness in
+the diagnosis and subsequent treatment of leukemia.
+
+

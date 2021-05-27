@@ -1,0 +1,40 @@
+Meeting: 2013 AACR Annual Meeting
+Title: The inhibitory effect of long non-coding RNA MALAT1 on Smads
+signaling pathway.
+
+
+Long non-coding RNA (lncRNA) is arbitrarily defined as RNA longer than
+200 bases that does not encode mRNA, rRNA or tRNA. LncRNAs are involved
+in almost every aspect of cellular and molecular biology. In most cases,
+lncRNAs assemble with proteins as RNA-protein complexes to execute their
+functions. We hypothesize some important molecular in critical signaling
+pathway, such as Smad2 and Smad3 in TGF-/Activin pathway, might have
+their lncRAN partner/partners to fine regulate their function. Based on
+the hypothesis, we carried on little scale screen and finally identified
+lncRAN MALAT1 can exclusively bind to pSmad2 and pSmad3 in hepatocellular
+carcinoma cell lines Hep3B, SK-Hep1 and cholangiocarcinoma cell line
+CCLP1 by methods of RNA Immunoprecipitation (RIP). After quantifying by
+qRT-PCR, we found that MALAT1 enriched by anti-pSmad2/3 antbodies is >15
+times more than that by IgG control. Co-localization of MALAT1 and pSmad2
+and 3 in nuclear speckles of Hep3B cells were also proved by methods of
+combining FISH and immunofluorescence staining. Further bioinformatics
+analysis and immunoprecipitation reveal that pSmad2/3 binding to MALAT1
+through SET domain containing 2 (SETD2) indirectly. Accordingly, if SETD2
+was knockdown by siRNA, the binding between pSmad2/3 with MALAT1 was
+proved decreasing dramatically by methods of RIP. We also found that
+MALAT1 knockdown by shRNA or antisense oligonucleotide will increase the
+Smad2/3 signaling activity significantly, which was proved by Smad2/3
+luciferase reporter constructs, DNA pull-down using synthesized
+oligonucleotide containing consensus sequence of Smads binding elements
+(SBE) and enhanced inhibition effect of TGF- on the proliferation of
+Hep3B and CCLP1 cells. Next, Protein Phosphatase 1A (PPMA1), which act as
+a Smad phosphatase to terminate pSmad2/3 activity, was proved to bind to
+MALAT1 and MALAT1 knockdown decreased the binding of pSmad2/3 to PPM1A.
+Therefore, MALAT1 (together with SETD2) might act as scaffold to facility
+the interaction between pSmad2/3 and PPM1A, which lead to the
+dephosphorylation of pSmad2/3. This kinetically decrease of pSmad2/3
+dephosphorylation might be the reason of increased Smads signaling
+activity in MALAT1 knockdown cells.This work was supported by National
+Institutes of Health grants CA102325, CA106280, CA134568, DK077776 (to
+T.W.) and CA137729 (to C.H.)
+

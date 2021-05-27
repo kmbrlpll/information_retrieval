@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A novel live cell diagnostic platform measuring phenotypic
+biomarkers using objective algorithmic analysis enables further risk
+stratification for intermediate-risk prostate cancer patients
+
+
+Due to the inconsistencies of existing molecular, genomic, and
+pathophysiologic markers for patient risk stratification, effective
+prostate cancer diagnostics and treatment remains a challenge in clinical
+practice. Therefore, the development of a diagnostic platform that
+differentiates cancer patients who have clinically significant disease
+from those who have a low risk of progression is an important area of
+interest. In this study, we tested a diagnostic platform that combines a
+scalable microfluidic device, an automated live cell assay, and objective
+machine vision algorithms to measure phenotypic biomarkers [defined here
+as functional biophysical and molecular biomarkers], which evaluate both
+local growth and metastatic potential of prostate cancer.An analytical
+validation study was performed on fresh prostate cancer samples (n = 100)
+obtained at the time of radical prostatectomy (RP). The diagnostic
+platform enables: 1) growth of patient cells ex vivo on extra cellular
+matrix formulations supporting adhesion/survival for 72 hours 2)
+high-throughput imaging of multiple phenotypic biomarkers such as
+morphology, cytoskeleton dynamics, and protein subcellular localization &
+modification states and 3) objective quantification of biomarkers via
+machine vision analysis. Patient samples were imaged over a three hour
+period capturing live-cell biophysical biomarkers. After three hours
+cells were fixed and stained for molecular biomarkers. Machine vision
+technology was then utilized to analyze phenotypic biomarkers to yield
+specific metrics that quantified local tumor growth (Oncogenic
+Potential-OPs) and invasive potential of the tumor to other tissues
+(Metastatic Potential- MPs) that correlated with RP specimen pathologic
+findings.Analysis of quantified phenotypic biomarkers distinguished
+normal cells from cancer cells. The OP and MP metrics demonstrated
+statistical significance in distinguishing Gleason 6 (low-risk) from
+Gleason 7 (intermediate-risk) prostate cancer with 80% sensitivity and
+80% specificity and concordance with relevant RP pathology
+findings.Specifically, OP and MP derived from defined phenotypic
+biomarker metrics, demonstrated the ability to differentiate Gleason 6
+and 7 scores and correlated with, 1) seminal vesicle invasion, 2)
+positive RP surgical margins, 3) vascular invasion, and 4) lymph node
+involvement. This novel functional-live-cell diagnostic platform allows
+for the measurement of a biomarker panel that further stratifies patients
+to improve prostate cancer treatment, clinical decision-making, further
+risk stratification of intermediate prostate cancer populations, and
+potentially predict actionable pathological findings leading to improved
+treatment outcomes for prostate cancer patients.
+

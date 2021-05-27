@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification of personalized active agents in pediatric gliomas
+through high-throughput drug screening in matching pairs of patient
+derived orthotopic xenograft (PDOX) neurosphere and monolayer cells.
+
+
+Objective: Glioblastoma (GBM) is one of the deadliest brain tumors both
+in adults and children. While next-generation sequencing rapidly
+identifies whole exome/genome gene mutations, the efficacy of targeting
+mutated genes/pathways has not been systematically analyzed.
+Additionally, it remains unknown if neurospheres (enriched with cancer
+stem cells) and non-stem monolayer tumor cells will respond equally to
+the same target therapies.
+
+Methods: Matching pairs of neurosphere and monolayer cell cultures from 4
+molecularly characterized PDOX mouse models established from distinct
+clinical stages of pediatric glioma (treatment-naïve, early recurrent,
+terminal, and radiation-induced) were treated with 7,913 drugs (mostly in
+clinical use or trials) at 4 doses (0-10 uM) for 3 and 7 days.
+Dose-response curves and active area under the curve (AAUC) were
+constructed to identify active drugs and correlate with model-specific
+gene mutations.
+
+Results: Relatively long-term treatment (7 day screening) was achieved
+for high-throughput drug screening and revealed time- and dose-dependent
+effects in most of the 4,629 compounds that were active in at least one
+culture at one time point. When gene mutations were druggable, not all
+inhibitors of the same family were active. In IC-4687GBM (a
+treatment-naïve GBM), high NF1 mutation (>76-99% allele) frequency was
+found in patient tumor, xenografts, and cultured cells, but only 3/17 MEK
+inhibitors were active in neurospheres and 2/17 in monolayer cells
+(GDC0980 and PI-103 were active in both) on day 7. In IC-R0315GBM (from
+an autopsied terminal GBM) that carried PI3KCA mutation (allele frequency
+22-27%), 5/33 PI3K inhibitors were active in neurospheres and 8/33 in
+monolayer cells (only Tremetinib was active in both) after 7 days. In
+IC-3752GBM (recurrent GBM) and ICb-1127AA (radiation-induced anaplastic
+astrocytoma), no druggable mutations were detected. The number of active
+drugs on day 7 was 366 in IC-4768GBM, 406 in IC-3752GBM, 284 in
+IC-R0315GBM, and 305 in ICb-1277AA. When the 4 matching pairs of
+neurospheres and monolayers were compared, the agents active in both
+cultures ranged from 36% to 60%, active only in neurosphere from 10.3% to
+25%, and active only in monolayer cells from 14.8% to 53%. Subsequent in
+vivo validation using MLN8327 in IC-4687GBM and IC-R0315GBM showed that
+effective targeting of both neurosphere and monolayer was required for
+significantly-improved animal survival times.
+
+Conclusion: We showed that long-term treatment is feasible for
+high-throughput drug screening. Targeting druggable mutations can be
+achieved but only by a fraction of specific agents. Neurospheres and
+monolayer cells do not always respond equally toward the same drugs, and
+effective targeting of both subpopulations is needed to generate
+prolonged animal survival times.
+
+

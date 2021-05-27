@@ -1,0 +1,43 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Role of CDK1 in human stem cell biology
+
+
+Self-renewal and pluripotency of stem cells (SC) is maintained by
+well-characterized transcriptional factors that assemble a core
+regulatory network, although less defined auto- and cross-regulatory
+signaling pathways are also critical. Accumulating evidence indicates
+that cell cycle regulators play an important role in control of
+pluripotency and differentiation that goes beyond their roles in cell
+cycle regulation. Cyclin-dependent kinase 1 (CDK1) is essential for cell
+cycle progression and embryonic development, and has recently been
+implicated in a signaling network with pluripotency proteins.In this
+study, we investigated the potential role of CDK1 in regulation of
+pluripotency and differentiation. CDK1 expression is enriched in the
+pluripotent state of human embryonic stem cells (hESCs) and down
+regulated during differentiation. shRNA knockdown of CDK1 or a selective
+CDK1 inhibitor (RO-3306) promoted hESC differentiation, shown by the
+reduced expression of the pluripotency markers Oct4, Nanog, and Sox2, and
+the up-regulation of the mesendoderm transcripts Brachyury, Eomes,
+Goosecoid, and MixL1. Interestingly, down-regulation of CDK1 by both
+shRNA and RO-3306 could not block ES cells at G2/M or other phases of the
+cell cycle, suggesting that relatively milder knockdown of CDK1 did not
+induce hESC cell cycle arrest or impair overall proliferation but was
+enough to promote differentiation. Knockdown of CDK1 also decreased
+phosphorylation of Akt at Thr308 and Ser473, one of the key regulators of
+pluripotency signaling. Further, JNJ-770621, a dual inhibitor of
+CDK1/CDK2 and Aurora kinases but not Akt or Erk, induced human embryonal
+carcinoma cell (NCCIT) differentiation accompanied by reduced
+phosphorylation of Akt. Addition of UO126 and SB431542, which inhibit
+MEK/ERK and TGF/Smad2/ respectively (downstream of PI3K/Akt signaling),
+reversed the differentiation induced by shCDK1 or RO-3306 treatment.
+Moreover, phosphorylation of PDK1 (upstream of Akt) was notably reduced
+in CDK1 knockdown cells but not in serum-induced differentiation,
+indicating that the inhibition of activation of PDK1 or Akt could be the
+primary effect of CDK1 down-regulation. The results suggest that
+threshold levels of CDK1 might direct- or cross-regulate key signaling
+pathways, such as that operating through PI3K-PDK1-Akt.In summary, CDK1
+is required for maintenance of stem cell pluripotency, in a manner that
+is distinct from its role in regulation of cell cycle progression,
+potentially through direct or indirect cross-regulation of fundamental
+pluripotency signaling of PI3K/PDK1/Akt-ERK-GSK3 and TGF/Smad.
+

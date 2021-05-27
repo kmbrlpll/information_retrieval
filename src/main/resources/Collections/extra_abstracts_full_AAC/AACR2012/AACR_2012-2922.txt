@@ -1,0 +1,28 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Androgen receptor driven transcription in a subtype of estrogen
+receptor negative breast cancer is controlled by FoxA1
+
+
+Breast cancer is a heterogeneous disease and several distinct subtypes
+exist based on differential gene expression patterns. Molecular apocrine
+tumors were recently identified as an additional subgroup, characterised
+as ER- AR+, but with an expression profile that resembles ER+ luminal
+breast cancer. Previously, we mapped global AR binding events in a cell
+line model of molecular apocrine breast cancer (termed MDA-MB-453 cells)
+using ChIP-seq. Our results suggested that these tumours are driven by AR
+through its interaction with critical ER cis-regulatory elements,
+resulting in a transcriptional programme reminiscent of ER-mediated
+transcription in luminal breast cancers. Additionally, we found that AR
+binding is a near-perfect subset of FoxA1 binding regions, a level of
+concordance never previously seen with a Nuclear Receptor. By silencing
+FoxA1 using specific siRNA, we observe dramatic changes in the gene
+expression profile of the cells (730 genes are differentially expressed)
+including many of the signature molecular apocrine genes. Furthermore,
+silencing of FoxA1 in these breast cancer cells results in altered AR
+binding to the chromatin (lost, conserved and de novo binding events are
+found) as has been previously seen in the prostate cancer cell line,
+LNCaP. We are investigating this phenomenon further using proteomics to
+discover new AR interacting proteins and histone mark ChIP-seq to
+understand the proteins and epigenetic events that may mediate the
+reprogrammed AR binding in the absence of FoxA1.
+

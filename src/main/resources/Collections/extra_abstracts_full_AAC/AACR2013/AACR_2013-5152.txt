@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Estimating the fraction of a tumor that is killed by a drug.
+
+
+We analysed mathematically the progress of thousands of patients enrolled
+in clinical trials with diagnoses of prostate, renal cell, breast, and
+thyroid carcinomas and multiple myeloma, treated with cytotoxic and
+targeted drugs, tumor quantity being measured radiologically or by serum
+markers (see, e.g., Stein et al Clin Cancer Res. 2011,17, 907-17, for
+prostate cancer). Treatment often results in reduction of tumor quantity,
+with subsequent regrowth. In some regression does not occur; in others
+regrowth is not recorded. All these outcomes are described by a simple
+mathematical formula (see Eq. (1) below) that describes progress of
+treatment, yielding the rate of tumor decay, d, and rate of regrowth, g.
+When regrowth is not seen, g is indistinguishable from zero, as is d if
+tumor quantity fails to decrease. Parameter g is a surrogate measure of
+overall survival. Median g values can be used to compare the arms of a
+clinical trial.In a minority of cases, increase in tumor quantity is
+delayed for an extended period of time before regrowth occurs, and the
+simple formula must be modified to include an additional parameter, , the
+fraction of tumor killed by the drug, see Eq. (2). In a trial of 750
+multiple myeloma (MM) patients treated with liposomal doxorubicin plus
+bortezomib (PLD + B) or bortezomib (B) alone, 114 cases were better
+fitted by Eq. (2) than by Eq. (1). For these, the median value of was
+0.99, meaning that 99% of the tumor was destroyed by drug, only 1% being
+left to regrow. Were this 1% of tumor to regrow at rate 0.0131 per day
+(the median for these 114 patients) it would return to the initial tumor
+quantity, expanding 100-fold, in ln(100)/0.0131 days or 11.5 months. The
+OS for these patients who died before the study closed was 12.7 (8.9 to
+16) months, close to the predicted. If is less than 0.85, and g is larger
+than 0.02 per day, the predictions of Eqs. 1 and 2 are similar. Slight
+scatter in the data will not allow a distinction to be made between the
+models, nor a definitive value of estimated. Nevertheless, aggregating
+data from numerous patients enables to be estimated for such a data set.
+Aggregating the data for the 388 MM patients for whom g and/or d but not
+could be established, was 0.84 for the PLD + B arm and 0.79 for B. To
+regrow to the initial tumor quantity requires 2.7 doublings for the PLD +
+B arm and 2.2 for B, a difference that would result in only a trivial
+increase in OS. However, the difference between the computed tumor growth
+rates, 0.0019 and 0.0037 for the PLD + B arm and B respectively, would be
+expected to lead to a noticeable increase in OS were treatment to
+continue beyond conventional endpoints.Measuring the fraction of tumor
+killed by a drug, and the rate of growth recovery, can give insight into
+drug/tumor interactions and guide development of new therapies.Equation
+1: f(t) = exp (-d t) + exp (g t) -1, exp is the base of the natural
+logarithms, and f(t) the tumor measurement at time t, normalized to the
+tumor measurement at day 0;Equation 2: f(t) = exp (-d t) + (1-) exp (g t)]
+

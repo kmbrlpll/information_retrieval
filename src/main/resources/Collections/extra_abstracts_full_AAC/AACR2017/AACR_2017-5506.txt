@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: SOX11 acts as part of the MYCN-WEE1 regulatory protein complex
+implicated in neuroblastoma.
+
+
+Neuroblastoma (NB) is an aggressive lethal pediatric cancer of the
+developing sympatho-adrenergic nervous system and characterised by a low
+mutation burden while exhibiting recurrent DNA copy number alterations
+including chromosome 2p gain and MYCN amplification. Rare amplifications
+have previously allowed to identify additional oncogenes implicated in NB
+such as ALK and LIN28B.
+
+Here we report on three NB tumours and two NB cell lines with high level
+focal gain containing the SRY-related HMG-box transcription factor 11
+(SOX11) as only protein-coding gene in the smallest region of overlap.
+The high expression levels of SOX11 in NB and the developing sympathetic
+nervous system, and high correlation of SOX11 mRNA and protein levels
+with survival outcome, suggested a role for SOX11 as oncogene and
+prompted us to further investigate its role in MYCN driven NB formation.
+SOX11 knock down in NB cell lines showed reduced colony formation
+capacity and G1-S cell cycle arrest. We observed increased SOX11 levels
+upon MYCN induction in NB cell lines, in MYCN overexpressing mouse
+neuroblastomas compared to normal ganglia as well as a high correlation
+of SOX11 and MYCN mRNA and protein levels in cell lines and tumors. As
+these data could indicate direct MYCN regulation of SOX11, we performed
+MYCN ChIPseq and indeed confirmed binding of MYCN to the SOX11 promotor.
+Next, we demonstrated MYCN and SOX11 cooperative binding to common
+targets using SOX11 and H3K27ac ChIP-sequencing. First, we showed
+localisation of more than half (62%) of the SOX11 binding sites at
+enhancers. Moreover, 19% of SOX11 targets contained an E-Box motif,
+typically known to be targeted by MYCN, and we showed overlap of 30% of
+SOX11 and MYCN binding targets. In a further step to unravel SOX11
+function in NB cells, we analysed SOX11 binding partners using IP-MS and
+identified 9 robust interaction partners in multiple NB cell lines. These
+included MYCN which was confirmed by reciprocal co-IP, as well as WEE1, a
+tyrosine kinase critically implicated in G2-M checkpoint control for
+which multiple potent and specific small molecule inhibitors are
+available. Remarkably, upon testing of the AZD-1775 WEE1 inhibitor in 10
+NB cell lines, we observed the strongest effects in cells with the
+highest SOX11 protein levels indicating that SOX11 expression levels can
+serve as predictive biomarker for AZD-1775 treatment response.
+
+In conclusion we identified high-level focal gain of SOX11 in NB tumors
+and cell lines and demonstrated the oncogenic role of SOX11 in MYCN
+driven neuroblastoma with therapeutic opportunities through interaction
+with WEE1.
+
+

@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Cell sorting strategies for the isolation of cancer cells and
+associated fibroblasts from tumor biopsies, surgical resections, and
+patient-derived xenografts
+
+
+The ability of early passage patient-derived tumor xenografts (PDXs) to
+recapitulate human tumor biology makes them invaluable tools for
+pre-clinical drug development (1, 2). Similarly, clinically-annotated
+human tumor cell lines of low passage have potential as scalable
+biosimilar reagents for in vitro study. Here, we describe an integrated
+platform for the purification, expansion, and quality control of tumor
+cells and cancer-associated fibroblasts (CAFs) from patient biopsies,
+surgical resections, and mouse PDX models. Following dissociation of
+solid tumors, cells are cultured on Matrigel in fibroblast conditioned
+media containing Y-27632 (a Rho-associated kinase inhibitor). Cells are
+then analyzed by FACS using a panel of species- or cell type-specific
+antibodies. This panel (anti-mCD9, hCD9, hCD24, hCD90, MHC, HLA, and
+hEPCAM) permits quantitation of the percentage of mouse/human cells, and
+the percentages of tumor cells and CAFs in each patient specimen. From
+these data, a cell sorting strategy can be selected (e.g. mCD9 and hCD90
+with hEpCAM or CD24) that will permit purification of both tumor cells
+and CAFs, along with removal of any mouse fibroblast contamination (for
+PDX tumors). Samples are sorted multiple times until target populations
+reach 99.99% purity (typically 2-3 rounds). Purified cells are then
+returned to culture, expanded over several weeks, and frozen at low
+passage. The purity and identity of these cultures is quality-assured
+using 1) mouse-specific QPCR, 2) a cDNA array designed to differentiate
+fibroblasts from tumor cells, and 3) STR genotyping. Tumor lines and CAFs
+are then scaled and re-qualified at passages 10 and 20, an essential step
+given the propensity of low-frequency mouse and human fibroblasts to
+overtake impure cultures with time. Lastly, cancer lines and CAF cultures
+undergo genomic characterization and are evaluated for in vivo
+tumorigenicity (or the lack thereof for CAFs). To date, the platform has
+been used to generate a growing number of purified cancer and CAF pairs
+from patient materials. In conclusion, our goal is to provide useful
+reagents to the extramural community that will accompany current efforts
+within the Division of Cancer Treatment and Diagnosis (DCTD, NCI) aimed
+at generating a large and extensively characterized repository of PDX
+models. Funded by NCI Contract No. HHSN261200800001E.References1.Hidalgo
+M, Amant F, Biankin AV, Budinska E, Byrne AT, Caldas C, et al.
+Patient-derived xenograft models: an emerging platform for translational
+cancer research. Cancer Discov. 2014;4:998-1013.2.Rosfjord E, Lucas J, Li
+G, Gerber HP. Advances in patient-derived tumor xenografts: from target
+identification to predicting clinical response rates in oncology. Biochem
+Pharmacol. 2014;91:135-43.
+

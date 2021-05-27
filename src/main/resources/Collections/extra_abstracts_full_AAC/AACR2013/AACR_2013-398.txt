@@ -1,0 +1,37 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Genome-wide comparison of matched canine osteosarcoma primary
+tumours and metastases by array comparative genomic hybridization.
+
+
+Canine osteosarcoma is a common and highly aggressive cancer that shares
+many characteristics with human osteosarcoma and can serve as a model of
+this disease. We collected snap frozen normal muscle, primary
+appendicular skeleton tumour, and matched terminal lung metastases from 8
+canine osteosarcoma patients. DNA was isolated from these samples and
+gene copy number aberrations were assessed using high-resolution
+oligonucleotide array comparative genomic hybridization (Agilent G3
+Canine 180k array). Data analysis was performed using Agilent Genomic
+Workbench 5.0 analysis software and the Aberration Detection Method 2 and
+Circular Binary Segmentation algorithms were applied to identify aberrant
+chromosomal intervals with the log2 ratio threshold set to 0.5. As
+expected, many cases had copy number aberrations that contain genes
+commonly altered in canine and human osteosarcoma, including MYC,
+CDKN2A/CDKN2B, PTEN, p53, and RB. To assess the degree of genomic
+similarity of the 8 primary tumours to their corresponding metastasis, we
+used these same samples to generate 8 random pairings of unmatched
+primaries and metastases, as well as 8 random pairs of primary tumours
+and 8 random pairs of metastases. A set of 11,000 random 10 base pair
+segments spanning the entire genome was generated and a correlation
+analysis was conducted between pairs of samples using the log2 ratios for
+each segment. Matched samples showed significant correlation with the
+square of the correlation coefficient (R2) being 0.44 (p0.05 for each).
+Thus, as a group, primary tumours are genomically more similar to their
+corresponding metastasis than to unmatched metastases, and are also more
+similar than primary tumours or metastases are to each other. However,
+the range of similarity between matched primaries and metastases was
+relatively wide, with half the cases showing very high similarity and
+half showing moderate similarity that was close to the upper range of
+unmatched samples. These results have implications for therapies that
+rely on analysis of primary tumours to derive strategies that target
+metastases.
+

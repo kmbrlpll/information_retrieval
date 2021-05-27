@@ -1,0 +1,55 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of estrogen receptor modulated gene methylation
+network in breast cancer.
+
+
+While cancer as a complex disease is known to arise from a series of
+aberrant genetic and epigenetic profiles, its growth and disease-specific
+outcome can often be characterized by status of one oncogene, such as
+Estrogen Receptor (ER) of breast cancer. Positive ER appears in around
+70% of human breast cancer cases and recent studies dissected the
+Estrogen-mediated gene regulation through specific DNA methylation
+patterns by comparison between ER+ and ER- tumor samples. However, this
+simple approach did not take into consideration the influence of other
+confounding regulation factors due to the heterogeneity of breast cancer
+and may be limited in uncovering complex underlying mechanism. To address
+this problem, we first hypothesize that DNA methylation status and its
+inter-gene similarity are modulated by multiple factors including ER. The
+disruption of ER will disrupt association of methylation patterns between
+two genes which are correlated otherwise. The epigenetic signaling
+cascade maintained by specific ER status can be further interpreted from
+the co-methylation relationship among genes.Here we proposed a novel
+algorithm to identify the modulated gene methylation based on the
+modulator of regulation concept. Setting ER as the modulator, an ER
+modulated gene pair (ER-GP) was defined as pair of genes with
+differential correlation between ER+ and ER- samples. Fisher
+transformation on Pearson correlation coefficients was adopted for
+statistical power adjustment on sample sizes and the differences of
+absolute correlation coefficients were tested for statistical
+significance in the Fisher transform domain. By applying the algorithm to
+the MBDCap-Seq data of 76 breast tumors (47 ER+ and 29 ER-), we
+identified 5,673 putative ER-GPs of co-methylation (co-methyl. ER-GPs)
+involving 1,657 unique genes. In order to delineate a comprehensive and
+systematic view of interaction between identified ER-GPs, the co-methyl.
+ER-GPs were combined to construct the ER modulated gene methylation
+network. With an overall connectivity (average number of first-order
+neighbors of each gene in a network) of 6.85, genes in the methylation
+network were highly linked to each other and formed a branched signaling
+cascade. The nucleosome assembly protein 1-like 5 NAP1L5, previously
+reported as regulated by both estradiol and tamoxifen treatment, was
+identified as the top hub gene, indicating that it may serve as an
+important regulator in the ER modulation. Further Gene Ontology analysis
+revealed that NAP1L5 and its co-methylated genes were involved in
+nucleotide biosynthetic process, chromosome organization, and cell
+proliferation.In the present study, we proposed a novel algorithm to
+identify the ER modulated methylation regulatory network. The findings
+provided biological insights into the underlying mechanism of epigenetic
+signaling governed by ER and may contribute to improvement of breast
+cancer treatment.Citation Format: Yu-Chiao Chiu, Tzu-Hung Hsiao, Fei Gu,
+Yidong Chen, Tim H-M Huang, Eric Y. Chuang. Identification of estrogen
+receptor modulated gene methylation network in breast cancer. [abstract].
+In: Proceedings of the 104th Annual Meeting of the American Association
+for Cancer Research; 2013 Apr 6-10; Washington, DC. Philadelphia (PA):
+AACR; Cancer Res 2013;73(8 Suppl):Abstract nr 2889.
+doi:10.1158/1538-7445.AM2013-2889
+

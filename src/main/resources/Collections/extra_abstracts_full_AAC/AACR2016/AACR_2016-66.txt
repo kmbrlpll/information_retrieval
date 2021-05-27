@@ -1,0 +1,33 @@
+Meeting: 2016 AACR Annual Meeting
+Title: High-throughput screening using patient derived tumor cell to
+conduct personalized medicine
+
+
+Background:Patient-derived cell (PDC) model is one of prospective
+technologies to investigate drug response for precision medicine.
+Previously drug sensitivity derived PDC model has been studied in
+colorectal cancer organoid culture or lung cancer model. They revealed
+that PDC model recapitulates genomic characteristic and drug
+high-throughput screening is amenable. We established PDC models from
+metastatic cancer cohort of multiple cancer types, and revealed genomic
+characteristics and matched drug response.Method:Target sequencing was
+performed using OncoPanel. We called SNV, and CNV from target sequencing
+using GATK, then clinically unassociated SNPs were eliminated. Somatic
+submodules were identified from integrative variant profiles using HotNet
+referring HPRD. Drug high-throughput screening was performed SEMCO
+platform. In order to identify sensitive drug and variant gene pairs,
+drug sensitivity was tested by ANOVA using IC50 values.Result:Target
+sequencing of exome were generated from our 165 PDC models, and drug
+high-throughput screening was performed from 30 PDCs and ant-cancer 15
+drugs. We tried integrative analysis approaches from genomic profile
+including mutation and copy number alteration, and identified genomic
+modules related with Fanconi, Hedgehog, FGFR receptor, Cytokine-cytokine
+receptor pathway. Variants of known oncogenes were successfully
+identified in MET, BRAF, FGFR and PIK4CA. Especially novel and recurrent
+mutations were identified in FGFR2, and corresponding samples indicated
+AZD4547 sensitivity as well as known drug response case such as BRAF
+V600E targeting Vemurafenib.Conclusion:Our study explains that PDC cohort
+sustains cancer related pathways, and its drug response follows genomic
+features. It is expected that our research would contribute to facilitate
+precision medicine from PDC model to utilize genomics and drug response.
+

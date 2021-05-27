@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification and evaluation of small molecule inhibitors of
+lysophosphatidic acid acyltransferase-beta.
+
+
+Abstract: Lysophosphatidic acid acyltransferase-beta (LPAAT-) catalyzes
+the production of phosphatidic acid (PA) from lysophosphatidic acid
+(LPA). PA is a lipid cofactor that contributes to the activation of
+c-Raf, BRAF, mTOR and PKC-. LPAAT- expression is a prognostic factor in
+gynecologic malignancies and is being investigated as a therapeutic
+target in a variety of tumor types. We previously reported that knockdown
+of LPAAT- by siRNA led to a significant inhibition of both
+anchorage-dependent and -independent growth in pancreatic cancer cell
+lines. Having thus established LPAAT- as a valid therapeutic target in
+pancreatic cancer, we screened small molecule libraries for compounds
+which block LPAAT- enzymatic activity in vitro.Methods: We utilized a
+96-well plate screening assay for LPAAT- enzymatic activity modified from
+Aguado and Campbell, J Biol Chem 273(7):4096-4105, 1998. Briefly,
+compounds were introduced into a mixture containing full-length,
+recombinant, baculovirus-produced LPAAT- (Blue Sky Biotechnology),
+oleoyl-LPA, and oleoyl coenzyme A. The ability of the compound to inhibit
+the enzyme activity was assayed by the measurement of the reaction of the
+thiol group of the released coenzyme A with the DTNB, resulting in an
+increase in the optical density of the sample when read at an absorbance
+of 413 nm. To rule out non-specific compounds identified from the DTNB
+plate assay, we confirmed activity using a secondary thin layer
+chromatography (TLC) assay that directly measures the ability of LPAAT-
+to catalyze the synthesis of PA from oleoyl-LPA and a
+fluorochrome-labeled (NBD) palmitoyl coenzyme A.Results: We screened a
+total of ten libraries containing 11204 compounds, and achieved a 1.2%
+hit rate for inhibition of >50% at the tested concentration (100M for
+nine libraries; 10M for one library). Further testing identified several
+compounds with IC50s ranging from 0.1-15 M. One hit identified with an
+IC50 of 100 nM was chosen for further investigation and for synthesis of
+analogs to optimize potency and undertake SAR. We verified the activity
+of this hit and its analogs against LPAAT- by determining their
+inhibitory activity of the synthesis of NBD-labeled PA in a TLC assay.
+Finally, we demonstrated that the best analog from this group inhibited
+the proliferation of several pancreatic cancer cell lines.Conclusions: We
+have developed a library of compounds which show inhibitory activity
+against LPAAT- in a screening assay, and have confirmed their ability to
+inhibit LPAAT- directly in a TLC assay which monitors the production of
+PA. These compounds show low micromolar activity against LPAAT- in vitro,
+and micromolar activity against the proliferation of pancreatic cancer
+cell lines in culture.
+

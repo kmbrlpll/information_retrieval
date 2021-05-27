@@ -1,0 +1,34 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Hyper activation of poly(ADP-ribose) polymerase 1 initiates
+large-scale metabolic changes in a cellular model of glioblastoma
+
+
+PARP1 is a key enzyme of the Base Excision Repair (BER) pathway,
+facilitating the repair of base damage and single-strand DNA breaks.
+Activated PARP1 synthesizes poly (ADP-ribose) (PAR), triggering chromatin
+de-condensation to facilitate recruitment of BER proteins to complete
+repair. PARP1 activation is attenuated upon successful repair of the DNA
+lesion. However, unrepaired DNA breaks lead to continuous PARP1
+activation and cell death. The molecular mechanism underlying PARP1
+activation induced cell death was recently revealed as independent from
+NAD+ depletion. We have shown that PARP1 activation and PAR synthesis
+affect glycolysis by directly inhibiting the glycolytic enzyme,
+hexokinase 1 (HK1). Following on these discoveries, we decided to
+investigate global metabolic changes triggered by hyperactivation of
+PARP1. For this study, we used gas chromatography mass spectrometry
+(GC-MS) to quantify over 150 cellular metabolites and Multiple-Reaction
+Monitoring Liquid Chromatography Mass Spectrometry (MRM LC-MS) to measure
+NAD+ metabolites. As a model, we tested glioblastoma cells overexpressing
+methylpurine DNA glycosylase (MPG) to enhance the PARP1-activation
+response to DNA damage induced by the alkylating agent MNNG.
+Simultaneously, to monitor independence from the DNA damaging effect of
+NAD+ depletion, we utilized an inhibitor of NAD+ biosynthesis, FK866. We
+found that PARP1 activation leads to a strong accumulation of glucose,
+likely as a secondary effect of HK1 inhibition. In addition, we observed
+a significant change in the level of other metabolites including an
+increase in inosine, inosine monophosphate (IMP), cytidine and uridine
+levels upon PARP1 activation, suggesting an indirect effect of PARP1
+activation on purine and pyrimidine metabolism. Ongoing studies will use
+these global approaches to unravel the complete metabolic response of
+cancer cells to genotoxic treatment.
+

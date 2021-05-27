@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Integrative analysis of transcriptomic, proteomic, and metabolomic
+data of Pten-knockout carcinogenic mouse prostate.
+
+
+The prostate-specific Pten-knockout (KO) mouse carcinogenesis model is
+highly desirable for prostate cancer chemoprevention studies due to its
+close resemblance of many histopathological features of human prostate
+cancer including disease progression from prostatic intraepithelial
+neoplasia (PIN) to invasive adenocarcinomas. Here, we profiled the
+prostate proteome, transcriptome and aqueous metabolome of Pten-KO mice
+to identify reference molecular signatures that can be used for designing
+chemopreventive and/or therapeutic intervention and for selection of
+molecular biomarkers of responses to intervention. For proteomics, 4
+pairs of whole prostates from Pten-KO mice (12-15 weeks of age,
+corresponding to high grade PIN) and their wild type littermate housed in
+same cages were obtained from the NCI Mouse Model Repository and analyzed
+by 8-plex iTRAQTM. For transcriptomic/microarray and metabolomic
+analyses, 3 additional matched pairs of prostate/tumor specimens at older
+age (22-20 weeks) were used. Proteomic and transcriptomic analyses using
+manual annotation methods with references from PubMed revealed top
+signatures that were up- and down-regulated by Pten deletion,
+particularly those implicated in immune function, inflammatory response,
+cancer, drug metabolism, cellular functions, prostate functions, and
+endoplasmic stress regulation. Similar to the manual annotation approach,
+each network analysis of 203 genes and 22 proteins (≥ 2- fold changes)
+by a bioinformatics software, Ingenuity Pathway Analysis (IPA) showed
+that inflammatory response, cellular movement, immune cell trafficking,
+immunological disease, and cancer were top 5 disease and biological
+functions in Pten-KO mice. Using references from PubMed, we manually
+assigned the unmapped prostate metabolites to functional categories,
+which included altered methionine-cysteine cycle fluxes and purine
+metabolites, increased nucleotide pools, cholesterol and polyamine
+synthesis and suppressed pools of sugar and choline derivatives,
+glycolysis intermediates, and purine bases. IPA network analysis of 25
+metabolites (≥ 2- fold changes) revealed the biological functions
+related to molecular transport, amino acid metabolism, and small molecule
+biochemistry. In addition, we integrated transcriptomic, proteomic, and
+metabolomic data sets to identify latent biological relationships and to
+gain a comprehensive understanding of Pten-deficient prostate
+carcinogenesis. The integrative analysis predicted activation of
+inflammatory response and several central signaling nodes, such as IRF7,
+NF-κB, and IL-6. Collectively, the integrative analyses identify both
+active and latent reference molecular signatures and provide more insight
+into Pten-deficient prostate cancer than single omic approaches.
+
+

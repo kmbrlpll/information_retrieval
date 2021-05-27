@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Oral microbiome and risk of head and neck cancer, a nested
+case-control study
+
+
+Introduction: The oral microbiome is intimately involved in inflammatory
+processes in the oral cavity and may be involved in metabolism of
+carcinogens in tobacco smoke. Our hypothesis is that oral microbiota may
+promote head and neck carcinogenesis, possibly related to smoking. To
+test this hypothesis, we conducted a nested case-control study to
+prospectively examine the role of the oral microbiome in head and neck
+cancer, in the Prostate, Lung, Colorectal, and Ovarian (PLCO) Cancer
+Screening Trial cohort.Methods: Subjects in the PLCO Trial completed risk
+factor questionnaires and provided oral wash samples. Trial participants
+were followed for cancer incidence by annual follow-up, medical chart
+review and search of mortality databases. During follow-up, 87
+histologically confirmed head and neck cancer cases occurred subsequent
+to oral wash sample collection. We matched these cases to 174
+cohort-nested controls (matched by age, gender, and race). DNA was
+extracted from oral wash samples, 16S rRNA genes were amplified by
+universal primers, and product was bar-coded and sequenced by 454 FLX
+technology. 16S rRNA bacterial gene sequences were binned into
+operational taxonomic units (based on 97% identity) and further assigned
+to taxonomy in the QIIME pipeline. We performed nonparametric Wilcoxon
+signed-rank tests and conditional logistic regression to compare
+differences between head and neck cancer cases and controls, with respect
+to overall bacterial community structure and relative abundance of
+specific taxa.Results: From 261 oral samples, we obtained 2,548,067 high
+quality 16S rRNA gene sequence reads. Overall community structure, based
+on a weighted UniFrac phylogenetic distance index, did not differ
+significantly between cases and controls (p>0.05). The major phyla in
+controls were Firmicutes (59.5%), Actinobacteria (15.5%), Bacteroidetes
+(11.3%), Proteobacteria (10.3%), and Fusobacteria (2.8%). Decreased
+abundance of Proteobacteria was observed in cases (7.8%) compared to
+controls (Wilcoxon test, p = 0.008, FDR controlled p=0.041). After
+consideration of age, race and sex in conditional logistic regression
+analysis, an inverse association of Proteobacteria with head and neck
+cancer risk was observed in smokers (OR comparing extreme tertiles =0.34,
+95% CI 0.15-0.79; ptrend = 0.009 [FDR controlled p=0.065]), but not in
+non-smokers (ptrend=0.62). We also noted a relative increase in abundance
+of Bifidobacteriales order (multivariate p=0.002, FDR controlled p=0.045)
+and Lactobacillaceae family (multivariate p=0.005, FDR controlled p>0.05)
+in cases compared with controls.Conclusion: This first prospective study
+of the oral microbiome and head and neck cancer suggests that
+Proteobacteria and Bifidobacteriales are related to risk of head and neck
+cancer. Replication of these first observations is needed.
+

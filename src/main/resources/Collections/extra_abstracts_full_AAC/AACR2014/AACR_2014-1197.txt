@@ -1,0 +1,69 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Differential gene expression analysis by RNA-seq of primary
+tumors, circulating tumor cells, and metastases from a mouse xenograft
+model of cancer dissemination
+
+
+Tumor dissemination and metastasis is the root cause of cancer mortality,
+and informative models are needed to identify key drivers of this
+process. We developed a tractable mouse xenograft model of cancer
+dissemination, wherein GFP-labeled pure primary tumor (PT) cells,
+circulating tumor cells (CTCs) and lung metastasis (LM) cells can be
+isolated from the same host and studied to map drivers of cancer
+progression.GFP-labeled SCC351 human squamous cell carcinoma cells were
+inoculated subcutaneously into NOD/SCID/IL2r-null (NSG) mice. When
+subcutaneous xenografts approximately 1cm in diameter were palpable (4-8
+weeks), 500-1000 l of blood was collected by intracardiac puncture and
+Ficoll-centrifuged to remove red blood cells. At the same time, PT and LM
+were resected and digested into single cell suspensions. An XYZ
+micromanipulator was used to pick up individual GFP+ CTCs, PTs and LMs
+for RNA extraction, amplification with Ovation RNA-Seq System V2 (Nugen),
+and library generation for RNA-Seq on a HiSeq2000 (Illumina). RNA-Seq
+data was analyzed with Partek Flow and mapped to human genome (Ensembl
+GRCh37) using TopHat2. Gencode V17 annotation was used to quantify the
+aligned reads to genes using Partek E/M, and read counts per gene were
+analyzed for differential expression using DESeq2. Gene expression
+validation was accomplished by qPCR.Comparing CTC gene expression to PT
+and to LM, a differential expression of at least 2x (with BH adjusted
+p-value Tumor dissemination and metastasis is the root cause of cancer
+mortality, and informative models are needed to identify key drivers of
+this process. We developed a tractable mouse xenograft model of cancer
+dissemination, wherein GFP-labeled pure primary tumor (PT) cells,
+circulating tumor cells (CTCs) and lung metastasis (LM) cells can be
+isolated from the same host and studied to map drivers of cancer
+progression.GFP-labeled SCC351 human squamous cell carcinoma cells were
+inoculated subcutaneously into NOD/SCID/IL2r-null (NSG) mice. When
+subcutaneous xenografts approximately 1cm in diameter were palpable (4-8
+weeks), 500-1000 l of blood was collected by intracardiac puncture and
+Ficoll-centrifuged to remove red blood cells. At the same time, PT and LM
+were resected and digested into single cell suspensions. An XYZ
+micromanipulator was used to pick up individual GFP+ CTCs, PTs and LMs
+for RNA extraction, amplification with Ovation RNA-Seq System V2 (Nugen),
+and library generation for RNA-Seq on a HiSeq2000 (Illumina). RNA-Seq
+data was analyzed with Partek Flow and mapped to human genome (Ensembl
+GRCh37) using TopHat2. Gencode V17 annotation was used to quantify the
+aligned reads to genes using Partek E/M, and read counts per gene were
+analyzed for differential expression using DESeq2. Gene expression
+validation was accomplished by qPCR.Comparing CTC gene expression to PT
+and to LM, a differential expression of at least 2x (with BH adjusted
+p-value <0.05) was seen in 166 genes. Of these, 135 genes encoded known
+proteins and 31 corresponded to pseudogenes and lincRNAs. The 166
+candidate genes were further ranked based on their degree of differential
+expression, read depth, and functional analysis (using Next Bio for
+annotated genes) suggesting involvement in pathways of cell survival,
+proliferation or tumor growth. Based on this analysis flow, 17 genes were
+chosen for validation by qPCR: 8 with an expression level that went up
+from PT to CTCs and then down in LM, 6 that went down from PT to CTCs and
+then up in LMs, and 3 that were lincRNAs. To date, differential
+expression has been validated for five of these genes by qPCR, and
+additional validation currently is ongoing.Here we leveraged new
+techniques for rare CTC capture, whole transcriptome amplification and
+next generation sequencing to identify and validate new candidate drivers
+of dissemination and metastasis in a tractable xenograft mouse model of
+cancer progression. This model holds the potential to uncover novel
+functions of lincRNAs, in addition to new roles for known genes in the
+context of cancer dissemination. Functional analysis of these candidates
+in vitro and in vivo is planned, with the goal of identifying and
+characterizing new drivers of cancer progression for therapeutic
+targeting.
+

@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Tumor evolution inferred by patterns of miRNA expression through
+the course of disease, therapy and recurrence in breast cancer
+
+
+Tumor heterogeneity frequently develops through the course of disease,
+therapy and metastasis. This molecular evolution is a major challenge in
+the clinical setting and is the main reason for resistance to therapy.
+Although metastatic disease is the cause of death in breast cancer, most
+studies involve primary tumors compared to normal breast. An alternative
+approach of serial assessments can add an informative value and highlight
+important molecular players that may be otherwise underestimated.We
+sought to explore alterations through the course of disease by profiling
+serial samples from individual breast cancer cases followed from
+diagnosis to recurrence. We have assembled a unique cohort of patients
+having matched samples from pre-treatment, post-treatment and recurrent
+events. We collected paraffin-embedded samples and profiled miRNA
+expression across all samples for each patient using NanoString
+analysis.We hypothesized that expression modulations in individual
+patients through their course of disease can target miRNAs sets that
+differentially function at the various stages of the disease. We
+therefore used an innovative approach for analysis, identifying
+modulation patterns as opposed to differential absolute expression. We
+defined all the 8 possible patterns of expression modulations in 3 time
+points across the course of disease. For each pattern, we identified a
+set of miRNAs that are shared between patients by limiting the search
+algorithm to find modulations of at least 1.5 fold in at least 3
+patients. Each miRNA set was examined for enrichments in known miRNAs
+datasets (METABRIC), for target predictions and for literature
+evidences.We found an agreement between the predicted pattern of each
+assigned miRNAs and the observed trend. For example, miRNAs assigned to a
+pattern of an increased expression post-treatment and a decrease at
+recurrence were found to be down-regulated in breast cancer and
+negatively correlated with the cell cycle pathway. Interestingly, we
+found that this miRNAs set can differentiate between individual patients,
+based on their response to therapy. All patients sharing the same pattern
+for its assigned set of miRNAs had a partial response to therapy. In
+contrast, patients that showed the opposite pattern demonstrated a
+minimal response to therapy. Finally, although this miRNA set were
+identified by the pattern dynamics, we found a significant difference in
+its average absolute expression level between patients having recurrence
+and patients that are recurrence free, suggesting that the identified
+miRNA set may have a prognostic value.In summary, examining serial
+assessments enabled us to identify significant molecular signatures
+characterizing breast cancer progression based on expression patterns
+through the course of disease. This longitudinal approach of profiling
+individual patients may have important consequences for personalized
+medicine.
+

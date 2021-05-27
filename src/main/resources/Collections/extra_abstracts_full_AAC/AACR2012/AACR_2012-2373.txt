@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: An integrated approach for isolating CTCs to enable the
+interrogation of cellular heterogeneity using IFAST
+
+
+Background: The isolation of circulating tumor cells (CTCs) from whole
+blood is enabling for the study of malignant cells from patients with
+metastatic disease through a minimally invasive procedure. The analytical
+methods following the isolation of CTCs can be used to gain information
+about the disease, but require a highly purified population of cells that
+are minimally disturbed from the isolation procedures. While enumeration
+of CTCs during therapy has been shown to predict overall survival in men
+with metastatic prostate cancer, current methodology is limited in its
+ability to obtain information about these cells beyond count. Recent
+findings also suggest that CTC populations are heterogeneous (e.g. EMT,
+stem cell markers), and enumeration of CTCs based solely on EpCAM surface
+expression does not permit evaluation of CTC subpopulations. Therefore,
+methods that can isolate these cells based on their heterogeneity and
+further evaluate surface markers in an integrated platform will be
+beneficial in progressing the clinical relevance of CTC collection.
+Method: We present a method to sequentially isolate cells from a single
+input sample by cellular surface markers. Using immiscible filtration
+assisted by surface tension (IFAST) technology, we have demonstrated the
+ability to purify cells from a mixed cell population while maintaining
+the viability of these cells. The principle of the technology is that a
+high interfacial energy between the cell sample and oil creates a barrier
+that is normally impassable due to surface tension. Magnetic beads are
+added that have antibodies specific to a cellular surface marker and bind
+to the cells. A magnetic force is then applied to move the cells to and
+across the interface between the fluid and the oil, leaving anything
+unbound to the beads behind, thus isolating the cells of interest. CTC
+isolation is challenging due to potential cell loss in pipette transfer
+and wash steps. Using the IFAST device, we are able to add whole
+buffycoat into the input of the device and sequentially isolate, stain,
+and image CTCs without any pipette transfer or wash steps. Results: We
+have demonstrated the ability to have a single source solution in which
+two unique cell populations are present representing a basal and luminal
+cell type (DU145s, LNCaPs) and demonstrate the ability to individually
+isolate each of the two populations using a cellular surface antibody
+unique to one of the cell types (DU145 - CD44, LNCaPs - EpCAM) from a
+buffycoat containing high background PBMCs with greater than 80% of the
+resulting cells being the cell of interest in each situation, and
+demonstrate immunostaining of the isolated cell population (vimentin,
+HLA-A2). Conclusions: IFAST technology can be used to isolate multiple
+fractions from a single buffycoat solution using sequential bead
+additions and pull-throughs, demonstrating an advantage of this
+technology in the assessment of CTC heterogeneity.
+

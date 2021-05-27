@@ -1,0 +1,36 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Characterization of tumor explant models using next-generation
+sequencing.
+
+
+Tumor explant models (human tumor tissue directly transplanted into mice)
+are believed to conserve original tumor characteristics, including
+molecular heterogeneity and tumor architecture. Thus, they better
+represent patient population and can provide more relevant predictive
+insight into clinical outcome. They potentially offer a clinically
+relevant model in which to compare drug response to genomic and molecular
+profiles. So called next generation sequencing (NGS) technologies (Exome
+sequencing and RNA-seq) are becoming the standard choices for genetic
+profiling due to the rich information they can provide. The sequence
+based nature of these technologies offers the potential to differentiate
+results by species and remove mouse derived stromal contamination when
+assessing tumor cells directly. This also presents a unique opportunity
+to differentiate and assess molecular interaction between the tumor and
+the stromal tissue.To this aim, we have developed algorithms to
+differentiate NGS sequences between human and mouse. Using mixtures of
+human and mouse derived cell lines we demonstrated that the algorithm
+achieved high sensitivity (99.8%) and specificity (99.5%). More than 90%
+of sequence reads mapped to both human and mouse can be effectively
+differentiated. We applied the approach to differentiate human and mouse
+sequences for several explant models derived from both exome sequencing
+and RNA-seq. We demonstrated that the process resulted in more accurate
+expression quantification, and reduction of false positives in variance
+calling. In addition, we compared the variance calling between paired
+exome and RNA-seq and found that the two methods are complimentary to
+each other where genes were expressed. We also highlighted a number of
+interesting features and anomalies between RNAseq and exome data.In
+summary, we demonstrated the feasibility of using exome and RNA-seq to
+effectively differentiate human and mouse sequences in tumor explants
+models. We highlight the value of this approach to rationally guide their
+application in drug discovery.
+

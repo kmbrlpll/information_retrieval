@@ -1,0 +1,53 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Unidentified genetic variants influence pancreatic cancer risk: An
+analysis of the PanScan genome-wide association study
+
+
+Genome-wide association (GWA) methods have been used to identify multiple
+pancreatic cancer susceptibility loci. However, it is likely that other
+unidentified common susceptibility variants exist. In this work we used
+data on 493,619 common autosomal single nucleotide polymorphisms (SNPs)
+from the PanScan GWA study (2,857 cases and 2,967 controls) to confirm
+the existence of unidentified susceptibility variants using two
+cross-validation methods: a polygenic risk score (PRS) approach and a
+power-replication approach. For the PRS approach, after excluding all
+SNPs from known pancreatic cancer susceptibility loci, we first
+constructed a polygenic risk models based on a training dataset and then
+tested the model in an independent testing dataset. The second approach
+(i.e., power-replication) was based on calculating power to detect
+association for each SNP based on association estimates from a training
+set and then testing the power estimate for association with probability
+of replication in an independent testing data set. Using the polygenic
+risk score method, we demonstrate the existence of additional pancreatic
+cancer risk variants, the majority of which have P-values > 0.01 in the
+PanScan study. We also demonstrate enrichment for unidentified loci near
+gene regions. We reach similar conclusions using the power-replications
+approach, where SNPs with higher power to detect association were more
+likely to be replicated in an independent dataset at PGenome-wide
+association (GWA) methods have been used to identify multiple pancreatic
+cancer susceptibility loci. However, it is likely that other unidentified
+common susceptibility variants exist. In this work we used data on
+493,619 common autosomal single nucleotide polymorphisms (SNPs) from the
+PanScan GWA study (2,857 cases and 2,967 controls) to confirm the
+existence of unidentified susceptibility variants using two
+cross-validation methods: a polygenic risk score (PRS) approach and a
+power-replication approach. For the PRS approach, after excluding all
+SNPs from known pancreatic cancer susceptibility loci, we first
+constructed a polygenic risk models based on a training dataset and then
+tested the model in an independent testing dataset. The second approach
+(i.e., power-replication) was based on calculating power to detect
+association for each SNP based on association estimates from a training
+set and then testing the power estimate for association with probability
+of replication in an independent testing data set. Using the polygenic
+risk score method, we demonstrate the existence of additional pancreatic
+cancer risk variants, the majority of which have P-values > 0.01 in the
+PanScan study. We also demonstrate enrichment for unidentified loci near
+gene regions. We reach similar conclusions using the power-replications
+approach, where SNPs with higher power to detect association were more
+likely to be replicated in an independent dataset at P<0.05, especially
+when analyses were restricted to SNPs in gene regions. While our results
+do not substantially improve pancreatic cancer prediction, they do
+provide further rationale for focusing association studies on genic
+regions and suggest that conducting larger GWA studies and innovative
+secondary analyses have the potential to reveal novel susceptibility loci.
+

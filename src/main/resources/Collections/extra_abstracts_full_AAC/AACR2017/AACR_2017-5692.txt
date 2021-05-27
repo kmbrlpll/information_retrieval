@@ -1,0 +1,205 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Cross-platform detection and quantification of actionable
+mutations in cell-free DNA shows high concordance and correlation between
+next-generation sequencing and droplet digital PCR.
+
+
+Background: Non-invasive genotyping of cell-free DNA (cfDNA) provides
+physicians with the ability to identify genomic alterations, evaluate
+response to treatment, and uncover potential mechanisms of resistance.
+Here, we analyze the concordance of next-generation sequencing (NGS) and
+droplet digital PCR (ddPCR) in detecting and quantifying actionable
+mutations from cfDNA of lung, colorectal, and breast cancer patients.
+
+Methods: We studied a cohort of 221 advanced cancer cfDNA samples with
+completed Guardant360 digital sequencing results. Variant allele
+frequencies (% AFs) ranged from less than 0.2% to greater than 90% for
+common driver and resistance mutations. Blinded to plasma NGS results, we
+performed ddPCR using our validated assays for EGFR L858R, exon19 del,
+T790M (113 presumed lung cases); BRAF V600E, KRAS G12X (77 colorectal
+cases); ESR1 D538G, Y537C and PIK3CA H1047R (31 breast cases). Following
+unblinding, qualitative and quantitative accuracy were compared.
+
+Results: Qualitative results (Table 1) show a high concordance between
+NGS and ddPCR, with 98.3% (576/586) of all assays run being concordant.
+9/22 of samples that had an AF below 0.4% were discordant, while only one
+sample above 0.4% AF was discordant. AFs calculated by NGS and ddPCR were
+strongly correlated by linear regression (R between 0.951 and 0.999).
+Notably, the slope of the ddPCR AF versus NGS AF graph for EGFR ex19del
+was 0.725, which improved to 0.95 with the adoption of an alternate
+calling method.
+
+Conclusions: This interlaboratory comparison of actionable mutations in
+cfDNA from lung, colorectal, and breast cancers by orthogonal genotyping
+platforms demonstrates a substantial concordance in detection and
+quantification between NGS and ddPCR. Our cross-platform study
+establishes the feasibility of standardization of qualitative and
+quantitative measurements of cfDNA-detected alterations.
+
+Table 1
+
+
+
+Lung
+
+EGFR L858R
+
+EGFR Ex19 del
+
+EGFR T790M
+
+
+
+(n=113)
+
+G360+
+
+G360-
+
+G360+
+
+G360-
+
+G360+
+
+G360-
+
+
+
+ddPCR+
+
+58
+
+0
+
+51
+
+0
+
+53
+
+0
+
+
+
+ddPCR-
+
+0
+
+55
+
+4
+
+58
+
+4
+
+56
+
+
+
+Breast
+
+ESR1 Y537C
+
+ESR1 D538G
+
+PIK3CA H1047R
+
+
+
+(n=31)
+
+G360+
+
+G360-
+
+G360+
+
+G360-
+
+G360+
+
+G360-
+
+
+
+ddPCR+
+
+1
+
+0
+
+22
+
+0
+
+2
+
+0
+
+
+
+ddPCR-
+
+0
+
+30
+
+0
+
+9
+
+0
+
+29
+
+
+
+Colorectal
+
+BRAF V600E
+
+KRAS G12X
+
+
+
+
+
+(n=78)
+
+G360+
+
+G360-
+
+G360+
+
+G360-
+
+
+
+
+
+ddPCR+
+
+22
+
+0
+
+57
+
+1
+
+
+
+ddPCR-
+
+0
+
+55
+
+1
+
+18
+
+

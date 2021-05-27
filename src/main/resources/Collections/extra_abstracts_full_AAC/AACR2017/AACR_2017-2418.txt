@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Characterization of the PAX8 regulatory network in epithelial
+ovarian cancer.
+
+
+PAX8 is a lineage-restricted transcription factor expressed in a large
+proportion of epithelial ovarian cancers (EOCs). PAX8 is commonly
+upregulated in EOCs relative to precursor tissues, suggesting it
+functions as an oncogene. However, the biological role of PAX8 during
+cancer initiation and development is poorly understood, and the
+genome-wide transcriptional targets have yet to be comprehensively
+catalogued. Using stable models of PAX8 knockdown in HEYA8 and IGROV1 EOC
+cell lines we show that PAX8 knockdown reduces cell proliferation in
+vitro and tumor growth in vivo. To understand how PAX8 regulates
+neoplastic phenotypes in cancer cells we performed RNA expression
+profiling by microarray in HEYA8 and IGROV1 before and after PAX8
+knockdown. We also performed chromatin immunoprecipitation followed by
+next generation sequencing (ChIP-seq) for PAX8 and a marker of active
+chromatin (H3K27ac) in both cell lines. De novo motif discovery in the
+ChIP-seq profiles identified a PAX-like binding motif and several
+potential PAX8 cofactors in IGROV1 that are not enriched in HEYA8. These
+cofactors include members of the TEAD and Sp/KLF families of
+transcription factors. We divided the genes from our differential
+expression (DE) analysis in PAX8 knockdown into three non-overlapping
+categories: (a) direct regulatory targets (RTs), i.e. DE genes with PAX8
+binding sites in their promoter regions; (b) putative enhancer RTs, where
+DE genes and PAX8 binding sites reside within the same topological
+association domain (TAD) defined from embryonic stem cells; and (c)
+indirect RTs. Our findings reveal that PAX8 can function as either an
+activator or a repressor, and that PAX8 regulates a very different set of
+genes in each cell line, as only a small fraction RTs (~50) is shared
+between HEYA8 and IGROV1. Nonetheless, independent pathway enrichment
+analysis reveals four pathways downstream of PAX8 that are common to both
+cell lines: DNA replication, cellular response to lipopolysaccharides,
+TNFA signaling via NFKB and anatomical structure morphogenesis.
+Individually, we discovered enrichment for G2M checkpoint and EMT
+signaling in HEYA8, and tissue morphogenesis and mesenchymal cell
+development in IGROV1. Collectively, our results suggest that PAX8
+regulates cell proliferation and cancer promoting processes via highly
+tissue-specific regulation of common oncogenic pathways.
+
+

@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Variant peptide identification system for bottom-up proteomics:
+Finding hidden sequence alterations in MS data
+
+
+In database search, acquired spectra are matched with theoretical spectra
+of database peptides. Peptides from large databases are likely to match
+to more than one spectrum, but only a small proportion of peptide
+interpretations are correct. Incorrect interpretations are likely to
+arise for two reasons: random matches and non-random matches to
+homologous peptides. The former is often eliminated by selection of an
+appropriate similarity threshold or by utilization of the statistical
+significance of a spectral match. The match to homologous peptide poses a
+challenge as there is often large similarity in their fragmentation
+spectra as well. Non-random, but incorrect matches occur surprisingly
+often in the identification of peptide sequence variants. For this
+reason, a high identification score does not imply correctness of
+interpretation. Increasing spectral score threshold enhances specificity
+in general, but results in significant loss of sensitivity. Therefore, a
+single spectral criterion is inadequate for distinguishing between
+homologous peptides.In this study, we reconceive the system for
+elimination of incorrect interpretations. We propose a system that uses
+multidimensional LC/MS information in combination with a priori knowledge
+of sample content to filter out unlikely interpretations. The system
+calculates retention time of candidate peptides, performs isotopic
+analysis of precursors and constructs preliminary protein assembly to
+increase separation between correct and incorrect matches. The approach
+is used for reevaluation of database search results and is generally
+applicable to the analysis of standard bottom-up proteomic data.The
+system was used for identification of alterations in MS2 proteomics data
+and validated against RNA-Seq data from the same sample. The results
+demonstrate that non-spectral data can be used to efficiently eliminate
+peptide interpretations that have no correspondence in the RNA and as
+such are likely false positives. The approach is sensitive and yields a
+large proportion of altered peptides that have RNA-Seq support. The
+method can potentially help overcome the problem of the large database
+search present, e.g., in proteogenomic studies, particularly important in
+cancer research and diagnostics. In summary, general prior knowledge of
+sample content and the use of LC and MS1 data improve on the MS2-based
+identification of peptides.
+

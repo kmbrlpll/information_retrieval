@@ -1,0 +1,42 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Illuminating the effects of tissue degradation to improve the
+management of tissues used in cancer research or clinical applications
+
+
+The collection and preservation of tissues from surgery to the lab
+affects the quality and value of research and/or healthcare applications
+for cancer patients. To this end we are further defining best practices
+in the management of surgically resected tissues through the analysis of
+a systems biology model. In the first steps of this process we defined an
+experimental animal model to assess gene expression signatures of
+biological pathways related to preservation intervals. Athymic nude
+murine tissues (kidney, liver, brain, and PDX-models) were excised at
+baseline and immediately aliquots of tissue were incubated at varying
+intervals (t=0, 0.5, 1, 3, 6, 9 hours, temperature during intervals was
+maintained at 37C). All tissues were preserved at -80C and total RNA was
+extracted from these tissues using a uniform RNA isolation kit (RNeasy
+Mini Kit from Qiagen, Inc.) by the same technician. The RNA Integrity
+Number (RIN) was obtained using the Agilent's BioAnalyzer 2100 and RNA
+concentration using the Nanodrop 8000. Subsequently, cDNA was synthesized
+using Thermo Scientific's RevertAid First Strand cDNA Synthesis Kit, and
+qPCR analysis of each tissue was performed using the Qiagen RT2 Profiler
+PCR Arrays including the Cell Death PathwayFinder (murine origin liver,
+kidney, brain) and Hypoxia Signaling Pathway (human origin PDX-model)
+arrays. Results show a variation of transcripts s that were upregulated
+(Bax, Bcl2, Fos, Egr1, Tnfrsf10b) or downregulated (Ctss, Hmox1, Epo,
+Snca) with increased length of tissue incubation and tissue-specific
+patterns of regulation were observed. Furthermore, these changes in gene
+expression did not correlate with a decrease in RIN scores, which raises
+questions about the suitability of RIN as a comprehensive assessment of
+RNA quality at the transcript level. These findings have important
+implications for cancer research, namely that tissues that have not been
+stabilized within several minutes of excision from the host might have
+undergone degradation of RNA templates that reflect tissue
+management-related biological activity versus disease-related
+transcriptome. In future work, we plan to compare macroanalytes such as
+microRNAs, non-coding RNAs and proteins across different tissue types
+with an assumption that gene signatures and biological effects will
+differ per tissue type. We will use results from our experimental
+biopreservation model to continue the emphasis on transcriptome changes
+within the context of biological relevance.
+

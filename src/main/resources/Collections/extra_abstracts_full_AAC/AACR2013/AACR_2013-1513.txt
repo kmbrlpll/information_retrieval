@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: MLH1 silencing is caused by hypoxia through epigenetic regulation..
+
+
+Transcriptional silencing of the DNA mismatch repair (MMR) gene, MLH1, is
+one of the main causes of microsatellite instability in sporadic cancers
+of the colon and other sites. We and others have shown that hypoxia, a
+key microenvironmental stress in solid tumors, causes reduced expression
+of MLH1via transient transcriptional repression mediated by both
+HIF-dependent and independent pathways. Here, we further investigated
+whether hypoxia-induced down-regulation of MLH1 is associated with
+epigenetic modifications that may mark the locus for long-term silencing.
+We find that hypoxia drives epigenetic repression of the MLH1 promoter
+with decreased H3K4 methylation as a key repressive modification. We find
+that this is mediated by the H3K4 demethylases, LSD1 (lysine-specific
+histone demethylase 1) and PLU-1/JARID1B. In RKO cells containing a
+reporter construct consisting of the MLH1 promoter driving selectable
+thymidine kinase (TK) and blasticidin resistance (BlastR) genes,
+long-term silencing of the MLH1 promoter was produced by exposure of the
+cells to hypoxia as compared to minimal silencing under normoxia.
+Importantly, knockdown of LSD1 blocked the hypoxia-induced MLH1 promoter
+silencing in this reporter system.In RKO cells, the endogenous MLH1
+promoter is constitutively silenced by DNA hypermethylation at CpG sites.
+MLH1 re-expression can be induced by 5-aza-2-deoxycytidine (5-Aza-dC), a
+DNA methyltransferase inhibitor, accompanied by increased levels of H3K9
+acetylation and H3K4 methylation at it promoter. But the promoter rapidly
+becomes re-silenced after removal of 5-Aza-dC. However, we find that
+knockdown of LSD1 or its corepressor, CoRest, blocks MLH1 resilencing in
+the RKO cells. Consistently, ChIP analyses revealed that the control RKO
+cells (with a GFP knockdown vector) showed return of both H3K9
+acetylation and H3K4 methylation back to pre-treatment levels coupled
+with MLH1 re-silencing upon removal of 5-Aza-dC, but intriguingly, high
+levels of H3K9 acetylation and H3K4 methylation were also observed at
+MLH1 promoters in RKO LSD1sh cells. Analysis of DNA methylation revealed
+that MLH1 promoter methylation levels were reduced by 5-Aza-dC treatment,
+as expected. However, after removal of 5-Aza-dC, promoter methylation
+levels returned back to the pre-treatment levels only in the control RKO
+cells. In the RKO cells with shRNA mediated knock down of either LSD1 or
+CoRest, the promoter re-methylation process was blocked. Collectively,
+the results demonstrate that the LSD1/CoRest repressive complex is
+essential for the MLH1 silencing and that hypoxia is a critical driving
+force for stable transcriptional silencing of MLH1 through a concerted
+pattern of chromatin and DNA modifications, thereby promoting genetic
+instability and tumor progression.
+

@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Discovery and validation of novel serum glycoprotein biomarkers
+for Barrett's esophagus and esophageal adenocarcinoma
+
+
+BACKGROUND: Esophageal adenocarcinoma (EAC) is one of the most rapidly
+increasing cancers globally. The majority of EAC cases are diagnosed at
+very late stages during pathogenesis hence BACKGROUND: Esophageal
+adenocarcinoma (EAC) is one of the most rapidly increasing cancers
+globally. The majority of EAC cases are diagnosed at very late stages
+during pathogenesis hence <15% of the patients survive 5 year
+post-diagnosis. There is an urgent need to improve diagnosis of EAC and
+its pre-cancer metaplastic condition, Barrett's esophagus (BE). BE
+patients are monitored using upper gastro-esophageal endoscopy with
+biopsy for early neoplastic changes. However, being an asymptomatic
+condition, it is very difficult to identify BE patients for screening.
+Moreover, endoscopy is unsuitable for population screening due to high
+cost, requirement of technical expertise and patient non-compliance. The
+aim of this project is to identify serum biomarkers for diagnosis of BE
+and EAC, with the goal of translating to blood tests.APPROACH &
+METHODOLOGY: We focused on alterations in circulatory protein
+glycosylation, using a panel of 20 lectins to isolate different glycan
+structures on serum glycoproteins, as reported recently [1, 2]. Serum
+samples from healthy (n = 9), BE (n = 10) and EAC (n = 10) patient groups
+were analyzed by lectin magnetic bead array-coupled mass spectrometry
+(LeMBA-MS/MS) [1, 2]. Data analysis was performed using a customized
+database and analysis package GlycoSelect which incorporates outlier
+detection and sparse Partial Least Squares regression discriminant
+analysis (sPLS-DA) [3].RESULTS & DISCUSSION: We identified a ranked list
+of candidate glycobiomarkers that distinguish a) EAC from BE b) BE from
+healthy and c) EAC from healthy group. In general, glycoproteins bound
+several lectins, reflecting heterogeneity and multiplicity of
+glycosylation. Specific glycan structure changes were observed as loss
+and gain of binding to a single lectin while maintaining binding to other
+lectins. Top two candidate biomarkers were validated using orthogonal
+validation technique LeMBA-immunoblotting in an independent patient
+cohort (n = 80). The biomarkers showed Area under Receiver Operating
+Characteristic curve (AUROC) of 0.74 to discriminate EAC from BE and 0.71
+to discriminate BE from healthy patient group. Future work will validate
+all candidate protein-lectin pairs using lectin-affinity array coupled
+with triple quadrupole quantitative mass spectrometry measurements for
+the independent patient cohort. The specificity and sensitivity of panels
+of glycoprotein biomarkers will be determined for formulating a serum
+screening test for BE and EAC.[1] Choi et al., Electrophoresis 32,
+3564-3575 (2011)[2] Loo et al., J Proteome Res 9, 5496-5500 (2010)[3] L
+Cao et al., BMC Bioinformatics 12, 253-268 (2011)
+

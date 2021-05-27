@@ -1,0 +1,36 @@
+Meeting: 2014 AACR Annual Meeting
+Title: High-throughput methylation sequencing of targeted genes in breast
+cancer specimens using nanofluidic PCR prepared libraries
+
+
+Breast cancer is a global public health issue as it is the most
+frequently diagnosed malignancy in women in the Western world with over a
+million new cases every year worldwide. Previous epigenetic analyses have
+identified aberrant DNA methylation signatures associated with breast
+cancer. Methylation alterations resulting in aberrant gene expression are
+key contributors to breast tumorigenesis. There are more than 100
+candidate genes reported throughout the literatures as promoter
+hypermethylated in breast cancers (Pubmeth web resource). More recently,
+with the application of genome wide array-based methylation profile
+analysis and next generation sequencing, hundreds of new methylation
+candidate genes have been reported to be associated with breast cancer.
+It is crucial to develop an approach for targeted methylaton resequencing
+to validate these candidate genes in hundreds of patient samples and
+develop a breast cancer detection panel for early diagnostics.We have
+developed a targeted gene bisulfite-sequencing approach using a
+nanofluidic platform, the Access Array system, which enables simultaneous
+amplification of 48 genetic regions (amplicon) from 48 samples in
+parallel. We have selected 48 breast cancer associated methylation
+candidate genes, each commonly reported by multiple literatures.
+Bisulfite-specific-sequencing (BSP) primers were designed for the
+promoter regions of these genes. In addition, we have applied a primer
+design strategy that incorporates sample-specific barcodes and Illumina
+(Miseq) sequencing adaptors into each amplicon, removing the need for
+additional library preparation before sequencing. We will present
+methylation sequencing data collected from amplicon libraries generated
+using the Access Array system. The 48 promoter regions have been
+amplified in paired tumor/normal tissues and plasma DNA from 48 breast
+cancer patients. Our results indicate the excellent utilization of this
+approach in the validation of methylation biomarkers and selection of
+detection panel for breast cancer.
+

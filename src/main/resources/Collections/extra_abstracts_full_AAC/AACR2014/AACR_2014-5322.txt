@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Collections of simultaneously altered genes as highly predictive
+markers of cancer cell drug response
+
+
+Introduction: Many genetic markers of drug response have been reported in
+cancer pharmacogenomics studies. However, most of these markers fail to
+achieve clinical utility because they capture response in only a small
+fraction of the patient population; this shortcoming might result from a
+reliance on single-gene markers in contemporary personalized medicine.
+While there is growing evidence that therapeutic response can be
+modulated by the concerted impact of multiple genetic alterations, the
+combinatorics associated with many-body interactions has mostly
+prohibited the discovery of multi-gene biomarkers, even using
+computational methods. We developed a computational approach, MOCA
+(Multivariate Organization of Combinatorial Alterations), to partially
+address these challenges. Extending our method that accounts for pairwise
+interactions, MOCA combines many genomic alterations into biomarkers of
+drug response, using Boolean set operations coupled with optimization; in
+this framework the union, intersection, and difference Boolean set
+operations are proxies of molecular redundancy, synergy, and
+interference. The algorithm is fast, broadly applicable to genomics data,
+of immediate utility for prioritizing cancer pharmacogenomics
+experiments, and recovers known clinical findings without bias.
+Furthermore, results from this work connect many important, previously
+isolated observations.Major Findings: When applied to 416
+pharmacogenomically characterized cancer cell lines from the Cancer Cell
+Line Encyclopedia, MOCA identified many known and potential markers of
+drug response. For example, correlation of ERBB inhibitor response
+drastically increased when considering EGFR (ERBB1), ERBB2, ERBB3, ERBB4,
+and KRAS alterations in a single marker. Similarly, a marker combining
+IGF1, IGF1R, and RAD51 alterations drastically increased correlation with
+IGF1R inhibitor response, relative to any of these three genetic markers
+considered in isolation. This approach is also powerful for determining
+subsets of gene-specific mutations that increase correlation with drug
+response. For instance, MOCA accurately captures the differential EGFR
+inhibitor response conferred by known activating EGFR mutations.
+Similarly, we find specific HDAC1 mutations cooperate with HDAC5
+overexpression to potentiate cells to the HDAC inhibitor panobinostat.
+Additionally, considering all pairwise gene-drug interactions, MOCA
+recovers known and compelling correlations, including: RTK inhibitor
+resistance via c-MET, EGFR, ERBB2, and PDGFRB kinase switching; mutual
+exclusivity of TP53 mutation and response to the MDM2 inhibitor nutlin-3;
+greater nutlin-3 potentiation via MDM4, rather than MDM2, overexpression;
+MEK and RAF inhibitor response in BRAF mutated cell lines; and MEK
+inhibitor potentiating NRAS mutations.Masica, David L., & Rachel Karchin.
+Cancer Research 73 (2013): 1699-1708.
+

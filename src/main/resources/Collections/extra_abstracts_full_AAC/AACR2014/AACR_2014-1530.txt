@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identification of vulnerabilities in lung cancer via pooled short
+hairpin RNA screening
+
+
+A major goal of cancer research is to identify tumor-specific
+vulnerabilities by which cancer cells can be selectively killed. The
+clinical success of targeted therapies along with technological advances
+in genome-wide profiling have spurred large-scale, on-going efforts to
+systematically map the molecular landscapes of human cancers. These
+approaches nominate candidate essential or tumor suppressor genes, but
+are not able to identify all types of acquired vulnerabilities, such as
+synthetic lethal relationships between aberrantly regulated pathways.
+Functional studies are therefore an essential complement to these
+approaches, serving both to confirm the biological roles of candidate
+cancer genes, and also to identify other vulnerabilities that are
+acquired as a consequence of observed genetic
+alterations.Loss-of-function studies using pooled short hairpin RNAi
+screening is proving to be a powerful method by which new cancer targets
+can be identified. In order to identify new vulnerabilities in lung
+cancer, we have chosen a focused approach using mini-libraries of short
+hairpins against selected genes of interest. Nuclear hormone receptors
+and their co-regulators are aberrantly regulated in many cancers, and
+therapies targeting these receptors are currently used in treatment of
+breast and prostate cancers. Quantitative PCR expression data across a
+panel of lung cancer cell lines suggests that nuclear hormone receptors
+may be useful as prognostic biomarkers in lung cancer patients, but the
+role of these receptors in lung tumor biology is not fully understood.We
+have used a lentiviral pooled short hairpin library of 1062 shRNAs
+against 120 nuclear hormone receptor and co-regulator genes to identify
+lung cancer-specific vulnerabilities, both in vitro and in vivo. Briefly,
+cells were transduced with the library, allowed to undergo a period of
+selection and expansion, and then injected subcutaneously into NOD-SCID
+mice. Tumors were harvested after reaching a volume of 300 mm3. A
+parallel in vitro screen was also performed, in which transduced cells
+were cultured for 20 population doublings. The relative abundance of
+individual shRNAs was quantified by next generation sequencing, and genes
+for which 3 or more shRNAs exhibited depletion either in vitro or in vivo
+were nominated as candidate essential genes. A screen performed in the
+lung adenocarcinoma cell line H1819 identified 10 genes that were
+required for in vitro survival, including BRCA1 and PHB. Five genes were
+also identified as being required in vivo but not in vitro, including
+HDAC1 and NCOR2. None of these were found to be mutated by exome
+sequencing of H1819. Validation studies and investigations into the role
+for each of these genes in lung cancer are currently on-going. We
+conclude that our shRNA mini-library screen identifies unsuspected
+synthetic lethal relationships and thus new therapeutic targets in lung
+cancer, including some that are only detected by in vivo screening.
+

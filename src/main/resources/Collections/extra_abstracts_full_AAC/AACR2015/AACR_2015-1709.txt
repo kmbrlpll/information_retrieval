@@ -1,0 +1,42 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Quantification of biologically relevant vascular phenotypes in
+human prostate cancer: automated image analysis using hyperplexed
+immunofluorescence
+
+
+Although anti-angiogenic therapy has emerged as a leading modality in
+treating human cancer, further improvements in the duration and frequency
+of clinical response of various human cancers remain important clinical
+needs. Maturity of the tumor vasculature has been identified as one of
+the major determinants of response of cancers to anti-angiogenic
+treatments. We have developed and optimized the application of a
+quantitative, high throughput, hyper-plexed, fluorescence imaging
+technology to refine our understanding of the complexity of vascular
+phenotypes in various human malignancies. The technology was used to
+quantify tumor blood vessels and expression of thirteen proteins of known
+roles in blood vessel biology in single sections from archival primary
+tumor tissues from 64 prostate cancer patients. CD31 was used to segment
+vascular objects in each image. CD31 and CD34 endothelial cell staining,
+SMA pericyte staining, and collagen IV basement membrane staining were
+used to classify detected vessels using K-means cluster analysis.
+Segmented vessels were clustered into 2-20 cluster sets, and the
+reproducibility of vessel classification of each cluster set was
+determined using the consensus clustering algorithm. A six cluster set
+that reflected biologically relevant tumor vascular subsets with high
+consensus clustering concordance was selected for further analysis.
+Clusters consistent with different stages of vessel development were
+obtained, including clusters with CD34 high/SMA low and CD34 low/SMA high
+profiles, reflecting immature and mature vascular phenotypes. Additional
+clusters representing phenotypes consistent with transitional vascular
+developmental stages were also identified. Nine additional proteins
+involved in angiogenesis were also quantified in each vessel and
+expression profiles for each cluster were determined. The enrichment of
+blood vessel clusters was then analyzed for each patient. This revealed
+differential patterns of vascular maturity phenotypes in the prostate
+cancer tissues analyzed. We have demonstrated that high-throughput,
+quantitative characterization of vascular maturity phenotypes is feasible
+in human cancer tissue specimens. Such immunofluorescence hyper-plex
+profiling of vascular-related proteins has the potential to illuminate
+the complex biology of tumor angiogenesis and to enable novel approaches
+for patient tailoring in clinical trials of anti-angiogenic therapeutics.
+

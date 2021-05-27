@@ -1,0 +1,31 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Integrating SNPs, epigenetics and transcriptomics to better
+understand the inherited predisposition to breast cancer metastasis
+
+
+Breast cancer is the most frequent cancer and the second leading cause of
+cancer mortality in women. The vast majority of breast cancer mortality
+is due to metastatic disease since the primary tumor can be relatively
+easily surgically resected. More comprehensive understanding of biology
+of metastasis is therefore clearly warranted to unveil novel
+metastasis-associated molecules and cellular processes that might be
+targeted for clinical intervention. Previously we demonstrated that like
+cancer incidence, metastatic progression has a significant inherited
+component. Using mouse complex trait mapping strategies we have been
+isolating metastasis susceptibility genes from backcross analysis.
+However, studies suggest that many of these QTL peaks are the result of
+the contribution of multiple genes, suggesting that causal genes are not
+being identified. To increase our ability to detect causal genes we have
+implemented a new integrated strategy. Whole genome sequencing of
+appropriate high or low metastatic mouse strains is performed to identify
+variants, which are then filtered for those within DNAse hypersensitive
+sites (DHS), based on the hypothesis that most inherited phenotypes are
+due to expression differences rather than missense variants. The genes
+associated with polymorphic DHS are then screened through mouse and human
+tumor expression databases to identify those genes associated with
+development of metastatic disease. This strategy was able to identify
+genes previously associated with metastatic breast cancer in both mouse
+and humans and new genes have also been validated. The results further
+suggest that inherited variation in cellular mediated immune response may
+be an important contributor to metastatic disease.
+

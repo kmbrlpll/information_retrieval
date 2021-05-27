@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A crowdsourcing-based clinical trial information curation and
+searching system.
+
+
+Targeted cancer therapies based on actionable mutations identified are
+the future of cancer treatment. Besides those approved by the Food and
+Drug Administration (FDA) for different types of cancers, many other
+target therapy drugs are in development under different phases of
+clinical trials. Access to information about these clinical trials is
+important to health care professionals and patients. Public clinical
+trials database (www.clinicaltrials.gov) provides a very comprehensive
+resource for clinicians and researches to search for relevant clinical
+trials based on different kinds of searching criteria. However, due to
+the complexity of wording and phasing upon submission, some of the
+searching results returned by native search engine did not perfectly
+match the search criteria. Many undesired results are presented with
+false positives and false negatives when users are searching for clinical
+trials targeting specific actionable mutations. To tackle this problem,
+we developed a crowd-sourcing based clinical trial curation and searching
+system on top of the information extracted from public database. We
+divide the information extracted from clinicaltrials.gov into three
+different levels: standard, easy-to-clean and unstructured. With the
+crowdsourcing approach, our online system can harness the brainpower of
+biological scientists to translate the most unstructured information such
+as cancer types, gene mutations into standard format that is easy to be
+queried. In the searching phase, we combine the aspects of actionable
+mutation, cancer type, location, and clinical trial phase to select the
+best matches between patient conditions and clinical trials in our
+curated database. With the same searching criteria, our system can
+provide more relevant clinical trials compared with those provided by
+clinicaltrials.gov. The curation system is currently open to reviewers
+with eligibility check. And the search engine is publicly available at:
+https://agis.admerahealth.com/AGIS/ClinTrials/.
+
+

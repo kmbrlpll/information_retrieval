@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Integrated functional RNAi screening and structural genomics
+identify inverse co-modulators of TP53 family and NF-B transitional
+activation as potential therapeutic targets in head and neck squamous
+cell carcinoma
+
+
+Head and neck squamous cell carcinoma (HNSCC) is the 6th most common
+cancer worldwide with a 50-60% mortality rate. Deregulation of p53 family
+members in HNSCC occurs in over 90% of cases, preventing transcription of
+growth arrest and apoptosis genes. Conversely, members of the NF-B/REL
+family are aberrantly activated in about 70% of cases, and drive
+expression of pro-proliferation, inflammation, angiogenesis, and
+therapeutic resistance genes. The function of different TP53 and NF-B
+family members are inversely modulated within two major subsets of HNSCC,
+suggesting that common molecules and pathways coordinate this modulation.
+To test this hypothesis, we have developed HNSCC stable cell lines that
+report transcriptional activation of TP53 or NF-B individually through a
+-lactamase reporter. Whole genome siRNA screening in our NF-B reporter
+cell line has been performed. Screening was performed by 56-hour
+knockdown with siRNAs, followed by stimulation with TNF-. The results
+have revealed known and novel targets that maintain oncogenic NF-B
+signaling in HNSCC. Validating the assay, most structural components of
+the TNF receptor complex and downstream NF-B pathway genes, such as IKKs,
+scored highly in the screen. We integrated this functional genomics data
+with structural mutation and expression data from TCGA to prioritize
+genes that are frequently deregulated in HNSCC specimens from patients.
+Several co-receptors that may support NF-B signaling were identified such
+as WNT9/FZD6, NOTCH2, and TGFR2. Our primary novel finding was the
+identification of genes that regulate mitosis, such as CDC2, CDC7, CHEK1,
+WEE1 and CALM2. Several components of the kinetochore were also
+identified including NDC80, PLK1,TTK and AURKA. To validate our screening
+data, individual assays were performed with two siRNAs for a panel of 27
+genes from the pathways mentioned above. >95% of siRNAs tested validated
+our screening data. Genes scoring well in our analysis were also assayed
+in our p53 reporter cell line using cisplatin and TNF- as stimuli. Genes
+that inversely activate p53 were identified. To further investigate the
+relationship between kinetochore function and NF-B activation, we treated
+cells with various G2/M inhibitors such as docetaxel and showed decreased
+NF-B signaling. Future experiments are underway to determine the
+signaling mechanism that connects the kinetochore to NF-B regulators.
+Experiments are also ongoing to determine if aberrant activation of NF-B
+can serve as a biomarker for sensitivity to cell cycle inhibitors.
+

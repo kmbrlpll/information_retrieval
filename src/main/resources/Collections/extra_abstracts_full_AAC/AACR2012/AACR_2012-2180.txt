@@ -1,0 +1,42 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Identification of nuclear transcription factor Y (NF-Y) as a novel
+key transcriptional regulator of the tumor-suppressor gene DAPK1
+
+
+The death-associated protein kinase 1 (DAPK1) belongs to a family of
+multifunctional Ser/Thr-kinases that plays a crucial role in the
+mediation of cell death, autophagy and tumor suppression. Loss or reduced
+expression of DAPK1 occurs in the majority of patients with chronic
+lymphocytic leukemia (CLL) and many other non-hematological tumors
+commonly involving epigenetic silencing. To identify novel key DAPK1
+transcriptional regulators, we conducted an siRNA screen in HEK293 cells
+using a custom library targeting over 60 individual genes with known or
+predicted DNA-binding function and general potential to modulate
+transcription. Candidate gene selection for siRNA-mediated knock-down was
+based on previous genome-wide siRNA screening experiments and in silico
+prediction of binding sites at the DAPK1 promoter region. As endogenous
+readout, DAPK1 mRNA expression was monitored by qRT-PCR.Using this
+strategy, we identified nuclear transcription factor Y (NF-Y) as the top
+positive regulator of DAPK1 that reduces its expression down to 55% of
+the level determined in untargeted control siRNA-treated cells. NF-Y is a
+well known transcriptional regulator of genes involved in cell cycle
+control, apoptosis and stress response. NF-Y consists of 3 subunits,
+NF-YA, -YB and -YC, forming a trimeric complex which is essential for
+specific binding of CCAAT boxes located proximal to the transcriptional
+start sites of genes. In addition to HEK293 cells, we were able to
+diminish DAPK1 mRNA expression upon siRNA-mediated NF-Y knockdown in a
+panel of 6 different cancer cell lines. Conversely, co-overexpression of
+NF-YA,-YB and -YC in HEK293 cells leads to increased expression levels of
+DAPK1. To investigate whether NF-Y contributes directly or indirectly to
+DAPK1 transcriptional regulation, DAPK1 luciferase reporter constructs
+harboring the predicted NF-Y binding site were generated. Point mutation
+of the reverse CCAAT-box in the DAPK1 promoter constructs significantly
+reduces the promoter activity down to 60% of the wild-type promoter.
+Furthermore, NF-Y knockdown significantly reduces the activity of the
+wild-type DAPK1 luciferase construct down to 55% in reporter assays.
+Strikingly, the CCAAT-box mutated constructs do not show altered activity
+after NF-Y depletion, suggesting a direct regulation of DAPK1 by NF-Y.
+Taken together, these results strongly indicate a direct role for NF-Y in
+the regulation of basal DAPK1 transcription levels, and also propose a
+novel mechanism for aberrant transcriptional silencing of DAPK1 in cancer.
+

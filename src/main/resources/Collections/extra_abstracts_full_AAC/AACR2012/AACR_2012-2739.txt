@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Panobinostat potentiates the cytotoxic effects of ara-C and
+daunorubicin on acute myeloid leukemia cells through suppressing the DNA
+damage response
+
+
+Acute myeloid leukemia (AML) remains a challenging disease to treat.
+Resistance to anthracycline [e.g., daunorubicin (DNR)] and ara-C-based
+chemotherapy is a major cause of treatment failure in this disease.
+Therefore, new therapies are urgently needed to improve treatment outcome
+of AML. Histone deacetylase (HDAC) inhibitors (HDACIs) are a promising
+new class of anti-cancer drugs, which induce differentiation, cell cycle
+arrest, and apoptosis in human leukemic cells, but not in normal cells.
+We previously demonstrated strikingly synergistic antileukemic
+interactions between valproic acid and ara-C in pediatric AML,
+accompanied by cooperative induction of DNA double-strand breaks (DSBs)
+and apoptosis. However, the precise molecular mechanisms remain to be
+identified. Recent studies with solid tumor cell lines established that
+HDACIs down-regulate expression of genes encoding critical DNA DSB repair
+proteins, which play critical roles in the DNA damage response (DDR), an
+important mechanism limiting chemotherapeutic efficacy. These results led
+to our hypothesis that HDACIs suppress the DDR in AML cells to enhance
+the cytotoxic effects of the DNA damaging chemotherapeutic drugs, DNR and
+ara-C. In four AML cell lines and ten diagnostic AML blast samples,
+treatment with the novel pan-HDACI, panobinostat, resulted in suppressed
+expression of BRCA1, CHK1, and RAD51 in a dose-dependent fashion,
+accompanied by dose-dependent induction of apoptosis or proliferation
+arrest. Treatments of the AML cell lines with ara-C or DNR resulted in
+induction of RAD51, BRCA1, and CHK1, which was abolished by
+co-administration of panobinostat. Importantly, panobinostat
+substantially enhanced ara-C- or DNR-induced DNA DSBs, as reflected in
+the induction of H2AX, an established biomarker for DNA DSBs. This was
+accompanied by a dramatic synergistic induction of apoptosis. Whereas
+panobinostat alone resulted in G1 arrest, ara-C and DNR alone caused
+S-G2/M and G2/M arrest, respectively. The latter effects were abrogated
+when these agents were simultaneously administered with panobinostat.
+Interestingly, shRNA knockdown of BRCA1, CHK1, or RAD51 caused delayed
+repair of DNA DSBs induced by ara-C or DNR. Further, shRNA knockdown of
+BRCA1 or CHK1 resulted in significantly increased basal and ara-C- or
+DNR-induced apoptosis, along with substantially increased DNA DSBs and
+abrogated S and G2 checkpoints. In contrast, shRNA knockdown of RAD51
+significantly enhanced DNR-induced DSBs and apoptosis, but had no impact
+on S and G2 checkpoints. These results support our hypothesis that
+suppression of the DDR by HDACIs represents a novel mechanism underlying
+the antileukemic activities of this class of drugs, and the synergy
+between HDACIs and DNA damaging agents in AML. Studies are underway
+evaluating in vivo efficacies of these drug combinations using xenograft
+NSG Mice.
+

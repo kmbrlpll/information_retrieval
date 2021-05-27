@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Applying mechanistic pharmacokinetic-pharmacodynamic models (PKPD)
+to describe the growth and inhibition of xenograft tumors in rats and
+mice by targeted anticancer agents
+
+
+Introduction: M. Simeoni et al., Cancer Res 64, 1094-1101 (2004)
+published a mathematical model, which is now widely used in pre-clinical
+experimentation to describe the growth and inhibition by anti-cancer
+agents of mouse and rat xenograft models. It models drug-concentration
+induced cell damage, and uses a series of transit-compartments to
+introduce delay into the system and empirically describe populations of
+cells undergoing subsequent stages of cell damage and death. The model
+involves a number of simplifying assumptions: All healthy cells are
+equally susceptible to drug treatment at all times; drug action is
+linearly related to drug concentration; drug action causes cell damage
+and death with a single rate of progress through a series of empirical
+transit compartments; DNA damage repair mechanisms are assumed not to
+exist. B. Ribba et al. Eur. J. Cancer, 47, 479-490 (2011) recently
+demonstrated the utility of a mechanistic model that characterizes the
+tumor xenograft in terms of non-hypoxic, hypoxic, and necrotic cells and
+the drug action on these sub-populations of cells. In this poster we will
+illustrate several modeling approaches that have been utilized when the
+simplifying assumptions in the Simeoni model are invalid. We will also
+extend the model presented by Ribba et al., to incorporate the spatial
+features of a tumor in an attempt to better describe the tumor
+micro-environment. Methods: We have adapted the Simeoni and Ribba models
+to be more mechanistic by incorporating features that describe: (1) the
+utility of biomarkers proximal to the target in cell signaling pathways
+as a driver for growth inhibition; (2) multiple mechanisms of drug action
+on sub-populations of cells that drive tumor growth. Pharmacokinetic,
+biomarker and tumor growth data for example compounds have been used to
+demonstrate the utility of these mechanistic models. Results:
+Incorporating non-linearity between drug exposure, biomarker response,
+and tumor growth inhibition allows observed differences between dosing
+schedules to be explained. Replacing drug exposure with a biomarker as
+the driver for tumor growth inhibition provides a more meaningful
+surrogate for pharmacological action, particularly in the situation where
+biomarker response to drug is significantly delayed compared to the
+pharmacokinetics. Modeling multiple mechanisms of action on
+sub-populations of cells can allow an accurate representation of the drug
+effect on the disease biology. Conclusions: We demonstrate that adding
+mechanistic features to a descriptive model of drug-induced tumor growth
+inhibition makes it more representative of the disease biology and drug
+action. This offers the opportunity for modeling targeted drug action,
+which was not possible with the original model.
+

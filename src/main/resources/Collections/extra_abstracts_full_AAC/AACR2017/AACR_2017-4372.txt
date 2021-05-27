@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genomic, RNAi screening, and functional validation reveal cross
+activation of classical and alternative NFκB pathways in head and neck
+squamous cell carcinoma of different HPV status.
+
+
+Aberrant activation of transcription factor NF-κB promotes tumorigenesis
+of head and neck squamous cell carcinoma (HNSCC), but the genomic
+alterations and pathways affecting NF-κB signaling have not been fully
+dissected. As part of The Cancer Genome Atlas (TCGA) project for head and
+neck cancer, our laboratory recently uncovered that HNSCC harbored
+frequent alterations affecting gene expression of signal molecules in
+NF-κB and cell death pathways. We analyzed the transcriptome, integrated
+with the genetic alterations of 279 TCGA tumors with different HPV status
+in parallel with 15 HPV(-) and 11 HPV(+) HNSCC cell lines sequenced in
+our laboratory through whole exome and transcriptome sequencing. Using
+bioinformatics and pathway analyses, we identified 61 genes interacting
+with the genetically altered components of the NF-κB pathway. We found
+expression for 38 of these 61 genes were significantly higher in tumors
+than in mucosa tissues. Differential expression affecting more components
+of the canonical than the alternative NF-κB pathways were found in the
+HPV(-) group, while the alternative NF-κB pathway components were
+predominantly affected in the HPV(+) group. The distribution of genomic
+DNA copy number variation (CNV) between groups differing in HPV status
+support this observation. The mRNA levels are significantly correlated
+with their corresponding CNV for more than 2/3 of top 30 genes in both
+TCGA cohort and the cell lines. Supervised clustering analysis of mRNA
+expression of the TCGA and cell lines revealed distinct gene expression
+patterns related to their genetic features and HPV status. Functional
+genome-wide RNAi screening was performed using HNSCC cell lines stably
+transfected with the β-lactamase NF-κB reporter construct (Gene
+BLAzer). We identified 16 genes that significantly modulated TNF-α or
+Lymphotoxin β (LTβ) induced NF-κB activity and/or cell survival in
+both HPV(-) or HPV(+) HNSCC lines. Knocking down TNFR, LTβR, or
+downstream signaling components demonstrated cross-activation of
+classical and alternative NF-κB pathways in response to TNF-α or LTβ
+in HPV(-) or HPV(+) cells. Our study uncovers the prominent contribution
+of key molecules involved in canonical and alternative NF-κB activation,
+which modulate survival and migration of HNSCC. (Supported by NIDCD/NIH
+intramural projects ZIA-DC-000016, 73, and 74; and NCI/NIH, under
+contract number HHSN261200800001E).
+
+

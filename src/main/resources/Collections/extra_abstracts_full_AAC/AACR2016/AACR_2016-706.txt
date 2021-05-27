@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Chemotherapy and inflammation show a p65- and STAT3-dependent
+pro-tumorigenic potential
+
+
+Tumor microenvironment (TME) plays a critical role in cancer progression
+and response to therapies. Therapeutic intervention strategies for cancer
+treatment can induce inflammation, resulting in changes in the TME. To
+investigate the response of cancer cells to chemotherapy in the context
+of an inflammatory microenvironment, we studied the effects driven by the
+chemotherapeutic drug doxorubicin, and the inflammatory cytokine TNF.We
+previously demonstrated using expression microarrays experiments
+(validated also through qPCR) that the Doxo+TNF combined treatment
+determined a strong up-regulation of migration-related genes as well as
+increased motility in breast cancer cells (MCF7).We confirmed the
+synergistic activation of a group of 6 different genes upon Doxo+TNF
+combined treatment in different cell line models coming from different
+cancer types (A549-lung, U2OS-osteosarcoma). Moreover, we demonstrated
+that this effect was only partially p53-depenedent but strongly
+Doxo-dependent using p53 mutated MDA-MB-231 breast cancer cells or
+knocking-out p53 in MCF7 or U2OS cells through the cutting edge
+technology CRISPR/Cas9.We also demonstrated that the combined Doxo+TNF
+treatment was not only able to disrupt the 3D architecture of mammary
+acini observed with MCF10A primary cells grown within matrigel, but also
+to stimulate the tube-forming potential of Human Umbilical Vein
+Endothelial Cells (HUVEC).Furthermore, a signature of Doxo+TNF highly
+synergistic genes (DT-29) was shown to exhibit prognostic value for
+luminal breast cancer patients, with adverse outcome correlating with
+higher relative expression (based on Kaplan-Meier plotter tool). We
+further used available experimental data sets (RNA-seq measurements from
+Gene Expression Omnibus) both from breast cancer cell lines (luminal-like
+vs basal-like breast cancer cells) and breast cancer patients (ER
+positive vs Triple Negative Breast Cancer, TNBC and vs healthy adjacent
+tissues). The expression of DT-29 gene signature was analyzed and
+compared among the different groups of samples. The most statistically
+relevant genes differentially expressed among the different groups were
+involved in the STAT3-driven pathways and were prevalently highly
+expressed in TNBC patients and cell lines.In order to demonstrate a
+STAT3-dependent regulation of up-regulated genes upon Doxo+TNF combined
+treatment, we pharmacologically inhibited STAT3 using Stattic or we
+knocked-out STAT3 using CRISPR/Cas9 in MCF7, MDA-MB-231 and U2OS cells.
+Results demonstrated a STAT3-dependent up-regulation for some of the
+selected genes and STAT3 inhibition resulted also in a reduced migration
+potential particularly in U2OS cells.We propose that the combined
+treatment with Doxo+TNF can lead to the activation of specific gene
+expression programs that may impact on cancer phenotypes and potentially
+modify the efficacy of cancer therapy.
+

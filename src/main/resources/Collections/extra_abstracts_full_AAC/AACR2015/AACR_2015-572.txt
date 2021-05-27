@@ -1,0 +1,66 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Proteomics analysis of the effect of fluorouracil (5FU) and
+5FU/leucovorin (LV) on colorectal cancer (CRC) in patients
+
+
+Background:5FU is widely used and inhibits thymidylate synthase (TS); LV
+given in combination with 5FU enhances TS inhibition. TS levels and
+inhibition are associated with survival in advanced disease. The large
+variation in response between patients indicates that more mechanisms may
+be important. To make better treatment decisions, several additional
+biomarkers, next to TS, such as 5FU activation, breakdown and
+incorporation into RNA have been investigated. Several studies on global
+molecular profiling for 5FU activity have been performed on model systems
+and patients, showing that loss of 18p11-32, which harbors the TS gene,
+was associated with better survival.Aim:Identification of new potential
+mechanisms of action and potential biomarkers of 5FU with or without LV
+treatment using in-depth proteomics analysis of patient CRC
+tissues.Methods:Patients received approximately 48 hours before
+resection, a test dose of 5FU (500 mg/m2) (n = 5), 5FU with LV (500
+mg/m2) (n = 7) or no test dose (n = 7). For proteomics analysis, samples
+of CRC resection material were lysed in SDS sample buffer, fractionated
+by 1D gel electrophoresis, followed by in-gel digestion and nano-liquid
+chromatography coupled to tandem mass spectrometry (QExactive). The
+MaxQuant tool was used for protein identification and quantification by
+spectral counting.Results:Our CRC proteome analysis identified a total of
+6880 proteins and 874 with altered abundance (pBackground:5FU is widely
+used and inhibits thymidylate synthase (TS); LV given in combination with
+5FU enhances TS inhibition. TS levels and inhibition are associated with
+survival in advanced disease. The large variation in response between
+patients indicates that more mechanisms may be important. To make better
+treatment decisions, several additional biomarkers, next to TS, such as
+5FU activation, breakdown and incorporation into RNA have been
+investigated. Several studies on global molecular profiling for 5FU
+activity have been performed on model systems and patients, showing that
+loss of 18p11-32, which harbors the TS gene, was associated with better
+survival.Aim:Identification of new potential mechanisms of action and
+potential biomarkers of 5FU with or without LV treatment using in-depth
+proteomics analysis of patient CRC tissues.Methods:Patients received
+approximately 48 hours before resection, a test dose of 5FU (500 mg/m2)
+(n = 5), 5FU with LV (500 mg/m2) (n = 7) or no test dose (n = 7). For
+proteomics analysis, samples of CRC resection material were lysed in SDS
+sample buffer, fractionated by 1D gel electrophoresis, followed by in-gel
+digestion and nano-liquid chromatography coupled to tandem mass
+spectrometry (QExactive). The MaxQuant tool was used for protein
+identification and quantification by spectral counting.Results:Our CRC
+proteome analysis identified a total of 6880 proteins and 874 with
+altered abundance (p< 0.05) upon treatments. Our results indicate that
+5FU induces upregulation of proteins associated with the extracellular
+matrix, membrane vesicles, stress and immune responses and downregulates
+mitochondrial proteins, peroxisomes and (most profoundly) ribosomal
+proteins. Patients who received 5FU-LV also displayed upregulation of
+extracellular matrix and vesicle/granule proteins in addition to cell
+adhesion proteins, an extensive downregulation of ribosomal proteins and
+downregulation of mitochondrial and ubiquitin proteins. In addition,
+there is an upregulation of the GO-term Extracellular region part in both
+5FU and 5FU/LV treated patients, compared to controls. Top upregulated
+proteins were isoform NELF-D of negative elongation factor C (NELFCD),
+AMP deaminase 3 (AMPD) and myeloblastin (PRTN3), while top downregulated
+were neudesin (NENF), antigen KI-67 (MKI67) and
+HERC4.Conclusions:Proteome analysis revealed strong changes in the CRC
+proteome upon 48 hrs of 5FU +/- LV treatment, with regulated proteins
+involved in stress and immune responses, vesicular transport, protein
+synthesis and metabolism. A number of proteins were not yet associated to
+5FU actions. These proteins when correlated in a larger cohort to
+clinical outcome may function as biomarkers for future treatment decision.
+

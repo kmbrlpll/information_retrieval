@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Frequent gain-of-function CCR4 mutations in adult T-cell
+leukemia/lymphoma (ATLL)
+
+
+High expression of CC chemokine receptor 4 (CCR4) has been identified as
+a hallmark gene in ATLL, an aggressive peripheral T-cell neoplasm. CCR4
+is a chemokine receptor, which has a critical role in immune cell
+trafficking. CCR4 ligands, CCL17 and CCL22, were produced in lymph nodes
+and skin from dendritic cells, macrophages and Langerhans cells. Most
+ATLL cases express surface CCR4 (90%) and infiltrate to lymph nodes and
+skin. These observations suggest that CCR4 could have a role in ATLL
+biology, but it is still unclear whether dysregulation of CCR4 function
+contributes to ATLL pathogenesis.We performed RNA-Seq for two primary
+ATLL cases and discovered recurrent non-sense mutations in CCR4. Though
+an extended analysis using Sanger sequencing, CCR4 mutations were
+detected in 14/53 ATLL samples (26%) and consisted exclusively of
+nonsense or frameshift mutations that truncated the coding region at
+C329, Q330 or Y331 in the carboxy-terminus. In 5 cases for which paired
+normal DNA was available, three different CCR4 mutations were detected
+only in the ATLL cells (Q330*; Q330 frameshift; Y331*), demonstrating
+that they were acquired somatically during malignant transformation or
+progression. Chemotaxic assay using 32D, a mouse myeloid cell line, and
+ED40515(+), an ATLL cell line, clarified that the ectopic expression of
+CCR4-Q330* enhanced the chemotactic ability of the transduced cells
+toward CCL17 and CCL22 rather than CCR4-WT transduced cells. To
+understand the mechanism of this enhanced chemotactic ability, we studied
+the change in surface CCR4 levels after CCL22 exposure in CCR4-WT-and
+CCR4-Q330*-reconstituted ED40515(+) cells. Compared with CCR4-WT, CCR4
+internalization in CCR4-Q330*-reconstituted cells was significantly
+impaired. Thus, the ATLL CCR4 mutants impair desensitization by ligand,
+which likely contributes to the enhanced chemotaxis of cells bearing
+these mutants.We explored the influence of the ATLL CCR4 mutants on
+PI3K/AKT signaling by immunoblot analysis and phosphor-flow analysis.
+CCR4-Q330*-reconstituted ED40515(+) showed strong activation of AKT with
+CCL22 ligation compared with CCR4-WT-reconstituted cell. Furthermore, we
+tested whether the acquisition of CCR4 mutations by ATLL cells imparts a
+selective growth advantage relative to cells with wild type CCR4.
+CCR4-Q330*-reconstituted cells had a selective growth advantage in the
+presence of CCL22, supporting at least in part the hypothesis that CCR4
+mutation are able to provide the affected cells a positive selection
+pressure through CCL22 ligation and contributes to ATLL pathogenesis.Our
+findings implicate somatic gain-of-function CCR4 mutations in the
+pathogenesis of ATLL and suggest that inhibition of CCR4 signaling might
+have therapeutic potential in this refractory malignancy.
+

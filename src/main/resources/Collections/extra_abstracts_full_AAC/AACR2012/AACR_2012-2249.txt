@@ -1,0 +1,42 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Mutations to the GSK3 regulatory region of CTNNB1 increase TCF
+transcription activity and are resistant to degradation by GSK3
+
+
+Hepatocellular carcinoma (HCC) is currently the third most common cause
+of cancer related mortality worldwide. As with many cancers, aberrant
+activation of Wnt/-catenin signaling plays a critical pathogenic role in
+the disease. Somatic mutations in genes of the Wnt pathway are widely
+observed in tumor tissue, where it has been estimated that 15-20% of
+tumors possess activating mutations in beta-catenin (CTNNB1). The
+turnover of CTNNB1 protein is tightly regulated in cells by the
+degradation complex which includes the CK1 and GSK3 kinases in a complex
+with Axin and APC. Mutations within the CTNNB1 gene at the CK1
+phosphorylation site (Ser45) and GSK3 phosphorylation sites (Ser33,
+Ser37, Thr41) are observed clinically and result in CTNNB1 protein
+accumulation and enhanced transcription of Wnt target genes. The goal of
+this study is to characterize additional clinically observed CTNNB1
+mutations in HCC. It is hypothesized that mutations within the
+phosphorylation domain in exon 3 will impact the phosphorylation of these
+key regulatory sites of CTNNB1. To assess the impact of three observed
+CTNNB1 mutations (H36P, I35S and S23R) on Wnt signaling activity, mutant
+CTNNB1 constructs were first created and their impact on Wnt signaling
+was measured using a luciferase-based Wnt reporter assay in transfected
+HEK293T cells. Compared to the wild type CTNNB1 control, Wnt
+transcription activity in the presence of H36P, I35S, and S23R mutants
+were increased by 6.55 2.08, 6.76 2.44, and 2.36 1.01 fold, respectively.
+This compared to a 5.91 1.38 fold increase observed with the
+phosphorylation mutant S45P. To evaluate if these mutations had a
+measurable impact on GSK3 regulation of CTNNB1 levels, each mutant was
+coexpressed with a GSK3 expression vector and evaluated using the same
+Wnt reporter system. As anticipated, GSK3 coexpression reduced Wnt
+reporter activity of the CTNNB1 control by 3.6 fold .33 where the S45P
+mutant was not affected. Coexpression of GSK3 did not attenuate increased
+Wnt activity observed with the mutants H36P and I35S, however it did
+decrease activity observed with the S23R by a similar magnitude of the
+wild type CTNNB1 control (2.27 fold .93). These results describe the
+activating nature of H36P, S45P, and I35S which likely mediate their
+effect via impaired CTNNB1 phosphorylation. To a lesser extent, S23R
+activated Wnt activity, however, is subject to attenuation by GSK3
+phosphorylation.
+

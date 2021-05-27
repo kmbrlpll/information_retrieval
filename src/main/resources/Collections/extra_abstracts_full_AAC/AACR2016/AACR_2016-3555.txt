@@ -1,0 +1,44 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Targeting the BCL-2 family in small cell lung caner
+
+
+Small cell lung cancer (SCLC) represents 13% of all lung cancer cases,
+affecting approximately 30,000 people annually in the United States. The
+prognosis for patients with SCLC is poor, and cancer-specific mortality
+of this malignancy is 95% at five years. This dismal prognosis has been
+further marred by the absence of major improvements in its treatment:
+there have been no substantial changes in the standard of care for
+advanced SCLC over the last three decades. Interestingly, small molecule
+inhibitors of anti-apoptotic BCL-2 family members BCL-2 and BCL-XL,
+ABT-737 and its orally bioavailable analog ABT-263, were shown to
+effectively kill some SCLC cell lines in preclinical studies, suggesting
+that targeting the BCL-2 family proteins may hold promise for the
+treatment of this dreadful cancer. However, these inhibitors do not
+inhibit MCL-1, another anti-apoptotic BCL-2 family member, which may
+explain why multiple clinical trials have not led to meaningful results.
+Because there are no effective MCL-1 inhibitors developed yet, we propose
+to identify the best strategy that enhances the apoptotic effect of
+ABT-737/263. To this end, we have performed a high-throughput screen in
+ABT-737/263 resistant H196 cell lines using two libraries, a library of
+FDA-approved anti-cancer agents and a pathway inhibitor library including
+1000 compounds. As a result, doxorubicin and dinaciclib were identified
+as synergizers of ABT-737/263 in triggering apoptosis. These two drugs
+enhanced the death inducing activity of ABT-737/263 through
+downregulation of MCL-1 mRNA. Interestingly, some of the ABT-737/263
+resistant cell lines rely on MCL-1 for survival and thereby were killed
+by dinaciclib or doxorubicin as a single agent, indicating that
+predictive biomarkers of cellular addiction to anti-apoptotic BCL-2
+family proteins (BCL-2s) can guide treatment decisions and reduce
+unwanted toxicity. Importantly, we revealed that the expression ratio
+between BCL-2, BCL-XL, and MCL-1 could predict cellular addiction to
+BCL-2s. Surprisingly, we demonstrated that BCL-XL overexpression is an
+another potential mechanism behind ABT-263 resistance. ABT-263 failed to
+inhibit the interaction between BCL-XL and BAX/BAK in the absence of
+activator BH3-only molecules and thereby failed to kill one
+BCL-XL-addicted SCLC cell line with low expression of activator BH3-only
+molecules. Finally, we showed that BCL-2 selective inhibitor ABT-199 can
+also cooperate with doxorubicin or dinaciclib to kill ABT-263-resistant
+cell lines. The in vivo efficacy of combination therapy including ABT-199
+and doxorubicin was demonstrated in a SCLC xenograft model. These data
+have direct translational implications for the treatment of SCLC.
+

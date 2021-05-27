@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Cytochrome P450 enzyme activity is enhanced in hepatocytes grown
+using a perfused 3D cell culture drug screening system.
+
+
+A critical requirement for assessing drug toxicity in vitro is cytochrome
+P450 (CYP) function that is physiologically representative. Due to low
+levels of CYP enzyme activity, cell lines such as HepG2 hepatocytes have
+largely been supplanted with primary cells derived from human donor
+tissue. While these cells retain CYP activity ex vivo, drug screening is
+limited to short-term assessments due to de-differentiation. This limits
+their efficacy in testing slow-clearing, large-molecule compounds such as
+antibody-based therapies and low-turnover drugs. Cell lines in monolayer
+cultures have been effective in assessing the safety of small molecule
+drugs, but the disparity between cell lines and in vivo tissue biology
+proves too substantial for current potential therapies. Three-dimensional
+(3D) cultures have been shown to be more physiologically relevant models
+of in vivo tissue. However, even they fail to fully mimic living tissue
+and suffer from the lack of active oxygen and nutrient transport. Lena
+Biosciences has developed a groundbreaking in vitro system that
+facilitates long-term survival of 3D cultures. Cells seeded in 3D
+hydrogels supported by a rigid scaffold are maintained in statistically
+independent wells in their own medium which floats atop a high-density
+blood-substitute in which medium is immiscible. Infusion and withdrawal
+of this blood-substitute introduces perfusion into a medium-throughput
+multiwell system without the need for separate pumps for each culture
+condition.
+
+Internal validation experiments using hepatocytes cultured in a 12-well
+system showed a two-fold improvement in cellular respiration (measured by
+alamarBlue assay) over cultures maintained in a standard multiwell plate
+when the blood-substitute was introduced, and a three-fold improvement
+when the cultures were perfused. Cell viability (measured by LDH release)
+was significantly improved when perfusion was introduced. CYP activity
+(assessed using both fluorescent and luminescent substrate-based assays)
+was also significantly higher in the perfused hepatocyte cultures. These
+data demonstrate the substantial advantages to growing cells in this
+novel perfused cell culture model. Scaling the system to include multiple
+cell types (primary or cell lines), would allow for simultaneous testing
+of target and off-target effects of potential small or large molecule
+therapies. Thus, this system serves as a major improvement over the
+current organ-on-a-chip solutions in the area of drug safety testing.
+
+

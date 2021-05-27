@@ -1,0 +1,42 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A novel algorithm for prioritizing candidate genes driving
+malignant transformation of MCF10F cells and basal-like breast cancer
+
+
+We have developed a model of malignant transformation of MCF10F cells to
+identify the temporal acquisition of changes in genome structure and gene
+expression that correspond to the progressive transformed phenotype
+culminating in tumorigenesis. Genomic DNA and total RNA were isolated
+from MCF10F, trMCF (MCF10F transformed by 70 nM 17-beta estradiol), bsMCF
+(trMCF selected by Boyden chamber, tumorigenic), bcMCF (clones of bsMCF),
+and caMCF (cells from tumors of bsMCF grown in SCID mice). The molecular
+changes accompanying this progression were interrogated using high
+resolution methods of analysis for loss of heretozygosity (LOH),
+chromosome copy number (CCN) and gene expression profiles. The observed
+genomic changes, along with the tumor phenotype of a poorly
+differentiated adenocarcinoma, indicate an underlying mechanism common to
+basal-like breast cancer development in women. As examples, similarities
+were found at chromosomes 4 and 5 between this ER negative cell model and
+the basal-like tumors, and progression was accompanied by changes in gene
+expression consistent with epithelial mesenchymal transition. Here we
+describe an algorithm for prioritizing candidate oncogenes and tumor
+suppressor genes. Venn analysis of CCN and gene expression (Venn_input, >
+1100 genes) was input into GeneIndexer, a text mining tool, and queried
+by key words or genes that were selected for relevance to breast cancer
+and then neutralized for gene-by-word correlation bias. The sum of the
+output cosine values for the Venn_input list was then used to prioritize
+candidate genes of interest in relation to breast cancer (Venn_output),
+and further, in relation to their first appearance during the progression
+of cell transformation. To determine the relevance of these genes to
+clinical breast cancer, the Venn_output list was used to perform
+hierarchical cluster analysis of several clinical studies of breast
+cancer. Of interest, the prioritized 113 genes identified only the
+basal-like subtype in four separate clinical sample sets and one set of
+51 breast cancer cell lines. Further analysis using a support vector
+machine technique to train and query these same data predicted the tumor
+class (basal/non basal) with a sensitivity range of 71-87 percent, and a
+specificity range of 77-100 percent. These results support the use of
+this approach for combining complex data for the prioritization of
+candidate genes, and indicate that this model of malignant cell
+transformation recapitulates many key aspects of basal breast cancer.
+

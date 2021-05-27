@@ -1,0 +1,42 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Pooled shRNA screens conducted in vitro and in vivo identify genes
+that are essential for the growth and/or survival of human tumor cells
+
+
+Identification of novel drug targets is a major challenge in cancer
+research. While numerous studies have identified genes that are mutated
+and/or amplified in cancers, the functional significance of most of these
+genetic alterations remains unknown. To directly identify genes that are
+required for the growth of human tumor cells, and that could potentially
+be targets for therapeutic monoclonal antibodies, we employed a custom
+shRNA library containing 13,000 shRNAs targeting 3,210 genes (4 shRNAs
+per gene) that encode cell surface or secreted proteins. Cultured tumor
+cells were infected with the virally-packaged shRNA library such that
+each shRNA (and an associated molecular barcode) was integrated into 200
+cells. Cells that expressed shRNAs that target essential genes were
+progressively depleted from the population upon in vitro passage or
+following implantation into mice, resulting in decreased representation
+of those shRNAs/barcodes versus reference samples. In vitro screens were
+conducted in 3 colorectal cancer cell lines (HCT116, DLD1 and Colo320DM)
+and in NCI-H1975 lung cancer cells. About 1-3% of the genes in the
+library were identified as essential for tumor cell growth and/or
+survival in vitro. Importantly, these genes included positive controls
+such as PCNA that were included in the library to validate the screening
+procedure, as well as components of pathways that are known to control
+cell growth such as IGF-1R, Wnt9a, sonic hedgehog and RON. In vivo
+screens were performed with HCT116 and NCI-H1975 cells by implanting
+cells into mice immediately following shRNA integration. Representation
+of shRNAs versus the reference sample was assessed in small tumors (100
+mm3) and in large tumors (1000 mm3). While we observed very few hits in
+small tumors, the number of hits in large tumors was greater than that
+observed in vitro (e.g., 3-fold higher for HCT116), suggesting that tumor
+growth in vivo is dependent on a larger set of genes than is cell growth
+in vitro. Interestingly, the genes that were uniquely essential in tumors
+versus in vitro included several that are involved in cell/cell adhesion
+(e.g., cadherin 24, claudin 3) and cell signaling (epidermal growth
+factor receptor). In summary, our shRNA screens focusing on secreted and
+cell surface targets have identified genes that may be essential for
+tumor growth, including many genes that have not previously been
+implicated in this process. Upon further validation, these genes could
+potentially serve as novel targets for therapeutic antibodies in cancer.
+

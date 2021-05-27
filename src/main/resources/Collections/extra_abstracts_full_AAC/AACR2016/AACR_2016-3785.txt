@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Targeting PDLIM5 for lung cancer
+
+
+Rationale: Lung cancer is the most common cause of cancer-related death
+in the United States and worldwide. Despite decades of efforts on
+research and smoking cessation, the 5-year survival rate of lung cancer
+patients remains poor at 15%, and the population of adenocarcinoma cases
+in nonsmokers is rising. PDLIM5, a member of the Enigma subfamily of PDZ
+and LIM domain protein family, contains an N-terminal PDZ domain and 3
+LIM domains at its C-terminus. We have previously shown that PDLIM5
+regulates TGF-/Smad family, which are known to participate in the
+pathogenesis of lung cancer. In this study, we aim to investigate whether
+PDLIM5 plays a role in lung cancer and establish a high throughput
+screening (HTS) platform for PDLIM5-targeted drug discovery.Methods: We
+searched the Oncomine data base for PDLIM5 gene expression. We suppressed
+PDLIM5 in A549 cells and determined the expression levels of
+epithelial-mesenchymal transition markers. We exposed A549 cells to
+hypoxia or treated them with TGF-1 and measured the expression levels of
+PDLIM5. We generated a stable mink lung epithelial cell line (MLEC)
+containing a TGF/Smad luciferase reporter with lentivirus-mediated
+suppression of PDLIM5 (MLEC-shPDLIM5) and measured levels of Smad2/3 and
+pSmad2/3. We used MLEC-shPDLIM5 and a control cell line (MLEC-shCTL) to
+screen the Prestwick library (1,200 compounds). We treated MLEC and A549
+cells with paclitaxel and determined levels of Smad2/3 and
+pSmad2/3.Results: We found that PDLIM5 was overexpressed in
+non-small-cell lung carcinoma (NSCLC) patients and that the expression
+levels of PDLIM5 inversely correlated with the survival rate of lung
+cancer patients. Hypoxia but not TGF-1 induced PDLIM5 expression levels.
+Suppression of PDLIM5 induced E-cadherin levels while decreased levels of
+vimentin and -SMA. In MLEC, suppression of PDLIM5 decreased
+Smad-dependent luciferase activity, smad3, and pSmad2. More importantly,
+we identified and validated that paclitaxel as a PDLIM5 inhibitor in
+MLEC. Furthermore, we showed that paclitaxel inhibited Smad2 expression
+and Smad3 phosphorylation in A549 cells.Conclusions: We have shown that
+PDLIM5 is overexpressed in lung cancer cells and its upregulation is
+hypoxia-dependent but TGF- independent. Loss of PDLIM5 inhibits EMT. We
+have identified paclitaxel as a PDLIM5 inhibitor. This system is robust
+and suitable for PDLIM5 targeted drug discovery. Support: a UIC UICentre
+Arm1 Inception Grant, a Gilead Sciences Research Scholars Program in
+Pulmonary Arterial Hypertension award and R01 HL123804 (G. Zhou).
+

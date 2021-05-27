@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Low-pass whole genome sequencing detects copy number variations in
+circulating tumor DNA.
+
+
+Circulating tumor DNA (ctDNA) is released from necrotic/apoptotic tumor
+cells into the bloodstream. Recent studies have demonstrated the value of
+using ctDNA as biomarkers in cancer diagnosis, prognosis, and drug
+resistance. Unlike local tissue biopsy, ctDNA collection and analysis is
+non-invasive, allows continuous monitoring of clonal evolution, and
+provides an overview of tumor heterogeneity. Copy number variations
+(CNVs) play an important role in cancer biology. However, traditional CNV
+analyses of ctDNA using droplet digital PCR (ddPCR) and SNP arrays can
+only assess a small number of genes due to the low abundance of ctDNA in
+the majority of patient samples. Next generation sequencing (NGS) offers
+a more efficient and high-throughput way to study CNVs in ctDNA.
+
+Here, we evaluated the use of low-pass whole genome sequencing (WGS) in
+determining CNVs in ctDNA. In this work, cell-free DNA was isolated from
+1-5 ml of plasma from phase II clinical trial patients with metastatic
+breast cancer and non-small cell lung cancer (NSCLC) using the QIAamp
+Circulating Nucleic Acid Kit (QIAGEN). DNA yield was determined by ddPCR,
+with a range from 2-4000 ng. Sequencing libraries were prepared using
+2-10 ng DNA by the ThruPLEX Plasma-Seq Kit (Rubicon Genomics). WGS at
+0.1x, 0.25x, 0.5x, and 1x coverage was performed on Illumina NextSeq, and
+data was analyzed using Nexus Copy Number software (BioDiscovery). As a
+reference, we sequenced DNA from peripheral blood mononuclear cells
+(PBMCs) of 20 healthy donors at the same coverage. Low-pass WGS was also
+performed on a subset of matched tumor tissue samples as comparisons.
+
+Our results showed that WGS of ctDNA at 0.5x coverage was efficient to
+identify CNVs. CNVs were detected in ctDNA from about half of the
+patients analyzed, and in general CNVs identified in ctDNA matched the
+ones found in tumor tissue from the same patient. We also found that CNV
+patterns from different time points of the same patients clustered
+together. With this promising system, we will present CNV analysis in
+ctDNA from breast cancer and NSCLC patients enrolled in phase II clinical
+trials of the PI3K inhibitor pictilisib. We will evaluate the ability of
+the method to classify patients into different subgroups, monitor tumor
+progression, and identify drug resistance mechanisms.
+
+

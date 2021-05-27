@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: GenePattern Notebook: an environment for reproducible cancer
+research.
+
+
+As the availability of genetic and genomic data and analysis tools from
+large-scale cancer initiatives continues to increase, the need has become
+more urgent for a software environment that supports the entire “idea
+to dissemination” cycle of an integrative cancer genomics analysis.
+Such a system would need to provide access to a large number of analysis
+tools without the need for programming, be sufficiently flexible to
+accommodate the practices of non-programming biologists as well as
+experienced bioinformaticians, and would provide a way for researchers to
+encapsulate their work into a single “executable document” including
+not only the analytical workflow but also the associated descriptive
+text, graphics, and supporting research. To address these needs, we have
+developed GenePattern Notebook, based on the GenePattern environment for
+integrative genomics and the Jupyter Notebook system. GenePattern
+Notebook unites the phases of in silico research – experiment design,
+collaborative analysis, and publication – into a single interface.
+
+GenePattern Notebook presents a familiar lab-notebook format that allows
+researchers to build a record of their work by creating “cells”
+containing text, graphics, or executable analyses. Researchers add,
+delete, and modify cells as the research evolves, supporting the initial
+research phases of prototyping and collaborative analysis. When an
+analysis is ready for publication, the same document that was used in the
+design and analysis phases becomes a research narrative that interleaves
+text, graphics, data, and executable analyses, serving as the complete,
+reproducible, in silico methods section for a publication.
+
+GenePattern Notebook features are designed to make it easy for
+nonprogramming users to create and adapt notebooks. We have developed new
+cell types that allow users to choose analyses, specify input parameters
+and datasets, navigate results, send result files to new analyses, and
+create richly formatted text, all without the need for programming.
+
+We have released a freely available online GenePattern Notebook
+workspace, http://notebook.genepattern.org, where researchers can develop
+and publish notebook documents. We have provided a collection of template
+notebooks that walk users through various machine learning analyses, and
+are collaborating with cancer research laboratories to create integrative
+cancer genomics notebooks as well. Notebook topics in development include
+characterization of intratumoral heterogeneity from single cell RNA-Seq
+data, effective clinical interpretation of comprehensive genomic
+profiling from whole exome sequencing of a patient’s tumor and germ
+line samples, and identification of master regulators/transcription
+factors associated with the downstream transcriptional effects associated
+with the activation of an oncogene.
+
+

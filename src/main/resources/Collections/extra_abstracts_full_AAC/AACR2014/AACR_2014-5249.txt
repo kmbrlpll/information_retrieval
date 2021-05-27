@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Butterfly effect in cancer: How a single base mutation of PIK3CA
+remodels multiple pathways
+
+
+PI 3-kinase is a frequently mutated oncogene. Along with the phosphatase
+PTEN, numerous receptor tyrosine kinases, and Akt, the PI 3-kinase
+pathway is among the most frequently activated in cancer. The H1047R
+mutation of PIK3CA is a representative gain-of-function mutation in the
+PI 3-kinase pathway and is transforming in both chicken fibroblasts and
+mouse embryonic fibroblasts. Recently, a knock-in of this mutation has
+been made in the normal human mammary epithelial cell line, MCF-10A.
+Here, H1047R confers growth factor independence, but does enable the
+knock-in cells to grow in soft agar or to form xenografts in mice.We have
+investigated this knock-in cell line and the parental MCF-10A by both
+deep sequencing and proteomics to determine the transcriptional and
+translational changes induced by PIK3CA-H1047R. We can confirm that the
+only coding mutation introduced into the MCF-10A cell line is
+PIK3CA-H1047R. Surprisingly, this single base mutation induces changes in
+the expression of thousands of transcripts and proteins. Despite rapid
+proliferation and growth factor independence, H1047R also induces a
+decrease in cell cycle genes including Cyclin A2 and Cyclin D2. The
+decrease in these genes may be the cause of an observed decrease in S and
+G2 phase cells as compared with the parental MCF-10A cell line. The
+parental cells overexpress MYC, however this overexpression is lost upon
+H1047R expression. Inhibition of PI 3-kinase with small molecule
+compounds that are selective for p110 or affect all isoforms of p110 as
+well as inhibition of mTOR do not restore the expression of c-MYC. This
+suggests that long-term activation of the PI 3-kinase pathway can result
+in changes to the gene expression landscape which no longer depend upon
+the PI 3-kinase pathway. Finally, H1047R causes changes in 3D cell
+culture morphology. Both MCF-10A and the H1047R knock-in form acinar
+structures with hollow lumen when grown on reduced growth factor Matrigel
+substrates. However, if these cultures are treated with IGF1, the MCF-10A
+cells retain their acinar structures while, H1047R form branching
+tube-like structures which invade into Matrigel. The formation of these
+structures can be inhibited by the introduction of GDC-0941, a pan-PI3K
+inhibitor. IGF1 has no effect upon cell proliferation or migration in 2D
+cell culture systems.In summary, the H1047R mutation of PIK3CA while
+possessing a single catalytic activity can lead to a diverse range of
+phenotypes beyond growth factor independence.This work was supported by
+the National Institutes of Health under award numbers R01 CA078230 and
+R21 AG039716 (JRH and PKV), P30 NS057096 and P41 RR011823 (YZ, LL and
+JRY). This is abstract 24060 of The Scripps Research Institute.
+

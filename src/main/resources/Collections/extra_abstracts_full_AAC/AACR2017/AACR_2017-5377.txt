@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Intragenic DNA methylation and increased gene expression: New
+directions from pan-cancer analysis.
+
+
+Purpose: While the impact of DNA methylation at the promoter region as a
+repressive influence is well-known, the vast majority of DNA methylation
+actually occurs outside of the promoter region. The function of
+intragenic DNA methylation remains incompletely understood. Here, we
+investigate how intragenic DNA methylation impacts gene expression, and
+how these modifications differ between normal and corresponding cancer
+tissues.
+
+Methods: A pan-cancer analysis of gene expression array data was
+integrated with Illumina 450k methylation array data across ten tumor
+types to produce correlation values between DNA methylation and gene
+expression at distinct loci on a genome-wide basis. The probes exhibiting
+a significant correlation between gene expression and DNA methylation
+were selected for further analysis.
+
+Results: We uncovered robust positive correlations between gene
+expression and 3’ methylation in 3,200 genes, with 590 genes in bladder
+cancer, and 256 genes in squamous cell lung carcinoma displaying a
+correlation coefficient of >0.5. Furthermore, we observed 44 genes with a
+correlation coefficient of >0.7 in at least two tissue types. The
+majority of genes with the strongest correlations are transcription
+factors known to play roles in differentiation and development, with an
+enrichment of zinc finger and homeobox-containing genes. Further analysis
+of these genes exhibit divergent 3’
+
+methylation when comparing normal and tumor tissues. Importantly, the
+extent of 3’ methylation of these genes is associated with patient
+overall survival in 5 of the 10 tumor types analyzed, strongly suggesting
+that this process plays a role in cancer pathogenesis.
+
+Conclusion: DNA methylation of the 3’ region is a functionally and
+clinically relevant epigenetic modification, and may serve as a novel
+target for inhibiting tumorigenesis and tumor progression.
+
+

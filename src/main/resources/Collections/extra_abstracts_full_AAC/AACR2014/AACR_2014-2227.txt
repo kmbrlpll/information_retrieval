@@ -1,0 +1,31 @@
+Meeting: 2014 AACR Annual Meeting
+Title: An automatic pipeline to find and annotate rare subclonal somatic
+variants in a paired tumor/normal sample
+
+
+Identifying and characterizing somatic variants in deep genome sequence
+data from tumor samples remains challenging and time-consuming. Of
+special interest in cancer research and diagnostics is the detection and
+annotation of rare subclonal somatic variants found only in a small
+proportion of primary tumor cells. Such variants can drive tumor spread
+and recurrence, but are often neglected in choosing treatments.Currently,
+few tools reliably distinguish such rare subclonal variants from
+sequencing errors. And even among real somatic variants, drivers (of
+tumor growth, spread, or resistance) are hard to distinguish from
+passengers. Doing so entails integrating diverse information on variants,
+genes, pathways, cancer-relevant phenotypes, and treatments (including
+insights on population allele frequencies and broader evolutionary
+conservation; known/likely effects on gene product structure, function,
+expression, and interaction; and relations among gene products,
+phenotypes, and drugs). Software for effectively integrating such data in
+light of genomic variation in samples, to highlight relevant findings
+through clear visualization, has been a pressing need.Here we present an
+end-to-end analysis workflow for finding and functionally characterizing
+rare subclonal variants, using the newly developed CLC Cancer Research
+Workbench to feed the interpretive platform of Ingenuity Variant
+Analysis, to identify cancer driver mutations in paired tumor/normal
+samples. We will show new interesting results from this analysis, which
+were not shown beforehand on this publicly available cancer dataset (Case
+Reports in Oncological Medicine, Volume 2013 (2013), Article ID 270362)
+from a patient with massive acinic cell carcinoma.
+

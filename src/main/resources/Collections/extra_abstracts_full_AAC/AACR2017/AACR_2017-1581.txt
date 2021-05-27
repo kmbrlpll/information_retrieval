@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Androgen receptor action in prostate cancer partitions into
+distinct transcriptional codes that differ in clinical relevance.
+
+
+With few exceptions the 30,000 prostate cancer (CaP) deaths annually in
+the US are due to failure of androgen deprivation therapy (ADT). ADT
+prevents ligand-activation of androgen receptor (AR). Despite remission,
+CaP progresses while continuing to rely on AR. AR’s transcriptional
+output that controls CaP behavior is an alternative therapeutic target,
+but its molecular regulation is poorly understood. Here, we determined
+the androgen dependence of hundreds of direct AR target genes on 18
+coregulators that are relevant to CaP progression, and uncovered that the
+AR-dependent transcriptome breaks down in coregulator-dependent gene
+sets. Pairwise comparison and unsupervised clustering showed limited
+overlap between the gene subsignatures. Neither ChIP nor qRT-PCR studies
+revealed differences in the kinetics of coregulator recruitment to
+Androgen Response Elements (AREs) or of androgen regulation of different
+gene sets. Rather, Cistrome analyses of AR binding sites demonstrated
+preferential enrichment in binding motifs for distinct transcription
+factors (TFs) between coregulator-dependent gene sets. Pathway and GSEA
+analyses of these signatures indicated associations with select
+biological processes and differential enrichments between normal prostate
+and CaP, CaPs of different stages, and CaP and bone marrow
+microenvironment. These results suggested that coregulators may unite the
+action of DNA-bound AR and TF(s) to control select aspects of
+androgen-dependent CaP cell biology. The presence and functionality of
+such novel predicted AR transcriptional codes, namely AR-WDR77-p53 and
+AR-STAT3-IRF1 with projected roles in CaP cell proliferation and stemness
+respectively, was confirmed in Co-IP and gene expression profiling. As AR
+and p53 are the major drivers of lethal CaP, the AR-WDR77-p53 code was
+explored further. Mass spectrometry after WDR77 and p53 IP independently
+identified PGAM5, a recently isolated serine/threonine protein
+phosphatase that regulates cell death and unknown to be relevant to AR
+signaling or CaP biology, as part of the AR-WDR77-p53 complex. Co-IP
+assays verified IP-mass spectrometry results and ChIP studies confirmed
+recruitment of PGAM5 to WDR77-dependent AREs. Expression profiling
+demonstrated significant overlap in genes for which androgen regulation
+was altered after silencing of WDR77, PGAM5 or p53. Co-IP and ChIP
+studies showed that androgen-dependent recruitment of p53 to ARE-bound AR
+requires WDR77 and PGAM5. Western blotting and flow cytometry analyses
+indicated that WDR77 and PGAM5 and their dependent AR target genes
+control G1/S cell cycle progression, which was maintained in presence of
+clinically relevant gain-of-function p53 mutants. These novel insights
+indicate that disrupting select protein-protein and protein-DNA
+interactions may be a viable strategy to inhibit AR action that drives
+CaP lethal progression.
+
+

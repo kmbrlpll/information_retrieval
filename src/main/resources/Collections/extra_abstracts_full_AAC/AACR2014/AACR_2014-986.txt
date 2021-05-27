@@ -1,0 +1,46 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Unraveling breast cancer progression through geographical and
+temporal sequencing
+
+
+Background: The aim of this study was to interrogate primary/metastatic
+breast cancer (BC) genetic heterogeneity using next generation whole
+exome sequencing and copy number analysis from an autopsy series of BC
+patients (pts).Methods:To reconstruct the trajectories of BC progression,
+we performed exome sequencing (Illumina HiSeq2000, Truseq DNA sample
+preparation kit v2 and Exome Enrichment Kit v2; alignement done with BWA,
+substitutions and indels called with GATK and DINDEL respectively)
+coupled to validation by Sequenom and deep re-sequencing (ongoing), as
+well as copy number (CN) analyses (Oncoscan, Affymetrix) on DNA from
+matched primary (n=1-6/pt), axillary lymph node (ALN, n=1-6 for 4 pts),
+local recurrence (for 1 pt) and distant metastatic (n=1-5/pt) FFPE
+samples obtained from an autopsy series of 10 BC pts. Results:1/ The
+degree of primary/metastatic genetic heterogeneity is proportional to the
+time elapsed between the diagnosis of the primary tumor and the emergence
+of the metastases (mutations: corr=0.76, CN: corr=0.63); metastases from
+pts with a longer cancer history being genetically more different from
+their corresponding primary tumor than those from pts with a shorter
+cancer history. 2/ The phylogenetic analyses revealed that in all but 1
+pt, the various distant metastases are present on the same branch of the
+phylogenetic tree. This suggests that the majority of the metastases
+arise from a single metastasizing event, with one or more distant sites
+further re-seeding additional organs. ALN metastases are genetically less
+evolved compared to distant metastases. 3/ Distant metastases from a same
+patient only share between 11 and 50% metastasis-specific mutations. This
+implies that metastasis-specific potentially targetable genetic
+alterations might either be present in all metastases from a given
+patient (such as EGFR, PDGFRA amplification for pt 3, AR amplification
+for pt 8) or only in some metastases (such as NOTCH2 mutation in the
+liver metastasis of pt 6). 4/ Primary tumor samples and metastases from
+one ER+/HER2- pt were hypermutated (696 unique mutations in total). The
+substitutions were enriched for the APOBEC-related mutational signature,
+possibly linked to the somatic APOBEC3B D316N mutation observed in all
+samples from this pt. Conclusions: Here we report for the first time that
+primary/metastatic BC genetic heterogeneity is proportional to the time
+elapsed between the diagnosis of the primary tumor and the emergence of
+the metastases. These results therefore suggest that it is extremely
+relevant to interrogate distant metastatic lesions, multiple if possible
+to account for inter-metastatic heterogeneity, to guide treatment,
+especially but not only, in those pts relapsing a few to many years after
+initial diagnosis.
+

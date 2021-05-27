@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: A novel live imaging system for inflammation-induced
+epithelial-mesenchymal transition in colorectal cancers
+
+
+Background: Epithelial-mesenchymal transition (EMT) is a biological
+process, by which epithelial cancer cells acquire the mesenchymal
+phenotype with malignant properties for invasion and metastasis, leading
+to poor prognosis. However, as EMT is a reversible process and depends on
+tumor microenvironment, the precise role of EMT in cancer progression
+remains unclear. Inflammatory microenvironment has been shown to be
+responsible for the development and progression of colorectal cancers. To
+evaluate the implication of EMT in the inflammation-mediated colorectal
+cancer progression, a live imaging system for EMT is needed on the in
+vitro and in vivo experiments. In this study, we generated the
+EMT-detectable colorectal cancer cells by introducing mesenchymal cell
+marker promoter-driven fluorescence protein expression vector, and
+investigated whether inflammation-induced EMT is detectable in
+vitro.Methods: To generate the EMT-detectable colorectal cancer cells
+HCT116-VIM635, human colorectal cancer cell line HCT116 was stably
+transfected with vimentin promoter-driven red fluorescence protein
+TurboFP635 expression vector. EMT was induced in HCT116-VIM635 cells by
+treatment with inflammatory cytokines, IL-1 (1 ng/ml) and TNF- (20
+ng/ml), or by co-culture with mouse macrophage cell line RAW264.7 in the
+presence of lipopolysaccharide (LPS) (200 ng/ml). The time-lapse live
+imaging was observed by confocal laser scanning microscope. Migration and
+invasion properties were examined by transwell chamber assays. The
+fluorescence intensity was measured by microplate reader and flow
+cytometric analysis. The expression of EMT-related markers was assessed
+by Western blot analysis.Results: Administration of IL-1 or TNF- induced
+the TurboFP635 expression in consistent with morphological change like
+mesenchymal phenotype in HCT116-VIM635 cells. Removal of these
+inflammatory cytokines attenuated the TurboFP635 expression and
+morphological change in HCT116-VIM635 cells, suggesting the detection of
+reverse EMT process in these cells. Inflammatory cytokines also induced
+the migration and invasion properties and the expression of EMT-related
+markers in HCT116-VIM635 cells. Moreover, co-culture with RAW264.7 cells
+stimulated with LPS also induced the TurboFP635 expression and
+morphological change as well as inflammatory cytokines in HCT116-VIM635
+cells.Conclusions: Our results suggest that this unique live imaging
+system for EMT has a great potential to detect reversible EMT process
+during inflammation-induced cancer progression. This system would be
+useful strategy to assess the role of EMT during inflammation-mediated
+cancer progression in vivo.
+

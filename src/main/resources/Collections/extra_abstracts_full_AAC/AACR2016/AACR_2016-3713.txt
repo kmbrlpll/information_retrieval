@@ -1,0 +1,31 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Targeting alternative DNA repair pathways for cancer cell killing
+with heavy ion particles
+
+
+Heavy ion therapy is a promising approach for cancer treatment,
+particularly for locally advanced solid tumors. High linear energy
+transfer (LET) radiation induces greater lesions density in close
+proximity (clusters) compared that in low-LET radiation. Such clustered
+DNA damage is thought to be more difficult to repair than isolated DNA
+damage produced by equivalent doses of low-LET radiation and persist
+longer in irradiated cells. It has been known that homologous combination
+contributes to the repair of clustered DNA damage other than classic
+non-homologous end-joining (NHEJ). DNA double-strand breaks are also
+repaired by an alternative NHEJ pathway with PARP1, DNA ligase III and
+Mre11. This alternative pathway is error prone and contributes to genomic
+instability, such as chromosomal translocation and telomere fusion.
+Genetic analysis of tumors in TCGA database revealed that these genes are
+amplified in human tumors and their overexpression is correlated with
+poor overall survival of cancer patients. However, influence of
+alternative NHEJ pathways on the relative biological effectiveness (RBE)
+of heavy ions remains unclear. Here we investigated the effect of PARP-1
+and DNA ligase III on RBE of heavy ion particles on cell survival and
+chromosomal aberration in breast cancer cells and pancreatic cancer
+cells. Cells were irradiated with X-ray, Carbon (290 MeV/n, 13 KeV/M) and
+Iron (1 GeV/n, 150 KeV/M). We found that overexpression of PARP-1 and DNA
+ligase III increased RBE of carbon and iron. PARP inhibitor reduced
+chromosomal aberration induced by heavy ions. This study may provide
+predictor of radiation responsive of tumor cells from cancer patients
+that would lead to patient stratification for heavy ion therapy selection
+

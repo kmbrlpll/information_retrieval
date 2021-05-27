@@ -1,0 +1,33 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Highly sensitive and cost-effective detection of somatic cancer
+variants using single-molecule, real-time sequencing
+
+
+Next-Generation Sequencing (NGS) technologies allow for molecular
+profiling of cancer samples with high sensitivity and speed at reduced
+cost. For efficient profiling of cancer samples, it is important that the
+NGS methods used are not only robust but also capable of accurately
+detecting low-frequency somatic mutations. Single Molecule, Real-Time
+(SMRT) Sequencing offers several advantages, including the ability to
+sequence single molecules with very high accuracy (>QV40) using the
+circular consensus sequencing (CCS) approach. The availability of
+genetically defined, human genomic reference standards provides an
+industry standard for the development and quality control of molecular
+assays for studying cancer variants. Here we characterize SMRT Sequencing
+for the detection of low-frequency somatic variants using the
+Quantitative Multiplex DNA Reference Standards from Horizon Diagnostics,
+combined with amplification of the variants using the Multiplicom Tumor
+Hotspot MASTR Plus assay.First, we sequenced a reference standard
+containing precise allelic frequencies from 1% to 24.5% for major
+oncology targets verified using digital PCR. This reference material
+recapitulates the complexity of tumor composition and serves as a
+well-characterized control. The control sample was amplified using the
+Multiplicom Tumor Hotspot MASTR Plus assay that targets 252 amplicons
+(121-254 bp) from 26 relevant cancer genes, which includes all 11
+variants in the control sample. We also sequenced a second sample
+containing a series of mixes, each with known mutations, at levels below
+10% and down to 0.01%. PCR-amplified targets were sequenced and analyzed
+using SMRT Sequencing to identify the variants and determine the observed
+frequency. The random error profile and high-accuracy CCS reads make it
+possible to accurately detect low-frequency somatic variants.
+

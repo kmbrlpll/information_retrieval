@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: MR prediction of tumor burden in Patient-Derived Mouse Xenografts
+model of glioblastoma using an adaptive model
+
+
+Introduction: In human glioblastoma multiforme (GBM), infiltrating cells
+are found in remote locations, even in the hemisphere contralateral to
+the primary lesion. Magnetic Resonance Imaging (MRI) allows approximation
+of the extent of tumor cell infiltration. However, the actual extent of
+infiltration may be greater or less than the edema, and there is no
+standard MRI practice that allow exploring the infiltrating tumor burden.
+This pilot study investigates the feasibility of using a set of MR
+modalities for the development of an MRI estimate of infiltrating tumor
+burden in Patient-Derived Mouse Xenografts model of GBM using an adaptive
+model.Material and Methods: 8 mice implanted with GBM CSC HF2927 were
+studied. MRI studies were performed in a Direct Drive Varian 7 Tesla. The
+following image sets were acquired: high-res. T1-weighted; T2-weighted
+(TE/TR = (20, 40, 60, 80)/3000 ms); MT-weighted fast spin-echo. Magnevist
+(0.25 mmol/kg i.p) was injected about 5 minutes before the post-contrast
+T1-weighted image set was acquired. The animal was sacrificed immediately
+after MRI and stained for the presence of human GBM cells. We used the
+following MRI sequences to establish a basis set for training the AM:
+pre- and post-contrast (Magnevist, I.P.) T1-weighted, 4-echo T2, MT,
+3-direction, 3 b-value diffusion-weighted. Maps of T2 and proton density
+(T2-PD) were produced by fitting the T2 data. The histology image was
+warped and co-registered to the T2-PD image using mouse brain anatomical
+landmarks. MR image sets were normalized to the white matter area of the
+brain, and each voxel profile extracted from the 9 image set was
+normalized to the summation of two normalized T2 images (echo 2 and 3),
+following which the normalized profile along with the co-registered
+histology was used for training and testing of an artificial neural
+network (ANN) with Multi-Layer perceptron architecture to predict the
+presence of local tumor burden in form of tumorous cell density.Results
+and Conclusions: The ANN was successfully trained and validated using
+K-Fold Cross Validation technique (KFCV) and the 9 MR modalities as its
+input set. Results imply that the chosen MRI feature set contains
+adequate information content for training the ANN. The predictive power
+of the ANN was 0.81. The correlation coefficient for the association
+between the predicted map and histology was 0.85. Given the success of
+training an ANN to predict infiltrating tumor burden, it may be possible
+to identify similar or different basis set of MRI images that can
+robustly predict both infiltrating and solid tumor burden in human GBM.
+

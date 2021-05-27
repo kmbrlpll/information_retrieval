@@ -1,0 +1,78 @@
+Meeting: 2016 AACR Annual Meeting
+Title: TRAC, a novel time and cost saving gene expression analysis
+technology with improved efficacy
+
+
+Gene expression analysis in the oncology space is largely performed with
+the classic and widely accepted methods real-time RT-PCR, microarray and
+next generation sequencing. These technologies are, however, too time
+consuming and expensive to be used in large scale screens with high
+sample numbers. TRAC (Transcription analysis with the aid of Affinity
+Capture) technology provides a solution for focused gene expression
+screening with unique combination of multiplex analysis, high-throughput
+sample processing, high precision and flexibility. Lysates of cells or
+tissues are directly applicable as sample material in TRAC assay without
+RNA extraction or cDNA conversion. The assay enables detection of up to
+30 targets per sample and 96 samples per assay with 3-4h run time. In
+TRAC assay, each target mRNA of interest is recognized by a specific
+labeled ssDNA probe. Probes with different lengths and labels can be used
+for high-level of multiplexing. Hybridization of probes and targets takes
+place in solution, after which the probe-transcript complexes are
+captured by streptavidin coated magnetic beads. Unbound material is
+washed off and the probes are eluted for detection. The probes are then
+detected and quantified by capillary electrophoresis, which resolves the
+probes according to both size and fluorescence. The aim of this study was
+to apply TRAC assay to analyze the expression fingerprints of 20 gene
+markers related to angiogenesis, cell adhesion, protease activity and
+plasminogen activation, in cultured cells treated with different drug
+candidates. The expression of the target genes was analyzed from four
+different colon cancer cell lines (COLO, HT-29, CaCo2, DLD) to study
+culture age dependent effects and responses to drug candidates. Out of
+the 20 genes analyzed, curcumin caused consistent variation to
+cyclooxygenase-1 (COX-1) gene expression as a function of time in all
+tested cell lines. By comparison of expression fingerprints between
+non-treated cell line cultures, altogether four genes were identified as
+being expressed at higher level in one or two of the cell lines compared
+to the others. These genes were trypsinogen (PRSS1-3) in COLO, Serine
+protease inhibitor (SPINK) in HT-29, Protease Cathepsin B (CTSB) in COLO
+and cyclin D1 (CCDN1) in DLD and CaCo2 cell lines. The data showed good
+correlation with real-time RT-PCR results and reproducibility (CV Gene
+expression analysis in the oncology space is largely performed with the
+classic and widely accepted methods real-time RT-PCR, microarray and next
+generation sequencing. These technologies are, however, too time
+consuming and expensive to be used in large scale screens with high
+sample numbers. TRAC (Transcription analysis with the aid of Affinity
+Capture) technology provides a solution for focused gene expression
+screening with unique combination of multiplex analysis, high-throughput
+sample processing, high precision and flexibility. Lysates of cells or
+tissues are directly applicable as sample material in TRAC assay without
+RNA extraction or cDNA conversion. The assay enables detection of up to
+30 targets per sample and 96 samples per assay with 3-4h run time. In
+TRAC assay, each target mRNA of interest is recognized by a specific
+labeled ssDNA probe. Probes with different lengths and labels can be used
+for high-level of multiplexing. Hybridization of probes and targets takes
+place in solution, after which the probe-transcript complexes are
+captured by streptavidin coated magnetic beads. Unbound material is
+washed off and the probes are eluted for detection. The probes are then
+detected and quantified by capillary electrophoresis, which resolves the
+probes according to both size and fluorescence. The aim of this study was
+to apply TRAC assay to analyze the expression fingerprints of 20 gene
+markers related to angiogenesis, cell adhesion, protease activity and
+plasminogen activation, in cultured cells treated with different drug
+candidates. The expression of the target genes was analyzed from four
+different colon cancer cell lines (COLO, HT-29, CaCo2, DLD) to study
+culture age dependent effects and responses to drug candidates. Out of
+the 20 genes analyzed, curcumin caused consistent variation to
+cyclooxygenase-1 (COX-1) gene expression as a function of time in all
+tested cell lines. By comparison of expression fingerprints between
+non-treated cell line cultures, altogether four genes were identified as
+being expressed at higher level in one or two of the cell lines compared
+to the others. These genes were trypsinogen (PRSS1-3) in COLO, Serine
+protease inhibitor (SPINK) in HT-29, Protease Cathepsin B (CTSB) in COLO
+and cyclin D1 (CCDN1) in DLD and CaCo2 cell lines. The data showed good
+correlation with real-time RT-PCR results and reproducibility (CV <12%)
+and functioned as proof-of-concept for suitability of TRAC for screening
+purposes. Multiplex detection with TRAC from lysates offered high
+efficiency and significant cost and time savings compared to single-plex
+qPCR assay in large scale evaluation of drug candidates.
+

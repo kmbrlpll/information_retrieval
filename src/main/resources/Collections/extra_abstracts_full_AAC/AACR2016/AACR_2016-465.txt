@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: CD44 as a potential therapeutic target and prognosis marker for
+glioblastoma
+
+
+Glioblastoma (GBM) is a common and very aggressive primary brain tumor
+with no cure. The current diagnosis relying on magnetic resonance
+imagining, computed tomography, and biopsy is a very expensive and
+aggressive process. More effective therapeutic strategies such as target
+therapies and simplified early diagnosis tools are urgently needed for
+GBM management and prognosis. As recent reports suggest that GBM
+expresses CD44, a type-I transmembrane glycoprotein, is a marker of
+cancer stem cell and therapy resistance, with a goal of identifying a
+therapeutic target and a prognosis maker for GBM, we analyzed several
+data sets previously detected by microarrays using an online R2 Genomics
+analysis and visualization platform (http://r2.amc.nl). Through examining
+of the expression levels of CD44 in the tissues of normal cerebellum
+(without brain tumor) and in GBM tissues, we find that the expression
+level of CD44 in GBM is higher than that in non-brain tumor tissues.
+Comparing the expression levels of CD44 in Primary and recurrent GBMs,
+GBM cell lines, neuron stem cell lines, and normal cortex tissues, we
+observe that the expression levels of CD44 in recurrent GBMs are higher
+than primary GBMs; the CD44 levels in GBM cell lines are similar to
+neuron stem cell lines which are significantly higher than that in the
+normal cortex tissues. We further evaluated the correlation of CD44
+levels with patients overall survival in 4 available complete data sets
+in the R2 database, including 2 from The Cancer Genome Atlas (TCGA)
+database. We show that an elevated level of CD44 in GBM is associated
+with a short overall survival time although variations exist from cohort
+to cohort. In addition, we studied the effect of p53 status on CD44
+expression, we reveal that CD44 level is higher in the GBMs carrying p53
+mutation compared to those with wild-type p53. Taken together, these
+results indicate that CD44 could be a potential therapeutic target of GBM
+and the expression level of CD44 in the GBM may be an indicator of poor
+outcome for patients with GBM.
+

@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Efficient antigen presentation and induction of anti-tumor
+immunity by dendritic cells loaded with antigens by electroporation
+
+
+For successful dendritic cell (DC) therapy of cancer, it is important to
+choose the optimal method to load DCs with antigens to induce higher
+anti-tumor immunity, particularly tumor-specific CTL responses. The
+co-incubation (Co) method is conventionally used to load DCs with tumor
+antigens in DC therapy. Although DCs could uptake tumor antigens by
+endocytosis in this method, they are thought to be processed in lysosome
+and presented mainly on MHC class II, but not efficiently on MHC class I.
+Electroporation (Ep) is one of the promising antigen-loading method
+because it is reported that DCs could uptake much larger amount of
+FITC-dextran by Ep in comparison with Co method. In this study, we
+performed side-by-side comparisons of these two antigen loading methods
+using murine bone marrow derived DCs. First, we compared antigen
+presentation using purified ovalbumin (OVA) and OVA-specific OT-I CD8 and
+OT-II CD4 T cells. To this end, DCs were loaded with OVA by either Co or
+Ep, and subsequently cultured with T cells. Two or three days later, T
+cell expansion and cytokine production were evaluated. As expected,
+OVA-Co-DCs induced moderate expansion and cytokine production of OT-II T
+cells, but had little effect on OT-I T cells. In contrast, OVA-Ep-DCs
+potently stimulated both OT-I and OT-II T cells to expand and produce
+cytokines, such as IL-2 and IFN-. Using monoclonal antibody specific for
+MHC class I/OVA peptide complex, we confirmed efficient presentation of
+the OVA peptide on MHC class I by OVA-Ep-DCs. Furthermore, when we used
+the lysate of EG7 tumor cell line (OVA gene-transfected) as antigen
+instead of purified OVA, Ep-DCs induced expansion of both OT-I and OT-II
+T cells efficiently compared with Co-DCs. In the case of Alexa488-OVA,
+unexpectedly, similar amounts of uptake were seen in Ep-DCs and Co-DCs by
+FCM analysis. By using confocal microscopy, however, there was a critical
+difference of intracellular localization of Alexa488-OVA. Although
+Alexa488-OVA was localized in intracellular vesicles of both DCs, the
+cytosolic localization was observed only in Ep-DCs, suggesting that
+antigen loaded by Ep entered cytosol of DCs and would be processed by
+proteasome and presented on MHC class I efficiently. Finally, to
+determine the ability of these DCs to induce anti-tumor immunity in vivo,
+mice were subcutaneously immunized twice at 7 days intervals with 3-5 x
+105 cells of either OVA-Ep-DCs or OVA-Co-DCs and then challenged with 3 x
+106 of EG7 cells at 7 days after the 2nd immunization. When OVA-Co-DCs
+were used for immunization, tumor formations were partially prevented. On
+the contrary, mice immunized with OVA-Ep-DCs were almost completely
+protected from tumor formations. These results demonstrate that DCs
+loaded with tumor antigens by Ep have greater antigen presentation
+capacity, especially through MHC class I pathway, and could induce
+stronger anti-tumor immunity in vivo than those loaded by Co.
+

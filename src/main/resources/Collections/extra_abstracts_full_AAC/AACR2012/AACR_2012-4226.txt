@@ -1,0 +1,38 @@
+Meeting: 2012 AACR Annual Meeting
+Title: CD44 increases drug resistance by protecting FBXO21 mediated
+ubiquitination of P-glycoprotein
+
+
+Drug resistance and metastases are major causes of treatment failure in
+cancer. These two important but not clearly related aspects in the
+biology of cancer have been extensively studied, but not until recently
+has there been evidence that these phenotypes are functionally linked.
+Two proteins, P-glycoprotein (P-gp) and CD44 are well known determinants
+of multidrug resistance and metastases, respectively. P-gp, the product
+of the ABCBC1 gene is a transmembrane ATP-dependent transporter that
+confers drug resistance to cancer cells. CD44 is a membrane protein
+implicated in metastases and has been identified as a stem cell marker
+for various types of cancer. Previously, we reported about a physical and
+functional interaction between P-gp and CD44. We found that the two
+proteins co-immunoprecipitate and co-localize within the cell membrane.
+When we introduced CD44 into CD44 (-) breast cancer cell lines, we found
+that P-gp expression was also induced both at the mRNA and protein level
+and the cells became drug resistant. In the present work we created a
+yeast-2-hybrid system that corroborates the physical interaction between
+the two proteins. We generated point mutants of the CD44 intracytoplasmic
+domain at two different serine residues known to be phosphorylation sites
+and show that when Ser 291 of CD44 is mutated, P-gp function is
+completely inhibited and the cells revert to drug sensitive in face of
+P-gp expression. We therefore hypothesized that CD44 could be stabilizing
+P-gp. We first determined that P-gp is ubiquitinated and degraded by the
+proteasomal pathway. We then screened a siRNA E3 ligase library and found
+several candidates for P-gp E-3 ligases. We tested FBXO21, which is in
+the FBOX family of ligases and does not have a known function yet. We
+demonstrated that FBXO21 ligase binds, ubiquitinates, and degrades P-gp.
+Furthermore, we show that CD44 inhibits FBXO21 directed ubiquitination of
+P-gp. Our findings are key to the understanding of P-gp induced drug
+resistance and reveal a new control mechanism of P-gp expression. Our
+work uncovers CD44 phosphorylation at Ser 291 as an excellent and very
+specific new drug target that would distinctively affect drug resistant
+cancer cells that are CD44 positive, such as cancer stem cells.
+

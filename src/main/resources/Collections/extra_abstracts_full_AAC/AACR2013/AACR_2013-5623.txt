@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Extracellular thiols and system xc play a significant role in
+non-targeted in vitro activity of a folate-tubulysin B conjugate.
+
+
+Several folate-targeted small-molecule drug conjugates (SMDCs) are under
+development for the treatment of folate receptor-positive (FR+) cancer.
+To date, all clinical SMDCs have been constructed with a disulfide-based
+linker strategically placed in between the targeting ligand (e.g. folate)
+and the therapeutically active drug. At least for SMDCs, the disulfide
+linker remains relatively stable in circulation, but it rapidly breaks
+once the SMDC enters the reductive endocytic process within the targeted
+cell. While this structural design has proven to be successful for
+folate-based SMDCs constructed with mitomycins, maytansinoids, vinca
+alkaloids, and epothilones, the development of a more potent
+folate-tubulysin B conjugate (herein called EC0531) has revealed a
+non-FR-specific component related to in vitro cytotoxic activity,
+particularly at drug concentrations exceeding that required to saturate
+the FR. Rationalizing that the potential instability of the disulfide
+linker may contribute to this effect, we explored the impact of
+extracellular thiols on non-FR-specific activity of EC0531. Thus, when KB
+cells (FR+) and A549 cells (FR) were co-treated with high-dose EC0531 (1
+M) in the presence of cell-impermeable thiol inhibitors, such as
+5,5-dithiobis(2-nitrobenzoic acid) (DTNB) or N-(2-carboxyethyl)maleimide
+(NCEM), non-FR-specific cytotoxicity was inhibited along with reduced
+non-specific uptake of 3H-EC0531 (tritium in the tubulysin moiety). We
+next found that independent of cell type or FR expression status,
+eliminating cystine and glutathione from the incubation medium
+significantly attenuated the non-specific activity of EC0531; this
+maneuver also significantly reduced the cellular efflux of extracellular
+thiols, such as cysteine, which we confirmed is the predominant thiol
+released by the cell, and at levels reaching 11-42 M (for KB and A549
+cells, respectively) following only a 2-hour conditioning period at 37C.
+System xc is a cystine/glutamate antiporter which has been shown to be
+involved in regulating the extracellular redox state of the
+cysteine/cystine couple in vitro. Thus, using system xc inhibitors (e.g.
+sulfasalazine), we observed significant reductions in: (i) extracellular
+thiol activity; (ii) uptake of 3H-EC0531 (i.e. 3H-tubulysin); and (iii)
+non-specific activity of EC0531. Finally, siRNA-mediated knockdown of xCT
+(the functional subunit of system xc) also caused dramatic reduction of
+extracellular thiol activity as well as reduced non-FR-mediated activity
+of EC0531. Taken together, our data support the involvement of
+extracellular thiols (mainly cysteine) in the extracellular reduction of
+disulfide-containing SMDCs to release the active drug payload which, in
+turn, may allow for non-specific drug uptake and possible activity,
+especially when the extracellular SMDC concentration is exceedingly high.
+

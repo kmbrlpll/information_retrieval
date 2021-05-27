@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Transcriptional landscape of lung squamous cell carcinoma in
+Northeast Asian patients
+
+
+Lung Squamous Cell Carcinoma (LSCC), the second most prevalent type of
+lung cancer, is known to have different genetic and epigenetic
+characteristics from lung adenocarcinoma. Molecular pathogenesis remains
+to be elucidated to identify therapeutic targets, especially for patients
+with no driver mutations identified in previous studies. In this study,
+we obtained RNAs from fresh tissue of 101 patients of LSCC, and its
+paired normal site. RNA-seq was performed with paired-end sequencing of
+HiSeq2000. The average throughput uniquely mapped to the human genome
+reference was 10Gbp per sample. Differentially expressed genes showed
+higher expression in HOX families, FOXL2, SOX2, FGFR3, JAK3, and ALK. In
+contrast, WIF1, RSPO2, ROS1, TAL1, PRDM16 was down regulated in tumor
+cells. To subgroup patients with their driver mutation, somatic mutation
+have been detected with comparison to normal paired samples, filtering
+with MAFLung Squamous Cell Carcinoma (LSCC), the second most prevalent
+type of lung cancer, is known to have different genetic and epigenetic
+characteristics from lung adenocarcinoma. Molecular pathogenesis remains
+to be elucidated to identify therapeutic targets, especially for patients
+with no driver mutations identified in previous studies. In this study,
+we obtained RNAs from fresh tissue of 101 patients of LSCC, and its
+paired normal site. RNA-seq was performed with paired-end sequencing of
+HiSeq2000. The average throughput uniquely mapped to the human genome
+reference was 10Gbp per sample. Differentially expressed genes showed
+higher expression in HOX families, FOXL2, SOX2, FGFR3, JAK3, and ALK. In
+contrast, WIF1, RSPO2, ROS1, TAL1, PRDM16 was down regulated in tumor
+cells. To subgroup patients with their driver mutation, somatic mutation
+have been detected with comparison to normal paired samples, filtering
+with MAF<0.01 of Northeast Asian Population, 1KG, and ExAC 65000 exomes.
+The average number of nonsynonymous somatic mutation was 49.63 per
+sample. Sixty-seven patients had somatic mutation in TP53, CDKN2A,
+NFE2L2, and PIK3CA. This was relatively small compared to patients from
+TCGA, mainly consisting of Western population. After excluding 4 patients
+identified to be close to normal cells by PCA analysis of expression
+pattern, and 2 other patients suspected to be false classified from
+adenocarcinoma presenting mutation in EGFR (L858R) and KRAS (G12D), 28
+patients remained to be elucidated. No EGFR, ALK, RET, FGFR3, TACC fusion
+have been found, suggesting novel isoform of transcripts or other
+mechanisms driving carcinogenesis.
+

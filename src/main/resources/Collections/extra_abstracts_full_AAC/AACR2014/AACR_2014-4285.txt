@@ -1,0 +1,60 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Structural variant breakpoint detection in advanced colorectal
+cancer
+
+
+IntroductionDevelopment of colorectal cancer (CRC) is accompanied by
+genomic alterations that drive tumor initiation and progression. Gains
+and losses of large chromosome segments result in DNA copy number
+alterations and subsequently quantitative changes in mRNA and protein
+expression levels. Interestingly, the accompanying chromosome breakpoints
+represent structural variants (SV) that may affect gene architecture and
+thereby normal gene function.AimThe aim of this study was to identify
+recurrent SV breakpoints in advanced CRC.MethodsPreviously a series of
+352 advanced CRC samples from CAIRO and CAIRO2 clinical studies [Koopman
+et al. Lancet 2007; Tol et al. N Engl J Med 2009] was characterized for
+genome-wide DNA copy number alterations. DNA from formalin-fixed
+paraffin-embedded (FFPE) tumor and patient-matched normal tissue was
+subjected to high-resolution array-Comparative Genomic Hybridization
+(Agilent 180K arrays). Using these data, we now determined the prevalence
+of recurrent breakpoints in genes in CRC by computational analysis. In
+addition, multiplexed amplicon analysis involving 48 cancer-related genes
+(Illumina TruSeq Amplicon Cancer Panel) was applied to determine mutation
+frequencies. Multi-Dendrix was used to identify modules of (mutually
+exclusively mutated) cancer driver genes.ResultsWe identified 748
+recurrent SV breakpoints in genes (FDRIntroductionDevelopment of
+colorectal cancer (CRC) is accompanied by genomic alterations that drive
+tumor initiation and progression. Gains and losses of large chromosome
+segments result in DNA copy number alterations and subsequently
+quantitative changes in mRNA and protein expression levels.
+Interestingly, the accompanying chromosome breakpoints represent
+structural variants (SV) that may affect gene architecture and thereby
+normal gene function.AimThe aim of this study was to identify recurrent
+SV breakpoints in advanced CRC.MethodsPreviously a series of 352 advanced
+CRC samples from CAIRO and CAIRO2 clinical studies [Koopman et al. Lancet
+2007; Tol et al. N Engl J Med 2009] was characterized for genome-wide DNA
+copy number alterations. DNA from formalin-fixed paraffin-embedded (FFPE)
+tumor and patient-matched normal tissue was subjected to high-resolution
+array-Comparative Genomic Hybridization (Agilent 180K arrays). Using
+these data, we now determined the prevalence of recurrent breakpoints in
+genes in CRC by computational analysis. In addition, multiplexed amplicon
+analysis involving 48 cancer-related genes (Illumina TruSeq Amplicon
+Cancer Panel) was applied to determine mutation frequencies.
+Multi-Dendrix was used to identify modules of (mutually exclusively
+mutated) cancer driver genes.ResultsWe identified 748 recurrent SV
+breakpoints in genes (FDR<0.1). The highest frequency of recurrent
+breakpoints was detected in MACROD2, in up to 40% of CRC samples. Most
+recurrent breakpoints occurred in less than 5% of all tumors, and have
+not been reported before in CRC. Mutation frequencies in APC, TP53 and
+KRAS were conform expectations (60%, 58%, and 48%, respectively).
+Multi-Dendrix analysis revealed modules of cancer driver genes that
+included both the commonly mutated CRC cancer genes as well as genes with
+recurrent breakpoints, suggesting that several of the SV breakpoint genes
+are candidate drivers of the carcinogenic process.ConclusionsWe were able
+to pinpoint the prevalence of 748 recurrent SV breakpoint regions in
+genes using array-CGH data from 352 CRC samples. Moreover, our studies
+revealed several breakpoints in genes that are mutually exclusive with
+the commonly mutated APC, KRAS, and TP53 genes, and therefore represent
+novel candidate cancer driver genes. Further studies are required to
+investigate their functional and clinical significance.
+

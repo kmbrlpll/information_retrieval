@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Regulation of 18F-fluorothymidine uptake by thymidine kinase 1
+protein phosphorylation.
+
+
+Uncontrolled cell proliferation is a hallmark of cancer and its
+inhibition is desired in cancer therapy. The most widely used radiotracer
+for proliferation is 18F-fluorothymidine (18F-FLT). To be retained in
+cells, 18F-FLT is phosphorylated to thymidylate (dTMP) by thymidine
+kinase 1 (TK1), the rate limiting step in the salvage pathway for DNA
+synthesis. We studied TK1 protein phosphorylation in mammalian cells,
+hypothesising that TK1 is subject to different phosphorylations through
+the cell cycle, which are responsible for the regulation of its activity,
+therefore modulating 18F-FLT uptake, particularly during G2/M. Using
+phos-tag acrylamide gels we isolated three forms of phosphorylated TK1,
+one of which was present throughout the cell cycle, but increased during
+S and G2/M phases, and two phosphorylated forms that appeared upon G2/M
+arrest. The implications of these phosphorylations on 18F-FLT uptake were
+tested by conducting FLT cell uptake studies after treating HCT116 human
+colon cancer cells with cell cycle-arresting drugs. A marked reduction of
+radiotracer uptake was observed in cells arrested in S phase
+(aphidicolin) or G2/M phase (nocodazole and paclitaxel), confirming
+previous findings regarding TK1 phosphorylation during G2/M being
+responsible of reduced enzymatic activity. Transient transfection of Ost
+TK1- cells with FLAG-pCMV vectors encoding WT, S13A, S13D or S231A TK1
+suggested that S13 phosphorylation occurs throughout the cell cycle and
+increases upon G2/M arrest after treatment with nocodazole or paclitaxel.
+Substitution of S231 with alanine (S231A) was linked to G2/M-specific
+phosphorylation of TK1. Further experiments were performed to assess the
+role of the two serine phosphorylations on 18F-FLT cell uptake. There was
+a significant reduction in 18F-FLT uptake in S13A transfected cells
+compared to WT. S13D and S231A plasmids rescued 18F-FLT uptake almost to
+levels seen in WT cells, supporting the relevance of S13 and S231
+phosphorylation for TK1 enzymatic activity. Nocodazole induced G2/M
+arrest further reduced 18F-FLT uptake, even in S231A transfection,
+implicating phosphorylation sites other than those studied here in the
+reduced TK1 activity. 18F-FLT-PET imaging of HCT116 tumour-bearing nude
+mice 24h after treatment with 40 mg/kg paclitaxel indicated a significant
+reduction in tumour 18F-FLT uptake, which correlates with the
+G2/M-induced reduction in TK1 activity as a result of TK1
+phosphorylation. Our present study demonstrates the presence of at least
+three phosphorylated forms of TK1, which are responsible for the
+post-translational regulation of TK1 activity, and demonstrates the
+effect of these modifications on the uptake of 18F-FLT.
+

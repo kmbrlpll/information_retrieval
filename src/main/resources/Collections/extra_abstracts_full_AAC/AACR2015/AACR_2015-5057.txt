@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Single-cell RNA-seq analysis of heterogeneous populations within
+gastroenteropancreatic neuroendocrine tumors: the role of Sox
+transcription factors
+
+
+Gastroenteropancreatic neuroendocrine tumors (GPNETs) are rare, with
+8,000-estimated cases/year in the United States. Several transcriptome
+analyses have been performed at the population level, but the
+heterogeneity of these tumors has never been assessed at the single cell
+level. Moreover, few genetic mutations have been consistently linked to
+the origin and progression of GPNETs and prognostic biomarkers are
+greatly lacking. The most commonly reported familial mutations in GPNETS
+are found in the Multiple Endocrine Neoplasia type 1 gene (MEN1) or Von
+Hippel-Lindau's gene (VHL). Similar to other neoplasias, we would expect
+that a combination of mutations drive the malignant transformation in
+GPNETs. We are interested in assessing the role of Sox factors in GPNET
+initiation and progression, particularly Sox4 and Sox9. These Sox factors
+are expressed in stem and progenitor cells in the gastrointestinal tract.
+Using a Sox9EGFP mouse, we have shown that Sox9 is expressed at
+differential levels in stem and progenitor cells, demonstrating high
+expression in a cell population consistent with long-lived secretory
+progenitor cells with endocrine and stem cell like properties. Other
+studies from our lab and others point at the role of Sox4 and Sox9 in
+differentiation of intestinal/pancreatic progenitors and endocrine cells.
+Based on these observations, we hypothesize that differential levels of
+Sox factors mark cells with different potential to initiate carcinoids
+with an underlying secretory signature, consistent with that of GPNET.
+Using histological analysis, we assessed the expression of Sox 4/9 in
+samples from 20 GPNETs patients and we found that the majority exhibited
+heterogeneity within the tumor. We further confirmed that these tumors
+expressed putative GPNET markers such as CHGA, serotonin and substance P
+among others. To gain a more global understanding of the genetic
+heterogeneity present in these tumors, we performed single-cell RNA-seq
+analysis from a GPNET patient. Consistent with histological analysis, we
+also observed heterogeneous levels of several Sox Transcription Factors,
+including Sox4 and Sox9. These data provided insight into the pathways
+that may be responsible for GPNET initiation and progression. Notable
+genes highly expressed include markers of stemness, endocrine progenitor
+cells, endocrine secretion/differentiation, immune subpopulations and
+cytokine production. These data also elucidated some potential targets
+for immunotherapies such as IL-10. Through collaborations with 3
+different hospitals, we now have access to at least 24 more fixed/fresh
+GPNET tissues and we are currently focusing our efforts on the
+confirmation of our findings. Our results suggest the potential use of
+single-cell RNA-seq analysis to untangle the pathways that drive the cell
+populations present in the invasive and proliferative front of GPNETs.
+

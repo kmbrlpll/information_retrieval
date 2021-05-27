@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Rapid discovery of novel antiangiogenic drugs using a phenotypic
+profiling platform with high predictive value for preclinical models of
+cancer
+
+
+Deregulation of angiogenesis plays a major role in a number of human
+diseases, most notably cancer. While angiogenesis inhibitors are
+promising anticancer drug candidates, existing FDA approved therapeutics
+have shown limited efficacy in the clinic. The majority of angiogenesis
+inhibitors under clinical development have been designed with the help of
+high-throughput screening techniques targeting single molecular moieties.
+These methods have proven effective but it has been long recognized that
+they lack correlation with activity in preclinical models of cancer which
+results in high levels of attrition during early stages of drug discovery
+and phase II clinical trials. We propose that multi-parameter analysis
+discovery methods are required to capture and translate the tumor
+angiogenesis complexity into the drug discovery process. Here we
+introduce a novel high-content cell-specific fluorescence platform for
+discovery of antiangiogenic agents with highly predictive value for
+preclinical end points. We have validated this technology by screening
+the 1970 small molecules of the NCI Developmental Therapeutics Program
+Diversity Set. This platform features a primary screening based on high
+content growth and tube formation assays using VEGFR2-nonexpressing,
+fluorescent-reporter endothelial cells. Over 30 morphological parameters
+were quantitatively assessed in the tube formation assays in an automated
+fashion with the newly developed image analysis software
+AngioApplication. 2.3% (46) of all the small molecules in the library
+showed growth inhibitory activity, 3.5% (70) significantly blocked tube
+formation and 0.5% (11) demonstrated both activities. None of the lead
+compounds were found to interfere with tubulin polymerization or
+inhibited receptor tyrosine kinase activity. Seven lead compounds were
+evaluated in a leiomyosarcoma xenograft model of angiogenesis. All showed
+anti-tumor activity, and two of the compounds (CID 5458317 and CID
+429599) blocked tumor growth with comparable efficacy as bevacizumab. An
+antiangiogenic score computed based on tube formation assessment and gene
+expression profiling was highly predictive of tumor growth inhibition in
+vivo. The antiangiogenic mechanism of action of these compounds was
+validated using tumor onplants on chicken chorioallantoic assays which
+consistently tracked observations in xenograft models. Intravital
+microscopy assessment of xenograft tumors treated with CID 5458317 showed
+massive leakiness and vascular regression of tumor vasculature but not in
+adjacent normal vasculature. In conclusion, we have developed a drug
+discovery phenotypic screening platform which shows high predictive value
+for preclinical models of cancer. Using this platform, several small
+molecules with novel antiangiogenic mechanisms of action have been
+identified.
+

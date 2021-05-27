@@ -1,0 +1,29 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Design and engineering of TRAIL fusion proteins for cancer therapy
+
+
+Protein-based agonists of apoptotic death receptors have shown remarkable
+preclinical efficacy but limited clinical response. The short circulating
+half-life of recombinant human TRAIL and the necessity of Fc-mediated
+clustering for potentiating agonistic antibodies against DR4 and DR5 have
+been proposed to be major impediments to the clinical success of this
+class. To address these limitations we have created Fc-scTRAIL, a single
+fusion polypeptide consisting of an IgG1 Fc region followed by three
+successive TRAIL monomers connected by two fifteen-amino acid linkers.
+While Fc-scTRAIL showed potent activity in vitro, we observed a low TM
+(48 C) and rapid inactivation in serum indicating protein instability.
+Subsequently, we applied a directed evolution approach using yeast
+surface display to identify mutations that would stabilize the TRAIL
+trimer. When individual mutations were transferred to the Fc-scTRAIL
+format, we observed a dramatic increase in the TM (66-70 C) while the
+combination of three mutations improved serum stability by ten-fold.
+Stabilized Fc-scTRAIL shows greater pro-apoptotic activity across a panel
+of cancer cell lines when compared to mapatumumab (anti-DR4) and
+drozitumab (anti-DR5), or the combination of antibodies even in the
+presence of anti-Fc cross-linking. Moreover, anti-Fc did not improve
+Fc-scTRAIL activity suggesting that the hexavalent design of the molecule
+maximizes death receptor activation. Currently, in vivo evaluation of
+Fc-scTRAIL for pharmacokinetic properties and activity is underway. We
+believe this format, when combined with an appropriate patient selection
+strategy, will result in improved clinical outcomes.
+

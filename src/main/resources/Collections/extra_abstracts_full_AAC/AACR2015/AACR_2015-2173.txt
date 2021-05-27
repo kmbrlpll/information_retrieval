@@ -1,0 +1,32 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Robust estimation of mutation burden
+
+
+Developing a more robust approach to measure mutational burden is of
+central importance to improving the characterization of the molecular
+profile of tumor and may improve our ability to predict tumor progression
+or response to therapy in patients. Mutational burden is typically
+calculated as a direct enumeration of called somatic mutations per
+megabase covered. However, there is a growing appreciation that tumor
+purity, variable sequencing coverage, and copy number alterations can
+substantially impact the accurate identification any specific somatic
+mutation. Furthermore, population genetic theory and empirical data
+indicate that in many cases the vast majority of somatic mutations appear
+in only a small subpopulation of tumor cells, a context in which there is
+a high likelihood that an individual subclonal mutation may not be
+identified by conventional analysis. This tendency to miss low frequency
+mutations is highly variable and dependent, in part, upon sample purity
+and results in a strong source of bias not addressed in existing methods
+to measure variant allele frequencies.We present a novel computational
+method that incorporates these sources of bias in a coherent
+probabilistic framework that enables maximum-likelihood inference of
+relevant population parameters such as mutation burden. We apply our
+method to simulated data as well as patient tumor samples diluted with
+varying known proportions of normal DNA. We show that our approach allows
+us to generate estimates of mutation burden that are robust to the
+substantial variations in purity and sequencing coverage that are
+frequently encountered in patient tumor analysis. Hence, our novel method
+may improve the accurate detection and quantification of variant alleles
+in patient tumors to better understand their genetic landscape and guide
+clinical management.
+

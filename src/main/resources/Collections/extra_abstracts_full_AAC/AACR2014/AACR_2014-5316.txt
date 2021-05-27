@@ -1,0 +1,43 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Quantitative cancer analysis using digital PCR: Absolute counting
+of DNA (solid tumors and liquid biopsies in glioma, breast, and colon
+cancer) and RNA (mRNA and miRNA using One-Step RT-dPCR)
+
+
+Background:There is a need for more accurate and sensitive methods to
+quantify nucleic acids present in precious samples and non-invasively
+collected liquid biopsy material. Digital PCR (dPCR) is one technology
+with recent advances in automation, enabling researchers to sensitively
+quantify a sample's nucleic acids by adding up digital fluorescent counts
+of single target molecules. Particularly exciting are the emerging uses
+of cell-free nucleic acids found in peripheral body fluids for dynamic
+measurements of total body mutational burden of heterogeneous cancers,
+potentially reducing the need for multiple invasive tumor biopsies. In
+addition, combined measurement of mRNA and miRNA RNA biomarkers from a
+single sample, for example from cell-free exosomes, is of clinical
+interest. Here we present results from several studies using dPCR for DNA
+and cDNA molecule counting with various cancers, as well as in a first
+time demonstration quantifying RNA directly with multiple miRNA species,
+and mRNA together with miRNA.Method & Results:Picoliter droplet digital
+PCR was used to perform single molecule counting. Standard qPCR assay
+reagents for each target were combined in duplex or multiplex formats
+together with samples, and partitioned into millions of 5 picoliter-sized
+droplets on a RainDance RainDropTM dPCR system. Each sample was then
+thermal cycled prior to digital fluorescent quantification. In separate
+studies we show quantification of mutant IDH1 mRNA (cDNA converted) in
+glioma patient cerebrospinal fluid extracellular vesicles, PIK3CA
+mutations and methylation of CyclinB2 and Retinoic Acid Receptor
+promoters in breast tumor DNA, KRAS and BRAF mutations in colorectal
+cancer plasma cell-free DNA, and multiplexed miRNA biomarkers from plasma
+(cDNA converted). In addition, we show direct quantification of mRNA
+molecules in highly precise multiplex One-Step RT-dPCR measurements
+across a wide dynamic range. Finally, we show simultaneous One-Step RT
+dPCR direct digital counting of miRNA and mRNA
+molecules.Conclusion:Droplet digital PCR is a highly sensitive and
+precise approach to quantify nucleic acids without the need for standard
+curves. With the RainDance RainDrop dPCR platform there are sufficient
+partitions and compatibility with various robust chemistries to apply
+dPCR to DNA and RNA analyses from a variety of biofluids and neoplasms,
+enabling accurate absolute counting of multiple target molecules across a
+wide dynamic range.
+

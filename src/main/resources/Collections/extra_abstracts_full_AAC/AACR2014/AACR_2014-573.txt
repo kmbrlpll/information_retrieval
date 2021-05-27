@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: BRG1-inactivating mutations as potential predictive markers for
+Aurora kinase A-targeted therapies in non-small cell lung cancers (NSCLCs)
+
+
+Purpose: Here, we sought to identify critical genes whose depletion and
+inhibition cause differential cytotoxicity in NSCLCs with BRG1 loss in
+comparison to the cells harboring wild-type BRG1.Background: The SWI/SNF
+complex is a master regulator of gene expression, affecting at least 10%
+of the transcriptome. Because of its crucial role in controlling cell
+cycle, development, differentiation and transcription, the SWI/SNF
+complex components function as tumor suppressor genes. For that reason,
+not surprisingly, the ATPases BRM and BRG1 are frequently down regulated
+in many cancers and mutations of BRG1 are frequently present in lung
+cancer cell lines.To identify BRG1-inactivating mutation-related
+targetable gene products, we developed and applied a high throughput
+cell-based one-well/one-gene screening platform with a genome wide
+synthetic library of chemically synthesized small interfering RNAs. Using
+this approach, we have identified a molecular target (BRG1) frequently
+present in lung cancer cells whose loss leads to increased sensitivity to
+a class of Aurora kinase A inhibitors.Materials, Methods and Results:
+BRG1-mutant NSCLC cell line H1819 was screened with the Dharmacon
+genome-wide library of 22,000 pools of 4 siRNA oligonucleotides,
+identifying 38 pools that were 50% more toxic than the median toxicity in
+the screen, and were not toxic for wild-type BRG1-expressing HBEC30-KT
+cells. Among our high-priority toxic siRNAs, a number of targeted genes
+encode proteins important for the cell cycle, including RAN, and TPX2.
+RAN is required for TPX2 to function in mitosis and TPX2 binds to
+microtubules and activates Aurora kinase A. Individual siRNA
+oligonucleotides targeting these hits in the primary screen, as well as
+siRNA to Aurora kinase A, were tested and shown to inhibit the growth of
+H1819 but not HBECs. In addition, H1819 cells were hypersensitive to
+VX-680, an inhibitor of Aurora kinases.We then tested a panel of other
+NSCLC cell lines that either expressed or did not express wild-type BRG1
+for sensitivity to siRNA targeting Aurora kinase A, or VX-680. The cell
+lines with loss of BRG1 were more sensitive to loss of AURKA or to VX-680
+than NSCLC or HBEC cells expressing BRG1.Our current efforts focus to
+expand our observations with xenograft mouse models and to deeply
+understand the relationship between BRG1 and AURKA.Conclusions:
+BRG1-inactivating mutations make cells dependent to RAN/TPX2-mediated
+mitotic spindle assembly machinery and create targetable mitotic
+vulnerabilities in NSCLCs.BRG1-mutant NSCLCs are sensitive to Aurora
+kinase A-targeted treatments due to its crucial role on
+RAN/TPX2-dependent mitotic spindle formation.Our current data, thus far,
+suggest that wild-type BRG1-expressing cells tolerate the inhibition of
+AURKA due to properly regulated and, therefore, functionally normal
+centrosomes whereas BRG1 loss leads to centrosomal defects.
+

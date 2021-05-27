@@ -1,0 +1,32 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Low level somatic variant detection by Sanger sequencing of
+formalin-fixed paraffin-embedded (FFPE) samples
+
+
+Deleterious sequence variants play an important role in the initiation
+and progression of many different cancer types. The detection of germline
+variants by the gold standard Sanger sequencing has been well
+established, however, the detection of somatic mutations, especially in
+heterogeneous tumor samples where variants may be present at a lower
+level, has been more challenging.To facilitate analysis of somatic
+mutations in tumor samples, we have developed Sanger sequencing panels
+that cover the entire coding regions of specific genes implicated in
+tumorigenesis (e.g. TP53, KRAS and NRAS). We have also developed
+companion software, Minor Variant Finder (MVF), that facilitates
+detection of low levels of somatic mutations in Sanger sequencing
+studies. To demonstrate the workflow of these panels with MVF, we
+analyzed DNA from lung cancer FFPE samples. We initially determined
+variants of TP53 and KRAS in these samples using Ion Torrent Personal
+Genome Machine (PGM) next generation sequencing (NGS). We confirmed the
+identity and variant allele frequency of these variants by Sanger
+sequencing coupled with MVF. Furthermore, we were able to confirm these
+results in 1 ng, 0.5 ng or 0.1 ng of DNA from these samples. Finally, we
+made serial dilutions of one of these samples to establish limit of
+detection (LOD). We show that this workflow can detect as little as 3% of
+a minor variant in an FFPE sample.Sanger sequencing is the gold standard
+for confirmation of minor variants detected by NGS. In this study, we
+show that Sanger sequencing of limited number of targets, in conjunction
+with the MVF software, can also be an ideal first line screening choice
+for tumor FFPE samples where limited amount of DNA is available.For
+Research Use only - Not for use in diagnostic procedures.
+

@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Next generation sequencing of brain metastasis in non-small cell
+lung cancer
+
+
+Introduction: Molecular analysis of non-small cell lung cancer (NSCLC)
+has provided a detailed classification of NSCLC. Activating mutations in
+the EGFR gene are both prognostic and predictive in that they are
+associated with improved survival irrespective of therapy and are
+associated with a significant response to EGFR tyrosine kinase inhibitors
+(TKIs) such as gefitinib or erlotinib. Patients with EGFR mutations show
+a significant improvement in progression free survival compared to
+standard chemotherapy. In addition, a recent study showed that ALK gene
+rearrangement was significantly associated with pericardial spread and
+pleural disease and those patients with either ALK gene rearrangements or
+EGFR mutations were predisposed to liver metastasis. These results
+support the hypothesis that the dominant molecular oncogenes in NSCLC are
+associated with different biological behaviors which manifest as distinct
+patterns of metastatic spread at the time of diagnosis. To date, no
+pattern of molecular variation has been linked to brain metastasis. Here
+we use next generation sequencing to identify a pattern of genomic
+variation associated with the development of brain metastases in NSCLC.
+Methods: Three patient groups were analyzed: samples from NSCLC patients
+who did not develop metastasis (n = 8), samples from NSCLC patients who
+developed metastasis not associated with the central nervous system (n =
+7), and brain metastasis samples of NSCLC patients (n = 16). DNA was
+isolated, and libraries prepared using Qiagen's Comprehensive Cancer
+Panel which focuses on 160 cancer-related genes. Libraries were sequenced
+on the Illumina NextSeq 500. Alignment was done using SoftGenetic's
+NextGENe with subsequent biological interpretation with Ingenuity Variant
+Analysis. Results: At the variant level, a missense mutation in CDK12
+(chr1:37686934) was found in 7 of the 16 cases with brain metastasis
+while only 1 of 8 cases with no metastasis and 0 of 7 cases with non-CNS
+metastasis had the variant. However, no other variants were found in 6
+cases of brain metastasis and 1 or less of the control cases. After
+filtering variants that occurred in more than 1 control (no metastasis or
+non-CNS metastasis), the TP53 gene was altered in 11 of the 16 cases with
+brain metastasis. This included 14 different variants with none of these
+variants present in the controls. Additionally, BRCA1 and CDK12 had
+variants in 9 cases with brain metastasis, but the variant was also
+present in 1 of the controls. Taken together, all 16 cases contained
+alterations in at least 1 gene involved in PI3K/AKT signaling including
+variants in JAK1, MTOR, TP53, TSC1, and TSC2. Conclusion: This pilot
+study has delivered valuable results to better characterize the pattern
+of genomic variants in NSCLC. While no single variant was associated with
+brain metastasis, this study implicates PI3K/AKT signaling and, in
+particular, variants of TP53 as crucial for determining the potential
+development of NSCLC brain metastasis.
+

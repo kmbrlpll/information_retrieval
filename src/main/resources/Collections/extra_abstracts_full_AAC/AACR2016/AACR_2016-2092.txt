@@ -1,0 +1,78 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Characterizing NIR dye-IL13RA2 antibody conjugates for
+biodistribution studies in xenograft tumor models by fluorescence
+molecular tomography (FMT)
+
+
+Background: The antibody based therapies are promising anti-cancer
+therapeutic modalities with minimal toxicity and maximum efficacy. The
+efficacy of these agents is regulated by their biodistribution and
+targeting. The contemporary methods of testing the biodistriution of
+large molecule drugs are expensive and tedious. The development of simple
+and rapid methodology, such as optical imaging, can enable effective
+screening of a larger number of compounds. Here we have used Fluorescence
+Molecular Tomography (FMT), an optical imaging technique to study
+biodistribution and tumor targeting of IL3RA2 antibody (Ab). Methods:
+Different near infrared (NIR) fluorophores (max:650-800nm) were
+conjugated to the Ab. The fluorophore conjugation protocol was optimized
+to achieve a degree of labeling (DOL) of 1-3 for all the conjugates. The
+properties of Ab-fluorophore conjugate (Ab-F) were compared to unlabeled
+Ab using SEC-HPLC and cell binding assays in three cell lines with
+varying expression of IL13RA2: A375(+++), U87MG(+) and H460(-). For in
+vivo evaluation, Ab-F conjugates were administered intravenously at a
+dose of 2 nmol fluorophore to nu/nu mice bearing A375. Similar studies
+were also conducted in U87MG and H460 xenografts with selected Ab-F. The
+mice were imaged longitudinally (6 time-points) for up to 96 hrs using
+FMT4000 and the data were analyzed using TrueQuant software. Results: The
+SEC-HPLC and flow cytometry studies demonstrated that conjugation of Ab
+with most of the fluorophores did not change its stability or
+functionality. The in vivo fluorescence data from all the NIR dyes showed
+a peak tumor accumulation of the Ab-F at 6h and was maintained until 96
+hrs. Quantitation of various Ab-F conjugated revealed that 2-6% of the
+injected dose was accumulated in the A375 tumors. In contrast to tumor
+profile, there was a steep decline in heart signal (a surrogate for
+blood/ plasma concentration), suggesting fast clearance from blood. The
+in vivo and ex vivo data suggested that there was 15-80pmol of Ab-F
+conjugate accumulated in the tumors at 96h. In addition, Alexa Flour
+(AF)680 and AF750 showed minimal non-specific accumulation in other
+organs, whereas VivoTag (VT)680 and BODIPY630 showed a significantly
+higher non-specific accumulation in liver. Conclusions: These results
+show that the biological properties of Ab were not changed by conjugation
+with various NIR fluorophores at DOL Background: The antibody based
+therapies are promising anti-cancer therapeutic modalities with minimal
+toxicity and maximum efficacy. The efficacy of these agents is regulated
+by their biodistribution and targeting. The contemporary methods of
+testing the biodistriution of large molecule drugs are expensive and
+tedious. The development of simple and rapid methodology, such as optical
+imaging, can enable effective screening of a larger number of compounds.
+Here we have used Fluorescence Molecular Tomography (FMT), an optical
+imaging technique to study biodistribution and tumor targeting of IL3RA2
+antibody (Ab). Methods: Different near infrared (NIR) fluorophores
+(max:650-800nm) were conjugated to the Ab. The fluorophore conjugation
+protocol was optimized to achieve a degree of labeling (DOL) of 1-3 for
+all the conjugates. The properties of Ab-fluorophore conjugate (Ab-F)
+were compared to unlabeled Ab using SEC-HPLC and cell binding assays in
+three cell lines with varying expression of IL13RA2: A375(+++), U87MG(+)
+and H460(-). For in vivo evaluation, Ab-F conjugates were administered
+intravenously at a dose of 2 nmol fluorophore to nu/nu mice bearing A375.
+Similar studies were also conducted in U87MG and H460 xenografts with
+selected Ab-F. The mice were imaged longitudinally (6 time-points) for up
+to 96 hrs using FMT4000 and the data were analyzed using TrueQuant
+software. Results: The SEC-HPLC and flow cytometry studies demonstrated
+that conjugation of Ab with most of the fluorophores did not change its
+stability or functionality. The in vivo fluorescence data from all the
+NIR dyes showed a peak tumor accumulation of the Ab-F at 6h and was
+maintained until 96 hrs. Quantitation of various Ab-F conjugated revealed
+that 2-6% of the injected dose was accumulated in the A375 tumors. In
+contrast to tumor profile, there was a steep decline in heart signal (a
+surrogate for blood/ plasma concentration), suggesting fast clearance
+from blood. The in vivo and ex vivo data suggested that there was
+15-80pmol of Ab-F conjugate accumulated in the tumors at 96h. In
+addition, Alexa Flour (AF)680 and AF750 showed minimal non-specific
+accumulation in other organs, whereas VivoTag (VT)680 and BODIPY630
+showed a significantly higher non-specific accumulation in liver.
+Conclusions: These results show that the biological properties of Ab were
+not changed by conjugation with various NIR fluorophores at DOL <3.
+Optical imaging using fluorescent tags can effectively track and
+quantitate the tumor targeting/ biodistribution of large molecule drugs.
+

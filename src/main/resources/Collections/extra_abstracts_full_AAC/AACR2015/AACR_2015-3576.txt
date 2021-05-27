@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Rictor alterations elicit non-canonical signaling mechanisms
+contributing to tumorigenicity and therapeutic resistance in non-small
+cell lung cancer (NSCLC)
+
+
+Background: Rictor (RPTOR independent companion of MTOR, complex 2) is a
+highly conserved protein and is a critical component for proper assembly
+and functionality of the mTORC2 complex. The goal of our current study is
+to characterize the functional consequences of genomic alterations of
+RICTOR in advanced refractory NSCLC. Our preliminary data suggest that
+Rictor alterations have the potential to not only signal canonically
+through AKT, but also provide cancer cells with alternate, more
+advantageous oncogenic signaling via non-canonical mechanisms.Methods: We
+correlated genomic data (DNA hybrid capture based next generation
+sequencing (NGS), Foundation Medicine, Inc.), gene expression profiling,
+and clinical outcome in the context of the ongoing BATTLE-2 clinical
+trial of targeted therapies in chemo-refractory NSCLC (198 cases). We
+further (1) surveyed early stage NSCLC (230 cases) in The Cancer Genome
+Atlas (TCGA) database and performed two-way hierarchical clustering
+comparing gene expression profiling in amplified vs. diploid cases; (2)
+utilized a single-nucleotide polymorphism array to select RICTOR
+amplified and diploid NSCLC cell lines; (3) assessed Rictor protein and
+RNA expression by Western blot and qRT-PCR, respectively; and (4)
+performed RICTOR knockdown using siRNA followed by migration, invasion,
+and clonogenic assays.Results: In the BATTLE-2 cases, we identified 15%
+of RICTOR alterations (9% amplifications, 6% mutations, mutually
+exclusive) preferentially associated with resistance to all therapies
+(AKTi+MEKi, erlotinib+AKTi, sorafenib, or erlotinib). In the TCGA we
+found: (1) 10% of RICTOR amplifications and 3% mutations; (2) significant
+correlation between amplification and elevated RICTOR gene expression;
+and (3) a putative functional gene expression signature associated with
+RICTOR amplification. In diploid cell lines we found concordance between
+AKT phosphorylation and activation of other downstream mTORC2 targets
+(i.e. SGK1 and PKC), but in RICTOR amplified cell lines we witnessed a
+discordant activation of these pathways, and thus were able to define
+unique signaling class systems in our cell lines harboring RICTOR
+alterations. Furthermore, following RICTOR knockdown in our amplified
+cell lines, a reduction in clonogenic, migratory, and invasive capacity
+was seen, suggesting that RICTOR amplification may provide a survival
+advantage in select cancer cells by tipping the signaling balance toward
+a non-canonical oncogenic pathway (AKT-independent).Conclusion: Rictor
+alterations may define a new molecular NSCLC subtype with distinct
+biology that expose unique avenues for therapeutic intervention. Ongoing
+studies are underway to explore specific therapeutic strategies,
+non-canonical signaling and Rictor mutations.Supported by: NHI-NCI
+CA155196 & 2P50CA070907-16A1
+

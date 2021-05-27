@@ -1,0 +1,42 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Site specific profiling of histone methyltransferases in cancer
+cells using histone peptide microarray containing a comprehensive set of
+histone peptides.
+
+
+Post-translational modifications (PTMs) of histones play a critical role
+in diverse biological processes including chromatin compaction, gene
+expression and cell differentiation. Among a myriad of PMTs, histone
+methylation catalyzed by histone methyltransferases (HMTs) has been
+increasingly recognized as an important player responsible for a major
+signaling mechanism in eukaryotic cells. This suite of epigenetic
+modifiers represents a new and promising class of therapeutic targets. In
+cancer, there is a growing body of evidence that suggests changes in the
+activity of HMTs (a class of chromatin-modifying enzymes) contribute to
+the uncontrolled cell proliferation that is a hallmark of this
+devastating disease. The sequence specificity of the substrates of HMTs
+under a cellular condition are largely unknown but known targets have
+been mostly identified through a conventional candidate-based approach by
+using purified HMTs. However, such an experiment frequently does not
+reflect what could be occurring in cellular contexts or in vivo. In this
+study, we designed and synthesized a comprehensive histone peptide
+microarray (PepArray) on a microfluidic chip which contains 3,919
+peptides. The peptides contain nine residues with the methylation sites
+and mutant sites situated in the middle of the sequence so that each
+peptide has a unique possibility for modification such as methylation or
+acetylation. We obtained nuclear extract from the breast cancer cell line
+T47D, and applied the protein lysates to the histone methylation PepArray
+chip. After incubation of the chip with a methyl-specific antibody,
+significant signals were detected at the sites containing peptides
+corresponding to H2AK74, H3K122, and H4K59. We found null signal at
+mutant sites where the target lysine(K) was replaced with alanine(A).
+These results reveal the specific activity profiles of HMTs at defined
+histone sites in a cellular system. Planned further investigation will
+compare the different histone methylation or acetylation profiles in the
+various cellular systems, especially in different cancer systems. The
+current experiment demonstrates an effective solution to comprehensive
+studies of epigenetic modification. This information may be translated
+into therapeutic targets of histone methylation inhibition by focusing on
+identifying inhibitors of specific HMTs as targets for a new generation
+of therapeutics.
+

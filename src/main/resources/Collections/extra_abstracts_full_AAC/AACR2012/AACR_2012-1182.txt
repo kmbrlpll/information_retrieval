@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Targeting p53 to mitochondrial outer membrane using the Bcl-XL
+signal causes p53 specific apoptosis
+
+
+The tumor suppressor p53 can cause cell cycle arrest, DNA repair, and
+apoptosis via its function as a nuclear transcription factor. However,
+p53 also triggers apoptosis through a mitochondrial pathway.
+Mitochondrial p53 binds to anti-apoptotic (Bcl-2, Bcl-XL) and
+pro-apoptotic (Bak, Bax) proteins localized at the mitochondrial outer
+membrane (MOM), causing MOM permeabilization that eventually results in
+apoptosis. The purpose of this work was to develop an optimal version of
+p53 engineered with a mitochondrial targeting signal (MTS) to trigger
+rapid apoptosis via the intrinsic pathway. To further investigate
+mitochondrial activity of p53, we targeted p53 to specific mitochondrial
+compartments. EGFP-p53 was fused to different mitochondrial targeting
+signals (MTSs) directing it to the mitochondrial outer membrane (XL-MTS
+from Bcl-XL; TOM-MTS from TOM20), inner membrane (CCO-MTS from cytochrome
+c oxidase) or matrix (OTC-MTS from ornithine transcarbamylase). The
+apoptotic mechanism for each construct was further studied using
+pifithrin- (which inhibits p53-mediated transcriptional activity),
+pifithrin- (which reduces binding of p53 to Bcl-2 and Bcl-XL), and by
+over-expressing the anti-apoptotic Bcl-XL. Apoptosis assays (caspase-9,
+TUNEL, Annexin-V, 7-AAD) were performed in T47D cells (human ductal
+breast epithelial tumor cell line). While all MTS-EGFP-p53 constructs
+showed apoptotic potential, only EGFP-p53-XL had the most significant
+apoptotic potential compared to its own EGFP-XL control. EGFP tagged to
+OTC, CCO and TOM tend to interfere with sensitive mitochondrial function
+versus EGFP-XL, which demonstrated minimal toxicity. Previous work in the
+literature found that targeting p53 to the mitochondrial matrix causes
+apoptosis. However, our work indicates targeting even non-toxic proteins
+(EGFP) to the matrix might cause some level of toxicity due to the MTS by
+itself. Further, we inquired if the apoptotic response was due to the
+Bcl-XL dependent pathway. CCO-EGFP-p53 initiated apoptosis mainly through
+the transcriptional activity of p53 (rescued by pifithrin-). TOM-EGFP-p53
+is thought to cause apoptosis by activating the pro-apoptotic Bak
+(rescued by over-expressing Bcl-XL). OTC-EGFP-p53 resulted in apoptosis
+through binding to Bcl-XL (rescued by pifithrin- and over-expressing
+Bcl-XL) and showed additional apoptotic potential through transcriptional
+activity of p53 (rescued by pifithrin-). In addition, EGFP-p53-XL was the
+most specific to the p53/Bcl-XL mitochondrial pathway (rescued by
+pifithrin- and over-expressing Bcl-XL). Taken together our data
+highlights that targeting p53 to Bcl-XL via the XL MTS triggers a rapid
+apoptotic response through an interaction of p53 with anti-apoptotic
+Bcl-XL. Due to the ubiquitous role of p53, this gene therapy approach
+could be used in many different types of cancers. Acknowledgements: NIH
+CA151847
+

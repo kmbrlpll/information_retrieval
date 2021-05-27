@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Concomitant administration of acid reducing agents can impact the
+pharmacokinetics of the balanced pan-PI3K and mTOR inhibitor PQR309
+
+
+IntroductionAcid reducing agents (ARAs) - such as proton pump inhibitors,
+H2-antagonists or antacids - are commonly prescribed medications to
+reduce stomach acidity in cancer patients. Increased gastric pH can
+significantly impair the dissolution of agents that exhibit pH-dependent
+solubility, thus possibly reducing their absorption and influence their
+pharmacokinetics (PK).PQR309 is a novel oral balanced dual pan-PI3K and
+mTOR inhibitor currently in clinical development for treatment of solid
+tumors and hematological malignancies. PQR309 is a weak base and exhibits
+pH-dependent solubility. Therefore, the assessment of the potential for
+drug-drug interactions with ARAs is essential to avoid treatment failure
+in cancer patients.MethodsGastroPlusTM v.9.0 (Simulations Plus, Inc.) was
+used to build a physiologically-based absorption and pharmacokinetic
+(PBPK) model of PQR309. A baseline model was built with the
+physicochemical properties of the compound and pre-clinical PK data after
+iv and po administration. The model was then extended using PK data from
+cancer patients. Volume of distribution and renal clearance were
+calculated using the Lukacova and fup*GFR methods, respectively. Hepatic
+clearance was estimated from in vitro clearance obtained in hepatocytes
+and the intestinal absorption was calculated by the Advanced
+Compartmental Absorption and Transit (ACATTM) Model.ResultsThe parameter
+sensitivity analysis showed that at fasted stomach pH of 1.5, PQR309 is
+fully dissolved and rapidly absorbed in the upper part of
+gastrointestinal tract leading to a distinct maximum plasma concentration
+(Cmax) and a predicted bioavailability of almost 100%. At a stomach pH of
+4.0 dissolution is delayed and the absorption shifted towards distal
+parts of the gastrointestinal tract. The predicted bioavailability is
+still estimated to be good (> 75%), but the observed plasma concentration
+time profile is much shallower and the expected Cmax considerably
+reduced.ConclusionsOur model predicts that concomitant administration of
+ARAs can impact PQR309 absorption and change its pharmacokinetic profile.
+The clinical relevance of this potential drug-drug interaction is
+unknown. In currently ongoing clinical studies co-medication of PQR309
+with ARAs should be avoided until further clinical investigations confirm
+the model predictions and mitigation strategies are explored.
+

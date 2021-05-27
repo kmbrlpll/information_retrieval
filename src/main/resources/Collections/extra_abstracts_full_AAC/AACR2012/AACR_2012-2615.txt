@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Genetic variations in angiogenesis-related genes in prostate
+cancer recurrence
+
+
+Introduction: Prostate cancer is the most common cancer and the second
+leading cause of cancer death in American men. Among patients who have a
+radical prostatectomy, 30% will have disease recurrence. Currently, the
+level of prostate specific antigen (PSA), clinical stage (TNM) and tumor
+grade (Gleason score) are used to estimate prognosis and inform treatment
+modalities. Although these are extremely useful, additional biomarkers
+are needed to better predict outcome. Angiogenesis has been associated
+with Gleason score, tumor stage, progression, metastasis and survival in
+prostate cancer. We hypothesized that single nucleotide polymorphisms
+(SNPs) in genes in the angiogenesis pathway may be associated with
+prostate cancer recurrence. Methods: In a historical cohort of 1061
+prostatectomy cases treated at the Moffitt Cancer Center from 1986 to
+2003, we identified 311 recurrent cases and 750 non-recurrent cases. A
+recurrent case was defined by either an elevated PSA level after surgical
+treatment, clinical metastasis or disease specific death. All other
+patients were categorized as non-recurrent. We compared genotype
+frequencies of 2,981 SNPs in 547 angiogenesis genes between the two
+groups. Genotyping was performed using the Illumina GoldenGate assay and
+associations between recurrence-free survival and individual SNPs were
+evaluated using competing Cox regression models to estimate hazard ratios
+(HR) and 95% confidence intervals (95%CI) under three inheritance models
+(dominant, recessive and log-additive model). For each SNP, the minimum
+P-value among all tested inheritance models was selected. We calculated
+q-values to estimate false discovery rates. Results: The mean age at
+diagnosis of the study subjects was 59.7 (SD=7.5) years. The recurrence
+rate was 29.3% with a median recurrence-free survival of 200.8
+(range=179.0-241.9) months. A total of 91 SNPs in 56 angiogenesis genes
+had raw P-values less than 0.01 and q-values less than 3%. We found
+associations for several families of genes that have been previously
+associated with aggressiveness and/or survival of prostate cancer, such
+as cadherins (CDH,11 SNPs), fibroblast growth factor and its receptor
+(FGF/FGFR, 6 SNPs), insulin-like growth factor and its receptor
+(IGF/IGFR, 3 SNPs), interleukins (IL, 5 SNPs), metalloproteinases (MMP, 3
+SNPs) and thrombospondin (THBS, 4 SNPs). The most significant association
+was observed for rs889730 in CDH13 (HR= 0.69, 95%CI=0.58-0.83,
+P=0.000057, additive model). CDH13 contributes to promotion of tumor
+neovascularization, but down regulation has been associated with a poor
+outcome in prostate cancer. Conclusion: Data from this comprehensive
+study of angiogenesis genes and prostate cancer suggests that variants in
+angiogenesis-related genes may influence prostate cancer recurrence after
+radical prostatectomy. Further studies are warranted to confirm these
+preliminary findings.
+

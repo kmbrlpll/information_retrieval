@@ -1,0 +1,45 @@
+Meeting: 2012 AACR Annual Meeting
+Title: AKT-mTOR pathway mediates mutant p53 gain-of-function by
+inhibiting autophagy
+
+
+Nearly half of human cancers harbor p53 mutations, which are
+predominantly through missense mutations that result in accumulation of
+mutant p53 proteins in cancer cells. Persistent evidence supports that
+the mutant p53 proteins not only lose tumor suppressor activity, but also
+acquire gain-of-function abilities to promote carcinogenesis, metastasis,
+tumor recurrence and chemoresistance. Indeed, knock-in mouse models
+bearing the mutant p53R172H (equivalent to human R175H mutation) at
+physiological level in vivo display gain-of-function phenotypes, such as
+enhanced cell transformation potentials and tumor metastasis. However,
+the molecular mechanism of mutated p53R172H conferring gain-of-function
+remains poorly understood. In this study, utilizing mouse embryonic
+fibroblasts (MEFs) and lung adenocarcinoma cells (93-1) derived from
+p53R172H knock-in mice, we observed that AKT was preferentially activated
+in p53R172H mutant cells over p53-deficient cells. This activation of AKT
+allows p53R172H mutant cells to bypass contact inhibition, grow in an
+anchorage-independent manner and form tumors after subcutaneous injection
+into SCID mice. In contrast, expression of dominant negative AKT or
+shRNA-mediated AKT knockdown in p53R172H mutant cells inhibited colony
+formation in soft-agar and suppressed tumor growth in mouse xenograft
+tumor model. To directly dissect the essential role of AKT in p53R172H
+mutant-initiated tumorigenesis in vivo, we bred AKT1 knockout mice to
+p53R172H mutant knock-in mice. Loss of AKT1 significantly reduced the
+incidence of tumor development and extended the life span from around 3
+months in AKT1-proficient and p53R172H mutant mice (AKT1+/+;
+p53R172H/R172H) to about 12 months in AKT1-deficient and p53R172H mutant
+mice (AKT1/; p53R172H/R172H). To understand how the activated AKT
+conferred mutant p53 gain-of-function, we demonstrated that p53R172H
+mutant activated AKT-mTOR signaling pathway that led to an inhibition of
+autophagy both in vitro and in vivo. Furthermore, induction of autophagy
+in p53R172H mutant lung cancer cells through suppressing AKT-mTOR pathway
+pharmacologically by the dual kinase inhibitor NVP-BEZ235 treatment or
+genetically by RNAi-mediated knockdown of mTOR dramatically inhibited
+p53R172H mutant-induced colony formation in soft agar and tumor growth in
+SCID mice. Our results support that AKT plays a crucial role in mediating
+mutant p53 gain-of-function phenotypes in vivo through the inhibition of
+autophagy by the activated AKT-mTOR signaling pathway. These findings
+provide the proof-of-principle that targeting the AKT-mTOR-autophagy
+pathway might have promising therapeutic benefits for cancer patients
+carrying such p53 mutations.
+

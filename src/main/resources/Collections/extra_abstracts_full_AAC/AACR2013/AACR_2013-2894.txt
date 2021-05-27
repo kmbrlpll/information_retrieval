@@ -1,0 +1,37 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Integrated bioinformatic analysis to elucidate molecular
+mechanisms associated with reversal of osteosarcoma malignancy induced by
+CD99.
+
+
+Introduction: CD99 is a transmembrane glycoprotein which is
+physiologically involved in several biological processes, such as cell
+migration, adhesion, and differentiation. High levels of CD99 have been
+reported in mesenchymal stem cells and osteoblasts. In contrast, the
+molecule has been shown to be absent in osteosarcoma (OS), in which it
+acts as a tumour suppressor. The molecular mechanisms responsible for its
+functions are however still poorly defined. In this study we used
+bioinformatic studies to integrate gene expression and miRNA data to
+identify crucial mediators.Methods: Forced expression of CD99 was stably
+induced in Saos-2 OS cell line. Microarray analyses of gene or miRNA
+expression were performed and integrated by using different bioinformatic
+approaches. TargetScan, Miranda, Diana-microT and PicTar prediction
+databases were used to identify miRNA targets.Results:
+CD99-overexpressing cells displayed a massive down-regulation of gene
+expression. Only 19 probes were found to be significantly up-regulated in
+CD99 transfectants compared to parental cells. In contrast, 231 probes
+were found to be down-regulated, thus suggesting gene modulation by
+epigenetic mechanisms. We thus examined miRNA profile of these cells. A
+significant up-regulation of miR-1225-3p, miR-1238, miR-1305, miR-191*,
+miR-34a, and miR-425* was observed in CD99 overexpressing cells.
+Enrichment analyses pointed out an involvement of TGF signalling.
+Interestingly, SMAD-2 and -4, which emerged as targets of miR-34a, were
+among the main down-modulated genes. miR34 mimics confirmed the
+association between miR34a and SMAD-4. Functional studies are on-going to
+establish associations with osteosarcoma malignancy.Conclusions: Besides
+inhibiting osteosarcoma malignancy, CD99 expression in osteosarcoma cells
+determines massive gene expression repression, likely due to changes in
+miRNA profile. Up-regulation of miR-34a together with down-regulation of
+TGF signalling mediators seem to be critical players.Studies are granted
+by AIRC 10452 and Ministry Health RF-2009 to KS.
+

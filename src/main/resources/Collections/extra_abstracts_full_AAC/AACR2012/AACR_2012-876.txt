@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Viability screens in leukemic and breast cancer cells with pooled
+lentiviral shRNA libraries identify potential therapeutic targets and
+synergistic lethal interactions
+
+
+Background: One strategy to circumvent problems with conventional
+chemotherapy is to develop drugs against more specific cancer targets.
+Another is to use molecularly targeted agent (MTA) combinations to
+circumvent tumor resistance and increase the therapeutic index. Such
+synergistically lethal (SL) MTA combinations, however, are not easily
+predicted based on our rudimentary knowledge of cancer biology and drug
+action mechanisms. Method: In the first strategy, our aim was to identify
+genes modulating proliferation and survival in leukemic cell lines (K562,
+Jurkat, and Raji) using a pooled lentiviral library expressing 27,500
+shRNA targeting 5,043 human pathway-associated genes. Cells were
+transduced by the viral library and collected at several time points.
+Bar-codes were amplified from genomic DNA and sequenced (Illumina GAIIx).
+In the second strategy, we have adapted the same approach to
+combinatorially screen shRNA sequences targeting 40 DNA Damage and Repair
+(DDR) genes to discover additive and synergistic combinations that
+generate a synthetic-lethal phenotype. Human mammary epithelial cancer
+(HMEC) cells were transduced with a 27K shRNA SL DDR lentiviral library
+comprised of a redundant set of 16 binary shRNA constructs for each
+possible gene-gene combination (1,600). The library-transduced HMEC cells
+were grown for ten days, then bar-codes amplified and sequenced (Illumina
+HiSeq2000). Results: The viability screen with leukemic cell lines
+identified more than 250 essential genes for each panel of cells.
+Subsequent validation using single shRNA-expressing constructs showed
+that in each screen, about 80% of shRNAs identified did indeed lead to
+cell death when transduced in cells. Analysis of the identified essential
+genes for known biological interactions revealed several non-random
+clusters of interacting proteins that provide some insight into signaling
+pathways and protein networks specific to these cancers. The SL screen in
+HMEC cells identified 10 SL shRNA pair candidates including known SL
+shRNA pair PARP1/BRCA1. Additional analysis of lethal combinations
+indicated redundant, complementary, and compensatory responses in cancer
+cells. Conclusion: We believe that newly discovered
+hematopoietic-specific genes represent potentially novel drug targets.
+Moreover, they can be used to develop and establish both novel cancer
+targeted therapies and myeloablative conditioning regimens with decreased
+toxicity. Based on SL screen results in HMEC cells, we believe that
+comprehensive experimental annotation of SL gene-gene interactions in a
+wider range of cancer and normal cells will not only predict the most
+promising synergistic lethal combinations but also allow the development
+of a new generation of multi-specific, highly effective anti-cancer
+therapeutics with unique mechanisms of action.
+

@@ -1,0 +1,20 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Rapid assessment of AML genes for mutation detection and copy
+number variation
+
+
+Targeted sequencing using the Ion AmpliSeq Library kit combined with the
+Ion PGM sequencing instrument is a fast and effective method to identify
+genetic variants in cancer samples. A new targeted primer panel for
+amplification of genes involved in Acute Myeloid Leukemia (AML) has been
+developed by Life Technologies. The panel covers 19 genes characterized
+using over 300 specific primer pairs in two highly multiplexed PCRs. To
+demonstrate the coverage efficiency, we evaluated libraries prepared from
+whole blood and isolated genomic DNA. When libraries from 4 individuals
+were run on a single Ion 318 Chip, the average coverage depth was >3000x,
+with >97% of the target bases covered >500X. Additionally, >90% of reads
+were on-target. The panel was tested on control samples and analyzed
+using the Ion Reporter Software, and expected variants, including copy
+number variations (CNVs) were detected with high sensitivity and
+specificity.
+

@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Comparative evaluation of peripheral blood T cells and resultant
+engineered anti-CD19 CAR T cell products from relapsed/refractory
+non-Hodgkin's lymphoma (NHL) patients
+
+
+Introduction: Administration of autologous anti-CD19 CAR T cells prepared
+from peripheral blood mononuclear cells (PBMC) of patients with various B
+cell malignancies have mediated high rates of objective response
+(Kochenderfer et al. Blood 2012, J Clin Onc 2014, Mackall et al, Blood
+2013). We analyzed characteristics of the starting material (PBMC) and
+resultant CAR T cells derived from 14 patients with relapsed/refractory
+NHL at the NCI Surgery Branch. Methods: After apheresis collection, the T
+cell-containing PBMC fraction was enriched, activated with anti-CD3
+antibody and cultured in serum-free medium for 2 days. Activated T cells
+were transduced with a retroviral vector encoding the anti-CD19 CAR gene
+and further expanded with IL-2 to achieve a target dose of CAR T cells.
+The CAR T cells and starting PBMC population were cryopreserved and
+analyzed after thawing by flow cytometry. Differences in cell composition
+between the starting PBMC population and CAR T cells were evaluated with
+paired t-tests, adjusted for multiplicity.Results: Biologically active
+autologous CAR T cells were successfully prepared from all 14 NHL
+subjects. Each product was comprised of both CD4+ and CD8+ T cells, but
+showed considerable inter-subject variability. The CD4/CD8 ratio in the
+PBMC and product CAR T cell population were correlated (Pearson
+correlation coefficient = 0.74, p = 0.0027). While the starting T cell
+population generally showed a T cell profile comprised of similar
+proportions of effector T cells (Teff) ( = 20%, std = 16%) and nave T
+cells (Tn) ( = 20%, std = 14%), there was a shift towards a less
+differentiated T cells population after CAR T cell production, with a
+decreased Teff (paired t test p = 0.0151) and elevated Tn (p = 0.0031).
+The percent of juvenile cells (Tn+Tcm) was higher in the final product (
+= 64%, std = 21%) than in the starting T cell population ( = 43%, std =
+20%, p* = 0.0031, *stepdown Bonferonni). These products were active in
+vitro and in subjects with NHL. Clinical responses occurred regardless of
+product characteristic differences such as CD4/CD8 T cell ratio and
+juvenile / differentiated T cells. Additional analyses are ongoing,
+including evaluation of PD-1 expression,% of myeloid cells and gene
+expression profile.Conclusions: CAR T cells were successfully prepared
+from all subjects enrolled in the study notwithstanding the diverse
+nature of the subject starting lymphocyte population. The CAR T cells
+showed a less differentiated profile, compared to the starting
+lymphocytes. CAR T cell production by essentially the same process
+described here is currently being utilized in company-sponsored
+multicenter trials (NCT02348216, NCT02601313).
+

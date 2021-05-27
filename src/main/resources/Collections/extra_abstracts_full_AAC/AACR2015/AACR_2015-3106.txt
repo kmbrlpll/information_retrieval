@@ -1,0 +1,42 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Elucidating molecular mechanisms linking microRNA-206 loss to
+tumor progression and metastasis
+
+
+Metastasis is the leading cause of cancer-related deaths, and this occurs
+when tumor cells invade basement membranes and blood vessels to colonize
+other tissues. Metastasis is facilitated by extracellular matrix
+(ECM)-degrading structures called invadopodia. Recently, several
+microRNAs (miRNAs) have been identified as tumor and metastasis
+suppressor genes. Loss of expression of miR-206 has been correlated with
+poor prognosis in gastric cancer, breast cancer, rhabdomyosarcoma and
+melanoma. A previous study by others has demonstrated that restoring
+miR-206 expression in human breast cancer cells was sufficient to block
+metastasis in tumor xenograft assays. However, the targets of miR-206
+that cause metastasis in these cancer models have not been fully
+characterized. Here, we have tested the effects of miR-206 on invadopodia
+in metastatic cancer cells, and identified a novel target that may
+explain this effect. Transducer of Cdc42-mediated Actin assembly-1
+(Toca-1) is an adaptor protein that promotes formation of invadopodia and
+metastasis in breast cancer models, and has a predicted miR-206 binding
+site within the 3 UTR of Toca-1 transcripts. To test whether the high
+levels of Toca-1 expression that we have observed in metastatic cancer
+cell lines was due to loss of miR-206, we rescued miR-206 expression
+using transient, stable or inducible approaches in MDA-MB-231 breast
+cancer, A375 melanoma, and H1299 lung cancer cell lines. In each cell
+model, Toca-1 expression was reduced upon miR-206 expression at both the
+mRNA and protein levels, thus validating Toca-1 as a new target of
+miR-206. Further testing of the phenotypes induced by miR-206 rescue
+revealed dramatic defects in ECM degradation and cell invasion in breast
+cancer and melanoma cell models. In subcutaneous tumor xenograft assays,
+stable rescue of miR-206 in H1299 tumors led to defects in tumor growth
+compared to those expressing a scrambled control miRNA. In addition,
+miR-206 expression caused a dramatic reduction in the numbers of lung
+metastases. We are currently extending this to our melanoma models and
+inducible models to define changes in metastasis-related targets of
+miR-206 that are aberrantly expressed in metastatic cancers. In
+conclusion, our study demonstrates for the first time a link between
+miR-206 and suppression of invadopodia formation via Toca-1 silencing,
+which likely contributes to the metastasis suppressing activity of
+miR-206 in multiple cancer types.
+

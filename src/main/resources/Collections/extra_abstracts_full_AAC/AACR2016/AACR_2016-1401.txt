@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: A systems immunology analysis to detect prognostic biomarkers in
+patients with squamous cell carcinomas of the head and neck
+
+
+In 2015, an estimated 59,340 people will develop head and neck cancer and
+an estimated 12,290 deaths will occur. Recent evidence has demonstrated
+that the immune system plays a key role in the development,
+establishment, and progression of head and neck squamous cell carcinoma
+(HNSCC). Here, we conduct comprehensive immune profiling to better
+understand the immunophenotype of HNSCC patients, assess the
+applicability of immune-modulatory drugs, and identify prognostic
+biomarkers of response to cetuximab treatment.Our systems immunology
+approach is composed of three complimentary, high-dimensional
+technologies: time-of-flight mass cytometry (CyTOF), luminex, and the
+HIMChip microarray platform. Mass cytometry quantifies protein expression
+on a single-cell basis by utilizing transition element, isotope-tagged
+antibodies. The Luminex immunoassay measures plasma cytokine levels. The
+HIMChip microarray is a custom Agilent SurePrint HD 815k format array
+containing over 7,000 unique probes for over 4,274 human immune-related
+genes. We employed these technologies to study the global immune status
+of thirty HNSCC patients receiving treatment with cetuximab, an IgG1
+monoclonal antibody (mAb) targeting the epidermal growth factor receptor
+(EGFR). Patients were consented to participate on the Phase 0
+biomarker-focused clinical trial (NCT01114256) and peripheral blood was
+obtained before and after cetuximab treatment. Peripheral blood
+mononuclear cells and plasma were isolated from each time point and
+utilized in downstream analysis.Via manual gating, our CyTOF-based
+phenotyping measured 24 distinct populations and the expression of 5
+activation markers and 5 checkpoint receptors. The results of manual
+gating were confirmed with an automated, unsupervised algorithmic
+analysis combining stochastic neighbor embedding and k-means clustering.
+The resulting 2D representation of our single-cell data preserved global
+geometries and facilitated exploration of unique subsets within the
+natural killer (NK) compartment. To assess the prognostic value of these
+NK cell subsets, we applied a lasso-regularized logistic regression model
+to stratify patients based on their clinical response to cetuximab
+therapy. We identified an NK cell subset that is associated with clinical
+benefit to therapy. Luminex analysis revealed a cetuximab-induced
+cytokine signature composed of VCAM1, IP-10, and VEGFD that may play a
+role in increasing NK cell trafficking to tumor (T-statistics of 1.77,
+2.17, and 1.55 respectively). The HIMChip microarray results support our
+proteomic findings.These results provide the first known comprehensive
+immune profiling of HNSCC patients as they undergo treatment with
+cetuximab. Validation in a large cohort of patients is needed and future
+mechanistic studies will investigate the efficacy of our novel NK cell
+population in disease control.
+

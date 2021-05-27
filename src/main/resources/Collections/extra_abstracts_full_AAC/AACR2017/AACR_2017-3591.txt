@@ -1,0 +1,26 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A new method to infer clonal sequences and phylogenies from
+personal tumor genome profiles.
+
+
+Tumor progression involves the evolution of clonal cell populations that
+mutate and spread in the body. Genetic profiling has revealed the
+presence of extensive variation in tumor samples from individual
+patients. However, a tumor sample for genetic profiling is mixture of
+different clonal cell populations and needs to be decomposed into clonal
+sequences to infer the evolutionary history of the tumor. Therefore, we
+have developed a new method, CloneFinder, and show that the clone
+sequences present in each tumor sample can be accurately inferred from
+the analysis of multiple tumor sample profiles with our new CloneFinder
+method. CloneFinder is unique in its use of molecular evolutionary
+principles to deduce clone sequences at a single-nucleotide resolution
+along with their frequencies in each sample. It performs better than
+existing methods, which we found to produce incorrect numbers of clones,
+clone sequence errors, errors in clonal phylogenies, and biased estimates
+of cancerous cells in tumors. Application of CloneFinder to a large
+number of empirical datasets revealed that both early and recently
+evolved tumors contain ancestral clones at high frequencies. Therefore,
+our new method provides new insights into the clonal structure of tumors
+and their evolution within a personal life time.
+
+

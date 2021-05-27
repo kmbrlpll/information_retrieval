@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Structure-function studies and drug design on the human histone
+lysine methyltransferases NSD1, NSD2 and NSD3.
+
+
+Chromatin dynamics are plastic processes controlled by epigenetic
+modifications on the DNA and histone tails that play a critical role in
+gene expression. Interestingly, DNA and histones modifications are also
+under the influence of exogenous factors such as pollutants, smoking, sun
+exposure, daily diet, alcohol consumption and environmental stress.
+Departure from “normal” cellular homeostatic conditions is influenced
+by aberrant accumulation of specific epigenetic patterns, which may
+contribute to the onset of diseases ranging from diabetes to cancers and
+neurological disorders. Moreover, epigenetic modifications appear to be
+inheritable to some extend and affect gene expression in the offspring.
+
+One of the key epigenetic modifications is histone methylation, which is
+catalyzed by histone methyl transferases (HMTases). The nuclear receptor
+binding SET domain proteins (NSDs) consist of a family of three HMTases,
+NSD1, NSD2 and NSD3 all of which are bona fide oncoproteins. The NSD
+HMTases are primarily responsible for methylation of H3K36 and H4K20 in
+vivo. However, the outlines of the NSDs biological roles in normal and
+pathological conditions remain unclear. Mutation, alteration or
+overexpression of the NSD HMTases results in growth defects and is linked
+to an increasing number of pathologies, carcinogenesis and is a maker for
+tumor progression and prognosis. However, inhibition of HMTases and
+especially NSDs by small molecules may offer therapeutic opportunities,
+especially in cases with poor prognoses, such as multiple myeloma. To
+date, few HMTase inhibitors exist and no inhibitors specific to the NSD
+family have been identified. Therefore, a better understanding of the
+structure-function relationship and the design of specific, selective and
+bioavailable HMTase inhibitors is essential for novel cancer therapy.
+
+In this study, we first we focused on understanding the substrate
+specificity of the NSDs in vitro to get insight into the druggability of
+the NSDs. Next, we performed virtual ligand screening and identified the
+hit molecule LEM-07/14 with an IC50 value of 11.5 µM inhibition against
+NSD2. LEM-07/14 derivatives resulted in a 45% methylation activity
+reduction in vitro. Furthermore, we identified BIX-01294 as an NSD
+inhibitor that differentially inhibits H3K36 methylation by NSD1, NSD2,
+and NSD3 with IC50 values of 40~112 µM and investigated the molecular
+basis of inhibition using docking studies on the NSD homology models.
+Next, we present our X-ray crystallographic efforts on the NSDs and their
+applications to selective and specific drug-design.
+
+

@@ -1,0 +1,25 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Utilizing Bimolecular Fluorescent Complementation to Identify
+Inhibitors of RAL and KRAS
+
+
+We have identified RAL activity to be vital for NSCLC survival
+independent of KRAS or EGFR mutation status in a large panel of
+adenocarcinomas and have developed a novel high throughput screening
+assay based on Bimolecular Fluorescent Complementation (BiFC) to identify
+small molecules that impair RAL function. Coupling RALA and RALB to the
+C-terminus of the Venus protein (VC) and coexpressing either with direct
+binding effector RALBP1 fused to the N-terminus of the Venus protein (VN)
+result in a fluorescent signal when RAL-RALBP1 binding occurs in cells.
+This allows for the interrogation of small molecules that disrupt
+RAL-RALBP1 binding interactions (resulting in loss of fluorescence) in a
+real time, high throughput manner. Our preliminary screen with a natural
+compound library identified 14 small molecules that demonstrated high
+activity in disrupting both RALA- and RALB-RALBP1 binding and
+fluorescence. We are currently investigating these compounds' mode of
+action and have recently expanded our assay to screen for molecules that
+impair mutant KRAS activity (VC-KRAS / RAF1-VN). BiFC provides a rapid,
+more physiologic method to identify molecules that can disrupt
+protein-protein interactions of targets considered undruggable, including
+membrane bound small GTPases such as RAL and KRAS.
+

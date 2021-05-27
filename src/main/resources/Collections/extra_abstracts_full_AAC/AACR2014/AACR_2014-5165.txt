@@ -1,0 +1,62 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Molecular features reflecting biological and functional ages in
+elderly colorectal cancer patients
+
+
+Aging is a physiological process that is accompanied by functional
+decline over time. Also, aging is the single biggest risk factor for
+developing cancer and limitation of active cancer treatment. The number
+of elderly patients with colorectal cancer (CRC) has increased, however,
+the knowledge of the clinical outcomes of colorectal cancer in elderly
+patients are limited. Elderly CRC patients are a very heterogeneous
+population because the aging process caused complex co-morbidities and
+chronological age cannot predict the biological and functional changes.
+In this study, we analyzed cDNA microarray data using integration of
+receiver operating characteristic (ROC) curve and protein-protein
+interaction (PPI) network information, demonstrating the aging effect of
+cancer based on large scale data. We identified molecular features that
+discriminate 120 elderly (70 age) and 31 young (40 age) CRC patients.
+Elderly group had distinct molecular features compared with the young
+group, and we suggest that these features may underlie the different
+cancer characteristics of colorectal cancer based on aging. First, we
+quantified the molecular features of total 15815 probes using ROC
+analysis. The ROC representing the performance of enolase superfamily
+member 1 (ENOSF1, rTS) corresponded to an area under curve (AUC) of 0.73
+in the training set and 0.71 in the test set. Also the 82 differentially
+expressed genes (DEGs) over 2 fold with high significance (pAging is a
+physiological process that is accompanied by functional decline over
+time. Also, aging is the single biggest risk factor for developing cancer
+and limitation of active cancer treatment. The number of elderly patients
+with colorectal cancer (CRC) has increased, however, the knowledge of the
+clinical outcomes of colorectal cancer in elderly patients are limited.
+Elderly CRC patients are a very heterogeneous population because the
+aging process caused complex co-morbidities and chronological age cannot
+predict the biological and functional changes. In this study, we analyzed
+cDNA microarray data using integration of receiver operating
+characteristic (ROC) curve and protein-protein interaction (PPI) network
+information, demonstrating the aging effect of cancer based on large
+scale data. We identified molecular features that discriminate 120
+elderly (70 age) and 31 young (40 age) CRC patients. Elderly group had
+distinct molecular features compared with the young group, and we suggest
+that these features may underlie the different cancer characteristics of
+colorectal cancer based on aging. First, we quantified the molecular
+features of total 15815 probes using ROC analysis. The ROC representing
+the performance of enolase superfamily member 1 (ENOSF1, rTS)
+corresponded to an area under curve (AUC) of 0.73 in the training set and
+0.71 in the test set. Also the 82 differentially expressed genes (DEGs)
+over 2 fold with high significance (p<0.01) between the two groups, which
+were selected as the age-related genes. To identify the key molecules, we
+performed a PPI network analysis with topological metrics such as degree
+and betweenness centrality (BC) using the graph module.As a result, we
+found that down regulated EGFR, and AR could be key molecules in the PPI
+network having higher degree and BC scores in young group, while FOXO1,
+downstream signal of EGFR, was upregulated. On the other hand, the
+down-regulated EWSR1 and PTPN11 could be key molecules in elderly group,
+which were closely connected with SLC26A3 in PPI network. In previous
+studies, the SLC26A3 expression was significantly decreased in adenomas
+(polyps) and adenocarcinomas of the colon. But our result was shown the
+SCL26A3 overexpression in only elderly group. We suggest that elderly CRC
+has distinct molecular characteristics from young CRC and therefore, that
+the expression signatures of DEGs and PPI may improve the understanding
+of molecular pathogenesis and clinical behaviors in elderly CRC.
+

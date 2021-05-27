@@ -1,0 +1,35 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identifying analytes associated with poor prognosis in CRC
+
+
+Cancer patients with undetectable micrometastases at the time of
+diagnosis are in danger of subsequent metastatic growth that worsens
+their outcome. Therefore, identification of these patients with latent
+metastases could reduce morbidity and mortality by helping physicians to
+choose whether to treat with an adjuvant therapy. In colorectal carcinoma
+(CRC), 20-30% of stage II patients will have a recurrence at a distant
+site after removal of the primary tumor. In order for cancer cells to
+metastasize, they must switch to an invasive phenotype. To identify
+molecular changes in cancer that drive invasion, our laboratory
+previously built a molecular network model of invasive subcellular
+structures termed invadopodia. Centrality and random walk analyses
+identified candidate signaling hubs that may control invadopodia
+formation or activity. To identify which of these hubs control invasion
+in specific cancers, we are mining reverse phase protein array (RPPA)
+data from publicly available human tumor datasets. In this study, we
+focused on analysis of RPPA data from TCGA in CRC patients, segregated by
+poor prognosis and good prognosis. We tested three different definitions
+of poor prognosis: recurrence, survival, and TNM status at diagnosis. We
+found several promising analytes that were significantly associated with
+each poor prognosis definition, and recurrence provided the best
+separation of good vs. poor prognosis. Interestingly, many of the
+analytes significantly associated with survival are involved in
+apoptosis. Additionally, we refined the analysis by using a subset of
+patients (stage I-II), which resulted in even better separation of good
+vs. poor prognosis. We identified several analytes that are already
+significantly associated with the invadopodia network (src kinase and PI
+3-kinase). We also identified some potential new invadopodia regulators,
+such as Cox2. This method has potential both to improve CRC survival by
+identifying patients that need adjuvant therapy as well as identify novel
+drivers of invadopodia.
+

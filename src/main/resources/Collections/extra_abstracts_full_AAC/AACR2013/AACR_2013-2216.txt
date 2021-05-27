@@ -1,0 +1,41 @@
+Meeting: 2013 AACR Annual Meeting
+Title: The role of cytosine modifications in cellular sensitivity to
+cytarabine.
+
+
+Introduction: Inter-individual differences in cytosine modifications are
+a result of genetic and environmental influences. 5-methylcytosine and
+5-hydroxymethylcytosine are covalent cytosine modifications that occur in
+CpG dinucleotides throughout the human genome. Objective: To characterize
+inter-individual variation in cytosine modifications in HapMap samples
+and investigate the contribution this may have on downstream phenotypes,
+such as cellular sensitivity to chemotherapeutics, such as cytarabine.
+Model: Cytosine modification levels at >485,000 CpGs were measured in the
+International HapMap lymphoblastoid cell lines (LCLs). We utilized the
+Illumina Infinium 450K HumanMethylation Beadchip array to measure
+cytosine modification levels in 73 unrelated African (YRI - Yoruba people
+from Ibadan, Nigeria) and 60 European ancestry (CEU - Caucasians from
+Utah, US) LCLs. In addition, we evaluated LCL sensitivity to cytarabine
+in these HapMap cell lines. Results: We performed a linear regression
+model in order to identify novel associations between cytosine
+modifications and cytarabine-induced cytotoxicity. From these analyses,
+we found that promoter methylation of CDC6 and CCDC37 was associated with
+cytarabine IC50 (p= 3.75 x 106 and p= 5.39x 106, respectively).
+Furthermore, it has been shown previously that SNPs associated with
+pharmacological traits in LCLs are enriched in expression quantitative
+trait loci (eQTLs). We interrogated SNPs associated with cytosine
+modification (mSNPs) to help us understand the role of mSNPs in
+pharmacologic trait-associated genetic variants. We found that SNPs
+associated with cytarabine are enriched in cis-acting mSNPs in LCLs
+derived from individuals of European descent. Next, we integrated
+genome-wide cytosine modification data with genotype and gene expression
+data available for HapMap LCLs to allow for a more comprehensive
+understanding of inter-individual genetic variation. We identified a SNP
+in SLFN5 that was significantly associated with cytarabine sensitivity
+that is a cis-acting eQTL and mSNP for SLFN5 gene expression and cytosine
+modification. Conclusions: Analyzing cytosine modification-drug phenotype
+data may identify novel candidate genes associated with sensitivity to
+cytarabine. In addition, integrating genotype and gene expression data
+allow for a better understanding of the biological function underlying
+pharmacologic trait-associated SNPs.
+

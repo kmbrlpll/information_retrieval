@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genetic reclassification of prostate-specific antigen levels for
+personalized prostate cancer screening.
+
+
+Background: Prostate-specific antigen (PSA) screening for prostate cancer
+results missed diagnoses as well as many unnecessary biopsies and their
+associated morbidities. Because PSA levels are heritable, traditional PSA
+screening may be improved by adjustment for constitutive germline
+genetics that influence PSA independently of prostate cancer.
+
+Methods: In a previous genome-wide association study in non-Hispanic
+white men without prostate cancer in the Kaiser Permanente Research
+Program on Genes, Environment and Health cohort, we identified 40 single
+nucleotide polymorphisms (SNP) independently and significantly associated
+with PSA levels. Among them, 24 were not associated with prostate cancer
+risk. To calculate genetically normalized PSA (i.e., PSA’), we
+multiplied each man’s most recent PSA measurement by a factor that
+adjusted for the amount by which his 24 PSA-specific SNPs may have
+increased his PSA level. We then compared how men without prostate cancer
+were classified based on their PSA and PSA’ levels with regard to
+decisions for diagnostic testing.
+
+Results: PSA and PSA’ were highly correlated among non-Hispanic white
+men without prostate cancer (r2: 0.959; 95% CI: 0.958-0.960). Still, 4.6%
+were reclassified from above to below a cutpoint of 2.5 ng/ml when using
+the PSA’ measure, and 2.7% were reclassified from below to above this
+cutpoint (4.6% - 2.7% = 1.9% net reclassified to below the cutoff). The
+reclassification was even more pronounced when restricting to controls
+with a negative prostate biopsy: 5.0% downward and 1.5% upward (3.5% net
+reclassified to below the cutoff).
+
+Conclusions: Normalizing PSA levels using germline PSA variants may
+reduce the number of subjects without prostate cancer receiving
+unnecessary biopsies.
+
+

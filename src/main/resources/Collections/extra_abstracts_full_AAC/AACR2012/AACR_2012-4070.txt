@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Development of circulating tumor cell capture from whole blood
+using beads and microfluidics
+
+
+Capture of circulating tumor cells (CTCs) from blood shows promise as a
+relatively non-invasive screen for early stage metastasis, treatment
+efficacy, and disease progression. Capture rates exceeding 80% of CTCs
+from whole blood have been demonstrated in microfluidic chips, with good
+specificity and throughput at approximately 1 mL/h. The most common
+approach is to design a high surface-area microdevice and functionalize
+the surface with anti-EpCAM to capture epithelial tumor cells. As an
+alternative to this monolithic design, we have developed a CTC capture
+strategy based on functionalized beads for analyzing small numbers of
+CTCs from whole blood. Beads for the device were commercially available
+in a variety of sizes and surface chemistries or could be synthesized by
+multiple techniques. We utilized avidin-functionalized beads to enable
+capture using biotinylated antibodies (Ab) for surface-expressed
+proteins. Critically, batches of beads were assayed in bulk and then used
+for multiple experiments, avoiding characterization of each device. Beads
+packed well as columns in microdevices, ensuring multiple surface
+interactions as cells flow through. We simulated CTC-carrying blood by
+spiking human breast cancer adenocarcinoma (MFC7) cells (prestained with
+a membrane dye) into whole human blood between 1000 cells/mL and 105
+cells/mL. Samples were delivered through the packed bed of beads using a
+syringe pump. We found that adding Ab to whole blood samples provided
+superior results to pre-coating the beads with the Ab. This approach was
+tested for multiple bead compositions and enabled (1) use of less Ab, and
+(2) higher capture rates, perhaps due to the rapid biotin:avidin binding.
+Significant cell capture was observed when as few as 300 cells were
+introduced into the device. At all cell densities, the majority of
+captured cells bound to the first few rows of beads, with decreasing
+capture frequency along the length of the column. Quantification of the
+absolute number of captured cells was a challenge in whole blood samples
+due to the large numbers of cells captured and optical distortion
+effects. We estimated capture by observing the initial capture rates of
+the same cells at the same densities in serum-spiked phosphate-buffered
+saline. This indicated that during the initial stages of flow, over 80%
+of the Ab-labeled cells were selectively captured. We conclude that the
+device can handle higher flowrates and still capture the majority of
+labeled cells. We are exploring the feasibility of this approach for
+capturing even lower CTC concentrations (1 cell/ml to 100 cells/mL
+range). Our bead/microfluidic approach simplifies CTC capture by enabling
+bulk surface functionalization for multiple experiments and allowing
+commercial sourcing of all functional elements. Further, there is
+flexibility in antibody selection, such that alternate Ab could rapidly
+be considered.
+

@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: VCF2CNA: a tool for efficiently detecting copy number alteration
+using VCF genotype data.
+
+
+Whole genome sequencing (WGS) is increasingly used in both research and
+clinical settings. The Variant Call Format (VCF) specification is a
+widely adopted file format for genetic variation data exchange partially
+due to its smaller file size compared to raw WGS BAMs. Each variant in a
+typical VCF file contains its chromosome position, reference/alternative
+alleles and corresponding allele counts. This makes it possible to
+identify copy number alterations (CNAs). To this end, we developed
+VCF2CNA (http://vcf2cna.stjude.org), a web interface tool for CNA
+analysis from VCF files.
+
+A user of VCF2CNA, uploads a VCF file via the provided web interface. The
+entire analysis runs remotely with an average run time of 23 minutes.
+Results are emailed to the user as either a downloadable link or file
+attachments. VCF2CNA also accepts input in the Mutation Annotation Format
+(MAF) and the variant file format produced by the Bambino program.
+
+We analyzed 22 TCGA glioblastoma tumor/normal pairs by Illumina
+technology to evaluate VCF2CNA’s performance. It achieved high
+consistency (average F1-score: 0.952 ± 0.082) with CONSERTING, a tool
+that incorporated read-depth and SV data from raw BAMs for CNA detection.
+A segment-by-segment comparison between results from CONSERTING and
+VCF2CNA indicated that the latter was less sensitive to focal CNAs. This
+is expected because there is less information in the VCF input than in
+raw BAMs. Further analysis using samples with a “fractured genome”
+pattern revealed that VCF2CNA was more robust to library artifacts and
+produced relatively clean CNA profiles (on average 76.2-fold reduction
+compared to the number of segments reported by CONSERTING).
+
+Finally, we analyzed 137 pediatric neuroblastoma samples from the TARGET
+project, sequenced by Complete Genomics, Inc. (CGI) technology. MYCN
+amplification has been clinically validated in 33 samples. VCF2CNA
+identified high amplitude MYCN gains in 32 samples and the remaining
+sample carried a low-level broad gain covering MYCN. For comparison,
+CGI’s HMM-based method reported MYCN gains in only 15 out of the 33
+samples. VCF2CNA further identified two additional MYCN amplifications
+among the remaining samples. Collectively, our analysis suggests that
+VCF2CNA is a platform-independent, efficient, robust and accurate tool
+for general WGS-based CNA analysis. It further complements CONSERTING,
+which produces more accurate result in focal CNAs at the cost of
+significantly higher computational burden.
+
+

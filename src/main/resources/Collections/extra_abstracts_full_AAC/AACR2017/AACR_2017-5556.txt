@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Widespread protein interactome network rewiring in human cancer.
+
+
+In the past decade, genome and exome sequencing projects have identified
+thousands of genetic variants in patients across a large number of cancer
+types. However, the explosion of genomic information has left many
+fundamental questions regarding genotype-phenotype relationships
+unresolved. One critical challenge is to distinguish causal disease
+mutations from non-pathogenic polymorphisms. Even when causal mutations
+are identified, the functional consequence of such mutations is often
+elusive. Classical “one gene, one function, one disease” models can
+not reconcile with the complexity that different mutations of the same
+gene often lead to different phenotypes. The extent to which network
+perturbations are involved in disease malfunction and how distinct
+interaction perturbation patterns can distinguish cancer mutations are
+largely unknown. Here we report a systematic approach to investigate
+genetic variant-specific effects on molecular interactions at large scale
+across diverse human cancers. Remarkably, in comparison to non-disease
+polymorphisms, disease mutations are more likely to associate with
+interaction perturbations. A large fraction of missense disease mutations
+are found to cause protein interaction alterations. While some result in
+loss of all their interactions, many exhibit selective elimination of
+specific interactions (“edgetic”). Different mutations of the same
+gene give rise to different interaction profiles, accounting for distinct
+disease outcomes. Edgetic mutations perturb interactions through
+disrupting specific interaction interfaces, and the perturbed partners
+are more likely expressed in relevant disease tissue. Together, our
+approach is insightful in prioritizing disease-causing variants, and
+uncovering patient mutation-specific disease mechanisms at a base-pair
+resolution, a critical step towards personalized precision medicine.
+Furthermore, our results suggest distinct interaction perturbations as a
+widespread mechanism underlying genetic heterogeneity, providing a
+fundamental link between genotype and phenotype in cancer.
+
+

@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Regulation of radiation-induced in situ tumor vaccination by TGF
+superfamily members
+
+
+Transforming Growth Factor-beta (TGF) and activin A (actA) are members of
+the TGF superfamily with overlapping as well as distinct functions in
+many processes including regulation of inflammation and immunity. Similar
+to TGF, actA has been shown to promote the conversion of CD4+CD25- T
+cells into induced regulatory T cells (iTregs), and to potentiate iTregs
+generation by TGF.Many cancer cells produce actA, and we have recently
+found that levels of actA released in vitro by breast cancer cells are
+enhanced by radiotherapy (RT). Interestingly, prolonged exposure to TGF
+inhibitors also resulted in enhanced actA release, consistent with a
+compensatory mechanism described in development (Carvalho et al., J Cell
+Sci, 2007). Here we tested the hypothesis that actA plays a role in
+regulating anti-tumor immunity induced by local tumor RT and TGF blockade
+in vivo (Vanpouille-Box et al., Cancer Res 2015).4T1 derivatives with
+conditional actA knockdown (4T1shActA) or non-silencing control (4T1shNS)
+were engineered using inducible doxycycline (DOX) plasmids and injected
+s.c. in BALB/c mice (day 0). ActA gene knockdown (KD) was induced by DOX
+at day 8. TGF neutralizing 1D11 or isotype control antibodies were given
+i.p. every other day starting on day 12. RT was delivered to the primary
+tumor in 6Gy fractions on five consecutive days starting at day 13. Mice
+were followed for tumor growth and survival or euthanized at day 22 or 28
+for analysis.Consistent with in vitro data, ActA gene expression was
+upregulated at day 28 in 4T1 tumors of mice after prolonged TGF blockade
+by 1D11. Neither 1D11 nor ActA gene KD by themselves inhibited tumor
+growth. However, each intervention significantly improved tumor control
+achieved by RT. ActA KD in mice treated with RT+1D11 prevented tumor
+recurrence and improved survival (RT+1D11 vs RT+1D11+shActA p = 0.026;
+RT+shActA vs RT+1D11+shActA p = 0.0008). Interestingly, blockade of TGF
+or actA resulted in increased intratumoral Tregs (Control: 11.6%; 1D11:
+26.2%, shActA: 21%) and markedly enhanced the increase in Tregs seen with
+RT alone (RT: 15.7%; RT+1D11: 27.5%; RT+shActA: 30.3%). In marked
+contrast, when both TGF and actA were inhibited Tregs significantly
+decreased in both non-irradiated (1D11+shActA: 13.6%) and irradiated
+tumors (RT+1D11+shActA: 7.9% of Tregs). IFN production by CD8+ T cells in
+response to the tumor-specific AH1 peptide was significantly higher in
+RT+1D11+shActA treated mice compared to RT+1D11 (p = 0.045) and RT+shActA
+(p = 0.0147). Additionally, in RT+1D11+shActA mice expression of the
+activation marker CD69 was markedly increased in intra-tumoral CD8+ PD-1+
+T cells (MFI Control: 187; 1D11: 139.5; shActA: 162; 1D11+shActA: 111;
+RT: 138.5; RT+1D11: 379; RT+shActA: 182; RT+1D11+shActA: 498.5).Overall,
+data indicate that TGF and actA regulate Tregs numbers in tumors and show
+a complex interaction with RT. Combined blockade of TGF and actA during
+RT may be required to improve in situ vaccination by RT.
+

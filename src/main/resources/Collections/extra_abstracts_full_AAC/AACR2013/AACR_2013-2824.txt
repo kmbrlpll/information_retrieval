@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: In vitro tumor extravasation model.
+
+
+Cancer cell metastasis is a series of biological processes that allow
+malignant tumor cells to invade from primary to secondary sites.
+Understanding the invasion of the secondary site remote tissue requires
+studying the individual steps in metastasis, particularly, those leading
+up to and immediately following extravasation of a circulating tumor cell
+from a blood vessel into the remote tissue. The platform presented here
+mimics the tumor microenvironment in a well-controlled manner, and
+provides high resolution imaging of tumor cell extravasation and the
+early stages of colonization. We investigate the extravasation step where
+tumor cells transmigrate across an endothelial monolayer into a hydrogel
+model of the extracellular space. We find tumor cells are more likely to
+extravasate soon after contact with the endothelium.We have cultured and
+sustained an endothelial monolayer spanning the entire microchannel and
+hydrogel surface of the microfluidic system. Two days after seeding of
+endothelial cells, we introduced tumor cells into the same microchannel
+now covered with endothelium to observe cancer cell extravasation. The
+experimental protocol is optimized to ensure the formation of an intact
+endothelium prior to the introduction of tumor cells and also to observe
+tumor cell extravasation by having a suitable tumor seeding
+density.Extravasation is observed for 35% of the tumor cells in contact
+with the endothelium within 1 day after their introduction. The region of
+interest (ROI) is imaged with confocal microscopy and can determine
+whether a cancer cell, labeled green with GFP, has transmigrated across
+the endothelium, denoted by VE-cadherin staining, and extravasated into
+the gel region. We also measured the permeability of the endothelial
+monolayer to monitor barrier integrity as well as the changes induced by
+interactions with tumor cells by measuring the diffusion of
+fluorescently-labeled dextran across the monolayer. Permeability
+increased 3.8 fold 24 hours after introducing tumor cells, suggesting the
+endothelial barrier integrity is compromised by the interactions. Average
+number of tumor cells in ROIs increased between day 1 and day 3 after
+tumor seeding while the percent of ROIs with extravasated cells did not
+change significantly. These results suggest that extravasation in our
+system occurs predominantly within the first 24 hours of tumor cell
+introduction and that proliferation can continue both prior to and after
+extravasation.The experimental systems have a major advantage in studying
+cancer extravasation; they can mimic aspects of the 3D in vivo situation
+in a controlled environment while simultaneously providing in situ
+imaging capabilities for visualization. Thus, this model allows
+quantitative study of metastatic cancer interactions with the potential
+to identify novel metrics of cancer cell invasiveness and suggests
+possible use as a platform for drug screening.
+

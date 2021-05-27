@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Phospholipids regulate the localization and oncogenic potential of
+protein tyrosine kinase 6 in prostate cancer
+
+
+Background: Protein tyrosine kinase 6 (PTK6, also called BRK) is an
+intracellular SRC-related tyrosine kinase that does not possess canonical
+localization signals. Lack of targeting yields flexibility in its
+intracellular localization and access to substrates. PTK6 is observed in
+the nuclei of prostate epithelial cells where it promotes differentiation
+and inhibits growth. PTK6 is activated at the plasma membrane in
+PTEN-deficient mouse prostate tumors where the concentration of PIP3 is
+high due to PTEN loss of function. Membrane-associated PTK6 induces cell
+transformation, the epithelial-mesenchymal transition, and tumor cell
+metastasis. In human prostate cancer, active PTK6 associates with the
+plasma membrane and its increased expression correlates with metastasis
+and poor survival. Our studies aimed to characterize how the
+mislocalization and activation of PTK6 in prostate cancer is
+regulated.Results: Based on our observation that loss of PTEN induces
+accumulation of PTK6 at the membrane, we hypothesized that PTK6 binds to
+the plasma membrane secondary messenger phosphatidylinositol
+(3,4,5)-trisphosphate (PIP3). Amino acid sequence alignment predicts H52,
+Y53, and K54 of PTK6 as a potential PIP3 binding site, which resembles
+the lipid-binding HYK domain of tyrosine kinases BTK and Abl. Using NMR
+saturation transfer difference (STD) experiment, we observed that the SH2
+domain of PTK6 contains a binding site for inositol trisphosphate (IP3) a
+soluble PIP3 mimic. As predicted, statistical analysis identified Y53 of
+the PTK6 HYK motif within the SH2 domain as a residue with substantial
+chemical shift perturbations (CSPs) induced by independent titrations
+with PIP3 analogs IP3, IP4, and 1,2-dihexanoyl PIP3 in 15N HSQC, as
+compared to controls. Using autophosphorylated and unphosphorylated PTK6,
+NMR STD experiments show that only active (pY342) PTK6 binds to IP3.
+Treatment of prostate cancer cells with the PI3K inhibitor wortmannin
+reduces active PTK6 at the plasma membrane.Conclusions: Our data
+demonstrate that active PTK6 is recruited to the plasma membrane through
+direct interactions with PIP3. Membrane association places PTK6 in close
+proximity to its oncogenic substrates AKT, FAK and BCAR1, thereby
+promoting tumor progression. These findings may facilitate identification
+of novel PTK6 inhibitors that block its association with the membrane,
+while not affecting its tumor suppressive role in the nucleus.This work
+is funded by NIH grant 1R01CA188427 to ALT and VG.
+

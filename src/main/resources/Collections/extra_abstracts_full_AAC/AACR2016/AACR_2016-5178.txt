@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Determinants of response to temozolomide in an exceptionally
+sensitive patient derived model
+
+
+Application of precision medicine to cancer treatment utilizes
+cutting-edge genomic sequencing techniques to identify specific mutations
+in tumors that can be matched to targeted therapies designed to treat
+those abnormalities. To complement NCI-MPACT, an ongoing molecular
+profiling-based clinical trial (NCT01827384), we used cell lines
+developed from several patient-derived xenograft (PDX) models to examine
+response to, and potential biomarkers for, the regimens of the 4-arm
+MPACT trial: veliparib (VLP)/temozolomide (TMZ), AZD1775/carboplatin,
+everolimus and trametinib. In vitro sensitivity of the PDX-derived cell
+lines to clinically achievable concentrations of these MPACT drugs
+(combinations and single agents) was examined in classic 2D cultures
+(monolayer on plastic) and 3D cultures (spheroids generated in ultra-low
+attachment culture plates). Responses in 2D and 3D cultures were similar
+after 7 days of drug exposure. Moreover, adding VLP (1.7M or 5M) in
+combination with TMZ did not enhance TMZ cytotoxicity. A bladder cancer
+cell line developed from a PDX model (BLX) showed exceptional sensitivity
+to TMZ (IC50 3-5M) compared to a lung cancer cell line (also produced
+from a PDX; LUX) which was insensitive (IC50 >40 M). Loss of MGMT
+expression in glioma and possibly in colorectal carcinoma is considered a
+predictive biomarker for response to alkylating agents, such as
+dacarbazine and TMZ. Indeed, we could not detect MGMT protein expression
+in BLX, while MGMT was present at high levels in LUX. To elucidate unique
+determinants of BLX hypersensitivity to TMZ beyond MGMT expression, we
+examined DNA damage responses elicited in this model. Under both 2D and
+3D conditions, exposure to TMZ (13 and 40M) for various times (4, 8, 12,
+24, 48, 72 and 96 hrs) induced H2AX after 24 hr, while PARP1 cleavage was
+induced as early as 48 hrs after drug addition indicating the onset of
+apoptosis. TMZ activated ATR and ATM signaling pathways especially at the
+later time points, paralleling the pharmacodynamics of PARP cleavage.
+Moreover, concordant with the sensitivity profiles, signaling activation
+in 2D and 3D conditions was similar. In contrast, none of these pathways
+were activated in the TMZ non-responsive LUX model. Cell line models
+developed from PDXs with intermediate MGMT expression are being
+evaluated.A key to success of personalized medicine in oncology will be
+the identification of genomic determinants that predict which individual
+cases will show exceptional responses to particular treatments, and our
+data suggest that PDX cell line models may be valuable for elucidating
+molecular and genetic characteristics of response to specific drugs and
+for the identification of predictive biomarkers.Funded by NCI Contract
+No. HHSN261200800001E. This research was supported, in part, by the
+Developmental Therapeutics Program in the Division of Cancer Treatment
+and Diagnosis of the National Cancer Institute.
+

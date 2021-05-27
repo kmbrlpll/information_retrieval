@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Proteogenomic classifications and outcome in squamous cell
+carcinoma of the lung.
+
+
+Introduction: Genomic analyses have yielded a tremendous amount of
+knowledge on the genetic changes in lung cancers, but translating this
+information into actionable data benefitting patients has proven
+difficult. The integration of proteomic analyses with genomics and gene
+expression profiling allows a more detailed description of the biological
+processes, thus improving our understanding of cancer phenotypes. These
+insights can potentially be used for better classification and help to
+guide patient selection for targeted therapies.
+
+Experimental: We analyzed 116 surgically resected squamous cell lung
+carcinoma samples for copy-number alterations, gene expression profiling,
+targeted exome-sequencing and global proteomic profiling. The cohort
+consisted of mostly early stage tumors (83% Stage I or II) with complete
+follow-up (median 58 months). Copy number status was analyzed using the
+Affymetrix CytoScan array, DNA mutation status was assessed using a
+customized version of the Agilent Comprehensive Cancer Panel for targeted
+sequencing, and gene expression profiling was carried out by
+RNA-sequencing. Proteomic analysis was performed using TMT labeling, 12-
+fraction bRPLC separation and LC-MS/MS analysis with a Thermo Q-Exactive
+mass spectrometer. Database searches were performed using multiple search
+engines against RefSeq version 78, and summarized using IDPicker 3.
+
+Results: The non-redundant protein inventory consisted of more than 6,000
+protein groups with a protein FDR Results: The non-redundant protein
+inventory consisted of more than 6,000 protein groups with a protein FDR
+<5%. Tumors were classified according to well established gene expression
+criteria into 4 classes: Classical, Basal, Primitive and Secretory. At
+the protein level, the Classical subtype was associated with xenobiotic
+and energy metabolism; the Basal subtype with defense responses and
+extracellular matrix changes; the Primitive subtype with nucleic acid
+metabolism; and the Secretory subtype with p38 signaling. These findings
+confirm and expand on previous mRNA expression studies of squamous cell
+lung carcinoma. Proteomics-based classification identified two
+sub-categories within the Classical subtype, which were characterized by
+inflammatory and stress response signaling. Within this group, patients
+with high expression of inflammation-associated proteins had better
+cancer-specific survival than those with low expression (p=0.04, Log-rank
+test). Targeted exome sequencing of 154 cancer-associated genes revealed
+frequent mutations in TP53, CDKN2A, NFE2L2, and other genes. Proteomic
+expression of genes located in amplified chromosomal regions was used to
+identify driver genes in squamous cell lung carcinoma.
+
+Conclusion: Our results provide new biological insights from the addition
+of protein measurements to genomic datasets that have the potential to
+improve classification. The data suggest that proteins involved in immune
+responses are important for the biological behavior and outcome of the
+Classical subtype in squamous cell lung carcinoma.
+
+

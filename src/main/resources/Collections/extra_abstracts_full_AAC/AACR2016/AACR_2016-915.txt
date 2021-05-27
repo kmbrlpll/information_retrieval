@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: RNA processing signatures of normal versus malignant progenitor
+cell aging predict leukemia stem cell sensitivity to RNA splicing
+modulation
+
+
+Introduction: Human bone marrow aging is typified by decreased
+cellularity, stem cell exhaustion and myeloid lineage bias that may set
+the stage for development of myeloid malignancies. Secondary AML (sAML)
+is a malignancy that has been associated with alterations in RNA
+processing genes and currently has few effective treatment options
+available. A central goal of future therapeutic strategies is to prevent
+disease relapse and therapeutic resistance by selectively targeting
+unique gene products that are essential to LSC but not normal HSC
+function. Therefore, we established whole gene, long non-coding RNA
+(lncRNA), splice isoform, and RNA editing signatures of benign versus
+malignant bone marrow progenitor cell aging, and evaluated the
+therapeutic efficacy of splicing-targeted agents in pre-clinical
+humanized in vitro and in vivo model systems.Methods: Whole transcriptome
+sequencing (RNA-Seq) was performed on FACS-purified hematopoietic stem
+(CD34+CD38-Lin-) and progenitor cells (CD34+CD38+Lin-) from aged (average
+age = 65.9 6.8 years old) versus young (average age = 25.8 3.0 years old)
+adult healthy bone marrow samples, and in leukemia stem cells (LSC) from
+patients with sAML (average age = 71.4 7.9 years old). Comparative gene
+set enrichment analyses (GSEA), splice isoform, lncRNA, and RNA editing
+profiles were identified for normal and malignant progenitor cell aging.
+Then, we evaluated the spliceosome modulatory agent 17S-FD-895 in
+splicing reporter activity, PCR, and functional in vitro hematopoietic
+progenitor and in vivo LSC primagraft assays.Results: Disruption of
+pre-mRNA splicing activity has recently been implicated as a therapeutic
+vulnerability in some types of cancer. Comparative whole transcriptome
+RNA sequencing (RNA-seq) analyses revealed pre-mRNA splicing factor gene
+expression was significantly disrupted in human AML LSC compared with
+age-matched normal progenitors. Comparative splice isoform RNA-seq and
+qRT-PCR validation revealed recurrent intron retention and exon skipping
+in expressed transcripts, such as PTK2B and several protein phosphatase
+gene products. Notably, transcription factor profiling of AML LSC
+demonstrated downregulation of key tumor suppressor genes, such as IRF8
+and TP53. We then investigated the LSC inhibitory efficacy of a stable
+and potent splicing modulatory agent, 17S-FD-895, in humanized stromal
+co-culture and AML LSC primagraft assays. Pharmacological spliceosome
+modulation disrupted AML LSC maintenance in vivo by altering splicing of
+stem cell survival and AML-associated transcripts at doses that spared
+normal hematopoietic progenitors.Conclusions: Detection and targeted
+modulation of aberrant RNA processing provides an innovative strategy for
+AML LSC eradication with implications for treatment of a variety of human
+malignancies and other age-related disorders.
+

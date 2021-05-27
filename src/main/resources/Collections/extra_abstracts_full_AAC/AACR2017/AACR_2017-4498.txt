@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Targeting IRE1a-XBP1 signaling in lung cancer.
+
+
+Every year 1.5 million people die from lung cancer worldwide.
+Approximately ~15-30% of non small cell lung cancers (NSCLC) are driven
+by KRAS mutations and currently possess no viable therapeutic options. As
+such the discovery of effective therapeutic alternatives for the
+treatment of KRAS driven NSCLC are sorely needed. One prospect being
+explored in other solid tumors, but currently unexplored in NSCLC, is
+targeting the endoplasmic reticulum (ER) stress response. Adverse
+conditions in tumors such as hypoxia, nutrient starvation and reactive
+oxygen species disrupt protein folding, and induce ER stress. The most
+evolutionarily conserved pathway by which this insult is alleviated is
+the IRE1α-XBP1 axis, which responds by increasing the expression of a
+broad range of protein folding and quality control genes. Previous work
+has demonstrated that several cancers utilize this pathway to promote
+tumorigenesis, progression, epithelial to mesenchymal transition and
+metastasis. A preliminary analysis of a tissue microarray containing 304
+human NSCLC samples, 254 demonstrated at least some positivity and >50%
+were strongly positive for the active isoform of XBP1. Given these
+preliminary findings we investigated the status of IRE1a-XB1 in our
+murine orthotopic model and confirmed the activation of IRE1a-XBP1
+signaling in tumor cells in the context of the tumor microenvironment.
+Furthermore, in both cell types we can see the activation of canonical
+downstream targets of XBP1. Utilizing the CRISPR-CAS9 system, we knocked
+out IRE1a in the orthotopic tumor cell line. IRE1a abrogation was
+confirmed by western blot, evaluating the fraction of active XBP1 after
+induced ER stress in vitro, and qPCR of canonical downstream targets.
+Additionally, this knockout did not alter proliferation or morphology in
+vitro. However, when tumors were grown orthotopically, Cas9-IRE1a
+knockouts failed to grow past 10 days, whereas Cas9-Scramble controls and
+the parental tumor line grew comparably until end stage. Given these
+preliminary findings and data from prior studies, we hypothesize that the
+abnormal activation of the IRE1α-XBP1 axis may influence KRAS NSCLC
+progression and aggressiveness and serve as a potential novel avenue for
+the treatment of NSCLC. After probing the impact of the underlying
+mechanism on tumor growth we will finally evaluate the translational
+utility of targeting the ER stress pathway with a small molecule
+inhibitor against IRE1a.
+
+

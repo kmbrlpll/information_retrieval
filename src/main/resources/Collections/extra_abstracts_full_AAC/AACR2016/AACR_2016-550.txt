@@ -1,0 +1,31 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Evaluating changes in T cell activation by measuring expression of
+IL-2, CTLA-4, NFAT, and NF-kB in Jurkat cells
+
+
+Insufficient stimulation of T cells due to activated checkpoint pathways
+can lead to ineffective clearance of tumor cells and thus, tumor growth
+and cancer. Developing methods to measure changes in the activation of
+such pathways are needed to evaluate the efficacy of immunotherapy
+approaches to treating cancer by altering T cell activation. Current
+methods that use measurments of IL-2 expression are limited by the fact
+that IL-2 is not specific to T cell activation and that it provides
+little insight into the mechanisms by which activation is affected. This
+project aims to address such limitations by determining whether changes
+in T cell activation can be effectively evaluated by measuring expression
+of CTLA-4, NFAT, and NF-kB, in addition to IL-2. Jurkat cells were
+cultured and activated with PMA (100 ng/mL) and ionomycin (500 ng/mL) for
+five hours. Staining for IL-2 and CTLA-4 with antibodies and transfection
+of the cells with genetic constructs that link NFAT and NF-kB to
+fluorescent proteins provided the means to link expression of
+fluorescence to expression of the molecules of interest. FACS analysis
+was then used to measure changes in the expression of the four signaling
+molecules in response to the induced changes in activation. Activation of
+the cells resulted in increased expression of all four molecules.
+Following activation, fluorescence due to CTLA-4, NFAT, and NF-kB
+expression changed by average fold increases of 2.58, 1.10 and 1.13,
+respectively. By measuring these key elements of T cell signaling
+pathways in addition to IL-2, these methods provide a potentially more
+effective alternative to current methods for evaluating the efficacy of
+immunotherapeutic treatments for cancer.
+

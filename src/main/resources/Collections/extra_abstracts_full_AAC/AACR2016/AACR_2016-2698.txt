@@ -1,0 +1,63 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Transcriptional profiling of human TAMs highlights differences in
+breast and endometrial tumour microenvironments
+
+
+Background: Breast and endometrial cancers are two of the most frequently
+diagnosed reproductive cancers in women in the western world. Previously,
+research has focused on cancer cells, however increasing evidence shows
+that the tumour microenvironment plays an important role in cancer
+progression. Macrophages are almost entirely derived from circulating
+monocytes and are recruited into tumour sites. In murine studies,
+tumour-associated macrophages (TAMs) have been implicated in promoting
+angiogenesis, immune suppression and resistance to treatment. Their
+density has been associated with poor prognosis in breast cancer and
+decreased survival in endometrial cancer. However, little is known about
+the function of TAMs in humans. The aim of this study is to examine the
+transcriptional profiles of human TAMs in order to investigate their
+biological relevance and potential for therapeutic intervention.Methods:
+RNA-sequencing was performed on purified normal macrophages and TAMs from
+breast tissue (4 breast cancer and 4 healthy breast) and endometrium
+tissue (5 endometrial cancer and 9 healthy endometrium). Statistical
+analysis using Limma was used to identify significantly differentially
+expressed genes (FDRBackground: Breast and endometrial cancers are two of
+the most frequently diagnosed reproductive cancers in women in the
+western world. Previously, research has focused on cancer cells, however
+increasing evidence shows that the tumour microenvironment plays an
+important role in cancer progression. Macrophages are almost entirely
+derived from circulating monocytes and are recruited into tumour sites.
+In murine studies, tumour-associated macrophages (TAMs) have been
+implicated in promoting angiogenesis, immune suppression and resistance
+to treatment. Their density has been associated with poor prognosis in
+breast cancer and decreased survival in endometrial cancer. However,
+little is known about the function of TAMs in humans. The aim of this
+study is to examine the transcriptional profiles of human TAMs in order
+to investigate their biological relevance and potential for therapeutic
+intervention.Methods: RNA-sequencing was performed on purified normal
+macrophages and TAMs from breast tissue (4 breast cancer and 4 healthy
+breast) and endometrium tissue (5 endometrial cancer and 9 healthy
+endometrium). Statistical analysis using Limma was used to identify
+significantly differentially expressed genes (FDR< 0.05) with a minimum
+log2 fold change of 1.5. Gene set enrichment (GSEA) analysis and gene
+ontologies (GO) were employed for functional analysis and identification
+of important biological pathways.Results: Transcriptome profiling
+revealed a significantly altered gene expression profile of TAMs when
+compared to normal macrophages. Furthermore, comparison of TAMs between
+breast and endometrial cancer also revealed differences suggesting that
+different tumour microenvironments induce different gene expression
+profiles in TAMs. Interestingly, comparison of normal macrophages between
+breast and endometrial tissue also revealed differences in gene
+expression suggesting tissue specificity for macrophages. Functional
+analysis of significant genes revealed similar biological pathways to
+those of murine studies suggesting that TAMs in humans may have similar
+functions. We were able to extract TAM-specific genes by comparing with
+publicly available datasets that could serve as markers for their
+identification. Finally, we identified a list of transmembrane receptors
+that could act as potential targets for targeted killing of
+TAMs.Conclusion: This is the first study to carry out genome-wide
+profiling of TAMs in human breast and endometrial cancer. Expression
+profiles differed between TAMs and healthy patients, as well as between
+breast and endometrial cancer suggesting cancer specificity for TAMs and
+revealing not only potential TAM-specific markers, but also identifying
+possible cancer- and TAM-specific therapeutic targets.
+

@@ -1,0 +1,60 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Targeting inhibitors of apoptosis in combination with radiation
+for the treatment of head and neck squamous cell carcinoma.
+
+
+Background and purpose:
+
+Evasion of apoptosis contributes to radioresistance of head and neck
+squamous cell carcinoma (HNSCC), calling for novel strategies to overcome
+apoptotic resistance. Second mitochondria-derived activator of caspase
+(SMAC) - mimetics are a class of targeted drugs that antagonize selected
+inhibitor of apoptosis protein (IAP) to block pro-survial signalling, and
+eventually induce cell apoptosis. The present study was designed to
+investigate the radiosensitizing effect of one SMAC mimetic, LCL161, in
+HNSCC and the underlying mechanisms for radiosensitization.
+
+Material and methods:
+
+We analyzed the correlation between apoptotic molecules and HPV status in
+HNSCC via mRNA expression using The Cancer Genome Atlas (TCGA) database,
+as well as protein expression in 6 HNSCC cell lines by immunoblotting. We
+also examined cIAP1 expression on a tissue microarray (TMA) of HNSCC
+tumors, and assessed its correlation with HPV status and patient outcome.
+Clonogenic survival and WST-1 assays were carried out to explore the
+potential of LCL161 as a radiosensitizer in HNSCC cell lines. Cell cycle
+analysis, Annexin-V assays and immunoblotting were performed to
+investigate effects of LCL161 on radiation induced cell apoptosis. Human
+tumor xenografts were generated to explore the radiosensitization effect
+of LCL161 on HPV[-] tumors in vivo.
+
+Results:
+
+TCGA database analysis and immunoblotting from HNSCC cells revealed that
+expression of cIAP1, Survivin, DIABLO, p65, IK-b, TNF-α, BCL-XL,
+Caspase-7, and Caspase-8 were elevated in HPV[-] compared to HPV[+] HNSCC
+tumors. IHC staining showed cIAP1 expression was associated with HPV[-]
+status (p=0.0239). In addition, cIAP1 expression was significantly higher
+in HNSCC compared with adjacent normal tissue (p=0.0003). In univariate
+analysis, cIAP1 was significantly associated with poor overall survival
+(p=0.0359). LCL161 degraded cIAP1 at nanomolar concentrations but has
+minimal single-agent cytotoxicity with IC50 range of 32 μM – 95 μM.
+Interestingly, we found that LCL161 could induce radiosensitization only
+in HPV[-], but not in HPV[+] HNSCC cells. Mechanistic studies showed
+LCL161 mediated radiosensitisation was associated with increased cell
+apoptosis, with enhanced activation of caspases-3, -7, -8, -9, and PARP.
+Finally, in vivo data showed that LCL161 degraded cIAP1, activated
+caspases, and profoundly radiosensitized two human HPV[-] HNSCC xenograft
+models.
+
+Conclusion:
+
+Taken together, our results demonstrate for the first time that cIAP1 is
+a potential prognostic and therapeutic biomarker for HNSCC patients.
+Through targeting cIAP1 and other IAP family members, LCL161,
+radiosensitizes HNSCC tumors, particularly HPV [-] tumors, via caspase
+activation and apoptosis induction. Taken together, LCL161 holds promise
+for future clinical development as a novel radiosensitizer in the
+treatment of HPV[-] HNSCC tumors.
+
+

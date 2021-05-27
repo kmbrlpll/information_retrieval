@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identifying selective vulnerabilities in colorectal cancer
+molecular subtypes using in vivo functional genomic screens.
+
+
+Colorectal cancer (CRC) is a leading cause of cancer-related morbidity
+and mortality with significantly heterogeneous features and drug
+responses. Recently, the international Colorectal Cancer Subtyping
+Consortium identified four robust consensus molecular subtypes of CRC
+(CMS1-4) using large-scale gene expression data. These findings may
+enable us to identify molecularly homogenous subsets of CRC patients and
+accelerate effective drug development strategies. To identify potential
+therapeutic targets and novel selective vulnerabilities in CRC molecular
+subtypes, we developed an in vivo loss-of-function genomic screen using
+CRC patient-derived xenografts (PDXs) for each molecular subtype. Our
+PDX-derived CRC models underwent comprehensive integrated molecular
+characterization of mRNA profiles, DNA mutations, and histochemical
+profiles upon confirmed serial retransplantation to determine whether
+characteristics of the subtypes are recapitulated in vivo. Because the
+original CMS classification algorithm was trained and validated using
+Affymetrix data, profiling the PDX-derived cell lines using this
+technology provided the most robust analysis of the CMS subtypes. In vivo
+pooled short hairpin RNA (shRNA) screens rely on specific elimination of
+individual shRNAs in a cell population and require that the infected
+tumor cell population is adequately endowed with engraftment capacity
+when implanted into recipient mice. Therefore, we determined the
+transduction efficiency of the PDX models, the frequency of
+tumor-initiating cells, and the maximum library complexity allowed by
+each model. To identify targets that represent selective vulnerabilities
+in specific CRC molecular subtypes, we screened each model in vivo with
+an shRNA library targeting about 200 genes specifically belonging to U.S.
+Food and Drug Administration-approved targeted therapies (FDAome; 10
+shRNAs/gene ). We leveraged redundant shRNA activity analysis to evaluate
+“hits” (or top-scoring genes) emerging from our screening. We further
+applied ranking-based analytics in combination with integromic approaches
+(use of computational packages to unravel relationships between -omics)
+to inform on selective CMS specific top-scoring genes. One of the
+benefits of using an FDAome library is the direct correspondence of
+target genes with clinically available drugs. We therefore tested these
+drugs for validation in fully annotated PDXs. These efforts, in
+association with systematic profiling of the CMS subtypes at the patient
+level through adaptation of NanoString technology, may enable us to
+stratify CRC patients who will benefit from selective U.S. Food and Drug
+Administration-approved drugs and to rapidly design successful
+preclinical and clinical trials in CRC patients.
+
+

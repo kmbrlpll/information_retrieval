@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Gene expression analysis identifies heterogeneity in cutaneous
+melanoma subjects with disruptive MC1R alleles and BRAF hotspot mutations.
+
+
+Background: Previous epidemiological and population sequencing studies
+have established that subjects with melanocortin 1 receptor (MC1R)
+germline mutations, associated with red hair and light skin phenotypes,
+have an increased risk of melanoma. However, several conflicting reports
+about the role of BRAF somatic mutations in MC1R subjects exist in the
+literature. We hypothesise that this conflict is due to biological
+process driven heterogeneity within MC1R subjects carrying disruptive
+alleles. To understand the heterogeneity, we analysed the TCGA cohort at
+the gene expression level using mRNA sequencing data.
+
+Method: From the previously published studies, we identified 68 cutaneous
+melanoma subjects who were of white ethinicity, had at least one
+disruptive allele of MC1R, and had BRAF mutations. Associated clinical
+and mRNA sequencing data were downloaded from the Firebrowse website. An
+unbiased hierarchical clustering analysis was performed using the
+preprocessed mRNA data containing 14669 gene expressions. The resultant
+clusters were then characterised using available clinical variables. A
+differential expression analysis was performed to identify the genomic
+signatures of these clusters. The resultant p-values were corrected for
+false discovery rate (FDR) using the Benjamini-Hochberg approach. Genes
+with corrected p-values less than 0.01 were further analysed using gene
+set enrichment analysis (GSEA) preranked lists.
+
+Results: An unbiased clustering identified two clear and separable
+clusters with 40 and 28 subjects respectively. The UV-signature
+(dipyrimidine C>T load) was correlated with these clusters (p-value =
+0.047). However, no significant differences in age at the time of
+diagnosis, overall survival, and total mutation load between clusters
+were observed. At the genomic level, 2588 genes were significantly
+differentially expressed between two clusters (FDR corrected p- value
+less than 0.05). The top 10 differentially expressed genes included ATF2,
+MSH6, SP3, MAP3K2, and VEGFB. Further GSEA revealed gene sets playing
+roles in several pathways and biological processes, including oxidative
+phosphorylation, UV response in keratinocytes, DNA repair, cell cycle,
+and cellular response to stress.
+
+Conclusion: Cutaneous melanoma subjects with disruptive MC1R alleles and
+BRAF hotspot mutations have heterogeneous gene expression profiles with
+several key oncogenes differentially expressed. This suggests potential
+roles of other pathways, either independently or in cooperation with BRAF
+mutations, in melanomagenesis in MC1R bearing patients.
+
+

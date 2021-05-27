@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Modeling cancer driver-like events in barrier bypass-clonal
+expansion in vitro assays
+
+
+BACKGROUND Cancer genomes harbor mutational spectra that document
+exposures to external factors and endogenous events underlying tumor
+development. Information on candidate cancer driver alterations is
+accessible from public compendia of somatic mutations, yet much of this
+knowledge remains descriptive and of limited mechanistic insight. Simple,
+robust and rapid systems are thus needed for well-controlled experimental
+investigations of functional impact of carcinogenic exposures on the
+genome and on cancer cell growth.METHODS We use barrier bypass-clonal
+expansion (BBCE) assays based on primary human and murine cell cultures,
+in which mutations are introduced by mutagenic carcinogens and examined
+by deep sequencing, after the exposed cells have bypassed a selective
+pressure barrier and have clonally immortalized. A customized deep
+sequencing data analysis pipeline is used to decipher both the mutational
+signatures and the putative functional driver events selected and
+enriched for during the clonal outgrowth phase.RESULTS Using the BBCE
+assays, we tested the global mutagenic effects of a number of known human
+carcinogens. We obtained 25 independently arising clones, altogether
+harboring 15,200 acquired mutations, with varying numbers per clone, of
+which 7,600 were non-synonymous. These affected 250 genes currently
+listed in the COSMIC Cancer Gene Census. Eighty-four genes were
+recurrently mutated across the BBCE clone panel, including
+well-established oncogenes (HRAS, ABL1, EGFR, MYC, PIK3CG) and tumor
+suppressors (APC, ATM, BRCA2, PTCH1, TP53). A number of epigenetic and
+chromatin regulators also acquired recurrent mutations, among them ASH1L,
+BAZ1A, BAZ1B, EP400, HDAC6, and members of histone lysine demethylase and
+methyltransferase families. Collectively, the recurrent alterations
+affected pathways regulating DNA damage response, DNA repair, cell cycle,
+cell death, transcription and chromatin structure, and developmental
+pathways of TGF-beta, Notch, WNT and ERBB signaling. Thus, as in human
+cancers, mutations driving critical steps of cellular stress bypass and
+clonal immortalization arise and become selected for when these processes
+are modeled in vitro.CONCLUSIONS The BBCE assays constitute a unique
+resource amenable to follow-up functional studies of particular mutations
+in cancer genes. Data will be presented describing systematic genome
+editing and pharmacological manipulation of select mutated genes,
+followed by assessment of resulting phenotypic and molecular traits. In
+summary, our BBCE approach may yield new mechanistic insights into
+driver-like events underlying cancer development.ACKNOWLEDGMENTS Funding
+from International Agency for Research on Cancer; ITMO CANCER-INSERM Plan
+Cancer 2015 grant to J.Z.
+

@@ -1,0 +1,73 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Differences in expression of lncRNAs in breast tumor, adjacent
+normal-appearing breast tissue, and normal breast tissue from healthy
+donors
+
+
+Long noncoding RNAs (lncRNAs) are an emerging class of key regulatory
+RNAs that are greater than 200nt and do not code for protein. They appear
+to be critical for various biological processes including gene
+regulation. Increasing evidence has suggested that aberrantly expressed
+lncRNAs play a key role in the initiation and progression of breast
+cancer. In most studies of breast cancer, breast tumor tissue was
+compared to adjacent normal-appearing tissue to identify differentially
+expressed lncRNAs. However, expression of lncRNAs in normal breast tissue
+from healthy donors has rarely been studied, and the differences in
+expression of lncRNAs in breast tumor and normal breast tissue from
+healthy donors remain largely unknown. Using RNA-sequencing data
+generated from freshly-frozen breast tissue samples, we examined the
+expression of lncRNAs in 119 breast tumor, 47 adjacent normal-appearing
+breast tissue samples, and 23 normal breast tissue samples from healthy
+donors. Bowtie and RESM algorithms were used to align raw reads and
+quantify transcript abundance. Differential expression analyses were
+performed using edgeR software. We assessed the expression of a total of
+7,844 mapped lncRNAs using normalized transcript counts. Unsupervised
+Principal Components Analysis (PCA) demonstrated that the lncRNA
+expression profile of adjacent normal-appearing tissue was different
+compared to normal breast tissue from healthy donors, and partially
+overlapped with the tumor. At various fold change thresholds, more
+differentially expressed lncRNAs can be detected when the tumor tissue is
+compared to normal tissue than to adjacent non-tumorous tissue. With a
+false discovery rate (FDR) Long noncoding RNAs (lncRNAs) are an emerging
+class of key regulatory RNAs that are greater than 200nt and do not code
+for protein. They appear to be critical for various biological processes
+including gene regulation. Increasing evidence has suggested that
+aberrantly expressed lncRNAs play a key role in the initiation and
+progression of breast cancer. In most studies of breast cancer, breast
+tumor tissue was compared to adjacent normal-appearing tissue to identify
+differentially expressed lncRNAs. However, expression of lncRNAs in
+normal breast tissue from healthy donors has rarely been studied, and the
+differences in expression of lncRNAs in breast tumor and normal breast
+tissue from healthy donors remain largely unknown. Using RNA-sequencing
+data generated from freshly-frozen breast tissue samples, we examined the
+expression of lncRNAs in 119 breast tumor, 47 adjacent normal-appearing
+breast tissue samples, and 23 normal breast tissue samples from healthy
+donors. Bowtie and RESM algorithms were used to align raw reads and
+quantify transcript abundance. Differential expression analyses were
+performed using edgeR software. We assessed the expression of a total of
+7,844 mapped lncRNAs using normalized transcript counts. Unsupervised
+Principal Components Analysis (PCA) demonstrated that the lncRNA
+expression profile of adjacent normal-appearing tissue was different
+compared to normal breast tissue from healthy donors, and partially
+overlapped with the tumor. At various fold change thresholds, more
+differentially expressed lncRNAs can be detected when the tumor tissue is
+compared to normal tissue than to adjacent non-tumorous tissue. With a
+false discovery rate (FDR) < 0.05 and a fold change (FC) of more than 2,
+we identified 107 differentially expressed lncRNAs for the tumor vs.
+normal breast tissue, 53 lncRNAs for tumor vs. adjacent normal-appearing
+tissue, and 20 lncRNAs for adjacent normal-appearing vs. normal breast
+tissue. In our analyses of tumor vs. adjacent normal-appearing tissue and
+tumor vs. normal tissue from healthy donors, we identified differentially
+expressed lncRNAs including HOTAIR, GAS5 and ANRIL/CDKN2B-AS1 that were
+previously implicated in breast cancer, with considerably higher fold
+changes in latter comparison. When using normal breast tissue from
+healthy donors as the baseline, we identified novel putative breast
+cancer-associated lncRNAs including EMX2OS, TERC, HOTAIRM1, and WT1-AS
+that are aberrantly expressed in breast tumor. These lncRNAs were not
+identifiable in a direct comparison of tumor and adjacent
+normal-appearing tissue. Our results suggest that adjacent
+normal-appearing tissue undergoes changes in lncRNAs expression similar
+to those observed in tumor tissue to some extent, and a number of new and
+potentially important lncRNAs can only be detected using normal tissue
+from healthy donors as an optimal baseline tissue.
+

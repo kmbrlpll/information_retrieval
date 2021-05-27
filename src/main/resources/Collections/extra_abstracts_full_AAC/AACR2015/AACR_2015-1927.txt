@@ -1,0 +1,29 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Evolutionary novel genes expressed in fish tumors determine
+progressive evolutionary characters
+
+
+The origin of evolutionary novel genes is connected with the origin and
+evolution of the novel organismal functions and the increase in
+morphological complexity of multicellular organisms. Novel gene acquire
+new or altered functions. Here we describe that evolutionary novel genes,
+expressed predominantly in transgenic fish tumors after their induced
+regression, determine progressive evolutionary characters and are
+conserved in human.We used a sample of genes, which were activated in
+inducible krasV12 transgenic zebrafish tumors according to the results of
+RNASeq data. Genes from our sample were expressed after HCC regression
+upon kras inactivation. The search of orthologs by different tools, such
+as blastx and psiblast, with e-value cut off not less than 10-3 and query
+coverage more than 50%, discovered that considerable proportion of
+tumor-specifically expressed genes are evolutionary novel, i.e. their
+orthologs are not found in Lamprey. 63 of these novel genes have
+orthologs in humans. Gene ontology (GO) data were used to analyze their
+functions. According to the results of GO some of the genes have
+functions not characteristic to fish. Among known functions of the human
+orthologues of evolutionary novel genes of zebrafish (vs. Lamprey) there
+are some important morphogenetic functions. For example, genes ccdc40,
+lmx1ba and lepa acquired functions in lung, embryonic utera and placenta,
+i.e. organs originated in taxa higher than fish. A large proportion of
+genes from our sample are connected with retina type eye, heart and brain
+development.
+

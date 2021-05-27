@@ -1,0 +1,32 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Systematic interrogation of druggable pathways in pancreatic
+adenocarcinomas using pooled gene-knockdown lentiviral libraries
+
+
+Despite significant advances in the development of cancer treatment in
+the last 20 years the best available therapies have marginally improved
+the survival rate of treated pancreatic cancer patients (from 3% to 6%
+five-year survival), making it still one the deadliest malignancies.
+Single standard of care cytotoxic and targeted therapies demonstrate
+little to no effect on patient survival. Even though we now understand
+some of the main genetic factors that are mutatated in pancreatic tumors,
+their role in drug response remains poorly understood. To identify
+drug-sensitizing genetic targets in cancer cells we have developed a
+high-throughput screening platform. In this methodology, pooled
+lentiviral libraries containing hundreds of knockout constructs specific
+for cancer-related genes are used to infect cancer cells. By treating the
+infected populations with therapeutic agents we are able to identify
+genetic targets that when inhibited synergize with existing drugs to
+cause increased cell death. We piloted this type of screening platform in
+HCT-116 cells, a KRAS mutant, MEK inhibitor resistant colorectal cancer
+cell line, using the MEK-inhibitor AZD-2644 and a pooled shRNA library.
+This study identified 4-7 target genes that when knocked down sensitized
+the previously resistant HCT-116 cells to AZD-2644. To conduct a more
+robust and representative sensitization screen we developed a lentiviral
+CRISPR-Cas9 library. By performing screens in a panel of pancreatic
+cancer cell lines, we have identified both cell line dependencies and
+sensitizers to targeted and cytotoxic chemotherapies. The findings from
+these screens provide potential mechanistic insights into the key
+survival signaling programs in pancreatic cancer as well as new
+therapeutic strategies.
+

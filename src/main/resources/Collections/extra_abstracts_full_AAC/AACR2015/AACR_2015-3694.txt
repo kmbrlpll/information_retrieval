@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Molecular modeling studies of novel receptor targeted peptides in
+the treatment of prostate cancer
+
+
+Purpose: Prostate Cancer (PCa) is the second leading cause of
+cancer-related deaths among men in the United States. Due to the harsh
+side effects of conventional chemo- and radio-therapies, targeted drug
+delivery is now gaining focus of cancer researchers. The key for success
+for any newly developed targeted drug delivery systems is the novel
+design of targeting peptides which have high binding affinities to
+differentially over-expressed receptors on the surface of PCa cells. Four
+over-expressed receptors which can be targeted on the cell surface of PCa
+cells are: (GnRH), (EGFR), (PSMA), and (uPAR). Thus, we propose to study
+the binding affinity of tweleve novel designed targeting peptides (three
+peptides per receptor) for these over-expressed receptors. Initially, we
+will study the binding affinity using a computerized molecular modeling
+program. We will corroborate our modeling data by determining the
+dissociation constants of the peptide-receptor interaction using
+sensitive experimental tools such as miscroscale thermophoresis.Methods:
+The newly designed peptides were generated in pdb (protein database)
+format and the known pdb files of the receptors were collected from
+protein data bank. Cluspro 2.0, developed by Boston University, is a
+protein docking server with a molecular modeling program that was used to
+calculate the binding energies of these peptides to their corresponding
+receptors. The data obtained was analyzed using Pymol. Results: The
+molecular docking studies showed that the GnRH tarteting peptide QH10,
+uPAR targeting peptide CV13, EGFR targeting peptide RL10, and PSMA
+targeting peptide TH12 have the lowest mean binding energies for their
+respective top three binding conformations. The calculatd binding
+energies for the aftermentioed peptides-receptors combination are: -1285
+KCal/M, -1029 KCal/M, -1019 KCal/M and -1037 KCal/M, respectively. There
+results suggested a very high interaction for these newly designed
+peptides and their corroponding receptors as the typical calculated
+binding energy for an antigen-antibody interaction is -700
+KCal/M.Conclusion: Based on our molecular docking studies, we have
+determined the best targeting peptides among all the newly desiged
+peptides. The binding efficiency of the targeting peptides with the
+lowest binding energies will be further investigated using microscale
+thermophoresis.This work is supported by grant funding from NIH/RCMI
+G12MD00758 (T. Turner) and NIH/NCI U54 CA118623 (T. Turner & M.
+Abdalla).Note: This abstract was not presented at the meeting.
+

@@ -1,0 +1,32 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Targeting the root of cancer: a data-driven approach for
+identification of lung cancer stem cell biomarkers
+
+
+Cancer stem cells (CSCs) are a small group of cancer cells with stem
+cell-like properties and have been revealed to be the drive force of
+tumorigenesis, metastasis and drug resistance in many cancers. Current
+CSC surface biomarkers, such as CD133, CD44 and CD166, have been used to
+isolate CSC population. However, they are often not specific and
+unassociated with tumor outcome. Here, we applied a data-driven approach
+to identify new and functional biomarkers of CSC. We systematically
+screened for genes whose expressions are statistically correlated with
+CSC surface biomarkers. Normalized DNA microarray data of 160 cases of
+squamous carcinoma and 33 cases of adenocarcinoma and 8 cases of normal
+lung were analyzed for association with CD133, CD44 and CD166
+respectively. Multiple hypothesis testing was corrected with the false
+discovery rate (FDR) less than 1%. We find CD133, CD44 and CD166 each has
+a different set of statistically associated genes in either adeno or
+squamous subtypes. Moreover, correlated genes with each of the surface
+marker are different between adeno and squamous subtypes. Among the
+highly correlated receptor genes with CD133 in squamous subtype is a
+hormone receptor of the reproduction regulator oxytocin (OXTR, r=0.4276,
+p=1.699e-8). We experimentally validated the correlation between OXTR and
+CD133 in human lung cancer tissues and cell lines. Further with
+functional assays, we discovered a new role of OXTR in promoting the
+self-renewal and differentiation of lung CSC. Our study suggests highly
+heterogeneous molecular features of CSC in different lung cancer types
+and demonstrates that association studies of CSC surface markers can be
+applied to identify new CSC biomarkers, which can be potentially used for
+development of probes for CSC imaging and targeting.
+

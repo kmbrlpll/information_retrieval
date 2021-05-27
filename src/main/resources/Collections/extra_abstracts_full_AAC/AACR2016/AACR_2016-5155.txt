@@ -1,0 +1,35 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Integrated genomic analysis of colorectal cancer progression
+reveals activation of EGFR through demethylation of the EREG promoter
+
+
+The molecular drivers that underlie transformation of colonic epithelium
+into colorectal adenocarcinoma (CRC) have been well described. However,
+the mechanisms through which some of the clinically targeted pathways are
+activated during CRC progression have yet to be elucidated. Here, we
+employed an integrative genomics approach to examine CRC progression.
+Transcriptional profiling of laser capture microdissected colonic crypt
+cells, differentiated surface epithelium, adenomas, carcinomas, and
+metastases, showed distinctive patterns in the activation of
+developmental and oncogenic pathways, including the clinically important
+EGFR axis. We observed a dramatic up-regulation of the EGFR ligand EREG
+in primary and metastatic cancer cells as compared to normal and
+adenomatous tissues that was indicative of autocrine tumor production,
+and confirmed this pattern of gene expression by in situ hybridization.
+Global methylation analysis indicated that up-regulation of EREG during
+the adenoma-carcinoma transition was associated with de-methylation of
+two key sites within the EREG promoter and this was accompanied by an
+increase in the levels of EGFR phosphorylation, as assessed by reverse
+phase protein analysis. In a clinical trial setting, we observed that low
+levels of EREG methylation in patients who received cetuximab as part of
+a Phase II study were associated with high expression of the ligand and a
+favorable response to therapy. Conversely, high levels of promoter
+methylation and low levels of EREG expression were observed in tumors
+that progressed after treatment. We also noted an inverse correlation
+between EREG methylation and expression levels in several other cancers
+from the TCGA datasets, including those of the head and neck, lung, and
+bladder. We propose that up-regulation of EREG expression through
+promoter de-methylation might be an important means of activating the
+EGFR pathway during the genesis of CRC and, potentially, other types of
+cancer.
+

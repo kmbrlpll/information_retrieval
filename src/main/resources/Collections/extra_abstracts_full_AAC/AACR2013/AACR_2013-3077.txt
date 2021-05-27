@@ -1,0 +1,42 @@
+Meeting: 2013 AACR Annual Meeting
+Title: TMPRSS2-ERG regulation of miRNA in prostate cancer.
+
+
+Prostate cancer is the cause of the second highest number of cancer
+related deaths in men in the United States, with the highest number of
+new estimated cases every year. In addition, the survival rate in
+localized and regional prostate cancer is 100%, while metastatic prostate
+cancer is about 29%, with a wide spectrum of biological deregulations.
+MicroRNA (miRNA) is a small non-coding RNA, about 22 nucleotides long,
+that mostly targets the 3UTR of a gene for translational repression or
+mRNA degradation. More recently, miRNAs have been shown to play an
+important role in tumorigenesis, cancer progression, and metastasis.
+MiR-200c is one of the miRNA widely studied in cancer, as it has a role
+in regulating epithelial-mesenchymal transition (EMT). One of the ways in
+which miR-200c inhibits EMT is through its ability to downregulate ZEB1,
+an EMT activator that primarily functions by repressing E-cadherin. ERG
+is a transcription factor that is often fused with TMPRSS2 in prostate
+cancer and promotes cancer progression. In our study, we investigated the
+interaction of ERG and miR-200c, two factors that play important role in
+cancer progression, in prostate cancer.First, we identified ERG regulated
+miRNAs through utilizing miRNA profiling in LNCaP cells that were
+overexpressing ERG and in VCaP cells that have ERG knocked down. We
+selected miRNAs that are repressed upon ERG overexpression and
+derepressed upon ERG knockdown and also overlapped the results with ERG
+ChIP-seq data to identify ERG regulated miRNAs. Through this process we
+discovered that miR-200c is a good ERG-targeted miRNA. To validate the
+bioinformatics results, we used ERG overexpression in LNCaP and ERG
+knockdown in VCaP to measure mature miR-200c levels by miRNA assay. In
+addition, ERG ChIP-qPCR and miR-200c promoter luciferase assays showed
+that ERG binds at the miR-200c promoter. Next, to identify functional
+roles of miR-200c in ERG overexpressed cells, we performed invasion and
+migration assays to show that miR-200c plays an important role in the
+inhibition of ERG-mediated cancer progression.This study identifies an
+important factor, miR-200c, whose loss mediates the progression of
+TMPRSS2:ERG fusion-positive prostate cancer. According to our results, it
+might be possible to use miR-200c as a future therapeutic for ERG
+positive patients. This work was supported in part by the Research
+Scholar Award RSG-12-085-01 (to J.Y.) from the American Cancer Society,
+Department of Defense PC080665 (to J.Y.) and NRSA pre-doctoral fellowship
+T32 CA080621 (to J.K.).
+

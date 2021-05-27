@@ -1,0 +1,41 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Targeting the tumor vasculature with antibody drug conjugates
+
+
+Clinical use of vascular targeting antibody drug conjugates (VT-ADCs) has
+not yet been explored. Herein, we preclinically demonstrate utility,
+mechanisms and advantages of VT-ADCs as targeted cancer therapeutics. A
+monoclonal human IgG1 antibody selective for murine VEGFR2 (B3) is
+non-VEGF-A neutralizing and traffics to the lysosome. B3 was conjugated
+to a proprietary auristatin microtubule inhibitor with a non-cleavable
+maleimidocaproyl linker, resulting in the proof-of-concept VT-ADC,
+B3-mcMTI. In vitro, free-payload and anti-VEGFR2-mcMTI selectively
+inhibit proliferating endothelial cells (ECs) with pM and low nM IC50s -
+suggesting that even with a broadly expressed, low-level target, a VT-ADC
+should be potent and tumor specific. To test this in vivo, we treated
+three cell line xenografts (CLX, HT29, Ls174T, A498) and a colorectal
+carcinoma patient derived xenograft (CRC PDX) with B3-mcMTI at 3 mg/kg
+q4d, resulting in tumor stasis in four models. In the HT29 colon
+carcinoma CLX and the CRC PDX model, B3-mcMTI was superior to
+VEGF-neutralizing antibody G6-31 (anti-VEGF mAb). In standard-of-care
+(SOC) chemotherapy (irinotecan and 5-FU) combination studies in HT29,
+B3-mcMTI had improved anti-tumor activity over SOC alone, and, moreover,
+was as effective in inhibiting tumor growth as a single agent ADC as
+anti-VEGF mAb combined with SOC. In the 4T1 orthotopic anti-VEGF
+resistant breast carcinoma setting, B3-mcMTI outperformed anti-VEGF mAb,
+and when combined with SOC (paclitaxel) demonstrated improved activity
+over single agent without an increase in metastases. B3-mcMTI
+internalization in endothelial cells is VEGFR2-mediated, with antibody
+binding and active payload releasing in normal and tumor tissues at
+concentrations above the in vitro IC50s; however, payload activity as
+measured by quantitative image analysis of pharmacodynamic biomarkers
+such as phospho-Histone H3 and cleaved caspase 3 is overwhelmingly
+localized to tumor ECs. Targeted vessels are smooth muscle invested,
+suggesting that VT-ADCs may target vasculature that contributes to
+anti-VEGF resistance. In conclusion, VT-ADCs are effective both as single
+agents and when combined with SOC, and VT-ADCs may overcome resistance
+mechanisms to standard anti-angiogenics. Taken together, these data
+suggest that payloads selective for proliferating ECs enable ADC-mediated
+targeting of widely expressed EC surface proteins, supporting the
+clinical pursuit of VT-ADCs.
+

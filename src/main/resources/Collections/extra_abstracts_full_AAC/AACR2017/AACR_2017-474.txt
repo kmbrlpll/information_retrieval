@@ -1,0 +1,73 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Estrogen-responsive miRNAs as modulators of E2-induced apoptosis
+in AI-resistant breast cancer.
+
+
+Long-term estrogen deprivation with tamoxifen or aromatase inhibitors
+(AI) is the basic principle of endocrine treatment of ER-positive breast
+cancer. Acquired resistance is however a major obstacle in treatment
+success. Based on clinical observations and in vitro as well as animal in
+vivo experiments it has been suggested that tumor cell clones evolve over
+time and become vulnerable to E2-induced apoptosis, thereby potentially
+providing a promising second line treatment option. In vitro, this
+vulnerability is mimicked in the AI-resistant breast cancer models
+MCF-7:5C and MCF-7:2A, which during long-term E2-deprivation reconfigure
+their survival signaling including endoplasmic reticulum, oxidative and
+inflammatory stress related pathways. E2-stimulation of these cells
+initiates an unfolded protein response which in turn triggers apoptosis
+through the intrinsic and subsequently extrinsic pathway (Jordan VC
+2015). Recently, we identified miRNA profiles matching the biology of AI
+resistance and vulnerability to E2-induced apoptosis (Hoppe R et al.
+2016). Here we investigate the modulatory role of miRNAs in E2-induced
+apoptosis through the identification of their global expression changes
+in E2-stimulated 5C and 2A models compared to MCF-7:WS8 reference. Each
+cell line was treated with 10-9 M E2 or vehicle over a 72h time course
+(6, 12, 24, 72 h). miRNA profiles were generated using Affymetrix
+GeneChip miRNA2.0 arrays. At each time point relative miRNA expression
+changes (E2/control) were evaluated resulting in a total of 72 (5C), 104
+(2A) and 94 (WS8) differentially expressed miRNAs (FC > 1.5 or Long-term
+estrogen deprivation with tamoxifen or aromatase inhibitors (AI) is the
+basic principle of endocrine treatment of ER-positive breast cancer.
+Acquired resistance is however a major obstacle in treatment success.
+Based on clinical observations and in vitro as well as animal in vivo
+experiments it has been suggested that tumor cell clones evolve over time
+and become vulnerable to E2-induced apoptosis, thereby potentially
+providing a promising second line treatment option. In vitro, this
+vulnerability is mimicked in the AI-resistant breast cancer models
+MCF-7:5C and MCF-7:2A, which during long-term E2-deprivation reconfigure
+their survival signaling including endoplasmic reticulum, oxidative and
+inflammatory stress related pathways. E2-stimulation of these cells
+initiates an unfolded protein response which in turn triggers apoptosis
+through the intrinsic and subsequently extrinsic pathway (Jordan VC
+2015). Recently, we identified miRNA profiles matching the biology of AI
+resistance and vulnerability to E2-induced apoptosis (Hoppe R et al.
+2016). Here we investigate the modulatory role of miRNAs in E2-induced
+apoptosis through the identification of their global expression changes
+in E2-stimulated 5C and 2A models compared to MCF-7:WS8 reference. Each
+cell line was treated with 10-9 M E2 or vehicle over a 72h time course
+(6, 12, 24, 72 h). miRNA profiles were generated using Affymetrix
+GeneChip miRNA2.0 arrays. At each time point relative miRNA expression
+changes (E2/control) were evaluated resulting in a total of 72 (5C), 104
+(2A) and 94 (WS8) differentially expressed miRNAs (FC > 1.5 or < 1/1.5,
+Pt-test 1.5, PF-test 1.5, PF-test < 0.05). Differential area under the
+curve (dAUC) analyses at 6-72, 6-24, and 24-72 h mined the overall,
+early, and late-responding miRNAs of the different phenotypes
+(Ppermutation test 1.5, PF-test < 0.05). Differential area under the
+curve (dAUC) analyses at 6-72, 6-24, and 24-72 h mined the overall,
+early, and late-responding miRNAs of the different phenotypes
+(Ppermutation test < 0.05). Representative early down-regulated miRNA
+candidates potentially modulating E2-induced apoptosis in 5C cells are
+miR-543 and miR-432 of the DLK1-DIO3 locus on Chr. 14q32.31. Late
+responding up-regulated miRNA candidates are miR-150* and miR-149* the
+low expression of which in tumor tissues registered in The Cancer Genome
+Atlas (miRNA-Seq v. 3.1.17.0) was associated with worse outcome in all
+PAM50 breast cancer subtypes and Lum B, respectively (HR = 2.1, 95% CI:
+1.4-3.2; P = 0.00017; HR = 6.8, 95% CI: 1.5-3.0; P = 0.0036). We are
+currently in the process to subject respective miRNA sets to functional
+enrichment analyses (KEGG, GO) and to correlate E2-responsive miRNA
+candidates with respective transcriptome signatures. In summary, we will
+present miRNAs matching to the biological processes inherent to
+E2-induced apoptosis. These may serve as potential targets for the
+amplification of the apoptotic trigger upon E2-treatment.
+
+

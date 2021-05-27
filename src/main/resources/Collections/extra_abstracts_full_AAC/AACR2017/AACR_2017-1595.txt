@@ -1,0 +1,61 @@
+Meeting: 2017 AACR Annual Meeting
+Title: IL15/IL15Rα heterodimeric Fc-fusions with extended half-lives.
+
+
+IL15 and IL2 are similar cytokines that stimulate the proliferation and
+differentiation of B cells, T cells, and NK cells. Both cytokines exert
+their cell signaling function through binding to a trimeric complex
+consisting of two shared receptors, the common gamma chain and IL2Rβ, as
+well as an alpha chain receptor unique to each cytokine: IL2Rα or
+IL15Rα. IL2Rα is highly expressed on Tregs, and the therapeutic benefit
+of IL2 for cancer treatment has been limited for this reason. IL15 is
+produced by monocytes and dendritic cells and functions as a stabilized
+heterodimeric complex with membrane-bound IL15Rα present on the same
+cells. This IL15/IL15Rα complex is presented in trans to NK cells and
+CD8+ T cells expressing IL2Rβ and the common gamma chain. It has been
+shown that recombinant IL15/IL15Rα heterodimer is highly active.
+Currently there are no approved versions of recombinant IL15 although
+several clinical trials are ongoing. As potential drugs, cytokines suffer
+from a very fast clearance that hinders favorable dosing. Consequently, a
+more druggable version of IL15 would consist of the IL15/IL15Rα complex
+coupled with slower clearance. We created various IL15/IL15Rα
+heterodimeric Fc-fusions in an effort to facilitate production, promote
+FcRn-mediated recycling of the complex, and thus prolong half-life.
+
+We engineered IL15/IL15Rα heterodimeric Fc-fusions by either fusing IL15
+to one side of a heterodimeric Fc-region, and the sushi domain of IL15Rα
+to the other side, or by creating a single-chain IL15/IL15Rα that was
+attached to one side of a heterodimeric Fc-region. These Fc-fusions were
+tuned for optimal activity by engineering the linker regions between
+IL15/IL15Rα and the Fc and/or by engineering substitutions on IL15 at
+the IL15/IL2Rβ or IL15/gamma chain interface. In vitro proliferation of
+T and NK cells in healthy PBMCs was monitored by counting Ki67+ cells
+after incubation with Fc-fusions for 4 days. In vivo activity was
+evaluated using a mouse model in which human PBMCs are engrafted into NSG
+mice (huPBMC-NSG) and measuring the extent of T cell engraftment by flow
+cytometry as well as IFNγ. PK was evaluated in C57BL/6J mice.
+
+IL15/IL15Rα heterodimeric Fc-fusions were successfully produced with
+favorable yields. The Fc-fusions enhanced proliferation of T and NK cells
+in vitro. Treatment of huPBMC-NSG mice with weekly doses of IL15/IL15Rα
+heterodimeric Fc-fusions promoted enhanced T cell engraftment and
+elevated levels of IFNγ in a dose dependent manner. Severe graft versus
+host disease was observed in treated mice. Little activity was seen with
+a comparable weekly dose of recombinant IL15. PK in C57BL/6J mice
+indicated half-lives of several days for the IL15/IL15Rα heterodimeric
+Fc-fusions, which are significantly longer than the IL15/IL15Rα
+heterodimeric Fc-fusions were successfully produced with favorable
+yields. The Fc-fusions enhanced proliferation of T and NK cells in vitro.
+Treatment of huPBMC-NSG mice with weekly doses of IL15/IL15Rα
+heterodimeric Fc-fusions promoted enhanced T cell engraftment and
+elevated levels of IFNγ in a dose dependent manner. Severe graft versus
+host disease was observed in treated mice. Little activity was seen with
+a comparable weekly dose of recombinant IL15. PK in C57BL/6J mice
+indicated half-lives of several days for the IL15/IL15Rα heterodimeric
+Fc-fusions, which are significantly longer than the <1 hr half-life
+reported for IL15.
+
+Together, these data indicate that IL15/IL15Rα heterodimeric Fc-fusions
+demonstrate the high activity of IL15 with a more favorable PK profile.
+
+

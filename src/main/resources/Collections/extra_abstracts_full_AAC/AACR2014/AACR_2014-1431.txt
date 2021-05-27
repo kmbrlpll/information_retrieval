@@ -1,0 +1,34 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Gene expression analysis of argininosuccinate synthetase loss and
+the effects of pegylated arginine deiminase in malignant pleural
+mesothelioma
+
+
+Malignant pleural mesothelioma (MPM) is a devastating asbestos-related
+malignancy that is increasing in many countries worldwide with few
+systemic treatment options beyond platinum and antifolate chemotherapy.
+Deficiency of the arginine biosynthetic enzyme argininosuccinate
+synthetase (ASS1) occurs in up to 50% of MPM cell lines and primary
+tumors and is being validated as a biomarker in patients treated with the
+arginine-depleting agent, pegylated arginine deiminase (ADI-PEG20). To
+understand the role of ASS1 loss and the effect of the ADI-PEG20 in MPM
+we used pathway analysis tools on microarray gene expression data from a
+representative panel of MPM cell lines. First, we identified that ASS1
+loss was linked to several protumorigenic functions including increased
+cell invasiveness and migration, which were confirmed subsequently using
+invasion assays and organotypic modelling, respectively. We also detected
+a large number of enriched pathways connected to the immune response
+including communication between innate and adaptive immune cells and
+interferon signalling. Furthermore, ASS1 deficiency was linked to worse
+outcome with a median survival of 6 months in ASS1 low expressors
+compared to 12 months for ASS1 high expressors using a retrospective
+dataset (n=41; p=0.003). Second, ADI-PEG20 treatment modulated numerous
+pathways in ASS1-deficient cells including suppression of mTOR and folate
+metabolism, while promoting stress, oxidant and amino acid signalling.
+Third, bioinformatics analyses of drug interactions using Connectivity
+map revealed that arginine deprivation using ADI-PEG20 may potentiate
+several chemotherapeutic and targeted agents in the clinic. Taken
+together, our bioinformatics approach links loss of ASS1 in MPM cells to
+a more aggressive phenotype and identifies several potential combination
+strategies with ADI-PEG20 for further clinical investigation.
+

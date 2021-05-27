@@ -1,0 +1,80 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Testing the carcinogenic potential of water disinfectant
+byproducts in a human colon mucosal culture system
+
+
+Epidemiological studies have linked the consumption of disinfected
+surface waters to an increased risk of colorectal cancer. Approximately
+600 disinfection byproducts (DBPs) have been identified for a number of
+disinfectants currently in use. An in-depth mechanism-based structure
+activity analysis undertaken identified 50 unregulated DBPs with the
+highest risk carcinogenic potential. Because it would be financially
+prohibitive to test all priority DBPs in chronic animal bioassays, we are
+developing an in vitro model system to identify DBPs of carcinogenic
+potential in normal human colonocytes. Specifically, a mixed culture of
+human colon mucosal cells including stem cells with the capability for
+differentiation (NCM460) were treated with brominated DBPs
+bromochloroacetic acid (BCAA), dibromonitromethane (DBNM), and
+tribromonitromethane (TBNM), as well as a positive colon carcinogenic
+control, azoxymethane. To measure cancer-related pathways being
+activated, global gene expression analysis of 10-day 106M treated NCM460
+monolayers was performed on Affymetrix Human Genome U133 Plus 2.0 arrays
+and statistically significant genes were identified using one-way ANOVA
+with a false discovery rate (Benjamini-Hochberg test) of 0.05 followed by
+a post-hoc test (Scheffe). Pathway analysis was performed using DAVID
+bioinformatics resource (National Institutes of Health) which identified
+multiple pertinent pathways activated with all or a majority of the
+treatments including cell adherins, ubiquitin-mediated proteolysis and
+xenobiotic metabolism. Of significance, AOM, DBNM and TBNM treatments
+induced genes involved in the WNT/-catenin, a well studied signaling
+pathway that modulates cell proliferation and differentiation and is a
+hallmark pathway for cancer development. As validation,
+immunocytochemical staining for -catenin indicated increased nuclear
+translocation after treatment with all DBPs and AOM when compared to the
+control. In addition, real-time RT-PCR analysis measured expression of
+select genes known to be directly regulated by -catenin after 7 and
+10-day 106M AOM and TBNM treatment. MYC, AXIN2 and PPARD expression
+significantly increased (pEpidemiological studies have linked the
+consumption of disinfected surface waters to an increased risk of
+colorectal cancer. Approximately 600 disinfection byproducts (DBPs) have
+been identified for a number of disinfectants currently in use. An
+in-depth mechanism-based structure activity analysis undertaken
+identified 50 unregulated DBPs with the highest risk carcinogenic
+potential. Because it would be financially prohibitive to test all
+priority DBPs in chronic animal bioassays, we are developing an in vitro
+model system to identify DBPs of carcinogenic potential in normal human
+colonocytes. Specifically, a mixed culture of human colon mucosal cells
+including stem cells with the capability for differentiation (NCM460)
+were treated with brominated DBPs bromochloroacetic acid (BCAA),
+dibromonitromethane (DBNM), and tribromonitromethane (TBNM), as well as a
+positive colon carcinogenic control, azoxymethane. To measure
+cancer-related pathways being activated, global gene expression analysis
+of 10-day 106M treated NCM460 monolayers was performed on Affymetrix
+Human Genome U133 Plus 2.0 arrays and statistically significant genes
+were identified using one-way ANOVA with a false discovery rate
+(Benjamini-Hochberg test) of 0.05 followed by a post-hoc test (Scheffe).
+Pathway analysis was performed using DAVID bioinformatics resource
+(National Institutes of Health) which identified multiple pertinent
+pathways activated with all or a majority of the treatments including
+cell adherins, ubiquitin-mediated proteolysis and xenobiotic metabolism.
+Of significance, AOM, DBNM and TBNM treatments induced genes involved in
+the WNT/-catenin, a well studied signaling pathway that modulates cell
+proliferation and differentiation and is a hallmark pathway for cancer
+development. As validation, immunocytochemical staining for -catenin
+indicated increased nuclear translocation after treatment with all DBPs
+and AOM when compared to the control. In addition, real-time RT-PCR
+analysis measured expression of select genes known to be directly
+regulated by -catenin after 7 and 10-day 106M AOM and TBNM treatment.
+MYC, AXIN2 and PPARD expression significantly increased (p<0.05, t-test)
+with 10, but not 7, day treatment with both chemicals, suggesting
+WNT/-catenin signaling pathway activation at the later time point.
+Importantly, preliminary studies indicate colony transformation of these
+cells after DBP treatment as measured in soft agar assay. Our overall
+results suggest the tested water DBPs may activate cellular mechanisms
+that mediate colon cancer development and etiology. Additionally, we
+demonstrate this in vitro methodology can detect carcinogenic potential
+of chemicals and may serve as a useful tool to test other chemicals in a
+more cost-effective and expedited manner than traditional animal
+bioassays. [Abstract does not necessarily reflect the policies of the
+U.S. EPA.]
+

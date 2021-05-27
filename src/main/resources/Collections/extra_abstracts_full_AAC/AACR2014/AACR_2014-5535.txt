@@ -1,0 +1,32 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Gcn5 modulates the cellular response to oxidative stress induced
+by histone deacetylase inhibitors
+
+
+Aberrant histone post-translational modifications including acetylation
+are common in human cancers and result in dysregulation of gene
+expression. Our laboratory has focused on studying the effects of
+hydroxamic acid based HDAC inhibitors (HDACis) including TSA, SAHA and
+CG-1521.We have employed a whole genome yeast deletion library screen to
+gain insight into the mechanism of the HDAC inhibitor CG-1521 and
+identify potential combinatorial drug targets. Gene ontology enrichment
+analysis shows that sensitive strains are highly enriched in processes
+regulating chromatin remodeling and transcription. Deletions of
+components of the SAGA HAT complex are highly overrepresented in the
+sensitive strains, including the catalytic subunit Gcn5. The gcn5
+deletion strain displays increased sensitivity to CG-1521 induced cell
+death compared to the wild type strain, suggesting that the SAGA complex
+is required to reduce the effect of CG-1521 on cell growth. Gene
+expression analysis indicates that CG-1521 elicits an oxidative stress
+response in both the wild type and the gcn5 deletion strain. Gcn5
+deletion substantially increases the level of oxidative stress induced by
+CG-1521 as measured by flow cytometry.In the colorectal cancer cell line
+HT29, treatment with CG-1521 is accompanied by an increase in oxidative
+stress and co-treatment with the Gcn5 specific inhibitor MB-3 or
+RNAi-mediated knockdown of the human Gcn5 homologs, Gcn5 and PCAF,
+enhances the growth-inhibitory effect of CG-1521.These studies have shown
+that disruption of the SAGA HAT complex with MB-3 or RNAi-mediated
+knockdown sensitizes tumor cells to CG-1521. Taken together, our work
+suggests that the combination of selective HAT and HDAC inhibitors may be
+an effective treatment of cancer.
+

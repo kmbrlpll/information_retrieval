@@ -1,0 +1,93 @@
+Meeting: 2015 AACR Annual Meeting
+Title: RNA-seq differential transcription analysis of TCGA colorectal
+cancer (CRC) transcriptomes reveals subtype-specific isoform usage
+
+
+Background: Differential transcription analysis may reveal transcriptome
+aberrations associated with cancer progression and help identify
+important drivers in molecularly distinct subtypes of a disease.Methods:
+We developed a data-driven bioinformatics pipeline (DiffSplice) that
+performs differential transcription analysis at the alternative splicing
+(AS) level and allows accurate transcriptome reconstruction through joint
+analysis of all RNA-seq samples. In this study, we applied DiffSplice to
+RNA-seq data from TCGA CRC (n = 686) and evaluated the expression
+patterns of the detected AS events across the four consensus molecular
+subtypes (CMS) of the disease (n = 511): CMS1 - MSI Immune (hypermutated,
+n = 76); CMS2 - Canonical (epithelial, WNT/MYC activation, n = 220); CMS3
+- Metabolic (epithelial, enriched for KRAS mutations, n = 72); and CMS4 -
+Mesenchymal (stromal invasion, TGFB activation, n = 143).Results: A total
+of 15,613 AS events were detected, including 5,128 events that involved
+novel splice junctions not cataloged in UCSC GAF2.0 transcriptome
+annotation. Exon skipping was the most common pattern with 6,482
+occurrences, followed by 4,962 alternative splice sites, 2,689
+alternative 5/3 transcription sites and 1,262 retained introns. In the
+subset of samples with CMS classification, a cross-subtype comparative
+analysis revealed 1,835 differentially transcribed loci from 1,634 genes,
+including 759 novel junctions (FDRBackground: Differential transcription
+analysis may reveal transcriptome aberrations associated with cancer
+progression and help identify important drivers in molecularly distinct
+subtypes of a disease.Methods: We developed a data-driven bioinformatics
+pipeline (DiffSplice) that performs differential transcription analysis
+at the alternative splicing (AS) level and allows accurate transcriptome
+reconstruction through joint analysis of all RNA-seq samples. In this
+study, we applied DiffSplice to RNA-seq data from TCGA CRC (n = 686) and
+evaluated the expression patterns of the detected AS events across the
+four consensus molecular subtypes (CMS) of the disease (n = 511): CMS1 -
+MSI Immune (hypermutated, n = 76); CMS2 - Canonical (epithelial, WNT/MYC
+activation, n = 220); CMS3 - Metabolic (epithelial, enriched for KRAS
+mutations, n = 72); and CMS4 - Mesenchymal (stromal invasion, TGFB
+activation, n = 143).Results: A total of 15,613 AS events were detected,
+including 5,128 events that involved novel splice junctions not cataloged
+in UCSC GAF2.0 transcriptome annotation. Exon skipping was the most
+common pattern with 6,482 occurrences, followed by 4,962 alternative
+splice sites, 2,689 alternative 5/3 transcription sites and 1,262
+retained introns. In the subset of samples with CMS classification, a
+cross-subtype comparative analysis revealed 1,835 differentially
+transcribed loci from 1,634 genes, including 759 novel junctions
+(FDR<0.01). Of particular interest, we found that KRAS 4A expression
+levels were higher in CMS3 samples (p = 0.0070), in line with the known
+effect of this isoform as a negative regulator of mutant KRAS alleles. In
+addition, expression of the CD44v isoform, a marker of epithelial cancer
+stem cells, was higher in CMS2 and CMS3 samples (p = 0.015).
+Alternatively, CD44s isoform expression levels were higher in CMS4
+samples (pBackground: Differential transcription analysis may reveal
+transcriptome aberrations associated with cancer progression and help
+identify important drivers in molecularly distinct subtypes of a
+disease.Methods: We developed a data-driven bioinformatics pipeline
+(DiffSplice) that performs differential transcription analysis at the
+alternative splicing (AS) level and allows accurate transcriptome
+reconstruction through joint analysis of all RNA-seq samples. In this
+study, we applied DiffSplice to RNA-seq data from TCGA CRC (n = 686) and
+evaluated the expression patterns of the detected AS events across the
+four consensus molecular subtypes (CMS) of the disease (n = 511): CMS1 -
+MSI Immune (hypermutated, n = 76); CMS2 - Canonical (epithelial, WNT/MYC
+activation, n = 220); CMS3 - Metabolic (epithelial, enriched for KRAS
+mutations, n = 72); and CMS4 - Mesenchymal (stromal invasion, TGFB
+activation, n = 143).Results: A total of 15,613 AS events were detected,
+including 5,128 events that involved novel splice junctions not cataloged
+in UCSC GAF2.0 transcriptome annotation. Exon skipping was the most
+common pattern with 6,482 occurrences, followed by 4,962 alternative
+splice sites, 2,689 alternative 5/3 transcription sites and 1,262
+retained introns. In the subset of samples with CMS classification, a
+cross-subtype comparative analysis revealed 1,835 differentially
+transcribed loci from 1,634 genes, including 759 novel junctions
+(FDR<0.01). Of particular interest, we found that KRAS 4A expression
+levels were higher in CMS3 samples (p = 0.0070), in line with the known
+effect of this isoform as a negative regulator of mutant KRAS alleles. In
+addition, expression of the CD44v isoform, a marker of epithelial cancer
+stem cells, was higher in CMS2 and CMS3 samples (p = 0.015).
+Alternatively, CD44s isoform expression levels were higher in CMS4
+samples (p<2.2e-16), consistent with previous literature showing that
+cancer stem cells of tumors that have undergone mesenchymal transition
+predominantly express the standard CD44 isoform that contains no variant
+exons. Finally, variance of the transcription profiles suggested
+potential intra-subtype heterogeneity and an opportunity to further
+refine these global patterns.Discussion: Here we present an in-depth
+transcriptome analysis of TCGA CRC data across the molecular subtypes of
+the disease. We were able to identify differential transcription patterns
+in an unbiased way by using a scalable and efficient computational
+approach that models both annotated and novel splice variants
+simultaneously. Our pipeline revealed a number of promising candidates
+that may be acting as key modulators in specific disease subsets and
+deserve further investigation.
+

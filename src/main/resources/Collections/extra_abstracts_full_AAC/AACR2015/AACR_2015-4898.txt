@@ -1,0 +1,38 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Full-length isoform sequencing of the human MCF-7 cell line using
+PacBio long reads
+
+
+While advances in RNA sequencing methods have accelerated our
+understanding of the human transcriptome, isoform discovery remains a
+challenge because short read lengths require complicated assembly
+algorithms to infer the contiguity of full-length transcripts.This
+inability to resolve full-length isoforms hinders researchers ability to
+identify key isoform changes and fusion transcripts associated with human
+diseases. With the PacBio long-read technology, one can now sequence
+full-length transcript isoforms up to 10 kb. The PacBio Iso-Seq protocol
+produces reads that originate from independent observations of single
+molecules, and no assembly is needed if a read spans the entire length of
+the transcript.In this study, we sequenced the human MCF7 cell-line using
+the Clontech SMARTer cDNA preparation kit. Using the PacBio Iso-Seq
+bioinformatics software, we obtained 55,770 unique, full-length,
+high-quality transcript sequences that were subsequently mapped back to
+the human genome with 99% accuracy. The full-length transcripts ranged
+from 300 bp to 9.5 kb with a mean length of 2.1 kb. Out of 16,868
+expressed loci, 149 had more than 20 isoforms, with a total average of 3
+isoforms per loci. Additionally, we identified more than 100 candidate
+fusion transcripts, many of which were confirmed through previously
+published experimental validations or computation predictions. For the
+BCAS3-BRCA4 fusion, we detected 3 different fusion transcripts, two of
+which were entirely novel.To validate the full-length isoforms, we
+compared the predicted peptides from the MCF-7 data against a previously
+published mass spectrometry dataset from the same cell line. 41,699
+peptides mapped to 23,729 PacBio-predicted open reading frames (i.e.
+protein sequences), confirming the translation of a majority of sequenced
+transcripts. Notably, 251 peptides were novel and not annotated in the
+UniProt protein database. These peptides confirm abundant cases of single
+amino acid polymorphisms, cassette exon splicing, and potential
+alternative protein coding frames encoded in the MCF-7 proteome.To
+conclude, the Iso-Seq protocol provides a new opportunity for researchers
+to study the complex splicing events that occur in cancer cells.
+

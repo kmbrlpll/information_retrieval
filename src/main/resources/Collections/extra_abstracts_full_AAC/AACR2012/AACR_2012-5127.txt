@@ -1,0 +1,43 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Characterization of lung cancers by integrated genomic and
+proteomic analysis
+
+
+Non-small cell lung carcinoma (NSCLC) represents 80% of lung cancers, the
+deadliest cancer worldwide. The genomic profiling of DNA and mRNA, and
+characterization of proteomes have begun to address the objective to
+stratify and treat tumors according to their molecular features. However,
+these data sets have largely been used independently and typically have
+not been integrated. Hence most cancers including NSCLC continue to be
+classified largely based on histology. Our aim for this study was to
+integrate a set of comprehensive functional genomics data sets in order
+to stratify a set of NSCLC primary tumors and establish that primary
+tumor xenografts mirror closely the primary tumors, and hence may serve
+as validated pre-clinical models. Our preliminary analyses indicated that
+engraftment is prognostic of poor clinical outcome (John et al., 2011,
+Clin Cancer Res, 17:134-41), and that the major NSCLC subtypes
+adenocarcinoma and squamous cell carcinoma are readily resolved according
+to their distinctive proteomes (Wei et al., 2011, J Proteome Res
+10:161-74). Herein we characterized a collection of 12 each primary tumor
+(T), primary tumor xenograft (X), and patient-matched normal lung (N) by
+using mass spectrometry for proteome analysis, Illumina 1M Omni-Quad for
+somatic copy number alterations (SCNAs), and Illumina Omni-1 Quad HT-12
+v4 for mRNA expression. Unsupervised hierarchical clustering of protein
+abundances and SCNAs independently revealed that primary tumor and
+xenografts are highly correlated with each other. This correlation was
+significantly enhanced in the proteome data when a small number of highly
+abundant blood-associated proteins were systematically identified and
+subtracted. We identified tumor-specific dysregulated proteins and SCNAs
+in T and X using N as a reference. Two thirds of T and X matched pairs
+could be identified based on Pearson Correlation Coefficients of the
+dysregulated proteins. This clearly demonstrates that the xenografts
+accurately recapitulated tumor proteomes. Proteins upregulated in tumors
+were expressed to a significant extent from regions of SCNA gain, and we
+found a high degree of concordance between mRNA expression levels and
+SCNAs. Some primary tumors had very highly correlated proteomic profiles,
+suggesting they may be effectively stratified according to their proteome
+signatures. In conclusion, our integrated analysis has validated the
+primary xenograft model, provided an initial systems level perspective on
+the central dogma in cancer, and reinforces the proteome as a distinctive
+molecular feature for lung tumor stratification.
+

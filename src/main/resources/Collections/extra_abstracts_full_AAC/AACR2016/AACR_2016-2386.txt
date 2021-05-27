@@ -1,0 +1,39 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Microfluidic single cell exome-seq and RNA-seq analysis of tumor
+composition
+
+
+Human breast tumors have been shown to exhibit extensive inter- and
+intra-tumor heterogeneity. While recent advances in genomic technologies
+have allowed us to deconvolute this heterogeneity, few studies have
+addressed the functional consequences of diversity within tumor
+populations. Here, we identified an index case for which we have derived
+a patient-derived xenograft (PDX) as a renewable tissue source to
+identify subpopulations and perform functional assays. On pathology, the
+tumor was an invasive ductal carcinoma which was hormone
+receptor-negative, HER2-positive (IHC 2+, FISH average HER2/CEP17 2.4),
+though the FISH signal was noted to be heterogeneous. On gene expression
+profiling of bulk samples, the primary tumor and PDX were classified as
+basal-like. We performed single cell RNA and exome sequencing of the PDX
+to identify population structure. Using a single sample predictor of
+breast cancer subtype, we have identified single basal-like,
+HER2-enriched and normal-like cells co-existing within the PDX tumor, a
+finding replicated in several independent experiments. Genes
+differentially expressed between these subpopulations are involved in
+proliferation and differentiation. One population was characterized by
+high MYC and the other high EGFR/KRT14. These findings were validated
+using immunohistochemistry on PDX and primary tumor material. Further
+functional experiments showed that that EGFR subpopulation has stem cell
+character istics and forms metastasis in the animal model. Microfluidic
+whole genome amplification followed by whole exome capture of 81single
+cells, along with exome sequencing of the germline, primary and post
+treatment tumor and whole PDX showed that BRCA1 and TP53 are mutated in
+all single cells, as well as a number of sub-clonal mutations that are
+being investigated further. Loss of heterozygocity was observed in 16
+TCGA cancer driver genes and novel mutations in 7 known cancer driver
+genes. Careful comparison of the exome sequencing data allowed the
+association of driver gene mutation prevalence with tumor progression.
+These findings are important in our understanding the functional
+consequences of intra-tumor heterogeneity with respect to clinically
+important phenotypes such as invasion, metastasis and drug-resistance.
+

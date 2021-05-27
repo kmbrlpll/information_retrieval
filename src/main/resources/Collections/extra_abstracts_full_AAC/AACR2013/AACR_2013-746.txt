@@ -1,0 +1,61 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Functional crosstalk between the p53 and NF-kB transcription
+factors.
+
+
+The tumor suppressor p53 and NF-kB are sequence-specific transcription
+factors (TFs) playing crucial roles in controlling cell proliferation and
+cell survival with an undeniable impact on cancer progression. In
+response to cellular stresses they induce the expression of a large
+variety of genes. Synergistic or antagonistic interactions between the
+p53 and NF-kB proteins may modulate the expression of common targets and
+potentially lead to a modified cellular response. To specifically
+investigate cell-autonomous, cooperative interactions between NF-kB and
+p53 on gene expression changes, we performed a genome-wide transcriptome
+analysis in the breast-cancer derived MCF-7 cells following single or
+combinatorial treatments with the chemotherapeutic drug doxorubicin (DXR)
+and the NF-kB inducer TNF-alpha (TNF). The microarray results revealed
+720 upregulated (log2FC>1.5) and 926 repressed genes for the DXR+TNF
+treatment (log2FC 0.1} and 188 repressed genes {log2[FCDXR+TNF] -
+(log2[FCDXR] + log2[FCTNF]) The tumor suppressor p53 and NF-kB are
+sequence-specific transcription factors (TFs) playing crucial roles in
+controlling cell proliferation and cell survival with an undeniable
+impact on cancer progression. In response to cellular stresses they
+induce the expression of a large variety of genes. Synergistic or
+antagonistic interactions between the p53 and NF-kB proteins may modulate
+the expression of common targets and potentially lead to a modified
+cellular response. To specifically investigate cell-autonomous,
+cooperative interactions between NF-kB and p53 on gene expression
+changes, we performed a genome-wide transcriptome analysis in the
+breast-cancer derived MCF-7 cells following single or combinatorial
+treatments with the chemotherapeutic drug doxorubicin (DXR) and the NF-kB
+inducer TNF-alpha (TNF). The microarray results revealed 720 upregulated
+(log2FC>1.5) and 926 repressed genes for the DXR+TNF treatment (log2FC
+0.1} and 188 repressed genes {log2[FCDXR+TNF] - (log2[FCDXR] +
+log2[FCTNF]) < -0.1}. Notably, gene ontology analysis applied to these
+gene groups indicated an apparent enrichment for epithelial mesenchymal
+transition and cell migration functions. We focused the validation
+experiments on 15 up-regulated genes to investigate the direct
+involvement of p53 and NF-kB on their expression using RT-qPCR assays
+coupled to p53 activation by DXR, 5-fluorouracil or Nutlin, p53 RNAi
+and/or NF-kB chemical inhibition. In silico analysis of the potential
+target genes promoter sequence identified both p53 and NF-kB responsive
+regions where cis-mediated interactions of these TFs may occur, a result
+that has been followed up by mining of available ChIP-seq data. Among the
+15 chosen targets, we uncovered five (LAMP3, ETV7, UNC5B, NTN1 and PLK3)
+that were induced synergistically after DXR + TNF treatment in MCF-7
+breast cancer cells. Over-expression of LAMP3 has already been associated
+with an increased metastatic potential for particular cancers, and ETV7
+can act as a regulator of cell proliferation. To study the migratory
+phenotype associated with the DXR+TNF combinatorial treatment, we
+performed migration assays using three different approaches: trans-well
+migration assay, Xcelligence Migration Assay and wound healing. The
+results consistently showed an increase in migration potential upon
+DXR+TNF compared to mock or to single treatments. We propose that the
+functional crosstalk between the p53 and NF-kB TFs can lead to the
+activation of specific gene expression programs that may impact on cancer
+phenotypes. Given that most tumors carry an activated NF-kB pathway, and
+a significant proportion of breast cancers, particularly the luminal
+subtype, maintains wild type p53, the uncovered crosstalk could
+potentially modify the efficiency of cancer therapy.
+

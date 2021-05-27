@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Down-regulation of 4-hydroxyphenylpyruvate dioxygenate (HPD)
+contributes to the pathogenesis of hepatocellular carcinoma (HCC) through
+ERK / BCL-2 signalling activation.
+
+
+Hepatocellular carcinoma (HCC) is one of the most prevalent malignancies
+in the world. Metastasis, recurrence and therapy resistance remain major
+obstacles to the improvement of long-term survival and represent major
+causative factors contributing to the rising mortality rates and poor
+prognosis of HCC. Identification of key drivers important for clinical
+prognostic utility and elucidation of mechanisms involved in
+hepatocarcinogenesis is urgently needed to aid in the development of
+novel treatment modalities. To this end, we began our study with an
+analysis of a publicly gene expression dataset (GSE14520) comprising of
+transcriptomic profiles from a large cohort of human non-tumor liver and
+HCC clinical samples in hope to establish a prognostic gene signature
+associated with metastatic risk / recurrence status so to identify novel
+driver genes responsible for HCC development and progression. By this
+method, 4-hydroxyphenylpyruvate dioxygenase (HPD) was identified as a
+candidate tumor suppressor gene in HCC. HPD was found to be frequently
+down-regulated in primary HCC tumors as compared with peri-tumor liver
+tissues. Its expression negatively correlated with aggressive HCC
+pathological features, including tumor stage, metastasis, recurrence and
+survival. Notably, down-regulated HPD expression in HCC is in part a
+result of hypermethylation at the HPD promoter. The functional effect of
+HPD was then examined in HCC cells with or without HPD stably repressed
+or ectopically overexpressed. Upon knockdown of HPD, HCC cells displayed
+significantly enhanced abilities to form tumors, metastasize and confer
+sorafenib resistance in vitro and in vivo. Conversely, overexpression of
+HPD in HCC cells led to an opposing effect. Consistently,
+sorafenib-resistant HCC patient derived xenografts also displayed
+attenuated levels of HPD as compared with parental sorafenib-sensitive
+counterparts. Mechanistically, HPD down-regulation mediates aggressive
+cancer features in HCC through activation of an ERK and BCL-2
+pro-survival signaling pathway, as evidenced by rescue experiments
+involving the ERK inhibitor U0126. Collectively, our findings suggest HPD
+down-regulation in HCC tumors to promote tumorigenicity, metastasis and
+sorafenib resistance through ERK / BCL-2 signaling activation and that
+HPD may represent a novel prognostic biomarker for HCC.
+
+

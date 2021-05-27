@@ -1,0 +1,30 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identification of EMT inhibitors using novel zebrafish reporter
+lines
+
+
+The Epithelial to Mesenchymal Transition (EMT) plays a crucial role
+during development and aberrant reactivation of EMT in tumor cells
+promotes metastasis and drug resistance. Mechanisms that control EMT
+remain incompletely understood, hampering efforts to target EMT in cancer
+patients. To identify upstream inducers and downstream effectors of EMT
+we have developed a novel zebrafish neural crest (NC) EMT reporter line,
+Tg(snail1b:GFP), for in vivo screening of EMT and cell migration
+inhibitors. After screening a number of candidate kinase inhibitors for
+their ability to block NC migration in live Tg(snail1b:GFP) embryos, we
+found that the AXL receptor tyrosine kinase inhibitor, TP-0903
+(HCI-2084), potently blocks hindbrain morphogenesis and cranial NC cell
+migration. Treatment of embryos at the 3-somite stage with TP-0903
+significantly decreases twist1a expression, a key regulator of EMT,
+blocks differentiation of dlx2a-expressing chondrogenic precursors, and
+instead promotes the differentiation of mitfa-expressing melanophore
+precursors that form adjacent to the neural tube. RNA-Seq analysis
+revealed that TP-0903 treated embryos have a significant upregulation of
+retinoic acid (RA) signaling. Co-treatment of TP-0903 with DEAB, an RA
+inhibitor, rescues the hindbrain and NC migration and differentiation
+defects caused by TP-0903 treatment. We are currently investigating the
+potential role of AXL in NC cell migration and differentiation, and
+evaluating TP-0903 as a possible therapy for neuroblastoma, by using the
+zebrafish neuroblastoma pre-clinical model and human neuroblastoma cells
+in vitro.
+

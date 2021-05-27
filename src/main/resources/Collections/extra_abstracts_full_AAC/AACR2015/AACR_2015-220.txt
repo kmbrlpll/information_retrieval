@@ -1,0 +1,95 @@
+Meeting: 2015 AACR Annual Meeting
+Title: New computerized image analyzing technique for analysis of bone
+marrow microvessel density in multiple myeloma
+
+
+Background: Angiogenesis is important in proliferation and survival of
+neoplastic cells in multiple myeloma (MM). Microvessel density (MVD) is a
+useful angiogenesis marker, which can be detected by anti-CD34
+immunohistochemical stain. However, counting the MVD of bone marrow (BM)
+by light microscopy has a limitation in standardization due to
+inter-observer differences. Consistent method for MVD assessment has been
+required to resolve the variation in number. Here we developed the MVD
+counting method using computerized image analyzer (CIA) and light
+microscopy.Methods: A total of 21 patients with primary diagnosed with MM
+were evaluated. MVD was assessed by screening three hot spots of CD34
+positive vessels on BM biopsy section (x40 magnification). MVD was
+measured by three different ways. First, the number of vessels was
+counted using light microscope at the time of diagnosis by several
+hematopathologists (MVD-A). Second, the total count of microvessels per
+14435.2 m2 (1388 1040m) of marrow area was measured by a Zeiss microscope
+using AxioVison LE Image Analyzer with developed image analyzer program
+(MVD-B). In addition, manual count of captured image by CIA with one
+observer was examined (MVD-C). Software was developed using Microsoft
+visual studio (ver. 2010, Microsoft, USA) and VTK (ver. 5.10.0, Kitware,
+USA) library. Captured image was labeled via pre-processing for image
+enhancement and seed region growing algorithm to detect the MVD
+candidates. Using histogram texture analysis, each candidate was
+determined to MVD.Results: The range of MVD was as followings: MVD-A
+(range 3-52; mean 16.5; SD 12.8), MVD-B (range 4-38; mean 19.6; SD 10.0),
+and MVD-C (range 5-34; mean 14.8; SD 7.8).There was a significant
+correlation between theses angiogenesis parameters. Pearson's correlation
+coefficient of MVD-A with MVD-B was 0.535 (P = 0.01), MVD-A with MVD-C
+was 0.581 (P Background: Angiogenesis is important in proliferation and
+survival of neoplastic cells in multiple myeloma (MM). Microvessel
+density (MVD) is a useful angiogenesis marker, which can be detected by
+anti-CD34 immunohistochemical stain. However, counting the MVD of bone
+marrow (BM) by light microscopy has a limitation in standardization due
+to inter-observer differences. Consistent method for MVD assessment has
+been required to resolve the variation in number. Here we developed the
+MVD counting method using computerized image analyzer (CIA) and light
+microscopy.Methods: A total of 21 patients with primary diagnosed with MM
+were evaluated. MVD was assessed by screening three hot spots of CD34
+positive vessels on BM biopsy section (x40 magnification). MVD was
+measured by three different ways. First, the number of vessels was
+counted using light microscope at the time of diagnosis by several
+hematopathologists (MVD-A). Second, the total count of microvessels per
+14435.2 m2 (1388 1040m) of marrow area was measured by a Zeiss microscope
+using AxioVison LE Image Analyzer with developed image analyzer program
+(MVD-B). In addition, manual count of captured image by CIA with one
+observer was examined (MVD-C). Software was developed using Microsoft
+visual studio (ver. 2010, Microsoft, USA) and VTK (ver. 5.10.0, Kitware,
+USA) library. Captured image was labeled via pre-processing for image
+enhancement and seed region growing algorithm to detect the MVD
+candidates. Using histogram texture analysis, each candidate was
+determined to MVD.Results: The range of MVD was as followings: MVD-A
+(range 3-52; mean 16.5; SD 12.8), MVD-B (range 4-38; mean 19.6; SD 10.0),
+and MVD-C (range 5-34; mean 14.8; SD 7.8).There was a significant
+correlation between theses angiogenesis parameters. Pearson's correlation
+coefficient of MVD-A with MVD-B was 0.535 (P = 0.01), MVD-A with MVD-C
+was 0.581 (P < 0.01), and MVD-B with MVD-C was 0.897 (P Background:
+Angiogenesis is important in proliferation and survival of neoplastic
+cells in multiple myeloma (MM). Microvessel density (MVD) is a useful
+angiogenesis marker, which can be detected by anti-CD34
+immunohistochemical stain. However, counting the MVD of bone marrow (BM)
+by light microscopy has a limitation in standardization due to
+inter-observer differences. Consistent method for MVD assessment has been
+required to resolve the variation in number. Here we developed the MVD
+counting method using computerized image analyzer (CIA) and light
+microscopy.Methods: A total of 21 patients with primary diagnosed with MM
+were evaluated. MVD was assessed by screening three hot spots of CD34
+positive vessels on BM biopsy section (x40 magnification). MVD was
+measured by three different ways. First, the number of vessels was
+counted using light microscope at the time of diagnosis by several
+hematopathologists (MVD-A). Second, the total count of microvessels per
+14435.2 m2 (1388 1040m) of marrow area was measured by a Zeiss microscope
+using AxioVison LE Image Analyzer with developed image analyzer program
+(MVD-B). In addition, manual count of captured image by CIA with one
+observer was examined (MVD-C). Software was developed using Microsoft
+visual studio (ver. 2010, Microsoft, USA) and VTK (ver. 5.10.0, Kitware,
+USA) library. Captured image was labeled via pre-processing for image
+enhancement and seed region growing algorithm to detect the MVD
+candidates. Using histogram texture analysis, each candidate was
+determined to MVD.Results: The range of MVD was as followings: MVD-A
+(range 3-52; mean 16.5; SD 12.8), MVD-B (range 4-38; mean 19.6; SD 10.0),
+and MVD-C (range 5-34; mean 14.8; SD 7.8).There was a significant
+correlation between theses angiogenesis parameters. Pearson's correlation
+coefficient of MVD-A with MVD-B was 0.535 (P = 0.01), MVD-A with MVD-C
+was 0.581 (P < 0.01), and MVD-B with MVD-C was 0.897 (P <
+0.01).Conclusions: We developed the computer aided diagnostic tools to
+measure MVD more objectively. MVD count using image analyzer was well
+correlated with manual count and more accurate than MVD count on light
+microscope. Further studies with continuous upgrades on counting program
+are now in progress. Finally, we tried to apply this method in practice
+to predict the prognostic impact on MM patient at the time of diagnosis.
+

@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Solving genomic assay trade-offs with an optimized, extended
+cancer gene panel for research and clinical applications
+
+
+Choosing a genomic assay for cancer research is complicated by
+trade-offs. Cancer gene panels are a common choice, but they target
+mutational hotspots in a relatively small number of genes, often for
+cancers that are most commonly tested and that have common genetic
+etiologies. A common alternative is exome sequencing, which includes all
+the coding genes but, due to its larger genomic footprint, cannot reach
+the same depths as panels and therefore is less able to deal with low
+tumor purity and heterogeneity. Whole genome sequencing trades off very
+shallow depth and coverage over vast regions of uninterpretable genomic
+sequence in exchange for the identification of intergenic variants and
+structural variant breakpoints. All of these assays can be supplemented
+with RNA sequencing in order to capture gene fusions, allelic expression,
+splice isoforms, and gene expression. RNAseq comes with its own costs:
+the need to extract RNA from the same tissue, the need to perform a
+second assay, and the need to analyze a very different type of data from
+DNA sequencing.The trade-offs generally come down to three major issues:
+depth of sequencing, specific genes targeted, and cost. To solve these,
+we designed an extended, optimized cancer gene panel facilitating high
+depth sequencing at low cost. We started by identifying a comprehensive
+list of over 1,300 cancer genes. These genes were chosen through
+exhaustive cancer gene database and literature curation, and include
+genes from all major cancer pathways and from the Cancer Gene Census. We
+then took this gene list and applied an augmented targeting design
+strategy that we have previously used to create an augmented exome
+enrichment platform which fills in gaps that standard technical exomes
+miss.To validate the panel and analysis, we identified test samples
+including well-described cancer cell lines, cell line mixtures with
+engineered cancer variations, and formalin-fixed neoplastic tissues. We
+then performed a series of tests with these samples to measure the
+panel's small variant sensitivity and specificity, gauge its limits of
+detection, validate the detection of gene fusions, and demonstrate its
+ability to identify copy number alterations and loss of heterozygosity.
+In engineered cell lines, we detected 100% of small variants down to 5%
+allele frequency. We also mixed the cancer cell lines in various ratios
+and found similarly high sensitivity as well as very high specificity for
+small variant detection. We further compared our structural variation
+calls in the DNA and our fusion calls in the RNA with known data and
+found that we had very high concordance with known variations.These
+studies demonstrate that an extended, augmented cancer gene panel
+strategy solves many genomic assay trade-offs and leads to high accuracy
+and variant yield for cancer research applications.
+

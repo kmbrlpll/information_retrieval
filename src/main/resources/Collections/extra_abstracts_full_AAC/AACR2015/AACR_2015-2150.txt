@@ -1,0 +1,78 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Impact of co-occurring genetic events on RAS signaling
+diversification in NF1-mutant lung adenocarcinoma (LUAC)
+
+
+IntroductionInactivating somatic mutations in the NF1 tumor suppressor
+gene, encoding a prototypical RASGAP, drive the development of 11% of
+LUACs. Extensive genetic and biochemical evidence supports a central role
+of aberrant RAS signaling in the pathogenesis of NF1-deficient tumors.
+However, variable dependence on different RAS effector pathways and
+inconsistent responses to MEK and PI3K/MTOR inhibitors have been reported
+in experimental models of Nf1-related carcinogenesis. We hypothesized
+that significantly co-occurring genetic alterations may underpin
+signaling diversification downstream of mutant NF1.MethodsOur dataset
+includes 519 LUACs from TCGA and a cohort reported by Imielinski et al.
+Assessment of co-occurring genetic events was based on Fisher's exact
+test with a statistical cutoff of p0.05 (0.1 for the validation
+datasets). Supervised analysis of RNASeq and reverse phase protein array
+(RPPA) data and computation of MAPK and PI3K proteomic scores was
+conducted for each co-mutated gene as previously described. Signature
+enrichment was assessed using Gene Set Enrichment Analysis
+(GSEA).ResultsWe mapped dominant expression signatures in NF1-mutant LUAC
+using GSEA. Signatures relating to poor prognosis, EMT, E2F3-mediated
+gene expression and immune engagement were enriched in NF1-mutant tumors.
+RPPA confirmed lower expression of E-cadherin (P = 0.015) and higher
+expression of fibronectin (P = 0.018) in NF1-mutant compared to
+KRAS-mutant LUAC. NF1-mutant tumors showed significant heterogeneity in
+MAPK and PI3K/AKT/MTOR pathway activation. Compared to KRAS-mutant LUAC,
+NF1-mutant tumors had significantly lower MAPK score (P = 0.005) but
+comparable PI3K score (P = 0.407).Analysis of co-occurring genetic events
+identified 1201 genes as significantly differentially mutated between
+NF1-mutant and NF1-wild-type LUACs in the TCGA cohort. LANCL2 (P =
+6.71006) and TP53 (1.631005) were the top hits in this dataset. 135 genes
+validated in a second LUAC dataset. Strikingly, a core set of genes were
+significantly co-mutated with NF1 across a range of human tumors.Somatic
+mutations in KIAA1549L were associated with highly significant increase
+in PI3K score (PIntroductionInactivating somatic mutations in the NF1
+tumor suppressor gene, encoding a prototypical RASGAP, drive the
+development of 11% of LUACs. Extensive genetic and biochemical evidence
+supports a central role of aberrant RAS signaling in the pathogenesis of
+NF1-deficient tumors. However, variable dependence on different RAS
+effector pathways and inconsistent responses to MEK and PI3K/MTOR
+inhibitors have been reported in experimental models of Nf1-related
+carcinogenesis. We hypothesized that significantly co-occurring genetic
+alterations may underpin signaling diversification downstream of mutant
+NF1.MethodsOur dataset includes 519 LUACs from TCGA and a cohort reported
+by Imielinski et al. Assessment of co-occurring genetic events was based
+on Fisher's exact test with a statistical cutoff of p0.05 (0.1 for the
+validation datasets). Supervised analysis of RNASeq and reverse phase
+protein array (RPPA) data and computation of MAPK and PI3K proteomic
+scores was conducted for each co-mutated gene as previously described.
+Signature enrichment was assessed using Gene Set Enrichment Analysis
+(GSEA).ResultsWe mapped dominant expression signatures in NF1-mutant LUAC
+using GSEA. Signatures relating to poor prognosis, EMT, E2F3-mediated
+gene expression and immune engagement were enriched in NF1-mutant tumors.
+RPPA confirmed lower expression of E-cadherin (P = 0.015) and higher
+expression of fibronectin (P = 0.018) in NF1-mutant compared to
+KRAS-mutant LUAC. NF1-mutant tumors showed significant heterogeneity in
+MAPK and PI3K/AKT/MTOR pathway activation. Compared to KRAS-mutant LUAC,
+NF1-mutant tumors had significantly lower MAPK score (P = 0.005) but
+comparable PI3K score (P = 0.407).Analysis of co-occurring genetic events
+identified 1201 genes as significantly differentially mutated between
+NF1-mutant and NF1-wild-type LUACs in the TCGA cohort. LANCL2 (P =
+6.71006) and TP53 (1.631005) were the top hits in this dataset. 135 genes
+validated in a second LUAC dataset. Strikingly, a core set of genes were
+significantly co-mutated with NF1 across a range of human tumors.Somatic
+mutations in KIAA1549L were associated with highly significant increase
+in PI3K score (P<0.001). Higher PI3K score was also noted in tumors
+bearing co-mutations in SORCS3 (P = 0.049), and PAPP-A2 (P = 0.027), a
+matrix metalloproteinase with a reported role in proteolytic cleavage of
+IGFBP5. Functional assays to confirm the impact of these and other
+selected co-mutations and their effect on responsiveness to MEK and
+PI3K/MTOR inhibitors are underway.ConclusionsCo-occurring genetic
+alterations impact both the amplitude and directionality of signaling
+downstream of NF1 inactivation in LUAC and may therefore account for
+heterogeneity in both biological behavior and clinical response to
+targeted therapies.
+

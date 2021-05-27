@@ -1,0 +1,35 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Validated structural variant detection with prioritisation of
+known cancer related changes
+
+
+Reliable detection of structural variation (SV) is playing an
+increasingly important role in cancer diagnostics and treatments. We
+introduce a best practice integrative workflow for detecting large
+structural variations (SVs) such as deletions, duplications, inversions,
+fusions and translocations from standard DNA re-sequencing techniques,
+annotating and prioritising for clinically actionable events.While
+established RNA-Seq fusion workflows exist to detect and filter fusion
+events in tumors detecting large structural changes from exome- and WGS
+data remains challenging. Current DNA-based SV callers predict a large
+percentage of false positive events, and the resulting event lists are
+not prioritised for validation. To streamline follow-up studies we
+automate running multiple structural variant callers (Manta, WHAM, Lumpy,
+MetaSV), identifying potentially disruptive large scale events. We
+evaluate the integrated workflow sensitivity and specificity against the
+ICGC-TCGA DREAM Mutation Calling Challenge data set, optimise filtering
+criteria based on quality and supporting information, and annotate the
+filtered calls using known cancer related alterations from CIViC and
+publicly available gene lists from AstraZeneca. This enables us to
+prioritise known and potentially interesting events over intergenic
+events or non-whole exon deletions.We show validation results from test
+data and clinically actionable inversions, duplications and fusion events
+from cancer cell lines. Our approach is based on a two tier approach of
+first focusing on known events that yield fusion transcripts such as the
+TACC3-FGFR3 tandem duplication and ALK-EML4 inversion, and secondarily on
+events in oncogenes and tumor suppressors of interest. While whole genome
+sequencing is the preferred approach to detecting these events, we also
+show how by design or by the nature of the breakpoint being close enough
+to exons, hybrid capture data can also be surprisingly useful for SV
+inference.
+

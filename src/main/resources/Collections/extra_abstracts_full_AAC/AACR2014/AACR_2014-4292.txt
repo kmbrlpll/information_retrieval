@@ -1,0 +1,123 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Fast and automated assessment of tumor response: Infrared imaging
+
+
+The rabbit Vx2 tumor is a fast-growing carcinoma model, which is commonly
+used to study different aspects of tumor behaviour under cancer
+treatments. The reduction of tumor viability and the degree of induced
+necrosis are the most common criteria to evaluate the efficacy of cancer
+treatments. The most recent developments in infrared microspectroscopy
+(IRMS) imaging aimed at automating the procedure of tissue recognition
+and quantification by using statistical methods and prediction algorithm.
+We used IRMS for the automatic characterization and quantification of the
+Vx2 liver tumor viability after a chemoembolization
+treatment.Twenty-eight rabbits with Vx2 liver tumor were included in this
+study: 20 rabbits were subjected to a Doxorubicin eluting beads (DEB)
+treatment and compared to a control (CTRL) group of 8 rabbits. The tumor
+bearing livers were resected, fixed in formalin and embedded in paraffin.
+Two adjacent sections were cut from each sample using a microtome. The
+first section was mounted on a calcium fluoride window suitable for IRMS
+imaging. The second section was put on a standard glass slide and stained
+with HES to serve as a control for IRMS imaging. On a first series of 14
+different tumor sections (CTRL: 7 sections, DEB: 7 sections), we
+developed and validated a prediction algorithm. The protocol consisted of
+K-means (KM) clustering followed by linear discriminant analysis (LDA).
+The KM clustering was used to classify the spectra from the infrared
+images and to build a data base containing a large number of reference
+spectra (397.289 spectra) characteristics for tumor necrosis, viable
+tumor, fibrosis, liver parenchyma and liver parenchyma necrosis. Once the
+model validated, we empirically attributed a color for each type of
+tissue. Then, the predictive model was applied to infrared images of 52
+new test tumor sections (CTRL: 9 sections, DEB: 43 sections). The result
+of the LDA model analysis is a false color image where each color
+corresponds to a type of tissue. The percentage of pixels corresponding
+to each color is automatically recorded by the LDA model. This advantage
+was used to calculate the mean percentage of surface occupied by each
+type of tissue and to determine the tumor viability after the DEB
+treatment.The LDA false color images reproduced the histological
+structures of Vx2 liver tumors. The sensitivity and specificity of the
+LDA model were high to 86.7% and 96.7% for the 5 tissue types
+respectively. For DEB group, the LDA model determined that the surface of
+necrotic tissue represented 77.6823 % (CTRL group: 16.899 %, Mann
+Whitney: PThe rabbit Vx2 tumor is a fast-growing carcinoma model, which
+is commonly used to study different aspects of tumor behaviour under
+cancer treatments. The reduction of tumor viability and the degree of
+induced necrosis are the most common criteria to evaluate the efficacy of
+cancer treatments. The most recent developments in infrared
+microspectroscopy (IRMS) imaging aimed at automating the procedure of
+tissue recognition and quantification by using statistical methods and
+prediction algorithm. We used IRMS for the automatic characterization and
+quantification of the Vx2 liver tumor viability after a chemoembolization
+treatment.Twenty-eight rabbits with Vx2 liver tumor were included in this
+study: 20 rabbits were subjected to a Doxorubicin eluting beads (DEB)
+treatment and compared to a control (CTRL) group of 8 rabbits. The tumor
+bearing livers were resected, fixed in formalin and embedded in paraffin.
+Two adjacent sections were cut from each sample using a microtome. The
+first section was mounted on a calcium fluoride window suitable for IRMS
+imaging. The second section was put on a standard glass slide and stained
+with HES to serve as a control for IRMS imaging. On a first series of 14
+different tumor sections (CTRL: 7 sections, DEB: 7 sections), we
+developed and validated a prediction algorithm. The protocol consisted of
+K-means (KM) clustering followed by linear discriminant analysis (LDA).
+The KM clustering was used to classify the spectra from the infrared
+images and to build a data base containing a large number of reference
+spectra (397.289 spectra) characteristics for tumor necrosis, viable
+tumor, fibrosis, liver parenchyma and liver parenchyma necrosis. Once the
+model validated, we empirically attributed a color for each type of
+tissue. Then, the predictive model was applied to infrared images of 52
+new test tumor sections (CTRL: 9 sections, DEB: 43 sections). The result
+of the LDA model analysis is a false color image where each color
+corresponds to a type of tissue. The percentage of pixels corresponding
+to each color is automatically recorded by the LDA model. This advantage
+was used to calculate the mean percentage of surface occupied by each
+type of tissue and to determine the tumor viability after the DEB
+treatment.The LDA false color images reproduced the histological
+structures of Vx2 liver tumors. The sensitivity and specificity of the
+LDA model were high to 86.7% and 96.7% for the 5 tissue types
+respectively. For DEB group, the LDA model determined that the surface of
+necrotic tissue represented 77.6823 % (CTRL group: 16.899 %, Mann
+Whitney: P<0.0001), the viable tumor 14.2923 % (CTRL group: 74.747 %, MW:
+PThe rabbit Vx2 tumor is a fast-growing carcinoma model, which is
+commonly used to study different aspects of tumor behaviour under cancer
+treatments. The reduction of tumor viability and the degree of induced
+necrosis are the most common criteria to evaluate the efficacy of cancer
+treatments. The most recent developments in infrared microspectroscopy
+(IRMS) imaging aimed at automating the procedure of tissue recognition
+and quantification by using statistical methods and prediction algorithm.
+We used IRMS for the automatic characterization and quantification of the
+Vx2 liver tumor viability after a chemoembolization
+treatment.Twenty-eight rabbits with Vx2 liver tumor were included in this
+study: 20 rabbits were subjected to a Doxorubicin eluting beads (DEB)
+treatment and compared to a control (CTRL) group of 8 rabbits. The tumor
+bearing livers were resected, fixed in formalin and embedded in paraffin.
+Two adjacent sections were cut from each sample using a microtome. The
+first section was mounted on a calcium fluoride window suitable for IRMS
+imaging. The second section was put on a standard glass slide and stained
+with HES to serve as a control for IRMS imaging. On a first series of 14
+different tumor sections (CTRL: 7 sections, DEB: 7 sections), we
+developed and validated a prediction algorithm. The protocol consisted of
+K-means (KM) clustering followed by linear discriminant analysis (LDA).
+The KM clustering was used to classify the spectra from the infrared
+images and to build a data base containing a large number of reference
+spectra (397.289 spectra) characteristics for tumor necrosis, viable
+tumor, fibrosis, liver parenchyma and liver parenchyma necrosis. Once the
+model validated, we empirically attributed a color for each type of
+tissue. Then, the predictive model was applied to infrared images of 52
+new test tumor sections (CTRL: 9 sections, DEB: 43 sections). The result
+of the LDA model analysis is a false color image where each color
+corresponds to a type of tissue. The percentage of pixels corresponding
+to each color is automatically recorded by the LDA model. This advantage
+was used to calculate the mean percentage of surface occupied by each
+type of tissue and to determine the tumor viability after the DEB
+treatment.The LDA false color images reproduced the histological
+structures of Vx2 liver tumors. The sensitivity and specificity of the
+LDA model were high to 86.7% and 96.7% for the 5 tissue types
+respectively. For DEB group, the LDA model determined that the surface of
+necrotic tissue represented 77.6823 % (CTRL group: 16.899 %, Mann
+Whitney: P<0.0001), the viable tumor 14.2923 % (CTRL group: 74.747 %, MW:
+P< 0.0001) and fibrosis 3.896 % of the tumor (CTRL group: 1.12 %, MW: P=
+0.6262). The remaining percentage corresponded to unclassified spectra
+(DEB group: 3.947 %, CTRL group: 6.405 %, MW: P=0.0135).Our results show
+that IR imaging coupled with LDA model analysis could be a helpful to
+easily assess tumor response.
+

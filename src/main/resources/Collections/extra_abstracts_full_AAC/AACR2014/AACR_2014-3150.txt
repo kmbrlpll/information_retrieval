@@ -1,0 +1,38 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Exploring the role of Rap1Gap in the progression from DCIS to
+invasive breast carcinoma
+
+
+Understanding the underlying mechanisms that drive malignant progression
+of breast cancer is important. The purpose of this study is to define the
+role of Rap1Gap in the progression of ductal carcinoma in-situ (DCIS) to
+invasive cancer. We employed an in-vitro three-dimensional (3D) overlay
+model that provides a physiologically relevant microenvironment to study
+mechanisms of mammary gland development and malignant progression. We
+previously employed next generation sequencing (NGS) and identified 63
+consistently upregulated genes in three DCIS lines (SUM102, SUM225,
+MCF10.DCIS) compared to non-transformed mammary epithelial cells. To gain
+insight into common transcriptional elements of co-regulated genes that
+may be critical to the DCIS phenotype, we have mined our NGS data using
+Frameworker (Genomatix). The 63 upregulated genes are associated with 244
+candidate promoters out of a total of 82,703 promoters in the entire
+human genome. Our analysis shows that the common framework
+RXRF-ZF02-ZF02-PLAG-HDBP is only present in the promoters of three genes:
+RAP1GAP, SPRY4 and PDGFB. All of these genes are upregulated in our DCIS
+signature, which means that this framework is hugely enriched (336-fold)
+over what would be expected by chance. Rap1Gap has tumor suppressor
+properties; its functions, via regulation of Rap1 activity, include
+regulation of cell adhesion, suppression of cell proliferation and
+metastasis. In other epithelial cancers, loss of Rap1Gap has been linked
+to epithelial to mesenchymal transition (EMT) and invasion. To begin
+study of Rap1Gap in breast cancer progression, we performed
+immunohistochemistry. We show strong Rap1Gap staining in DCIS with little
+to no expression in myoepithelial and stromal components. Immunoblotting
+results show that Rap1Gap levels in MCF10.CA1d cells (a model of invasive
+carcinoma) are reduced compared to those in MCF10.DCIS cells. Rap1Gap
+expression is low in additional basal breast cancer cell lines, but high
+in luminal ER+ /PR+ cell lines. We propose that over-expression of
+Rap1Gap may serve as a tumor suppressive mechanism in DCIS; subsequent
+reduction of Rap1Gap may be a switch for EMT and progression to an
+invasive phenotype.
+

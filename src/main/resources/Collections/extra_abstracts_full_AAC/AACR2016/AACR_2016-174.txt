@@ -1,0 +1,65 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Isolation of primary human tumor cells significantly reduces bias
+in molecular analysis and improves culture of target cells
+
+
+Solid tumors are infiltrated by cells of non-tumor origin, including
+heterogeneous lymphocyte subpopulations, fibroblasts, and endothelial
+cells. The amount and composition of infiltrating cells is highly
+variable and patient dependent, which makes analyses of primary tumor
+samples difficult. The contaminating cells lead to hybridization of
+non-tumor cell derived mRNA molecules to probes on microarrays and a
+significant reduction of sensitivity caused by measurement of irrelevant
+signals during next-generation sequencing or proteome analysis can be
+expected. In addition, the culture of human tumor cells is frequently
+hampered by fibroblasts overgrowing the target cells, which bias assays
+such as drug sensitivity tests. To overcome these limitations, we have
+developed a fast and easy method to isolate untouched human tumor cells
+from primary tissue. This procedure is based on the comprehensive
+depletion of cells of non-tumor origin by combining automated tissue
+dissociation and magnetic cell sorting (MACS). A negative selection
+strategy enables the isolation of the tumor cell population without
+knowledge of surface protein expression on these cells. Even tissues that
+initially contain low numbers of tumor cells (Solid tumors are
+infiltrated by cells of non-tumor origin, including heterogeneous
+lymphocyte subpopulations, fibroblasts, and endothelial cells. The amount
+and composition of infiltrating cells is highly variable and patient
+dependent, which makes analyses of primary tumor samples difficult. The
+contaminating cells lead to hybridization of non-tumor cell derived mRNA
+molecules to probes on microarrays and a significant reduction of
+sensitivity caused by measurement of irrelevant signals during
+next-generation sequencing or proteome analysis can be expected. In
+addition, the culture of human tumor cells is frequently hampered by
+fibroblasts overgrowing the target cells, which bias assays such as drug
+sensitivity tests. To overcome these limitations, we have developed a
+fast and easy method to isolate untouched human tumor cells from primary
+tissue. This procedure is based on the comprehensive depletion of cells
+of non-tumor origin by combining automated tissue dissociation and
+magnetic cell sorting (MACS). A negative selection strategy enables the
+isolation of the tumor cell population without knowledge of surface
+protein expression on these cells. Even tissues that initially contain
+low numbers of tumor cells (< 20%) reach purities of higher than 95% in
+less than 20 minutes. Here, we have applied this method to isolate human
+tumor cells from primary and metastatic ovarian carcinoma and thymoma
+specimens. The purified human ovarian carcinoma tumor cell fraction was
+further used for the isolation of CD133+ cancer stem cells. Cultivation
+of human tumor cells was more consistent with prior removal of
+contaminating stromal cells than without. Whole genome expression
+profiling of bulk human tumor tissue and matched purified tumor cells
+showed a significant reduction in stroma specific gene expression
+signatures while tumor specific signatures were enriched. Moreover, the
+comparison of expression profiles of isolated cancer stem cells to their
+parent population of purified tumor cells indicate that different tumor
+cell subpopulations could be characterized more precisely than if the
+unpurified fraction was used as reference. This suggests a reduced risk
+of misinterpretation when only purified tumor cells are evaluated or used
+as a control for smaller subpopulations. Whole exome sequencing of the
+same samples further verified the benefit of tumor cell purification from
+stromal contamination. The sequence read heterogeneity was dramatically
+reduced in the purifiedsamples. The reduction of non-tumor cell derived
+DNA, therefore, led to the detection of a higher number of tumor specific
+SNPs and INDELS, and consequently in a higher confidence in the results,
+in particular for mutations only present in a subset of tumor cells.
+Taken together, removal of non-tumor cells strongly improves their
+subsequent culture and molecular analysis of primary human tumor tissue.
+

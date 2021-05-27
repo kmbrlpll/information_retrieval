@@ -1,0 +1,73 @@
+Meeting: 2015 AACR Annual Meeting
+Title: HSF1: Essential for myeloma cell survival and a promising
+therapeutic target
+
+
+Heat shock factor 1 (HSF1), a transcription factor known as the master
+regulator of the heat shock response (HSR), is emerging as an exciting
+therapeutic target in cancer due to its role in regulating cellular
+responses to proteotoxic stress as well as various oncogenic processes.
+Myeloma is hypothesized to be susceptible to therapies targeting protein
+homeostasis as it is characterised by the overproduction of
+immunoglobulin which is linked to significant ER stress. However,
+clinical responses to inhibitors of HSP90, a molecular chaperone
+overexpressed in myeloma patients, have been modest. This is partly due
+to HSF1-mediated transcriptional upregulation of anti-apoptotic HSP72. We
+are seeking to determine whether targeting the HSR through HSF1 may be an
+effective therapeutic strategy.HSF1 knockdown using shRNA downregulated
+levels of anti-apoptotic HSP72 and HSP27 and significantly reduced
+viability in human myeloma cell lines. This was associated with apoptosis
+as evidenced by increases in caspase 3/7 activity and PARP cleavage which
+were rescued by treatment with z-VAD-FMK, a pan-caspase inhibitor. We
+next treated human myeloma cell lines with KRIBB-11, a direct small
+molecule inhibitor of HSF1, and observed growth inhibition with GI50s of
+between 3.0 - 8.5 M. Notably, KRIBB-11 was cytotoxic to myeloma cell
+lines but not to peripheral blood mononuclear cells from healthy
+donors.To shed light on the mechanisms by which myeloma cells rely on
+HSF1 for survival, we carried out microarray analysis on HSF1 knockdown
+cells and found that XIAP-associated factor 1 (XAF1), a pro-apoptotic
+tumour suppressor gene known to be transcriptionally repressed by HSF1,
+was upregulated (>2.63 log-fold increase, pHeat shock factor 1 (HSF1), a
+transcription factor known as the master regulator of the heat shock
+response (HSR), is emerging as an exciting therapeutic target in cancer
+due to its role in regulating cellular responses to proteotoxic stress as
+well as various oncogenic processes. Myeloma is hypothesized to be
+susceptible to therapies targeting protein homeostasis as it is
+characterised by the overproduction of immunoglobulin which is linked to
+significant ER stress. However, clinical responses to inhibitors of
+HSP90, a molecular chaperone overexpressed in myeloma patients, have been
+modest. This is partly due to HSF1-mediated transcriptional upregulation
+of anti-apoptotic HSP72. We are seeking to determine whether targeting
+the HSR through HSF1 may be an effective therapeutic strategy.HSF1
+knockdown using shRNA downregulated levels of anti-apoptotic HSP72 and
+HSP27 and significantly reduced viability in human myeloma cell lines.
+This was associated with apoptosis as evidenced by increases in caspase
+3/7 activity and PARP cleavage which were rescued by treatment with
+z-VAD-FMK, a pan-caspase inhibitor. We next treated human myeloma cell
+lines with KRIBB-11, a direct small molecule inhibitor of HSF1, and
+observed growth inhibition with GI50s of between 3.0 - 8.5 M. Notably,
+KRIBB-11 was cytotoxic to myeloma cell lines but not to peripheral blood
+mononuclear cells from healthy donors.To shed light on the mechanisms by
+which myeloma cells rely on HSF1 for survival, we carried out microarray
+analysis on HSF1 knockdown cells and found that XIAP-associated factor 1
+(XAF1), a pro-apoptotic tumour suppressor gene known to be
+transcriptionally repressed by HSF1, was upregulated (>2.63 log-fold
+increase, p<0.0001). qRT-PCR and Western blotting confirmed XAF1
+upregulation with HSF1 knockdown. An increase in XAF1, PARP cleavage and
+decrease in HSP72 and HSP27 levels were also observed with KRIBB-11
+treatment, confirming that the loss or inhibition of HSF1 in myeloma
+modulates its downstream target genes and leads to caspase-mediated cell
+death.These results suggest a mechanism whereby HSF1 overexpression in
+myeloma cells represses XAF1 expression to evade apoptotic stresses and
+suggest XAF1 as a possible biomarker for HSF1 inhibition in myeloma.
+Interestingly, unlike HSP90 inhibition, HSF1 knockdown in myeloma cell
+lines did not modulate other key myeloma protein handling mechanisms such
+as aggresome formation, autophagy, the ubiquitin-proteasome pathway or ER
+stress. Efficacy testing and biomarker analyses of HSF1 inhibitors in
+s.c. human myeloma xenograft models are underway and early results are
+promising.To summarise, using both genetic and pharmacological
+inhibition, our data demonstrate that HSF1 maintains myeloma cell
+survival during proteotoxic stress by protecting cells from apoptosis via
+XAF1. More importantly, we demonstrate the potential efficacy and
+therapeutic window in targeting HSF1 for myeloma treatment.
+

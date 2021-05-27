@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Reconstructing evolutionary models of tumor progression from
+single-cell heterogeneity data
+
+
+Studies of genetic variation in solid tumors have revealed massive
+cell-to-cell heterogeneity within single tumors, leading to a surge of
+interest in reconstructing processes of tumor progression at the cellular
+level. These efforts are hindered by a lack of accurate quantitative
+models of tumor evolution processes and computer algorithms to analyze
+tumor heterogeneity data with respect to these models. We have previously
+developed algorithms to infer likely tumor phylogenetic trees from
+single-cell fluorescence in situ hybridization (FISH) gene copy number
+data, which has the advantage of making it practical to profile thousands
+of single cells and thus to survey hundreds of cells per tumor across
+tens of tumors. We have further shown that these phylogenetic
+reconstructions of a tumor's past evolution have significant predictive
+power for future progression of those tumors in a variety of cancer
+types. In the present work, we address the need for accurate models of
+tumor evolution through new methods to infer FISH-based tumor phylogenies
+while simultaneously learning tumor-specific models of evolution by copy
+number variation at the single gene, single chromosome and whole genome
+scales.We have applied these algorithms to four FISH data sets: i)
+cervical cancers collected from paired primary and metastasis from 16
+patients and probed at for four genes (LAMP3, PROX1, PRKAA1 and CCND1)
+measured for up to 250 cells per tumor, ii) tongue cancers collected from
+65 patients at four tumor stages and probed at for four genes (TERC,
+CCND1, EGFR and TP53) measured for up to 250 cells per patient, iii)
+prostate cancers collected from 6 non-progressive and 7 progressive
+carcinomas and probed at six genes (TBL1XR1, CTTNBP2, MYC, PTEN, MEN1 and
+PDGFB) measured in up to 407 cells per patient, and iv) ductal carcinoma
+in situ and invasive ductal carcinoma of the breast collected as paired
+samples from 13 patients and probed at eight genes (COX2, MYC, CCND1,
+HER2, ZNF217, DBC2, CDH1 and TP53) and measured on up to 220 cells per
+tumor. Statistical analysis of inferred cervical cancer trees allowed us
+to distinguish progressing from non-progressing primary tumors with 86%
+accuracy, while similar statistics derived from tongue cancers allowed us
+to significantly classify tumors with good versus bad prognosis with
+respect to overall (P-value = 0.0000394) and disease-free (P-value =
+0.000117) survival, independent of tumor stage and smoking behavior.
+These results improve on our best prior accuracies for each of these
+tasks, providing validation for the model inference approach while also
+providing new methods relevant to the problem of predicting future
+progression of tumors.
+

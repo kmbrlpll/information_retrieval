@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genomic profiling of syngeneic mouse cell lines and in vitro
+screen of the models against checkpoint inhibitors and target agents for
+preclinical application.
+
+
+Cancer immunotherapy has provided substantial clinical benefit in a
+significant number of patients with advanced diseases. In pre-clinical
+studies, CrownBio has developed a large collection of syngeneic models to
+facilitate in vivo efficacy testing of immune-oncology agents in mice
+(MuScreenTM). To combine the ostensibly separate therapeutic strategies
+of activating immune cells against and targeting the unique genetic
+characteristics of a tumor model, we sought to thoroughly characterize
+the mutation profiles of these syngeneic mouse cell lines and examine
+drug response profiles of these cell line models. The goal of this work
+was to provide an in vitro system in evaluating combination effectiveness
+when targeting both immune checkpoint markers and oncogenic targets in
+preclinical studies.
+
+To this end, we investigated mutation and gene expression profiles of 18
+mouse cancer cell lines out of the panel of 23 syngeneic mouse models
+included in the MuScreenTM for 50 well defined cancer-related mutations
+among 30,690 variants in exonic regions called by RNAseq (Illumina HiSeq
+X10). The somatic mutations revealed through the bioinformatics analysis
+include ALK (3 - frequency, same for the rest), BRAF (4), BRCA1 (7),
+BRCA2 (12), EGFR (3), ERBB2 (6), EGFR3 (2), FBXW7 (10), FLT3 (12), HRAS
+(1), KRAS (8), NRAS (1), PDGFRA (11), PTCH1 (9), PIK3CA (2), PTEN (6),
+RET (3), SETD2 (5), SMAD4 (3), SMO (13), TRP53 (13), TSC1 (3), and TSC2
+(10). All of these oncogenic alterations are clinically actionable
+(Cancer Discovery 2, 82-93, 2012). The same set of genes was also subject
+to mRNA expression change analysis.
+
+We screened the 18 mouse cell lines with a few selected target therapy
+agents, and performed combination assays of these agents together with
+check point inhibitors such as aPD1, aPDL1, in a co-culture system with
+mouse T cells. An IncuCyte real-time imaging platform was used to
+distinguish activities on T cells and tumor cells. The results and the
+implications will be discussed.
+
+

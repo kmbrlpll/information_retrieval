@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Selective modulation of IRES-mediated translation in malignant
+cells
+
+
+There are two distinct modes of protein synthesis in the cell. The
+conventional mechanism of cap-dependent ribosomal scanning is utilized
+for general protein synthesis, whereas internal ribosome entry site
+(IRES)-mediated translation appears to be reserved for synthesis of those
+gene products most critical for cell proliferation and survival,
+providing a fail-safe or emergency system to ensure that such essential
+polypeptides can be manufactured when needed, particularly under
+conditions of stress when general protein synthesis is compromised. To
+date, there has been no means, experimental or therapeutic, by which to
+selectively modulate IRES function; rather, IRES-mediated translation has
+typically been studied by inhibiting general protein synthesis and
+attributing the remaining translational activity to the IRES. To address
+this problem, a cell-based high-throughput screen of 135,000 compounds
+was performed to identify small molecules capable of selectively
+inhibiting translation mediated through the IGF1R IRES. The
+identification of these compounds allows us, for the first time, to
+selectively perturb IRES-mediated translation in its native context, and
+assess the consequences.Data obtained using the bicistronic reporter
+system demonstrate that the lead compounds and their structural analogs
+selectively inhibit second cistron translation (mediated through the
+IRES). Western analyses show that, at sufficient concentration ( 5 g/ml),
+the IRES inhibitors completely block de novo IGF1R protein synthesis in
+genetically-unmodified breast tumor cells, confirming activity against
+the endogenous IRES. The IRES inhibitors function in a manner which is
+essentially reciprocal to rapamycin, and can be clearly distinguished
+from cycloheximide.Spectrum of activity of the small molecule IRES
+inhibitors extends beyond IGF1R to a subset of potential IRES targets,
+including c-myc. The IRES inhibitors differentially modulate synthesis of
+the two c-Myc protein isoforms, bringing about a dramatic decrease in
+p64, the dominant (oncogenic) isoform, while transiently stimulating
+synthesis of p67, the minor (growth-inhibitory) isoform. RNase protection
+analyses show no discernible changes in c-myc mRNA, confirming that the
+effects of the IRES inhibitor are exerted at the translational
+level.Sustained IRES inhibition has profound, detrimental effects on
+human tumor cells, inducing massive (>99%) cell death and complete loss
+of clonogenic survival in tumor models as disparate as triple negative
+breast carcinoma, glioblastoma, and acute myeloid leukemia. Beyond a
+critical threshold of dose and duration of exposure, there is no evidence
+of recovery, even with prolonged incubation in absence of the compound.
+Together, these findings support the conclusion that IRES-mediated
+translation is of fundamental importance to the survival of malignant
+cells, and may represent a critical point of vulnerability which could be
+exploited therapeutically.
+

@@ -1,0 +1,91 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Risk prediction for late-stage ovarian cancer by meta-analysis of
+1,525 patient samples
+
+
+Background: Ovarian cancer causes over 15,000 deaths per year in the
+United States. The survival of patients is quite heterogeneous, and
+accurate prognostic tools would help with the clinical management of
+these patients. However, existing ovarian cancer gene signatures did not
+make it to the clinic so far. Expression data of thousands of patients
+from a large number of different cohorts is now available in the public
+domain. Harvesting all this information for building signatures is a
+challenging big data problem, but has the potential to yield more robust
+and accurate signatures.Methods: We developed and validated two gene
+expression signatures of potential clinical relevance in advanced stage
+serous ovarian cancer, the first for predicting survival and the second
+for predicting the outcome of initial debulking surgery. We integrated 13
+publicly available datasets totaling 1,525 subjects. We trained
+prediction models using a meta-analysis variation on the Compound
+Covariate method, tested models via a leave-one-dataset-out procedure,
+and validated models in additional independent datasets. Selected genes
+from the debulking signature were validated by immunohistochemistry and
+qRT-PCR in two further independent cohorts of 179 and 78 patients,
+respectively.Results: The survival signature stratified patients into
+high- and low-risk groups (HR=2.19; 95% CI, 1.84 to 2.61) significantly
+better than the best previously published overall survival signature (P =
+0.039). POSTN, CXCL14, FAP, NUAK1, PTCH1, and TGFBR2) were validated by
+qRT-PCR (P Background: Ovarian cancer causes over 15,000 deaths per year
+in the United States. The survival of patients is quite heterogeneous,
+and accurate prognostic tools would help with the clinical management of
+these patients. However, existing ovarian cancer gene signatures did not
+make it to the clinic so far. Expression data of thousands of patients
+from a large number of different cohorts is now available in the public
+domain. Harvesting all this information for building signatures is a
+challenging big data problem, but has the potential to yield more robust
+and accurate signatures.Methods: We developed and validated two gene
+expression signatures of potential clinical relevance in advanced stage
+serous ovarian cancer, the first for predicting survival and the second
+for predicting the outcome of initial debulking surgery. We integrated 13
+publicly available datasets totaling 1,525 subjects. We trained
+prediction models using a meta-analysis variation on the Compound
+Covariate method, tested models via a leave-one-dataset-out procedure,
+and validated models in additional independent datasets. Selected genes
+from the debulking signature were validated by immunohistochemistry and
+qRT-PCR in two further independent cohorts of 179 and 78 patients,
+respectively.Results: The survival signature stratified patients into
+high- and low-risk groups (HR=2.19; 95% CI, 1.84 to 2.61) significantly
+better than the best previously published overall survival signature (P =
+0.039). POSTN, CXCL14, FAP, NUAK1, PTCH1, and TGFBR2) were validated by
+qRT-PCR (P < 0.05) and POSTN, CXCL14 and phosphorylated Smad2/3 by
+immunohistochemistry (P Background: Ovarian cancer causes over 15,000
+deaths per year in the United States. The survival of patients is quite
+heterogeneous, and accurate prognostic tools would help with the clinical
+management of these patients. However, existing ovarian cancer gene
+signatures did not make it to the clinic so far. Expression data of
+thousands of patients from a large number of different cohorts is now
+available in the public domain. Harvesting all this information for
+building signatures is a challenging big data problem, but has the
+potential to yield more robust and accurate signatures.Methods: We
+developed and validated two gene expression signatures of potential
+clinical relevance in advanced stage serous ovarian cancer, the first for
+predicting survival and the second for predicting the outcome of initial
+debulking surgery. We integrated 13 publicly available datasets totaling
+1,525 subjects. We trained prediction models using a meta-analysis
+variation on the Compound Covariate method, tested models via a
+leave-one-dataset-out procedure, and validated models in additional
+independent datasets. Selected genes from the debulking signature were
+validated by immunohistochemistry and qRT-PCR in two further independent
+cohorts of 179 and 78 patients, respectively.Results: The survival
+signature stratified patients into high- and low-risk groups (HR=2.19;
+95% CI, 1.84 to 2.61) significantly better than the best previously
+published overall survival signature (P = 0.039). POSTN, CXCL14, FAP,
+NUAK1, PTCH1, and TGFBR2) were validated by qRT-PCR (P < 0.05) and POSTN,
+CXCL14 and phosphorylated Smad2/3 by immunohistochemistry (P < 0.001) as
+independent predictors of debulking status. The sum of IHC intensities
+for these three proteins provided a tool that classified 92.8% of samples
+correctly in high- and low-risk groups for suboptimal debulking (AUC
+0.89; 95% CI 0.84 to 0.93). We present the strongest evidence to date for
+the existence of a biologic basis of suboptimal outcome of debulking
+surgery.Conclusions: Our survival signature provides the most accurate
+and validated prognostic model for early and advanced stage high-grade
+serous ovarian cancer. The debulking signature accurately (92.8%)
+predicts the outcome of cytoreductive surgery and will have clinical
+utility if the accuracy of the immunohistochemistry tool observed in our
+initial 179-patient validation cohort is confirmed in prospective
+validation. This tool will potentially allow for the identification of
+those patients who will not benefit from primary debulking surgery,
+sparing them the toxicity of extensive surgery and the delay until the
+initiation of chemotherapy. These patients can be triaged to neoadjuvant
+chemotherapy with interval debulking.
+

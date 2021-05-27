@@ -1,0 +1,28 @@
+Meeting: 2016 AACR Annual Meeting
+Title: High throughput siRNA screens uncover a high rate of USP8 and
+ESCRT pathway dependency in squamous carcinoma cell lines
+
+
+USP8 and the ESCRT pathway (endosomal sorting complex required for
+transport) are required for cellular homeostasis through key functions in
+shuttling ubiquitinated proteins towards lysosomal degradation, and
+through regulating the maturation of autophagosomal structures. In
+large-scale siRNA screens, the vast majority of cancer cell lines do not
+demonstrate dependency on USP8 or ESCRT pathway components for viability.
+However, we identified three cell lines (HCC70, HCC1954 and PFSK1) that
+are acutely dependent on USP8 and other ESCRT components (HGS, TSG101)
+for viability. Using a transcriptome-wide association approach, we found
+that these three USP8-dependent cell lines also had in common the
+expression of SerpinB3, also known as SCCA1 (Squamous Cell Carcinoma
+Antigen 1). After selecting additional Squamous Cell Carcinoma cell lines
+for further validation of USP8-dependency by siRNA screening, we found
+that Squamous Carcinoma cell lines, irrespective of their SerpinB3
+expression status, were far more likely to be dependent on USP8 for
+viability (23%; N = 22) than cancer cell lines of non-Squamous epithelial
+origin (4.5%; N = 67). To unravel possible molecular mechanisms
+underpinning the requirement of USP8 for the viability of USP8-dependent
+Squamous Carcinoma cell lines (including SCABER, BICR22, CALU1 and EBC1),
+we conducted additional transcriptome association studies and genetic
+interaction screens to uncover genes that are synthetic lethal with USP8
+knock-down.
+

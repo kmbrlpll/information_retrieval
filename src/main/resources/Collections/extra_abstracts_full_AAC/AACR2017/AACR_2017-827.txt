@@ -1,0 +1,24 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Statistical analyses of stable housekeeping gene expression in
+cancer post-irradiation.
+
+
+Ionizing radiation (IR) can induce DNA damage in human cells and result
+in changes in gene expression. The changes could also include some of the
+commonly used housekeeping genes (HKG), and thus making them unstable
+over the time period after being exposed to radiation. Normalization of
+housekeeping genes is critical for understanding gene expression
+post-irradiation. Toward the validation of stable HKGs, cancer cell lines
+from head and neck, non-small cell lung and pancreas were irradiated to
+2, 4 and 6 Gy IR doses. Statistical analysis of RNA expression of
+fourteen HKGs measured at 5 min to 48hrs post-irradiation reveal
+tradition HKGs such as beta-actin (ACTB) and
+glucose-6-phosphate-dehydrogenase (G6PD) to be unstable, while TATA-Box
+Binding Protein (TBP) and Importin 8 (IPO8) was identified as stable HKGs
+in non-small lung and pancreas cell across all IR doses and time.
+Interestingly in head and neck cancer, TBP is also found stable across
+all IR doses and time. The statistical framework used for identification
+and validation of HKGs can serve as a reliable metric for quantifying
+gene expression post-irradiation.
+
+

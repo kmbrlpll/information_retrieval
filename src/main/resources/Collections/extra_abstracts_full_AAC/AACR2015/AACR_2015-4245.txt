@@ -1,0 +1,35 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Detection of fusion genes in lung cancer biopsies of crizotinib
+resistant patients
+
+
+Purpose: A small proportion of lung cancer patients have an inversion
+involving the ALK gene on chromosome 2. These ALK+ patients initially
+respond to crizotinib, but later develop progressive disease. This
+resistance can be due to gatekeeper mutations in the kinase domain of the
+ALK gene like L1196M and G1269A, copy number gain of the EML4-ALK fusion
+gene, and mutations in EGFR and KRAS. We aimed at identifying fusion
+genes that may explain the resistance mechanism in patients progressing
+on crizotinib.Materials and Methods: Frozen tissue of the resistant tumor
+samples was available for four EML4-ALK positive patients (Table 1).
+Paired end RNA sequencing was performed using the Illumina TruSeq RNA
+platform. DeFuse (v.0.6.1) was used to identify fusion products.
+Candidate fusion genes were validated by RT-PCR. In addition, we used the
+IGV browser to identify mutations in resistance-associated genes in the
+RNA-seq data.Results: Thirteen fusions genes were identified with high
+confidence (Table 1). In three of the four patients we detected an
+EML4-ALK fusion product. Four novel fusion products with a functional ORF
+were confirmed by RT-PCR. Three of these fusion products were present in
+patient 1 (Table 1). The fourth fusion involving CLIP4-VSNL1 was detected
+in patient 3. Interestingly, three of the 4 fusion products observed in
+patient 3 involved 5 genes that are all close to the ALK locus, i.e.
+EML4, ALK, CLIP4, VSNL1 and MCFD2 (Table 1). In addition, we found two
+resistance-related mutations in the tyrosine kinase domain of the ALK
+gene, i.e. p.C1156Y and p.G1269A, in patients 2 and 3,
+respectively.Conclusion: We found four new fusion products with a
+functional ORF using RNA sequencing of crizotinib resistant tumor
+samples. Further analysis of the primary tumor samples is ongoing and
+will reveal if these fusion genes might have been induced by the
+crizotinib treatment. Two of the four patients have a known
+resistance-inducing mutation in the ALK gene.
+

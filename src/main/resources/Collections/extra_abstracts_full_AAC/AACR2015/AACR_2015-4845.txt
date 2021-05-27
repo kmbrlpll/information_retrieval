@@ -1,0 +1,36 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Microarray analysis of melanoma autologous tumor cell lines used
+as the source of tumor associated antigens in patient-specific dendritic
+cell immunotherapy phase II trial in patients with metastatic melanoma
+
+
+Melanoma cells that are proliferating and self-renewing in short-term
+cell culture, have the phenotypic and functional characteristics of tumor
+stem cells, and they express unique patient-specific neoantigens, as well
+as numerous common melanoma associated antigens. Patient-specific
+therapeutic vaccines, produced by Incubating autologous dendritic cells
+with autologous tumor cells from such cell lines (DC-TC), have yielded
+promising results in phase II trials in metastatic melanoma. In this
+study we examined the expression of genes on the tumor cell lines which
+had served as the sources of tumor associated antigens loaded onto
+autologous dendritic cells as part of a phase II trial in which there was
+an observed 5-year survival rate of 50%.[Dillman 2009] There was
+sufficient melanoma tumor cells to analyze for 50 of the 54 patients
+enrolled in the phase II trial. Microarray analysis was performed by
+Response Genetics, Inc. (Los Angeles) for 54,000 genes. The Excel data
+file was entered into an Affymetrix data processing algorithm using the R
+programming language. Gene ranking was performed using prediction
+analysis of microarrays.[Tibshirani 2002] Correlation with overall
+survival was done for 26 patients who survived 5 years or longer, and 24
+patients who survived less than 5 years. Hierarchical clustering for over
+and under expression yielded 9 genes, VEPH1, ZNF280B, FGF13, ST6GALNAC3,
+QPCT, ZNF280B, BST, PBRM1 and C21orf91 which identified 11/11 patients
+who had a survival greater than 5 years, and 17/18 patients who died in
+less than 2 years. Using the top six genes, overall survival greater than
+5 years was correctly predicted for 80.3% of patients, and survival less
+than 5 years was correctly predicted for 74.2% of patients. Gene array
+data obtained from self-renewing, proliferating, autologous tumor cells
+was prognostic for survival. It is unclear whether these genes are
+predictive of an effective immune response after repeated injections of a
+therapeutic dendritic cell-tumor cell vaccine.
+

@@ -1,0 +1,27 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Systems biology approach links genetic, epigenetic, and
+transcriptomic features to tamoxifen sensitivity.
+
+
+Utilizing existing genome-wide genotype, transcriptome and microRNA
+(miRNA) datasets, we developed an integrative approach to evaluate the
+role of genetic-epigenetic regulatory networks in human complex traits.
+In this study, we focused on cellular sensitivity to tamoxifen, a
+commonly prescribed breast cancer medication as a phenotype of interest.
+A sequential multi-dimensional model was constructed to first identify
+genes/miRNAs whose expression levels are correlated with tamoxifen
+sensitivity. This in turn facilitated the identification of SNPs
+associated with potential functionally relevant genomic features.
+Finally, associations between these selected SNPs and cellular
+sensitivity to tamoxifen were evaluated. A permutation-based false
+discovery rate (FDR) procedure showed that association findings from our
+approach have much lower FDRs when compared to those obtained through a
+traditional single-step genome-wide association study (GWAS) between SNP
+and drug sensitivity. Our model identified 50 unique SNPs associated with
+30 miRNAs and 34 gene expression levels, all of which associated with
+cellular sensitivity to tamoxifen phenotypes in HapMap YRI samples. Among
+them, several miRNAs and genes have been previously implicated to play a
+role in tamoxifen sensitivity; most are novel. Functional studies on
+select miRNAs/genes are currently underway in both the HapMap samples and
+breast cancer cell lines.
+

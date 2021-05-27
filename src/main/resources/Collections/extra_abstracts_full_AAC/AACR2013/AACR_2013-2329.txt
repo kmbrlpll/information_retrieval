@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: DAPK-1, a death signaling transducer, is critical for the
+tumorigenicity of p53 mutant breast cancer.
+
+
+Background: Breast cancers can be subgrouped into ER-positive and
+ER-negative breast cancers according to their estrogen receptor status.
+Few effective targeted treatments are available for the more aggressive
+ER-negative breast cancers, 80% of which carry p53 mutation. Our lab
+conducted a human kinome study which identified 52 kinases highly
+expressed in ER-negative breast tumors. One highly expressed kinase,
+DAPK-1, was selected for further study. Death associated protein kinase-1
+(DAPK-1) transduces death signaling through P53-dependent or -independent
+pathways. In this study, we determined a novel role of DAPK-1 in
+tumorigenesis of ER-negative, p53 mutant breast cancers.Methods: To
+perform expression and survival analysis of DAPK-1 in breast tumors, we
+used data from VandeVijver, Desmedt and Ivshina datasets. Inducible
+DAPK-1 knockdown cell lines were constructed through pTRIPZ lentiviral
+system. Anchorage-independent growth was performed in soft agar and
+colonies were enumerated after 15-30 days. Xenograft experiments were
+performed in nude mice. Proteomic analysis was used to determine
+downstream signaling.Results: Gene expression analysis showed that high
+DAPK-1 expression correlates significantly with the ER-negative subgroup
+of breast cancer. Using an inducible knockdown system, we found that
+depletion of DAPK-1 strongly suppressed in vitro growth and in vivo
+tumorigenesis of ER-negative, P53-mutant cells. Through a siRNA knockdown
+study in an expanded panel of breast cancer cell lines, we established an
+association between p53 mutation status and sensitivity of the cells to
+DAPK-1 depletion. ER-negative breast cancer cell lines with P53 mutations
+are very sensitive to DAPK-1 knockdown, while ER-positive breast cancer
+cell lines with wild-type P53 are resistant to DAPK-1 knockdown. By
+depleting P53 in P53 wild-type cells, we then showed that P53 wild-type
+breast cancer cells become partially dependent on DAPK-1 upon P53
+dysfunction. Through proteomic analysis, we determined that DAPK-1
+regulates cell growth through phosphorylating TSC2 at Ser939 and
+interfering with TSC1/TSC2 complex, which is a well-known repressor of
+mTOR pathway. Our survival analysis confirmed that high DAPK-1 expression
+in breast tumors is associated with worse clinical outcome, especially in
+patients that carry P53 mutations.Conclusion: P53-mutant breast cancer
+cells are sensitive to DAPK-1 inhibition in vitro and in vivo. P53
+dysfunction causes breast cancer cells to become dependent on DAPK-1
+signaling for their growth. High expression of DAPK-1 in P53-mutant
+breast tumor activates the mTOR pathway through relieving the
+TSC1/TSC2-mediated repressor of mTOR signaling. Our results demonstrate a
+dual role of DAPK-1 in regulating breast cancer proliferation and
+apoptosis depending on the P53 status. This study is supported by a
+PROMISE grant (KG081694) from Susan G. Komen for the Cure Foundation.
+

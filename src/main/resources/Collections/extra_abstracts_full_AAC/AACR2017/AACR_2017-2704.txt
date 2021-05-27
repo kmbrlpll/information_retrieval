@@ -1,0 +1,431 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Pathogenic mutations and variants of unknown significance (VUS) in
+cancer predisposition genes are associated with over 10% of pediatric
+rhabdomyosarcoma: a report from the Children’s Oncology Group.
+
+
+Approximately 5% of rhabdomyosarcoma (RMS) cases are due to known cancer
+predisposition syndromes (e.g., Li-Fraumeni syndrome,
+Neurofibromatosis-1), but these estimates have not been confirmed in
+large-scale studies. Furthermore, no recommended germline testing
+protocols exist for RMS. We tested the hypothesis that germline mutation
+burden is greater than previously reported and present several new
+predisposition genes as potential drivers of pediatric RMS. We sequenced
+59 cancer susceptibility genes in 213 children with RMS enrolled on one
+clinical trial (COG ARST0531), unselected for family history of cancer.
+Validation was performed with Sanger sequencing. Our analysis included
+determining the incidence of pathogenic variants in known RMS
+predisposition genes, followed by other cancer predisposition genes on
+our panel but not previously associated with RMS. In our cohort, 3.9% of
+unselected RMS cases harbor a pathogenic variant in a known
+predisposition gene (Table 1). Using VAAST, we next identified the top 10
+genes possibly associated with RMS. Variants of uncertain significance
+(VUS) were restricted to rare variants (Approximately 5% of
+rhabdomyosarcoma (RMS) cases are due to known cancer predisposition
+syndromes (e.g., Li-Fraumeni syndrome, Neurofibromatosis-1), but these
+estimates have not been confirmed in large-scale studies. Furthermore, no
+recommended germline testing protocols exist for RMS. We tested the
+hypothesis that germline mutation burden is greater than previously
+reported and present several new predisposition genes as potential
+drivers of pediatric RMS. We sequenced 59 cancer susceptibility genes in
+213 children with RMS enrolled on one clinical trial (COG ARST0531),
+unselected for family history of cancer. Validation was performed with
+Sanger sequencing. Our analysis included determining the incidence of
+pathogenic variants in known RMS predisposition genes, followed by other
+cancer predisposition genes on our panel but not previously associated
+with RMS. In our cohort, 3.9% of unselected RMS cases harbor a pathogenic
+variant in a known predisposition gene (Table 1). Using VAAST, we next
+identified the top 10 genes possibly associated with RMS. Variants of
+uncertain significance (VUS) were restricted to rare variants (<0.1%)
+with severe CADD and Polyphen2 scores, which added 16 additional patients
+(7.4%). To distinguish incidental findings from true correlations, we
+compared our allele frequencies to those in the GnomAD database (126,216
+exome sequences and 15,136 whole-genome sequences). Including both
+pathogenic mutations and rare VUS, 10.8% of RMS cases carry a variant
+with potentially important clinical implications, suggesting that newly
+diagnosed RMS would benefit from multigene genetic testing. Future
+directions include linkage to clinical data such as family history, age
+at diagnosis, tumor stage/location/histology, and clinical outcome, as
+well as expanding both the RMS and control cohorts.
+
+Table 1. List of genes with numbers of carriers identified in 213
+rhabdomyosarcoma cases
+
+
+
+Gene
+
+Carriers
+
+%
+
+% of carriers in GnomAD
+
+SIR
+
+95% CI
+
+P=value
+
+
+
+Truncating Variants and Known Pathogenic Missense
+
+
+
+ATM
+
+0
+
+
+
+0.42%
+
+-
+
+-
+
+-
+
+
+
+BAP1
+
+0
+
+0.87%
+
+0.05%
+
+-
+
+-
+
+-
+
+
+
+BRCA2
+
+2
+
+0.87%
+
+0.85%
+
+1.01
+
+(0.12-3.66)
+
+1.1736
+
+
+
+DICER1
+
+1
+
+0.43%
+
+0.06%
+
+7.75
+
+(0.20-43.19)
+
+0.2421
+
+
+
+MSH2
+
+1
+
+0.43%
+
+0.15%
+
+2.93
+
+(0.07-16.30)
+
+0.5790
+
+
+
+NF1
+
+2
+
+0.87%
+
+0.88%
+
+0.98
+
+(0.12-3.54)
+
+1.2088
+
+
+
+PMS2
+
+0
+
+0.87%
+
+0.18%
+
+-
+
+-
+
+-
+
+
+
+PTCH1
+
+0
+
+
+
+0.15%
+
+-
+
+-
+
+-
+
+
+
+TP53
+
+3
+
+1.30%
+
+0.13%
+
+10.10
+
+(2.08-29.51)
+
+0.0070
+
+
+
+WT1
+
+0
+
+1.30%
+
+0.02%
+
+-
+
+-
+
+-
+
+
+
+Total
+
+9
+
+3.90%
+
+3.42%
+
+1.14
+
+(0.52-2.16)
+
+0.7882
+
+
+
+Combined Analysis of Pathogenic Variants plus Variants of Uncertain
+Significance (VUS)
+
+
+
+ATM
+
+2
+
+0.87%
+
+0.78%
+
+1.11
+
+(0.13-4.02)
+
+1.0734
+
+
+
+BAP1
+
+2
+
+0.87%
+
+0.22%
+
+3.89
+
+(0.47-14.05)
+
+0.1891
+
+
+
+BRCA2
+
+2
+
+0.87%
+
+1.52%
+
+0.57
+
+(0.07-2.06)
+
+1.7286
+
+
+
+DICER1
+
+7
+
+3.03%
+
+0.86%
+
+3.52
+
+(1.41-7.24)
+
+0.0089
+
+
+
+MSH2
+
+1
+
+0.43%
+
+0.78%
+
+0.56
+
+(0.01-3.10)
+
+1.6690
+
+
+
+NF1
+
+2
+
+0.87%
+
+1.70%
+
+0.51
+
+(0.06-1.84)
+
+1.8062
+
+
+
+PMS2
+
+1
+
+0.43%
+
+0.64%
+
+0.68
+
+(0.02-3.78)
+
+1.5425
+
+
+
+PTCH1
+
+3
+
+1.30%
+
+0.86%
+
+1.52
+
+(0.31-4.43)
+
+0.6348
+
+
+
+TP53
+
+4
+
+1.73%
+
+0.25%
+
+6.93
+
+(1.89-17.76)
+
+0.0058
+
+
+
+WT1
+
+1
+
+0.43%
+
+0.31%
+
+1.40
+
+(0.04-7.81)
+
+1.0197
+
+
+
+Total
+
+25
+
+10.82%
+
+9.94%
+
+1.09
+
+(0.70-1.61)
+
+0.7232
+
+

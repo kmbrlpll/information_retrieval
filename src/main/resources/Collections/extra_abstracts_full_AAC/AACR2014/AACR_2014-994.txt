@@ -1,0 +1,46 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Integrated embryonic transcriptome analyses identify key melanoma
+metastasis regulator
+
+
+The enhanced ability of melanoma cells to metastasize is reminiscent of
+the innate propensity of melanoblasts to migrate to distant sites during
+embryonic development - from the neural crest to their eventual niche in
+the skin. Once transformed, melanoma cells mimic migratory and growth
+capabilities similar to those of embryonic melanoblasts. This putative
+relationship between tumorigenesis and developmental processes was first
+suggested by Rudolf Virchow more than 150 years ago. While this theory is
+largely unproven, there are mechanistic links between the processes
+regulating development and malignancy. Here we investigate this age-old
+puzzle using a mouse model with melanocyte-specific GFP expression to
+capture and sequence embryonic melanoblasts. We have, for the first time,
+isolated and sequenced the transcriptomes of murine embryonic
+melanoblasts at several key representative developmental stages. To
+uncover the overall classes of gene expression and to identify and
+characterize genesets whose expression is common and equally important to
+melanomagenic and developmental processes, a heat-map of the top 1000
+most variable developmental genes was generated, and then shortlisted
+based on compared levels of expression in human and mouse metastatic
+melanomas, and on the relationship with melanoma patient survival data.
+By integrating bioinformatics and functional data we have devised a new
+cross-species multi-dimensional embryonic-onco-genomics analyses (MEGA)
+approach and show that late stage melanomas reactivate genes used during
+embryonic development to achieve a more aggressive metastatic phenotype
+(which we refer to as metafetal genes). One such identified gene, a KDEL
+(Lys-Asp-Glu-Leu) endoplasmic reticulum (ER) protein retention receptor
+(KDELR) family member, was expressed in advanced mouse melanomas relative
+to normal skin or benign nevi. We confirmed this in human melanoma by
+showing that this metafetal gene was expressed at high levels in
+metastatic patient samples relative to benign lesions, and also predicted
+patient survival. Next, we determined the consequences of RNAi-based
+knockdown on experimental metastasis in mouse models. We validated the
+functional significance in human and mouse melanomas by showing that this
+KDELR plays a key role in melanoma metastasis through adaptation to
+chronic ER stress for survival by modulating the unfolded protein
+response (UPR), which can be targeted. We anticipate that this approach
+will identify a variety of key hardwired pathways associated with
+melanocyte development that can be co-opted by opportunistic metastatic
+melanoma cells. This approach also offers a novel perspective on melanoma
+therapeutics and intervention and offers both mechanistic as well as
+prognostic insights into our understanding of this fatal disease.
+

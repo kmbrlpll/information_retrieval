@@ -1,0 +1,61 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Age-related DNA methylation in normal breast tissues.
+
+
+Age-related DNA methylation in normal breast tissuesIt is well
+established that age is a key risk factor for breast cancer, with
+increasing incidence associated with older age. Epigenetic mechanisms,
+such as DNA methylation alterations, may contribute to age-related
+increases in breast cancer risk. Altered patterns of DNA methylation can
+modify the regulation of gene expression or expression potential, and DNA
+methylation alterations are frequently observed in the early stages of
+breast tumorigenesis. However, genome-wide interindividual variation in
+normal breast DNA methylation has not been well characterized for its
+relation with age and other key breast cancer risk factors. To
+investigate the relationship between age and DNA methylation in normal
+breast tissues, we first performed a meta-analysis using two independent
+data sets GSE32393 (n=23) and GSE31979 (n=15), from the Gene Expression
+Omnibus (GEO) database. For each of the considered datasets, genome-wide
+DNA methylation was assessed using the Illumina Infinium
+HumanMethylation27 Beadchip, which profiles the methylation status of
+27,000 CpG loci, associated with >14,000 genes. Associations between DNA
+methylation and age were examined by fitting a series of linear
+regression models to arcsine square root transformed average beta values
+for all CpG loci in both data sets. Between these data sets, 204 CpG loci
+were significantly and consistently associated (P Age-related DNA
+methylation in normal breast tissuesIt is well established that age is a
+key risk factor for breast cancer, with increasing incidence associated
+with older age. Epigenetic mechanisms, such as DNA methylation
+alterations, may contribute to age-related increases in breast cancer
+risk. Altered patterns of DNA methylation can modify the regulation of
+gene expression or expression potential, and DNA methylation alterations
+are frequently observed in the early stages of breast tumorigenesis.
+However, genome-wide interindividual variation in normal breast DNA
+methylation has not been well characterized for its relation with age and
+other key breast cancer risk factors. To investigate the relationship
+between age and DNA methylation in normal breast tissues, we first
+performed a meta-analysis using two independent data sets GSE32393 (n=23)
+and GSE31979 (n=15), from the Gene Expression Omnibus (GEO) database. For
+each of the considered datasets, genome-wide DNA methylation was assessed
+using the Illumina Infinium HumanMethylation27 Beadchip, which profiles
+the methylation status of 27,000 CpG loci, associated with >14,000 genes.
+Associations between DNA methylation and age were examined by fitting a
+series of linear regression models to arcsine square root transformed
+average beta values for all CpG loci in both data sets. Between these
+data sets, 204 CpG loci were significantly and consistently associated (P
+< 0.05) with subject age. Relative to the distribution of CpG loci on the
+array, we observed a significant enrichment of age-related DNA
+methylation patterns at CpG loci residing in CpG islands (P = 8.7e-6).
+Further, compared to non-island CpGs, loci in CpG islands were
+significantly more likely to exhibit increased age-related methylation (P
+= 0.008). To validate observed age-related DNA methylation, we performed
+bisulfite pyrosequencing of selected CpGs in an independent set of normal
+breast tissues (n=20) obtained through the National Disease Research
+Interchange. Our findings demonstrate consistent age-related methylation
+changes in normal breast tissue that may represent early events
+contributing to breast carcinogenesis and additional investigation for
+enrichment of local sequence and bioinformatic features near CpGs with
+age-related methylation is ongoing. This work contributes to the
+understanding of epigenetic mechanisms by which age serves as a major
+risk factor in the development of breast cancer.
+

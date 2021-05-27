@@ -1,0 +1,34 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification of lncRNAs involved in regulation of androgen
+receptor splice variants in prostate cancer through CRISPR-Cas9-based
+screen.
+
+
+Prostate cancer is the second leading cause of death in men in the USA.
+Despite the high initial response rates to androgen deprivation therapy
+(ADT), these tumors ultimately develop the resistance, i.e.,
+castration-resistant prostate cancer (CRPC). One of the contributing
+factors is constitutive expression of androgen receptor (AR) splice
+variants such as AR3, a major splice variant identified in clinical
+specimens. However, little is known about long non-coding RNAs (lncRNAs)
+on regulation of AR splicing. In this study, we generate
+CRISPR/Cas9-based libraries against a focus group of lncRNAs and an AR3
+mini-gene reporter to identify lncRNAs involved in regulation of AR
+splicing. The principles of this screening system is that only sgRNAs
+capable of promoting AR3 expression will be enriched in SAM (Synergistic
+Activation Mediator) library, whereas these clones are lost from the
+knockout gRNA library after selection. This screen identifies several
+candidate lncRNA sgRNAs and dual gRNAs (targeting Lnc-DC/ Har1B/
+LINC00568/ DHRS4-AS1/ SNHG5). Further characterization confirms the
+regulation of their corresponding endogenous genes and AR3 expression.
+Importantly, overexpression of Lnc-DC increases AR3 level and enhances
+tumor cell growth in response to androgen deprivation. Moreover, while
+ectopic expression of DHRS4-AS1 increases, DHRS4-AS1 knockout suppresses
+AR3. Finally, rescue experiments restore the ability of DHRS4-AS1 to
+induce AR3, further supporting a role for Lnc-DC and DHRS4-AS1 in AR3
+regulation. Together, we demonstrate that the CRISPR/Cas9-based screening
+system provides a powerful tool for lncRNA research. As a result, these
+lncRNAs may serve as biomarkers to predict the response to ADT or
+therapeutic targets for treatment of CRPC.
+
+

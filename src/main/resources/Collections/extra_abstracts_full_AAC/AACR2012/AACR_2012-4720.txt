@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Histone deacetylases as promising drug targets for treatment of
+esophageal squamous cell carcinoma
+
+
+Esophageal squamous cell carcinoma (ESCC) is one of the most aggressive
+cancers and the prognosis for advanced esophageal cancer patients is poor
+in spite of combination therapy including surgery, chemotherapy and
+radiotherapy. There is urgent need for the development of new therapeutic
+agents to improve the prognosis of ESCC patients. To find a lead compound
+effective for the treatment of ESCC, we first screened a set of 285
+compounds (SCADS inhibitor kit available at
+http://scads.jfcr.or.jp/index.html) for their growth inhibitory effect in
+21 cell lines of ESCC. Of the 285 compounds tested, 19 compounds showed
+greater than 80% growth inhibition at 200 nM in at least one cell line.
+Our attention was drawn to trichostatin A, a histone deacetylase
+inhibitor (HDACi), because this compound showed antitumor activity in a
+broad set of ESCC in this initial screening. Also, this class of compound
+appears to be a promising agent for the treatment of some type of cancer
+cells. Therefore, we further explored the underlying mechanism for the
+antitumor effect of HDACi in ESCC. To validate that HDACs are indeed the
+molecular targets, HDAC1 or HDAC2 expression was knocked down by siRNA,
+and the effect on cell growth was examined. Knockdown of HDAC1 or HDAC2
+expression alone did not show significant cell growth inhibition, but
+simultaneous knockdown of HDAC1 and HDAC2 expression induced significant
+cell growth inhibition. We then evaluated the growth inhibitory effect of
+two HDAC inhibitors, suberoylanilide hydroxamic acid (SAHA) and
+TrichostatinA (TSA), in our panel of 21 ESCC cell lines. The
+proliferation of ESCC cells was inhibited by SAHA and TSA in a
+dose-dependent manner. The IC50 of SAHA and TSA for these cell lines
+ranged from 0.25 to 6.34 microM and 16.1 to 489nM, respectively. The
+susceptibilities to SAHA and TSA were correlated. Cell cycle analysis by
+imaging cytometry showed prominent cell-cycle arrest in G2/M phase in
+cell lines treated with SAHA. Finally, we sought to determine the gene
+expression pattern associated with the sensitivities to the HDAC
+inhibitors. Gene expression profiling revealed that a set of genes
+related to cell cycle or mitosis was highly expressed in cell lines
+resistant to the HDAC inhibitors. Hierarchial cluster analysis showed
+that the cell lines were divided into two groups according to the
+expression pattern of genes related to cell cycle or mitosis, and
+significant differences were observed in the susceptibility to HDAC
+inhibitors between the two groups. One group showed high expression of
+genes involved in G2/M phase and low susceptibility to HDAC inhibitors,
+and the other group showed the opposite pattern. These results suggest
+that HDACs may be promising molecular targets for treatment of ESCC and
+that the susceptibility to HDAC inhibitors may be predicted by the
+expression pattern of genes involved in cell cycle, especially in the
+G2/M phase.
+

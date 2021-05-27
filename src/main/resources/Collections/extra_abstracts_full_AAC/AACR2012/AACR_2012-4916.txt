@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Molecular basis for the concentration-dependent tumor suppressing
+effects of KLK6 in breast cancer
+
+
+Human kallikrein-related peptidase 6 (KLK6) is a serine protease exerting
+versatile (patho)physiological functions (J Biol Chem 284:32989-32994,
+2009). Recently, we showed that KLK6 acts as a tumor suppressor in human
+breast cancer. Interestingly, the tumor suppressing effects of KLK6
+depend on its expression levels (Cancer Res 69:3779-3797, 2009). Namely,
+KLK6 re-expression at physiological levels (i.e. levels found in normal
+mammary cells and tissues) in KLK6-negative MDA-MB-231 breast cancer
+cells resulted in strong inhibition of tumor cell proliferation,
+anchorage-independent growth and cell motility, while it remarkably
+abolished their ability to form tumors in SCID mice. Contrary, when KLK6
+was highly overexpressed (>50-fold compared to normal cells) in
+MDA-MB-231 cells, its tumor suppressor activity in vivo was lost.
+Importantly, overexpression of KLK6 is a characteristic of a small
+subgroup of breast tumors. Here, we investigated molecular pathways
+underlying these concentration-dependent effects of KLK6 in breast
+cancer. In addition, we tested whether the enzymatic activity of KLK6 is
+required for the observed phenotypes or they may result from
+non-proteolysis-related protein-protein interactions. To address these
+questions we carried out genome-wide differential transcriptomic
+profiling using the Illumina bead microarrays. The profiles of
+KLK6-negative MDA-MB-231 parental cells was compared in parallel with
+three different MDA-MB-231 clones stably transfected with wt or mutant
+KLK6 cDNA, namely C28WT (expresses KLK6 at normal levels), C5WT (highly
+overexpresses KLK6) and C22MS (expresses a mutant form of KLK6 with a
+point substitution at the active site serine residue, i.e. S192A, that
+completely inhibits its protease activity). Detailed proteomic profiles
+were determined for all the aforementioned MDA-MB-231 clones using
+one-dimensional (1D) SDS-PAGE analysis of cell lysates, combined with in
+gel trypsin digestion and LC-ESI-MS/MS (liquid chromatography
+electrospray ionization tandem mass spectrometry). In all cases, we were
+able to identify in total 3779 cellular proteins with 2487 having 2
+peptides distributed as: 1776 in parental, 2020 in C28WT, 1228 in C5WT
+and 1593 in C22MS. Hierarchical clustering proteome analysis clustered
+C22MS together with parental. Sorting the proteins relative to 4
+fold-expression over parental resulted in identification of 377 proteins
+differentially expressed in C28WT, 449 in C5WT and 169 C22MS. The derived
+datasets were used to infer potential networks using Ingenuity Pathway
+Analysis (IPA). Important pathways (including NF-kB, TP53 and
+apoptosis-related) were found differentially deregulated upon KLK6
+expression. For the first time, we describe KLK6-associated gene
+expression signatures and proteomes that were integrated in an effort to
+derive putative pathways underlying the emerging role(s) of KLK6 in
+breast cancer.
+

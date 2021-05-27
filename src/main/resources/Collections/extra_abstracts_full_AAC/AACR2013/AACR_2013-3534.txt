@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Detection of intracellular ara-C/ara-CTP following treatment with
+the new anti-leukemic drug elacytarabine using a bioluminescent bacterial
+biosensor.
+
+
+Cytarabine (ara-C) is an analogue of deoxycytidine with an established
+role in treating AML. Cytarabine depends on the human equilibrative
+nucleoside transporter-1 (hENT-1) for cellular entry (1). Loss of hENT-1
+function in vitro has been shown to result in ara-C resistance (2), and
+reduced hENT-1 expression and activity has been associated with adverse
+therapeutic outcomes in patients treated with cytarabine (3). The
+lipophilic ara-C-5 elaidic acid ester of cytarabine (elacytarabine) has
+shown nucleoside transport independent uptake and long retention of the
+active nucleotide ara-CTP in a leukemic cell line (4) and may have the
+ability to overcome resistance due to insufficient transport in the
+clinical setting. (1). The whole cell bioluminescent biosensor,
+Escherichia coli HA1 was engineered to produce a measurable
+bioluminescent output in response to the nucleoside analogue ara-C (5).
+This was achieved through reduced expression of cytidine deaminase and
+the insertion of the human deoxycytidine kinase gene and the full lux
+operon from the Photorhabdus luminescens. The bacterial biosensor is able
+to monitor both ara-C and ara-CTP.The aim of this study was to evaluate
+the feasibility of using the Escherichia coli HA1 biosensor to measure
+intracellular ara-C and ara-CTP following ex vivo exposure of human cells
+to elacytarabine and cytarabine.CCRF-CEM cells or blast cells from
+patients were treated with ara-C or elacytarabine for up to 4 hours in
+the presence or absence of the hENT inhibitor dipyridamole (DPM). Cells
+were washed, lysed and the lysate incubated with E. coli HA1 and
+monitored on a plate reader luminometer. A cell viability assay was also
+performed to confirm biosensor results.E. coli HA1 produced a measurable
+response to lysate from CCRF-CEM cells treated with either ara-C or
+elacytarabine. In the case of ara-C, this response was reduced when cells
+were incubated with DPM. No such reduction was observed for
+elacytarabine. When used to treat blast cells derived from leukemic
+patients, elacytarabine treatment produced a stronger signal from E. coli
+HA1 than an equivalent concentration of ara-C. Furthermore, the efficacy
+of elacytarabine was not susceptible to hENT inhibition in patient
+samples, whereas the efficacy of ara-C was. The findings of this project
+suggest that the E. coli HA1 biosensor is compatible with elacytarabine
+and that elacytarabine is able to bypass the effect of hENT inhibition on
+CCRF-CEM cells and patient derived blast cells.1. Burke & Giles. Expert
+Opin Inv Drug. 2011; 20(12):1707-15.2. Cai et al. Cancer Res. 2008;
+68(7):2349-57.3. Galmarini et al. Leukemia Res. 2002;26(7):621-9.4. Adema
+et al. Invest New Drug. 2012; 30(5):1908-16.5. Alloush et al. Clin Chem.
+2010; 56(12):1862-70.
+

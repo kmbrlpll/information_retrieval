@@ -1,0 +1,34 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Compartmental flexibility in mammalian folate metabolism
+
+
+Background: Folate metabolism occurs in parallel cytosolic and
+mitochondrial pathways. Increased mitochondrial, but not cytosolic,
+folate dependent serine catabolism is among the most consistent metabolic
+alterations in human tumors. This study employs genetics coupled with
+quantitative metabolic analysis to determine the respective requirements
+for compartmentalized folate metabolism in proliferating human
+cells.Methods: Using CRISPR-Cas9 technology, we created a library of
+deletion mutant cell lines for enzymes in folate metabolism. Cellular
+metabolites from these cells were quantified by liquid chromatography
+mass spectrometry (LC-MS). Compartmental specific folate metabolic fluxes
+were assayed by labeling experiments using isotopic tracers of serine,
+glycine and formate.Results: We show that in HEK 293T cells, as well as
+in many but not all human cancer cell lines, folate dependent serine
+catabolism occurs predominantly in the mitochondria. In mutant cell lines
+deficient for mitochondrial folate genes, the reversal of the direction
+of cytosolic one-carbon flux enables cell growth, albeit at a reduced
+rate and with metabolic hallmarks of 10-formyltetrahydrofolate
+deficiency. Addition of exogenous formate rescued the
+10-formyltetrahydrofolate deficiency in all mutants, but the growth
+defect in only a subset. The growth defect persisted in cell lines mutant
+for enzymes required for the generation of mitochondrial one-carbon units
+and folate dependent generation of NAD(P)H but not for the production of
+formate.Conclusions: This study finds that folate metabolism is flexible
+with respect to compartmentalization. Cytosolic folate metabolism can
+provide sufficient one-carbon flux to fuel cell growth even in the
+complete absence of mitochondrial activity. High expression of
+mitochondrial folate genes in cancer may function to meet biosynthetic
+requirements under the stressful conditions of the tumor or to provide
+necessary compartmentalized one-carbon units and/or reducing equivalents.
+

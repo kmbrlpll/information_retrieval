@@ -1,0 +1,29 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Functional analysis of the 11q23.3 glioma susceptibility locus
+
+
+Glioma is the most common malignant primary brain tumor and is associated
+with poor prognosis. Single nucleotide polymorphisms (SNPs) associated
+with glioma risk have recently been investigated through genome-wide
+association studies (GWAS). Results of these studies have implicated
+seven independent glioma risk loci in six chromosomal regions. However,
+the mechanisms by which these SNPs contribute to cancer risk are still
+unknown. Here, we performed an in-depth functional analysis of one of
+these risk loci located near the PHLDB1 gene on 11q23.3. We began by
+retrieving all SNPs in linkage disequilibrium (LD; r2 0.2) with the
+glioma-associated SNP (rs498872). 61 genes contained in the region
+defined by a boundary of 1Mb from each end of the LD SNPs were considered
+candidate targets. A subset of 10 candidate functional enhancer/promoter
+SNPs was defined by overlap with ENCODE biofeatures and allele specific
+activity in luciferase and EMSA assays in astrocytes and GBM cells.
+Functional SNPs in the promoter of PHLDB1 implicated its transcriptional
+regulation in glioma risk. Chromatin conformation capture (3C) identified
+a physical interaction between one enhancer SNP and the promoter of the
+DDX6 gene. We also conducted neurosphere formation assays to evaluate the
+functional role of two top candidate genes, PHLDB1 and DDX6. We found
+that knockdown of either gene caused a significant reduction in U87MG
+neurosphere number and size. Taken together, these studies revealed the
+functional landscape of the 11q23.3 glioma susceptibility locus and
+implicated the transcriptional regulatory network of PHLDB1 and DDX6 in
+the mechanism of increased glioma risk.
+

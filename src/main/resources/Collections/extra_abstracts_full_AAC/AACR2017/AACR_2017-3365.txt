@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Epigenetic inactivation of PTPRT and sensitivity to STAT3
+inhibition in lung cancer.
+
+
+Signal Transducers and Activators of Transcription-3 (STAT3), a potent
+oncogenic transcription factor is persistently activated in several
+malignancies including lung cancer. Protein Tyrosine Phosphatase
+Receptor-T (PTPRT) is an endogenous inhibitor of STAT3 transcriptional
+activity, and is methylated in many types of human cancer.
+Loss-of-function of PTPRT by promoter methylation contributes to STAT3
+mediated growth and survival and represent one of the plausible mechanism
+of STAT3 hyperactivation. We report identification of hypermethylation in
+CpG islands of the PTPRT promoter which correlates with its
+transcriptional silencing as well as expression of pSTAT3 protein and
+STAT3 target genes in both lung cancer cell lines and primary human
+tumors. Analyses of the TCGA (The Cancer Genome Atlas) data revealed that
+PTPRT promoter is frequently hypermethylated in a subset of lung squamous
+cell carcinoma and approximately 25% of adenocarcinoma tumors in
+association with downregulation of PTPRT mRNA expression. This
+observation was verified in vitro using lung cancer cell lines. Out of
+the 7 lung cancer cell lines examined, one lung cancer cell line showed
+lack of methylation (only unmethylated sequences) of the PTPRT promoter
+region and revealed mRNA expression (H520). All 6 cell lines which showed
+PTPRT promoter methylation had nearly absent PTPRT mRNA and had high
+levels of pSTAT3Tyr705, while H520 had little or no pSTAT3Tyr705 protein
+expression. Silencing of PTPRT using siRNA in H520, where PTPRT was not
+endogenously silenced by promoter hypermethylation, resulted in the
+upregulation of the STAT3 target genes such as cyclin D1 and Bcl-XL mRNA
+and protein expression as well as increased pSTAT3Tyr705 level. Analyses
+of the methylation status in the PTPRT promoter region in primary lung
+tumor samples revealed methylation in one of the 3 tumor samples. This
+correlated with increased STAT3 target genes (cyclin D1 and Bcl-XL) mRNA
+expression. In lung cancer cell lines, PTPRT promoter methylation is
+associated with sensitivity to STAT3 inhibition. Our data suggests that
+silencing of PTPRT by promoter hypermethylation is a frequent mechanism
+of STAT3 hyperactivation, and targeting STAT3 may be an effective
+molecular targeted approach in the treatment of this subset of lung
+cancer.
+
+

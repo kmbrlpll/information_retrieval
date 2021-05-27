@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: miRNA expression profile of Blastic plasmacytoid dendritic cell
+neoplasm.
+
+
+Background:Blastic plasmacytoid dendritic cell neoplasm (BPDCN) is a rare
+neoplasm currently included among acute myeloid leukemias in the WHO
+classification. BPDCN is an orphan tumor characterized by an unknown
+biology with clinical aggressive course and dismal prognosis.Only few
+studies explored its genetics, documenting a complex karyotype and
+sporadic genetic alterations. Unfortunately, data were based on a limited
+number of patients and lacked functional elucidation. Conversely, studies
+on the transcriptome only compared BPDCN with other leukemias, failing to
+identify pathogenetic events.In this study we aimed to assess whether
+miRNA deregulation contribute to BPDCN pathogenesis and clinical
+behaviour.Methods:We studied by miRNA profiling (NanoString Technologies)
+30 BPDCN samples, 9 normal plasmacytoid dendritic cell (pDCs) samples and
+the CAL-1 tumor cell line. In addition, 25 independent BPDCN cases were
+studied by qRT-PCR and IHC as validation. To investigate the functional
+consequences of miRNA deregulation, we also performed a global gene
+expression profile (GEP) analysis on the same cases by using the Illumina
+Whole Genome DASL Assay. We applied ANOVA and Student t-test to find
+genes and miRNAs differentially expressed between BPDCNs and normal pDCs.
+The selected miRNAs were further filtered based on their predicted impact
+on the GEP using Linear Discriminant Analysis, Spearman correlation and
+Gene Set Enrichment Analysis. Finally, the functional effects of selected
+miRNAs were assessed ex vivo on CAL-1 cell line.Results:We found that,
+according to the unsupervised analysis of miRNAs, BPDCN patients have a
+molecular signature well distinct from their normal counterpart.The
+following supervised analysis identified a set of 114 miRNAs
+significantly deregulated whose aberrant expression might have a relevant
+impact on cancer-related cellular pathways.Therefore, after validating
+their expression in an independent set of cases, we integrated the miRNA
+and mRNA expression profiles on the same patients, in order to assess the
+functional impact of deregulated miRNAs on gene expression
+profile.Pathway analysis of the predicted miRNA target genes, revealed
+that most of them were involved in the same gene ontology category:
+miRNAs synergic action appeared to strongly affect the biological process
+of programmed cell death.We thus focused on miRNA-mRNA anti-correlations
+affecting the apoptotic pathway: we transfected specific mimics and
+inhibitors into CAL-1 cell line; we evaluated their functional impact by
+gene expression profile and, finally, we confirmed their relation with
+specific targets by Luciferase assay.In conclusion, for the first time we
+investigated the miRNA profile of BPDCN, defining previously uncovered
+molecular mechanisms underlying the pathogenesis of the disease.
+Specifically, we found a subset of miRNAs significantly deregulated and
+highly affecting the apoptotic pathway.
+

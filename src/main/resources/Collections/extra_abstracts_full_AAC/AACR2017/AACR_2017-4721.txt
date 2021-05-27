@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Novel lincRNA SLINKY is a prognostic biomarker in kidney cancer.
+
+
+Clear cell renal cell carcinomas (ccRCC) show a broad range of clinical
+behavior, and prognostic biomarkers are needed to stratify patients for
+appropriate management. We sought to determine whether long intergenic
+non-coding RNAs (lincRNAs) might predict patient survival. Candidate
+prognostic lincRNAs were identified by mining The Cancer Genome Atlas
+(TCGA) transcriptome (RNA-seq) data on 466 ccRCC cases (randomized into
+discovery and validation sets) annotated for ~21,000 lncRNAs. A
+previously uncharacterized lincRNA, SLINKY (Survival-predictive LINcRNA
+in KidneY cancer), was the top-ranked prognostic lincRNA, and validated
+in an independent University of Tokyo cohort (P=0.004). In multivariable
+analysis, SLINKY expression predicted overall survival independent of
+tumor stage and grade [TCGA HR=3.4 (CI, 2.1-5.4), P Clear cell renal cell
+carcinomas (ccRCC) show a broad range of clinical behavior, and
+prognostic biomarkers are needed to stratify patients for appropriate
+management. We sought to determine whether long intergenic non-coding
+RNAs (lincRNAs) might predict patient survival. Candidate prognostic
+lincRNAs were identified by mining The Cancer Genome Atlas (TCGA)
+transcriptome (RNA-seq) data on 466 ccRCC cases (randomized into
+discovery and validation sets) annotated for ~21,000 lncRNAs. A
+previously uncharacterized lincRNA, SLINKY (Survival-predictive LINcRNA
+in KidneY cancer), was the top-ranked prognostic lincRNA, and validated
+in an independent University of Tokyo cohort (P=0.004). In multivariable
+analysis, SLINKY expression predicted overall survival independent of
+tumor stage and grade [TCGA HR=3.4 (CI, 2.1-5.4), P < 0.001; Tokyo HR=9.2
+(CI, 2.2-43), P = 0.003], and by decision tree, ROC and decision curve
+analysis, added independent prognostic value. In ccRCC cell lines, SLINKY
+knockdown reduced cancer cell proliferation (with cell-cycle G1 arrest)
+and induced transcriptome changes enriched for cell proliferation and
+survival processes. Notably, the genes affected by SLINKY knockdown in
+cell lines were themselves prognostic and correlated with SLINKY
+expression in the ccRCC patient samples. From a screen for binding
+partners, we identified direct binding of SLINKY to Heterogeneous Nuclear
+Ribonucleoprotein K (HNRNPK), whose knockdown recapitulated SLINKY
+knockdown phenotypes. Thus, SLINKY is a robust prognostic biomarker in
+ccRCC, where it functions possibly together with HNRNPK in cancer cell
+proliferation.
+
+

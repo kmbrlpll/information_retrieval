@@ -1,0 +1,37 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Protein phosphatase PPM1G regulates protein translation and cell
+growth by dephosphorylating 4E-BP1
+
+
+Protein translation initiation is a tightly controlled process responding
+to nutrient availability and mitogen stimulation. Deregulation of
+translation initiation leads to tumor development and progression.
+Serving as one of the most important negative regulators of protein
+translation, 4E binding protein 1 (4E-BP1) binds to translation
+initiation factor 4E and inhibits cap-dependent translation in a
+phosphorylation-dependent manner. Hyperphosphorylation of 4E-BP1, which
+leads to inactivation of 4E-BP1, has been linked to human cancers with
+increased malignancy. While it has been demonstrated previously that the
+phosphosphorylation of 4E-BP1 is controlled by mTOR in the mTOR complex 1
+(mTORC1), the mechanism underlying the dephosphorylation of 4E-BP1
+remains elusive. Here, we report the identification of PPM1G as the
+phosphatase of 4E-BP1 through an shRNA library screen of Ser/Thr protein
+phosphatases. Co-immunoprecipitation experiment reveals that PPM1G binds
+to 4E-BP1 in cells, and purified PPM1G dephosphorylates 4E-BP1 in vitro.
+Knockdown of PPM1G in 293E and colon cancer HCT116 and SW480 cells
+results in an increase in the phosphorylation of 4E-BP1 at both Thr37/46
+and Ser65 sites. This PPM1G-mediated dephosphorylation of 4E-BP1 is
+specific as the phosphorylation of upstream regulators of 4E-BP1
+including Akt and mTOR is not altered in PPM1G knockdown cells.
+Furthermore, the time course of 4E-BP1 dephosphorylation induced by amino
+acid starvation or mTOR inhibitor treatment is significantly slowed down
+in PPM1G knockdown cells. Functionally, the amount of 4E-BP1 bound to the
+cap-dependent translation initiation complex is decreased when expression
+of PPM1G is depleted. As the result, the rate of cap-dependent
+translation, cell size, and protein content are increased in PPM1G
+knockdown cells. Taken together, our study has identified protein
+phosphatase PPM1G as a novel regulator of protein translation by
+negatively controlling the phosphorylation of 4E-BP1. Thus, PPM1G may
+serve as a tumor suppressor by directly counteracting mTOR to inhibit
+cell growth in cancer.
+

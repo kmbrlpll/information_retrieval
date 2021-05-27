@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: A novel molecular inversion probe (MIP) system for the streamlined
+identification of germline and somatic sequence variants in cancer
+
+
+Characterization of the somatic sequence variations that accrue in cells
+is critical for understanding the pronounced cellular and clinical
+heterogeneity observed in cancer. The ability to efficiently detect
+variations in tumors can help to identify biomarkers which may be
+relevant to clinical trials, support more accurate prognosis, and help
+guide more effective choices of therapy. Next-generation sequencing (NGS)
+has become a valuable tool for discovering somatic mutations in cancers.
+Here we present an alternative approach to current methodologies for
+addressing these needs.HEAT-Seq (High Efficiency Amplification of Targets
+for Sequencing) is a targeted NGS method based on optimized, multiplexed
+molecular inversion probes (MIPs). This is a convenient, sensitive and
+cost-effective target enrichment technology for SNP discovery and SNP
+validation in cancer-related genes. HEAT-Seq probes target both DNA
+strands and were designed to facilitate bioinformatic error correction.
+Molecule identifiers (UIDs) incorporated into the probes tag PCR
+duplicates and support ultra-sensitive detection of low frequency
+variants, reduction of false positives, and accurate assessment of
+molecular complexity free of amplification bias. Sensitivities for allele
+detection have been measured to below 1%.The HEAT-Seq workflow from input
+DNA to sequence-ready sample can be completed in 8 hours without any
+requirement for a separate library preparation step, which saves both
+time and cost. Additionally, the capture, amplification and sample clean
+up steps are performed in a single reaction tube. This eliminates the
+need to transfer samples to subsequent reaction tubes, preserves sample
+identity, prevents cross contamination, limits sample loss, and makes the
+HEAT-Seq protocol easy to automate. A comparison of current PCR-based
+targeted sequencing with the new HEAT-Seq technology indicates
+significant advantages for HEAT-Seq in the accurate quantification of low
+frequency cancer variants.In summary, HEAT-Seq technology offers a rapid,
+convenient, automatable option to identify genomic DNA variants and
+enable advances in cancer research.
+

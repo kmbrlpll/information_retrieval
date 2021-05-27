@@ -1,0 +1,35 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Microsatellite genotyping enables precision lung cancer risk
+classification.
+
+
+There remains a large discrepancy between the known genetic contributions
+to cancer and that which can be explained by genomic variants, both
+inherited and somatic. Recently, understudied repetitive DNA regions
+called microsatellites have been identified as genetic risk markers for a
+number of diseases including various cancers (breast, ovarian and brain).
+In this study we demonstrate an integrated process for identifying and
+validating microsatellite based risk markers for lung cancer using data
+from the cancer genome atlas (TCGA) and the 1000 genomes project.
+Comparing whole exome germline sequencing data from 488 TCGA lung cancer
+samples to germline exome data from 390 control samples from the 1000
+genomes project, we identified 119 potentially informative microsatellite
+loci. These loci (risk markers) were found to be able to distinguish
+between cancer and control samples with sensitivity and specificity
+ratios over 0.8. Then these loci, supplemented with additional loci from
+other cancers and controls, were evaluated using a custom target
+enrichment kit and sample-multiplexed nextgen sequencing. Thirteen of the
+119 risk markers were validated using high-depth (579x±315) nextgen
+sequencing of 30 lung cancer and 89 control samples, resulting in
+sensitivity and specificity ratios were 0.90 and 0.94, respectively. When
+8 loci harvested from the bioinformatic analysis of other cancers are
+added to the classifier, then the sensitivity and specificity rise to
+0.93 and 0.97, respectively. Analysis of the genes harboring these loci
+revealed two genes (ARID1B and REL) and two significantly enriched
+pathways (chromatin organization and cellular response to stress) which
+suggest that the process of lung carcinogenesis is linked to chromatin
+remodeling, inflammation, and tumor microenvironment restructuring. We
+illustrate that high-depth nextgen sequencing enables a high precision
+microsatellite-based risk classifier.
+
+

@@ -1,0 +1,62 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Mismatch repair defects in lethal prostate cancer.
+
+
+INTRODUCTION: A subset of prostate cancers (PCs) has a hypermutated
+phenotype. We hypothesized that lethal PCs with a high mutational load
+(ML) have DNA repair defects including mismatch-repair (MMR) aberrations
+and that such aberrations may impact outcome. METHODS: Diagnostic and
+metastatic castration resistant prostate cancer (mCRPC) tissues were
+tested by A) immunohistochemistry (IHC) for MSH2, MSH6, MLH1, and PMS2;
+B) microsatellite instability (MSI) (Promega v1.2 assay); C) targeted
+next generation sequencing (NGS) of the coding regions of 113 genes, a
+panel enriched for DNA-repair genes that includes MMR genes. Utilizing
+NGS data we also evaluated ML and MSI by NGS (MSINGS; Pritchard et al,
+2014). IHC was used as reference for sensitivity (SE) and specificity
+(SP) of methods B) and C).Youden’s index was used to determine the
+optimal cut off for the ROC for IHC in relation to MSINGS and ML.
+Demographics and clinical data were retrospectively collected from
+electronic records. Relationship between ML in diagnostic and mCRPC
+samples was evaluated by paired t-test. The relationship between ML and
+MMR deficient tumors on IHC (MMRd) and/or MSI tumors by PCR (MMRd/MSI)
+was analyzed by negative binomial regression model. The relationship
+between MMRd/MSI tumors and overall survival (OS) was analyzed using
+univariate and multivariate Cox regression, adjusting for radical
+treatment (prostatectomy or radiotherapy), Gleason score, age, PSA and
+stage and presence of metastatic disease at diagnosis.
+
+RESULTS: We analyzed 306 PC biopsies (180 hormone-sensitive [HS] and 126
+castration resistant [CR]) from 208 patients. Overall 16 patients (7.7%)
+had either MMRd or MSI. Matched, same-patient, HSPC and mCRPC tumor
+biopsies were available for 82 patients. Only one case with MMRd status
+in HS was not confirmed in matched mCRPC. This patient was considered MMR
+proficient for the survival analysis. MSI had a SE of 80% and a SP of
+97%. An MSI by NGS cut-off of 0.096 had SE of 60% and SP of 99%, with an
+area under ROC curve of 0.83. A ML cut-off of 11 mutations per panel had
+SE of 60% and SP of 99%, with an area under ROC curve of 0.79. Although
+ML in diagnostic samples correlates with ML in mCRPC, ML was
+significantly higher in mCRPC MMRd/MSI cases (p RESULTS: We analyzed 306
+PC biopsies (180 hormone-sensitive [HS] and 126 castration resistant
+[CR]) from 208 patients. Overall 16 patients (7.7%) had either MMRd or
+MSI. Matched, same-patient, HSPC and mCRPC tumor biopsies were available
+for 82 patients. Only one case with MMRd status in HS was not confirmed
+in matched mCRPC. This patient was considered MMR proficient for the
+survival analysis. MSI had a SE of 80% and a SP of 97%. An MSI by NGS
+cut-off of 0.096 had SE of 60% and SP of 99%, with an area under ROC
+curve of 0.83. A ML cut-off of 11 mutations per panel had SE of 60% and
+SP of 99%, with an area under ROC curve of 0.79. Although ML in
+diagnostic samples correlates with ML in mCRPC, ML was significantly
+higher in mCRPC MMRd/MSI cases (p <0.001; predicted ML of 14 versus 4
+mutations per panel). MMRd/MSI and MMR proficient patients were balanced
+for type of radical treatments, Gleason score, presence of metastatic
+disease, PSA, age and stage at diagnosis. Despite this, median OS from
+start of LHRH for the MMRd/MSI group was significantly shorter than in
+the MMR proficient group in univariable and multivariable analysis (3.84
+vs 6.81 years; aHR: 2.44; 95% CI 1.27 -4.70; p = 0.008).
+
+CONCLUSION: We provide evidence that MMRd/MSI status represents a
+negative prognostic factor for survival for metastatic CRPC. MMRd/MSI
+status in diagnostic biopsies accurately identifies MMRd/MSI in mCRPC.
+MSINGS and ML can detect MMRd/MSI tumors.
+
+

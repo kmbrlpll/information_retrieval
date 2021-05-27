@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Measuring the Fc effector function of therapeutic antibody in
+antibody-dependent cell-mediated cytotoxicity using a bioluminescent
+cell-based reporter bioassay.
+
+
+Primary peripheral blood mononuclear cells (PBMCs) or the sub-population
+of natural killer (NK) cells are used to quantify antibody drug
+biological activity in antibody-dependent cell-mediated cytotoxicity
+(ADCC) in classic ADCC bioassays. However, cell acquisition and
+preparation is labor intensive and those ADCC bioassays have high
+inherent variability, resulting primarily from the primary effector cell
+source. This variability has been challenging for acceptance of classic
+ADCC bioassays for use in lot release potency determination and
+stability-testing for antibody drugs. Here, we developed a cell-based
+bioassay that can quantify potency of Fc effector function of target
+cell-bound monoclonal antibody in pathway activation in effector cells
+that leads to ADCC. For this, Jurkat T-cell lines that stably express
+NFAT-luciferase reporter and either human FcRIIIa(V158) or FcRIIIa (F158)
+were generated to replace primary PBMCs or NK cells as effector cells in
+ADCC bioassay while retaining measurement of pathway activation mediated
+by Fc effector functionality of antibody drugs. Cells were developed in
+thaw-and-use format, to minimize assay variability due to cell culture
+and handling. The resultant bioluminescent reporter-based bioassay
+outperforms classic ADCC bioassays in several key ways: it has good assay
+precision (low variability), high accuracy, and is simple, robust and
+specific. In addition, we have demonstrated that the ADCC reporter
+bioassay is able to quantify potency of rituximab, trastuzumab, and
+cetuximab, which are on-market monoclonal antibody drugs for cancer using
+a variety of suspension or adherent target cells, and that this bioassay
+is stability-indicating for these antibody drugs after heat-treatment.
+These performance characteristics demonstrate suitability of the ADCC
+reporter bioassay for lot release potency determination and stability
+monitoring of antibody drugs. Furthermore, new antibody drugs with
+enhanced binding affinity to Fc receptors and improved ADCC efficiency
+are being developed to address improvement of drug efficacy in patient
+populations. Many of these enhanced ADCC antibodies differ structurally
+in the N-glycan moiety. By testing blended mixtures of intact and
+glycan-modified antibody drugs in the ADCC reporter bioassay, we have
+demonstrated the linear correlation between relative antibody biological
+activity and the percentage of Fc N-glycan modification. The ability of
+this bioassay to quantifiably differentiate such differences in Fc
+effector functionality due to N-glycan moiety structural differences
+demonstrates its suitability as a tool for biosuperior antibody drug
+research and development.
+

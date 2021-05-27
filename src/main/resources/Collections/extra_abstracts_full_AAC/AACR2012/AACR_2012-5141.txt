@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: PI3K-mediated AMPK inactivation leads to a preneoplastic switch to
+glycolytic metabolism
+
+
+Most proliferating and tumor cells generate the energy required to
+support rapid cell division by aerobic glycolysis instead of oxidative
+phosphorylation (Warburg effect). By extension, in order to meet the
+increased requirements of proliferation, they often display essential
+changes in energy metabolism and nutrient uptake pathways. Several
+oncogenes, including Myc HIF-1a, and AKT, drive this switch directly, by
+targeting Hexokinase II, Lactate Dehydrogenase A, Pyruvate Kinase M2, and
+Pyruvate Dehydrogenase Kinase 1. The AMP-activated protein kinase (AMPK)
+is a highly conserved protein kinase complex that plays a central role in
+the regulation of cellular energy homeostasis. The fact that AMPK is an
+evolutionarily conserved energy sensor and plays a role both downstream
+and upstream of defined tumor suppressors, suggests that it may function
+as a tumor suppressor; however, the exact contribution of AMPK to tumor
+progression is unclear. We have generated a Pten/- mouse model in which
+the PI3K pathway is selectively activated in the thyroid epithelial
+cells, leading to hyperplasia which progresses to follicular carcinoma.
+The early hyperplastic lesions exhibit a dramatic down-regulation of the
+expression levels of many tricarboxylic acid cycle proteins due to
+reduced mRNA expression, which results in enhanced compensatory
+glycolysis (over 3-fold increase in lactate production in mutants vs.
+wt). In addition, the expression of most mitochondrially-encoded genes is
+heavily down-regulated, and none of the genes and proteins classically
+associated with the Warburg effect is found deregulated in the mutant
+thyroid cells. In this context, while AMPK is found to be activated in wt
+thyroids through phosphorylation on Thr172, AMPK is inactivated in mutant
+thyroids through PI3K-dependent phosphorylation on Ser485. Pten/ mice
+treated with 5-aminoimidazole-4-carboxamide 1-ß-D-ribofuranoside (AICAR,
+IP 500 mg/kg/day for 4 weeks) display a restoration of the metabolic and
+mitochondrially-encoded gene expression, as well as a significant
+decrease in the lactate production. Pharmacological PI3K inhibition in
+human tumor-derived thyroid cancer cell lines increases the expression
+levels of both TCA cycle and OXPHOS genes. Moreover, it also causes AMPK
+reactivation through Thr172 phosphorylation with a concomitant reduction
+in pAMPK Ser485. Based on these compelling data, we propose a novel
+mechanism leading to a Warburg-like effect in preneoplastic lesions: PI3K
+activation initiates through AMPK inactivation a coordinated
+rearrangement of the expression of metabolic genes, which favors aerobic
+glycolysis at the expense of TCA/OXPHOS. Further elucidation of this
+process will lead to innovative targeted approaches to selectively
+disrupt tumor progression, while preserving normal metabolism in non
+mutated cells.
+

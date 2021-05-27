@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Characterization of the biochemical interaction of hnRNP A18 to
+thioredoxin transcript.
+
+
+Introduction: The RNA-binding protein heterogenous ribonucleoprotein A18
+(hnRNP A18) is a protein translation regulator found to be elevated in
+many cancers. Previous work from our lab has shown that under stress
+conditions, hnRNP A18 is able to bind and regulate the translation of a
+group of mRNAs, including thioredoxin (TRX), a redox-regulating protein
+implicated in promoting tumor progression. Additionally, the formation of
+functional hnRNP A18:TRX complexes increases de novo protein synthesis of
+TRX through the stabilization of its mRNA transcript. It has been
+reported that like most RNA-binding proteins, hnRNP A18 is a modular
+protein and is uniquely composed of a single N-terminal RNA binding
+domain (RBD) and a C-terminal arginine-glycine rich (RGG) domain. The RBD
+is able to dictate specificity and affinity of substrate binding, while
+methylation of the arginine residues in the RGG domain contributes to its
+RNA binding capability. The observed translational regulation of TRX by
+hnRNP A18 merits further studies into understanding the physical
+interaction between the two molecules.
+
+Methods/Results: To determine the region which hnRNP A18 interacts with
+thioredoxin, stable cell lines overexpressing the RBD, RGG or full length
+(FL) domains of hnRNP A18 were generated in human melanoma cells.
+Ribonucleoprotein immunoprecipitation assays were performed using
+specific antibodies to either the RBD or RGG domain epitope. Reverse
+transcription PCR data reveals the presence of TRX mRNA in the resultant
+immunoprecipitated materials, indicating that both the RBD and RGG domain
+of hnRNP A18 protein is able to independently bind TRX mRNA. Maximum
+binding was observed when both RBD and RGG regions were present.
+Furthermore, hnRNP A18-GST recombinant proteins were engineered to
+determine the exact region which hnRNP A18 binds to on its target mRNAs.
+TRX mRNA was systematically deleted and increasing amounts of hnRNP
+A18-GST protein was added to determine binding capability. Northwestern
+analysis reveals that hnRNP A18 binds to its consensus motif in the TRX
+3’UTR and to a new 19 nucleotide motif downstream of the consensus site.
+
+Conclusion: Heterogenous ribonucleoprotein A18 is a stress-activated
+RNA-binding protein that functions in the translational regulation of
+TRX. Although the RBD and RGG domains are each independently able to
+physically interact with TRX, both regions are necessary for maximal
+binding. Furthermore, a new 19 nucleotide motif located downstream of the
+hnRNP A18 consensus motif was also found to be sufficient for binding.
+The binding interface between RNA-binding proteins and their target mRNAs
+hold significant importance in understanding how the two molecules
+interact and will offer new insights into developing novel drug
+therapeutics that disrupt ribonucleoprotein formation.
+
+

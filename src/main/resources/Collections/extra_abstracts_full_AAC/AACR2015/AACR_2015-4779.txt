@@ -1,0 +1,38 @@
+Meeting: 2015 AACR Annual Meeting
+Title: RUVBL1 and RUBVL2 are chromatin remodelers that represent
+prognostic and novel therapeutic targets for a subset of non-small cell
+lung cancers (NSCLCs)
+
+
+RUVBL1 and RUVBL2 (collectively referred to as RUVBL1/2) are AAA+ ATPases
+that function in various chromatin remodeling complexes. We found that
+RUVBL1/2 are overexpressed (n = 224) and prognostic of patient outcome in
+NSCLC patients (n = 697) who undergo surgical resection (combined TCGA,
+KMPlot.com, and SPORE P50CA70907 dataset analyses). To assess the
+importance and biological functions of RUVBL1/2 in NSCLC, we measured
+cell growth following depletion of RUVBL1/2 in 24 NSCLC lines,
+representing a spectrum of oncogenotypes and histologies, and 2 normal
+human bronchial epithelial cell lines (HBECs) using two independent RNAi
+reagents. Growth inhibitory phenotypes ranged from 19-87% and were
+rescued by exogenous expression of an RNAi-resistant cDNA construct,
+indicating on-target siRNA effects. Four of the 23 NSCLCs were very
+sensitive (>75% growth inhibition), while 88% of NSCLCs were more growth
+inhibited than HBECs, indicating a therapeutic window. To establish
+molecular biomarkers of RUVBL1/2 dependency, we correlated whole exome
+mutation status, whole transcriptome mRNA levels, and a number of other
+parameters to sensitivity to RUVBL1/2 depletion. Sensitivity to RUVBL1/2
+knockdown did not correlate with the mutation status or expression of any
+genes. However, sensitivity to RUVBL1/2 depletion did correlate with
+doubling time. Flow cytometry analysis in NSCLC lines sensitive to
+RUVBL1/2 KD revealed that RUVBL1/2 depletion resulted in a G2/M arrest
+(but not apoptosis), and a decrease in cell cycle related transcripts,
+such as CDKN3, AURKA, CIT and CDC20, whereas resistant cell lines do not
+exhibit these changes. Initial ChIP-seq analysis suggests that RUVBL1/2
+preferentially occupies cell cycle related genes and are depleted in
+nucleosome free regions (i.e. transcription start sites). These results,
+combined with results from others demonstrating the necessity of ATP
+hydrolysis for RUVBL1/2's function(s), indicate that the chromatin
+remodelers RUVBL1/2 are potential therapeutic targets in a subset of
+NSCLCs. (Supported by UTSW Green Center Fellowship, CPRIT RP120732, SPORE
+P50CA70907)
+

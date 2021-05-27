@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Elucidating the molecular basis of intrinsic taxane resistance in
+gastric cancer
+
+
+Gastric cancer (GC) is histologically divided into intestinal (INT) and
+diffuse (DIF) clinical subtypes. Even though these two GC groups are
+structurally and biologically different, this classification is not used
+to inform choice of treatment.The taxanes (i.e., docetaxel and
+cabazitaxel) are widely used for the treatment of cancer and for GC
+specifically the TAX-325 study revealed a significantly improved survival
+when docetaxel (DTX) was added to cisplatin and fluorouracil. Despite
+this advancement, patients still exhibit intrinsic or acquired resistance
+to DTX. Yet, the molecular basis of drug resistance remains unknown.We
+performed a post-hoc analysis of the TAX-325 study to examine the
+potential influence of GC subtypes in clinical response to DTX. We
+classified randomized patients as diffuse or non-diffuse histology and
+correlated histology with clinical outcomes using a Cox proportional
+hazards model. Non-diffuse GC showed a significant improvement in overall
+survival with the addition of DTX (12.1 v 8.8 mo, p=0.002), whereas
+diffuse histology was not associated with an improvement in survival (8.3
+v 8.5 mo, p=0.66). To investigate the molecular mechanism of GC DIF
+subtype resistance to taxanes, we used a panel of 12 GC cell lines
+representative of both subtypes (4 intestinal subtype, 8 diffuse
+subtype). DTX cytotoxicity assays revealed that similarly to what we
+observed clinically, 5/8 (63%) DIF GC cell lines were resistant (IC50 >
+600 nM) to DTX compared to 1/4 (25%) INT GC cell lines. Further
+functional studies revealed that there was minimal DTX drug-target
+engagement in the DIF GC cells, as, assessed by confocal microscopy of
+the microtubule network and tubulin polymerization assays. These results
+suggested that DTX interaction with its target, microtubule, was impaired
+in the DIF GC cell lines. To rule out multi-drug resistance (MDR) as
+potential cause of intrinsic DTX resistance in these cells we performed
+flow cytometric evaluation of P-glycoprotein and found that all of the
+DIF GC cell lines were negative. Additionally, drug accumulation studies
+with C-14 radiolabeled DTX revealed that the drug accumulated
+intracellularly in all of GC cell lines in our panel.Next generation
+sequencing of our panel of untreated or DTX-treated GC cell lines
+revealed a number of genes/pathways that are differentially expressed in
+the drug-sensitive versus the resistant cell lines. Gene set enrichment
+analysis is currently ongoing in order to identify a subset of
+genes/pathways implicated in intrinsic DTX resistance in GC. These
+studies will provide novel insights into mechanism of intrinsic drug
+resistance and will ultimately allow us to design more effective targeted
+therapies to overcome chemo-resistance and eventually prolong patient
+survival.
+

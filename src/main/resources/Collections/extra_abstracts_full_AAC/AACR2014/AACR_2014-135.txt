@@ -1,0 +1,41 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Phosphorylation and furin-mediated processing are critical
+posttranslational modifications of the KISS1 metastasis suppressor
+
+
+Originally discovered as a metastasis suppressor, KISS1 has since been
+defined as a neurotransmittor and regulator of diverse cellular functions
+and has been implicated in pathologies such as hypogonadism and
+Alzheimer's disease. Several laboratories are actively developing
+therapies based upon KISS1 biology. KISS1 is secreted and processed into
+small peptides (called kisspeptins (KP)) in the extracellular milieu.
+However, the enzyme(s) responsible for generation of KP from nascent
+KISS1 is unknown, although sequence analysis (cleavage at KR or RR
+dibasic sites) suggests that proprotein convertases (PC) are responsible.
+We hypothesized that enzyme(s) belonging to the PC family processes KISS1
+to generate KP. KISS1 processing was completely inhibited by treatment
+with PC inhibitors Dec-RVKR-CMK and a1-PDX in these cells multiple tumor
+cell lines. Further, mRNA expression of the seven members of the PC
+family showed consistent expression of only three proteases - furin,
+PCSK5 and PCSK7 narrowing the candidate proteases. Only shRNA-mediated
+knockdown of furin (i.e., not PCSK5 or PCSK7) blocked KISS1 processing.
+Thus furin is the essential enzyme responsible for KP generation. Even
+when cells were exposed to Dec-RVKR-CMK or shRNA targeting furin, two
+bands (Mr15.9 kDa and Mr 17 kDa) were consistently detected in SDS-PAGE
+of conditioned medium. This observation suggested KISS1 could either be
+alternatively post-translationally modified or that another protease
+(family) might also cleave KISS1. To investigate the possibility that
+KISS1 may be post-translationally modified, potential sites of
+O-glycosylation (NetOGlyc 4.0) or serine/threonine phosphorylation
+(NetPhos 2.0) were analyzed in silico. Three amino acid residues (T69,
+S70, and S72)of the native KISS1 protein showed highest scores as being
+either O-glycosylated or phosphorylated. Further, mutation of these three
+residues to alanine resulted in the loss of the higher molecular weight
+band which was co-localized to a band detected using anti-phospho Ser/Thr
+strongly suggesting that KISS1 is indeed phosphorylated. This is the
+first report of phosphorylation of KISS1. Studies are underway to
+identify the kinase(s) and phosphatase(s) involved as well as the
+functional significance of the phosphorylation. Support: CA134981,
+National Foundation for Cancer Research, Steiner Family Fellowship in
+Metastasis Research, Susan G. Komen for the Cure SAC110037.
+

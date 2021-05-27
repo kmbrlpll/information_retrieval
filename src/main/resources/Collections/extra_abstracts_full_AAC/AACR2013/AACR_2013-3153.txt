@@ -1,0 +1,41 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Whole genome and transcriptome analysis reveals novel genomic
+alterations in bladder cancer.
+
+
+Bladder cancer (BC) is a common malignancy with the highest incidence
+rates found in Europe and UnitedStates where it rates as the fifth and
+fourth most common malignancy, respectively. There are two clinically
+distinct groups of BC, non-muscle invasive (NMIBC) and muscle invasive
+bladder tumors (MIBC) accounting at diagnosis for 75% and 25%,
+respectively, and demanding very different treatments. NMIBC have the
+highest cancer recurrence rate observed (50-70%) and often necessitates
+lifelong surveillance, however the prognosis is relatively good. MIBC in
+contrast often progresses and develop systemic disease. To improve the
+treatment of BC it is essential to understand the disease biology and to
+be able to predict disease progression. In this study we applied the
+advance of next generation sequencing technology to annotate genomic
+mutations and genomic rearrangements to base pair resolution in four
+metachronous BC cases (>90% tumor cells) progressing fromTa to T1 or T2,
+and matching blood. Furthermore, we explored clonal relationship among
+the initial tumor and the progressing tumor. Each sample was sequenced to
+40-50 x whole genome coverage, 200 x targeted Exome sequencing, and 65
+million paired end reads of whole transcriptome RNA-seq. Eight normal
+urothelium biopsies from BPH patients were used as reference for the
+RNA-seq. Notably we identified genetic high impact alterations in KDMA6A,
+PIK3CA, ZNF233, FGFR3, UBE3C, TMEM128, HOXA11,HOXA2, ELF3, TP53, KAT2B
+and DYRK3 (corrected for background mutation rate). We annotated a total
+of 559 unique deletions, translocations, insertions and inversions. In
+total, 120 of these DNA breaks were selected for validation withPCR and
+Sanger sequencing (80% validation rate). Ingenuity pathway analysis
+identified 19 canonical pathways significantly affected in four out of 8
+samples. Currently we are validating the SNV findings in 50 BC samples
+usingExome-Seq and RNA-seq. Furthermore, protein expression of selected
+genes are validated by immunohistochemistry on FFPE tissue sections from
+the discovery samples and on a tissue microarray containing 290 cores
+from Ta and T1 tumors in order to correlate protein expression to disease
+specific survival. All sequencing was performed on the Illumina HiSeq
+platform. The results reveal promising descriptive and potentially
+predictive knowledge that may help determine the genomic fingerprint
+facilitating progression of NMIBC to MIBC.
+

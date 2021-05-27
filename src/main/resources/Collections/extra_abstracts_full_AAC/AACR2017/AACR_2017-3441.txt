@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A novel lncRNA-mediated YAP1 signaling pathway activation in
+epithelial ovarian cancer.
+
+
+Background: The long noncoding RNA (lncRNA) urothelial cancer associated
+1 (UCA1) is upregulated in many cancer types, including ovarian cancer.
+In high grade serous ovarian cancers (HGSOCs), we had previously found
+that UCA1 expression negatively correlates with patients’ total
+survival and disease-free survival and that UCA1 knockout significantly
+impairs tumor growth in vivo. In addition, UCA1 promotes ovarian cancer
+cell growth via activating the YAP1 signaling pathway.
+
+Purpose: Our present study aims to dissect the molecular mechanisms
+underlying YAP1 signaling activation by UCA1.
+
+Methods: To characterize the UCA1 interactome, we utilized a modified in
+vivo RNA antisense purification method (UCA1-iRAP). This UCA1-iRAP method
+uses streptavidin-coupled magnetic beads to pull down biotin-labeled
+antisense probes which are complementary to the target RNA. In such a
+way, UCA1 RNA will be specifically enriched together with its in
+vivo-associated proteins, RNAs and/or genomic DNA, which can be profiled
+using mass spectrometry (MS) and next generation sequencing (NGS),
+respectively.
+
+Results: Using UCA1-iRAP RNA-Seq and UCA1-iRAP protein MS, we
+comprehensively annotated the UCA1-interacting RNAs as well as
+UCA1-associated proteins. Interestingly many of the proteins identified
+were not known to have RNA-binding potential. Integration of NGS and MS
+data with multilayered functional and molecular characterization of UCA1
+knockout, knockdown and overexpression models identified a YAP1 modulator
+involved in UCA1-mediated regulation of YAP1 signaling. Through
+repressing this YAP1 modulator via direct RNA-protein interaction, UCA1
+promotes nuclear translocation of YAP1, resulting in activation of YAP1
+target genes expression.
+
+Conclusions: Our analyses indicate, for the first time, that UCA1
+promotes ovarian cancer cell growth by activating YAP1 signaling via
+direct interaction with a YAP1 modulator. The interaction between UCA1
+and this YAP1 modulator leads to activation of YAP1 signaling by nuclear
+translocation of YAP1. In summary, we characterize a novel UCA1-YAP1
+signaling axis active in HGSOCs and also reveal that oncogenic lncRNA’s
+binding potential of cytoplasmic signaling proteins could be a common
+mechanism of post-translational control of signaling pathways deregulated
+in cancer.
+
+

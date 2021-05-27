@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Quantitative analysis of MT1-MMP activity on cell surface: A FRET
+assay model.
+
+
+Introduction: MT1-MMP plays critical roles during tumor malignancy and is
+one of the best-validated proteolytic enzyme targets on cancer cells. It
+is up-regulated in several tumor types, including breast, cervical, and
+ovarian cancer and is significantly associated with adverse outcome. In
+spite of the large proteolytic repertoire and of the robust proteolytic
+activity of engineered soluble forms of the enzyme, several studies
+indicate that soluble MT1-MMP mediated proteolysis is not sufficient per
+se for efficient penetration of ECM barriers. Thus, localization of the
+enzyme at the cell surface is essential to translate its proteolytic
+activity into a modification of cell function. The transmembrane nature
+of MT1-MMP allows it to influence extracellular remodeling of the matrix
+surrounding tumor cells as well as intracellular signaling events
+involved in cell invasion. Like virtually all cell surface proteases,
+quantitative assessment of MT1-MMP in its native environment has not been
+achieved. A mechanistic examination of MT1-MMP at the cell surface would
+unravel the influences of binding partners on activities, and set the
+stage for the development of unique, non-active site inhibitors.Methods:
+TM MT1-MMP (a deletion mutant lacking the TM domain) was transfected
+transiently in COS-1 cells to generate soluble MT1-MMP. Estimation of the
+amount of active enzyme was done by TIMP-2 titration. WT-MT1-MMP (Wild
+Type) was stably transfected in MCF-7 cells which are deficient in
+MT1-MMP. A cell-based FRET assay was developed in a 384-well format using
+fluorogenic triple-helical peptide substrates (fTHPs) that are either
+suitable for most collagenolytic MMPs or selective for different
+collagenolytic MMPs to quantify protease activity. Kinetic parameters
+were calculated and activity comparisons were made for soluble MT1-MMP
+and several surface-bound MT1-MMP mutants to evaluate the importance of
+the cell surface and specific MT1-MMP domains on activity.Results and
+Conclusion: Soluble MT1-MMP was expressed, purified, and quantified by
+TIMP-2 titration. Kinetic parameters KM, Vmax, and kcat/KM were
+determined by calculation of rates of hydrolysis of fTHP-9 in a FRET
+assay. A high level of MT1-MMP expression in transfected cells relative
+to those mock transfected cells was verified by western blot. Kinetic
+parameters determined with WT-MT1-MMP transfected cells as compared to
+mock transfected cell suggested that MT1-MMP has affinity for fTHP-9.
+kcat/KM for the soluble enzyme was 32800 sec1M1, three times higher as
+compared to membrane tethered enzyme. Thus, the catalytic efficiency of
+the enzyme is different in the cell surface environment. In this study,
+we have developed cell based assays useful for the mechanistic and
+quantitative evaluation of substrates and inhibitors of MT1-MMP in its
+native environment as well as to rank order potential inhibitors.
+

@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of Enolase1 as key drug target in breast cancer by
+the Berg Interrogative Biology platform.
+
+
+Breast cancer is characterized by subtypes of various expression of
+her2/neu, estrogen receptor (ER), and progesterone receptor (PR) markers.
+The metabolic drivers and correlation to glycolytic intermediates that
+contribute to breast tumor phenotypes are not fully understood. The Berg
+Interrogative Biology discovery platform was used to delineate distinct
+molecular signatures which reflect the oncogenic mechanistic chain of
+events. Human Enolase-I was identified as a critical node (hub) in the
+Berg cancer systems network output. Causal association of ENO1 and other
+proteins with diverse biological roles such as regulation of gene
+expression, genomic integrity, mRNA/microRNA processing, protein and ECM
+stability, and cytoskeleton organization provides a powerful snap shot of
+molecular events modulated by ENO1. As a key glycolytic enzyme, Enolase I
+has been implicated in tumor growth, cell death, and drug resistance. To
+further unravel the metabolic regulation by Eno1 in breast cancer, we
+generated lentivirus mediated stable human enolase I knockdown and
+overexpression breast cancer cell lines which were subjected to
+functional assays. The metabolic assessments using Seahorse XF96 analyzer
+revealed decreased glycolysis in Eno1 knockdown cells and increased
+glycolysis in Eno1 overexpressing breast cancer cells, confirming the
+functional perturbation induced by Eno1 protein levels. Bioenergetic
+profiling showed corresponding changes in OCR in both basal and uncoupled
+states in Eno1 overexpressing breast cancer cells, suggesting these cells
+underwent metabolic remodeling in response to Eno1 activity/levels.
+Proliferation assays using DNA quantification and cell viability revealed
+significant inhibition of cancer cell growth with Enolase I knockdown,
+while the Eno1 overexpression promoted proliferation of breast cancer
+cells normoxic/hypoxic conditions, congruent to expression changes of
+proliferation markers. Moreover, in response to perturbation of Eno1
+mediated energy metabolism, various breast cancer cells displayed altered
+phosphorylation/activation of AMP-activated protein kinase, which
+mediated Eno1 induced proliferation change in different breast cancer
+cells. The approach in conjunction with multi-omic technologies and data
+integration using the Berg BNI (BayesianNetwork Inference) leverages the
+robust biological output of the networks with an agnostic, unbiased
+analytical tool to truly gain insight into the underlying pathophysiology
+of breast cancers. Ongoing efforts to overlay this novel insight into
+combination strategies with chemotherapy will advance the understanding
+to realize data-driven biomarker and therapeutic end-points. Taken
+together, the data suggest that Enolase1 is a novel disease target breast
+cancer and serves as a fulcrum point in the metabolic governance of
+breast tumor development and progression.
+

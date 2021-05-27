@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Tumor accessiblity and composition play a major role on the
+efficiency of efflux transporter inhibitor - cytotoxic drug combination:
+Analysis with a mathematical model
+
+
+Efflux transporters from the ABC family confer resistance to various
+anticancer drugs. Efflux transporter inhibitors were designed to reverse
+chemoresistance to cytotoxic drugs. Efficacy of such association is
+impacted by numerous factors in xenografted animals, such as tumor
+environment and biology. No study aims at quantifying the importance of
+these factors on the efficiency of association of cytotoxic-efflux
+transporter inhibitor. In-silico approach, through the development of
+mathematical models, allows testing the influence of such factors. This
+work aimed at evaluating the impact of tumor accessibility and
+composition, on efflux transporter inhibitors - cytotoxic combination
+with a mathematical model. Two studies (S1, S2) were carried out in mice
+xenografted with HEK293 cells overexpressing the ABCG2 transporter. Mice
+received irinotecan (CPT11) alone or combined to a new ABCG2 inhibitor,
+MBLI87. Tumor size was periodically measured during 4 weeks. Designs of
+both studies were similar but mice received a more intense dose of MBLI87
+in S2 and delay of treatment onset was longer in S2. To model tumor
+growth, a multiscale model was developed including 4 submodels: - PK
+model of plasmatic drug disposition - Cellular interaction model of the
+cytotoxic drug accumulation in tumor in presence of inhibitor - Tumor
+growth model of the natural evolution of disease - Pharmacodynamic model
+of cytotoxic drug effect on tumor growth Cellular interaction model was
+based on in-vitro experiments and quantified the magnitude of CPT11 and
+its metabolite SN38 active efflux and the MBLI87 inhibition constant. A
+rate constant describing drug diffusion from plasma to tumor represented
+tumor accessibility. Three types of tumoral tissues were considered:
+proliferative, hypoxic and necrotic. Only proliferative tissues could
+grow and cytotoxic drugs could only affect proliferative cells. Model
+parameters were estimated with a non-linear mixed-effects approach using
+NONMEM software. Model was able to predict correctly tumor growth from
+our data. Addition of MBLI87 to CPT11 slowed the growth of tumors in S1
+and S2. Our model showed that cytotoxic potency was equivalent in S1 and
+S2 but proportion of proliferative cells was smaller at treatment onset
+and drug active efflux was greater in S2. Equilibration between plasma
+and tumor was faster in S2 attesting better tumor accessibility owing to
+better vascularization. As a consequence, a different intensity in
+resistance reversion was found between S1 and S2: tumor size was 50%
+greater at day 40 in S2. This mathematical model quantified the role of
+tumor accessibility and composition on the efficiency of an efflux
+inhibitor - cytotoxic drug combination. It can be used as a simulation
+framework to optimize this type of interaction or as a template for early
+evaluation of other efflux transporter inhibitors.
+

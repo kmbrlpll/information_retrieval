@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Inhibition of Bcr-Abl tyrosine kinase sensitizes cells to
+sapacitabine
+
+
+CNDAC, the active form of sapacitabine, is a nucleoside analog which
+kills cells by a unique mechanism of action. Incorporation of CNDAC
+triphosphate into DNA results in a single-strand break, which is
+converted to a one-ended double-strand break (DSB) upon subsequent
+collapse of the DNA replication fork. CNDAC-induced DSBs are repaired
+predominantly through the homologous recombination pathway which consists
+the key recombinase Rad51 and its associated proteins. Chronic myeloid
+leukemia (CML) is a myeloproliferative neoplasm; its central pathogenesis
+is a reciprocal chromosomal translocation between chromosomes 9 and 22.
+This abnormal chromosomal fusion results in the formation of a chimeric
+gene that encodes a constitutively active tyrosine kinase, Bcr-Abl, which
+promotes CML through stimulating downstream signaling cascades for cell
+survival and deregulated cell growth. Bcr-Abl tyrosine kinase modulates
+DNA repair mechanisms to protect leukemic cells from DNA damage induced
+cell death. In response to DSBs, it phosphorylates Rad51 at Tyr315 which
+enhance the damage repair process. Based on this evidence, we
+hypothesized that inhibition of Bcr-Abl will further sensitize cells to
+CNDAC. To test this postulate, we used the CML cell line K562 as well as
+murine Ba/F3 cells transfected with wild-type Bcr-Abl (Ba/F3p210wt) or
+the Bcr-Abl mutant (Ba/F3p210T315I) as model systems. Two tyrosine kinase
+inhibitors (TKI) were utilized to inhibit Bcr-Abl. Imatinib, the first
+generation TKI, is only effective inhibiting wild type Bcr-Abl.
+Ponatinib, a subsequent TKI, is potent in inhibiting both wild type and
+mutant Bcr-Abl tyrosine kinases. First, these cells were treated with
+CNDAC, imatinib or ponatinib alone to determine the IC50 values for each
+drug using PrestoBlue cell viability assay. Based on the single drug
+IC50s, combinations of CNDAC with imatinib or ponatinib were applied to
+these cell lines and their combination indexes were calculated by
+CalcuSyn software. We found that CNDAC and imatinib were synergistic in
+K562 and Ba/F3 wild type Bcr-Abl cells while they were additive in the
+Bcr-Abl T315I mutant cells. In contrast, ponatinib sensitized CNDAC
+treatment as their combination was synergistic in all these cell lines.
+Finally, to investigate the mechanism underlying the observed synergism,
+K562 cells were treated with either equitoxic concentrations of CNDAC,
+imatinib or ponatinib alone or in combinations for 48 hours when lysates
+were collected for immunoblot analysis. It was found that when Bcr-Abl
+was inhibited, the phosphoryation of Rad51 at Tyr315 was reduced, phospho
+H2AX and cleaved caspase 3 were increased in response to CNDAC. Thus
+further sensitization of CNDAC was a result of deficient damage repair
+due to Bcr-Abl inhibition. Together, our results link the Bcr-Abl
+tyrosine kinase to CNDAC-induced DNA damage repair process and provide
+rationale for CNDAC/sapacitabine combination therapy in diseases such as
+CML.
+

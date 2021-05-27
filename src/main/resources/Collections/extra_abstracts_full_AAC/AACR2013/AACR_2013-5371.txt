@@ -1,0 +1,34 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Epigenetic regulation in skin cancer: global DNA methylation
+profiling in DMBA/TPA induced mice.
+
+
+Hypermethylation of CpG islands in the promoter regions of tumor
+suppressor genes is postulated to be the most relevant epigenetic changes
+resulting in gene silencing of tumor suppressor gene in cancer.
+Transcriptionally repressed genes by epigenetic regulation can be
+reactivated by epigenetic modifications because these silenced genes are
+still genetically intact. Thus, it is relevant to profile global DNA
+methylation changes that occur in early stages of carcinogenesis (Jones &
+Baylin, 2002). To begin addressing this issue, we conducted global
+profiling of DNA methylation changes in a well-established multistage
+skin carcinogenesis model using methylated DNA immunoprecipitation
+(Medip) coupled with CpG island microarray. Tumorigenesis was induced by
+sequential topical application of mutagen 7,12-Dimethylbenz(a)anthracene
+(DMBA), and promoting agent 12-O-tetra-decanoylphorbol-13-acetate (TPA),
+on the dorsal skin of normal CD-1 mice. After 12 weeks, animals were
+sacrificed and DNA extracted from papillomas. Methylation enriched DNA
+fragments were pulled down and hybridized to CpG microarray covering
+16,030 CpG islands (Agilent, Santa Clara, CA) The results show that
+significant changes in DNA methylation profile between normal skin and
+DMBA/TPA induced papilloma, analyzed by Genespring and Bioconductor.
+After normalization of probe with the gene, 186 genes from 9,867 of
+up-regulated methylation genes showed at least average 2-fold changes and
+these include some DNA damage and repair, oxidative stress and
+inflammatory genes such as Gadd45b and Arnt2. In summary, DMBA/TPA
+induced mouse skin papilloma undergo extensive aberrant CpG island
+hypermethylation. Genes detected from Medip-chip assay may be utilized as
+a potential epigenetic tool to study skin cancer.Jones, P. A., & Baylin,
+S. B. (2002). The fundamental role of epigenetic events in cancer. Nature
+Reviews Genetics, 3, 415-428.
+

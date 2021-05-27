@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Synthesis and preclinical evaluation of novel 6-substituted
+pyrrolo[2,3-d]pyrimidines as targeted antifolates
+
+
+Reduced folates are essential cofactors for biosynthesis of purines and
+pyrimidines. Since humans do not synthesize folate, it is necessary to
+obtain these cofactors from dietary sources. In mammals, three
+specialized systems exist that mediate membrane transport of folates and
+antifolates across biological membranes. These include the reduced folate
+carrier (RFC), the primary route for the uptake of folates and
+antifolates in mammalian cells, folate receptors (FRs) and , and the
+proton-coupled folate transporter (PCFT). Whereas RFC is ubiquitously
+expressed, FRs and PCFT show a more narrow pattern of tissue expression.
+Toxicity of clinically used antifolates occurs in part, to their lack of
+selectivity for tumor cells over normal cells due to RFC transport.
+Antifolates with tumor-specific FR and/or PCFT drug uptake would
+circumvent major toxicities of currently used antifolates. Our analog
+AG17F had shown selective FR and PCFT transport over RFC with excellent
+cell inhibitory activity in KB tumor cell line (IC50 = 1.7 nM). On the
+basis of AG17F, AG140F with sulfur in place of carbon at C10, AG182F with
+oxygen in place of carbon at C10 and AG183F with nitrogen in place of
+carbon at C10 were designed and synthesized. This isosteric replacement
+of carbon with heteroatoms in the bridge provides compounds with
+differentchain lengths, angles, conformations and extra hydrogen bond
+donors and/or acceptors compared to the parent carbon chain analogues.
+AG17F had shown inhibitory activity toward the growth of a CHO cell line
+(hRFC) expressing human RFC (IC50 = 304 nM), the three heteroatom
+analogues AG140F, AG182F and AG183F were inactive in the CHO cell line
+expressing RFC transport at concentrations up to 1000 nM, but were highly
+active in inhibiting CHO cell lines (RT16) expressing human FR (IC50s of
+0.62, 1.10, and 2.3 nM respectively) and inhibiting PCFT-expressing CHO
+cells (R2/PCFT4) (IC50s of 267, 57.3, and 87.4 nM respectively). AG140F,
+AG182F, and AG183F were potently inhibitory toward KB tumor cells (IC50s
+of 2, 0.32 and 0.34 nM respectively) and IGROV1 tumor cells (IC50s of
+0.51, 0.58 and 0.48 nM respectively). AG140F, AG182F, and AG183F showed
+binding affinities to FR in RT16 cells exceeding that for AG17F, and
+comparable to folic acid. With R2/PCFT4 cells, all compounds showed high
+affinities with binding (reflected in Ki values) in the order of
+AG17F>AG182FAG183F>AG140F. In KB cells, adenosine and
+5-aminoimidazole-4-carboxamide protected from growth inhibition
+suggesting de novo purine biosynthesis and glycinamide ribonucleotide
+formyltransferase (GARFTase) and the likely targets. By in situ assays in
+KB cells, GARFTase inhibition was confirmed at concentrations similar to
+those which inhibit cell proliferation. AG183F was further evaluated for
+against early stage human IGROV tumor xenograft in female SCID mice
+models and was found to be remarkably efficacious (T/C = 12%) without any
+acute or long term toxicities.
+

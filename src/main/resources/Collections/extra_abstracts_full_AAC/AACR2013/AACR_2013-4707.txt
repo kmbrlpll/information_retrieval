@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Validation of survival prognostic models for non-small-cell lung
+cancer instage- and age-specific groups.
+
+
+Aims: Performance status (PS) is commonly used for patient stratification
+in lung cancer clinical trials. Many prognostic models have been proposed
+to predict survival for non-small-cell lung cancer (NSCLC). It is of
+interest to evaluate whether the existing prognostic models perform
+better than PS alone in stage- and age-specific trials for patient
+stratification. For stage- and age-specific groups, we aim to assess the
+performance of several popular prognostic models for overall survival
+with NSCLC trial data from Cancer Leukemia Group B (CALGB).Patients and
+Methods: Data from Alliance/CALGB were used to validate the following
+prognostic models. Using 2979 NSCLC patients, B model (Blanchon et al
+2006) was developed on a Cox regression with age, histology, PS, sex and
+stage (I-IV) as prognostic variables. Using 9137 surgically resected
+NSCLC patients, C model (Chansky et al 2009) was developed via Cox
+regression and recursive partitioning and amalgamation analyses with
+prognostic variables age, sex and stage (I-IIIA). Using 392 early stage
+NSCLC patients, G model (Gail et al 1984) was based on Weibull survival
+model with histology, PS and TN stage as prognostic variables. Using 782
+advanced NSCLC patients, M model (Mandrekar at al 2006) was developed via
+Cox regression with prognostic variables age, BMI, hemoglobin level, PS,
+sex, stage (IIIB-IV), white blood cell count. In validation analysis,
+1921 stage I (IA-IB) and 1108 stage IV NSCLC patients who participated in
+completed CALGB treatment trials and lung cancer tissue bank were
+included. For stage I, B, C and G models were evaluated along with the PS
+only model. For stage IV, B and M models were evaluated. The concordance
+of predicted survival times and risk scores was estimated by c-index
+(Harrell et al 1996). Separation of survival curves between risk groups
+was examined using Kaplan-Meier method and log rank test. The assessments
+were conducted for young (=70) age groups as well as all patients
+combined.Results: For stage 1 and young, B and PS have better survival
+separation than C and G with c-index for B, PS, C and G equal to 0.587,
+0.567, 0.546 and 0.469. Slightly less concordant but similar findings
+hold for stage I and old patients with B, PS, C and G equal to 0.607,
+0.586, 0.543 and 0.485. For stage IV and young, B and PS perform better
+than M with c-index for B, PS and M equal to 0.616, 0.594 and 0.556.
+Again, slightly less concordant but similar findings hold for stage IV
+and old patients with B, PS and M equal to 0.571, 0.552 and
+0.492.Conclusion: Overall, B model performs better than other models for
+both stage I and stage IV and each age group. However, none of these
+prognostic models yield sufficiently better survival separation and rank
+concordance than the PS only model. Further research is needed to develop
+prognostic models significantly better than performance status alone for
+patient stratification in stage- and age-specific clinical trials.
+

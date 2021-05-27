@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification of antibodies against a novel tumor-associated
+MHC/peptide-target and generation of highly specific and potent
+HLA-A*02MMP1-003/CD3 TandAbs.
+
+
+Tumor-associated antigens for effective and safe T-cell engagement are
+very limited, leaving a need to open up the therapeutic target space.
+Targeting disease-specific MHC/peptide complexes with bispecific
+T-cell-recruiting antibodies is a highly attractive strategy to address
+this need, but so far, generation of antibodies against these peptides
+has been reported to be challenging. Immatics’ unique target discovery
+engine XPRESIDENT® holds the promise of identifying novel
+tumor-associated MHC/peptide complexes by providing direct and
+quantitative evidence for their presence on a large collection of primary
+human tumor and normal tissue specimens. By this approach, MMP1-003, an
+HLA-A*02-binding peptide originating from matrix metallopeptidase 1
+(MMP1), was identified as a promising therapeutic target presented by
+several tumor types, including colorectal and lung cancer, but absent on
+normal tissues. These findings are underlined by RNAseq analysis of the
+source antigen which also points to MMP1 being a highly attractive
+tumor-associated target. Consequently, a fully human antibody phage
+display library was screened to identify highly specific single chain
+antibodies, which were shown to recognize the purified
+HLA-A*02/MMP1-003-complex in ELISA assays as well as on peptide-pulsed
+HLA-A*02+ T2 cells. The best candidates were reformatted into bispecific
+tetravalent TandAbs® through Affimed´s proprietary platform using a
+human/cyno-cross-reactive CD3-binding domain for T-cell engagement.
+Specific target recognition was confirmed for the TandAbs in binding and
+cytotoxicity assays on peptide-pulsed T2 cells.
+HLA-A*02/peptide-complexes selected from the broad normal tissue
+immunopeptidome with a high degree of sequence similarity to the
+HLA-A*02/MMP1-003-complex served as controls to confirm the specificity
+and hence the low risk of off-target binding. The most promising
+candidates were tested on a panel of endogenously target-expressing
+cancer cell lines covering MMP1 +/- and HLA-A*02 +/- expression profiles,
+as well as the source proteins for the most closely related control
+peptides. The lead TandAb showed excellent target specificity across a
+wide range of peptide-pulsed and endogenously expressing cell lines as
+well as potent cytotoxicity with picomolar EC50. In summary, we have
+identified a tumor-associated MMP1-derived peptide in an HLA-A*02 context
+by exploiting the knowledge of tumor and healthy tissue immunopeptidomes
+using XPRESIDENT®. Overcoming the existing barrier of developing
+antibodies targeting specific MHC/peptide complexes, we generated and
+characterized highly specific and potent T-cell-recruiting TandAbs. These
+hold the potential to open up the therapeutic target space for T-cell
+engagement by providing access to intracellular proteins that are
+presented in a disease-specific manner as MHC/peptide complexes.
+
+

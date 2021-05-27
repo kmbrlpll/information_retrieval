@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Epigenome-wide association study of metabolic syndrome in
+African-Americans.
+
+
+Background: The epidemic of obesity among US adults has resulted in
+significant increases in associated metabolic disorders such as diabetes,
+dyslipidemia and high blood pressure. Together, these disorders
+constitute metabolic syndrome, a clinically defined condition highly
+prevalent among African-Americans. Identifying epigenetic alterations
+associated with metabolic syndrome, including DNA methylation changes may
+provide information on biological pathways that are dysregulated and may
+potentially act as early biomarkers in cancer.
+
+Methods: Data on cardio-metabolic risk factors and DNA methylation was
+assessed on 606 African-Americans from the Hypertension Genetic
+Epidemiology Network (HyperGEN) study. Metabolic syndrome was defined
+using the joint harmonized criteria of at least three of: elevated waist
+circumference, high triglycerides, low HDL-cholesterol, high fasting
+blood glucose and high blood pressure. DNA methylation was assessed using
+the Illumina HumanMethylation 450K Bead Chip assay on DNA extracted from
+buffy coat. Linear mixed effects regression models were used to examine
+the association between CpG methylation and metabolic syndrome in crude
+and adjusted (for age, alcohol, smoking, sex) analyses. Replication using
+DNA from 76 African-Americans in the REason for Geographic and Racial
+Disparities in Cancer (REGARDS) study, as well as meta-analysis combining
+both cohorts was conducted.
+
+Results: Two differentially methylated CpG sites in the IGF2BP1 gene on
+chromosome 17 (cg06638433; β =0.01, p-value=3.10x10-7) and the ABCG1
+gene on chromosome 21 (cg06500161; β: 0.018, p-value=2.60x10-8) were
+identified in models adjusted for age, sex, alcohol and smoking.
+Methylation of CpG sites on the TXNIP gene on chr 1 (p=2.83 x 10-9), and
+CPT1A gene on chr 11 (p=1.39 x 10-4) were also significantly associated
+with metabolic syndrome in unadjusted models. Results for the ABCG1 gene
+remained statistically significant in the replication set and
+meta-analysis.
+
+Conclusion: Metabolic syndrome was consistently associated with focal DNA
+hypermethylation in the ABCG1gene, a region of the chromosome that
+encodes proteins in the ATP-binding cassette transporter family, and is
+involved intra- and extra- cellular signaling. Alterations in the ABCG1
+gene was observed in 40% of invasive breast cancer tumors in the TCGA,
+providing a potential epigenetic link between metabolic syndrome and
+breast cancer that deserves further study.
+
+

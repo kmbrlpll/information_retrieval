@@ -1,0 +1,34 @@
+Meeting: 2015 AACR Annual Meeting
+Title: MDM2 promotes p53-independent breast cancer metastatic phenotypes
+
+
+Many human cancers overexpress the E3 ubiquitin ligase MDM2. The cancer
+genome atlas (TCGA) found that increased MDM2 expression is one of four
+gene pathways that correlate with all breast cancer subtypes. An
+increasing body of literature strongly suggests that overexpression of
+MDM2 can drive breast oncogenesis in the presence of mutant p53 (mtp53),
+as well as through molecular pathways that do not require wild-type p53
+degradation. Therefore, the canonical wild-type p53 degradation pathway
+by MDM2 is clearly not the only important pathway. MDM2 expression has
+been shown to influence breast cancer cell invasion and metastasis. One
+potential mechanism for this is through the activation of SLUG (a
+transcription repressor of E-Cadherin) and the process of E-cadherin
+degradation. To investigate the p53-independent influence of MDM2 we
+engineered human breast cancer clones with inducible shRNA to knockdown
+MDM2 in MDA-MB-231 (mtp53 R280K), T47D (mtp53 L194F) and MCF-7 (wild-type
+p53) cells. Wound healing assays showed that MDM2 knockdown in all three
+cell lines reduced cell migratory capacity without altering p53 protein
+levels. In T47D.shmdm2 cells, a decrease in SLUG expression was observed
+with MDM2 knockdown indicating SLUG is a p53-independent target of MDM2.
+The knockdown of MDM2 also decreased slug and mmp9 mRNA detected by
+quantitative RT-PCR. To determine the biological significance of MDM2 in
+a system to recapitulate breast cancer architecture we examined
+T47D.shmdm2 cells in a 3-dimensional (3D) cell culture model.
+Importantly, the depletion of MDM2 in T47D.shmdm2 cells grown in 3D
+culture promoted luminal clearance. Our findings suggest that MDM2 can
+influence SLUG and MMP9 levels associated with breast cancer metastasis
+through a mechanism that does not require degradation of wild-type p53.
+Moreover our work suggests that MDM2 may promote changes to breast cancer
+architecture that drive metastasis.Acknowledgements. This work was
+supported by a grant to JB from the Breast Cancer Research Foundation.
+

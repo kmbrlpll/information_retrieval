@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Unique cell-based transposon mutagenesis screen for studying EMT
+process of tumor in the liver
+
+
+Background and Aims: Epithelial mesenchymal transition (EMT) is a complex
+differentiation process that epithelial cells lose its own characteristic
+and acquire mesenchymal property. EMT is reported to contribute vascular
+invasion, metastasis and poorer prognosis of hepatocellular carcinoma
+(HCC). However, how and what types of genes are involved in EMT process
+of HCC is still not fully understood. Here we develop cell-based
+transposon mutagenesis system to screen genes involved in EMT process in
+the liver, Methods: Mouse hepatoblasts were isolated from embryos of
+hepatocyte-specific T2Onc2 transposon transgenic and SB11 transposase
+knock-in mice (Alb-Cre/T2Onc2/SBase) or their control littermates. They
+were cultured in vitro and waited for spontaneous immortalization.
+Multiple immortalized hepatoblast cell lines (IHBCs) were then injected
+into the flank or the liver of nude mice and monitored for tumor growth.
+Results: IHBCs from Alb-Cre/T2Onc2/SBase mice showed hepatoblast
+characteristics with active T2Onc2 transposition and maintained
+differentiation capacity into mature hepatocytes in vitro. Five of 7
+IHBCs developed tumors at flank and 3 of 5 inside the liver, while
+injection of 8 IHBCs from the control littermates never developed any
+tumors, indicating that transposon conferred tumorigenic potential on
+IHBCs. Histological analysis revealed tumors were positive for
+transposase in addition to Sox9 and EpCAM, indicating that they were
+originated from hepatoblasts with albumin expression. However, they were
+spindle-shaped mesenchymal tumors with positive staining for Vimentin,
+suggesting that transposon induced EMT of hepatoblasts during malignant
+transformation. qPCR array also showed the strong activation of
+EMT-related genes in these tumors. We further confirmed these phenotypes
+by additional injections of IHBCs and collected 52 xenografted tumors
+from 5 IHBCs. Sequence of transposon insertion sites in these tumors
+identified 803 candidate cancer genes (CCGs). Trunk driver analysis
+identified oncogenic activation of Met/Gab1 signaling as the driving
+force of tumor development. Pathway analysis revealed that CCGs were
+enriched in known signaling pathways involved in EMT process including
+Wnt, TGF-beta, MAPK and Notch signaling as well as adherence junction,
+focal adhesion and regulation of actin cytoskeleton, indicating that
+transposon targeted these pathways, inducing EMT in these tumors.
+Furthermore, analysis of RNA-seq data from TCGA human HCC samples showed
+that CCGs were enriched in genes that show significant correlation
+between their mRNA levels and those of EMT-related genes, suggesting
+their involvement in EMT process. Conclusion: Our unique transposon tumor
+model mimics EMT process of the tumor in the liver. Therefore,
+transposon-identified CCGs may be a good resource to discover genes
+involved in EMT process in the liver.
+

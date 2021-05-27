@@ -1,0 +1,40 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A novel, in vitro tankyrase 1 trans-ribosylation assay
+
+
+The poly (ADP-ribose) polymerase, tankyrase 1, is an encouraging
+pharmacological target for cancer therapy. First discovered by its
+association with the TRF1, tankyrase 1 plays an important role in the
+maintenance of telomere length, sister telomere association, and mitotic
+spindle organization. More recently, interactions between tankyrase 1 and
+axin were shown to stabilize -catenin and modulate Wnt signaling,
+enabling selective targeting of the Wnt pathway with tankyrase
+inhibitors. In addition, tankyrase 1 has also demonstrated potential as a
+target for synthetic lethality for BRCA-deficient cancers. Given the
+effect on these cancer-associated pathways, there is a growing interest
+for identifying tankyrase-specific inhibitors. Historical methods to
+evaluate tankyrase activity are not amenable for high throughput
+screening. Limited availability of the full length enzyme required
+radioactivity to attain the needed sensitivity. Truncation of tankyrase 1
+improved solubility and increased availability, but the physiological
+response may not be equivalent to the full length enzyme. Many of these
+assays have also used modified substrates where molecules such as
+fluorescein or biotin are linked to NAD without characterizing the
+effects on enzyme activity. Most historical assays have also relied on
+measuring autoribosylation of tankyrase 1; whereas, transribosylation may
+be more relevant for assessing the activity of tankyrase 1 on other
+molecules. To address these issues, we have developed a novel, in vitro,
+high throughput assay for evaluating the transribosylation activity of
+tankyrase 1. This is accomplished using an ELISA format which
+semi-quantitatively detects poly (ADP-ribose) (PAR) deposited onto
+immobilized histone proteins by tankyrase 1. An anti-PAR monoclonal
+antibody, goat anti-mouse IgG-HRP conjugate, and HRP substrate generate a
+colorimetric or chemiluminescent signal, and the conversion of substrate
+correlates with tankyrase 1 activity. This assay ensures physiological
+significance by utilizing the full length enzyme and unmodified substrate
+in a transribosylation format, providing sensitivity down to pmols of
+enzyme. This assay is utilized to demonstrate the specificity of the
+tankyrase 1 inhibitor, XAV939, for tankyrase 1 compared to PARP1 and to
+reveal differential effects of activated DNA for full-length tankyrase 1
+compared to the truncated enzyme.
+

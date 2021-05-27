@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Serum MicroRNAs as biomarkers in early stage non-small cell lung
+cancer
+
+
+Lung cancer remains one of the most common and deadly diseases worldwide,
+with a 5-year survival rate of 16%. It is still the leading cause of
+cancer-associated mortality among both men and women, despite a
+decreasing incidence rate over the past decade. MicroRNAs (miRNAs), a
+class of small non-coding RNAs, may regulate the expression of one third
+of all human genes and are related to carcinogenesis through their
+function as oncogenes or tumor suppressors. Circulating serum miRNAs that
+are differentially expressed between early stage lung cancer patients and
+controls could serve as non-invasive biomarkers for the early detection
+of lung cancer. In this study, we assessed a total of 89 candidate miRNAs
+using a quantitative Real-Time PCR method in 200 Caucasian, early stage
+lung cancer patients (stage I or II disease) and 200 Caucasian healthy
+controls. We used the rank sum test to assess differential serum miRNA
+expression levels between cases and controls. Odds ratios [OR] and 95%
+confidence intervals [CI] were calculated using multivariate logistic
+regression while adjusting for age, gender and smoking status. Of the 89
+candidate miRNAs, 56 miRNAs were expressed in the serum of study subjects
+and 4 miRNAs (mir409_3p, mir223star, mir152, mir378) exhibited
+significant differential expression between cases and controls. The most
+significant association was observed for mir409_3p with a rank-sum test
+p-value at 0.008. In the stratified analysis, significant association was
+observed for mir409_3p in younger individuals less than or equal to 65
+years of age, mir223star, mir152, and mir378 in older individuals greater
+than 65 years of age, mir409_3p and mir223star in males, mir152 in
+females, and mir378 in ever smokers. After dichotomizing serum miRNAs
+using the 1st quartile cut-off in the controls and comparing to the
+lowest quartile, we also observed significant associations for mir409_3p,
+mir223star, mir152, and mir378 with ORs (95% CI) of 0.47 (0.27-0.83),
+2.00(1.03-3.88), 0.43(0.25-0.74), and 2.58(1.37-4.86), respectively. Risk
+score analysis using these 4 miRNAs showed significant increased risk of
+lung cancer with an increasing risk score (P = 1.64 X 10-6). Under
+Receiver Operating Characteristic curve analysis, the area under the
+curve (AUC) for age, gender, and smoking status is 0.76 while AUC
+increased to 0.81 with the addition of the serum miRNA data. We further
+downloaded the miRNA expression data from TCGA and found that mir378 and
+mir152 were available. These two miRNAs exhibited consistent associations
+(up-regulated for mi378 or down-regulated for mir152) while comparing
+tumor and normal tissues in lung patients with pathological stage I and
+II disease and comparing serum in lung cancer cases and controls. In
+conclusion, serum miRNAs exhibited differential expression between early
+stage lung cancer cases and controls and could be used for the early
+detection of lung cancer.
+

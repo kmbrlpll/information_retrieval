@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A clinical pharmacodynamic biomarker assay that distinguishes
+potentially repairable, cytotoxic drug-induced DNA double strand breaks
+(DSBs) from DSBs associated with apoptotic cell death.
+
+
+The effectiveness of certain classes of cytotoxic cancer therapeutics
+likely depends on whether drug-induced DNA damage is successfully
+repaired or not, with the latter situation leading to mutations and
+strand breaks. However, double strand breaks (DSBs) also occur
+independently of genotoxic insults during apoptotic cell death caused by
+many drug classes, as well as natural biological processes. We have
+developed an immunofluorescent confocal microscopy assay that uses a
+biomarker profile suitable for individual cell analysis designed to
+distinguish between DSBs caused by apoptosis and those caused by direct
+DNA damage from cytotoxic drug action. γ-H2AX is an established
+biomarker for DSBs and activated cleaved caspase 3 is an executioner
+caspase important for apoptosis, which leads to nuclear condensation, DNA
+fragmentation, plasma membrane blebbing, and subsequent cell death. Our
+assay defines the DSBs of apoptosis by co-localized γ-H2AX and cleaved
+caspase 3 in individual cells, while defining the DSBs from early drug
+effects of DNA damaging chemotherapeutics by γ-H2AX induction in the
+absence of cleaved caspase 3. Building on our published findings that
+topotecan strongly induces γ-H2AX and DSBs within 1-4 hours in vitro and
+in vivo, we observed exposure-dependent increases in γ-H2AX /cleaved
+caspase 3 double positive cells at later time points, both in an HT29 in
+vitro spheroid model and an MDA-MB-231 xenograft model. Fit-for-purpose
+studies in the MDA-MB-231 xenograft model treated with birinipant, a SMAC
+mimetic and IAP deregulator that does not directly produce lethal DSBs,
+demonstrated a dose-dependent increase in cellular co-localization of
+γ-H2AX/cleaved caspase 3 consistent with birinipant induced apoptosis
+and the established mechanism of action of this compound. Clinical
+feasibility was established in a canine clinical trial using
+formalin-fixed paraffin-embedded (FFPE) 18-gauge needle biopsies: two
+novel indenoisoquinolines, indotecan (LMP400) and indimitecan (LMP776),
+increased tumor cell co-localization of γ-H2AX/cleaved caspase 3 in
+tumor samples obtained on day 5 of qdx5 treatment. This PD biomarker
+assay of early and late DSB response to drug exposure could have
+important applications for elucidation of mechanisms of action of
+anticancer drugs and the development of investigational agents. Funded by
+NCI Contract No. HHSN261200800001E.
+
+

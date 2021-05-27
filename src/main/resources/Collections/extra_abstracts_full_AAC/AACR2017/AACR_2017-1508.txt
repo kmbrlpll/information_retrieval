@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: MTL-CEBPA activates the transcription factor CEBPalpha leading to
+inhibition of hepatocellular cancer growth.
+
+
+CCATT/enhancer binding protein alpha (CEBPA) is a transcription factor
+that can act as a tumor suppressor. Its expression is downregulated in a
+number of cancers including hepatocellular carcinoma (HCC). We have
+investigated the role of CEBPA in models of HCC using small activating
+RNAs (saRNA) to transcriptionally upregulate its expression.
+
+Three liver tumor cell lines (HepG2, Hep3B, PLCPRF5) were transfected
+with 20nM CEBPA-saRNAs (CEBPA51). The transcriptional regulation of two
+key members of the CEBP family: CEBPA and CEBPB and their protein
+expression level were measured. The impact on cell growth was assessed by
+way of an SRB and WST-1 assay. To investigate the role of CEBPB in
+protecting cells from the activity of CEBPA, siRNAs were used to knock
+down CEBPB. Using i.v. delivery of CEBPA51 oligonucleotide, the impact on
+tumor growth was investigated in a DEN (N-nitrosodiethylamine) model of
+liver cancer. Rats were treated with DEN for 7 weeks, followed by a 2
+week wash out and then treated with the CEBPA51 (3-4mg/kg) complexed with
+PAMAM-dendrimers or encapsulated in a nanoparticle formulation
+(SMARTCLES). The impact on CEBPA mRNA levels in the liver, tumor growth
+and liver functions (including, bilirubin, ALT and AST) were measured.
+
+Transfection of CEBPA51 into HepG2, Hep3B or PLCPRF5 cells after 72hr led
+to a significant increase in both CEBPA mRNA (1.7-2.5 fold by qPCR) and
+protein expression measured by western blot in all 3 cell lines. A
+significant inhibition in cell growth compared to either PBS or control
+oligonucleotide was observed in HepG2 and Hep3B but not in PLCPRF5 cells
+measured by both SRB and WST-1 assays. The levels of CEBPB mRNA and
+protein, which may act as an antagonist of CEBPA, were found to be higher
+(1.4-2 fold) in PLCRF5 cells compared to HepG2 and Hep3B cells.
+Co-transfection of PLCPRF5 cells with siRNAs to CEBPB and CEBPA51 saRNA
+led to downregulation of CEBPB and senstized the PLCPRF5 cells to growth
+inhibition by CEBPA51. Administration of CEBPA51 complexed to either
+dendrimers or encapsulated in SMARTCLES nanoparticle at doses of 3-4mg/kg
+i.v. over 2 weeks led to a significant elevation of CEBPA mRNA in the
+liver. This was accompanied by a reduction (80-90%) in the size of DEN
+induced liver tumour nodules compared to a control oligonucleotide using
+both delivery vehicles. The antitumor effects following treatment with
+CEBPA51 using both delivery vehicles were also accompanied by reduction
+in markers of liver injury (bilirubin, ALT and AST).
+
+These studies support an important role for CEBPA in suppressing
+progression of HCC. Activation of the CEBPα gene by saRNA leading to
+restoration of CEBPA levels in the liver represents a promising novel
+approach for inhibiting the growth of HCC whilst improving normal liver
+function. The SMARTCLES formulation, MTL-CEBPA, was chosen for clinical
+development and is currently in a Phase 1 trial in patients with liver
+cancer (NCT02716012).
+
+

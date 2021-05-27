@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Human transcriptome alterations in pre-cancer and cancer
+epithelium identify candidate biomarkers of progression to pancreatic
+cancer.
+
+
+Pancreatic ductal adenocarcinoma (PDAC) is one of the most common cancers
+in the United States. The five-year survival rate for patients with PDAC
+remains dismal. Identification of biomarkers for early diagnosis of PDAC
+and pre-cancer pancreatic intraepithelial neoplasia (PanIN) lesions with
+risk of progression to PDAC is critically needed. We hypothesized that
+differentially expressed genes and regulatory pathways in PanIN and PDAC
+compared to normal duct epithelium (ND) may represent biomarkers of
+development of malignancy. We used Affymetrix Human Transcriptome Arrays
+2.0 to establish gene expressionprofiles in ND, low-grade PanIN, and PDAC
+epithelium. Total RNA was isolated after laser capture microdissection
+(LCM) of frozen tissue sections and then used for producing
+hybridization-ready DNA. Hybridization quality control was performed with
+Expression Console 1.4 software and background corrected/normalized data
+were analyzed with Transcriptome Analysis Console (TAC) 3.1 and the
+ASSIGN algorithm. We tested RNA from 22 LCM samples (9 PDACs, 5 PanINs,
+and 8 ND), including 4 matched trios of ND, PanIN and PDAC from the same
+patients. Differential expression analysis with one-way between subject
+ANOVA revealed over 2000 genes differentially expressed in PDAC and PanIN
+vs. ND group (filter criteria up/down >2; ANOVA p1.5; ANOVA p1.5; ANOVA
+p<0.05) in both PanIN and PDAC vs. ND epithelium. Signaling pathway
+analysis of WikiPathways showed a number of significantly altered
+pathways in PDAC and PanIN compared to ND including the Gastric Cancer
+Network 1 with upregulated S100P in both PanIN and PDAC whereas other
+genes including CENPF, KIF20B,TPX2, and UBE2C were upregulated in PDAC
+only. Using the ASSIGN algorithm and the Kruskal-Willis test for analysis
+of difference in pathway activity, we found additional regulatory
+pathways with altered activity including Nuclear Receptor meta-pathway
+with reduced overall score in PDAC compared to PanIN and ND samples. In
+summary, over 400 genes were significantly up-regulated in pre-cancer
+PanIN lesions compared to normal duct epithelium, whereas gene
+down-regulation was the most frequent alteration in PDAC. Sixty genes,
+including 40 coding genes were up-regulated in both PDAC and PanIN. The
+altered pathways associated with the differentially expressed genes may
+represent an approach for integrated biomarker testing of neoplastic
+progression.
+
+

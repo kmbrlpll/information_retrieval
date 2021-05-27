@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Assessing PK parameters using dynamic contrast enhanced
+multispectral optoacoustic tomography (DCE-MSOT)
+
+
+Pharmacokinetic imaging is a powerful platform for evaluating new
+candidate drugs and imaging agents, and multitude of applications have
+been demonstrated in DCE MRI. Interesting parameters such as Ktrans,
+half-life and Tmax can be retrieved for a tumor region after injection of
+a perfusion agent, allowing one to draw important conclusions on tumor
+growth, vascularization or therapy response. DCE MRI however is to a
+certain extent limited to magnetic agents and provides limited spatial
+and temporal resolution.Multispectral Optoacoustic Imaging (MSOT) is an
+emerging modality that combines ultrasound resolution of 150 m and
+acquisition times of a few microseconds with optical contrast in the near
+infrared (NIR) spectral region. Multispectral imaging allows the
+localization of injected fluorophores without necessity of a baseline
+scan before injection, while a core imaging rate of 10 images/second
+allows the acquisition of a multispectral image within a second or even
+less. This enables fast image acquisition to support pharmacokinetic
+imaging, where the temporal profile of individual pixels is fit to a
+model equation and resulting parameters are plotted as parametric maps.
+Using targeted agents, binding specificity and its kinetics can be
+evaluated, while perfusion agents allow the assessment of perfusion and
+tissue uptake through Ktrans. One advantage in regards to DCE-MRI is the
+ability to extract the arterial input function from the data itself by
+monitoring a single cross-section with maximal temporal resolution.
+Another important feature is the use of intrinsic contrast that allows
+blood oxygenation quantification, enabling the co-registration of
+functional oxygenation measurements with DCE perfusion measurements.In
+particular, various algorithms can be applied in order to visualize blood
+oxygenation as a result from tissue intrinsic optoacoustic contrast
+without the injection of additional agents. These can be evaluated for
+pixel dependent temporal changes using the fast image acquisition
+techniques described above, which allows for tumor delineation and
+assessment of perfusion in a CO2 challenge experiment by visualizing the
+localized change in blood oxygenation. This can be cross-validated by the
+subsequent injection of a perfusion agent and evaluation of its transfer
+coefficient using DCE-MSOT techniques to paint a complete picture of the
+evaluated tumor microenvironment. The presented work uses the U87-MG
+glioblastoma and 4T1 tumors to illustrate the abilities of the technique
+in both subcutaneous and orthotopic settings.The extension of
+contrast-enhanced kinetic modeling to the optoacoustic imaging regime
+allows access to a library of optical probes that are otherwise
+unavailable to traditional DCE-MRI, while maintaining high spatial
+resolution and providing access to functional hemodynamic parameters.
+

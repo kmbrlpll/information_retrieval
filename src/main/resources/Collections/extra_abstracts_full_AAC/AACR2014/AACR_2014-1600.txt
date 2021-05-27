@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Keeping glioblastoma (GBM)in check by targeting the
+CHK1-STAT3-CIP2A axis
+
+
+Checkpoint kinase1 (CHK1) is a DNA damage kinase, which has been observed
+to be constitutively active in human cancers. Unfortunately a number of
+new generation CHK1 inhibitors, currently in clinical trials, have shown
+deleterious effects on normal cells, thus limiting their clinical
+utility. Therefore, identification and targeting of cancer specific
+effectors of CHK1 signaling has emerged as an attractive therapeutic
+alternative.Analysis of the REMBRANDT and TCGA datasets revealed a strong
+positive correlation for CHK1 and CIP2A expression in 422/522 and 356/454
+glioma patients respectively. By contrast, there was negligible
+correlation observed in normal samples. Additionally, high mRNA
+expression of both CHK1 and CIP2A was associated with reduced overall
+survival in glioma patients and marked a more aggressive form of the
+disease. Notably, CIP2A amplification found in 14.72% cases in the
+Rembrandt study was associated with worse overall survival in GBM
+patients. Mechanistically, we identify STAT3 as a transcriptional
+mediator for CHK-dependent CIP2A expression in GBM cells. We demonstrate
+that CHK1 positively regulates CIP2A transcription by promoting
+phosphorylation of STAT3 at Tyrosine 705 both in vitro and in vivo.
+Further, depletion of STAT3 by siRNA or chemical inhibitors resulted in
+decreased CIP2A expression in GBM cells. Functionally, both CHK1 and
+CIP2A promoted viability, clonogenicity and anchorage-independent growth
+of GBM cells. Importantly, inhibition of cancer cell viability and
+clonogenicity by Chk1 inhibition can be partially rescued by exogenous
+overexpression of CIP2A. Higher CIP2A, p-S345-CHK1 and p-Ty705-STAT3
+levels were observed in de novo and patient-derived GBM, and U251MG cells
+relative to levels in normal human astrocytes (NHA). Analogously, CHK1
+and CIP2A mRNA expression is increased 10 to 15 fold in genetically
+engineered mouse(GEM) models of human GBM (Pdgf-Cre-driven Ptenf/f and
+Pdgf-Cre-driven Ptenf/f;/p53f/f double mutant mice compared with
+wild-type mice). Finally, using xenograft mouse models we show that both
+PF477736 (a small molecule inhibitor of CHK1) and CIP2A depletion
+inhibits tumor growth.These results highlight CHK1 and CIP2A expression
+as potential diagnostic and prognostic markers in human GBMs. Further,
+these findings identify CIP2A as a cancer specific therapeutic target
+downstream of constitutively active CHK1 and STAT3 signaling in GBM.
+Together, these data serves as a platform for using CIP2A expression in
+GBM, to either directly target CIP2A or to stratify patients for CHK1
+and/or STAT3 inhibition.Note: This abstract was not presented at the
+meeting.
+

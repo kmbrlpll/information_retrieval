@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Neutralization of CD47 in cancer cells with bispecific antibodies
+harnesses the phagocytic potential of tumor-infiltrating macrophages
+
+
+The inhibitory don't eat me signal of phagocytosis, CD47, is commonly
+overexpressed in cancer cells, a feature generally associated with poor
+prognosis. CD47 overexpression in cancer is believed to promote immune
+evasion by allowing tumor cells to hide from innate immune phagocytes
+like macrophages or dendritic cells. CD47 is therefore a new type of
+immune checkpoint and an attractive target for cancer immunotherapy.
+However, as CD47 is also universally expressed on healthy cells, clinical
+development of anti-CD47 monoclonal antibodies is inevitably limited by
+toxicity and/or pharmacokinetic issues. To overcome these liabilities, we
+engineered dual-targeting bispecific antibodies (biAbs) for selective
+blockade of CD47 in malignant cells. By tethering the biAbs strongly to
+cells expressing a tumor-associated antigen (TAA), such as CD19 or
+mesothelin, CD47 is blocked selectively on the target cell. In contrast,
+as these biAbs will lose the avidity effect with TAA-negative cells, they
+will bind with very low affinity to healthy cells which express CD47. In
+this manner, dual-targeting should help to sidestep safety and
+pharmacokinetic sink problems resulting from ubiquitous CD47 expression.
+Studies in non-human primates performed with the CD47/CD19 therapeutic
+candidate NI-1701 confirmed this prediction, demonstrating normal IgG1
+pharmacokinetics and absence of toxicity, even at high antibody doses
+(100 mg/kg per week).Hence, the mechanism of action of CD47/TAA
+dual-targeting antibodies is heavily contingent upon target
+co-engagement. In vitro, CD19-positive or mesothelin-positive cancer
+cells are efficiently killed through antibody dependent cellular
+phagocytosis (ADCP) and/or antibody-dependent cell-mediated cytotoxicity
+(ADCC) in the presence of effector cells, such as macrophages or natural
+killer cells, and the corresponding dual-targeting CD47/TAA antibodies.
+Their enhanced ability to induce tumor cell phagocytosis was also
+demonstrated in vivo, in xenograft models: Mice implanted with
+subcutaneous human B cell lymphoma xenografts controlled tumor growth
+following therapy with NI-1701, contrary to mice treated with an
+anti-CD19 mAb. Importantly, tumor microenvironment (TME) studies revealed
+that mouse macrophages infiltrating human tumors engulfed tumor cells
+more frequentlyand at a significantly higher ratein animals treated with
+NI-1701 as compared to controls. Moreover, the observed superior
+phagocytic activity of tumor-infiltrating macrophages was associated with
+a reduction of granulocytic myeloid-derived suppressor cell infiltrates,
+suggesting that NI-1701 may favor the establishment of a tumor-hostile,
+immunostimulatory TME. We conclude that dual-targeting CD47/TAA
+bispecific antibodies may open the way to the safe and efficacious
+therapeutic neutralization of CD47, the universal don't eat me signal
+hijacked by cancer cells.
+

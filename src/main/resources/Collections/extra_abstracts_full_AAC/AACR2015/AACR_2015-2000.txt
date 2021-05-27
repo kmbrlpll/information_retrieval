@@ -1,0 +1,55 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Proteomic features of histological compartments in colorectal
+carcinoma
+
+
+Proteomic analysis of cancer tissues by mass spectrometry (MS) is
+complicated by the fact that histological context is lost in the
+analysis. Knowledge on the abundance of key proteins for the different
+histological compartments may allow an assessment of the contribution of
+each of these components to the proteomic profile obtained. We studied 18
+colorectal carcinoma specimens and isolated carcinoma, necrosis, normal
+epithelium, stroma, smooth muscle, and lymphoid infiltrate compartments
+using laser capture microdissection (LCM). Proteins extracted from 60 LCM
+caps were subjected to short-stack, gel electrophoresis, in-gel trypsin
+digestion and analyzed on a Thermo-Fisher QExactive Orbitrap MS
+instrument. Data were searched using myrimatch and MS-GF+ on a RefSeq
+protein database and identified proteins were assembled using IDpicker 3.
+The analysis identified about 2,000 non-redundant proteins at a protein
+FDRProteomic analysis of cancer tissues by mass spectrometry (MS) is
+complicated by the fact that histological context is lost in the
+analysis. Knowledge on the abundance of key proteins for the different
+histological compartments may allow an assessment of the contribution of
+each of these components to the proteomic profile obtained. We studied 18
+colorectal carcinoma specimens and isolated carcinoma, necrosis, normal
+epithelium, stroma, smooth muscle, and lymphoid infiltrate compartments
+using laser capture microdissection (LCM). Proteins extracted from 60 LCM
+caps were subjected to short-stack, gel electrophoresis, in-gel trypsin
+digestion and analyzed on a Thermo-Fisher QExactive Orbitrap MS
+instrument. Data were searched using myrimatch and MS-GF+ on a RefSeq
+protein database and identified proteins were assembled using IDpicker 3.
+The analysis identified about 2,000 non-redundant proteins at a protein
+FDR<5%. Unsupervised cluster analysis of the most abundant proteins
+clustered each of the compartments together with few exceptions.
+Surprisingly, the necrotic compartment was almost identical from the
+carcinoma compartment, indicating the stability of the small peptides
+used for MS sequence identifications. Comparisons of spectral count data
+between each of the compartments and the remainder of the dataset by
+protein enrichment analyses was performed using the online tool
+www.webgestalt.org. The carcinoma compartment was enriched for proteins
+involved in nucleic acid and general metabolism processes. Smooth muscle
+was enriched for proteins involved in muscle contraction and cell
+adhesion. The lymphoid infiltrates were enriched for chromatin and
+nucleosome proteins, possibly indicating the relative contribution of
+nuclear proteins from these small cells. The stromal component was
+enriched for extracellular matrix proteins and proteins involved in
+glycosylation processes. Using data from ProteinAtlas.org, we confirmed
+histological associations of the most prominent protein markers with
+their respective histological component. For instance, COL12A1 was highly
+expressed in the stromal compartment, while SMTN was highly specific for
+smooth muscle. Expression levels characterizing each of the histological
+components can thus be described in protein signatures that can serve as
+a measure of the relative contribution of each of the components in the
+complex composition of a colorectal carcinoma sample.Supported by NIH/NCI
+grant U24CA159988.
+

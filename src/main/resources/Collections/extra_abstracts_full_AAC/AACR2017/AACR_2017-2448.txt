@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Deep exome sequencing reveals recurrent somatic mutations in
+Hodgkin's lymphoma.
+
+
+High-throughput sequencing provides insights into cancer pathogenesis.
+The application of genomics technologies to cancers characterized by rare
+cell populations is a challenge. DNA extracted from bulk tumor samples is
+a mixture of malignant and non-malignant cells. This is a problem in
+cancers defined by rare cell populations because it complicates the task
+of identifying true somatic mutations. Hodgkin lymphoma (HL) exemplifies
+this challenge. The pathologic hallmark of HL is Hodgkin-Reed-Sternberg
+(HRS) cells. HRS cells have a low abundance within an affected lymph node
+(1-30% of tumor microenvironment). Because HRS cells are rare, a limited
+number of studies have described characteristic genomic events. These
+studies have examined HL cell lines, and, recently, a small number of
+flow-sorted HRS-cells (Reichel et. al. 2015). We hypothesized that
+recurrent somatic mutations can be identified in HRS cells using bulk HL
+biopsies and ultra deep exome sequencing.
+
+The Illumina HiSeq X,which can generate> 1.6 Tb of sequence data per run,
+is a applicable tool for the discovery of somatic mutations in HL. Frozen
+tumor (lymph node)/normal (skin) pairs from 31 patients with HL were
+examined. Three KAPA libraries were constructed per sample. The libraries
+were pooled, size selected, and captured using an IDT xGen capture
+reagent. The pools were sequenced across eight lanes of a HiSeq X. A
+total of 7.04 x 1012 bases were sequenced across all samples with an
+average of 1.10 x 1011 bases per sample. The mean depth of coverage
+achieved across all samples was 783.4x (425.9x - 1091.9x). Given the low
+abundance of HRS cells we anticipated most somatic sites would have a VAF
+of 1% -5%. Given the level of coverage we anticipate that most somatic
+variants will have >5 reads of support.
+
+Instrument data were processed using the McDonnell Genome Institute
+somatic variant calling pipeline that includes 5 SNV callers and 3 indel
+callers. We used these steps to filter variants: min. 50x coverage, max.
+5000x coverage, min. 1% tumor VAF, max. 5%, normal VAF, and min. 5
+variant reads in the tumor. Here we report preliminary data on mutations
+in five pilot samples. The remaining 26 will be presented at the meeting.
+We confirmed 7 previously identified recurrent mutations in HL (Reichel
+et al. 2015). Within our pilot data 13 recurrently mutated genes were
+found. The most interesting of our recurrent genes is TNFAIP3, which was
+the second most frequently mutated gene in Reichel et al. 2015. These
+data suggest that ultra deep sequencing of tumor samples containing rare
+HRS cells can identify recurrent somatic mutations. Thus, ultra deep
+exome sequencing may be a useful discovery tool for rare tumor
+populations, and will improve our understanding of HL.
+
+

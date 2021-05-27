@@ -1,0 +1,32 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Examining the roles of deleterious and potentially damaging
+variant alleles in African and Caucasian ancestral populations
+
+
+The purpose of this study was to analyze the overlap between potentially
+damaging Single Nucleotide Polymorphisms (SNPs) for coding gene regions
+across African American and Caucasian populations. Allele frequency and
+genotype data from the International HapMap Project was acquired for
+ancestral groups from Utah Residents with Northern and Western European
+Ancestry (CEU), Yoruba in Ibadan, Nigeria (YRI) and African Americans
+from the Southwest (ASW) resulting in 34,844 unique variants. Using the
+Variant Effect Predictor, non-synonymous SNPs in overlapping transcripts
+were filtered and found in 12,367 unique genes. SIFT or Polyphen-2 scores
+were used to determine which variants were likely to prove damaging to
+protein function, resulting in 10,917 variants. Functional annotation of
+biological pathways in genes affected by these variants was analyzed
+using DAVID. There was enrichment in olfactory pathways/g-protein coupled
+receptor function, cell membrane function and epidermal growth factor
+activity. Comparisons of genes affected by these deleterious variants
+were overlapped with the catalog of published genome-wide association
+studies (GWAS) with SNP-traits associated with cancer. There were 90 of
+463 genes in common with this data that were examined for linkage
+disequilibrium with the damaging variants. Finally, SNPs with a variant
+allele frequency differences >5% between CEU versus YRI or ASW resulted
+in with 2,381 SNPs with 55.7% overlap between groups. Analysis of patient
+genotypes found those in the CEU population were more likely to possess a
+homozygous allele. Using Chi-Squared tests, populations were examined for
+risk allele frequencies by genotype. This study demonstrated variants
+with potentially damaging consequences in cancer pathways are
+disproportionally represented in different ancestral populations.
+

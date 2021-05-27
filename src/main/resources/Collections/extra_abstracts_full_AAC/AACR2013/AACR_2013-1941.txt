@@ -1,0 +1,40 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of microRNA(miRNA) signature genes for
+chemoresistance through high throughput profiling of cancer related
+miRNAs (OncomiRs) in ovarian cancer cell lines and formalin fixed,
+paraffin embedded (FFPE) ovarian tissues.
+
+
+The standard treatment for ovarian cancer after cytoreductive surgery is
+platinum combined with taxane based chemotherapy. However, most patients
+quickly develop resistance to these therapies. Many miRNA have been
+implicated to play critical roles in regulating genes involved in
+chemoresistance.In order to understand mechanism of potential drug
+resistance to small molecule agents used in our pipeline antibody drug
+conjugates, we first optimized and developed a gene expression panel for
+detecting 96 OncomiRs that have previously been identified as either
+oncogenic or tumor suppressive genes in multiple cancer types using the
+Fluidigm 96.96 dynamic array platform. A synthetic miRNA pool and a
+22-tissue totalRNA pool were first titrated and tested against these 96
+OncomiRs to determine the feasibility of multiplexing of 96 genes in the
+reverse transcription and pre-PCR amplification steps and the dynamic
+range of the assay. The slopes of Ct vs. RNA input in most assays showed
+over 90% amplification efficiency and more than 1000 fold detection
+range. We then profiled 53 ovarian cancer cell lines using this
+96-OncomiR panel.Unsupervised hierarchical clustering showed that
+expression of 96 genes in these cell lines could separate them into two
+distinctive clusters with overexpression of either markers for epithelial
+or for mesenchymal subtypes, indicating the OncomiR panel could represent
+both molecular subtypes. By correlating miRNA expression levels of these
+cell lines with their responses to several chemotherapeutic compounds, we
+have identified distinctive miRNA signatures of sensitivity or resistance
+to each compound. The overexpression of some miRNAs is consistently
+correlated with resistance to multiple compounds implying their target
+mRNA genes might confer multidrug resistance. We have also profiled 130
+FFPE samples from ovarian cancer patients who were either platinum
+treatment sensitive or resistant using the OncomiR panel. miRNA
+expression markers for predicting platinum sensitivity and resistance
+will be also presented. In conclusion, our OncomiRFluidigm panel can
+provide an important tool for predicting clinical outcome and drug
+response.
+

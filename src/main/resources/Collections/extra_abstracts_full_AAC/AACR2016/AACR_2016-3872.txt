@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Quantification of mutant SPOP proteins in prostate cancer using
+targeted proteomics
+
+
+Speckle-type POZ protein (SPOP) is an E3 ubiquitin ligase adaptor protein
+that functions as a potential tumor suppressor, and SPOP mutations have
+been identified in 10% of human prostate cancers. However, it remains
+unclear if mutant SPOP proteins can be utilized as biomarkers for
+diagnosis, prognosis or targeted therapy of prostate cancer. To address
+this issue, selected reaction monitoring (SRM) and PRISM (high-pressure,
+high-resolution separations coupled with intelligent selection and
+multiplexing) -SRM mass spectrometry assays have been developed for
+quantifying mutant SPOP proteins.SRM assays for wild-type SPOP protein
+and 11 prostate cancer-derived mutations were developed. The presence of
+multiple lysine residues in the mutation regions precludes the use of
+conventional tryptic digestion. Arg-C was selected instead due to its
+superior performance in generating mutation site(s) containing SPOP
+peptides that are more suitable for SRM analysis comparing to other
+proteases (e.g., Asp-N). Although the resulting Arg-C peptides are longer
+and more hydrophobic than typical tryptic peptides, all the SRM assays
+showed a linear dynamic range of more than two orders of magnitude. The
+limits of quantification for the mutation site(s) containing peptides
+range from 10 to 100 fmol/g of total protein in the cell lysate. Applying
+these SRM assays to analyze 293T cells with and without expression of the
+three most frequent SPOP mutations in prostate cancer (Y87N, F102C or
+F133V) led to confident detection of all three SPOP mutations in
+corresponding positive cell lines but not in the negative cell lines.
+Expression of the F133V mutation and wild-type SPOP was at much lower
+levels compared to that of F102C and Y87N mutations, which agrees with
+RT-PCR results. It is unknown if this is related to activity of the SPOP
+protein. PRISM-SRM assays have shown further improvement in
+sensitivity.SRM enables multiplexed, isoform-specific detection of mutant
+SPOP proteins in cell lysates, which holds great potential in biomarker
+development for prostate cancer.
+

@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: A PKC-RAF-ERK signaling axis for downregulation of Id1 and Id3 in
+colorectal cancer cells
+
+
+Members of the Id family (Id1-Id4) are emerging as attractive therapeutic
+targets in multiple tumor types. Id proteins are dominant negative
+antagonists of basic helix-loop-helix transcription factors, with
+recognized functions in development, stem cell maintenance/self-renewal,
+and cell fate determination. Recent studies have identified Id proteins
+as master regulators of cancer-initiating cells and tumor aggressiveness,
+with critical roles in regulation of central hallmarks of cancer,
+including cell proliferation, survival, senescence, angiogenesis,
+migration, metastasis, and chemoresistance. Deregulated Id1 and/or Id3
+expression has been observed in more than twenty human cancers, including
+colorectal cancer (CRC). Based on their important roles in tumors, Id
+proteins are being actively explored as therapeutic targets, with
+promising results in mouse models and human tumor cell lines. Id1 and Id3
+appear to have redundant functions in CRC; thus Id-based therapy would
+ideally involve a strategy that targets Id1 and Id3 simultaneously.We
+have identified a novel pathway of Id1 and Id3 repression involving the
+signal transduction molecule PKC. Activation of PKC in non-transformed
+intestinal cells (IEC-18 cells) and human CRC cells that retain PKC
+potently suppresses Id1/Id3 mRNA and protein. Restoration of the enzyme
+in PKC-deficient CRC cells also results in Id1/Id3 downregulation.
+Suppression occurs at the transcriptional level and is mediated by the
+proximal 932 bp of the promoter for Id1. Notably, the effects of PKC were
+observed in CRC cell lines with diverse genetic backgrounds, differing in
+the status of APC, -catenin, K-RAS, the PI3K/AKT pathway, and/or TP53.PKC
+activates a growth inhibitory MEK/ERK signaling pathway in intestinal
+cells that is required for Id1/Id3 downregulation. Our demonstration that
+PKC can activate ERK and suppress Id1/Id3 in KRAS-mutant CRC cells
+suggested that the effects of PKC occur downstream of RAS activation.
+Notably, PKC was unable to downregulate Id1/Id3 in CRC cells harboring
+V600E mutations in BRAF, indicating that RAF activation is a key mediator
+of PKC-induced Id downregulation. This conclusion was further supported
+by the ability of the RAF inhibitor, sorafenib, to block the effects of
+PKC on Id1/Id3 in BRAF-wild type cells. KSR1 is an important regulator of
+RAF function; however, PKC retained its ability to downregulate Id1 in
+KSR1 knockdown CRC cells, excluding a role for altered KSR1-RAF
+interactions in the effects of PKC. Collectively, these data indicate
+that PKC regulates a novel signaling pathway for downregulation of
+Id1/Id3 that intersects the MEK/ERK pathway at or upstream of RAF, but
+downstream of RAS. Manipulation of this pathway for coincident
+downregulation of Id1 and Id3 offers a promising therapeutic strategy for
+treatment of CRC and other cancer types.Supported by NIH grants CA036727,
+CA016056, CA191894 and DK60632.
+

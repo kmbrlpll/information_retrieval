@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Protocol optimization combining activatable nanodelivery with
+immunotherapy in a murine breast cancer model.
+
+
+Activatable nanotherapeutics provide the opportunity to deliver
+anthracyclines to a well-controlled region of interest and therefore to
+locally stimulate immunogenic cell death. Such a strategy can be combined
+with immunotherapy for both local tumor control and creation of an
+abscopal effect. Our group previously reported that combining local
+administration of a CpG oligonucleotide with local release of doxorubicin
+from a temperature-sensitive liposomal nanoparticle (TSL) led to the
+elimination of directly treated lesions in a syngeneic murine model of
+mammary adenocarcinoma.1 While this therapeutic approach increased the
+numbers of tumor infiltrating CD8+ T lymphocytes in distant lesions and
+extended survival, distant tumors returned with a growth delay of
+approximately 14 days and T-regulatory cells were not reduced by
+treatment. Therefore, checkpoint blockade of the programmed death-1
+(PD-1) pathway (anti-PD-1) was incorporated in the protocol. CuDox-TSL
+were prepared from DPPC:MPPC:DSPE-PEG2k (86:10:4) in the presence of
+copper (II) gluconate and triethanolamine at 0.2 mg-drug/mg-lipid. A
+complex between doxorubicin and copper was created to enhance the
+circulation and stability of TSL and to reduce systemic toxicity. On day
+21, mice with bilateral invasive neu deletion (NDL) tumors (~4 mm) were
+treated with i.v. administration of CuDox-TSL at 6 mg doxorubicin/kg body
+weight. Ultrasound (US) hyperthermia (1.1 MPa, 1.5 MHz, achieving 42°C
+for 5 min before and 20 min after drug injection) triggered drug release.
+Immediately after US, 100 µg of CpG-ODN 1826 was administered
+intratumorally to the insonified tumor; anti-PD-1 (200 µg, i.p.) was
+administrated three days later. Flow cytometry and immunohistochemistry
+were performed on day 28 after one treatment with each component and
+survival was assessed after treatment was repeated for three weeks.
+
+While control mice survived 35 days, 50% of treated mice were tumor-free
+after 100 days. All primary tumors and 50% of the contralateral tumors
+regressed and were eliminated by day 63. With the incorporation of
+immunotherapy, three doses of chemotherapy were sufficient to eliminate
+all directly treated tumors, as compared with 8 doses without
+immunotherapy. After a single treatment with each component, a
+substantial change was observed in systemic immune cells, including a
+significant increase in natural killer and dendritic cells in distant
+lymph nodes, in CD8+ T cells in tumors and associated lymph nodes and in
+IFNɣ-secreting CD4+ T cells in the treated tumor and distant lymph
+nodes. The results demonstrate that activatable chemotherapy can be
+paired with an immune adjuvant and PD-1 blockade to generate a curative
+response in primary and distant tumors. Further, local chemotherapy, as
+potentiated by activatable liposomes does not impede a systemic CD8+ T
+cell response.
+
+[1] Journal of Controlled Release (2015); 220: 253-264.
+
+

@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Benchmarking algorithms for mutation impact prediction using
+functionally validated missense mutations
+
+
+Background: Massively parallel sequencing studies have demonstrated that
+there are few highly recurrently mutated genes in tumors and that there
+are vast numbers of mutations found in a minority of cancers from a given
+anatomical site. Numerous bioinformatics tools to predict the effect of a
+given amino acid substitution on protein function are available, and
+there is no consensus as to which prediction algorithms are the most
+appropriate for the identification of driver mutations. Here we sought to
+compare the performance, as standalone or in combination, of nine
+algorithms predictive of the impact of a mutation on protein function,
+when challenged against mutations whose pathogenic role is supported or
+refuted by in vitro or in vivo experiments, or have been shown to be
+pathogenic in the context of familial cancer syndromes.Methods: We mined
+the literature and databases and compiled known mutations for six
+oncogenes (BRAF, KIT, PIK3CA, KRAS, EGFR, ERRB2) and three tumor
+suppressors (TP53, BRCA1, BRCA2). We applied Boolean logic to identify
+experimental and clinical evidence of functional effects for each
+mutation. A total of 3072 missense mutations were subjected to analysis
+using nine mutation impact predictor algorithms, namely CHASM
+lung/breast/melanoma, FATHMM cancer/missense, Mutation Assessor,
+MutationTaster, PolyPhen-2, Condel, Provean, VEST and SIFT. Sensitivity,
+specificity, positive predictive value (PPV) and negative predictive
+value (NPV) were calculated and the agreement between predictors
+evaluated. Furthermore, predictions made by combinations of algorithms
+were assessed.Results: The PPV of all predictors was relatively high
+(median 0.941, range 0.909-0.989). Their sensitivity, specificity and
+NPV, however, varied widely. The median sensitivity was 0.854 (range
+0.632-0.987), with the best performers being FATHMM cancer, CHASM lung
+and melanoma. The median specificity was 0.667 (range 0.482-0.939), with
+CHASM breast performing best. Inter-predictor agreement was only
+fair-to-moderate for most pair-wise comparisons (kappa scores ranging
+from 0.187 to 0.826). Finally, 358/4653 combinations performed better
+than each of the algorithms tested alone; 163/358 displayed higher NPVs
+and 131/358 improved sensitivity than the highest single algorithm's NPV
+and sensitivity, i.e. FATHMM cancer. The combination CHASM/FATHMM
+cancer/MutationTaster showed excellent performance, with sensitivity,
+specificity, PPV and NPV of 0.988, 0.824, 0.974 and 0.913,
+respectively.Conclusions: Our results revealed discrepancies in
+performance of mutation impact predictors. No algorithm, on its own, was
+able to distinguish accurately driver from passenger events. Combining
+algorithms that provide orthogonal information likely results in
+substantial improvements in the functional predictions.
+

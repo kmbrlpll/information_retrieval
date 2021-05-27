@@ -1,0 +1,71 @@
+Meeting: 2017 AACR Annual Meeting
+Title: ARID1A and ARID1B dependent proteomics.
+
+
+Protein sub-units of the SWI/SNF nucleosome and chromatin remodeling
+complexes are frequently mutated in cancer. The ARID1A and ARID1B DNA
+interacting component are among these mutated proteins. Alterations in
+ARID1A have been reported in breast, colon, lung, kidney, pancreatic,
+bladder, cervical, ovarian and uterine cancers whereas ARID1B mutation is
+less common. Additional data suggests ARID1A mutant cancers are dependent
+on functional ARID1B and that targeting ARID1B may be a therapeutic
+strategy. However, ARID1A and 1B are often co-inactivated in aggressive
+un/dedifferentiated carcinomas of the ovary and endometrium suggesting
+tumor suppressive functions might exist not only in ARID1A but also in
+1B. In this study, we examined the effects of restoring ARID1A or 1B in
+an undifferentiated endometrial adenocarcinoma cell line harboring
+inactivating mutations in both genes. ACI-98 cells derived from a stage
+IV undifferentiated endometrial cancer were found to lack expression of
+ARID1A and 1B protein. We subsequently identified two individual
+truncating mutations in ARID1A and 1B by genomic DNA and cDNA sequencing
+indicating no wild-type message was expressed. Restoration of ARID1A in
+ACI-98 cells using a Tet-on system revealed remarkable growth inhibition,
+however, ARID1B restoration showed only a moderate cell growth inhibition
+with cells taking on a flattened phenotype. Clones of ARID1A/1B restored
+cells were treated w/wo doxycycline (Dox) for 48h a time point prior to
+cell death or morphologic changes and protein changes catalogued using LC
+MS/MS. We identified 771 and 1168 differentially expressed proteins
+(z-score Protein sub-units of the SWI/SNF nucleosome and chromatin
+remodeling complexes are frequently mutated in cancer. The ARID1A and
+ARID1B DNA interacting component are among these mutated proteins.
+Alterations in ARID1A have been reported in breast, colon, lung, kidney,
+pancreatic, bladder, cervical, ovarian and uterine cancers whereas ARID1B
+mutation is less common. Additional data suggests ARID1A mutant cancers
+are dependent on functional ARID1B and that targeting ARID1B may be a
+therapeutic strategy. However, ARID1A and 1B are often co-inactivated in
+aggressive un/dedifferentiated carcinomas of the ovary and endometrium
+suggesting tumor suppressive functions might exist not only in ARID1A but
+also in 1B. In this study, we examined the effects of restoring ARID1A or
+1B in an undifferentiated endometrial adenocarcinoma cell line harboring
+inactivating mutations in both genes. ACI-98 cells derived from a stage
+IV undifferentiated endometrial cancer were found to lack expression of
+ARID1A and 1B protein. We subsequently identified two individual
+truncating mutations in ARID1A and 1B by genomic DNA and cDNA sequencing
+indicating no wild-type message was expressed. Restoration of ARID1A in
+ACI-98 cells using a Tet-on system revealed remarkable growth inhibition,
+however, ARID1B restoration showed only a moderate cell growth inhibition
+with cells taking on a flattened phenotype. Clones of ARID1A/1B restored
+cells were treated w/wo doxycycline (Dox) for 48h a time point prior to
+cell death or morphologic changes and protein changes catalogued using LC
+MS/MS. We identified 771 and 1168 differentially expressed proteins
+(z-score <0.05) from ARID1A or 1B restored clones compared to dox free
+control and 138 proteins were common in these two groups (up-regulated:
+57, down-regulated: 37, reverse regulation between ARID1A and 1B: 44). We
+performed pathway analysis of the ARID1A and 1B proteome by Advaita
+Pathway Guide software and this analysis identified 10 significantly
+impacted pathways in ARID1A and 17 pathways in ARID1B. However, there was
+no common pathway between the two. Wnt signaling pathway (KEGG: 04310)
+was among ARID1A distinguished pathways with 9 of 46 proteins being
+differentially expressed. Among these NKD1 a negative regulator of the
+Wnt-β-catenin-Tcf signaling pathway was increased in ARID1A restored
+cells more than 10 fold. We confirmed the differential expression of NKD1
+using qRT-PCR following ARID1A expression. The p53 signaling pathway
+(KEGG: 04916) was significantly (11 of 34 proteins) affected following
+ARID1B complementation. We confirmed the differential expression of FAS
+was up-regulated 6 fold in proteomics and 3.4 fold in qPCR. These results
+suggest that restoration of ARID1A or 1B both effect cell proliferation
+to varying degree. The lack of overlap between the proteomes of ARID1A/1B
+restored cells indicates distinct pathways underlying these induced
+phenotypes and different function of SWI/SNFARID1A or SWI/SNFARID1B.
+
+

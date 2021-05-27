@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genome-wide analysis of the antisense transcriptome in cancer.
+
+
+Natural antisense transcripts (NATs) are the most abundant class of long
+noncoding RNAs (lncRNAs). Importantly, NATs are one of the most unknown
+ncRNAs. However, due to their highly gene locus-specific effects, NATs
+may provide a unique entry point for therapeutic intervention in targeted
+gene regulation. For this reason we are interested in studying the
+regulation of sense/antisense transcription in cancer related locus. In
+our previous work we found that, at the important cancer-related locus
+vimentin (VIM) there is a previously uncharacterized antisense transcript
+(VIM-AS1), which is transcribed head-to-head with VIM gene. This
+antisense transcript enhances R loop formation; it allows the binding of
+transcription factors as NF-kB, low nucleosome occupancy and the
+transcription of VIM gene. Our results are the first example of R loop
+mediated enhancement of gene expression involving head-to-head antisense
+transcription at cancer related locus. We also observed that in colon and
+breast cancer there was a positive expression correlation between VIM and
+VIM-AS1 and we have observed that hypermethylation silences both
+transcripts in colon primary tumors. In the present work we have seen
+that this positive correlation between sense and antisense transcripts is
+present in most of the tumor types from patients that we have obtained
+from Genomic Data Commons Data Portal (GDC Portal). Importantly this
+positive correlation correlates better in the cases in which the
+antisense transcript is downregulated or maintains the expression than in
+tumors where VIM and VIM-AS1 are up-regulated. Furthermore, we wanted to
+see if the cellular function is also coordinated. VIM is a component of
+the intermediate filament family of proteins that has an important role
+in epithelial mesenchymal transition. We found that specific depletion of
+VIM-AS1 results in a decrease of VIM expression, and now we have found
+that this depletion produces low migration rate and more invasion
+capability, as expected. On the other hand, the mechanisms used by
+antisense transcripts to regulate their corresponding sense mRNAs are not
+fully understood and in view of these results we are investigating from a
+genome-wide perspective the regulation of sense/antisense transcription,
+the involvement of R loop structures and DNA methylation in cancer. For
+this, we have applied a number of techniques: RNAseq strand specific,
+Illumina’s HumanMethylation450 Bead Chip array, RNAseq strand specific
+with overexpression of RNaseH (which specifically degrades the RNA in
+RNA/DNA hybrids), and DRIPseq (which immunoprecipitates the hybrids
+DNA-RNAs). The analysis of these data sheds light on the study of the
+role of sense/antisense transcripts in cancer-related locus.
+
+

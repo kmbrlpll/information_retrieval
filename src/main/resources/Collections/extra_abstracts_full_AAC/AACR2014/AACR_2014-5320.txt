@@ -1,0 +1,55 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Novel computational methods reveal subtle clonal mosaicism
+
+
+Recent genome-wide surveys have revealed age-related genetic mosaicism
+and established a link between clonal mosaicism and risk of hematological
+and solid-tumor cancers (Laurie et al, 2012, Nat Genet, 44:642; Jacobs et
+al, 2012, Nat Genet, 44:651; Forsberg et al, 2012, AJHG, 90:217).
+Existing methods to identify chromosomal aberrations leading to mosaic
+allelic imbalance (AI) rely on the detection of increased variance of the
+estimated within-sample allele frequencies at heterozygous loci, ignoring
+the dependence among allele frequencies in regions of an AI-inducing
+event, such as a deletion or copy-neutral loss of heterozygosity (LOH),
+expected from the loss or gain of a chunk of an inherited chromosome. As
+a result, they break down when the proportion of DNA from an aberrant
+source is below 10-15%. Here we present a suite of new methods (hapLOH,
+J-LOH, hapLOHseq) that harness the important information contained in the
+germline haplotypes to help distinguish signal from noise, accommodate
+multiple samples of different tumor purities (to deconvolute aberration
+type and tumor purity) and infer co-occurrence of aberrations in
+heterogeneous mixtures. For example, our initial method, hapLOH
+(Vattathil & Scheet, 2013, Gen Res 23:152), can identify 10 Mb regions
+with just 4% of the signal coming from the tumor genome in data simulated
+from a series of experiments from a 317K SNP microarray. Application of
+hapLOH to data analyzed by Laurie et al (2012) indicates that we have
+substantially greater sensitivity to detect clonal mosaicism,
+particularly events harbored in a small proportion of cells (Recent
+genome-wide surveys have revealed age-related genetic mosaicism and
+established a link between clonal mosaicism and risk of hematological and
+solid-tumor cancers (Laurie et al, 2012, Nat Genet, 44:642; Jacobs et al,
+2012, Nat Genet, 44:651; Forsberg et al, 2012, AJHG, 90:217). Existing
+methods to identify chromosomal aberrations leading to mosaic allelic
+imbalance (AI) rely on the detection of increased variance of the
+estimated within-sample allele frequencies at heterozygous loci, ignoring
+the dependence among allele frequencies in regions of an AI-inducing
+event, such as a deletion or copy-neutral loss of heterozygosity (LOH),
+expected from the loss or gain of a chunk of an inherited chromosome. As
+a result, they break down when the proportion of DNA from an aberrant
+source is below 10-15%. Here we present a suite of new methods (hapLOH,
+J-LOH, hapLOHseq) that harness the important information contained in the
+germline haplotypes to help distinguish signal from noise, accommodate
+multiple samples of different tumor purities (to deconvolute aberration
+type and tumor purity) and infer co-occurrence of aberrations in
+heterogeneous mixtures. For example, our initial method, hapLOH
+(Vattathil & Scheet, 2013, Gen Res 23:152), can identify 10 Mb regions
+with just 4% of the signal coming from the tumor genome in data simulated
+from a series of experiments from a 317K SNP microarray. Application of
+hapLOH to data analyzed by Laurie et al (2012) indicates that we have
+substantially greater sensitivity to detect clonal mosaicism,
+particularly events harbored in a small proportion of cells (< 5-10%). We
+identify more than twice as many mosaic events, demonstrating the
+potential role for our methods to aid in profiling cancer risk. Our suite
+of tools is designed for both microarray and next-generation sequencing
+data and is available at scheet.org.
+

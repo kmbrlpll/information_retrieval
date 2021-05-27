@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Genome and proteomewide analyses of HOXB13 and the G84E variant
+associated with prostate cancer
+
+
+HOXB13 is a prostate-specific transcription factor that plays a critical
+role in the development of the prostate. Recently, our group, in
+collaboration with Dr. Kathleen Cooney's group at the University of
+Michigan, discovered germline mutations in HOXB13 in families with
+hereditary prostate cancer. Among the HOXB13 mutations, the G84E variant
+has been shown in multiple independent studies to recur at an elevated
+frequency in prostate cancer patients. To gain molecular insights into
+prostate cancer development, it is crucial to investigate the mechanism
+behind HOXB13 G84E's association with prostate cancer. Our previous study
+demonstrated that HOXB13 G84E alone or with AR cannot transform prostate
+cells and that the G84E variant does not differ from wild type in
+cellular localization, interaction with cofactors (AR, MEIS2) and protein
+stability. To further search for G84E-induced alterations that link G84E
+to prostate cancer predisposition, we performed ChIP-seq analysis to
+study the genome-wide occupancy of HOXB13 WT and G84E in LAPC4, a
+prostate cell line derived from an AR-positive lymph node metastasis. The
+predominant DNA consensus sequence for both HOXB13 WT and G84E identified
+by the ChIP-seq data (TTTTAT) was in congruence with the literature,
+signifying the validity of the dataset. The enrichments for binding sites
+with a range of fold enrichment scores were validated using ChIP-qPCR to
+further assess the quality of the dataset. Many enriched sites were in
+proximity to genes with functional relevance to prostate cancer (SMYD2,
+HOXA7, PMEPA1, MAP3K5, SHH, etc.). Sites that were uniquely bound by
+either HOXB13 WT or G84E were absent, although currently it is unknown
+whether some sites are more strongly bound by WT or G84E. Next, to
+examine genes that are regulated directly by HOXB13 binding, we crossed
+our ChIP-seq dataset with an LAPC4 HOXB13 knockdown microarray dataset
+obtained from Dr. Donald McDonnell's lab at Duke University. Among 70
+genes whose expression changed by at least 2.6-fold with HOXB13
+knockdown, 45 genes had adjacent binding sites for HOXB13 WT and G84E.
+Pathway analysis of the 45 genes using g:Profiler suggested that they are
+involved in the MAPK cascade. Given the apparent lack of G84E-unique
+binding sites, we questioned whether changes in the protein interactome
+might affect the function of HOXB13. To this end, we performed mass
+spectrometry on proteins co-immunoprecipitated with HOXB13 WT or G84E.
+The experiment identified fatty acid synthase as a binding partner of
+HOXB13 WT but not G84E. Although our genome- and proteome-wide analyses
+of HOXB13 WT and G84E need further validation, our preliminary data
+suggests the possibility of identifying the potential source of
+quantitative and qualitative difference caused by the G84E mutation by
+studying gene-protein and protein-protein interaction on a global-scale.
+

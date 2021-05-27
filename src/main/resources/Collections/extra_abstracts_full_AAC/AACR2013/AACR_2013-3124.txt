@@ -1,0 +1,73 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of transcription factors critical for the growth of
+basal-like breast cancer.
+
+
+Background: Intrinsic differences in gene expression between basal-like
+breast cancer (BLBC) and other breast cancer subtypes imply that
+transcriptional regulators are differentially activated in breast cancer
+subtypes and may be promising therapeutic targets. We hypothesized that
+genomic comparisons between BLBC and non-BLBC will identify transcription
+factors (TFs) critical for BLBC growth. We identified TFs using an
+integrative analysis comparing mRNA expression, frequency of TF response
+elements in differentially expressed genes, and DNA-binding activity of
+nuclear proteins in BLBC and non-BLBC. We then tested whether inhibition
+of these specific TFs suppresses the growth of BLBC.Methods: We compared
+mRNA expression of 702 TFs in TNBC tumors compared to non-TNBC samples
+across 15 breast tumor datasets in Oncomine and identified TFs with a
+combined p-value Background: Intrinsic differences in gene expression
+between basal-like breast cancer (BLBC) and other breast cancer subtypes
+imply that transcriptional regulators are differentially activated in
+breast cancer subtypes and may be promising therapeutic targets. We
+hypothesized that genomic comparisons between BLBC and non-BLBC will
+identify transcription factors (TFs) critical for BLBC growth. We
+identified TFs using an integrative analysis comparing mRNA expression,
+frequency of TF response elements in differentially expressed genes, and
+DNA-binding activity of nuclear proteins in BLBC and non-BLBC. We then
+tested whether inhibition of these specific TFs suppresses the growth of
+BLBC.Methods: We compared mRNA expression of 702 TFs in TNBC tumors
+compared to non-TNBC samples across 15 breast tumor datasets in Oncomine
+and identified TFs with a combined p-value <0.05 and higher expression in
+TNBC.We used the online tool, CORE_TF, to identify TF response elements
+occurring more frequently within promoters (-1kb through first exon) of
+117 genes significantly more highly expressed in BLBC tumors compared to
+non-BLBC samples (pBackground: Intrinsic differences in gene expression
+between basal-like breast cancer (BLBC) and other breast cancer subtypes
+imply that transcriptional regulators are differentially activated in
+breast cancer subtypes and may be promising therapeutic targets. We
+hypothesized that genomic comparisons between BLBC and non-BLBC will
+identify transcription factors (TFs) critical for BLBC growth. We
+identified TFs using an integrative analysis comparing mRNA expression,
+frequency of TF response elements in differentially expressed genes, and
+DNA-binding activity of nuclear proteins in BLBC and non-BLBC. We then
+tested whether inhibition of these specific TFs suppresses the growth of
+BLBC.Methods: We compared mRNA expression of 702 TFs in TNBC tumors
+compared to non-TNBC samples across 15 breast tumor datasets in Oncomine
+and identified TFs with a combined p-value <0.05 and higher expression in
+TNBC.We used the online tool, CORE_TF, to identify TF response elements
+occurring more frequently within promoters (-1kb through first exon) of
+117 genes significantly more highly expressed in BLBC tumors compared to
+non-BLBC samples (p<0.01 in 3 independent datasets) as compared to 1500
+non-BLBC genes, with a p-value 1.2 and p 1.2 and p <0.05 in BLBC compared
+to non-BLBC nuclear lysates were identified.BLBC and non-BLBC cells
+transfected with control or specific siRNAs to each TF identified in at
+least 2/3 of the assays were grown in quadruplicate and cell counts at
+day 6 were compared.Results: mRNA analysis identified 132 TFs
+significantly more highly expressed in TNBC compared to non-TNBC.
+Analysis of TF response elements identified 94 motifs seen more
+frequently in genes more highly expressed in BLBC. Analysis of
+protein-bound DNA motifs identified 11 motifs significantly more highly
+bound using BLBC protein than non-BLBC protein. Integrative analysis of
+these results identified two TFs that were detected in all three
+analyses: STAT1 and PPAR, an additional 26 TFs identified in both mRNA
+expression and DNA element analyses, and 5 identified in the RNA
+expression and DNA-binding protein analyses. siRNA knockdown of the
+identified TFs showed that several of the TFs are critical for BLBC
+growth.Conclusions: This study identified TFs with differential
+expression and activity in BLBC and non-BLBC using an integrative
+analysis of RNA, DNA and proteins. Inhibition of specific TFs
+demonstrates that several of these TFs are critical for the growth of
+BLBC. Further investigation of the TFs identified in this study will
+improve our understanding BLBC and will identify novel targets for the
+treatment and prevention of BLBC.
+

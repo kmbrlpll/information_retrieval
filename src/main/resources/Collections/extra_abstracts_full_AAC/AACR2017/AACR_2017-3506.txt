@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: ncRNA regulation of eribulin response in neuroblastoma.
+
+
+Introduction: Neuroblastoma (NB) is the most common cancer in infants and
+the most common extracranial solid tumor in children, accounting for 15%
+of all childhood cancer deaths. The overall prognosis for those with
+high-risk or relapsed disease remains poor despite the standard therapies
+of surgery, radiation, and high dose chemotherapy. We have previously
+shown that altering levels of specific microRNAs (miRNAs) can improve
+cellular response to microtubule-targeting agents (MTAs) and that
+exposure to MTAs results in dramatic changes in microRNA expression.
+
+Methods: Libraries of chemically synthesized ncRNA mimics and inhibitors,
+including both miRNAs and lncRNAs, are screened to identify ncRNAs that
+regulate neuroblastoma cell viability or sensitize neuroblastoma cells to
+specific microtubule-targeting agents. Candidate targets are validated
+using qRT-PCR, protein quantification, and luciferase reporter assays.
+The response of neuroblastoma cells to perturbations in candidate ncRNA
+levels is assessed through flow cytometric analysis of cell cycle phase
+distribution, density and anisotropy of microtubule bundles, and through
+colony formation and caspase activation assays, and validated in mouse
+xenograft models. Networks of miRNAs, mRNAs and lncRNAs are derived from
+combining complementary cellular response with potential regulatory
+interactions.
+
+Results: We previously reported the identification of miRNAs and lncRNAs
+that significantly decrease or increase neuroblastoma cell viability.
+Here, we extend those observations to drug response. We first demonstrate
+that the microtubule-targeting agent eribulin has both short-term and
+long-term effects, as reflected by a significant alteration in
+microtubule structure in response to high doses for short times and
+arrest at the G(2)/M phase of the cell cycle in response to low doses for
+long times. We next show that altering intracellular levels of ncRNAs
+that sensitize cells to eribulin both alters microtubule density and
+anisotropy and recapitulates the effect of eribulin treatment. Finally,
+we show that complementarity of effect between miRNAs and lncRNAs is
+accompanied by potential regulatory interaction.
+
+Conclusions: Taken together, our results suggest that the response of
+neuroblastoma cells to eribulin is mediated by a regulatory network that
+includes different coding and non-coding RNA species. While these RNAs
+may have intrinsic value as biomarkers or therapeutic agents, either
+individually or in combination, the vulnerabilities that they uncover may
+be exploited with pathway-specific perturbations.
+
+This project was supported by NIH R01 CA129632 and CPRIT Training Grant
+RP140105.
+
+

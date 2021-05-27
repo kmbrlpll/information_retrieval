@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Isolation of circulating tumor cells (CTCs) from breast cancer
+patients in EpCAM independent manner using parallel multi-orifice flow
+fractionation (p-MOFF).
+
+
+It is generally accepted that circulating tumor cells (CTCs) in the
+peripheral blood of cancer patients are highly correlated with the
+"invasive behaviors" of a proportion of cancer cells. Therefore the
+precise measurement or isolation of CTCs can serve as a powerful tool for
+cancer prognosis, diagnosis of minimal residual disease, assessment of
+tumor sensitivity to anticancer drugs, and personalization of anticancer
+therapy.In a previous study, we introduced a novel hydrodynamic method
+for size-based particle separation multi-orifice flow fractionation
+(MOFF), in which the animal cellis moved laterally according to their
+size due to hydrodynamic inertial force. This technique is advantageous
+for CTC separation because of its simple experimental set up and high
+operational flow rate (100-300 L/min). However, it has a limitation that
+the blood sample should be diluted over 400 times to make a suitable
+inter-particle distance in the channel. Therefore, we designed the
+parallel MOFF chip (p-MOFF) which is connected by four single MOFF
+channel to isolate CTC from cancer patient blood. Using breast cancer
+cell line, we separated 93.75% of MCF-7 cells and 91.60 % of MDA_MB_231
+cells, and eliminate 90.8 % of WBCs from individual experiment at 600
+L/min inlet flow rate and 240 L/min outlet flow rate.Based on these
+results, we have attempted to isolate CTCs from whole blood (7.5ml) of
+the breast cancer patients under the same conditions. After processing of
+blood from metastatic breast cancer patients on the p-MOFF device, cells
+were fixed on a slide glass and stained with DAPI for DNA content, PE
+conjugated pan-Cytokeratin for CTC, and APC conjugated CD45 for WBC.
+Following imaging the slide glass, captured images were examined
+carefully with predefined criteria. Cell size and shape were also
+considered in cell characterization. We found the CTCs which are positive
+for DAPI, negative for CD45 and positive for Cytokeratin. When the blood
+samples of 24 breast cancer patients were subjected to our device, 1 to
+21 CTCs were identified in 19 patients.Subsequently, we have conducted
+the multi-parameter analysis to investigate the EpCAM expression level of
+CTCs. The blood samples of 24 metastatic breast cancer patients were
+analyzed. With our device, 17 patients had at least one CTC in 7.5 ml of
+blood. Among them, when we stained the cells using multi-parameter (DAPI
+for DNA content, phycoerythrin conjugated pan-Cytokeratin for CTC, APC
+conjugated EpCAM for EpCAM positive CTC, and FITC conjugated CD45 for
+WBC), we observed that the 47.1% of patients had both of EpCAM positive
+and negative CTCs simultaneously. So,the most advantageous feature is
+that p-MOFF is able to detect heterogeneous CTCs because the method is
+based on label-free and hydrophoresis
+

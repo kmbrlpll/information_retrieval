@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identification of novel candidate genes associated with sorafenib
+cytotoxicity
+
+
+Background: Sorafenib is an oral multikinase inhibitor that decreases
+tumor angiogenesis and proliferation. The antitumor efficacy and toxicity
+profiles of sorafenib vary among patients. Novel pathways and targets of
+sorafenib activity remain to be identified, and no predictive biomarkers
+of sorafenib activity exist to help guide clinicians. We aimed to
+identify novel genes associated with sorafenib activity by using an in
+vitro methodology based upon mouse genomics.Methods: We profiled primary
+mouse embryonic fibroblasts (MEFs) from 32 inbred strains for sorafenib
+cytotoxicity utilizing high content imaging and simultaneous evaluation
+of cell health parameters. The 32 strains were genomically characterized
+previously (PMID: 21623374). MEFs were treated with ten concentrations
+(0-300 M) of sorafenib, incubated for 72 h, and then fixed and stained.
+Cytochrome C was immunolabeled in the fixed cells and imaged using an
+automated fluorescence microscope. An image analysis software assessed
+sorafenib-induced cytochrome C release from mitochondria. Dose response
+curves were generated from data, and EC50 values for each strain were
+identified using a Brain-Cousens model. Genome-wide association mapping,
+using the EMMA algorithm, was performed on cytochrome C EC50 values to
+identify quantitative trait loci (QTLs) associated with sorafenib
+cytotoxicity. Approximately 277,000 single nucleotide polymorphisms were
+tested, and genomic loci with p-values 1.0107 were selected for
+additional analyses.Results: Interstrain EC50 variability among the 32
+MEF strains was observed after 72 h (17.2-44.5 M) sorafenib incubations.
+We identified one peak (chromosome 9 from 51-52 Mb; p = 1.0108), which
+reached genome-wide significance and significantly associated with
+cytochrome C release. From this peak, we have identified candidate genes
+that may underlie variability in sorafenib-induced cytochrome C release
+from mitochondria. A total of nine genes expressed in MEF cells at mRNA
+level are present in this QTL. Of particular interest, the identified
+locus contains Rdx, a gene that encodes radixin. Radixin is a component
+of the ezrin-radixin-moesin-binding phosphoprotein-50 (EBP50) complex,
+and is conserved between humans and mice. In humans, radixin, as part of
+the EBP50 complex, has been shown to act as a tumor suppressor and to
+promote apoptosis in hepatocellular carcinoma by modulating
+-catenin/E-cadherin (PMID: 23483729). It has also been shown to
+potentially enhance the metastatic potential of renal cell carcinoma
+(PMID: 20395446).Conclusions: Our high-throughput cellular genetics
+approach has detected robust interstrain cellular differences in
+sorafenib activity, and identified one region, which reached genome-wide
+significance, that potentially associates with sorafenib-induced
+cytochrome C release from mitochondria. Functional validation of Rdx and
+other promising candidates is currently ongoing.
+

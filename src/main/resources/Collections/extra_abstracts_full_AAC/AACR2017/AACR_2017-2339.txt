@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Downregulation of cell cycle genes in HNSCC by erufosine.
+
+
+Head and neck cancer ranks amongst the sixth most prevalent cancers
+worldwide and oral squamous cell carcinomas (OSCC) constitute 90%
+thereof. Erufosine is an ether-lipid-derived synthetic compound belonging
+to alkylphosphocholines (APCs), which has been shown to inhibit the
+proliferation of OSCC cells. It simultaneously induces apoptosis and
+autophagy by modulating the Akt-mTOR signaling pathway, however, its
+exact mechanism of action is not fully understood. Here, we describe the
+activity of erufosine on the expression of cell cycle related genes in
+OSCC cells.
+
+The anti-proliferative effect of erufosine in cells of two human OSCC
+cell lines, HN-5 and SCC-61, was determined by MTT assay after 24h, 48h
+and 72h exposure. Based on these results, HN-5 cells were exposed to
+erufosine at concentrations corresponding to IC25, IC50 and IC75
+concentrations, and then their mRNA was isolated and analyzed by Illumina
+Chip array. Gene expression modulation was confirmed qRT-PCR and Western
+blot. Gene set enrichment analysis was performed to identify core KEGG
+(Kyoto Encyclopedia of Genes and Genomes) pathways and GO (Gene Ontology)
+terms. In addition, erufosine’s effect on cell cycle distribution and
+colony formation was determined as well as its antineoplastic effect on
+respective xenografts in nude mice.
+
+As shown from TCGA data, cell cycle deregulation in HNSCC ranks amongst
+the top three out of 24 different types of cancers. In line with this,
+the median expression of cell cycle genes was higher than that of other
+genes within HNSCC. We also looked at the median gene expression of all
+CDKs and cyclins in 519 HNSCC patient samples from TCGA and found that
+the expression levels were higher than the global gene expression. This
+was in agreement with IHC staining of CCND1 in tumors from 30 South East
+Asian HNSCC patients. Furthermore, increased CCND1 and CDK6 expression
+levels from TCGA data had negative implication on patient survival. In
+our experimental results erufosine caused a dose dependent growth
+inhibition of OSCC cell lines and negative enrichment of genes related to
+
+the cell cycle process. Our microarray findings revealed that cyclins and
+CDKs were downregulated in a dose dependent manner in response to
+erufosine exposure. These findings were verified at both, mRNA and
+protein levels. Erufosine not only caused a massive G2M block but also
+inhibition of colony formation thus preparing the OSCC cells to undergo
+apoptosis. We are the first to show that erufosine inhibited tumor growth
+in vivo in a HNSCC xenograft model and caused downregulation of cyclinD1,
+CDK4 and CDK6 in lesions of the animals.
+
+These findings collectively show the potential of erufosine to be used as
+a cell cycle inhibitor in HNSCC progression and support the future
+evaluation of erufosine as a therapeutic approach in cancer treatment
+alone, or in combination.
+
+

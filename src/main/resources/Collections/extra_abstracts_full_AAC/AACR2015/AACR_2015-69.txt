@@ -1,0 +1,29 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identification of rare and novel alleles in FFPE tumor samples
+using laser capture microdissection (LCM) and Ampliseq sequencing
+technologies
+
+
+Tumors are becoming recognized as genetically heterogeneous masses of
+cells with different clonal histories. Identifying the mutations present
+in these heterogeneous masses can lead to important insights into the
+future behavior of the tumor and possible intervention mechanisms.
+However, the rarity of pathogenic mutations in small subsets of cells can
+make identification of such alleles difficult. In this study, we
+demonstrate a complete workflow that facilitates the identification of
+rare and novel alleles from FFPE tumor sections. We collected small
+regions with different cellular morphologies from lung tumor samples
+using laser capture microdissection, extracted both DNA and RNA from
+these regions, and characterized mutations present and transcript
+abundances by using Ampliseq targeted sequencing. We show that LCM
+facilitates the detection of alleles that are not detectable in
+macrodissected tissue scrapes. We also show that different regions of a
+tumor have very different patterns of alleles detectable and have a great
+deal of genetic diversity. Finally, we show that RNA expression patterns
+are also clearly different in the different regions. Interestingly,
+dissected regions with similar gross tissue morphologies display
+differences in alleles present and RNA expression patterns. These results
+suggest the best way to analyze mutations present in a tumor is to
+microdissect different subregions of the tumor, and using Ampliseq panels
+to identify the alleles present in those subregions.
+

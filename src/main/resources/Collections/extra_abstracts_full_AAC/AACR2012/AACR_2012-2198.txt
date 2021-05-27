@@ -1,0 +1,35 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A functional ETS/E2F module in cancers expressing ETS fusion genes
+
+
+Ewing's sarcoma (ESFT) is a highly aggressive pediatric cancer
+characterized by the chimeric ETS transcription factor EWS-FLI1 as a
+result of a chromosomal translocation. By whole genome gene expression
+and ChIP-seq analyses we obtained evidence that EWS-FLI1 directly binds
+to 50% of E2F target genes in ESFT. Furthermore, several E2F factors were
+themselves found to be directly regulated by EWS-FLI1. Therefore, we
+studied the functional interaction of EWS-FLI1 with E2F. Ten arbitrarily
+chosen EWS-FLI1/E2F candidate targets including E2F3, RAD51, and ATAD2
+were chosen for an in-depth promoter activity study by luciferase
+reporter gene assays in combination with mutation analysis of
+transcription factor binding motifs. By ChIP-PCR we confirmed direct
+EWS-FLI1 promoter binding, and observed decreased reporter activity for
+all ten studied promoters upon knockdown of EWS-FLI1 by RNAi.
+Furthermore, the study of promoter occupancy by different E2F family
+members revealed that silencing of EWS-FLI1 results in the exchange of
+EWS-FLI1 induced, activating E2F3 by constitutively expressed repressive
+E2F4 on the promoters of there jointly regulated target genes.
+Importantly, testing E2F3 promoter occupancy on wildtype and ETS motif
+mutated promoter constructs in ESFT cell lines revealed that binding of
+E2F3 to its target promoters is dependent on an intact ETS binding site.
+Mutation of the ETS motif resulted in reduced binding of E2F3. These data
+are consistent with a model in which EWS-FLI1 actively recruits an
+activating E2F factor thereby replacing a repressing E2F factor and in
+which EWS-FLI1 binding is essential for E2F binding. Strikingly, the
+functional E2F/ETS transcriptional module detected in ESFT for the
+chimeric ETS factor EWS-FLI1 was found to be also relevant to TMPRSS2-ERG
+expressing prostate cancer cells, but not active in HeLa cells. Supported
+by grants from the Austrian Science Fund (P22328-B09), and the European
+Comission (EU-FP7 STREP 259348). R. Schwentner is a recipient of a
+DOC-fFORTE-fellowship of the Austrian Academy of Sciences.
+

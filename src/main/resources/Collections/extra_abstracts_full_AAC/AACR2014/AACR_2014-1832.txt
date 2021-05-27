@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Combined EGFR and MEK inhibition prevents the emergence of drug
+resistance in EGFR mutant non-small cell lung cancer (NSCLC)
+
+
+Background: EGFR inhibitors are effective clinical therapies for EGFR
+mutant NSCLC, but efficacy is limited by the development of acquired drug
+resistance. The mechanisms of resistance include secondary mutations in
+EGFR (T790M) and activation of compensatory signaling pathways (MET, IGFR
+and AXL). Mutant selective EGFR inhibitors (WZ4002, CO-1686 and AZD9291)
+are effective in preclinical and clinical models of EGFR T790M. Our lab
+has demonstrated that reactivation of ERK signaling is a mechanism of
+resistance to WZ4002 (WZ) which could be reversed or prevented by using a
+combination of WZ and MEK inhibitors. Given the broad array of possible
+EGFR inhibitor resistance mechanisms, we evaluated whether WZ combined
+with the MEK inhibitor trametinib (TRA) can prevent the emergence of
+resistance in vitro and in vivo.Methods and Results: We developed a plate
+based resistance assay in which 350 cells/well are plated in 96 well
+plates and treated weekly. This system allows for evaluation of drug
+efficacy over weeks of treatment and can be used to measure both time to
+development and frequency of drug resistance. Given that ERK reactivation
+can cause resistance to WZ, we evaluated WZ, TRA or the combination
+thereof (WZ/TRA) using PC9 cells. Single agents led to 100% resistance in
+2-3 weeks, versus 5% with WZ/TRA in 24 weeks. We then tested WZ/TRA in 5
+additional EGFR TKI sensitive cell lines, including several known to
+develop acquired resistance to gefitinib (HCC827, MET amplification;
+HCC4006, EMT or FGFR activation; HCC2279; FGFR activation; H3255, T790M;
+HCC2935). In all cases, WZ/TRA significantly reduced the emergence of
+drug resistant clones compared to each single agent. In models with
+established drug resistance mechanisms, WZ/TRA was effective in 3/3
+models with T790M mutations, but not (0/5) in models with established
+non-T790M resistance mechanisms. In models where WZ/TRA was effective,
+the combination led to increased apoptosis compared to single agents and
+effective inhibition of ERK signaling. We also evaluated the
+effectiveness of the WZ/TRA combination in vivo using EGFR L858R/T790M
+genetically engineered mouse model and PC9GR4 (T790M+) xenografts.
+Combination WZ/TRA treatment prevented tumor outgrowth for 24 weeks in 5
+EGFR L858R/T790M GEMM mice whereas individual treatments did not.
+Additionally, we found that WZ/TRA combination treatment, but not single
+agents, could cure 7/15 xenograft tumors as assessed by lack of tumor
+regrowth after treatment cessation.Conclusion: Our studies suggest that
+the combination of a mutant selective EGFR inhibitor and a MEK inhibitor
+can prevent the emergence of both T790M and non-T790M mediated drug
+resistance mechanisms. This strategy is more effective at preventing
+(6/6) than treating (3/8) cancers with established drug resistance
+mechanisms and should be evaluated in clinical trials in EGFR TKI nave
+EGFR mutant NSCLC patients.
+

@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Therapeutic targeting of the mitochondria: An evaluation of the
+transcriptional link between the antioxidant response and autophagy
+
+
+Mitoquinone (MitoQ), a mitochondrially targeted chemotherapy induces
+autophagy via excess reactive oxygen species (ROS) production. Elevations
+in ROS stimulate nuclear factor (erythroid-derived 2)-like 2 (Nrf2) in
+breast cancer cell lines. Nrf2 is a nuclear transcription factor that
+activates the antioxidant response element when under oxidative stress.
+The aim of this study was to evaluate transcriptional and protein changes
+associated with Nrf2 activation to identify potential links between
+oxidative stress, autophagy and cell death. By suppressing Nrf2 and its
+targeted antioxidant enzymes we should induce elevated ROS levels, which
+can thereby alter cellular homeostasis and impact the ultimate fate of
+cancer cells. In the breast cancer cell line MDA-MB-231 RNA was extracted
+after 24 hours of Nrf2 or non-target pool (NTP) silencing and 18 hours of
+MitoQ treatment. RNA was sequenced using an Illumina HiSeq and
+differential expression was analyzed using DESeq in the statistical
+program R. To avoid bias, raw read counts were filtered to remove low
+counts possibly due to constraints of the instrumentation. To validate
+efficient silencing of Nrf2 we confirmed that Nrf2 transcript levels
+decreased and that there were observed reductions in transcripts
+containing the Nrf2 transcriptional promoter, the antioxidant response
+element (ARE) including FTH1, FTL, HMOX1, SRXN1, TXNRD1, NQO1, GCLC,
+GCLM, GSR and SQSTM1. From there we validated RNAseq data with qPCR using
+25 random transcripts and found significant positive correlation between
+the two methods. Comparisons were first made between the MitoQ and DMSO
+treatment by silencing (NTP or Nrf2). 2775 genes were differentially
+expressed (DE) for MitoQ vs DMSO NTP siRNA and 1869 genes were DE for
+MitoQ vs DMSO Nrf2 siRNA both at an |1|. We then compared the degree of
+overlap in DE gene lists between the NTP and Nrf2 siRNA comparisons to
+identify genes affected only by Nrf2 silencing in combination with MitoQ
+treatment. 1405 mRNAs were common between silenced and non-silenced
+sample sets, only 464 mRNAs were due to Nrf2 silencing alone. We are
+currently performing pathway analysis on these transcripts to determine
+the role of Nrf2 silencing with redox-active therapies. We are also
+evaluating autophagic protein levels at later time points, 24 to 48
+hours, to further evaluate the potential signaling between oxidative
+stress and the autophagic response driven by Nrf2.
+

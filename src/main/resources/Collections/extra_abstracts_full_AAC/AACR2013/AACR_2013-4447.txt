@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Generation of an acquired resistance model to the novel AKT
+inhibitor CCT129254.
+
+
+The PI3K/AKT pathway is a key driver of cell growth, proliferation and
+survival, and deregulation at many levels of the pathway is observed in
+numerous cancers. Given the importance of PI3K/AKT signaling in cancer, a
+number of compounds targeting this pathway are currently in clinical
+development. Several AKT-targeted compounds, such as the ATP-competitive
+inhibitor AZD5363 and the allosteric inhibitor MK2206, have entered
+clinical trial. Whilst resistance to AKT inhibition has not yet been well
+defined, the development of acquired resistance has been a major barrier
+to the success of a number of molecularly targeted therapies, such as
+those which target V600E mutant BRAF. Identifying resistance mechanisms
+to AKT inhibition prior to the development of resistance in the clinic
+may assist in selecting patient populations and generating combination
+treatments to overcome resistance, potentially increasing the clinical
+utility of these inhibitors. The aims of this study were therefore to
+generate and characterize cell lines resistant to AKT
+inhibition.CCT129254, a precursor of AZD5363, is a novel ATP-competitive
+AKT inhibitor identified in a drug discovery program at The Institute of
+Cancer Research, London UK, in collaboration with Astex Therapeutics and
+AstraZeneca. CCT129254 is a potent and selective inhibitor of the three
+AKT isoforms (IC50 values between 13 and 66 nM), and treatment of cells
+with CCT129254 reduced phosphorylation of PRAS40, GSK3 and rpS6,
+downstream biomarkers of AKT activity. By exposing PTEN-deficient A2780
+ovarian carcinoma cells to escalating doses of inhibitor, we have
+successfully generated a cell line with acquired resistance to CCT129254
+(A2780 254R). We obtained approximately 4.8-fold resistance to CCT129254
+in A2780 254R cells compared to parental A2780 (GI50: A2780 = 2.9 M;
+A2780 254R = 14 M). Interestingly, testing against a panel of signal
+transduction inhibitors revealed a 10-fold resistance to MK2206 in A2780
+254R cells (GI50: A2780 = 0.30 M; A2780 254R = 3.1 M). Minimal
+cross-resistance was observed to the PI3K inhibitor GDC-0941 (1.9-fold,
+GI50: A2780 = 99 nM; A2780 254R = 185 nM), the mTORC1 inhibitor RAD001
+(1.9-fold, GI50: A2780 = 1.65 nM; A2780 254R = 3.18 nM), and the dual
+PI3K/mTOR inhibitor PI-103 (1.7-fold, GI50: A2780 = 112 nM; A2780 254R =
+188 nM). In addition, we have observed changes in PI3K/AKT pathway
+signaling biomarkers using western blot analysis. We have also utilized
+gene expression microarray analysis and exome sequencing to identify
+candidate genes involved in the resistance phenotype. We are currently
+validating potential resistance mechanisms identified in our candidate
+and global based approaches, and are investigating inhibitor combinations
+to overcome resistance.
+

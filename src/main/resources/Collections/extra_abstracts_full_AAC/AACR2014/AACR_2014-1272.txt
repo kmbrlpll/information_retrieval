@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Alcohol and dietary folate intake and gene promoter methylation in
+clear-cell renal cell cancer
+
+
+Introduction: High intake of alcohol and low intake of folate have been
+associated with gene promoter methylation. Increased promoter methylation
+of tumor suppressor genes plays an important role in renal cell cancer
+(RCC). On the other hand, however, alcohol intake is associated with a
+decreased risk of RCC risk in most prospective studies. We therefore
+investigated whether alcohol and dietary folate intakes were associated
+with gene promoter methylation in RCC.Methods: The Netherlands Cohort
+Study (NLCS) with case-cohort design included 120,852 subjects aged 55-69
+years in 1986. Diet was measured with a food-frequency questionnaire.
+After 20.3 years of follow-up, paraffin-embedded tumor blocks were
+collected from 454 incident RCC cases, of which 80% had clear cell (cc)
+histology. Methylation-specific PCR (MSP) was used to analyze promoter
+CpG island methylation in tumor DNA. Genes were selected that were known
+to be involved in ccRCC. Furthermore, genes were selected exhibiting 1)
+promoter CpG island methylation in ccRCC cell lines and not in normal
+kidney tissue in a genome-wide methylation screen (MBD-affinity massive
+parallel sequencing) and 2) ccRCC-specific down-regulation in the TCGA
+data. In total, we identified 14 genes (CDO1, CFTR, CSPG4, FST, FZD10,
+GAL, GRE1, LAD1, NEFH, NEURL, RASGFR2, SFN, SFRP1, VHL) as candidate
+markers. We computed a sum score of methylated genes and divided the
+ccRCC cases into those with low- (0-18% of the genes methylated),
+intermediate- (20-45%) and high- (46-100%) methylated tumors.
+Multivariable analyses were conducted using Cox regression analyses,
+stratified according to methylation sum score and included 4,439
+subcohort members and 300 ccRCC cases.Results: Prevalence of gene
+promoter methylation was on average 36%, but varied from 7.8% (VHL) to
+96.5% (SFN).Increasing intakes of alcohol were associated with decreased
+risk in all ccRCC cases, but not statistically significant: multivariable
+adjusted HR (95% CI) for 15g alcohol/day vs. 0 g/day 0.79 (0.54-1.16),
+and p for trend 0.44. In strata of ccRCC according to methylation sum
+score no significant heterogeneity was observed, although the HR for 15g
+alcohol/day versus 0 g/day was significantly decreased in ccRCC with a
+high methylation sum score: 0.36 (95% CI 0.14-0.93), p for trend,
+0.14.Dietary intake of folate was not associated with ccRCC risk: HR for
+the quintile of highest intake versus lowest intake: 1.07 (CI, 0.70-1.64)
+and p for trend, 0.59. Between strata of ccRCC cases according to
+methylation sum score no significant heterogeneity was observed. There
+was no effect-modification of alcohol and dietary folate intake on
+overall ccRCC risk, nor in strata according to methylation sum
+score.Conclusion: Our findings show that alcohol and dietary folate
+intake are not associated with ccRCC risk, neither overall nor in strata
+according to methylation sum score.
+

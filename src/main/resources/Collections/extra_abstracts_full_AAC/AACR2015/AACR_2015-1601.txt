@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Clinical performance of the AccuCyte - CyteFinder System, a
+dual-technology platform for comprehensive collection and high resolution
+imaging of circulating tumor cells
+
+
+High numbers of circulating tumor cells (CTC) predict poor prognosis. In
+addition, serial monitoring of CTC numbers may be used to assess response
+to therapy or progressing disease. The AccuCyte - CyteFinder (AC/CF)
+system combines density-based collection of all nucleated blood cells
+with high-resolution digital microscopic imaging, image analysis and
+single-cell retrieval. The AccuCyte kit contains a novel separation tube,
+transfer device, and spreader for simple collection of nucleated cells
+onto microscopic slides compatible with automated immunostaining.
+CyteFinder is a high-resolution fluorescent scanner with image analysis,
+review software and integrated CytePicker module for single-cell
+retrieval. In a blinded study we directly compared the AC/CF platform to
+the CellSearch System (Veridex), the only FDA-cleared CTC platform, which
+relies on magnetic capture of cells that express EpCAM. We first compared
+recovery of model CTCs (mCTCs) using tumor cell lines with high EpCAM
+expression (MCF7 and LNCaP) or low EpCAM expression (PC3 and A549) in
+paired spike-in samples. CTCs were identified by positive cytokeratin and
+nuclear staining and an absence of CD45 staining. AC/CF and CellSearch
+detected similar numbers of mCTCs from high-EpCAM lines (AC/CF average:
+91.5% for MCF7 and 92% for LNCaP; CellSearch average: 87% for MCF7 and
+85% for LNCaP). AC/CF detected more cells from low-EpCAM lines, finding
+an average of 69% more PC3 cells and 57% more A549 cells. These results
+suggest that CellSearch captures low-EpCAM cells inefficiently. We next
+compared the assays using samples from cancer patients. Paired blood
+samples were obtained from patients with metastatic cancer under the
+University of Washington (UW) IRB. Samples were processed by UW using the
+CellSearch assay and the AC/CF assay was performed in parallel by
+RareCyte using AC/CF. RareCyte was blinded to CellSearch counts until
+after AC/CF analysis was performed and documented. On average the AC/CF
+System found 34% more CTCs in 17 prostate cancer patients, 47% more in 15
+breast cancer patients, and 70% more in 8 lung cancer patients. In
+samples where there was more than a 10% difference in CTC count, AC/CF
+detected >60% more cells with these combined indications. Very low EpCAM
+expression was confirmed in CTCs from several of the patients where the
+AC/CF system found greater numbers of cells. These results demonstrate
+that the AC/CF platform is capable of high CTC recoveries in clinical
+samples, outperforming the current FDA-cleared platform, especially when
+CTCs express low levels of EpCAM.
+

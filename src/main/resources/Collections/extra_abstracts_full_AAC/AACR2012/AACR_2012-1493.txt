@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Analysis of fibrosis and stromal components in metastatic
+pancreatic cancer (PC) autopsy specimens
+
+
+Background: PC remains a deadly malignancy with a paucity of effective
+therapeutic options. Recent data generated in a genetically engineered
+mouse model of PC suggests that the notorious chemoresistance of this
+disease is due to dense fibrosis and stromal proliferation that precludes
+effective drug delivery to the cancer cells. However clinical experience
+in patients with metastatic disease suggests that metastatic sites may
+respond differently from the pancreatic primary (PP). Such variability
+could be related to differences in the tumor-stroma relationship between
+the PP and metastatic sites. We used paired specimens from the University
+of Nebraska Medical Center's rapid autopsy program (RAP) to assess
+histologic markers of fibrosis and stromal proliferation between the PP
+and metastatic sites to better characterize these differences. Methods:
+The RAP has been previously described (Stratford et al. PLoS Med 2010).
+We identified 12 matched specimens that included PP tissue in addition to
+metastatic lesions from liver, lung, abdominal cavity, or other sites.
+Slides were stained with hematoxylin and eosin (to assess for % fibrosis)
+and vimentin, CD10, and CD68 (stromal markers) and scored based on
+pathologic review (HMW). Percent fibrosis was a composite measure based
+on stromal components, including collagen, fibroblasts, and inflammatory
+cells. Mixed linear model methods with repeated measures were used to
+determine whether there was a difference in % fibrosis and CD68 between
+patients tumors. Generalized estimating equations were used to determine
+whether there was a difference in vimentin and CD10 between patients
+tumors. Bonferroni adjusted p-value=0.0125 (=0.05 / 4 tests) was used as
+significant alpha level for the tests. Statistical analysis was performed
+using SAS version 9.2 and STATA/SE version 11.2 software. Results:
+Percent fibrosis was statistically different between PP tissue and all
+metastatic sites (p=0.002) with metastatic lesions demonstrating less
+fibrosis than the respective paired PP. There were no statistically
+significant differences in CD10, CD68 or vimentin staining between the PP
+and metastatic sites; however liver metastases did trend towards
+significantly more stromal cellular proliferation, based on CD10,
+vimentin, and CD68 staining, when compared to other metastatic sites.
+Conclusions: There was less stromal deposition and fibrosis in metastatic
+sites versus the PP's that were examined. This difference could play a
+role in the chemosensitivity of the primary tumor compared to metastatic
+sites of disease. Furthermore, the liver appears to have more striking
+stromal cellular proliferation compared to other metastatic sites, which
+could also affect drug penetration and outcome. These differences in the
+tumor-stroma relationship should be further validated and interventions
+evaluated to improve drug delivery to the PP and metastatic sites in PC.
+

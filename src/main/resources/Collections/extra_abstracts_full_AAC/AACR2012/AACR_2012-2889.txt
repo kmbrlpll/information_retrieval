@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Development of a novel nanoconstruct for tumor hypoxia
+photothermal therapy
+
+
+PURPOSE: Hypoxia is a common feature of solid tumors that occurs across a
+wide variety of malignancies and significantly reduces tumor sensitivity
+to radiation and chemotherapy. Carbonic anhydrase IX (CAIX), an
+extracellular protein that is overexpressed in hypoxic zones within many
+human tumors, has emerged as a promising biomarker. To pursue focal
+targeted therapy of tumor hypoxia, we prepared and characterized a novel
+nanoconstruct composed of gold nanorods (GNR), which show superior
+capability to assist tumor photothermal ablation, and anti-CAIX antibody
+(CAIX-Ab), which binds specifically to CAIX. EXPERIMENTS: GNR with aspect
+ratio (length 24 nm to width 8nm) of 3 were conjugated to CAIX-Ab through
+bifunctional polyethylene glycol (PEG). The conjugates were characterized
+by monitoring the absorption peak shift as well as size and zeta
+potential changes for each step of the preparation. The stabilities of
+the GNR, GNR-PEG and GNR/CAIX-Ab were challenged by 1X PBS. The binding
+affinity and specificity of the GNR/CAIX-Ab were evaluated with ELISA
+using CAIX protein and cell adhesion assay using HT29 human colorectal
+cells (overexpresing CAIX) and NIH-3T3 cells (no expressing CAIX,
+control). The photothermal cell ablation was performed on HT29 cells
+treated with medium (control), GNR-PEG (control) and GNR/CAIX-Ab.
+RESULTS: Obvious shifts of the absorption peaks of GNR at the NIR region
+and particle size and surface charge changes suggested the success of the
+conjugation. After challenging by 1XPBS, bare GNR formed aggregations and
+lost the peak at 745 nm while GNR-PEG and GNR/CAIX-Ab remained stable as
+their absorption peaks around 750 nm were preserved. This is an important
+finding suggesting that our conjugated GNR will be stable for in vivo
+work. From the sandwich ELISA study, we obtained a standard linear curve
+of absorbance vs. CAIX-Ab concentration with R2 of 0.997 and linear curve
+of absorbance vs. GNR/CAIX-Ab concentration with R2 of 0.999. And we
+found that the negative control GNR-PEG had no binding to the CAIX
+protein. We calculated the number of CAIX-Ab per GNR to be 1.47 0.2. In
+cell adhesion assay, neither GNR-PEG nor GNR/CAIX-Ab had detectable
+binding to 3T3 cells; but with HT29 cells, GNR-PEG still showed no
+binding while GNR/CAIX-Ab bound specifically and avidly to the cells.
+Photothermal ablation of HT29 cells revealed complete cell death after
+treatment of GNR/CAIX-Ab while the cells remained alive when treated with
+medium or GNR-PEG. CONCLUSION: These findings suggested that GNR/CAIX-Ab
+is a stable and effective nanoconstruct appropriate for focal targeting
+and photothermal ablation of tumor hypoxia. This new photothermal therapy
+has the great potential as an alternative or complementary approach for
+standard cancer treatment to eliminate residual or recurrent tumor cells,
+especially within the hypoxic areas that are resistant to traditional
+therapies.
+

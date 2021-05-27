@@ -1,0 +1,51 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Computerized quantification of synergism or antagonism in
+anticancer drug combination with different mechanisms and/or modes of
+actions.
+
+
+Drug combination is widely used in therapy against the most dreadful
+diseases such as cancer and AIDS. The combination index (CI) theorem
+based on the general median-effect equation (MEE) of the mass-action law
+(MAL) has been broadly used in combination of drug-drug, drug-radiation
+and drug-oncolytic virus, etc. (Chou TC. Pharmacol Rev 58: 621-681, 2006;
+free access: http://pharmrev.aspetjournals.org/cgi/reprint/58/3/621). The
+article introducing the CI concept (Chou TC & Talalay P. Adv Enz Regul
+22: 27-55, 1984) has been cited 2,700 times in 523 biomedical journals
+(Thomson Reuters Web of Science, www.researcherid.com/rid/B-4111-2009).
+Its 3rd generation computer software, CompuSyn (2005), is now available
+for free download beginning on 08/01/2012 (www.combosyn.com). A typical
+drug combination in vitro requires only 16 data points and the experiment
+can be done in 1-2 weeks and the computer simulation in 1-2 seconds after
+data entries. Since the CI algorithm is mathematically derived from the
+physico-chemical principle of MAL, it is mechanism and unit independent,
+and has been applied in vitro, in animals and in clinical trials
+(Pharmacol. Rev. above & Cancer Res. 70: 440-446, 2010). Although in
+vitro & in vivo share the same CI theorem, it should be noted that in
+vivo involve much higher cost, time, effort, and have regulatory and
+legal or ethical implications. With recommended experimental design
+(constant ratio combination), more than two-drug (n-drug) combinations
+can be simulated automatically (e.g., 5 drugs).The CompuSyn Report
+provides PD parameters (Dm and m), the dose-effect curves, the
+median-effect plot (Chou plot), the Fa-CI plot (Chou-Talalay plot),
+Isobologram, Dose-normalized isobologram (Chou-Chou Isobol),
+Dose-reduction index (DRI) plot (Chou-Martin plot), Polygonogram
+(graphics e.g., for 3-7 drugs), and Summary Table. The CI method has the
+following features: (i) The only MAL-based drug combination method
+available in literature; (ii) The only computerized simulation of drug
+combination analysis with derived algorithm;" (iii) Allow small-size
+experimentation with a small number of data points; (iv) Determine
+synergism or antagonism at any dose or any effect levels; (v) Amendable
+for determining the optimal combination ratio or the optimal schedule of
+treatment. The general MEE and its CIE provides efficient, and rigorous
+quantitative approach for econo-green biomedical research over all, and
+improves the cost-effectiveness for new drug R&D as has been illustrated
+in Chou, Integrative Biol. 3: 548-559, 2011 and in Am. J. Cancer Res.
+1(7) 2011 (free access: www.jacr.us).Citation Format: Ting-Chao Chou.
+Computerized quantification of synergism or antagonism in anticancer drug
+combination with different mechanisms and/or modes of actions.
+[abstract]. In: Proceedings of the 104th Annual Meeting of the American
+Association for Cancer Research; 2013 Apr 6-10; Washington, DC.
+Philadelphia (PA): AACR; Cancer Res 2013;73(8 Suppl):Abstract nr 3276.
+doi:10.1158/1538-7445.AM2013-3276
+

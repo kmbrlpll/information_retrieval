@@ -1,0 +1,56 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Polyfunctional anti-CD19 CAR T cells determined by single-cell
+multiplex proteomics associated with clinical activity in patients with
+advanced non-Hodgkin’s lymphoma.
+
+
+Introduction: Autologous anti-CD19 CAR T cells have shown promising
+clinical efficacy in B cell malignancies, with T cell expansion and blood
+levels for IL-15, IL-10 and Granzyme B as correlates of objective
+response and toxicity (Kochenderfer et al. J Clin Oncol 2016;
+34:LBA3010). It is unclear, however, which key immune programs in CAR T
+cells impact their in vivo expansion and clinical outcome. We evaluated
+in detail the functionality of anti-CD19 CAR T cells by using single-cell
+proteomics analysis (Lu et al. PNAS 2015;113:607-615). We explored how
+the polyfunctionality of pre-infusion CAR T cell products,
+post-stimulation with the CD19 antigen in vitro, associated with CAR T
+cell expansion in vivo and objective response.
+
+Methods: Product T cells were separated into CD4+ or CD8+ T cell subsets
+using microbeads. CD4+ or CD8+ fractions were then co-cultured with
+CD19-K562 targets or NGFR-K562 control cells, at a 1:2 ratio for 20 hrs.
+Single cells were then analyzed using a 32-plex panel of secreted
+cytokines, chemokines, and cytotoxic molecules. Specifically, T cells
+were loaded onto a single-cell barcode chip capable of assaying 32
+secreted proteins/cell. The polyfunctional profile and strength (pSI) of
+each sample was determined (Ma et al. Cancer Discov 2013;3:418-429) and
+analyzed relative to in vivo expansion of the CAR T cells and patient
+response to the CAR T cell therapy. CAR T cell expansion in blood was
+measured by quantitative PCR.
+
+Results: Single-cell pSI of patient CAR T cells showed a statistically
+significant association (p = 0.011) with objective response (complete or
+partial response) to the therapy. While product pSI showed variability
+across patients, the median pSI was 2+ times higher for responders versus
+non-responders. The polyfunctional profiles for both CD4+ and CD8+ cells
+were dominated by effector molecules, stimulatory cytokines and
+chemokines. Polyfunctional CD4+ and CD8+ subsets with IFN-γ, IL-8 and/or
+MIP-1α correlated best with patient outcome, with CD8+ T cells showing
+co-expression of Granzyme B, and CD4+ T cells also comprising IL-17A+IL8+
+and IL5+IL8+ subsets. While CAR expansion in vivo also correlated with
+objective response (p = 0.032), the association between product pSI and
+CAR cell expansion in vivo did not reach statistical significance (p =
+0.079), suggesting that they bring independent contributions to
+predicting objective response. In support of that, a composite index
+integrating pSI and CAR T cell expansion in vivo associated best with
+clinical response (p = 0.005).
+
+Conclusion: Polyfunctionality of CAR T cells, in conjunction with their
+expansion in vivo, correlates with clinical outcome in an anti-CD19 CAR T
+cell clinical trial. Single-cell multiplexed proteomics measurements may
+provide powerful insight into the clinical performance of CAR T cell
+products.
+
+[J.R. and P.P. contributed equally to this study.]
+
+

@@ -1,0 +1,39 @@
+Meeting: 2015 AACR Annual Meeting
+Title: PU.1 enrichment to intronic enhancers is required for meis1 gene
+expression in both hematopoiesis and leukemogenesis
+
+
+Hematopoiesis is a tightly regulated process with multiple transcription
+factors (TFs) involved sequentially. Aberrant expression of the lineage
+specific transcription factors may disturb normal differentiation of
+hematopoietic cells and result in leukemia. Myeloid Ectropic viral
+Integration Site 1 (MEIS1), induces and maintains MLL transformation, and
+plays a rate-limiting regulatory role in MLL leukemogenesis. Meis1 gene
+is identified as the downstream targets of PU.1, another important
+hematopoietic transcription factor, which is inversely correlated with
+worse prognosis. Though multiple regulatory elements have been identified
+throughout the Meis1 locus, little is known about how PU.1 plays its role
+on Meis1 gene expression.To gain insight into the transcriptional
+regulatory role of PU.1 during myeloid differentiation, we isolated the
+hematopoietic stem/progenitor cells (HSPC, Lin-kit+CD34+ cells) and
+matured myeloid cells (Lin+Gr1+cells) from bone marrows of C57 mice,
+performed ChIP sequencing assay, and analyzed PU.1 enrichment and histone
+modifications. The ChIP seq data was then confirmed with an induced
+differentiation model of mouse MLL-ENL leukemia cells. In addition to
+DNaseI hypersensitivity, the PU.1 binding elements were also
+characterized with H3K4me1 and H3K27ac modification. We studied the
+transcriptional activation role of one common PU.1 binding elements with
+luciferase assay. Insertion of PU.1 binding elements before the promoter
+increased the luciferase reporter activity, suggesting that the PU.1
+binding region be the enhancer element of Meis1 gene. The association
+between PU.1 enrichment and Meis1 gene expression was studied in further
+with PU.1 knocking down assay in the MLL leukemia cells. Bioinformatics
+analysis results suggest that there were other transcription factors,
+including HOXA9 and MEIS1 itself enriched around the PU.1 binding sites.
+Our results suggest that PU.1 enrichment to the intronic enhancers of
+Meis1 gene is required for the proper expression during hematopoiesis.
+PU.1 together with histone modification and many other TFs, including
+MEIS1 itself, contributed to the hematopoietic expression of Meis1 gene.
+(The work is supported by National Natural Science Foundation of China
+(Grant number 81100380) to Y.L.)
+

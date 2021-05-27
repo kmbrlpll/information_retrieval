@@ -1,0 +1,72 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Differential expression of genes related to autoimmunity and
+metabolism in Stage I NSCLC from patients with COPD
+
+
+Chronic obstructive pulmonary disease increases lung cancer risk 3-fold,
+but individuals with COPD may not qualify for lung cancer screening if
+their age or smoking histories do not meet eligibility criteria. Genomics
+might reveal genes differentially active in lung tumors from COPD
+patients, identifying pathways associated with lung cancer in the COPD
+setting. We used mRNA profiling to identify differences in Stage I
+non-small cell lung cancers (NSCLC) from patients with and without COPD.
+COPD was determined by pre-surgery Pulmonary Function Tests (PFTs); the
+GOLD score was calculated from FEV1 and FVC measurements. Stage I cases
+were chosen to minimize effect of tumor burden on PFTs. After extraction
+of mRNA from frozen tumor specimens (71 adenocarcinoma and 24 squamous
+cell carcinoma), the Illumina HT-12 v4 BeadChip was used to measure mRNA
+expression. All cases passed RNA quality checks, had not received
+neo-adjuvant therapy, and had pre-surgical PFT results. 44% of cases were
+GOLD II-IV (COPD positive) and 56% were GOLD 0-I (COPD negative). In an
+unbiased examination using the limma R package, 5,789 probes showed
+expression above background and variation in expression. These probes
+were compared in COPD positive and negative tumors; no probes were
+significantly different after multiple comparisons adjustment. In an
+examination of KEGG pathways by gene set enrichment analysis (GSEA) using
+a t-test or a linear model that adjusted for age, race, sex and smoking
+status, 31 pathways (17 in squamous cell and 14 in adenocarcinoma) were
+identified that were differentially expressed between COPD positive and
+negative tumors (p value Chronic obstructive pulmonary disease increases
+lung cancer risk 3-fold, but individuals with COPD may not qualify for
+lung cancer screening if their age or smoking histories do not meet
+eligibility criteria. Genomics might reveal genes differentially active
+in lung tumors from COPD patients, identifying pathways associated with
+lung cancer in the COPD setting. We used mRNA profiling to identify
+differences in Stage I non-small cell lung cancers (NSCLC) from patients
+with and without COPD. COPD was determined by pre-surgery Pulmonary
+Function Tests (PFTs); the GOLD score was calculated from FEV1 and FVC
+measurements. Stage I cases were chosen to minimize effect of tumor
+burden on PFTs. After extraction of mRNA from frozen tumor specimens (71
+adenocarcinoma and 24 squamous cell carcinoma), the Illumina HT-12 v4
+BeadChip was used to measure mRNA expression. All cases passed RNA
+quality checks, had not received neo-adjuvant therapy, and had
+pre-surgical PFT results. 44% of cases were GOLD II-IV (COPD positive)
+and 56% were GOLD 0-I (COPD negative). In an unbiased examination using
+the limma R package, 5,789 probes showed expression above background and
+variation in expression. These probes were compared in COPD positive and
+negative tumors; no probes were significantly different after multiple
+comparisons adjustment. In an examination of KEGG pathways by gene set
+enrichment analysis (GSEA) using a t-test or a linear model that adjusted
+for age, race, sex and smoking status, 31 pathways (17 in squamous cell
+and 14 in adenocarcinoma) were identified that were differentially
+expressed between COPD positive and negative tumors (p value < 0.025 in a
+2-tailed test). There was no overlap in significant KEGG Pathways between
+the two histologies. In squamous cell carcinoma, DNA Replication and
+Mismatch Repair were repressed in COPD positive tumors, while many
+Autoimmunity and Infection pathways were activated. In adenocarcinoma,
+COPD positive tumors showed repression of metabolic pathways including
+P450, fatty acid, and pentose metabolism. Ingenuity pathway analysis
+predicted upstream regulators that are reported to control differentially
+expressed genes contained in the significant KEGG pathways. In squamous
+cell lung carcinoma, IL27 (p = 2.96 E-36, activation score 3.00),
+interferon gamma (p = 1.65 E-58, activation score 5.57), and tumor
+necrosis factor (p = 2.01 E-44, activation score 3.92) were the three top
+upstream regulators. In adenocarcinoma, PPAR alpha/RXRA (p = 4.83 E -15,
+inhibition score -2.84), TP53 (p = 3.63 E-08, inhibition score -2.06),
+and HNF1A (p = 3.88 -08, inhibition score -2.59) were the top three
+upstream regulators. Results show that distinct pathways are affected by
+COPD in lung squamous cell and adenocarcinoma, and identify potential
+biomarkers such as IL27 that may drive squamous cell carcinoma
+development, while loss of PPAR activity may drive adenocarcinoma, in
+smokers with COPD. Supported by P50 CA090440.
+

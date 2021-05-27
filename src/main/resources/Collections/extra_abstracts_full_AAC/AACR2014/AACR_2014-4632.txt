@@ -1,0 +1,44 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Plasma and tumor pharmacokinetics of IV LMP400, a novel
+indenoisoquinoline topoisomerase I inhibitor, in a canine phase I study
+
+
+Introduction: LMP400 is one of 3 indenoisoquinolines that are being
+evaluated in pet dogs with lymphoma to define their safety,
+pharmacokinetics, and pharmacodynamic modulation (COTC007b). LMP400 forms
+stable DNA-topoisomerase I (Top1) cleavable complexes and induces unique
+DNA cleavage sites relative to approved Top1 poisons; LMP400 is not a
+substrate for ABC transporters and does not have the stability issues
+that most camptothecin analogs do. Here we report the plasma and
+uncoupled tumor pharmacokinetics of LMP400 administered IV daily x 5 to
+patient dogs.Methods: Eligibility included: dogs >15 kg with
+histologically confirmed non-Hodgkin's lymphoma with nodal presentation
+(stage 2 or greater) and minimal nodes size for biopsy of 3 cm in the
+longest dimension, performance status of Grade 0 or 1 and informed owner
+consent. Dose levels (DL) explored were 8, 16, 24, and 40 mg/m2/day
+through a 3+3 dose escalation study design. LMP400 was administered over
+1 h IV daily x 5, Q28D. LMP400 was quantitated with a validated LC-MS/MS
+assay (PMID: 20236781), and plasma pharmacokinetic parameters determined
+non-compartmentally with PK Solutions and plasma and tumor parameters
+compartmentally with ADAPT5 through iterated two stage (ITS) and maximum
+likelihood solution with the expectation maximization algorithm
+(MLEM).Results: All fifteen dogs had useable pharmacokinetic data.
+Non-compartmental analysis suggested linear relationships between plasma
+Cmax and AUC vs. dose and tumor C2h vs. dose. Plasma terminal half-life
+was 11.9 5.0 h and the CL was 26.7 L/h/m2. In line with the t1/2, slight
+plasma accumulation was observed on this daily times 5 schedule.
+Compartmental modeling with a 2 compartment linear model resulted in a
+good fit to the data. The parameters and %CVs respectively for Ke, Vc,
+Kcp, Kpc, Kct and Ktc were 0.181 h-1 (42.6%), 108 L/m2 (32.7%), 0.250 h-1
+(30.1%), 0.0602 h-1 (67%), 0.0632 h-1 (3.65%), and 0.649 h-1 (42.2%).
+Plasma compartmental CL and half-life were 19.5 L/h/m2 and 29.7
+h.Conclusion: The plasma pharmacokinetics of LMP400 in dogs display
+biphasic behavior, a relatively high total body clearance at 19.5 L/h/m2,
+and a terminal half-life of 29.7 h. LMP400 distributed to the tumors and
+mean tumor concentrations were at least 10-fold higher than plasma
+concentrations at equivalent time points of 2, 6 and 120 h. This
+favorable biodistribution to tumor (lymph node) may be a valuable
+distinction to consider in the translation of this novel
+indenoisoquinoline to the clinic.Support: N01-CM-2011-00015, N01-CM-42202
+and P30-CA-47904
+

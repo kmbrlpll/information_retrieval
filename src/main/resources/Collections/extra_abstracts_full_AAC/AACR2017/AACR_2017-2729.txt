@@ -1,0 +1,63 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A significant differential sensitivity to AKT inhibitors GSK690693
+and MK-2206 2HI was identified in primary cells established from a
+low-grade mucoepidermoid carcinoma.
+
+
+The AKT pathway is frequently activated in cancer cells and is a defined
+target for therapeutic intervention.
+
+Methods: RNA expression levels of candidate AKT pathway genes (AREG,
+EGFR, AKT, mTOR, GSK3α/β) were defined following RNAseq of replicate
+primary cell cultures (GUMC220 and GUMC221), which were established
+independently from two areas of the same low-grade salivary
+mucoepidermoid carcinoma (MEC). Protein expression and phosphorylation
+levels of the corresponding gene products were characterized using
+immunohistochemistry on FFPE sections from the original patient tumor,
+cell pellets, and cell line generated patient-derived xenografts and
+through western blotting of proteins extracted from cells grown under
+different culture conditions before and after treatment with AKT
+inhibitors GSK690693 (ATP-competitive) and MK-2206 2HCl (allosteric
+inhibitor). The effects of GSK690693 and MK-2206 2HCl on cell viability
+were tested at different concentrations ranging from 1.2-40μM in 2D and
+3D conditions with three different culture media (Conditional media+ ROCK
+kinase inhibitor Y27632, conditional media without Y27632, and EpiCult-C
+BasalTM) using CellTiter-GloTM. Doxorubicin was used as a comparative
+control for evaluating the impact of a chemotherapeutic on cell viability
+and DMSO as a negative vehicle control. MDA-MB-453 cells were tested as a
+positive control for MK-2206 2HCl and GSK690693 sensitivity.
+
+Results: Replicate primary cell cultures showed the same chemosensitivity
+results. MK-2206 2HCl induced a significantly greater reduction in cell
+viability as compared to GSK690693 in the MEC primary cells. This
+differential response was replicated in all three 2D culture medias
+tested (GUMC220_CMY p= 0.0017, GUMC220_CM p=0.0004, GUMC220_EpiC
+pResults: Replicate primary cell cultures showed the same
+chemosensitivity results. MK-2206 2HCl induced a significantly greater
+reduction in cell viability as compared to GSK690693 in the MEC primary
+cells. This differential response was replicated in all three 2D culture
+medias tested (GUMC220_CMY p= 0.0017, GUMC220_CM p=0.0004, GUMC220_EpiC
+p<0.0001, GUMC221_CMY p=0.0010, GUMC221_CM pResults: Replicate primary
+cell cultures showed the same chemosensitivity results. MK-2206 2HCl
+induced a significantly greater reduction in cell viability as compared
+to GSK690693 in the MEC primary cells. This differential response was
+replicated in all three 2D culture medias tested (GUMC220_CMY p= 0.0017,
+GUMC220_CM p=0.0004, GUMC220_EpiC p<0.0001, GUMC221_CMY p=0.0010,
+GUMC221_CM p<0.0001, and GUMC221_EpiC p=0.0041, One-way ANOVA) with the
+same pattern reproduced in 3D cultures. Expected changes in levels of
+p-AKT(Ser473), GSK3α/β, p-GSK3α/β, and p-mTOR were found following
+treatment with both drugs as compared to vehicle controls. In MK-2206
+2HCl treated cells, expression levels were all reduced whereas in
+GSK690693 treated cells, p-AKT(Ser473), p-AKT(Thr308) were increased and
+GSK3α/β, p-GSK3α/β, p-mTOR reduced.
+
+Conclusion: Characterization of primary cell cultures using RNAseq led to
+the identification of a potentially druggable pathway. Direct testing
+revealed a differential response to the two AKT inhibitors evaluated.
+Although the two primary cell cultures were established from two
+geographically distinct areas of the same tumor, response to drug testing
+was the same and reproducible across different culture modalities.
+Studies establish the feasibility of deriving primary cells for drug
+testing and personalized therapy, even from small tumors.
+
+

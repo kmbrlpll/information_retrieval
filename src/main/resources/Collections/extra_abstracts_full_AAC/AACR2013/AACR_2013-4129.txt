@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Efficient cancer cell separation using size and deformability
+based filtration.
+
+
+Break-free cancer cells in the blood stream are statistically larger
+(mainly >15 microns) than the majority of normal cells (5-11 microns).
+Therefore, filters with engineered pores, for example, 8 m circular
+pores, could be used to isolate rare cancer cells from billions of
+hematologic cells in the blood sample. Size exclusion based filtration,
+however, is not immune to methodological constraint. Loss of cells
+smaller than the size cutoff and failure of separating cancer cells from
+normal cells of similar sizes have been the problems. Incorporating a
+second separation parameter by controlling cell deformability during the
+enrichment process could minimize the cell loss and increase the purity
+of the product. Recent advances using column-wall or crescent-post
+microfluidic chips have demonstrated the potential of utilizing cell size
+and deformability based separation techniques for rare cell enrichment.
+In this paper, we propose an innovative filter that aims to provide
+similar enrichment effect at quicker time (minutes/mL blood) and lower
+manufacturing cost. The key to realize efficient filtration process is
+the pattern design of highly dense pores. The effect of pore size on cell
+separation was first studied using rectangular shaped
+Polydimethylsiloxane (PDMS) microchannels, which were microfabricated by
+the technique of soft lithography. In the experiments, intact breast
+cancer cells (MDA-MB-231 and MDA-MB-453) or human leukocytes were guided
+through the PDMS channels of different sizes. The flow rates and pressure
+drop were monitored. The deformation of the cells was visualized using a
+high-speed camera. The optimal pore size was selected to be the
+microchannel size that most leukocytes passed through, but not for the
+majority of the cancer cells, at high flow rate and low pressure-drop. As
+a second step, the effect of pore shape on cell separation was studied.
+We used the method of focused ion beam (FIB) to micromill pores into a
+thin polymer membrane, which have the size equal to or smaller than the
+optimal size obtained and a variety of shapes. FIB is an electron/ ion
+dual beam system, in which high-speed ion flow carries high momentum to
+engrave micro-sized pattern into substrate materials with high precision.
+The micromilled membrane was then integrated into a microfluidic flow
+chamber for cell separation. Pressure drop and cell deformation were
+recorded during the translocation of cells on the membrane. We conclude
+that both pore size and shape affect the size cutoff of cells to be
+separated. Under the pressure conditions that preserve the cell integrity
+and viability, cancer cells can be separated from normal cells at high
+flow rate, purity (>70%) and recovery (>80%). Our results could provide a
+detailed guidance for developing an efficient cell filter that can be
+used for rapid enrichment of rare cancer cells in blood for cancer
+detection and characterization.
+

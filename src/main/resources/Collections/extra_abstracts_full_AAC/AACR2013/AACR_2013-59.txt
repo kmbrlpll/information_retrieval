@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identifying tumor driving signaling pathways for companion
+diagnostics using computational pathway models.
+
+
+IntroductionTargeted drug treatment requires reliable companion
+diagnostics for therapy selection. Genomic and transcriptomic data can
+provide input for this, provided tools exist to convert this complex data
+into meaningful clinical information. We develop computational models of
+oncogenic pathways, to assess which one drives tumor growth in an
+individual patient and what is the causing (epi)genetic
+defect.Computational pathway modelsBased on a selection of experimentally
+validated direct target genes, we built initial models of the Wnt, ER, AR
+and Hedgehog pathways, covering their transcriptional program. We have
+modeled each pathway by a Bayesian network, which interprets the target
+genes mRNA levels (Affymetrix U133Plus2.0), and infers a probability that
+the respective pathway is active in a certain sample. Model parameters
+are based on literature insights and experimental data.ResultsA first Wnt
+model, calibrated on cell line data, validated perfectly on 32 normal
+colon samples and 32 colon adenomas from patients (GSE8671). A second Wnt
+model, calibrated on these 64 patient samples, correctly predicted no Wnt
+activity in all 44 normal colon samples, and Wnt activity in 97 of 101
+colon cancer samples from GSE20916.Next, we tested the second Wnt model
+on other cancer types. On 25 breast cancer cell lines from GSE12777 with
+known Wnt status, the model correctly identified the two samples with an
+active pathway. On two patient data sets (GSE12276, n=204; GSE21653,
+n=266) Wnt activity was predicted in a higher number of basal samples
+compared to other subtypes (p=0.021 and p=2.7e-5, respectively), in line
+with increasing evidence for Wnt activity in this subtype. Finally, tests
+on liver (GSE9843, GSE6764) and medulloblastoma sets (GSE10327) confirm
+the power of these models to predict Wnt pathway activity.A first ER
+model was calibrated on estrogen-deprived and -stimulated MCF7 cell lines
+(GSE8697). Applied on breast cancer cell line data from GSE21618,
+increased incidence of ER pathway activity was found in
+tamoxifen-sensitive cell lines compared to resistant ones. On breast
+cancer patient data (GSE12276, GSE9195, GSE6532) the model showed no
+pathway activity in ER- samples, and an active ER pathway in 26-38% of
+the ER+ samples. Within the latter group, model-predicted ER activity
+correlated with improved survival. Clinical utility studies to correlate
+ER activity to hormone therapy response are in progress.Finally, the AR
+model showed promising results on prostate cancer cell lines (GSE34211,
+GSE36133), as did the Hedgehog model on medulloblastoma samples
+(GSE10327).ConclusionOur computational pathway models predict functional
+activity of oncogenic pathways for an individual patient based on mRNA
+data, complementary to existing molecular and histopathology staining
+tests. Clinical utility for therapy response prediction is currently
+being validated with clinical partners.
+

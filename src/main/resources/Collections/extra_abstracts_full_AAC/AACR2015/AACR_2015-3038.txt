@@ -1,0 +1,32 @@
+Meeting: 2015 AACR Annual Meeting
+Title: G quadruplex stabilization induces mitophagy in S. cerevisiae
+
+
+G-quadruplex (G4) DNA structures are stable planar structures held
+together by multiple G-G base pairs. G4 structures are thought to affect
+transcription and other chromosomal processes but their presence in vivo
+is also expected to slow replication fork progression. Previous work from
+our lab demonstrates that the S. cerevisiae Pif1 5 to 3 DNA helicase is a
+particularly potent unwinder of G4 structures in vitro1. In addition,
+cells lacking the Pif1 helicase exhibit replication fork slowing and DNA
+breakage at G4 motifs, chromosomal sequences that form intra-molecular G4
+structures in vitro1,2. In addition, treating yeast in vivo with the G4
+stabilizing drug PhenDC3 increases G4-mediated genome instability3.We
+treated a collection of 4,783 S. cerevisiae strains that each contained a
+single gene deletion with PhenDC3 to search for genes that are sensitive
+or resistant to PhenDC3. We will discuss results showing that several
+yeast genes that affect maintenance of mitochondrial DNA and autophagy
+induction are hypersensitive to PhenDC3. Using fluorescent microscopy and
+immunoblotting, we further demonstrate that treatment of wild type S.
+cerevisiae cells with PhenDC3 induces autophagy, and more specifically,
+mitophagy. Moreover, cells lacking Pif1 are themselves activated for
+autophagy.Reference:1 Paeschke, K. et al. Pif1 family helicases suppress
+genome instability at G-quadruplex motifs. Nature 497, 458-+,
+doi:10.1038/nature12149 (2013).2 Paeschke, K., Capra, J. A. & Zakian, V.
+A. DNA replication through G-quadruplex motifs is promoted by the
+Saccharomyces cerevisiae Pif1 DNA helicase. Cell 145, 678-691,
+doi:10.1016/j.cell.2011.04.015 (2011).3 Piazza, A. et al. Genetic
+instability triggered by G-quadruplex interacting Phen-DC compounds in
+Saccharomyces cerevisiae. Nucleic Acids Res 38, 4337-4348,
+doi:10.1093/nar/gkq136 (2010).
+

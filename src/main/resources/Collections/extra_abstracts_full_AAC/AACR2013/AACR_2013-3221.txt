@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Bioinformatic approaches for large-scale identification and
+relative quantitation of N-glycosylation sites from breast cancer cell
+lines.
+
+
+Introduction:Protein glycosylation and N-glycopeptide site occupancy can
+be used as disease indicators differentiating normal and cancer cells.
+The analysis of glycoproteins introduces additional computational
+challenges to the workflow. In this study, we used the high resolution
+and accurate mass features of the Q-Exactive Orbitrap mass spectrometer
+combined with glycopeptide enrichment to analyze glycoprotein changes in
+a breast cancer cell model. We employed BYONIC, a bioinformatics search
+engine optimized for glycoprotein analysis. We are in the process of
+comparing these results with workflows involving MASCOT to identify false
+positive rates from the dataset. In addition; we will determine relative
+quantitation of the deamidated peptides with Pinpoint.Methods:We compared
+the expression of glycoproteins between a benign (MSF10A) and breast
+cancer (HCC70) cell line. Glycans of secreted and cell surface
+glycoproteins of breast cell lines (MCF10A and HCC70) were oxidized with
+periodate and cells lysed with a non-ionic detergent buffer. Lysates were
+mixed with hydrazide-modified magnetic beads to capture glycoproteins,
+and glycopeptides generated with trypsin and PNGaseF (results in delta
+mass of 0.984 for deamidated peptides). Glycopeptides were analyzed by
+LC/MS/MS on a Q Exactive in data dependent acquisition mode set to top12
+HCD.Preliminary ResultsMascot and Byonic will be used to evaluate the
+identification of the deamidated peptides. Currently, using MASCOT on the
+two cell lines, we identified 500 glycoproteins, The averaged mascot ion
+(e.g., ion scores of 81.0 vs. 69.1 for 2+ ions, and 67.7 vs. 53.3 for 3+
+ions) gave identifications within 1% false discovery rate for the
+deamidated peptides searched against the 22,763 proteins related to human
+taxonomy via Swissprot database search. The bioinformatic approaches for
+identifying deamidated peptides will be evaluated with Byonic compared to
+the MASCOT results based on the number of identified N-linked
+glycopeptides; the false positive rates; speed of analysis;
+identification of multiple consensus sites (NX-S/T/Y) on same peptide and
+overall dynamic range of the identified deamidated peptides. For other
+comparable searches, the Byonic output with the same database search was
+considerably faster (10s of seconds versus several minutes for the MASCOT
+search). Byonic streamlines PTM searches by applying specific number of
+modifications per peptide to avoid combinatorial explosion; increasing
+the search efficiency.
+

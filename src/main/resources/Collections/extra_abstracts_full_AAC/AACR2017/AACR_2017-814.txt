@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: NOTCH1 regulates head and neck cancer cell growth and invasion.
+
+
+Introduction: NOTCH1 has recently been identified as a frequently mutated
+gene in head and neck squamous cell carcinoma (HNSCC). However, its role
+in HNSCC is poorly understood. Creation of genetic models investigating
+the role of NOTCH1 in HNSCC behavior will be crucial to further
+characterize its function, and to potentially modify treatment paradigms
+in NOTCH1 mutant HNSCCs. To date, no syngeneic HNSCC cell line knockout
+models of NOTCH1 have been created to specifically study the effects of
+NOTCH1 in HNSCC phenotypes.
+
+Methods: We transfected a NOTCH1 gRNA-CRISPR-Cas9 lentiviral construct
+into a HNSCC cell line with wildtype NOTCH1 (UMSCC-49) and selected
+knockout clones. Whole exome sequencing, qRT-PCR, and Western blotting
+were performed to validate the cell line knockout. Invasion chamber and
+growth assays were performed to assay for cell line phenotypes.
+Immunofluorescence staining and proteomic analysis were performed to
+study expression changes in various invasive markers.
+
+Results: We successfully created a NOTCH1 knockout cell line
+(UMSCC-49N1KO) with an otherwise identical genetic architecture as its
+parent line (UMSCC-49). Knockout status was verified via exome
+sequencing, qRT-PCR and Western blotting. Analysis of UMSCC-49N1KO
+suggested an increased aggressive and invasive phenotype. Cell
+proliferation assays demonstrated an increased cell proliferation in
+UMSCC-49N1KO. Invasion chamber assays demonstrated increased invasion in
+the NOTCH1 deficient cell line. Proteomic analysis demonstrated increased
+expression of proteins associated with invasion and cell proliferation
+and decreased expression of cell differentiation markers in UMSCC-49N1KO,
+consistent with an aggressive and invasive phenotype in the NOTCH1
+deficient line. These phenotypes were validated with subsequently
+generated UMSCC-49 NOTCH1 knockout lines.
+
+Conclusions: NOTCH1 acts as a key tumor suppressor gene in HNSCC and
+regulates cell proliferation and invasion. We have created a useful
+genetic model to study effects NOTCH1 in tumorigenesis, proliferation and
+metastasis with a wildtype NOTCH1 parent (UM-SCC49) and mutant NOTCH1,
+otherwise syngeneic cell line (UM-SCC49N1KO). NOTCH1 mutant status
+correlates with worse outcome in HNSCC patients. Further characterization
+of the role of NOTCH1 in cell proliferation, invasion and metastasis may
+provide insight into treatment stratification paradigms, targetable
+options and predictive biomarkers for patients with NOTCH1 mutant HNSCCs.
+
+

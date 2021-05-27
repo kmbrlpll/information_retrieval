@@ -1,0 +1,38 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Microbiome profiling and immunological characterization on
+gastrointestinal tract tumors
+
+
+Motivation: Conservative estimates are that around 20% of all
+malignancies may be attributed to microbiota. Especially in the
+gastrointestinal (GI) tract, infection can cause chronic inflammation and
+further influence immune response to create a proinflammatory
+microenvironment for cancer development. This can account in part for the
+reason that the immunotherapy in colon cancer is less efficacious than in
+non-GI tract cancers. We proposed a systematic computational study to
+profile the microbiome from next generation sequencing of gastric biopsy
+samples, and evaluate the relationships among microbiome composition,
+host immune response and genomic characterization.Method: Patients
+undergoing upper endoscopy without chronic inflammatory disease or
+chronic NSAID use were eligible for participation, including
+cancer/non-cancer, Helicobacter pylori positive and negative patients. In
+total, 62 endoscopic biopsies from 3 locations in the gastric antrum/body
+were freshly frozen for whole genome sequencing and transcriptome
+analysis. In addition, TCGA whole genome sequencing (WGS) data from 37
+gastric cancer, 102 colon cancer, and 46 rectal cancer samples were
+analyzed for microbiome composition.Results: H. pylori was detected in
+all positive infection gastric biopsy samples by our pipeline, and the
+results were successfully validated by qPCR. Comparing to other
+traditional bacterial identification methods, our pipeline shows a strong
+capacity for profiling microbiome from low bacterial content biopsy
+samples. We observed a high positive correlation between the H. pylori
+content and total non-H. pylori bacteria content. And we also identified
+significantly differentially expressed immune-related genes between
+active H. pylori infection and negative samples. Finally, we analyzed
+collected TCGA WGS data, and identified the dominant species from the
+different cancer studies, such as Bacteroides fragilis in rectum
+adenocarcinoma, and Fusobacterium nucleatum in colon adenocarcinoma. The
+correlation among microbiome composition, the expression of
+immune-related genes and cancer genomic characterization were also
+demonstrated in this study.
+

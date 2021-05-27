@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Multiparameter ploidy profiling: a powerful tool to investigate
+the genomics of diploid tumor populations
+
+
+BackgroundGenomic intratumor heterogeneity is an increasingly recognized
+phenomenon in various solid tumors and is now extensively being
+investigated by next-generation sequencing (NGS) approaches. However,
+most methods are not designed to resolve the complexity of mixed cell
+populations. Therefore important information may be lost, eventually
+leading to assumptions that may not reflect the true nature of the
+disease. We have therefore developed the method of Multiparameter Ploidy
+Profiling (MPP). We applied this technology on tumor specimens from
+malignant melanoma and from non-small cell lung cancer (NSCLC).MethodsMPP
+involves isolation of nuclei from tissues, multiparameter flow-sorting of
+tumor populations by DNA content and specific tumor markers, and
+profiling genomes using high resolution array comparative genomic
+hybridization (aCGH) and NGS. As some tumors are diploid by flow
+cytometry, specific lineage markers, e.g. SOX10 (melanoma) and TTF1
+(NSCLC) were used to separate these from normal cells.
+Fluorescence-in-situ hybridization (FISH) and immunohistochemistry (IHC)
+were performed on sorted nuclei and on whole tissue sections to validate
+results.ResultsMPP allowed us to sort different tumor populations within
+a single tumor specimen, while excluding non-neoplastic contamination in
+downstream analysis with aCGH and NGS. We separated three different tumor
+populations from a single primary NSCLC with a TTF1 multiparameter sort.
+We detected significant differences in copy numbers, e.g. a CDKN2A
+homozygous deletion only present in the diploid tumor population as well
+as differences in allelic frequencies of gene mutations (e.g. EGFR exon
+20). Further sequencing of the diploid TTF1 negative population proved to
+be concordant to genomic DNA obtained from a tumor free lymph node.
+Finally, we used the population-specific genomic data in order to infer
+the clonal relationship of all tumor populations and to postulate the
+evolution of these tumor populations within single tumor
+specimens.ConclusionsThe power of MPP consists of sorting pure tumor
+populations and of deciphering the level of intratumor heterogeneity
+based on ploidy. Most importantly MPP enables the separation of diploid
+tumor populations from diploid, benign stromal cells that can serve as
+reference for genomic profiling studies, where germline DNA is otherwise
+not available. To our knowledge, diploid tumor populations were for first
+time purifyed from normal cells in a multiparameter sort and genomically
+characterized. We also demonstrated that the analysis of diploid tumor
+populations within a single biopsy is crucial for the understanding of
+the clonal composition and evolution of a given tumor. MPP on multiple
+biopsies from individual patients is necessary to deeply investigate the
+clonal evolution and the behavior of a diploid tumor population and their
+potential impact on metastasis and therapy response.
+

@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Aberrant RNA editing of GLI1 promotes malignant regeneration in
+multiple myeloma.
+
+
+Introduction: Despite novel therapies, most of multiple myeloma (MM)
+patients relapse as a result of clonal evolution in inflammatory
+microenvironments. Adenosine-to-inosine (A-to-I) RNA editing, driven by
+inflammatory cytokine-responsive adenosine deaminase acting on RNA1
+(ADAR1), promotes cancer progression by enhancing survival and
+self-renewal of malignant progenitor cells. Amplifications of chromosome
+1q21, containing IL-6R and ADAR1 loci, occur frequently in high-risk MM
+patients, who frequently develop secondary plasma cell leukemia (PCL) and
+have shorter survival. While increased IL-6 signaling has been linked to
+relapse and A-to-I editing contributes to therapeutic resistance in a
+broad array of malignancies, the role of ADAR1 in MM pathogenesis has not
+been elucidated. This study aimed to investigate whether pro-inflammatory
+cues in MM activate ADAR1 editing thereby promoting malignant
+regeneration.
+
+Procedures: Publicly available primary patient datasets were analyzed and
+validated in a separate cohort of biobanked primary samples and human
+myeloma cell lines. Lentiviral vector-mediated activation or knockdown of
+ADAR1, or treatment with extrinsic pro-inflammatory stimuli, was utilized
+to probe the functional impact of RNA editing activity in MM models.
+Site-specific qPCR was used to quantify RNA editing in specific cancer
+stem cell-associated loci. Functional effects of ADAR1 activity were
+assessed in in vitro survival and self-renewal assays, and in novel in
+vivo PCL xenografts.
+
+Results: Patients harboring 1q21 amplification showed significant and
+stage-dependent increases in ADAR1 expression. In a set of separate
+primary PCL samples, aberrant RNA editing in the coding region of the
+Hedgehog (Hh) pathway transcription factor GLI1 was observed in high
+ADAR1-expressing samples. Notably, increased GLI1 editing, previously
+reported to have increased capacity to activate its transcriptional
+targets, was detected in serially transplantable, patient-derived
+xenograft models. Furthermore, abolition of ADAR1 editase activity
+impaired GLI1 editing. Lastly, in vitro pro-inflammatory IL-6
+stimulation, or continuous exposure to the immunomodulatory drug
+lenalidomide led to increased ADAR1 mRNA and protein levels, with a
+concomitant induction of RNA editing activity.
+
+Conclusions: In MM, 1q21 amplification has been linked to progression. We
+provide new evidence linking expression and activity of ADAR1, located on
+1q21, and disease stage. Because ADAR1 induces transcript recoding,
+A-to-I editing could contribute to the marked transcriptomic diversity
+typical of advanced MM. While the Hh pathway has been linked to cancer
+stem cell generation in human MM, here we identified a primate-specific
+mechanism of Hh pathway activation in MM through RNA editing-dependent
+stabilization of GLI1. Together, both genetic and microenvironmental
+factors modulate epitranscriptomic deregulation of cancer stem cell
+pathways in MM.
+
+

@@ -1,0 +1,62 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Quantification of murine lung tumor pH in vivo by acidoCEST MRI
+
+
+Introduction: Our objective was to accurately measure the extracellular
+pH (pHe) of lung tumors in vivo using an innovative, non-invasive imaging
+method known as acidoCEST MRI, to potentially improve the early detection
+of lung tumors via molecular imaging.Methods: A spontaneous murine lung
+tumor model was initiated through orthotopic injections of urethane in
+seven A/J mice to induce formation of lung adenocarcinomas. Starting at 8
+weeks post injection, we performed coronal anatomical scans to monitor
+tumor growth with Bruker BioSpin 7T small animal MRI instrument.
+AcidoCEST MRI was then performed when tumors reached a diameter of 1 mm
+in one dimension at approximately 17 weeks post injection, followed by
+additional scans each month. For all MRI scans, mice were anesthetized
+with 2.0% isofluorane, the respiration rate was monitored, and body
+temperature was maintained at 37 C. Respiration-triggering (gating) was
+used in all imaging sequences to compensate for motion artifacts in the
+lung. For optimal gating, the mouse's respiration rate was maintained at
+Introduction: Our objective was to accurately measure the extracellular
+pH (pHe) of lung tumors in vivo using an innovative, non-invasive imaging
+method known as acidoCEST MRI, to potentially improve the early detection
+of lung tumors via molecular imaging.Methods: A spontaneous murine lung
+tumor model was initiated through orthotopic injections of urethane in
+seven A/J mice to induce formation of lung adenocarcinomas. Starting at 8
+weeks post injection, we performed coronal anatomical scans to monitor
+tumor growth with Bruker BioSpin 7T small animal MRI instrument.
+AcidoCEST MRI was then performed when tumors reached a diameter of 1 mm
+in one dimension at approximately 17 weeks post injection, followed by
+additional scans each month. For all MRI scans, mice were anesthetized
+with 2.0% isofluorane, the respiration rate was monitored, and body
+temperature was maintained at 37 C. Respiration-triggering (gating) was
+used in all imaging sequences to compensate for motion artifacts in the
+lung. For optimal gating, the mouse's respiration rate was maintained at
+< 40 breaths per minute. Each mouse was scanned with acidoCEST MRI using
+370 mg/mL iopamidol (200 L IV bolus, 400 L/hr IV infusion), using a 6 sec
+saturation period at 3.5 T power, 300 ms acquisition time, with 468468 m
+spatial resolution, updated with improved respiration gating. Parametric
+maps of pixel-wise pHe values of the tumor were produced by fitting the
+Bloch-McConnell equations in Matlab 2014a. The average tumor pHe and
+concentration of iopamidol agent in the tumor tissue were
+recorded.Results: AcidoCEST MRI was successfully applied to the in vivo
+imaging of murine lung tumors. Our innovative, respiration-gated pulse
+sequence and Bloch-McConnell fitting method were essential to overcome
+the noise created by motion artifacts inherent in lung imaging. Lung
+tumors demonstrated successful uptake of the iopamidol contrast agent,
+with an average concentration of approximately 40 mM. The pH values in
+the tumor ranged from 6.5 to 7.0 with an average value of 6.64,
+demonstrating tumor acidosis. Anatomical MRI was used to monitor tumor
+growth from 1 mm diameter at 17 weeks post injection, to 4 mm diameter at
+36 weeks post-injection.Conclusion: Our study has established that
+acidoCEST MRI can be used to quantify the pH of murine lung tumors in
+vivo, showing that this method is promising for improved early detection
+of lung tumors. These pHe measurements can be compared with tumor growth
+rates to determine how tumor acidosis correlates with aggressive
+phenotype. Tumor pHe measurements can also be related to concentration of
+the agent as a biomarker of vascular perfusion. Furthermore, the spatial
+heterogeneity of lung tumor pHe can be assessed with this noninvasive
+imaging method. Further pre-clinical studies are also warranted to
+determine if the acidoCEST MRI method is suitable for early therapy
+response monitoring.
+

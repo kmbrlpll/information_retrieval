@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: How K-Ras4B attaches to the membrane and forms a dimer: A new
+paradigm
+
+
+Ras is a small GTPase, controlling signal transduction pathways and
+promoting cell proliferation and survival. KRAS is frequently mutated in
+cancer. Ras consists of highly homologous catalytic domains (G-domains)
+and flexible C-terminal hypervariable regions (HVRs) that differ
+significantly across Ras isoforms. Recent nuclear magnetic resonance
+(NMR) and molecular dynamics (MD) simulations discovered that the HVR of
+K-Ras4B in the GDP-bound state extensively interacts with the catalytic
+domain. However, it weakly interacts with the catalytic domain in the
+GTP-bound state. Here, using MD simulations we modeled K-Ras4B membrane
+interaction and dimerization. Membrane binding of K-Ras4B through the
+anchoring of the positively charged HVR is thought to be critical to its
+function as an oncogene and initiates signaling events. At the membrane,
+the catalytic domain takes on multiple orientations, including
+perpendicular and parallel alignments of the allosteric helices with
+respect to the membrane normal. In the autoinhibited state, the HVR is
+sandwiched between the effector lobe and the membrane; in the active
+state, with the farnesyl anchored into the membrane and the HVR
+unrestrained, the catalytic domain fluctuates reinlessly, exposing its
+effector binding site. Notably, we also observe HVR-autoinhibited
+K-Ras4B-GTP states that display GDP-bound-like orientations of the
+helices. We thus propose that GDP/GTP nucleotide exchange may not be
+sufficient for K-Ras4B activation; composite mechanisms including HVR
+sequestration, farnesyl insertion, and orientation/localization of the
+catalytic domain on the membrane can determine the functional state of
+K-Ras4B. Remarkably, K-Ras4B-GTP, but not GDP-bound, is able to form
+stable homodimers with different dimer interfaces, suggesting that the
+nucleotide-dependent dimerization with various dimer interfaces can
+resolve nanoclustering and cluster reorganization accomplishment with
+Raf's activation. Ras was believed to function as a monomer; however,
+since Raf dimerizes, it has been suspected that Ras can also dimerize.
+Dimerization and clustering could rein the fluctuations producing more
+productive pre-organized conformations. Funded by Frederick National
+Laboratory for Cancer Research, National Institutes of Health, under
+contract HHSN261200800001E.
+

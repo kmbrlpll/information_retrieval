@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A survival-associated polymorphism within metastasis suppressor
+RRP1B directs RRP1B-chromatin interactions and self-regulation of gene
+expression
+
+
+Previous studies demonstrate that activation of Ribosomal RNA Processing
+1 Homolog B (Rrp1b) suppresses the metastatic capacity of the aggressive
+Mvt-1 mouse mammary tumor cell line. Over-expression of Rrp1b induces a
+gene expression signature that can be used to accurately predict survival
+in human breast cancer. Also, human RRP1B contains a non-synonymous
+coding SNP (rs9306160) associated with survival in multiple breast cancer
+cohorts. However, the mechanism by which RRP1B modulates metastasis is
+unclear. Co-IF, tandem affinity purification and co-IP reveal that RRP1B
+co-localizes with double stranded DNA in the nucleus. Significantly,
+these analyses show that RRP1B physically interacts with numerous DNA
+binding proteins, many of which are prominent regulators of gene
+expression. We hypothesize that RRP1B regulates gene expression in tumors
+prone to metastasis through either direct or indirect interaction with
+target regions. We performed ChIP-seq analysis of the human breast cancer
+cell lines MDA-MB231 and MCF7 to define RRP1B bound genomic loci.
+ChIP-seq shows that RRP1B reproducibly interacts with 180 chromatin
+regions including known metastasis genes, oncogenes and tumor
+suppressors. Interestingly, RRP1B interacts with its own genomic locus at
+exon 13, which contains the metastasis-associated SNP (rs9306160;
+G1421A). To further characterize this interaction, MDA-MB231 cell lines
+stably over-expressing either the RRP1B 1421G (WT) or the RRP1B 1421A
+(Variant) allele were created. Growth curves and soft agar assays were
+both significantly different between the WT and Variant allele cell
+lines. Multiple clonal isolates were then transfected with a luciferase
+reporter construct containing the 1.5 kb RRP1B exon 13 peak binding
+region to examine the transcriptional activity. These studies indicated
+that binding of RRP1B to its own exon 13 negatively regulates its
+expression. Significantly, the magnitude of this decrease in RRP1B
+transcription was greater in cell lines over-expressing the WT allele,
+which is associated with the poorer overall survival in breast cancer.
+Global analysis of gene expression in the cell lines over-expressing the
+two allelic variants was performed using microarrays. A distinct gene
+expression signature was found to delineate the cells over-expressing the
+two allelic variants. A number of these genes overlap with RRP1B ChIP-seq
+peaks, indicating that RRP1B may be differentially binding to the
+regulatory regions of the genes identified on microarray analysis. In
+conclusion, we have demonstrated that RRP1B regulates its own expression
+through binding to its own locus, and that this ability to self-regulate
+is modulated by a germline polymorphism within the region of chromatin
+bound by RRP1B. These observations give us further insight into the
+mechanism of action of this germline-encoded metastasis suppressor.
+

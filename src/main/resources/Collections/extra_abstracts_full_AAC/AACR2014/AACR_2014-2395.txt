@@ -1,0 +1,42 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Progression of structural change in breast cancer metastasis
+
+
+Structural variations (SVs) have been shown to be a major source of
+genetic instability in cancer and metastasis but remains understudied.
+This is due to: (1) the limited power of paired-end sequencing (PES) in
+detecting SVs that frequently occur around repetitive regions and (2) the
+large amount (4ug) of high-molecular weight DNA required for mate-pair
+sequencing (MPS), which is specifically designed to detect SVs even in
+repetitive regions. Importantly, DNA obtained from FFPE tissue is heavily
+sheared and therefore not suitable for MPS - excluding most metastatic
+tissues in tumor banks.To overcome the barriers of MPS, we leveraged the
+University of Pittsburgh Rapid Autopsy Program and the Health Sciences
+Tissue Bank to obtain matched primary/metastatic frozen tumor samples
+from 6 patients (19 total tumor samples).Multiple large-insert (3-5, 5-8,
+& 8-12 kb) mate-pair sequencing, was performed for each sample to obtain
+a complete catalogue of SVs. Additionally, whole exome sequencing was
+performed to identify point mutations and to de-convolute clonal
+evolution within each patient.After removing SVs found in matched
+germline DNA, we identified extensive somatic SVs within the primary
+tumor that tended to decrease in metastatic samples. This is likely due
+to extensive genetic heterogeneity in the primary tumor that underwent
+clonal selection due to metastasis and/or treatment. Well-known hotspots
+(such as 17q), showed extensive intra- and inter- chromosomal SVs in both
+primary and metastatic tumors indicating that these are likely early and
+essential events in tumorgenesis. However, metastatic specific events
+also clustered with 17q suggesting that this region continues to play a
+role during metastasis. Somatic single-nucleotide variations (SNVs)
+revealed obvious high density clustering of mutations (kataegis) that
+overlapped with SV breakpoints. Further analysis revealed that these SNV
+clusters were primarily TT-TC, which is a signature of the deaminase
+APOBEC3B recently been shown to bind around dsDNA breaks and cause high
+levels of mutations. We have observed examples of kataegis as early,
+shared events and metastatic specific events indicating that kataegis is
+an ongoing process through metastasis.Together these data show that
+extensive SV occurs during breast cancer tumorigenesis and metastasis and
+these SVs often co-occur with kataegis. As more samples and distant
+metastases are sequenced, RNA-seq will be used to help prioritize
+specific metastatic specific SVs for functional studies demonstrating the
+role in the development of the metastatic phenotype.
+

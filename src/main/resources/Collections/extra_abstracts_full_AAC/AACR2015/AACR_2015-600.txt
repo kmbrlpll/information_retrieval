@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Lower T-lymphocyte mitochondrial DNA copy number is associated
+with graft versus host disease in patients undergoing hematopoietic cell
+transplantation
+
+
+Background: Graft-versus-host disease (GvHD) continues to be a major
+cause of transplant related mortality, morbidity and decreased quality of
+life post allogeneic hematopoietic cell transplant (HCT). Despite
+extensive use of histocompatibility antigen (HLA) matching between
+patients and donors and a variety of prophylactic regimens, the rates of
+GvHD have not declined substantially over the last decade. Recent studies
+have shown mitochondrial reactive oxygen species (ROS) plays an important
+role in T lymphocyte activation and initiation of the inflammatory
+response and represents a novel biological pathway that influences GvHD
+risk. We hypothesized that lower mitochondrial DNA (mtDNA) copy number
+that increases ROS related oxidative damage will be associated with acute
+and chronic GvHD.Methods: In a cohort of 201 patients who underwent
+allogeneic HCT for treatment of hematologic malignancies at the
+University of Minnesota between 2009 and 2012, we evaluated the
+association between donor post HCT mtDNA copy number at 7 time points
+(days 21, 28, 60, 100, 180, 365 and 730) and acute and chronic GvHD.
+Recipient blood was separated into CD3+ (T-lymphocytes) and CD15+
+(neutrophil) fractions at each time point using magnetic bead separation.
+All recipients had 100% donor engraftment at the various time points for
+inclusion in the study. We used a quantitative real time PCR method,
+comparing the number of copies of the mitochondria- specific gene (ND1)
+to the number of copies of a nuclear gene (18s) to estimate mtDNA copy
+number. We used a linear mixed model adjusting for fixed effects of donor
+type (sibling, unrelated and cord blood donors), donor age, the
+interaction of GVHD status with time, and random effects for subject and
+assay run number. The outcome (CD3+/CD15+ mtDNA copy number) was
+log-transformed to improve model fit and normalize residual
+variance.Results: Overall CD3+ mtDNA copy number was lower among patients
+with grade II-IV acute GvHD (n = 90) as compared to those without acute
+GvHD (n = 79) (2.03 vs. 2.18, respectively; p = 0.02), while there were
+no significant differences in CD15+ mtDNA copy number between the two
+groups (p = 0.49). Similarly, CD3+ mtDNA copy number was lower among
+patients with chronic GvHD (n = 43) as compared to those without chronic
+GvHD (n = 79) (1.82 vs. 2.24, respectively; p = 0.01) while there were no
+significant differences in CD15+ mtDNA copy number between the two groups
+(p = 0.47).Conclusion: Our study shows that mtDNA is decreased in acute
+and chronic GVHD compared to transplant recipients without this
+complication, providing preliminary evidence that mtDNA copy number may
+serve as a biomarker for early detection and monitoring of GvHD. Future
+studies that evaluate the significance of altered mtDNA copy number on T
+lymphocyte function and ROS are needed to evaluate the utility of novel
+mt-based interventions for treatment of GvHD.
+

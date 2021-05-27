@@ -1,0 +1,78 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Circulating microRNAs as non-invasive biomarkers for early
+detection of lung cancer
+
+
+Lung cancer is the leading cause of cancer deaths worldwide. In 2008,
+1.61 million new cases, and 1.38 million deaths due to lung cancer were
+recorded. This high mortality rate is mainly due to the late stage at
+which lung cancer is diagnosed. While early diagnosis has been
+successfully implemented through tomography-based population screenings
+in high-risk individuals, there is a need for simpler, non-invasive and
+more accessible methodologies for effective early cancer detection
+programs. Circulating microRNA (miRNA) profiles have been suggested as
+promising diagnostic and prognostic biomarkers for cancer, including lung
+cancer. However, the results have so far been inconsistent between
+studies. The objective of this study was to explore the potential of
+circulating miRNAs in plasma for early detection of lung cancer using
+global profiling approach.Plasma samples were collected from 100 early
+stage (I to IIIA) non-small-cell lung cancer patients (35 lung
+adenocarcinoma and 65 squamous cell carcinoma patients) and 100 age- and
+gender-matched healthy controls. 754 circulating miRNAs were analyzed via
+quantitative RT-PCR using TaqMan Low Density Arrays. Data were quantile
+normalized and limma analysis with adjustment for multiple testing to
+control for false discovery rate (FDR, Benjamini-Hochberg method) was
+performed to identify differentially regulated miRNA between cases and
+controls. Penalized Lasso logistic regression model (with penalty
+parameter tuning conducted by 10-fold cross-validation) was used to
+compute the least redundant panel of miRNAs for discriminating between
+cases and controls. The area under the receiver operating characteristic
+curve (AUC) was calculated to assess the discriminatory power of the
+model. Internal validation was conducted by calculating the bootstrap
+optimism-corrected AUC for the selected model.Sixty one plasma miRNAs
+were found to be significantly differentially expressed between lung
+cancer cases and controls including 33 upregulated and 28 downregulated
+miRNAs (p-value Lung cancer is the leading cause of cancer deaths
+worldwide. In 2008, 1.61 million new cases, and 1.38 million deaths due
+to lung cancer were recorded. This high mortality rate is mainly due to
+the late stage at which lung cancer is diagnosed. While early diagnosis
+has been successfully implemented through tomography-based population
+screenings in high-risk individuals, there is a need for simpler,
+non-invasive and more accessible methodologies for effective early cancer
+detection programs. Circulating microRNA (miRNA) profiles have been
+suggested as promising diagnostic and prognostic biomarkers for cancer,
+including lung cancer. However, the results have so far been inconsistent
+between studies. The objective of this study was to explore the potential
+of circulating miRNAs in plasma for early detection of lung cancer using
+global profiling approach.Plasma samples were collected from 100 early
+stage (I to IIIA) non-small-cell lung cancer patients (35 lung
+adenocarcinoma and 65 squamous cell carcinoma patients) and 100 age- and
+gender-matched healthy controls. 754 circulating miRNAs were analyzed via
+quantitative RT-PCR using TaqMan Low Density Arrays. Data were quantile
+normalized and limma analysis with adjustment for multiple testing to
+control for false discovery rate (FDR, Benjamini-Hochberg method) was
+performed to identify differentially regulated miRNA between cases and
+controls. Penalized Lasso logistic regression model (with penalty
+parameter tuning conducted by 10-fold cross-validation) was used to
+compute the least redundant panel of miRNAs for discriminating between
+cases and controls. The area under the receiver operating characteristic
+curve (AUC) was calculated to assess the discriminatory power of the
+model. Internal validation was conducted by calculating the bootstrap
+optimism-corrected AUC for the selected model.Sixty one plasma miRNAs
+were found to be significantly differentially expressed between lung
+cancer cases and controls including 33 upregulated and 28 downregulated
+miRNAs (p-value < 0.05). Penalized Lasso logistic regression identified a
+panel of 24 miRNA having the optimum classification performance. Multiple
+logistic regression analysis showed that combination of the 24 miRNAs
+alone could discriminate lung cancer cases from healthy controls (AUC of
+0.92). This classification improved to AUC of 0.94 following addition of
+gender, age at interview and smoking status to the model. Internal
+validation of the model using the bootstrap optimism corrected AUC
+suggests that the discriminatory power of the panel will be high when
+applied to independent samples (corrected AUC of 0.86 and for the
+24-miRNA panel alone, 0.87 for the model including gender, age and
+smoking status). These results highlight the potential of circulating
+miRNA as biomarkers for lung cancer. Independent prospective validation
+of the clinical potential of the panel within a cohort with
+pre-diagnostic samples is warranted.
+

@@ -1,0 +1,108 @@
+Meeting: 2017 AACR Annual Meeting
+Title: HOXA4 and HOXB3 gene expression signature as a biomarker of tumor
+recurrence in patients with high-grade serous ovarian cancer (HGSOC)
+following primary cytoreductive surgery and first-line adjuvant
+chemotherapy.
+
+
+Background: Aberrant HOX gene expression has been observed in various
+malignancies; however, their role as a biomarker for recurrence in
+patients with HGSOC is unknown. We tested the hypothesis that a HOX gene
+signature is a biomarker for disease-free survival (DFS) in HGSOC
+patients following primary cytoreductive surgery and adjuvant
+platinum-based chemotherapy. Methods: A panel of HOX genes associated
+with DFS in a discovery cohort of 19 HGSOC patients with available
+RNA-Seq data, and/or previously reported as associated with survival
+endpoints in the literature, were selected for testing by qPCR using the
+Fluidigm platform in an independent training cohort of primary tumors
+from 73 HGSOC patients. Cox proportional hazards model was used to
+identify HOX genes significantly associated with DFS. A prognostic gene
+signature was developed based on the combined linear predictor from the
+final multivariable Cox model. Patients were stratified into risk groups
+using the optimal cutoff of the linear predictor risk score, whereby the
+optimal cutoff was defined as the value that maximized the log-rank test
+statistic. Risk group stratification was further tested for association
+with DFS in a larger HGSOC dataset (N=414) with similar clinical
+characteristics from The Cancer Genome Atlas (TCGA). The role of the
+identified HOX genes in influencing drug sensitivity was examined by
+overexpressing these genes in a HGSOC cell line, PEO1. Results: Of 23 HOX
+genes selected for testing in the training cohort, overexpression of
+HOXA4 (HR=1.21, 95% CI=1.08-1.35, P=0.001) and HOXB3 (HR=1.09, 95%
+CI=1.02-1.17, P=0.016) were significantly associated with decreased DFS
+in multivariate analysis. The median DFS in patients with a HOXA4/HOXB3
+risk score ≤ the optimal cutoff was > 80 months (not yet reached),
+whereas the median DFS in patients with a HOXA4/HOXB3 risk score > the
+optimal cutoff was 16.9 months (HR=7.85, 95% CI=4.19-14.69, PBackground:
+Aberrant HOX gene expression has been observed in various malignancies;
+however, their role as a biomarker for recurrence in patients with HGSOC
+is unknown. We tested the hypothesis that a HOX gene signature is a
+biomarker for disease-free survival (DFS) in HGSOC patients following
+primary cytoreductive surgery and adjuvant platinum-based chemotherapy.
+Methods: A panel of HOX genes associated with DFS in a discovery cohort
+of 19 HGSOC patients with available RNA-Seq data, and/or previously
+reported as associated with survival endpoints in the literature, were
+selected for testing by qPCR using the Fluidigm platform in an
+independent training cohort of primary tumors from 73 HGSOC patients. Cox
+proportional hazards model was used to identify HOX genes significantly
+associated with DFS. A prognostic gene signature was developed based on
+the combined linear predictor from the final multivariable Cox model.
+Patients were stratified into risk groups using the optimal cutoff of the
+linear predictor risk score, whereby the optimal cutoff was defined as
+the value that maximized the log-rank test statistic. Risk group
+stratification was further tested for association with DFS in a larger
+HGSOC dataset (N=414) with similar clinical characteristics from The
+Cancer Genome Atlas (TCGA). The role of the identified HOX genes in
+influencing drug sensitivity was examined by overexpressing these genes
+in a HGSOC cell line, PEO1. Results: Of 23 HOX genes selected for testing
+in the training cohort, overexpression of HOXA4 (HR=1.21, 95%
+CI=1.08-1.35, P=0.001) and HOXB3 (HR=1.09, 95% CI=1.02-1.17, P=0.016)
+were significantly associated with decreased DFS in multivariate
+analysis. The median DFS in patients with a HOXA4/HOXB3 risk score ≤
+the optimal cutoff was > 80 months (not yet reached), whereas the median
+DFS in patients with a HOXA4/HOXB3 risk score > the optimal cutoff was
+16.9 months (HR=7.85, 95% CI=4.19-14.69, P<0.001). The HOXA4/HOXB3 risk
+score remained significantly associated with DFS in the HGSOC dataset
+from the TCGA (P=0.02). In vitro studies demonstrated that PEO1 cells
+overexpressing either HOXA4 or HOXB3 were significantly (PBackground:
+Aberrant HOX gene expression has been observed in various malignancies;
+however, their role as a biomarker for recurrence in patients with HGSOC
+is unknown. We tested the hypothesis that a HOX gene signature is a
+biomarker for disease-free survival (DFS) in HGSOC patients following
+primary cytoreductive surgery and adjuvant platinum-based chemotherapy.
+Methods: A panel of HOX genes associated with DFS in a discovery cohort
+of 19 HGSOC patients with available RNA-Seq data, and/or previously
+reported as associated with survival endpoints in the literature, were
+selected for testing by qPCR using the Fluidigm platform in an
+independent training cohort of primary tumors from 73 HGSOC patients. Cox
+proportional hazards model was used to identify HOX genes significantly
+associated with DFS. A prognostic gene signature was developed based on
+the combined linear predictor from the final multivariable Cox model.
+Patients were stratified into risk groups using the optimal cutoff of the
+linear predictor risk score, whereby the optimal cutoff was defined as
+the value that maximized the log-rank test statistic. Risk group
+stratification was further tested for association with DFS in a larger
+HGSOC dataset (N=414) with similar clinical characteristics from The
+Cancer Genome Atlas (TCGA). The role of the identified HOX genes in
+influencing drug sensitivity was examined by overexpressing these genes
+in a HGSOC cell line, PEO1. Results: Of 23 HOX genes selected for testing
+in the training cohort, overexpression of HOXA4 (HR=1.21, 95%
+CI=1.08-1.35, P=0.001) and HOXB3 (HR=1.09, 95% CI=1.02-1.17, P=0.016)
+were significantly associated with decreased DFS in multivariate
+analysis. The median DFS in patients with a HOXA4/HOXB3 risk score ≤
+the optimal cutoff was > 80 months (not yet reached), whereas the median
+DFS in patients with a HOXA4/HOXB3 risk score > the optimal cutoff was
+16.9 months (HR=7.85, 95% CI=4.19-14.69, P<0.001). The HOXA4/HOXB3 risk
+score remained significantly associated with DFS in the HGSOC dataset
+from the TCGA (P=0.02). In vitro studies demonstrated that PEO1 cells
+overexpressing either HOXA4 or HOXB3 were significantly (P<0.05) more
+resistant to cisplatin and carboplatin, but not to paclitaxel, as
+compared to empty vector transfected cells. Conclusion: The HOXA4/HOXB3
+risk score was significantly associated with DFS in a training cohort of
+HGSOC patients, and remained significantly associated in a larger
+independent HGSOC dataset from the TCGA. Further, in vitro studies
+suggest that HOXA4 and HOXB3 overexpression is associated with platinum
+resistance. Thus, overexpression of HOXA4 and HOXB3 in primary HGSOC may
+serve as a potential biomarker for recurrence and the risk score model
+developed warrants prospective validation in HGSOC patients.
+
+

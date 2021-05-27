@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: An evaluation of DNA and RNA based blood biomarkers in prostate
+cancer.
+
+
+Background: Prostate cancer (CaP) is the second-leading cause of male
+cancer-related mortality in Western societies. Localised prostate cancer
+(Loc-CaP) can be classified into low-, intermediate-, or high-risk
+groups. Active surveillance is recommended for low-risk patients, whereas
+radiotherapy or surgery is often indicated in intermediate- and high-risk
+patients, with possible intensification using hormone therapy treatment.
+Despite advances in radiation delivery and surgery, ~20% of patients will
+not be cured with local treatment and require androgen deprivation
+therapy (ADT). The majority will develop resistance to ADT resulting in
+castration resistant prostate cancer (CRPC) with poor prognosis and
+increased risk of metastatic disease (mCRPC). Biomarkers are being
+developed based on tumour biopsies which may help stratify patients and
+allow more effective treatment. However tumour biopsies are invasive,
+demanding for patients and surgeons as well as challenging for
+longitudinal sampling. Here we evaluate a range of blood biomarkers
+suitable for longitudinal sampling including circulating tumour cells
+(CTCs), circulating tumour DNA (ctDNA) and Tumour educated platelet mRNA
+(TEP-RNA).
+
+Methods: A blood sampling, processing and banking pipeline has been
+established for CaP patients providing ctDNA, enriched and single CTCs as
+well as TEP-RNA. Following ctDNA isolation, next generation sequencing
+(NGS) libraries are prepared to generate copy number alteration (CNA)
+data and mutation profiles. CTCs are enriched using both the epitope
+independent Parsortix (P-CTC) (Chudziak J. et al, 2016) and the epitope
+dependent (EPCAM and KRT19) CellSearch (CS-CTC) platforms. Genomic
+analysis of CTCs is carried out by NGS of whole genome amplified (WGA)
+single and pooled CTCs. CTC and TEP-RNA mRNA profiles are established
+using both the Fluidigm RT qPCR (Fluidigm Biomark™ HD system) and
+RNA-Seq.
+
+Results: Over 160 Loc-CaP and 100 mCRPC blood samples have been
+collected, processed and banked. In keeping with published data 53% of
+the 100 mCRPC patients have &gt5 CS-CTCs (a poor prognostic indicator)
+compared to 100% of Loc-CaP having 1000 fold enrichment of epithelial
+mRNAs post Parsortix CTC enrichment indicate an equivalent enrichment of
+the “spiked in” cells. Similar epithelial mRNA enrichment was seen in
+3/5 mCRPC clinical samples tested. Tumour associated CNA changes were
+clearly detected in at least 15 of the 1st 22 mCRPC ctDNA samples. Sample
+processing and statistical analysis is ongoing to evaluate if these blood
+biomarkers, either alone or in combination, can be linked to clinical
+status or outcome.
+
+

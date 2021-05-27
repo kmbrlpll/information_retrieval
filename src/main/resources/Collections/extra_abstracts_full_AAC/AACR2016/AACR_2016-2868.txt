@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Mechanisms of transcriptional regulation of FOXO3 by cofactors
+upon PI3K/AKT/mTOR inhibition
+
+
+The PI3K/AKT/mTOR pathway is frequently deregulated in breast cancer.
+Specific inhibition of its key signaling nodes results in cell death and
+tumor growth arrest, but also in activation of feedback loops that
+ultimately limit therapeutic activity.The subcellular localization and
+activity of Forkhead box O3 (FOXO3) transcription factor is heavily
+regulated by the PI3K pathway. Phosphorylation of FOXO3 by AKT inhibits
+its transcriptional functions leading to cell survival and
+growth.Although our understanding of the transcription function of FOXO3
+downstream of the PI3K pathway has increased significantly in recent
+years, it is still unclear how FOXO3 acts in concert with other cofactors
+of the transcription machinery.We conjectured that inhibition of the
+PI3K/AKT/mTOR signaling by specific agents targeting the pathway at
+different nodes leads to unique FOXO3-mediated transcriptional programs
+unveiling a complex network of regulation. We therefore sought to
+identify proteins that differentially co-immunoprecipitate with FOXO3
+upon PI3K, AKT or mTOR blockade.To target the pathway at different
+levels, we used BYL719, a PI3K inhibitor; MK2206, an allosteric AKT
+inhibitor; and RAD001, an allosteric mTORC1 inhibitor. Upon treatment, we
+immunopreciptated endogenous FOXO3 and searched for FOXO3 interactors by
+mass spectrometry analysis. In parallel RNA samples from each treatment
+were analyzed using gene expression microarrays.Gene expression analyses
+revealed that each specific compound originated distinct transcriptional
+signatures. Accordingly, mass spectrometry analysis revealed novel FOXO3
+co-interactors engaging in different transcriptional complexes at each
+treatment conditions. We identified some of these proteins as CUL1, the
+core component of the SCF (SKP1-CUL1-F-BOX protein) E3 ubiquitin-protein
+ligase complex, the cyclin-dependent kinase 5 (CDK5), the upstream
+binding transcription factor (UBTF), and the core component of RNA
+polymerase I POLR1C (polymerase RNA I polypeptide C). We performed
+coimmunoprecipitation analyses to confirm that these cofactors are bona
+fide FOXO3-interacting proteins. We then analyzed the effects of
+overexpressing these proteins on FOXO3 transcriptional activity.
+Luciferase assays demonstrated an increase in FOXO3 transcriptional
+activity when CUL1, UBTF, CDK5 or POLR1C were overexpressed. The
+overexpression of cofactors also induced the expression of FOXO3 target
+genes such as TRAIL or IRS2. Furthermore, overexpression of these
+co-interactors enhanced the binding of FOXO3 to its target gene
+promoters. We are now engaged in both elucidating how these cofactors can
+modulate the transcriptional activity of FOXO3 upon PI3K/AKT/mTOR
+inhibition and understanding the therapeutic implications of these
+FOXO3-containing complexes.
+

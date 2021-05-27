@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Global bioinformatic analysis for transcription factor genomic
+binding sites from ChIP-sequencing.
+
+
+The technique for Chromatin Immunoprecipitation (ChIP) combining with
+high-throughput DNA sequencing (ChIP-seq), is better than the
+ChIP-on-chip, which might reveal interactions between proteins and DNAs
+by the new generation sequencing technology. ChIP-seq can accurately
+reveal all possible binding sites in the whole cellular genome of the
+transcription factors or interesting proteins. TWIST, an important
+transcription factor which has a highly conserved, basic helix - loop -
+helix (bHLH) domain, can bind with DNA motif CANNTG (E-box). However,
+ChIP-seq will generate millions of data and the exactly E-boxes of TWIST
+in the whole genome is unknown. In this study, we performed the global
+bioinformatic analysis for transcription factor TWIST genomic binding
+sites from ChIP-seq result in cell lines. MACS software was used to
+identify TWIST binding sites from ChIP-seq data. MEME, a motif discovery
+tool, was used to search for statistically over-represented motifs in and
+near TWIST-occupied regions. There are 26,229 binding sites and 90,659
+E-boxes in whole genome, and 42,390 E-boxes within the peak of 100bp in
+the binding sites. The majority of ChIP-seq signals could be
+parsimoniously explained by a CABVTG motif within 200bp of ChIP summit
+and, of these, CAGCTG is most prevalent. Specifically, the
+characteristics of E-box mainly are CACATG, CATATG, CAGATG, CAGCTG and
+CACCTG. The CAGCTG is most prevalent E-box with 9% in total, and most
+E-boxes located within 200bp of ChIP summit with more than 70% in total.
+Additionally, further analysis in chromosome 6 revealed 1936 binding
+sites and 6,437 E-boxes. We defined 88 genes in which binding sites
+located at promoter region in chromosome 6. Through gene function
+prediction, they are divided into three clusters. Some genes from the
+clusters function as tumor development and necrosis, which will provide
+us the clues for studying TWIST net work regulation and signal pathways
+in cancer biology. Therefore, our results showed that bioinformatics
+analysis from high resolution ChIP-seq data may be used to drive
+effective discovery and dissect all of binding sites for transcript
+factors, including TWIST, in silico.This work was supported by NSFC
+(30371493, 81172049). We thank Drs. R Chen, J Xu and Ms. J Cheng.Citation
+Format: Junjiang Fu. Global bioinformatic analysis for transcription
+factor genomic binding sites from ChIP-sequencing. [abstract]. In:
+Proceedings of the 104th Annual Meeting of the American Association for
+Cancer Research; 2013 Apr 6-10; Washington, DC. Philadelphia (PA): AACR;
+Cancer Res 2013;73(8 Suppl):Abstract nr 2902.
+doi:10.1158/1538-7445.AM2013-2902
+

@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Long RNA sequencing of human plasma exosomes reveals full coverage
+of diverse protein coding and long non coding RNA.
+
+
+Growing research in oncology implicates exosomes in cell-to-cell
+communication and various cancer patho-physiologies. Vesicle-mediated
+signaling is thought to occur via both protein and RNA transport.
+However, there is a fundamental lack of understanding regarding the long
+RNA cargo within exosomes. Previous RNASeq studies on exosomes have
+largely focused on the small RNA fraction, although the clinical
+biomarker space remains dominated by mRNA. These studies have reported a
+relatively small proportion and poor transcript coverage of long RNA
+which has led many to conclude that exosomes only carry short fragments
+of mRNA and ncRNA.
+
+To address this, we have developed a novel platform specifically designed
+to perform RNASeq on long RNA from exosomes to efficiently interrogate
+these as RNA biomarkers. Paired-end sequencing revealed the presence of a
+wider diversity of annotated mRNA and ncRNAs than previously recognized
+in exosomes. Employing our whole transcriptome unique molecular indexing
+strategy, we were able to accurately quantify the number of unique RNA
+molecules. We detected a total of over 1.4 million unique RNA molecules
+in our libraries, with 271,308 mapped to protein-coding regions from as
+little as 2 ml of plasma. We observed that even at a shallow sequencing
+depth (15 million read pairs), we could detect more than 10,000 genes,
+composed of 40,000 mRNA and 37,000 ncRNA annotated transcripts. ERCC
+spike-in analysis indicates that our RNASeq platform is highly sensitive,
+detecting as few as 8 copies of RNA. Long non-coding RNAs dominated the
+ncRNA classes and accounted for over 95% of all uniquely detected ncRNAs.
+We also observed a bimodal distribution of transcript coverage, similar
+to cellular and tissue derived RNA. In excess of 15,000 transcripts were
+detected with ≥80% coverage and of these high-coverage transcripts,
+more than 25% were over 1kb in length, the longest being 17.6kb. Taken
+together, these findings suggest exosomes harbor more than just small RNA
+transcripts and short fragments of mRNAs as was previously thought and is
+a treasure trove of RNA biomarkers.
+
+Current research in the liquid biopsy space has been limited to variant
+detection in cell-free DNA and circulating tumor cells but
+transcriptional dysregulation is also an important feature of cancer. Our
+results shed new light on the biology of exosomes and indicate that, in
+addition to well-recognized small RNA cargo, plasma exosomes carry an
+abundance of long RNAs that can be interrogated by our optimized
+workflow. As exosomes provide a rich and protected source of RNA in
+biofluids, sequencing both long and small RNA from exosomes has the
+potential to identify biomarkers without the need for invasive tissue
+biopsies and allow us to have a more complete picture of how the RNA
+transcriptome in plasma changes in health and disease.
+
+

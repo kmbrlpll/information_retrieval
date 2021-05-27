@@ -1,0 +1,32 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Cytochrome c oxidase subunit 5a (COX5A) is identified as a
+potential therapeutic target for lung cancer with high therapeutic index
+through a pooled shRNA screen
+
+
+[Background]Recent advances in high throughput analysis of genetic and
+epigenetic alterations revealed numerous changes in lung cancer cells. It
+is vital to sort out genes that substantially contribute to oncogenic
+properties of cancer cells from these numerous altered genes by
+performing a functional screening because such genes could serve as
+valuable therapeutic targets. To this end, we performed a screening with
+a pooled shRNA library for genes critical for survival and/or
+proliferation in lung cancer cells. [Methods and Results]A pooled shRNA
+library comprising 5,000 genes, with 3 to 7 constructs per gene, were
+transduced in NCI-H460 lung cancer cell line. Subsequently, genomic DNA
+was extracted from the transduced cells and numbers of shRNA for each
+gene were quantified by next generation sequencing. Through a stringent
+filtering process we narrowed down genes to a list of 24 candidates as
+potentially target genes. Next, we integrated data of genome-wild gene
+expression and copy number analyses of a panel of lung cancer cell lines
+to narrow down to genes more relevant to lung cancer. Through these
+processes, we listed up several candidate genes. Among them, we focused
+on Cytochrome c oxidase subunit 5a (COX5A), one of the nuclear encoded
+subunits of cytochrome c oxidase, the terminal protein of the
+mitochondrial electron transport chain. Importantly, COX5A knockdown
+didn't suppress growth of HBEC3, a normal control cell line, suggesting
+that therapeutics of targeting COX5A may have high therapeutic
+index.[Conclusions]Our results suggest that inhibiting COX5A may be an
+attractive strategy for the treatment of NSCLC with high therapeutic
+index.
+

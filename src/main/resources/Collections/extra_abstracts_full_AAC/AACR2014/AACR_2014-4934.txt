@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Imaging and quantification of bombesin receptor expression in vivo
+using a NIR-labeled bombesin peptide
+
+
+Gastrin-releasing peptide (GRP) is one of the mammalian analogs of
+bombesin-like peptides that function as growth factors in normal and
+neoplastic tissues upon binding to a family of bombesin-binding G
+protein-coupled receptors. Bombesin receptors are overexpressed in a
+variety of cancers, particularly prostate, breast, and gastrointestinal
+stromal tumors, and as such have been used to develop radiolabeled
+imaging tracers. As a pre-clinical alternative to using radiolabeled
+ligands, we developed a novel near infrared (NIR) fluorescent agent,
+BombesinRSense 680 (BRS680), designed to target and quantify bombesin
+receptors in vivo. BRS680 was produced from a modified 7 amino-acid GRP
+analog peptide labeled with a NIR fluorophore (ex/em 660/680 nm) and a
+pharmacokinetic modifier designed to improve its plasma availability
+(plasma t1/2 = 1.5 hours). In vitro labeling of human colonic
+adenocarcinoma HT-29 cells, which express GRP receptors, and blocking the
+signal by addition of unlabeled native bombesin, demonstrated the
+specificity of the agent by both fluorescence microscopy and flow
+cytometry. In vivo receptor expression was quantified by fluorescence
+tomography after BRS680 (2 nmol/mouse) was injected intravenously into
+nude mice bearing HT-29 tumor xenografts. HT-29 tumors showed a high
+level of receptor expression with approximately 30 pmol (1.5% injected
+dose) of BRS680 quantified in the tumors at 24 hours, and lower
+fluorescence in other tissues except for pancreas, a tissue known for
+high receptor expression, and kidneys, indicating renal clearance. In
+contrast to the fast clearance from circulation, the tumor tissue
+half-life of BRS680 was shown to be approximately 42 hours. In vivo
+targeting specificity was confirmed by collecting tumor tissue from
+injected mice and co-localizing BRS680 fluorescent signal with an
+anti-GRP receptor antibody on frozen sections. More importantly,
+treatment of HT-29 tumor-bearing mice with a tumor growth-arresting
+chemotherapy regime decreased in vivo BRS680 signal. Six days after
+beginning treatment with 5-fluorouracil and oxaliplatin in mice with
+established tumors, BRS680 fluorescent signal was significantly decreased
+in treated mice as compared to control mice (21.55 + 4.89 versus 34.10 +
+2.90 pmoles, p=0.043) paralleling the inhibition of tumor growth (74.25 +
+7.65 versus 141 + 19.39 mm3, p=0.003). Interestingly, chemotherapy did
+not consistently affect the fluorescent signal associated with ProSense
+750 FAST, an agent that is specifically activated by the cathepsin family
+of inflammatory proteases, co-injected in the same animals (6.99 +1.68
+versus 10.91 + 1.73 pmoles, p=0.104). These studies demonstrate the
+utility of BRS680 in tracking in vivo expression of bombesin receptors
+and underscores its potential to serve as an in vivo real-time indicator
+of anti-tumor treatment efficacy.
+

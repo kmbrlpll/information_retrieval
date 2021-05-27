@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Molecular subtypes from PAM50 in a breast cancer cohort:
+differences by patient characteristic, reproducibility
+
+
+BACKGROUND Gene expression profiling has been shown to improve
+prognostication in clinical trials, but data are lacking on
+expression-based molecular subtypes in context of variables of interest
+for epidemiology. We provide interim data on the distribution of subtypes
+determined by PAM50 assay in relation to standard immunohistochemical
+(IHC) markers and to subject characteristics in a breast cancer cohort.
+METHODS The study population combines women from the Life After Cancer
+Epidemiology (LACE) study with invasive breast cancer stages I (>=1 cm),
+II, or IIIA, diagnosed in 1997-2000 and the Pathways Study with invasive
+breast cancer at any stage (>= 0.5 cm) diagnosed in 2006-2008. IHC
+results for estrogen and progesterone receptors (ER, PR) and her2-neu
+(HER2) were obtained from records. Race, ethnicity, and breast cancer
+risk factors were from self-report. For a stratified sample of cases, 1
+mm punches were obtained from areas of representative tumor in
+formalin-fixed, paraffin-embedded tissue blocks. Expression of the PAM50
+genes was determined by RT-PCR of extracted RNA. Random blind duplicate
+tissue punches were assayed. A published centroid-based algorithm
+(Parker, J Clin Oncol 2009;27:1160-7) was used to generate, for each
+sample, five continuous-scale normalized subtype scores and a predicted
+subtype classification. We estimated sample-weighted subtype
+distributions, Pearson correlations among subtype scores, and
+age-adjusted odds ratios (OR). RESULTS PAM50 subtype predictions for 702
+breast tumors from a community cohort were 55% Luminal (Lum) A, 19% LumB,
+11% HER2-enriched, 10% Basal-like, and 5% Normal-like. Among the 72% of
+tumors categorized as ER+ or PR+, HER2- by IHC, PAM50 subtypes were: 72%
+LumA, 20% LumB, 2% HER2-enriched, 1% Basal-like, and 5% Normal-like.
+Continuous-scale LumA, LumB, HER2-enriched, and Normal-like scores were
+mutually positively correlated. Basal-like score was inversely correlated
+with other subtypes. 32 of 34 (94%) blind duplicate pairs were concordant
+for subtype. Compared to non-Hispanic whites, African-American women were
+less likely to have LumB subtype, OR 0.1 (95% CI 0.03 - 0.4), and
+somewhat more likely to have Basal-like subtype, OR 2.6 (95% CI 0.8-8.5)
+and Hispanics more often had non-LumA subtypes. Women with a family
+history of breast cancer had a lower frequency of HER2-enriched tumors,
+OR 0.3 (95% CI 0.2-0.7). DISCUSSION Molecular subtyping by PAM50 shifted
+23% of tumors from the low-risk IHC-based ER+ or PR+, HER2- category to
+predicted higher-risk subtypes. Correlations among subtype scores and
+(infrequent) discordance of duplicate tissue punches may be accounted for
+by borderline phenotypes and/or heterogeneous cancers. Interim results
+showing PAM50 subtype differences by race and ethnicity and by breast
+cancer risk factors indicate that molecular subtyping is a promising tool
+for describing etiologic heterogeneity.
+

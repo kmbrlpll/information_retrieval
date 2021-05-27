@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Development of a comprehensive and highly sensitive
+next-generation sequencing assay for detection of copy number variations
+
+
+Background: As our knowledge of how DNA alterations can drive cancer
+progression increases, assays that can simultaneously detect multiple
+types of variants in a simple and cost-effective manner are becoming
+increasingly crucial. This holds true of copy number variations (CNVs),
+where evaluation of this type of variant is an important and necessary
+feature of any solid tumor profiling assay. Conventional methods for
+detecting CNVs such as immunohistochemistry (IHC), fluorescence in situ
+hybridization (FISH), and quantitative PCR (qPCR) are limited to
+detecting only one gene amplification at a time. This can be a
+significant drawback with FFPE samples, where the DNA is of low abundance
+and often heavily degraded, while the number of gene amplifications known
+to be important in cancer continues to grow. Additionally, different
+tumor types may express amplifications at different rates and expression
+may be heterogeneous within the tumor, potentially with irregular
+staining patterns - all of which illustrate the need for new approaches
+to CNV detection.Methods: Next-generation sequencing (NGS) offers the
+ability to assess variants in multiple genes using one sample. To that
+end, Illumina is developing a comprehensive, hybrid capture-based NGS
+assay targeting 170 key cancer genes for sequencing on the NextSeq1
+platform. The assay consists of a DNA workflow for the identification of
+single-nucleotide variants (SNVs), small insertions and deletions
+(indels), as well as an RNA workflow for the identification of splice
+variants and gene fusions. In addition, using the DNA workflow, a novel
+analysis pipeline, and CNV caller, CNVs from 57 different genes can be
+simultaneously assessed all by sequencing of a single sample.Results:
+Here we present data on both cell lines and FFPE samples of SNVs and
+indels down to 5% allele fraction and CNVs down to 2-fold amplification,
+all from 40 ng of DNA. To demonstrate the accuracy and precision of our
+CNV detection method, we tested 7 samples for CNVs using orthogonal CNV
+detection methods. The Illumina NGS assay detected ERBB2 amplifications
+in 4 out of 7 samples. Of the 4 Illumina NGS positive samples, 3 samples
+were positive by FISH and all 4 were positive by droplet digital PCR
+(ddPCR) and the Illumina TruSight Tumor 15 panel. The 3 samples that were
+negative for ERBB2 amplifications by the Illumina NGS assay were also
+negative by both FISH and ddPCR. Within these samples we also found a
+previously unknown FGFR1 amplification.Conclusions: The novel Illumina
+NGS library preparation method is an innovative and useful tool to find
+multiple CNVs, along with other variant types, within a single sample.
+The assay can detect multiple CNVs within a single FFPE sample and
+identify previously uncharacterized CNVs that could be important in
+finding the correct treatment for a cancer patient.
+

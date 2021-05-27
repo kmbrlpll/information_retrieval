@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: An integrated analysis of gene mutations and gene sets for
+predicting paclitaxel response in lung adenocarcinoma
+
+
+Lung cancer is the leading cause of cancer death worldwide. A prevalent
+histological subtype of lung cancer is adenocarcinoma. Chemotherapies and
+targeted therapies have been developed to treat such malignancy. However,
+due to the heterogeneity of cancer genomes, drug responses vary
+considerably among patients and the average survival rate remains quite
+unsatisfactory. Therefore, integrated biomarkers for predicting drug
+responses are greatly needed. Addressing this, in the present study we
+aimed to develop a prediction model based on an integrated analysis of
+gene mutations and gene sets. Briefly, the two-tailed Student's t-test
+was performed to identify the gene mutations and gene sets of which
+activities were associated with drug sensitivity, and classification
+trees were derived from these genomic features. We applied the analysis
+to genomic datasets and drug sensitivity data from the Cancer Cell Line
+Encyclopedia (CCLE) and gene sets defined in the Molecular Signatures
+Database (MSigDB), and constructed a prediction model for response to
+paclitaxel, a widely used drug for cancers, in lung adenocarcinoma.
+Taking KRAS mutation as an example, we identified 20 and 15 drug
+response-associated gene sets in KRAS-mutant and KRAS-wild type cell
+lines, respectively. The two lists of gene sets were mutually exclusive,
+suggesting the need of building individual prediction models for groups
+of cancer subtypes. We then built a classification tree for each of the
+two groups and tested their prediction performance by leave one out
+cross-validation tests; 64% and 81% accuracy was achieved for KRAS-mutant
+and KRAS-wild type cell lines, respectively. Gene sets of SIG_CHEMOTAXIS
+and PID_ERB_GENOMIC_PATHWAY served as crucial nodes for the trees of
+KRAS-mutant and KRAS-wild type cells, respectively. In conclusion, we
+developed a novel method that integrates gene mutations and gene sets for
+predicting drug responses and demonstrated its high performance in lung
+adenocarcinoma. Our model is widely applicable to identify potent
+biomarkers for anticancer drugs in cancers and accelerate the realization
+of precision medicine.
+

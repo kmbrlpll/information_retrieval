@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Decoding phenotypic drug screening targets using a novel
+chloroalkane capture tag
+
+
+Phenotypic screening has become increasingly common to the drug discovery
+workflow. Yet, productive outcomes remain hindered by the challenging
+task of identifying the underlying cellular targets mediating the desired
+phenotype. Current approaches rely on linking the bioactive compound to a
+surface or an affinity handle allowing selective capture of interacting
+proteins for identification by mass spectrometry. These methods can be
+constrained by ineffective capture of low affinity and low abundance
+proteins. In addition, for these methods to provide meaningful results,
+it is critical that the chemical derivatization of the bioactive compound
+would not disrupt the binding interactions with the cellular targets.
+Consequently, there is preference for methods compatible with living
+cells because they allow verification of the pharmacological activity of
+the modified compound. We have developed such a method based on a novel
+chloroalkane capture tag that minimally affects compound potency and cell
+permeability. Following binding with the tagged compound in live cells,
+the cells are lysed and the chloroalkylated compound, together with the
+bound targets, is rapidly captured onto immobilized HaloTag protein. The
+in-situ target engagement combined with rapid covalent capture allows for
+isolation of difficult targets with low affinity and/or low abundance.
+The putative targets identified by mass spectrometry are then validated
+for direct binding relationship with the bioactive compound by
+bioluminescence energy transfer. We tested this target
+capture/target-validation workflow using the interaction of histone
+deacetylases (HDACs) class I/IIb and the inhibitor SAHA
+(Vorinostat).RESULTS: Treatment of K562 cells with SAHA or
+SAHA-chloroalkane revealed high cellular potency against HDAC class I/IIb
+with minimal impact of the chloroalkane modification on the drug potency.
+Using the SAHA-chloroalkane to selectively enrich for SAHA targets from
+K-562 cells, we identified and validated all the known targets of SAHA
+(i.e., HDAC 1, 2, 3, 6, 8 and 10) regardless of their abundance or
+affinity (nM to low M). In addition, we also identified and validated two
+previously undescribed targets of SAHA (CPPED1 and ADO), both
+metalloenzymes. Because SAHA binds to HDACs by chelating to a bound zinc
+ion, it may interact by a similar mechanism with other metalloenzymes.
+The discovery of ADO may also provide insight to a potential novel mode
+of action for SAHA in neurodegenerative diseases. Other experiments
+showed that replacing the chloroalkyl group in the SAHA-chloroalkane with
+biotin significantly reduced drug potency and consequently enrichment
+efficiency (only HDAC6 was isolated), further demonstrating the
+advantages provided by the relatively inert chloroalkane tag. Taken
+together these results indicate that our workflow can reveal the direct
+binding relationships between bioactive compounds and their cellular
+targets.
+

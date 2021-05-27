@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: CDK12/13 inhibition cooperates with the Ewing sarcoma oncoprotein
+EWS/FLI to attenuate homologous recombination repair in Ewing sarcoma
+cells
+
+
+A therapeutic challenge in pediatric oncology is the paucity of readily
+druggable genetic events in many of the childhood malignancies. These
+tumors are frequently defined by sentinel abnormalities involving
+transcription factors in an otherwise quiet genomic landscape. One
+approach to treating these tumors would involve direct targeting of the
+aberrant transcription factor; however, this is a drug discovery
+challenge. A second approach would be to identify synthetic lethal
+relationships in the context of the aberrant transcription factor. THZ1,
+a covalent and potent inhibitor of CDK7, CDK12, and CDK13, kinases
+involved in transcriptional regulation, recently emerged as a targeted
+strategy to impair aberrant transcription. Extensive profiling of THZ1
+against a diverse panel of >1,000 cancer cell lines revealed that the
+pediatric solid tumor, Ewing sarcoma, was exceptionally sensitive to this
+compound. We found that the anti-proliferative effects of THZ1 in Ewing
+sarcoma can be attributed primarily to CDK12/13 inhibition. Treatment of
+Ewing sarcoma cells with THZ531, a covalent and selective CDK12/13
+inhibitor, decreased the phosphorylation of the C-terminal domain of RNA
+polymerase II, induced apoptosis, and markedly decreased colony formation
+capacity of Ewing sarcoma cell lines. In contrast, treatment with a
+selective CDK7 inhibitor had minimal effect. EWS/FLI is the transcription
+factor fusion protein that typically drives tumor establishment and
+maintenance in Ewing sarcoma tumors. Based on prior reports of this
+compound class inhibiting a small subset of highly expressed genes
+critical to tumor maintenance, we expected that these inhibitors would
+disrupt oncogenic EWS/FLI-driven transcription as the mechanism of
+inducing cell death. Surprisingly, however, global gene expression
+profiling revealed that THZ531 did not selectively repress EWS/FLI or
+EWS/FLI target genes. Rather, we observed that THZ531 preferentially
+repressed genes involved in DNA damage repair. Consistent with this
+finding, we found that THZ531 induced defects in DNA damage repair and
+highly synergized with DNA damaging agents that induce lesions repaired
+by homologous recombination (HR). Furthermore, we found that suppression
+of EWS/FLI attenuated sensitivity to THZ531 and the PARP inhibitor
+olaparib and abrogated synergy observed with this drug combination. Thus,
+we conclude that EWS/FLI establishes tumor cell synthetic lethality to
+CDK12/13 inhibitors by imparting sensitivity to DNA repair defects. This
+work establishes a novel mechanism of action of CDK12/13 inhibitors and
+gives further credence to the role of EWS/FLI in DNA damage response.
+Ongoing work is dedicated to the in vivo testing of THZ1 alone, and in
+combination with olaparib, as a novel targeted therapy for the treatment
+of Ewing sarcoma.
+

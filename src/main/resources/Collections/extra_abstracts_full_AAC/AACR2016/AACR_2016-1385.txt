@@ -1,0 +1,39 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Patient-derived xenografts as validation material for NGS assays:
+Analysis of genetic homogeneity
+
+
+Full process controls and validation materials for next generation
+sequencing (NGS)-based molecular diagnostics in Oncology that mimic a
+biopsy sample and are renewable and scalable have been elusive.
+Patient-derived Xenografts (PDXs), which are similar in morphology and
+somatic mutations to original tumors, may present a solution to this
+pressing need.In order to evaluate the abilities of PDXs to serve as full
+process controls and validation materials, we had PDXs that contained
+established driver mutations KRAS G12C analyzed by clinical laboratories
+using a variety of different NGS-based assays. The resulting data was
+analyzed for genetic homogeneity as well as for the presence of
+mouse-derived variants.PDXs were found to be generally compatible with
+NGS-based assays and similar variant frequencies of driver mutations were
+reported. High concordance was also observed in variant frequencies of
+PDXs at passage 5 that were derived from the same tumor but grown in
+different mice. For example, the observed differences in over 90% of
+variants and all driver mutations were not statistically significant.In
+amplicon-based assays, which represent the majority of current assays
+that look at mutational hotspots, mouse-derived variants were rare.
+Typically, variant data was usable without any further processing. In
+hybrid/capture-based assays, mouse-derived variants were common because
+of the lower binding stringency used by these assays. Without further
+processing, this manifested in slightly lowered variant frequencies for
+driver mutations - where wild-type reference sequences are often
+conserved between species and thus inflate the number of reference
+sequences - and greatly elevated numbers of total variants. However, by
+processing the data at the FASTQ stage using in-house developed software,
+it was possible to effectively remove mouse-derived variants in a manner
+that would be compatible with patient testing as well.In conclusion, we
+show that PDXs are compatible with NGS-based assays and can be used to
+control the full process from the point where the Pathologist first fixes
+the tissue. Those containing driver mutations that have been previously
+characterized in cancer also enable laboratories to control and validate
+their assays by showing that they can consistently detect these mutations.
+

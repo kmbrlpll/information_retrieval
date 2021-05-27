@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A novel image cytometric analysis method for T-cell-mediated
+cytotoxicity of 3D tumor spheroids.
+
+
+Cell-mediated cytotoxicity assays have been frequently performed to
+characterize cancer cytotoxic potential of immune cells, antibodies, and
+drug compounds. Traditionally, these assays are performed using release
+assays such as Cr51 (radioactivity), Calcein (fluorescence), or LDH
+(enzymatic). However, release assays have limitations such as the
+handling of hazardous material, the indirect measurement of cell death
+leading to an under estimation of cytotoxicity, the requirement for a
+large volume of cell sample, and the inability to visually confirm, image
+ad track the assay kinetically. In the recent years, Celigo image
+cytometry has been used to perform high-throughput cell-mediated
+cytotoxicity assays using a direct cell counting method where cancer
+cells (Target) are stained with Calcein AM. Upon the addition of effector
+immune cells with the fluorescently stained Target cells in the presence
+or absence of antibody or drug compounds, the Celigo image cytometer is
+used to capture bright-field and fluorescent images and analyze the
+change in Target cell count over time to determine the cytotoxicity
+percentage. In general, these assays are performed in a 2D cultures. The
+2D assays for cancer drug discovery have had some difficulty in
+identifying more qualified drug candidates for clinical testing, thus
+there has been an increase in interest of performing cytotoxicity assays
+in 3D tumor models. Traditional 3D spheroid analysis methods require the
+use of standard microscopy, which is time-consuming and subjective.
+Celigo imaging cytometer has also been used to rapidly analyze drug
+effects on 3D tumor spheroids. In this work, we demonstrate a novel
+method of analyzing T cell-mediated cytotoxicity on 3D tumor spheroids in
+the presence of absence of ImmTAC molecules, which can promote higher T
+cell killing. In this experiment, MDA-MB-453 GFP expressing breast cancer
+cells are used to form tumor spheroids in an ultra-low attachment plate.
+The spheroids are then treated with primary T cells at 1:10 and 1:50 E:T
+ratios, as well as 10, 1, 0.1, 0.01, and 0.001 nM ImmTAC. The results
+showed a dose response effect of T cell killing with the addition of
+ImmTAC molecules by measuring spheroid size in GFP fluorescence and
+viability using propidium iodide. The image cytometry method was able to
+monitor changes in spheroid size and fluorescence over time and rapidly
+quantify T cell killing, which was as high as 75%. The captured
+bright-field and fluorescent images also clearly showed the cytotoxicity
+effect from the combination of T cells and ImmTAC. The ability to screen
+cytotoxic effects of immune cells, antibody, and drug compounds on 3D
+tumor spheroids can provide an alternative tumor model for identifying
+more qualified cancer drug candidates for drug discovery campaigns.
+
+

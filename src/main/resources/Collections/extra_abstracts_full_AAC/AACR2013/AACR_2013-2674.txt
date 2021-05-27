@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Preparation and characterization of scFv antibody against tissue
+factor (TF) for the delivery of an MRI contrast agent.
+
+
+Background: There have been many clinical reports of the increased risk
+of thrombosis in cancer patients. Tumor cells and tumor vascular
+endothelial cells express tissue factor (TF) at high levels. This
+clinical evidence and various biochemical data suggest that TF is
+involved in the activation of cancer-related blood coagulation. We
+hypothesized that anti-TF antibody could be a useful tool for drug
+delivery to solid tumors. Antibodies of various sizes to suit the purpose
+could be used to deliver a payload to cancers. Here, we prepared an
+anti-TF single chain variable fragment (scFv) antibody as a potential
+delivery tool for diagnostic agents.Method: Anti-TF IgG (clone name,
+1157) was obtained from a hybridoma that produced IgG with high affinity
+for TF antigen. Products of the VL and VH genes of 1157 were obtained
+from the hybridoma cDNA and were constructed in both orientations, i.e.
+VH-linker-VL and VL-linker-VH. The scFv was produced in Escherichia coli
+and was purified by using a conventional method. The affinities of
+anti-TF IgG and scFv for TF protein were analyzed with flow cytometry
+(FCM). These antibodies were labeled with Alexa647 and given
+intravenously to mice bearing chemically induced cutaneous tumors with
+marked similarity to human solid cancers generally in terms of growth
+rate and stroma. Biodistribution of the antibodies was analyzed with an
+OV110 in vivo imaging system. The ratio of the concentration of each
+antibody in the tumor to that in the surrounding normal tissue area (T/N
+ratio) was calculated.Results and Discussion: In vitro, the scFv gene
+VH-linker-VL was expressed as inclusion bodies in E. coli, whereas the
+scFv gene VL-linker-VH was expressed in the cytoplasm. scFv gene
+construction with VL-linker-VH was therefore more promising than that
+with VH-linker-VL, because scFv could be obtained from the former without
+the need to refold the scFv protein. FCM analysis revealed that the
+anti-TF scFv could bind to TF protein on the membrane of several cancer
+cell lines. In vivo, the T/N ratios of scFv in the mice 1, 3, and 6 h
+after injection were 1.02, 1.46, and 1.90, respectively. In contrast,
+those of the IgG were 1.02, 1.01, and 1.23, respectively. Because a
+higher T/N ratio can result in clearer contrast of the tumor, the scFv
+may be more useful than IgG as a molecular imaging tool in the 6 h after
+injection.Conclusion and Future Plans: Anti-TF scFv accumulated
+selectively in tumor tissue for 6 h after iv injection. Our next step
+will be to quantify the ratio of the concentration of scFv in the tumor
+to that in the plasma (T/P ratio) by using radioisotopes. The scFv may be
+a useful tool for the delivery of MRI contrast agents.
+

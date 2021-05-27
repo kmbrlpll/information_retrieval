@@ -1,0 +1,42 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Network signatures of survival in glioblastoma multiforme
+
+
+Glioblastoma multiforme (GBM) is the most common primary malignant brain
+tumor in adults and also the most aggressive, with a median survival time
+of approximately 1 year. Differences in age and pathology have long been
+recognized as key factors in determining prognosis, and, more recently,
+comprehensive mRNA profiling has been undertaken to establish the
+molecular basis underlying prognosis. Though early mRNA expression-based
+gene sets represented unbiased queries into molecular differences in
+gliomas, they only uncovered differences in survival ex post facto1, 2.
+Newer gene sets capitalize upon advances in technology, yet they suffer
+for their unwieldy size and ambiguous biological meaning3. Though the
+myriad gene sets proposed share little overlap with each other, recent
+work has demonstrated that the use of interaction networks can
+consolidate these differences. To determine the molecular basis of
+prognostic differences in GBM directly, we employed an existing
+computational framework, CRANE, to exhaustively search protein
+interaction networks and identify molecular signatures distinguishing
+short-term (635 days) survivors of GBM in The Cancer Genome Atlas gene
+expression microarray dataset. Using CRANE, we identified a 50 gene
+subnetwork signature of survival in GBM, which we validated in an
+independent dataset of 91 patients (80% classification accuracy). We
+further hypothesized that the use of interaction networks consolidates
+variation in mRNA expression into more stable features at higher
+phenotypic levels. To test this hypothesis, we examined protein
+expression levels of the 50 network targets in an independent cohort of
+16 patients (10 patients: survival18 months) using label-free proteomics.
+Of the 17 network targets identified in common with our 50 subnetwork
+signature genes, 8 were significantly differentially expressed between
+short-term and long-term survivors, and expression levels of 3 of the
+proteins (STAT3, Calnexin, and HSPA9) predicted phenotype (LTS vs. STS)
+with 75% or more accuracy (12 or 13 correct out of 16). Our conclusion is
+that data integration using interaction networks can drive discovery of a
+stable subnetwork signature exhibiting clear differences in protein
+expression. This manageable subset of proteomic targets will prove
+invaluable in the design of cost-effective clinical assays (e.g. IHC)
+suitable for retrospective analysis from FFPE tumor tissue in existing
+biobanks, as well as for prospective studies predicting patient survival
+- a much desired endpoint for clinicians and patients alike.
+

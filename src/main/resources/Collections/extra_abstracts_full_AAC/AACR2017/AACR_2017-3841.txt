@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A hybrid mapping approach improves genomic and transcriptomic
+analysis of patient derived orthotropic xenograft (PDOX) models of
+pediatric CNS tumors.
+
+
+Background. Patient derived orthotopic xenograft (PDOX) models are an
+important tool for cancer research, including personalized preclinical
+testing of targeted therapies. PDOX models of CNS tumors faithfully
+replicate the invasive nature of patient tumors, resulting in variable
+contamination of the harvested xenograft tissues by mouse brain cells.
+This presents technical challenges to genomic and transcriptomic
+analyses, including correct alignment of sequencing reads to human or
+mouse genomes, and can result in identification of false positive tumor
+mutations. Improved bioinformatic methods for systematic correction of
+such errors are needed.
+
+Methods. Whole exome sequencing (WES) was performed on 32 diverse
+childhood CNS tumors (mean of 109 M reads/sample) and matching PDOX
+models (mean of 62 M reads/sample), including atypical teratoid rhabdoid
+tumor (ATRT), glioblastoma (GBM), and medulloblastoma (MB).
+Patient-matched blood DNA was also subjected to WES. Whole transcriptome
+sequencing (WTS) was performed on a subset of tumors and PDOX models
+(mean of 94 M reads/sample). Integrated WES and WTS analysis pipelines
+were constructed to unequivocally identify each sequencing reads’
+species-of-origin prior to genomic and transcriptomic variant calling,
+expression profiling, and fusion gene analysis. Xenograft NGS reads were
+competitively mapped to a hybrid reference created by merging the human
+(hg19) and mouse (mm10) genomes, with reads segregating to their
+respective genomes based on mapping score. Reads that mapped exclusively
+to the human reference were selected for analysis.
+
+Results. Mouse DNA contamination varied widely between PDOX tumors (1% to
+94%; mean 40%). Hybrid mapping resulted in 2.4-fold higher combined
+sensitivity and specificity for identification of somatic variants as
+compared to direct human reference mapping followed by mouse polymorphism
+subtraction. WES analysis confirmed the maintenance of somatic driver
+mutations in PDOX models, including SMARCB1 in ATRT, TP53 and NF1 in GBM,
+and DDX3X in MB. Interestingly, 37% of tumor and 55% of PDOX somatic
+mutations exhibited significant allele fraction changes between the
+primary tumor and PDOX model. WTS analysis based on hybrid mapping
+resulted in an increase in positive predicted value (PPV) for correlation
+of FPKM values between tumor and PDOX model, with greater PPV in cases
+with high levels of mouse contamination, albeit with lower sensitivity
+due to decreasing coverage.
+
+Conclusions. Hybrid mapping based WES and WTS analysis identifies fewer
+false positives than direct hg19 mapping and represents a more
+streamlined process of species-of-origin sequencing read classification
+and filtering at the alignment stage. This method has the potential to
+improve molecular characterization of PDOX models and inform the design
+of rational preclinical studies.
+
+

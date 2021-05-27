@@ -1,0 +1,58 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Phosphoproteomic characterization of selumetinib action in KRAS
+mutant lung cancer
+
+
+In the field of lung cancer therapeutics, KRAS-mutant lung cancer is a
+significant problem due to limited therapeutic options and poor
+prognosis. Pathway inhibition of the RAS-driven RAF-MEK-ERK pathway using
+small-molecule kinase inhibitors has been a key focus for treating
+cancers driven by oncogenic RAS; however, significant clinical responses
+are lacking. Our initial experiments assessed the efficacy of the
+clinical MEK inhibitor AZD6244 (selumetinib) in a panel of non-small cell
+lung cancer cell lines harboring oncogenic KRAS mutations. None of the
+cell lines showed pronounced apoptosis nor did we observe significant
+reduction in cell viability in nano-molar range (In the field of lung
+cancer therapeutics, KRAS-mutant lung cancer is a significant problem due
+to limited therapeutic options and poor prognosis. Pathway inhibition of
+the RAS-driven RAF-MEK-ERK pathway using small-molecule kinase inhibitors
+has been a key focus for treating cancers driven by oncogenic RAS;
+however, significant clinical responses are lacking. Our initial
+experiments assessed the efficacy of the clinical MEK inhibitor AZD6244
+(selumetinib) in a panel of non-small cell lung cancer cell lines
+harboring oncogenic KRAS mutations. None of the cell lines showed
+pronounced apoptosis nor did we observe significant reduction in cell
+viability in nano-molar range (<1 M). Given that cancer cells can rapidly
+rewire signaling cascades to adapt to loss of survival signaling, we
+hypothesized that a phosphoproteomics approach would provide further
+insight into adaptive signaling alteration associated with AZD6244. To
+this aim, we assessed global phosphoproteome change after AZD6244
+treatment (1 M, 24hr) in A427 and A549 lung adenocarcinoma cell lines
+harboring oncogenic KRAS mutations. We identified 7,730 unique
+phosphopeptides (corresponding to 3,137 unique phosphoproteins) after
+removing low-confidence phosphopeptides. We defined phosphopeptide
+significantly altered by AZD6244 as one that has had quantity changed by
+two-fold, corresponding to one standard deviation of fold change within
+the data. This resulted in 882 increased and 831 decreased
+phosphopeptides after MEK inhibition. As expected, AZD6244 decreased ERK
+phosphorylation and induced feedback increase of MEK and B- and C-RAF
+phosphorylation. In addition, we observed that AZD6244 increased tyrosine
+phosphorylation (Y1172) and decreased serine phosphorylation (S1045) of
+EGFR, which are involved in kinase activation and receptor trafficking,
+respectively. We also found reduced inhibitory serine phosphorylation of
+MET (S985), suggesting MEK inhibition could lead to MET activation by
+relieving inhibitory serine phosphorylation. These observations raise the
+possibility that MEK inhibition leads to feedback activation of RTKs, as
+well as its downstream activation (e.g., wild-type RAS). Notably, AZD6244
+increased phosphorylation of KSR-1, a scaffolding protein required for
+assembly of MAPK signaling complex as well as phosphorylation of GEF-H1,
+a recently reportedly novel regulator of KSR-1 required for proper
+activation of RAS-driven MAPK activation. Collectively, our
+phosphoproteomics results indicate altered phosphorylation of a series of
+signaling proteins in MAPK signaling cascade, presumably contributing
+feedback activation of RAF, MEK and ERK reactivation following MEK
+inhibition. We are currently characterizing the importance of GEF-H1 and
+KSR-1 in lung cancer cell growth and survival and their role in adaptive
+signaling change associated with MEK inhibition. Updated work will be
+presented.
+

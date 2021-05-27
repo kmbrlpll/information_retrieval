@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Regulated IRE1-dependent mRNA decay occurs under extreme
+proteotoxic stress in myeloma, but not under conditions that would affect
+therapeutic targeting of IRE1
+
+
+Many secretory cancers rely on cellular mechanisms such as the unfolded
+protein response (UPR) to survive under conditions that lead to
+proteotoxic stress. Multiple myeloma (MM) is a plasma cell malignancy
+that is particularly reliant on this pathway as it controls cell survival
+under proteotoxic stress. One branch of the UPR is IRE1, a receptor in
+the endoplasmic reticulum (ER) membrane that senses misfolded protein and
+stimulates cell adaptation and survival under proteotoxic stress. The
+ribonuclease domain of IRE1 cleaves XBP1 mRNA, which is ligated to code
+for the active transcription factor XBP1s. IRE1 also cleaves other mRNAs
+resulting in their degradation, termed regulated IRE1-dependent mRNA
+decay (RIDD). While IRE1 is a potential therapeutic target in MM and
+other secretory cancers, little is known about the role of RIDD in
+malignancy. We set out to determine whether RIDD occurs in MM, and how it
+would contribute to the mechanism of IRE1-targeting therapeutics. We
+cross-referenced published expression data to identify consistent RIDD
+targets and found that 11 transcripts were regulated by RIDD in more than
+one experimental system. To determine if these were RIDD targets in MM,
+cell lines were treated with DTT to induce strong proteotoxic stress in
+the presence or absence of an IRE1 RNAse inhibitor. Transcripts were
+measured using qPCR. Only BLOC1S1 was regulated by RIDD in this system.
+Interestingly, BLOC1S1 was only degraded after complete splicing of XBP1
+mRNA, suggesting that RIDD occurs when a cell has exhausted its natural
+substrate and not recovered from ER-stress. Importantly, using
+bioinformatic analysis we identified a conserved stem loop structure in
+BLOC1S1 that may be cleaved by IRE1, adding further weight to its
+potential as a RIDD target. The effect of mutation of this stem loop to
+an IRE1-resistant form was analysed. In order to determine the clinical
+significance of RIDD, we tested whether RIDD occurred as a consequence of
+drug treatment. A standard treatment for MM, that is believed to induce
+ER-stress, is the proteasome inhibitor Bortezomib. To test whether this
+treatment might induce RIDD, MM cell lines were treated with a timecourse
+of Bortezomib and BLOC1S1 mRNA was measured. Bortezomib did not induce
+BLOC1S1 degradation, and hence RIDD. Finally, in order to assess whether
+RIDD occurs in MM patients, we used data from primary patient cells from
+over 250 patients and correlated expression of conserved RIDD target
+genes with the ratio of spliced to unspliced XBP1 mRNA (XBP1s/u), as a
+measure of IRE1 activity. No correlation was found, suggesting that RIDD
+is not present in clinical samples. Taken together, these data suggest
+that while RIDD occurs under extreme stress in MM cells in vitro, it is
+not clinically significant in this disease. Therefore, RIDD should not
+affect the action of IRE1-targeting therapeutics in MM or other secretory
+cancers.
+

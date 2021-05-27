@@ -1,0 +1,30 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A simple yet powerful method to purify NGS compatible RNA from
+formalin fixed paraffin embedded tissues using FormaPure DNA.
+
+
+Extensive archives of formalin-fixed, paraffin-embedded (FFPE) cancer
+tissues and next generation sequencing (NGS) capabilities provide rich
+resources for identifying and validating new cancer biomarkers. However,
+the ability to conduct FFPE-NGS studies has been limited by poor nucleic
+acid purification methods that are generally difficult and cumbersome to
+perform, particularly with RNA. FormaPure DNA was recently launched to
+provide a simplified workflow to extract DNA from FFPE curls. Its nucleic
+acid binding chemistry employs Beckman Coulter's proprietary SPRI (solid
+phase reversible immobilization) technology, which purifies nucleic acids
+without centrifugation or vacuum manifold. The SPRI technology ensures
+stronger binding and higher quality purification than other silica-coated
+bead methods that typically lead to lower quality results due to
+instances of nucleic acid shearing. Here, we present a modified FormaPure
+DNA workflow to purify RNA from FFPE samples, offering the flexibility to
+examine both genomic and transcriptomic roles in cancer biomarkers
+studies. We show that our extractions yield significantly more RNA (up to
+2.5 µg per FFPE curl) and take a fraction of the time to perform
+compared to other benchmarks. Furthermore, we demonstrate that purified
+RNA can be used to generate high quality NGS data. Lastly, our extraction
+method can be automated on a variety of Beckman Coulter’s Biomek liquid
+handling workstations to offer an integrated solution for high-throughput
+FFPE-RNA-NGS experiments: RNA from 96 FFPE samples can be purified for
+NGS in less than 5 hours with minimal hands-on time.
+
+

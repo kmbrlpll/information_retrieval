@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Hetmap: Evaluating tumor heterogeneity in
+immunohistochemistry-stained breast cancer tissue
+
+
+Immunohistochemisty assays examining the HER2 receptor in breast cancer
+is the most widely adopted example of a companion diagnostic approach,
+which seeks to dictate therapeutic strategy based on a molecular
+description of a patient's disease. There are well-established guidelines
+for selecting patients for anti HER2 adjuvant therapies in breast cancer
+treatment, yet the current HER2 companion diagnostic approach is
+qualitative, does not sufficiently account for intratumor heterogeneity,
+and does not utilize any additional information about tumor cells that
+score beyond a specific threshold level. A major contributing factor for
+the failure of both treatment and diagnostic paradigm is thought to be
+intratumor heterogeneity. This lack of information in the scoring
+paradigm may contribute to inappropriate patient selection and explain
+why the disease in many trastuzumab treated patients progresses or
+becomes recurrent. Thus, a quantitative clinical measurement of
+heterogeneity in immunohistochemistry staining would be useful in better
+predicting patient therapeutic response. To answer this, we created a
+heterogeneity scoring approach (HetMap) that allows the visualization of
+an individual patient's IHC heterogeneity in the context of a cell
+population. We combined HER2 semi-quantitative analysis with the use of
+ecology diversity statistics to evaluate cell-level heterogeneity
+(consistency of protein expression within neighboring cells in a tumor
+nest) and tumor-level heterogeneity (differences of protein expression
+across a tumor as represented by a tissue section). We evaluated the
+approach on HER2 immunohistochemistry stained breast cancer samples,
+using 200 specimens across two different CLIA laboratories, with three
+pathologists at each laboratory each outlining regions of tumor for
+scoring by automatic cell-based image analysis. HetMap was evaluated
+using three different scoring schemes: HER2 scoring according to ASCO/CAP
+guidelines, H-Score and a new continuous HER2 score (HER2cont).
+Cell-level heterogeneity, reported either as an average or the maximum
+area of heterogeneity across a slide, had low levels of dependency on the
+pathologist choice of region. Tumor-level heterogeneity measurements had
+more dependence on the pathologist choice of regions. Significantly,
+discordant pathologist assessments of IHC scores in the +2, or equivocal
+score, range occurred most in tumors with high heterogeneity, leading to
+potentially major clinical impact. Thus, HetMap is a measure of
+heterogeneity, by which pathologists, oncologists, and drug development
+organizations can view cell-level and tumor-level heterogeneity for a
+patient for a given marker in the context of an entire patient cohort.
+Including such measures of heterogeneity in diagnostic approaches can
+help establish better thresholds for patient selection, thereby improving
+patient response.
+

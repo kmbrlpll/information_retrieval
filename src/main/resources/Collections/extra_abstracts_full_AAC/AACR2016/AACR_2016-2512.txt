@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Bmi1 identifies treatment-refractory stem cells in human
+glioblastoma
+
+
+Glioblastoma (GBM) is an aggressive and fatal primary adult brain tumor.
+Even with surgery, chemotherapy with temozolomide (TMZ), and radiation,
+tumor re-growth and patient relapse are inevitable. Brain tumor
+initiating cells (BTICs), a rare subset of GBM cells with stem cell
+properties, were shown to be both chemo- and radio-resistant. We
+hypothesize that these treatment-resistant BTICs cause tumor relapse and
+a subset of neural stem cell genes regulate BTIC self-renewal, driving
+GBM recurrence.Using patient-derived primary GBM samples, we designed an
+in vitro model of tumor recurrence by treating cells with TMZ and
+radiation. We also adapted the existing treatment protocol for adults
+with primary GBM for in vivo treatment of immunocompromised mice
+engrafted with GFP+ GBM cells. Post-chemoradiotherapy, GFP+ cells were
+recovered from mouse brains and profiled for self-renewal, proliferation
+and mRNA expression of important stem cell genes. Using in vitro and in
+vivo gain-of-function/loss-of-function experiments, we investigated the
+regulatory functions of Bmi1 in primary neural stem & progenitor cells
+(NSPCs) and GBM tumor formation. To understand the consequences of Bmi1
+dysregulation on target gene expression, we performed global RNA-seq
+profiling on NSPCs and GBMs.GBM cells showed an increase in Bmi1 levels
+post-chemoradiotherapy, suggesting the presence of a treatment-refractory
+BTICs. GFP+ cells extracted from chemoradiotherapy treated human tumor
+xenografts showed increased self-renewal and elevated BTIC marker
+expression. Although treated mice responded to therapy with decreased
+tumor size, we observed tumor relapse post-chemoradiotherapy with
+increased Bmi1 protein expression. Knockdown of Bmi1 diminished
+self-renewal and proliferation of GBM cells and delayed tumorigenesis in
+xenografted mice, highlighting a critical role for Bmi1 in tumor
+initiation and maintenance. Conversely, over-expressing Bmi1 in NSPCs
+induced stem cell properties in vitro, but failed to initiate tumor
+formation in vivo. Using high-throughput sequencing data, we generated a
+map of signaling pathways dysregulated in GBM that may lead to tumor
+recurrence.Our data confirms the existence of a rare treatment-refractory
+BTICs population that escapes therapy, and drives tumor relapse and
+recurrence with enhanced self-renewal capacity. Our human BTIC in vitro
+assays and human-mouse BTIC xenograft model provide fundamental tools to
+characterize the functional relevance and of key stem cell self-renewal
+genes in GBM recurrence.
+

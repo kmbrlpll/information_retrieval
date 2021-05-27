@@ -1,0 +1,33 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Recurrent mutations of CDKN2A genes characterize worse prognosis
+of HPV positive and negative oropharyngeal squamous cell carcinoma
+
+
+Background: Oropharyngeal squamous cell carcinoma (OSCC) exhibits unique
+clinical and molecular characteristics, depending on its association with
+high-risk human papillomavirus (HPV) or other carcinogen like smoking1.
+Considering significant subset of patients with OSCC still exhibits poor
+response to contemporary treatments2, which frequently cause significant
+toxicity, a more detailed understanding of these poor responders,
+especially adopting current precision genomic technology, could provide a
+clue for developing better treatment.Methods: In this study, we gathered
+the somatic point mutations and mRNA expression data of 520 OSCC patients
+from The Cancer Genome Atlas (TCGA) and then investigated recurrent
+somatic point mutations. To genes having the recurrent and same type
+point mutations, in addition, we check out the mRNA expression and
+analyzed a survival analysis.Results: We found 7 somatic point mutations
+of CDKN2A gene, which having recurrent patients and only nonsense SNVs.
+Out of these mutation, 6 recurrent point mutations of CDKN2A gene have
+highly expressed on PIK3CA, FGFR2 and FGFR3 genes, as well as showed a
+significant deterioration on survival outcome.Conclusion: Recurrent
+nonsense mutations of CDKN2A mostly (6/7, 85.7%) derived an abnormal
+regulation of other genes, such as PI3KA, FGFR2, and FGFR3. Moreover,
+this pattern of mutations significantly characterizes ominous prognosis
+in HPV positive and negative OSCC. Our result might provide better
+insights for characterizing the subgroup of OSCC and eventual development
+of precision strategy for this disease subset.References1. Licitra, L. et
+al. High-risk human papillomavirus affects prognosis in patients with
+surgically treated oropharyngeal squamous cell carcinoma. J Clin Oncol
+24, 5630-6 (2006).2. Ang, K.K. et al. Human papillomavirus and survival
+of patients with oropharyngeal cancer. N Engl J Med 363, 24-35 (2010).
+

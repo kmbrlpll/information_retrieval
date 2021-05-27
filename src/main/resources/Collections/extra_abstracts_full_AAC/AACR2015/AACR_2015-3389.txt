@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A multiplexed immunohistochemistry test to screen for protein
+overexpression of ROS1, TrkA, TrkB and TrkC in multiple tumor tissue types
+
+
+Introduction: A consequence of precision medicine is the increased
+challenge to identify small patient populations, while maintaining
+testing efficiency and manageable costs. One area of focus is identifying
+gene rearrangements in patients for targeted kinase inhibitor therapies,
+where the prevalence in a patient population can be 1-10%. Diagnostic
+detection of gene rearrangements is primarily accomplished by
+fluorescence in situ hybridization (FISH), while next generation
+sequencing (NGS) or immunohistochemistry (IHC) show promise. FISH does
+not provide information regarding the gene fusion partner, while NGS is
+expensive and labor intensive. IHC is both high throughput and cost
+efficient, but not specific to rearrangements. To enable rapid screening
+of large tissue populations for prevalence, we sought to develop a method
+that could be broadly applied to multiple receptor tyrosine kinases
+simultaneously to streamline screening for multi-targeted therapeutics.
+To this end, we have developed a multiplexed IHC method that assesses
+expression of the clinically promising markers: ROS1, TrkA, TrkB, and
+TrkC in multiple tumor tissues. Specimens selected positive by this
+pan-receptor IHC assay can then be reflexed to a method with higher
+sensitivity and specificity for gene rearrangements (e.g. NGS).Methods:
+Standard IHC was conducted as follows: Antigen retrieval was performed in
+EDTA (pH 9) at 98C for 30 min. The primary antibody cocktail consists of
+antibodies against ROS1 (D4D6, Cell Signaling) and a pan-Trk antibody
+(C17F1, Cell Signaling). A signal amplification step was performed before
+the secondary antibody conjugated to a dextran-HRP polymer (Envision
+FLEX, Dako) step. Signal was developed using DAB and counterstained with
+hematoxylin.Results: We have developed an assay for measuring expression
+of multiple receptor tyrosine kinases in multiple tissue types using a
+cocktail of antibodies that is sensitive, accurate, and with minimal
+background or cross-reactive staining. This has been demonstrated using
+characterized cell lines and human tissues with results confirmed by
+testing individual IHC markers and alternative methods (e.g. FISH or
+NGS). Since IHC measurements are assessing in-frame expression, we can
+also identify false positive samples such as FISH detected rearrangements
+which do not lead to active protein product.Conclusions: We have
+demonstrated a simple, sensitive, multiplexed IHC assay to screen for
+molecular alterations (ROS1, TrkA/B/C) that are currently not part of
+standard tissue annotation. We have shown that the assay is able to
+identify molecular alterations that have been confirmed by sequencing.
+The test is expandable and can be adjusted to suit the needs of
+researchers studying specific protein families.
+

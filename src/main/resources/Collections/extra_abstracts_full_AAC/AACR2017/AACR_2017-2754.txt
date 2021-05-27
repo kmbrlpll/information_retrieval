@@ -1,0 +1,30 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A novel liquid biopsy method for development of aptamer libraries
+that bind blood plasma exosomes from breast cancer patients.
+
+
+Improved technologies capable of characterizing system-wide changes
+associated with complex diseases will be required to be able to detect
+millions of proteins and their isoforms as well as multi-molecular
+complexes. We present a method for developing aptamer libraries using
+blood plasma exosomes that provides unprecedented system-wide coverage of
+native exosomal complexes. To train a naïve aptamer library toward
+cancer samples (positive selection), the library (~1013 biotinylated
+ssODN species) was incubated with plasma from individual cancer patients
+and aptamer-bound exosomes were isolated using polymer-based
+precipitation. Negative selection was performed by contacting the aptamer
+library with exosomes from donors without breast cancer and recovering
+unbound aptamers from the supernatant. In all, 12 libraries trained
+toward 12 individual breast cancer patients were used to probe additional
+samples. Exosome-bound aptamers were identified and quantified by Next
+Generation Sequencing (NGS) to build highly accurate signatures for
+cancer/healthy donor classification. Using these signatures, cancer
+patients’ binding profiles were easily distinguishable from controls.
+Interestingly, cancer-trained libraries did not distinguish any of the
+negative control samples from each other, indicating that the selection
+pressure for cancer was high and noise due to inherent inter-healthy
+donor heterogeneity was minimal. Full validation studies are ongoing.
+Aptamer libraries may ultimately be deployed as a minimally-invasive
+diagnostic adjunct in breast and other cancers.
+
+

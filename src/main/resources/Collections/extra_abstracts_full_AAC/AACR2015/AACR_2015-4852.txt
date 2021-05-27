@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Performances evaluation of algorithms for identifying
+differentially expressed genes in RNA-seq data
+
+
+IntroductionRNA sequencing (RNA-seq) has rapidly become one of the main
+methods to study transcriptome. It has become an important and popular
+issue to identify biomarkers based on their differential expression
+patterns in NGS data. Currently, more than 10 different algorithms can be
+used to detect differentially expressed genes. However, challenge arises,
+when trying to choose the best algorithm under different experimental
+conditions. To address this issue, we aimed to perform a series of
+simulations under distinct scenarios, which can help researchers to
+select the best algorithm according to their data types and
+structures.MethodRNA-Seq data were simulated by a published method named
+as flux-simulator. Three parameters including the proportion of
+differentially expressed genes, the relative fold changes of
+differentially expressed genes, and the replicate number of samples, were
+considered to define distinct simulation scenarios. To make the
+parameters more practical, we determined the parameters based on a real
+dataset. Three types of differentially expressed genes were simulated
+according to their fold changes between two groups. A total of 7
+algorithms including DESeq, DESeq2, DEGseq, edgeR, limma, baySeq and
+Cuffdiff, were compared and evaluated. The raw read count table was
+analyzed in all algorithms, except Cuffdiff. In order to avoid errors
+from performing the alignment, the read count table is obtained directly
+from the simulated fastq file.ResultsSpecificity and sensitivity were
+calculated and compared in different scenarios. As expected, the more
+replicate count is, the higher accuracy is obtained in all algorithms.
+Although previously studies showed that there were marginal effect
+between replicate numbers and number of reported differentially expressed
+genes, our results did not demonstrate such phenomenon. It might be
+attributed to that the replicate number is not large enough. In addition,
+the results showed limma, edgeR and DESeq were more conservative than the
+other algorithms, DEGseq has highest accuracy but follow with lower
+specificity when a large amount of genes are differentially expressed.
+Over all, edgeR shows the best trade off within sensitivity and
+specificity. Further research efforts are warranted to compare algorithms
+in different scenarios, especially the number of differentially expressed
+genes is low.ConclusionIn conclusion, this study provided a direct
+comparison of different algorithms under different experimental
+scenarios. The results showed that edgeR algorithm worked better in the
+scenario of finding novel genes in new disease. With its high precision,
+it will be more efficiency to validate identified gene through experiment.
+

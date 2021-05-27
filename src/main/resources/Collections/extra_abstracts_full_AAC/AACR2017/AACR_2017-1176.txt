@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Preclinical characterization of the
+pharmacokinetic-pharmacodynamics-efficacy relationship of novel
+allosteric SHP2 inhibitors.
+
+
+SHP2 is a non-receptor protein tyrosine phosphatase downstream of
+receptor tyrosine kinases (RTK). Mutations yielding constitutive
+activation of SHP2 primarily lead to activation of the MAPK pathway and
+have been found in multiple tumor types. These observations make SHP2 a
+potentially promising therapeutic target for the treatment of cancers
+with RTK dependence. Recently, a novel allosteric mechanism of SHP2
+inhibition was identified where the autoinhibited form of SHP2 is
+stabilized via small molecule binding. Herein we describe efforts to
+characterize the pharmacokinetic (PK)/pharmacodynamic (PD)/efficacy
+relationship of orally bioavailable novel allosteric SHP2 inhibitors.
+
+Single dose PK/PD studies were conducted in nude mice engrafted with the
+EGFR amplified esophageal squamous cell carcinoma cell line, KYSE520. The
+allosteric SHP2 inhibitor SHP099 achieved time and dose dependent
+increases in plasma concentrations and concomitant reductions in tumor
+pERK that could be described by an Emax model. Tumor pERK levels were
+reduced by 50 to 70% when SHP099 unbound plasma concentrations exceeded
+the in vitro cellular PD IC50, suggesting that exposure above this
+threshold was required for pathway inhibition in vivo. A second
+allosteric SHP2 inhibitor, SHP065, was also profiled in vivo and yielded
+data consistent with this hypothesis. Two additional allosteric SHP2
+inhibitors (SHP156, SHP393) that achieved unbound plasma concentrations
+approximating their cellular IC50s failed to modulate tumor pERK. The
+totality of these data support the hypothesis that unbound plasma
+concentrations in excess of the cellular IC50 is required for allosteric
+SHP2 inhibitors to inhibit the MAPK pathway in vivo.
+
+We further demonstrated that SHP099 achieves dose dependent inhibition of
+KYSE520 tumor xenograft growth in nude mice. Integration of the antitumor
+efficacy data and pERK inhibition data revealed a direct linear
+relationship between tumor growth inhibition and the fraction of time
+between dosing intervals in which pERK is inhibited by at least 50%. To
+test this model, SHP099 PK data from nude rats was applied to the Emax
+model and the resulting predicted PD responses were applied to the
+PD/efficacy model to predict SHP099 anti-tumor efficacy in nude rats.
+Data generated from a SHP099 KYSE520 efficacy study in nude rats
+demonstrated that the exposure/response model was remarkably robust.
+Doses of 8 mg/kg qd, 25 mg/kg qd, or 75 mg/kg q2d yielded observed T/C of
+70, 14, and 18%, respectively; versus a model predicted T/C of 75, 6, and
+6%, respectively. In summary, we describe for the first time successful
+efforts to characterize the PK/PD/efficacy relationship of novel
+allosteric SHP2 inhibitors. These exposure/response models served as a
+basis for further allosteric SHP2 inhibitor drug discovery efforts and
+begin to inform rational approaches to dose and schedule selection in
+clinic.
+
+

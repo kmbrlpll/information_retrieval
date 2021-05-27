@@ -1,0 +1,41 @@
+Meeting: 2014 AACR Annual Meeting
+Title: EVI1 transcriptionally represses SLUG to regulate
+epithelial-mesenchymal transition (EMT) in human colon cancer
+
+
+Ecotropic viral integration site-1 (EVI1) is an oncogenic transcription
+factor that is frequently implicated in hematological malignancies and in
+some solid tumors. Deregulated expression of EVI1 impairs several
+pathways including proliferation, differentiation, apoptosis and cell
+cycle through different mechanisms in different cell types. EVI1 was
+found to be overexpressed in 53% of human colorectal cancer samples, 100%
+of colon adenocarcinoma samples, 100% of human colon cancer cell lines
+and its presence might affect disease progression and sensitivity to
+chemotherapy. To investigate the stage specific expression pattern of
+EVI1 in colon cancer patient samples, we analyzed two of the publicly
+available microarray datasets (GEO database) of colon cancer patients and
+observed that although EVI1 is upregulated in the initial stage of the
+disease, the expression level decreases with the progression of the
+disease. In cancer cells loss of epithelial adhesion molecule E-cadherin
+is considered to be a fundamental event in EMT. To decipher whether EVI1
+is involved in EMT, we checked five transcription factors (SLUG, SNAIL,
+TWIST, ZEB1 and ZEB2) which controls the expression of E-cadherin in
+cancer cells. Significant negative correlation was observed between the
+expression levels of EVI1 and all the above transcription factors in
+colon cancer patient samples. Recently it was shown by using ChIP
+sequencing that EVI1 target SLUG and SNAIL in SKOV3 cells. To understand
+whether EVI1 directly binds to both SLUG and SNAIL, we did an in silico
+analysis and searched for EVI1 binding site(s) in the functional promoter
+region of both SLUG and SNAIL. Although we did not observe any binding
+site in SNAIL promoter region; we observed two EVI1 binding sites in the
+SLUG promoter region. To validate the predicted target sites in vivo, we
+did a ChIP assay and found that EVI1 binds to one of the site and not
+both of them. To determine the transcriptional regulation, we cloned the
+promoter region of SLUG (-1100 bp) in pGL3 vector and did luciferase
+assay, which revealed that EVI1 significantly represses SLUG activity in
+EVI1 transfected cells. Analysis of gene expression databases
+corroborates the above finding and shows that EVI1 negatively regulates
+SLUG expression in each stage of the disease as well as in colon cancer
+cell lines. We have worked on the functional aspects of the binding in
+terms of EMT which will be presented in the poster.
+

@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Establishment and validation of a breast cancer panel using
+targeted next generation bisulfite sequencing (tNGBS).
+
+
+Aberrant DNA methylation (e.g., global reduction in DNA methylation and
+differential methylation of promoter regions) is a hallmark of cancer and
+may function in various ways to influence transcription. We developed a
+panel of bisulfite specific methylation sequencing assays in order to
+assess the methylation status of large number of genes using
+pyrosequencing. By combining these pyrosequencing assays into a targeted
+NextGen bisulfite sequencing panel, we can screen both a large number of
+genes and a large number of samples simultaneously. We first assembled
+the 40 pyrosequencing assays and sensitivity and reproducibility were
+analyzed on pilot DNA samples isolated from FFPE tissue. Assays were
+specifically designed to work in highly fragmented and cross-linked DNA
+from formalin-fixed, clinical samples. Initial pyrosequencing on these
+pilot samples showed that 24 of the 40 assays gave quality validation and
+sample results. Reasons that some assays were not successful may be due
+to the A/T or G/C content within the amplicon, PCR Bias, low
+amplification efficiency, or strong cross-linking from fixation within
+the assay to name a few. The initial 40 assays were next assembled in a
+combination of 7 multiplex PCRs in which gradient PCRs were performed and
+analyzed for optimal multiplex amplification using a bioanalyzer. Final
+assay multiplexing combinations were established and PCR bias testing was
+performed by tNGBS on a sample set of high and low methylated DNA mixed
+at different ratios. Assays with an R-square of less than 0.9 between the
+expected and generated methylation from this mixing were removed, leaving
+us with 21 validated assays in our panel (9 of 24 assays that were
+previously validated in pyrosequencing and 12 of 19 assays that could not
+be validated in pyrosequencing). In the present study we looked at DNA
+methylation changes in breast cancer development using paired adjacent
+normal, invasive and in situ tissue from a 30 patients with breast cancer
+as well as 11 various normal tissues other than breast, and 12 cell lines
+for a total of 83 samples in a panel of 21 genes. The results of the
+tNGBS were compared with the pyrosequencing results. This process of
+panel development, where small amounts of bisulfite treated DNA can be
+amplified in a target specific manner, prior to sequencing, makes
+investigating a large number of samples on a large panel of genes
+possible in a small amount of time. We observed a high correlation
+between the pyrosequencing and tNGBS sequencing results, and we show that
+that there are several genes that are either hypermethylated or
+hypomethylated in tumor tissue when compared to adjacent normal tissue.
+
+

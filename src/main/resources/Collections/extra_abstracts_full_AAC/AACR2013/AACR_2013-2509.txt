@@ -1,0 +1,80 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Mechanism of anti-proliferative effects of SIRT1 inhibition in
+melanoma cells: a proteomics approach.
+
+
+An analysis of the SEER (Surveillance, Epidemiology, and End Results)
+program data has suggested that the age-adjusted annual incidence of
+melanoma in both young men and women has increased over the past 20
+years. The current therapeutic options have shown little success in
+melanoma management. Therefore, novel mechanism and target-based
+strategies are needed for the management of this disease. The mammalian
+SIRT1 or sirtuin (silent mating type information regulation 2 homolog) 1
+is a NAD(+)-dependent class III histone deacetylase (HDAC) that has been
+shown to play important roles in a variety of biological processes and
+diseases including cancer. Previous studies from our laboratory have
+demonstrated that 1) SIRT1 is overexpressed in human melanoma cells and
+tissues; 2) SIRT1 inhibition by Tenovin-1 resulted in decreased growth,
+viability, and clonogenic survival of melanoma cells; 3) Tenovin-1
+treatment resulted in decreased level of SIRT1 protein and increased
+level of the tumor suppressor p53 (In: AACR Annual Meeting: Proceedings;
+2012 March 31-April 4, Chicago, IL; Abstract # 4722). In this study we
+employed a proteomics approach using gel free Liquid Chromatography-Mass
+Spectrometry (LC-MS) to identify the downstream molecular targets of
+SIRT1 in melanoma. The human melanoma G361 cells were treated with
+Tenovin-1 (25 M; 48 h) followed by protein extraction. Extracted proteins
+were precipitated (using 10% TCA and 0.05% DTT), pelleted and washed with
+acetone and air dried. Samples were re-suspended, labelled, trypsin
+digested and subjected to LC-MS/MS on a linear trap quadrupole (LTQ)
+Orbitrap XL. The resultant peptide sequence data were matched against the
+uniprot_human_FR_CP_090710 database using Mascot (Matrix Sciences,
+London, UK). Scaffold (version Scaffold_3.6.1, Proteome Software Inc.,
+Portland, OR) was used to validate MS/MS based peptide and protein
+identifications. Protein identifications were accepted if they could be
+established at greater than 95% probability and contained at least two
+identified peptides. The differentially expressed protein data were
+collected from three different biological replicates. We found 14
+proteins (from a total of 1092) which showed +2 fold differential
+expressions with statistical significance (T-test, p value An analysis of
+the SEER (Surveillance, Epidemiology, and End Results) program data has
+suggested that the age-adjusted annual incidence of melanoma in both
+young men and women has increased over the past 20 years. The current
+therapeutic options have shown little success in melanoma management.
+Therefore, novel mechanism and target-based strategies are needed for the
+management of this disease. The mammalian SIRT1 or sirtuin (silent mating
+type information regulation 2 homolog) 1 is a NAD(+)-dependent class III
+histone deacetylase (HDAC) that has been shown to play important roles in
+a variety of biological processes and diseases including cancer. Previous
+studies from our laboratory have demonstrated that 1) SIRT1 is
+overexpressed in human melanoma cells and tissues; 2) SIRT1 inhibition by
+Tenovin-1 resulted in decreased growth, viability, and clonogenic
+survival of melanoma cells; 3) Tenovin-1 treatment resulted in decreased
+level of SIRT1 protein and increased level of the tumor suppressor p53
+(In: AACR Annual Meeting: Proceedings; 2012 March 31-April 4, Chicago,
+IL; Abstract # 4722). In this study we employed a proteomics approach
+using gel free Liquid Chromatography-Mass Spectrometry (LC-MS) to
+identify the downstream molecular targets of SIRT1 in melanoma. The human
+melanoma G361 cells were treated with Tenovin-1 (25 M; 48 h) followed by
+protein extraction. Extracted proteins were precipitated (using 10% TCA
+and 0.05% DTT), pelleted and washed with acetone and air dried. Samples
+were re-suspended, labelled, trypsin digested and subjected to LC-MS/MS
+on a linear trap quadrupole (LTQ) Orbitrap XL. The resultant peptide
+sequence data were matched against the uniprot_human_FR_CP_090710
+database using Mascot (Matrix Sciences, London, UK). Scaffold (version
+Scaffold_3.6.1, Proteome Software Inc., Portland, OR) was used to
+validate MS/MS based peptide and protein identifications. Protein
+identifications were accepted if they could be established at greater
+than 95% probability and contained at least two identified peptides. The
+differentially expressed protein data were collected from three different
+biological replicates. We found 14 proteins (from a total of 1092) which
+showed +2 fold differential expressions with statistical significance
+(T-test, p value <0.05). Among these proteins, three proteins were found
+to be newly expressed whereas one was found to completely disappear
+following SIRT1 inhibition, under the experimental conditions employed.
+The differentially expressed proteins identified in our study are
+associated with RNA processing-, mitochondrial checkpoint- and apoptosis-
+pathways. Currently, we are in process of validating and ascertaining the
+functional relevance of these downstream targets. Our provides an
+improved understanding of SIRT1 downstream targets, which may lead to
+better strategies for melanoma management.
+

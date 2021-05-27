@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Comprehensive detection of all major classes of MET deregulation
+by Anchored Multiplex PCR and next-generation sequencing.
+
+
+Introduction: Deregulation of the proto-oncogene, MET, confers an
+aggressive phenotype in a variety of human cancers, promoting
+proliferation, invasive growth and angiogenesis. MET deregulation can be
+driven by gene amplification, overexpression, exon 14 skipping, gene
+fusions and single nucleotide variants (SNVs), such as kinase-activating
+point mutations. MET is a target of intensive drug development efforts,
+although the various mutated forms of MET exhibit unique drug
+sensitivities. Therefore, detection of these mutations has an important
+role in the development of drugs targeting MET, and has the potential to
+guide treatments for cancers driven by MET deregulation.
+
+Next-generation sequencing (NGS) enables comprehensive detection of all
+mutation types from whole genomes and transcriptomes. However, low
+detection sensitivity, high input requirement and high costs render these
+approaches impractical for routine detection of mutations from low-input
+clinical sample types. We developed a targeted NGS assay based on
+Anchored Multiplex PCR (AMP™) to detect all types of mutations driving
+MET deregulation from a single sample.
+
+Methods: AMP only requires a single gene-specific primer for
+amplification, enabling open-ended capture of DNA and cDNA fragments for
+NGS-based detection of known and unknown mutations. We developed
+AMP-based Archer® VariantPlex™ and FusionPlex® library preparation
+assays to detect mutations from DNA and RNA, respectively. AMP probes
+were designed to cover the MET gene for detection of copy numbers
+variants (CNVs) and SNVs from DNA, and known and novel fusions, exon
+skipping and expression levels from RNA.
+
+Results: We show that the VariantPlex assay enables NGS-based detection
+of MET amplifications from DNA in concordance with FISH results. Further
+NGS analysis of RNA from the same sample using the FusionPlex assay
+revealed the resulting overexpression of MET. We also demonstrate that
+AMP-enabled open-ended capture of cDNA fragments allows for reliable
+detection of exon 14 skipping in FFPE samples and in cells, consistent
+with RT-PCR results. Parallel analysis of DNA from the cell samples
+revealed splice site mutations that have been previously reported to
+drive exon 14 skipping. Furthermore, this open-ended capture also
+permitted identification of a novel GTF2I:MET gene fusion in a
+patient-derived xenograft model. Finally, we detected an
+kinase-activating point mutation in MET, p.Y1253D, by analysis of genomic
+DNA with the VariantPlex NGS assay.
+
+Conclusions: These results show that AMP-based VariantPlex and FusionPlex
+Assays enable comprehensive detection of multiple mutation types from
+low-input clinical sample types, such as FFPE specimens. As MET
+deregulation can be driven by many different genetic aberrations, this
+allows for NGS-based characterization of MET deregulation from a single
+sample.
+
+

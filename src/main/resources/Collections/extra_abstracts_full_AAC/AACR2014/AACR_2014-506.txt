@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: H2O2 upregulates xCT in human breast cancer cells via NRF-2
+
+
+Cancer cells adapt to high levels of oxidative stress in order to survive
+and proliferate, making the transcription factors involved in antioxidant
+defense regulation targets of interest. The transcription factor NF E2
+Related Factor 2 (NRF-2) regulates cellular defense genes including those
+encoding intracellular redox-balancing proteins such as enzymes involved
+in glutathione metabolism. Glutathione in particular is an important
+intracellular antioxidant molecule. NRF-2 binds to the Antioxidant
+Response Element (ARE) in the promoter of its target genes. Under basal
+conditions, KEAP1 acts as an inhibitor that targets NRF-2 for
+ubiquitination. During oxidative stress, NRF-2 dissociates from KEAP1 and
+enters the nucleus to bind to the ARE sequence.It is hypothesized that
+the elevated Reactive Oxygen Species may be depleting the glutathione
+levels within the cancer cell. System xc- is a cysteine/glutamate
+antiporter that exports glutamate while importing cysteine to synthesize
+glutathione. In response to oxidative stress the cells increase system
+xc- activity in order to provide cysteine for glutathione synthesis.
+There is evidence that expression of xCT the specific subunit of System X
+is regulated by NRF-2. However this has not yet been demonstrated in
+human cancer cells, which is the focus of this project.Basal expression
+of NRF-2, Keap1 and xCT was characterized in two breast cancer cell lines
+(MDA MB 231 and MCF-7) compared to normal human breast epithelial 184B5
+cells. Compared to 184B5 cells, Keap-1, NRF-2 and xCT were upregulated in
+MDA MB 231 cells, but down regulated in MCF-7 cells. MCF-7 cells were
+treated with H202 resulting in NRF-2 protein accumulation in the nucleus
+and decreased levels in the cytosol. Under the same treatment conditions,
+Keap-1 protein decreased in the nucleus and increased in the cytosol.
+With H202 treatment, xCT mRNA levels increased in MCF-7 cells.We have
+cloned approximately 2.6 kilobase (-2329 to +278 bp) of the human xCT
+promoter region from genomic DNA isolated from MDA MB 231 breast cancer
+cells. We found that the xCT promoter was responsive to treatment with
+H2O2, which increased transcriptional activity. This is consistent with
+results described for the mouse promoter, which is known to contain an
+antioxidant response element that can be bound by NRF-2 during oxidative
+stress. Co transfection of MDA MB 231 with the xCT promoter and an NRF-2
+expression vector also increased promoter activity. This data suggests
+that under oxidative stress, NRF-2 is localized to the nucleus and
+transcriptionally upregulates xCT. This is the first study in which the
+regulation of xCT has been linked to oxidative stress via NRF-2 in human
+breast cancer cells.This work was supported by the Canadian Institutes
+for Health Research.
+

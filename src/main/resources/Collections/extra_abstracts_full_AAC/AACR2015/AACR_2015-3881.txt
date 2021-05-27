@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: In vivo and in vitro characterization of genomic diversity and
+clonal evolution in glioblastoma
+
+
+IntroductionGlioblastoma (GBM) is the most prevalent and aggressive
+primary central nervous system tumor. The molecular heterogeneity among
+and within GBM tumors may contribute to therapy failure. Comprehensive
+panels of well characterized patient-derived xenograft models for
+pre-clinical studies is critical to development of novel GBM
+therapies.MethodsWe established neurosphere models (NSM) from twelve
+freshly resected primary and one recurrent GBM and intracranially
+implanted these in immunocompromised mice. Exome, low pass whole genome
+and whole transcriptome sequencing was performed on tumors, low passage
+NSM and macrodissected xenografts in biological triplicates (total nr of
+samples: 65).ResultsGBM transcriptional subtypes were conserved between
+tumor samples and matched NSM in 42% of cases, suggesting a role for the
+tumor microenvironment in expression classification. Filtering of mouse
+sequence reads from xenograft RNAseq data allowed us to limit subtype
+classification to the tumor cell only transcriptome and as a result,
+expression subtype was consistent in 83% of NSM and derived xenografts.
+The majority (>95%) of driver gene mutations and copy number changes were
+preserved across all five instances of each parental tumor. Of all
+somatic mutations detected in parental tumor samples, 80% could be
+recovered in the NSM after correcting for LOH status and base coverage.
+Surprisingly, the percentage of recovered tumor sample mutations
+increased to 85% in xenografts which was robust in validation and
+suggested subclonal selection in vitro, but not elimination of the
+subclones. The microenvironment provided by NSM culture medium and nude
+mice cranium may provide variable proliferative advantages resulting in
+specific tumor subclones to become dominant. Homozygous deletions and
+fusion transcripts found in tumor samples and xenografts but not NSM
+corroborated these observations. While xenografts retained a higher
+number of tumor sample mutations, a median number of 14 mutations were
+acquired relative to NSM suggesting a more susceptible environment to
+novel somatic events. Biological xenograft triplicates showed remarkable
+overlap in mutational content, suggesting that clonal evolution of NSM in
+vivo is not stochastic but a controlled Darwinian process.To determine
+whether serial passaging of NSM affects the heterogeneity, we performed
+genomic profiling of four matching late passage NSM and found that these
+retained all mutations detected in their early passage progenitors, but
+acquired as many as 50 novel of mutations during the culturing
+process.DiscussionOur study shows that neurosphere cultures and first
+generation xenografts closely mimic their parental tumor. NSM showed a
+remarkable heterogeneity and selective pressures from the tumor
+microenviroment resulted in reproducible subclonal evolution. Our
+findings provide critical new insights in our understanding of tumor
+model development.
+

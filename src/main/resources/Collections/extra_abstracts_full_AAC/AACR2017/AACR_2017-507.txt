@@ -1,0 +1,69 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A signature of stress-induced mutagenesis in cancer.
+
+
+The action of the AID/APOBEC family of cytosine deaminases contributes to
+mutational clustering but fails to explain 50% of the clusters observed
+in cancer genomes. Stress-induced mutagenesis in bacteria occurs when
+double-strand breaks (DSB) happen in DNA in the context of additional
+cellular stress sufficient to initiate the SOS response. This results in
+mutational clustering driven by DinB where mutational abundance decays as
+a function of the distance from the DSB, but remains above background
+rates of mutagenesis up to 1 MB away. In humans, the orthologous genes to
+DinB have become specialized for translesion synthesis (TLS). The
+dysregulation of cell cycle and DNA repair that characterizes most tumors
+would logically increase the need for TLS in cancer. Therefore, we
+hypothesized that stress-induced mutagenesis in cancer would result in
+peaked clusters of SNVs driven by TLS.
+
+We used data from 764 cases with somatic mutation and structural variant
+calls from WGS from the ICGC database, release 19, and private de novo
+mutations derived from 130 trios in the 1000 Genomes project with WGS.
+SNV context was determined based both on the reference and the mutant
+allele, and called when only one mechanism (TLS, APOBEC, or AID) could be
+assigned, thereby underestimating the actual number of TLS events. We
+observed that as the total number of SNVs increases so does the number of
+clusters, the proportion of SNVs in clusters, and the average size of
+clusters in both de novo private mutations and somatic mutations in
+cancer. In normal, a median of 15.2% of the SNVs occurring in clusters
+occur in a sequence context indicative of TLS, compared to 0.53% and 1.6%
+for APOBEC and AID, respectively. In contrast, in cancer, TLS accounts
+for a median of 30.6% of SNVs in clusters. APOBEC and AID account for
+2.3% and 2.6%, respectively. We devised a measure of cluster shape based
+on empirical cumulative distributions, termed the Stress-Introduced
+Heterogeneity (SItH) score. It ranges from -1 to 1 and quantifies how
+sharply peaked clusters are with more positive numbers indicative of a
+faster decay in mutational load over distance relative to the putative
+DSB. In normal, SItH scores range from 0.457 to 0.578 with a median of
+0.504. In cancer, SItH scores ranged from 0.17 to 0.999 with a median of
+0.46 and vary significantly by organ site (ANOVA, F=44.96, pWe used data
+from 764 cases with somatic mutation and structural variant calls from
+WGS from the ICGC database, release 19, and private de novo mutations
+derived from 130 trios in the 1000 Genomes project with WGS. SNV context
+was determined based both on the reference and the mutant allele, and
+called when only one mechanism (TLS, APOBEC, or AID) could be assigned,
+thereby underestimating the actual number of TLS events. We observed that
+as the total number of SNVs increases so does the number of clusters, the
+proportion of SNVs in clusters, and the average size of clusters in both
+de novo private mutations and somatic mutations in cancer. In normal, a
+median of 15.2% of the SNVs occurring in clusters occur in a sequence
+context indicative of TLS, compared to 0.53% and 1.6% for APOBEC and AID,
+respectively. In contrast, in cancer, TLS accounts for a median of 30.6%
+of SNVs in clusters. APOBEC and AID account for 2.3% and 2.6%,
+respectively. We devised a measure of cluster shape based on empirical
+cumulative distributions, termed the Stress-Introduced Heterogeneity
+(SItH) score. It ranges from -1 to 1 and quantifies how sharply peaked
+clusters are with more positive numbers indicative of a faster decay in
+mutational load over distance relative to the putative DSB. In normal,
+SItH scores range from 0.457 to 0.578 with a median of 0.504. In cancer,
+SItH scores ranged from 0.17 to 0.999 with a median of 0.46 and vary
+significantly by organ site (ANOVA, F=44.96, p<2.2x10-16). We assessed
+the contribution of TLS, APOBEC, and AID to SItH score using an additive,
+linear model of SItH scores derived solely from SNVs in that specific
+context and including organ site as a variable. We found that in both
+normal and cancer that TLS was the only context that contributed
+significantly to SITH score. Therefore, we conclude that the clustering
+seen in cancer is being driven primarily by TLS and these clusters have a
+shape characteristic of a process of stress-induced mutagenesis.
+
+

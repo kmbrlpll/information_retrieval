@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Predicting DNA accessibility in the pan-cancer tumor genome using
+RNA-Seq, WGS, and deep learning.
+
+
+DNA accessibility, chromatin regulation, and genome methylation are key
+drivers of cancer transcription. However, there is much left to be
+understood about the functional implications of sequence-level data to
+the regulation of gene expression, especially when it comes to the
+noncoding genome. Recently [Kelley, D., Snoek, J., and Rinn, J., Genome
+Res. 2016] trained neural networks to effectively predict DNA
+accessibility in multiple cell types. These models make it possible to
+explore the impact of mutations on the predicted accessibility and thus
+directly link one aspect of the gene regulation puzzle all the way down
+to the sequence level. We present a model with improved performance on
+the original dataset of 164 ENCODE and Roadmap Epigenomics Consortium
+sample types, and then extend the method to provide predictions on any
+sample with RNA-Seq data without need of DNase-seq for the sample.
+
+We first demonstrate that with several model and algorithmic changes we
+improve performance across 164 cell types from a mean AUC of 0.895 to a
+mean AUC of 0.910.
+
+Unfortunately current accessibility models require DNase-seq for each new
+cell type. Models for detecting transcription factor binding sites, which
+rely on ChIP-seq for training data, also share this issue. In order to
+generalize sequence-based predictive models to apply to unseen cell types
+without requiring re-training we investigate using RNA-Seq as a proxy
+signature of cell type. The model aims to capture the interdependence of
+gene expression levels that characterize a cell with the regulatory logic
+in which sequence-level signatures are combined to determine
+accessibility without restriction to cell type. We explore the model’s
+performance when applied to held-out cell types in the ENCODE and Roadmap
+Epigenomics Consortium data as well as data from the TCGA Pan-Cancer
+initiative. We look for the impact of non-coding changes in whole-genome
+sequencing data in TCGA samples, and report on predicted differences in
+DNA accessibility across cancer subtypes.
+
+

@@ -1,0 +1,38 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Cdk1 prevents DNA rereplication in G2/M by phosphorylating and
+facilitating the removal of Cdc7 from chromatin at the end of S phase.
+
+
+Cancer is inextricably linked with aneuploidy. Aneuploidy can arise for a
+number of reasons, including the deregulation of DNA and centrosome
+replication. Mechanisms have evolved that are designed to ensure that DNA
+is replicated only once per cell cycle. The initiation of DNA replication
+is a key target of these mechanisms, which includes regulating Cdc6, Cdt1
+and Cyclin dependent kinases (Cdks). Although the regulatory mechanisms
+of Cdc6 and Cdt1 are known, the role of Cdk1 in particular is less clear.
+One potential target for Cdk1 regulation is the Dbf4-Cdc7 kinase (DDK),
+which acts as a licensing factor for DNA replication. DDK performs an
+essential and critical step in initiating DNA replication. As such, it is
+a target for novel cancer therapeutic drugs currently in clinical trials.
+Even so, the regulatory mechanisms dictating DDK function in human cells
+remains poorly understood.A site-directed mutagenesis approach was
+undertaken to determine the in vivo function of Cdk-dependent
+phosphorylation sites on the primary Cdc7 sequence. Using over-expressed
+Cdc7 in human cells (HEK293T), the functional significance of Cdc7
+phosphorylation was determined; both the lack of phosphorylation and
+constitutive phosphorylation of Cdc7 was analyzed. We found that Cdc7,
+the catalytic subunit of the DDK, is a target of Cdk1. Cdc7 is
+phosphorylated in G2/M phase by Cdk1. Phosphorylation of Cdc7 removes the
+catalytic subunit of DDK from origins of replication and chromatin with
+the assistance of the nuclear export factor CRM1, which relocates Cdc7 to
+the microtubule cytoskeleton. Finally, the Cdk1-dependent removal of Cdc7
+from chromatin prevents the cell from initiating DNA replication,
+indicating that Cdc7 is a target of Cdk1-dependent inhibition of DNA
+re-replication.We conclude that (1) Cdk1 phosphorylates Cdc7 in vivo. (2)
+Cdk1 dependent phosphorylation of Cdc7 regulates chromatin binding and
+DNA replication and (3) pCdc7 is associated with the nuclear export
+factor CRM1 in G2/M phase, suggesting a mechanism that couples the
+down-regulation of Cdc7 function at the end of S phase through nuclear
+localization and chromatin association. Taken together, our data provides
+key insight into the functional understanding of DDK.
+

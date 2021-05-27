@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: PredICT: a novel solution for capturing, assembling and combining
+in vivo data
+
+
+Historically, within large pharmaceutical R&D organisations, the inherent
+complexity and diversity of preclinical in vivo PKPD and efficacy data
+has encouraged a culture in which data capture and storage is generally
+informal and spreadsheet-based. This makes data sets both hard to find
+and hard to accurately interpret and limits the useful lifetime of the
+data. Cross-study analysis becomes inherently difficult, time-consuming
+and error-prone due to the manual effort required to identify, obtain,
+understand, collate and transform data sets from multiple studies into
+appropriate formats for visualisation and analysis.With ever more
+sophisticated studies being generated exploring doses, schedules and
+combinations, and with the increased reliance on quantitative systems
+pharmacology approaches to support drug projects, there is considerable
+need to treat data as the vital asset it is recognised to be, and to
+secure and exploit it in an effective way. PredICT is a novel platform
+built to integrate, manage and analyse in vivo data in a much more
+coherent fashion.The requirements in terms of the data workflow tools of
+in vivo pharmacologists and modelling scientists were determined which
+required the development of features that enable effective data
+organisation and flow. Specifically (1) data capture tools that integrate
+into the existing scientist workflow enabling efficient and automated
+data upload; (2) a generalised language and database for storing in vivo
+studies including the full details of the dosing regime and measured
+endpoints; (3) a data query tool and interface to quickly and efficiently
+identify the studies and data of interest in order to collate and present
+a summarised set of results; (4) an automated export feature to deliver
+data into formats that can be directly imported into visualisation and
+modelling software. Complex Oncology in vivo studies assessing multiple
+dose and schedule groups can be expressed in the database, providing all
+the primary and meta-data to re-create the experiment numerically. These
+studies can then be visualised in a query tool that collates data from
+across multiple studies to enable integrated analysis.PredICT platform
+has transformed the way in which all project scientists handle in vivo
+data at AstraZeneca. For in vivo pharmacology scientists the benefits are
+a more streamlined workflow for the capture and storage of data, along
+with an effective and efficient tool for identifying and retrieving data
+from across multiple studies, projects and in vivo models into a single
+data table. For modelling & simulation scientists, it has reduced the
+proportion of time spent dealing with data organisation from
+approximately 50% to less than 5%, allowing them to focus on deriving
+scientific insight rather than hunting for and manually collating data
+sets. More broadly, the platform secures in vivo data in a consistent and
+robust manner, which ensures data integrity for long term use and
+reference.
+

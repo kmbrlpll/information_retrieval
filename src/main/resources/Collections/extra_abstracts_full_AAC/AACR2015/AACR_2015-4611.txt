@@ -1,0 +1,70 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Quantification and functional characterization of the shared
+heritability across multiple cancer sites: results from the GAME-ON
+Consortium
+
+
+It is estimated that more than 1.6 million cancer diagnoses will occur in
+the US during 2014 and five common cancers_breast, colorectal, lung,
+ovarian and prostate cancer_together constitute more than 50% of new
+cancer diagnoses. Many cancers cluster within families and in some cases
+multiple tumor types affect one family. Quantifying the extent to which
+distinct cancer types share genetic predisposition will inform design for
+future genetic association studies and give insights to shared biological
+mechanisms underlying disease.The GAME-ON consortium set out to conduct
+post-GWAS research for breast, colorectal, lung, ovarian and prostate
+cancer. Across the five cancer sites, a total of 51,725 cases and 62,155
+controls were included as part of cancer-specific GWAS and summary
+statistics were shared between the cancer sites to conduct cross-cancer
+analysis. Using the recently developed LD score regression method, we
+leveraged these data to quantify the genetic correlation between these
+five cancers. In addition, we also estimated the genetic correlation
+between these cancers and 59 non-cancer traits using publically available
+GWAS summary statistics. Finally, we also functionally characterized the
+heritability across the five GAME-ON cancers.We found a nominally
+significant positive genetic correlation between breast and lung cancer
+(rg = 0.26, p = 0.045), however this correlation did not remain
+significantly different from zero after adjusting for multiple testing.
+We found positive genetic correlations (all pIt is estimated that more
+than 1.6 million cancer diagnoses will occur in the US during 2014 and
+five common cancers_breast, colorectal, lung, ovarian and prostate
+cancer_together constitute more than 50% of new cancer diagnoses. Many
+cancers cluster within families and in some cases multiple tumor types
+affect one family. Quantifying the extent to which distinct cancer types
+share genetic predisposition will inform design for future genetic
+association studies and give insights to shared biological mechanisms
+underlying disease.The GAME-ON consortium set out to conduct post-GWAS
+research for breast, colorectal, lung, ovarian and prostate cancer.
+Across the five cancer sites, a total of 51,725 cases and 62,155 controls
+were included as part of cancer-specific GWAS and summary statistics were
+shared between the cancer sites to conduct cross-cancer analysis. Using
+the recently developed LD score regression method, we leveraged these
+data to quantify the genetic correlation between these five cancers. In
+addition, we also estimated the genetic correlation between these cancers
+and 59 non-cancer traits using publically available GWAS summary
+statistics. Finally, we also functionally characterized the heritability
+across the five GAME-ON cancers.We found a nominally significant positive
+genetic correlation between breast and lung cancer (rg = 0.26, p =
+0.045), however this correlation did not remain significantly different
+from zero after adjusting for multiple testing. We found positive genetic
+correlations (all p<0.003) between lung cancer and traits related to
+smoking (rg = 0.53-0.64) and adiposity (rg = 0.31-0.42). We also
+identified a positive genetic correlation between schizophrenia and
+breast cancer (rg = 0.16, p = 0.003) as well as a negative genetic
+correlation between adiposity and breast cancer (rg = -0.25, p = 0.01).
+However, these genetic correlations were not statistically significant
+after adjustment for number of tests performed.In functional enrichment
+analysis across all cancers, we observed a 17-fold (se: 2.9) enrichment
+of heritability located within conserved regions. In addition,
+transcription factor binding sites (TFBS), super-enhancers and histone
+marks showed 6.6- (se: 1.2), 2.5- (se: 0.2) and 2.0-fold enrichments,
+respectively.This is the first study to estimate the genetic correlation
+between these five common cancers in a population of unrelated
+individuals. Although we observe only modest evidence of a shared
+heritability of these cancers, the standard errors were large; larger
+samples will be needed to find modest, true genetic correlations. In
+addition, we found that conserved genetic regions are enriched for cancer
+heritability and future studies seeking to discover genetic variants
+associated with these cancers should focus on these regions.Note: This
+abstract was not presented at the meeting.
+

@@ -1,0 +1,44 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Transcriptomic and epigenetic dynamics of breast cancer
+progression in the MMTV-PyMT mouse model
+
+
+Using RNA-sequencing and ERRBS (enhanced reduced representation
+bisulphite sequencing), we identified genes involved in breast cancer
+malignant progression.Human breast cancers have complex molecular
+mechanisms of progression and metastasis. To improve diagnosis and drug
+development, it is critical to identify the genes and molecular pathways
+involved in tumor progression and malignant transition. Using the polyoma
+middle T antigen (PyMT) mouse model, we profiled gene expression from
+four different stages of tumor progression, including hyperplasia,
+adenoma/MIN (mammary intraepithelial neoplasia), early and late
+carcinoma. We identified a large number of differentially expressed genes
+in tumors compared with normal mammary gland, enriched in E2F targets and
+G2M checkpoint genes. Using the temporal information, we found Myc, Sox4
+and Casp9 were associated with tumor progression. Using co-expression
+network analysis, we identified signature modules of panels of genes,
+revealing novel insights into molecular mechanisms of breast
+tumorigenesis. For example, Mcm6 and Ncapd2, hub genes in a DNA
+replication and cell cycle module, predict metastasis in human samples.
+We also found the Hells, Hmgb2 and Cit genes to be increased in
+expression in both mouse and human TCGA (The Cancer Genome Atlas)
+datasets.We complemented these studies by profiling DNA methylation using
+ERRBS in the same samples. We identified a large number of differentially
+methylated cytosines (DMCs), enriched in cis-regulatory elements as well
+as near genes in cancer-related pathways. A small subset of the DMCs was
+well conserved between the progressive stages of tumorigenesis, with the
+greatest shift occurring with the transition to malignancy. We also
+observed a global hypomethylation and a shift towards a subset of loci
+with hypermethylation with tumor progression. Expression of some
+tricarboxylic acid (TCA) cycle genes was negatively correlated with DNA
+methylation, which may reflect altered metabolic regulation in carcinoma.
+We then constructed a co-methylation network and discovered a module with
+decreased DNA methylation in tumor that was enriched with genes from WNT
+and MAPK signaling pathways. In addition, we compared our results to the
+human TCGA breast carcinoma dataset and found the epigenetic modules to
+be overall distinctive between the two species.Altogether, our gene
+expression, DNA methylation and network analyses with the PyMT mouse
+model shed new light on transcriptional and epigenetic dynamics during
+breast cancer malignant progression and reveal gene modules that may
+regulate this biological process.
+

@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: ROCK dependent signalling pathways contribution to collective
+invasion of colorectal carcinoma.
+
+
+Metastatic progression of cancer, which is responsible for 90% of
+patients death, results from tumor cells dissemination out of the primary
+tumor throughout the body. During the first step of this process -that
+consists in invasion of the peritumoral stroma- cancer cells can adopt 1)
+a single cell mode of invasion, in which cell have lost cell-cell
+junctions to move individually, 2) or a collective mode of invasion where
+cells maintain their cell-cell junctions to move as a cohort in which
+Leader cells at the front drag the follower cells at the rear. Although
+tumour histology data from cancer patients show that invasion occurs
+predominantly in a collective manner, this mode of cell invasion remains
+underinvestigated. My work aims at identifying the molecular and cellular
+mechanisms underlying colorectal carcinoma (CRC) collective invasion. I
+use 3D organotypic models of CRC: Caco-2 cell lines or organoids
+generated from CRC patients derived xenografts (PDX) and assess invasion
+in collagen-I based gels using microscopy approaches on fixed or live
+samples. Knowing its central role in the cytoskeleton dynamics which is
+the motor of cell motility, we hypothesize that RhoGTPases signaling
+pathways could control the collective mode of invasion. We therefore
+performed a siRNA based screen targeting the 98 effectors of the pathway
+and found ROCK to be an anti-invasive protein. Although it had been
+described as a proinvasive protein in the single cell mode of invasion,
+we confirmed using pharmacological inhibitors (Y27632 and H1152), that
+ROCK activity inhibition triggered collective invasion. Using a ROCK2
+dominant negative mutant specifically targeting ROCK2 isoform but not
+ROCK1, I demonstrated that ROCK2 inhibition was sufficient to induce
+leader cell formation leading to collective invasion. In contrast,
+depletion of MyosinII -ROCK’s most common effector- was not sufficient
+to induce efficient protusive leader cells. However I found RAC1 to be
+necessary and in a 2nd siRNA based screen targeting GEFs, we identified
+FARP2, a GEF for Rac1, as the mediator of ROCK-RAC1 crosstalk in
+collective invasion. Even though the activation of FARP2 alone or RAC1
+alone were not sufficient to induce leader cell formation, the
+concomitant inhibition of MyosinII recapitulated the collective invasion
+induced by ROCK inhibition. Altogether these results show a new
+anti-invasive role of ROCK2 kinase in collective invasion as it controls
+the formation of leader cells, through 1) the negative regulation of RAC1
+and its GEF FARP2, and 2) the positive regulation of MyosinII.
+
+

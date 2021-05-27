@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A systematic investigation of the effect of scheduling of targeted
+combination therapies on response and dynamics of relapse in triple
+negative breast cancer cells.
+
+
+Cancer treatment typically involves administration of combination of
+targeted therapies, but initial response is often followed by disease
+relapse. The efficacy of a treatment regimen depends on the complex
+interplay between cancer growth dynamics, drug specificity and kinetics,
+treatment dose and its scheduling. In standard high-throughput drug
+screening assays, cells are treated with a single drug cocktail bolus and
+cell viability is assessed after 2-3 days, thus not considering treatment
+interactions and long-term effects. Recently we have reported a promising
+synergistic combination of crizotinib (ALK/MET inhibitor) and ABT-263
+(BCL2/BCL-XL inhibitor) against triple negative breast cancer cells. To
+understand the effect of the sequence and combination doses of crizotnib
+and ABT-263, we designed a comprehensive experimental plan that involved
+a total of 567 treatment regimens by varying treatment duration with the
+first drug (1, 2, or 3 days), followed by drug withdrawal and recovery
+period (2, 5 or 10 days) and then by a second cycle of treatment and
+recovery periods over a 26-day period. Cell viability was assessed by the
+CellTiter-Glo luminescence assay. Interestingly, ABT-263 alone induced
+higher cytotoxicity than an equivalent dose of crizotinib, but the
+remaining viable cells recovered much faster after ABT-263 withdrawal
+than cells after crizotinib withdrawal. Furthermore, cells exposed to
+higher doses of ABT-263 eventually become less sensitive to crizotinib.
+Among sequential regimens, crizotinib followed by ABT-263 was
+significantly more effective than ABT-263 followed by crizotinib, and
+combinations that included lower doses of ABT-263 were most effective.
+Taken together, our results show a significant interaction between the
+two targeted therapies, and suggest that it may be possible to select
+treatment scheduling that can delay drug resistance and tumor relapse in
+vivo.
+
+

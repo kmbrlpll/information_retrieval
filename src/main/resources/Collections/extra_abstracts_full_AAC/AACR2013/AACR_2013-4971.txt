@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: FGF2 promotes resistance to ABL kinase inhibitors in CML.
+
+
+Despite the clinical success of imatinib in treating chronic myeloid
+leukemia (CML), patients who develop resistance to available ABL
+inhibitors remain a clinical challenge. There is compelling evidence to
+suggest that the bone marrow microenvironment hinders the efficacy of
+kinase inhibitors, and may eventually lead to overt resistance. We
+developed a screen of nearly 300 molecules from the microenvironment to
+evaluate molecules that protect CML cells from imatinib. This screen
+identified Fibroblast Growth Factor 2 (FGF2) as a factor that mediates
+kinase inhibitor resistance in the CML cell line K562. Inhibition of FGFR
+with the selective inhibitor PD173014 attenuated the protective effects
+of FGF2, and siRNA revealed that FGF2 promotes survival through
+activation of FGFR3. FGFR3 was found to subsequently activate Ras and the
+MAPK pathway to promote K562 survival - despite effective inhibition of
+BCR-ABL by imatinib. More impressively, addition of FGF2 to K562 cells in
+long-term cultures with imatinib revealed that FGF2 was reproducibly
+capable of promoting growth and eventual imatinib-resistance in K562
+cells (N=5). In contrast, K562 cells cultured in media alone or with
+other myeloid growth factors, did not develop resistance to imatinib.
+Sequencing of the kinase domain in resistant cells did not reveal
+mutations of the ABL kinase domain as a mechanism of resistance.
+Inhibition of both FGFR and BCR-ABL in the FGF2 imatinib-resistant
+outgrowths was synergistic in promoting cell death.To evaluate whether
+FGF2 may be involved in resistance in CML patients, immunohistochemistry
+of bone marrow samples from imatinib, dasatinib and nilotinib resistant
+patients revealed increased FGF2 staining compared to normal controls and
+CML patients at diagnosis, suggesting that FGF2 levels increase over time
+and promote resistance in vivo. Further evidence that FGFR may be
+important in kinase resistance is emerging from clinical trials of the
+novel ABL inhibitor, ponatinib. Although ponatinib was specifically
+developed to bind BCR-ABL with the T315I mutation, it is also a
+multi-kinase inhibitor, including inhibition of FGFR in the low nanomolar
+range. To wit, ponatinib was able to suppress FGF2 imatinib-resistant
+outgrowths in the low nanomolar range whereas imatinib, dasatinib and
+nilotinib were ineffective, even at high doses. In clinical trials,
+ponatinib has proven effective not only against T315I mutated BCR-ABL,
+but also in patients with minor or even no mutations of the ABL kinase
+domain (in press). This suggests that stimulation of growth pathways by
+the microenvironment, such as FGF2, may be an important mechanism of
+resistance in some CML patients. Moreover, our approach provides a method
+to predict pathways of resistance in leukemia cell lines and primary
+patient samples. This strategy has the potential to define rational
+combinations of kinase inhibitors that can circumvent resistance before
+it is even clinically apparent.
+

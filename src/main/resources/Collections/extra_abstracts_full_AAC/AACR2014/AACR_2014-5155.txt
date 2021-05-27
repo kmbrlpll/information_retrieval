@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: RapidFire MS/MS enables both rapid evaluation of multiple histone
+methyltransferases and label-free high throughput screening of targeted
+compound libraries
+
+
+Introduction: Histone methyltransferases (HMT's) are histone-modifying
+enzymes, that catalyze the transfer of one, two, or three methyl groups
+from S-adenosyl-L-methionine (SAM) to lysine and arginine residues on
+histone proteins. This methylation results in changes in gene expression.
+Over-expression and misregulation of these enzymes has been associated
+with cancer, making HMT's an attractive area for the development of new
+cancer therapeutics. We developed highly sensitive, high throughput
+RapidFire-based MS/MS biochemical assays to quantitate the enzymatic
+activity of three different HMT's. This methodology allows a label-free,
+non-radioactive and coupling enzyme free system to biochemically
+characterize the kinetic mechanism of HMT's and determine the mechanism
+of inhibition of small molecule inhibitors.Methods: The API4000 mass
+spectrometer coupled with an Agilent RapidFire 300 Mass Spectrometry
+system was used to rapidly evaluate the enzymatic activity of HMT's using
+native substrates for both enzymatic characterization of the target as
+well as screening highly specialized and targeted compound libraries. The
+Agilent type D column was used for separation of detected products,
+S-adenosyl-L-homocysteine (SAH) and SAM from other assay components.
+Electrospray ionization multiple reaction monitoring positive polarity
+scan was used to detect the two desired analytes of the reaction. SAH was
+detected using a Q1 mass set to 399.2 amu and a Q3 mass set to 250.1 amu
+while SAM was detected using a Q1 mass set to 385.2 amu and a Q3 mass set
+to 136.1 amu.Preliminary data: Pfizer proprietary compound libraries were
+assembled and screened in a 384-well plate format against multiple HMT's
+using the RapidFire 300 coupled with an API4000 mass spectrometer. The
+enzymatic screens using RapidFire LC/MS enable both one platform and one
+method for simultaneous investigation of multiple different epigenetic
+targets in the portfolio. Total cycle time required to process a single
+assay well for a single HMT in a 384 well plate is 10 seconds. Therefore,
+one 384-well plate can be sampled in just under 65 minutes, enabling the
+processing of more than 7,500 compounds per day. Good correlation and a
+sizeable reduction in cost/well is evident with the RapidFire MS/MS
+generated results compared with more traditional assay methods for
+compound screening such as 3H-SAM scintillation proximity assay and
+3H-SAM filter plate assay. This presentation will discuss the results
+generated from the screening efforts of multiple histone
+methyltransferases against our methyltransferase targeted libraries and
+our fragment library, as well as the hit follow-up strategy and
+mechanistic characterization implemented to ensure high quality lead
+matter was selected for further investment and follow-up.
+

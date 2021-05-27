@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The long noncoding RNA SChLAP1 inhibits the SWI/SNF complex,
+revealing a therapeutic opportunity in prostate cancer.
+
+
+Background: Recently, we identified the long noncoding RNA SChLAP1 that
+is expressed highly in 20-30% of prostate cancers and significantly
+associates with metastatic and lethal disease. SChLAP1 enhances cell
+invasiveness in part by interacting with and abrogating genome-wide
+binding of the tumor-suppressive SWI/SNF complex. Approximately 20% of
+all cancers harbor a mutation in SWI/SNF, and several recent studies have
+identified therapeutic opportunities arising from SWI/SNF inactivation.
+We hereby investigate the relationship between SChLAP1 and SWI/SNF and
+its potential therapeutic implications.
+
+Methods: In silico data mining was used to correlate the SWI/SNF complex
+mutation frequency with SChLAP1 expression in prostate cancer samples. A
+systematic tiling deletion approach was then used to map important
+domains on the SChLAP1 gene. In vitro migration and invasion assays as
+well as cell proliferation assays were used to quantify phenotypes
+associated with over-expression of SChLAP1 or its deletion mutants.
+Moreover, CHIP was used to study the influence of SChLAP1 on the genomic
+binding of SWI/SNF.
+
+Results: In prostate cancer samples, SWI/SNF mutations correlate with low
+SChLAP1 expression while high SChLAP1 expression may represent a
+mutation-independent modality of SWI/SNF inhibition. We identify a 250
+nucleotide region necessary for SChLAP1 to bind to SWI/SNF and to confer
+invasiveness to a prostate epithelial cell line. Further studies suggest
+that SChLAP1 inhibition is selective for the BRG1-containing SWI/SNF
+sub-complex, inferring potential genomic specificity. Moreover, we show
+that SChLAP1 over-expression is associated with enhanced sensitivity to
+BRM knockdown, in accordance with the BRG1/BRM synthetic lethality
+previously described in BRG1-deficient cancers.
+
+Conclusions: Our findings indicate that SChLAP1-mediated SWI/SNF
+inhibition may function similarly to SWI/SNF mutation, exposing similar
+therapeutic opportunities.
+
+

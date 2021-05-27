@@ -1,0 +1,34 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A synthetic lethal screen identifies genetic determinants for
+gemcitabine sensitivity in pancreatic cancer
+
+
+Pancreatic cancer is notorious for its devastating disease course and
+prognosis. Gemcitabine is a widely used regimen for pancreatic cancer
+treatment but lack of response and resistance often limits its use. To
+identify the genes and mechanisms involved in determining gemcitabine
+sensitivity in pancreatic cancer, we completed a loss of function genetic
+screen using RNA interference to identify genes which when silenced are
+synthetically lethal with a low dose of gemcitabine in human pancreatic
+cancer cells. We optimized an assay using ATR or CHK1 siRNA as positive
+controls and ATM or non-targeting (NT) siRNA as negative controls. Our
+siRNA library included 4,474 siRNAs corresponding to 1,006 unique human
+genes arrayed in a one-gene:one-well format in 96-well plates. Genes
+chosen for our library consisted predominantly of nuclear enzymes,
+including but not limited to kinases, phosphatases, ubiquitinylation
+proteins, sumoylation proteins, acetylases, deactylases, nucleases,
+helicases, and chromatin modifiers, which we reasoned were more likely to
+function directly in DNA repair processes and be targetable. MIA PaCa-2
+cells were transfected with 25 nM siRNA and treated 48 hours later with
+or without 13 nM gemcitabine for 72 hours prior to the cell proliferation
+assay using WST-1 reagent. Using this assay, we identified 87 genes which
+when silenced caused gemcitabine sensitization and 42 genes which when
+silenced caused gemcitabine resistance. Positive hits included 16 known
+genome maintenance genes including well-characterized ATR signaling
+pathway genes - CHK1, RAD9, HUS1, and CDC25A, 5 putative ATM/ATR
+substrates, and 20 genes identified in previously published DNA damage
+sensitivity screens. 21 of the genes are somatically mutated or
+differentially expressed in pancreatic cancer, suggesting that our
+gemcitabine sensitivity genes may function as useful predictive
+biomarkers or novel targets for the treatment of pancreatic cancer.
+

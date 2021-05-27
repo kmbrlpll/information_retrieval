@@ -1,0 +1,45 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Opposite effect of ECM features in breast carcinoma progression
+according to tumor cell differentiation
+
+
+Our own recent analysis of extracellular matrix (ECM) gene expression
+profiles in breast carcinomas identified four different subgroups of
+breast tumors (ECM1, 2, 3 and 4) proposing a link between stroma
+composition and cancer progression (Bergamaschi et al. J. Pathol, 2008).
+Here, we further investigated the characteristics of ECM signature and
+its impact on tumor progression. The unsupervised clustering of 6
+independent datasets, including more than 600 breast tumor samples,
+revealed that ECM3 was a robust cluster, presenting a homogeneous gene
+pattern that consistently allowed the identification of an independent
+group of tumors in all tested datasets. ECM3 is characterized by highly
+correlated over expression of 58 ECM genes encoding mainly structural
+proteins. From 26 to 41% of cases were ECM3-enriched and were mainly
+estrogen receptor-positive and low grade. Both tumor and stromal cells
+took part in the expression of ECM3 genes, and the hormonal and TGF
+stimuli appeared to highly contribute to ECM3 signature. Multivariate
+analysis of distant metastasis free survival (DMFS) in untreated breast
+carcinoma patients evidenced a statistically significant interaction
+between ECM3 and grade (p=0.0010), that is a different clinical
+significance in the subgroups grade I+II and grade III. Cox models
+estimated separately in the two groups indicated that ECM3 is strongly
+and significantly associated with worse survival probability only in
+grade III tumors (HR=3.0, 95% CI = 1.3 - 7.0, p=0.0098). It is noteworthy
+that the probability of developing metastases in a 10-year follow-up was
+14% for ECM3 differentiated tumors (grade I+II) as compared to 61% for
+the ECM3 grade III carcinomas and about 25% for all non-ECM3 tumors.
+Moreover analysis of a data set of patients treated neoadjuvantly with
+chemotherapy revealed that, among the grade III tumors, pathological
+complete response was reached by 9% of ECM3 versus 74% of non-ECM3 tumors
+(p=0.04). In differentiated tumors no response difference was observed
+according to ECM. Gene set enrichment analysis (GSEA) according to tumor
+cells differentiation revealed that among grade III, non-ECM3 tumors were
+enriched for genes representative of NK, T and B cells, and involved in
+cell cycle progression, while EMT, TGF and hypoxia genes were
+significantly up-modulated in ECM3 tumors, suggesting that aggressiveness
+of ECM3 grade III tumors may reflect the lack of immune cell engagement
+and an increased invasive phenotype. Our results provide evidence that
+breast carcinoma progression and response to therapy are influenced by
+the interaction between tumor and stromal characteristics. (Partially
+supported by AIRC)
+

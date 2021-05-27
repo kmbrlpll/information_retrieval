@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Dynamic transcriptional regulation of ER targets in prostate cancer
+
+
+Introduction: Prostate cancer is the second most common cause of cancer
+death in American men. Prostate cancer is mainly an androgen receptor
+regulated disease, however estrogen signaling is also important in
+prostate physiology and development particularly in aging men as
+decreasing testosterone is accompanied by increasing estrogen levels.
+Further, estrogen signaling through estrogen receptor alpha (ER) has been
+implicated in prostate cancer progression, and ER expression increases in
+high grade tumors, however its precise role remains unclear. Thus far
+there have been no systematic approaches to assay ER transcriptional
+regulation in prostate cancer, and in this study we aim to determine the
+role of ER in prostate cancer by identifying direct ER target
+genes.Methods: ER recruitment profile was assayed by ChIP-Seq in both
+NCI-H660 and ER overexpressing VCaP cells in response to estrogen
+treatment. ER transcriptional regulation of target genes was examined
+utilizing RNA-Seq in VCaP cells with and without ER overexpression.
+Candidate gene expression was assayed via qPCR in prostate cancer cell
+lines, and by RNA-Seq in a 126 sample prostate cancer patient
+cohort.Results: In order to delineate the role of ER in prostate cancer
+we integrated RNA- and ChIP-Seq datasets from two different cell lines in
+response to ER overexpression and estrogen treatment. In doing so we
+identified an ER signature comprising multiple genes that were
+significantly up or down-regulated (> 5-fold) and had an ER binding site
+near the gene promoter. Many of these ER target genes have been
+previously identified as oncogenes or tumor suppressors, and they include
+members several key pathways including PI3 kinase signaling and
+cytoskeleton maintenance. Expression of these target genes was queried in
+multiple prostate cancer cell lines, and interestingly ER binding sites
+and estrogen regulation were cell line specific in both androgen receptor
+positive and negative lines. Further, significant differences in target
+gene expression were demonstrated between benign prostate and prostate
+adenocarcinoma (PCa), and/or between PCa and castration-resistant
+prostate cancer (CRPC) or neuroendocrine prostate cancer (NEPC).
+Combinatorial targeting of both ER and PI3K signaling proved beneficial
+for prostate cancer.Conclusion: These results demonstrate that estrogen
+regulates a distinct set of genes in prostate cancer in a direct genomic
+fashion, including several components of the PI3K pathway. They also
+support the hypothesis that this ER signature is dynamic and changes
+during the course of prostate cancer progression to CRPC and NEPC.
+Further validation of the pathways involved is necessary, however these
+findings may lead to the discovery of novel co-targeting treatment
+strategies and/or prostate cancer biomarkers, and assessment of ER
+signaling may help predict a subclass of prostate cancer patients that
+are likely to respond to PI3K inhibition.
+

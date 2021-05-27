@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Reliable identification of mutations in bottom-up proteomics.
+
+
+Knowledge of missense mutations is of significant biological importance
+as it provides valuable insights into alterations of phenotype. While
+identification of reference proteins is routinely performed in
+proteomics, identification of mutations remains still fairly uncommon.
+Well-established methods for reference peptides are generally
+insufficient for altered ones; e.g., utilizing mutant-augmented database
+search usually results in inadmissible proportion of false positives.
+This undesirable situation is, however, rather natural consequence of
+peptide fragmentation, its computational modelling and evaluation of
+their correspondence. Often, there are many peptides having the same or
+similar agreement with acquired spectrum, thereby preventing
+agreement-based decision. These situations happen frequently in
+identification of mutant peptides (e.g., homologous peptides with PTMs,
+semi-specific peptides), therefore their reliable identification requires
+additional treatment.
+
+To deeper understand properties of identification, we have formally
+studied generalized version of the identification problem and derived its
+optimal solution under particular assumptions. In proteomics, the
+selection of optimal solution can be always found in finite time;
+moreover, the strategy is straightforward to implement, enables
+parallelization and provides guarantees over claimed interpretations. The
+solution utilizes almost exclusively spectral data of product ions
+without additional LC/MS information. In practice, however, it is
+beneficial to employ precursor isotopic distribution analysis for
+correction of non-monoisotopic selection of precursor as that would
+otherwise systematically result in artefacts.
+
+The behaviour of proposed method was validated in a variety of scenarios
+that could be broadly categorized as direct (known spectral content) and
+indirect (partial knowledge of sample content). For direct validation,
+synthetic combinatorial peptide library of 400 peptides (all coded amino
+acids in 12. and 13. codon of KRAS peptide) was measured and interpreted;
+the sensitivity and specificity obtained was 0.81 and 0.99 respectively.
+Indirect validation was, at first, performed on in-house samples with
+RNA-Seq data available (HCT116), giving 97 missense RNA-Seq supported
+mutations. Similarly, the analysis was done on proteome data of NCI60
+cell lines, resulting on average in 23 SNVs with maximum of 56 SNVs
+(HCC-2998). Identified alterations correspond, in general, to highly
+expressed genes. In summary, the approach was shown to reliably identify
+missense mutations in a range of cancer cell lines; its wide
+applicability enhances interpretation of standard bottom-up proteomics
+data.
+
+

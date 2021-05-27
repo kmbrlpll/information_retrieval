@@ -1,0 +1,79 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genomic classification of longitudinally observed small colorectal
+polyps.
+
+
+Introduction:
+
+Colorectal polyps are very common in elderly people with a prevalence of
+15-30% reported in screening series. However, only a minority of 5% of
+these lesions is estimated to develop into invasive cancers, whereas
+others will remain stable or regress over time. In standard practice all
+polyps observed during colonoscopy are removed by polypectomy and
+therefore, knowledge about their natural history is limited. In this
+study, small (6-9mm) colorectal polyps were followed over time and
+subsequently resected during colonoscopy.
+
+Aim:
+
+The prevalence of DNA copy number alterations (CNAs), a feature
+associated with adenoma to carcinoma progression, was compared in polyps
+that morphologically progressed versus those that did not.
+
+Methods:
+
+In the CT-colonography (CTC) arm of the COCOS-trial1 small 6-9mm polyps
+were left in situ. After a three-year surveillance interval, growth
+according to CTC of 95 small polyps was measured. Based on overall
+volumetric change on CTC, polyps were classified as either progressed
+(>30% growth), stable (30% to -30% growth) or regressed (In the
+CT-colonography (CTC) arm of the COCOS-trial1 small 6-9mm polyps were
+left in situ. After a three-year surveillance interval, growth according
+to CTC of 95 small polyps was measured. Based on overall volumetric
+change on CTC, polyps were classified as either progressed (>30% growth),
+stable (30% to -30% growth) or regressed (<-30% growth). From 65 resected
+polyps, formalin-fixed paraffin-embedded material was retrieved and
+reviewed by an expert pathologist (GAM). Of these polyps, 48% (31/65)
+progressed, 41% (27/65) remained stable and 11% (7/65) regressed.
+Seventy-two percent (47/65) were tubular adenomas, 14% (9/65)
+tubulovillous adenomas, 3% (2/65) sessile serrated lesions and 11% (7/65)
+hyperplastic polyps. Subsequently, the samples that yielded sufficient
+quality DNA were analyzed with low-coverage whole genome sequencing
+(HiSeq, Illumina, San Diego, CA, USA). DNA copy number status was called
+with the R-package QDNAseq.
+
+Results:
+
+From 50/68 resected polyps, originating from 38 individuals (mean age of
+66.8 years (s.d. 7.0); 63% male), sufficient DNA was available. The mean
+surveillance interval of these polyps was 3.27 years (s.d. 0.29).
+
+The mean number of CNAs per sample was 0.8 (range 0-8), the most
+frequently observed was 13q gain (20%). No significant differences in
+number, or regions of CNAs were observed between polyps that progressed
+and the ones that did not change or diminished in size (stable or
+regressed). Larger polyps showed more CNAs, of which specifically 13q
+gain was more often present (43% in ≥10mm and 8% in The mean number of
+CNAs per sample was 0.8 (range 0-8), the most frequently observed was 13q
+gain (20%). No significant differences in number, or regions of CNAs were
+observed between polyps that progressed and the ones that did not change
+or diminished in size (stable or regressed). Larger polyps showed more
+CNAs, of which specifically 13q gain was more often present (43% in
+≥10mm and 8% in <10mm polyps). Of note, no serrated lesions were
+≥10mm. No differences in CNAs were found between the different
+histological subtypes.
+
+Conclusions:
+
+In a series of colorectal polyps left in situ for an average 3.27 years,
+no difference in prevalence of DNA copy number alterations was observed
+between polyps that volumetrically progressed and those that did not. Of
+the CNAs observed, 13q gain was most prevalent and found in 43% of the
+≥10mm polyps.
+
+1. Stoop, E. M. et al. Participation and yield of colonoscopy versus
+non-cathartic CT colonography in population-based screening for
+colorectal cancer: A randomised controlled trial. Lancet Oncol. 13, 55-64
+(2012).
+
+

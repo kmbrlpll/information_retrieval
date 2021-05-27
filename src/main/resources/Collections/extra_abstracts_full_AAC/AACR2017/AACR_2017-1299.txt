@@ -1,0 +1,71 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Common germline risk loci and the tumor anticancer immune response
+in breast cancer.
+
+
+The relationship between common germline SNPs that predispose to cancer
+and the anticancer immune response as measured in tumors is
+uncharacterized. We investigated this relationship in breast cancer,
+leveraging availability of four large-scale resources for this cancer
+type: (1) 159 independent SNP loci associated with overall breast cancer
+risk at P The relationship between common germline SNPs that predispose
+to cancer and the anticancer immune response as measured in tumors is
+uncharacterized. We investigated this relationship in breast cancer,
+leveraging availability of four large-scale resources for this cancer
+type: (1) 159 independent SNP loci associated with overall breast cancer
+risk at P < 5 x 10-8, including 65 unpublished SNPs, identified by a
+recent meta-analysis of over 220,000 individuals of European ancestry
+(EUR) from existing GWAS and new studies from the OncoArray Network (2)
+Matched germline genotype and tumor transcriptomic profiles from 701
+(EUR) breast cancer cases from TCGA (3) a general measure of anticancer
+immunity - fraction of total immune cells in these TCGA tumors inferred
+from gene expression signatures by ESTIMATE scoring (Yoshihara et al, Nat
+Commun 2013) (4) specific measures of anticancer immunity - levels of 15
+immune cell types and functions in these TCGA tumors inferred from gene
+expression signatures by ssGSEA (Rooney et al, Cell 2015). Linear
+regression with and without adjustment for covariates (age at diagnosis,
+stage, tumor neoantigen load, tumor ESR1 expression) was used to test
+association between germline SNP genotype and the tumor anticancer immune
+response measures. SNPs were evaluated individually and collectively as a
+polygenic risk score (PRS) weighted by the per-allele log OR derived from
+the OncoArray analysis. The breast cancer risk-conferring allele for 9 of
+the 159 SNPs was associated with reduced tumor general immune
+infiltration (ESTIMATE score) at P The relationship between common
+germline SNPs that predispose to cancer and the anticancer immune
+response as measured in tumors is uncharacterized. We investigated this
+relationship in breast cancer, leveraging availability of four
+large-scale resources for this cancer type: (1) 159 independent SNP loci
+associated with overall breast cancer risk at P < 5 x 10-8, including 65
+unpublished SNPs, identified by a recent meta-analysis of over 220,000
+individuals of European ancestry (EUR) from existing GWAS and new studies
+from the OncoArray Network (2) Matched germline genotype and tumor
+transcriptomic profiles from 701 (EUR) breast cancer cases from TCGA (3)
+a general measure of anticancer immunity - fraction of total immune cells
+in these TCGA tumors inferred from gene expression signatures by ESTIMATE
+scoring (Yoshihara et al, Nat Commun 2013) (4) specific measures of
+anticancer immunity - levels of 15 immune cell types and functions in
+these TCGA tumors inferred from gene expression signatures by ssGSEA
+(Rooney et al, Cell 2015). Linear regression with and without adjustment
+for covariates (age at diagnosis, stage, tumor neoantigen load, tumor
+ESR1 expression) was used to test association between germline SNP
+genotype and the tumor anticancer immune response measures. SNPs were
+evaluated individually and collectively as a polygenic risk score (PRS)
+weighted by the per-allele log OR derived from the OncoArray analysis.
+The breast cancer risk-conferring allele for 9 of the 159 SNPs was
+associated with reduced tumor general immune infiltration (ESTIMATE
+score) at P < 0.05 both before and after adjustment for covariates. The
+most significant of these associations with ESTIMATE score (Punadjusted =
+0.0003; Padjusted = 0.001) was for rs71801447, the lead SNP at 2q13, a
+breast cancer risk locus identified by the OncoArray. This SNP was
+associated at P 0.98) with rs71801447 overlapped enhancers in CD4+ and
+CD8+ T cells and in HMEC and MCF7 breast cells that were predicted to
+interact with the promoter of BCL2L11 in each of these cell types.
+Finally, as a PRS, breast cancer risk was significantly associated with
+reduced tumor type I interferon activity (Punadj = 0.006; Padj = 0.02).
+Our findings implicate BCL2L11, a well-known regulator of T and breast
+cancer cell apoptosis, as a potential link between germline risk SNPs and
+immune response to tumors in breast cancer and suggest that modulating
+antitumor immunity may be a mechanism of action for some established risk
+loci.
+
+

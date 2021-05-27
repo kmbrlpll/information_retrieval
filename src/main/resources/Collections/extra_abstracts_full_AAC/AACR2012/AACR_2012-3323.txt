@@ -1,0 +1,40 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Hyaluronan synthase 2 promotes breast cancer bone metastasis by
+stimulating interaction of cancer stem-like cells with tumor-associated
+macrophage
+
+
+The molecular mechanism of metastatic progression, particularly the roles
+of microenvironment of the metastasized organs, is as yet poorly
+understood. In this study, we have isolated cancer stem cell-like cells
+(CSC) from human breast cancer cell lines, MDA-MB231, MDA231BoM and
+MDA231BrM. CSC were isolated from each line using surface markers (CD24-,
+CD44+, ESA+) and their tumor initiating abilities were tested in animal.
+We then performed an analysis of global expression profile for these CSCs
+using the Affymetrix expression array and found that among all
+up-regulated genes, two genes (HAS2 and MMP1) were significantly
+correlated with overall- and metastasis-free survival when they were
+cross-examined in GEO database. To further examine the role of HAS2 in
+tumor metastasis in vivo, we prepared CSC from MDA231BoM with or without
+carrying a shRNA expression vector for HAS2. The CSC were then implanted
+into nude mice by intra-cardiac injection followed by oral administration
+of 4MU, a specific inhibitor of HAS genes. We found that the injection of
+CSC of MDA231BoM which expresses shRNA to HAS2 significantly improved the
+survival rate of animals. In addition, administration of 4MU
+significantly suppressed tumor metastasis of CSC, suggesting that
+inhibition of HAS2 can indeed reduce the incidence of metastasis in vivo.
+We also examined the effect of tumor associated macrophage (TAM) on
+growth of CSC in animals by injecting CSC of MDA231-BoM with or without
+TAM into the tibial bone. We found that co-injection of TAM with CSC
+significantly augmented the growth of tumor in their legs. Moreover, the
+interaction between cancer cell and TAMs enhanced secretion of PDGF-BB
+from TAMs which then activated stromal cells and in turn enhanced
+self-renewal of CSCs by secretion of FGF9 and FGF7. We also found that
+treatment of bone marrow stem cell (BMSC) with PDGF followed by
+co-culture of CSC significantly promoted proliferation of CSC.
+Collectively, our results suggest that TAM and BMSC promote self-renewal
+of CSC in bone microenvironment via direct interaction between hyaluronan
+and CD44. Our results also provide strong rationale to target HAS2 by
+using 4MU in order to block the metastatic progression of CSC in breast
+cancer.
+

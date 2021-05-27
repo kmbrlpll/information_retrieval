@@ -1,0 +1,41 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Who's in the driver's seat? Identifying causative variants of
+colorectal cancer
+
+
+Colorectal Cancer (CRC) is one of the leading causes of mortality in the
+US, being the third most common cancer among both men and women. While an
+exact cause of CRC has not yet been elucidated, the existence of a clear
+heritable genetic component has been established. With the recent surge
+of data from Genome-Wide Association Studies, a handful of CRC-associated
+loci have been identified via tagSNPs. While the probability of the
+tagSNPs themselves being the causative variants is low, the key may lie
+among the number of single-base variants linked to each tagSNP. It is
+crucial, in order to enhance our understanding CRC tumorigenesis, to
+extract these functional variants from the pool of associated SNPs and
+validate their causative significance within the cell.This project
+combines bioinformatics and functional experiments to both identify and
+assess the role of functional variants in CRC pathogenesis. One of the
+major hurdles in understanding the role of CRC risk-associated SNPs is
+the fact that virtually all variants lie in Non-Protein Coding Region,
+often tens of thousands of bases away from flanking genes. By combining
+variant data from publically available databases, such as that of the
+ENCODE project, this research presents a method to prioritize all
+variants within a set of disease-associated loci based on potential
+regulatory functionality in silico. With this technique, we have
+identified a handful of SNPs with functional potential that may be
+functioning specifically in CRC initiation. In parallel, we are in the
+process of developing a method to effectively produce isogenic cell lines
+modeling the appropriate variant alleles, utilizing the CRISPR/Cas9
+system to stimulate homologous recombination in the presence of a donor
+template. With this method, transcriptional and regulatory changes within
+the cell due to the single-base genomic edit can be measured in order to
+characterize these functional variants. Utilizing this technology, we
+have been able to create our first SNP model of SNP rs6983267, a known
+functional variant whose risk SNP promotes CRC development by means of
+increased binding and activation of WNT signaling pathway elements, c-Myc
+and -Catenin. The ultimate goal of this project is to better understand
+the role of CRC risk-associated variants, the result of which could have
+substantial clinical relevance in the generation of new therapies and
+diagnostics for the treatment of CRC.
+

@@ -1,0 +1,34 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A multidimensional analysis of predictive biomarkers in colorectal
+cancer
+
+
+Background: CRC cancer is one of the deadliest diseases in Western
+countries. In order to develop predictive biomarkers for CRC (colorectal
+cancer) aggressiveness, we analyzed retrospectively 267 CRC patients via
+a novel, multidimensional biomarker platform.Methods: Using nanofluidic
+technology for qPCR analysis and quantitative fluorescent
+immunohistochemistry for protein analysis, we assessed 33 microRNAs, 124
+mRNAs and 9 protein antigens. Analysis was conducted in each single
+dimension (microRNA, gene or protein) using both the multivariate Cox
+model and Kaplan-Meier method. Thereafter, we simplified the censored
+survival data into binary response data (aggressive vs. non aggressive
+cancer). Subsequently, we combined the data into multidimensional scores
+using inverse sliced regression for sufficient dimension reduction.
+Accuracy was assessed using the Area under the Curve (AUC) and the
+receiver operating characteristic (ROC) method.Results: Single dimension
+analysis led to the discovery of individual factors that were significant
+predictors of outcome. These included seven specific microRNAs, four
+genes, and one protein. When these factors were quantified individually
+as predictors of aggressive disease, the highest demonstrable area under
+the curve (AUC) was 0.68. By contrast, when all results from single
+dimensions were combined into multidimensional biomarkers, AUCs were
+dramatically increased with values approaching and even exceeding 0.9.
+Conclusions: Single dimension analysis generates statistically
+significant predictors, but their predictive strengths are suboptimal for
+clinical utility. A novel, multidimensional approach overcomes these
+deficiencies. Newly derived multidimensional biomarkers have the
+potential to meaningfully guide the selection of therapeutic agents for
+individual patients while elucidating molecular mechanisms driving
+disease progression.
+

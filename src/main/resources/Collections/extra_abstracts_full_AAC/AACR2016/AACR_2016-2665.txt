@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: SHOT-RNAs: A novel class of tRNA-derived functional RNAs expressed
+in hormone-dependent cancers
+
+
+Sex hormones and their receptors play critical roles in the genesis and
+progression of breast and prostate cancers. We here present that sex
+hormone signaling pathways promote the expression of specific tRNA halves
+termed Sex HOrmone-dependent TRNA-derived RNAs (SHOT-RNAs).Screenings
+using 94 cancer cell lines indicated that SHOT-RNAs are specifically and
+abundantly expressed in estrogen receptor-positive (ER+) breast cancer
+and androgen receptor-positive (AR+) prostate cancer. None of the ER
+breast cancer, AR prostate cancer, or other examined cancer cell lines
+from other tissues exhibited abundant expression of SHOT-RNAs.
+ER-dependent accumulation of SHOT-RNAs is not limited to a cell culture
+system, but it also occurs in luminal-type breast cancer patient
+tissues.The expression specificity allowed us to hypothesize that sex
+hormones and their receptors are the crucial molecular factors for
+SHOT-RNA generation. Our hypothesis has been confirmed by the following
+three observations: (1) siRNA-mediated reduction of ER or AR decreased
+SHOT-RNA levels, (2) hormone-depletion from the culture medium decreased
+SHOT-RNA levels, and (3) addition of the sex hormone, estrogen or
+androgen, to the medium increased SHOT-RNA levels. These results indicate
+the clear dependency of SHOT-RNA expressions on sex hormones and their
+receptors.SHOT-RNAs are produced from aminoacylated mature tRNAs by
+angiogenin (ANG)-mediated anticodon cleavage. Resultant 5- and
+3-SHOT-RNAs, corresponding to 5- and 3-tRNA halves, bear 3-terminal
+modifications, cyclic phosphate (cP) and amino acid, respectively. Thus,
+SHOT-RNAs would not be captured by standard RNA-seq methods because the
+modification inhibits adapter ligation steps. This could be the reason
+why SHOT-RNAs had not been discovered in spite of their abundance and
+expression specificity.To identify a comprehensive repertoire of
+SHOT-RNAs, we developed a method named cP-RNA-seq in which 3-termini of
+all RNAs, except for those containing a 3-terminal cP, were cleaved by a
+periodate treatment, thereby selectively amplifying and sequencing only
+cP-containing RNAs. The application of cP-RNA-seq to breast cancer cells
+identified eight cytoplasmic tRNA species as major sources of
+5-SHOT-RNAs.We further investigated the functional significance of
+SHOT-RNA expression. Intriguingly, siRNA-directed reduction of each one
+of the three different species of 5-SHOT-RNA severely impaired cell
+proliferation, whereas 3-SHOT-RNA reduction showed no impact. These
+results strongly suggest that at least 5-SHOT-RNAs are expressed as
+functional RNA molecules promoting cell growth.Our results have unveiled
+a novel tRNA-engaged pathway in tumorigenesis of hormone-dependent
+cancers and implicate SHOT-RNAs as potential candidates for biomarkers
+and therapeutic targets. We will discuss our working model and future
+challenges.
+

@@ -1,0 +1,71 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Confirmation of peroxiredoxin II as a driver gene for doxorubicin
+sensitivity identified from drug-induced expression profiling of the
+NCI-60 cell lines using Reverse Engineering (REFS) network models
+
+
+Analysis of expression profiling data from the NCI-60 cell line panel,
+designed to detect transcripts whose expression levels change in response
+to doxorubicin (Dox) treatment (100nM and 1000nM) for 2, 6 and 24 h,
+identified peroxiredoxin II (PRDX2) as a modulator of Dox sensitivity.
+The antitumor activity of Dox is pleiotropic but has been attributed in
+part to generation of reactive oxygen species which may also be an
+important factor in myocardial toxicity. Variation in the gene expression
+data produced by the increasing Dox concentrations together with the
+variation in response to Dox across the NCI-60 panel was used to
+construct causal gene expression network models of the mechanism of
+efficacy of Dox using the REFS platform from GNS Healthcare. REFS is a
+scalable, super computer-enabled framework for discovering causal network
+models directly from experimental data that requires highly optimized
+machine-learning algorithms run on massively parallel cloud-based
+supercomputers. REFS extracts information in two steps; Reverse
+Engineering to identify causal relationships followed by Forward
+Simulation to simulate interventions in silico. In this case, network
+models were used to simulate the predicted effect of a gene knockdown for
+each transcript in the NCI-60 cell lines on Dox sensitivity. PRDX2, which
+encodes for peroxiredoxin 2, an antioxidant enzyme that reduces hydrogen
+peroxide and has been demonstrated to have a role in protecting against
+reactive oxygen damage, was identified as a causal driver gene
+responsible for Dox sensitivity in the renal cell line, ACHN. Validation
+of the in silico predictions required RNAi to knock down PRDX2 gene
+expression (75 - 90% inhibition of expression) with 2 siRNA's in the ACHN
+and HCT-116 cell lines. Replicate experiments (n=3) demonstrated a
+significant (pAnalysis of expression profiling data from the NCI-60 cell
+line panel, designed to detect transcripts whose expression levels change
+in response to doxorubicin (Dox) treatment (100nM and 1000nM) for 2, 6
+and 24 h, identified peroxiredoxin II (PRDX2) as a modulator of Dox
+sensitivity. The antitumor activity of Dox is pleiotropic but has been
+attributed in part to generation of reactive oxygen species which may
+also be an important factor in myocardial toxicity. Variation in the gene
+expression data produced by the increasing Dox concentrations together
+with the variation in response to Dox across the NCI-60 panel was used to
+construct causal gene expression network models of the mechanism of
+efficacy of Dox using the REFS platform from GNS Healthcare. REFS is a
+scalable, super computer-enabled framework for discovering causal network
+models directly from experimental data that requires highly optimized
+machine-learning algorithms run on massively parallel cloud-based
+supercomputers. REFS extracts information in two steps; Reverse
+Engineering to identify causal relationships followed by Forward
+Simulation to simulate interventions in silico. In this case, network
+models were used to simulate the predicted effect of a gene knockdown for
+each transcript in the NCI-60 cell lines on Dox sensitivity. PRDX2, which
+encodes for peroxiredoxin 2, an antioxidant enzyme that reduces hydrogen
+peroxide and has been demonstrated to have a role in protecting against
+reactive oxygen damage, was identified as a causal driver gene
+responsible for Dox sensitivity in the renal cell line, ACHN. Validation
+of the in silico predictions required RNAi to knock down PRDX2 gene
+expression (75 - 90% inhibition of expression) with 2 siRNA's in the ACHN
+and HCT-116 cell lines. Replicate experiments (n=3) demonstrated a
+significant (p<0.01) increase in sensitivity to Dox in both cell lines
+after PRDX2 knockdown. Additional cell lines were selected and
+preliminary data indicated that p53WT (n=4), and not p53mutant (n=7)
+cells (p=0.005) were susceptible to increased Dox sensitivity in response
+to RNAi of PRDX2 expression, consistent with these p53WT lines being
+amongst the most responsive to Dox. However, the relationship between
+PRDX2 knockdown and altered sensitivity was not correlated with the level
+of Dox-induced increase in PRDX2 expression, which was up-regulated after
+24 h treatment to levels that were comparable in p53WT and several of the
+p53mutant cell lines. Our data indicates that REFS can predict genes that
+may be important modulators of doxorubicin sensitivity. Funded by NCI
+Contract No. HHSN261200800001E.
+

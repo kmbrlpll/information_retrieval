@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Neuroblastoma is bi-phasic and includes classical neuro-epithelial
+cells and chemo-resistant mesenchymal cells
+
+
+IntroductionMost high stage neuroblastoma initially respond to
+chemotherapy, but ultimately relapse as therapy-resistant tumor. The
+mechanisms driving relapse and resistance remain elusive. We investigated
+whether neuroblastoma tumors include divergent cell types that may
+underlie this plasticity.Experimental proceduresFresh tumor cells
+cultured in neural stem cell medium were analyzed by FACS, whole genome
+sequencing, Chip-seq, mRNA profiling, and motility and chemo-sensitivity
+assays. Inducible transgenes were used to test state-transitions. Tumors
+were analyzed by immunohistochemistry.ResultsNew neuroblastoma cell lines
+always included two cell types, which share the same genetic defects but
+have highly divergent phenotypes. One type has a neuro-epithelial (NE)
+phenotype and expresses all classical neuroblastoma markers. The other
+type has a mesenchymal (MES) character, is motile and lacks all
+neuroblastoma markers. Immunohistochemistry (IHC) detected a small
+fraction of MES cells in most primary neuroblastoma.In four isogenic cell
+line pairs, we found that MES cells were more chemo-resistant than their
+NE-type counterparts. Indeed, comparison of primary neuroblastoma lesions
+before and after chemotherapy showed an accumulation of viable MES-type
+cells in post treatment samples. Moreover, comparison of primary,
+pre-treatment tumors with relapses emerging 4-5 years later in the same
+patients showed a strong enrichment for MES cells in the latter.As these
+data suggest a role for MES-type cells in relapse development, we
+analyzed their key regulatory pathways. The isogenic MES-NE cell line
+pairs showed consistent mRNA expression differences between both
+phenotypes, activating major signaling routes and transcription factors.
+Chip-seq identified divergent histone modifications. MES cells had high
+NOTCH pathway activity and PRRX1 expression. Induced expression of NOTCH
+or PRRX1 converted multiple NE-type cell lines into MES-type cells,
+including chemo-resistance. Further analysis of these routes
+reconstructed molecular wiring of MES-type cells. This identified
+key-players like MEK and PDGFR, which were successfully targeted by small
+molecules to specifically kill MES cells in vitro.ConclusionsOur data
+suggest that neuroblastoma is a bi-phasic tumor. MES and NE cells differ
+in many characteristics, but can transdifferentiate into each other. MES
+and NE cells may correspond to developmental stages, i.e. mesenchymal
+migratory cells delaminated from the neural crest and more differentiated
+cells of the adrenergic lineage. MES cells accumulate after chemo-therapy
+and in relapses. They may survive classical therapy and over time seed
+relapses, that ultimately become heterogeneous again. Elimination of MES
+cells with small molecule inhibitors shows how cells with a potential key
+role in relapse development are amenable to therapy.
+

@@ -1,0 +1,41 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Identification of factors governing sensitivity of NSCLC cell
+lines to inhibition of Poly (ADP-Ribose) Polymerase (PARP)
+
+
+Recently, Poly (ADP Ribose) Polymerase-1 (PARP-1) has been shown to be an
+important target in subsets of breast and ovarian cancers. PARP
+inhibitors are emerging as important new anticancer agents, especially in
+cancers defective in homologous recombination (HR) repair, such as those
+lacking BRCA1 or BRCA2. To date, the potential role of PARP inhibition in
+NSCLC has not been extensively studied. BRCA1 or BRCA2 promoter
+hypermethylation and ATM mutation have been described in primary NSCLCs,
+alterations that may sensitize cells to PARP inhibition. We have examined
+a panel of 26 genotypically-defined NSCLC cell lines for sensitivity to
+the PARP-1 inhibitor AG014699 using colony formation assays. We have
+identified 5cell lines that are exquisitely sensitive (IC50 50nM), 9 cell
+lines that are moderately sensitive (IC50 60-500nM) and 12 cell lines
+that are resistant (IC50 > 5 M). To determine whether sensitive cell
+lines have defective HR compared to resistant cell lines, we examined the
+formation of Rad51 foci following exposure to PARP inhibition, as well as
+to gamma-irradiation and cisplatin. Both sensitive and resistant cell
+lines demonstrated efficient formation of Rad51 foci as well as
+gamma-H2AX foci in response to DNA damaging treatments, suggesting
+correct initiation of HR. In resistant cell lines, the repair process
+following PARP inhibition is completed within 24 hours, with resolution
+of Rad51 and gamma H2AX foci. No alterations in cell cycle distribution
+were detected in these cell lines, suggesting that the efficiency of
+repair allows proliferation to continue largely unabated. However, in
+sensitive cell lines, these foci persist greater than 30 hours following
+DNA damaging treatments. These results suggest that although sensitive
+lines are able to initiate HR repair, they are unable to complete the
+process, so that Rad51 foci are not resolved. The persistence of DNA
+damage in these cell lines is confirmed by persistent gamma H2AX focus
+formation as well as S/G2 arrest, the latter representing intact
+checkpoint control. We are currently investigating whether PARP
+inhibitor-sensitive cell lines have a deficiency in one of the helicases
+or resolvases required for resolution of the complex Holliday junctions
+formed during HR repair. Our results may define a novel subset of NSCLCs
+with a late-step defect in HR that can be approached with PARP inhibition
+as a novel treatment strategy.
+

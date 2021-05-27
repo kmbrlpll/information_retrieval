@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Two distinct regulatory mechanisms underlie estrogen receptor
+negative breast cancer susceptibility at the 2p23.2 locus.
+
+
+Genome Wide Association Studies (GWAS) are designed to identify single
+nucleotide polymorphisms (SNPs) mapping to genomic regions associated
+with a particular trait or disease. Currently, 19 genomic loci associated
+with risk for estrogen receptor negative breast cancer have been
+identified. However, for most of these loci the mechanisms driving
+susceptibility have remained elusive. The 2p23.2 locus, defined by SNP
+rs67073037 (p = 4.76 x 10-9), contains 79 SNPs exhibiting genome-wide
+significant associations as well as four candidate genes: SPDYA, TRMT61B,
+WDR43, and FAM179A. Post-GWAS functional analysis revealed two candidate
+causal regulatory elements: an enhancer-like element defined by SNP
+rs44017214 located in the first intron of the WDR43 gene; and a segment
+in the 3’-UTR region of WDR43 defined by SNPs rs11680458 and rs11331880
+which are predicted to have allele specific binding of non-coding
+microRNAs miR-548 and miR-376, respectively. We validated allele specific
+transcription factor binding to rs44017214 using competitive binding of
+USF1/USF2 to the risk allele in both MCF10A and CAL51 cell lines in
+Electrophoretic Mobility Shift Assays (EMSA). Additionally, rs44017214
+was removed using CRISPR-cas9, and expression of neighboring genes was
+evaluated by qRT-PCR. No change in expression was found for any gene in a
+2 Mb region surrounding the SNP, with the exception of PLB1. This
+suggests that the enhancer element in the intron of WDR43 has PLB1 as its
+target. To assess the miRNA binding site impact on WDR43 expression the
+pMIR-REPORT Luciferase allele-specific vector was co-transfected with
+miR-141/200, miR548, or miR-376 in MCF10A cells. The rs1131880 allele C
+in the WDR43 3’-UTR lead to the suppression of luciferase expression by
+miR-376 compared to the G allele. This study reveals two independent
+regulatory mechanisms within the 2p23.2 locus; (i) modulation of enhancer
+activity by allele specific binding of transcription factors USF1/USF2 to
+rs4401714, and (ii) decreasing the expression of WDR43 through the
+formation of a miR-376 binding site at the 3’-UTR of the WDR43 gene.
+Elucidating the functional significance of these common variants in the
+novel susceptibility loci 2p23.2 furthers our knowledge of the etiology
+of estrogen receptor negative breast cancer.
+
+

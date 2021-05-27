@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Fusobacterium nucleatum and tumor immunity status according to
+microsatellite instability in colorectal cancer.
+
+
+Objective: Fusobacterium nucleatum (F. nucleatum) is a microbial pathogen
+that contributes to the initiation and progression of colorectal cancer.
+Although evidence points to its immunosuppressive effects in colorectal
+cancer, F. nucleatum has been associated with high-level microsatellite
+instability (MSI) which is characterized by intense immune response. We
+hypothesized that the association of F. nucleatum with local
+immunosuppression might be stronger in tumors with high-level MSI or a
+high neoantigen load, which is a direct consequence of MSI that
+influences tumor-immune interactions.
+
+Design: We utilized molecular pathological epidemiology database of 1,027
+colon and rectal cancer cases in the Nurses’ Health Study and the
+Health Professionals Follow-up Study. We assessed the association of F.
+nucleatum (negative, low, or high) with tumor immunity status in strata
+of MSl status. We measured F. nucleatum DNA in tumor tissue using
+quantitative PCR. As immunity status, we evaluated hystopathological
+lymphocytic reaction (tumor-infiltrating lymphocytes [TIL], intratumoral
+periglandular reaction, peritumoral lymphocytic reaction, or Crohn's-like
+lymphoid reaction) and measured T cell densities (CD3+, CD8+, CD45RO
+[PTPRC]+ or FOXP3+ cells) using immunohistochemistry and
+computer-assisted image analysis. Logistic regression model was used to
+adjust for potential confounders, including CpG island methylator
+phenotype, LINE-1 methylation level, and KRAS, BRAF, and PIK3CA
+mutations. Using whole-exome sequencing data (N = 586), we conducted
+secondary analyses to assess the interaction of F. nucleatum with a
+neoantigen load.
+
+Results: The association between F. nucleatum and TIL differed by MSI
+status (P for interaction = 0.0017; with the adjusted α level of 0.006).
+Compared with F. nucleaum-negative cases, F. nucleatum-positive cases
+were associated with low-level TIL in MSI-high tumors (odds ratio, 0.40
+[95% confidence interval, 0.14-1.08] and 0.40 [95% confidence interval,
+0.17-0.97] for F. nucleaum low and high cases, respectively), but not in
+microsatellite stable/MSI-low tumors. We did not find any interaction
+between F. nucleatum and MSI status in T cell subsets. The association
+between F. nucleatum and TIL did not differ significantly by levels of a
+neoantigen load (P for interaction = 0.015).
+
+Conclusions: The association of F. nucleatum with the immunosuppressive
+microenvironment may be stronger in colorectal cancer with high-level
+MSI. Our findings suggest the interplay between F. nucleatum and MSI
+status in host immune response to the tumor.
+
+

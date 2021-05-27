@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Using formalin-fixed paraffin-embedded melanoma tumors for the
+detection of copy number variation by next generation sequencing.
+
+
+DNA copy number variation (CNV) has been identified in many cancers.
+Recent studies have shown that CNV data, in combination with other
+high-throughput techniques, can provide novel biological insight to tumor
+biology. Although a number of CNV whole-genome studies have been
+performed on melanoma using cell lines and frozen tumors, very few have
+used formalin fixed paraffin embedded (FFPE)-derived material. Melanoma
+tumors are small and rarely frozen, which means that FFPE tumor blocks
+would be a very valuable source of genomic material to be used for CNV
+analysis if the methodologies were adequately developed. It has been
+shown that reliable next generation sequencing data can be produced from
+FFPE-derived DNA in lung cancers (Wood et al., 2010). Here, we report a
+study showing that DNA from FFPE melanoma tumor blocks can be used for
+CNV detection on a next generation sequencing platform. DNA from 20 FFPE
+melanoma samples was used to prepare genomic libraries, which were
+sequenced on the Illumina GAIIx instrument. Successful library
+preparation occurred at DNA levels of at least 30ng, while current
+protocols generally suggest 50ng with high quality material and 1g
+generally. The use of SPRIworks (Beckman Coulter) and Bravo (Agilent)
+robots was compared with the manual method for library preparation with
+input DNA mass of 30-150ng. Libraries prepared manually were always of
+better quality and yield. We also investigated means of improving library
+preparation. Melanin co-purifies with DNA and inhibits downstream
+reactions, and indeed lower coverage was seen in our samples if they were
+heavily pigmented. To overcome the adverse effects of melanin, 10 DNA
+samples (5 pairs) were used for library preparation with and without
+bovine serum albumin (BSA). BSA has been shown to bind to melanin, and as
+a result the melanin does not inhibit the DNA polymerase reaction. All 5
+libraries with BSA were of higher quality and yield when compared to
+those prepared without BSA. All comparisons were made after running the
+libraries on an Agilent DNA chip.Currently available data from the GAIIx
+were used to develop the analysis pipeline. The first 10 samples were
+multiplexed together and run twice, while the remaining 10 were
+multiplexed at 5 samples per lane and run once. The average coverage
+obtained was 0.10x with a range of 0.03x-0.11x. We observed a strong
+effect on mapping quality based upon the end-cycle quality scores,
+leading us to adopt an aggressive data trimming procedure. More samples
+from the Leeds Melanoma Cohort will soon be prepared and sequenced on the
+Illumina HiSeq2000 instrument. We aim to identify if tumors with driver
+BRAF mutations have different genomic signatures when compared to those
+with NRAS mutations. Finally, genomic data will be combined with clinical
+data and we will check for the prognostic significance of CNV changes
+identified in our samples.
+

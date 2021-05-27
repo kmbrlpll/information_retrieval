@@ -1,0 +1,32 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Genome-wide screen for modulators of cell death induced by the
+NEDD8-activating enzyme inhibitor MLN4924
+
+
+The NEDD8-activating enzyme (NAE) is an E1 involved in the activation of
+a large family of ubiquitin E3 ligases termed the cullin-RING ligases
+(CRLs) through conjugation of the cullin proteins with the ubiquitin-like
+modifier NEDD8. Polyubiquitination of CRL substrate proteins targets them
+for degradation by the proteasome. In this way, NAE regulates the
+stability of proteins required for cancer cell growth and survival.
+MLN4924 is an investigational small molecule that is a potent and
+selective inhibitor of NAE in Phase I clinical trials. In order to
+investigate the primary genetic determinants that confer sensitivity of
+cells to NAE inhibition, we have performed a genome-wide synthetic lethal
+RNAi screen using MLN4924 in the A375 melanoma cell line. We have also
+investigated the biological consequences of NAE inhibition by studying
+the regulation of protein and transcript levels in MLN4924-treated A375
+cells using large-scale quantitative proteomics and gene expression
+profiling, respectively. The RNAi screen has identified 123 genes whose
+down-regulation modulates MLN4924-induced cell death, and approximately
+one-third of these interfere with components of the NEDD8 pathway itself,
+the cell cycle and apoptotic machinery, and DNA damage-response pathways.
+Of these genes, 99 were subsequently assessed using high throughput FACS
+analysis for their contribution to the major phenotype induced by
+MLN4924. The results emphasize replication, p53, BRCA1/BRCA2, and
+transcription-coupled repair as being particularly important for
+MLN4924-induced cell death. In addition, the interactions of 80 genes
+with roles in cell cycle and DNA damage repair were explored with
+proteasome inhibitors and 12 DNA damaging agents, demonstrating that
+MLN4924 induces DNA damage by a distinct mechanism.
+

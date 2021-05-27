@@ -1,0 +1,32 @@
+Meeting: 2012 AACR Annual Meeting
+Title: High-throughput TR-FRET cellular assays for interrogating histone
+H3 methylation
+
+
+Post-translational modifications such as phosphorylation, acetylation and
+methylation play important roles in regulating the structures and
+functions of histones, which in turn regulate gene expression and DNA
+repair and replication. Histone modifying enzymes, such as deacetylases,
+methyltransferases and demethylases, have been pursued as therapeutic
+targets for various diseases. However, detection of the activities of
+these enzymes in high-throughput cell-based formats has remained
+challenging. We have developed high-throughput LanthaScreen cellular
+assays for histone H3 site-specific modifications. These assays utilize
+cells expressing green fluorescence protein (GFP) tagged-histone H3
+transiently delivered via BacMam and terbium labeled-anti-histone H3
+modification-specific antibodies. Robust time-resolved Foerster resonance
+energy transfer signals were detected for H3 lysine-9 di-methylation
+(K9me2), lysine-4 di- (K4me2) and tri-methylation (K4me3) and lysine-27
+tri-methylation (K27me3). Consistent with previous reports, hypoxic
+stress increased K4 methylation levels and methyltransferase G9a
+inhibitor UNC-0638 decreased K9me2 levels significantly with little
+effects on other modifications. Further validation of these assays using
+methyltransferases-specific RNAi oligos demonstrated that EZH2-specific
+RNAi reduced the level of K27me3 with little effect on the other three
+modifications, whereas G9a RNAi and SMYD3 RNAi reduced K9me2 and K4me2/3,
+respectively. The use of BacMam gene delivery system enables the
+measurement of these histone methylations in a variety of cell
+backgrounds including primary cells. In conclusion, we have developed
+homogenous cellular assays that can enable the high-throughput screening
+for modulators of histone H3 methylation at various lysine sites.
+

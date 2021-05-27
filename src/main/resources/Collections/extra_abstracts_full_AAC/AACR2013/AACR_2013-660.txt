@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Genome Wide DNA methylation profiling in Wilms tumor. Integration
+with expression and identification of molecular signatures associated
+with high risk blastemal type histology.
+
+
+Introduction: Wilms tumour (WT) is the most common paediatric renal
+tumour, thought to arise from disruption in normal kidney development. WT
+typically presents triphasic histology with blastemal, stromal and
+epithelial components. The International Society of Paediatric Oncology
+(SIOP) categorises Wilms tumours based on their in vivo response to
+neoadjuvant chemotherapy. Tumours where a viable blastemal component
+predominates at nephrectomy (high risk blastemal type, BT) are associated
+with poorer outcome than tumours with primarily stromal, epithelial or
+mixed histology (intermediate risk, IR).Although a number of
+WT-associated genes have been defined, most tumours do not harbour
+mutations in any of these genes. Global hypo-methylation as well as
+hyper-methylation and silencing of tumour suppressor genes have been
+frequently reported in cancer. In WT, several epigenetic lesions have
+previously been identified, particularly loss of imprinting at 11p13 and
+11p15. However, to date, no genome wide comprehensive DNA methylation
+study in WT has been reported.Aim: To perform genome wide DNA methylation
+profiling in WT and identify molecular signatures associated with BT
+WT.Methods: Genomic DNA from 69 frozen clinical WT samples was extracted
+and bisulphite- converted with the Zymo EZ DNA Methylation Kit. The
+methylation levels were assessed on the Infinium HumanMethylation 450
+BeadChip array, which interrogates over 480,000 CpG sites. For 56 of the
+samples, HumanHT-12 v3 Expression BeadChip data was available.
+Bioinformatic and statistical analyses were carried out using the
+Bioconductor minfi and limma packages. Preliminary analysis was performed
+integrating expression and methylation data.Results: 930 genes showed
+differential methylation between BT and IR. Over 70% of the samples
+showed aberrant methylation at the 11p15 locus, as previously reported.
+75 of these differentially methylated genes were also differentially
+expressed. Of interest, the well characterised WT gene, WT1, was
+significantly down regulated in IR, and correlated with hypermethylation
+in this region. Gene Ontology pathway analysis indicated that almost 50%
+of these 75 genes were involved in developmental processes, supporting
+the current model of WT.Conclusions: This study highlighted several key
+genes and pathways dysregulated in BT compared to IR. Moreover, global
+hypomethylation was found in the BT cohort, which could be associated
+with genome instability or the dysregulation of DNA methyl-transferase
+maintenance enzymes. Further studies are required to validate these
+molecular routes as potential biomarkers for high risk WT.
+

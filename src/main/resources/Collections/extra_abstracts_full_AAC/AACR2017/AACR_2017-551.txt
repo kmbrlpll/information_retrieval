@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Assessment of computational approaches for quantification of
+immune cell infiltration from gene expression profiles of complex
+biological samples.
+
+
+Anticancer immunotherapies target immune cells to block immune
+suppression and/or promote immune activation in order to eliminate cancer
+cells. Ipilumumab and Nivolumab, targeting CTLA4 and PD1 respectively,
+have demonstrated dramatic responses in melanoma and lung cancer (Hodi et
+al. 2010; Risvi et al. 2015). However, poor response rates in other types
+of cancer underscore the need to better understand immunomodulatory
+mechanisms (Topalian et al. 2012). Examination of immune cell specific
+signals, in either the tumor microenvironment or the periphery, has
+proven to be a useful tool in developing prognostic biomarkers (Chi et
+al. 2014; Gentles et al. 2015), inferring mechanisms of action (Krejcik
+et al. 2016), and discerning immune-based predictors of drug response
+(Tumeh et al. 2014). In this study we evaluate various gene
+expression-based computational approaches for inferring immune cell
+identity in complex cellular mixtures in order to rank their relative
+utility for illuminating the details of the tumor microenvironment and
+potentially revealing new biomarkers for prognosis and response
+prediction.
+
+Immune cell identity has been inferred by previous researchers using a
+variety of mathematical approaches, including least squares (Abbas et al.
+2009), quadratic programming (Gong et al. 2011; Zhong et al. 2013),
+maximum likelihood (Qiao et al. 2012; Liebner et al. 2013), machine
+learning (Newman et al. 2015), and enrichment type approaches (Angelova
+et al. 2015). We used publically-available gene expression microarray
+data from blood, normal tissue, and tumor samples to assess the
+effectiveness of these methods in sample types relevant to oncology
+research. The results from comparisons of these different methods
+demonstrate that certain approaches are significantly more robust to
+noise, and are therefore more suitable for complex cellular mixtures such
+as tumor samples. The discerning use of methods to infer immune cell type
+proportions from gene expression profiles may lead to improved prognosis,
+predictive biomarkers for immunotherapy to assist in patient
+stratification, and new immunoncology targets by indicating
+immunosuppressive mechanisms.
+
+

@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Targeted capture next generation sequencing of fresh frozen
+lobular carcinoma in situ and invasive lobular cancer identifies a common
+repertoire of mutations
+
+
+INTRODUCTION: Epidemiologic data suggest that lobular carcinoma in situ
+(LCIS) is a risk factor for invasive breast cancer, whereas analyses of
+copy number aberrations between synchronous LCIS and invasive lobular
+carcinoma (ILC) have provided evidence to support its role as a
+non-obligate precursor of ILC. Using fresh frozen (FF) tissue samples, we
+sought to define the repertoire of somatic mutations in LCIS and ILC, and
+to compare the mutational repertoire of synchronous LCIS and ILC, and
+synchronous foci of LCIS.METHODS: Patients with a biopsy proven history
+of LCIS, with or without ILC, undergoing surgery were prospectively
+enrolled on an IRB approved study and FF tissue blocks were collected.
+Representative lesions of LCIS and ILC were microdissected and DNA was
+extracted using QIAamp DNA Micro kit (Qiagen). Matched normal germline
+DNA or FF normal ducts were available for all cases. At least 50 ng of
+DNA was used for hybridization capture using a bait library (NimbleGen)
+comprising 273 genes, either recurrently mutated in breast cancer or
+associated with DNA repair. Targeted massively parallel sequencing was
+performed on a HiSeq2000 (Illumina). Sequencing data were aligned to the
+reference human genome hg19 and processed by GATK. Single nucleotide
+variants (SNVs) were defined on the basis of three mutation callers (i.e.
+Mutect, Mutationseq and GATK Haplotypecaller); insertions and deletions
+were identified using the GATK Haplotypecaller.RESULTS: 47 samples of
+LCIS and 21 samples of ILC from 30 patients (with matched normal samples)
+were qualified for data analysis. The constellation of somatic mutations
+found in LCIS and ILC was similar, with the most frequently mutated genes
+being PIK3CA, CDH1, HRNR and MAP3K1 found in 25% and 52%, 23% and 38%,
+15% and 19% and 10% and 9% of samples, respectively. Paired analysis of
+synchronous LCIS and ILCs (n=21) revealed that PIK3CA and CDH1 mutations
+were shared in 24% and 28% of cases respectively. Overall, in 8 (38%)
+pairs, the LCIS and ILC had one identical mutation in common and in 7
+(33%) pairs, there were two or more common identical mutations. In 5
+pairs, there were no common mutations. Paired analysis of two independent
+foci of LCIS from 9 breasts revealed one common mutation in each of 4
+(44%) pairs (CDH1, RUNX1, SPEN, ERBB2). Interestingly, the point mutation
+in ERBB2 (L755S) was found in two LCIS foci from a patient who underwent
+prophylactic mastectomy.CONCLUSION: The mutational spectrum of LCIS is
+highly similar to that of ILC. PIK3CA mutations were the most common
+somatic mutations in both LCIS and ILC. Further, in this study, 71% of
+LCIS-ILC pairs shared at least one identical mutation, providing strong
+circumstantial evidence that LCIS is a non-obligate precursor of ILC. The
+finding of shared mutations among independent foci of LCIS also raises
+questions about the clonal origin of these lesions.
+

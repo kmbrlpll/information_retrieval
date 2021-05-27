@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A targeted bisulfite sequencing method combining
+microfluidics-based PCR with Next-Gen sequencing
+
+
+DNA methylation plays an important role in normal organismal development
+and in cellular differentiation in higher organisms. Changes in DNA
+methylation have been shown to correlate with disease risk, response to
+therapy and survival in a wide range of clinical conditions such as
+cancer and autoinflammatory diseases. Recent advances in next-generation
+sequencing and microarray technology have made it possible to map DNA
+methylation genome-wide, at a high resolution. However, these genomic
+assays tend to be costly, labor-intensive and impractical in the clinic.
+Thus, DNA methylation assays that measure a small number of genomic
+regions in large cohorts are needed for validating biomarker candidates
+discovered from genomic studies. For this reason, we have developed a
+targeted bisulfite sequencing platform for simultaneously measuring DNA
+methylation in multiple loci with multiple samples by combining
+microfluidics-based technology with next generation sequencing. First,
+post-bisulfite PCR primers for each target region were designed using our
+proprietary program Bisulfite Primer Seeker, and then experimentally
+validated using a standard genomic control. Primers which pass the
+validation were used for the subsequent target amplification. Target
+amplification were performed using Fluidigm Access Array 48.48 which
+allows parallel PCR reactions for 48 samples by 48 single-plex assays. An
+attractive aspect of this platform is that relatively small quantities of
+template are required (50 ng/sample). Assays can also be multiplexed to
+improve throughput. Furthermore, as with many targeted approaches, index
+or barcoding tags can be incorporated into the universal adapter regions
+of the PCR product enabling the pooling of samples before direct
+sequencing. Using this platform we have evaluated 9 genomic loci with 9
+artificial mixed samples containing different methylation levels. Results
+showed the target bisulfite sequencing platform to be robust and
+reproducible. The methylation value between the technical replicates were
+highly correlated. Each of the amplicons was covered by a thousand or
+more reads, making the detection sensitivity reach down to the low
+methylation levels. Compared with other target bisulfite sequencing
+methods, our assay has several advantages. First, it uses relatively
+small amounts of gDNA as input, making it practical for most clinical
+samples. Secondly the workflow is simple, straightforward and can be
+automated. Finally, it avoids the complexity and difficulties of
+multiplex PCR by utilizing microfluidics-based single-plex PCR. All these
+features make it an ideal platform for DNA methylation biomarker
+validation.
+

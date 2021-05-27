@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: An evidence-based software tool for personalized cancer medicine
+to recommend therapeutic options and avoid toxicity
+
+
+Background. For many tumors, therapeutic options are sparse beyond the
+guidelines, especially for pancreatic cancer. At the same time, more and
+more biomarkers are known, informing about or supporting treatment
+decisions. Finally, tumor DNA analysis with next generation sequencing
+(NGS) is quickly becoming a routine test, at least for tumors. However,
+to analyse the vast amount of data and provide concrete, evidence-based
+treatment recommendations has been a challenge.Methods. Applying NGS in a
+quality controlled set-up together with the newly developed
+evidence-based software tool EngineusGUIDETM (CE-marked).Results. During
+the time from Oct 2013 until Oct 2015, 87 patients were analysed with
+EngineusGUIDE. In 7 cases, more than one tumor was investigated. NGS was
+performed (WXS = 48; panel/paired = 16, panel = 23). Sequencing could be
+performed in all but one patient (Whole Exome; bone metastasis).
+Sequencing quality was insufficient for analysis in 3 cases (paired
+panel), sequencing revealed insufficient tumor content in the sample for
+one patient (Whole Exome) leaving 82 patients. The indication was:
+Pancreatic Neoplasms = 21 cases; Colorectal Neoplasms = 12; Breast
+Neoplasms = 5; CUP = 6; NSCLC = 3; 2 cases each for Bronchial Neoplasms,
+Adenoid Cystic Carcinoma, Common Bile Duct Neoplasms, Glioblastoma,
+Multiple Myeloma, Prostatic Neoplasms and 1 case each for Adenocarcinoma,
+Duodenal Neoplasms, Endometrial Neoplasms, Hemangiosarcoma,
+Hypopharyngeal Neoplasms, Leukemia (Lymphocytic, Chronic, B-Cell),
+Liposarcoma, Liver Neoplasms, Lung Neoplasms, B-Cell Lymphoma,
+Mantle-Cell Lymphoma, Meningioma, Oropharyngeal Neoplasms, Ovarian
+Neoplasms, Paranasal Sinus Neoplasms, Parathyroid Neoplasms, Sarcoma,
+Sigmoid Neoplasms, Squamous Cell Neoplasms, Stomach Neoplasms, Thyroid
+Neoplasms, Urinary Bladder Neoplasms, Uveal melanoma.In 67/82 patients,
+druggable targets (response biomarkers) could be identified (range 0-8;
+median 2). In 45/82 patients (range 0-5; median 1) biomarkers indicated
+lack of efficacy (e.g. KRAS mutation in CRC). In 65/82 patients,
+biomarkers indicated increased toxicity (range 0-7; median 2), in 19/82
+patients FDA-approved biomarkers for toxicity were detected (28
+biomarkers).Of the positive biomarkers, 40 biomarkers in 26 patients
+indicated drugs approved in the indication, 75 biomarkers in 45 patients
+indicated approved drugs, and 58 biomarkers in 39 patients indicated
+experimental drugs (pre-clinical and phase I - III). Six patients have
+already received drugs recommended by EngineusGUIDE. In 11 patients,
+toxicity markers may explain observed toxicity during previous
+treatment.We are currently collecting the outcome parameters of
+EngineusGUIDE recommendations.
+

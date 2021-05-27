@@ -1,0 +1,35 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Deep targeted sequencing of 12 breast cancer loci in 4,700 women
+across four different ethnicities.
+
+
+Genome-wide association studies (GWAS) have identified multiple genetic
+loci associated with breast cancer risk. However, the underlying genetic
+structure in these regions is not fully understood and it is likely that
+the index GWAS signal originates from one or more yet unidentified causal
+variants within the region. We used next-generation sequencing to
+characterize 12 GWAS-discovered breast cancer loci in a total of 2,300
+breast cancer cases and 2,300 controls across four ethnic populations.
+Study subjects were women from the Nurses Health Study (NHS) and the
+Multiethnic Cohort (MEC). Region intervals spanned between 46kb and 973kb
+and we hybrid-captured and sequenced a total of 5.5Mb. On average, we
+were able to capture 82% of the non-repetitive sequence in the targeted
+regions, and the average fraction of captured bases sequenced with a
+depth %gt20x was more than 95%. After single nucleotide variant (SNV)
+calling and quality control, a total of 138,898 SNVs remained for
+analysis. 87.4% of those had a minor allele frequency less than 0.5% and
+50.2% were private mutations. Across all regions, a total of 81 SNVs
+showed evidence for association with breast cancer (P&lt0.001) but we did
+not find unequivocal association evidence supporting a causal role for
+any individual SNV. However, in two of the regions (2q35 and 11q13), we
+were able to refine the GWAS signal and identify a high posterior
+probability (&gt90%) set including less than 15 SNVs. We also conducted
+burden tests of rare variants (MAF&lt0.005) but did not identify any
+significant associations after adjusting for number of tests. However,
+rare variants in FGFR2 and a second gene at 10q26 were nominally
+associated with breast cancer (P&lt0.05). We are currently imputing
+existing breast cancer GWAS using this sequencing data as a reference
+panel which will triple our current sample size. These results stress the
+importance of large study samples when attempting to refine GWAS signals
+and illustrate the challenges facing post-GWAS fine-mapping studies.
+

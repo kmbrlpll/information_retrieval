@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Optimizing doxorubicin derivatives delivery using temperature
+sensitive biopolymers in multidrug resistant breast cancer cells
+
+
+The anticancer agent doxorubicin is an anthracycline compound that shows
+high potency in treating cancer, and it is one of the most widely used
+chemotherapeutics. However, efficiency of doxorubicin treatment is
+limited by low blood plasma solubility, poor blood pharmacokinetics, and
+non-selective cell killing that results in serious toxicity to healthy
+tissues. Additionally, cancer cells often develop drug resistance, which
+is a significant limiting factor to the drug's effectiveness. Motivated
+by these problems, we have designed a drug delivery system that can
+specifically deliver drug to the tumor site while overcoming doxorubicin
+resistance in breast cancer cell lines. This drug delivery system
+consists of: ELP - Elastin like polypeptide, CPP - Cell penetrating
+peptide, a cleavable linker to enable doxorubicin release in the targeted
+low pH environment, and a derivative of the anticancer agent Doxorubicin
+(modified by a 6-maleimidocaproyl moiety for conjugation to a terminal
+cysteine residue on ELP). ELP is thermally responsive and improves the
+complex's pharmacokinetics by prolonging its clearance rate while the CPP
+mediates cellular uptake of large macromolecules. The linker is an acid
+sensitive amino acid sequence (Gly-Phe-Leu-Gly) that serves as a
+substrate for lysosomal enzymes. In this study, we compared cytotoxicity
+of a cleavable (cDox) and non-cleavable (ncDox) doxorubicin derivative
+delivered by ELP biopolymer in the breast cancer cell lines MCF-7 and
+MCF7/ADR (doxorubicin resistant cell line). We showed that cDox had two
+fold higher cytotoxicity than ncDox in both cell lines. When ncDox,
+however, was conjugated to the ELP biopolymer containing a lysosomally
+degradable GFLG spacer, the drug delivery construct was equally cytotoxic
+to both sensitive and resistant cell lines, indicating that the construct
+delivers doxorubicin into cells by a mechanism that bypasses doxorubicin
+resistance. Confocal fluorescence microscopy showed that after two hours
+of exposure to the doxorubicin derivatives, cDox was predominantly
+localized in the nucleus in both cell lines. However, ncDox was localized
+in the plasma membrane and cytosol. Intracellular doxorubicin
+accumulation examined by flow cytometry indicated 3 fold higher uptake of
+ELP-cDox in sensitive MCF 7 cells compared to resistant MCF7 ADR cells.
+Cellular uptake of ELP-cDox was further enhanced two fold when conjugated
+with CPP. In conclusion, our current results indicate that
+ELP-doxorubicin conjugates may successfully overcome drug resistance in
+breast cancer cells, providing a promising approach for the use of
+chemotherapeutic agents such as doxorubicin in patients with drug
+resistant breast cancers.
+

@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: EpCAM-mediated hypomethylation of BMP and cell adhesion genes is
+associated with advanced endometrial cancer
+
+
+Endometrial cancer (EC) is the most common gynecologic malignancy, with
+approximately 20% of EC patients developing advanced stage recurrent
+tumors and frequent metastasis. Our goal was to investigate whether DNA
+methylation signatures associated with low promoter methylation
+(hypomethylation) and specific oncogenic signaling delineate predictive
+markers of endometrial cancer recurrence. Global screening by
+Methyl-CpG-capture sequencing revealed aberrant DNA methylation in our
+endometrial cancer cohort and identified a subset of bone morphogenetic
+protein family (BMP1, 2, 3, 4, and 7) exhibiting frequent hypomethylation
+in primary tumors with subsequent recurrence compared with non-recurrent
+tumors. This epigenetic signature correlated with poor survival and was
+validated in The Cancer Genome Atlas endometrial cancer cohort. Our
+functional studies also implicated epidermal growth factor receptor
+(EGFR) pathway in the transcriptional activation of these BMPs and
+inducing epithelial-mesenchymal transition (EMT). In addition to AKT and
+MAPK, the epithelial cell adhesion molecule (EpCAM) mediated these
+actions by EGFR. EpCAM involvement in cancer progression includes nuclear
+co-translocation of its intracellular domain EpICD with Lef-1 complexes
+and targeting oncogene promoter activation. In this study, EGF stimulated
+EpICD-Lef-1 binding on BMP genes accompanied with histone active
+modification marks. EpICD knockdown resulted in increased repressive
+histone marks and DNA methylation at these loci, suggesting that EpICD
+occupancy is involved in their epigenetic modification to an open
+transcriptional conformation. Knockdown of candidate BMPs led to
+decreased endometrial cancer cell invasiveness, implicating them in
+aggressive growth. Extending our studies, we performed ChIP-Seq analysis
+to identify global regulation by the EpICD-Lef-1 complexes in endometrial
+cancer. Interestingly, under basal levels only about 28% of loci targeted
+by either EpICD or Lef-1 were commonly targeted by EpICD-Lef-1, with
+common targets increasing to about 50% in 24 hrs and 73% in 48 hrs post
+EGF treatment. This indicates that EGFR signaling stimulates a
+time-course dependent enrichment of EpICD-Lef-1 convergence on target
+loci. Our initial studies of these EpICD target pathways included genes
+with cell adhesion functions. Future studies on the regulation of the
+EpICD-Lef-1 regulated genes and their mechanisms of action in aggressive
+endometrial cancer will provide a better understanding of this gene
+network in endometrial cancer. Hypomethylation signatures of candidate
+loci in this regulatory network may present putative predictive markers
+of poor survival and which may be used to tailor individualized therapy.
+

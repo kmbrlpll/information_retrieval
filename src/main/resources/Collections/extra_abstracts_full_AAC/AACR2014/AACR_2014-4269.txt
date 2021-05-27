@@ -1,0 +1,44 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Exome sequencing of tumor cell lines: Optimizing for cancer
+variants
+
+
+Initial data mining of results from several on-going public cancer
+genomics initiatives has identified both known and novel somatic
+alterations across multiple cancer types. A challenge of validating
+putative cancer targets discovered by such studies is the identification
+of appropriate preclinical cell line models with relevant genetic
+alterations. Thus there is an urgent need for comprehensive mutation
+information across a large panel of cancer cell lines. Mutation discovery
+in cell lines brings its own unique challenges. Most cancer re-sequencing
+studies published to date typically use DNA derived from both primary
+tissue and matched DNA from a non-cancerous sample, often from peripheral
+blood or adjacent tissue. Cell lines present a challenge for discovering
+somatic mutations because a matched normal sample that can be used to
+filter for somatic mutations rarely exists. To this end we have
+implemented a filtering scheme that attempts to enrich for true-somatic
+mutations. To assess the effectiveness of the filtering pipeline, we
+compared filtered results with mutations discovered in matched normal
+cell lines derived from blood for 10 cancer cell lines. We estimate that
+filtering captures 68% of true somatic mutations. This rate is slightly
+improved or comparable over existing methods used in previous studies
+involving sequencing of cancer cell lines. Interestingly, we find that
+there is typically 10% of known true somatic mutations that are unable to
+be called by any of the mutation callers used in a no-normal context but
+are discoverable with a normal present. In such cases, the presence of
+the normal can add additional information that aids mutation calling. To
+genetically characterize a panel of cell lines for pharmacological
+studies, we performed exome sequencing of 223 cancer cell lines. Analysis
+of filtered mutation variants reveals that cell lines harbor an average
+of 270 nonsynonymous coding variants, an increase over typical amounts
+found in primary tumors. Furthermore we find that for several tumor
+lineages, the spectra of mutations observed reflect the mutation
+signatures identified by other large scale efforts in primary tumors.
+With regard to recurrently mutated oncogenes and tumor suppressors, we
+observe significant overlap with existing mutation data derived from
+primary tumor samples. Additionally, we identify relevant cell line
+models for several novel cancer driver genes reported in recent studies.
+As a resource for the scientific community, we have made both aligned
+read data as well as mutation calls in various formats freely available
+and easily accessible.
+

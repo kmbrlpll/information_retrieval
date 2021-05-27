@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The chromatin remodelers RUVBL1 and RUVBL2 are prognostic factors
+and therapeutic targets in non-small cell lung cancer due to their roles
+in DNA replication, repair, and radiosensitization.
+
+
+Despite advances in targeted agents and immunotherapy, non-small cell
+lung cancer (NSCLC) remains the number one cause of cancer-related death.
+To identify new therapeutic targets in NSCLC, we performed an siRNA
+screen directed against genes involved in chromatin remodeling. This
+screen showed that RUVBL1 and RUVBL2 (herein collectively referred to as
+RUVBL1/2) were universally but differentially required for the viability
+of 24 NSCLC cell lines, which was an on-target effect. Various
+independent gene expression datasets/platforms show that NSCLC patient
+tumors have increased levels of RUVBL1 and RUVBL2 mRNAs, in comparison to
+normal lung, and that patients with high levels of RUVBL1 or RUVBL2 have
+a poorer prognosis, suggesting that RUVBL1/2 may play an important role
+in NSCLC tumors. To confirm this at the protein level, we validated an
+antibody against RUVBL1 for immunohistochemistry, stained clinically
+annotated NSCLC tissue microarrays for RUVBL1, and found that patients
+with higher levels of RUVBL1 protein also have a poorer prognosis. To
+better understand the role of RUVBL1/2 in NSCLC at a molecular level, we
+measured the distribution of cells in the cell cycle following RUVBL1/2
+KD, determined RUVBL1/2 interacting proteins by immunoprecipitation
+followed by tandem mass-spec (IP-MS/MS), and measured gene expression
+changes following RUVBL1/2 KD by RNA-seq. Depletion of RUVBL1/2 arrested
+cells in S-phase and promoted pan-γH2AX positivity, IP-MS/MS showed an
+over-representation of proteins involved in DNA repair and replication,
+and gene set enrichment analysis of the RNA-seq data displayed a
+downregulation of transcripts involved in DNA replication and repair,
+strongly implicating RUVBL1/2 in these processes. To further probe the
+effects of RUVBL1/2 loss, we performed low-level knock down (KD) of
+RUVBL1/2, such that viability is largely unaffected, and then measured
+the viability of cells in response to various drugs (n=35). These drugs
+target a wide variety of biological processes; however, the only drugs
+with increased efficacy in the presence of RUVBL1/2 KD were those that
+damage DNA, target ATR or its downstream partner CHEK1, or target some
+mitotic proteins, further implicating RUVBL1/2 in DNA replication and/or
+repair. Due to their roles in replication, we reasoned that RUVBL1/2 KD
+may enhance the effects of ionizing radiation, a treatment frequently
+given to NSCLC patients. Low level KD of RUVBL1/2 decreased the
+clonogenic potential of multiple NSCLC cell lines, which can be
+phenocopied by depleting independent subunits of RUVBL1/2-containing
+chromatin remodeling complexes. Finally, we show that RUVBL1/2 depend
+upon their ATPase activity to support NSCLC viability, suggesting that
+small molecule inhibitors of this protein may be efficacious in the
+treatment of NSCLC, especially when combined with radiation therapy.
+
+

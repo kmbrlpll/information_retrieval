@@ -1,0 +1,37 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Reactivation of EWS-FLI1 suppressed FOXO1 expression as a novel
+therapeutic strategy for Ewing's sarcoma
+
+
+The EWS-FLI1 chimeric protein, characterizing Ewing's sarcoma (ESFT), is
+prototypic for an aberrant oncogenic ETS transcription factor. The
+mechanisms of transcriptional regulation leading to ETS-driven
+tumorigenesis are poorly understood. In-silico analysis of time-resolved
+expression data revealed enrichment of recognition motifs for forkhead
+box (FOX) proteins in EWS-FLI1 repressed promoters. Several FOX genes
+were found to be bound by EWS-FLI1 in ChIP-seq and transcriptionally
+affected by EWS-FLI1 knockdown. We therefore hypothesized that EWS-FLI1
+exerts an important part of its repressive activity via inhibiting FOX
+proteins. Upon silencing of EWS-FLI1, both FOXO1 and FOXO3 proteins were
+strongly induced in ESFT cells consistent with this hypothesis, but only
+FOXO1 translocated to the nucleus. However, in the presence of EWS-FLI1,
+FOXO1 is excluded from the nucleus as a consequence of phosphorylation.
+Nuclear translocation was restored by either inhibition of CDK2,
+augmented by chemical inhibition of PI3K, or by mutation of CDK2 or AKT
+phosphorylation sites. Furthermore, ChIP experiments revealed that
+EWS-FLI1 directly binds the promoter of FOXO1 in vitro suggesting a
+multi-layered regulation of FOXO1 expression by transcriptional
+repression and post-translational modification. Functional restoration of
+nuclear FOXO1 expression in ESFT cells resulted in impaired proliferation
+and significantly reduced soft agar colony formation ability. A
+significant overlap between EWS-FLI1 repressed and FOXO1 activated genes
+was observed. Treatment of ESFT cell lines with Methyl-Seleninic-Acid
+(MSA) led to re-activation of endogenous FOXO1 in the presence of
+EWS-FLI1 in a dose- and time-dependent manner, and induced massive cell
+death, which we found to be at least partially FOXO1-dependent. Taken
+together, these data confirm our hypothesis that a repressive
+sub-signature of EWS-FLI1 regulated genes is due to suppression of FOXO1.
+FOXO1 re-activation by small molecules may constitute a novel therapeutic
+strategy in the treatment of ESFT. This study was supported by grant
+22328-B09 from the Austrian Science Fund FWF.
+

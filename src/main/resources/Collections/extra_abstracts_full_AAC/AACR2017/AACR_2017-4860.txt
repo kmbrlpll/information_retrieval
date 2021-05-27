@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The role of VE-cadherin in small cell lung cancer progression.
+
+
+Background: Small cell lung cancer (SCLC) accounts for ~ 12% of lung
+cancers worldwide. Although the majority of patients initially respond
+well to chemotherapy, responses are short lived and the disease is
+characterized by rapid progression, early metastasis and an overall poor
+prognosis. We have shown that a subset of aggressive SCLC tumor cells can
+undergo vasculogenic mimicry (VM), an epithelial to endothelial-like
+transition, leading to the formation of blood-perfusing channels
+independent of host vasculature. We have shown that VE-Cadherin (VE-Cad)
+is necessary for VM in a SCLC xenograft model and is present in VM
+channels in CTC explant tumors (CDX). Additionally, a rare subset of SCLC
+circulating tumor cells (CTCs) co-express cytokeratin and VE-Cad. We
+sought to explore the impact of VE-Cad on SCLC biology; specifically
+regarding aggressive nature of this disease.
+
+Methods: NCI-H446 (H446) cells were depleted for VE-Cad with shRNA
+knockdown (KD) or CRISPR-Cas9 knockout via VE-Cad targeted guide RNAs. VM
+was assessed in vitro via a channel forming assay on Matrigel. Cells were
+implanted subcutaneously into immunocompromised mice and assessed for
+chemotherapy response and metastatic capacity. VM was assessed in vivo
+with Periodic Acid Schiff (PAS)/CD31 immunohistochemistry (IHC).
+Metastases were assessed in H446 xenografts in vivo by IHC for human
+VE-Cad and human mitochondria.
+
+Results: H446 parental cells grew rapidly in vivo and formed extensive
+lung metastases. Loss of VE-Cad expression resulted in tumors that took
+longer to establish, had fewer VM structures and had reduced ability to
+form metastases in vivo and reduced migration and invasion capacity in
+vitro. In mice bearing VE-Cad KD tumors with reduced VM, treatment with
+cisplatin, the standard of care for SCLC, resulted in reduced
+intratumoral drug delivery. This was in keeping with reduced vascularity
+in VM low tumors, but conversely, these mice exhibited increased
+chemosensitivity. Chemosensitization was also observed in vitro,
+suggesting drug sensitivity is independent of both VM vessel formation
+and drug delivery. VE-Cad depletion in tumors also led to the expression
+of CD56, a classic neuroendocrine SCLC marker, suggesting the adoption of
+a more differentiated phenotype. This was confirmed by assessment of a
+signature of ‘stem-like’ and VM associated genes by qPCR. VM
+competent cells clustered together, while VE-Cad KD caused loss of this
+signature and clustering with more differentiated SCLC cells which are
+incapable of VM.
+
+Conclusions: VE-Cad has a broad impact on SCLC biology. Depletion of
+VE-Cad directly inhibits VM vessel formation, leads to increased drug
+sensitivity, and decreases the metastatic potential of these cells, which
+also become more differentiated. Future work will investigate the
+targeting of VE-Cad signaling for therapeutic benefit, and determine
+whether this recapitulates the drug sensitivity and metastasis data
+observed in our model.
+
+

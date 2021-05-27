@@ -1,0 +1,54 @@
+Meeting: 2015 AACR Annual Meeting
+Title: The critical role of CDK2 activation in determining the
+differential sensitivity of cell lines to Chk1 and Wee1 inhibitors
+
+
+Anticancer DNA damaging agents activate checkpoints that halt the cell
+cycle to prevent further DNA replication and mitosis until the damage has
+been repaired. One of the important regulatory proteins activated in this
+pathway is Checkpoint kinase 1 (Chk1). Hence, Chk1 inhibitors have
+emerged as promising novel therapeutics. In clinical trials, Chk1
+inhibitors are primarily being evaluated in combination with various DNA
+damaging agents. However, Chk1 inhibitors also show single agent activity
+in a subset of cell lines, and this provides a unique therapeutic
+opportunity to target these tumors. The goal of this study is to define
+the mechanism of this sensitivity, and identify biomarkers that would
+permit selection of appropriate patients for clinical trials. From
+screening a large panel of cancer cell lines, we observed that 15% were
+sensitive to the Chk1 inhibitor MK-8776, with rapid (Anticancer DNA
+damaging agents activate checkpoints that halt the cell cycle to prevent
+further DNA replication and mitosis until the damage has been repaired.
+One of the important regulatory proteins activated in this pathway is
+Checkpoint kinase 1 (Chk1). Hence, Chk1 inhibitors have emerged as
+promising novel therapeutics. In clinical trials, Chk1 inhibitors are
+primarily being evaluated in combination with various DNA damaging
+agents. However, Chk1 inhibitors also show single agent activity in a
+subset of cell lines, and this provides a unique therapeutic opportunity
+to target these tumors. The goal of this study is to define the mechanism
+of this sensitivity, and identify biomarkers that would permit selection
+of appropriate patients for clinical trials. From screening a large panel
+of cancer cell lines, we observed that 15% were sensitive to the Chk1
+inhibitor MK-8776, with rapid (<6 h) induction of DNA double-strand
+breaks (DSB) in S phase cells. Most of the resistant cell lines were
+sensitive to the Wee1 inhibitor, MK-1775 (AZD1775), while all the cell
+lines were sensitive to the Wee1/Myt1 dual inhibitor, PD-166285. Wee1
+suppresses activation of CDK1 and CDK2, suggesting that MK-1775-mediated
+activation of one or other (or both) of these kinases leads to DSB.
+MK-8776 did not activate CDK1, so we hypothesized that activation of CDK2
+was critical. To differentiate between the role of CDK1 and CDK2 in cell
+lines sensitive or resistant to MK-8776, we used inhibitors to CDK1/2. We
+found that CVT-313 was a selective inhibitor of CDK2 at low
+concentrations, but that Ro-3306 failed to discriminate between these two
+kinases in cells. CVT-313 prevented DSB and the associated
+phosphorylation of histone-H2AX induced by MK-8776 and MK-1775. Cyclin E
+is a direct target of CDK2; phosphorylation of cyclin E leads to its
+degradation which was only observed in sensitive cells and prior to the
+formation of DSB. The acute cytotoxicity was dependent on cyclin A rather
+than cyclin E, as siRNA-mediated knockdown of cyclin A but not cyclin E,
+prevented DSB. We conclude that activation of cyclin A/CDK2 determines
+the sensitivity of cells to MK-8776. Resistance to MK-8776 results from
+failure to activate CDK2, presumably through failure to activate the
+upstream CDC25A phosphatase. MK-1775 can circumvent this resistance by
+directly activating CDK2. The untimely and abnormal activation of CDK2 is
+then cytotoxic to cancer cells.
+

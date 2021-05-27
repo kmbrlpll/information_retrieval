@@ -1,0 +1,38 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A flow-based immunoprofiling strategy for interrogating
+system-wide leukocyte composition in response to glioblastoma.
+
+
+Glioblastoma (GBM) is a deadly brain cancer that suppresses cellular
+immunity through the production of anti-inflammatory
+cytokines/catabolites, expression of immune checkpoint molecules, and
+induction of tolerogenic immune cell subsets. While preclinical models
+have shown each of these mechanisms to negatively impact survival
+outcome, it remains unclear how these distinct processes manifest
+themselves within the context of a coordinated immune system and whether
+additional immunosuppressive mechanisms exist. To address these
+questions, we have developed an extensible in vivo screening platform to
+holistically determine how GBM affects cellular immune organization. The
+method allows for temporal assessment of leukocyte population dynamics in
+response to tumor progression. Leukocytes derived from lymphoid tissues
+of tumor-bearing mice are isolated and immunolabeled with a 12-color
+optimized immunofluorescence panel (OMIP) targeting several major
+leukocyte lineages. Single-cell data is acquired by flow cytometry and is
+clustered in an unsupervised manner based on cell-surface protein
+expression. A vector-based classification system is then used to map
+phenotypically distinct clusters onto known immune cell lineages. The
+platform allows for the extraction of immune signatures whose divergence
+from tumor-naïve standards may be quantified and statistically analyzed;
+such signatures may also be correlated with response/resistance to
+therapy. The approach has been validated on orthotopic GL261 glioma in
+syngeneic C57BL6/J mice, yet it is readily amenable to the study of
+diverse model systems, including de novo tumors driven by
+clinically-relevant oncogenes. Alternative flow cytometry antibody panels
+may easily be substituted to probe more specific immune cell subsets of
+interest. Systems biology approaches applied to the field of
+tumor-induced immunosuppression hold promise in identifying novel
+network-level immune signatures, facilitating a better understanding of
+immunotherapeutic drug action, and driving next generation
+high-dimensional biomarker discovery.
+
+

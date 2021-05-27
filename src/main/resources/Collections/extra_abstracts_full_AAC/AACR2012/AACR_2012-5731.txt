@@ -1,0 +1,38 @@
+Meeting: 2012 AACR Annual Meeting
+Title: PET and fluorescence imaging of brain cancer with a dual modality
+probe based on sarcophagine cage
+
+
+The development of a PET/optical imaging system is attractive because of
+the opportunity to obtain complementary data from two similar contrast
+mechanisms using one probe. Different from PET/CT or SPECT/CT, a linker
+is generally needed to efficiently incorporate PET tag, optical tag, and
+the biomarker together. Previously we developed a
+dicarboxyl-functionalized chelator (BaBaSar) derivatized from
+sarcophagine cage (denoted as Sar). BaBaSar has been used for 64Cu
+radiopharmaceutical development and the great in vivo stability of
+64Cu-BaBaSar encouraged us to continue to derivatize the sarcophagine
+core for versatile conjugation styles with biomarkers. In this study, we
+synthesized a hetero-functionalized sarcophagine named BaAnSar: carboxyl
+group at one end of the Sar cage and amino group on the other end. The
+pendant hetero-arm could be further conjugated to multiple targeting
+ligands via biologically stable amide bonds. In order to prove the
+advantage of the this BaAnSar chelator, we chose dimeric c(RGDyK) peptide
+(denoted as RGD2), a well-known ligand targeting integrin v3, onto the
+carboxyl side and fluorescent dye Cy5.5 on the amino functional side of
+the Sar cage. After labeling with 64Cu, a dual-modality probe,
+64Cu-BaAnSar-RGD2-Cy5.5 was made and evaluated in U87MG tumor bearing
+nude mice. Both NIR fluorescence imaging and microPET clearly delineated
+the U87MG tumor from the surrounded normal tissue at 1, 4, and 20 h post
+injection of 64Cu-BaAnSar-RGD2-Cy5.5. The microPET quantification of
+U87MG tumor uptake was determined as 6.41 0.28, 6.51 1.45, and 5.92 1.57
+%ID/g at 1, 4, and 20 h post injection, respectively. Good correlation
+was also observed between the results measured by ex vivo PET and NIRF
+organ imaging. In conclusion, we have successfully developed a
+bifunctional chelator for dual PET and NIRF imaging probe construction.
+The BaAnSar chelator developed herein has the potential to enhance
+resolution for comprehensive visualization of the probe distribution and
+provides a rapid and efficient imaging method for basic research and
+potential clinical applications, especially as a visual guide during
+surgery.
+

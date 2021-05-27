@@ -1,0 +1,45 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Side population analysis and gene expression profiling identify
+Notch pathway genes in neuroblastoma
+
+
+High-risk neuroblastoma (NB) has a very poor prognosis. Upon relapse, NB
+is chemotherapy-resistant and almost universally fatal. Cancer stem-like
+cells have been identified in both primary tumors and in cell lines and
+may have inherent resistance to traditional chemotherapeutic agents. We
+previously investigated NB cancer stem-like cells using side population
+(SP) analysis of three pairs of NB cell lines derived from single
+patients at the time of diagnosis and at relapse after therapy. We
+reported that the proportion of SP cells in the relapsed cell lines was
+significantly increased compared with its paired pretreatment cell line.
+Based on these findings, we hypothesized that specific signaling pathways
+would be differentially expressed in the pre- versus post-relapse SP
+cells. Therefore, we performed gene expression profiling using Affymetrix
+whole-genome arrays on the SP fraction of the cell lines SMS-KCN
+(pre-treatment) and SMS-KCNR (relapse). Microarray analysis revealed 126
+genes at least 2-fold up-regulated in the post-relapse SP cells compared
+to the pre-relapse SP fraction. Specifically, we identified several
+members of the Notch signaling pathway including Notch 2. To confirm the
+finding of increased notch expression, we measured mRNA expression in 84
+genes involved in Notch signaling in SMS-KCN SP and SMS-KCNR SP cells
+using an RT*2 Profiler PCR Array. Multiple notch genes were confirmed to
+be upregulated from 1.5-fold (NOTCH1) to 15-fold (HES1) in the
+post-relapse compared to the pre-treatment cell line SP cells.
+Subsequently, mRNA expression levels of nine Notch pathway genes,
+NOTCH1-4, HES1, HEY1, HEYL, and JAG1 and 2, were measured in six paired
+cell lines (SMS-KCN and KCNR, SMS-KAN and KANR, and CHLA-122 and 136) by
+qRT-PCR and were increased in each of the unsorted post-relapse cell
+lines. To assess the functional role of Notch signaling, we treated four
+of the cell lines with a -secretase inhibitor (DAPT, 5M) every 72 hours
+for 7 days which resulted in a >50% decrease in viability in all cell
+lines. Evaluation of the publicly available NCI NB gene expression
+profiling database (http://home.ccr.cancer.gov/oncology/oncogenomics/)
+showed that increased expression of NOTCH1, 2, and 3 correlated with a
+worse clinical outcome compared to those with low Notch expression
+levels. These results suggest that side population analysis coupled with
+gene expression profiling is a useful method for identifying novel
+pathways in NB and that upregulation of the Notch pathway may be
+important in the biology of NB cancer stem-like cells. Inhibition of the
+Notch pathway using -secretase inhibitors may provide new therapeutic
+options in NB.
+

@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A lung cancer risk classifier comprising genome maintenance genes
+measured in normal bronchial epithelial cells.
+
+
+Background: Annual low dose CT (LDCT) screening of individuals at high
+demographic risk reduces lung cancer mortality by more than 20%. However,
+subjects selected for screening based on demographic criteria typically
+have less than a 10% lifetime risk for lung cancer. Thus, there is need
+for a biomarker that better stratifies subjects for LDCT screening.
+Toward this goal, we previously reported a lung cancer risk test (LCRT)
+biomarker comprising 14 genome-maintenance (GM) pathway genes measured in
+normal bronchial epithelial cells (NBEC) that accurately classified
+cancer (CA) from non-cancer (NC) subjects. The primary goal of the
+studies reported here was to optimize the LCRT biomarker for high
+specificity and ease of clinical implementation.
+
+Methods: Targeted competitive multiplex PCR amplicon libraries were
+prepared for next generation sequencing (NGS) analysis of transcript
+abundance at 68 sites among 33 GM target genes in NBEC specimens
+collected from a retrospective cohort of 120 subjects, including 60 CA
+cases and 60 NC controls. Genes were selected for analysis based on
+contribution to the previously reported LCRT biomarker and/or prior
+evidence for association with lung cancer risk. Linear discriminant
+analysis was used to identify the most accurate classifier suitable to
+stratify subjects for screening.
+
+Results: The best classifier comprised 11 features including age and 10
+transcript abundance assays representing nine genes; specifically,
+CDKN1A, E2F1, ERCC5, GPX1, GSTP1, KEAP1, TP63, XPA, and XRCC1. After
+cross-validation, the Receiver Operator Characteristic area under the
+curve was 0.94 (95% CI: 0.92-0.96) and overall classification accuracy
+was 88.3% (95% CI 82.4%-94.1%). Using a threshold set at 95% sensitivity,
+specificity was > 70%.
+
+Conclusions: The LCRT biomarker reported here displayed high specificity
+and ease of implementation on a high throughput, quality-controlled
+targeted NGS platform. As such, it is optimized for clinical validation
+in specimens from the ongoing LCRT blinded prospective cohort study.
+Following validation, the biomarker is expected to have clinical utility
+by better stratifying subjects for annual lung cancer screening compared
+to current demographic criteria alone.
+
+

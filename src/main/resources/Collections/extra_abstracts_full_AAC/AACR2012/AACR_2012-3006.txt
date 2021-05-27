@@ -1,0 +1,24 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A systematical view on key genetic factors affecting somatic copy
+number alternations in different cancers
+
+
+Along with somatic mutations and translocations, somatic copy number
+alternations (SCNAs) play essential roles in the development of cancers.
+However, it remains poorly understood what mutagenic features driving
+cancer SCNAs are encoded in the genome sequence and how their effects
+vary across different cancer types. Taking advantage of recently
+available the Cancer Genome Atlas (TCGA) data, we performed a systematic
+analysis on the effects of various genetic sequence features on cancer
+SCNAs. We first assessed the correlations of breakpoint density across
+different cancer types and found that they overall showed very strong
+positive correlations, but in some cases, the correlations varied from
+chromosome to chromosome. Next, we investigated the dependence of SCNAs
+on 16 sequence features and found that compared to copy number variations
+in human populations, SCNAs showed much weaker correlations, suggesting a
+stronger effect of functional selection on their observed patterns.
+Finally, we built integrative models to identify key features affecting
+different cancer SCNAs. Our study provides a systematic view how
+genome-wide sequence features affect cancer SCNAs and lays a foundation
+for identifying key SCNAs driving cancer pathogenesis.
+

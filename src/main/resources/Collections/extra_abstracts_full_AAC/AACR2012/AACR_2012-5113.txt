@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Functional analysis of genomic variants identified through whole
+exome sequencing for susceptibility to lymphocytic leukemia
+
+
+The underlying genetic basis of many childhood cancers remains largely
+unknown, which places a significant focus on the discovery and
+understanding of cancer susceptibility genes. Our research is focused on
+the identification of novel high risk childhood cancer susceptibility
+genes through next generation sequencing methods and functional assays.
+One kindred contained four individuals diagnosed during childhood with
+lymphocytic leukemia or lymphoma transmitted in an autosomal dominant
+pattern of inheritance. Whole exome sequencing was performed on the
+constitutional DNA of three of the patients diagnosed with childhood
+cancer and one non-transmitting parent as an internal control. This
+analysis resulted in over 1000 unique single nucleotide variant (SNV)
+sites shared among the three affected family members. Of these SNVs,
+greater than 95% were found in control databases and excluded. Also, any
+variant found in the non-transmitting parent was eliminated. Systematic
+bioinformatics analysis resulted in a short list of seven missense SNVs
+predicted to be functionally important. Within this list is the missense
+mutation of a conserved residue (L254P) of Human Cytosolic 5 Nucleotidase
+(NT5C1A). NT5C1A has a role in nucleoside metabolism as this protein
+primarily catalyzes the production of adenosine through the
+dephosphorylation of AMP. Adenosine metabolism is essential for
+lymphocyte maturation and viability, making NT5C1A an attractive leukemia
+susceptibility candidate to pursue further through functional genomic
+assays. Prior studies have shown that overexpression of wild type NT5C1A
+in HEK293 cells improves cell survival after treatment with purine and
+pyrimidine analogs also used in leukemia treatment. We created multiple
+HEK293 cell lines that stably overexpress either the NT5C1A wild type or
+L254P mutant protein. These cells were tested for quantitative changes in
+NT5C1A mediated cytotoxicity to the nucleoside analogs, Cladribine and
+Gemcitabine. We have replicated the prior findings in cells
+overexpressing wild type NT5C1A and demonstrated that resistance is
+dependent on the amount of exogenous NT5C1A protein expressed.
+Importantly, overexpression of the L254P protein is deficient in
+mediating resistance to these analogs, which is consistent with this
+novel variant interfering with NT5C1A activity. This finding has led us
+to hypothesize that the L254P mutation leads to a reduction in protein
+function, most likely through reduced substrate binding, which may
+increase AMP levels in early lymphocytes and predispose to tumorigenesis.
+Future directions include experiments to determine the L254P protein's
+substrate binding affinity and activity and the introduction of the
+mutation into murine leukemia models as well as analysis of L254P as a
+pharmacogenetic variant.
+

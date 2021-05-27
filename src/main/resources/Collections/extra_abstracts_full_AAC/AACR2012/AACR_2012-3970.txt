@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Model-driven investigation of VEGF binding to endothelial cells
+and implications of the spatial organization of the cell membrane
+
+
+VEGF signaling plays an important role in the development and maintenance
+of blood vessels and it has received much attention due to its role in
+tumor development and other pathologies. Recent developments in
+therapeutics have highlighted the complex and often contradictory
+features of cell signaling mediated by the VEGF ligand and receptor
+family. The aim of this study is to constrain the effective parameters of
+a minimal mathematical model [1] of the first steps in VEGF signaling,
+namely, the molecular transformations that occur from the presentation of
+VEGF ligand in the extracellular space to the formation of activated
+ligand-receptor complexes on the cell membrane. This study addresses
+unique properties of VEGF due to its bivalent nature. Bivalence
+complicates signal initiation, which requires the formation of a complex
+of two receptors cross-linked by a ligand. Unlike the initial capture of
+ligand from the surrounding volume, the second binding step occurs
+between proteins bound to the cell membrane, and is therefore modulated
+by the lateral mobility of the receptors, which in turn reflects the
+limitations to free movement due to various features of the cell
+membrane. The kinetics of cross-linking are reflected in (i) the degree
+of reversibility of VEGF binding to the cell, and (ii) the phenomenon of
+high dose inhibition. Thus, the empirically derived kinetics that defines
+the well mixed model [1] help integrate binding data with high resolution
+imaging and single particle tracking studies of the cell membrane, two
+classes of experimental information that are hard to compare directly.
+The binding of VEGF to human umbilical vascular endothelial cells (HUVEC)
+has been well studied in the literature, and was the basis of the
+original parameterization of the model [1]. However, those experiments
+did not pursue the distinction between the two different binding steps,
+and the kinetics of cross-linking was not well determined. To address
+this, we use a synthetic compound, single-chain VEGF [2], conjugated to a
+fluorescent tag (scVEGF-Cy5.5). This ligand has two functional binding
+sites and its binding affinity and physiological effect on cells
+expressing VEGFR-2 closely reproduce those of VEGF165. We used flow
+cytometry to quantify the binding of scVEGF-Cy5.5 to HUVEC in vitro. We
+obtained dose response curves and time courses for total binding in
+solution, for incubation times from 30 - 120 minutes and ligand
+concentrations from 0.1 - 200 nM. The data show possible signs of high
+dose inhibition in the 100 nM range, and allow us to estimate a range for
+the characteristic time of cross-linking. Subsequent experiments will
+directly probe this time range, based on use of this versatile probe for
+imaging studies of receptor localization and mobility in the cell
+membrane. References: [1] MacGabhann F and Popel AS, Biophys.Chem.
+128:125-139 (2007) [2] Backer MV et al, Nat.Med. 13:504-509 (2007)
+

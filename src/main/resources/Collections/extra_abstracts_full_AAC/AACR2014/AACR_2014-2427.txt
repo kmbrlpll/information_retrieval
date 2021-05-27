@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: The 5 endonuclease EEPD1 maintains genomic stability by mediating
+DNA repair pathway choice
+
+
+EEPD1 (endonuclease/exonuclease/phosphatase family domain-containing 1)
+is an uncharacterized human protein that we found to be transcriptionally
+increased upon induction of DNA double strand breaks (DSBs). A549 cells
+with EEPD1 repressed by siRNA arrested at the G1/S and G2/M transitions
+and had markedly increased sensitivity to various DSB-inducing agents,
+such as camptothecin, VP-16, hydroxyurea (HU), and ionizing irradiation
+(IR). There are two major types of DSB repair, non-homologous end-joining
+(NHEJ) and homologous recombination (HR), which is essential for
+replication fork repair. Using the EJ5 NHEJ reporter system, EEPD1
+repression resulted in a 2-fold increase in NHEJ repair. However,
+formation of 53BP1 foci was unaffected in these cells, indicating that
+the initial step towards NHEJ was intact. However, in the HT256 HR
+reporter system, EEPD1 repression produced a 5-fold decrease in HR
+repair, indicating that EEPD1 mediates HR and inhibits NHEJ, placing it
+at the decision point for DSB repair. Immunofluorescence assays of HR
+components were performed in the presence of HU. EEPD1 repression
+significantly decreased -H2Ax, RAD51, and RPA32 foci formation, so
+placing EEPD1 above these HR components. The initial activity that
+commits a DSB to HR repair and away from NHEJ is 5 end resection. This
+generates the 3 ss DNA that results in ATR/Chk1 activation as well as
+RPA32 and -H2Ax foci. To assess this, a ss BRDU end resection assay was
+done after IR and there was a 4-fold decrease in 5 end resection when
+EEPD1 was repressed. Consistently, there was also a decrease in ATR and
+Chk1 phosphorylation. Co-immunoprecipitation studies found that EEPD1
+interacts with Ku80 and NBS1. In vitro assays using purified recombinant
+EEPD1 protein found its 5 endonuclease activity was distinct from both
+Exo1 and DNA2, the two major mediators of 5 end resection. This activity
+was, however, repressed by the Ku complex, indicating antagonism between
+EEPD1 and Ku. Cells with decreased EEPD1 expression showed severe nuclear
+anomalies, such as micronuclei, nucleoplasmic bridges that may have been
+caused by unopposed NHEJ when the functional HR was not available.
+Metaphase analysis in these cells also showed a significant increase in
+chromosomal aberrations, especially after IR and HU. These data suggest a
+novel model of collapsed replication fork repair pathway choice, where
+the free DS end binds the MRN complex, and NBS1 recruits EEPD1,
+inhibiting NHEJ and promoting HR via initiation of 5 end resection. This
+is supported by the finding that EEPD1 is required for RPA32/ATRIP
+activation of ATR/Chk1, and all subsequent steps in repairing collapsed
+replication forks. Without such repair, the collapsed forks are
+end-joined to create chromosome fusions, which generate the nucleoplasmic
+bridging during mitosis. Lung and endometrial cancers have significant
+rates of EEPD1 mutation, further indicating that EEPD1 might be a novel
+tumor suppressor.
+

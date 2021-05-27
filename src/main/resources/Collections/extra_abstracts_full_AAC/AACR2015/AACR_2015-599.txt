@@ -1,0 +1,32 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A panel of mass spectrometry based serum protein tests for
+predicting graft-versus-host disease (GvHD) and its severity
+
+
+Allogeneic hematopoietic stem cell transplantation (AHSCT) has been shown
+to provide longterm disease-free survival for otherwise fatal malignant
+or nonmalignant hematological disorders. Acute and chronic
+graft-versus-host disease (aGvHD and cGvHD) are a major complication
+following AHSCT and are associated with a substantial morbidity and
+mortality. Identification of patients (pts) likely to develop severe
+forms of GvHD could allow the selection of more aggressive therapeutic
+regimens for patients assessed to be at high risk.Serum samples and
+clinical data were available from 124 pts (age 18-70) who had received
+AHSCT. Five pts suffered no GvHD, 15 de novo cGvHD, 21 aGvHD but no cGvHD
+and 83 both aGvHD and cGvHD (overlap). Of pts with aGvHD 51% had grade I
+disease and of pts with cGvHD 53% had limited disease. Matrix assisted
+laser desorption/ionization (MALDI) mass spectra were acquired from the
+samples using the deep MALDI method, allowing a deep probing of the
+proteome. Spectra were preprocessed and spectral features defined. The
+integrated intensities of these features were combined with the clinical
+data using deep learning based machine learning to create classifiers
+able to stratify patients into groups depending on occurrence and
+severity of GvHD.Classifiers could be developed with significant power to
+predict occurrence and severity of GvHD. The area under the curves (AUCs)
+obtained for the clinical questions investigated and examples of the
+sensitivity and specificity achievable are summarized in the table.It is
+possible to provide information on occurrence and severity of GvHD from
+mass spectral analysis of post-transplant serum samples. If validated,
+this panel of tests could provide additional information useful for
+clinicians choosing treatment regimens for pts following AHSCT.
+

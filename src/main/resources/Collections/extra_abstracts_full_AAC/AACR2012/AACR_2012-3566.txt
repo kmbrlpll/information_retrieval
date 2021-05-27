@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Multimodal optical imaging for detection of oral neoplasia
+
+
+Despite advances in treatment methods the 5-year survival rate for
+patients with oral cancer in the United States is still only 61%, in part
+due to late stage diagnosis and subsequent difficulty of surgical
+treatment for advanced disease. To improve the ability of clinicians to
+detect early stage disease and to treat advanced cancers, we developed a
+multimodal optical imaging system (MMIS) to evaluate tissue structure in
+vivo at macroscopic and microscopic scales. The MMIS noninvasively
+measures changes associated with the development of precancer and cancer,
+including alterations in tissue autofluorescence properties (due to loss
+of collagen integrity, epithelial thickening, metabolic changes, and
+microvascularization) and alterations in tissue morphology (nuclear
+enlargement and crowding within the epithelium). The macroscopic imaging
+component of the MMIS acquires autofluorescence images of tissue with an
+excitation wavelength of 405 nm, a field of view of 45 mm, and spatial
+resolution of 0.1 mm. Loss of autofluorescence intensity is quantified by
+calculating the normalized red-to-green ratio in widefield
+autofluorescence images. Regions of tissue that display reduced
+blue-green autofluorescence are examined further using the
+high-resolution imaging component of the MMIS, which is a compact
+fluorescence microscope coupled to a fiber-optic imaging probe with a 720
+m diameter field-of-view and 4.4 m spatial resolution. High-resolution
+imaging is performed at an excitation wavelength of 455 nm following
+topical application of proflavine, a fluorescent contrast agent which
+predominantly stains cell nuclei. Alterations in nuclear size and
+crowding are quantified by calculating the mean nuclear-to-cytoplasm
+ratio in high-resolution images. The MMIS was used to measure 100 sites
+in 30 patients undergoing surgery for oral cancer or precancer.
+Histopathology results from tissue specimens collected from the measured
+sites were used as the gold standard. Tissue specimens with a
+histopathologic diagnosis of dysplasia (mild, moderate, or severe) were
+further evaluated for molecular alterations by immunohistochemical
+staining for the markers Ki-67, p63 and PHH3. The MMIS correctly
+classified 98% of pathologically confirmed normal tissue sites and 95% of
+sites graded as moderate dysplasia, severe dysplasia, or cancer. MMIS
+measurements also correlated with molecular markers in 87% of sites with
+mild dysplasia. Following stratification of mild dysplasia sites by
+biomarker status, multimodal optical imaging classified all 100 measured
+sites with 93% sensitivity and 96% specificity. These findings support
+the ability of MMIS to guide the clinician in identifying neoplastic
+tissue, and potentially those sites with elevated risk of malignant
+transformation. This would have considerable impact on the detection and
+treatment of oral cancer and other epithelial malignancies.
+

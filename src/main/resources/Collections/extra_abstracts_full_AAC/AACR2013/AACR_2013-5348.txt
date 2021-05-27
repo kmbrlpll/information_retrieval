@@ -1,0 +1,25 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Characterization of the EZH2-MMSET histone methyltransferase
+regulatory axis in cancer.
+
+
+Histone methyltransferases (HMTases), as chromatin modifiers, regulate
+the transcriptomic landscape in normal development as well in diseases
+such as cancer. Here, we molecularly order two HMTases, EZH2 and MMSET
+that have established genetic links to oncogenesis. EZH2, which mediates
+histone H3K27 trimethylation and is associated with gene silencing, was
+shown to be coordinately expressed and function upstream of MMSET, which
+mediates H3K36 dimethylation and is associated with active transcription.
+EZH2 transcript expression levels were compared to all HMTases (n=51) in
+our compendium of RNA-seq data comprising 474 malignant and benign
+samples, representing 14 different tissue types. MMSET displayed the
+strongest correlation with EZH2 expression. Similarly, a meta-analysis of
+1755 samples from 22 published microarray gene expression studies in
+Oncomine revealed co-expression of MMSET and EZH2 in 15 different
+cancers. We found that the EZH2-MMSET HMTase axis is coordinated by a
+microRNA network and that the oncogenic functions of EZH2 require MMSET
+activity. Together, these results suggest that the EZH2-MMSET HMTase axis
+coordinately functions as a master regulator of transcriptional
+repression, activation, and oncogenesis and may represent an attractive
+therapeutic target in cancer.
+

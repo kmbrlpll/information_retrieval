@@ -1,0 +1,65 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Distinct and heterogeneous response of Ewing sarcoma cells to
+canonical Wnt signaling
+
+
+Canonical Wnt/-catenin signaling underlies the pathogenesis of many
+colorectal carcinomas and other cancer types. However, the role of the
+canonical Wnt signaling pathway in Ewing sarcoma (ES) pathogenesis is
+unclear. Current data suggest that Wnts may function as morphogens rather
+than mitogens in ES. Thus, we hypothesized that the response of ES cells
+to Wnt ligands is distinct from other cells and dependent on cellular
+context. To investigate the response of ES cells to Wnt signaling, we
+transduced ES cell lines with 7xTCF-GFP (7TGP) or 7xTCF-luciferase (7TFP)
+reporter vectors, and stimulated cells with control or WNT3a conditioned
+media (CM) with or without recombinant R-spondin 2 (RSPO2), a molecule
+that strongly potentiates canonical Wnt signaling. We used in situ
+hybridization to determine the expression of LGR5, the receptor for
+RSPO2. To isolate highly Wnt-responsive cells, we sorted the top 10% of
+GFP-positive 7TGP-transduced cells that had been stimulated by Wnt3a CM
++/- RSPO2, and performed RNA-sequencing (RNA-seq). Using edgeR, we
+generated lists of differentially expressed genes either up- or
+down-regulated by Wnt signaling (pCanonical Wnt/-catenin signaling
+underlies the pathogenesis of many colorectal carcinomas and other cancer
+types. However, the role of the canonical Wnt signaling pathway in Ewing
+sarcoma (ES) pathogenesis is unclear. Current data suggest that Wnts may
+function as morphogens rather than mitogens in ES. Thus, we hypothesized
+that the response of ES cells to Wnt ligands is distinct from other cells
+and dependent on cellular context. To investigate the response of ES
+cells to Wnt signaling, we transduced ES cell lines with 7xTCF-GFP (7TGP)
+or 7xTCF-luciferase (7TFP) reporter vectors, and stimulated cells with
+control or WNT3a conditioned media (CM) with or without recombinant
+R-spondin 2 (RSPO2), a molecule that strongly potentiates canonical Wnt
+signaling. We used in situ hybridization to determine the expression of
+LGR5, the receptor for RSPO2. To isolate highly Wnt-responsive cells, we
+sorted the top 10% of GFP-positive 7TGP-transduced cells that had been
+stimulated by Wnt3a CM +/- RSPO2, and performed RNA-sequencing (RNA-seq).
+Using edgeR, we generated lists of differentially expressed genes either
+up- or down-regulated by Wnt signaling (p<0.05). We next interrogated
+pathways enriched in these lists using DAVID and gene set enrichment
+analysis (GSEA). From these studies, we observed that the activation of
+Wnt signaling varied among cell lines and among distinct cells within a
+given cell line. We hypothesized that this inter- and intra-cell line
+heterogeneity in the response to Wnt pathway activation was due in part
+to variations in expression of LGR5, and in situ hybridization confirmed
+that there was marked variability of LGR5 expression among individual
+cells in both cell lines and primary tumors. RNA-seq analyses revealed
+that the most significantly induced or repressed genes in response to Wnt
+pathway activation included many genes not previously shown to be
+regulated by Wnt signaling, in addition to a limited number of previously
+described Wnt targets. Further, DAVID and GSEA revealed that genes in
+developmental pathways were enriched in the induced gene set, while genes
+associated with cell cycle regulation were enriched in the repressed
+genes. Notably, GSEA revealed that numerous genes induced by Wnt
+activation are repressed in response to the ES-specific oncogene
+EWS/FLI1, and many genes repressed by Wnt are induced by EWS/FLI1. This
+led us to hypothesize that Wnt signaling may transcriptionally antagonize
+EWS/FLI1 signaling, and phalloidin staining confirmed that Wnt
+stimulation induces changes in the cytoskeleton that are reminiscent of
+an EWS/FLI1 knockdown phenotype. Together, these data show that canonical
+Wnt signaling in LGR5-positive Ewing sarcoma cells results in distinct
+transcriptional programs that may depend in part on the relative basal
+levels of LGR5 expression. Further, the findings suggest a novel
+mechanism by which the functional activity of EWS/FLI1 may be altered by
+Wnt signals in the tumor microenvironment.
+

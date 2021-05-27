@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: UniD: unified and integrated diagnostic pipeline for malignant
+gliomas based on DNA methylation data.
+
+
+Prognostic and predictive molecular diagnostics for patients with gliomas
+typically rely on multiple assays, requiring large amounts of tissue and
+high cost. DNA methylation has been utilized to identify prognostic
+subsets and high-throughput platforms exist that are suitable for
+archival tissue. Therefore, we developed a unified and integrated
+diagnostic pipeline that can assess multiple prognostic and predictive
+biomarkers using only the Illumina Infinium Methylation array. This
+pipeline includes two parts: data processing and diagnostic biomarkers.
+Data processing starts from the raw data and followed with quantitative
+sample, probe, and batch quality control. The diagnostic biomarkers
+include a glioma methylation assay that predicts radiation response
+(GaMA); tumor classification enriched for TCGA expression subclasses;
+copy number alterations including phosphatase and tensin homolog (PTEN)
+loss, epidermal growth factor receptor (EGFR) amplification, and
+chromosomes 1p/19q co-deletion; CpG island methylation phenotype
+(G-CIMP); isocitrate dehydrogenase (IDH) mutation, and
+O6-methylguanine-DNA methyltransferase (MGMT) promoter hypermethylation.
+WHO grade II-IV gliomas were analyzed in both publically available and
+institutional datasets. A signature was identified to effectively
+distinguished radiation resistant from radiation sensitive glioma
+stem-like cells (GSCs). Signature has been applied to 272 TCGA GBM
+samples from patients who received standard radiotherapy (RT). The
+survival analysis showed that the subgroup with RT-sensitive and
+RT-resistant have significant difference in survival time (log-rank test
+p-value = 0.0016). Gene expression subclasses prediction biomarker was
+build by using the revised TCGA gene expression subclasses as gold
+standard. The prediction accuracy in test data set was 83.5% in the
+homogeneous subgroup, 71.0% in the semi-heterogeneous subgroup, and 62.1%
+in the heterogeneous subgroup. The prediction accuracy decreased as tumor
+heterogeneity increased. Certain copy number alteration events were
+predicted by developing specific signatures. Revised methylation
+signatures were developed for IDH mutation and G-CIMP status
+respectively, which can identified 99% of those samples. 230 GBM samples
+with 450k data available were tested with MGMT methylation-specific
+real-time PCR for MGMT methylation status. The methylation-based MGMT
+prediction accuracy reached about 90%. In summary, we have developed a
+single, FFPE-based pipeline for unified and integrated determination of
+multiple biomarkers of malignant glioma.
+
+

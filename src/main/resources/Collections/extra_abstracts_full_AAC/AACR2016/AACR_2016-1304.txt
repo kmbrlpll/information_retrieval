@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The effect of FoxM1 inhibition with thiostrepton on ovarian cancer
+immune response and sensitivity to chemotherapy in vitro
+
+
+Background: An ideal anti-cancer agent will target a pathway that is
+altered in cancer, produce a selective cytotoxic response in cancer
+cells, induce immunogenic cell death, and enhance tumor immunity. FoxM1
+inhibitor, thiostrepton, may fit this profile of an ideal anti-cancer
+agent. FoxM1 is activated in the majority of high-grade serous
+carcinomas, regulates DNA repair genes, and enhances cell proliferation,
+metastasis, and chemotherapy resistance. We have previously shown that
+loss-of-function and gain-of-function TP53 mutations contribute to FoxM1
+overexpression, thus the p53-FoxM1 axis represents a novel therapeutic
+target. However, the therapeutic potential of FoxM1 inhibition by
+thiostrepton has not been fully investigated in ovarian
+cancer.Hypothesis: We hypothesize that FoxM1 inhibition by thiostrepton
+increases cancer cell sensitivity to chemotherapy and enhances anti-tumor
+immunity.Results: Thiostrepton downregulates FoxM1 expression, induces
+cytotoxic effects across various ovarian cancer cell lines, and shows
+synergistic activities with cisplatin. In congruence with the
+Connectivity Map data, qRT-PCR results of A2780 cells treated with
+thiostrepton (10 M) show upregulation of pro-apoptotic genes DDIT3,
+GADD45A and DDIT4, and downregulation of DNA repair and anti-apoptotic
+genes FANCF, BRCA2, BRCC3, and BCL2. These results suggest that the
+synergism observed may be a consequence of DNA damage induction by
+cisplatin combined with inhibition of DNA repair by thiostrepton, making
+this a lethal duo to cancer cells. Comet assay results from mouse ovarian
+cancer cells, ID8, support this hypothesis by demonstrating an increase
+in DNA damage following the combined treatment of thiostrepton and
+carboplatin or thiostrepton and PARP inhibitor olaparib. Western blots
+also show increased p-H2AX levels in these combined treatments. In
+addition to the cytotoxic effect, thiostrepton can alter the cancer cell
+immune response by affecting the expression of immunomodulatory genes.
+This is supported by the ENCODE data, which indicates FoxM1 binds to the
+cis-regulatory region of PD-L1 (programmed cell death ligand 1), a target
+of ongoing immunotherapy clinical trials. Flow cytometry and Western
+blots depict increased PD-L1 expression in ID8 cells treated with
+thiostrepton (5 M). In these same cells, flow cytometry showed an
+increase in RAE1 and 4-1BB ligands, which may lead to increased
+recognition by natural killer T-cells, as well as enhanced
+externalization of calreticulin, a hallmark of immunogenic cell
+death.Conclusion: These studies demonstrate the novel effect of
+thiostrepton on immunogenic cancer cell death and an effect on anti-tumor
+immunity. These results suggest thiostrepton as an ideal anti-cancer
+agent with the ability to target the DNA repair response and the immune
+response to enhance the chemotherapeutic effects of cisplatin and
+olaparib.
+

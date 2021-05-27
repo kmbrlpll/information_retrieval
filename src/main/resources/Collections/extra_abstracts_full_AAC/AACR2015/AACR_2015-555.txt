@@ -1,0 +1,20 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A workflow for enrichment and whole genome amplification (WGA) of
+circulating tumor cells (CTCs) for next generation sequencing
+
+
+Metastasis is the leading cause of cancer deaths. Circulating tumor cells
+(CTCs) are thought to be responsible for the seeding of metastases. These
+tumor cells are heterogeneous with variation occurring at the single-cell
+level. Using a flexible micro spring array (FMSA) device for label-free
+mechanical enrichment of CTCs from whole blood samples, we established a
+workflow from isolation followed by whole genome amplification (WGA) and
+finally sequencing of circulating tumor cells. Briefly, circulating tumor
+cells were collected from the FMSA using the Zeiss Laser Capture
+Microdissection System. Isolated cells underwent whole genome
+amplification using a commercial WGA kit. The quality of the amplified
+genomic DNA was analyzed using the TaqMan Real-Time PCR Assays. Specific
+loci were then amplified with the Ion AmpliSeq Cancer Hotspot Panel v2
+and sequenced using the Ion PGM System. These studies were performed to
+understand the genomic heterogeneity observed in circulating tumor cells.
+

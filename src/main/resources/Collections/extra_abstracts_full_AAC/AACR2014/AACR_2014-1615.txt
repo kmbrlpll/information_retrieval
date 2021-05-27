@@ -1,0 +1,44 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Enrichment of EGFR/PI3K/AKT/PTEN proteins using
+immunoprecipitation and analysis with mass spectrometry-based proteomics
+
+
+Background: The dynamic range of protein concentrations spans more than
+seven orders of magnitude in human cell lines and eleven orders of
+magnitude in human plasma/serum and tissue. Currently, a major bottleneck
+in the verification of candidate cancer biomarkers is the lack of
+methods/reagents to quantify medium to low levels of proteins of interest
+in human samples. Immunoprecipitation followed by mass spectrometry
+(IP-MS) allows for the simultaneous analysis of protein expression,
+protein-protein interactions and post-translational modifications (PTMs)
+of protein biomarkers. The immunoaffinity aspect provides both enrichment
+and increased sensitivity while the mass spectrometry provides high
+specificity, high selectivity and multiplex possibility. Dysregulated
+EGFR-PI3K-AKT signaling is considered pivotal for many cancers, and this
+pathway is a potential candidate for therapeutic targeting. The
+quantitative evaluation of protein expression and PTM status of these and
+other signal transduction protein targets in cell lines, tissue, and
+plasma will enable precise characterization of the disease at the
+diagnostic or prognostic level and to monitor its progression and
+treatment response.Methods: Here we evaluated immunoprecipitation with
+directly coupled antibody or biotinylated antibody with immobilized
+streptavidin resin for MS applications. We evaluated several beads/resins
+to precipitate EGFR from A431 cell lysate with subsequent detection and
+quantitation by mass spectrometry. EGFR, PI3K, AKT isoforms and PTEN were
+immunoprecipitated from two cell lysates using the optimized IP to MS
+workflow. A multiplex targeted assay (LC-SRM/MS) was developed and
+implemented to measure limit of quantitation (LLOQ) of the EGFR, PI3K,
+AKT2, AKT1, and PTEN tryptic peptides in two cell lysates and
+plasma.Results: Immunoprecipitation using magnetic beads resulted in
+overall higher yield of target protein and less non-specific binding for
+MS applications. Enrichment of EGFR, AKT isoforms, and PTEN in two cell
+lysates permitted detection by discovery MS and quantitation by targeted
+MS. Immunoprecipitation of EGFR and AKT2 resulted in simultaneous
+analysis of multiple phosphorylation sites. EGFR, AKT1, AKT2 and PTEN
+were quantitated in low nanogram range by LC-SRM/MS in two cell lysates.
+Enrichment of as low as 7ng/mL recombinant EGFR in human plasma matrix
+allowed absolute quantitation by targeted MS.Conclusion: The application
+of IP to the analysis of EGFR, PI3K, AKT and PTEN protein targets permits
+detection and quantitation of protein and PTMs at sub to low ng/mL
+concentrations with mass spectrometry approaches.
+

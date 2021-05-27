@@ -1,0 +1,34 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Changes in mitochondrial background affect nuclear DNA methylation
+
+
+There is emerging evidence demonstrating that mitochondrial DNA (mtDNA)
+contributes to complex genetic diseases such as cancer. To test directly
+the role of mtDNA in tumorigenicity and metastasis, a new genetically
+engineered mouse model was created that contains nuclear DNA from one
+mouse strain and mtDNA contribution from different mouse strain(s).
+Taking advantage of maternal inheritance, Mitochondrial Nuclear Exchange
+(MNX) mice can be bred to mice sharing the same nuclear DNA background.
+As a result, MNX serves as an important tool to determine if and how
+mitochondrial genetic background contributes to cancer, negating the
+concern for mixing maternal and paternal nuclear DNA polymorphisms. MNX
+mice are healthy, breed normally, show no overt differences in cell cycle
+or apoptosis and are genetically stable for multiple (>10) generations.
+Nonetheless, they are distinct strains based upon behaviors and gene
+expression patterns. The mechanisms controlling gene expression in
+different MNX strains are not yet known; however, retrograde and
+anterograde cross-talk exists between the nuclear and mitochondrial
+genomes. Our hypothesis is that important epigenetic changes occur in the
+nuclear genome depending upon mitochondrial genetics. To test this
+hypothesis, we performed Meth-Seq using the Agilent Mouse SureSelect
+platform and Affymetrix gene expression arrays on four mouse brains (8
+wk) that were pooled from different litters and cages of wild-type and
+MNX to minimize age, developmental, inter-individual and generational
+heterogeneity. Both differential DNA methylation and gene expression
+patterns were observed but analyses are ongoing to better define the
+observed differences. Together these observations provide novel insights
+into how mtDNA could be altering epigenetic regulation and thereby
+contribute to cancer pathogenesis. Support: Susan G. Komen for the Cure
+(SAC11037), Natl Fndn Cancer Res., Kansas Bioscience Authority, Steiner
+Family Fund.
+

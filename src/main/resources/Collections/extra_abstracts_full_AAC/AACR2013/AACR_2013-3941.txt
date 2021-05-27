@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Manipulating the tumor microenvironment for therapeutic benefit:
+identifying mechanisms of buffer resistance.
+
+
+The acidic microenvironment is a common physiological phenomenon of most
+solid tumors that can be attributed to increased fermentative metabolism
+combined with poor perfusion. Acidic niches provide a highly selective
+environment promoting carcinogenesis and malignancy. We previously
+demonstrated that neutralizing acidosis with buffers reduced spontaneous
+or experimental metastasis in-vivo. This effect is due to buffering,
+because by reducing the buffering capacity of lysine five-fold by
+titrating the solution from pH 10 to pH 8.4 (below the second of three
+pKa's), we observed a correlating decrease in efficacy in-vivo. In these
+studies, some tumor types, notably LL/2 and B16-F12 cells are resistant
+to buffer therapy. To examine the mechanisms that lead to resistance, we
+first determined their metabolic profiles using a Seahorse XF96 to
+measure glucose-dependent acidification rates (ECAR) and oxygen
+consumption rates (OCR). Contrary to our hypothesis, these data showed
+that the resistant lines, LL/2 and B16-F12 had significantly higher basal
+OCR and lower glucose-stimulated ECAR, compared to PC3M cells (buffer
+sensitive). PC3M cells also had low spare glycolytic capacity, suggesting
+they are at or near maximal glycolysis in their basal state. Glucose
+consumption assays confirm increased rates of glucose consumption by PC3M
+cells, confirming a glycolytic phenotype. Hence, resistance to buffer
+therapy is not simply a consequence of higher metabolic proton production
+rates. Acidosis has been shown to stimulate lysosomal redistribution and
+protease secretion in-vitro. Thus, an alternative hypothesis is that
+protease activation may be a mechanism by which low pH stimulates
+metastasis in-vivo. To observe protease activity in vivo, MMPsense 680
+and Prosense 750EX activatable probes, which measure MMP and cysteine
+cathepsin activity respectively, were injected intravenously into nu/nu
+mice bearing bilateral LL/2 and PC3M tumors. Mice were provided either
+tap water or 200 mM lysine, ad lib for the duration of the experiment.
+Mice were imaged 24 hours following probe's injection using a
+Perkin-Elmer FMT 2500. LL/2 tumors (buffer resistant) had significantly
+higher basal cysteine cathepsin activity than PC3M tumors in control
+mice, and these decreased upon lysine treatment. MMP activity between
+LL/2 and PC3M tumors was not different in control mice, however, MMP
+activity increased significantly in LL/2 tumors with buffer therapy. In
+vitro 3D-DQ-collagen IV degradation assays correlate with protease
+activity seen in vivo. These data suggest that buffer-sensitive cells
+rely on acid production from glycolysis for metastatic potential, whereas
+resistant lines metastasize through a pH-independent proteolytic
+mechanism.
+

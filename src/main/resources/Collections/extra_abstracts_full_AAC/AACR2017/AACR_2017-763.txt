@@ -1,0 +1,32 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Analytical validation of Ki67/CD8 duplex IHC assay using
+computational tissue analysis (cTATM).
+
+
+Chromogenic multiplex immunohistochemistry (IHC) assays enable
+investigation of the spatial relationships between tumor and immune
+cells, which is thought to be important for understanding and predicting
+therapeutic response. Development and analytical validation of multiplex
+IHC assays enables the use of such assays to simultaneously investigate
+multiple biomarkers as predictors of clinical response. In this study, we
+analytically validated a chromogenic duplex IHC assay that quantifies
+Ki67 and CD8 in formalin-fixed, paraffin-embedded non-small cell lung
+cancer tissues. Five performance criteria were selected and evaluated
+based on Clinical Laboratory Standards Institute guidelines: reportable
+range, analytical sensitivity, analytical specificity, accuracy, and
+precision. Similar to analytical validation studies for monoplex IHC
+assays, this study utilized a reference method and multiple days of
+staining. The percentage of cells positive for Ki67 nuclear staining
+and/or CD8 membrane staining were quantified using our computational
+Tissue Analysis (cTATM) platform. Performance of the Ki67/CD8 chromogenic
+duplex IHC assay was considered acceptable for the five criteria
+evaluated. Once the performance of the assay was established, additional
+exploratory cTA-based endpoints were examined, including the
+quantification of each biomarker in the tumor compartment and the tumor
+microenvironment, and analysis of the spatial arrangement of immune cells
+relative to tumor cells. In conclusion, Flagship’s cTA platform allows
+for more consistent quantification of individual analytes on dual-stained
+tissue sections, enabling investigation of complex biological questions
+that cannot be achieved with traditional tissue-based manual endpoints.
+
+

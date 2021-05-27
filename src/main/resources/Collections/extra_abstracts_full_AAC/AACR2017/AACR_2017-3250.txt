@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Computational drug repositioning and biochemical validation of
+piperlongumine as a potent therapeutic agent for neuroendocrine prostate
+cancer.
+
+
+Introduction and Objectives: Neuroendocrine prostate cancer (NEPC) is a
+highly lethal and drug-resistant variant of prostate cancer (PCa). We
+have used a genomics-based drug-repositioning approach and identified
+compounds with therapeutic activity against NEPC. One of the compounds-
+piperlongumine (PL) is a natural product constituent of the fruit of the
+Long pepper (Piper longum). The efficacy of this drug was tested in the
+NEPC cell line model NCI-H660 and compared to several other PCa cell
+lines in a modified WST-1 assay. Pre-clinical testing in mouse xenograft
+models of NEPC was also undertaken. Finally, the ability of
+piperlongumine to inhibit p-STAT3 signaling and promote apoptosis was
+measured by western blot analyses.
+
+Methods: PCa cell lines (LNCaP, 22Rv1, Du145, PC3, H660 and RWPE) were
+grown in complete media (RPM1 10%FBS, Advanced DMEM 5%FBS or
+Keratinocyte-SFM) and treated with piperlongumine for 3 or 7 days. IC50
+values were generated from WST assay data using Prism6. Nude mice (n=5)
+were injected with 1.5x106 H660 cells on each flank, and
+intraperitoneally administered with either 2.5mg/kg PL (n=3) or DMSO
+(n=2) daily for 3 weeks after tumors formed 200mm3 in volume. Tumor
+volume was measured daily with calipers. Western blot analyses were
+performed on protein lysates extracted from tumors and PCa cells treated
+with 0-10 μM of drug.
+
+Results: PL was highly effective in inhibiting the growth of H660 cells
+(IC50 = 0.4 μM) compared to LNCaP, 22Rv1, Du145, PC3, and RWPE cells.
+This was consistent with an increased level of cPARP1 in H660 cells when
+compared to other prostate cancer cell lines. On average, the growth rate
+of untreated tumors was 2.7 times greater than those treated with PL.
+Similar to previous reports suggesting PL to inhibit STAT3 activity,
+treated H660 cells exhibited inhibition of STAT3 phosphorylation.
+
+Conclusions: Using computational drug repositioning approaches we have
+identified several lead compounds for NEPC. One of the compound
+piperlongumine, a water-soluble plant product with no known side effects
+inhibits the growth of the highly drug-resistant NEPC cell line H660.
+
+Source of Funding: Deane Prostate Health, Icahn School of Medicine at
+Mount Sinai. Both Shalini S Yadav and Kamlesh K Yadav are supported by
+the Prostate Cancer Foundation Young Investigator Awards. Research in
+Dudley's lab is supported by grants from National Institutes of Health
+R01 DK098242 and U54 CA189201.
+
+

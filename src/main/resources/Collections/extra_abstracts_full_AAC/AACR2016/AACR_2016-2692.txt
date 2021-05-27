@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: ETV6-RUNX1 targets a developmentally restricted embryonic human
+B-myeloid progenitor
+
+
+Childhood acute lymphoblastic leukemia (cALL) is distinct from that in
+adults with higher incidence, better prognosis and a distinct mutational
+spectrum. One hypothesis for this difference is that cALL arises in
+transient cells unique to early human development. We explored this in
+ETV6-RUNX1 cALL where evidence from twins and neonatal heel prick testing
+has shown that this mutation arises in utero and is an initiating event.
+We characterized B cell development in first trimester human fetal liver
+(FL) to identify compartments vulnerable to ETV6-RUNX1. Using CD19 as a
+marker of B lineage commitment we found the first CD19+ B cells emerge in
+the human FL at Carnegie Stage (CS) 17 and were distinct from adult in
+that the majority expressed surface IL7 receptor. We used IL7R to
+identify a CD19-IL7R+ B progenitor compartment that produced B cells in
+vitro, possessed DJH recombination, but also had monocytic potential.
+Single cell analysis of CS20 IL7R+ progenitors revealed co-expression of
+lymphoid and myeloid programmes, whereas at CS17 they were strongly
+myeloid primed indicating that IL7R+ progenitors acquire lymphoid
+potential in this developmental window. Some co-expression of lymphoid
+and myeloid programmes also persisted in CS20 FL B cells. We tested
+whether FL B cell development could be modeled using human pluripotent
+stem cells (hPSCs). In vitro B cell differentiation of hPSCs produced
+IL7R expressing pro and preB cells as well as an IL7R+ progenitor that
+switched from myeloid to B-myeloid priming during culture. At the global
+transcriptional level the hPSC lymphoid hierarchy mapped closely with FL,
+with both separating from adult suggesting that hPSCs provide a
+developmentally relevant model of early FL B lymphopoiesis. We next used
+CRIPSR-directed homologous recombination to engineer the expression of
+ETV6-RUNX1 under the endogenous ETV6 promoter. ETV6-RUNX1 hPSCs displayed
+a partial block in B cell differentiation at the level of the IL7R+
+progenitor. ETV6-RUNX1 expressing B cells co-expressed an abnormal
+B-myeloid gene expression signature akin to that seen in the IL7R+
+progenitor. Both the transcriptional and differentiation phenotypes were
+dependent on ETV6-RUNX1 as demonstrated by their reversion upon
+cre-mediated excision of the knock-in cassette. Our data support a model
+where expression of ETV6-RUNX1 inhibits lymphoid specification in an
+early FL IL7R+ lymphomyeloid progenitor, arresting B lineage
+differentiation and resulting in the production of myeloid-primed B
+cells. This may explain the relatively high levels of myeloid antigen
+expression lineage promiscuity seen in cALL. ETV6-RUNX1 hPSCs will afford
+the systematic evaluation of the contribution of additional mutations
+seen in cALL and may offer a tractable platform for drug screening. In
+conclusion we propose that a novel IL7R+ lymphomyeloid progenitor in the
+human FL is a candidate target cell for in utero pre-leukemic initiation
+in cALL.
+

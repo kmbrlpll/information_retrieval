@@ -1,0 +1,38 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Creation of a novel biochemical and biophysical assay suite to
+enable the identification of inhibitors targeting inactive kinases
+
+
+We have recently reported the implementation of a structural
+biology-based drug design platform for the identification of protein
+kinase inhibitors which utilize hydrophobic clusters to stabilize the
+inactive state of a kinase. These clusters are not formed in active
+kinases and result in the conversion of the ATP binding cleft into a
+non-polar environment which is sterically and electrostatically
+incompatible with ATP binding. We have industrialized this approach,
+designated the ArQule Kinase Inhibitor Platform (AKIPTM), and synthesized
+a library of more than 15,000 small molecules through the application of
+an in silico guided process. This has allowed us to rapidly generate
+leads to a variety of kinases, including receptor tyrosine kinases,
+non-receptor tyrosine kinases, and serine-threonine kinases. By virtue of
+their unique binding modes, many of these inhibitors would not be
+identified in standard assays using highly activated kinases. We have
+therefore deliberately re-engineered standard biochemical kinase assays
+using unphosphorylated inactive kinases to aid in the optimization of
+these inhibitors. In addition to these biochemical assays, we have also
+implemented a variety of well-established technologies not commonly used
+early in the hit generation process, including a thermal shift assay
+(TSA), affinity mass spectrometry, endogenous tryptophan fluorescence
+detection, an ATP-exclusion assay using a non-hydrolyzable ATP analogue,
+classical kinetic analysis to assess ATP-dependence and
+mechanism-of-inhibition, X-ray crystallography, and finally,
+cross-competition experiments with known inhibitors. Using the cumulative
+knowledge gained from these technologies throughout the hit generation,
+hit-to-lead, and lead optimization stages has enabled us to make informed
+decisions and resulted in identification of many potent ATP-independent
+inhibitors. The AKIP technology to date has produced at least one
+clinical candidate, ARQ 092, which potently inhibits AKT with a high
+degree of selectivity amongst the human kinome. Further examples of the
+application of these various technologies will be provided for a diverse
+range of kinases, including c-Met, FGFR, Ack, and TNIK.
+

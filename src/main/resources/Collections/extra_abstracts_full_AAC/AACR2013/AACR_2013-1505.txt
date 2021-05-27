@@ -1,0 +1,39 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Towards an understanding of the different expression profile of
+fibroblasts from distinct subtypes from breast cancer and normal mammary
+tissue assessed by transcriptome sequencing.
+
+
+The highly heterogeneous clinical, histological, biological and genetic
+nature of breast malignancies is due in part to their extreme molecular
+complexity. During breast carcinogenesis, cancer associated fibroblasts
+(CAFs) have active role in the initiation, progression, metastasis and
+recurrence of tumors, which adds new levels of complexity to cancer
+biology, but also brings new prognostic and therapeutic opportunities. We
+implemented a pilot study to explore the postulation that CAFs within the
+stroma may exhibit specific gene expression profiles according to the
+carcinoma subtype. We enrolled frozen breast tissues from nine human
+breast samples representing three normal tissues, three luminal A and
+three triple negative subtypes. Fibroblasts were isolated by laser
+microdissection. For each subtype studied, a cDNA library was constructed
+and submitted to a transcriptome sequencing (RNA-Seq) on the Genome
+Sequencer FLX Titanium 454 Plataform. The generated data revealed a total
+of 14,950 transcripts sequenced and 10,586 genes identified (53.72% of
+the human genome repertoire). A list of 221 differentially expressed
+transcripts, obtained by pair wise comparisons among the 3 groups, was
+ranked by their probabilities of differential expression from 91%-100%
+(greater expression probability), and from 0.09-9.8% (lower expression
+probability). Functional similarity interactions (Fun-Net) were
+constructed using Gene Ontology (GO) annotations as defined in the Entrez
+Gene database to identify biological functions overrepresented. In
+addition, 36 differentially expressed genes were selected for technical
+and biological validation by RT-qPCR (Taqman Low Density Array - TLDA)
+and tissue microarray (TMA) techniques. Until now 10 out of 20
+differentially expressed genes were validated by RT-qPCR. Considering the
+comparison between fibroblasts associated either to triple negative or
+luminal breast carcinoma subtypes, five differentially expressed genes
+were confirmed: S100A13, PPIA, HNRNP0, CUL3 and SLC25A32. Our results
+indicate that specific changes exist in CAFs derived from breast cancer
+subtypes, which in turn may contribute to each tumor subtype specific
+clinical behavior. Supported by FAPESP: 05/60333-7, 09/10088-7.
+

@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Androgen receptor affects GLI activity by promoting
+transcriptionally active states of GLI upon androgen stimulation.
+
+
+Introduction: While “castration” therapies benefit metastatic
+prostate cancer (PCa) patients, their effects are transient and
+progression to castration resistant disease (CRPC) remains a vexing
+clinical problem. Despite low levels of circulating androgens in treated
+patients, CRPC typically remains dependent on androgen/androgen receptor
+(AR) signaling for further growth. Previously we showed that Gli protein
+binding to AR co-activates AR transcriptional activity and supports
+androgen-independent growth. Here we show evidence that the interaction
+of AR with Gli proteins, particularly Gli3, allows for a
+“non-canonical” activation of Hedgehog signaling that contributes to
+PCa cell growth and progression to CRPC. Methods: Androgen
+growth-dependent (LNCaP) or -independent (LNCaP-AI, LN95) PCa cells were
+transfected with a Gli-luciferase (Gli-luc) reporter and were treated
+with R1881, enzalutamide (Enz), or a combination. Luciferase activity was
+measured. R1-D567 (harboring a genomic deletion of AR) served as a
+negative control. Knockdown of AR-FL with siRNA or overexpression of a
+small decoy peptide from the Gli2 AR-binding domain (Gli-DP) was also
+performed in above cells. Western blot and real-time PCR confirmed both
+AR and Gli target gene/protein expressions in LNCaP and LNCaP-AI cells
+(-/+ R1881). Sonic hedgehog (Shh) ligand-responsive 3T3-E1 cells were
+transiently expressed with AR-FL to confirm the involvement of canonical
+Shh-Gli activation pathway in AR co-activation of Gli transcription.
+Co-immunoprecipitation (co-IP) was performed to verify the blocking
+efficiency of Gli-DP in AR-Gli3 interaction in LN95 cells and
+AR-overexpressing 293FT. Results: Androgen (R1881) treatment strongly
+induced Gli transcription activity in AR+ PCa cells while Enz reversed
+this effect; AR-FL-specific knockdown or exogenous Gli-DP expression
+suppressed androgen-induced Gli reporter expression as well as expression
+of endogenous Gli-responsive genes. R1881 treatment promoted Gli2/3
+protein processing to transcriptionally active states (Gli3-FullLength
+and Gli2-Active) and enhanced the expression of Gli-target genes,
+Gli1/Ptch1, at protein and/or mRNA levels. Co-IP revealed that exogenous
+Gli-DP blocked the interaction between AR and transcriptionally active
+Gli3-FL in PCa cells. Overexpression of AR in 3T3-E1 cells confirmed that
+AR interaction with Gli stabilizes the active Gli3-FL form by suppressing
+degradation of Gli3 in a manner independent of the canonical Shh-Gli
+activation pathway. Conclusions: Our findings further identify the
+importance of AR-Gli interaction in progression of PCa to CRPC and shows
+that cooperative binding of AR to Gli proteins enhances both AR and
+Hedgehog signaling in PCa cells. Interference with the AR-Gli interaction
+using a decoy peptide provides a means to suppress AR activation of
+Hedgehog in PCa cells.
+
+

@@ -1,0 +1,73 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genomewide gene-diabetes and gene-obesity interaction scan in 7095
+cases and 10710 controls from Pancreatic Cancer Cohort Consortium and
+Pancreatic Cancer Case Control Consortium.
+
+
+Introduction: Obesity and diabetes are two major modifiable risk factors
+for pancreatic cancer. Genetic variation affecting the risk of obesity-
+and diabetes-related pancreatic cancer have yet to be comprehensively
+investigated at the genome-wide level.
+
+Aims: To identify novel gene-environment interactions (GxE) of
+obesity/diabetes on pancreatic cancer risk.
+
+Methods: We conducted a multi-stage genome-wide gene-diabetes and
+gene-obesity interaction study using GWAS data of 7095 cases and 10710
+controls from Pancreatic Cancer Consortium (PanScan I, PanScan II and
+PanScan III) and Pancreatic Cancer Case Control Consortium (PanC4). About
+870,000 SNPs, having MAF ≥ 0.005 and having been genotyped in at least
+one study, were analyzed. Missing genotypes were imputed using IMPUTE2
+and the Haplotype Reference Consortium (HRC) reference panel.
+Case-control (CC) and case-only (CO) methods were used for SNP-level GxE
+analysis. Fixed-, random- and joint-effect models built in “rareGE” R
+package were used for gene-based GxE analysis. About 20,000 genes that
+have at least one SNP genotyped were included in the analysis. Age,
+gender and principal components accounting for subpopulation structure
+were adjusted in both SNP-level and gene-level analyses. Obesity was
+defined as body mass index ≥30 mg/m2. Diabetics with Methods: We
+conducted a multi-stage genome-wide gene-diabetes and gene-obesity
+interaction study using GWAS data of 7095 cases and 10710 controls from
+Pancreatic Cancer Consortium (PanScan I, PanScan II and PanScan III) and
+Pancreatic Cancer Case Control Consortium (PanC4). About 870,000 SNPs,
+having MAF ≥ 0.005 and having been genotyped in at least one study,
+were analyzed. Missing genotypes were imputed using IMPUTE2 and the
+Haplotype Reference Consortium (HRC) reference panel. Case-control (CC)
+and case-only (CO) methods were used for SNP-level GxE analysis. Fixed-,
+random- and joint-effect models built in “rareGE” R package were used
+for gene-based GxE analysis. About 20,000 genes that have at least one
+SNP genotyped were included in the analysis. Age, gender and principal
+components accounting for subpopulation structure were adjusted in both
+SNP-level and gene-level analyses. Obesity was defined as body mass index
+≥30 mg/m2. Diabetics with <3-year duration were excluded for
+gene-diabetes interaction analysis. The PanScan I, II, III and PanC4
+datasets were analyzed separately followed by meta-analysis of the
+summary statistics. Fixed-effect and Fisher’s p-value based
+meta-analysis was applied for SNP-level and gene-level GxE analysis,
+respectively.
+
+Results: No genome-wide significant (PResults: No genome-wide significant
+(P<5 x 10-8 ) interaction at the SNP level was detected in any of the
+PanScan or PanC4 datasets or in the meta-analysis. A significant
+interaction of diabetes and FAM63A (family with sequence similarity 63
+member A) gene (PResults: No genome-wide significant (P<5 x 10-8 )
+interaction at the SNP level was detected in any of the PanScan or PanC4
+datasets or in the meta-analysis. A significant interaction of diabetes
+and FAM63A (family with sequence similarity 63 member A) gene (P<2.5 x
+10-6) was observed in the meta-analysis (PFixed= 3.4 x 10-5, PRandom= 1.9
+x 10-6, PJoint= 6.8 x 10-7) . This interaction showed nominal
+significance in all individual dataset analyses. The corresponding P
+values for this interaction were 4.2 x 10-2, 3.8 x 10-2 and 6.8 x 10-2 in
+PanScan I, 2.8 x 10-2, 3.9 x 10-2 and 6.5 x 10-2 9.1 x 10-3, 2.2 x 10-4
+and 8.8 x 10-6 in PanScan III, and 3.1 x 10-3, 3.4 x 10-3 and 8.8 x 10-3
+in PanC4, respectively.
+
+Conclusions: In the largest genome-wide GxE analysis for pancreatic
+cancer to date, we identified a significant diabetes interacting gene in
+pancreatic cancer, which was consistently replicated in 4 individual GWAS
+studies. This observation identifies FAM63A as a candidate for future
+functional studies to understand its role in pancreatic cancer etiology.
+Further increasing the sample size may unveil additional genetic loci
+that contribute to the susceptibility to pancreatic cancer via G x E.
+
+

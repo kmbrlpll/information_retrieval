@@ -1,0 +1,37 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Predicting glioblastoma recurrence using novel analysis of
+perfusion MRI.
+
+
+Glioblastoma (GBM) is the most common and aggressive primary brain tumor
+in humans. Patients diagnosed with GBM have a poor prognosis, with less
+than 25% of patients surviving more than two years. Despite intensive,
+multimodality treatment with extensive surgical resection, radiotherapy,
+and chemotherapy, recurrence of GBM is inevitable. Thus far GBM research
+has focused mainly on classification of tumor subtypes, segmentation of
+enhancing and non-enhancing tumor tissue on MRI, and distinguishing
+treatment-related effects from recurrence. The purpose of this research
+is to utilize MR perfusion imaging along with advanced image analysis
+methods to predict specific areas of future recurrence in GBM.Forty
+patients with glioblastoma (WHO Grade IV), who subsequently experience
+recurrence, were utilized for this study. T1, T1CE, T2, FLAIR, and
+perfusion images were co-registered and regions of interest (ROIs) were
+drawn for each subject on imaging obtained prior to surgery in white
+matter, gray matter, CSF, edema, enhancing tumor, non-enhancing tumor and
+necrosis. Principal component analysis (PCA) was then employed to extract
+the uncorrelated variables that reflect the temporal dynamics of
+perfusion. Leave-one-out cross-validation was used when building the PCA
+model from a training set and testing it on new patients. The results
+demonstrate marked separation between edematous peritumoral regions and
+peritumoral regions that later recurred. Hence, this study indicates that
+imaging biomarkers predictive of tumor recurrence can be constructed
+using advanced imaging and analysis methods, potentially leading to the
+creation of a novel, and important, clinical tool.Citation Format: Luke
+Macyszyn, Hamed Akbari, Xiao Da, Ragini Verma, Ronald Wolf, Michel
+Bilello, Elias Melhem, Donald O'Rourke, Christos Davatzikos. Predicting
+glioblastoma recurrence using novel analysis of perfusion MRI.
+[abstract]. In: Proceedings of the 104th Annual Meeting of the American
+Association for Cancer Research; 2013 Apr 6-10; Washington, DC.
+Philadelphia (PA): AACR; Cancer Res 2013;73(8 Suppl):Abstract nr 2669.
+doi:10.1158/1538-7445.AM2013-2669
+

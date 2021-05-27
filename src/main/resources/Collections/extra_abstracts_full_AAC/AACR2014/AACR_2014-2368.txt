@@ -1,0 +1,68 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Differential gene expression in key oncolytic pathways between
+node-matched Caucasian-American, African-American and East African
+triple-negative breast cancer patients
+
+
+African-American (AA) women have a 20% greater mortality rate from breast
+cancer (BC) than that observed in Caucasian-American women (CA).
+Additional BC disparities in AA women include later stage presentation
+with higher tumor grade, and increased occurrence of Triple-negative
+breast cancer (TNBC). In this study, we performed a series of gene
+expression array analyses on archived formalin fixed paraffin embedded
+(FFPE) blocks from a multi-ethnic U.S. cohort of node-negative (N0) TNBC
+samples, in addition to a cohort of (N0) TNBC samples from East African
+patients (Kijabe,Kenya). Using 10 m scrolls from each FFPE block, total
+RNA was isolated, cDNA prepared, and hybridized to a breast-enriched gene
+expression array (Affymetrix, BC DSA Research Tool). Expression analysis
+was conducted using GeneSpring 12.1 analytical software. After QC
+analyses, the final study cohort consisted of 10-AA, 13-CA and 21-Kenyan
+samples. PCA analysis revealed that the samples clustered well with
+respect to ethnicity. Unsupervised cluster analysis, based on ethnicity
+and genes (p value 2.5), was performed. The resulting dendogram clearly
+segregated into distinct subgroups based on ethnicity, revealing a
+pattern of differential gene expression between the cohorts. A list of
+differentially expressed genes from each cohort (DEG) were selected using
+ANOVA analysis (fold change > 3.0, p value African-American (AA) women
+have a 20% greater mortality rate from breast cancer (BC) than that
+observed in Caucasian-American women (CA). Additional BC disparities in
+AA women include later stage presentation with higher tumor grade, and
+increased occurrence of Triple-negative breast cancer (TNBC). In this
+study, we performed a series of gene expression array analyses on
+archived formalin fixed paraffin embedded (FFPE) blocks from a
+multi-ethnic U.S. cohort of node-negative (N0) TNBC samples, in addition
+to a cohort of (N0) TNBC samples from East African patients
+(Kijabe,Kenya). Using 10 m scrolls from each FFPE block, total RNA was
+isolated, cDNA prepared, and hybridized to a breast-enriched gene
+expression array (Affymetrix, BC DSA Research Tool). Expression analysis
+was conducted using GeneSpring 12.1 analytical software. After QC
+analyses, the final study cohort consisted of 10-AA, 13-CA and 21-Kenyan
+samples. PCA analysis revealed that the samples clustered well with
+respect to ethnicity. Unsupervised cluster analysis, based on ethnicity
+and genes (p value 2.5), was performed. The resulting dendogram clearly
+segregated into distinct subgroups based on ethnicity, revealing a
+pattern of differential gene expression between the cohorts. A list of
+differentially expressed genes from each cohort (DEG) were selected using
+ANOVA analysis (fold change > 3.0, p value <.05) followed by the
+Benjamin/Hochberg method for multiple-testing correction. Finally, the
+lists of DEG were uploaded into GeneGo MetaCore to identify functionally
+enriched pathways.These analyses revealed differentially expressed genes
+pathways enriched for cytoskeletal remodeling, cell adhesion and EMT
+pathways. In particular, significantly deregulated genes associated with
+the Wnt/-catenin pathway were observed in the AA cohort as compared to
+the CA, suggesting that this pathway may contribute to the more
+aggressive phenotype in AA women diagnosed with TNBC. Additionally,
+significantly deregulated genes associated with the Oncostatin M pathway
+were discovered in the Kenyan cohort, as compared to the AA and CA
+tumors. In particular, STAT1 was significantly downregulated in the
+Kenyan cohort compared to the CA and AA. Thus, our results indicate gene
+expression differences within several key oncolytic pathways across these
+ethnic groups. These results are being technically and biologically
+validated through several parallel approaches. Validation study results
+will be presented. In summary, this study represents the first direct
+comparison of gene expression in TNBC specimens across U.S. CA and AA BC
+patients and Kenyan East Africans. These studies have important
+implications for further understanding BC ethnic disparities, as well as
+future tailored approaches to prediction, prevention and therapeutic
+advances.
+

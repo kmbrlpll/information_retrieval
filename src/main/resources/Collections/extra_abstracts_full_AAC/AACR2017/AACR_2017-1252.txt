@@ -1,0 +1,165 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A pre-clinical model for lung cancer interception: gene expression
+similarities between human and mouse bronchial premalignant lesions.
+
+
+The molecular events that drive the development of the premalignant
+lesions (PMLs) that precede lung squamous cell carcinoma (SCC) are poorly
+understood. A major limitation to understanding PMLs and developing
+interventions is the lack of preclinical models to test candidates
+derived from human studies. Previous work by our group and others
+suggests that the N-nitroso-tris-chloroethylurea (NTCU) mouse model of
+lung SCC may be a candidate for modeling human PMLs based on histologic
+similarities, but its molecular relationship to human disease is limited.
+In this study, we investigate the transcriptomic similarities between
+PMLs from the NTCU treated mice and humans. RNA from 40 whole lung
+sections (curls) and laser capture microdissected (LCM) of PMLs of
+varying histology from SWR/J and A/J mice treated with NTCU were profiled
+by RNA-Seq. RNA from 131 human endobronchial biopsies representing
+analogous histological grades were also profiled by RNA-Seq as part of
+the Pre-Cancer Genome Atlas (PCGA). Linear modeling was used to identify
+gene expression differences associated with increasing histological
+severity, mouse strain and sample type. Concordance of gene expression
+associated with histology between species was investigated using GSEA and
+GSVA. Biological pathways were inferred using EnrichR and GSEA. A gene
+expression signature associated with increasing histological severity
+across all mouse samples was identified (1195 genes, FDRThe molecular
+events that drive the development of the premalignant lesions (PMLs) that
+precede lung squamous cell carcinoma (SCC) are poorly understood. A major
+limitation to understanding PMLs and developing interventions is the lack
+of preclinical models to test candidates derived from human studies.
+Previous work by our group and others suggests that the
+N-nitroso-tris-chloroethylurea (NTCU) mouse model of lung SCC may be a
+candidate for modeling human PMLs based on histologic similarities, but
+its molecular relationship to human disease is limited. In this study, we
+investigate the transcriptomic similarities between PMLs from the NTCU
+treated mice and humans. RNA from 40 whole lung sections (curls) and
+laser capture microdissected (LCM) of PMLs of varying histology from
+SWR/J and A/J mice treated with NTCU were profiled by RNA-Seq. RNA from
+131 human endobronchial biopsies representing analogous histological
+grades were also profiled by RNA-Seq as part of the Pre-Cancer Genome
+Atlas (PCGA). Linear modeling was used to identify gene expression
+differences associated with increasing histological severity, mouse
+strain and sample type. Concordance of gene expression associated with
+histology between species was investigated using GSEA and GSVA.
+Biological pathways were inferred using EnrichR and GSEA. A gene
+expression signature associated with increasing histological severity
+across all mouse samples was identified (1195 genes, FDR<0.05), which was
+concordant with gene expression differences associated with increasing
+histological severity of human PMLs (FDRThe molecular events that drive
+the development of the premalignant lesions (PMLs) that precede lung
+squamous cell carcinoma (SCC) are poorly understood. A major limitation
+to understanding PMLs and developing interventions is the lack of
+preclinical models to test candidates derived from human studies.
+Previous work by our group and others suggests that the
+N-nitroso-tris-chloroethylurea (NTCU) mouse model of lung SCC may be a
+candidate for modeling human PMLs based on histologic similarities, but
+its molecular relationship to human disease is limited. In this study, we
+investigate the transcriptomic similarities between PMLs from the NTCU
+treated mice and humans. RNA from 40 whole lung sections (curls) and
+laser capture microdissected (LCM) of PMLs of varying histology from
+SWR/J and A/J mice treated with NTCU were profiled by RNA-Seq. RNA from
+131 human endobronchial biopsies representing analogous histological
+grades were also profiled by RNA-Seq as part of the Pre-Cancer Genome
+Atlas (PCGA). Linear modeling was used to identify gene expression
+differences associated with increasing histological severity, mouse
+strain and sample type. Concordance of gene expression associated with
+histology between species was investigated using GSEA and GSVA.
+Biological pathways were inferred using EnrichR and GSEA. A gene
+expression signature associated with increasing histological severity
+across all mouse samples was identified (1195 genes, FDR<0.05), which was
+concordant with gene expression differences associated with increasing
+histological severity of human PMLs (FDR<0.05). We identified a 51-gene
+(pThe molecular events that drive the development of the premalignant
+lesions (PMLs) that precede lung squamous cell carcinoma (SCC) are poorly
+understood. A major limitation to understanding PMLs and developing
+interventions is the lack of preclinical models to test candidates
+derived from human studies. Previous work by our group and others
+suggests that the N-nitroso-tris-chloroethylurea (NTCU) mouse model of
+lung SCC may be a candidate for modeling human PMLs based on histologic
+similarities, but its molecular relationship to human disease is limited.
+In this study, we investigate the transcriptomic similarities between
+PMLs from the NTCU treated mice and humans. RNA from 40 whole lung
+sections (curls) and laser capture microdissected (LCM) of PMLs of
+varying histology from SWR/J and A/J mice treated with NTCU were profiled
+by RNA-Seq. RNA from 131 human endobronchial biopsies representing
+analogous histological grades were also profiled by RNA-Seq as part of
+the Pre-Cancer Genome Atlas (PCGA). Linear modeling was used to identify
+gene expression differences associated with increasing histological
+severity, mouse strain and sample type. Concordance of gene expression
+associated with histology between species was investigated using GSEA and
+GSVA. Biological pathways were inferred using EnrichR and GSEA. A gene
+expression signature associated with increasing histological severity
+across all mouse samples was identified (1195 genes, FDR<0.05), which was
+concordant with gene expression differences associated with increasing
+histological severity of human PMLs (FDR<0.05). We identified a 51-gene
+(p<0.001) and a 178-gene (pThe molecular events that drive the
+development of the premalignant lesions (PMLs) that precede lung squamous
+cell carcinoma (SCC) are poorly understood. A major limitation to
+understanding PMLs and developing interventions is the lack of
+preclinical models to test candidates derived from human studies.
+Previous work by our group and others suggests that the
+N-nitroso-tris-chloroethylurea (NTCU) mouse model of lung SCC may be a
+candidate for modeling human PMLs based on histologic similarities, but
+its molecular relationship to human disease is limited. In this study, we
+investigate the transcriptomic similarities between PMLs from the NTCU
+treated mice and humans. RNA from 40 whole lung sections (curls) and
+laser capture microdissected (LCM) of PMLs of varying histology from
+SWR/J and A/J mice treated with NTCU were profiled by RNA-Seq. RNA from
+131 human endobronchial biopsies representing analogous histological
+grades were also profiled by RNA-Seq as part of the Pre-Cancer Genome
+Atlas (PCGA). Linear modeling was used to identify gene expression
+differences associated with increasing histological severity, mouse
+strain and sample type. Concordance of gene expression associated with
+histology between species was investigated using GSEA and GSVA.
+Biological pathways were inferred using EnrichR and GSEA. A gene
+expression signature associated with increasing histological severity
+across all mouse samples was identified (1195 genes, FDR<0.05), which was
+concordant with gene expression differences associated with increasing
+histological severity of human PMLs (FDR<0.05). We identified a 51-gene
+(p<0.001) and a 178-gene (p<0.001) signatures associated with increasing
+histology in the all SWR/J and A/J samples respectively. These gene
+expression signatures are enriched for biological pathways involved in
+immune modulation, occurring with progressing lesions. Conversely, genes
+whose expression changed with increasing histology in a model that
+included only LCM samples (153 genes at pThe molecular events that drive
+the development of the premalignant lesions (PMLs) that precede lung
+squamous cell carcinoma (SCC) are poorly understood. A major limitation
+to understanding PMLs and developing interventions is the lack of
+preclinical models to test candidates derived from human studies.
+Previous work by our group and others suggests that the
+N-nitroso-tris-chloroethylurea (NTCU) mouse model of lung SCC may be a
+candidate for modeling human PMLs based on histologic similarities, but
+its molecular relationship to human disease is limited. In this study, we
+investigate the transcriptomic similarities between PMLs from the NTCU
+treated mice and humans. RNA from 40 whole lung sections (curls) and
+laser capture microdissected (LCM) of PMLs of varying histology from
+SWR/J and A/J mice treated with NTCU were profiled by RNA-Seq. RNA from
+131 human endobronchial biopsies representing analogous histological
+grades were also profiled by RNA-Seq as part of the Pre-Cancer Genome
+Atlas (PCGA). Linear modeling was used to identify gene expression
+differences associated with increasing histological severity, mouse
+strain and sample type. Concordance of gene expression associated with
+histology between species was investigated using GSEA and GSVA.
+Biological pathways were inferred using EnrichR and GSEA. A gene
+expression signature associated with increasing histological severity
+across all mouse samples was identified (1195 genes, FDR<0.05), which was
+concordant with gene expression differences associated with increasing
+histological severity of human PMLs (FDR<0.05). We identified a 51-gene
+(p<0.001) and a 178-gene (p<0.001) signatures associated with increasing
+histology in the all SWR/J and A/J samples respectively. These gene
+expression signatures are enriched for biological pathways involved in
+immune modulation, occurring with progressing lesions. Conversely, genes
+whose expression changed with increasing histology in a model that
+included only LCM samples (153 genes at p<0.001) revealed
+epithelial-specific processes including the up-regulation of KRT5 and p63
+and loss of TTF1. Additionally, in the LCM samples, we identified
+up-regulation of genes involved in proliferation including a number of
+genes involved in cell structure, metabolism, transcription and
+translation, anti-apoptosis as well as several immunosuppressive genes.
+The major finding of these studies is that there are molecular
+similarities between PMLs from human and NTCU treated mice, which suggest
+that this mouse model may be useful to investigate targeted early
+intervention to halt or reverse PML progression towards lung cancer.
+
+

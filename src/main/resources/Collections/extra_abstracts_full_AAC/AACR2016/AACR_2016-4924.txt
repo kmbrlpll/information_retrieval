@@ -1,0 +1,77 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Retrospective evaluation of a system model of the BCL2 family of
+proteins as a predictive and prognostic biomarker for the clinical
+outcome of stage II-IV colorectal cancer patients
+
+
+With 1.4 million new cases every year, colorectal cancer (CRC) is the
+fourth most common cancer worldwide [Globocan 2012, WHO]. Despite
+therapeutic advances and improvements in overall care, TNM staging
+remains the best prognostic indicator for CRC patients clinical outcomes
+and is pivotal for deciding on use of adjuvant chemotherapy after
+resection of the tumour. Adjuvant chemotherapy is not recommended for
+many stage II patients and mostly high-risk patients receive
+chemotherapy. However, there is a lack of robust biomarkers for
+identifying patient response to chemotherapy, recurrence and mortality
+risk.We developed a system model of the BCL2 family of proteins (DR_MOMP)
+to assess the sensitivity of cells to genotoxic stress and to induce
+apoptosis triggered by chemotherapy. It calculates the stress dose
+required to induce mitochondrial outer membrane permeabilization (MOMP)
+based on absolute protein levels and the interaction of pro- and
+anti-apoptotic BCL2 family proteins. Cells predicted to require a high
+stress dose showed decreased cell death rates after being exposed to 5FU
+and Oxaliplatin. Profiles of BAK, BAX, BCL2, BCL(X)L and MCL1 were
+determined by Reverse Phase Protein Array (RPPA) technology in FFPE
+primary tumours collected from two distinct cohorts: stage III CRC
+patients who underwent adjuvant 5FU-based chemotherapy (n = 128), and
+stage II CRC patients from a completed clinical trial with patients
+randomised to adjuvant 5FU-based chemotherapy or observation only (n =
+138). Protein profiles were inputted into DR_MOMP to determine
+chemotherapy sensitivity and to classify patients into high- or low risk
+categories. Findings were validated on the TCGA COAD cohort using both
+protein (RPPA) and mRNA (SeqV2 RSEM) expression data.Stage II patients
+classified as high-risk by DR_MOMP and randomised to observation only had
+approximately 2-fold increased risk of death from CRC compared to those
+classified as low-risk or received chemotherapy (HR 2.4; 95% CI 1.2-4.8;
+p-value = 0.0199). Among stage III patients treated with FOLFOX, those
+classified as high- versus low-risk had a more than 10-fold increased
+risk of death from CRC (HR 10.6; 95% CI 2.4-46.3; p-value With 1.4
+million new cases every year, colorectal cancer (CRC) is the fourth most
+common cancer worldwide [Globocan 2012, WHO]. Despite therapeutic
+advances and improvements in overall care, TNM staging remains the best
+prognostic indicator for CRC patients clinical outcomes and is pivotal
+for deciding on use of adjuvant chemotherapy after resection of the
+tumour. Adjuvant chemotherapy is not recommended for many stage II
+patients and mostly high-risk patients receive chemotherapy. However,
+there is a lack of robust biomarkers for identifying patient response to
+chemotherapy, recurrence and mortality risk.We developed a system model
+of the BCL2 family of proteins (DR_MOMP) to assess the sensitivity of
+cells to genotoxic stress and to induce apoptosis triggered by
+chemotherapy. It calculates the stress dose required to induce
+mitochondrial outer membrane permeabilization (MOMP) based on absolute
+protein levels and the interaction of pro- and anti-apoptotic BCL2 family
+proteins. Cells predicted to require a high stress dose showed decreased
+cell death rates after being exposed to 5FU and Oxaliplatin. Profiles of
+BAK, BAX, BCL2, BCL(X)L and MCL1 were determined by Reverse Phase Protein
+Array (RPPA) technology in FFPE primary tumours collected from two
+distinct cohorts: stage III CRC patients who underwent adjuvant 5FU-based
+chemotherapy (n = 128), and stage II CRC patients from a completed
+clinical trial with patients randomised to adjuvant 5FU-based
+chemotherapy or observation only (n = 138). Protein profiles were
+inputted into DR_MOMP to determine chemotherapy sensitivity and to
+classify patients into high- or low risk categories. Findings were
+validated on the TCGA COAD cohort using both protein (RPPA) and mRNA
+(SeqV2 RSEM) expression data.Stage II patients classified as high-risk by
+DR_MOMP and randomised to observation only had approximately 2-fold
+increased risk of death from CRC compared to those classified as low-risk
+or received chemotherapy (HR 2.4; 95% CI 1.2-4.8; p-value = 0.0199).
+Among stage III patients treated with FOLFOX, those classified as high-
+versus low-risk had a more than 10-fold increased risk of death from CRC
+(HR 10.6; 95% CI 2.4-46.3; p-value < 0.0001). We validated this finding
+in 261 stage II-IV patients of the TCGA COAD cohort (HR 10.6; 95% CI
+1.2-12.5; p-value = 0.0125). DR_MOMP predicted mortality risk independent
+of TNM staging and KRAS mutation status.Our system delivers a novel
+predictive and prognostic biomarker that could be combined with TNM
+staging when assessing initial risk and subsequent clinical management of
+CRC patients.
+

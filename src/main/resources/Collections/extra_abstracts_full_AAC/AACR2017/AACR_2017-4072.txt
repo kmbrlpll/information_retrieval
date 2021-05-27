@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: FGFR inhibitors enhance gemcitabine sensitivity in pancreatic
+ductal adenocarcinoma.
+
+
+Pancreatic cancer (PaCA) is highly refractory to treatment, with a median
+survival of 6 months. Currently, gemcitabine (Gem), a difluoro analog of
+deoxycytidine, is the standard care for PaCA, but it renders only a
+modest survival benefit. Combination therapy, integrating novel agents
+into standard-of-care regimens, may maximize efficacy of Gem-based
+therapy. Fibroblast growth factor receptor (FGFR) function is aberrant in
+pancreatic cancer, and suppression of FGFRs inhibits pancreatic cancer
+growth and invasion. However, the mechanisms of FGFR action and their
+therapeutic utility in pancreatic cancer remain to be elucidated. Here we
+tested the hypothesis that FGFRs can impact Gem sensitivity of PaCA cells
+by employing pan-FGFR inhibitors and shRNAs against FGFRs. NVP-BGJ398 and
+AZD4547 are novel FGFR inhibitors (FGFRIs) specific to FGFR1, FGFR2 and
+FGFR3, and are in various stages of clinical trial. The FGFRIs modestly
+but significantly inhibited proliferation, migration, and invasion of
+PANC-1, MIAPaCa-2 cells in wound-healing and trans-well assays. Treatment
+with low-concentration Gem (7.5nM) enhanced MIAPaCa-2 cell migration at
+24hrs, but migration was reduced subsequently, suggesting a sequence of
+delayed effects of Gem upon cell migration. After 72hrs of exposure, Gem
+combined with FGFRIs reduced MIAPaCa-2 cell proliferation significantly
+compared to controls or Gem- and FGFRI alone. Pharmacodynamic modeling
+was employed to evaluate drug interaction, and the interaction
+coefficient Psi was estimated by simultaneous modeling of 16 different
+drug combinations over a period of 0-96 hrs. The analysis estimated
+Psi=0.78, which indicates synergism. Compared to BGJ398 or Gem alone, the
+combination also increased the percentage of cells arrested at S phase
+for a longer period of time. Western blots revealed significant
+downregulation of ribonucleoside-diphosphate reductase large subunit
+(RRM1), DNA excision repair protein (ERCC1), and
+Epithelial-to-Mesenchymal transition biomarkers (vimentin and snail) with
+FGFRI/Gem treatment compared to Gem-treated cells, indicating that FGFRIs
+inhibit numerous factors that may contribute to Gem resistance.
+Loss-of-function by shRNA-mediated knockdown of FGFR1 in MIAPaCa-2 cells
+showed decreased expression of RRM1, whereas knockdown of FGFR2 and FGFR3
+mediated an increase in RRM1 expression, implicating FGFR1 suppression in
+improving Gem-sensitivity. These results suggest that inhibition of FGFR1
+could potentially enhance sensitivity of PaCA to Gem therapy, and that
+combining FGFRs with gemcitabine is a promising treatment strategy in
+pancreatic cancer.
+
+

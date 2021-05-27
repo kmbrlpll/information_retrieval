@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Epigenetic regulation of gene expression in high-risk B-cell acute
+lymphoblastic leukemia by Casein Kinase II
+
+
+Acute lymphoblastic leukemia (ALL) is the most common malignancy in
+childhood. Although advances in the treatment of ALL have resulted in a
+high cure rate for this disease, high-risk ALL is characterized by both
+resistance to conventional chemotherapy and a poor prognosis. The
+pathogenesis of high-risk ALL is still not understood. Casein Kinase II
+(CK2) is an oncogenic kinase that is overexpressed in both B-cell ALL
+(B-ALL) and T-cell ALL (T-ALL) and is associated with poor outcome.
+Inhibition of CK2 results in a strong therapeutic effect in a preclinical
+model of leukemia. However, the mechanism by which CK2 promotes
+oncogenesis in leukemia is unknown. Here, we studied how CK2 regulates
+expression of histone demethylase KDM5B in ALL. The KDM5B gene encodes a
+histone demethylase that regulates levels of histone modification H3K4me3
+in leukemia. Molecular inhibition of CK2 using shRNA that targets the CK2
+catalytic subunit resulted in transcriptional repression of KDM5B in ALL
+as evidenced by qRT-PCR. A similar effect was observed when leukemia
+cells were treated with the CK2 inhibitor CX-4945. Inhibition of CK2
+resulted in reduced expression of KDM5B with an increase in the global
+cellular level of H3K4me3 as evidenced by Western blot. The use of
+quantitative chromatin immunoprecipitation (qChIP) showed that CK2
+inhibition enhances DNA binding of the Ikaros tumor suppressor to the
+promoter of the KDM5B gene. Ikaros is a DNA-binding protein that
+regulates transcription of its target genes via chromatin remodeling.
+Loss of Ikaros function results in high-risk ALL. Serial qChIP analysis
+demonstrated that the increased Ikaros binding to the KDM5B promoter
+following CK2 inhibition is associated with an alteration of the
+epigenetic signature at the DNA region that surrounds the Ikaros binding
+site. Specifically, enhanced Ikaros binding results in increased
+occupancy of the H3K27me3 histone modification, along with a reduced
+occupancy of the H3K9ac histone modification at the KDM5B promoter. These
+results are consistent with the formation of heterochromatin and
+transcriptional repression. We tested the effect of CK2 inhibitors on
+Ikaros-mediated repression of KDM5B in primary, high-risk B-ALL cells
+that have a deletion of one Ikaros allele. Results showed that CK2
+inhibition in high-risk B-ALL restores Ikaros binding to KDM5B promoter
+and represses KDM5B transcription. These data suggest that the inhibition
+of CK2 controls expression of KDM5B and the global H3K4me3 level in ALL
+by regulating the function of Ikaros as a transcriptional repressor of
+KDM5B. This presented data demonstrates the role of the CK2-Ikaros
+signaling axis in the regulation of both gene expression and the global
+epigenetic signature in ALL, and provide a mechanistic insight into the
+role of CK2 in the pathogenesis of ALL.
+

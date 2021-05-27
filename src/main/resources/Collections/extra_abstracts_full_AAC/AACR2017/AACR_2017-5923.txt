@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Developing a novel system for studying tumor microenvironment
+heterogeneity in pancreatic adenocarcinoma.
+
+
+Pancreatic cancer (PDA) has a dismal prognosis and responds poorly to all
+existing therapies. This is largely attributed to the existence of dense
+stroma and lack of T cell infiltration. PDA exhibits heterogeneous tumor
+microenvironments that are composed of various stromal cells. Human PDA
+has been shown to have various levels of T cell infiltration. The
+mechanisms underlying the inter-tumor heterogeneity of immune
+microenvironment in PDA and its effects on distinct responses of PDA to
+therapies, especially immune-modulating therapies, remain largely
+unknown. Our lab has demonstrated that there is no difference in somatic
+mutation burden or neo-epitope load between human PDA tumors with high or
+low amount of cytolytic T cells. We hypothesize that tumor-cell-intrinsic
+determinants, transcriptional and/or epigenetic factors, shape the
+heterogenous tumor immune microenvironment, and thereby result in
+different responses to therapies. For the reason that tumor cellularity
+of PDA is very low, the profiling of bulk tumor samples cannot provide
+enough information for understanding tumor-cell-intrinsic molecular
+events associated with differential immune microenvironment. Therefore,
+we developed a panel of ~60 cell lines (diversity-cell-panel) from PDA
+tumors derived from inbred C57BL/6 KPC mouse model, which recapitulates
+the major histopathological and molecular features of human PDA. Our
+preliminary results have demonstrated that the diversity-cell-panel
+recapitulates the immune microenvironments heterogeneity in PDA. Tumor
+cells mainly fell into two subgroups: T-cell-high and T-cell-low. Tumors
+resulted from T-cell-high tumor cells also possess less amount of
+immune-suppressive myeloid cells. To study whether this difference is
+caused by various amount of mutations, we performed exome-sequencing for
+8 cell lines within this cell-panel, and showed that T cell-high and
+T-cell-low tumor cells have similar amount of mutations and neo-epitopes.
+To further study the distinct molecular features of T-cell-high and
+T-cell-low tumor cells, we will perform RNA-seq and ATAC-seq on tumor
+cells sorted from resulting tumors. To understand whether T cell
+infiltration affects the response of PDA tumors to immune-modulating
+therapies, I have been testing the response of T-cell-high and T-cell-low
+tumors to a group of therapies, including chemotherapy, CD40 therapy and
+immune checkpoint blockade therapy. Utilizing this novel system, the
+cell-panel, this study will delineate in unprecedented detail the novel
+molecular determinants of immune heterogeneity in PDA and the implication
+of the heterogeneity to therapies. This diversity-cell-panel will also be
+useful for understanding other aspects of tumor heterogeneity, including
+angiogenesis, drug resistance and metastatic disease.
+
+

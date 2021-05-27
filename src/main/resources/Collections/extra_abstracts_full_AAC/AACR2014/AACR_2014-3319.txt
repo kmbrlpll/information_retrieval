@@ -1,0 +1,43 @@
+Meeting: 2014 AACR Annual Meeting
+Title: PKC switches from a pro-apoptotic to a pro-survival signal in
+K-ras dependent lung cancer
+
+
+Oncogenic mutations in KRAS are found in about 25% of non-small cell lung
+cancers (NSCLC), however only a subset of these tumors are dependent upon
+K-ras for survival. We have previously shown that PKC is required for
+transformed growth of NSCLC cells that are dependent on K-ras, and for
+growth of K-ras driven lung tumors in vivo. PKC also plays an essential
+role in DNA damage-induced apoptosis in many cell types. Analysis of 14
+mutant KRAS NSCLC cell lines that are K-ras independent for survival
+(A549, H157, H460, SW1573, H1155, H1792), or K-ras dependent (H2009,
+H727, HCC44, H2122, SW900, H1573, H358, H441) reveals that the
+pro-tumorigenic and pro-apoptotic functions of PKC segregate with the
+K-ras dependency status, and reflect differential regulation of survival
+signaling by PKC in these two cell populations. K-ras-independent NSCLC
+cells are sensitive to DNA-damage-induced apoptosis, and shRNA mediated
+depletion of PKC in these cells results in suppression of apoptosis and
+increased activation of the MEK/ERK pathway. In contrast, K-ras dependent
+NSCLC cells are resistance to DNA-damage-induced apoptosis and depletion
+of PKC enhances apoptosis and suppresses MEK/ERK activation,
+anchorage-independent growth, and invasion/migration. To explore why
+K-ras dependent NSCLC cells are resistant to apoptosis, we analyzed PKC
+Y64 phosphorylation and nuclear translocation, events we have previously
+shown are critical for the pro-apoptotic function of PKC. Surprisingly,
+K-ras dependent cells have an up to 7-fold increase in the
+nuclear:cytoplasmic ratio of PKC, increased phosphorylation of PKC Y64,
+and increased (1.5-3 fold) PKC mRNA and protein, suggesting that these
+cells may be refractive to PKC driven apoptosis. To test this we
+expressed a mutant of PKC targeted to the nucleus by the addition of a
+SV40 nuclear localization signal. Expression of PKCNLS induced apoptosis
+and increased DNA damage-induced apoptosis in K-ras independent but not
+K-ras dependent NSCLC cells, confirming that the later are unable to
+activate apoptotic pathways downstream of PKC. These studies define two
+distinct subsets of NSCLC cell lines in the context of mutant KRAS. NSCLC
+cells that are independent of K-ras preferentially utilize PKC for
+apoptosis, while cells dependent on oncogenic K-ras preferentially use
+PKC for proliferation and survival. We are currently using two large,
+publicly available lung cancer cell line gene expression datasets (GEO
+accession #'s GSE4824 and GSE36133) to identify pathways and signaling
+networks unique to these two populations of NSCLC cells.
+

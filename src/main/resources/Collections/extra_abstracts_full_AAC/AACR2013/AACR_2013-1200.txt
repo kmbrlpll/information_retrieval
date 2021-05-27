@@ -1,0 +1,35 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Molecular subtypes of gastric cancer show systematic differences
+in response to PI3K inhibitors and fluorouracil.
+
+
+Background & Aims: Gastric cancer is the second leading cause of cancer
+death worldwide, killing >730,000 people every year. Almost all gastric
+cancers are adenocarcinomas, which exhibit considerable heterogeneity
+between patients. We sought to identify subtypes of gastric
+adenocarcinomas that have particular biological properties and responses
+to cytotoxic drugs. Methods: Robust unsupervised clustering of 248
+gastric tumors based on global gene expression revealed three major
+subtypes. We developed a classifier, GC-Class ("Gastric Cancer
+Classifier") for the three subtypes and validated it in a second set of
+70 tumors. We then determined the distinct genomic and epigenomic
+properties and drug sensitivities of the subtypes. We determined drug
+sensitivities of primary tumors by multivariate Cox proportional hazard
+modeling using clinical survival data. We determined drug sensitivities
+in cell lines using previously reported data and high-throughput
+screening of 158 compounds in 23 gastric cancer cell lines. Results:
+There are three major subtypes of gastric adenocarcinoma: invasive,"
+proliferative," and metabolic. The subtypes show systematic differences
+in genomic and epigenetic characteristics and in drug response.
+Proliferative-subtype tumors show high genomic instability and DNA
+hypomethylation. Metabolic-subtype cancer cell lines are preferentially
+sensitive to fluorouracil, and, in two independent groups, patients with
+the metabolic-subtype tumors benefited significantly from fluorouracil
+treatment. Invasive-subtype tumors have characteristics in common with
+cancer stem cells, and cell lines in this subtype are particularly
+sensitive to PI3K/AKT/mTOR inhibitors. Conclusions: The molecular
+classification of gastric cancers reported here is reproducible and
+biologically and therapeutically meaningful, and it holds promise as a
+basis for selecting and developing therapies tailored to particular
+subtypes.
+

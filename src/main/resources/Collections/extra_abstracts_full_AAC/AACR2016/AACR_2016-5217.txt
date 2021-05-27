@@ -1,0 +1,44 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Cancer target enrichment panels using advanced molecular inversion
+probes (MIPs) with ability to reduce amplification bias and detect low
+frequency variants
+
+
+Next generation sequencing (NGS) of enriched targets is increasingly
+being used to discover and track mutations in genes implicated in cancer.
+Amplicon-based target enrichment approaches are frequently used with
+cancer samples because there is no sample library preparation needed and
+primer-based approaches are typically efficient with sequencing reads.
+However, traditional amplicon approaches don't scale up well and may have
+PCR and coverage uniformity bias. As the number of samples is increased,
+a fast, reliable, and cost-effective target enrichment method is a
+critical tool for mutation discovery and tracking.Existing target
+enrichment approaches based on molecular inversion probes (MIPs) have
+presented challenges with probe design and dependability. We have
+developed HEAT-Seq (High Efficiency Amplification of Targets for
+Sequencing) using advanced versions of MIPs which enable library-free
+enrichment, improved scalability, and the ability to remove PCR
+duplicates. We have also developed companion command line software which
+trims primer sequences and removes PCR duplicates. This software uses
+community standard file formats (FASTQ, SAM/BAM) and is intended to be
+compatible with common best practice NGS analysis pipelines.Here we
+describe two HEAT-Seq cancer panels which have been optimized to improve
+coverage uniformity and probe reliability.The HEAT-Seq Oncology Panel
+targets both strands for all protein coding bases in 60 cancer-related
+genes where possible. The target for this design is 245 kb. With 2
+million 276bp reads for each of 8 replicates, we observe an on-target
+read rate of >95%. After duplicate removal, the% of target bases with at
+least 20x coverage is >90%. We observe uniformity (percent of probes > =
+20% of the target mean) of 90%.The HEAT-Seq Ultra Hot-Spot Panel is a
+mutation-focused design that provides ultra-deep sequencing coverage
+capability for sequencing of mutation hot-spots in 53 cancer-related
+genes to detect low frequency variants in heterogeneous samples. The
+target for this design is 30.5 kb. With 500,000 276bp reads for each of
+24 replicates, we observe an on-target read rate of 80%. After duplicate
+removal, the% of target bases with at least 20x coverage is >95%. We
+observe uniformity (percent of probes > = 20% of the target mean) of 95%.
+We also observed detection of validated low frequency variants down to
+1%.In summary, both panels have been shown to capture cancer-related
+genes and target regions at depths sufficient to identify and track
+genomic variants.
+

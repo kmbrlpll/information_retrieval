@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Automated, high throughput mass spectrometry imaging of serial
+sections for investigation of tumor heterogeneity in three dimensions.
+
+
+For the purpose of investigating the potential of automation and high
+throughput mass spectrometry imaging, we have combined a desorption
+electrospray ionisation (DESI) MS system with a robotic slide loader. The
+analysis of tissue sections on multiple slides could allow, for example,
+large patient cohorts to be analysed with almost no input from the
+operator. Here we present another use of such a system, the mapping and
+visualisation of tissues in 3D from serial sections.
+
+All experiments were carried out on a Waters Xevo G2-XS Q-ToF equipped
+with a Prosolia (Indianapolis) 2D DESI stage. The automated slide loader
+and modified plate holder were provided by Prior Scientific (Cambridge).
+As an ambient ionisation technique, the DESI sampling procedure occurs
+outside of the vacuum of the instrument and is therefore suited to
+accommodate slide handling devices. A modified top plate was created
+that, once in place, allows the Prior PL200 microscope slide loader to
+load slides from the holding cassettes to the stage and back. A snapshot
+of the slide being taken and object definition algorithms is used to
+identify the location of the tissue(s) on the slide. These co-ordinates
+are then written to the experiment file and the acquisition commences.
+This process will continue until all slides are analysed.
+
+Recent technological advances have led to the time taken for a single MS
+tissue image being reduced from the region of hours to minutes. This then
+opens up the possibility of automatic sample loading and high throughput
+usage. Fifteen sections taken at 120µm steps through a human glioma were
+analysed automatically by the DESI system. Data was collected in both
+positive and negative ion mode from the same tissue to increase the
+molecular coverage. Sections taken from between those use for the imaging
+were used for H&E staining and CA-9, Ki67 and SCD immunohistochemistry
+staining. Once all sections were analysed, recently developed software
+allowed for the reconstruction of the sections into a three dimensional
+representation of the chemically distinct regions within the whole tissue
+volume. This process which involves peak picking, object alignment and
+rotation as well as a non negative matrix factorisation step is all done
+automatically. When these regions identified from the 3D mass
+spectrometry mapping are compared to the CA-9 and Ki67 IHC stains the
+regions of hypoxia and proliferation clearly correlate indicating that
+mass spectrometry imaging could be a useful tool for the determination of
+hypoxia within excised tissue. Further to these identified regions was
+the discovery of molecular signals that were only present on the boundary
+between the hypoxic and normoxic regions; the identities and roles of
+which are currently under investigation.
+
+Faster and automated mass spectrometry imaging allows whole tissues to be
+chemically mapped in three dimensions in a few hours providing insights
+into tumour heterogeneity.
+
+

@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A phosphoproteomics analysis reveals Akt isoform-specific signals
+that link RNA splicing to non-small cell lung cancer
+
+
+Akt isoforms exhibit different functional properties. To address the
+signaling differences between Akt1, Akt2 and Akt3 we examined the
+phosphoproteomes of a set of isogenic mouse cell lines that express
+different Akt isoforms. Based on this screen, we identified a total of
+606 Akt phosphorylation targets, of which many are phosphorylated in an
+isoform specific manner. Bioinformatics analyses of these data revealed
+that Akt isoforms regulate differentially multiple cellular functions.
+One of these functions was RNA metabolism which was represented by 25
+proteins phosphorylated by at least one of the Akt isoforms. One of these
+proteins was IWS1, which is involved in the assembly of RNA Pol II
+transcriptional elongation complex, and which was found to be
+phosphorylated at the conserved site Ser720/Thr721 by Akt3 and Akt1. Here
+we show that this phosphorylation event is required for the recruitment
+of the histone methyltransferase SETD2 to the complex and the
+trimethylation of histone H3 at K36 in the body of the transcribed genes.
+H3K36me3 provides a docking site for MRG15 and its binding partner, the
+splicing suppressor PTB, and regulates PTB-dependent alternative
+splicing. One of the targets is FGFR-2 whose alternative splicing gives
+rise to two isoforms, IIIb, which is expressed in epithelial cells and
+IIIc, which is expressed in mesenchymal cells, promotes EMT and is
+associated with more aggressive tumors. IWS1 phosphorylation by Akt3/Akt1
+shifts splicing toward the IIIc isoform and promotes tumor growth and
+invasiveness both in culture and in animals.Addressing the expression of
+FGFR-2 in a set of lung-derived normal and tumor samples revealed that
+whereas the overall expression was similar in both, there was a shift
+toward the IIIc isoform in the tumor samples. More important, the
+relative expression of the IIIc and IIIb isoforms in
+non-small-cell-lung-carcinomas (NSCLCs) correlated with the stoichiometry
+of IWS1 phosphorylation and the latter correlated with Akt
+phosphorylation and Akt3 expression. These findings combined, underpin
+the importance of this pathway in the pathogenesis of lung cancer.
+Overall, our data suggest that Akt isoform-dependent phosphorylation
+events are essential for RNA processing and provide novel insights into
+the role of Akt in carcinogenesis.
+

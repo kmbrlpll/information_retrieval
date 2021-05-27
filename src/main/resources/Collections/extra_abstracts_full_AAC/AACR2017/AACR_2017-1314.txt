@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Trans-ethnic HLA fine-mapping of the MHC region identified several
+independent variants influencing susceptibility to lung cancer.
+
+
+Background: Genetic variants within the major histocompatibility complex
+(MHC) are associated with lung cancer. However, debate persists about the
+identity of the true causal variants, in part due to the broad linkage
+disequilibrium (LD) characteristic of the MHC and to the complexity and
+cost of complete HLA genotyping. Here, we assessed the role of the MHC in
+modulating lung cancer risk in Asians and Europeans using a broad set of
+HLA variants to detect the main alleles and the presence of independent
+effects elsewhere in this genomic region.
+
+Material and methods: Association between the HLA variants and risk of
+lung cancer was examined in two collections of samples of different
+ethnicity (18,686 cases / 15,190 controls and 2,324 cases / 1,646
+controls of European and Asian ancestry, respectively). Using existing
+genome-wide SNP data from the lung cancer OncoArray study, we imputed and
+tested classical alleles and amino acid polymorphisms in HLA-A, HLA-B,
+HLA-C, HLA-DQA1, HLA-DQB1, HLA-DRB1, HLA-DPA1 and HLA-DPB1, as well as
+7,258 SNPs across the MHC. All the analyses were performed assuming an
+additive genetic model adjusted for sex and principal components as
+covariates. The study-wide significant threshold was p=6.03 x 10-6.
+
+Results: Conditional, haplotype and stratified analyses identified two
+independent HLA allele effects associated with lung cancer squamous cell
+carcinoma in Europeans. One is HLA-DQB1*06 that showed a significant
+protective effect (OR=0.85, 95%CI 0.80-0.90, p=3.05 x10-8). The other
+effect is attributed to the long ancestral 8.1 haplotype (OR=1.30, 95%CI
+1.18-1.42, p=4.78 x10-8), which contains class I and class II HLA alleles
+(A*0101 - B*0801 - C*0701 - DRB1*0301 - DQB1*0201 - DQA1*0501). In
+addition, single-amino-acid polymorphisms in HLA-B (at positions 9, 156,
+163 and 178) and HLA-DRB1 (at positions 26, 71 and 74) located in
+peptide-binding grooves, suggest these proteins as possible functional
+contributors within the haplotype. In Asians, we observed two independent
+HLA allele effects associated with lung adenocarcinoma : HLA-DQB1*0401
+(OR=1.67, 95% CI 1.35-2.05, p=1.59 x10-6), and HLA-DRB1*0701(OR=1.62, 95%
+CI 1.31-2.01, p=5.48 x10-6) as well as an intronic SNP in HLA-A
+(rs2256919) (OR=0.75, 95% CI 0.67-0.83, p=1.75 x10-7).
+
+Conclusions: We established an association between HLA haplotype 8.1 and
+squamous lung cancer risk in Europeans. In contrast, in Asians we
+observed associations only with class II HLA alleles and risk of lung
+adenocarcinoma. We did not observed shared HLA alleles effects between
+populations. This ethnic heterogeneity in classical HLA allelic
+associations with lung cancer may be explained by allele frequency
+differences between populations and also different exposures that
+interact with HLA. Furthermore, our study illustrates the value of
+high-resolution imputation for fine-mapping causal variants in the MHC.
+
+

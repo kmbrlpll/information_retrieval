@@ -1,0 +1,54 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Defining a pipeline to use next generation sequencing for genetic
+testing in hereditary cancer
+
+
+One of the emerging Next Generation Sequencing (NGS) applications is
+amplicon resequencing, which can be applied to screen for mutations in
+defined genes with diagnostic value. However, in this scenario, methods
+and protocols are still poorly developed. To address this need, we have
+established a study workflow that integrates experimental work and
+bioinformatics analyses. Our Unit of Genetic Testing for Hereditary
+Cancer is using kits for Multiplex Amplification of Specific Targets for
+Resequencing (MASTR) from the Multiplicom Company in order to generate
+highly homogeneous gene specific libraries for point mutation detection.
+Currently we have completed a proof of concept for the Breast Cancer
+Susceptibility kit (BRCA1 and BRCA2). We analysed a training set of 267
+variants in 28 samples, and a validation set of 137 variants in 14
+samples. Results from the GS Junior were combined with those resulting
+from the analysis of the homopolymer sequences in each gene. Sanger
+confirmation was performed in all the identified DNA variants. Low
+coverage (One of the emerging Next Generation Sequencing (NGS)
+applications is amplicon resequencing, which can be applied to screen for
+mutations in defined genes with diagnostic value. However, in this
+scenario, methods and protocols are still poorly developed. To address
+this need, we have established a study workflow that integrates
+experimental work and bioinformatics analyses. Our Unit of Genetic
+Testing for Hereditary Cancer is using kits for Multiplex Amplification
+of Specific Targets for Resequencing (MASTR) from the Multiplicom Company
+in order to generate highly homogeneous gene specific libraries for point
+mutation detection. Currently we have completed a proof of concept for
+the Breast Cancer Susceptibility kit (BRCA1 and BRCA2). We analysed a
+training set of 267 variants in 28 samples, and a validation set of 137
+variants in 14 samples. Results from the GS Junior were combined with
+those resulting from the analysis of the homopolymer sequences in each
+gene. Sanger confirmation was performed in all the identified DNA
+variants. Low coverage (<=38x; 1.2% of the target) regions were also
+Sanger sequenced. The bioinformatics analysis combined the Variant
+Identification Pipeline software (VIP, De Shrijver, JM et al. BMC
+Bioinformatics 2010) together with a set of in-house designed R scripts
+in order to obtain both a Coverage Report as well as a Variant Calling
+Report. The first training set of 28 samples showed a sensitivity and
+specificity of 97.6% and 100%, respectively. After the improvement of the
+kit and the analysis pipeline, the validation set of 14 samples
+demonstrated an excellent specificity and sensitivity of the pipeline
+(100% both). In conclusion, we showed that a combined algorithm both at
+the experimental as well as at the bioinformatics level allows the
+interpretation of NGS results with a good specificity and sensitivity for
+diagnosis purposes. We are now finishing our proof of concept for genes
+responsible for Hereditary Colorectal Cancer, results will be presented
+at the meeting. This work has been supported by Spanish Ministry of
+Science and Innovation, Carlos III Health Institute ISCIII
+(RD06/0020/1050; RD06/0020/1051; PI10/01422; CA10/01474); The Government
+of Catalonia (2009SGR290) and The Spanish Association Against Cancer.
+

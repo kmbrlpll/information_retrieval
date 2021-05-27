@@ -1,0 +1,28 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Somatic and inherited riboSnitches in TPT1 and LCP1 mRNA secondary
+structures.
+
+
+RiboSnitches are single nucleotide variants that change the secondary
+structures of RNA. These structural changes can have a regulatory or
+functional impact on the RNA. Many inherited single nucleotide variants
+function as riboSNitches. We wanted to investigate the potential of
+somatic mutations to act as riboSNitches. We determined the secondary
+structure of two cancer-associated mRNAs, TPT1 and LCP1, using the
+chemical probing SHAPE-Map technique. Both of these mRNAs are highly
+structured and have similar folds in vivo and in vitro. We analyzed the
+structural impact of all the synonymous somatic mutations identified in
+the COSMIC cancer sequencing database for both TPT1 and LCP1 mRNAs. In
+TPT1 we also tested several inherited variants. We found that both
+somatic and inherited variants can be riboSNitches, at approximately the
+same ratio. Our results are in accord with previous work indicating that
+~15% of SNVs are capable of acting as riboSNitches. Although the impact
+of non-coding and synonymous somatic mutations are difficult to measure,
+it is becoming clear that these mutations can contribute to cancer
+progression and phenotype. The majority of our identified riboSNitches
+are detrimental according to FATHMM-MKL functional impact prediction. Our
+experiments indicate that a substantial fraction of somatic mutations can
+cause a measurable change to RNA structure, potentially changing the
+regulatory or functional behavior of that mRNA.
+
+

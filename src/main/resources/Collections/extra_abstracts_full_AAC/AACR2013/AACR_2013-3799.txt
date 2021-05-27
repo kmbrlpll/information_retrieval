@@ -1,0 +1,37 @@
+Meeting: 2013 AACR Annual Meeting
+Title: HTS performance and high-content analysis of antimigratory
+compound phenotypes using the Oris Pro 384 cell migration assay.
+
+
+The discovery of anti-metastatic agents that inhibit cancer cell motility
+has been hindered by a dearth of highthroughput screening (HTS)
+-compatible cell motility assays. The Oris Pro 384 well cell migration
+assay, developed by Platypus Technologies, is an innovative cell motility
+assay designed to enable HTS of potential anti-cancer compounds and wound
+healing agents on adherent tumor and endothelial cell lines. The assay
+utilizes a centrally located, non-toxic, biocompatible gel (BCG) to form
+a uniformly sized, cell-free detection zone into which cells migrate. The
+assay is logistically simple and does not require any mechanical
+processing steps, such as cell wounding or removal of physical barriers.
+The assay is fully compatible with laboratory automation, including
+robotic liquid handlers, plate washers, and high-content screening (HCS)
+readers.A formal investigation of the accuracy, robustness, and HTS
+performance of the assay was conducted following guidelines in place at
+the University of Pittsburgh Drug Discovery Institute (UPDDI). Using
+MDA-MB-231 human breast cancer cells, the assay was optimized for
+migration kinetics, cell seeding density, and DMSO tolerance. In
+multi-day variability studies, the assay delivered signal-to-background
+ratios > 10 and Z-factors above 0.5 on three consecutive days, was
+insensitive to process errors or edge-effects, and passed UPDDI Assay
+Protocol Approval Committee (APAC) criteria. The assay delivered equal
+HTS performance on two different HCS platforms the Thermo Scientific
+Cellomics ArrayScan II and the Molecular Devices ImageXpressUltra point
+scanning confocal reader. Screening of a test cassette of 1280 compounds
+with known biological activities identified several agents with
+mechanisms associated with cell motility. The multiparametric nature of
+the HCS assay permitted correlation of antimigratory activity with
+cellular toxicity. Our results validate the Oris Pro 384 cell migration
+assay as a logistically simple and information-rich cell motility
+analysis platform that meets the demands of large scale compound
+screening.
+

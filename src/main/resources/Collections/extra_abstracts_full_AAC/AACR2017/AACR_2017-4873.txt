@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Shedding light on the unknown of Ewing sarcoma: Single cell study
+shows a co-expression pattern between TAPA-1 and EWSR1-FLI1.
+
+
+Introduction: Ewing Sarcoma (ES) is the second most frequent bone cancer
+found in children, and has the highest rate of recurrence among all
+childhood cancers. This suggests the need for a better understanding of
+heterogeneous cancer populations and rare cells that survive intensive
+cytotoxic therapy and cause recurrence in patients. It is widely accepted
+that ‘EWSR1-FLI1’ has a major role in determining ES survival and
+proliferation, but the mechanism is unknown. Most studies in which
+expression of ‘EWSR1-FLI1’ is correlated with the level of expression
+of ‘EWSR1-FLI1’ regulated genes have been conducted on bulk
+populations that ignore potential heterogeneity of ‘EWSR1-FLI1’ in
+the cell population. To address this we have used single cell RNA-Seq
+approaches.
+
+Methods: The WaferGen iCell8 system was used to perform SMART whole
+transcriptome amplification using EW-8 ES cells.We sequenced single-cell
+RNA-Seq libraries prepared from over 1260 ES parental cells. We combined
+computational analysis with stringent quality control filters to profile
+candidate ES cells.We used EWSR1 expression profile to partition the
+entire population into two clusters. A population of cells with TAPA-1
+expression was distinguished and studied for their co-expression patterns
+with EWSR1.
+
+Results: Results revealed that ES cells show considerable heterogeneity
+at the transcriptome level between seemingly identical EW-8 cells.
+
+We identified a subpopulation of EW-8 ES cells with a positive
+correlation between the expression of EWSR1 and Target of the
+antiproliferative antibody 1 and tetraspanin-28 (TAPA-1/CD81). Our
+preliminary data from 200 cells indicate that EWSR1 (0-18 unique
+transcripts, median 1) and TAPA-1/Cd81 (0-8 unique transcripts, median 0)
+were correlated (r= 0.32, PWe identified a subpopulation of EW-8 ES cells
+with a positive correlation between the expression of EWSR1 and Target of
+the antiproliferative antibody 1 and tetraspanin-28 (TAPA-1/CD81). Our
+preliminary data from 200 cells indicate that EWSR1 (0-18 unique
+transcripts, median 1) and TAPA-1/Cd81 (0-8 unique transcripts, median 0)
+were correlated (r= 0.32, P<0.10). TAPA-1, a surface membrane protein,
+most frequently associated with hematopoetic cells, that regulates cell
+development, activation, growth and motility and has been implicated in
+proliferation of many cancers.
+
+Conclusions: Taken together, our results suggest that there are two
+classes of cells with respect to the expression of TAPA-1 in EW-8 cells.
+We also show the relationship between TAPA-1 with EWSR1-FLI1 expression
+in a single cell level. This type of classification may lead us to
+identify a rare population with a poor response rate to cytotoxic
+treatments. Future studies will determine if EW-8 ES cells having
+elevated TAPA-1 have differential sensitivity to cytotoxic agents
+compared with populations with low level expression.
+
+

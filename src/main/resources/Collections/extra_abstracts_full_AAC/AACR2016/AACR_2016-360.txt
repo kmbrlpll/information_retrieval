@@ -1,0 +1,31 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Detecting intracellular bRAF/cRAF dimerization using a novel
+luminescent complementation system
+
+
+BRAF mutations can promote constitutive activation of MEK/ERK signaling,
+leading to unregulated cell proliferation and tumorigenesis. Although
+inhibitors targeting oncogenic BRAF have shown promise in preventing cell
+growth, these same inhibitors can paradoxically activate signaling by
+inducing BRAF interaction with CRAF. Methods for monitoring this
+undesired outcome are typically low throughput or use kinase binding
+domains modified with a membrane targeting sequence. We sought to develop
+a cell-based assay that could reliably detect dimerization of full-length
+BRAF/CRAF and could potentially be used to rapidly screen inhibitors for
+modulation of this interaction. To achieve this objective, we utilized a
+NanoLuc luciferase-based complementation reporter consisting of 1.3 kD
+(SmBiT) and 18 kD (LgBiT) fusion tags that reconstitute an active
+luciferase when brought into proximity. In this optimally configured
+BRAF/CRAF assay, BRAF-LgBiT and CRAF-SmBiT fusions are stably expressed
+in mammalian cells, and luminescence, indicative of protein interaction,
+is monitored using a live cell detection reagent. With this assay, we
+were able to observe rapid and dose-dependent induction of BRAF/CRAF
+dimerization in response to a panel of kinase inhibitors. The sensitivity
+and robustness of the assay permitted reliable screening in both 96- and
+384-well formats (Z factors > 0.9 and 0.6, respectively). Furthermore,
+the brightness of the reporter allowed the assay to be monitored in
+individual cells using bioluminescence imaging. These results suggest
+this BRAF/CRAF complementation assay can enable rapid, high-throughput
+profiling of kinase inhibitors targeting the RAS/RAF/MEK/ERK signaling
+pathway.
+

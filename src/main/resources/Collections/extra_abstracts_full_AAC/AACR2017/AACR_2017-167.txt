@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Ibrutinib regulates tumor microenvironment and enhances response
+to everolimus in renal cell carcinoma mouse models.
+
+
+Introduction: Ibrutinib (ibr), a first-in-class, once-daily, oral
+inhibitor of Bruton’s tyrosine kinase (BTK), is indicated for the
+treatment of patients with CLL/SLL, MCL and WM. Ibr also inhibits
+EGFR/HER2 and has demonstrated efficacy against EGFR+ NSCLC and HER2+
+breast cancer in vitro and in xenograft models (Gao 2014; Chen 2016).
+Further, ibr modulated host immunity and enhanced anti-PD-L1 activity in
+solid tumor models otherwise insensitive to BTK or HER kinase inhibition
+(Sagiv-Barfi 2015), suggesting that ibr may be active in renal cell
+carcinoma (RCC) via multiple mechanisms. Here we determined the impact of
+ibr alone and in combination with everolimus (eve) on tumor growth and
+the tumor microenvironment in syngeneic and xenograft RCC mouse models.
+
+Methods: Cell proliferation was determined with CellTiter-Glo using a
+3-day treatment regimen. Subcutaneous implantation of 786-0 and Renca
+cells established xenograft and syngeneic models in nude and
+immune-competent mice. Treatment started when tumor volume reached 150
+mm3 (786-0) or 55 mm3 (Renca) and was measured twice weekly.
+Immunophenotying of tumor infiltrates was determined by flow cytometry.
+For Treg differentiation, magnetically-sorted CD4+CD25- mouse splenic T
+cells were stimulated with anti-CD3/CD28 antibodies and TGF-β1 for 5
+days.
+
+Results: Ibr significantly inhibited the growth of syngeneic Renca tumors
+(TGI%=32.4 at Day 19, p≤0.05) in Balb/c mice and enhanced the efficacy
+of eve, although Renca cells were not sensitive to ibr in vitro. The
+combination significantly reduced the numbers of splenic and tumor Tregs
+in addition to reducing PD-1 expression on tumor CD8+ T cells.
+Consistently, in vitro Treg differentiation assays revealed that, while
+the combination of ibr and eve significantly reduced Treg
+differentiation, either drug alone showed little effect. In 786-0
+xenograft model, ibr alone slowed tumor growth in a subgroup of mice and
+significantly enhanced the effect of eve (p≤0.05 or 0.01). To identify
+whether BTK or EGFR/HER2 is the target, CGI-1746, a BTK inhibitor, and
+lapatinib, an EGFR/HER2 inhibitor, were tested. Surprisingly, both
+CGI-1746 and lapatinib were active in inhibiting tumor growth (TGI%=26.7
+or 37.6 respectively, p≤0.05 or 0.01), and slightly potentiated the
+efficacy of eve. However, consistent with ibr results, neither CGI-1746
+nor lapatinib showed any effect on the cell growth of 786-0 cells.
+
+Conclusion: This study suggests that ibr has antitumor activity against
+RCC alone and when combined with eve in animal models. This effect may be
+mediated by modulation of the tumor microenvironment, such as inhibiting
+Treg differentiation and suppressing PD-1 expression on CD8+ T cells, and
+both BTK and EGFR/HER2 are involved. Further investigation is needed to
+clarify the mechanism of action, but the results here provide a rationale
+for ibr as a novel agent for RCC in combination with mTOR inhibitors.
+
+

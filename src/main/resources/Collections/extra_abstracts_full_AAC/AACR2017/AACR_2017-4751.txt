@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Correlating the genomic and transcriptomic profiles of
+pre-treatment cervical tumor biopsies with patient recurrence after
+definitive chemoradiation.
+
+
+Purpose: The purpose of this study was to identify genomic mutations that
+correlate with patient recurrence after curative intent chemoradiation
+therapy in advanced stage cervical cancer patients.
+
+Methods: Pre-treatment cervical tumor biopsies and normal blood were
+prospectively collected from patients treated at Washington University in
+St. Louis. DNA and RNA was isolated from the fresh frozen tumor biopsies
+and sent for next-generation sequencing and RNAseq respectively. Targeted
+exome sequencing was done using a panel of 127 known cancer associated
+genes, and an additional 8 genes previously reported to be mutated in
+cervical cancer. Gene tiling was done to probe for 30 different HPV
+subtypes.
+
+Results: The mutational signatures of single nucleotide polymorphisms
+were an APOBEC cytidine deaminase and CpG site cytidine deamination
+mutagenesis pattern. The non-silent somatic mutations were analyzed by
+online prediction algorithms to assess the mutation’s putative effect
+on protein function. Univariate COX regression was used to correlate
+patient recurrence with non-silent putatively functional mutations. In
+our patient cohort 88% of samples were HPV positive, with 74% being the
+high-risk HPV 16 and 18 subtypes. Patient’s with HPV positive tumors
+had increased progression-free survival when compared to the HPV negative
+patient tumors; and the HPV positive patients with HPV 16 had increased
+progression-free survival over the other HPV subtypes. Complete gene
+tiling of the HPV 16 and 18 subtypes allowed us to determine whether the
+HPV DNA was integrated in the host genome or retained episomally. In our
+patient cohort less than 30% of samples had integrated HPV DNA, and there
+was no significant difference in progression-free survival between
+patients with integrated or episomal HPV.
+
+Conclusions: The genomic analysis of our advanced staged cervical cancer
+patient cohort found that epigenetic modifiers were frequently mutated
+and that cytidine deamination mutagenesis was primarily responsible for
+the generation of the SNP mutations. Our study identified NSD1 mutations
+as being correlated with tumor recurrence, indicating that histone
+modifications and chromatin structure may play an important role in tumor
+response to ionizing radiation therapy. Gene expression analysis is
+currently ongoing.
+
+

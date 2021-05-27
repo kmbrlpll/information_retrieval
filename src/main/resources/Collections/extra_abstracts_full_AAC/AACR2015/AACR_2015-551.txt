@@ -1,0 +1,85 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identification of gene-expression biomarkers in urine pathology
+specimens for the detection of bladder cancer
+
+
+Bladder cancer recurrence screening is typically managed with a
+combination of urine cytology and cystoscopy, each with its inherent
+caveats. Cystoscopy is generally considered the gold standard for
+diagnosing bladder cancer and can yield a valuable biopsy, but is too
+invasive and expensive for routine screening and surveillance. Voided
+urine cytology is inexpensive and readily available, but lacks the
+desired level of sensitivity. Furthermore, up to 20% of urine cytology
+specimens fall into one of two indeterminate categories that require
+follow-up testing, typically in the form of an invasive cystoscopy
+procedure. With the goal of developing a urine-based molecular test for
+bladder cancer recurrence surveillance, we examined gene expression
+biomarkers in urine cytopathology specimens. 90 patient urine samples
+were analyzed: 45 high-grade urothelial carcinoma (HG-UC) and 45 benign
+samples. All patient samples were submitted to the Johns Hopkins
+Cytopathology Department for evaluation for bladder cancer via urine
+cytology. The samples represent patients undergoing bladder cancer
+recurrence screening and patients without a prior history of bladder
+cancer presenting with hematuria. The urine sediments were stored in
+liquid based cytology solution at 4C for a period of 7 - 10 days, during
+which time the cytopathology diagnosis was determined from a portion of
+the sample. Post-diagnosis, the pathology sample leftover was analyzed
+for gene expression. RNA was extracted, amplified and microarray analysis
+was performed and a panel of molecular biomarkers was identified.
+Individual genes in this panel discriminate between HG-UC and benign in
+this training set with an average ROC of 0.86 (p Bladder cancer
+recurrence screening is typically managed with a combination of urine
+cytology and cystoscopy, each with its inherent caveats. Cystoscopy is
+generally considered the gold standard for diagnosing bladder cancer and
+can yield a valuable biopsy, but is too invasive and expensive for
+routine screening and surveillance. Voided urine cytology is inexpensive
+and readily available, but lacks the desired level of sensitivity.
+Furthermore, up to 20% of urine cytology specimens fall into one of two
+indeterminate categories that require follow-up testing, typically in the
+form of an invasive cystoscopy procedure. With the goal of developing a
+urine-based molecular test for bladder cancer recurrence surveillance, we
+examined gene expression biomarkers in urine cytopathology specimens. 90
+patient urine samples were analyzed: 45 high-grade urothelial carcinoma
+(HG-UC) and 45 benign samples. All patient samples were submitted to the
+Johns Hopkins Cytopathology Department for evaluation for bladder cancer
+via urine cytology. The samples represent patients undergoing bladder
+cancer recurrence screening and patients without a prior history of
+bladder cancer presenting with hematuria. The urine sediments were stored
+in liquid based cytology solution at 4C for a period of 7 - 10 days,
+during which time the cytopathology diagnosis was determined from a
+portion of the sample. Post-diagnosis, the pathology sample leftover was
+analyzed for gene expression. RNA was extracted, amplified and microarray
+analysis was performed and a panel of molecular biomarkers was
+identified. Individual genes in this panel discriminate between HG-UC and
+benign in this training set with an average ROC of 0.86 (p <0.0001) while
+a combined panel of 10 genes yields a ROC of 0.97 (p Bladder cancer
+recurrence screening is typically managed with a combination of urine
+cytology and cystoscopy, each with its inherent caveats. Cystoscopy is
+generally considered the gold standard for diagnosing bladder cancer and
+can yield a valuable biopsy, but is too invasive and expensive for
+routine screening and surveillance. Voided urine cytology is inexpensive
+and readily available, but lacks the desired level of sensitivity.
+Furthermore, up to 20% of urine cytology specimens fall into one of two
+indeterminate categories that require follow-up testing, typically in the
+form of an invasive cystoscopy procedure. With the goal of developing a
+urine-based molecular test for bladder cancer recurrence surveillance, we
+examined gene expression biomarkers in urine cytopathology specimens. 90
+patient urine samples were analyzed: 45 high-grade urothelial carcinoma
+(HG-UC) and 45 benign samples. All patient samples were submitted to the
+Johns Hopkins Cytopathology Department for evaluation for bladder cancer
+via urine cytology. The samples represent patients undergoing bladder
+cancer recurrence screening and patients without a prior history of
+bladder cancer presenting with hematuria. The urine sediments were stored
+in liquid based cytology solution at 4C for a period of 7 - 10 days,
+during which time the cytopathology diagnosis was determined from a
+portion of the sample. Post-diagnosis, the pathology sample leftover was
+analyzed for gene expression. RNA was extracted, amplified and microarray
+analysis was performed and a panel of molecular biomarkers was
+identified. Individual genes in this panel discriminate between HG-UC and
+benign in this training set with an average ROC of 0.86 (p <0.0001) while
+a combined panel of 10 genes yields a ROC of 0.97 (p <0.0001).
+Differential expression of some of the individual genes from the panel
+was confirmed by qPCR. Additional evaluation of this gene panel in a
+validation set is ongoing and results from this validation study will be
+discussed.
+

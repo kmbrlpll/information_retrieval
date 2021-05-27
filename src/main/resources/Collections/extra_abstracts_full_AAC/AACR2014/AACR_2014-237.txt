@@ -1,0 +1,36 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Gene expression profiling identifies Sulindac-resistant colon
+tumors
+
+
+Sulindac is a non-steroidal anti-inflammatory drug (NSAID) with
+established chemopreventive efficacy for colorectal cancer (CRC). Despite
+its tumor suppressive effects, occasional resistance to this drug has
+been observed in clinical trials. To establish underlying mechanisms that
+may contribute to sulindac resistance, we have identified differentially
+expressed gene sets in two groups of colon tumors - those that respond to
+sulindac treatment and those that do not. Strain A mice were injected
+(ip) with azoxymethane (AOM) once per week for six weeks, followed by
+sulindac (180 ppm) treatment for an additional 15 weeks. Throughout the
+sulindac treatment period, tumor response was monitored endoscopically
+using a 3-mm fiber optic camera; tumor size and multiplicity were
+measured in situ every 3 weeks, allowing a real-time evaluation of tumor
+response to sulindac. At sacrifice, colons were removed and tumors were
+stratified according to size; large tumors (3 mm) were considered to be
+sulindac-resistant, whereas tumors 2 mm were classified as
+sulindac-responsive. Endoscopic measurements showed that presumed
+resistant tumors had an average doubling time of 0.9 0.16 weeks, while
+sulindac-responsive tumors had an average doubling time of 4.0 2.0 weeks.
+Whole genome expression analysis was conducted using an Illumina Mouse
+WG-6 Expression Microarray. Using Gene Ontology analysis, genes
+associated with inflammation, survival and proliferation were found to be
+differentially expressed between the two groups. Of particular interest
+was an increased expression of IL-1 and CXCL2, which have previously been
+implicated as part of a paracrine drug-resistance network in breast and
+lung cancers. Additionally, the growth factor MDK, which is involved in
+drug-resistant neuroblastomas, was found to be up-regulated in the
+largest colon tumors. These findings provide new insights into potential
+signaling networks that may contribute to the inconsistent response to
+sulindac chemoprevention and provide potential new targets for cancer
+protection.
+

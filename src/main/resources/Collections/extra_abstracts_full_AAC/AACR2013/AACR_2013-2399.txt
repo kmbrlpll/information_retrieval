@@ -1,0 +1,34 @@
+Meeting: 2013 AACR Annual Meeting
+Title: The analytic performance of a TaqMelt PCR assay for the detection
+of KRAS mutations in formalin-fixed paraffin-embedded tissue (FFPET)
+samples of Non-Small Cell Lung Cancer (NSCLC).
+
+
+Mutations in the Kras gene that lead to its constitutive activation are
+quite common in many tumor types including NSCLC. We describe the
+analytic performance of a TaqMelt PCR assay (cobas KRAS Mutation Test)
+that detects 19 mutations in codons 12, 13 and 61 which generates test
+results within 8 hours. Using a panel of DNA blends from 18 FFPET samples
+of NSCLC, tested at 4 genomic DNA input levels, the correct mutation call
+was observed at 5% mutant alleles from the prescribed 50 ng of gDNA/PCR
+down to 12.5 ng of gDNA/PCR. A separate panel of 194 FFPET samples of
+NSCLC was tested with the PCR test and compared to Sanger sequencing.
+There were 15 discordant samples, 9 PCR (+), Sanger (-) and 6 PCR (-),
+Sanger (+) samples, that were further analyzed using a quantitative 454
+sequencing method. All Sanger discordant samples except 1 PCR (+), Sanger
+(-) sample yielded 454 results that agreed with the PCR result. The PPA,
+NPA, and overall agreement with sequencing (Sanger resolved by 454) are
+100.0%, 98.9% and 99.5%, respectively.
+*Includes 1 result for double mutations by Sanger and excludes 1 invalid
+result by PCRThe same panel of 194 specimens tested with another lot of
+the PCR test gave similar performance. When a panel of 8 FFPET samples of
+NSCLC (including 3 near the limit of analytical sensitivity) was
+repeatedly tested by 2 operators, using multiple instruments and reagent
+lots, a correct result was observed for 100% of tests. PCR test results
+were not affected by repeated freezing and thawing of the DNA sample or
+test reagents, or by addition of hemoglobin or triglycerides. These
+studies show that this PCR test is a robust and reproducible assay that
+1) detects 19 mutations in codons 12, 13 and 61, 2) requires a small
+amount of DNA (which can generally be obtained from 1x5 m section), and
+3) is more sensitive and specific than Sanger sequencing.
+

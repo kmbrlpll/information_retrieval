@@ -1,0 +1,56 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Differential exon usage in the HER2 subtype of breast cancer
+identified with RNA-seq and proteomic data.
+
+
+Background: Heterogeneity between different breast cancer tumors plays an
+important role in patients’ survival outcomes, and such tumor
+heterogeneity unveiled by transcriptome and proteome are often in
+disagreement. We hypothesize that alternative splicing of mRNA could
+explain heterogeneity within intrinsic breast cancer subtypes.
+
+Methods: Cases used in this study were drawn from the Clinical Breast
+Care Project where breast cancer patients were consented using an
+IRB-approved protocol. Fifty breast tumors were selected and processed by
+laser microdissection. RNA and protein were extracted from tissues using
+the Illustra triplePrep kit (GE Healthcare). Paired-end mRNA sequencing
+was performed using the Illumina HiSeq platform. Paired-end reads were
+preprocessed using PRINSEQ and splice-aligned to the genome using GSNAP
+software. Gene counts were measured using HTSeq while Exon counts used
+the DEXSeq. Differential expression was called at 10% false discovery
+rate. Proteome Discoverer with Byonic node was used for analyzing the
+quantitative global proteomics dataset, and we were able to quantitate
+8600 proteins. All other analyses were performed using Perl and R.
+
+Results: The number of sequencing reads for the 50 cases ranged from 60
+million to 410 million reads. After preprocessing, an average of 93% of
+reads was mapped, and 36,700 genes were identified among 50 tumor
+samples. PAM50 algorithm was used for intrinsic subtype calls, yielding
+16 Basal, 8 Her2+, 19 Luminal A (LA) and 7 Luminal B tumors. Unsupervised
+clustering of the 8 Her2+ cases using the PAM50 genes and highly varying
+proteins resulted in different clustering patterns, with the latter
+clustering 6 of the 8 Her2+ cases with two distinct 3-case sub-clusters.
+Between these two sub-clusters, there were 10 differentially expressed
+(DEX) genes and 25 DEX proteins, but none of the 25 proteins were mapped
+to the 10 DEX genes. This motivated us to investigate the DEX exons, and
+we found 7,076 DEX exons between the Her2+ sub-clusters, and 9 of the 25
+DEX proteins were matched to genes bearing DEX exons. For comparison, we
+performed the same analyses between similarly clustered Basal and LA
+sub-clusters. Even though the number of DEX genes between Basal (8) and
+LA (18) sub-clusters were comparable to that between the Her2+
+sub-clusters, DEX exons were much lower for both subtypes (616 & 157),
+and none of the DEX proteins (3 & 7) mapped to DEX exons or genes for
+either subtype.
+
+Conclusions: Our findings imply that there is more proteomic-level
+heterogeneity in the Her2+ subtype than in Basal and LA subtypes, which
+could be due to alternative usage of exons (alternative splicing). If
+such heterogeneity is associated with patients’ survival outcomes then
+our results will further stress the importance of alternative splicing in
+breast cancer.
+
+The views expressed in this article are those of the author and do not
+reflect the official policy of the Department of Defense, or U.S.
+Government.
+
+

@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Rational dose and schedule selection for the combination of
+paclitaxel and the investigational agent alisertib in recurrent ovarian
+cancer: optimization of therapeutic index based on translational
+hematological toxicity and exposure-efficacy modeling.
+
+
+Alisertib (MLN8237), an investigational selective small molecule Aurora A
+kinase inhibitor, combined with taxanes (docetaxel or paclitaxel),
+demonstrated durable antitumor activity in multiple in vivo xenograft
+models. Based on these findings, a Phase I/II study was initiated to
+evaluate the safety and antitumor activity of alisertib administered BID
+on Days 1-3, 8-10 and 15-17 of 28-day cycles with weekly paclitaxel in
+recurrent ovarian cancer patients (study C14008).As neutropenia is a
+common dose-limiting toxicity for taxanes and alisertib, a
+semi-mechanistic pharmacokinetic/pharmacodynamic (PK/PD) model was
+developed to predict the time course of plasma PK versus absolute
+neutrophil count (ANC), to aid in dose and schedule selection for this
+combination. These models account for the time delay between drug
+exposure and decrease in ANC since the drugs affect the progenitor cells
+rather than the neutrophils directly. The model was fitted to PK and ANC
+data from Sprague-Dawley rats dosed over multiple days with alisertib
+and/or docetaxel. Differences in plasma protein binding and CFU-GM IC50s
+were used to correct for human-rat interspecies variation. This model of
+neutropenia predicted that decreasing the weekly paclitaxel dose from 80
+to 60 mg/m2 would allow achievement of higher alisertib doses, a finding
+which was corroborated by the clinical experience. In addition, the model
+predicted that skipping alisertib dosing in the second week would further
+mitigate neutropenia, thereby providing an alternative dosing schedule
+for continued dose escalation of alisertib in the setting of
+dose-limiting neutropenia.As multiple maximum tolerated doses (MTDs) were
+achieved in the C14008 study (e.g. alisertib with 80 or 60 mg/m2 weekly
+paclitaxel), an exposure-efficacy model was developed to interpret the
+achieved MTDs in the context of preclinical antitumor efficacy.
+Isobolograms relating alisertib and paclitaxel exposures to tumor growth
+inhibition were generated from in vivo efficacy studies in tumor-bearing
+mice. The clinically achieved exposures of alisertib and paclitaxel from
+the C14008 study were mapped onto the isobologram by correcting for
+mouse-human variation in plasma protein binding and maximum tolerated
+exposures for both agents. These isobolograms provided support for the
+choice of 60 mg/m2 weekly paclitaxel over 80 mg/m2, for the phase 2
+portion of the C14008 study.Taken together, the simultaneous application
+of predictive hematological toxicity modeling and exposure efficacy
+modeling using isobolograms provides a powerful basis for therapeutic
+index optimization and rationalizing dose selection for development of
+combination regimens.
+

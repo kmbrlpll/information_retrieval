@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Functional analysis of tyrosyl-DNA phosphodiesterase I catalytic
+mutants
+
+
+Tyrosyl-DNA phosphodiesterase I (Tdp1) is a conserved eukaryotic DNA
+repair enzyme involved in repair of 3-DNA adducts, such as the
+3-phosphotyrosyl bond formed between DNA topoisomerase I (Top1) and DNA
+which is reversibly stabilized by camptothecins (CPTs), like the FDA
+approved analogs topotecan and irinotecan. Tdp1 is a member of the
+phospholipase D superfamily and contains paired catalytic histidine and
+lysine residues within two conserved HxK(x)4D motifs. Tdp1's two
+catalytic histidines function as a nucleophile (N-terminal His182) and as
+a general acid/base (C-terminal His432). Substitution of the latter in
+human Tdp1 to Arg (hTdp1His493Arg) contributes to the rare recessive
+neurodegenerative disease SCAN1. The hTdp1His493Arg mutant and its yeast
+analog (Tdp1His432Arg) increase cell sensitivity to CPTs, whereas
+mutation of this His to Asn produces a Top1-CPT-dependent lethality.
+Interestingly, substitution of His432 to Lys produces wild type-like
+biochemical and in cell activity. Our recent crystal structures revealed
+that Tdp1 and Tdp1His432Arg stabilize the phospho-His182, which is not
+observed in the Tdp1His432Asn structure. In vitro analysis showed that
+Tdp1His432Arg and Tdp1His432Lys but not Tdp1 or Tdp1His432Asn, formed a
+non-covalent interaction with the DNA while only the Tdp1His432Arg mutant
+retained a covalent protein-DNA bond. However, a band depletion assay
+showed that soluble Tdp1His432Asn and Top1 are depleted, suggesting
+Tdp1His432Asn remains in complex with Top1 on the DNA. The difference
+between our in vivo and in vitro observations could be the differences
+between substrates; full length Top1-genomic DNA complex vs.
+Tyr-oligonucleotide complex. While Tdp1His182Ala is reported to be
+biochemically inactive, introduction of His182Ala in Tdp1His432Asn could
+not suppress the observed lethality. Yet, Tdp1His182AlaHis432Asn gained a
+Top1-independent toxic phenotype. Substitution of His182 to Phe
+suppresses the His432Asn toxicity. Preliminary results revealed
+Tdp1His182Ala activity in vitro, leading us to posit that substitution of
+His182 to Ala would allow the adjacent conserved His181 to rotate into
+the active site and act as a nucleophile to resolve the Top1-DNA
+intermediate. Consistent with this model, mutating His181 to Ala
+suppressed the Top1-CPT dependent lethality of the H182A and H432N single
+and double mutants. However, the structure of the apo H182A mutants
+revealed His181 in its wild type position, and showed that Ala at
+position 182 introduces the necessary space for such rotation. We posit
+that this rotation only occurs infrequently and upon binding of the
+substrate, which we will investigate via NMR. Overall, our findings give
+insight into the catalytic mechanism and suggest that protein-protein
+interactions modulate Tdp1 catalytic activity, which supports Tdp1 as a
+novel drug target. Supported by the Alabama Drug Discovery Alliance.
+

@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Neuronal splicing regulatory factors are upregulated in models of
+epithelial-mesenchymal transition.
+
+
+Epithelial-mesenchymal transition (EMT) is an essential developmental
+program through which epithelial cells lose their polarity and junctions
+with neighboring cells and acquire migratory and invasive properties.
+Cancer cells hijack at least a portion of the EMT program to increase
+their invasive properties, acquire resistance to senescence, and
+metastasize. Major changes in cell signaling, transcriptional and
+post-transcriptional regulation occur during EMT. To study
+post-transcriptional changes we characterized gene expression and
+splicing across EMT in 3 cell culture models of EMT: the luminal
+epithelial MCF7ras breast cancer cell line with EMT induced by SLUG+SOX9
+and in basal human mammary epithelial (HMLEras) cells, with EMT induced
+by either SNAIL or ZEB1. RNA-seq was performed at 2-day intervals across
+these transitions. We observed broad overlaps between these systems, with
+821 genes that changed significantly in all three. In all three time
+courses, genes associated with cell cycle and growth decreased in
+expression, while genes associated with signaling, cell motion, adhesion,
+extracellular matrix organization, and differentiation increased.
+Intriguingly, genes associated with neurogenesis and angiogenesis were
+also induced in the MCF7 and HMLER-Snail time courses. Those include
+known axon guidance and angiogenic factors in the Robo and Slit families.
+We also found many alternative splicing events shared in all 3 systems,
+including 272 skipped exons. Sequence analysis of regions around these
+exons revealed binding motifs for canonical splicing regulators,
+including ESRP1 and ESRP2 and the RBFOX protein family, which are known
+to play a role in EMT. While most genes encoding RNA binding proteins
+decreased in expression in EMT, a small subset consistently increased in
+expression, including some that matched our motif analysis. Specifically,
+several splicing factors associated with nervous system development were
+upregulated, including factors of the QKI and NOVA families. We have
+validated the increased expression of QKI and NOVA1 proteins during EMT
+in vitro, and of QKI and NOVA2 in tumor sections. Further, we found that
+perturbation of QKI expression affects the motility of mesenchymal cancer
+cells in culture. Together, our results point to the existence of a
+program of alternative splicing shared between neuronal and mesenchymal
+cells.
+
+

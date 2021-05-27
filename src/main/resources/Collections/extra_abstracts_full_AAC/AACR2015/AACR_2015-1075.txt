@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Multiple alternative promoters and a long non-coding RNA
+constitute the complex regulatory region of the cancer and drug
+resistance associated gene B4GALT1
+
+
+Background: The B4GALT1 (-1,4-galactosyltransferase) gene, overexpressed
+in human cancers is highly implicated in tumor progression and
+metastasis. Used as a prototype in genomic analyses, it shows significant
+variations in the transcript origination sites in normal and cancer
+tissues. Little is known on the regulation of B4GALT1 transcription and
+regulatory regions involved. Objectives: To characterize the alternative
+promoters and the regulatory elements of B4GALT1 and gain further insight
+into its cancer and tissue-specific transcription. Methods: The genomic
+criteria of the bidirectional loci, B4GALT1 and B4GALT1-AS1 (encoding a
+long non-coding antisense RNA; lncRNA) and their promoters were searched
+in the NCBI-GenBank, UCSC Genome Bioinformatics, Ensembl, TRED, EDP, PEDB
+and MPromDb databases to specify the map locations and identify the
+transcription factor binding sites (TSS), namely the TATA-8 (TATAWAWR)
+and TATA-532 (HWHWWWWR, excluding: HTYTTTWR, CAYTTTWR, MAMAAAAR,
+CTYAAAAR) elements, INR (YYANWYY), CCAAT and its inverted sequence, BRE
+(SSRCGCC) and DPE (RGWCGTG) sequences. Several bioinformatic tools were
+used to retrieve the promoter sequences, identify and flip the forward or
+reverse strands in search for specific sequences and quantitate the
+dinucleotide base-stacking energy values (Kcal/mol/dimer) indicative of
+the helix stability and strength of protein binding. Results: 13
+alternative promoters were identified in the databases B4GALT1. Six of
+these resided within 1.454 kb forming a complex transcriptional
+regulatory unit we refer to as the TR1-PE1; this unit had all
+characteristics known for bidirectional transcription of divergent genes,
+B4GALT1 and B4GALT1-AS1. The TR1-PE1 sequence harbored CpG Island and
+several types of TFBSs, INR, BRE, ERE, TCCAA and TATA-532. The
+dinucleotide base-stacking energy along TR1-PE1 showed variable values,
+indicating a differential stability along the sequence. The INR sequences
+were found mainly along sequences with lower dinucleotide base-stacking
+energy values, whereas BRE sequences were observed in regions with higher
+values. Two highly conserved (TG)18 repeats were identified in
+non-overlapping B4ALT1 promoter located 9.744 kb from 3 TR1-PE1 side,
+which enhance transcription especially when they are located closer to
+the promoter. The transcripts of B4GALT1 and B4GALT1-AS1 are of different
+lengths, one of B4GALT1-AS1 transcripts showed a 66% complementarity with
+the primary B4GALT1 transcript. Conclusions: The unique expression of the
+B4GALT1 in malignant and non-malignant tissues is controlled by a
+differential usage of alternative and bidirectional promoters along with
+post-transcriptional regulation by the antisense lncRNA and possible
+involvement of (TG)18 repeats, which in turn govern the cell-matrix
+interactions, malignant progression and anticancer sensitivity.
+

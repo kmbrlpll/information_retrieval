@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: PARP1 expression (PARP1expr) drives synergy between PARP1
+inhibitors (PARP1-Is) and trabectedin (TR)
+
+
+Purpose of study. An attractive strategy to improve antitumor treatments
+is to inflict cytotoxic DNA damage with chemotherapy, and then impede DNA
+repair by molecular targeting. TR is a new drug characterized by a
+peculiar mechanism of action: TR traps DNA repair machinery leading to
+DNA damage, particularly in BRCA1/2-deficient tumors. We speculated that
+TR might activate PARP1, a key player in DNA-repair, and that subsequent
+PARP1 inhibition perpetuates TR-induced DNA damage leading to cell
+death.Experimental procedures and results. We developed a preclinical
+platform of 31 cell lines from different histotypes to explore the
+potential synergy between TR and the PARP1-Is olaparib (OL) and
+veliparib. We demonstrated that, regardless of BRCA1/2 status, PARP1-Is
+significantly increased TR activity, but a 15-fold range of sensitivity
+to the combination was observed. OL was proven the best PARP-I to combine
+with TR, probably due to its PARP1 trapping activity. In selected
+experiments, whole-genome expression profiling and GSEA analysis
+comparing cells displaying high vs. low synergism of the combination
+(HS-C vs. LS-C) revealed that DDR, G2/M cell cycle checkpoint, and DNA
+repair pathways were mechanistically involved in TR+OL synergy. TR
+induced PARP1 activation in 3/6 cell lines and PARP1-Is completely
+blocked both basal and TR-induced PARP1 activation. OL enhanced DNA
+damage response in 6/6 cell lines, but unrepairable DNA fragmentation was
+obtained in cells with high PARP1expr only. In two independent cell
+panels TR+OL synergism was directly related to PARP1expr both at mRNA
+(Pearson score r: 0.70, p = 0.00079) and protein level (r: 0.71, p =
+0.015). Silencing and overexpression experiments validated the functional
+role of PARP1expr in determining TR+OL synergism: in HS-C the
+downmodulation of PARP1expr reduced sensitivity to TR+OL while the
+overexpression of PARP1 in LS-C rose TR+OL activity to levels observed in
+HS-C. Subcutaneous, intravenous and orthotopic xenografts of one HS-C
+(DMR) and one LS-C (SJSA-1) in NOD/SCID mice revealed OL significantly
+increased antitumor and antimetastatic activity of TR in cells with high
+PARP1expr only. Finally, we demonstrated that basal PARP1expr PARP1
+activation by other cytotoxics with a stronger PARP1 activation observed
+in cells with high vs. low PARP1expr, regardless of the considered
+drug.Conclusions. OL enhances and potentially broaden TR cytotoxicity.
+TR+OL combination is particularly attractive in tumors harboring high
+PARP1expr and specific DDR-R gene signatures that might become predictive
+biomarkers of response. Future clinical validation of TR+OL combination
+may extend the use of PARP1-Is beyond BRCA1/2 defective tumors. Indeed,
+the crucial role of PARP1expr is confirmed regardless of tumor histotype
+and BRCA1/2 status. Further studies of combination between PARP1-Is and
+other cytotoxics should consider basal PARP1expr and activation after
+drug exposure.
+

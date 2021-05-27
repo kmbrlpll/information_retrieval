@@ -1,0 +1,79 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Neuregulin-1 expression correlates with sensitivity to the PI3K
+inhibitor, GDC-0032, outside of PIK3CA mutations in head and neck cancer
+
+
+The phosphoinositol-3-kinase (PI3K) signaling pathway is one of the most
+frequently activated pathways in oncogenesis, and controls critical
+cellular processes such as proliferation, transcription and survival. GDC
+0032 is an orally bioavailable, potent, and selective inhibitor of Class
+I PI3K alpha, delta, and gamma isoforms, with 30 fold less inhibition of
+the PI3K beta isoform relative to the PI3K alpha isoform. The gene that
+encodes the p110 alpha isoform of PI3K, PIK3CA, is frequently mutated in
+breast, colorectal and endometrial cancers. Previously published data
+demonstrated that GDC-0032 has increased activity against PIK3CA mutant
+cancer cell lines (Olivero A. et al., DDT02-01, AACR 2013).To determine
+if there are additional predictive biomarkers outside of PIK3CA mutations
+for sensitivity to GDC-0032, we profiled over 550 cell lines,
+encompassing 13 of the main cancer types, to increasing concentrations of
+GDC-0032. As expected, a small percentage of all tumor types responded to
+GDC-0032 and, were assessed, correlated strongly with PIK3CA mutations.
+Intriguingly, the majority of head and neck squamous cell cancer (HNSCC)
+cell lines showed an IC50 concentration of less than 1uM, suggesting that
+HNSCC cell lines may be particularly susceptible to PI3K inhibition.
+Molecular profiling identified that only 10% of the HNSCC cell lines had
+a mutation within PIK3CA, and no consistent copy number alterations were
+observed in receptor tyrosine kinases or PTEN. To investigate this
+observation further, we developed a PIK3CA activation algorithm, by
+utilizing the mutant-selective property of GDC-0032, and calculated a
+ratio of GDC-0032 to GDC-0941, a pan PI3K inhibitor with reduced in vitro
+selectivity for PIK3CA mutations. Following a proof of principle
+experiment in breast cancer cells, a GDC-0941/GDC-0032 ratio of 4
+enriched for breast cancer cells with mutant PIK3CA (11 out of 13 cell
+lines). Application of the algorithm, to our panel of HNSCC cell lines
+identified 10 out of 34 cell lines that had a GDC-0941/GDC-0032 ratio of
+4, with only 1 of these cell lines being PIK3CA mutant. Further molecular
+characterization identified high mRNA expression of neuregulin-1, the
+ligand for HER3, in GDC-0032 cell lines with a GDC-0941/GDC-0032 ratio of
+4, compared to cell lines with a ratio of The phosphoinositol-3-kinase
+(PI3K) signaling pathway is one of the most frequently activated pathways
+in oncogenesis, and controls critical cellular processes such as
+proliferation, transcription and survival. GDC 0032 is an orally
+bioavailable, potent, and selective inhibitor of Class I PI3K alpha,
+delta, and gamma isoforms, with 30 fold less inhibition of the PI3K beta
+isoform relative to the PI3K alpha isoform. The gene that encodes the
+p110 alpha isoform of PI3K, PIK3CA, is frequently mutated in breast,
+colorectal and endometrial cancers. Previously published data
+demonstrated that GDC-0032 has increased activity against PIK3CA mutant
+cancer cell lines (Olivero A. et al., DDT02-01, AACR 2013).To determine
+if there are additional predictive biomarkers outside of PIK3CA mutations
+for sensitivity to GDC-0032, we profiled over 550 cell lines,
+encompassing 13 of the main cancer types, to increasing concentrations of
+GDC-0032. As expected, a small percentage of all tumor types responded to
+GDC-0032 and, were assessed, correlated strongly with PIK3CA mutations.
+Intriguingly, the majority of head and neck squamous cell cancer (HNSCC)
+cell lines showed an IC50 concentration of less than 1uM, suggesting that
+HNSCC cell lines may be particularly susceptible to PI3K inhibition.
+Molecular profiling identified that only 10% of the HNSCC cell lines had
+a mutation within PIK3CA, and no consistent copy number alterations were
+observed in receptor tyrosine kinases or PTEN. To investigate this
+observation further, we developed a PIK3CA activation algorithm, by
+utilizing the mutant-selective property of GDC-0032, and calculated a
+ratio of GDC-0032 to GDC-0941, a pan PI3K inhibitor with reduced in vitro
+selectivity for PIK3CA mutations. Following a proof of principle
+experiment in breast cancer cells, a GDC-0941/GDC-0032 ratio of 4
+enriched for breast cancer cells with mutant PIK3CA (11 out of 13 cell
+lines). Application of the algorithm, to our panel of HNSCC cell lines
+identified 10 out of 34 cell lines that had a GDC-0941/GDC-0032 ratio of
+4, with only 1 of these cell lines being PIK3CA mutant. Further molecular
+characterization identified high mRNA expression of neuregulin-1, the
+ligand for HER3, in GDC-0032 cell lines with a GDC-0941/GDC-0032 ratio of
+4, compared to cell lines with a ratio of <4. Pharmacodynamic analysis of
+sensitive and refractory HNSCC cell lines demonstrated that GDC-0032
+inhibited the phospho-AKT pathway in both groups of cell lines, but
+GDC-0032 only suppressed downstream phospo-S6 signaling in the sensitive
+cell lines.In conclusion, high throughput cell line screening identified
+a PIK3CA activated subset of HNSCC cell lines that correlated with
+increased neuregulin-1 expression and corresponding sensitivity to
+GDC-0032, outside of PIK3CA mutations.
+

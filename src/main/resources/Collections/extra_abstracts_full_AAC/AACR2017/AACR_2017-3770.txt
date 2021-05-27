@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: CAR-T cell harboring a camelid single domain antibody as a
+targeting agent to kill tumors expressing VEGFR2.
+
+
+Modulation of the immune system is showing tremendous promise in the
+treatment of malignancies. In addition to checkpoint inhibitors that
+re-activate T cells present in the tumor microenvironment, exogenously
+transduced chimeric antigen receptor (CAR) T cells are providing
+excellent responses in clinical trials for the treatment of leukemias. In
+this study, we describe CAR-T cells that target VEGFR2-expressing tumors.
+
+Angiogenesis is the process of new blood vessel formation and is
+essential for a tumor to grow beyond a certain size. Tumors secrete the
+pro-angiogenic factor vascular endothelial growth factor (VEGF), which
+acts upon local endothelial cells by binding to vascular endothelial
+growth factor receptors (VEGFR). As VEGFR2 is also expressed by a variety
+of tumors, we investigated the utility of anti-VEGFR2 CAR-T cells as a
+method to treat VEGFR2-expressing tumors.
+
+Camelid antibodies are small (14 kD) single chain antibodies. To generate
+a camelid antibody targeting the extracellular domain of VEGFR2, a llama
+was immunized with recombinant VEGFR2/Fc. A phage display library was
+generated and screened to identify an antibody with high binding affinity
+to VEGFR2. The selected antibody was expressed in the E. coli. BL21 (DE3)
+pT7 system. The purified antibody was characterized by SEC, LC-MS peptide
+mapping and ELISA.
+
+CAR-T cells were engineered to express the camelid anti-VEGFR2 antibody
+in combination with the CD28 and 4-1BB costimulatory molecules and the
+CD3 zeta chain. Tumor cells were screened for expression of VEGFR2, and
+the HL-60 acute promyelocytic leukemia, ZR-75-30 breast ductal carcinoma
+and NCI-H23 non-small cell lung adenocarcinoma were identified.
+Co-incubation of anti-VEGFR2 CAR-T cells with the VEGFR-2-expressing cell
+lines resulted in dose-dependent target cell toxicity as measured by LDH
+release. In addition, T cell activity was confirmed, as high levels of
+IL-2 and IFN-γ were detected in the cell culture media. These results
+suggest that anti-VEGFR2 CAR-T may be useful in directly targeting
+VEGFR2-expressing tumors.
+
+We previously showed the utility of camelid antibodies in CAR-T
+constructs as anti-CEACAM6 CAR-T cells show both in vitro and in vitro
+efficacy against the pancreatic tumor Bx-PC3. The use of the a camelid
+V21 antibody to target VEGFR2-expressing tumors provides hope that
+camelid single domain antibodies can be developed for CAR-T therapies.
+
+

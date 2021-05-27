@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Exome analysis of an exceptional responder uncovers an activating
+GNAS mutation that may confer sensitivity to cytotoxic chemotherapy
+
+
+Introduction:The molecular characterization of patients who exhibit a
+unique response to treatments that are not effective in most patients, so
+called exceptional responders, can shed light on the biological
+underpinnings of the response and provide rationale for selection of
+future patients for the same treatment. Here we present the genomic
+characterization of a 22-year-old female patient who presented with an
+unclassifiable kidney cancer and diffuse bilateral lung metastases. The
+primary tumour was resected and platinum plus gemcitabine therapy
+achieved a complete resolution of the lung metastases. Approximately 2
+years later the patient again developed bilateral lung metastases and an
+additional course of platinum plus gemcitabine once again achieved a
+complete radiological response. To better understand the genomic
+contributors to this dramatic and recurrent response, we performed whole
+exome sequence analysis of the diagnostic formalin-fixed
+paraffin-embedded tumor tissue and a matched blood sample.Methods and
+Results:The patient provided informed consent and was profiled through
+the Princess Margaret Cancer Centre Genomic Investigation of Unusual and
+Spectacular responders (GENIUS) program. From tumour and matched blood
+specimens, we isolated coding and untranslated regions followed by deep
+sequencing (250X median coverage) on an Illumina HiSeq 2000. Copy-number
+analysis using VarScan2 revealed 23 somatic copy-number alterations (12
+gains, 11 losses) including loss of 9p and gains of 3q and 8q, consistent
+with reports on clear cell renal cell carcinomas. Mutational analysis
+using muTect found 60 somatic, coding mutations, consistent with mutation
+rates seen in other kidney cancers. Of these variants, only one was a
+previously reported hotspot mutation, GNAS p.R201H (NM_000516, also known
+as p.R844H on transcript NM_080425). This mutation causes constitutive
+activation of the G-protein complex and activates adenylate cyclase to
+produce cyclic-AMP (cAMP) that can activate oncogenic pathways. However,
+excess cellular cAMP levels have also been found to promote apoptosis.
+Furthermore, a germline SNP in GNAS (rs7121), thought to increase GNAS
+transcript stability, is associated with improved response to gemcitabine
+plus platinum in non-small-cell lung cancer patients. The current patient
+was found to be heterozygous for the rs7121 SNP, which may compound the
+chemosensitivity phenotype observed.Conclusion:We have identified a
+p.R201H mutation in GNAS that may both drive tumour progression and
+confer exceptional chemo-sensitivity in a patient with an unclassified
+kidney cancer. Further analysis is underway in vitro to validate the
+hypothesis that this mutation confers sensitivity to chemotherapy.
+Confirmation of this hypothesis may suggest that chemotherapy could be
+considered for patients harbouring this mutation.
+

@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A digital droplet PCR assay for the quantitation of androgen
+receptor and splice variant expression in CTCs from metastatic castration
+resistant prostate cancer patients.
+
+
+Prostate cancer (PC) is the second leading cause of cancer death in men
+in the US. The aberrant functioning of androgen receptor signaling is the
+central driving force behind prostatic tumorigenesis and its transition
+into metastatic castration resistant disease. Hence, androgen deprivation
+therapy (ADT) is the first line of treatment for PC patients. However,
+many patients progress becoming resistant to ADT therapy, due to the
+expression of AR splice variants (AR-Vs), which lack the ligand binding
+domain and are constitutively active in the nucleus. Expression of the AR
+splice variant, AR-v7, in circulating tumor cells (CTCs) isolated from
+the blood of PC patients was correlated with resistance to enzalutamide
+and abiraterone, which are the next generation AR signaling inhibitors in
+CRPC. Further, there is evidence that AR-Vs may convey cross-resistance,
+not only to enzalutamide and abiraterone, but also to taxanes,
+highlighting that their assessment in the clinic may have clinical
+utility.
+
+We developed a novel, specific and highly sensitive assay to measure mRNA
+expression of the AR full length (AR-FL) and the splice variants ARv7 and
+ARv567es, by using Droplet Digital PCR in CTCs isolated from CRPC
+patients. The analytical specificity of the assay was determined by
+transfecting cells with plasmids encoding AR-FL, AR-v7 and AR-v567 and
+showed that each probe detected signal only in cells expressing the
+respective transcript. No signal was detected against genomic DNA,
+indicating lack of non-specific binding. Also, the assay detected
+endogenous expression of AR-FL and AR-v7 in VCAP or 22RV1 cells, while no
+variant expression was detected in healthy donor blood. The analytical
+sensitivity of the assay was determined in a series of serial dilution
+experiments that showed sensitivity down to single cell.
+
+We then used this assay to determine the clinical prevalence and
+expression pattern of each of these variants in CTCs from about 200 mCRPC
+patient samples and blood from 40 healthy donors. CTCs were enriched by
+EpCAM- or PSMA-based positive selection or CD45 negative depletion in an
+antigen-agnostic manner. AR-FL was detected in ~80% of mCRPC samples
+irrespective of CTC-enrichment technology. AR-v7 was expressed in 65% of
+the samples in which in CTCs were enriched either by PSMA-positive
+selection or by negative depletion. In contrast, EpCAM-based CTC
+enrichment showed lower AR-v7 expression both in terms of expression
+levels and prevalence. In addition, CTC enrichment following negative
+depletion showed that 30% of the samples had higher AR-v7 expression
+levels as compared to AR-FL. This expression pattern was not observed in
+the samples using EpCAM-based selection. Collectively, these data suggest
+distinct CTC subpopulations are present in CRPC patient samples, with
+differential expression of AR-Vs that could have important predictive and
+prognostic implications.
+
+

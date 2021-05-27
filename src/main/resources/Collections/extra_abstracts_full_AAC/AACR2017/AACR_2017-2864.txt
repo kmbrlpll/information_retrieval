@@ -1,0 +1,57 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Tumor targeting and imaging using 64Cu labeled cyclic RGD
+conjugated human serum albumin via click chemistry.
+
+
+PURPOSE: The RGD specifically recognizes the integrin αvβ3 which is
+overexpressed on various malignant tumors. One major drawback of small
+peptide such as RGD, however, is short half-life in the blood, which
+greatly compromises their targeting efficacy. To improve blood
+circulation time and targeting efficacy, we developed cyclic RGDyK
+(cRGDyK) conjugated human serum albumin (HSA) using click chemistry
+reaction.
+
+METHODS: HSA was conjugated with DBCO-NHS (dibenzyl cyclooctyne) under
+physiologically favorable reaction condition for the preparation of
+strain promoted azide-alkyne reaction. Using this reaction group,
+DBCO-HSA was conjugated with N3-c RGDyK (azido cRGDyK) for integrin
+αvβ3 targeting, N3-FNR648 for fluorescence labeling and 64Cu labeled
+N3-NOTA (3-azidopropyl-NOTA) for radiolabeling. Cell binding of
+cRGDyK-HSA were analyzed with FNR648 labeled probes. Cellular uptake of
+64Cu-cRGDyK-HSA were tested for integrin αvβ3 specific binding at cell
+level. PET images were acquired after tail vein injection of 64Cu-HSA,
+64Cu-cRGDyK-HSA in integrin αvβ3 positive tumor (SK-OV3, ovarian cancer
+cell line) bearing BALB/c nude mice. PET signals were quantitatively
+analyzed with PET image analysis program, AMIDE.
+
+RESULTS: The number of cRGDyK on DBCO-HSA conjugates was confirmed using
+
+MALDI-TOF MS. cRGDyK-HSA was successfully conjugated with 64Cu labeled
+N3-NOTA. Integrin αvβ3 mRNA and protein was highly expressed in SK-OV3
+cell line. At fluorescence labeled probes were treated in SK-OV3,
+cRGDyK-HSA were highly bound to cell membrane and this pattern were
+decreased with pre-treatment of excess cRGDyK. When compared to cellular
+uptake level, 64Cu-cRGDyK-HSA were more accumulated at integrin αvβ3
+positive cells (SK-OV3) than integrin αvβ3 negative cells (P MALDI-TOF
+MS. cRGDyK-HSA was successfully conjugated with 64Cu labeled N3-NOTA.
+Integrin αvβ3 mRNA and protein was highly expressed in SK-OV3 cell
+line. At fluorescence labeled probes were treated in SK-OV3, cRGDyK-HSA
+were highly bound to cell membrane and this pattern were decreased with
+pre-treatment of excess cRGDyK. When compared to cellular uptake level,
+64Cu-cRGDyK-HSA were more accumulated at integrin αvβ3 positive cells
+(SK-OV3) than integrin αvβ3 negative cells (P < 0.05) and there were no
+difference in 64Cu-HSA. Serial PET images were acquired 0, 4, 24, 48
+hours after tail vein injection of 64Cu-cRGDyK-HSA. Radioactivity of
+64Cu-cRGDyK-HSA in SK-OV3 tumor was higher than that of 64Cu-HSA.
+64Cu-labeled-cRGDyK-HSA can be observed at 48 hours after injection,
+which shows longer circulation time in mice.
+
+CONCLUSION: We successfully conjugated cyclic RGDyK to HSA using click
+chemistry approach. We demonstrated that cRGDyK-HSA specifically bind to
+integrin αvβ3 in in vitro and in vivo model. And in animal model,
+64Cu-labeled-cRGDyK-HSA can be observed at 48 hours after injection,
+which shows longer circulation time. Our results indicated that
+cRGDyK-HSA have a potential to diagnosis and therapy response monitoring
+of tumor expressing integrin αvβ3.
+
+

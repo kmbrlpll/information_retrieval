@@ -1,0 +1,108 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Single-cell analysis reveals molecular mechanisms of NRAS-mediated
+leukemia stem cell self-renewal in a murine model of AML
+
+
+Acute myeloid leukemia (AML) is frequently fatal because patients who
+initially respond to chemotherapy eventually relapse. Most anticancer
+therapies are designed to inhibit proliferation. Yet, in hematopoietic
+stem cells, the mechanisms of proliferation are distinct from
+self-renewal (Li et al., Nature 2013). Consequently, targeting
+proliferation may explain the failure of traditional chemotherapy to
+eradicate this disease. NRASG12V is required for self-renewal in a murine
+AML model (Sachs et al., Blood 2014). To study NRAS-mediated leukemia
+self-renewal, we use a transgenic mouse model of AML with an Mll-AF9
+fusion and a tetracycline repressible, NRASG12V oncogene (Kim et al.,
+Blood 2009). Doxycycline abolishes NRASG12V expression leading to
+leukemia remission. We hypothesize that NRAS-activated pathways required
+for self-renewal are limited to a subpopulation of LSCs. To identify the
+NRASG12V-mediated self-renewing subpopulation, we performed single-cell
+RNA sequencing on the LSC-enriched cells from our AML model. Hierarchical
+clustering of LSC single-cell data identified three discrete profiles.
+Comparing the profiles of NRASG12V-expressing LSCs (RAS-on) to
+doxycycline-treated LSCs (RAS-Off) revealed that two of the three
+LSC-expression profiles are lost when NRASG12V is withdrawn. These data
+suggest that these two profiles are NRASG12V-dependent consistent with an
+earlier report that activated NRAS exerts bimodal effects on HSCs (Li et
+al., Nature 2013). One of these LSC subpopulations preferentially
+expresses genes associated with leukemia self-renewal. On the basis of
+this single-cell gene expression data, we identfied cell surface markers
+(CD36 and CD69) that delineate the two NRASG12V-responsive
+LSC-subpopulations. We sorted LSCs based on CD36 and CD69 status and
+found that CD36CD69+ LSCs (the group that expresses self-renewal gene
+expression profiles) harbor nearly all of the colony-forming capacity of
+the LSCs, forming an average of 13 colonies versus 0.33 colonies for
+CD69- LSCs and versus 0.11 colonies for non-LSCs (per 10,000 cells
+plated, p Acute myeloid leukemia (AML) is frequently fatal because
+patients who initially respond to chemotherapy eventually relapse. Most
+anticancer therapies are designed to inhibit proliferation. Yet, in
+hematopoietic stem cells, the mechanisms of proliferation are distinct
+from self-renewal (Li et al., Nature 2013). Consequently, targeting
+proliferation may explain the failure of traditional chemotherapy to
+eradicate this disease. NRASG12V is required for self-renewal in a murine
+AML model (Sachs et al., Blood 2014). To study NRAS-mediated leukemia
+self-renewal, we use a transgenic mouse model of AML with an Mll-AF9
+fusion and a tetracycline repressible, NRASG12V oncogene (Kim et al.,
+Blood 2009). Doxycycline abolishes NRASG12V expression leading to
+leukemia remission. We hypothesize that NRAS-activated pathways required
+for self-renewal are limited to a subpopulation of LSCs. To identify the
+NRASG12V-mediated self-renewing subpopulation, we performed single-cell
+RNA sequencing on the LSC-enriched cells from our AML model. Hierarchical
+clustering of LSC single-cell data identified three discrete profiles.
+Comparing the profiles of NRASG12V-expressing LSCs (RAS-on) to
+doxycycline-treated LSCs (RAS-Off) revealed that two of the three
+LSC-expression profiles are lost when NRASG12V is withdrawn. These data
+suggest that these two profiles are NRASG12V-dependent consistent with an
+earlier report that activated NRAS exerts bimodal effects on HSCs (Li et
+al., Nature 2013). One of these LSC subpopulations preferentially
+expresses genes associated with leukemia self-renewal. On the basis of
+this single-cell gene expression data, we identfied cell surface markers
+(CD36 and CD69) that delineate the two NRASG12V-responsive
+LSC-subpopulations. We sorted LSCs based on CD36 and CD69 status and
+found that CD36CD69+ LSCs (the group that expresses self-renewal gene
+expression profiles) harbor nearly all of the colony-forming capacity of
+the LSCs, forming an average of 13 colonies versus 0.33 colonies for
+CD69- LSCs and versus 0.11 colonies for non-LSCs (per 10,000 cells
+plated, p < 0.00001 for each comparison). Accordingly, in vivo mouse
+reconstituting experiments show that the CD36-CD69+ LSC is the only LSC
+subgroup that can reconstitute the leukemia in mice (p Acute myeloid
+leukemia (AML) is frequently fatal because patients who initially respond
+to chemotherapy eventually relapse. Most anticancer therapies are
+designed to inhibit proliferation. Yet, in hematopoietic stem cells, the
+mechanisms of proliferation are distinct from self-renewal (Li et al.,
+Nature 2013). Consequently, targeting proliferation may explain the
+failure of traditional chemotherapy to eradicate this disease. NRASG12V
+is required for self-renewal in a murine AML model (Sachs et al., Blood
+2014). To study NRAS-mediated leukemia self-renewal, we use a transgenic
+mouse model of AML with an Mll-AF9 fusion and a tetracycline repressible,
+NRASG12V oncogene (Kim et al., Blood 2009). Doxycycline abolishes
+NRASG12V expression leading to leukemia remission. We hypothesize that
+NRAS-activated pathways required for self-renewal are limited to a
+subpopulation of LSCs. To identify the NRASG12V-mediated self-renewing
+subpopulation, we performed single-cell RNA sequencing on the
+LSC-enriched cells from our AML model. Hierarchical clustering of LSC
+single-cell data identified three discrete profiles. Comparing the
+profiles of NRASG12V-expressing LSCs (RAS-on) to doxycycline-treated LSCs
+(RAS-Off) revealed that two of the three LSC-expression profiles are lost
+when NRASG12V is withdrawn. These data suggest that these two profiles
+are NRASG12V-dependent consistent with an earlier report that activated
+NRAS exerts bimodal effects on HSCs (Li et al., Nature 2013). One of
+these LSC subpopulations preferentially expresses genes associated with
+leukemia self-renewal. On the basis of this single-cell gene expression
+data, we identfied cell surface markers (CD36 and CD69) that delineate
+the two NRASG12V-responsive LSC-subpopulations. We sorted LSCs based on
+CD36 and CD69 status and found that CD36CD69+ LSCs (the group that
+expresses self-renewal gene expression profiles) harbor nearly all of the
+colony-forming capacity of the LSCs, forming an average of 13 colonies
+versus 0.33 colonies for CD69- LSCs and versus 0.11 colonies for non-LSCs
+(per 10,000 cells plated, p < 0.00001 for each comparison). Accordingly,
+in vivo mouse reconstituting experiments show that the CD36-CD69+ LSC is
+the only LSC subgroup that can reconstitute the leukemia in mice (p <
+0.005). These experiments characterize the NRASG12V-mediated self-renewal
+transcriptional signature. Using mass cytometry to query the activation
+status of signaling pathways simulteneously with multiple
+immunophenotypic markers, we show that Ki67Low LSCs (the putative
+self-renewing LSCs) preferentially express increased levels of -catenin
+and Myc. These data implicating AML self-renewal pathways can provide
+precise molecular targets for treating this deadly disease.
+

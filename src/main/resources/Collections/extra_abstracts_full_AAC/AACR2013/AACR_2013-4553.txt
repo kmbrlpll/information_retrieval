@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Design and validation of a screening strategy for the
+identification of novel inhibitors of wild type and mutant CARD11
+mediated BCR/NF-B signaling.
+
+
+Diffuse large B cell lymphoma (DLBCL) is the most common form of
+non-Hodgkin's lymphoma and can be divided into three distinct subtypes.
+The activated B cell-like (ABC) subtype is the most aggressive and is
+characterized by constitutive activation of the NF-B pathway. Within the
+NF-B pathway, the scaffolding protein CARD11 plays a critical role by
+coordinating IB kinase activity and downstream pathway activation. With
+mounting evidence that CARD11 is a promising therapeutic target for the
+treatment of ABC-DLBCL we developed and executed a compound screening
+strategy with the ability to identify B cell receptor (BCR)/NF-B pathway
+inhibitors and triage them based on mechanism of action.We began to
+screen our compound library by using the TMD-8 (ABC-DLBCL) cell line
+engineered with an NF-B-dependent luciferase reporter. In order to bin
+the primary hits, different stimuli were evaluated for their ability to
+rescue the inhibition of BCR/NF-B activity in TMD-8 cells. This strategy
+allowed the identification of 3 potential classes of inhibitors: 1)
+inhibitors up-stream of PKC, that could be rescued by PMA/ionomycin; 2)
+inhibitors down-stream of IKK; 3) inhibitors acting between CARD11 and
+IKK, whose activity could be rescued by TNF but not by PMA/ionomycin.
+Following triage, a hit confirmation step was designed using 293T cells
+engineered with an NF-B-luciferase reporter construct and the ability to
+express wild-type or mutant CARD11 under the control of a Tet-responsive
+promoter. Inhibitors up-stream of PKC were confirmed by the ability of
+PMA/ionomycin to rescue inhibition of the NF-B reporter. Inhibitors
+acting downstream of IKK were confirmed by the inability of TNFa to
+rescue. Finally, inhibitors acting between CARD11 and IKK were confirmed
+by their ability to inhibit NF-B reporter expression in CARD11 wild-type
+and mutant settings without rescue by PMA/ionomycin but with rescue by
+TNF.Currently, the majority of pharmacological therapeutics in clinical
+trials target constitutive BCR activation upstream of CARD11. As a
+result, activating CARD11 mutations pose a threat to the success of these
+therapeutics. The 10% of ABC-DLBCL patients with somatic mutations in
+CARD11 are likely to be resistant to these therapies and mutation to
+CARD11 may prove to be a common mechanism of resistance in tumors that
+initially respond to treatment. Consequently, therapies targeting CARD11,
+including mutant CARD11, or downstream NF-B signaling components
+represent a valuable strategy for the treatment of ABC-DLBCL.
+

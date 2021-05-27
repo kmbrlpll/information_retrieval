@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Dynarrestin, a novel dynein inhibitor that does not block
+ciliogenesis
+
+
+Introduction: Aberrant hedgehog (Hh) pathway activation contributes to
+the pathogenesis of multiple cancers. Currently available Hh pathway
+inhibitors target Smoothened (Smo) which can acquire mutations causing
+drug resistance. Therefore, a major challenge is to identify compounds
+that inhibit Hh signaling downstream of Smoothened.Methods: We conducted
+a high-throughput screening (HTS) campaign of 337,000 small molecules
+using a Hh-dependent differentiation assay of C3H10T1/2 cells into
+osteoclasts. Primary active screening hits were validated by a cell-based
+assay cascade including motor neuron differentiation from mouse embryonic
+stem cells, Gli reporter activation in ShhLight2 cells and proliferation
+of heterozygous Patched (PTCH+/-) medulloblastoma (MB) cells. Smo binding
+was monitored in membrane-based Cyclopamine competition assays. To
+identify the underlying target identification of promising hits, affinity
+chromatography was performed followed by label-free quantitative (LFQ)
+tandem mass spectrometry. Effects on cytoplasmic dynein were examined in
+Smo trafficking and in vitro microtubules motility assays as well as by
+live cell imaging of labeled endosome movement.Results: We identified
+dynarrestin, a novel aminothiazole that potently blocks Hh signaling and
+the proliferation of Hh-dependent PTCH+/- MB tumor cells (IC5070nM).
+Dynarrestin does not bind to Smo and is able to suppress the Hh pathway
+in the presence of the Smo agonist SAG and following the knockdown of the
+Hh pathway suppressor SUFU indicating that dynarrestin inhibits Hh
+signaling downstream of both Smo and SUFU. Chemical LFQ proteomics
+identified cytoplasmic dynein as the target of dynarrestin. Dyneins
+convert energy from ATP hydrolysis into motor activity and are essential
+for many cellular processes, including Hh signaling. Unlike other dynein
+inhibitory molecules, e.g. Ciliobrevins, dynarrestin inhibits Smoothened
+trafficking but not ciliogenesis. We further demonstrate that dynarrestin
+reversibly interferes with endosome movement, proper mitotic spindle
+orientation, and dynein-based microtubule translocation in vitro without
+blocking ATP hydrolysis.Conclusions: Dynarrestin provides a novel dynein
+inhibitor with distinct specificity that uniquely facilitates probing
+dynein function. Given its multiple contributions to Hh signaling,
+mitosis and other cellular events, dynein remains a highly attractive
+target for medicinal chemistry programs aimed at exploiting and
+modulating its complex, poorly understood chemical cycle to interfere
+with different aspects of activity and function. We believe that
+unraveling dynein-dependent cellular processes by dynarrestin has great
+potential for development into novel anti-cancer drugs controlling Hh
+signaling downstream of Smoothened.
+

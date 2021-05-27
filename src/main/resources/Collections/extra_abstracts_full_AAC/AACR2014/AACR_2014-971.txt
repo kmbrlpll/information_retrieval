@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Phosphatase PTP4A3 is critical for cell growth of triple-negative
+breast cancer
+
+
+Background: Triple-negative breast cancer (TNBC) has the worst prognosis
+of all breast cancers, and frequently affects young and in particular
+African-American Women. Women diagnosed with these tumors currently lack
+targeted treatment options. To identify novel targets for TNBC treatment,
+we identified specific phosphatases that are critical for the growth of
+TNBCs.Methods: To identify novel targets for TNBC, we investigated the
+expression of phosphatases in breast tumors, identified those highly
+expressed in TNBC, and studied whether specific phosphatases are
+essential for TNBC growth. siRNA were used to knock-down each of the 20
+highly expressed phosphatases in 4 TNBC, 4 ER-positive BC cell lines.
+Cell growth was measured by cell count, and anchorage-independent growth
+was tested with soft agar assays. Xenograft experiments were performed by
+injecting TNBC cells expressing inducible shRNA-PTP4A3 into the mammary
+fat pad of nude mice. Mice with palpable tumors were then randomized to
+receive either water containing doxycycline (Dox) or vehicle. Tumor size
+was measured every other day, and the growth rates of tumors were
+calculated and compared using Student's t-test of the slopes. The
+prognostic importance of PTP4A3 was evaluated using gene expression and
+survival data. R statistical software was used to generate Kaplan-Meier
+curves and determine statistical significance using the log rank
+(Mantel-Cox) method and perform Cox proportional hazards models analyses.
+Patients were dichotomized at the mean expression level.Results:
+Knockdown of nine phosphatases, including PTP4A3 (PRL-3) significantly
+reduced growth and anchorage-independent growth of TNBC cell lines.
+PTP4A3 siRNA treatment induced a G1/S cell cycle block in all breast
+cancer cell lines. Further analysis of the phosphatase PTP4A3
+demonstrated that reduced expression induced apoptosis in four TNBC cell
+lines, without inducing apoptosis in most ER-positive BC cell lines.
+Inhibition of PTP4A3 in TNBC xenografts suppressed growth, and a
+reduction in proliferation and induction of apoptosis was detected by
+immunohistochemistry. In silico analysis of PTP4A3 expression confirmed
+elevated expression of PTP4A3 in TNBCs and demonstrated that PTP4A3 is an
+independent prognostic indicator for breast cancer specific
+survival.Conclusion: These studies identified a set of highly expressed
+phosphatases that represent promising targets for the treatment of TNBCs.
+We also demonstrated that one of these phosphatases, PTP4A3, is critical
+for the growth of TNBCs in vitro and in vivo, and PTP4A3 expression is
+prognostic in women with TNBC. These results provide the rationale for
+further study of growth promoting phosphatases and suggest that such
+phosphatases may be targeted for the treatment of this aggressive form of
+breast cancer.Research supported by: Susan G. Komen for the Cure (PB,
+GM), Komen SAB, and the Norman Brinker Award for Research Excellence.
+

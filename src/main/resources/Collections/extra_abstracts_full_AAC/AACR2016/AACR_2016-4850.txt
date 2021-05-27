@@ -1,0 +1,82 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Combination of effector mimicking with in silico fragment screens
+is an effective approach for the development of Ras inhibitors
+
+
+Targeting Ras proteins directly has proven to be exceptionally
+challenging because they lack deep pockets on the surface that can
+provide for effective interactions with small molecules. Several shallow
+pockets have been identified on Ras surface. However, their positioning
+does not allow for simultaneous targeting with a single small molecule.
+To generate high affinity Ras binders, we have combined fragment-based
+drug design and in silico screening of fragment libraries with mimicking
+of Ras effectors. We have chosen Ras effector NORE1A for mimicking
+because it has one of the most compact continuous Ras-binding interfaces.
+Peptide mimetic of the central part of the interface was chemically
+rigidified and optimized to expand into additional pockets adjacent to
+Ras's NORE1A binding interface. These included one previously described
+pocket (Sun et.al 2012, Maurer et al, 2012) along with two newly defined
+ones. In particular, we have identified a new pocket between helix 2 and
+strands 2 and 3 of Ras protein. The pocket is not highly populated and is
+present in only 9 out of 71 analyzed Ras structures. The apparent binding
+region appears disordered in seven published structures suggesting that
+the fold of the pocket may be environmentally regulated and is likely
+affected by crystallization conditions. In silico screening of specially
+constructed virtual libraries consisting of millions of compounds allowed
+for identification of several potential binders. Two fragment-like
+molecules have been tested for Ras binding to verify the predictions.
+Binding assay that utilized microscale thermophoresis revealed that: 1)
+both compounds bind to WT, G12D and G12V mutants of K-Ras; 2) one of the
+compounds has higher affinity towards GTP-bound than to GDP -loaded wild
+type and G12V mutant of K-Ras (KD 0.9 mM and 3.2 mM respectively), but
+binds with approximately same KD 3.3 mM to GDP and GTP-bound G12D K-Ras.
+We also utilized for screening a novel virtual library of synthetically
+accessible molecules that can be prepared in one step using well
+established chemistries and easily obtainable reagents. This resulted in
+additional potential ligands for the pocket. Two compounds were prepared
+and proven to bind with affinities in low millimolar range. The use of
+the ligands identified from virtual screens allowed for the design of a
+NORE1A mimetic with MWTargeting Ras proteins directly has proven to be
+exceptionally challenging because they lack deep pockets on the surface
+that can provide for effective interactions with small molecules. Several
+shallow pockets have been identified on Ras surface. However, their
+positioning does not allow for simultaneous targeting with a single small
+molecule. To generate high affinity Ras binders, we have combined
+fragment-based drug design and in silico screening of fragment libraries
+with mimicking of Ras effectors. We have chosen Ras effector NORE1A for
+mimicking because it has one of the most compact continuous Ras-binding
+interfaces. Peptide mimetic of the central part of the interface was
+chemically rigidified and optimized to expand into additional pockets
+adjacent to Ras's NORE1A binding interface. These included one previously
+described pocket (Sun et.al 2012, Maurer et al, 2012) along with two
+newly defined ones. In particular, we have identified a new pocket
+between helix 2 and strands 2 and 3 of Ras protein. The pocket is not
+highly populated and is present in only 9 out of 71 analyzed Ras
+structures. The apparent binding region appears disordered in seven
+published structures suggesting that the fold of the pocket may be
+environmentally regulated and is likely affected by crystallization
+conditions. In silico screening of specially constructed virtual
+libraries consisting of millions of compounds allowed for identification
+of several potential binders. Two fragment-like molecules have been
+tested for Ras binding to verify the predictions. Binding assay that
+utilized microscale thermophoresis revealed that: 1) both compounds bind
+to WT, G12D and G12V mutants of K-Ras; 2) one of the compounds has higher
+affinity towards GTP-bound than to GDP -loaded wild type and G12V mutant
+of K-Ras (KD 0.9 mM and 3.2 mM respectively), but binds with
+approximately same KD 3.3 mM to GDP and GTP-bound G12D K-Ras. We also
+utilized for screening a novel virtual library of synthetically
+accessible molecules that can be prepared in one step using well
+established chemistries and easily obtainable reagents. This resulted in
+additional potential ligands for the pocket. Two compounds were prepared
+and proven to bind with affinities in low millimolar range. The use of
+the ligands identified from virtual screens allowed for the design of a
+NORE1A mimetic with MW< 1000. The data along with previously published
+studies show that in silico screens for Ras binders are challenging
+because of the highly flexible and allosteric nature of the protein.
+However, utilization of several structures rather than focusing on just
+one can significantly improve the prediction power of virtual screens.
+Computational data along with binding studies strongly suggest that a
+combination of in silico screening with rational optimization of effector
+mimetics is a promising approach for the development of clinically useful
+inhibitors for thus far non-druggable Ras.
+

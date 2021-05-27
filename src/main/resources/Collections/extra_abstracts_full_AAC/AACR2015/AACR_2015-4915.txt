@@ -1,0 +1,38 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Tracking genomic alterations in young patients with head and neck
+carcinomas using whole-exome sequencing
+
+
+Head and neck squamous cell carcinomas (HNSCC) often affect patients over
+60 years, although epidemiological studies have shown an increased
+incidence in young adults (18-45 years), especially those having
+oropharynx and oral cavity tumors. There is no consensus regarding the
+etiology, clinical course and prognosis of HNSCC in young patients that
+often do not have the risk factors frequently described as associated
+with the disease (alcohol consumption, smoking and HPV infection).
+Despite its importance, studies with this group of patients are scarce,
+mainly focusing on the molecular aspects involved in the development and
+progression of the disease. In this study, we evaluated 36-paired samples
+(6 oral cavity, 12 oropharyngeal carcinomas and 18 matched blood samples)
+by whole exome sequencing (WES) aiming to identify molecular markers
+useful to clinical practice. Libraries were prepared (Illumina Nextera
+exome Enrichment kit) for WES using the high quality DNA from tumor
+tissue and peripheral blood of each patient (HiSeq2500, Illumina). The
+coverage reached an average of 55x per sample. We used an in-house
+pipeline for cleaning, mapping and SNP calling revealing an average of
+36,494 SNPs per sample. A paired comparison of normal and tumor samples
+was performed considering only the exclusive variants in tumors, after
+exclusion of the common variants, based on 1000 Genomes
+(http://www.1000genomes.org/), project and 6500 exomes
+(evs.gs.washington.edu/). It was identified 248 variants distributed in
+169 genes, with 184 (74%) classified as new (variant not described) and
+64 (26%) as rare (population frequency 0.1%). Three genes, ZNF717, HYDIN
+and KCNJ12, presented higher frequency of SNPs and were enriched to head
+and neck carcinoma (p = 1,910-9) and calcium (p = 1.8210-3) pathways.
+Considering only tongue samples (4 cases) from non-smokers and HPV
+negative patients, the ZNF717 and HYDIN genes remained among those with
+the highest frequency of SNPs [non-smokers: HYDIN (23 SNPs) and ZNF77 (24
+SNPs); HPV-negative: HYDIN (6 SNPs) and ZNF77 (5 SNPs)]. These genes are
+putative drivers in young patients with HNSCC.Financial Support: FAPESP
+(2013/06897-2) and INCiTO (FAPESP: 2008/57887-9 and CNPq 573589/08-9)
+

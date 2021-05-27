@@ -1,0 +1,74 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Risk prediction for stomach cancer using helicobacter pylori
+infection and atrophic gastritis, fruits and vegetables, smoking and
+GWAS-identified genetic polymorphism (PSCA-rs2294008) in a Japanese
+population
+
+
+[Background] Helicobacter pylori (H. pylori) infection and atrophic
+gastritis (AG) following H. pylori infection are well-established risk
+factors worldwide. Smoking is a convincing risk factor and fruits and
+vegetables intake is a possible protective factor in Japanese
+populations. PSCA-rs2294008 is one of single nucleotide polymorphisms
+(SNPs) with the susceptibility of a stomach cancer risk identified by
+Genome-wide association studies in Japanese populations. The advances in
+molecular evidence may have a potential to impact cancer prevention.
+However, it has never been clear how much it may contribute to cancer
+risk of the stomach on a population level in combination with
+environmental factors. In this study, we established a risk prediction
+model of stomach cancer using these environmental, clinical and genetic
+risk factors as a potential practical application in cancer preventive
+intervention.[Methods] We conducted two age- and sex- matched
+case-control studies, one for model derivation (697 cases and 1,372
+controls) and the second (678 cases and 678 controls) for external
+validation. Based on data from the derivation study, a prediction model
+was developed by fitting a conditional logistic regression model using
+the following predictors: age, ABCD category defined by H.pylori
+infection and AG, smoking, fruits and vegetable intakes and PSCA
+genotype. Performance of the model was assessed in terms of
+discrimination (C statistic), calibration (calibration plots and
+Hosmer-Lemeshow test) and Integrated discrimination improvement (IDI)
+index. Cumulative risks were obtained by combining odds ratios estimated
+from the risk model with the age-specific incidence rate and population
+size.[Results] The risk model, including a combination of PSCA genotype,
+smoking, fruit & vegetable intake and alcohol consumption, provided high
+discriminatory accuracy and good calibration in both the derivation and
+validation studies: C statistics were 0.78 (95% confidence intervals
+0.76-0.80) and 0.80 (0.77-0.82), respectively, and the calibration plots
+of both studies stayed close to the ideal calibration line. IDI indices
+are 0.11 and 0.12 (p[Background] Helicobacter pylori (H. pylori)
+infection and atrophic gastritis (AG) following H. pylori infection are
+well-established risk factors worldwide. Smoking is a convincing risk
+factor and fruits and vegetables intake is a possible protective factor
+in Japanese populations. PSCA-rs2294008 is one of single nucleotide
+polymorphisms (SNPs) with the susceptibility of a stomach cancer risk
+identified by Genome-wide association studies in Japanese populations.
+The advances in molecular evidence may have a potential to impact cancer
+prevention. However, it has never been clear how much it may contribute
+to cancer risk of the stomach on a population level in combination with
+environmental factors. In this study, we established a risk prediction
+model of stomach cancer using these environmental, clinical and genetic
+risk factors as a potential practical application in cancer preventive
+intervention.[Methods] We conducted two age- and sex- matched
+case-control studies, one for model derivation (697 cases and 1,372
+controls) and the second (678 cases and 678 controls) for external
+validation. Based on data from the derivation study, a prediction model
+was developed by fitting a conditional logistic regression model using
+the following predictors: age, ABCD category defined by H.pylori
+infection and AG, smoking, fruits and vegetable intakes and PSCA
+genotype. Performance of the model was assessed in terms of
+discrimination (C statistic), calibration (calibration plots and
+Hosmer-Lemeshow test) and Integrated discrimination improvement (IDI)
+index. Cumulative risks were obtained by combining odds ratios estimated
+from the risk model with the age-specific incidence rate and population
+size.[Results] The risk model, including a combination of PSCA genotype,
+smoking, fruit & vegetable intake and alcohol consumption, provided high
+discriminatory accuracy and good calibration in both the derivation and
+validation studies: C statistics were 0.78 (95% confidence intervals
+0.76-0.80) and 0.80 (0.77-0.82), respectively, and the calibration plots
+of both studies stayed close to the ideal calibration line. IDI indices
+are 0.11 and 0.12 (p<0.00001), respectively.[Conclusion] The risk
+prediction model that includes these environmental, clinical and genetic
+factors could be useful to classify Japanese into relevant risk groups of
+stomach cancer for personalized prevention programs.
+

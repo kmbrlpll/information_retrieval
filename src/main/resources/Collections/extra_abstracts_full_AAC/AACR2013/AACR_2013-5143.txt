@@ -1,0 +1,35 @@
+Meeting: 2013 AACR Annual Meeting
+Title: From sequencing data to mutation spectra: a high throughput
+analysis pipeline.
+
+
+Advances in massively parallel sequencing technology have revolutionized
+the way we characterise cancer genomes and provided significant new
+insights to our understanding of the mechanisms that underpin
+oncogenesis. A diverse range of mutations types including single
+base-pair changes, insertions, deletions, copy number alterations and
+larger structural variations are common in cancer genomes.To rapidly and
+accurately screen next generation sequencing data for these somatic
+mutations in cancer, the Cancer Genome Project (CGP) has developed a high
+throughput analysis pipeline utilising a suite of analysis software
+developed by the group. Built around a compute farm of 2,000 nodes and
+using a Lustre filesystem, raw data files (BAM etc.), analysis results
+files and version information are efficiently stored and tracked in our
+archive/storage system, FileTrk. Lane data is aligned using
+Burrows-Wheeler Aligner (BWA) and web interfaces have been developed to
+allow scientific staff to rapidly QC aligned lanes. Once QC'd and desired
+coverage is reached, lanes are merged into a single sample BAM file and
+the sample is then ready for analysis.In house algorithms are used to
+detect point mutations (CaVEMan), structural variation breakpoints
+(Brass) and copy number changes (ASCAT and PICNIC), whilst Pindel is used
+to detect small insertions/deletions. Post-processing filters then remove
+false positives and the results are uploaded into a database. Mutations
+are annotated to the protein and RNA levels using standard nomenclature
+(Vagrent, in-house software). Downstream analysis software has been
+developed (CANDI, in-house software) which produces a range of plots to
+aid visualisation of mutation context and mutation spectra patterns in
+related cancer samples.Current IT development is focussed on converting
+the pipeline to produce and store VCF output, incorporate further
+downstream analysis software and automate data export to COSMIC and the
+ICGC data portal.
+

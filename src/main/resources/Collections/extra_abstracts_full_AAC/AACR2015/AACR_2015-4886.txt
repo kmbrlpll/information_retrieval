@@ -1,0 +1,31 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Repair of challenging FFPE DNA improves library success rate and
+sequencing quality
+
+
+Formalin-fixed, paraffin-embedded (FFPE) clinical samples are an
+invaluable source of information about genetic alterations in human
+disease, especially cancer. Next generation sequencing is a powerful tool
+to mine that information. Unfortunately, sequencing DNA from FFPE samples
+is challenging due to limited quantities and poor quality, a result of
+DNA damage incurred during fixation and storage. In this study, we
+investigated the effects of DNA repair on library preparation and
+sequencing from FFPE samples. We evaluated a repair enzyme mix that is
+designed to work on a broad range of DNA damage including modified bases,
+nicks, gaps, and blocked 3 ends. Results from FFPE DNA samples of varying
+quality show that DNA repair generally increases library yields by
+10-170%, with the largest improvement on samples of poor quality. Careful
+analysis of sequencing data shows that base calling qualities for all 4
+bases are improved upon DNA repair. Aberrant G:C to A:T mutation were
+significantly reduced, consistent with cytosine deamination being induced
+during fixation and storage at room temperature. Interestingly,
+sequencing miscalls for base pair changes not typically associated with
+fixation were also reduced. We are currently investigating the source of
+these mutations. With DNA repair a noticeably positive impact on read
+mapping and read pairing was observed, resulting in the generation of
+more useable data. Pretreatment of FFPE DNA by the repair enzyme mix is
+easily implemented upstream of library construction, allowing fast
+turnaround time and easy automation. We expect that these improvements
+will enable the analysis of many FFPE samples that would otherwise not be
+accessible.
+

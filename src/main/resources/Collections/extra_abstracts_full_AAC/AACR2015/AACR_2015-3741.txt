@@ -1,0 +1,105 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Selection of BRCA1/2 negative cases using data mining analytical
+approach for hereditary breast cancer prediction in high risk breast
+cancer patients
+
+
+Background:The causes of hereditary breast cancer are classified in two
+groups as modifiable and non-modifiable (genetic) in our study.Some of
+the non-modifiable factors selected are breast density, menarche age,
+menopause, BRCA1 and BRCA2 genes, family history, height and weight of
+patients.On the other hand, oral contraceptive usage, alcohol
+consumption, hormone therapy, breastfeeding, exposure to radiation and
+smoking are among the modifiable factors.The risk of having hereditary
+breast cancer could be identified by BRCA1/BRCA2 gene tests which
+requires long lasting experiments and incurs high costs. Before
+performing the required genetic test, the modifiable and non-modifiable
+factors of the high risk patients are collected by geneticist or genetic
+counselor and then calculated risk score of the patients.After observing
+the test results, the effect of existing factors are analyzed.The aim of
+this study is to develop a hereditary breast cancer prediction algorithm
+by using data mining techniques for high risk breast cancer
+patients.Methods:Different applications may require different data mining
+methods.The current study involves the data classification technique for
+predicting hereditary breast cancer through a function that incorporates
+modifiable and non-modifiable factors. The data consists of 562 BRCA
+negative, and 68 BRCA positive instances with 117 categorical and
+numerical characteristics.The first step of this approach is
+preprocessing the data on hand.Individuals with incomplete data are
+excluded from the list, and some logical adjustments are
+performed.Results:As a result, 440 patients (392 BRCA negative, 48 BRCA
+positive), and 75 characteristics (3 numerical, 72 categorical
+attributes) are obtained.In the second step, important factors are
+determined by attribute selection algorithms. After applying 23 selection
+and 7 ranking methods, the important attributes are determined as: age,
+diagnosis, height, weight, menopause age, menarche age,
+FIB/FIBBackground:The causes of hereditary breast cancer are classified
+in two groups as modifiable and non-modifiable (genetic) in our
+study.Some of the non-modifiable factors selected are breast density,
+menarche age, menopause, BRCA1 and BRCA2 genes, family history, height
+and weight of patients.On the other hand, oral contraceptive usage,
+alcohol consumption, hormone therapy, breastfeeding, exposure to
+radiation and smoking are among the modifiable factors.The risk of having
+hereditary breast cancer could be identified by BRCA1/BRCA2 gene tests
+which requires long lasting experiments and incurs high costs. Before
+performing the required genetic test, the modifiable and non-modifiable
+factors of the high risk patients are collected by geneticist or genetic
+counselor and then calculated risk score of the patients.After observing
+the test results, the effect of existing factors are analyzed.The aim of
+this study is to develop a hereditary breast cancer prediction algorithm
+by using data mining techniques for high risk breast cancer
+patients.Methods:Different applications may require different data mining
+methods.The current study involves the data classification technique for
+predicting hereditary breast cancer through a function that incorporates
+modifiable and non-modifiable factors. The data consists of 562 BRCA
+negative, and 68 BRCA positive instances with 117 categorical and
+numerical characteristics.The first step of this approach is
+preprocessing the data on hand.Individuals with incomplete data are
+excluded from the list, and some logical adjustments are
+performed.Results:As a result, 440 patients (392 BRCA negative, 48 BRCA
+positive), and 75 characteristics (3 numerical, 72 categorical
+attributes) are obtained.In the second step, important factors are
+determined by attribute selection algorithms. After applying 23 selection
+and 7 ranking methods, the important attributes are determined as: age,
+diagnosis, height, weight, menopause age, menarche age, FIB/FIB<40,
+SEB/SEBBackground:The causes of hereditary breast cancer are classified
+in two groups as modifiable and non-modifiable (genetic) in our
+study.Some of the non-modifiable factors selected are breast density,
+menarche age, menopause, BRCA1 and BRCA2 genes, family history, height
+and weight of patients.On the other hand, oral contraceptive usage,
+alcohol consumption, hormone therapy, breastfeeding, exposure to
+radiation and smoking are among the modifiable factors.The risk of having
+hereditary breast cancer could be identified by BRCA1/BRCA2 gene tests
+which requires long lasting experiments and incurs high costs. Before
+performing the required genetic test, the modifiable and non-modifiable
+factors of the high risk patients are collected by geneticist or genetic
+counselor and then calculated risk score of the patients.After observing
+the test results, the effect of existing factors are analyzed.The aim of
+this study is to develop a hereditary breast cancer prediction algorithm
+by using data mining techniques for high risk breast cancer
+patients.Methods:Different applications may require different data mining
+methods.The current study involves the data classification technique for
+predicting hereditary breast cancer through a function that incorporates
+modifiable and non-modifiable factors. The data consists of 562 BRCA
+negative, and 68 BRCA positive instances with 117 categorical and
+numerical characteristics.The first step of this approach is
+preprocessing the data on hand.Individuals with incomplete data are
+excluded from the list, and some logical adjustments are
+performed.Results:As a result, 440 patients (392 BRCA negative, 48 BRCA
+positive), and 75 characteristics (3 numerical, 72 categorical
+attributes) are obtained.In the second step, important factors are
+determined by attribute selection algorithms. After applying 23 selection
+and 7 ranking methods, the important attributes are determined as: age,
+diagnosis, height, weight, menopause age, menarche age, FIB/FIB<40,
+SEB/SEB<40, THB/THB40, SEO, cancer status of the family, clinical stage,
+and pathological stage.As a result, three data sets are suggested for
+classification. Finally, a total of 182 data classification results are
+derived for the aforementioned data sets.All analyses are performed by
+employing WEKA software.Conclusion:Comparison of the results shows that,
+the best data classification method's predictions on the BRCA negative
+class has 100% accuracy.Hence, a new individual's situation can be
+assessed without undergoing detailed gene tests, resulting in cost and
+required workforce reduction.The results are found to be promising and
+applicable.As an extension of the study, a user friendly interface and a
+decision support tool can be developed.
+

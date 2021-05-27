@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A web portal of next-generation clustered heat maps for
+user-friendly, interactive exploration of patterns in TCGA data
+
+
+The Cancer Genome Atlas (TCGA) program is generating comprehensive
+molecular profiles of more than 30 clinical tumor types, the first 12 of
+which have been incorporated into a Pan-Cancer12 project. One
+bioinformatic challenge is statistical analysis of the resulting
+profiles; a second is the visual detective work necessary to explore
+individual genes, pathways and patterns in the data. For that type of
+detective work, we introduced CHMs in the early 1990s for pharmacogenomic
+analysis (1) and later for integrated visualization of genomic,
+transcriptomic, proteomic, pharmacological, and functional data (2). As
+the ubiquitous first-order way of visualizing omic data, CHMs have
+appeared in many thousands of publications (3-9), including all of the
+major publications by the TCGA Research Network. However, a major
+limitation is that they have been static or only modestly interactive
+graphics. We have now developed next-generation clustered heat maps
+(NG-CHMs), which use a Google-maps-like tiling technology for extreme
+zooming and navigation without loss of resolution. NG-CHMs provide
+pathway and gene ontology information, re-coloring on the fly, tools for
+reproducibility, high-resolution graphics output, a statistical toolbox,
+and link-outs to public sources of information on genes, proteins,
+pathways and drugs. The result is a visually rich, dynamic environment
+for exploration of the masses of data produced by TCGA. The compendium of
+TCGA Pan-Cancer NG-CHMs currently includes 667 maps as an initial set,
+but the numbers will soon rise into the thousands as more data types,
+tumour types and algorithms are incorporated (at web portal
+http://bioinformatics.mdanderson.org/TCGA/NGCHMPortal/). As an
+illustrative example, NG-CHMs proved pivotal as a tool for discovering
+and analyzing molecular target themes common to multiple types of
+gynecological cancers and themes that distinguish them from each other.1.
+Weinstein JN Paull KD. Stem Cells 12; 13, 1994.2. Weinstein JN Paull KD.
+Science 275;343, 1997.3. Myers TG Weinstein JN. Electrophoresis 18; 467,
+1997.4. Eisen MB Botstein D. Proc. Natl. Acad. Sci. U.S.A. 14863, 1998.5.
+Golub TR Lander ES. Science 286; 531, 1999.6. Ross DT Brown PA. Nature
+Genetics 24; 227, 20007. Scherf U Weinstein JN. Nature Genetics 24; 236,
+2000.8. Zeeberg BR Weinstein JN. BMC Bioinformatics 6; 168, 2005.9.
+Weinstein JN. Science 319; 1772, 2008.Supported in part by NCI Grant No.
+U24CA143883, by a gift from the Mary K. Chapman Foundation, and by a
+grant from the Michael and Susan Dell Foundation honoring Lorraine
+Dell.Note: This abstract was not presented at the meeting.
+

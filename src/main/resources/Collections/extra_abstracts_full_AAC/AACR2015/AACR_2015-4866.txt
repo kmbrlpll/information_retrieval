@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Modeling synergistic anti-PD-1 immunotherapy combinations with
+virtual tumor
+
+
+The tumor microenvironment and local immune response play a key role in
+cancer biology, and immune resistance is a feature of many cancers. For
+this reason, immunotherapy, which re-educates the immune system to
+recognize and target tumor cells, has recently developed into a highly
+active area of anticancer drug development. The field is dominated by
+immune-checkpoint blockers, which counteract the suppression of the
+immune response that is often observed in cancer. While early results for
+monotherapies are promising, with response rates exceeding those
+typically observed for chemotherapy, the real potential of immunotherapy
+agents could be in combining them together or with other anticancer
+treatments. However, there is currently no rational basis on which to
+select optimal dosing regimens or combination schedules, and hence there
+is a clear unmet need for predictive tools to aid this
+process[1,2].Physiomics has developed a preclinical and a clinical
+Virtual Tumour (VT) technology that can predict how a tumor will respond
+to drug exposure. This integrated PK/PD simulation platform can be used
+to optimize drug dosing and scheduling, and to design new combination
+therapies. The VT technology integrates pharmacokinetic and
+pharmacodynamic effects and models the way individual cells behave within
+a tumor population. These agent-based methods are particularly suitable
+for modeling not only tumor cells, but also other cell populations - such
+as those involved in the immune response - and also interactions between
+cells. Here we describe our recent development and application of the VT
+technology for modeling preclinical efficacy of immune-checkpoint
+blockers, with a focus on anti-PD-1 agents.The VT platform has been
+extended by the addition of an immunotherapy module, which has been
+developed and calibrated using qualitative and quantitative data taken
+from the literature. This module captures the mechanisms by which the
+immunotherapy activates the innate antitumor immune response and
+synergizes with other anticancer therapies. Through a preclinical case
+study also derived from the literature, we demonstrate that the extended
+VT can be applied to model the efficacy of immune-checkpoint blockers,
+both alone and in combination with other anticancer agents. Furthermore,
+we show that the VT accurately captures the synergy between an
+immunotherapy agent and conventional anticancer treatments.Our enhanced
+VT capability represents the first step towards a ground-breaking tool
+for optimizing dosing and scheduling of immunotherapy, which is set to
+revolutionize cancer therapy in the near future, especially for patients
+with resistant disease.1. Pardoll, D. M. The blockade of immune
+checkpoints in cancer immunotherapy. Nat. Rev. Cancer 12, 252-264
+(2012).2. Lesterhuis, W. J., Haanen, J. B. A. G. & Punt, C. J. A. Cancer
+immunotherapy - revisited. Nat. Rev. Drug Discov. 10, 591-600 (2011).
+

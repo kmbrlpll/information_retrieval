@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genome-wide location analysis of DNA adducts in vivo.
+
+
+DNA adducts are the biochemical consequences of exposure to UV light,
+carcinogens or DNA-reactive drugs. They play a central role in malignant
+transformation and the selective killing of cancer cells by
+chemotherapeutic agents. The functional consequences of DNA adducts is
+likely to depend on their exact location in the genome with respect to
+histones and sites where histones and DNA are modified. However, tools
+that permit precise genome-wide mapping of adduct locations have poor
+resolution or are too specific to the type of DNA-adduct. Here we present
+the development of a molecular assay (Ad-Seq) capable of identifying the
+genomic location of damaged DNA bases in whole cells. Using naked DNA
+treated with cisplatin (cDDP) or ultra-violet (UV) light as the damaging
+agents, the strategy relies on differential exonuclease digestion to
+enrich genome-wide libraries for fragments containing DNA adducts,
+followed by high-throughput sequencing. Consistent with the expected
+adduct chemistry, the 5’ end of the reads were enriched in TT, TC or CT
+di-nucleotides in the UV treated DNA (>4x) and in AG or GG in the cDDP
+treated DNA (1.5x), suggesting a positive predictive value of 76% and 44%
+and UV (TT) and cDDP (GG) adduct detection, respectively. Applied in vivo
+to IMR90 cells, Ad-Seq revealed that the fraction of AG/GG loci was
+higher in DNA from the cDDP-treated cells at all coverage depths,
+reaching 1.5x enrichment for the highest depth quartile. This indicates
+that the method is selective and that even low covered loci show
+enrichment of AG/GG sequences. The enrichment in purines was limited to 3
+nucleotides downstream of the read start site, confirming the high
+resolution of the exonuclease digestion. A total of 11 x 103 AG/GG loci
+were identified in replicate in cDDP-treated samples and were absent from
+untreated controls. With about 60 x103 expected adducts per genome, the
+current assay therefore captured up to 18% of cDDP adducts. The most
+covered adduct sites were significantly enriched in the quiescent
+chromatin domains (depleted of histone modifications, p=6.7x10-31), and
+depleted in the transcription start sites (p=4.9x10-12), as defined by
+the ENCODE consortium. This may be reflective of the differences in DNA
+accessibility or the mechanisms of repair in these distinct regions of
+the genome. The analysis was performed using the PipeDuct computational
+package, which was developed to align the sequencing reads and provide
+general statistics and quality control information of Ad-Seq data. Ad-Seq
+is therefore a novel, unbiased method to map DNA-adducts and study in
+vivo the genome-wide specificity of their formation and repair.
+
+

@@ -1,0 +1,80 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Integrated analysis of copy number, sequence variant and gene
+expression data in kidney chromophobe cohort
+
+
+The Cancer Genome Atlas (TCGA) contains various types of genomic data
+from a wide variety of cancers, including several rare tumor types. Here
+we analyze copy number, sequence variant and RNA-Seq data from TCGA for
+kidney chromophobe (KICH). Level 1 (raw) data, rather than Level 3
+(segmented) data, from TCGA was used for an integrated analysis of copy
+number and gene expression profiles of the two cancers. Using the copy
+number and SNP probes, re-processed tumor profiles were more consistent
+with a control set in terms of median number of copy number events,
+sample ploidy, and breakpoint genes than with the published level 3 TCGA
+data. Probe-level data were analyzed using Nexus Copy Number SNP-FASST2
+algorithm (a multi-state HMM algorithm), with systematic correction
+applied to correct for GC biases. Additionally we performed manual
+baseline adjustment to correct for sample ploidy based on whole-genome
+B-allele frequency data for each sample. Overall, the median number of
+copy number events in the KICH TCGA data set was reduced from 408 (in the
+level 3 set) to 85. After manual inspection, more than 87% of the TCGA
+KICH samples available at level 3 were found to have incorrect baseline
+ploidy assignments. Given KICH samples are known to have low ploidy
+overall, this step was critical for downstream analysis. RNA-Seq results
+for the entire cohort were evaluated to obtain normalized relative RNA
+expression. Somatic sequence variation results from whole exome
+sequencing and relative RNA expression were integrated with the
+individual copy number profiles to yield integrated per-sample results
+across all three data modalities. Aggregate analysis indicates highly
+recurrent losses (50-85% of samples) on chromosomes 1, 2, 6, 10, 13, 17
+and 21. Lower level recurrent losses (15-20% of samples) were identified
+on chromosomes 3, 5, 8, 9, 11 and 18. Concordance analysis revealed
+statistically significant subsets of samples with co-occurring lower
+level recurrent losses. Aggregate sequence mutation analysis of
+chromosomes among 3, 5, 8, 9, 11 and 18 did not identify any mutational
+hotspots. Integration with RNA-Seq expression data from each tumor type
+revealed statistically significant correlations (pThe Cancer Genome Atlas
+(TCGA) contains various types of genomic data from a wide variety of
+cancers, including several rare tumor types. Here we analyze copy number,
+sequence variant and RNA-Seq data from TCGA for kidney chromophobe
+(KICH). Level 1 (raw) data, rather than Level 3 (segmented) data, from
+TCGA was used for an integrated analysis of copy number and gene
+expression profiles of the two cancers. Using the copy number and SNP
+probes, re-processed tumor profiles were more consistent with a control
+set in terms of median number of copy number events, sample ploidy, and
+breakpoint genes than with the published level 3 TCGA data. Probe-level
+data were analyzed using Nexus Copy Number SNP-FASST2 algorithm (a
+multi-state HMM algorithm), with systematic correction applied to correct
+for GC biases. Additionally we performed manual baseline adjustment to
+correct for sample ploidy based on whole-genome B-allele frequency data
+for each sample. Overall, the median number of copy number events in the
+KICH TCGA data set was reduced from 408 (in the level 3 set) to 85. After
+manual inspection, more than 87% of the TCGA KICH samples available at
+level 3 were found to have incorrect baseline ploidy assignments. Given
+KICH samples are known to have low ploidy overall, this step was critical
+for downstream analysis. RNA-Seq results for the entire cohort were
+evaluated to obtain normalized relative RNA expression. Somatic sequence
+variation results from whole exome sequencing and relative RNA expression
+were integrated with the individual copy number profiles to yield
+integrated per-sample results across all three data modalities. Aggregate
+analysis indicates highly recurrent losses (50-85% of samples) on
+chromosomes 1, 2, 6, 10, 13, 17 and 21. Lower level recurrent losses
+(15-20% of samples) were identified on chromosomes 3, 5, 8, 9, 11 and 18.
+Concordance analysis revealed statistically significant subsets of
+samples with co-occurring lower level recurrent losses. Aggregate
+sequence mutation analysis of chromosomes among 3, 5, 8, 9, 11 and 18 did
+not identify any mutational hotspots. Integration with RNA-Seq expression
+data from each tumor type revealed statistically significant correlations
+(p<0.05) with these copy number alterations, identifying potential driver
+genes of interest. Closer evaluation of copy number alteration and
+RNA-Seq expression at the individual sample level confirmed co-occurrence
+of significantly downregulated RNA expression within these regions of
+loss but no expression changes in samples without loss. This correlated
+with an overall difference in survival but was not statistically
+significant, given the overall small size of the data set. While still
+limiting in sample size, the TCGA KICH data series offers unique insight
+into a rare tumor type. Cross data integration for individual samples
+offers additional strength and validity to findings initially uncovered
+through traditional aggregate analysis.
+

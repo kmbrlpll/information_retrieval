@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Plasma Fetuin-a concentration, genetic variation in the AHSG gene
+and risk of colorectal cancer
+
+
+Background: Fetuin-a, also referred to as 2-Heremans-Schmid glycoprotein
+(AHSG) is a liver protein that inhibits insulin actions. High circulating
+fetuin-a concentrations have been associated with insulin resistance and
+hyperinsulinemia, which pose risk factors for colorectal cancer.
+Experimental studies have also shown that fetuin-a mediates the adhesion
+of tumor cells, an important step in tumor growth through which fetuin-a
+could influence colorectal cancer risk independent of the insulin axis.
+With this study, we aimed to investigate the prospective association
+between circulating fetuin-a and risk of colorectal cancer. In addition,
+we examined potential causality of observed associations by using single
+nucleotide polymorphisms (SNPs) in the AHSG gene as relatively unbiased
+proxies for fetuin-a levels in a Mendelian Randomization
+approach.Methods: Fetuin-a levels were measured in plasma samples from a
+nested case-control study within the European Prospective Investigation
+into Cancer and Nutrition (EPIC) comprising 1367 cases and 1367 matched
+controls (matching variables included age, sex, study center and fasting
+status). In a subset of 456 case-control pairs, five tagging SNPs in the
+AHSG gene (rs2248690, rs2070633, rs2070635, rs4917 and rs6787344) were
+genotyped. The association between circulating fetuin-a and risk of
+colorectal cancer was investigated using conditional logistic regression
+models (controlled for matching factors and multivariable adjusted for
+education, physical activity, smoking, alcohol consumption, dietary
+factors and body fatness) estimating incidence rate ratios (RRs) and 95%
+confidence intervals (CI). The association between genetically raised
+fetuin-a and risk of colorectal cancer was estimated by instrumental
+variable analysis using two-stage least squares regression.Results:
+Higher fetuin-a concentrations were associated with a moderately higher
+risk of colorectal cancer: The estimated RRs (95% CI) per 40 g/mL higher
+fetuin-a were 1.11 (1.01, 1.22) overall, 1.18 (1.03, 1.37) in men, 1.05
+(0.92, 1.21) in women, 1.11 (0.99, 1.25) for colon cancer and 1.10 (0.92,
+1.30) for rectal cancer. In the subset of participants with available
+data on both plasma fetuin-a and AHSG SNPs, the AHSG allele score
+explained 21% of the inter-individual variation in plasma fetuin-a. When
+using the AHSG-score as instrumental variable in a Mendelian
+randomization approach, there was no association between genetically
+determined fetuin-a and risk of colorectal cancer: RR (95% CI) per 40
+g/mL genetically determined higher fetuin-a was 0.98 (0.73, 1.33)
+overall, 1.04 (0.68, 1.60) in men and 0.93 (0.62, 1.42) in
+women.Conclusion: This is the first prospective study relating
+circulating fetuin-a to risk of colorectal cancer. Our findings suggest
+that high fetuin-a concentrations are associated with a moderately higher
+risk of colorectal cancer, but that fetuin-a is probably not a causal
+factor.
+

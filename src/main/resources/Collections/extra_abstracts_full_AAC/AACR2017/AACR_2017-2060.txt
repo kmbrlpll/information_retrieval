@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Characterizing acquired resistance to palbociclib in breast cancer.
+
+
+The CDK4/6 inhibitor palbociclib is currently being used in combination
+with endocrine therapy to treat advanced ER positive breast cancer
+patients. While this treatment has shown great promise in the clinic,
+about 25% of the patients do not respond, and almost all patients
+eventually acquire resistance to palbociclib treatment. Hence,
+understanding the mechanism(s) of acquired resistance to CDK4/6
+inhibition is crucial to devise alternate treatment strategies. To
+interrogate this, we developed MCF7 and T47D resistant cells by treating
+them with increasing doses of palbociclib over a 6-month period. After
+confirming that these cells were resistant to palbociclib, we performed
+genome-wide expression analysis via RNA-seq, in comparison with the
+parental (sensitive) cells. RNA- seq analysis revealed 2888
+differentially expressed genes (pThe CDK4/6 inhibitor palbociclib is
+currently being used in combination with endocrine therapy to treat
+advanced ER positive breast cancer patients. While this treatment has
+shown great promise in the clinic, about 25% of the patients do not
+respond, and almost all patients eventually acquire resistance to
+palbociclib treatment. Hence, understanding the mechanism(s) of acquired
+resistance to CDK4/6 inhibition is crucial to devise alternate treatment
+strategies. To interrogate this, we developed MCF7 and T47D resistant
+cells by treating them with increasing doses of palbociclib over a
+6-month period. After confirming that these cells were resistant to
+palbociclib, we performed genome-wide expression analysis via RNA-seq, in
+comparison with the parental (sensitive) cells. RNA- seq analysis
+revealed 2888 differentially expressed genes (p<0.05) in the resistant
+cells when compared to parental. Further, gene set enrichment analysis
+(GSEA) revealed enrichment of immune pathways (interferon alpha and gamma
+response, immune response) and pathways known to regulate EMT and cancer
+stem cells (IL-6/Stat3, IL-2/STAT-5, Notch, Wnt) in the resistant cells.
+Additionally, GSEA analysis revealed downregulation of G2/M checkpoint,
+estrogen response and DNA repair pathways (double strand break repair).
+Thus, this data suggests that combined targeting of two or more pathways
+that are altered in the resistant cells can provide a novel therapeutic
+strategy to combat CDK4/6 inhibitor resistance.
+
+

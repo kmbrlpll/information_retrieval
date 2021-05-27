@@ -1,0 +1,46 @@
+Meeting: 2014 AACR Annual Meeting
+Title: High content clonogenic survival assay for drug library screening
+identifies potent radiation sensitizers for non-small cell lung cancer
+
+
+Radiotherapy is a critical component in the definitive treatment of
+locally-advanced non-small cell lung cancer (LA-NSCLC), and while
+concurrent platinum-based chemoradiation is the standard approach,
+improvements have been minimal. Molecularly-targeted therapy to further
+enhance radiation effects beyond platinum-sensitization is needed to
+further improve radiotherapy efficacy. A systematic approach needs to be
+developed that can rapidly identify novel drugs that can be combined to
+enhance radiation effects. However, current approaches using traditional
+clonogenic survival assay (tCSA) and colorimetric assays are inadequate
+for high throughput drug screens to identify novel radiation sensitizers.
+To enable screens adapted for radiation drug screening, we have developed
+a method which we coin the High Throughput Clonogenic Survival Assay
+(HCSA) that allows rapid screening of drug libraries to identify potent
+radiation sensitizers. As a proof-of-principle, we used the Kras mutated
+lung cancer cell line H460, and validated the hits using traditional
+assays. Drugs at various concentrations or vehicle were added to cells
+seeded overnight in 96 well plates at low densities, and after 6 hours,
+plates were irradiated at various doses. After incubation, colonies were
+stained and imaged on the INCell 6000 (GE Health), and colony count
+determined using the INCell Developer image analysis software. Drug
+screens were done using a Custom Clinical Collection of 150 compounds. We
+compared the HCSA method to tCSA and found that HCSA recapitulates a
+similar cell survival curve and survival fraction at 2 Gy (SF2) values
+for several cancer cell types. Drug screens identified several compounds
+that were cytotoxic to the KRAS mutant H460 cells alone at 1 M
+(inhibitors to Src/Abl, IGF1R, ROCK1, AKT, PI3K, c-MET) and at low nM
+concentrations (HSP90 and HDAC inhibitors). Multiple drugs of the same
+class were found to be radiation sensitizers and levels of potency seemed
+to reflect the clinical relevance of these drugs. For instance, several
+late generation PARP inhibitors were found to be good sensitizers in the
+HCSA, but the ones that have not made it into clinical development, or in
+the case of BSI-201, was proven to not even be a PARP inhibitor, do not
+come out in the screen. We also discovered that several inhibitors of
+pathways downstream of activated mutant KRAS (PI3K, AKT, mTOR, and
+MEK1/2) sensitized H460 cells to radiation, which is biologically
+relevant for this Kras mutant cell line. We believe these results
+demonstrate the promise of HCSA as a high throughput drug screening
+platform to identify novel radiation sensitizers. This will greatly
+expedite the discovery of novel targets and drugs for clinical
+translation to enhance the effects of radiotherapy in lung cancer.
+

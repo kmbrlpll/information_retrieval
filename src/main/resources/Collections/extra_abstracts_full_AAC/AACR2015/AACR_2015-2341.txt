@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Characterization of macrophage behavior by 4-dimensional label
+free, quantitative holographic imaging
+
+
+Introduction:Macrophages perform a wide range of tasks, including
+bacterial suppression, tumor suppression, immune-stimulation, tissue
+repair, angiogenesis, and cellular debris phagocytosis Behavior is
+controlled by a large number of chemo-stimulants, and broadly are
+classified into two polarization groups, M1 (classically activated,
+pro-inflammatory) and M2 (alternatively activated, anti-inflammatory).
+Understanding the macrophage phenotype is essential in the development of
+pharmacological agents designed to influence macrophage behavior. Due to
+the plethora of macrophage stimulants, it is desirable to do analysis
+under label-free conditions.Materials and Methods:The murine macrophage
+cell line, J774A.1 was analyzed untreated (M0), stimulated with LPS to
+drive M1, and stimulated with IL-4 to drive M2. Efficacy of the
+stimulations was monitored by PCR analysis of the expression levels of
+iNOS and TNF-Alpha (up-regulated in the M1 state) and Arginase-1 and
+IL-10 (up-regulated in the M2 state). Imaging data was obtained on a
+holographic imaging cytometer Holomonitor M4 (Phase Holographic Imaging,
+Lund, Sweden). The instrument permits acquisition of time-lapse
+holographic image sets of unstained cells in standard vessels placed in
+the incubator. Images are segmented, and quantitative features are
+recorded for individual cells, including optical volume, thickness, area
+amongst others. Positional information includes X and Y positions, as
+well as X and Y center of mass. Data can be presented as positional track
+maps, position vs. feature graphs, and feature vs. feature graphs. We
+also obtained time-lapse videos and generated 4-dimensional (X-pos.,
+Y-pos., cell height and time) plots in ImageJ software.Results:In
+untreated cells, we were able to observe the morphological and behavioral
+changes in cells involved in the phagocytic process. These include
+elongation and development of bilateral symmetry of the cells, and
+formation of podosomes involved in the phagocytosis of cellular remnants
+- all hallmarks of the M1 polarization state. We detected the same
+effects in cells treated with LPS under conditions known to induce M1,
+but without the influence of target cells. Cells present an oscillating
+phenotype, which we believe was caused by the redistribution of the
+center of mass within the cell as the polarity of the cell reverses. In
+Cartesian time course plots and 4D images, M1 polarized cells present
+linear tracking profiles. Cells treated with IL4 under conditions known
+to induce M2, maintained radial symmetry observable in cell images and
+videos. In Cartesian time course plots and 4D images, M2 polarized cells
+presented initial starburst patterns, suggesting oscillations with
+rotations occurring around the center of mass during
+cycles.Conclusions:Recently developed label-free imaging techniques
+provide a new tool for classifying macrophages based on cellular behavior.
+

@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identifying novel drivers of the epithelial-to-mesenchymal
+transition across multiple cancer types: from bioinformatics to the bench
+
+
+To emigrate from a primary tumor to a distant site, a proliferating
+cancer cell must acquire the phenotypic traits necessary for migration
+and invasion. This shift from growing to going, termed
+epithelial-to-mesenchymal transition (EMT), may be a genetic or
+epigenetic phenomenon, ultimately characterized by altered cellular
+function that promotes metastasis. In addition to its role in malignant
+progression, EMT is integral in development and for healthy wound
+healing. EMT has been described in all carcinomas, and, because it of its
+established physiologic role, we hypothesize that there are a set of
+central EMT regulators that are universal to all carcinoma types. To
+identify global regulators of EMT, we integrated data from 15 published
+gene expression microarray studies that include a total of 49 epithelial
+and 46 mesenchymal cell line samples across 6 malignant tissue types
+(breast, prostate, colon, esophageal, liver, retinal pigment) and with
+various in vitro EMT induction strategies. While accounting for batch
+effects and other technical variability inherent in gene expression data,
+we performed differential expression analysis to identify genes that vary
+significantly between epithelial and mesenchymal states. Importantly, we
+found differential expression of established EMT markers (e.g. CDH1,
+ZEB1) validating our approach. We also identified genes that had not
+previously been implicated in cancer progression, representing novel
+candidate drivers of EMT, for example SARG (C1orf116). We found that SARG
+expression is decreased in high-grade cancer and metastatic disease, and
+is negatively associated with chemotherapy resistance across multiple
+cancer types (Oncomine). In an in vitro model of prostate cancer EMT, we
+found that SARG had >5-fold increased RNA and protein expression in
+PC3-epithelial cells. Knockdown of SARG expression in PC3-epithelial
+cells resulted in decreased gene expression of the epithelial-marker CDH1
+and elevated expression of the mesenchymal marker CDH2, suggesting a role
+as a driver of the epithelial phenotype. In parallel with functional in
+vitro experiments, we have applied a Bayesian network learning approach
+to identify differentially expressed genes that are likely to play
+regulatory roles in EMT with causal influence on other genes.
+Importantly, this analysis provides valuable information regarding novel
+downstream effectors of known key regulators of EMT such as CDH1 and
+ELF3. Moreover, we also identified new EMT regulators such as CEP170 that
+have not been previously described. Experiments are underway to further
+explore the functional implications of these gene networks. This
+integrative approach of global gene expression analysis, network
+learning, and functional validation may identify causal genes and
+regulatory interactions in EMT, both expanding upon current knowledge and
+identifying novel drivers of this key metastatic process.
+

@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Investigating the biology of atypical teratoid/rhabdoid tumors by
+whole genome CRISPR/Cas9 screening.
+
+
+Atypical Teratoid/Rhabdoid Tumors are rare, highly aggressive, paediatric
+tumours with a dismal prognosis. Rhabdoid Tumours (RT) have one key
+genetic defect (biallelic inactivation of SMARCB1 in > 90% of patients)
+which, when re-expressed in RT cells, causes differentiation and growth
+arrest. We used whole genome CRISPR (clustered regularly interspaced
+short palindromic repeats)/Cas9 screening; a technique by which mutations
+are created systematically in each gene in the genome - to identify novel
+SMARCB1-dependent therapeutic targets and synthetic lethal relationships
+in RT.
+
+A panel of RT cell lines were transduced with a GeCKO (Genome Scale
+CRISPR Knock-Out) library which contains 122,441 guide constructs
+targeting 19,050 genes and 1,864 miRNAs; each cell contained a single
+CRISPR insert. This panel was further transduced with a SMARCB1
+expression lentivirus or an empty vector control, cells were collected at
+0, 7 and14 days post infection (300x library coverage, 3.7 x 107 cells
+per time point).
+
+CRISPR inserts were sequenced, counted, normalized and analyzed to
+identify those whose abundance was significantly altered, representing
+candidate gene targets which promote or inhibit RT cell growth/viability
+in a SMARCB1-dependent manner. CRISPR hits were further cross-validated
+with primary patient and functional model genomic data
+(RNA-sequencing/450k DNA methylation array) to identify several high
+confidence deleterious events with strong SMARCB1 dependency.
+
+Hundreds of significantly enriched (both positively and negatively) genes
+were identified which alter when SMARCB1 is present or absent including
+MYC family targets, cell cycle targets, SHH pathway and the Aurora kinase
+family. TGFβ was identified as a top upstream SMARCB1/methylation
+dependent regulator and when SMARCB1 re-expression data was overlaid onto
+the TGFβ canonical pathway showed a convincing enrichment in pathway
+regulation. Pathway members SMAD 2/3 showed a ‘synthetic lethal’
+phenotype and represent a functional SMARCB1-dependent relationship which
+is also observed in SMARCB1 re-expression and methylation model data and
+is characteristic of primary RT. This phenotype was validated
+functionally by expression of a dominant negative TGFBR2.
+
+Combining RNA-sequencing and 450K DNA methylation microarray data from
+primary tumours and experimental models, coupled with whole-genome
+functional screening, provides a genome-wide view of key RT tumorigenic
+genes/pathways and their SMARCB1 dependence. These data suggest synthetic
+lethal phenotypes and enable prioritisation of true SMARCB1-dependent
+events and therapeutic targets, in this rare yet lethal paediatric tumour.
+
+

@@ -1,0 +1,26 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Paired-end RNA-sequencing reveals novel fusion genes and SNVs in
+osteosarcoma
+
+
+Osteosarcoma is an aggressive cancer of bone, which typically occurs
+during adolescence. The genetic hallmark of osteosarcoma is the presence
+of extensive and complex genomic rearrangements. However, few consistent
+aberrations have been identified, hampering the development of targeted
+therapy for osteosarcoma. Next generation RNA-sequencing (RNA-seq) is a
+powerful tool for comprehensive characterization of whole transcriptome,
+with the unique ability of identifying novel fusion genes. We applied
+paired-end RNA-seq to explore the transcriptome of 16 human OS cell lines
+and primary osteoblasts from two healthy individuals. On average, about
+21.6 million sequencing reads and 10.6 million aligned reads were
+obtained for each sample. Several thousand SNVs (single nucleotide
+variants) that have not been reported in the dbSNP database were
+identified. Bioinformatic analysis identified several fusion genes (e.g.
+PAFAH1B2-FOXR1and FAM119B-TSFM), which involved both known cancer related
+genes as well as genes previously unrelated to cancer. Fusion transcripts
+were validated using RT-PCR, Western blot and capillary sequencing. These
+rearrangements tended to occur at copy number transitions on the partner
+chromosome regions. Our findings have the potential to provide important
+insights into osteosarcoma biology, and potential translational
+applications for diagnostic and therapeutic development.
+

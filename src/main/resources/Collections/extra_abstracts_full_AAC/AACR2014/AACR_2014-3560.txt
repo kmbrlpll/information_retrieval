@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Genome and RNA sequencing identifies fusion transcripts in bladder
+cancer
+
+
+Urothelial cell carcinoma of the bladder (UCC) is a common malignancy
+with the highest prevalence rates found in Europe and United States where
+it rate as the fifth and fourth most common malignancy respectively.
+Bladder cancer is divided into two clinically divergent groups,
+non-muscle invasive (NMIBC) and muscle invasive bladder tumors (MIBC)
+accounting at diagnosis for 75% and 25% respectively and necessitates
+very different treatments. NMIBC have recurrence rate of 50-70% and often
+requires lifelong surveillance, however the prognosis is relatively good.
+In contrast MIBC often progresses and develop systemic disease. The aim
+of this study was to identify genomic rearrangements producing fusion
+transcripts in bladder cancer. Translocations in coding regions are known
+to be associated with malignancy. Especially in liquid tumors
+translocations are frequent; however the increased throughput in
+sequencing now identifies translocation associated with many solid
+tumors. In this study we used next generation sequencing to annotate
+genomic rearrangements in paired bladder cancer tumors (>90% tumor cells)
+presenting as Ta tumors and progressed to T1 or T2. Tumors were sequenced
+to 40-50x whole genome read depth (blood to >50x) and 65 million paired
+end reads of whole transcriptome RNAseq. Combining DNA and RNAseq,
+genomic rearrangements leading to expressed fusion transcript were
+identified (nFUSE, McPherson AW et. al. Genome Res. 2012 Jun 28).
+Approximately 25% of the predicted fusions could be validated using
+Sanger sequencing of cDNA. Importantly more than 80% of the fusions were
+only present in one of the paired tumors and primarily in the advanced
+tumor.Most of the fusions were out of frame and created truncated
+proteins. Two examples are truncation of metastasis suppressor 1 (MTSS1)
+and polymerase beta (POLB) both frequently mutated in cancer. As an
+interesting example of in frame fusions we found CTNNBL1
+(Beta-Catenin-Like Protein 1) to be fused to FAM110A (family with
+sequence similarity 110, member A). Importantly the fusion places the
+promoter of CTNNBL1 in front of FAM110A and because the reading frame is
+preserved it is likely that both the start codon of CTNNBL1 and FAM110A
+can serve as translation start giving rise to nearly identical proteins.
+Furthermore, expression analysis showed significant increase of FAM110A
+expression in the affected tumor pair sample. Little is known about the
+FAM110 gene family, however they are shown to localizes to centrosomes
+and spindle poles and could potentially play an essential role in
+chromosome segregation and thereby cancer development. All sequencing was
+performed on the Illumina HiSeq platform.
+

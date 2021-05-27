@@ -1,0 +1,38 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Modes of metastasis evolution in human and murine cancer revealed
+by whole exome sequencing
+
+
+Despite that fact that 90% of cancer deaths are due to metastasis,
+relatively little is known about how metastases evolve from primary
+cancers. We subjected 101 trios consisting of primary tumor, brain
+metastasis, and normal reference tissue to whole exome sequencing (WES).
+To analyze the data, we developed novel computational tools to derive
+high quality allelic copy-number profiles directly from the WES data.
+These were used to perform an integrative analysis of somatic copy-number
+alterations (SCNAs) and somatic single nucleotide variants (SSNVs). This
+analysis allowed us to estimate the clonal architecture of the primary
+and metastatic samples from each patient, and to reconstruct a single
+phylogenetic tree relating all of the subclones detected in both
+samples.We determined that all of the matched metastases analyzed likely
+formed from a single clone. In all cases, we observed a sibling
+relationship between the metastasis and primary tumor samples, indicating
+that they share a common ancestor, but ongoing evolution in the primary
+tumor resulted in fully clonal mutations in the primary biopsy that were
+not present in the metastasis sample. An important corollary of this is
+that in no case was a metastasis-founding subclone detected in a primary
+tumor sample. Using mutational spectra associated with tobacco exposure
+in lung cancers, we determined that most of the evolution leading up to
+the brain metastasis like occurred within the lung.In contrast with these
+findings, analysis of related primary tumor and metastasis families in a
+mouse model of small cell lung cancer using identical methodology
+revealed evidence of more variable patterns of metastatic spread.
+Analysis of draining lymph nodes revealed that multiple subclones of the
+primary contributed to these metastases. In addition, we uncovered
+evidence for the sequential spread of metastases, consistent with
+multiregion sequencing of primary and metastatic human pancreatic cancer.
+The extension of this finding to a mouse cancer model suggests this may
+be a more frequent feature of cancer metastasis, and raises the
+possibility of genetically dissecting these processes in this
+experimental system.
+

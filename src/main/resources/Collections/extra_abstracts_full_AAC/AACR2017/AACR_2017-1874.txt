@@ -1,0 +1,60 @@
+Meeting: 2017 AACR Annual Meeting
+Title: First demonstration that hypoxia targeting with radiation improves
+tumor control in a mammal tumor model.
+
+
+For over a century, resistance of radiation to living tissues has been
+associated with hypoxia, a local lack of molecular oxygen, or low pO2.
+The focus of this research has been to validate the hypothesis that has
+been assumed, but not proven over the past century, that radiation
+treatment focused specifically on hypoxic regions of tumors would improve
+tumor curability. This research used Electron Paramagnetic Resonance
+(EPR) imaging to provide absolute pO2 images in volume elements or voxels
+of murine tumors with 1 torr pO2 resolution and 0.7 mm spatial resolution
+in FSa fibrosarcomas in the legs of C3H mice. We define hypoxic regions
+of tumors as those whose image subvolumes or voxels have low pO2, voxels
+less than 10 torr. We have established EPR pO2 imaging as a reliable
+locator of relevant radiobiologically relevant hypoxia. To determine if
+pO2 based dose painting improves tumor cure, we implemented the XRAD225Cx
+system to deliver gantry based x-ray treatments to mouse tumors
+accurately registered with EPR pO2 images. All tumors were pretreated
+with a dose of radiation that had been determined in separate experiments
+to cure 30% of tumors, a TCD30. Conclusive failure to demonstrate a
+difference between treating crude spherical volumes including ~ 85% of
+hypoxic voxels with an additional curative dose compared with treatment
+with shells of radiation avoiding hypoxia (anti-boosts) proved tenets of
+radiation biology: a few surviving hypoxic clonogens cause radiation
+treatment failure. In response, we implemented rapid 3D printing Tungsten
+loaded, highly conformal plastic blocks to compare treating ~100% of
+hypoxic tumor voxels with hypoxia avoidance, treating similar volumes of
+well oxygenated tumor. Only then did we observe significant (pFor over a
+century, resistance of radiation to living tissues has been associated
+with hypoxia, a local lack of molecular oxygen, or low pO2. The focus of
+this research has been to validate the hypothesis that has been assumed,
+but not proven over the past century, that radiation treatment focused
+specifically on hypoxic regions of tumors would improve tumor curability.
+This research used Electron Paramagnetic Resonance (EPR) imaging to
+provide absolute pO2 images in volume elements or voxels of murine tumors
+with 1 torr pO2 resolution and 0.7 mm spatial resolution in FSa
+fibrosarcomas in the legs of C3H mice. We define hypoxic regions of
+tumors as those whose image subvolumes or voxels have low pO2, voxels
+less than 10 torr. We have established EPR pO2 imaging as a reliable
+locator of relevant radiobiologically relevant hypoxia. To determine if
+pO2 based dose painting improves tumor cure, we implemented the XRAD225Cx
+system to deliver gantry based x-ray treatments to mouse tumors
+accurately registered with EPR pO2 images. All tumors were pretreated
+with a dose of radiation that had been determined in separate experiments
+to cure 30% of tumors, a TCD30. Conclusive failure to demonstrate a
+difference between treating crude spherical volumes including ~ 85% of
+hypoxic voxels with an additional curative dose compared with treatment
+with shells of radiation avoiding hypoxia (anti-boosts) proved tenets of
+radiation biology: a few surviving hypoxic clonogens cause radiation
+treatment failure. In response, we implemented rapid 3D printing Tungsten
+loaded, highly conformal plastic blocks to compare treating ~100% of
+hypoxic tumor voxels with hypoxia avoidance, treating similar volumes of
+well oxygenated tumor. Only then did we observe significant (p<0.01)
+tumor control differences between hypoxic boosts and anti-boosts. This is
+the first validation of the curative effectiveness of focusing hypoxia
+based dose painting in mammalian tumors.
+
+

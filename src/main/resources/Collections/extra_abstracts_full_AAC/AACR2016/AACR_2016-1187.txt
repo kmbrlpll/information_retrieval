@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Discovery of new AML and MDS patient subsets sensitive to the
+highly selective RAR agonist SY-1425 (tamibarotene) through
+super-enhancer analysis
+
+
+Super-enhancers (SEs) are large, highly active chromatin regions that
+regulate key cell identity genes including oncogenes in malignant cells.
+Using our gene control platform, we identified SEs genome-wide in 60
+primary AML patient samples to enable the discovery of novel tumor
+vulnerabilities. One of the SEs that showed a highly asymmetric
+distribution amongst patient samples was associated with the gene
+encoding the retinoic acid receptor alpha (RAR). We have discovered that
+the presence of a RARA SE is predictive for response of non- APL AML cell
+lines to the highly selective RAR agonist SY-1425. SY-1425 is a clinical
+stage RAR agonist with improved PK, potency, and selectivity over
+existing pan-retinoic acid agonists.SY-1425 has sub-nanomolar potency on
+RAR, with 200-2000 fold selectivity over other RAR family members.
+SY-1425 treatment of AML cell lines containing a RARA SE results in 0.2-2
+nanomolar EC50 anti-proliferative effects, whereas proliferation of cell
+lines without SEs are not affected. The RARA enhancer level (as measured
+by H3K27ac ChIP-seq) is well correlated with mRNA levels for RAR. Two
+patient derived xenograft models with high RAR mRNA show prolonged
+survival and tumor cell differentiation response to SY-1425, whereas two
+models with low RAR mRNA do not show a treatment effect. In contrast,
+treatment with the non-selective agonist ATRA fails to show a survival
+benefit in a RAR mRNA high model, presumably due to its lower agonist
+activity and its inferior PK.RAR is a nuclear hormone receptor that acts
+as a transcriptional repressor when unliganded and as a transcriptional
+activator when bound by an agonist. SY-1425 treatment of SE containing
+AML cells shows a transcriptional response very similar to retinoid
+treatment of APL cells. Analysis of ex vivo treated primary AML cells as
+well as analysis of bone marrow and blood samples from SY-1425 treated
+patient derived xenograft models support an anti-proliferative and
+differentiation induction effect in cells containing the RARA SE but not
+in cells lacking the RARA SE. In addition to AML, a sub-population of MDS
+patient samples also contain elevated RAR mRNA levels, suggesting the
+potential utility of SY-1425 in this closely related indication.In
+summary, using our gene control platform, we have identified subsets of
+non-APL AML and MDS who may respond to the selective RARa agonist,
+SY-1425. A phase 2 clinical study with SY-1425 is being planned in
+patients identified with a novel biomarker based on these findings.
+

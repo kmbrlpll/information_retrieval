@@ -1,0 +1,44 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Impact of APOBEC mutagenesis on the immune microenvironment of
+lung adenocarcinoma (LUAC)
+
+
+Introduction: It is currently unknown how specific mutational processes
+that sculpt the genome of non-small-cell lung cancer (NSCLC) impact the
+tumor immune micro-environment. APOBEC-mediated cytidine deamination has
+emerged as a major source of somatic mutation across several epithelial
+malignancies, including NSCLC. Among the 11 APOBEC family members,
+APOBEC3B (A3B) is overexpressed in several cancers and has been
+considered the dominant mutator deaminase. However, recent data have also
+implicated APOBEC3A (A3A) as an important contributor to tumor somatic
+hypermutation. In this study, we evaluated the relationship(s) between
+A3B/A3A expression and the immune contexture of LUAC.Methods: Our
+datasets include two large cohorts of chemotherapy-nave, early stage
+LUAC: a) the TCGA collection of 431 LUACs with available RNASeq data and
+b) the PROSPECT dataset of 183 LUACs with available array-based mRNA
+expression data (Illumina platform) and automated IF-based quantitative
+analysis of immune cell sub-populations for 107 tumors included in a
+tissue micro-array (TMA). We have further extended our studies to include
+two datasets of metastatic, platinum-refractory LUACs from the BATTLE-1
+and BATTLE-2 clinical trials of targeted therapy. Finally, we have
+analyzed an in-house panel of 78 comprehensively annotated NSCLC cell
+lines.Results: Expression of A3B correlated significantly with the
+expression of CD274 (PD-L1) in both the TCGA (r = 0.25, P = 1.49e07) and
+PROSPECT (r = 0.168, P = 0.023) cohorts, as well as in our panel of NSCLC
+cell lines (r = 0.283, P = 0.012). The correlation was stronger among
+KRAS-mutant LUACs (r = 0.462, P = 7.64e08, TCGA). Within co-mutation
+defined subgroups of KRAS-mutant LUAC, KP (KRAS;TP53) tumors expressed
+significantly higher levels of A3B mRNA (P = 4.41e08, ANOVA). When data
+were dichotomized into top and bottom tertiles for A3B mRNA expression,
+A3B-high tumors expressed significantly higher levels of CD274 mRNA in
+both the TCGA (P = 3.32e08, t-test) and PROSPECT (P = 0.0096, t-test)
+cohorts. Importantly, A3B-high tumors displayed increased density of
+intra-tumoral CD8+ T-lymphocytes (P = 0.03, Mann-Whitney test). Analysis
+of chemo-refractory tumors from the BATTLE trials and assessment of the
+impact of the A3B deletion polymorphism are underway and updated results
+will be presented at the meeting.Conclusions: Elevated expression of A3B
+is associated with a hot tumor immune micro-environment with engagement
+of PD-1/PD-L1 axis immune checkpoints. Distinct mutagenic processes may
+shape the tumor immune microenvironment and present opportunities for
+targeted intervention with immunotherapy.
+

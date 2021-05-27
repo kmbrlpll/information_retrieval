@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Novel somatic mutations in the DNA-binding and coiled-coil domain
+of the STAT3 gene in LGL-leukemia
+
+
+IntroductionT-cell large granular lymphocyte (T-LGL) leukemia is a rare,
+clonal disease characterized by the expansion of CD8+ cytotoxic T-cells.
+We recently discovered that 40% of T-LGL leukemia patients have somatic
+mutations in the SH2-domain of the STAT3 gene (Koskela et al. NEJM 2012).
+As aberrant STAT3 activation can be observed in all patients with
+LGL-leukemia, we now aimed to discover whether patients without mutations
+in the STAT3 hotspot area harbor mutations in the other parts of the
+STAT3 gene.MethodsTargeted STAT3 sequencing covering all 23 coding exons
+was done with in-house developed deep amplicon sequencing panel using the
+Illumina Miseq platform. The data was analyzed with a bioinformatics
+pipeline, which is based on calling of variants with specific
+counts/frequencies and filtering out false positives using the estimated
+error rate and quality data of amplicon reads. All samples with a
+frequency ratio 0.9 were considered to be true mutations after filtering
+of SNPs and low coverage variants. 111 LGL-leukemia patients with no
+known STAT3-mutations in the SH2 domain were analyzed.To explore the
+functional effects of mutations, expression constructs were generated
+with the identified variants and wild-type STAT3. The variants were
+expressed in HEK-293 cells carrying a STAT3-responsive SIE-reporter
+driven luciferase expression sequence to establish increased basal and
+IL6-stimulated STAT3 activity.ResultsWith targeted amplicon sequencing, 3
+patients were discovered to have STAT3 missense mutations in the
+DNA-binding domain. Two patients presented with the same H410R mutation
+with a variant allele frequency (VAF) of 49% and 8.8% respectively while
+another patient had a S381Y mutation (VAF 7%). The mutation H410R occurs
+in the DNA-binding domain in a highly conserved position, and results in
+conversion of histidine to arginine, which would predict for a slight
+increase in hydrophilicity.In addition to STAT3 DNA-binding domain
+mutations, one T-LGL patient had a novel F174S mutation in the
+coiled-coil domain of STAT3 (VAF 43%). The coiled-coil domain of STAT3
+has previously been shown to be essential in SH2-domain mediated receptor
+binding and subsequent activation.Luciferase measurements of SIE-reporter
+HEK-293 cells transfected with constructs expressing either wild-type,
+variant F174S, H410R or Y640F STAT3 (the most common activating mutation
+in LGL leukemia) revealed the F174S and H410R variants to be as
+activating as the Y640F mutation in both unstimulated and IL-6 stimulated
+conditions.ConclusionsT-LGL leukemia patients without STAT3 SH2-domain
+mutations harbor novel activating mutations in the DNA-binding and
+coiled-coil domain of STAT3. The frequency of mutations was 3.6% (4 of
+111 patients). These findings further highlight the importance of
+screening the whole STAT3 gene in the diagnostic workup of LGL-leukemia
+and the central role of STAT3 in the pathogenesis of the disease.
+

@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Exosome-mediated transfer of miR-183-5p from tumor cells to
+macrophages contributes to regulate TAMs phenotypes and promote tumor
+progression and metastasis.
+
+
+Tumor-associated macrophages (TAMs) perform supportive roles in promoting
+tumor progression and metastasis. In tumor microenvironment, the
+phenotypes of TAMs are regulated by a variety of factors, such as
+cytokines, ligends and products of metabolism. Recently, Exosome-mediated
+transfer of miRNAs is proved to be a significant way for intercellular
+communications. Whether exosomal miRNAs derived from tumor cells
+contribute to TAMs’ phenotypes remains unclear. In this study, we aim
+to identify the miRNAs in exosomes transferred from tumor cells to
+macrophages and explore how these miRNAs regulate the TAMs phenotypes. In
+the beginning we transferred CY3-labled miRNA NC to 4T1 mouse breast
+cancer cells and then co-cultured with bone marrow-derived macrophages
+(BMDMs). The CY3 fluorescence could be observed in BMDMs after 48 hour,
+suggesting that miRNAs could be transferred from tumor cells to
+macrophages. Next, we performed miRNAs sequencing in either BMDM or
+exosomes derived from 4T1 cancer cells. We analyzed and compared the
+miRNAseq data by bio- informatics and found that there were 30 of the
+most abundant miRNAs in 4T1 exosomes, and nearly all of which were rich
+in BMDMs. However, it was found interestingly that miR-183-5p was
+extremely low in BMDMs. Furthermore, we treated BMDMs with exosomes
+isolated form 4T1 cell conditioned medium, and then we found importantly
+the miR-183-5p in BMDMs was increased significantly, while cultured with
+exosome-depleted 4T1 conditioned medium, the expression of miR-183-5p in
+BMDMs was not changed. Meanwhile, we isolated TAMs from 4T1 mouse breast
+tumor while spleen macrophages from normal mouse as a control. The
+expression of miR-183-5p in TAMs was much higher than that in spleen
+macrophages. Moreover, it was determined that expression of
+pro-inflammatory cytokine TNF and IL-6 in BMDM were increased
+significantly in BMDMs treated with 4T1-derived exosomes.
+Correspondingly, transferred miR-183-5p mimic into BMDMs, the expression
+of TNF and IL-6 were also increased. Finally we co-cultured 4T1 cells
+with BMDMs transferred with miR-183-5p, and the migration and invasion of
+4T1 cells were significantly enhanced. Taken together, our study
+demonstrate that miR-183-5p that high expression in 4T1 exosomes can
+transferred into macrophages to regulated their phenotypes and promote
+tumor progression and metastasis in breast tumor microenvironment.
+
+

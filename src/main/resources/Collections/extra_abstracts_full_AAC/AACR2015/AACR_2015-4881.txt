@@ -1,0 +1,39 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Analysis of long-noncoding RNA interaction at chromatin by
+chromatin isolation by RNA purification (ChIRP)
+
+
+Gene regulation plays a critical role during development and progression
+of Cancer. While the regulation of gene expression by transcription
+factors and epigenetic influences has been well studied over time,
+pervasive genomic transcription and the role of non-coding RNAs in this
+process is a rapidly evolving field that remains to be thoroughly
+explored.Chromatin Isolation by RNA Purification (ChIRP) is one of the
+methods, which allows discovery of the sites of interaction of
+chromatin-associated RNAs (e.g. lncRNAs) with genomic DNA sequences by
+using probe-based hybridization to target RNA molecules in chromatin. To
+perform ChIRP multiple biotinylated oligonucleotide probes complementary
+to the RNA of interest are used. To help eliminate non-specific signals
+two different pools of probes are used (even and odd probe sets). These
+probe sets are combined with chromatin and hybridized to the
+chromatin-associated RNA. Complexes containing biotinylated-probes bound
+to the chromatin-associated RNA are then isolated using streptavidin
+magnetic beads. DNA can then be recovered and analyzed by quantitative
+PCR or next generation sequencing (ChIRP-seq). Alternatively, RNA may
+also be isolated from an aliquot of the recovered chromatin to detect
+other RNA molecules that may be associated with the RNA of interest.To
+enable the exploration of these RNA interactions in chromatin regulation,
+we have optimized the methods and developed ChIRP reagents. Using these
+reagents ChIRP experiments can be performed with reliable recovery of
+chromatin using lncRNA or other chromatin associated RNA as targets.
+Additionally, negative and positive control probe sets, and detection
+primers were developed to ensure first time success. We have performed
+ChIRP experiments with a HeLa cell lysate and capture oligos for the
+NEAT1 lncRNA. Isolated DNA was subjected to NGS library construction and
+sequenced on an Illumina HiSeq instrument. Sequences were aligned to the
+reference genome (hg19). The peaks were called separately for odd and
+even reactions, and only common peaks were selected. We successfully
+identified several NEAT1 binding sites in the genomic DNA sequence.In
+summary the methods developed allow unbiased discovery of RNA-associated
+genomic DNA sequences, RNA sequences, and potentially proteins.
+

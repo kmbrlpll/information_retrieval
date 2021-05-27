@@ -1,0 +1,49 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Rapamycin can overcome ABT-737 resistance in patient-derived SCLC
+xenograft models.
+
+
+Small cell lung cancer (SCLC) is an aggressive form of lung cancer with
+one of the highest case fatality rates among cancers. Standard therapy
+for SCLC has not changed in nearly 30 years and despite high initial
+response rates, treatment-refractory recurrence is nearly universal.
+Overexpression of the anti-apoptotic protein, Bcl-2, is observed in the
+majority of SCLC cases and is associated with therapy resistance. We have
+previously shown that the small molecule BH3 mimetic, ABT-737, is
+cytotoxic against Bcl-2 expressing SCLC cell lines in vitro and causes
+dramatic tumor regressions in SCLC cell line-based xenografts in vivo
+(Hann et al., Can Res 2008). We have also assessed the activity of
+ABT-737 in patient-derived (PD) SCLC xenografts; a model we believe
+better reflects patient tumor biology (Daniel et al., Can Res 2009). In
+PD SCLC xenografts that express high levels of Bcl-2, we found that
+treatment with ABT-737 caused tumor growth inhibition (TGI) but without
+any regressions. Our results in PD xenografts mirrored the activity seen
+clinically with ABT-263, an orally bioavailable form of ABT-737. In early
+phase trials, ABT-263 had limited single-agent activity in patients with
+recurrent SCLC (Rudin et al., Clin Can Res 2012).To identify factors that
+contribute to ABT-737 resistance we compared the gene expression profiles
+of PD SCLC xenografts after treatment with ABT-737 to treatment-nave
+tumors. We then used the Connectivity Map database to identify compounds
+that could potentially overcome ABT-737 resistance by inducing gene
+expression changes inverse to those observed in ABT-737 resistant
+xenografts. The top candidates from our query included inhibitors of the
+PI3K/mTOR axis. mTOR plays a key role in the hypoxic response through
+positive regulation of HIF1 and its downstream targets; this pathway was
+one of the most enriched gene expression profiles in our ABT-737
+resistant xenografts.We assessed the combination of ABT-737 and the mTOR
+inhibitor, rapamycin, in two PD SCLC xenografts. We found that
+combination treatment was well-tolerated and resulted in rapid tumor
+regression in mice. This response was durable; after treatment
+discontinuation, the combination-treated tumors remained too small to
+measure for over 30 days. In contrast, treatment with either ABT-737 or
+rapamycin alone caused TGI but no tumor regressions. Furthermore,
+combination treatment of animals that had previously received either
+single agent also resulted in tumor regression, suggesting that
+resistance to combination therapy did not develop after exposure to
+either single agent in the acute setting. Correlative studies of the mTOR
+and HIF1 pathways on our models and efficacy studies in additional PD
+SCLC xenografts are currently underway. As the safety of ABT-263 has been
+determined in early phase clinical trials and several FDA-approved mTOR
+inhibitors are currently available, this treatment paradigm may have
+clinical applicability.
+

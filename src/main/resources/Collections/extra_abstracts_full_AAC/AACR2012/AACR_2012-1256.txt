@@ -1,0 +1,36 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Profiling protein-coding RNA and thousands of large non-coding
+RNAs from nanogram amounts of total RNA using a single microarray design
+
+
+Large intergenic non-coding RNAs (lincRNAs) are emerging as key
+regulators of diverse cellular processes, yet determining the function of
+individual lincRNAs remains challenging. Recently, more than 8,000 human
+lincRNAs were annotated and cataloged from more than 4 billion RNA-Seq
+reads across 24 tissues and cell types by scientists at the Broad
+Institute of MIT and Harvard. Data from this project indicates that
+lincRNA expression is highly tissue-specific as compared to protein
+coding gene expression. As researchers continue to investigate the
+function of lincRNAs, there is a need for tools that can rapidly and
+accurately measure the expression of the recently annotated lincRNAs
+along with mRNA expression. We have previously developed and recently
+updated the content of the human SurePrint G3 microarrays so that they
+are comprised of all known protein-coding mRNAs and lincRNAs, to enable
+systematic profiling and simultaneous detection of coding and non-coding
+gene expression from a single sample. To demonstrate the utility of the
+new microarray design we used low nanogram amounts RNA from matched tumor
+and adjacent normal tissues to produce cyanine-labeled cRNA. The labeled
+cRNA was applied to the microarrays to detect differences in coding and
+non-coding gene expression profiles. Using the GeneSpring GX software we
+are able to identify differentially expressed lincRNAs and protein-coding
+RNAs in the tumor and normal samples in less than two days. Comparisons
+of probe signals from technical replicate samples demonstrated high
+reproducibility with wide dynamic ranges and high sensitivity. Data from
+the microarrays correlates well with whole transcriptome sequencing of
+the same matched tumor/normal samples. Using this approach we show that
+lincRNA expression coincides with key genes known to regulate biological
+processes involved in cancer progression and this work demonstrates how
+profiling mRNA and lincRNA from matched tumor and adjacent normal samples
+can enable researchers to further define the role of lincRNAs in gene
+regulation.
+

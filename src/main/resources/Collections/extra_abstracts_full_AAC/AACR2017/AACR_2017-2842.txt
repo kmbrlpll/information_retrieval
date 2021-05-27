@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Dissecting the transcriptional profiles of metastatic and primary
+disease across cancer types.
+
+
+Cancer metastasis is the principal cause of death in individuals with
+cancer; nevertheless, the molecular basis of metastases is poorly
+understood. Genetic and epigenetic changes in malignant cells and their
+interaction with the tumor microenvironment are presumably key events in
+the establishment of metastases. In this study, we pursue to provide
+insights into potential importance of various fundamental cancer-related
+pathways in the metastatic process. We have performed a pathway - based
+analysis on mRNA expression data (Agilent 8X60K array) from colorectal
+liver metastases (CLM; N = 38 patients, n = 44 metastases), breast
+lymph-node metastases (BCM; N = n = 43) and melanoma lymph-node
+metastases (MLM; N = n= 44). For each of the 186 pathways in the KEGG
+pathway database, each sample is represented as points in a ‘n’
+dimensional space according to their gene expression values, where
+‘n’ is the number of genes in the pathway. We first calculated
+centroids for each of the three metastases types (CLM, BCM and MLM) and
+then calculated the Euclidean distance between centroids to get a measure
+of how similar or different each cancer type is for that particular
+pathway. The findings were compared to the corresponding primary cancer
+types and normal tissue available from TCGA to uncover biological
+processes specific to metastases. The pathways were functionally
+classified into genetic information processing, cellular processes,
+environmental information processing and metabolic pathways as per KEGG
+database. Across metastases from different cancer types, pathways
+involved in genetic information processing (e.g. translation,
+transcription, protein folding and degradation, DNA replication and
+repair) and metabolic pathways were more similar than the pathways
+involved in cellular processes (e.g. cell-cycle, apoptosis, adherence
+junction), and signal transduction pathways (e.g. Notch, MTOR, JAK STAT)
+responsible for environmental information processing. The genetic
+information processing pathways were more similar across cancer types
+also in the primary setting than the pathways involved in cellular and
+environmental information processing, whereas the metabolic pathways were
+more similar across cancer types in the metastatic setting compared to
+the primary setting. Preliminary findings suggest that the basic
+molecular architecture of the primary tumors is maintained, except for
+the metabolic pathways, which become more similar in the metastatic
+setting; and hence may be a common denominator across cancer types during
+metastatic process.
+
+

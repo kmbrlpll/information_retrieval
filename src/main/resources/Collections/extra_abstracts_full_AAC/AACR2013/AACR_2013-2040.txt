@@ -1,0 +1,39 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Indication switching of the FDA-approved anticancer tyrosine
+kinase inhibitors to treat metabolic diseases.
+
+
+Drug switching is a unique way to identify and extend new indications for
+approved drugs in drug discovery & development. Tyrosine kinase
+inhibitors (TKIs) are used in biologically targeted cancer therapy and so
+far 12 TKIs have been approved by FDA. We hypothesize that these TKIs act
+on other molecular targets in addition to tyrosine kinases and may manage
+metabolic diseases given that there is a complex network of kinases that
+work together to regulate a number of important cellular processes.
+Employing a comprehensive docking method with our established
+chemical-protein interactome (CPI) and 11 FDA-approved TKIs, we have
+discovered301 PDB-deposited proteins corresponding to 353 ligand binding
+pockets among a total of 1,780 PDB-deposited human protein entries.
+Notably, sorafenib, dasatinib and crizotinib had a CPI binding score
+(ZZ_score) of -1.2903, -1.0278 and -1.5384 against histone deacetylase
+7A, respectively. In addition, those TKIs achieved high ZZ scores against
+B-Raf, PPAR and VDR, suggesting a high binding affinity of sorafenib,
+dasatinib and crizotinib with these proteins. Our preliminary studies
+have showed that the acetylated-lysine in -tublin and oncogenic Akt and
+Raf-signaling was inhibited significantly in human multiple melanoma
+cells by these TKIs. Interestingly, dasatinib increased VDRE and HDLR
+luciferase reporter activity in the human lung adenocarcinoma A-549
+cells, and dasatinib and crizotinib induced autophage by activated LC3 in
+vitro. Furthermore, the erlotinib and sorafenib decreased glucose levels
+in Wistar STZ-D rats. These TKIs are predicted to act on a series of
+therapeutics targets associated with metabolic diseases (such as PPAR and
+Sirt1). Collectively, FDA-approved TKIs may be switched to become a magic
+bullet concurrently targeting tyrosine kinase, HDAC, PPAR, VDR and B-Raf,
+shedding a light for future anti-metabolic disorder and anticancer drug
+discovery & development. Further validation of additional hot targets
+besides tyrosine kinase such as HDAC, B-Raf, PPAR, Sirt1, Akt and VDR,
+and in vivo evaluation of anti-metabolic disorder by TKIs are undergoing
+at our laboratory. These findings suggest that drug switching may
+represent a new and effective approach to expanding the application of
+existing drugs.
+

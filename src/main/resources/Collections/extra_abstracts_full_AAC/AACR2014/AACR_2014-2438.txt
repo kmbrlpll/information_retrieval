@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Defining the role of mutant isocitrate dehydrogenase in malignant
+glioma
+
+
+Mutations in the metabolic enzyme isocitrate dehydrogenase (IDH) were
+recently found in 80% of WHO grade II-IV gliomas. These mutations inhibit
+the enzyme's ability to convert isocitrate to -ketoglutarate and,
+instead, confer a novel gain-of-function resulting in the conversion of
+-ketoglutarate to 2-hydroxglutarate. However, the fundamental
+mechanism(s) by which these mutations affect glioma cell growth remain
+unclear. IDH1 and 2 function as homodimers in the cytosol and
+mitochondria, respectively. Dimerization is mediated by interactions
+between the two clasp domains of each IDH protein and dimeric IDH
+contains two active sites each composed of amino acid residues from both
+subunits. Thus, the dimerization of IDH is vital for its enzymatic role
+within the cell. Interestingly, IDH mutations have been observed as
+heterozygous events in glioma cells suggesting that the cells require the
+wild-type IDH protein in order to function. To examine and visualize the
+interaction between wild-type and mutant IDH proteins, we employed the
+protein-protein interaction assay: Bimolecular Fluorescence
+Complementation (BiFC). This approach is based on the formation of a
+fluorescent complex though the association of two fragments of a
+fluorescent reporter protein fused to two proteins of interest. An
+interaction between the proteins facilitates association between the two
+fragments to produce a bimolecular fluorescent complex. Since IDH1 has a
+C-terminal peroxisomal targeting sequence, the N-terminal 172 amino acid
+residues of Venus (VN) were fused to the N-terminus of wild-type IDH1 and
+residues 155-238 amino acids of Venus (VC) were fused to the N-terminus
+of mutant IDH1. IDH2, however, has an N-terminal mitochondrial targeting
+sequence and thus the N-terminal and C-terminal fragments of Venus were
+fused to the C-terminus of wild-type and mutant IDH2, respectively. 293FT
+cells were transfected with each fluorescent reporter construct and
+counterstained with nuclear and cytosolic markers to confirm complex
+formation and cellular localization. Approximately 60% of the cells
+showed evidence of IDH complex formation. We confirmed localization to
+the cytosol/peroxisomes and mitochondria for wild-type and mutant IDH1
+and IDH2 heterodimers, respectively, and observed that, in the case of
+IDH1, wild-type and mutant heterodimers demonstrate physiologically
+normal activity compared to inactive mutant IDH1 homodimers. Conversely,
+we observed no significant difference between wild-type and mutant IDH2
+heterodimers when compared to mutant IDH2 homodimers. This data suggests
+that mutant IDH1 requires wild-type IDH1 in order to be enzymatically
+active while mutant IDH2 does not require wild-type IDH2. To determine
+the effect of wildtype and mutant IDH heterodimer formation on glioma
+cell growth, we plan to assess the tumorigenic potential of IDH1
+heterodimers either alone or in concert with other known glioma genetic
+abnormalities in vivo.
+

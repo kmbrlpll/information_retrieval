@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: TGF- and TNF- activate gene transcription programs associated with
+poor breast cancer prognosis
+
+
+Background: Tumor Growth Factor- (TGF-) and Tumor Necrosis Factor- (TNF-)
+are cytokines, which induce the local inflammation and contribute to
+tumor invasion and metastasis. Recent reports show that TGF- and TNF-
+induce epithelial-to-mesenchymal transition (EMT) in both non-cancer and
+cancer cells. EMT is a cellular program, through which cancer cells
+transform from epithelial to mesenchymal phenotype. It is known that EMT
+induces cancer stem cell (CSC), which is a main culprit in tumor
+progression. However, it is not well understand what molecular signature
+drives EMT and CSC induction in the downstream of TGF- and TNF-. We
+hypothesize that TGF- and TNF- promote tumor progression and contribute
+to poor cancer prognosis. The objective of this study is to identify the
+downstream gene signature of TGF- and TNF- stimulation, which allows us
+to predict poor cancer prognosis. Methods and Results: We previously
+established in vitro EMT model, in which we stimulated ARPE-19 retinal
+epithelial cells with TGF- and TNF- and observed cellular focuses and
+fibronectin buildups, hallmarks of in vitro EMT (J Bio Chem 2010). We
+analyzed microarray transcription profiles of EMT progression at
+different time points (0, 1, 6, 16, 24, 48, 60 hours). To quantify the
+likeliness of EMT and CSC, we analyzed EMT and CSC gene scores of the EMT
+progression by correlation analysis (PNAS 2009). We observed that EMT
+gene score reached the highest at 16 hours and followed by elevations of
+CSC gene score, suggesting a dynamic change of gene signature that drives
+the progression from triggering EMT to inducing CSC by TGF- and TNF-. In
+order to determine which time point of EMT timeframe is more
+representative for poor cancer prognosis, the transcriptional profile at
+each time point was compared with the one at 0 hour using t-test and the
+differentially expressed genes (p 2) were used for further analysis. The
+expression pattern of each time point was compared with each cancer
+patient from two breast cancer data sets (Mainz and Transbig) and was
+used to predict patient prognosis. We discovered that the gene signature
+at 6-hour (early phase of EMT) was the only predictable signature for the
+poor prognosis of primary breast cancer patients (logrank p-value of
+0.045), with a 5-year distance metastasis free (DMF) survival rate of
+0.77 vs. 0.94, and a hazard ratio of 1.49. The same gene signature also
+predicts poor prognosis in ER-positive primary breast cancer patients
+(p-value = 0.028, hazard ratio = 1.74). We further performed Ingenuity
+Pathway Analysis using 6-hour gene signature and observed that interferon
+response and NF- pathway activation were the top ranked pathways.
+Conclusion: Using time-course transcriptional profiles stimulated by TGF-
+and TNF-, we discovered gene signature that precedes EMT and CSC
+induction, represented by NF- pathway. This signature was significant in
+predicting prognosis of breast cancer patients.
+

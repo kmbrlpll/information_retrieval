@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Rare genetic variation association with neurotoxicity and
+infection in breast cancer patients enrolled in PG-SNPS
+
+
+The genetic architecture underlying individual variation in
+susceptibility to severe toxicity to chemotherapeutic agents is not yet
+fully understood. We used a gene-based omnibus test to investigate the
+role of rare genetic variation in severe neurosensory toxicity and
+infection. Samples from a breast cancer pharmacogenetics study (PG-SNPS),
+were genotyped using the Illumina Human Exome Beadchip array. Early
+breast cancer patients treated with adjuvant and neo-adjuvant
+chemotherapy trials were recruited into PG-SNPS. Clinical data relating
+to their chemotherapy-related toxicities was collected prospectively. The
+National Cancer Institute Common Toxicity Criteria (NCI CTC version 2)
+was used to assess toxicities. For each of the toxicities, a case-control
+analysis was conducted using the Rare Admixture Maximum Likelihood
+method(1). RAML is an omnibus test that looks at joint effects of
+multiple variants on a phenotype. The test considers the probability that
+a given variant is associated with severe toxicity, the average effect of
+the associated variants within a gene on severe toxicity, and the
+expected standard error of this effect. Patients were considered as
+taxane-related neurosensory cases, if they had a CTC grade of 2 and as
+infection cases if they have a CTC grade of 3. For both analyses variants
+with minor allele frequency less than 2% were included. Only patients
+treated with paclitaxel were included in the neurosensory analysis. In
+this analysis we included 1,127 patients, 333 of which were considered
+cases. We tested variants in 14,762 genes exome-wide. The gene LRRTM3 was
+associated with severe neurosensory toxicity (p-value=5.5 x 10-4). LRRTM3
+is a protein-coding gene with strong links to the maintenance and
+development of the nervous system. Patients exposed to specific
+adjuvant/neo-adjuvant breast cancer combination chemotherapy regimens
+with paclitaxel, epirubicin, methotrexate, cyclophosphamide,
+5fluorouracil or gemcitabine, were included in the infection analysis
+(2,3,4). These included 1,564 patients, 583 of which were considered
+cases. We tested 15,161 genes exome-wide for association with severe
+infection. The top associated gene was FKBP5 with a p-value of 7 x 10-5.
+This gene has a role in immunoregulation and encodes a protein which
+binds to the immunosuppressants FK506 and rapamycin. These genes may be
+of future interest as candidate genes within pharmacodynamic pathways.1.
+Tyrer JP, Guo Q, Easton DF, Pharoah PD. The admixture maximum likelihood
+test to test for association between rare variants and disease
+phenotypes. BMC Bioinformatics 2013;14:177.2. NEAT trial -
+ClinicalTrials.gov Identifier NCT000035773. tAnGo trial -
+ClinicalTrials.gov Identifier NCT000395464. Neo-tAnGo trial -
+ClinicalTrials.gov Identifier NCT00070278
+

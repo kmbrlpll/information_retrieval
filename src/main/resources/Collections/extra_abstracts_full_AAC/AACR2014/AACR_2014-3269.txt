@@ -1,0 +1,105 @@
+Meeting: 2014 AACR Annual Meeting
+Title: QTLs in breast tumor and breast normal adjacent FFPE specimens
+from the Nurses Health Study
+
+
+Rationale: Genome-wide association studies (GWAS) of breast cancer have
+identified 71 risk alleles, majority of which are located in intergenic
+or intronic regions. We used a network medicine approach to associate
+breast cancer risk single nucleotide polymorphisms (SNPs) with transcript
+abundance in formalin fixed paraffin embedded (FFPE) breast tissue.
+Identification of expression quantitative loci (eQTLs) may help to better
+understand the regulatory mechanisms by which these risk variants
+influence breast cancer susceptibility.Method: We identified invasive
+postmenopausal breast cancer cases in the Nurses Health Study (NHS)
+diagnosed from 1990-2004 with GWAS data and sufficient RNA for expression
+profiling in breast tumor and normal adjacent breast tissue. RNA was
+extracted using the Qiagen AllPrep RNA isolation kit, amplified using the
+NuGen Ovation FFPE WTA kit, and profiled using the Affymetrix Human
+Transcriptome Array (HTA 3.0v1). The HTA includes 6,892,960 features for
+measuring gene expression, alternative splicing, coding SNPs, and
+noncoding transcripts. After filtering and removing probes with a low
+dynamic range in our samples, we included 25,000 gene expression probes
+in our QTL analyses. We mapped these probes to genes using hg19.Results:
+Analyses were conducted separately for 376 breast tumor and 274 normal
+adjacent samples. We conducted quality control analyses, corrected for
+assay plate-to-plate variation and included patient's age at diagnosis
+and year of diagnosis as covariates in the multivariate linear regression
+model. We identified 11 trans eQTLs in normal adjacent breast tissue, 11
+trans eQTLs in estrogen receptor (ER)+ breast tumor samples, and 12 trans
+eQTLs in ER- breast tumor samples (permutation adjusted p-valueRationale:
+Genome-wide association studies (GWAS) of breast cancer have identified
+71 risk alleles, majority of which are located in intergenic or intronic
+regions. We used a network medicine approach to associate breast cancer
+risk single nucleotide polymorphisms (SNPs) with transcript abundance in
+formalin fixed paraffin embedded (FFPE) breast tissue. Identification of
+expression quantitative loci (eQTLs) may help to better understand the
+regulatory mechanisms by which these risk variants influence breast
+cancer susceptibility.Method: We identified invasive postmenopausal
+breast cancer cases in the Nurses Health Study (NHS) diagnosed from
+1990-2004 with GWAS data and sufficient RNA for expression profiling in
+breast tumor and normal adjacent breast tissue. RNA was extracted using
+the Qiagen AllPrep RNA isolation kit, amplified using the NuGen Ovation
+FFPE WTA kit, and profiled using the Affymetrix Human Transcriptome Array
+(HTA 3.0v1). The HTA includes 6,892,960 features for measuring gene
+expression, alternative splicing, coding SNPs, and noncoding transcripts.
+After filtering and removing probes with a low dynamic range in our
+samples, we included 25,000 gene expression probes in our QTL analyses.
+We mapped these probes to genes using hg19.Results: Analyses were
+conducted separately for 376 breast tumor and 274 normal adjacent
+samples. We conducted quality control analyses, corrected for assay
+plate-to-plate variation and included patient's age at diagnosis and year
+of diagnosis as covariates in the multivariate linear regression model.
+We identified 11 trans eQTLs in normal adjacent breast tissue, 11 trans
+eQTLs in estrogen receptor (ER)+ breast tumor samples, and 12 trans eQTLs
+in ER- breast tumor samples (permutation adjusted p-value<0.05). We also
+developed a new method, functional quantitative trait loci (fQTL)
+analysis, to gain additional pathway insight into genetic associations
+important in breast cancer. In the fQTL analysis we tested for the
+association between SNPs and the expression of gene functional classes
+and pathways, evaluating the hypothesis that SNPs may also be associated
+with regulation of processes in addition to individual genes. Using a
+cutoff of false discovery rate Rationale: Genome-wide association studies
+(GWAS) of breast cancer have identified 71 risk alleles, majority of
+which are located in intergenic or intronic regions. We used a network
+medicine approach to associate breast cancer risk single nucleotide
+polymorphisms (SNPs) with transcript abundance in formalin fixed paraffin
+embedded (FFPE) breast tissue. Identification of expression quantitative
+loci (eQTLs) may help to better understand the regulatory mechanisms by
+which these risk variants influence breast cancer susceptibility.Method:
+We identified invasive postmenopausal breast cancer cases in the Nurses
+Health Study (NHS) diagnosed from 1990-2004 with GWAS data and sufficient
+RNA for expression profiling in breast tumor and normal adjacent breast
+tissue. RNA was extracted using the Qiagen AllPrep RNA isolation kit,
+amplified using the NuGen Ovation FFPE WTA kit, and profiled using the
+Affymetrix Human Transcriptome Array (HTA 3.0v1). The HTA includes
+6,892,960 features for measuring gene expression, alternative splicing,
+coding SNPs, and noncoding transcripts. After filtering and removing
+probes with a low dynamic range in our samples, we included 25,000 gene
+expression probes in our QTL analyses. We mapped these probes to genes
+using hg19.Results: Analyses were conducted separately for 376 breast
+tumor and 274 normal adjacent samples. We conducted quality control
+analyses, corrected for assay plate-to-plate variation and included
+patient's age at diagnosis and year of diagnosis as covariates in the
+multivariate linear regression model. We identified 11 trans eQTLs in
+normal adjacent breast tissue, 11 trans eQTLs in estrogen receptor (ER)+
+breast tumor samples, and 12 trans eQTLs in ER- breast tumor samples
+(permutation adjusted p-value<0.05). We also developed a new method,
+functional quantitative trait loci (fQTL) analysis, to gain additional
+pathway insight into genetic associations important in breast cancer. In
+the fQTL analysis we tested for the association between SNPs and the
+expression of gene functional classes and pathways, evaluating the
+hypothesis that SNPs may also be associated with regulation of processes
+in addition to individual genes. Using a cutoff of false discovery rate
+<10%, we identified 2 SNPs associated with 2 Gene Ontology Molecular
+Functions in normal adjacent breast tissue, 1 SNP associated with 5
+Molecular Functions in ER- tumor samples but no significant SNP
+associations in ER+ tumor samples. Integrated eQTL and fQTL analyses and
+variant annotation are ongoing.Conclusion: In summary, our results
+provide functional insights on the underlying biology of loci identified
+in breast cancer GWAS in the specimen type that is most impactful in
+translation to clinical practice. Identification of gene transcripts that
+can be measured in FFPE tissue and are associated with breast cancer risk
+loci is critical in understanding the mechanism by which these variants
+affect risk and mediate disease processes.
+

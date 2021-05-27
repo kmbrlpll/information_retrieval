@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Validation of prostate cancer risk variants by CRISPR/Cas9
+mediated genome editing at the MSMB locus.
+
+
+Genome wide association studies (GWAS) have identified nuermous single
+nucleotide polymorphisms (SNPs) associated with prostate cancer risk.
+While numerous in silico analyses suggest that the majority of these SNPs
+may function through regulation of gene expression, wet lab experiments
+to distinguish the causative variants from their linkage disequilibrium
+(LD) partners is still needed. Here, we demonstrate how genome editing
+can investigate the role of individual polymorphisms on gene expression.
+
+Here, we focus on the prostate cancer-associated SNP rs10993994, which is
+in the promoter of the MSMB gene that encodes for the prostate-secreted
+protein beta-MSP. This SNP is notable because it associates with seminal
+and serum levels of beta-MSP, PSA, and hK2; mRNA levels of MSMB and the
+nearby androgen receptor co-activator NCOA4 in the prostate; and mRNA
+levels of MSMB in the stomach. Intriguingly, rs10993994 is not a gastric
+cancer risk SNP suggesting that there may be other variants with
+prostate-specific function responsible for the observed prostate cancer
+association.
+
+Using data from the FANTOM5 project, we show that rs7098889, in LD with
+rs10993994, is located in one of the most prostate-specific enhancers. We
+had previously shown that this SNP is associated with beta-MSP
+independent of rs10993994.
+
+To distinguish the effects of these two SNPs on gene expression, we
+generated a series of double gRNA mediated CRISPR/Cas9 deletions of the
+relevant regulatory elements. Removing the element containing rs7098889
+flanking region results in ~10 to 20 fold increase of MSMB expression in
+the prostate cancer LNCaP cell line but not in the gastric cancer AGS
+cell line. There is no change in NCOA4 in either cell line. Removing
+rs10993994 flanking region results in over 10 fold increase of MSMB
+expression and ~50% decrease of NCOA4 in LNCaP.
+
+As both LNCaP and AGS are heterozygous for both SNPs, we then generated
+single clones in which only one allele was removed. For rs7098889, an
+over 300 fold increase of MSMB expression was observed in two out of the
+three clones with the T but not the C allele. Transcripts from high
+expressers all came from one allele. Similarly, single clone analysis
+showed 40 to 60 fold up-regulation of MSMB expression in two out of three
+clones with the C but not the T allele of rs10993994. This is consistent
+with the observation for rs7098889 since rs7098889T and rs10993994C are
+on the same haplotype.
+
+Our work demonstrates dramatic and locus specific effect of individual
+polymorphisms on gene expression, which strongly support the notion that
+an important function of disease risk variants is through regulation of
+gene expression.
+
+

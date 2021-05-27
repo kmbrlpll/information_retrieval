@@ -1,0 +1,62 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Analysis of gene expression profile and signaling networks
+potentially involved in lymph node metastasis in esophageal squamous cell
+carcinoma
+
+
+Esophageal squamous cell carcinoma (ESCC) is the 8th most common cancer
+worldwide and the 6th tumor in frequency in Brazil. Most of cases are
+diagnosed at an advanced stage and despite the improvement of various
+treatment modalities the overall survival rates still remain low. The aim
+of this study was to analyze the gene expression profile to identify the
+genes related to lymph node metastasis in ESCC samples. Genome-wide
+expression profiling was carried out in total RNA extracted from 17
+frozen tissue samples using the Agilent Whole Human Genome Microarray 44K
+following the manufacturer's protocol. Data were extracted and flagged
+with Feature Extraction and processed using TMEV Software. A supervised
+hierarchical clustering was performed using the Pearson distance metric.
+Paired t-test analysis with 1000 permutations was performed to generate a
+list of differentially expressed genes from the comparison between the
+different groups. Only genes showing a false discovery rate (Q value)
+Esophageal squamous cell carcinoma (ESCC) is the 8th most common cancer
+worldwide and the 6th tumor in frequency in Brazil. Most of cases are
+diagnosed at an advanced stage and despite the improvement of various
+treatment modalities the overall survival rates still remain low. The aim
+of this study was to analyze the gene expression profile to identify the
+genes related to lymph node metastasis in ESCC samples. Genome-wide
+expression profiling was carried out in total RNA extracted from 17
+frozen tissue samples using the Agilent Whole Human Genome Microarray 44K
+following the manufacturer's protocol. Data were extracted and flagged
+with Feature Extraction and processed using TMEV Software. A supervised
+hierarchical clustering was performed using the Pearson distance metric.
+Paired t-test analysis with 1000 permutations was performed to generate a
+list of differentially expressed genes from the comparison between the
+different groups. Only genes showing a false discovery rate (Q value) <5%
+were accepted as differentially expressed. The Ingenuity Pathway Analysis
+(IPA) Software was used to assess the involvement of significantly
+differentially expressed genes in known pathways and networks.
+Hierarchical clustering showed two distinct groups according to lymph
+node metastasis: Group 1 comprised 6 node-negative cases and Group 2 with
+11 node-positive cases. The gene expression profiling revealed 338 genes
+differentially expressed between the two groups, of which 321 showed
+lower expression and 17 showed a higher expression in cases of Group 2
+when compared to those of Group 1. According to IPA analysis five
+significant networks could be defined comprising the genes differentially
+expressed between the two groups. The first network with a score of 43
+comprised 21 of the differentially expressed genes and was associated to
+functions as cell-to-cell signaling and interaction, lipid metabolism and
+molecular transport. The second network (score 22, 13 genes) was related
+to nucleic acid metabolism, small molecules biochemistry and energy
+production. The third network (score 21, 14 genes) was associated to
+cellular signaling, molecular transport and small molecular biochemistry.
+The network 4 (score of 21, 12 genes) was associated to cancer, DNA
+replication, recombination and repair and gene expression. The fifth
+network (score 21, 12 genes) was related to cellular movement,
+cardiovascular system development and function and neurological disease.
+In this study, it was detected genes differentially expressed between
+cases with and without lymph node metastasis involved in important
+signaling networks that could have an impact on tumor development or
+progression in ESCC. The identified genes might be useful as a first step
+to identify molecular markers to predict lymph node metastasis for
+improved diagnostic and therapeutic modalities in this tumor.
+

@@ -1,0 +1,84 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Clonal evolution and genomic tumor heterogeneity in non-small cell
+lung cancer deciphered by multiparameter ploidy profiling
+
+
+BACKGROUNDGenomic intra- and intertumor heterogeneity is one main reason
+for relapse and resistance to therapy. There is a shortage of studies
+characterizing the level of genomic intertumoral heterogeneity of known
+cancer genes in multiple longitudinal biopsies of individual patients.
+Additionally, a workflow to deconvulate the intermixture of tumor and
+stromal components is missing. To overcome these limitations and to
+decipher the genomic heterogeneity and clonal evolution, we developed a
+method and applied it on matched (primary-recurrence/metastasis)
+non-squamous, non-small cell lung cancers (NSCLC).METHODSMultiparameter
+Ploidy Profiling (MPP) comprises the isolation of nuclei from frozen or
+formalin and paraffin embedded (FFPE) tissues, followed by multiparamter
+flow sorting. Sorted populations were subjected to genomic profiling by
+high resolution array comparative genomic hybridization (aCGH) and
+massively parallel sequencing (MPS). DAPI allowed to seperate populations
+by ploidy and anti-TTF1 antibodies was used to control for tumor nuclei.
+Array-CGH, combined with ploidy, was used to retrieve genome wide copy
+numbers. The Comprehensive Cancer Panel that covers all-exons of 409
+cancer genes was applied on all sorted tumor and stromal populations to
+detect somatic mutations and their variant allelic frequency
+(VAF).RESULTSMPP was successfully applied to 44 frozen or FFPE tissue
+specimens from 19 patients. Array-CGH and MPS of TTF1-negative, normal
+cells were concordant to germline controls. Sequencing revealed that 50%
+of mutations are shared between primary tumors and metastases. Except for
+one patient, mutations with VAF>0.3 are shared between primary and
+metastasis. The variant allelic frequency was significantly higher in
+shared mutations than mutations that were private to one tumor. Besides
+common activating mutations in EGFR and KRAS we found biallelic
+inactivation in tumor suppressor genes like KEAP1, NF1, STK11 and TP53.
+Two clonal evolutionary patterns were found: 1) early and 2) late
+divergence. Matched tumors without any shared mutations were classified
+as unrelated primary tumors.CONCLUSIONThe power of MPP is to increase the
+precision of downstream analysis, due to the sorting of pure populations
+of tumor cells. It permitted to infer the clonal evolution of tumor
+populations with unprecedented confidence. The low level of genomic
+heterogeneity of mutations with VAF>0.3 in this study is in line with
+recent data from Zhang et al., who showed that the poor precision of low
+depth sequencing (BACKGROUNDGenomic intra- and intertumor heterogeneity
+is one main reason for relapse and resistance to therapy. There is a
+shortage of studies characterizing the level of genomic intertumoral
+heterogeneity of known cancer genes in multiple longitudinal biopsies of
+individual patients. Additionally, a workflow to deconvulate the
+intermixture of tumor and stromal components is missing. To overcome
+these limitations and to decipher the genomic heterogeneity and clonal
+evolution, we developed a method and applied it on matched
+(primary-recurrence/metastasis) non-squamous, non-small cell lung cancers
+(NSCLC).METHODSMultiparameter Ploidy Profiling (MPP) comprises the
+isolation of nuclei from frozen or formalin and paraffin embedded (FFPE)
+tissues, followed by multiparamter flow sorting. Sorted populations were
+subjected to genomic profiling by high resolution array comparative
+genomic hybridization (aCGH) and massively parallel sequencing (MPS).
+DAPI allowed to seperate populations by ploidy and anti-TTF1 antibodies
+was used to control for tumor nuclei. Array-CGH, combined with ploidy,
+was used to retrieve genome wide copy numbers. The Comprehensive Cancer
+Panel that covers all-exons of 409 cancer genes was applied on all sorted
+tumor and stromal populations to detect somatic mutations and their
+variant allelic frequency (VAF).RESULTSMPP was successfully applied to 44
+frozen or FFPE tissue specimens from 19 patients. Array-CGH and MPS of
+TTF1-negative, normal cells were concordant to germline controls.
+Sequencing revealed that 50% of mutations are shared between primary
+tumors and metastases. Except for one patient, mutations with VAF>0.3 are
+shared between primary and metastasis. The variant allelic frequency was
+significantly higher in shared mutations than mutations that were private
+to one tumor. Besides common activating mutations in EGFR and KRAS we
+found biallelic inactivation in tumor suppressor genes like KEAP1, NF1,
+STK11 and TP53. Two clonal evolutionary patterns were found: 1) early and
+2) late divergence. Matched tumors without any shared mutations were
+classified as unrelated primary tumors.CONCLUSIONThe power of MPP is to
+increase the precision of downstream analysis, due to the sorting of pure
+populations of tumor cells. It permitted to infer the clonal evolution of
+tumor populations with unprecedented confidence. The low level of genomic
+heterogeneity of mutations with VAF>0.3 in this study is in line with
+recent data from Zhang et al., who showed that the poor precision of low
+depth sequencing (<277x) contributes to an overestimation of genomic
+heterogeneity (Zhang et al., Science 2014). Integrational analysis of
+ploidy, chromosomal aberrations and mutations in 409 cancer genes allowed
+to draw the evolutionary picture of each patient's disease. MPP appears
+as a promising tool for identification of genomic vulnerabilities that
+could be exploited for tailored treatment.
+

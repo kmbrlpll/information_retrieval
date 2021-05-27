@@ -1,0 +1,43 @@
+Meeting: 2014 AACR Annual Meeting
+Title: PKM2 subcellular localization is involved in oxaliplatin
+resistance acquisition in human colorectal cancer cell lines
+
+
+Background/purpose: Despite remaining one of the most active drugs in the
+treatment of advanced colorectal cancer (aCRC), oxaliplatin (OXA)
+resistance still is a multifactorial and complex process to decipher. In
+a previous work we identified low levels of PKM2 (mRNA and protein) as a
+putative OXA-resistance marker in CRC cell lines and patients. The
+purpose of this work was to identify molecular mechanisms underlying PKM2
+role in resistance to OXA.Material and methods: PKM2 transient gene
+silencing was achieved by transfecting specific siRNAs (Ambion) in HT29
+and HCT116 CRC cell lines. Gene silencing was validated by qPCR and
+Western Blot with specific Taqman primers and probes (assay no.
+Hs00762869_s1) and antibody (Cell signaling), respectively. Cell
+proliferation was measured by the MTT assay (Roche Diagnostics).
+Inhibitory concentrations were determined in each cell line by the
+median-effect line method. Cell viability was studied with the use of
+trypan blue stain and apoptosis was detected with FITC Annexin V
+Apoptosis Detection Kit I (BD Pharmingen). PKM2 subcellular localization
+was studied by fluorescence microscopy in an Axiovision Z1 by using
+Apotome system at 40x immersion oil lens (Carl Zeiss, Heidelberg,
+Germany). Expression patterns of cell death genes were analyzed through
+Human Cell Death Pathway Finder PCR Array 384 HT (PAHS-212Z, SA
+Biosciences).Results: In order to assess how PKM2 expression influences
+OXA response in CRC cells, we silenced PKM2 by using specific siRNAs in
+HT29 and HCT116 cells. Cells were then treated with OXA at different
+concentrations and we observed that PKM2 silencing induced resistance in
+HT29 (p53 mutated) cells and sensitivity in HCT116 (p53 wild type) cells.
+Moreover, PKM2 knockdown was associated with an increase in cell
+viability but not with a decrease in apoptosis activation in HT29 cells.
+Fluorescence microscopy revealed PKM2 nuclear translocation in response
+to OXA in HCT116 and HT29 cells but not in OXA-resistant HTOXAR3 cells.
+Finally, by using a qPCR Array we demonstrated that OXA and PKM2
+silencing altered cell death gene expression patterns including BMF,
+which was significantly increased in HT29 cells in response to OXA in a
+dose and time-dependent manner but not in siPKM2-HT29 and HTOXAR3
+cells.Conclusion: Our data report new non-glycolytic roles of PKM2 in
+response to genotoxic damage, which depend on p53 mutational status and
+proposes BMF as a possible target gene of PKM2 to be involved in OXA
+response and resistance in CRC cells.
+

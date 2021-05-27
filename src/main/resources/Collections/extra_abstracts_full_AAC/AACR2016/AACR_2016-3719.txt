@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: TAK-243, a small molecule inhibitor of the ubiquitin activating
+enzyme (UAE), disrupts DNA damage repair and sensitizes tumor cells and
+xenografts to ionizing radiation
+
+
+Radiation therapy, as a primary therapy or as a combination partner, is
+used in half of all worldwide cancer treatments. Research is ongoing to
+identify agents which potentiate the effects of ionizing radiation (IR)
+in tumor cells. Because IR causes DNA double strand breaks (DSBs),
+inhibition of DNA damage repair mechanisms could enhance the effects of
+radiation. DNA repair at DSBs is mediated by the non-homologous
+end-joining (NHEJ) and homologous recombination (HR) pathways, both of
+which rely on the post-translational modification of proteins by
+ubiquitin (Ub). A phosphorylation and ubiqutination cascasde at DSBs
+results in Ub-dependent recruitment of 53BP1 and BRCA1 complexes.We have
+identified a first in class investigational drug, TAK-243 (MLN7243),
+which targets the ubiquitin activating enzyme, UAE (UBA1), the enzyme
+responsible for activating > 99% of all cellular Ub. Previously, TAK-243
+was shown to inhibit mono-Ub of PCNA and FANCD2, key proteins within the
+translesion synthesis (TLS) and Fanconi Anemia (FA) DNA repair pathways,
+and also to inhibit Ub transfer to UBC13, an E2 ubiquitin-conjugating
+enzyme utilized in DSB repair. We hypothesized that TAK-243 would prevent
+repair of DSBs and thereby potentiate IR-induced cell death.Here we show
+that TAK-243 pre-treatment potentiates the effect of IR on HCT-116 cells
+in a colony formation assay in vitro. To link this combination benefit to
+the disruption of DNA damage repair, we demonstrate that TAK-243
+pre-treatment blocks the IR-induced recruitment of 53BP1 to sites of DNA
+damage both in vitro and in vivo. In a patient-derived xenograft (PDX)
+model of non-small cell lung cancer, formation of IR-induced 53BP1 foci
+is inhibited when TAK-243 is dosed 1 hour before beam-focused radiation
+exposure. In contrast, levels of IR-induced pH2Ax are not significantly
+changed by TAK-243 treatment, suggesting that TAK-243 does not prevent
+formation or detection of DSBs, but rather acts downstream to prevent DNA
+damage repair. Additive-to-synergistic effects on tumor growth inhibition
+were observed in several xenograft models treated with the combination of
+TAK-243 and beam-focused IR, with persistent tumor regressions noted in
+some NSCLC and breast cancer models. The results of our experiments
+provide a mechanistic rationale for combining radiation with TAK-243 in
+the clinical setting. Currently, TAK-243 is being evaluated in a solid
+tumor phase I clinical trial evaluating safety, tolerability,
+pharmacokinetics, pharmacodynamics and anti-tumor activity (NCT02045095).
+

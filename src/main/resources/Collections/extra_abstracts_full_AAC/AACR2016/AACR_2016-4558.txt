@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: PIN1 expression level is maintained by a negative feedback loop
+through regulation of Myc and miRNAs
+
+
+Introduction: PIN1 is a peptidyl-prolyl-isomerase (PPIase) that binds
+specific motifs (serine/threonine preceding a proline) in proteins,
+thereby catalyzing cis/trans isomerization of the peptide bond between
+the phosphorylated serine/threonine and proline. As a result of such
+conformational changes, stability, sub-cellular localization, functional
+activity as well as protein-protein interactions of the PIN1-bound
+proteins may be altered. PIN1 has been demonstrated to play an important
+role in controlling various cellular processes such as cell
+proliferation, apoptosis and migration. Consequently, its expression has
+to be tightly controlled. Previously, we found that two miRNAs,
+miR-296-5p and miR-874-3p, served as negative regulators of PIN1.
+However, the mechanism regulating these two miRNAs remains to be
+defined.Methods: The online database-UCSC Genome Bioinformatics
+(NCBI/hg18) was used to search for the upstream regulator of miR-296-5p
+and miR-874-3p. Luciferase reporter assay was conducted to examine the
+effect of the identified regulator on the promoter regions of miR-296 and
+miR-874-3p. Quantitative polymerase chain reaction (Q-PCR) was used to
+detect the expression levels of miR-296-5p and miR-874-3p. Protein
+expression levels of the identified regulator and PIN1 were examined by
+western immunoblotting.Results: By screening the online database-UCSC,
+Myc was identified as a potential transcription factor for the miRNAs,
+miR-296-5p and miR-874-3p. As demonstrated by luciferase reporter assay,
+expression of Myc activated the promoters of miR-296-5p and miR-874-3p.
+Myc over-expression also increased the expression levels of these two
+miRNAs, which in turn led to down-regulation of PIN1. Interestingly, we
+found that over-expression of PIN1 increased the expression of Myc,
+miR-296-5p and miR-874-3p. We therefore hypothesized that PIN1 expression
+is maintained via a negative feedback loop of Myc-miRNAs-PIN1. Consistent
+with this hypothesis, we demonstrated that over-expression of exogenous
+EGFP-tagged PIN1 led to the enhancement of Myc, miR-296-5p and miR-874-3p
+expression, and thereby subsequently decrease the endogenous PIN1
+level.Conclusion: Taken together, our results suggested that the
+expression level of PIN1 is maintained by a negative feedback loop
+through the regulation of Myc, miR-296-5p and miR-874-3p.
+

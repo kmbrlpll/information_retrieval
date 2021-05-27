@@ -1,0 +1,44 @@
+Meeting: 2016 AACR Annual Meeting
+Title: MiR182 mediated control over myeloid differentiation provides
+novel mechanism of Imatinib resistance in chronic myeloid leukemia
+
+
+MiR182 is an evolutionarily conserved miR, present in a cluster with
+miR183, and miR96 on human chromosome 7q32.2. This cluster is
+over-expressed in hESCs, and iPSCs. Developmentally, miR182 is
+over-expressed during erythropoiesis from CD34 cells. Erythroid
+differentiation of CML cells induced by Imatinib treatment provides an
+alternate mechanism of Imatinib escape, and also emphasizes the need to
+explore miR182 function in this context. In cancerous cells, miR182
+regulates metastasis in melanoma cells by regulation of MITF and FOXO3,
+and DNA repair in breast cancer by targeting BRCA1. These reports provide
+some understanding of miR182 function by transient in-vitro assays. To
+refine functional importance, targeted deletion of MIR182 has been done
+on mice retinal cells where it is shown an over-expressed candidate by
+quantitative methods; nevertheless MIR182 deletion does not show any
+phenotypic change indicating challenges to study their functions along
+with better model systems. We focus to study K562 cells, CML blast crisis
+cell line with wild type Bcr-Abl tyrosine kinase, partially
+differentiated cells able to differentiate in different lineages upon
+induction. We exploit use of CRISPR/Cas9 mediated knock-out approach to
+find out miR182 function in K562 cells. We show that we have successfully
+deleted MIR182 loci in K562 cells by CRISPR. We hypothesize if miR182
+regulates proliferation or differentiation in bi-potent K562 cells. Using
+phenotypic characterization, we studied MIR182 deleted cells. We show
+that myeloid differentiation is augmented by MIR182 deletion. Homozygous
+MIR182 deleted cells display decreased proliferation. We find striking
+inverse correlation with notch signalling genes in the context of
+Imatinib resistance. Notch signalling has been documented in cancer cells
+where its role has been shown in context dependent which require more
+explanation of its regulation. Hes1, one of main transcriptional
+regulator of notch signalling pathway, is targeted by miR182 shown by
+both bio-informatics, and in-vitro assays. Hes1 manipulation confirms it
+as down-stream target of miR182 in CML cells. We next explored Imatinib
+resistance phenotype in the context of miR182 given its expression in
+CD34 cells. We demonstrate miR182 is over-expressed in CML cells towards
+Imatinib treatment in ex-vivo, and in-vitro. We find miR182 essential for
+proliferation of K562 cells, Imatinib resistance. Taken together, our
+studies highlight miR182 targets notch signalling genes in CML cells
+implication of which we have shown in the context of Bcr-Abl independent
+Imatinib resistance mediated by differentiation deregulation.
+

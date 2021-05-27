@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: DNA repair biochip-based screening to identify Glycosylase/AP
+endonuclease inhibitors: from the concept to the identification of
+effective molecules
+
+
+Base Excision Repair (BER) is the predominant repair pathway responsible
+for removal of small base/sugar lesions. Three BER activities are
+predominant in cells: correction of AP sites by APE1, removal of uracil
+(U) by uracil DNA glycosylase (UNG) and removal of thymine glycols (Tg)
+by human Endonuclease III homolog (NTH1) or by NEIL1. Despite the
+tremendous progress accomplished these last years, a lot of uncertainties
+remain regarding the involvement of other redundant activities able to
+act as a backup system for repair of these latter lesions. Many studies
+link chemoresistance and overexpression of DNA repair enzymes. Enzymes
+from BER pathways are attractive targets for anticancer drug development
+since therapeutic modulation of repair proteins could potentiate effects
+of genotoxic drugs. Identification of effective BER inhibitors is thus an
+emerging promising approach. Here, we used a multiplexed fluorescent
+oligonucleotide (ODN) cleavage assay on support to the screen of a small
+compound (SM) library, using HeLa extracts containing the various DNA
+repair components. Five fluorescent ODN duplexes containing
+tetrahydrofuran (AP site), U (paired either with A or with G), Tg and
+normal base pairs were addressed at specific sites on coated slides in a
+96-well plate array format adapted for robotic handling. After (1)
+automated screening of a chemical library of small molecules at 200M, and
+(2) establishment of dose/response inhibition curves using the cell
+extracts and 10 selected compounds, we eventually retained 4 molecules
+possessing different repair inhibition spectra. Using the same assay, we
+then performed inhibitory studies in the presence of different pure human
+BER enzymes in order to identify the putative inhibitors targets.
+Interesting inhibitory properties were found against Smug1, hAAG, hNEIL1
+and hAPE1 (IC50 around 10M). We subsequently characterized the ability of
+the 4 SM used at non toxic doses (range 2.5M) to potentiate the
+cytoxicity effect of genotoxic drugs using MMR-proficient or MMR
+-deficient cell lines. For some effective combinations, the reduction of
+BER activities was further confirmed by the in vitro testing of extracts
+prepared from the treated cell lines. However as the potentiating
+properties were detected even in the presence of drugs known to induce
+the formation of bulky adducts, the rationale behind these effects were
+complex to establish. These results suggest that our knowledge on
+drug-induced lesions and on the intricacy of repair pathways needs to be
+refined. In conclusion, we demonstrated that our strategy is a fast and
+efficient mean to identify SM able to target specific BER activities. The
+identified compounds may be used to potentiate the effect of genotoxic
+drugs, but also more widely for chemical genetic strategies, to turn off
+specific functions in order to dissect and elucidate the DNA repair
+mechanisms.
+

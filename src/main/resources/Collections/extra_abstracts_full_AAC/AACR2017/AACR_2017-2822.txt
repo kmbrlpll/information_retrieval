@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Establishing the use of Vortex technology for investigating
+circulating tumor cells in mouse models of breast cancer.
+
+
+Background: Circulating tumor cells (CTCs) are precursors of metastatic
+disease and are an important indicator of the disease progression and
+outcome of many cancers. Though several recent studies have advanced our
+understanding of CTCs, many critical areas of CTC biology remain largely
+unexplored. Murine models of cancer offer a unique opportunity to address
+this issue. However, small sample volumes, low number of CTCs, difficulty
+to access ports for blood collection are challenges that diminish the
+utility of mouse models for studying CTCs. In our previous studies, we
+had validated the use of Vortex technology for the label-free capture of
+CTCs from blood samples of different cancers. In this current study, we
+now report our recent, unpublished data on the adaptation of Vortex
+platform for enriching and characterizing murine and human tumor cells
+from mouse blood.
+
+Methods: By spiking tumor cells into small volumes of mouse blood
+(200-400 µl) from cardiac puncture, we tested the impact of i) different
+dilutions of mouse blood (10X, 20X, 40X); ii) varying numbers of tumor
+cells; iii) different cell types (MDA-MB-231, 4T1 and EMT6); and iv)
+sample recycling on capture efficiency and purity. Blood was processed
+through the Vortex plastic chip and, to accurately identify and enumerate
+the enriched tumor cells, we developed a staining protocol that labels
+human- or murine-specific cytokeratin, vimentin, and CD45.
+
+Results: Our results reveal that over a range of dilutions tested, just
+after one cycle, 10X dilution of mouse blood was superior, yielding a
+capture efficiency of 38.83% and a purity of 33% for MDA-MB-231 cells,
+compared to 20X (34.16% efficiency, 31.1% purity), and 40X (31.83%
+efficiency, 31% purity) dilutions. We are currently testing whether
+recycling the blood flow-through would increase the recovery. Even when
+as many as ~7500 tumor cells were spiked in mouse blood, the Vortex
+platform was able to successfully enrich tumor cells with high
+consistency and purity. Importantly, we were now able to successfully
+isolate human and murine tumor cell lines with varying levels of
+epithelial cell adhesion molecule (EpCAM) expression (4T1 - high,
+MDA-MB-231 - moderate to low) spiked into mouse blood. Experiments
+confirming the viability and growth rate of cancer cells isolated from
+mouse blood using MTT assay will also be presented.
+
+Conclusion: In summary, our results reveal the use of the Vortex
+technology for studying CTCs in murine models of cancer, with the ability
+to handle volumes of blood as low as 200uL while having a capacity to
+capture extremely large number of CTCs. While this study was focused on
+breast cancer, our workflow is easily adapted to other malignancies.
+Studies are underway to grow viable CTCs from tumor bearing animals and
+isolated by this platform for subsequent growth in 3D culture systems for
+future biologic and drug testing studies.
+
+

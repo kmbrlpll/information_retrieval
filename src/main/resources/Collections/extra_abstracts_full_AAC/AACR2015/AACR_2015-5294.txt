@@ -1,0 +1,105 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Biomarkers in residual disease after neoadjuvant chemotherapy of
+breast cancer predict long-term outcome
+
+
+Aim: to assess the prognostic value of 24 candidate genes in residual
+breast cancers following neoadjuvant chemotherapy.BackgroundPatients who
+do not achieve pathological complete response after neoadjuvant
+chemotherapy have increased risk of recurrence and represent a challenge
+for clinical management. Expression profiling of residual disease may
+identify genes related to chemoresitance that allow the development of a
+profile related to long-term outcome. We sought to assess this by
+evaluating the expression of ESR1, ERBB2 and genes playing a role in
+stemcellness (ALDHA1, CD44, STAT3), proliferation (TOP2A, MKI67, AURKA),
+apoptosis (BCL2, BCL2L1, PAWR), immunological response (CD3D, CXCL13,
+STAT1), epithelial to mesenchymal transition (SNAI1, SNAI2, SOX9, TWIST),
+stromal activation (DECORIN, SPARC, PLAU), energy metabolism (ACACB,
+LDHB), and ERK/Ras activation (DUSP4).Patients and MethodsA total of 126
+primary breast cancer patients treated with neoadjuvant chemotherapy were
+included, with a median follow up of 4.1 years. Overall, 66% were ER+,
+52% PgR+, 12% Her2+; 3% grade 1, 49% grade 2, 48% grade 3; 52% node -ve
+and 48% node +ve. Gene expression profiles were done using the NanoString
+nCounter system from 126 post-treatment and 56 matched pre-treatment
+tumour samples. Differential gene expression changes were tested by
+paired t-test. The association of the biomarkers in residual disease with
+time to relapse was assessed by Cox regression analysis. Penalised
+Elastic Net Cox regression was used to identify independent prognostic
+gene signatures. Benjamini-Hochberg methodology was used for multiple
+comparison correction for survival analysis; threshold of q-value was set
+to have Aim: to assess the prognostic value of 24 candidate genes in
+residual breast cancers following neoadjuvant
+chemotherapy.BackgroundPatients who do not achieve pathological complete
+response after neoadjuvant chemotherapy have increased risk of recurrence
+and represent a challenge for clinical management. Expression profiling
+of residual disease may identify genes related to chemoresitance that
+allow the development of a profile related to long-term outcome. We
+sought to assess this by evaluating the expression of ESR1, ERBB2 and
+genes playing a role in stemcellness (ALDHA1, CD44, STAT3), proliferation
+(TOP2A, MKI67, AURKA), apoptosis (BCL2, BCL2L1, PAWR), immunological
+response (CD3D, CXCL13, STAT1), epithelial to mesenchymal transition
+(SNAI1, SNAI2, SOX9, TWIST), stromal activation (DECORIN, SPARC, PLAU),
+energy metabolism (ACACB, LDHB), and ERK/Ras activation (DUSP4).Patients
+and MethodsA total of 126 primary breast cancer patients treated with
+neoadjuvant chemotherapy were included, with a median follow up of 4.1
+years. Overall, 66% were ER+, 52% PgR+, 12% Her2+; 3% grade 1, 49% grade
+2, 48% grade 3; 52% node -ve and 48% node +ve. Gene expression profiles
+were done using the NanoString nCounter system from 126 post-treatment
+and 56 matched pre-treatment tumour samples. Differential gene expression
+changes were tested by paired t-test. The association of the biomarkers
+in residual disease with time to relapse was assessed by Cox regression
+analysis. Penalised Elastic Net Cox regression was used to identify
+independent prognostic gene signatures. Benjamini-Hochberg methodology
+was used for multiple comparison correction for survival analysis;
+threshold of q-value was set to have < 1 false positive.ResultsFifteen
+genes were found to be up- and 9 downregulated following chemotherapy.
+Overall 20 genes changed significantly and 17 of these changed in the
+ER+/Her2- subgroup. Among those, ALDH1A1, STAT1 and TWIST1 were most
+significant. 14 genes were prognostic in unvariable analysis of all 126
+residual samples. In 118 patients with complete clinico-pathological data
+available, ACACB, CD3D, MKI67 and TOP2A were informative independent of
+ER, PgR and Her2 status. PAWR was positively correlated with good outcome
+in ER+ but negatively in ER- patients (interaction test pAim: to assess
+the prognostic value of 24 candidate genes in residual breast cancers
+following neoadjuvant chemotherapy.BackgroundPatients who do not achieve
+pathological complete response after neoadjuvant chemotherapy have
+increased risk of recurrence and represent a challenge for clinical
+management. Expression profiling of residual disease may identify genes
+related to chemoresitance that allow the development of a profile related
+to long-term outcome. We sought to assess this by evaluating the
+expression of ESR1, ERBB2 and genes playing a role in stemcellness
+(ALDHA1, CD44, STAT3), proliferation (TOP2A, MKI67, AURKA), apoptosis
+(BCL2, BCL2L1, PAWR), immunological response (CD3D, CXCL13, STAT1),
+epithelial to mesenchymal transition (SNAI1, SNAI2, SOX9, TWIST), stromal
+activation (DECORIN, SPARC, PLAU), energy metabolism (ACACB, LDHB), and
+ERK/Ras activation (DUSP4).Patients and MethodsA total of 126 primary
+breast cancer patients treated with neoadjuvant chemotherapy were
+included, with a median follow up of 4.1 years. Overall, 66% were ER+,
+52% PgR+, 12% Her2+; 3% grade 1, 49% grade 2, 48% grade 3; 52% node -ve
+and 48% node +ve. Gene expression profiles were done using the NanoString
+nCounter system from 126 post-treatment and 56 matched pre-treatment
+tumour samples. Differential gene expression changes were tested by
+paired t-test. The association of the biomarkers in residual disease with
+time to relapse was assessed by Cox regression analysis. Penalised
+Elastic Net Cox regression was used to identify independent prognostic
+gene signatures. Benjamini-Hochberg methodology was used for multiple
+comparison correction for survival analysis; threshold of q-value was set
+to have < 1 false positive.ResultsFifteen genes were found to be up- and
+9 downregulated following chemotherapy. Overall 20 genes changed
+significantly and 17 of these changed in the ER+/Her2- subgroup. Among
+those, ALDH1A1, STAT1 and TWIST1 were most significant. 14 genes were
+prognostic in unvariable analysis of all 126 residual samples. In 118
+patients with complete clinico-pathological data available, ACACB, CD3D,
+MKI67 and TOP2A were informative independent of ER, PgR and Her2 status.
+PAWR was positively correlated with good outcome in ER+ but negatively in
+ER- patients (interaction test p<0.001). From the Elastic Net regression
+analysis in all 126 patients, 6 genes were identified (ACACB, CD3D,
+DECORIN, ESR1, MKI67, PLAU) to provide significant prognostic information
+independent of ER, PgR and Her2 status. In 78 ER+/Her2- samples 4 genes
+(ACACB, ERBB2, MKI67, PAWR) were similarly informative.ConclusionsOur
+findings demonstrate that gene expression of diverse biological functions
+is affected by chemotherapy and for some is prognostic in residual
+disease. If validated, our multivariable gene models may potentially
+identify patients who may need additional post-neoadjuvant treatment to
+improve prognosis.
+

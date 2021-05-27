@@ -1,0 +1,39 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Kinase activity profiles distinguish papillary thyroid cancers
+with and without BRAF V600E mutations
+
+
+Background: Most differentiated non medullary thyroid cancers (DTC) are
+curatively treated by surgery and radio-active iodine ablation therapy. A
+subset of patients shows recurrence due to a loss of iodine transport.
+Two main subgroups of recurrent DTC are seen: papillary thyroid cancers
+(PTC) with somatic BRAF mutations (V600E) and oncocytic follicular
+cancer. Recurrent DTC are clinically treated by multi-kinase inhibitors
+such as sorafenib, with a low affinity for BRAF V600E. Vemurafenib and
+dabrafenib were specifically designed against this mutant.The aim of this
+study was twofold:- Can benign and malign DTC be classified based on
+kinase activity profiles?- Do sorafenib (and regorafenib) show different
+inhibition profiles than dabrafenib?Methods: Tissue cryosections from
+fresh frozen thyroid tumors were lysed. All tumor specimens were analyzed
+for BRAF mutations. Serine/threonine kinase (STK) activity profiles of
+the lysates (0.5 g protein per array) were generated on PamChip peptide
+microarrays, comprising peptide sequences from known human
+phosphorylation sites. The ex vivo effect of BRAF inhibitors sorafenib,
+regorafenib and dabrafenib on kinase activity profiles of 14 PTC's was
+determined as well. Data were analysed with Bionavigator
+software.Results: A classifier built on the STK kinase activity profiles
+of 57 thyroid cancer samples was able to classify malignant and benign
+tumors with a limited error rate. Leave One Out Cross Validation
+classified 26/35 of malignant and 17/22 of benign samples correctly.
+Kinase inhibition profiles of PTC's with sorafenib and regorafenib did
+not discrimate V600E mutants from wild type tumors whereas with
+dabrafenib 34/144 peptides were identified that potentially
+differentiated the groups.Conclusions: Serine/threonine kinase activity
+profiling appears to be able to differentiate benign and malignant
+thyroid tumors. Ex vivo spiking in of kinase inhibitors shows
+differential inhibition in tumors with a somatic BRAF mutation.
+Potentially, an industrial prediction platform can be envisioned for
+testing of novel drugs in tumor tissue. Whether individual patient
+responses against registered kinase inhibitors can be predicted must be
+investigated.
+

@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Mechanisms for cross-talk between Notch1 and AKT signaling in
+T-cell acute lymphoblastic leukemia
+
+
+Pediatric T-cell acute lymphoblastic leukemia (T-ALL) has a variable
+prognosis, with many patients exhibiting high-risk features at diagnosis,
+including older age and high presenting white blood cell counts.
+Activating mutations involving the Notch1 heterodimerizeration and PEST
+domains occur in more than 50% of T-ALL cases. Increased Notch1 activity
+promotes survival and proliferation of leukemic cells, in part by
+transcriptionally repressing PTEN (via HES1). This provides compelling
+rationale for the use of gamma secretase inhibitors (GSIs) to block
+Notch1 activation and to restore PTEN levels, which antagonize AKT
+signaling. Further, PTEN mutations are implicated in GSI resistance. PTEN
+activity is also modulated by an assortment of posttranslational
+modifications and Notch1 may regulate PTEN at the posttranslational
+level. To investigate the impact of Notch1 on AKT signaling, independent
+of its transcriptional regulation of PTEN, we used PTEN-null Jurkat cells
+with constitutively active Notch1 and conditional ectopic PTEN expression
+under control of a tetracycline (tet)-inducible promoter. Induction of
+PTEN was accompanied by increased phosphorylation of AKTT308, increased
+insulin-like growth factor 1 receptor (IGF1R) protein and transcripts,
+and increased Notch1. Increased AKTT308 phosphorylation was blocked with
+an IGF1R inhibitor (GSK1904259A) and was abolished in Jurkat cells
+expressing a tet-inducible G129R PTEN phosphatase-inactive mutant. This
+suggests that PTEN can activate AKT signaling by modulating IGF1R levels.
+In Jurkat cells, inhibition of Notch1, either through GSI treatment or
+shRNA knockdown (KD), resulted in increased phosphorylation of AKTT308.
+Although this result could involve Notch1-dependent decreased cMyc,
+reflecting indirect effects of cMyc on mTOR1 and negative feedback on
+AKT, this was not impacted by treatment with a cMyc inhibitor (10058-F4)
+or by ectopic overexpression of cMyc, suggesting that other effectors and
+mechanisms are involved. Microarray analysis was performed on wild-type
+and KD Jurkat cells. Using a 1.5-fold cutoff, 1208 differentially
+regulated genes were identified. These include PH domain leucine-rich
+repeat protein phosphatase-1 (PHLPP1) and prokineticin-2 (PROK2), both of
+which could significantly impact AKT phosphorylation in response to
+Notch1. By real-time RT-PCR, PHLPP1 was significantly decreased (4-fold),
+and PROK2 was significantly increased (6-fold) in Notch1 KD cells
+compared to wild-type cells. Studies are underway to characterize the
+potential roles of PHLPP1 and PROK2 in mediating the inhibitory effects
+of Notch1 on AKT activation in T-ALL. Better understanding of the
+cross-talk between Notch1 and AKT in T-ALL may identify rational
+therapeutic strategies for combining GSIs with inhibitors of AKT, mTOR,
+or IGF1R, and/or for designing therapies based on capacities for
+constitutive Notch1 signaling.
+

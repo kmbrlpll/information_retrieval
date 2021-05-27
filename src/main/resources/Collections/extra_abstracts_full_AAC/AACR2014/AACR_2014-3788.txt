@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Drug mechanisms of action: Triangulating with cultured cancer cells
+
+
+The clinical trial is irreplaceable as a scientific test bed for cancer
+therapeutics, animal models are becoming ever more sophisticated for
+preclinical testing, and 3D cell cultures can mimic some aspects of tumor
+structure and microenvironment. So what are the proper roles of 2D cell
+cultures in research on mechanisms of drug action? A partial answer is
+historical: most of our information about mechanisms of drug sensitivity
+and resistance has come from such cultures. A second is that cells in
+culture can be engineered readily by selective pressure or genetic
+manipulation to express or silence any chosen drug target or modulator of
+drug activity. A third is provided by the emergence of cancer cell panels
+for use in large-scale drug discovery programs, at the same time
+generating massive amounts of data that can be used to support or refute
+hypotheses about molecular mechanism. Cell line assays are not in general
+predictive of clinical efficacy, but patterns of response among lines and
+under different conditions can certainly predict mechanism of action,
+often quite incisively (see, e.g., Weinstein, Science 258;447, 1992).The
+first large-scale cell-line screen used to illuminate mechanisms of
+action was the NCI-60, a diverse set of 60 human lines used to test
+>100,000 compounds and natural products since 1988 (Shoemaker, Prog.
+Clin. Biol. Res. 2:361, 1988). Because we and others have profiled the
+same lines at the DNA, RNA, protein, chromosomal, and epigenomic levels
+(see, e.g., Weinstein, Science 258;447, 1997), it has been possible to
+correlate molecular aberrations in the cells with their sensitivity to
+the agents tested. More recently, the Cancer Cell Line Encyclopedia
+(CCLE) (Barretina, Nature 483;603, 2012) and Cancer Genome Project (CGP)
+(Garnett, Nature 483;570, 2012) were published, describing molecular
+profiles and drug response assays for 1,036 cell lines and 24 drugs, and
+727 cell lines and 138 drugs, respectively. The three cell panel assays
+complement each other: the NCI-60 provides a relatively small number of
+cell types but many tested agents; the CCLE and CGP provide many more
+cell types but a much smaller collection of tested compounds. Because the
+assays and experimental conditions being used in the three systems differ
+(Weinstein and Lorenzi, Nature, doi: 10.1038/nature12839, 2013), we are
+able to use the similarities and differences in response to triangulate
+for more incisive and extensive information on the robustness of
+molecular mechanisms suggested by each separately. Even if single
+pharmacological measurements for a given cell/drug pair show considerable
+variability across different assay types (Haibe-Kains et al. Nature doi:
+10.1038/nature12831, 2013), we find that integrated analysis of the
+patterns of response across the 60 cell lines and the hundreds of cell
+lines are often pathognomonic for particular genomic drivers or
+particular functional pathways.
+

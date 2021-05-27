@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genome engineering to generate models of chromosome arm-level
+aneuploidies in lung carcinoma.
+
+
+Almost 90% of tumors are aneuploid and have arm- or whole- chromosome
+level copy number changes. Arm-level copy number alterations cluster by
+tumor type, suggesting that specific arm-level changes are influenced by
+cell type. Systematic methods of generating copy number changes on a
+particular chromosome have not been tested, leaving the effects of
+specific aneuploidies in cancer unclear. The most frequent genomic
+alteration in lung squamous cell carcinomas (SCCs) is loss of chromosome
+3p. This alteration occurs in 90% of lung SCCs, and covers the entire
+length of the chromosome arm. Over two-thirds of 3p genes show
+significantly decreased expression. However, the phenotypic effects of 3p
+loss in tumorigenesis are not known.
+
+We used the CRISPR-Cas9 system to generate double-strand breaks (DSBs)
+and produce partial aneuploidies of arm-level loss. We have targeted
+guide RNAs adjacent to centromeric satellite-repeat sequences on
+chromosome arm 3p. At this location, we induced homologous recombination
+with a selection cassette and artificial telomere. We have successfully
+isolated almost 90 clones of immortalized lung epithelial cells with
+deletion of the 3p arm, with 8 validated by whole genome sequencing.
+Consistent with patient data, expression of 3p genes is also decreased
+upon deletion. Phenotypic characterization revealed that cells with
+chromosome 3p deletion proliferate more slowly than their siblings. 3p
+deleted cells show increased G1 arrest, but do not undergo increased
+apoptosis or cell death. We are currently testing 3p loss in combination
+with other frequent SCC alterations, such as SOX2 and TP63 gain. We have
+also identified expression changes in trans, outside of chromosome 3p.
+These studies provide a robust model that will address a gap in our
+understanding of aneuploidy in cancer by using targeted endonuclease
+technology to create models of partial aneuploidies. Future work will
+include investigation of how different chromosomal changes contribute to
+cancer formation, which will have implications on our understanding of
+tumorigenesis.
+
+

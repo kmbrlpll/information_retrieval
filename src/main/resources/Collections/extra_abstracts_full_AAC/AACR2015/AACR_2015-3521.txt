@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Combined targeting of DNA and histone methylation improves the
+efficacy and specificity of epigenetic therapy
+
+
+Simultaneous treatment of cancer cells with DNA methyltransferase and
+HDAC inhibitors leads to synergistic increases of gene expression,
+indicating that certain genes require targeting of multiple modes of
+epigenetic regulation to be fully reactivated. However, a major obstacle
+facing the use of epigenetic therapies such as HDAC inhibitors in cancer
+is the lack of specificity in reactivating gene expression. Combined
+targeting of DNA and histone methylation is an unexplored and promising
+alternative to current therapies due to the role of both modifications in
+silencing of various tumor suppressor genes in cancer.To address this
+possibility, we performed a genome wide gene expression study of a DNA
+methyltransferase inhibitor (DAC) in combination with a LSD1 inhibitor
+(S2101), G9a inhibitor (UNC0638), EZH2 inhibitor (GSK343) or a HDAC
+inhibitor (Depsipeptide) in colon cancer (SW48) and breast cancer (MCF7)
+models. The trends of gene expression changes in response to the
+inhibitors were similar in both cancer models. S2101, UNC0638, and GSK343
+treatment by themselves induced limited gene upregulation in comparison
+to DAC and especially Depsipeptide. Interestingly, UNC0638 along with DAC
+had a strong preference to upregulate genes that had high levels of DNA
+methylation in their promoters. DAC in combination with S2101, UNC0638,
+or GSK343 was able to synergistically or additively upregulate many DAC
+target genes compared to levels achieved by DAC alone, demonstrated
+limited overlap between the upregulated genes (only 4.42% of genes
+commonly upregulated in SW48, 0.32% in MCF7), and formed distinct
+clusters in a hierarchical cluster analysis. Each DAC+inhibitor
+combination also induced a significant number of novel genes that were
+only upregulated with the combination therapy and not with DAC or
+inhibitor alone (>490 genes for each inhibitor combination in both cancer
+models), and there was again limited overlap between the upregulated
+genes (only 7.64% of genes commonly upregulated in SW48, 7.31% in MCF7).
+IPA analysis demonstrated that genes induced uniquely by the inhibitor
+combinations are enriched in critical cancer regulation pathways such as
+cell proliferation, cell death, and cell movement.Overall, these results
+demonstrate that effectiveness of combined targeting of DNA and histone
+methylation is achieved through two mechanisms: 1) Increase effectiveness
+of DAC by further upregulation of DAC target genes, and 2) Reactivate
+novel target genes unable to be induced by DAC or the inhibitors alone.
+These results also demonstrate a promising ability to target specific,
+non-overlapping sets of genes through different inhibitor combinations,
+contrary to the nonspecific effect observed with traditional epigenetic
+therapies. Combined targeting of DNA and histone methylation is a
+promising novel epigenetic therapy that may allow for the targeting of
+specific tumor types based on their gene expression profiles.
+

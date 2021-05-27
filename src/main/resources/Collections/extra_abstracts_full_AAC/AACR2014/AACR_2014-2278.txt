@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: The SMAC-mimetic birinapant regulates autocrine TNF production by
+caspase-8:RIPK1 complex via p38MAPK pathway
+
+
+Birinapant (TL32711), a SMAC-mimetic currently in clinical trials,
+antagonizes multiple members of the inhibitor of apoptosis (IAP) protein
+family to promote apoptosis in cancer cells through the formation of a
+caspase-8:RIPK1 complex and induction of autocrine tumor necrosis factor
+(TNF). Evidently, birinapant-resistant cells do not produce TNF upon drug
+treatment. However, the mechanism by which birinapant-sensitive cells
+produce TNF is not clear. Owing to the fact that mitogen-activated
+protein kinases (MAPKs) regulate a variety of cellular processes, we
+explored the role of MAPKs in birinapant-induced TNF production. Western
+blot analyses on a panel of birinapant-sensitive (SK-OV-3, EVSA-T,
+TOV-21G: all with an IC50 10M) cell lines showed that birinapant induced
+rapid and robust phosphorylation of p38MAPK in sensitive cells, which
+corresponded to increased TNF production as assessed by ELISA. However,
+resistant cells were not affected at multiple time points. The p38MAPK
+inhibitor, LY2228820, reduced the levels of birinapant-induced TNF
+(2-fold with 5nM birinapant after 24h) in birinapant-sensitive cancer
+cells (SK-OV-3), whereas inhibitors of Erk1/2 (PD98059) and JNK
+(SP600125) had no effect on TNF production. Interestingly, RNAi-mediated
+inhibition of p38 (MAPK14) isoform significantly inhibited
+birinapant-induced TNF production (3-fold with 5nM birinapant after 24h)
+in SK-OV-3 cells while inhibition of p38 (MAPK11) isoform upregulated TNF
+production (3-fold), suggesting that there may be a balance between
+p38MAPK isoforms to regulate TNF production. Pharmacological and
+RNAi-mediated inhibition of RIPK1 and caspase-8 activities in SK-OV-3
+cells resulted in reduced birinapant-induced p38MAPK phosphorylation and
+TNF production. Furthermore, commercially available pooled siRNAs
+targeting different isoforms of cFLIP, a catalytically-inactive homologue
+of caspase-8, upregulated p38MAPK phosphorylation (4-fold) and TNF
+production (8 to 26-fold) in birinapant-resistant cancer cell lines (T24,
+HT1376 & IGROV-1), and conferred differential sensitivity to the drug
+treatment (T24-IC50: 7nM; HT1376-IC50: >10nM; IGROV-1-IC50: >1M).
+Experiments involving cFLIP long (cFLIP-L) and short (cFLIP-S)
+isoform-specific siRNAs showed that inhibition of cFLIP-L, but not
+cFLIP-S, in T24 & HT1376 cells induced p38MAPK phosphorylation and TNF
+production, and conferred sensitivity to birinapant. However, the
+combined inhibition of cFLIP-L and cFLIP-S in IGROV-1 cells was required
+to induce p38MAPK phosphorylation, TNF production and apoptosis.
+Collectively, these observations indicate that birinapant-induced
+autocrine TNF production is triggered by the activation of the
+caspase-8/RIPK1/p38MAPK axis, and that cFLIP isoforms may confer a
+context-dependent negative regulatory effect.
+

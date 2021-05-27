@@ -1,0 +1,40 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Clinical relevance of miR-200 family members in various cancers
+
+
+Introduction: Low expression of miR-200 family members in some cancers
+has been linked to epithelial-mesenchymal transition and subsequent
+metastatic spread. Thus, low expression of miR-200 members would be
+expected to reduce survival. We investigated whether expression levels of
+miR-200 family members are associated with clinical outcome in several
+cancer types. Methods: We used clinically annotated data from The Cancer
+Genome Atlas (TCGA). Our preliminary analysis focused on nine different
+cancer types, subsequently reduced to four that had a large number of
+samples (>200). Expression data for all five miR-200 members (miR-141,
+-200a, -200b, -200c, and -429) were obtained from either Agilent miRNA
+microarrays (8x15K; glioblastoma multiforme and ovarian cancers) or
+miR-Seq (Illumina GA and HiSeq; breast and clear cell renal cancers).
+Approximately 2/3 of the samples for each tumor type were used as a
+training cohort to obtain the miRNA expression thresholds yielding the
+most significant log rank test p-values (one-tailed test), thus dividing
+the data into good and poor prognosis groups. These thresholds were then
+used to divide the data in the remaining 1/3 of the samples that
+functioned as independent validation cohorts, and p-values were computed
+for those cohorts. The same procedure was repeated again to look for
+significant differences in progression free survival. Kaplan-Meier curves
+were also plotted for all datasets, with a p-value 3500 days for low
+versus high miR-200a expression, respectively (p=0.005). However, in
+breast cancer (n=325) and glioblastoma multiforme (GBM, n=487), low
+expression of a miR-200 member was associated with an improved clinical
+outcome. In the breast cancer validation set (113 samples), median
+overall survival was > 7000 versus 3100 days for low versus high miR-141
+expression, respectively (p=0.036). In the GBM validation set (174
+samples), median progression free survival was 290 versus 150 days for
+low versus high miR-429 expression, respectively (p=0.009). Discussion:
+Here we show that altered expression levels of miR-200 members may have
+clinical relevance in common cancers. Interestingly, depending on the
+cancer type, low miR-200 member levels may either portend a better or
+worse prognosis. This study highlights the need to further elucidate
+novel mechanisms of the miR-200 family and perhaps exploit their diverse
+functions for therapeutic intent.
+

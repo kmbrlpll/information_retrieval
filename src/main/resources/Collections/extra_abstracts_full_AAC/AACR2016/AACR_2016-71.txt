@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Cas9 protein engineering for cell cycle-specific genome editing to
+enhance homology directed repair
+
+
+The comprehensive and coordinated efforts of The Cancer Genome Atlas
+(TCGA) and the International Cancer Genome Consortium (ICGC) identified
+the somatic genomic alterations occurring in a broad panel of human
+cancers. The challenge ahead is to understand the functions of these
+somatically altered genes.Genome editing tools like the CRISPR/Cas9
+system represent a transformative technology that allows the precise
+engineering of cells harboring specific (point) mutations found in
+specific tumor subtypes, enabling the investigation of the role of a
+candidate cancer gene in a stringently defined genetic context. Once
+recruited to its DNA target sequence in cells, Cas9 induces a DNA double
+strand break (DSB), which is either repaired by the non-homologous
+end-joining pathway (NHEJ), or by homology-directed repair (HDR). The HDR
+pathway allows for a precise site-specific knock-in and thus functional
+analysis of cancer-associated sequence variants. However, HDR activity is
+restricted to the late S and G2 phases of the cell cycle, while the NHEJ
+pathway dominates DNA repair throughout the cell cycle. Thus, the
+error-prone NHEJ pathway out-competes the HDR pathway, which reduces the
+likelihood for precise insertions, deletions or base substitutions at the
+DSB.Here, we devised a strategy to increase HDR by directly synchronizing
+the expression of Cas9 with cell cycle progression. Fusion of Cas9 to the
+N-terminal region of human Geminin converted this gene-editing protein
+into a substrate for the E3 ubiquitin ligase complex APC/Cdh1 resulting
+in a cell cycle tailored expression with low levels in G1, but high
+expression in S/G2/M. Importantly, Cas9-hGem(1/110) increased the
+relative rate of HDR by up to 87% at a single-copy reporter locus, and up
+to 42% at the endogenous MALAT1 locus compared to wild-type Cas9.In
+summary, our regulatory concept takes advantage of cell-autonomous
+pathways to enable fluctuation of Cas9 protein levels coupled to cell
+cycle dynamics. This resulted in higher site-specific integration events
+without sophisticated manipulation of cells by small molecules or
+additional gene targeting reagents. Future methodological developments
+may enable high-resolution expression of Cas9 and alternative genome
+engineering proteins like Cpf1 by combining cell cycle phase-specific
+transcriptional and post-translational regulatory elements. This might
+enhance HDR efficiencies even further, and will help to make sense of
+cancer genomic data.
+

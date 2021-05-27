@@ -1,0 +1,41 @@
+Meeting: 2013 AACR Annual Meeting
+Title: EWS-FLI1 reduces RNA Helicase A activity.
+
+
+Background: EWS-FLI1 requires the protein binding of RNA Helicase A (RHA)
+to enable oncogenic transformation. RHA is a DExH box RNA helicase family
+member. RHA has critical roles modulating transcription, splicing and
+translation. RHA also functions as a scaffolding protein in multi-protein
+complexes including BRCA1, DICER, EGFR, POL2R, TOPO2. Our previous work
+demonstrated that YK-4-279 inhibited the protein-protein interaction of
+RHA, with EWS-FLI1 and led to cellular apoptosis. The biochemical
+mechanism remained cryptic, so we investigated the effect of EWS-FLI1
+upon the helicase activity of RHA. Methods: Full-length purified
+recombinant RHA from insect cells. Infrared-labeled double stranded RNA
+was used as a substrate to measure helicase activity of RHA. We included
+full-length recombinant EWS-FLI1 in to the helicase reaction to test the
+effect of EWS-FLI1. Results: RHA unwinds double stranded RNA in the
+presence of ATP with Km value of 5.322 nM. We also showed that RHA
+manifests reannealing activity of single stranded RNA to double stranded
+RNA in the absence of ATP. Unlike ADP, ATP and additionally the
+non-hyrolysable gamma-S-ATP prevent reannealing activity of RHA. A
+molecular modeling of RHA structure predicted the surface exposure of the
+region (between 823-832aa), which EWS-FLI1 interacts with. The function
+of this region is not well described but presumed to support helicase
+activity. EWS-FLI1 interferes RNA helicase activity of RHA in a dose
+dependent manner. Moreover, the reduction of RHA protein level exerted
+cytotoxic effect on Ewing Sarcoma cells. Decreased RHA protein level
+changed EWS-FLI1 and its target gene expression profile. IGFBP3, GRK5,
+p21, and PRR3 gene expression levels increased massively. RPLA1 and NR0B1
+mRNA levels were also increased by moderately in these cells. The change
+in the profile may contribute to apoptosis. Conclusions: The purified
+recombinant RHA is very active in vitro helicase assays. We demonstrated
+that RHA's helicase activity might depend on ATP binding but not ATP
+hydrolysis. The protein partnering as well as posttranslational
+modification of RHA might modulate the helicase and/or reannealing
+activity of RHA, which may augment oncogenesis of EWS-FLI1. This is the
+first time that a protein partner reduces the helicase activity of RHA.
+Further experiments are ongoing that investigate whether YK-4-279
+blocking of EWS-FLI1 binding to RHA will restore the helicase activity of
+RHA as part of it contribution to cell death.
+

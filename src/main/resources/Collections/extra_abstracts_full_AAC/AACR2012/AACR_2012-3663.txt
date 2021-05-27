@@ -1,0 +1,31 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A gene signature for predicting outcome in patients with
+basal-like breast cancer
+
+
+Basal-like breast cancer is a molecular subtype of breast cancer
+generally thought to have a universally poor prognosis. Subsequent
+studies examining the long-term outcome in thousands of patients with
+basal-like breast cancer have shown that these patients can be separated
+into two clinically distinct groups: those likely to experience a
+systemic recurrence and succumb to their disease within the first 5 years
+and those expected to show excellent long term survival. The ability to
+distinguish between these two sub-groups (good and poor prognosis) of
+basal-like breast cancer patients at the time of initial diagnosis would
+permit tailoring more aggressive therapeutic regimens to those patients
+with an inherently poorer prognosis and conversely to avoid such therapy
+in patients with a more indolent course. We aimed to identify a gene
+signature that could predict the clinical outcome of basal-like breast
+cancer patients. To this end we mined publicly available human breast
+tumor gene expression profiling data and identified patients with
+basal-like breast cancer. We divided these patients into training and
+validation sets to identify and confirm the accuracy of a prognostic
+signature. We identified 137 basal-like breast tumors among 995 breast
+tumor gene expression profiles. We used 85 of these samples as a training
+group and identified an optimal 14-gene signature, which accurately
+identified patients that experienced poor and good long-term survival. We
+confirmed the accuracy of our gene signature on a 49 patient independent
+validation set. Importantly, we also confirmed the capacity of our
+signature to predict outcome in a chemotherapy nave 27 patient sub-set of
+the 49 patients validation set.
+

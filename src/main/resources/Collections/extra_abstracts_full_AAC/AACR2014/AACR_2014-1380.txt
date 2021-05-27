@@ -1,0 +1,30 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Genome-wide fingerprinting of regulatory chromatin to evaluate the
+tissue specific origins of high-grade serous ovarian cancer
+
+
+The normal precursor tissue origins of high grade serous epithelial
+ovarian cancers (HSOC) are likely to be the fallopian tube epithelium
+(FTE) and/or the ovarian surface epithelium (OSE). To address this
+hypothesis, we used FAIRE-seq and ChIP-seq to evaluate the genome wide
+regulatory profiles of both tissue types and compared these profiles to
+well characterized HSOC cell lines (CaOV3 and UWB1.289). This analysis
+provided, for the first time, global high-resolution annotation of open
+chromatin and histone H3K27 acetylation and H3K4 monomethylation marks
+for these tissues types, which are consistent with sites of
+transcriptional regulation. Using these data, we identified over 10,000
+non-promoter associated FAIRE/ChIP signal sites that represent candidate
+functional enhancers. The regulatory features provided a cell
+type-specific fingerprint for each cell type. While there were many
+similarities between OSE and FTE compared to other normal cell types, we
+also were also able to use these profiles to functionally distinguish OSE
+from FTE. When we compared profiles of HSOC cells, we observed stronger
+similarities in the regulatory chromatin landscape between FTE and HSOC
+cell types than between OSE and FTE. Supervised pathway analysis of genes
+located closest to putative enhancer sites provided additional evidence
+of signaling pathways that may underlie the neoplastic initiation and
+progression from normal tissue to HSOC phenotypes. Our results
+demonstrate the utility of this approach for identifying precursor tissue
+types for HSOC and other cancers based on the cell type specific
+chromatin datasets.
+

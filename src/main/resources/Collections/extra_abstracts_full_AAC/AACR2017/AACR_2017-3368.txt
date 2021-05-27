@@ -1,0 +1,139 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Omics data integration analysis in high grade serous ovarian
+cancer: results from three studies.
+
+
+High grade serous ovarian cancer (HGSOC) is a complex disease in which
+initiation and progression have been associated with gene mutation, DNA
+methylation changes, genetic variation, and epigenetic processes.
+Variation in several susceptibility regions and cancer-typical global
+methylation patterns have been observed in HGSOC; however, this knowledge
+has not been compelling in understanding HGSOC intiation or progression.
+As ingetration of genomic, epigenomic, and transcriptomic data has
+increased mechanistic understanding in other cancers, we hypothesized
+that tumor methylation alone or in combination with germline genetic
+variation influences tumor gene expression in HGSOC. We examined three
+nested models using an Elastnic Net (ENET) penalized regression method
+while adjusting for somatic copy number (CNV): a) germline genotype and
+tumor DNA methylation (full model), b) genotype only, and c) DNA
+methylation only. We included 339 cases from The Cancer Genome Atlas
+(TCGA), 54 cases from Mayo Clinic, and 78 cases from the Australian
+Ovarian Cancer Study (AOCS). Genotyping and copy number calls on germline
+DNA, expression, methylation and copy number on somatic samples were
+collected and analyzed on different platforms separately at each study
+site. We excluded genes with low overall expression and thus analyzed a
+total of 11,922 genes available in three datasets ( Ensembl IDs, 500kb
+window up- and downstream). In general, combining genomic data in HGSOC
+did not reveal a role for germline genetic variation in altering gene
+expression. However, in methylation only models 79 genes were associated
+with differential expression in the TCGA cases (permutation multiple
+testing adjusted p-val High grade serous ovarian cancer (HGSOC) is a
+complex disease in which initiation and progression have been associated
+with gene mutation, DNA methylation changes, genetic variation, and
+epigenetic processes. Variation in several susceptibility regions and
+cancer-typical global methylation patterns have been observed in HGSOC;
+however, this knowledge has not been compelling in understanding HGSOC
+intiation or progression. As ingetration of genomic, epigenomic, and
+transcriptomic data has increased mechanistic understanding in other
+cancers, we hypothesized that tumor methylation alone or in combination
+with germline genetic variation influences tumor gene expression in
+HGSOC. We examined three nested models using an Elastnic Net (ENET)
+penalized regression method while adjusting for somatic copy number
+(CNV): a) germline genotype and tumor DNA methylation (full model), b)
+genotype only, and c) DNA methylation only. We included 339 cases from
+The Cancer Genome Atlas (TCGA), 54 cases from Mayo Clinic, and 78 cases
+from the Australian Ovarian Cancer Study (AOCS). Genotyping and copy
+number calls on germline DNA, expression, methylation and copy number on
+somatic samples were collected and analyzed on different platforms
+separately at each study site. We excluded genes with low overall
+expression and thus analyzed a total of 11,922 genes available in three
+datasets ( Ensembl IDs, 500kb window up- and downstream). In general,
+combining genomic data in HGSOC did not reveal a role for germline
+genetic variation in altering gene expression. However, in methylation
+only models 79 genes were associated with differential expression in the
+TCGA cases (permutation multiple testing adjusted p-val <0.05), in the
+Mayo cases (unadjusted p-val High grade serous ovarian cancer (HGSOC) is
+a complex disease in which initiation and progression have been
+associated with gene mutation, DNA methylation changes, genetic
+variation, and epigenetic processes. Variation in several susceptibility
+regions and cancer-typical global methylation patterns have been observed
+in HGSOC; however, this knowledge has not been compelling in
+understanding HGSOC intiation or progression. As ingetration of genomic,
+epigenomic, and transcriptomic data has increased mechanistic
+understanding in other cancers, we hypothesized that tumor methylation
+alone or in combination with germline genetic variation influences tumor
+gene expression in HGSOC. We examined three nested models using an
+Elastnic Net (ENET) penalized regression method while adjusting for
+somatic copy number (CNV): a) germline genotype and tumor DNA methylation
+(full model), b) genotype only, and c) DNA methylation only. We included
+339 cases from The Cancer Genome Atlas (TCGA), 54 cases from Mayo Clinic,
+and 78 cases from the Australian Ovarian Cancer Study (AOCS). Genotyping
+and copy number calls on germline DNA, expression, methylation and copy
+number on somatic samples were collected and analyzed on different
+platforms separately at each study site. We excluded genes with low
+overall expression and thus analyzed a total of 11,922 genes available in
+three datasets ( Ensembl IDs, 500kb window up- and downstream). In
+general, combining genomic data in HGSOC did not reveal a role for
+germline genetic variation in altering gene expression. However, in
+methylation only models 79 genes were associated with differential
+expression in the TCGA cases (permutation multiple testing adjusted p-val
+<0.05), in the Mayo cases (unadjusted p-val <0.05) and AOCS cases
+(unadjusted p-val High grade serous ovarian cancer (HGSOC) is a complex
+disease in which initiation and progression have been associated with
+gene mutation, DNA methylation changes, genetic variation, and epigenetic
+processes. Variation in several susceptibility regions and cancer-typical
+global methylation patterns have been observed in HGSOC; however, this
+knowledge has not been compelling in understanding HGSOC intiation or
+progression. As ingetration of genomic, epigenomic, and transcriptomic
+data has increased mechanistic understanding in other cancers, we
+hypothesized that tumor methylation alone or in combination with germline
+genetic variation influences tumor gene expression in HGSOC. We examined
+three nested models using an Elastnic Net (ENET) penalized regression
+method while adjusting for somatic copy number (CNV): a) germline
+genotype and tumor DNA methylation (full model), b) genotype only, and c)
+DNA methylation only. We included 339 cases from The Cancer Genome Atlas
+(TCGA), 54 cases from Mayo Clinic, and 78 cases from the Australian
+Ovarian Cancer Study (AOCS). Genotyping and copy number calls on germline
+DNA, expression, methylation and copy number on somatic samples were
+collected and analyzed on different platforms separately at each study
+site. We excluded genes with low overall expression and thus analyzed a
+total of 11,922 genes available in three datasets ( Ensembl IDs, 500kb
+window up- and downstream). In general, combining genomic data in HGSOC
+did not reveal a role for germline genetic variation in altering gene
+expression. However, in methylation only models 79 genes were associated
+with differential expression in the TCGA cases (permutation multiple
+testing adjusted p-val <0.05), in the Mayo cases (unadjusted p-val <0.05)
+and AOCS cases (unadjusted p-val <0.05). A known tummor suppressor
+(FBXW7) was associated with differential expression in the three datasets
+at p-val High grade serous ovarian cancer (HGSOC) is a complex disease in
+which initiation and progression have been associated with gene mutation,
+DNA methylation changes, genetic variation, and epigenetic processes.
+Variation in several susceptibility regions and cancer-typical global
+methylation patterns have been observed in HGSOC; however, this knowledge
+has not been compelling in understanding HGSOC intiation or progression.
+As ingetration of genomic, epigenomic, and transcriptomic data has
+increased mechanistic understanding in other cancers, we hypothesized
+that tumor methylation alone or in combination with germline genetic
+variation influences tumor gene expression in HGSOC. We examined three
+nested models using an Elastnic Net (ENET) penalized regression method
+while adjusting for somatic copy number (CNV): a) germline genotype and
+tumor DNA methylation (full model), b) genotype only, and c) DNA
+methylation only. We included 339 cases from The Cancer Genome Atlas
+(TCGA), 54 cases from Mayo Clinic, and 78 cases from the Australian
+Ovarian Cancer Study (AOCS). Genotyping and copy number calls on germline
+DNA, expression, methylation and copy number on somatic samples were
+collected and analyzed on different platforms separately at each study
+site. We excluded genes with low overall expression and thus analyzed a
+total of 11,922 genes available in three datasets ( Ensembl IDs, 500kb
+window up- and downstream). In general, combining genomic data in HGSOC
+did not reveal a role for germline genetic variation in altering gene
+expression. However, in methylation only models 79 genes were associated
+with differential expression in the TCGA cases (permutation multiple
+testing adjusted p-val <0.05), in the Mayo cases (unadjusted p-val <0.05)
+and AOCS cases (unadjusted p-val <0.05). A known tummor suppressor
+(FBXW7) was associated with differential expression in the three datasets
+at p-val <0.01. This work demonstrates the feasibility, utility, and
+statistical power of ENET gene-level analyses incoporating maximal
+genomic information.
+
+

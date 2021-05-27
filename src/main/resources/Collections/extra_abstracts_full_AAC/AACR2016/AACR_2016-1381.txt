@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: NGS-based CNV detection sensitivity is dependent upon nucleic acid
+input quality
+
+
+Copy number variations (CNV) impact more of the cancer genome than all
+other mutation types combined. Recent advances in next-generation
+sequencing (NGS) have enabled simultaneous detection of CNVs and other
+somatic mutations from FFPE-derived samples, but NGS-based detection of
+low level CNVs (ie 2-3x) remains challenging. Nucleic acid from FFPE is a
+common starting material for NGS-based cancer genotyping; however, this
+material is often of low complexity due to a variety of factors including
+limited mass amount, excessive fragmentation, or chemical crosslinking.
+Current practices often measure input mass, or the nanograms of DNA that
+are added to a reaction, yet it is input complexity, or the amount of
+nucleic acid available for NGS library generation, that truly dictates
+the amount of information that can be recovered from a given
+sample.Archer VariantPlex assays are targeted NGS panels that permit
+simultaneous detection of SNVs, in/dels, and CNVs using Anchored
+Multiplex PCR (AMP). Molecular barcoded adapters are ligated to each
+input molecule prior to any amplification. This permits the unique
+identification of individual input molecules thus facilitating precise
+copy number measurements. In addition, AMP enables amplification of
+highly fragmented FFPE inputs as short fragments are captured between the
+ligated adapter and the enrichment probe. To determine the effect of
+input quality on sensitivity of CNV calling we characterized over 150
+tumor sample input qualities and their resulting library metrics. In
+addition we modeled the effect of low tumor cellularity on CNV
+sensitivity by carrying out dilution experiments of CNV-positive samples
+into samples of normal copy number.Using Archer VariantPlex assays in
+conjunction with Archer Analysis, we have successfully detected CNVs as
+small as 2X in both FFPE and cell line DNA. We found that input nucleic
+acid quality, as measured by a qPCR-based assay called Archer PreSeq DNA
+QC, strongly impacted the sensitivity of CNV calling. Assessment of input
+complexity using the PreSeq DNA QC Assay is predictive of limit of
+detection for CNVs and identifies an input quantity that will result in
+high quality NGS libraries. Our dilution experiments confirmed the
+expected relationship between actual and measured copy number in our
+population-averaging assay.Nucleic acid damage typical of FFPE samples
+reduces CNV calling sensitivity; however, this loss of sensitivity can be
+partially mitigated by increasing the input quantity. This corroborates
+the notion that input complexity is the major driver of
+information-capture from NGS based assays. Finally, tumor cellularity
+displays a predictable effect on the measured CNV value.
+

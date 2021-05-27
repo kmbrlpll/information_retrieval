@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Age of cancer onset differentiated by sex and TP53 codon change in
+Li-Fraumeni Syndrome patient population.
+
+
+Introduction:Li-Fraumeni Syndrome (LFS) is a highly penetrant autosomal
+dominantly inherited cancer predisposition disorder. Germline mutations
+of the TP53 tumor suppressor gene cause >80% of LFS and confer an
+increased risk of a range of early onset cancers, as well as of second
+tumors even in the absence of a family history of cancer. For this
+reason, we previously reported the implementation of a comprehensive
+life-long clinical surveillance protocol for individuals with a germline
+TP53 mutation for early tumor detection. Here, we set out to build a
+predictive model of age of onset of cancer in LFS patients to inform this
+screening protocol aiming to make it more targeted. We identify
+characteristics that differentiate the age of cancer onset consistently,
+across multiple LFS patient cohorts.
+
+Methods:The LFS cohort at Toronto’s Hospital for Sick Children
+(SickKids) (n = 171 patients) was used as a discovery set to identify
+factors that distinguish age of onset among LFS patients. This project
+focused specifically on patient characteristics such as sex and mutations
+within TP53, both as they appear on the genome and manifest in the
+protein, as predictors for age of onset. These predictors were tested in
+an exponential parametric survival model. Findings from the SickKids
+discovery set were tested for replication in the International Agency for
+Research on Cancer (IARC) TP53 database (n = 2374 patients).
+
+Results:In the discovery cohort, female sex was associated with a 1.53
+fold later age of cancer onset than in males (p = 0.019). This did not
+replicate in the IARC TP53 set with 0.99 fold earlier onset for females
+than males (p = 0.843). However, in the discovery set, there appears to
+be a point at which female and male age of onset converges at 43 years.
+Controlling for onset before vs after 43 years in our replication set
+shows 1.12 (p= 0.0204) times later age of cancer onset in females than in
+males which is the same direction and significance as in our discovery
+set. The discovery cohort also showed 2.23 (p = 0.08) later cancer onset
+for individuals with a germline Arginine to Cysteine (Arg>Cys) codon
+change (model significance p = 0.047). This finding replicated in the
+IARC TP53 data set which showed individuals with an Arg>Cys codon change
+having onset 1.29 (p = 0.043) times later than those with a TP53 mutation
+that did not result in this codon change.
+
+Conclusions:Our study identified two LFS patient characteristics, sex and
+TP53 Arg>Cys codon change, which consistently differentiate age of cancer
+onset within the LFS patient population. Females under the age of 43 when
+compared to males under the age of 43 appear to have later tumor onset,
+an effect which disappears after the age of 43. Individuals with an
+Arg>Cys TP53 codon change are expected to have later onset cancer than
+those with TP53 mutations that do not result in this change. Future work
+will disentangle these findings further and build a more comprehensive
+predictive model of cancer onset in LFS patients.
+
+

@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Implications of Akt inhibition for neoadjuvant radiotherapy:
+improving the rectal cancer treatment
+
+
+Resistance to therapy is a major obstacle to a favorable outcome in
+cancer treatment. For rectal cancer, neoadjuvant chemoradiotherapy (nCRT)
+can lead to complete tumor regression in a significant proportion of
+patients (up to 40%) but approximately 60% of patients have only partial
+or no tumor remission after nCRT. A number of works searching for a
+differential gene expression signature has failed. As those gene
+signatures relies on the sample set, there is an increasing agreement
+that biological understanding is necessary to produce a signature in
+terms of pathways and biological processes. In this regard we applied
+pathway enrichment analysis to RNA-Seq data in order to identify
+biological pathways involved in tumor resistance and discriminate rectal
+cancer patients that is refractory to neoadjuvant treatment.
+Mitochondrial oxidative phosphorylation and phosphatidylinositol
+signaling were identified as the main pathways involved in resistance to
+nCRT in patients with rectal cancer. Both pathways have been reported as
+involved in resistance to radiotherapy and chemotherapy in solid tumors
+but according to the status of gene regulation observed and the
+literature, there is evidence that Akt pathway could be central in
+promoting resistance.Therefore, we evaluated the status of Akt activation
+by immunohistochemistry of pre-treatment biopsies of rectal tumors as
+well as by immunoblot of colorectal cancer cell lines utilizing
+antibodies against phosphorylated Akt (pS473). As a result, we observed
+an increased proportion of Akt phosphorylation in the resistant cell
+line, SW480, and in patients with TRG 0-2 in comparison to those with TRG
+3-4 and in the sensitive cell line, SW48. To evaluate the implication of
+Akt in promoting nCRT resistance, we performed colony formation assays
+using Akt inhibitors as radiosensitizers. We observed an additive effect
+using MK2206 at sub-doses in combination to radiotherapy (2 Gy) in the
+resistant cell line. In fact, Akt inhibition improved in approximately
+40% the tumoricidal effects of radiotherapy. Moreover, at IC50 dose this
+effect is even higher, reaching 60% the improvement of radiotherapy.
+Furthermore, the treatment of MK2206 with radiotherapy alone or in
+combination with 5-FU have similar effectiveness. In this setting, as Akt
+is involved in a range of cellular functions that promote tumor
+progression and metastasis, we propose that combination of Akt inhibitor
+and radiotherapy as neoadjuvant treatment would maximize tumor remission
+and improve the rectal cancer treatment.
+

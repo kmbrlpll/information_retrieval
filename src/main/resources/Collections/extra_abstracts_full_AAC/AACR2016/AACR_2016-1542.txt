@@ -1,0 +1,34 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identification and utilization of molecular pathways correlated
+with osteosarcoma metastasis to predict targeted therapies
+
+
+Osteosarcoma (OSA) is the most prevalent primary bone tumor and accounts
+for approximately 2% of childhood cancers. Approximately 40% of all OSA
+patients succumb to metastatic disease within 5 years. Canine OSA occurs
+about 10 times more frequently than human OSA and has been shown to be
+very similar to pediatric OSA biologically, histologically, molecularly,
+and in treatment. This suggests that canine OSA is an excellent
+pre-clinical model to investigate better treatment options for metastatic
+OSA. We compared in-vitro markers of metastatic potential with gene
+expression data in eight canine OSA cell lines to identify molecular
+pathways that will be potential chemotherapeutic targets to treat and
+prevent metastatic OSA.The metastatic potential of 8 canine OSA cell
+lines was characterized utilizing Incucyte Zoom based migration and
+invasion scratch wound assays. Gene expression analysis was performed
+using Affymetrix GeneChip Canine Genome 2.0 Arrays. Genes that were
+statistically correlated with migratory and invasive phenotypes were used
+to enrich molecular pathways described in several databases utilizing
+Enrichr software. Altered pathways and associated targeted agents that
+would inhibit the pathways enriched by the correlated gene sets were
+identified.Chemotherapeutics targeting significantly enriched pathways
+were screened for their ability to inhibit metastatic potential.
+Dasatinib and Stattic were the only inhibitors screened to date that
+inhibit migration of the osteosarcoma cell lines at clinically relevant
+doses. The remaining significantly correlated pathways will be targeted
+as well as rational combinations of pathways. An orthotopic murine model
+is currently being tested to further explore the utility of efficacious
+chemotherapeutics in-vivo.
+* We were not able to reach an IC50 at clinically relevant dosesPathway
+Inhibition and Anti-Migratory Effects
+

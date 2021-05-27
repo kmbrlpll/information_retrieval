@@ -1,0 +1,26 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Lung adenocarcinoma differential expression analysis using the
+Maverix RNA-Seq pipeline
+
+
+BackgroundRNA-Seq is a powerful means of identifying changes in gene
+expression in cancerous tissue. Widespread adoption of RNA-Seq is
+hampered by lack of familiarity with the appropriate analysis tools and
+excessive turn around time. Maverix Biomics, Inc offers a scalable,
+reliable, validated, and easily accessible differential expression
+pipeline for translational and clinical researchers to analyze and
+explore RNA-Seq data. Here we describe the pipeline, demonstrate the
+available tools and visualizations, and provide benchmarks for completion
+time from lung adenocarcinoma.ResultsLung adenocarcinoma samples appear
+very different compared to their normal counterparts in terms of overall
+gene expression and exhibit many differentially expressed genes. For
+analysis completion time, parallelization is far superior than the
+theoretical curve without parallelization. It took 7.9 hours to analyze
+two samples, but took only 13.1 hours to analyze 25 samples. We found
+2246 significant genes common to three different differential expression
+tools: DESeq, edgeR, and cuffdiff.ConclusionsThe Maverix RNA-Seq pipeline
+is demonstrated here to be highly scalable, easy to use, and includes a
+range of tools and visualizations for understanding differential
+expressions results. This pipeline is a great analytic option to
+accelerate translational and clinical research in the field of oncology.
+

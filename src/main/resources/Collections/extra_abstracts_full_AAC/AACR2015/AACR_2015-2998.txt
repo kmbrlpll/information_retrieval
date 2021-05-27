@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: MLN4924 inhibition of Cullin-Ring ligases activates a hypoxic
+response and secretion of tumor promoting factors in human MCF7 breast
+cancer cells
+
+
+Hypoxia-inducible factors (HIFs) are the key transcription factors that
+mediate the cellular response to low oxygen tension. During normoxia, HIF
+activity is tightly controlled by its oxygen-dependent prolyl
+hydroxylation which allows polyubiquitination by von Hippel-Landau tumor
+suppressor (VHL), leading to HIF degradation by the ubiquitin-proteasome
+pathway. During hypoxia, low oxygen tension prevents HIF prolyl
+hydroxylation resulting in HIF accumulation and subsequent transcription
+of HIF target genes. VHL is a known Cullin-RING E3 ubiquitin ligase (CRL)
+that is dependent on neddylation of the Cul-2 subunit by NEDD8 Activating
+Enzyme (NAE) for its enzymatic activity. The small molecule inhibitor
+MLN4924 inhibits NAE neddylation of Cullins by covalently binding the
+nucleotide-binding site of NAE. HIF-1 is a well-known CRL substrate that
+increases in abundance upon MLN4924 treatment. We investigated the
+response of MCF-7 human breast cancer cells to MLN4924 treatment compared
+to hypoxia (1% O2, 48 hours) treatment. Cell lysates tested using the
+Human Oncology Antibody Array and Western blot showed that both
+treatments induced accumulation of HIF-1 protein, with protein levels in
+MLN4924 treated cells greater than levels in hypoxia treated cells. This
+correlated with the expected attenuation of HIF-1 ubiquitination as
+detected by the Human Ubiquitin Antibody Array. The specificity of
+MLN4924 targeting Cullin proteins was tested using Western blots. The
+neddylation of the VHL subunit Cul-2, as well as Cul-1, was not
+detectable in MLN4924 treated cells, but was readily detectable in
+hypoxia treated cells. Since MLN4924 was reported to inhibit mTORC1
+activity, Western blots were used to evaluate signaling of the mTORC1
+complex. Thr-389 phosphorylation of p70 S6K was not detectable upon
+treatment with MLN4924 and attenuated in hypoxia treated cells. Thr-389
+phosphorylated p70 S6K was not detectable in Rapamycin-treated cells, a
+potent mTORC1 inhibitor. The relative protein levels of several known
+HIF-1 target genes were tested using the Human Angiogenesis Antibody
+Array. VEGF was detected in cell culture supernates from normoxia,
+hypoxia, and MLN4924 treated cells. ELISAs were used to measured VEGF and
+Carbonic Anhydrase IX and were found to be highest in MLN4924 treated
+cells. Interestingly, these same array profiles detected tumor promoting
+factors Angiogenin, Amphiregulin, Endothelin 1, and PDGF-AA in cell
+supernates from MLN4924 treated cells at higher levels than hypoxia
+treated MCF-7 cells. Recent reports found MLN4924 to inhibit tumor
+angiogenesis in mouse models, indicating that the effects of MLN4924 on
+secretion of tumor promoting factors by MCF-7 cells may be context
+dependent.
+

@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The role of miR17-92 in the miRegulatory landscape of Ewing sarcoma
+
+
+MicroRNAs (miRNA) serve to fine-tune gene expression and thus play an
+important regulatory role in tissue specific gene networks. The
+identification and validation of miRNA target genes in a given tissue
+still poses a significant problem since the presence of a seed sequence
+in the 3UTR of an mRNA and its expression modulation upon forced ectopic
+expression of the miRNA do not reliably predict regulation under
+physiological conditions. The chimeric oncoprotein EWS-FLI1 is the
+driving pathogenic force in ES. Recently, we reported on the EWS-FLI1
+microRNA (miRNA) signature based on knockdown experiments in ES cell
+lines and on differential expression in primary tumors versus mesenchymal
+stem cells. Comparison of both datasets revealed the miR17-92 cluster to
+be the top EWS-FLI1 activated miRNA, which is one of the most potent
+oncogenic miRNAs. The whole cluster is among the small number of miRNAs
+down-regulated upon knockdown of EWS-FLI1 in multiple ES cell lines. We
+now report the use of a combination of AGO2 pull-down experiments by
+PAR-CLIP - to enrich and sequence RISC-associated RNAs - and of RNAseq
+upon miRNA depletion by ectopic sponge expression to identify the
+targetome of miR17-92 in Ewing sarcoma (ES) cellsWe found a significant
+enrichment of PAR-CLIP hits for members of the miR-17-92 cluster in the
+3UTRs of genes up-regulated in response to mir-17-92 but not miR9 and 10b
+specific sponge expression. Among them, we consistently identified known
+(i.e. CTGF, MXD1, CYLD1) and a multitude of so far unknown targets of the
+oncomir-1 cluster in ES in three PAR-CLIP experiments. Interestingly,
+approximately a quarter of these genes annotate to the TGFB/BMP pathway,
+the majority mapping downstream of SMAD signaling.Gene reporter assays
+using 3UTRs of select novel candidate genes showed enhancement of
+luciferase activity upon transfection of a sponge specific to miR-17-92
+and 20a, but not to unrelated miR-9 and 10b. Site directed mutagenesis of
+seed sequences in these 3UTR confirmed the direct regulation of these
+genes by miR17-92. Current research focuses on the functional validation
+of TGFB pathway modulation by miR17-92. This study provides a
+paradigmatic approach to the comprehensive definition of the targetome
+for a defined group of miRNAs under physiological conditions.This study
+was supported by the 7th framework program of the European Commission
+(FP7-259348, ASSET) and the Austrian Science Fund FWF (24708-B21)
+

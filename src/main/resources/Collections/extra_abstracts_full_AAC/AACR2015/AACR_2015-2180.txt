@@ -1,0 +1,87 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Immune, keratinocyte, and fibroblast expression signatures
+distinguish HNSCC samples by HPV status
+
+
+IntroductionHead and neck squamous cell carcinoma (HNSCC) is the sixth
+leading cancer in the world. HPV-positive HNSCC is considered a distinct
+molecular entity with a better prognosis than HPV-negative. To better
+understand the mechanisms underlying the clinical and molecular behavior
+between HPV-positive and HPV-negative HNSCC we applied bioinformatics
+approaches to transcriptomic data to identify signature patterns
+associated with 25 different cell types, and characterize cell type
+heterogeneity by HPV-status.Materials and methodsWe analyzed 18 HPV (+)
+and 18 HPV (-) samples collected at University of Michigan hospital from
+36 individuals with HNSCC; all were determined to be >70% cellularity by
+a pathologist. Gene expression was evaluated using Illumina HiSeq
+RNA-seq. Differentially expressed genes were identified using TopHat,
+HTSeq, and then edgeR, resulting in 559 and 873 up in HPV(+) or HPV(-),
+respectively, with FDR 3. Cell type-specific expression patterns were
+identified using > 700 microarray samples from 25 relevant cell types.
+Using this database and the list of genes differentially expressed by HPV
+status we identified which cell type(s) contributed the strongest
+expression pattern by calculating cell type-specific enrichment scores as
+a weighted Kolmogorov-Smirnov-like statistics against the top ranked 250
+genes.ResultsSignificantly higher estimates of cell type composition in
+HPV(+) samples were observed for T lymphocytes (CD3+ T-cells, CD4+
+T-cells, CD8+ T-cells, CD34+ T-cells, T-cells, regulatory T-cells),
+NK-cells, B cells, and monocytes (p-value 3. Cell type-specific
+expression patterns were identified using > 700 microarray samples from
+25 relevant cell types. Using this database and the list of genes
+differentially expressed by HPV status we identified which cell type(s)
+contributed the strongest expression pattern by calculating cell
+type-specific enrichment scores as a weighted Kolmogorov-Smirnov-like
+statistics against the top ranked 250 genes.ResultsSignificantly higher
+estimates of cell type composition in HPV(+) samples were observed for T
+lymphocytes (CD3+ T-cells, CD4+ T-cells, CD8+ T-cells, CD34+ T-cells,
+T-cells, regulatory T-cells), NK-cells, B cells, and monocytes (p-value <
+0.0004). Conversely, endothelial cells, epidermis, dermis, keratinocyte,
+and fibroblast all had significantly higher estimates of cell type
+proportion in HPV(-) samples (p-value 3. Cell type-specific expression
+patterns were identified using > 700 microarray samples from 25 relevant
+cell types. Using this database and the list of genes differentially
+expressed by HPV status we identified which cell type(s) contributed the
+strongest expression pattern by calculating cell type-specific enrichment
+scores as a weighted Kolmogorov-Smirnov-like statistics against the top
+ranked 250 genes.ResultsSignificantly higher estimates of cell type
+composition in HPV(+) samples were observed for T lymphocytes (CD3+
+T-cells, CD4+ T-cells, CD8+ T-cells, CD34+ T-cells, T-cells, regulatory
+T-cells), NK-cells, B cells, and monocytes (p-value < 0.0004).
+Conversely, endothelial cells, epidermis, dermis, keratinocyte, and
+fibroblast all had significantly higher estimates of cell type proportion
+in HPV(-) samples (p-value < 0.0004). For validation, we compared these
+results to results calculated in an identical way using TCGA HNSC RNA-seq
+data (39 HPV(+) vs 277 HPV(-) samples) and found that the largest
+differences in cell types higher in HPV(+) were shown also in T
+lymphocytes, NK-cells & B cells, and that dermis, fibroblast, epidermis &
+keratinocyte cell types were again estimated to be higher in HPV(-)
+samples (p-value 3. Cell type-specific expression patterns were
+identified using > 700 microarray samples from 25 relevant cell types.
+Using this database and the list of genes differentially expressed by HPV
+status we identified which cell type(s) contributed the strongest
+expression pattern by calculating cell type-specific enrichment scores as
+a weighted Kolmogorov-Smirnov-like statistics against the top ranked 250
+genes.ResultsSignificantly higher estimates of cell type composition in
+HPV(+) samples were observed for T lymphocytes (CD3+ T-cells, CD4+
+T-cells, CD8+ T-cells, CD34+ T-cells, T-cells, regulatory T-cells),
+NK-cells, B cells, and monocytes (p-value < 0.0004). Conversely,
+endothelial cells, epidermis, dermis, keratinocyte, and fibroblast all
+had significantly higher estimates of cell type proportion in HPV(-)
+samples (p-value < 0.0004). For validation, we compared these results to
+results calculated in an identical way using TCGA HNSC RNA-seq data (39
+HPV(+) vs 277 HPV(-) samples) and found that the largest differences in
+cell types higher in HPV(+) were shown also in T lymphocytes, NK-cells &
+B cells, and that dermis, fibroblast, epidermis & keratinocyte cell types
+were again estimated to be higher in HPV(-) samples (p-value <
+0.0004).ConclusionDifferential expression in HNSCC by HPV status can
+partly be explained by differences in the tumor cellular composition, and
+this in turn will help to focus on differential expression within the
+tumor cells themselves. Our results predict that T lymphocytes and other
+cell types responsible for the adaptive immune response contribute a
+larger portion of the cellular composition in HPV(+) tumors compared to
+HPV(-). Conversely, keratinocytes and fibroblasts are predicted to make
+up a larger portion of cells in HPV(-) tumors. Surprisingly, the stem
+cell expression signature was not significantly different by HPV-status,
+even though HPV(+) tumors tend to be less differentiated than HPV(-)
+tumors.
+

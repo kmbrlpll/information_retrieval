@@ -1,0 +1,42 @@
+Meeting: 2013 AACR Annual Meeting
+Title: BCR-Abl independent, Abl-TKI-therapy-resistant CML cells show
+enhanced sensitivity to GDC0941.
+
+
+Introduction: Chronic Myeloid leukemia (CML) is driven by the BCR-ABL
+oncogene and is initially treated with ABL tyrosine-kinase inhibitors
+(ABL-TKI), such as Imatinib or Dasatinib. Despite strong initial
+responses to these drugs, many patients acquire resistance over time
+through acquisition of BCR-ABL mutations such as T315I, compound BCR-ABL
+mutations or through BCR-ABL-independent mechanisms. Even though the next
+generation pan-ABL inhibitor, Ponatinib, targets all know resistant ABL
+mutations, some patients don't benefit from Ponatinib and in these cases
+resistance to TKI therapy may be due to BCR-ABL-independent mechanisms.
+We analyzed the mechanism of ABL-TKI-dual-resistant CML cells independent
+of new BCR-ABL mutations and tested the sensitivity of these resistant
+cells to the PI3K inhibitor, GDC-0941 and/or the MEK inhibitor
+GDC-0973.Methods: We created ABL-TKI-dual-resistant cells and clones
+through prolonged treatment of K562 and KCL22 cells with Imatinib and
+then Dasatinib. The cells and clones were tested for sensitivity to
+Imatinib, Dasatinib, Ponatinib, GDC-0941 and GDC-0973. Whole genome copy
+number scan (Oncoscan) and targeted deep sequencing using GAII were used
+to identify BCR-ABL mutations and newly acquired somatic gene
+alterations. Phosphoproteomic analysis of cell lysates by Reverse Phase
+Protein Arrays was used to profile cell signaling pathway status
+associated with resistance and sensitivity to these drugs.Results: The
+K562 ABL-TKI-dual-resistant cells were insensitive to all three ABL-TKIs
+including Ponatinib suggesting that resistance was mediated by a
+BCR-ABL-independent mechanism. Unexpectedly, the resistant cells and
+clones became more sensitive to GDC-0941 but not GDC-0973 compared to the
+parental cells. These resistant cells and clones had acquired new somatic
+mutations in p53, BRCA2, PTEN, RB, SMARCA4 and PBRM1, but not in BCR-ABL.
+Phosphoprotein profiling showed low phosphorylation of the BCR-ABL
+substrates c-ABL, SHC and FAK indicative of BCR-ABL-independent
+mechanisms of resistance. Activity of the PI3K/AKT and MEK/ERK pathways
+varied across the resistant clones. However, high levels of the AKT
+substrate, FOXO-1 directly correlated with Dasatinib resistance and with
+GDC-0941 sensitivity. Sensitivity to GDC-0941 also correlated with
+modulation of phospho-FOXO-1. Our data suggest that GDC-0941 may be a
+therapeutic candidate for CML patients who progress on TKI therapy
+through BCR-ABL-independent mechanisms of resistance.
+

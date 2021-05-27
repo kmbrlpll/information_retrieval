@@ -1,0 +1,71 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Genome-wide profiling of the prostate cancer methylome for
+biomarker discovery.
+
+
+Prostate cancer (PC) is the most common malignancy, and the second most
+common cause of cancer related death amongst men in the Western world.
+The PC biomarkers currently available are unable to distinguish between
+aggressive and indolent PC, causing significant over-diagnosis and
+over-treatment. Here, by genomewide profiling of the DNA methylome, we
+aimed to identify new molecular markers that can improve the accuracy of
+diagnosis and prognosis of PC.In total, 21 PC, 9 normal (N), and 12
+adjacent normal (AN) prostate tissue samples, as well as 15 prostate
+(cancer) cell lines, were run on the Illumina Infinium
+HumanMethylation450 BeadChip, which investigates Prostate cancer (PC) is
+the most common malignancy, and the second most common cause of cancer
+related death amongst men in the Western world. The PC biomarkers
+currently available are unable to distinguish between aggressive and
+indolent PC, causing significant over-diagnosis and over-treatment. Here,
+by genomewide profiling of the DNA methylome, we aimed to identify new
+molecular markers that can improve the accuracy of diagnosis and
+prognosis of PC.In total, 21 PC, 9 normal (N), and 12 adjacent normal
+(AN) prostate tissue samples, as well as 15 prostate (cancer) cell lines,
+were run on the Illumina Infinium HumanMethylation450 BeadChip, which
+investigates <485,000 CpG sites. The methylation data was analyzed using
+the Mann-Whitney rank-sum test.Identification of differential methylation
+between N and AN samples could potentially aid correct diagnosis of
+patients with false negative biopsies. However, only 16 probes showed
+significant differential methylation in N vs. AN samples (p-value
+Prostate cancer (PC) is the most common malignancy, and the second most
+common cause of cancer related death amongst men in the Western world.
+The PC biomarkers currently available are unable to distinguish between
+aggressive and indolent PC, causing significant over-diagnosis and
+over-treatment. Here, by genomewide profiling of the DNA methylome, we
+aimed to identify new molecular markers that can improve the accuracy of
+diagnosis and prognosis of PC.In total, 21 PC, 9 normal (N), and 12
+adjacent normal (AN) prostate tissue samples, as well as 15 prostate
+(cancer) cell lines, were run on the Illumina Infinium
+HumanMethylation450 BeadChip, which investigates <485,000 CpG sites. The
+methylation data was analyzed using the Mann-Whitney rank-sum
+test.Identification of differential methylation between N and AN samples
+could potentially aid correct diagnosis of patients with false negative
+biopsies. However, only 16 probes showed significant differential
+methylation in N vs. AN samples (p-value <0.05,
+Benjamini-Hochberg-adjusted, 0.2), none of which corresponded to the same
+genomic locus. Also, multi-dimensional scaling, using the 10,000 most
+variable CpG sites, showed that N and AN samples clustered very tightly
+together, whereas PC samples showed great heterogeneity. Due to this
+similarity in methylation between N and AN samples, these were pooled
+into one control group for further analyses.We applied a cutoff value of
+0.2 and a p-value of 0.05 (adjusted), which revealed 26,286 significantly
+differentially methylated CpG sites between PC and controls (3076
+hypomethylated and 23,210 hypermethylated in PC). Global analysis showed
+that PC samples were hypermethylated in CpG islands (CGIs), a trend which
+was even more pronounced in CGI shores and shelves. Although less common
+overall, hypomethylation was also more prominent in shores and shelves
+compared to CGIs.Applying a strict cutoff value of 0.6, only 69
+significantly differentially methylated CpG sites remained. Of these, 55
+sites were gene associated (41 different genes), all were hypermethylated
+in PC samples, and all but one were located in CGIs.Out of these 41
+genes, we selected 5 candidates for validation. In-house and publicly
+available gene expression datasets showed that at least three of the
+genes were downregulated in PC, consistent with silencing caused by
+aberrant promoter methylation. Initial validation was carried out in PC
+cell lines by bisulphite sequencing, which confirmed the array results
+for all 5 genes. We are currently validating these findings by
+methylation-specific qPCR analysis of a large independent patient cohort
+with long clinical follow-up, in order to assess the
+diagnostic/prognostic biomarker potential of these 5 novel candidate
+methylation markers. These results will be presented at the conference.
+

@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Routine micro-sampling and LC-MS/MS quantitation for PK and PK/PD
+determination in mice
+
+
+Serial micro-sampling is a viable and advantageous approach for
+pharmacokinetic (PK) screening or efficacy determinations (PK/PD) in
+small animals such as mice. Serial micro-sampling can eliminate the need
+to sacrifice one animal per time point, decrease the inter-animal
+variability commonly observed in small animal PK/PD studies, allow for
+determination of the PK profile in the same animals as the PD, and reduce
+the sample volumes required for analysis. Previously published papers
+described serial bleeding of mice and analysis by either capillary
+LC-MS/MS or by conventional LC-MS/MS. With the advent of even more
+sensitive mass spectrometers, detection of analytes in smaller sample
+volumes is possible routinely. Therefore, the major difficulty associated
+with micro-sampling is the handling of the small volume samples required
+to yield accurate and precise quantitative results. Balb/c or CD-1 mice
+were dosed IV/PO with selected cancer drug candidates. At specified time
+intervals, whole blood samples (10uL) were collected via the tail vein.
+The drug candidate was isolated from mouse whole blood, and quantified by
+LC-MS/MS. To allow re-analysis of ALQ samples with additional dilution,
+the standard curve range was increased 10-fold with additional higher
+concentration standards which were only used if needed. Appropriate
+concentrations of standard and internal standard were added to 10uL of
+control whole blood to yield concentrations of 2-100000 ng/mL. The assay
+using 10L of blood was sensitive to 2 ng/mL, and accurate to better than
+80% of nominal. Replicate quality control samples showed very good
+reproducibility, with precision better than 20% CV, and recovery greater
+than 80%. For comparison, the same assay was conducted using a more
+traditional volume of 100 L of plasma taken from the same rat as the 10 L
+of blood. The results show that the low volume blood method is comparable
+to the typical approach, and that low volume sampling is appropriate for
+routine PK or PK/PD studies in small animals such as the mouse. The upper
+limit of quantitation for standards and quality controls was 10,000
+ng/mL. Standards and quality controls were prepared at much higher
+concentrations (25000, 50000 and 100000 ng/mL), and used with additional
+dilution if the unknown samples analyzed were above the limit of
+quantitation. When the latter was the case, the results showed acceptable
+precision and accuracy with the diluted extract. Therefore, this
+procedure allows quantitation of samples above the linear range of the
+assay without the need to re-extract samples. Serial micro-sampling in
+mice can be used routinely to reduce animal numbers, decrease
+experimental variability and obtain a full PK profile in the same animals
+as the PD determination (e.g. mouse xenograft assays). Because of the
+high sensitivity and selectivity of LC-MS/MS systems, micro-sampling is
+an effective means of performing quantitative analyses in volume-limited
+studies.
+

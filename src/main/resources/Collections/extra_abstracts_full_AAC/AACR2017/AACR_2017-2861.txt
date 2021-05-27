@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Dose-dependent tissue distribution and tumor targeting of
+Notch3-ADC using fluorescence molecular tomography imaging.
+
+
+Background: NOTCH3, a cell surface receptor involved in cell-cell
+communications, is over-expressed or amplified in certain human tumors.
+NOTCH3 is known to regulate proliferation, differentiation and survival
+of cancer cells or cancer stem cells and thus an important therapeutic
+target. NOTCH3 antibody drug conjugate (ADC) is comprised of humanized
+anti-NOTCH3 antibody conjugated to an auristatin based cytotoxic payload.
+NOTCH3-ADC has shown promising results in pre-clinical tumor models. In
+this study we evaluated the kinetics, dose-dependent tissue distribution,
+tumor accumulation and targeting specificity of the NOTCH3-ADC in OVCAR3
+xenograft model using fluorescence molecular tomography (FMT) imaging.
+The NOTCH3-ADC is mouse cross-reactive thus providing an accurate
+assessment of biodistribution.
+
+Methods: NOTCH3-ADC was conjugated to the near-infrared dye,
+AlexaFluor680 (AF680). The in vitro cellular binding was evaluated by
+cell-based ELISA. In vivo biodistribution was evaluated using OVCAR3
+subcutaneous xenograft model. NOTCH3-ADC-AF680 (1mg/kg; 3mg/kg and
+10mg/kg) was injected when the tumors were ~300mm3 and imaged 5 min, 24,
+48, 96, 168 and 240 h post-injection. Ex vivo FMT imaging,
+pharmacokinetic analysis and immunohistochemistry (IHC) was performed at
+48 and 240 h after whole-body perfusion. An in vivo receptor competition
+FMT study was performed by injecting excess of unconjugated anti-NOTCH3
+antibody (Ab) or a non-targeted control Ab.
+
+Results: In vitro cell binding studies showed that conjugation of AF680
+to NOTCH3-ADC did not change its binding ability. A dose-dependent tumor
+regression was also observed after a single injection of
+NOTCH3-ADC-AF680. In vivo FMT imaging showed dose-dependent whole-body
+clearance kinetics of NOTCH3-ADC. Dose-dependent accumulation in the
+tumors was observed with peak accumulation at 24-48 h post-injection and
+a slow decline at later time-points. A maximum accumulation of ~10 %ID/g
+was observed which was independent of the dose of NOTCH3-ADC-AF680. Ex
+vivo FMT quantitation of tumor was consistent with the IHC for antibody
+and LC/MS analysis of released payload. Pharmacological competition with
+excess unlabeled control Ab did not block tumor accumulation of
+NOTCH3-ADC-AF680, whereas excess unlabeled NOTCH3-Ab blocked ~47% of
+NOTCH3-ADC-AF680 accumulation. There was no significant specific
+accumulation of NOTCH3-ADC in other organs as observed by FMT imaging or
+IHC.
+
+Conclusions: These imaging studies provided understanding of the
+kinetics, tumor accumulation and biodistribution of NOTCH3-ADC. Further
+this work showcase the utility of non-invasive FMT imaging in better
+understanding of pharmacology and behavior of biologic drugs.
+
+

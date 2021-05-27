@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identifying candidate antigens for a ductal carcinoma in situ
+vaccine that are essential to breast cancer survival across multiple
+subtypes.
+
+
+Vaccine therapy may be ideal to destroy ductal carcinoma in situ (DCIS)
+and prevent recurrence. A vaccine can induce type 1 T-cells against DCIS
+antigens that could migrate from the circulation to invade and destroy
+the tumor as well as generate immunologic memory to provide long lasting
+protective immunity. One of the limitations to developing a DCIS vaccine
+is identifying antigens that target all subtypes of DCIS. DCIS has many
+of the same molecular abnormalities as invasive breast cancer (IBC),
+including overexpressed proteins that may be drivers of progression to
+invasive disease. Eliminating cells that are overexpressing driver
+proteins by vaccination may prevent progression to IBC if such proteins
+could be determined.
+
+In this study, we identified proteins that were overexpressed from normal
+breast in both DCIS and IBC across fifteen Geo and Array Express data
+sets. From 68 candidate proteins, we identified twelve whose expression
+was necessary for cancer cell survival across breast cancer subtypes. We
+selected overexpressed proteins necessary for cancer survival using a
+high throughput siRNA screen and chose candidates that increased
+apoptosis and decreased cell survival in HER2 positive (HER2), triple
+negative (TN), and hormone receptor positive HER2 negative (HR) human
+breast cancer cell lines with decreased expression of the target protein.
+For example, decreased expression of NDC80 caused decreased cell survival
+to 56±3% in HR, 46±3% in TN, and 77±2% in HER2 breast cancer cell
+lines and increased apoptosis by 1.4±0.03 fold in HR and 1.2±0.03 fold
+in TN breast cancer cell lines. Decreased expression of RRM2 caused
+decreased cell survival to 66±3% in HR and 89±2% in HER2 breast cancer
+cell lines and increased apoptosis by 1.6±0.08 fold in HR, 1.4±0.07
+fold in TN, and 2.4±0.3 fold in HER2 breast cancer cell lines. Twelve
+proteins (AURKA, KIF11, NDC80, RRM2, SDC1, UBE2C, HJURP, CENPA, CENPF,
+HIST2H2AA3, HIST1H2BD, and TOP2A) were essential for cancer cell survival
+in at least 2 breast cancer subtypes.
+
+These protein targets are immunogenic in patients with DCIS. In the sera
+of women without breast atypia (n=36), autoantibodies to NDC80 were
+detected with a mean of 5.3±1.8 ng/mL while in women with fibroadenoma
+(n=36) autoantibodies were detected with a mean of 8.3±1.5 (p=0.05). In
+the sera of women without breast atypia (n=36), autoantibodies to RRM2
+were detected with a mean of 0.16±0.7 ng/mL while in women with
+fibroadenoma (n=36) autoantibodies were detected with a mean of 7.2±2.1
+(p=0.05) and in women with DCIS (n=59) autoantibodies were detected with
+a mean of 2.6±0.6 ng/mL (p=0.0003). These proteins represent DCIS
+antigens of biologic importance in tumor growth and, potentially,
+progression to IBC and are candidate immunogens for a vaccine to treat
+DCIS.
+
+

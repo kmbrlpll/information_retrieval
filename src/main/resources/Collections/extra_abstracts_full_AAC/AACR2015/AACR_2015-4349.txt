@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Cancer histologic and cell nucleus architecture differentiate
+prostate cancer Gleason patterns 3 from 4
+
+
+There will be an anticipated 29,480 prostate cancer (PCa) deaths in 2014
+in the US. Nearly 40% of PCa patients will undergo radical prostatectomy
+(RP), which reduces the risk of death from PCa. Roughly 15% of these PCa
+patients tend to recur and of these a portion will metastasize (40%).
+Hence, a more accurate and objective computer-assisted image analysis
+(CAIA) automated PCa grading system should be considered. The current
+standard for Gleason grading involves an expert pathologist visually
+scoring Gleason grade patterns based upon H&E histologic glandular
+architecture (size, shape and organization).Using the same tissue
+microarray (TMA) containing 80 radical prostatectomy (RP) cases
+stratified by Gleason scores, the authors selected a subset of up to
+fifty 20X Aperio whole slide scanned H&E images representing GG 3 and GG4
+cases. Three separate approaches to measure tissue texture and nuclear
+structure were used: 1) adaptive active contour scheme (AdACM)
+segmentation which focuses on nuclear shape and texture features 2)
+Curvelet transform based histologic tissue texture method and 3)
+MediaCybernetics ImagePro 9.1 software that includes 22 nuclear structure
+features. Data analysis utilized area under the curve (AUC) for the
+receiver operating characteristics (ROC) with assessment of accuracy,
+sensitivity and specificity.Ali and Madabhushi at Case Western Reserve
+University utilized AdACM segmentation approach and three nuclear
+features to obtain an AUC = 0.88 yielding an accuracy of 86.1% with
+sensitivity = 85.2% and specificity = 87.1% applying a quadratic
+discriminant analysis (QDA) classifier to separate GG 3 from GG4. Next,
+the University of Pittsburgh's EEE group (Wen-Chyi Lin and C. C. Li)
+applied a curvelet based tissue feature extraction method and a
+tree-structured classifier consisting of three Gaussian-kernel support
+vector machines each with an embedded voting mechanism and discriminated
+Gleason grade (GG) 3 vs GG 4 generating a AUC = 0.98 yielding an accuracy
+= 95.7% with sensitivity = 94.5% and specificity = 96.9%. Finally, the
+Veltri laboratory differentiated GG3 and GG4 and obtained an AUC = 0.96
+and yielding an accuracy = 85%, sensitivity = 82%, specificity = 90% to
+separate GG pattern 3 from 4.Therefore using CAIA with three different
+laboratories we were able to use PCa glandular histologic and cell
+nuclear quantitative measurements to accurately discriminate GG patterns
+3 and 4. More work is required to apply these automated tools to confirm
+the optimal method and also to predict PCa outcomes of recurrence,
+metastasis and survival.
+

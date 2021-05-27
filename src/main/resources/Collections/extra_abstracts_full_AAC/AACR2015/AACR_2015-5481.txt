@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Effect of genetic polymorphisms on erlotinib pharmacokinetics and
+toxicity in Japanese patients with non-small-cell lung cancer
+
+
+Introduction: Erlotinib is an epidermal growth factor receptor (EGFR)
+tyrosine-kinase inhibitor, a 150 mg daily dose of which has been shown to
+be effective for improving overall survival in non-small-cell lung cancer
+(NSCLC) patients who had failed at least 1 prior chemotherapy regimen.
+Furthermore, erlotinib demonstrated significant prolongation of
+progression-free survival versus standard chemotherapy in EGFR mutation
+positive NSCLC patients. However, skin rash and diarrhea often occurs,
+and these toxicities lead to discontinuation of therapy or dose reduction
+in many patients. Several population pharmacokinetics (PK) analyses have
+reported large interindividual variabilities in erlotinib blood exposure
+and its toxicities. However, none of those analyses clearly explains the
+determinants of these large interindividual variabilities. Here, aiming
+to develop a dose regimen that would maintain the clinical benefits of
+erlotinib while minimizing its adverse effects, we analyzed single
+nucleotide polymorphisms (SNPs) of PK-related genes and investigated the
+relationships between genotypes and interindividual variabilities in the
+PK and adverse effects.Methods: We performed a multicenter study of 50
+patients treated with 150 mg erlotinib as a second-line or later
+treatment. PK and toxicity were assessed. For PK analyses, blood samples
+were collected from 28 patients at 5 to 18 time points, and trough blood
+samples were collected from 20 patients at 1 time point. SNPs in genes
+encoding metabolizing enzymes or efflux transporters (CYP1A1, CYP1A2,
+CYP2D6, CYP3A4, CYP3A5, UGT1A1, UGT2B7, GSTM1, GSTT1, ABCB1, and ABCG2)
+were analyzed. Population PK analyses were carried out using NONMEM. SNPs
+were tested as covariates in a population PK model. The effects of these
+SNPs and erlotinib exposure on toxicity were evaluated.Results and
+Discussion: A 2-compartment model with first order absorption and linear
+elimination described the erlotinib PK. Only the ABCB1 1236C>T
+polymorphism was a statically significant covariate for CL/F, showing a
+29.4% decrease in CL/F for the TT genotype as compared with the CC and
+the CT genotypes. The interindividual variability in CL/F decreased by
+10.6% after inclusion of the TT genotype as a covariate in the model.
+This result indicates that a dose reduction to 100 mg for the TT genotype
+group could equalize the erlotinib exposure between each genotype group.
+A higher incidence of adverse effects (mainly diarrhea) was observed in
+the TT genotype group.Conclusions: Of the 20 SNPs that are related to
+erlotinib PK, only ABCB1 1236C>T influenced the exposure of erlotinib.
+This SNP was suggested to be related to the risk of adverse events.
+Individual dosing based on ABCB1 genotype might reduce the adverse
+effects. Further clinical trials are needed to investigate the toxicity
+and the clinical outcome of this dose regimen.
+

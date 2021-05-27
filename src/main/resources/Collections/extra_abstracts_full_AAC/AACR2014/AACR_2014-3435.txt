@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Genome-wide RNA and DNA high throughput sequencing reveals
+proinflammatory and death gene signatures in head and neck squamous cell
+carcinoma lines with different HPV status
+
+
+Our laboratory previously discovered that aberrant NF-B signaling and
+activation plays a critical role in promoting the oncogenic progression
+of head and neck squamous cell carcinoma (HNSCC). The Cancer Genome Atlas
+(TCGA) project, which investigated 279 HNSCC tissue specimens, uncovered
+significant genomic alterations of key molecules involved in NF-B and
+death signaling, including amplification of FADD and BIRC2/3, mutation of
+caspase-8, and altered RIPKs in HPV(-), or deletion of TRAF3 in HPV(+)
+HNSCC tissues. Using PRISM (Protein Interactions by Structural Matching),
+we modeled protein-protein interaction complexes three dimensionally and
+identified 30 proteins that potentially interact with these genetically
+altered molecules involved in NF-B and death pathways. Among more than 20
+major cancer types that TCGA project has investigated, we found that
+HNSCC ranks among the top cancers harboring alterations of these genes,
+which are present in more than 70% of HNSCC tumors. To further
+investigate and identify models for functional studies of these genetic
+and phenotypic alterations, we performed whole transcriptome (RNA-seq)
+and genome-wide exome DNA sequencing (exome DNA-seq) in 16 HPV(-) and 8
+HPV(+) HNSCC lines, and compared them with three normal human oral mucosa
+lines and 8 matched blood samples. RNA-seq or exome DNA-seq was performed
+using total RNA depleted of rRNA, or exome captured genomic DNA. The
+samples were multiplexed, amplified, and sequenced with ABI SOLiD
+sequencer. Quality control of the output data was performed using FastQC,
+and the reads were mapped to the human reference genome (Hg19). The data
+were further analyzed with LifeScope2.5 and an in-house developed
+computation program of publicly available software and R package. RNA-seq
+had an average of 168 million mapped reads per sample with an estimate
+mean read depth of 44X coverage, and exome DNA-seq had an average of 87X
+coverage in each cell line sequenced. We identified amplifications,
+overexpression and mutations among the molecules involved in the NF-B and
+death pathways in HPV positive or negative cell lines, which mimic the
+genetic and phenotypic defects identified in the HNSCC TCGA project. Our
+data are consistent with the finding from the TCGA project, and support
+the conclusion that genetic and expression alterations of the molecules
+involved in NF-B and the death pathways are the important events leading
+HNSCC oncogenesis. Molecular mechanisms and targeted therapies can be
+further investigated in these HNSCC lines having the defined genetic and
+phenotypic defects associated with different HPV status.Supported by
+NIDCD intramural projects ZIA-DC-000016, 73 and 74.
+

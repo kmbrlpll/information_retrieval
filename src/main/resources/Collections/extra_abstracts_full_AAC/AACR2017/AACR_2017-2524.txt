@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: MiR-124 suppresses p62 and p65/NFkB to regulate autophagy,
+inflammation and cell death in KRAS mutant mesenchymal NSCLC cells.
+
+
+Background KRAS mutant non-small cell lung cancers (NSCLC) are
+molecularly and histologically diverse. Epithelial-like cells are more
+KRAS dependent, whereas mesenchymal-like cells are less KRAS dependent.
+These two subtypes are designated KE (epithelial) and KM (mesenchymal),
+respectively. A KE versus KM subtype transcriptional signature reveals
+specific modes of KRAS dependent survival signaling in the KE subtype.
+This KRAS dependency signature is significantly enriched with predicted
+microRNA (miRNA) target genes of miR-205 and miR-34b/c. MiRNAs can
+function as tumor suppressors by coordinately regulating multiple
+oncogenic signaling pathways. The role of deregulated miRNA function in
+mediating the survival of KM versus KE NSCLC cells has not been
+investigated to date.
+
+Methods Differential miRNA expression in KRAS mutant cell lines was
+determined using Taqman low-density qPCR arrays (TLDA). Functional miRNA
+reconstitution experiments of downregulated miRNAs were performed in a
+panel of KM cell lines. Effects on apoptosis and autophagy were performed
+by Western blotting, immunofluorescence and live cell microscopy and
+caspase assays. The molecular targets of miR-124 were computationally
+identified by TargetScan or miRWalk and experimentally verified using
+3’UTR luciferase-based assays. Functional rescue of miRNA-dependent
+cell viability defects was determined by ectopic predicted target gene
+expression.
+
+Results Comparison of KE to KM cells yielded a KE-KM miRNA subtype
+classifier/signature. This signature revealed a number of silenced or
+suppressed miRNAs in KM cell lines, including members of the miR-200
+family. MiR-200 and miR-205 reconstitution in KM cells modulated
+epithelial plasticity by Zeb1 protein suppression and increased
+E-cadherin levels. Reconstitution of miR-124, miR-625 and miR-518-3p in
+KM cells caused pronounced loss of cell viability. Furthermore, miR-124
+caused autolysosome maturation defects. We identified SQSTM1/p62, TRAF6
+and RELA/p65 as key predicted targets of miR-124. MiR-124 reconstitution
+in KM cells caused decreased p62, TRAF6 and p65 protein levels. The
+effect of miR-124 on p62 expression was verified using a
+Luciferase-p62-3’UTR reporter construct. Overexpression of p62 in KM
+cells rescued the cell viability defects caused by miR-124.
+
+Conclusion These studies implicate miR-124 as a context-dependent tumor
+suppressor miRNA in KM subtype cells. MiR-124 directly suppresses
+expression of SQSTM1/p62 to promote defects in autolysosome maturation.
+In parallel, miR-124 suppresses RELA/ p65 and in some cases, TRAF6, to
+alter expression levels of several cytokines. Thus, miR-124 coordinately
+regulates autophagy and inflammation to disrupt the finely-tuned balance
+between pro and anti-inflammatory signals, resulting in cytotoxic effects
+in a specific subtype of mesenchymal-like KRAS mutant NSCLC cells.
+
+

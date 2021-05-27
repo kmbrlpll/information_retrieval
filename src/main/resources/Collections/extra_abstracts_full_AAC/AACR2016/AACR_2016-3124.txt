@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Prognostic biomarkers for pancreatic cancer
+
+
+Pancreatic ductal adenocarcinoma (PDAC) has the lowest 5-year-survival
+rate of common cancers (Pancreatic ductal adenocarcinoma (PDAC) has the
+lowest 5-year-survival rate of common cancers (< 7%), but despite
+intensive research efforts over the past several decades, its dismal
+prognosis has barely improved. Recent genome-wide association studies
+(GWAS) have linked several genetic factors with pancreatic cancer, but
+there is generally poor overlap in the results from such studies,
+presumably due to population heterogeneity. In this study, we collected
+previously published pancreatic risk loci from multiple GWAS studies, and
+correlated these loci with clinical information gathered on a
+well-characterized cohort of 148 PDAC patients from the University Health
+Network in Toronto Canada, and several other North American hospitals,
+which have undergone whole-genome sequencing. Using this cohort, we
+attempted to identify prognostic genomic biomarkers by correlating the
+germline genomic alterations observed in our cohort to overall survival
+(OS). By understanding the mechanism of germline variants that alter OS,
+we hope to develop insights that will lead to improved detection and
+therapy for PDAC patients.Among the 67 published risk loci we tested
+using a multivariate Cox proportional hazard model, we found a strong
+positive association of the single nucleotide polymorphism rs4785367
+(RefSNP alleles: C/T on forward strand; MAF = 0.474) with overall
+survival of PDAC donors: HR = 0.426; CI = 0.268 - 0.686; p-value =
+0.00029. A more detailed analysis at the genotype level revealed that the
+presence of the homozygous minor allele has a stronger effect than either
+the heterozygous or homozygous major allele. The SNP falls within the
+intergenic region between the ZNF423 and TMEM188 genes, within the exon 2
+of lncRNA RP11-305A4.3 and overlaps a CTCF regulatory domain. Preliminary
+gene expression analysis from RNA sequencing data on a subset of PDAC
+donors (n = 28) shows that patients carrying the minor allele have
+significant higher TMEM188 expression than of the major type (p-value =
+0.012), suggesting that this allele may influence the course of PDAC via
+TMEM188 activity. A recent study linked the gene product to activation of
+NK cells, which in turns increases the defense mechanism against the
+pathogens, infections and transformed tumors. These findings suggest a
+possible molecular mechanism influencing the course of PDAC. We are also
+exploring the effect of the presence of the minor allele on the
+regulatory CTCF region, by applying an integrative pipeline for risk SNP
+analysis to pancreatic cancer. This will possibly detect the effect on
+the NANOG motif binding and/or on CTCF looping.In summary, the present
+study detected the rs4785367 as a prognostic biomarker for pancreatic
+cancer, with the novelty of increased TMEM188 gene expression being
+linked to the presence of the alternate allele in PDAC patients. Further
+investigations on this and on assessing the effect of the polymorphism on
+the regulatory CTCF feature are in progress.
+

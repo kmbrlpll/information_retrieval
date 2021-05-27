@@ -1,0 +1,38 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Dual PI3K/mTOR inhibitor NVP BEZ-235 suppresses translation of
+hypoxia-inducible factor (HIF)-1 and increases cell death under hypoxia
+
+
+Our goal was to investigate the effects of the Novartis compound
+NVP-BEZ235, a dual PI3K/mTOR inhibitor, on hypoxia-inducible factor-1
+alpha (HIF-1) expression. NVP-BEZ235 was much more potent than either the
+mTOR inhibitor rapamycin or the PI3K inhibitor LY294002 in blocking the
+hypoxic induction of HIF-1 in vitro, due to decreased protein
+translation. 7-methyl GTP chromatography showed that NVP-BEZ235 led to a
+robust recruitment of 4E-BP1 to eIF4E and a near absence of binding of
+eIF4G, consistent with inhibition of protein translation. NVP-BEZ235 also
+decreased expression of several proteins regulated by eIF4E including
+cyclin B1 and D1, survivin, and vascular endothelial growth factor.
+NVP-BEZ235 specifically decreased eIF4G but not eIF4E expression. As
+HIF-1 has been associated with adaptation under hypoxia, we examined the
+effect of NVP-BEZ235 on cell survival in low pO2 conditions. The drug
+increased killing of cells under hypoxia as measured by both short-term
+(MTT) and long-term (clonogenic) assays. To understand the mechanism
+behind this observation, we performed immunoblotting for factors
+associated with cell survival. In normoxia, Akt S473 phosphorylation
+decreased within an hour of NVP-BEZ235 treatment, but then increased by
+24 hours. In contrast, under hypoxia, NVP-BEZ235 caused a prolonged
+suppression of Akt phosphorylation. Furthermore, we found a greater
+increase in PARP cleavage in hypoxic cells treated 1-16 hours after drug
+treatment than in normoxic cells, consistent with increased apoptosis.
+This was confirmed using an ELISA assay that measures cytoplasmic
+oligonucleosomes. We also found that NVP-BEZ235 increases autophagy as
+measured by (i) LC3-I to LC3-II conversion on immunoblotting, (ii)
+degradation of p62 and (iii) GFP-LC3 subcellular localization detected by
+immunofluorescence. Treatment of cells with the drug under hypoxia
+further increased autophagy, although it is unclear at this point whether
+this actually contributes to cell death or is a pro-survival mechanism.
+In conclusion, we have found that NVP-BEZ235 blocks HIF-1 induction and
+increases cell killing under hypoxia, which may have important
+implications for the use of this drug in cancer therapy.
+

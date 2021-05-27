@@ -1,0 +1,59 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Survival prediction model with long non-coding RNA profile in lung
+adenocarcinoma cancer
+
+
+Long non-coding RNAs (LncRNA) are over 200 nucleotides bases
+non-protein-transcript RNA. Recently, there is a rapid growing literature
+about LncRNA. LncRNAs are considered as regulator of mRNA, structure
+components and precursor to small RNAs. However, the mechanism of LncRNA
+in tumor progression is still not clear yet. Previous studies has
+validated several LncRNA are associated with prostate cancer and breast
+cancer (e.g. MATAT-1, PCA3). Here, we investigate the LncRNA expression
+profile in lung adenocarcinoma cancer and predict patient survival with
+cox regression model.We download the dataset GSE30219 on Gene Expression
+Omnibus, microarray data on Affymetrix U133-plus2 platform. With the
+LncRNA probes selection pipeline on U133-plus2 investigated by Du et al.,
+total 2,427 probes are associated with LncRNA, and every LncRNA is
+targeted by at least four probes. It is believed that LncRNAs are subtype
+specific due to previous studies, so we first defined the differential
+expression LncRNA probes between Adenocarcinoma and Squamous cancer with
+student t-test, and selected the top 50 p-value probes. Next, with the
+profile of these 50 probes and the clinical data, we focus on survival
+analysis of Adenocarcinoma and cox regression was used to identify the
+survival related probes in the 50 probes, P-value Long non-coding RNAs
+(LncRNA) are over 200 nucleotides bases non-protein-transcript RNA.
+Recently, there is a rapid growing literature about LncRNA. LncRNAs are
+considered as regulator of mRNA, structure components and precursor to
+small RNAs. However, the mechanism of LncRNA in tumor progression is
+still not clear yet. Previous studies has validated several LncRNA are
+associated with prostate cancer and breast cancer (e.g. MATAT-1, PCA3).
+Here, we investigate the LncRNA expression profile in lung adenocarcinoma
+cancer and predict patient survival with cox regression model.We download
+the dataset GSE30219 on Gene Expression Omnibus, microarray data on
+Affymetrix U133-plus2 platform. With the LncRNA probes selection pipeline
+on U133-plus2 investigated by Du et al., total 2,427 probes are
+associated with LncRNA, and every LncRNA is targeted by at least four
+probes. It is believed that LncRNAs are subtype specific due to previous
+studies, so we first defined the differential expression LncRNA probes
+between Adenocarcinoma and Squamous cancer with student t-test, and
+selected the top 50 p-value probes. Next, with the profile of these 50
+probes and the clinical data, we focus on survival analysis of
+Adenocarcinoma and cox regression was used to identify the survival
+related probes in the 50 probes, P-value < 0.05. Finally, the expression
+profiles of survival related probes were trained with cox regression
+again to build up a prediction model.With score given by the prediction
+model, samples are divided into two groups: high-risk and low-risk when
+score higher than 0 or score under 0, respectively. The Kaplan-Meier
+curve was used to illustrate the relationship between two groups. By
+using GSE30219 as training model set, GSE30219 was used as
+internal-validation and GSE8894 was used as external validation. The
+result of internal-validation shows significantly different. The
+difference of two groups on external- validation shows, although not
+greatly as internal- validation, there is still exists a slightly
+differences.To sum up, LncRNA profiles in Lung Adenocarcinoma might play
+a role in survival rate. However, further improvement of prediction model
+is needed since the risk ratio of each sample should be reported, not
+only the cox scores. Also the Adenocarcinoma specific LncRNA probes
+should be investigated to enhance the confidence of prediction model.
+

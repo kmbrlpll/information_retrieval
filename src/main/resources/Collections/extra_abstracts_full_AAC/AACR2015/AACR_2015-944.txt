@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Development of predictive and pharmacodynamic biomarker strategies
+for GDC-0425, a checkpoint kinase 1 inhibitor, in combination with
+gemcitabine
+
+
+GDC-0425 is a potent and selective small molecule inhibitor of checkpoint
+kinase 1 (Chk1) recently evaluated in the DPM4957g phase I study in
+combination with the nucleoside analog gemcitabine. The cytotoxic effect
+of gemcitabine, elicited through the induction of genotoxic stress, is
+limited by Chk1 activation, which leads to cell cycle arrest and allows
+time for repair of damaged DNA. Chk1 inhibition by GDC-0425 can convert a
+genotoxic insult into a cytotoxic event by overriding cell cycle arrest
+and thereby driving cancer cells into mitotic catastrophe.A panel of
+nearly 200 cancer cell lines was screened to evaluate potential benefit
+of combining GDC-0425 and gemcitabine. Elastic net modeling was applied
+to cell line data including exome-seq, RNA-seq, DNA copy number, and loss
+of heterozygosity to perform a broad and unbiased search for predictors
+of drug activity and synergy. In the model for GDC-0425 and gemcitabine
+synergy, TP53 mutations were found to be the highest-ranking features,
+followed by mRNA expression of SLFN11, a gene encoding a putative
+helicase implicated in sensitizing cells to DNA-damaging agents.
+Expression levels of several p53-regulated transcripts were also found to
+be high-ranking features in this model, underscoring the value of p53
+pathway functionality as a predictor of synergy between GDC-0425 and
+gemcitabine.In consideration of pharmacodynamic (PD) biomarkers,
+phosphorylated CDK2 (pCDK2) and phosphorylated H2AX (pH2AX), located at
+proximal and distal points in the Chk1 pathway, respectively, were found
+to be modulated by GDC-0425 and gemcitabine in cell line and xenograft
+models in a dose-dependent fashion. The GDC-0425 dose response for these
+biomarkers correlated with anti-tumor activity.Finally, to understand why
+GDC-0425 and gemcitabine synergy is more pronounced in some TP53 mutant
+cell lines than in others, a screen was performed to evaluate engagement
+of the Chk1 and p53 pathways in response to gemcitabine in a
+representative panel of cell lines. Chk1 activation was evaluated using
+pCDK2, whereas p53 activation was evaluated using expression of known p53
+transcriptional targets. Higher synergy was generally observed when
+gemcitabine activated Chk1 and not p53, regardless of TP53 mutational
+status.These studies provide a foundation for predictive and PD biomarker
+strategies to support the evaluation of GDC-0425 with gemcitabine in
+early stage clinical trials that are based on markers of p53 pathway
+functionality and Chk1 pathway modulation.
+

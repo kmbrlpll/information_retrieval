@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Efficient detection of germ cell cancer related miRNAs in serum
+using the TaqMan miRNA ABC purification bead kit in combination with the
+Taqman advanced miRNA assays
+
+
+Malignant germ cell tumors, also known as germ cell cancers (GCC), are
+the most frequent cancer in young Caucasian males, with an increasing
+incidence during the last decades. They are clinically and histologically
+subdivided into seminomas and nonseminomas. The last can be composed of
+different elements, including embryonal carcinoma (the stem cell
+component), teratoma (TE) (somatic lineage) as well as yolk sac tumor
+(YST) and choriocarcinoma (CHC) (extra-embryonic lineages). The currently
+used serum markers, informative for both diagnosis as well as follow-up
+are AFP and hCG, predominantly indicative for the presence of the YST and
+CHC components. Recently, we reported that a selected set of miRNAs are
+highly expressed in all histological elements of GCC, with the exception
+of TE, including the miR 371-3 cluster. In addition to the presence in
+the primary cancers, they can also be identified in the serum of patients
+with such a malignancy, outperforming the classical markers AFP and hCG
+(Gillis and Rijlaarsdam et al. Molec. Oncol. 2013; Rijlaarsdam et al.
+Andrology, 2015). Here we demonstrate the power of the TaqMan Advanced
+miRNA Assays (PN 478007, Applied Biosystems) in combination with the use
+of the TaqMan miRNA ABC Purification Kit (PN 4473087, Applied
+Biosystems), starting with 50 L human serum. The protocol includes
+polyadenylation of the miRNA targets at the 3 end, followed by an adapter
+ligation at the 5 end. Universal forward and reverse primers are used for
+amplification, followed by detection using the Applied Biosystems 7500
+RealTime PCR System. Quality controls were added using dilution
+experiments of the cell lines, also included as inter-plate control, as
+well as for cDNA synthesis and RT-PCR efficiency. The non-human spike-ins
+ath-miR159a and cel-miR-39-3p were added as exogenous controls, while
+hsa-miR-30b-5p was used as endogenous control for normalization
+(reference). In total 30 GCC-related sera as well as 10 normal controls
+proved the informativity as well as efficiency of the developed pipeline
+in a standardized laboratory setting.
+

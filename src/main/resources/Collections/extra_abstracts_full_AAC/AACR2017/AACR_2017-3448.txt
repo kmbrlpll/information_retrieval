@@ -1,0 +1,56 @@
+Meeting: 2017 AACR Annual Meeting
+Title: LncRNA HAND2-AS1 inactivates neuromedin U (NMU) and inhibits tumor
+invasion and metastasis in endometrioid endometrial carcinoma.
+
+
+Background
+
+Endometrioid endometrial carcinoma (EEC) is one of the common cause of
+cancer-related mortality in women. Despite progress in diagnostics and
+treatment of EEC, its prognosis remains poor. Mounting evidence suggest
+that long noncoding RNAs (lncRNAs) function in mutiple human cancers.
+Aberrant lncRNA expression may predict tumor outcome of patients and have
+served as diagnostic or prognostic markers. In this study, we
+investigated the expression levels and functions of lncRNAs in EEC.
+
+Methods
+
+Differentially expressed lncRNAs involved in EEC were identified by using
+publically available RNA-Seq data. The expression of 18 dysregulated
+lncRNA candidates was verified in 5 NE tissues, 5 EEC tissues and 5 EEC
+cell lines (HEC1-A, HEC1-B, AN3CA, KLE and RL95-2) by real-time
+polymerase chain reaction (PCR). Further, we selected the most
+misexpressed lncRNA and confirmed the expression level of the lncRNA in
+59 EEC tissues and 24 NE tissues by real-time PCR and correlated the
+lncRNA expression levels with the clinical pathological characteristics.
+The promoter methylation assay was used to analyze the methylation level
+of the lncRNA in EEC. The lncRNA methylation status was confirmed by
+bisulfite genomic sequencing. Cell proliferation assays, wound healing
+assays, and invasion and migration assays were performed to determine the
+biological functions of the lncRNA in EEC cells. To discover the direct
+targets of the lncRNA in EEC, we performed RNA-sequence analysis in EEC
+cells overexpressed with the lncRNA and target genes were further studied
+by functional studies in vitro (knockdown assay and overexpression rescue
+assay).
+
+Results
+
+We discovered that HAND2-AS1, a lncRNA transcribed antisense adjacent to
+Heart and Neural Crest Derivatives Expressed 2 (HAND2), was significantly
+downregulated lncRNA in EEC. HAND2-AS1 and HAND2 was frequently
+downregulated in EEC tissues, especially in poor differentiated tumor
+tissues. Downregulation of HAND2-AS1 and HAND2 was correlated with tumor
+grade, lymph node metastasis and recurrence of EEC patients. HAND2-AS1
+and HAND2 was co-downregulated by promoter hypermethylation in EEC.
+HAND2-AS1 suppressed EEC cell migration and invasion but not cell growth.
+Similarly, HAND2 also inhibited EEC cell migration and invasion
+indicating that HAND2-AS1 and HAND2 have a concordant role in the
+progression of EEC. Moreover, the anti-tumorigenic effect of HAND2-AS1
+was mediated by downregulating NMU, which had an oncogenic role in EEC.
+
+Conclusions
+
+Our findings provide the first evidence that HAND2-AS1 is a critical
+tumor suppressor in EEC and may constitute a prognostic biomarker in EEC.
+
+

@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Telomere length genetic risk score is associated with breast
+cancer risk.
+
+
+Background: Genome-wide association studies (GWAS) have identified
+associations of telomere maintenance genes with breast cancer risk. This,
+coupled with the recognized role of telomere dysfunction as a cancer
+hallmark, has motivated the need for further study of telomeres and
+breast cancer. Further, the meta-GWAS discovery of seven single
+nucleotide polymorphisms (SNPs) associated with telomere length (TL)
+enables the use of an aggregated genetic risk score (GRS) for TL. We
+hypothesized that a higher GRS (representing shorter TL) would be
+associated with increased risk of breast cancer, and that a strengthened
+association may exist between higher TL GRS and aggressive breast cancer
+risk.
+
+Methods: In a race/ethnically diverse sample of invasive breast cancer
+cases (N=1,108) and non-cases (N=20,023) from the Women’s Health
+Initiative, we derived an unweighted TL GRS using seven previously
+identified TL-associated SNPs. Women were postmenopausal and the average
+age at enrollment was 63.9 years. We tested TL GRS associations with
+overall breast cancer risk and for estrogen receptor (ER), progesterone
+receptor (PR), and her2/neu (HER2) status-specific breast cancer risk
+using Cox proportional hazards models adjusted for age and race/ethnicity
+(in the entire sample) and age in strata of European American (EA;
+N=9,796), African American (AA; N=7,504), and Hispanic American (HA;
+N=3,229) women. We also considered reproductive risk factors, family
+history of breast cancer, hormone therapy, tumor characteristics, BMI,
+physical activity, smoking, alcohol, and US region as potential
+confounders.
+
+Results: We observed a small but statistically significant association
+between higher TL GRS (shorter TL) and reduced risk of overall breast
+cancer in the entire sample (HR=0.96, 95% CI: 0.93-1.00). Results of
+race/ethnicity-stratified analyses for TL GRS and overall breast cancer
+risk were not significant. The TL GRS was independently associated with
+decreased risk of ER-negative, PR-positive, and HER2-positive breast
+cancer risk in the entire sample (HR=0.82, 95% CI: 0.71-0.94, HR=0.94,
+95% CI: 0.89-0.99, and HR=0.88, 95% CI: 0.79-0.99, respectively).
+Similarly, the TL GRS was associated with a reduced risk of ER-negative
+breast cancer in AA (HR=0.79, 95% CI: 0.64-0.97) and independently with
+PR-positive and HER2-positive breast cancer risk in HA (HR=0.85, 95% CI:
+0.75-0.97 and HR=0.79, 95% CI: 0.58-0.99, respectively). Adjustment for
+other covariates did not influence hazards.
+
+Conclusions: Our results suggest that higher TL GRS is associated with
+reduced risk of overall breast cancer and with the development of
+specific breast cancer subtypes, such as ER negativity and/or PR and HER2
+positivity. While our focus on GWAS-implicated SNPs may not encompass the
+full spectrum of genes involved in TL, further studies into the potential
+mechanism for shorter TL and reduced breast cancer risk are needed.
+
+

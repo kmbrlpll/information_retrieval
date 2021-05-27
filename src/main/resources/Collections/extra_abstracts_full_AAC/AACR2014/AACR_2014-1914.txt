@@ -1,0 +1,37 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Functional characterization of oncogenic-induced dedifferentiation
+in neurons and astrocytes using DP-seq
+
+
+Glioblastoma (GBM) is the most common and lethal form of intracranial
+tumor. Using a Cre-inducible lentiviral GBM mouse model we recently
+showed that gliomas can originate from dedifferentiation of mature
+neurons and astrocytes. Expression analysis of the known markers (of the
+differentiated cell-types) showed diminished expression while the
+expression of the undifferentiated state markers were significantly
+up-regulated in the dedifferentiated transformed neurons and astrocytes.
+In this study, we performed whole transcriptome analysis of these cells
+along with mouse pluripotent embryonic stem cells (mESC), neural stem
+cells (NSC), neurons and astrocytes to characterize the undifferentiated
+state of these cells. Our analysis revealed that dedifferentiated
+cell-types shared traits with neurons and NSCs at the global
+transcriptome level suggesting that they have retained memory of their
+cell-of-origin and share markers of undifferentiated cells with NSCs.
+Functional analysis of the transcriptomics data revealed involvement of
+the Wnt signaling, cell cycle and the focal adhesion pathways in defining
+the state of the dedifferentiated cell-types. Our analysis further
+revealed conservation of a gene interaction network in both
+dedifferentiated cell-types. This network exhibited a modular
+architecture, connecting components of the cell cycle pathway to Wnt
+signaling and the focal adhesion pathways. One of these components,
+Osteopontin (OPN), also known as Spp1, is highly expressed and secreted
+by the tumors and dedifferentiated transformed neurons and astrocytes.
+Attempts to inhibit the action of OPN, either by using a neutralizing
+antibody or silencing the OPN gene (shRNA), blocked the formation of
+tumorspheres and diminished their proliferating capacity. We are
+currently assessing the effects of the inhibition of OPN function in
+vivo.Further genetic perturbation of additional interacting partners
+and/or the abolishment of the interactions can help elucidate the
+regulatory mechanism of this network in maintaining the dedifferentiated
+state of the transformed neurons and astrocytes.
+

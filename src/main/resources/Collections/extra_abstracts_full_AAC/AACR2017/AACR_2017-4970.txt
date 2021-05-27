@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Oxidative phosphorylation as a target in triple negative breast
+cancer therapy.
+
+
+Altered cellular metabolism is a hallmark of cancer. It is increasingly
+recognized that selected tumors are dependent on oxidative
+phosphorylation (OXPHOS). However, the role of OXPHOS in TNBC is not well
+understood. We performed RNA sequencing in pre-treatment biopsies from 43
+patients with operable triple negative breast cancer (TNBC) who received
+sequential taxane- and anthracycline-based neoadjuvant chemotherapy. At a
+median follow-up of 63 months, 14 patients recurred and 12 patients died.
+At a false discovery rate of 0.05, 33 genes were differentially expressed
+between the patients who did and did not have a subsequent recurrence.
+Ingenuity pathway analysis demonstrated that one of the top canonical
+pathways that differed was higher expression of oxidative phosphorylation
+signature (p=5.89E-0.7). The patients who recurred had significantly
+higher levels of mitochondrial genes: MT-ND1 (adjusted p or FDR-BH;
+q=0.007); MT-ND5 (q=0.03) and MT-ND4 (q=0.04). Further, 21 genes were
+differentially expressed between patients based on survival, including
+MT-ND5 (q=0.001); MT-ND4 (q=0.005), MT-ND4L (q=0.015), MT-ND6 (q=0.018),
+and MT-ATP6 (P=0.03). Top canonical pathway that was differentially
+expressed based on survival was oxidative phosphorylation (p=9.98E-10).
+We therefore sought to determine the efficacy of IACS-10759, a novel
+inhibitor of OXPHOS, in 10 different TNBC patient-derived xenografts
+representing different gene expression based Lehmann TNBC subtypes.
+Growth inhibition was observed in multiple subtypes, with regression in
+one basal-like 1(BL1) 1 model, and stabilization of growth in multiple
+BL1 and immunomodulatory expression subtypes. Taken together, our data
+suggests that high OXPHOS is associated with higher recurrence and lower
+survival. OXPHOS is a promising target in several TNBC subtypes. A Phase
+I trial of IACS-10759, a potent inhibitor of complex I of oxidative
+phosphorylation, in leukemia is ongoing and planned in TNBC and other
+solid tumors.
+
+

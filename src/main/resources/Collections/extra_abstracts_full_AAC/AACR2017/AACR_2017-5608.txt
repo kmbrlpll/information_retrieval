@@ -1,0 +1,65 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Correlation of phosphatase activity with lymphocyte infiltrates in
+metastatic renal cell carcinoma tissues.
+
+
+Introduction: Protein tyrosine phosphatases (PTPs) are important
+regulators of signal transduction in immune cells. While most analytical
+methods focus on the detection of these crucial enzymes at the RNA or
+protein level, a method was lacking to monitor multiple enzymatic
+activities in patient-derived materials like blood and (tumor) tissues.
+Such a substrate-specific assay is a new tool for biomarker discovery in
+immuno-oncology (I-O), because the I-O targets - checkpoint and immune
+receptors like PD1, CTLA4, LAG3, 4-1BB, CD40, CD20, OX40, TIGIT and GITR
+- are controlled by phosphatases. The aim of this study was to develop a
+multiplex PTP assay and investigate the phosphatase activity in
+metastatic renal cell carcinoma (mRCC) tissues with high and low levels
+of TILs (tumor-infiltrating lymphocytes).
+
+Methods: On the basis of hematoxylin and eosin staining of mRCC tissues,
+9 tissues with high TILS-scores were selected, as well as 10 tissues
+without TILS, matched on basis of the percentage of viable tumor cells.
+The technology used is a second generation peptide microarray, which is
+fully automated with short turnaround times and a high throughput of
+clinical samples in a 96-well setup. Arrays comprise 46 unique
+nitrophosphotyrosine containing peptides derived from known phosphosites.
+When a clinical sample is applied to this peptide microarray, this will
+lead to a pattern of peptide dephosphorylations, which is monitored in
+real time (kinetic readout).
+
+Results: The PTP assay was first developed for PBMC profiling. 0.10 ug
+protein/array was used, corresponding to 10000 cells. The signals were
+concentration dependent and could be inhibited by PTP inhibitors. For
+tissue profiling 2.0 µg protein input (0.02 mm3 tissue) was used. A
+2-group comparison analysis of the phosphatase activity in tissues with
+high scores of TILs (massive infiltration, N=9) vs. without (N=10),
+revealed that 29 of 46 peptide substrates showed significantly higher
+dephosphorylation (PTP) activities in the tissues with high levels of
+lymphocyte infiltrates. A PCA revealed a clear separation between the
+groups of high and low TILS scores. Discriminating phosphosites
+(pResults: The PTP assay was first developed for PBMC profiling. 0.10 ug
+protein/array was used, corresponding to 10000 cells. The signals were
+concentration dependent and could be inhibited by PTP inhibitors. For
+tissue profiling 2.0 µg protein input (0.02 mm3 tissue) was used. A
+2-group comparison analysis of the phosphatase activity in tissues with
+high scores of TILs (massive infiltration, N=9) vs. without (N=10),
+revealed that 29 of 46 peptide substrates showed significantly higher
+dephosphorylation (PTP) activities in the tissues with high levels of
+lymphocyte infiltrates. A PCA revealed a clear separation between the
+groups of high and low TILS scores. Discriminating phosphosites
+(p<0.0002) were derived from the following 10 signaling proteins RET,
+ERBB2, PAXI, PGFRB, CBL, FRK, PDPK1, INSR, PECA1 and the T-cell kinase
+LCK.
+
+Conclusions: Proof of concept was shown in mRCC samples that high PTP
+activity correlates with high levels of TILS. As a TILS-score itself is
+already regarded to be a candidate biomarker for I-O therapy response,
+the observed correlation is a basis for the development of more
+mechanistic biomarkers predicting therapy response. This method can be a
+starting point for the development of an enzymatic and thus sensitive and
+quantitative TILS test.
+
+This study has received funding from the European Union’s Seventh
+Framework Programme (FP7/2007-2013) under grant agreement no 259939.
+
+

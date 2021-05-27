@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: RNAseq hiPSC-cardiomyocytes reveals altered expression of DNA
+damage and cell cycle genes in response to doxorubicin.
+
+
+Introduction: Doxorubicin is a highly effective chemotherapeutic agent,
+but its use is limited due to cumulative and dose-dependent effects that
+can lead to irreversible heart damage. Despite efforts in understanding
+the mechanisms, the precise genes and pathways implicated in
+doxorubicin-induced cardiotoxicity still remain elusive. We hypothesized
+that by exploring time- and dose-dependent changes in gene expression in
+human induced pluripotent stem cell derived-cardiomyocytes (hiPSC-CM), we
+can identify genes and signaling pathways related to doxorubicin-induced
+cardiotoxicity.
+
+Methods: hiPSC-CM were treated with 0, 50, 150, or 450 nM of doxorubicin
+for 2, 7, or 12 days then subjected to RNA sequencing for assessment of
+gene expression. Sequenced reads were aligned to the human reference
+genome (GRCh37) with STAR, and a read count matrix was then generated
+with the R package GenomicAlignments. Global variation and differential
+gene expression analyses were performed using DESeq2 software (P 2.0 and
+2.0 and <-2.0 average log2 fold-change in expression.
+
+Results: Hierarchical clustering of expression profiles of 40,861 genes
+produced by DESeq2 revealed 192 genes downregulated following doxorubicin
+exposure related to mitotic roles of polo-like kinase, cell cycle control
+chromosomal replication, and DNA damage checkpoint regulation pathways.
+This included a set of nine genes with the highest variation in
+expression, MCM5, PRC1, NUSAP1, CENPF, CCNB1, MELK, AURKB, RACGAP1, and
+TROAP, with functions in microtubule stabilization and cell cycle
+regulation. Following a 2-day exposure to doxorubicin, 242 genes,
+including the top nine genes, were differentially expressed between
+untreated and treated with enrichment in ribosomal processes, DNA repair
+and damage, and oxidation-reductase activity. Time course analysis
+revealed 289 genes between 0 nM and 150
+
+nM on days 2, 7 and 12 with enrichment in fatty acid oxidation,
+MIF-mediated glucocorticoid regulation, and relaxin signaling pathways.
+Transcription regulator, SMARCA4, was identified as the only upstream
+regulator with elevated expression following a later recovery time (day 7
+to day 12) compared to shorter or earlier time point comparisons at 150
+nM dose.
+
+Conclusion: Overlapping genes and pathways identified in these analyses
+provide additional support for a role of reactive oxygen species and
+mitochondrial dysfunction linked to DNA damage in doxorubicin-induced
+cardiotoxicity. This study also warrants further investigation of SMARCA4
+since it is a direct regulator of genes with overlapping functions
+described for the top nine genes.
+
+

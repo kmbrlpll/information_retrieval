@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Methylation analysis of uveal melanoma reveals definitive patterns
+in tumors harboring BAP1 mutations.
+
+
+Introduction: Uveal melanoma (UM) is the most common primary intraocular
+malignancy and can be classified by gene expression profiling into two
+distinct molecular classes that correspond to metastatic risk: Class 1
+(low risk) and Class 2 (high risk). The less aggressive Class 1 UMs
+express a more differentiated phenotype and exhibit numerous
+characteristics of normal uveal melanocytes, while the metastasizing
+Class 2 UMs display loss of melanocytic differentiation and have acquired
+a primitive, stem-like phenotype. The majority of Class 2 UMs harbor loss
+of chromosome 3 in addition to inactivating mutations of the tumor
+suppressor BAP1, which also catalyzes ubiquitin removal from histone H2A
+and modulates gene expression. Histone modifications have been shown to
+be associated with DNA methylation and this study investigates the global
+methylation and gene expression changes in BAP1 mutant tumors.
+
+Methods: RNA-Sequencing data and Illumina Human Methyl 450K BeadChip
+Array data obtained from 92 primary uveal melanoma tumors was analyzed
+using optimized pipelines.
+
+Results: This analysis revealed that the more aggressive Class 2 tumors
+exhibit a distinct pattern of hypermethylation and silencing of
+developmental genes involved in neural crest migration and
+differentiation. Chromosomal regions that were significantly enriched for
+hypermethylated genes with decreased gene expression in Class 2 tumors
+included chromosome 3p14-26, 3q12-29 and 8p12-22, whereas the only
+significantly enriched region for genes that were hypomethylated with
+increased gene expression in Class 2 tumors was chromosome 8q22-24.
+Additionally, BAP1 itself was differentially hypermethylated in Class 2
+UMs, suggesting that it may regulate its own transcription.
+
+Conclusions: Class 2 UMs harboring BAP1 mutations displayed distinct
+regions of differential hypermethylation in comparison to Class 1 UMs. In
+these tumors, the most significantly hypermethylated regions occurred on
+chromosome 3 and in regions that were enriched for genes encoding neural
+crest guidance cue proteins that regulate homing, migration and invasion.
+These findings suggest that BAP1 mutations are associated with marked
+reorganization of the DNA methylome, providing new insights into the
+pathophysiology of UM and suggesting that methylation may serve as a
+diagnostic to further stratify metastatic risk. Furthermore, these
+findings may open new opportunities for targeted therapy of Class 2 UMs.
+
+

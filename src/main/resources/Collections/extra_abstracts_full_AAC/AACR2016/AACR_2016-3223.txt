@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Androgen receptor stimulation decreases PD-L1 expression in
+androgen-responsive thyroid cancer cells
+
+
+Women develop thyroid cancer more often than men; however, when men
+develop thyroid cancer, the disease course is more lethal, with a
+mortality rate that is two to three fold higher than in females. Immune
+elimination of nascent tumor cells may explain the differences in disease
+occurrence/course between men and women. To address this possibility, we
+examined the effect of androgen on the expression of immune checkpoint
+molecules in an androgen responsive-thyroid cancer cell line. The
+undifferentiated thyroid cancer cell line, 8505C, does not express a
+functional androgen receptor (AR). 84E7 is a clone of 8505C that was
+transfected with an AR containing plasmid resulting in constitutively
+expressed AR. Transcriptome analysis was performed on 8505C and 84E7,
+with and without 5-dihydrotestosterone (DHT) treatment. Raw sequencing
+reads were aligned to the UCSC hg19 human reference genome with Tophat,
+and Cufflinks was used to measure transcript abundances in Reads Per
+Kilobase of exon model per Million mapped reads (RPKM) as well as to find
+genes with statistically significant changes in expression as per
+Trapnell et al (2012). RNASeq data indicated that DHT treatment of 8505C
+cells does not result in a significant change in gene expression (only 14
+of 23,285 genes), consistent with the lack of a functional androgen
+receptor. In contrast, DHT treatment of 84E7 resulted in >2 fold
+expression changes in 1,552 genes. Examination of the immune checkpoint
+molecules CD28, CD80, CD86, CTLA-4, PD-1, PD-L1, PD-L2, TIM-3, TIM-3L,
+4-1BB, 4-1BBL, OX40, and OX40L revealed that in DHT-treated 84E7 cells,
+PD-L1 was the sole immune checkpoint molecule that exhibited a
+significant expression change with a 1.8 log2 fold decrease (p = 0, q =
+0), or 72% reduction in mRNA content. This is potentially significant as
+PD-L1 is produced by tumor cells as a strategy for subverting and evading
+the immune response, specifically T cells, allowing for continued tumor
+growth and metastases. In the thyroid, the presence of androgen-activated
+androgen receptors could perhaps lead to an environment that is more
+favorable for the immune system and may help eliminate nascent thyroid
+cancer cells. Thus, men may experience a decreased incidence of thyroid
+cancer due to an enhanced (less inhibited) anti-tumor environment.
+However, failure of this system and a subsequent increase in PD-L1
+expression may help to explain the onset and severity of thyroid cancer
+in males. This finding opens the possibility for the use of immune
+checkpoint inhibitors in the treatment of thyroid cancer.
+

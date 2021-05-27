@@ -1,0 +1,44 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Novel MRI-based biomarker for early assessment of glioma recurrence
+
+
+Gliomas continue to be the most common form of brain malignancy in adult
+patients. Even with advancements in the clinical management of these
+patients, assessment of tumor recurrence continues to be based on late or
+serial changes in tumor volume as measured by CT or MRI [1; 2]. The
+purpose of this study was to develop and evaluate a new voxel-based
+method, referred as parametric response mapping (PRM), for early
+detection of brain tumor progression using standard MR images (FLAIR and
+contrast-enhanced T1-weighted). PRM results were evaluated relative to
+standard MRI-based criteria of clinical progression assessment in
+patients with Grade III/IV gliomas. Fourteen patients with grades III/IV
+glioma underwent MRI before and during treatment (every 2 months). MRI
+scans, acquired on a 1.5T or a 3T clinical scanner, consisted of
+fluid-attenuated inversion recovery imaging (FLAIR) and contrast-enhanced
+T1-weighted (CE-T1w) images. All images were spatially registered to
+CE-T1w pre-treatment scans and tumors were manually contoured on the
+T1w-Gd images. Subsequent to PRM analysis, FLAIR images were normalized
+to the signal using the white matter (rFLAIR). PRM, applied to the whole
+brain volume on rFLAIR, was performed by first generating voxel-based
+difference maps at each longitudinal follow-up scan using the baseline as
+the subtrahend. Baseline was defined as either the pre-treatment or
+subsequent rFLAIR image. Individual voxels were classified based on the
+extent of change observed in the rFLAIR difference maps. Three
+classifications were used: voxels with a significant increase in rFLAIR
+values (PRMrFLAIR+), significant decrease (PRMrFLAIR-) or statistically
+unchanged (PRMrFLAIR0). Disease recurrence was defined by PRM as the sum
+of red voxels that exceed 20% of the tumor volume as delineated on
+T1w-Gd. PRMrFLAIR detected tumor recurrence on average 183 weeks earlier
+than the MacDonald criteria. It was also observed that PRMrFLAIR+ found
+outside the tumor CE-T1w regions revealed the spatial location at which
+the tumor would progress on subsequent scans based on current standard
+progression criteria. These results show that the PRM approach provides
+for the early detection and spatial depiction of brain tumor progression
+prior to detection by currently available conventional MRI-based
+criteria. While further validation of PRM for detection of tumor
+recurrence is currently underway, the ability to detect tumor progression
+significantly earlier than currently possible is anticipated to have a
+major impact on patient care. [1] Macdonald, D. R., et al. (1990). J Clin
+Oncol 8(7): 1277-1280. [2] Wen, P. Y., et al. (2010). J Clin Oncol
+28(11): 1963-1972.
+

@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: BreaKmer: Detection of structural rearrangements in targeted
+next-generation sequencing data using kmers
+
+
+Targeted next-generation sequencing (NGS) to capture genes or regions of
+interest has proven to be a cost-effective alternative to whole genome
+sequencing (WGS), particularly for cancer research and clinical cancer
+care. In this context, biologically or clinically relevant selected
+genes/regions are sequenced to several hundred-fold coverage. However,
+current algorithms and tools for detecting large structural variants
+(SVs), such as translocations, fail to achieve either high specificity or
+sensitivity, due to the fact that most available methods were designed
+for WGS data, and thus do not take advantage of the reduced size and
+higher coverage of targeted sequencing to improve SV calling.We developed
+a novel method, BreaKmer, to detect indels, rearrangements, and
+translocations from single sample targeted genomic reads. The algorithm
+extracts mis-mapped single or paired-end NGS reads. From these reads,
+hypothesized to contain SV breakpoints, contigs are built with a kmer
+strategy: reads are broken into k-length substrings or kmers, and those
+occurring in the reference are filtered. The remaining kmers represent
+sequences containing any sequence variant from the reference, ranging
+from single nucleotides to larger variants. Contigs are assembled from
+reads containing sample specific kmers. SVs are called based on alignment
+of the contigs to the reference sequence. With paired-end (PE) reads,
+discordantly mapped paired reads are extracted and coupled with SV calls
+that are made.To demonstrate BreaKmer, we analyzed NGS data from 166
+samples enriched using 3 different capture panels (ranging from 305-504
+genes). Our dataset contained 25 cancer specimens with known
+translocation events verified by orthogonal clinical methods and a
+negative control set of 141 normal samples with no known SVs. The samples
+represented DNA extracted from FFPE, fresh frozen, blood and cell lines.
+Among 25 samples, 15 had additional replicate samples. Mean target
+coverage over all the samples was on average 150x. Specimens were
+barcoded at library preparation and pooled, followed by hybrid-capture
+targeting cancer genes and sequenced 2x100bp PE.All translocation events
+from the 25 test samples and their replicates (46) were detected by
+BreaKmer. An additional 19 translocations were detected among all the
+samples and their replicates, while no translocation calls were made for
+the 141 negative control samples.Our novel kmer strategy to detect SVs
+displayed high sensitivity and specificity. We reliably detected
+rearrangements of ALK, BCL2-IGH, BCR-ABL1 from lung adenocarcinoma,
+B-cell lymphoma, and chronic myeloid leukemia samples, respectively;
+indicating real clinical utility of this algorithm. In addition, our tool
+effectively detects other SV types - such as indels in FLT3 and KIT,
+among other genes. Our algorithm thus serves a pressing need for improved
+SV detection in targeted NGS data, particularly in precision cancer
+medicine.
+

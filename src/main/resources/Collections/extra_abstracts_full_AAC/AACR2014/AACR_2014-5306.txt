@@ -1,0 +1,73 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Shotgun proteomic analysis of human head and neck squamous cell
+carcinoma cell line SQ20B with diminished AHSG expression
+
+
+The Alpha-Heremans-Schmid Glycoprotein (AHSG) has tumor promoting
+properties in animal models of breast cancer and lung cancer (1, 2).
+These cancer cells do not synthesize AHSG, instead utilizing the
+liver-generated glycoprotein that is abundant in serum. We have reported
+that head and neck squamous cell carcinoma (HNSCC) cell lines synthesize
+AHSG (in press) and have also detected abundant AHSG in primary HNSCC
+tumors (unpublished). Growth in serum-free medium and in vitro
+tumorigenic properties, including proliferation, adhesion and migration,
+are diminished in the HNSCC SQ20B cell line modified with AHSG-specific
+shRNA to express only twenty percent of the wild-type SQ20B cell line
+(SQ20B-AH20) compared to SQ20B modified with empty vector alone and
+expressing the wild-type amount of AHSG (SQ20B-EV) (in press). Here we
+have used shotgun proteomic analysis to identify additional proteins
+whose expression may also affect these in vitro properties of
+tumorigenesis associated with AHSG.The two cell lines were cultured in
+serum-free medium to avoid the contribution of exogenous AHSG in serum.
+Cell lysates were obtained, and the proteins were separated in
+polyacrylamide gels in duplicate. Each full protein lane was cut into 10
+pieces, in-gel digested with trypsin and analyzed with tandem liquid
+chromatography mass spectrometry (LC-MS). MS data were analyzed against a
+recent human protein database. Proteins differentially expressed were
+quantified using a spectral counting approach.A total of 1386 distinct
+protein groups were identified in the two samples. Forty-eight proteins
+were differentially expressed in these samples (z score > 3, which
+corresponds to p 0.001, and Benjamini-Hochberg [statistical] FDR The
+Alpha-Heremans-Schmid Glycoprotein (AHSG) has tumor promoting properties
+in animal models of breast cancer and lung cancer (1, 2). These cancer
+cells do not synthesize AHSG, instead utilizing the liver-generated
+glycoprotein that is abundant in serum. We have reported that head and
+neck squamous cell carcinoma (HNSCC) cell lines synthesize AHSG (in
+press) and have also detected abundant AHSG in primary HNSCC tumors
+(unpublished). Growth in serum-free medium and in vitro tumorigenic
+properties, including proliferation, adhesion and migration, are
+diminished in the HNSCC SQ20B cell line modified with AHSG-specific shRNA
+to express only twenty percent of the wild-type SQ20B cell line
+(SQ20B-AH20) compared to SQ20B modified with empty vector alone and
+expressing the wild-type amount of AHSG (SQ20B-EV) (in press). Here we
+have used shotgun proteomic analysis to identify additional proteins
+whose expression may also affect these in vitro properties of
+tumorigenesis associated with AHSG.The two cell lines were cultured in
+serum-free medium to avoid the contribution of exogenous AHSG in serum.
+Cell lysates were obtained, and the proteins were separated in
+polyacrylamide gels in duplicate. Each full protein lane was cut into 10
+pieces, in-gel digested with trypsin and analyzed with tandem liquid
+chromatography mass spectrometry (LC-MS). MS data were analyzed against a
+recent human protein database. Proteins differentially expressed were
+quantified using a spectral counting approach.A total of 1386 distinct
+protein groups were identified in the two samples. Forty-eight proteins
+were differentially expressed in these samples (z score > 3, which
+corresponds to p 0.001, and Benjamini-Hochberg [statistical] FDR < 0.05).
+Proteins associated with the cytoskeleton, adhesion and apoptosis were
+over-represented in the group of differentially expressed proteins. Here
+we have shown that the human HNSCC cell line SQ20B exhibits changes in
+the proteome when AHSG expression is diminished. These proteins are
+critical for the tumorigenic properties of adhesion and migration. These
+data will help to identify mechanisms of tumorigenesis associated with
+AHSG in HNSCC.References1. B. Guillory, A.M. Sakwe, M. Saria, P.
+Thompson, C. Adhiambo, R. Koumangoye, B. Ballard, A. Binhazim, C. Cone,
+W. Jahanen-Dechent, J. Ochieng, Lack of fetuin-A (alpha2-HS-glycoprotein)
+reduces mammary tumor incidence and prolongs tumor latency via the
+transforming growth factor-beta signaling pathway in a mouse model of
+breast cancer, The American Journal of Pathology 177 (2010) 2635-2644.2.
+M.N. Kundranda, M. Henderson, K.J. Carter, L. Gorden, A. Binhazim, S.
+Ray, T. Baptiste, M. Shokrani, M.L. Leite-Browning, W. Jahnen-Dechent,
+L.M. Matrisian, J. Ochieng, The serum glycoprotein fetuin-A promotes
+Lewis lung carcinoma tumorigenesis via adhesive-dependent and
+adhesive-independent mechanisms, Cancer Res 65 (2005) 499-506.
+

@@ -1,0 +1,35 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Functional characterization of ERK3 mutants existing in human
+cancers
+
+
+Extracellular signal-Regulated Kinase 3 (ERK3) is an atypical member of
+the mitogen-activated protein kinase (MAPK) family. Recent studies have
+shown that ERK3 is highly upregulated in multiple cancers, such as lung
+cancer and colon cancer, and plays an important role in promoting cancer
+migration and invasion. While the link between ERK3 and cancers has been
+recognized, little is known about ERK3 mutations in cancer progression.
+In this study, we have investigated ERK3 mutations on R64 and L290 that
+have been found in cancers of lung, large intestine and skin (COSMIC
+database). Importantly, mutations of R64C, R64H, L290P and L290V all are
+located in the kinase domain of ERK3. In order to characterize these
+mutations, we generated ERK3 mutants with each of these point mutations,
+and then overexpressed them in HeLa cells with or without stable
+knockdown of endogenous ERK3. Notably, we found that in comparison with
+wild type ERK3, all of these cancer-related mutations lead to reduction
+of phosphorylation at S189 within the activation loop (an indicator of
+ERK3 kinase activity). While activation loop phosphorylation is well
+known to result in activation of the classical MAPKs, its effects on the
+activity and functions of ERK3 remain elusive. To study the functional
+impact of these ERK3 mutations on cancer cell invasiveness, we performed
+trans-well migration assays using HeLa cells overexpressing each of these
+mutants or the wild type ERK3. In line with previous finding,
+overexpression of ERK3 increased cell migration. Interestingly, both
+L290P and L290V mutations significantly increased ERK3's ability in
+promoting cell migration, whereas R64C and R64H mutations resulted in a
+decrease in cell migration. These results suggest that S189
+phosphorylation within the activation loop does not correlate with ERK3's
+function in promoting cancer cell motility. To conclude, we report for
+the first time the functional characterization of cancer-related ERK3
+mutations in modulating cancer cell migratory properties.
+

@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Role of tumor beta-1 integrin in the tumor cell extravasation
+cascade
+
+
+It has been shown that the tumor beta-1 integrin subunit plays an
+important role in primary tumor growth and metastasis. However, the
+specific role of beta-1 in the tumor cell extravasation cascade has not
+yet been clearly elucidated. This is partly due to the lack of
+extravasation models that possess high throughput and spatio-temporal
+resolution of each step in the cascade, which consists of
+tumor-endothelium arrest, transendothelial migration, and migration into
+the sub-endothelial matrix. To address this question, we employ multiple
+in vitro microfluidic platforms to recapitulate the extravasation
+microenvironment, allowing us to decipher in high spatio-temporal
+resolution, the specific extravasation defects associated with shRNA
+mediated beta-1 integrin knockdown in MDA-MB-231, MA2 and SUM 159 cell
+lines. These models include perfusable HUVEC microvascular networks
+embedded in a fibrin-collagen hydrogel and an upright HUVEC monolayer on
+a collagen gel that allows for detailed in-plane observation of 3D
+extravasation events. We first show that beta-1 knockdown drastically
+decreases extravasation efficiency in both assays, and further validated
+the defect in an in vivo mouse lung metastasis model. To explain the
+overall decreased ability to extravasate, we employed our assays to
+visualize and quantify each step in the extravasation cascade. First, we
+show that the retention rate of beta-1 knockdowns is significantly
+decreased under flow in microvascular networks. This suggests that beta-1
+mediates adhesion to the endothelium, which was confirmed by a reduced
+adhesion rate under shear flow on a planar monolayer. Next, using the
+upright monolayer assay, we observed via time-lapse confocal microscopy
+that while beta-1 knockdowns assume a rounded morphology and extends
+nearly no protrusions past the endothelial barrier, their ability to open
+the endothelium was not significantly affected. However, beta-1
+knockdowns were unable to fully invade past the endothelium and remained
+intercalated between endothelial cells. Further analysis revealed that
+extravasated beta-1 knockdown cells remained closely associated with the
+endothelium, while control cells migrated farther out into the
+sub-endothelial matrix. Immunostaining of the basement membrane protein
+collagen IV showed that transmigrated beta-1 knockdown cells were found
+trapped between the endothelial and col IV layers, suggesting that the
+close association with the endothelium is partly due to the inability to
+breach the basement membrane. Taken together, our results indicate that
+beta-1 is required for tumor cell extravasation by mediating
+tumor-endothelial adhesion and invasion into the subendothelial matrix,
+post-endothelial breaching.
+

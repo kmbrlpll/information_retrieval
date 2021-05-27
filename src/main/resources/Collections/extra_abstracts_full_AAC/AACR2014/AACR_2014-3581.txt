@@ -1,0 +1,41 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Characterization of T cell repertoire in transplanted patients
+with graft versus host disease using next generation DNA sequencer
+
+
+Allogeneic hematopoietic stem cell transplantation (HSCT) is an effective
+therapy in treating patients for a range of high-risk hematologic
+malignancies. However, the success of allogeneic HSCT is limited due to
+graft versus host disease (GVHD). T cell receptor (TCR), a heterodimer of
+alpha and beta chains, is expressed on the surface of T cells, recognizes
+some antigens on the HLA molecule on host cells, enhances T cell
+proliferation, and release cytotoxic agents that cause the damage on host
+cells. The TCR in each T cell is unique due to the recombination of VJ
+(alpha) or VDJ (beta) segments that generates a diverse repertoire of T
+cells and enables T cells to recognize a vast number of different
+antigens. The development of next generation sequencing (NGS) has enabled
+us to obtain massive profiling of TCR to unravel the complexity of T cell
+diversity. In this study, we attempted to identify expanded T cell
+populations which are induced during the course of GVHD development after
+HSCT. To characterize millions of the TCR alpha and beta chains from a
+single individual, we performed very deep sequencing using cDNA derived
+from mRNA isolated from peripheral blood mononuclear cells of GVHD
+patients at different time-points (before and after HSCT) with Ion
+Personal Genome Machine (PGM) Sequencer and a 400-bp reading kit. This
+sequencing technology has allowed us to obtain several million TCR
+sequences in a single experiment. A newly-developed algorithm was then
+applied for characterization of TCRs at each time-point. This approach
+has identified expansion of oligoclonal TCR alpha and beta chains, with
+unique V(D)J junction sequences around the rearranged regions, in T cells
+that are likely to be associated with development of GVHD. In the present
+study, a total of nine GVHD patients with different time-points (before
+and after HSCT) were examined. We obtained an average of 3,560,634 TCR
+alpha sequences with VJ combinations and 2,161,990 TCR beta sequences
+with VDJ combinations. Diversified TCR repertoire is observed in these
+samples. Further analysis of TCR alpha and beta chains for various
+time-points has suggested that a specific type(s) of T cells might be
+activated in the GVHD patients. Characterization of TCR may help
+delineate the molecular mechanisms of GVHD more precisely. Furthermore,
+it may aid in characterizing a personalized GVHD phenotype and predicting
+and/or monitoring the immunological responses after HSCT.
+

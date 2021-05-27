@@ -1,0 +1,34 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Analytical performance and validation of an enhanced TAm-Seq
+circulating tumor DNA sequencing assay
+
+
+Circulating tumor DNA (ctDNA) is becoming established as a tool to
+supplement conventional biopsies for molecular characterization and
+monitoring of solid cancers, especially for cancers where tumor tissue is
+difficult to obtain or is only available at limiting quantity. This
+requires reliable identification, in patient plasma, of tumor-specific
+DNA alterations that in some cases may be present as a small fraction of
+the total cell-free DNA molecules. To overcome these technical
+challenges, we have developed an enhanced platform for tagged-amplicon
+deep sequencing (TAm-Seq). Using a combination of efficient library
+preparation and statistically-based analysis algorithms, this platform
+can be used to sequence, identify and quantify cancer mutations across a
+gene panel including both cancer hotspots, as well as entire coding
+regions of selected genes.This poster will present validated performance
+specifications of this multi-gene ctDNA sequencing assay. To perform
+analytical validation, we used reference standards and plasma DNA
+controls to demonstrate the sensitivity, specificity and quantitative
+accuracy of this ctDNA analysis platform. We found that our workflow,
+using 4 mL input plasma, yields very high sensitivity for variants that
+are present at allele fraction 0.25% or higher in plasma, and retains
+substantial sensitivity at allele fractions as low as 0.1%. Using
+dilution mixtures of well-characterised reference samples, we show that
+the assay accurately quantifies allele fractions with precision
+predominantly limited by stochastic sampling. Analysis of plasma samples
+from control individuals demonstrates a low false positive rate. The
+assay also detects DNA amplifications (including in ERBB2, MYC, KRAS,
+EGFR, MET, FGFR1, FGFR2) when the ctDNA are sufficiently high.Together,
+these data demonstrate the analytical validity and robustness of the
+TAm-Seq assay and support its use as a basis for clinical applications.
+

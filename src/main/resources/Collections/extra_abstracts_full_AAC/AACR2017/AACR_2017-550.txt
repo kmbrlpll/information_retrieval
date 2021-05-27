@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Predictive value of co-expression network consisting of FOXM1 and
+its neighbor genes in cancers.
+
+
+Purpose: Forkhead box protein M1 (FOXM1) is a key regulator of
+tumorigenesis. Previous studies demonstrated that FOXM1 expression was
+strongly correlated with poor prognosis of various cancers. The aim of
+this study is to define a signature consisting of FOXM1 and its
+associated genes and assess its prognostic potential in cancers including
+hepatocellular carcinoma (HCC) and others.
+
+Experimental procedures: We analyzed a gene expression profile of 100
+patients with HCC to identify FOXM1-correlated genes (the FOXM1
+signature) associated with the prognosis of HCC patients. The validity of
+the FOXM1 signature was verified in an independent HCC cohort (n = 242).
+Using the signature, we also analyzed different cancer types including
+pancreatic adenocarcinoma, lung adenocarcinoma, breast carcinoma, and
+bladder urothelial carcinoma to verify the association between the FOXM1
+signature and prognosis. Various statistical methods were applied to
+signature finding and validation. Upstream regulator and gene-to-gene
+network analyses were performed to identify potential key mediators of
+the FOXM1 signature.
+
+Results: Through a gene expression profiling in 100 patients with HCC, we
+identified a gene set consisting of FOXM1 and its co-expressed genes for
+predicting poor prognosis. A predictive value of the signature was
+validated in an independent cohort containing 242 HCC patients. In
+multivariate analysis, the FOXM1 signature showed the most significant
+prognostic value (HR = 1.706, 95% CI = 1.176-2.475, P = 0.005). By
+directly applying the signature to four data sets in different cancer
+types, our signature showed a consistent prognostic significance,
+regardless of tumor types. Finally, upstream regulator and gene-to-gene
+network analyses found an interconnection of network hubs composed by
+FOXM1, MYC, and E2F1 that might be common key mediators of patient
+survival in cancer.
+
+Conclusions: The FOXM1 signature represents a promising common diagnostic
+tool to identify high-risk cancer patients and may extend treatment
+options in various cancers.
+
+

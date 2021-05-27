@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Systemic administration of DNA nanoparticles containing the
+diphtheria toxin gene reduces pancreatic tumor load in mice
+
+
+Despite years of research and hundreds of clinical trials, our ability to
+treat metastatic pancreatic ductal adenocarcinoma (PDA) effectively has
+been thwarted due to the numerous genetic mutations in multiple core
+pathways that are characteristically present in pancreatic tumors, as
+well as the ability of tumors to develop resistance to chemotherapeutic
+drugs and small molecules. To avoid these complications, we have
+developed a suicide gene therapy that targets the death of PDA tumor
+cells regardless of their genetic mutation profile while avoiding
+unwanted harmful effects to healthy cells. A novel DNA nanoparticle,
+3DNA, serving as a delivery vector is derivatized by conjugation to a DNA
+construct (MSLN promoter-driven diphtheria toxin A, pMSLN/DTA) as well as
+to a tumor-targeting molecule. Targeted DTA-induced tumor cell death is
+achieved in two ways: targeted nanoparticle delivery to tumor cells via
+docking and internalization, and targeted expression to cells that have
+an active mesothelin (MSLN) promoter (MSLN is highly overexpressed in 50%
+of PDA tumors). In preclinical tests, these formulations are systemically
+administered to PDA tumor-bearing mice. In an initial experiment, after
+confirming that MSLN is highly expressed in murine Pan02-luc PDA cells,
+we generated Pan02-luc orthografts in C57BL/6 mice and treated mice
+2X/week with 50g cargo DNA/i.v. injection for 4 weeks with either
+MSLN/DTA-TFP (n=7) or with MSLN/XX-TFP (n=5) dendrimer formulations (TFP
+is a peptide with strong affinity for the human transferrin receptor
+(TR), and weaker affinity for murine TR; XX = no coding sequence). Tumor
+load was assessed weekly by optical imaging and luciferase
+bioluminescence quantitation. Fold increase in relative light units (RLU)
+(baseline to 4 days after the last injection) was used to measure
+therapeutic efficacy. After 4 weeks of treatment, the mean RLU ratio for
+the MSLN/DTA-TFP treated mice was 0.51 +/-0.20 while that of the
+MSLN/XX-TFP treated mice was 7.1 +/-8.22, a significant 15-fold
+difference in tumor load (p=0.04). This quantitative analysis of tumor
+load as well as gross observations of tumors upon sacrifice of the mice
+showed that tumors in mice systemically treated with MSLN/DTA-TFP
+dendrimer formulation shrunk significantly to the point where tumor load
+was negligible in contrast to rapid growth of tumors in mice treated with
+the MSLN/XX-TFP formulation. This experiment demonstrates that
+systemically-administered DNA nanoparticle-delivered DTA effectively
+kills tumor cells with little to no apparent systemic toxicity as
+assessed by body weight and TUNEL assays of multiple normal tissues. In
+ongoing experiments to further validate this approach for the treatment
+of metastatic PDA, other targeting molecules such as folate and TFP are
+being used to target delivery to Pan02-luc orthografts and human
+BxPC3-luc2 xenografts.
+

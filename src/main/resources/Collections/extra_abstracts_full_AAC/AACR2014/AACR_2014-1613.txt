@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Characterization of the Src-regulated kinome by chemical proteomics
+
+
+Enhanced Src activation has been implicated in many cancers, including
+those of breast, lung and pancreas. However single-agent therapies
+targeting Src have achieved limited success in the clinical setting. It
+remains unclear what regulatory influence Src has at the kinomic level,
+where many anti-cancer drug targets are found. This study aims to define
+the Src-regulated kinome by using a cutting-edge chemical proteomics
+strategy, and to combine this with functional genomics in order to
+identify kinase signaling networks that are important for Src-induced
+oncogenesis. This may ultimately identify potential therapeutic
+strategies for cancers with aberrant Src activity, that involve, for
+example, targeting Src in combination with a downstream kinase.We first
+developed a novel kinase capture reagent termed CTx-0294885 for kinase
+enrichment. This allows the identification of more than 230 protein
+kinases at the level of protein expression and phosphorylation by mass
+spectrometry. The combination of CTx-0294885 with 3 other existing kinase
+capture reagents led to the greatest kinome coverage in a single cell
+line reported to date (Zhang 2013).We then applied this kinase enrichment
+technique in combination with quantitative mass spectrometry to identify
+the Src-regulated kinome. This was achieved by comparing global kinase
+activation profiles in control MCF-10A immortalized mammary epithelial
+cells and MCF-10A cells expressing constitutively active Src. Nearly 300
+protein kinases and 1500 kinase-derived phosphosites were identified from
+the kinome profiling. Importantly, over 100 kinases respond to Src
+activation with changes at the protein expression or phosphorylation
+level. This Src-regulated kinome contains: several well characterized
+kinases that are already being targeted in the clinical setting, such as
+Egfr and Braf; proto-oncogenes implicated in breast cancer but with no
+current functional link to Src, such as Ikk; kinases involved in tumor
+suppression such as Lats1/2 and the Tao family kinases; and many poorly
+characterized kinases that may represent novel targets for drug
+discovery. In addition, approximately 70 other proteins co-purified with
+protein kinases also exhibited changes upon Src activation. These include
+several lipid kinases and numerous proteins involved in RNA metabolism.
+All of these Src-regulated proteins are currently being functionally
+characterized by a focused RNAi screen, specifically regarding their
+roles in cell viability, migration and morphology.This study will provide
+novel insights into the global impact of Src-induced transformation on
+the expressed kinome and may lead to identification of novel therapeutic
+targets and combination treatment strategies.Reference:Zhang L, Daly R.J
+et al. 2013. Characterization of a novel broad-spectrum kinase inhibitor
+CTx-0294885 as an affinity reagent for mass spectrometry-based kinome
+profiling. J Proteome Res. 2013 Jul 5;12(7):3104-16.
+

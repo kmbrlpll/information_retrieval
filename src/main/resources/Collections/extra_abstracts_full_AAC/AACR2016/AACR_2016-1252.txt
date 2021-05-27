@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: TIMELESS is a KSR1-like effector of Ras-driven colon tumorigenesis
+
+
+Multiple studies have revealed that Ras-driven tumors acquire unique
+vulnerabilities by adapting cellular mechanisms that promote uncontrolled
+proliferation and suppress apoptosis. Targeting these vulnerabilities
+provide opportunities to develop novel, efficacious cancer therapeutics
+that lack the harmful side effects accompanying current therapies. RNA
+interference (RNAi) of the molecular scaffold Kinase Suppressor of Ras 1
+(KSR1), which modulates ERK activation downstream of oncogenic Ras,
+selectively kills malignant, Ras-driven cancer cells, but does not kill
+immortalized, non-transformed human colon epithelial cells (HCECs). With
+the exception of a minor hair follicle defect, KSR1-/- mice are fertile
+and phenotypically normal, suggesting that KSR1 is not required for
+normal cell survival and that Ras-driven and KSR1-dependent pathways may
+yield valuable new targets for therapeutic development.To identify
+targets, like KSR1, that are required for cancer cell survival but not
+normal cell survival, we used a gene expression-based signature screening
+approach termed Functional Signature Ontology (FUSION, Potts et al. Sci.
+Signaling 2013) to screen 15,172 genes in the K-RasD13-bearing human
+colorectal cancer cell line HCT116. We quantified the functional
+similarity between KSR1 and each individual gene screened using Euclidean
+Distance and Pearson Correlation similarity metrics. Additional metrics
+were added to identify the best targets for biological validation
+including off-target analysis (siRNA seed sequences), cell viability
+evaluation, expression analysis, and enrichment analysis. Initial
+biological validation is completed by assessing cell viability following
+transient depletion of a screen hit in anchorage-independent and normal
+culture conditions in HCECs and HCT116s.Due to the similarity between the
+gene expression signatures, Timeless Circadian Clock (TIMELESS) was
+identified as being KSR1-like and a potential target. We found that
+transient TIMELESS depletion decreases cell viability in HCT116 cells
+under anchorage-independent conditions (47% decrease, p 0.05; HCT116 49%
+decrease, p 0.05; HCT116 49% decrease, p < 0.0001, N = 6). TIMELESS is
+upregulated at the RNA level in colon tumors compared to normal colon
+tissue (2.2 fold, p 0.05; HCT116 49% decrease, p < 0.0001, N = 6).
+TIMELESS is upregulated at the RNA level in colon tumors compared to
+normal colon tissue (2.2 fold, p < 0.0001) (TCGA) and is upregulated at
+the protein level in three human colon cancer cell lines (HCT116, SW480,
+SW620) bearing activated Ras compared to HCECs (4-7 fold).Our data
+indicate that the FUSION screen provides a platform for identifying novel
+therapeutic targets and demonstrates the potential to identify
+oncogene-specific vulnerabilities in an unbiased manner. TIMELESS
+overexpression represents a vulnerability in Ras-driven tumors that will
+reveal novel and selective targets found in Ras-driven cancers that can
+be used in the development of selective therapeutics.
+

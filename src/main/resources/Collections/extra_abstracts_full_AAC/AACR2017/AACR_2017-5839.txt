@@ -1,0 +1,95 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Androgen receptor (AR): A novel target for radiosensitization in
+triple-negative breast cancers (TNBC).
+
+
+Purpose: Increased rates of local recurrence (LR) have been observed in
+TNBC despite chemotherapy and radiation (RT). Thus, approaches that
+result in radiosensitization in TNBC are critically needed. We
+characterized the RT response of 21 breast cancer cell (BCC) lines using
+clonogenic survival assays and paired this with high-throughput drug
+screen data, identifying AR as a top target for radiosensitization. We
+demonstrate that AR inhibition confers radiosensitization in vitro and in
+vivo, identified a biomarker of response, and characterize the mechanism
+of AR-mediated radiosensitization in TNBC.
+
+Materials/Methods: Clonogenic survival assays determined the intrinsic RT
+sensitivity of 21 BCC lines. IC50 values were determined for 130 clinical
+compounds and correlation coefficients were calculated using IC50 values
+and SF-2Gy. Gene and protein expression was measured using RNA Seq and
+RPPA arrays, respectively, in tumor samples (n=2,061) and BCC lines
+(n=51). AR function was assessed using gene knockdown (KD) or functional
+inhibition with anti-androgen drugs. We measured in vivo tumor growth
+with varying control and treatment groups (16-20 tumors/group).
+Kaplan-Meier analysis was performed to estimate local control. A Cox
+proportional hazards model and MVA were used to determine variables
+associated with LRF survival.
+
+Results: Our unbiased drug radiosensitizer screen nominated bicalutamide
+as an effective drug in treating RT-resistant BCC lines (R2= 0.46,
+p-value 2000 human breast tumor samples and 51 BCC lines and found
+heterogeneity in AR expression with strongly correlated expression of
+protein and RNA levels in TNBC (R2=0.89, p-value 2000 human breast tumor
+samples and 51 BCC lines and found heterogeneity in AR expression with
+strongly correlated expression of protein and RNA levels in TNBC
+(R2=0.89, p-value <0.001). Inhibition of AR, using both KD and drug
+(MDV3100) induced RT sensitivity with an enhancement ratio (ER) of
+1.35-1.42 in AR+ TNBC lines with no effect on controls.
+Radiosensitization was at least partially dependent on impaired dsDNA
+break repair mediated by DNAPKcs. AR inhibition with MDV3100
+significantly radiosensitized TNBC xenografts in mouse models and
+markedly delayed tumor tripling time (TTT) and tumor growth (median TTT
+17.4 days for RT alone vs. not reached after 50 days for MDV3100+RT,
+p-value 2000 human breast tumor samples and 51 BCC lines and found
+heterogeneity in AR expression with strongly correlated expression of
+protein and RNA levels in TNBC (R2=0.89, p-value <0.001). Inhibition of
+AR, using both KD and drug (MDV3100) induced RT sensitivity with an
+enhancement ratio (ER) of 1.35-1.42 in AR+ TNBC lines with no effect on
+controls. Radiosensitization was at least partially dependent on impaired
+dsDNA break repair mediated by DNAPKcs. AR inhibition with MDV3100
+significantly radiosensitized TNBC xenografts in mouse models and
+markedly delayed tumor tripling time (TTT) and tumor growth (median TTT
+17.4 days for RT alone vs. not reached after 50 days for MDV3100+RT,
+p-value <0.001). Activated DNAPK was identified as a biomarker of
+response. Clinically, TNBC patients whose tumors had higher than median
+expression of AR had higher rates of LR after RT (HR for LR ~3, p-value
+2000 human breast tumor samples and 51 BCC lines and found heterogeneity
+in AR expression with strongly correlated expression of protein and RNA
+levels in TNBC (R2=0.89, p-value <0.001). Inhibition of AR, using both KD
+and drug (MDV3100) induced RT sensitivity with an enhancement ratio (ER)
+of 1.35-1.42 in AR+ TNBC lines with no effect on controls.
+Radiosensitization was at least partially dependent on impaired dsDNA
+break repair mediated by DNAPKcs. AR inhibition with MDV3100
+significantly radiosensitized TNBC xenografts in mouse models and
+markedly delayed tumor tripling time (TTT) and tumor growth (median TTT
+17.4 days for RT alone vs. not reached after 50 days for MDV3100+RT,
+p-value <0.001). Activated DNAPK was identified as a biomarker of
+response. Clinically, TNBC patients whose tumors had higher than median
+expression of AR had higher rates of LR after RT (HR for LR ~3, p-value
+<0.01, 2 independent datasets). In MVA, high AR expression was the
+variable most significantly associated with worse LRF survival after RT
+in TNBC patients, outperforming all other variables (HR of 3.58; p-value
+2000 human breast tumor samples and 51 BCC lines and found heterogeneity
+in AR expression with strongly correlated expression of protein and RNA
+levels in TNBC (R2=0.89, p-value <0.001). Inhibition of AR, using both KD
+and drug (MDV3100) induced RT sensitivity with an enhancement ratio (ER)
+of 1.35-1.42 in AR+ TNBC lines with no effect on controls.
+Radiosensitization was at least partially dependent on impaired dsDNA
+break repair mediated by DNAPKcs. AR inhibition with MDV3100
+significantly radiosensitized TNBC xenografts in mouse models and
+markedly delayed tumor tripling time (TTT) and tumor growth (median TTT
+17.4 days for RT alone vs. not reached after 50 days for MDV3100+RT,
+p-value <0.001). Activated DNAPK was identified as a biomarker of
+response. Clinically, TNBC patients whose tumors had higher than median
+expression of AR had higher rates of LR after RT (HR for LR ~3, p-value
+<0.01, 2 independent datasets). In MVA, high AR expression was the
+variable most significantly associated with worse LRF survival after RT
+in TNBC patients, outperforming all other variables (HR of 3.58; p-value
+< 0.01).
+
+Conclusion: Our results implicate AR as a mediator of radioresistance in
+breast cancer and support the rationale for developing clinical
+strategies, including clinical trials, to inhibit AR as a novel
+radiosensitizing target in TNBC.
+
+

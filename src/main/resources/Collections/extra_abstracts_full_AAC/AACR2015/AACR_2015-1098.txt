@@ -1,0 +1,29 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Epistasis analysis of the PTHLH region in European subjects of the
+iCOGS breast cancer GWAS suggest multiple genes may be implicated in its
+role in breast cancer
+
+
+Parathyroid hormone-related protein (PTHrP), the product of the PTHLH
+gene, has long been implicated in breast cancer. Its expression is
+thought to favour and, potentially, facilitate metastasis to bone.
+Paradoxically, a prospective clinical study clinical suggests that its
+production in primary breast cancers is actually protective, affording a
+better prognosis than its absence. Multiple recent Genome-Wide
+Association Studies (GWAS) have confirmed a single susceptibility locus
+immediately upstream of the PTHLH gene to be associated with breast
+cancer. This was again reproduced in the recent iCOGS GWAS, which
+involved over 90,000 European subjects. In spite of a single SNP,
+rs10771399, being uniquely reported and reproduced by prior studies,
+comprehensive analysis of the region reveals multiple significant SNPs
+stretching for hundreds of kbp across the locus. Epistasis analysis of
+this region versus the entire iCOGS array was performed using Plink!.
+These results suggest multiple genes may be implicated in the causation
+of this signal. Many known functional partners of PTHLH were identified,
+including IPO8, RUNX1, RUNX3, S100P, SOX9, SOX11, and SOX14. Multiple
+putative functional partners of PTHLH were likewise identified, including
+PBXIP1, PMVK, KCNN3, STX12, PPP1R8, CAMTA1, PRKCZ, TGIF1, SPHKAP, MYC,
+and STAT3. When taken together, these results offer novel potential
+insights into the function of the locus at PTHLH in breast cancer that
+may be further investigated.
+

@@ -1,0 +1,121 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genetic analysis using a novel high-purity enrichment system for
+circulating tumor cells independent of epithelial cell antigen.
+
+
+Background
+
+Genetic analysis of circulating tumor cells (CTCs) is useful as a liquid
+biopsy. However, there are 3 challenging issues in processing of CTC
+samples for clinical use of the analysis: [1] numerous residual blood
+cells in processed samples, [2] loss of CTCs that do not express
+epithelial markers, and [3] very laborious process. Here, we developed a
+novel system capable of overcoming all of these problems.
+
+Methods
+
+Our CTC analysis system is composed of 3 steps: [1] filtering of whole
+blood followed by immunostaining and magnetic labeling of cells trapped
+on the filter, [2] depletion of white blood cells (WBCs) in the cells
+recovered from the filter by magnetic separation, and [3] trapping the
+resultant cells at an observation chamber in a microfluidic enrichment
+device using dielectrophoresis, followed by recovering them as a
+concentrated sample after fluorescence microscope observation. SNV and
+CNV analysis was conducted using the collected concentrated sample, and
+the system performance was substantiated. Genetic mutations of the cells
+in the collected sample were detected by the Quenching Probe method. On
+the other hand for CNV analysis, cells in the collected concentrated
+sample were immobilized on slide glass and analysis of gene amplification
+conducted by FISH.
+
+Results
+
+With SNV analysis, our system successfully detected EGFR, KRAS or PIK3CA
+mutations of cancer cell lines spiked in 8 mL of whole blood (Table). The
+detection sensitivity of our method was 1 cell/mL, and both the cancer
+cells and their genetic mutations were detected within 9 hours of
+starting the processing of whole blood. Additionally, with CNV analysis,
+HER2 gene amplification was confirmed with cell lines spiked in 8 mL of
+blood. This detection result was obtained within 48 hours.
+
+Conclusion
+
+Our system would be useful for the analysis of gene mutations in a wide
+range of CTC types independent of certain epithelial antigens, such as CK
+and EpCAM, and can be used for various genetic analyses.
+
+Table Results of spiking test for SNV analysis
+
+
+
+Spiked cell lines
+
+Expected count[cells/8ml]
+
+No. of detected spiked cells [cells]
+
+No. of detected remained WBCs [cells]
+
+Detected genotypes
+
+
+
+NCI-H1975
+
+12
+
+9
+
+79
+
+EGFR L858R
+
+
+
+NCI-H1650
+
+8
+
+2
+
+25
+
+EGFR exon19 deletion
+
+
+
+SW620
+
+8
+
+6
+
+48
+
+KRAS codon12, 13
+
+
+
+SNU-1
+
+12
+
+4
+
+154
+
+KRAS codon12, 13
+
+
+
+MCF-7
+
+7
+
+7
+
+341
+
+PIK3CA G1633A
+
+

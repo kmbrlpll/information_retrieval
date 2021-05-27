@@ -1,0 +1,33 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Fine-mapping of common genetic variants associated with colorectal
+tumor risk identified potential functional variants
+
+
+Background: Genome-wide association studies (GWAS) have identified many
+common single nucleotide polymorphisms (SNPs) associated with colorectal
+cancer risk. These SNPs may tag correlated variants with biological
+importance. Fine-mapping around GWAS loci facilitates detection of
+functional candidates and additional independent risk variants.Methods:
+We analyzed 11,900 cases and 14,311 controls in the Genetics and
+Epidemiology of Colorectal Cancer Consortium and the Colon Cancer Family
+Registry. To fine-map genomic regions containing all known common risk
+variants, we imputed high-density genetic data from the 1000 Genomes
+Project. We tested associations with colorectal tumor risk for all
+variants spanning genomic regions 250-kb upstream or downstream of 31
+GWAS-identified SNPs (index SNPs). We queried the University of
+California, Santa Cruz Genome Browser to examine evidence for biological
+function.Results: Index SNPs did not show the strongest association
+signals with colorectal tumor risk in their respective genomic regions.
+However, in most regions the SNP showing the smallest P-value was
+correlated (r20.2) with the index SNP. Bioinformatics analysis of SNPs
+showing smaller P-values in each region revealed 21 functional candidates
+in 12 loci (5q31.1, 8q24, 11q13.4, 11q23, 12p13.32, 12q24.21, 14q22,2,
+15q13, 18q21, 19q13.1, 20p12.3, and 20q13.33). We observed evidence for
+an additional independent association signal in 8q24 located between
+POU5F1B and MYC (rs28629385; minor allele frequency=0.06; per-allele odds
+ratio=1.37; P=7.9E-06).Conclusions: Our results support the utility of
+integrating data from comprehensive fine-mapping with expanding publicly
+available genomic databases to help clarify GWAS associations and
+identify functional candidates for laboratory follow-up. Such efforts may
+aid the eventual discovery of disease-causing variant(s).
+

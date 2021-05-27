@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: The effects of the environmental carcinogen dibenzo[a,l]pyrene on
+genome-wide methylation and the impact of dietary black raspberry in
+mouse oral tissues
+
+
+We had previously reported the carcinogenicity of dibenzo[a,l]pyrene
+(DB[a,l]P) in mouse oral cavity; we also found that that diets containing
+black raspberry (BRB) significantly reduced the levels of DNA adducts
+derived from DB[a,l]P in mouse oral tissues. Epigenetic alternations
+including DNA methylation have been shown to contribute to carcinogenesis
+induced by certain carcinogens. Literature data showed that dietary BRB
+can modulate DNA methylation at certain gene-specific promoters; however,
+the genome-wide methylation alterations by DB[a,l]P and the impact of BRB
+are not known. Therefore, to mimic the bioassay employed in our previous
+carcinogenicity study, B6C3F1 female mice (n = 3/group) were fed either
+control diet or diet containing BRB (5%) for 2 weeks prior to topical
+application of DMSO containing DB[a,l]P (24 nmol, 3 times a week for 5
+weeks); animals treated with DMSO and control diet were used as a control
+group. DNA was isolated from oral tissues and subjected to enhanced
+reduced representation bisulfite sequencing analysis which is a single
+nucleotide resolution technique used to study DNA methylation in CpG
+sites and the surrounding regions. Briefly, DNA was digested by MspI
+followed by end repair, adenylation and adapter ligation with a
+modification of bead size selection to capture MspI fragments of 70-320
+bp size. The resulting libraries were bisulfite-converted followed by PCR
+amplification and read by 150 bp on HiSeq 2500. Base calls of bisulfite
+treated sequencing reads were mapped to the mm9 mouse assembly and
+methylation calls were performed using Bismark v0.10.1. The methylKit R
+package was then used to calculate the differential methylation.
+Differentially methylated bases with q-value 25% were extracted.
+Differential methylation of 30 genes was observed in DB[a,l]P compared
+with control; 12 genes were hypermethylated including -catenin;
+hypomethylation of 18 genes was observed. Differential methylation of 960
+genes was observed in mice treated with DB[a,l]P and fed BRB compared to
+DB[a,l]P. Ingenuity Pathways analysis was performed on each of the
+resulting gene sets in the three groups. Pathway analysis of the genes
+with altered methylation patterns identified canonical pathways for the
+involvement of cancer related network for genes involved in Wnt/-catenin
+signaling, epithelial-mesenchymal transition (EMT), glycolysis and p53
+signaling pathways in mice treated with DB[a,l]P. On the other hand, the
+canonical pathways identified in mice treated with DB[a,l]P and fed BRB
+are genes involved in glutamate receptor signaling, IGF-1 signaling, EMT,
+glycolysis, and protein citrullination. Using this quantitative
+sequencing-based approach, our work uncovers significant global DNA
+methylation alterations in mouse oral tissues by DB[a,l]P alone and
+together with BRB. Support: NCI R01-CA173465
+

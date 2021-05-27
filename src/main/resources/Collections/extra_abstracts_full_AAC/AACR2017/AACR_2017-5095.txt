@@ -1,0 +1,34 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Development of a pharmacodynamic biomarker assay for AZD4785, an
+antisense oligonucleotide targeting KRAS.
+
+
+AZD4785 is a potent and selective high affinity 2’-4’ constrained
+ethyl residues (cEt) containing therapeutic antisense oligonucleotide
+(ASO) targeting KRAS. In a patient-derived explant model of non-small
+cell lung cancer (NSCLC) carrying a KRAS G12C mutation systemic dosing of
+AZD4785 resulted in tumor regression. To determine the level of KRAS mRNA
+knockdown achieved by AZD4785 at a dose which causes regression (250
+mg/kg/wk), tumor samples were collected and analyzed by RT-PCR. Mean
+levels of KRAS mRNA knockdown relative to the PBS control group were
+determined to be 61% and 78% from studies dosed for 2 and 4 weeks,
+respectively. However, by RT-PCR there was significant variability in
+KRAS mRNA levels within the PBS control group, and level of knockdown
+varied with different housekeeper normalization genes. In early clinical
+studies it will be essential to measure KRAS expression in tumor samples
+as a pharmacodynamic marker for AZD4785, hence we sought to develop a
+more robust assay compatible with FFPE clinical samples with low RNA
+yields. KRAS mRNA levels were quantified by the nanoString platform,
+using the panCancer pathways 770 gene codeset. This assay generated
+robust data from RNA extracted from 2 x 5µm sections of FFPE material
+from each sample, despite very limited yields of RNA. AZD4785 treatment
+resulted in comparable levels of KRAS knockdown to the RT-PCR assay, but
+assay variability was greatly reduced, from stdev >50% (RT-PCR) to 5%
+(nanoString) for PBS control group samples. Using the nanoString assay,
+mean KRAS mRNA knockdown was 52% and 68% (p50μm apart within four NSCLC
+tissues and was found to be ≤21%. Taken together, these data validate
+the use of the KRAS nanoString assay for use in clinical FFPE tissues,
+and demonstrate the level of knockdown of KRAS mRNA to be >50% at a dose
+of AZD4785 that causes regression in a preclinical PDX model.
+
+

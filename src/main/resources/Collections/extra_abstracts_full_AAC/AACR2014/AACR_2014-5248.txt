@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Targeted suppression of interleukin-1 signaling inhibits growth of
+primary human acute myeloid leukemia cells
+
+
+Background: Acute myeloid leukemia (AML) represents the most common type
+of leukemia in adults and is associated with high morbidity and
+mortality. Targeted therapy represents a promising approach in AML with
+the potential for increased efficacy and reduced toxicity. Because recent
+studies have demonstrated that certain inflammatory cytokines known to
+suppress normal hematopoiesis have the opposite effect (ie. enhancing
+proliferation) on cell growth of AML cells, we systematically assessed
+the functional relevance of 90 cytokines and their receptors in primary
+human AML cells. Here we present a novel role of Interleukin-1 (IL-1)
+signaling in aberrant regulation of AML cell growth.Methods and Results:
+To identify functionally important cytokine signaling pathways in
+leukemia pathogenesis we took a two pronged approach. First, we
+quantified the growth of 45 primary AML patient samples against graded
+concentrations of 90 cytokines. Second, we employed a functional siRNA
+screen targeting 188 cytokine receptors that were found highly expressed
+in 140 primary leukemia samples by gene expression analysis. Using this
+approach we identified that IL-1 signaling had the most dramatic effect.
+Forty percent of AML samples exhibited a 5-25 fold increase in growth in
+the presence of IL-1/. Paradoxically, IL-1 suppressed growth of normal
+CD34+ cells. Silencing the IL-1 receptor, IL1R1, reduced the viability of
+these AML primary samples by 60%. Most IL-1 sensitive AML samples exhibit
+monocytic and myelomonocytic features; however, no correlation with
+specific somatic mutations has thus far been observed. IL-1 responsive
+samples are from patients with abnormally increased serum IL-1 levels (5
+fold). Consistent with this, conditioned media from the mononuclear cells
+of these samples promote the growth of AML CD34+ cells. Deep sequencing
+of primary AML samples indicated that genes encoding signaling molecules
+of IL-1 pathway (IL1R1, IL1RAP, MYD88, TRAF6, IRAK, IKK, cJUN, NFB and
+p38) are normal. We confirmed the importance of IL1R1 using a genetic
+model. We found that the absence of IL1R1 in murine bone marrow leads to
+significant ablation of clonogenic potential (80% reduction) of
+oncogene-induced leukemic cells (AML1-ETO9a, NRASG12D and MLL-ENL) when
+compared to oncogene-induced leukemic cells from wild type mice. However,
+no effect on colony growth was observed with empty vector controls. These
+results suggest that multiple genetic drivers of leukemia share a
+dysfunctional IL-1 pathway. Mechanistically, IL-1 promotes CD34+ AML cell
+survival by increasing p38 phosphorylation that is significantly
+inhibited with IL1R1 knockdown or p38 kinase inhibitors such as
+Doramapimod. No toxic effect of Doramapimod was observed on normal cell
+growth.Conclusion: These results demonstrate a novel role for IL-1
+signaling in promoting oncogenesis in AML and provide evidence that
+targeting this pathway might be beneficial to AML patients.
+

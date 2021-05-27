@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: A new platform for constructing antibody-cytokine fusion proteins
+(immunocytokines) with improved biological properties and adjustable
+cytokine activity.
+
+
+The clinical use of interleukin 2 (IL2) for cancer immune therapy has
+been limited by a lack of tumor targeting that requires the
+administration of dose levels sufficient to activate anti-tumor effector
+cells in the tumor microenvironment. These doses, in turn, are limited by
+several side effects including vascular toxicities of hypotension and
+vascular leak syndrome. One way to increase the accumulation of IL2 at
+the tumor site is to genetically fuse it to the heavy chains of a tumor
+specific antibody, and several such molecules (immunocytokines or ICs)
+have been shown to have improved anti-tumor activity compared to free
+IL2, the targeting antibody, or the combination. This is especially true
+of ICs with longer circulating half lives that increase the amount of
+drug delivered to the tumor. Unfortunately, this increases the vascular
+exposure and toxicity of the IL2 component that, again, limits the amount
+that can be dosed and the rate of infusion. One way to reduce the
+toxicity of long-acting ICs is to dose them subcutaneously (greatly
+reducing Cmax levels in the blood) rather than intravenously. Another way
+is to make the IC more selective for the high affinity IL2 receptor
+(IL2Rhi) than the intermediate form (IL2Rint) by mutagenesis. Both
+approaches are based on the hypothesis that activating cells expressing
+IL2Rint should be limited to reduce toxicity, while activating cells
+expressing IL2Rhi should be maintained for anti-tumor activity. I have
+recently developed a novel method for constructing ICs that utilizes
+fusion of cytokines to the C terminus of the Ig light (L) chain, rather
+than the traditional method of fusing to the heavy (H) chain. The fusion
+junction of IL2, in this case, is located adjacent to the antibody hinge
+region, where the L chain forms a disulfide bond through its C-terminal
+cysteine residue to the H chain. This constrains both the N-terminal
+region of IL2, as well as the hinge-CH2 region of the H chain where both
+Fc receptors and the C1q subunit of complement bind when they mediate
+antibody-dependent cytotoxic activities (ADCC and CDC). Surprisingly,
+such ICs are expressed well in transfected cells, are very stable in
+normal buffers and have biological properties that are superior to ICs
+made by fusion to the H chain. These properties include longer
+circulating half life, increased uptake following subcutaneous dosing,
+and similar or improved antibody effector activities of ADCC and CDC,
+respectively. Furthermore, the sequestering effect of this fusion
+junction allows one to adjust IL2Rint binding and activation by
+shortening the N-terminus of IL2 at the fusion point. This appears to
+limit access of the critical contact residue Asp20 of IL2 to the chain of
+IL2Rint, while maintaining binding and activation of IL2Rhi expressing
+cells as well as antibody effector functions.
+

@@ -1,0 +1,35 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Targeting oncoproteins via disruption of proteostasis:
+Identification of oncoprotein destabilizing agents using luciferase
+tagged oncoproteins
+
+
+Since many oncoproteins are considered undruggable targets, we have
+developed and validated a new screening strategy to identify small
+molecules that inhibit oncoprotein activity by causing their degradation.
+Recently, the mechanism of action for the class of drugs known as
+immunomodulators (IMiDs; e.g. thalidomide, lenalidomide and pomalidomide)
+has uncovered a novel oncogene targeting strategy. IMiDs commandeer an E3
+ligase complex that contains the E3 recognition subunit cereblon and
+divert its activity toward two transcription factors IKZF1 and IKZF3,
+which play critical roles in hematopoietic cells. This mechanism explains
+the efficacy of IMiDs in multiple myeloma and may translate into a
+general approach to target traditionally undruggable oncoproteins. We
+generated cell lines stably expressing IKZF1as a firefly luciferase
+fusion protein with coexpression of Renilla luciferase. A pilot HTS
+campaign was run to uncover novel drugs that can mimic the effects of
+IMiDs. A cell line expressing the MYC-firefly fusion protein was used for
+counter-screening. We used pomalidomide as our positive control and it
+reduced firefly luciferase signal 75% with no change in the renilla
+luciferase signals. This control resulted in a Z prime value typically
+>0.5. The pilot screen of 3,850 compounds resulted in 39 hits that
+reduced firefly luciferase >35%. More importantly, both thalidomide and
+lenalidomide were found to be active in the screen. Confirmation testing
+revealed that 75% of hits repeated, but also had activity in the
+MYC-firefly cell line. Actives were tested in western blots for their
+ability to decrease fusion protein abundance. Many active compounds did
+not reduce protein levels in western blots and represent nonspecific hits
+(e.g. luciferase inhibitor). In conclusion, we present a screening
+paradigm with the potential to uncover novel proteostasis disruptors by
+expressing luciferase tagged oncoproteins.
+

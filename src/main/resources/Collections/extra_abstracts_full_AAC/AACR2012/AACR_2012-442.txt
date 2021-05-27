@@ -1,0 +1,39 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Increased miR-let7c level indicates transition from localized
+bladder cancer to metastasis
+
+
+Purpose/Objective(s): MicorRNAs are a group of short ribonucleic acid
+molecules with an average of 22 nucleotides and play an important role in
+regulation of gene expression. Because the microRNA profiles of tumor are
+related to cancer development and prognostication, it becomes a new
+frontier of cancer research. The current tools for studying microRNA like
+microarray have limited dynamic range and poor sensitivity, and Taqman
+microRNA assay has higher sensitivity but limited number of microRNAs.
+The SOLiD system provides a sensitive and robust assay for discovery and
+profiling of novel microRNAs using sequencing by ligation. The aim of
+this study is to find key miRNA which can provide insights into the
+cancer cell invasion and metastasis. Materials/Methods: 12 bladder cancer
+FFPE samples were used in this study, including 6 cases of stage N0, 3
+cases of stage N1 and 3 cases of stage N2. Total RNA from FFPE blocks was
+isolated by Ambion RecoverAll Total Nucleic Acid Isolation kit according
+to manufacturer's instructions. The concentration and quality of total
+RNA were examined by Nanodrop 1000 spectrophotometer. The small RNA was
+enriched by flashPAGE fractionation and the microRNA library was built
+using Ambion SOLiD Small RNA Expression Kit with the barcode system (Life
+Technologies, CA, US). 35 bp long reads were generated on the SOLiD
+(version 3.0) sequencing system (Life Technologies) and were analyzed by
+using the SOLiD System Small RNA Analysis Tool (Life Technologies).
+Results: Analyzed samples were from male caucasian patients with a median
+age of 63.5 years. Tumors were all grade 3 urothelial carcinomas.
+Patients had T1-4 and M0-1 disease. We examined global miRNA expression
+in bladder cancer FFPE samples, and SOLiD results revealed that the
+expression of 10 microRNAs significantly differed between N0 stage and
+N1/2 stage. miR-let7c precursor and mature miR-let7c were upregulated in
+samples from patients with lymphnode metastasis. A previous study from
+Leite et al. showed that miR-let7c expression was similar in matched FFPE
+and frozen prostate cancer tissue with a Pearson's correlation
+coefficient of 0.927. Conclusion: miR-let7c expression is associated with
+the presence of lymphnode metastasis in high-grade urothelial bladder
+cancer.
+

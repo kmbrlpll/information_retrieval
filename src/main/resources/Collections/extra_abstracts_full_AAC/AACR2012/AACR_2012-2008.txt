@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Broad spectrum BH3 mimetic BI-97D6 induces apoptosis of acute
+myeloid leukemia cells even when co-cultured with supporting stromal cells
+
+
+The BCL2 family of proteins contains members that possess potent
+anti-apoptotic function (e.g. BCL2, MCL-1) as well as pro-death members
+(e.g. BAX, BIM). Aberrant expression of anti-apoptotic members such as
+BCL2 or suppression of pro-apoptotic members such as BAX or BIM can lead
+to tumor formation and promote resistance to therapy in many types of
+cancer including Acute Myeloid Leukemia (AML). A recent model of
+tumorigenesis/chemoresistance suggests cancer cells become dependent on
+pro-survival molecules including BCL2 and MCL-1. This model suggests that
+the addicted malignant cells can be eliminated by targeting the survival
+molecule that supports the tumor cell. Recent efforts to target a broad
+group of BCL2 family members has evolved using small molecule inhibitors
+to target the BH3 domain since the association between the two groups of
+BCL2 family members involves this domain. While compounds including
+ABT-737 have shown promise for treatment of some cancers, the compound
+binds poorly to MCL-1 and related BCL2 family members such as BCL2A1 and
+thus cells that rely on these anti-apoptotic BCL2 family members display
+resistance to the compound. Furthermore, we and others have recently
+found that ABT-737 can promote MCL-1 expression likely via a mechanism
+involving ERK. A superior approach would be to develop a single BH-3
+mimetic agent that is effective at inhibiting MCL-1 as well as other BCL2
+family members. In the current study, we examine if the Apogossypol
+analog BI-97D6 (Wei et al, J Med Chem. 2010), which has efficacy against
+MCL-1 as well as BCL2 and BCL-XL, has potential an effective
+anti-leukemia agent. BI-97D6 is novel as an Apogossypol compound since it
+acts as a true BH3 mimetic. Other gossypol and apopgossypol compounds
+have been shown to promote death by ER stress mediated mechanisms. In AML
+cells, we found that BI-97D6 does not induce CHOP expression or JNK
+activation, which are features of ER stress induction. Bax/Bak knock out
+MEFs were resistant BI-97D6, indicating that the drug acts specifically
+as a BH3 mimetic. BI-97D6 interferes with the association of MCL-1 with
+BIM and induces the death conformation of BAX in OCI-AML3 cells. The drug
+is effective at killing a variety of AML derived cell lines with IC50
+values at 72 hours in the nanomolar range (i.e. below 50 nM for OCI-AML3,
+HL60, and MOLM13). Bone marrow-derived mesenchymal stromal cells (BM MSC)
+have been shown to protect leukemia cells from conventional chemotherapy
+agents such as AraC. There was no difference in BI-97D6 mediated killing
+of OCI-AML3 cells whether the cells were treated in co-culture with BM
+MSC or alone. These results suggest that BI-97D6 could have efficacy
+against AML, regardless of MCL-1 levels, which is not diminished by the
+protective effects of the BM microenvironment. Further mechanistic
+details are under investigation.
+

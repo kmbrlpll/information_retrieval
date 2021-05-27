@@ -1,0 +1,43 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identification of molecular drivers of human hemangioblastoma
+
+
+Hemangioblastoma of the central nervous system is the most common
+manifestation of Von Hippel-Lindau (VHL) disease, an autosomal dominant
+inherited cancer syndrome. The underlying molecular mechanism of
+hemangioblastoma is not known. To discover the molecular drivers of
+hemangioblastomas, 17 hemangioblastoma human tissue cases were submitted
+to MIP (molecular inversion probe) analysis to assess copy number
+alteration. Surprisingly, a focal loss of chromosome 17q was observed in
+15 of 17 cases. Further analysis discovered a specific deletion involving
+HNF1B (Hepatocyte Nuclear Factor 1 homeobox B), a nuclear transcription
+factor. To elucidate the molecular effects of HNF1B loss, we used three
+different sequences of shRNA to knock down Hnf1b in mouse embryonic
+fibroblast (MEF) cells. Loss of Hnf1b resulted in significantly fewer
+cells arrested in G2/M in response to nocodazole treatment. Cell cycle
+related protein levels such as cyclin B1, cyclin D1 and
+phospho-Tyr15-Cdk1 were correspondingly changed. Of note, the cyclin
+dependent kinase inhibitor Cdkn1b (p27) was remarkably suppressed while
+another cyclin dependent kinase inhibitor, p21, was not affected at all.
+To elucidate the mechanism of Hnf1b dependent p27 regulation, the
+proteasome inhibitor MG132 was used to treat Hnf1b knockdown cells, which
+failed to increase p27 levels. An in vitro ubiquitination assay
+demonstrated that Hnf1b did not affect p27 ubiquitination. Both results
+indicated that Hnf1b regulation of p27 is not via posttranslational
+ubiquitin-proteasome system. Real time-polymerase chain reaction (PCR)
+and chromatin immunoprecipitation (ChIP) experiments demonstrated that
+Hnf1b regulated p27 at the mRNA level and specific consensus binding
+regions were identified. We then showed that p27 overexpression by
+lenti-virus infection in Hnf1b knockdown cells normalized the percentage
+of G2/M arrested cells.Hemangioblastoma are highly vascularized tumors.
+We discovered a dramatic up-regulation of vascular endothelial growth
+factor (Vegf) by enzyme-linked immunosorbent assay in cells with Hnf1b
+knockdown. These findings provided further evidence that loss of Hnf1b is
+one of the major drivers of the hemangioblastoma disease phenotype. Taken
+together, our findings for the first time identified HNF1B as a major
+gene loss in hemangioblastoma patients, and provide molecular evidence
+that Hnf1b transcriptionally regulates cell cycle protein p27, and drives
+the proangiogenic phenotype. This novel study sheds insights into
+molecular mechanisms of hemangioblastoma and provides tools to develop
+prevention and treatment strategies for the disease.
+

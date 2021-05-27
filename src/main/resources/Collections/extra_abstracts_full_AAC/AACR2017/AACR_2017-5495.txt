@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: GANT61-induced cell death involves inhibition of transcription and
+DNA licensing at GLI sites in the promoters of GLI-dependent target genes
+in human colon carcinoma cells.
+
+
+The GLI genes, GLI1 and GLI2, are transcriptional regulators of the
+Hedgehog signaling response, binding at promoters to GACCACCCA-like
+consensus sequences. From genetic and biochemical studies, GLI2 is the
+primary mediator of HH signaling, which activates GLI1 to
+transcriptionally regulate target genes. In cancers both GLI1 and GLI2
+are oncogenes, aberrantly and constitutively activated by oncogene-driven
+signaling pathways, in particular KRAS/BRAF in colon cancer. GANT61, a
+specific GLI inhibitor, induced extensive cytotoxicity in human models of
+colon cancer, indicating GLI to be a critical target in cancer cell
+survival. We have determined FOXM1 to be a transcriptional target of GLI1
+at a GCCCACCCA consensus sequence. In HT29 cells, inhibition of GLI
+binding to the FOXM1 promoter by GANT61 led to inhibition of binding of
+the pause-release factors DSIF, NELF, and p-TEFb in the region of the
+TSS, with inhibition of binding of Pol II at both GLI and TSS sites. In
+R-loop regions, RNA:DNA hybrid formation was reduced at both the GLI and
+TSS sites in the FOXM1 promoter by GANT61, sensitive to RNaseH. Bisulfite
+conversion/PCR also determined >50% reduction in ssDNA (C->T conversions)
+in the GLI binding region in GANT61-treated cells. Data support
+GANT61-induced inhibition of GLI-dependent transcription at the PIC
+before R-loops are formed. Pretreatment of HT29 cells with α-amanitin
+(Pol II inhibitor) reduced GANT61-induced γH2AX foci, indicating the
+importance of transcription in GANT61-induced DNA damage. Co-localization
+of GLI1 and BrdU foci, inhibited by GANT61, indicated GLI1 and DNA
+replication were linked. By co-immunoprecipitation, GLI1 bound the DNA
+replication licensing factors ORC4, CDT1, and MCM2, decreased in the
+presence of GANT61. By confocal microscopy, significant co-localization
+of GLI1 and ORC4 foci was inhibited by GANT61, and enrichment of ORC4
+occurred at the GLI binding site in the FOXM1 promoter. In addition to
+non-transcriptional mechanisms of interaction between GLI1 and DNA
+licensing factors, CDT1 was found to be a transcription target of GLI1 at
+a putative GACCACCCG consensus sequence in the promoter. ChIP analysis
+determined significant enrichment of γH2AX at this site in
+GANT61-treated HT29 cells. Overexpression of CDT1 in HT29 cells reduced
+GANT61-induced cell death and cleavage of caspase-3, indicating a
+significant role of DNA replication licensing in the mechanism of
+induction of GANT61-induced cell death. In summary, we have demonstrated
+inhibition of GLI-dependent transcription by GANT61 at the PIC during the
+initiation of RNA synthesis, and the importance of inhibiting DNA
+replication licensing at sites in promoter regions that bind the
+transcription factor GLI1 by both non-transcriptional and transcriptional
+mechanisms.
+
+Supported by NCI Award 1 RO1 CA183921-01A1 and by Southern Research
+Institute
+
+

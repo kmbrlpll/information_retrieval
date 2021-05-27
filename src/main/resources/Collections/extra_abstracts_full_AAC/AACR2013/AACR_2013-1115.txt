@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Functionally prioritizing somatic driver aberrations in cancer.
+
+
+The Cancer Genome Atlas and similar efforts are cataloging genomic
+aberrations across major tumor lineages. These projects are revealing an
+extraordinary level of genome complexity made up of not only key driver
+events critical to pathogenesis, but also numerous biologically-neutral
+passengers inherent to unstable tumor genomes. The challenge now is to
+identify functional driver aberrations, as targeting such events or their
+activated pathways has great potential for improving patient outcomes.
+Efficient driver identification requires robust pipelines to prioritize
+the thousands of putative targets emerging from genomics studies.
+However, little progress has been made toward developing gain-of-function
+systems for validating overexpressed or activated oncogenes. We have
+assembled a platform of 32,000 sequence-verified open reading frames
+(ORFs, hereafter termed genes). We have integrated these reagents into
+infrastructure enabling high-content genetic screens. This work is made
+possible through technological advances made in our laboratory that
+include 1) robotics driven, high-throughput modeling of somatic mutations
+(missense, indels, etc) in a manner that permits construction of every
+aberration found within a given candidate gene and 2) a molecular
+barcoding approach that facilitates detection of driver events following
+in vitro and in vivo pooled functional screens. This scalable "HiTMMoB"
+(High-Throughput Mutagenesis and Molecular Barcoding) platform allows
+rapid construction of expression-ready wild-type and mutant gene clones.
+These reagents are being used in our functional genomics pipelines to 1)
+identify novel cancer driver genes, 2) to examine functionality of rare
+tail mutations in known cancer genes and 3) to asses these genes for
+their ability to modulate cell response to available therapeutics. An
+important feature of our system is that target cells, once infected with
+a gene library, can be entered into parallel screens to maximize
+discovery (e.g., screens for driver addiction, cell invasion,
+anchorage-independent growth, drug resistance). While cell-based
+screening systems are tractable, in vitro models do not fully
+recapitulate all hallmarks of cancer. To address this challenge, we have
+developed in vivo screening models that leverage barcode sequencing
+technology to identify drivers positively selected within tumors and
+metastases. We are using these platforms to identify drivers of pancreas,
+lung and breast cancer among others through our participation in multiple
+projects that include one within the NIH Cancer Target Discovery and
+Development Network, a consortium whose goal is to leverage these and
+other tools to identify new cancer targets across a variety of cancer
+types. Our "prioritization pipeline" will provide the cancer research
+community information on the most promising somatic aberrations for
+downstream biomarker and drug development.
+

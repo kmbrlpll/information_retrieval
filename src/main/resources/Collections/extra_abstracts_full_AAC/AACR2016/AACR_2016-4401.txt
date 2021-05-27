@@ -1,0 +1,34 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Disclosing the Hippo signaling networks in castration-resistant
+prostate cancer
+
+
+Prostate cancer often evolves as a metastatic castration-resistant
+disease, which is lethal. Despite recent advances, the molecular
+mechanisms contributing to this lethal disease are largely unknown. Our
+initial studies have indicated that the loss-of-function of the
+STK4-encoded MST1 protein kinase, a key component of the Hippo tumor
+suppressor pathway, may play a prominent role in the etiology of prostate
+cancer progression. Here, we establish cytoplasmic-, membrane- or
+nuclear-localized MST1 cell models to elucidate a possible mode of
+actions by which MST1 control the disease progression. We show that
+membrane or nuclear MST1 confers superior growth inhibitory effects on
+castration-resistant prostate cancer cells ex vivo and in vivo in
+comparison with cytoplasmic MST1, though they express the similar levels
+of MST1 protein. Consistently, a number of differentially expressed genes
+(2-fold with FDR 0.05) regulated by membrane or nuclear MST1 protein are
+much greater than cytoplasmic MST1, as assessed by RNA-sequencing and
+bioinformatics analysis. Functional annotation clustering reveals that
+genes affected by cytoplasmic MST1 protein are mostly associated with
+cell-cell interactions and membrane trafficking. However, expression of
+genes altered by membrane or nuclear MST1 involves much broader cellular
+biology that includes cell signaling, steroid biogenesis, lipid and
+cholesterol metabolisms, and developmental processes. In addition,
+Ingenuity Pathway analysis indicates that several genes effected by
+ectopic MST1 protein the defined cell location interact with androgen
+receptor pathway signaling, a critical regulator of prostate cancer
+pathogenesis. The results of this study suggest that the Hippo pathway
+signaling restricts prostate cancer progression by modulating the array
+of signaling networks, indicating important therapeutic implications for
+human disease.
+

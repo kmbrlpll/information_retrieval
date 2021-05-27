@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Combined circulating tumour cell (CTC) and circulating tumor DNA
+(ctDNA) analysis of blood from patients with pancreatic cancer
+
+
+BackgroundThe challenge to improve outcomes for patients diagnosed with
+advanced pancreatic cancer remains very real with only small improvements
+in median survival gained by the use of systemic chemotherapy and little
+improvement in 5-year survival over the past decades. The advent of next
+generation sequencing (NGS) of tumor nucleic acids has opened up the
+possibility of improving outcomes through personalized therapies selected
+on the basis of tumor genetics.Whilst NGS biomarkers can be measured in
+tumor biopsies sampled shortly before and after treatment this is often
+not practical for ethical, logistical and simple lack of availability. To
+circumvent problems associated with tumor sampling we have developed and
+evaluated blood-borne nucleic acids biomarkers for patients diagnosed
+with advanced pancreatic cancer.ApproachWe developed a NGS circulating
+free DNA (cfDNA) analysis pipeline based on the generation of whole
+genome NGS libraries followed by sequencing of over 600 cancer-associated
+genes using Agilent SureSelect. Using whole blood collected with Streck
+cell free DNA blood collection tubes (cfDNA BCT) we optimised combined
+circulating tumor cell (CTC) enrichment and cfDNA isolation. Quantitative
+measurements of KRAS mutations using both NGS and droplet digital PCR
+(ddPCR) were used to compare the tumor component present in both CTCs and
+cfDNA. We evaluated the overall approach using External Quality
+Assessment (EQA) controls and over 50 advanced pancreatic cancer patient
+samples. For CTC analysis we also compared epitope dependent (CellSearch)
+and independent (Parsortix) enrichment.ResultsAfter applying our NGS
+pipeline to 5 EQA genomic controls we identified all 14 known mutations
+correctly indicating high sensitivity and specificity. Both ddPCR and NGS
+identified KRAS mutations in patient cfDNA with a higher success rate
+seen for ddPCR consistent with the higher sensitivity of this
+methodology. From the NGS output additional mutations were detected in
+samples which either harboured or lacked detectable KRAS mutations.
+Consistent with previous observations CellSearch CTCs were detected at
+low levels in around 20% of patients with a similar frequency seen in
+initial analysis of CTCs obtained by epitope independent enrichment
+(Parsortix). In general KRAS mutations were detected at a higher level in
+patient cfDNA compared to enriched CTCs although some patients showed
+detectable CTC KRAS mutations with no KRAS mutations detected in their
+cfDNA by either ddPCR or NGS. Ongoing analysis is aimed at establishing
+if the molecular observations correlate with clinical
+outcome.ConclusionCombined CTC enrichment and cfDNA isolation is readily
+achievable using a single Streck cfDNA BCT. Results indicate that
+combined CTC and cfDNA analysis is more sensitive than either approach
+alone.
+

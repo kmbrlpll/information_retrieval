@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: KIF11 silencing or inhibition induces chromosome instability
+
+
+Chromosome Instability (CIN) is defined as an increase in the rate at
+which whole chromosomes or large parts are gained or lost. CIN is not
+only associated with virtually all tumor types, but it is associated with
+aggressive tumors, the acquisition of multi-drug resistance and
+consequently poor patient prognosis. Despite these associations, the
+genes and molecular defects that contribute to CIN are only poorly
+understood. Recently, we performed a high content screen that identified
+KIF11, a microtubule associated motor protein, as a candidate CIN gene.
+Here, we couple RNAi-based gene silencing with biochemistry and cell
+biology to show that diminished KIF11 expression and/or function induce
+CIN. HCT116 cells were employed, as they are a karyotypically stable
+colorectal cancer cell line of epithelial origin that has been used for
+similar CIN studies. KIF11 was either silenced (both individual and
+pooled siRNA duplexes) or inhibited (Monostrol) and expression levels
+were determined by Western blots. To determine whether KIF11 silencing or
+inhibition affects DNA content, two phenotypes frequently associated with
+CIN, namely increases in nuclear area and micronucleus formation were
+evaluated. Fluorescence microscopy was employed on DAPI-counterstained
+samples and revealed statistically significant increases both nuclear
+area and micronucleus formation following KIF11 silencing and inhibition
+relative to controls. Next, flow cytometry was performed on propidium
+iodide labeled samples to assess whether increases in DNA content were
+associated with the changes in nuclear area. As predicted, increases in
+the proportion of cells with >G2/M DNA content occurred within the KIF11
+silenced populations. Finally, mitotic chromosome spreads were generated
+and chromosomes were manually enumerated from 100 spreads per
+condition/control. Subsequent Kolmogorov-Smirnov tests identified
+statistically significant increases in the cumulative distribution
+frequencies of mitotic chromosome numbers within the spreads generated
+from the KIF11 silenced cells relative to controls. To extend our
+findings beyond the colorectal cancer cell context employed above,
+analogous studies were performed in hTERT cells (karyotypically stable
+fibroblast cell line) with very similar results. Collectively, these data
+indicate that KIF11 expression and function are normally required to
+maintain genome integrity. They further suggest that the loss of KIF11
+expression and/or function may be a contributing factor in the etiology
+of tumorigenesis in colorectal cancer and perhaps other tumor types as
+well.
+

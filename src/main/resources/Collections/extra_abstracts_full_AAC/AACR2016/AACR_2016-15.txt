@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Metabolomic profiling of cell death in human lung cancer cells by
+a novel digitoxin analog
+
+
+Background:Digitoxin, a cardiac glycoside had shown considerable promise
+as an anti-cancer therapeutic. However, doses of digitoxin required to
+inhibit cancer cell proliferation lead to cardiotoxic side effects. We
+have previously shown that a novel analog of digitoxin, MonoD, activates
+apoptosis in human lung cancer cells at much lower concentrations as
+compared to digitoxin. We postulate that treatment with MonoD leads to
+distinct metabolic signatures on lung cancer cells as compared to
+digitoxin, which will help delineate the pathways that dictate MonoD
+action.Experimental Approach:NCI-H460 cells from identical passages were
+used for metabolite analysis using an optimized version of the
+methanol/water (80:20) protocol for metabolite extraction. The
+supernatant containing metabolites were suspended in 0.1% formic acid
+spiked with an internal standard for Q-Exactive analysis. The data was
+analyzed using SIEVETM 2.0 software with the component extraction
+algorithm that has been specifically designed for optimal data analysis
+in untargeted metabolomics experiments. Metabolites that were found to be
+significantly different between treatment groups were detected via
+Chemspider/HMDB database search.Results:We observed several metabolites
+along the prostaglandin synthesis pathway which were downregulated in
+MonoD treated lung cancer cells. Prostaglandins play a key role in the
+generation of the inflammatory response. Chronic inflammation has been
+shown to be a causative factor in a variety of cancers. Cyclooxygenase2
+(COX-2) derived prostaglandin has been previously shown to promote tumor
+growth by binding its receptors and activating signaling pathways which
+control cell proliferation, migration, apoptosis, and angiogenesis. Using
+the metabolite profiling data, we posited that COX-2, a key enzyme
+involved in prostaglandin synthesis, in addition to NFB, a key
+transcription factor of proinflammatory signaling pathway are
+downregulated with MonoD treatment. Immunoblotting confirmed the
+downregulation of COX-2 and NFB in MonoD-treated cells.Conclusion: Using
+metabolite profiling, we have elucidated an important mode of action for
+MonoD in lung cancer cells, and shown that MonoD exerts its
+anti-tumorigenic properties by downregulating key factors involved in
+inflammatory response.
+

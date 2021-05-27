@@ -1,0 +1,36 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Applying TCGA data for breast cancer diagnostics and pathway
+analysis
+
+
+The main objective of our project is to obtain a comprehensive insight
+into oncogenic signaling in order to develop novel diagnostic tools for
+molecular subtypes of breast cancer (BRCA). We have provided about 100
+BRCA samples along with full pathology and clinical annotations to the
+TCGA program. These cancer samples have been extensively characterized
+using all available genomics platforms and the obtained molecular data
+contributed to the molecular characterization of BRCA. This integrated
+effort identified four major molecular subtypes of breast cancer that can
+be identified across five profiling platform including genomics,
+transcriptomics and proteomics (Nature, 490 (7418):61-70). Building upon
+these datasets we aim to translate these genomics profiles into
+diagnostic tools that can be used in every day medical practice. In the
+first step, we have generated tissue microarrays (TMAs) from FFPE BRCA
+samples obtained from the patients enrolled into the TCGA project. Next,
+the TMA slides were used for immunohistochemistry (IHC) using about 100
+antibodies specific for major cancer markers, including oncogenic kinases
+frequently activated or overexpressed in BRCA. The obtained IHC results
+have been scored and verified independently for each marker by two
+board-certified pathologists. To identify markers that correlate with or
+are specific to the molecular subtypes of BRCA, the TMA/IHC read-outs
+from each tumor sample were correlated with all TCGA genomic data. In
+addition, we integrate the pathology and genomics results with clinical
+data obtained from the TCGA-enrolled patients, including up to 4 years
+follow-up. Finally, we apply system biology tools to integrate the
+genomic data from TCGA with the proteomic analysis to understand
+causalities between changes in DNA, transcriptome and signal transduction
+pathways. Our long-term goal is to identify novel diagnostic biomarkers
+that will precisely identify each molecular subtype of BRCA and which may
+be predictive of patient response to therapy thus paving the way for
+novel personalized therapies for cancer.
+

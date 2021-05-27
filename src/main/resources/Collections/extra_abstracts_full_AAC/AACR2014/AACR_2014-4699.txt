@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Analytical validation of solid tumor fusion gene detection in a
+comprehensive NGS-based clinical cancer genomic test
+
+
+Background: As the number of clinically actionable cancer genes grows and
+the size of most diagnostic biopsies decreases, next-generation
+sequencing (NGS) becomes increasingly attractive as a diagnostic tool, as
+it can detect all classes of genomic alterations in all cancer genes in a
+single test. However, for NGS to achieve its full utility in the clinic,
+robust analytical validation and performance comparisons against
+established detection methodologies are required for each class of
+targetable genomic alteration.Methods: Previously, we reported on the
+development and validation of an NGS-based diagnostic test for accurate
+detection of clinically-relevant genomic alterations across all exons of
+287 cancer genes in routine FFPE specimens (Frampton, et. al, Nat.
+Biotech. Oct 2013). Here, we present systematic validation of fusion gene
+detection in the test, enabled by hybrid-selection and deep sequencing of
+commonly rearranged introns in 19 (or, in an alternative version, 31)
+genes. We created reference samples reflecting key determinants of
+detection accuracy for gene fusions, including extent of stromal
+admixture and variety of partner genes: We obtained 5 solid tumor
+fusion-bearing cell-lines (2 ALK, 1 RET, 1 ROS1, 1 TMPRSS2) and mixed
+these into 23 variably sized pools, such that each fusion was represented
+at 100%, 50%, 33%, 25%, and 20% simulated cellular fraction at least
+once. Gene fusions were called if a well-mapped cluster of 5 chimeric
+reads or greater was observed in a targeted intron. We then verified that
+the observed performance translated to FFPE clinical samples by examining
+test concordance in 43 tumors (20+/23-) characterized for ALK
+rearrangement by FISH. Finally, we evaluated the test broadly by
+assessing detection prevalence of the three most common gene fusions
+(ALK, ROS1, RET) in 724 lung adenocarcinoma FFPE patient samples,
+including needle biopsies.Results: Of 32 tested gene fusion instances in
+the 28 cell-lines samples, all were successfully detected (sensitivity
+100%, 95% CI 89%-100%), with no false positive calls. Robust performance
+translated to FFPE: of the 20 ALK FISH+ specimens, 18 were unequivocally
+(+) by NGS, with remaining 2 specimens showing sub-threshold evidence of
+the events. 22/23 FISH- specimens were NGS-, with the remaining specimen
+an apparent false (-) by FISH. Clinical lung adenocarcinoma samples
+showed 5% ALK, 3% RET, and 2% ROS1 rearrangement rate respectively, in
+line with published data.Conclusions: We present rigorous validation and
+performance benchmarks for efficient targeted fusion gene detection for
+solid tumors in an NGS-based test for use in clinical oncology. Given the
+ability of NGS to detect a much broader range of genomic alterations than
+currently available technologies, particularly on limited tissue, this
+type of testing can be a direct component of patient care and potentially
+expand targeted treatment options.
+

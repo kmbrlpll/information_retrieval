@@ -1,0 +1,25 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Rapid in situ RNA analysis of circulating tumor cells using
+magnetic micropore-based sorting and Turbo FISH
+
+
+Pancreatic cancer is the fourth most common cause of cancer-related death
+in the US, with a five year survival rate of only 6%. Recently, we have
+shown that circulating pancreatic cells can be detected at the onset of
+the disease cycle (pre-Stage 1). Thus, there is both a great need for
+early diagnosis and an opportunity, due to the early presence of
+circulating tumor cells (CTCs).Currently, the gold standard for CTC
+detection cannot resolve these extremely sparse, heterogeneous CTCs,
+which do not have any single surface marker that allows them to be
+targeted. Additionally, conventional downstream analyses are limited to
+either protein expression of individual cells on-chip, which has limited
+sensitivity to relevant biomarkers, or genetic testing off-chip, which
+has limited practical clinical use.To address these challenges, we have
+developed a rapid (10x greater flow rates and an insensitivity to
+clogging, enabling use directly on whole blood. The TEMPO filter consists
+of an electroplated 1.25m NiFe, 30 m pores, and 5.110E5 pores total.Using
+this chip, we have demonstrated extremely high sensitivity to rare cells
+(LOD 1 cell / 7.5 mL blood) and exponentially improved sorting efficiency
+by stacking multiple TEMPO filters in series. Furthermore, single
+molecules of targeted RNA in each individual CTC could be resolved.
+

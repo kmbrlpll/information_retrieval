@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Differential expression and roles of miR-1246 and miR-1290 in
+multiple myeloma cancer stem cell-like subpopulation.
+
+
+Multiple myeloma (MM) remains an incurable clonal plasma cell malignancy.
+The existence of cancer stem cell-like subpopulation in MM may explain
+for its unfavourable prognosis and high relapse rate. Studies have shown
+that CD138neg MM cells were clonogenic and could be serially
+transplanted, while CD138+ cells could not. We characterized CD138neg
+cells by checking the presence of such subpopulation and their
+tumorigenic properties. In concordance with literature, CD138neg cells
+were present in MM cell lines, and possessed higher clonogenic potential
+than its non-tumorigenic counterpart as shown in colony formation assay.
+They were more quiescent, with less than 1% in G2/M phase compared to
+5-10% in CD138+ cells. They also demonstrated higher resistance to
+chemotherapeutic agents, including thalidomide and bortezomib. Since
+studies in solid tumors have demonstrated that microRNA (miRNA) plays a
+role in self-renewal, tumorigenicity and chemoresistance in cancer stem
+cells, we hypothesized that specific miRNAs are the key regulators of the
+cancer stem cell-like functions in MM clonogenic cells. To search for
+these candidates, we first identified miRNAs that are differentially
+expressed among the two subpopulations, CD138+ and CD138neg cells, which
+were isolated from MM cell lines (NCI-H929, U266 and MM17, our in-house
+MM cell line) using MACS-immunomagnetic separation system and subjected
+to Exiqon miRCURY LNA miRNA microarray analysis. Ten candidate miRNAs
+were identified and selected for further validation by Taqman miRNA
+assay. By further independent investigation using fifteen MM patient
+samples, concordantly we found frequent up-regulation of miR-483-5p,
+miR-1246, miR-1275, miR-1290 and miR-3196 in CD138neg compared to CD138+
+cells. MiR-1246 (93.4%, p = 0.006) and miR-1290 (93.4%, p = 0.0015) were
+chosen for further examination of the potential roles in MM pathogenesis
+and prognosis because they showed significantly higher expression levels
+in CD138neg cells than the CD138+ counterparts. Preliminary results
+showed that inhibiting miR-1246 (p = 0.0478) and miR-1290 (p = 0.0386)
+reduced cell proliferation in CD138neg cells at 24h or 48h of
+transfection in unsorted U266 cells, while CD138+ cells were not
+affected. As predicted using computational algorithms (miRANDA and
+TargetScan), the downstream targets of the two miRNAs include SEMA6A,
+STK17A, PHLDA1 and KLF9, which bear functions related to MM pathogenesis
+or known to be tumor suppressors. Moreover, we also confirmed that their
+mRNA expressions were down-regulated in U266 CD138neg cells compared with
+CD138+ cells.Taken together, we suggest that miR-1246 and miR-1290 may
+play a regulatory role in MM clonogenic cell proliferation. Our findings
+may provide a novel insight for the microRNA-based therapeutics that
+specifically targets the clonogenic progenitors, which may prove to be
+more effective for cure of MM.
+

@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Rare protein truncating and missense variants in ATM, CHEK2,
+PALB2, but not XRCC2, confer increased breast cancer risks
+
+
+Breast cancer (BC) is the most common malignancy in women and has a major
+heritable component that is driven by both common SNPs and rarer variants
+in susceptibility genes. However, the risks associated with most rare
+susceptibility alleles are not well estimated. We sequenced the coding
+regions of ATM, CHEK2, PALB2, and XRCC2 in 13,087 BC cases and 5,488
+controls from East Anglia to characterize their role in BC risk in the
+largest sequencing study of these genes to date.We performed multiplexed
+microfluidic PCR target enrichment of 221 amplicons, covering 99.3% of
+the coding bases. Amplified DNA was barcoded, pooled, and sequenced on
+the Illumina HiSeq2000. Reads were demultiplexed, trimmed, and aligned to
+the hg19 reference sequence. Variants were called with GATK
+UnifiedGenotyper and filtered for missing data. Retained variants were
+annotated with CADD and VEP. Truncating variants, missense alleles, and
+other functional variant groups were assessed for association with BC
+risk using logistic regression.Truncating variants in ATM, CHEK2, and
+PALB2 increased overall BC risk, whereas XRCC2 variants did not (Table
+1). The estimated relative risk was higher for PALB2 than ATM or CHEK2.
+While 88% of CHEK2 variant alleles were attributable to CHEK2*1100delC,
+other truncating alleles appeared to confer similar risks. CHEK2
+truncating alleles were more strongly associated with risk of estrogen
+receptor (ER) positive disease than ER negative or triple negative
+disease. In contrast, PALB2 protein-truncating variants conferred similar
+relative risks for all subtypes. Analysis of rare missense variants
+suggested that specific subset of alleles in ATM (P = 0.012), CHEK2 (P =
+0.009), and PALB2 (P = 0.017) may contribute to risk. Localization within
+known functional domains were a predictor of association among these
+variants.These results confirm that truncating variants in ATM, CHEK2,
+and PALB2 are associated with moderate BC risks, and exclude a large
+effect on risk from XRCC2 variants.
+
+

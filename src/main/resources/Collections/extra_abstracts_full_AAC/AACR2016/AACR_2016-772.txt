@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The molecular landscape of dermal neurofibromatosis
+
+
+Background: Neurofibromatosis type I (NF1) is a genetic disorder that
+disrupts neurological tissue growth and can lead to a diverse set of
+symptoms including systematic growth of benign tumors, learning disorders
+and bone deformities. It is a rare disease occurring in only 1 in 3,000
+people worldwide. While the disease has been linked to loss of function
+in the NF1 gene - a known tumor suppressor - there is a high degree of
+phenotypic diversity in the NF1 patient population, making it difficult
+to identify the underlying cause of the disease and treat it effectively.
+In this work we seek to improve overall knowledge of dermal NF1 through
+global molecular characterization of the disease.Methods: We have
+collected four dermal neurofibromas and peripheral blood from each of 11
+NF1 patients. We analyzed each sample using (1) Whole genome sequencing
+(WGS) on the Illumina HiSeq X platform, (2) Illumina OMNI2.5 Arrays (3)
+RNA-Sequencing on an Illumina HiSeq v4 machine and (4) iTRAQ-labeled
+proteomics. WGS data for both tumor and blood samples from each patient
+were used to identify patient-specific germ-line mutations as well as
+tumor-specific somatic mutations in each sample. Single nucleotide
+polymorphisms identified by the OMNI Arrays were used to identify copy
+number alterations in both blood and tumor samples. RNA-Seq data and
+proteomics data were mapped to transcripts and proteins
+respectively.Results: Preliminary analysis of this data illustrates a
+diverse genomic landscape of NF1. Hierarchical clustering of copy number
+alterations largely show samples clustering by tissue, suggesting that
+most copy number alterations are somatic and not shared across the
+germline. However, there are two patients that show germline copy number
+alterations, including one patient with loss in the NF1 region. WGS
+analysis suggests similar diversity with each patient possessing a
+distinct combination of germline and somatic mutations of NF1 and other
+cancer-related genes. Cluster analysis of the RNA-Seq data shows no
+patient-specific clusters, suggesting that that each tumor executes a
+unique transcriptional program.Conclusion: This work represents a
+first-ever attempt to profile the diversity of dermal neurofibromatosis
+at a molecular level. Preliminary analysis of the data underscores the
+complexity of this disease and explains, in part, previous difficulty in
+identifying effective treatments. Ongoing work includes expanding the
+analysis to include more patient samples and other types of NF1-derived
+tumors. As an orphan disease, NF1 has been poorly characterized compared
+to more common cancers. To rectify this, the Children's Tumor Foundation
+and Sage Bionetworks are collaborating to make NF1 data available to the
+public to accelerate research and the drug discovery pipeline. We expect
+that this data will be a resource for other NF1 researchers to assist in
+the study of this disease at the molecular level. All data and
+preliminary results are publicly available at
+http://www.synapse.org/dermalNF
+

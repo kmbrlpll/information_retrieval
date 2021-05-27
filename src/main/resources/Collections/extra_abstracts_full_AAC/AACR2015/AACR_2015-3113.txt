@@ -1,0 +1,38 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Primate-specific miR-663 suppresses glioblastoma progression and
+predicts patient prognosis
+
+
+Purpose: miRNAs (microRNAs) have recently been recognized as important
+regulators of cancer biological behavior. However, the expression
+patterns and prognostic significance of miRNAs in GBM remain elusive due
+to the lack of large pools of clinical specimens for screening. This
+study was performed to identify miR-663 as a potential regulator of
+glioblastoma (GBM) malignant behaviors from miRNA profiles. The
+prognostic significance of miR-663 in GBM, its effect in tumor
+progression and the underlying mechanism were determined.Methods:
+Specimens from 256 cases of glioma patients, including 239 patients with
+follow-up information, were used to analyze the association between
+miR-663 and patients prognosis by Kaplan-Meier and multivariate Cox
+regression analyses. The effects of miR-663 on GBM cell proliferation and
+invasion were examined both in vitro and in vivo. Bioinformatics
+prediction and signal network analysis were applied to identify the
+putative targets of miR-663, which were further verified by luciferase
+reporter assay, rescue experiments as well as the immunohistochemistry
+(IHC) and Western blotting examination of downstream effectors.
+Quantitative reverse transcriptase-PCR (qRT-PCR) and IHC were applied to
+investigate the clinical association between miR-663 and its target in
+human GBM specimens.Results: miR-663 was identified from miRNA profiles
+and inversely correlated with glioma grades but positively correlated
+with patients survival. Furthermore, two distinct subgroups of GBM
+patients with different prognoses were identified based on miR-663
+expression in our specimens and that from TCGA database. Overexpression
+of miR-663 significantly suppressed the proliferation and invasion of GBM
+cells in vitro and in vivo. Mechanistically, we discovered PIK3CD as a
+direct target of miR-663 and found that phosphorylated AKT and three key
+downstream effectors of PIK3CD, were down-regulated by miR-663
+overexpression. Moreover, PIK3CD was inversely correlated with miR-663 in
+GBM specimens and predicted poor prognosis of GBM patients.Conclusion:
+miR-663 is a novel prognostic biomarker and a potential therapeutic
+candidate for GBM.
+

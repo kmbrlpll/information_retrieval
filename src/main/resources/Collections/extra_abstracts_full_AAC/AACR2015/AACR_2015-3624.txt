@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A novel, selective DNA-PK inhibitor sensitizes poor prognosis
+chronic lymphocytic leukemia (CLL) cells to mitoxantrone
+
+
+Approximately 20% of Chronic Lymphocytic Leukaemia (CLL) cases carry 11q
+deletions and 10% carry 17p deletions (associated with loss of p53
+function), both of which are poor prognostic markers. Ataxia
+telangiectasia mutated kinase (ATM) is located on chromosome 11q23 and
+30% of del11q patients lack ATM function. Previous work has shown that
+the DNA-PK inhibitor NU7441 chemosensitises CLL cells to fludarabine ex
+vivo (Willmore E et al 2008), and monotherapy with KU60648, a dual
+inhibitor of PI3k and DNA-PK has been shown to be effective in ATM
+deficient cells (Riabinska A et al 2013). Furthermore, a dual DNA-PK/mTOR
+inhibitor, CC-115, is now in clinical trials (NCT01353625).Here, we aimed
+to validate the selective inhibition of DNA-PK over related kinases as a
+therapeutic approach in CLL, using a novel, more selective compound
+(NDD0004, cell-free IC50 10nM). Both primary CLL cells and an isogenic
+pair of DNA-PK-deficient and proficient HCT116 cells were used as
+models.Primary CLL cells were cultured ex vivo and treated with the
+topoisomerase II poison mitoxantrone in the presence and absence of
+NU7441 and NDD0004. Cell viability was determined after 48h by XTT assay.
+Apoptosis and DNA damage (yH2AX foci) were measured by caspase
+3/7GloAssay and immunofluorescence, respectively. ATM function was
+determined by the cells ability to autophosphorylate ATM on serine 1981
+after ionising radiation.Chemosensitisation to mitoxantrone in primary
+CLL cells was substantial and it was higher with NDD0004 than with NU7441
+(mean 202- vs. 69-fold, ranges 1-1000 vs. 1-543-fold). Intriguingly,
+cells lacking ATM or p53 function were also sensitised by DNA-PK
+inhibition (mean 15- and 21-fold, respectively). HCT116 cells lacking
+DNA-PK were not chemosensitised by NDD0004 but DNA-PK proficient cells
+were sensitised 5-fold. Mitoxantrone-induced DSBs (as measured by yH2AX
+foci) were repaired by 24h, but persisted in the presence of DNA-PK
+inhibitors. In keeping with this observation, apoptosis as measured by
+caspase 3/7 activity was potentiated by DNA-PK inhibitors.NDD0004 and
+KU60648 were also evaluated in a panel of ATM deficient (HT144, H1395)
+and ATM proficient (A549, A375) cell lines. ATM status had no impact on
+(a) the level of chemosensitisation to mitoxantrone by both inhibitors
+and (b) single agent activity for NDD0004 and KU60648.In conclusion, our
+data show that selective inhibition of DNA-PK chemosensitises primary CLL
+cells even when p53 is mutated or ATM function is lost. Current work is
+focused on identifying biomarkers which predict good response to DNA-PK
+inhibitors.
+

@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification of a novel and a shared H3.3K27M mutation derived
+neoantigen epitope and H3.3K27M specific TCR engineered T cell therapy
+for glioma.
+
+
+Brain cancers are the leading cause of cancer related mortality in
+children and young adults with median overall survival of 9-10 months and
+hence represents a significant unmet medical need. Genome-wide sequencing
+efforts of pediatric gliomas have identified a recurrent and shared
+missense mutation in the gene encoding the replication-independent
+variant of histone 3, H3.3. Approximately 70% of diffuse intrinsic
+pontine gliomas (DIPG) and 50% of thalamic and other midline gliomas
+harbor the amino acid substitution from lysine (K) to methionine (M) at
+the position 27 of H3.3 gene. Tumor specific missense mutations are not
+subjected to self-tolerance and can be suitable targets (neoantigens) for
+cancer immunotherapy. Herein, we evaluated whether the H3.3K27M mutation
+can induce specific cytotoxic T lymphocyte (CTL) response in HLA-A2+ T
+cells. In vitro stimulation of HLA-A2+ donor derived CD8+ T cells with a
+synthetic peptide encompassing the H3.3K27M mutation (H3.3K27M epitope)
+induced CTL lines which recognized not only T2 cells loaded with the
+synthetic H3.3K27M epitope peptide but also lysed the HLA-A2+ DIPG cells
+which endogenously harbor the H3.3K27M mutation. On the other hand, the
+CTL lines did not react to either HLA-A2+ but H3.3K27M- negative DIPG
+cell lines or H3.3K27M positive but HLA-A2 negative DIPG cells. The
+H3.3K27M epitope peptide but not the non-mutant counterpart indicated an
+excellent binding affinity (Kd 151nM) to HLA-A2 based on competitive
+binding inhibition assay. From CTL clones with high and specific
+affinities to HLA-A2-H3.3K27M-tetramer, cDNAs for T cell receptor (TCR)
+alpha and beta chains were cloned into a retroviral vector. Human HLA-A2+
+T cells transduced with the TCR demonstrated antigen specific reactivity
+as well as anti-glioma responses in vitro. Peptide titration assays
+suggested that the H3.3K27M specific TCR had the half-maximal reactivity
+for peptide recognition of around 100nM. Furthermore, critically
+important for safety of clinical application, alanine scanning
+demonstrated that the key amino acid sequence motif in the epitope of the
+TCR reactivity is not shared by any known human protein. Finally,
+intravenous administration of T cells transduced with H3.3K27M specific
+TCR significantly inhibited the growth of intracranial HLA-A2+ H3.3K27M
+positive glioma xenografts in immune deficient NSG mice. These data
+provide us with a strong basis for developing peptide based vaccines as
+well as adoptive transfer therapy using autologous T cells transduced
+with the H3.3K27M specific TCR.
+
+Acknowledgements: This study is supported by the NIH/NINDS
+(1RO1NS096954), V Foundation and Parker Institution for Cancer
+Immunotherapy.
+
+

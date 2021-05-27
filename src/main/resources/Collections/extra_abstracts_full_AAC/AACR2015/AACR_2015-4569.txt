@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A simple method to screen patients for SNPs in NAT1 gene for
+prostate cancer risk
+
+
+Single nucleotide polymorphisms (SNPs) are single base differences in DNA
+and are suitable for genotyping markers of risk in human disease. With
+emerging bio-technology and a cross-platform application of techniques
+improvements can be made in methodology. Although a number of
+high-throughput SNP genotyping systems are available the technology is
+expensive for it requires both trained personnel and dedicated platforms.
+The method reported here is a simple qPCR based High Resolution Method
+(HRM) based method and can be cost effectively used in screening patients
+in a general molecular biology and clinical laboratories. The NAT1 gene
+directs N-acetylation and O-acetylation of toxins including heterocyclic
+amines through the phase II xenobiotic metabolizing enzymes toxicity
+pathway. The purpose was to develop a screening tool to screen
+individuals with SNPs at locations 190, 445, 560 and 640.A modified qPCR
+approach was used with HRM analyses. Primers were designed using an
+in-house protocol; the rs sequence for the site-specific mutation was
+obtained from SNP database and fed to Primer Quest and having diligently
+identified the location of the mutation primers were designed and
+assessed using OligoAnalyzer Tool. The Tm for the forward and reverse
+were kept as close as possible and G was kept between -1 and -9 and the
+GC content greater than 50%. The following sequences were used rs58379106
+(190C>T); rs4987076 (445G>A); rs4986782 (560G>A) and rs4986783 (640T>G).
+A RT qPCR 10l reaction was designed using iTAQ Supermix (BioRad, CA),
+forward and reverse primers and genomic DNA obtained from prostate cancer
+cases and controls. Standard cycling conditions described for iTAQ were
+observed for 44 cycles. The data collected was analysed using HRM
+software (BioRad, CA) as per the guidelines described by the software.The
+data shows that when all the conditions are normalized and benchmarked
+the shape of the HRM curves are typical and characteristic of the SNP.
+The figures show the symmetry and similarity in the HRM. The similarity
+from the standard curve (Fig.1) and standard curve with unknown SNP (Fig.
+2) and curves with a complementary SNP at 445 along with SNP at 640 (Fig.
+3).Fig. 1 Std. curve with NAT1640 Fig. 2 Std. curve with unknown samples
+Fig. 3 Unknown samples with 640 and 445 This data shows that with this
+approach it is possible to identify site specific mutation and the
+presence of other mutation in the vicinity of the SNP of interest. The
+presence or absence of mutations among cases and controls can be assessed
+using this approach.Note: This abstract was not presented at the meeting.
+

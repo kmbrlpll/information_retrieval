@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Isolation of canonical and non-canonical circulating tumor cells
+(CTCs) by negative depletion using the Harpoon CTC Isolator and Chip
+
+
+Today, circulating tumor cells (CTCs) can provide important prognostic
+information about a patient. However, to one day help guide decisions for
+precision medicine, more and increasingly sophisticated information will
+have to be extracted from each patient blood sample. We describe a new
+microfluidic CTC isolation technology, the Harpoon CTC Isolator and Chip
+(Hrp Isolator). From a single sample the Hrp Isolator can enable the
+analysis of plasma components such as ctDNA, as well as the ability to
+enrich all circulating tumor cell types, regardless of their antigenic
+expression. To enrich the CTCs from 7.5 mL of whole blood, the Hrp
+Isolator removes the red blood cells and platelets based on their small
+size and the white blood cells by negative depletion using magnetic
+particles. The time required to process 7.5 mLs of blood is approximately
+90 minutes. In contrast, the CELLSEARCH CTC Test (CS), the only US
+FDA-cleared test, uses antigens expressed by CTCs to target the CTCs and
+positively select them out of blood. To enumerate CTCs from patient
+samples, the output from the Hrp Isolator was then loaded into and run on
+the CELLSEARCH System using the CS test (Hybrid method). CTCs were
+enumerated from 37 breast and prostate cancer patients by CS and by the
+Hybrid method. At least 1 CTC was found in 23 (62%) patient samples by
+the Hybrid method versus 17 (46%) by CS. The product of the Hrp Isolator
+enrichment contained on average the same numbers of CTCs as were found by
+CS (mean = 13.3 18 by CS versus 12.0 16 by Hybrid) in patient samples
+having 75), the Hybrid method may have underestimated the total Hrp
+Isolator CTC count. An important feature of the Hrp Isolator is its
+ability to enrich CTCs that are negative or low expressers of epithelial
+cell adhesion molecule (EpCAM) or cytokeratin (CK). These cells could
+have been missed by positive-selection technologies such as CS and may
+not have been counted using the Hybrid method. CTC spiked samples were
+run on the Hrp Isolator and the CTC enriched product was spun onto
+microscope slides, stained, and examined using a Vectra Multispectral
+Imaging System (Hrp+Vec method). Using the Hrp+Vec method, 79% to 100% of
+spiked CTCs were recovered depending on the slide fixation method used.
+Also, using Hrp+Vec we confirmed the ability of the Harpoon Isolator to
+enrich EpCAM-/CK+ and EpCAM+/CK- CTCs from patient samples. This
+establishes the existence of non-canonical tumor cell types in
+circulation and adds to the biological diversity of the CTC population in
+circulation. These results emphasize the need to further characterize all
+tumor cell populations and to determine what, if any, clinical
+significance may be assigned to these diverse CTC types.
+

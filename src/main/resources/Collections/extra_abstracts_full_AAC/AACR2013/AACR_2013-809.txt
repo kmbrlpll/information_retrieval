@@ -1,0 +1,40 @@
+Meeting: 2013 AACR Annual Meeting
+Title: High-resolution genomic profiling reveals gains of CCND1 and EGFR
+associated with disease progression in Taiwanese oral cavity squamous
+cell carcinomas.
+
+
+The genetic mechanisms underlying Taiwanese oral cavity squamous cell
+carcinoma (OSCC) are still largely unknown. We used high-resolution
+single nucleotide polymorphism microarrays (Affymetrix 500K) to detect
+copy number alterations (CNAs) in 26 OSCC tumor tissues. Genomic copy
+number was determined by calculating the intensity ratio between the OSCC
+and a set of 270 normal DNAs from HapMap project. Segmented copy numbers
+for each tumor were inferred with the hidden markov model (HMM) using the
+Partek GS software. Genomic Identification of Significant Targets in
+Cancer (GISTIC) analysis (version 2.0) was used to identify significant
+CNAs using a residual Q-value cutoff of 0.25. A total of 25 significant
+regions (2 focal amplifications and 23 deletions) were identified. The
+well known oncogene EGFR and CCND1 are resided in these two focal
+amplification regions (7p11.2 and 11q13.3), respectively. Several
+candidate cancer related genes such as FHIT (3p14.2), FAT (4q35.1),
+SH3GL2 (9p22.2) and ARHGAP21 (10p12.1) are known to locate in the
+identified 23 deletion regions. Furthermore, we found that 7p11.2
+amplification and 4q35.2 deletion was mutually exclusive by inter-target
+relationships (ITR) analysis using dimension reduction permutation (DRP)
+methods. Copy number gains of EGFR and CCND1 were also confirmed along
+with fluorescence in situ hybridization (FISH) and TaqMan CN assay
+(Hs01818912_cn and Hs00655630_cn), respectively. We found that the
+concordance rate was 70.59% for EGFR and 75.00% for CCND1. To further
+explore the clinical value of copy number gains of EGFR and CCND1 in
+OSCC, 182 OSCC cases were analyzed. Preliminary results indicated that
+gains of CCND1 were associated with tumor differentiation, lymph node
+metastasis and lymph node extracapsular spread (LNECS); while
+amplification of EGFR gene was significantly associated with tumor stage
+and lymph node metastasis but not LNECS. Furthermore, gains of CCND1 were
+significantly associated with poor disease-free and overall survival. On
+the other hand, amplification of EGFR was not associated with either
+disease-free or overall survival. Taken together, we have identified that
+gains of CCND1 and EGFR gene were significantly associated with disease
+progression in Taiwanese oral cavity squamous cell carcinomas.
+

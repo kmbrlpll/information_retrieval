@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A role for the long non-coding RNA GHRLOS in cancer.
+
+
+Long non-coding RNA (lncRNA) genes are abundant in the human genome, and
+many are now recognized as oncogenes and/or tumor suppressors. We
+previously characterized the structure of GHRLOS, an antisense gene on
+the opposite strand of the multifunctional ghrelin gene (GHRL), however,
+its expression and function in disease has not been described.
+
+To this end, using The Cancer Genome Atlas (TCGA) data set, we revealed
+that GHRLOS is differentially expressed in a number of cancers. In
+particular, expression was elevated in endometrial cancer (1.2 - fold; P
+= 7.1 x 10-3 Welch's two-sample t-test; n = 24 vs. n = 175) and prostate
+cancer (1.2-fold; P = 3.7 x 10-6; n = 52 vs. n = 498) compared to normal
+tissues. Using qRT-PCR (and commercial cDNA panels) we confirmed that
+GHRLOS expression was upregulated in endometrial cancer (1.96-fold, P =
+0.005 Welch’s two-sample t-test, n = 5 vs. n = 17) and prostate cancer
+(2.46-fold, P = 0.0045 Welch’s two-sample t-test, n = 5 vs. n = 21)
+compared to normal tissues.
+
+Initial studies, using siRNA designed to silence endogenous GHRLOS
+expression, significantly reduced cell migration in the PC3 prostate
+cancer cell line (0.47-fold change, P = 0.042 Kruskal-Wallis test, n = 2)
+conversely, preliminary data using forced GHRLOS overexpression increased
+migration and proliferation.
+
+Taken together, we show that the long non-coding RNA GHRLOS is
+differentially expressed in tumor tissue and regulates cell migration and
+proliferation; possibly by modulating alternative splicing of the
+overlapping, multifunctional ghrelin gene locus. Targeting GHRLOS could
+provide a valuable and novel way to target the ghrelin axis in disease.
+Ongoing studies aim to validate in vitro functional results in
+complementary mouse xenograft models and identify genes and pathways
+regulated by this novel lncRNA.
+
+

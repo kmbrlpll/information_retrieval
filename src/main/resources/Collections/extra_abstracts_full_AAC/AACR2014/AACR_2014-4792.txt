@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Elucidating stem cell-specific metabolic pathways in normal and
+malignant hematopoiesis to target human acute myeloid leukemia stem cells
+
+
+Metabolic alterations are a cancer hallmark but the metabolic
+requirements of hematopoietic stem cells (HSC) in general, and leukemic
+stem cells (LSCs) specifically are poorly understood, particularly beyond
+energy metabolism. By analyzing a comprehensive transcriptional roadmap
+of human hematopoiesis, and comparing this to a LSC signature developed
+from 84 primary human acute myeloid leukemia (AML) samples, we uncovered
+two unexpected findings: (1) several metabolic pathways, specifically in
+bioactive lipids, distinguish HSC from progenitors and are essential for
+their function; and LSC are more similar to HSC overall, but also possess
+specific metabolic pathways that are more comparable to those of normal
+progenitors. We compiled a comprehensive list of 67 genes involved in
+fatty acid metabolism based on literature and database information and
+found that 36 of these were differentially expressed between HSC and
+progenitors, with 24 of them higher in HSC. In particular, sphingolipid
+enzymes are differentially regulated throughout the hematopoietic
+hierarchy. Interesting, sphingosine-1-phosphate (S1P) plays a role in HSC
+egress and ceramide vs S1P levels serve as a rheostat to regulate growth
+and cell survival. We defined these 24 genes as a lipid stem signature,
+and find that it is enriched in the LSC gene expression profiles from our
+84 primary AML cohort by GSEA analysis indicating that fatty acid
+metabolism is differentially regulated in LSCs and non-LSCs, as it is for
+HSCs vs. normal progenitors. Our signature was found to be prognostic for
+patient survival in a Dutch cohort of 181 cytogenetically normal AMLs. To
+determine if lipid metabolism plays a functional role in AML biology, we
+screened a fatty acid compound library using a novel AML cell line (8227)
+that retains hierarchical organization and assessed cell viability,
+phenotypic LSC content, and differentiation. We identified myriocin,
+which targets serine palmitoyltransferase (1st step of sphingolipid
+synthesis) in this screen. Myriocin decreased 8227 viability and altered
+differentiation in vitro and reduced leukemia burden in vivo following
+transplantation into NOD/SCID mice transgenic for human cytokines.
+Treatment of mice bearing primary AML xenografts, including those from
+therapy resistant and relapsed patients, with myriocin or its derivative
+FTY720, a S1P mimetic, resulted in reduction of leukemic engraftment.
+Moreover, serial transplantation of AML samples by limiting dilution
+showed decreased LSC frequency of FTY720- and myriocin-treated cells in
+secondary mice compared to vehicle-treated cells. Importantly, myriocin
+or FTY720 treatment do not disrupt engraftment in mice bearing normal
+hematopoietic grafts. Thus, sphingolipid biology in LSC is different from
+that of HSC, and we present a novel AML therapeutic strategy targeting
+bioactive sphingolipids as a means to eradicate LSC while sparing HSC.
+

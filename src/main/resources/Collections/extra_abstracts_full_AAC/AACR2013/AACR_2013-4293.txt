@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: URI and PP1 constitute a negative feedback loop regulating MAPK
+signaling in BRAF-V600E mutated cancer cells.
+
+
+Malignant transformation of cells involves acquisition of so-called
+hallmarks of cancer. Such hallmark capabilities are brought about by
+functional activation of oncogenes and inactivation of tumor suppressor
+genes. Much has been learned about the actions of individual such cancer
+genes, however, how an entire set of acquired mutations shapes cancer
+phenotypes in a context-dependent manner remains elusive in many cases.
+It has for example increasingly become clear that feedback mechanisms
+control activated signaling pathways and might thus mitigate oncogenic
+signaling. Therefore, functional inactivation of such feedback loops
+might represent an additional event in carcinogenesis. Along this line we
+have recently shown that URI (unconventional prefoldin RPB5-interactor)
+can act as a negative regulatory subunit for the protein phosphatase 1
+(PP1) and form a negative feedback loop regulating mTOR-S6K1-BAD
+apoptotic signaling at mitochondria.Since the URI-PP1 interaction in this
+context is regulated by URI-phosphorylation at S371, we performed a mass
+spectrometric search for other phospho-sites regulating URI-PP1-complex
+formation. We identified a potential MAPK-target site in URI's
+PP1-interaction domain, which is phosphorylated by extracellular
+signal-related kinase (ERK) in vitro. In in vitro kinase / in vitro
+binding assays, we demonstrate that this phosphorylation event provokes
+URI-PP1 complex disruption. Moreover, PP1 can dephosphorylate MEK in
+vitro. These observations lead to the intriguing conclusion that URI and
+PP1 form a negative feedback on MEK-ERK-signaling. Indeed, in
+co-immunoprecipitation assays, introducing the BRAF-V600E-mutation (but
+not KRAS-G13D) into HEK293T cells promotes complex disruption, which can
+be rescued by co-treatment with the BRAF-V600E-specific inhibitor
+PLX4720. To address the question of whether this feedback loop is
+important in vivo, we analyzed a set of colorectal cancers by TMA
+(n=357). We identified low PP1 expression in 28% of all CRC, however, in
+the BRAF-V600E-mutated subgroup, PP1 expression was significantly more
+frequently low (50%) and it correlated with worse overall survival in
+this subgroup only. This observation is also mirrored by cell culture
+experiments in the CRC cell line RKO: Downregulation of PP1 by RNAi
+increases colony formation in long term proliferation assays,
+particularly under low serum conditions, and this is rescued by
+re-introducing rat PP1 in cells.In summary, we have identified a novel
+negative feedback loop tuning signaling output of the BRAF-V600E-MEK-ERK
+pathway. Deregulating this feedback by reducing PP1 levels might provide
+a subgroup of BRAF-V600E-mutated cancer cells with a further
+proliferative advantage by de-repressing MEK-ERK-signaling.
+

@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Detection of somatic mutations in plasma allows for non-invasive
+real-time therapy response monitoring of lung cancer patients
+
+
+Tumor-specific (somatic) mutations in plasma can serve as biomarkers for
+tumor detection, monitor tumor response to specific therapies, detect
+residual disease after surgery, and long-term follow-up. The intrinsic
+low abundance of circulating cell-free tumor DNA (cfDNA) makes the
+detection and quantification of such mutations in plasma a challenging
+task. This study aimed to establish a comprehensive strategy to be used
+in the detection of clinically relevant somatic mutations in plasma of
+lung cancer patients both at diagnosis and during follow-up of
+disease.Plasma samples from healthy controls were used to isolate cfDNA
+and to optimize the experimental approach. A custom multiplex PCR panel
+was designed to target 420 unique genetic variants. To cover a broad
+range (0.0 -100%) of variant allele fractions (VAF), as expected for
+somatic mutations in the plasma of cancer patients, the cfDNA samples
+from the controls were mixed at five different ratios and sequenced using
+five different levels of coverage. In order to evaluate our strategy,
+plasma samples obtained at different stages of disease were collected
+from a group of 100 lung cancer patients and used to isolate cfDNA. The
+mean treatment follow up time was 6 months with a minimum of 1 and a
+maximum of 23 months. Different enrichment strategies where tested. All
+amplified products were used to prepare libraries and sequenced using the
+Ion PGM system. The QuantStudio 3D Digital PCR System was used to confirm
+selected results.Our controlled data set enabled us to define VAF, allele
+depth and allele quality score cutoffs for a reliable detection of low
+VAF in cfDNA. For variants present at VAF 5%, a sensitivity of 100% was
+achieved at 500x coverage. At 1000x coverage, more than 94% of the
+variants present at VAF Q30. In the plasma isolated from lung cancer
+patients, tumor derived genetic mutations could be identified in as
+little as 10ng of cfDNA. Mutations identified in cfDNA mirrored the
+mutations identified in tumor biopsies. Mutations with VAF as low as 0.1%
+could be detected in cfDNA and confirmed using Digital PCR. The changes
+in tumor-specific mutations in cfDNA was then correlated with the
+clinical follow up of the patients. Response to therapy, including
+resistance, could be observed by tracking specific mutations in cfDNA and
+the detection of tumor relapse could be anticipated up to two months
+using cfDNA when compared to standard methodologies.In conclusion, the
+comprehensiveness and speed of the NGS methodology, combined with the
+high sensitivity of detection, delivered an experimental protocol for the
+detection of somatic mutations in cfDNA for non-invasive real time
+therapy response monitoring of cancer patients. This strategy can be
+implemented in any molecular pathology laboratory with clear benefits for
+the management of cancer patients.
+

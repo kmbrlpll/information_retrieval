@@ -1,0 +1,28 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Integrated analysis of cell signaling pathway-associated miRNAs
+using protein expression array data in NCI-60 cells
+
+
+MicroRNAs (miRNAs) are single-stranded, non-coding RNA molecules and on
+average only 22 nucleotides long that regulate gene expression at the
+post-transcriptional level. The current approaches with miRNA-mRNA
+association were not enough to verify real functional targets at protein
+level, which could affect on biological signaling pathway. In this study,
+we developed a correlation based approach (sequence-independence) to
+predict potential miRNA targets with genomic and proteomic data including
+the expression of phosphorylated proteins in NCI-60 cells. To do this we
+calculated the number of correlated probe-pairs between
+miRNA(439)-mRNA(22k) and protein(222)-mRNA probe pairs. Then, two
+significant output pair sets were combined by mRNA probes and then
+counted the number of common probes. With these count numbers, finally we
+generated Association score matrix between miRNA and protein probes.
+Using those score matrix, we evaluated the highly associated miRNAs with
+36 biological pathways, which play critical roles in cell cycle,
+proliferation and metastasis. Among these associations, we found that
+miR-500 cluster is highly associated with ERK/MAPK signaling pathway
+through activating MEK1/2 phosphorylation in Melanoma and breast cancer
+cells. In conclusion, we developed a novel expression profile based
+approach to systematically predict potential miRNA functional targets
+which play critical roles in cell signaling pathways from the NCI-60
+genomic and proteomic data at whole genomic scale.
+

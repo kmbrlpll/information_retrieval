@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Integrative analysis of molecular and drug response data from
+clinical samples and PDTXs to identify pharmacogenomic associations in
+breast cancer.
+
+
+Breast cancer is the most common cancer among women showing high clinical
+and molecular heterogeneity. Current clinical management causes patients
+overtreatment with implications on both patients’ quality of life and
+healthcare costs. Moreover, intrinsic or acquired tumor resistance to
+treatment leads to incurable metastatic progression in a significant
+proportion of patients. Consequently, there is an urgent need for better
+predictive biomarkers and a better understanding of the mechanisms
+driving response to treatment. As part of the METABRIC initiative, we
+fully molecularly characterized 2000 breast primary tumors, measuring
+gene expression, copy number aberration, somatic mutations and
+methylation. In addition, a biobank of breast cancer patient-derived
+tumor xenograft (PDTX) models (n=92) has been generated in our lab and a
+comprehensive molecular characterization was also obtained. We recently
+demonstrated that breast cancer PDTXs maintain originating cancers
+intra-tumor heterogeneity, hence representing a more relevant preclinical
+model than cell lines. An ex-vivo drug screening was performed in these
+models generating response data (IC50 and AUC) for 100 different drugs,
+including "best in class" PI3K, PARP and CDK4/6 inhibitors, novel
+biological and chemical inhibitors of HER2, ER, IGF1R and HER3, as well
+as standard of care agents. Here we derived signatures of pathway
+activation/disruption by integrating different data types in the METABRIC
+cohort. Their association with previous breast cancer classifications, as
+well as their prognostic significance was studied. The predictive power
+of these signatures was investigated in the PDTX cohort to identify novel
+pharmacogenomics associations. They were tested independently as well as
+in combination, to derive molecular predictors of response to treatment.
+We found known and novel associations between genomic/transcriptomic
+features and drug response. For example, our results confirmed the known
+association between estrogen receptor-related genes and response to
+tamoxifen treatment. We also identified markers of response to inhibitors
+of the PI3K/AKT/mTOR pathway. Selected findings were validated in
+clinical cohorts as well as in independent PDTX models. In conclusion, by
+integrating molecular data from large cohorts of clinical samples and
+PDTX we have generated a computational framework for the systematic
+identification of pharmacogenomics associations in breast cancer and to
+generate hypothesis for rational drug-drug combinations.
+
+

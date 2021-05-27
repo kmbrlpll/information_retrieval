@@ -1,0 +1,35 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Toxicity and efficacy probability intervals design for phase I
+dose-finding in oncology trials
+
+
+We propose a toxicity and efficacy probability interval (TEPI) design for
+dose-finding in phase I oncology studies. This approach incorporates
+efficacy outcomes to inform dosing decisions to optimize both efficacy
+and safety. Decision rules can be prespecified, allowing for transparency
+to clinicians and non-statisticians. The TEPI design is an extension over
+the modified toxicity probability interval (mTPI) design, which uses only
+dose-limiting toxicity (DLT) data for dose escalation. The TEPI method is
+motivated by recent promising data from cancer immunotherapies, for which
+response or a biomarker for response can be observed in the same interval
+as a DLT.The TEPI method is based on a two-way decision table constructed
+by combining the target probability intervals of DLT and efficacy. It
+uses a beta/binomial hierarchical model to compute the posterior
+probabilities of intervals for toxicity and efficacy. The dosing decision
+depends on the joint unit probability mass of toxicity and efficacy data,
+which follows the Bayes rule under independent beta prior distributions.
+TEPI can pre-calculate all dosing actions for any possible combination of
+toxicity and efficacy outcome at a certain time point during a trial. For
+example, dose escalation or de-escalation decisions at time of 6, 9, and
+12 treated patients are provided in Table 1.In the current era of potent
+novel agents in oncology, phase I trials that simultaneously optimize
+antitumor activity and safety may accelerate development of these
+therapies. The proposed TEPI method recognize this needs, and is
+appealing to clinicians because all dose escalation or de-escalation can
+be prespecified. Simulation studies have been performed to evaluate the
+performance of TEPI, and compared to other designs.
+Table 1. The letters in cells are computed based on the decision rules
+under the TEPI method and represent different dose-finding actions. EU:
+Unacceptable efficacy; DU: Unacceptable safety. Target toxicity
+probability = 0.3 and target response rate probability = 0.5.
+

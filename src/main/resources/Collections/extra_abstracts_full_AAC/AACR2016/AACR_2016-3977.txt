@@ -1,0 +1,121 @@
+Meeting: 2016 AACR Annual Meeting
+Title: iKnife: Rapid evaporative ionization mass spectrometry (REIMS)
+enables real-time chemical analysis of the mucosal lipidome for
+diagnostic and prognostic use in colorectal cancer
+
+
+Background Real time electrospray ionization mass spectrometry (REIMS)
+enables detailed analysis of tumour lipid chemistry, based on real time
+analysis of electrocautery smoke plumes.Methods: This was a prospective,
+observational study performed at St. Mary's Hospital, London, UK.
+Patients undergoing elective surgical resections for colorectal cancer
+were recruited and fresh samples were analyzed ex-vivo using a typical
+electrosurgery hand piece and monopolar diathermy. Sampling was performed
+using cutting mode with a standard generator and 30W of output power
+(ValleylabTM). The hand piece was modified to allow aspiration of the
+electrosurgical aerosol to a Xevo G2-S iKnife QTof mass spectrometer
+(Waters Corporation). Raw mass spectrometric data were converted to imzML
+format (MSConvert) and imported into MATLAB (R2014a) for pre-processing.
+A prospective database of healthy, dysplastic and malignant colorectal
+tissues was built and multivariate analysis was performed using principal
+component analysis and linear discriminant analysis. Classification of
+each individual tissue type was performed using leave-one-patient-out
+cross-validation.Results 40 consecutive patients were recruited (22 male,
+median age 68y, range 47-90). Of the 23 tumor samples 10 were rectal
+adenocarcinoma and 13 colonic adenocarcinoma. TNM staging of the tumour
+samples was as follows: T2 (8), T3 (11) T4 (4), N0 (12), N1 (6) N2 (5),
+M0 (22), M1 (1). Distinction of healthy and malignant colorectal tissue
+for the whole data set demonstrated an overall classification accuracy of
+94.4% and a sensitivity of 92.4%, Specificity 96.8% (ROC AUC 0.98). The
+diagnostic accuracy for dysplasia was 93.7% (Specificity 95.1%,
+sensitivity 85.7%, AUC 0.97). Increases in glycerophospholipids
+(pBackground Real time electrospray ionization mass spectrometry (REIMS)
+enables detailed analysis of tumour lipid chemistry, based on real time
+analysis of electrocautery smoke plumes.Methods: This was a prospective,
+observational study performed at St. Mary's Hospital, London, UK.
+Patients undergoing elective surgical resections for colorectal cancer
+were recruited and fresh samples were analyzed ex-vivo using a typical
+electrosurgery hand piece and monopolar diathermy. Sampling was performed
+using cutting mode with a standard generator and 30W of output power
+(ValleylabTM). The hand piece was modified to allow aspiration of the
+electrosurgical aerosol to a Xevo G2-S iKnife QTof mass spectrometer
+(Waters Corporation). Raw mass spectrometric data were converted to imzML
+format (MSConvert) and imported into MATLAB (R2014a) for pre-processing.
+A prospective database of healthy, dysplastic and malignant colorectal
+tissues was built and multivariate analysis was performed using principal
+component analysis and linear discriminant analysis. Classification of
+each individual tissue type was performed using leave-one-patient-out
+cross-validation.Results 40 consecutive patients were recruited (22 male,
+median age 68y, range 47-90). Of the 23 tumor samples 10 were rectal
+adenocarcinoma and 13 colonic adenocarcinoma. TNM staging of the tumour
+samples was as follows: T2 (8), T3 (11) T4 (4), N0 (12), N1 (6) N2 (5),
+M0 (22), M1 (1). Distinction of healthy and malignant colorectal tissue
+for the whole data set demonstrated an overall classification accuracy of
+94.4% and a sensitivity of 92.4%, Specificity 96.8% (ROC AUC 0.98). The
+diagnostic accuracy for dysplasia was 93.7% (Specificity 95.1%,
+sensitivity 85.7%, AUC 0.97). Increases in glycerophospholipids
+(p<0.0027), and triacylglycerols (pBackground Real time electrospray
+ionization mass spectrometry (REIMS) enables detailed analysis of tumour
+lipid chemistry, based on real time analysis of electrocautery smoke
+plumes.Methods: This was a prospective, observational study performed at
+St. Mary's Hospital, London, UK. Patients undergoing elective surgical
+resections for colorectal cancer were recruited and fresh samples were
+analyzed ex-vivo using a typical electrosurgery hand piece and monopolar
+diathermy. Sampling was performed using cutting mode with a standard
+generator and 30W of output power (ValleylabTM). The hand piece was
+modified to allow aspiration of the electrosurgical aerosol to a Xevo
+G2-S iKnife QTof mass spectrometer (Waters Corporation). Raw mass
+spectrometric data were converted to imzML format (MSConvert) and
+imported into MATLAB (R2014a) for pre-processing. A prospective database
+of healthy, dysplastic and malignant colorectal tissues was built and
+multivariate analysis was performed using principal component analysis
+and linear discriminant analysis. Classification of each individual
+tissue type was performed using leave-one-patient-out
+cross-validation.Results 40 consecutive patients were recruited (22 male,
+median age 68y, range 47-90). Of the 23 tumor samples 10 were rectal
+adenocarcinoma and 13 colonic adenocarcinoma. TNM staging of the tumour
+samples was as follows: T2 (8), T3 (11) T4 (4), N0 (12), N1 (6) N2 (5),
+M0 (22), M1 (1). Distinction of healthy and malignant colorectal tissue
+for the whole data set demonstrated an overall classification accuracy of
+94.4% and a sensitivity of 92.4%, Specificity 96.8% (ROC AUC 0.98). The
+diagnostic accuracy for dysplasia was 93.7% (Specificity 95.1%,
+sensitivity 85.7%, AUC 0.97). Increases in glycerophospholipids
+(p<0.0027), and triacylglycerols (p<0.0004) were seen in healthy mucosa
+and increased prostaglandin D2 expression was found in malignant tissue
+(pBackground Real time electrospray ionization mass spectrometry (REIMS)
+enables detailed analysis of tumour lipid chemistry, based on real time
+analysis of electrocautery smoke plumes.Methods: This was a prospective,
+observational study performed at St. Mary's Hospital, London, UK.
+Patients undergoing elective surgical resections for colorectal cancer
+were recruited and fresh samples were analyzed ex-vivo using a typical
+electrosurgery hand piece and monopolar diathermy. Sampling was performed
+using cutting mode with a standard generator and 30W of output power
+(ValleylabTM). The hand piece was modified to allow aspiration of the
+electrosurgical aerosol to a Xevo G2-S iKnife QTof mass spectrometer
+(Waters Corporation). Raw mass spectrometric data were converted to imzML
+format (MSConvert) and imported into MATLAB (R2014a) for pre-processing.
+A prospective database of healthy, dysplastic and malignant colorectal
+tissues was built and multivariate analysis was performed using principal
+component analysis and linear discriminant analysis. Classification of
+each individual tissue type was performed using leave-one-patient-out
+cross-validation.Results 40 consecutive patients were recruited (22 male,
+median age 68y, range 47-90). Of the 23 tumor samples 10 were rectal
+adenocarcinoma and 13 colonic adenocarcinoma. TNM staging of the tumour
+samples was as follows: T2 (8), T3 (11) T4 (4), N0 (12), N1 (6) N2 (5),
+M0 (22), M1 (1). Distinction of healthy and malignant colorectal tissue
+for the whole data set demonstrated an overall classification accuracy of
+94.4% and a sensitivity of 92.4%, Specificity 96.8% (ROC AUC 0.98). The
+diagnostic accuracy for dysplasia was 93.7% (Specificity 95.1%,
+sensitivity 85.7%, AUC 0.97). Increases in glycerophospholipids
+(p<0.0027), and triacylglycerols (p<0.0004) were seen in healthy mucosa
+and increased prostaglandin D2 expression was found in malignant tissue
+(p< 0.0002). Adenocarcinoma arising in the rectum could be differentiated
+from more proximal tumors with an overall accuracy of 87.3%. Short and
+long course chemotherapy modified the lipid signature. Anatomically
+discrete chemical analysis of rectal cancers was able to provide accurate
+descriptions of established histopathological and molecular markers of
+poor prognosis: nodal status (AUC 0.97), KRAS mutation (AUC 0.93) and
+extramural vascular invasion (EMV) (AUC 0.96).Conclusion REIMS chemical
+histology provides near real time diagnostic and prognostic information
+for stratifying oncological and surgical therapy.
+

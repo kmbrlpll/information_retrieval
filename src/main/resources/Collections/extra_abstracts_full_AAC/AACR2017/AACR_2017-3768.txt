@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: CAR T cells specific for CD19 can be redirected to kill CD19
+negative tumors.
+
+
+Introduction. Remarkable progress has been made in the treatment of
+relapsed/refractory Acute Lymphocytic Leukemia and Non-Hodgkin Lymphoma
+with CAR-CD19 T cells. In contrast, progress against CD19-negative
+hematological cancers and solid tumors has been limited. Intensive
+efforts to optimize cellular therapeutics for better efficacy include
+provision of cytokine support and countering immunosuppression. However,
+lack of sufficient antigen is a significant additional hurdle that CAR-T
+therapeutics for solid tumors must overcome. We present a novel strategy
+to utilize CD19 for sustained antigen presentation in order to promote
+cellular therapeutic expansion, efficacy and persistence. The strategy,
+called IMPACT (Integrated Modules oPtimize Adoptive Cell Therapy),
+employs a methodology that is modular in design and and can be applied to
+diverse antigens and tumor types, yet retains the well-established
+advantages of CAR T cells directed to CD19.
+
+Experimental Procedures. A 3rd generation CAR-T was constructed in a
+lentiviral vector using the FMC63 anti-CD19 scFv for antigen recognition.
+A second expression cassette, cloned downstream of the CAR-T cassette,
+was constructed using a secretion signal sequence and exons 1 - 4 of the
+human CD19 protein linked in frame to a trastuzumab-derived Vh/Vl
+sequence. This integrated-gene module thus encodes a fusion protein (FP):
+CD19-anti-HER2-scFv.
+
+Results. ELISA and flow cytometry analyses were used to demonstrate
+bridging between HER2+ cells and the FMC63 mAb via the CD19 domain of the
+FP. ELISA analyses further demonstrated wild type binding of the 2 FP
+domains (i.e. CD19/FMC63 and the scFv/HER2). In vitro cytotoxicity
+studies showed robust redirected killing of HER2+ (CD19-) tumor cells by
+CAR19 T cells that is mediated by the secreted FP. The efficiency of
+cytotoxicity was enhanced by the presence of CD19+ B cells. A tumor
+xenograft model was used to demonstrate effective killing in vivo when
+HER2+ BT474 cells were injected in one flank and CD19+ RAMOS cell were
+injected in the opposite flank, but not when HER2+ cell were injected
+alone. Thus, in vivo, redirected killing required CD19+ cells for
+expansion and persistence sufficient to promote anti-HER2 cytotoxicity.
+
+Conclusions. A CD19-anti-HER2-scFv FP was able to redirect the
+cytotoxicity of CAR19 T cells in order to kill HER2+ tumor cells. In vivo
+modeling demonstrated that CAR-T cell expansion by CD19 recognition
+enabled efficient HER2+ cell cytotoxicity. The IMPACT technology is
+modular, allowing for FPs having diverse protein domains paired with
+diverse, distinct scFvs to allow CAR T cells to CD19 or other targets to
+be used to kill any tumor. We have further developed the technology to
+address antigens of utility for hematopoietic and solid tumors, including
+BCMA, ROR1, and PD-L1. The technology is broadly applicable and
+synergistic with existing cellular therapies.
+
+

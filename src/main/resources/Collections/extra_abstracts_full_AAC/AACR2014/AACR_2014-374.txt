@@ -1,0 +1,29 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A novel sequencing method for genome-wide profiling of
+5-hydroxymethylcytosine with single-base resolution
+
+
+5-hydroxymethylcytosine (5hmC) is an epigenetic mark abundant in embryo
+stem cells and brain tissues. The exact biological functions of 5hmC are
+still under close investigation although several lines of evidence have
+indicated it could be involved in active DNA demethylation. Meanwhile,
+extensive studies have been carried out to determine its genomic
+distribution. A number of approaches have been developed using either
+affinity based enrichment, such as hMeDIP, that rely on antibody and
+other specific binding proteins to target 5hmC, or modified bisulfite
+sequencing, namely oxidative bisulfite sequencing (OxBS) and TET assisted
+bisulfite sequencing (TAB-sequencing). However, all those methods have
+limitations which hamper their application. For example, affinity based
+methods lack single base resolution while modified bisulfite sequencing
+methods require efficient chemical or enzymatic oxidation which cannot be
+easily achieved or guaranteed. As an alternative, we have developed a
+novel genome-wide sequencing method that utilizes an enzyme based
+modification approach coupled with bisulfite-sequencing for detecting
+5hmC. This methodology allows quantification of 5hmC levels with single
+CpG resolution and can also be employed for locus-specific assays. Using
+this method, we were able to map and quantify 5hmC sites at the genomic
+scale for several different biological samples. This novel method can
+determine the exact location and abundance of 5hmC, which will facilitate
+our understanding of 5hmC in regulating gene expression in different
+biological contexts.
+

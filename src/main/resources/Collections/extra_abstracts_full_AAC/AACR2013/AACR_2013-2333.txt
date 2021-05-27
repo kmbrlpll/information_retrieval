@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Functional RNAi screen identifies novel cytokine and growth factor
+receptors critical for the growth of leukemia patient samples.
+
+
+Background: Cytokine and growth factor receptors contribute to cancer
+pathogenesis by regulating variety of signaling pathways. However,
+additional investigation is needed to understand the functional and
+therapeutic implications of cytokine and growth factor receptors in
+cancer. Here we present a novel RNAi-based screen to uncover the
+functional and prognostic relevance of growth factor/cytokine receptors
+for leukemia pathogenesis. This assay enables us to discover novel
+mechanisms of leukemogenesis involving various non-kinase
+receptors.Methods and Results: We have designed a novel RNAi based
+functional screen targeting 188 growth factor receptors that were found
+highly expressed in primary leukemia specimens by gene microarray
+analysis. We have tested primary cells from 72 leukemia patients with
+AML, ALL and MPN and 8 leukemia cell lines for dependence on these
+receptors. Novel candidate targets found in primary patient samples
+include CD24, NCOA4, IL1R1, IL2R and IL15R. In many cases, we found that
+these targets have genetic abnormalities ranging from splice variation
+(IL2R) to intron retention (IL15R). In a few cases, the receptor was
+found to serve as a scaffold for regulating downstream oncogenic
+signaling. Importantly, we show proof-of-principle data where IL2R is a
+potential target in the JAK3 A572V mutation positive AML cell line (CMK).
+Validation experiments demonstrated that knockdown of IL2R significantly
+reduces the viability of CMK cells (90% decrease) and abrogates
+phosphorylation of JAK3 and downstream signaling molecules, STAT5, MAPK
+and the pS6 ribosomal protein. Intriguingly, the absence of IL2R in
+murine bone marrow completely abrogated the clonogenic potential of JAK3
+A572V as compared to IL2R-wild type marrow. These effects can be rescued
+by co-expressing IL2R with JAK3 A572V but not by co-expressing IL2R with
+JAK3 Y100C, a FERM domain inactivating mutation. Additionally,
+overexpression of IL2R made JAK3 A572V cells less sensitive to the JAK
+family inhibitor, JAK Inhibitor I. Mechanistically, IL2R contributes to
+constitutive JAK3 mutant signaling by increasing JAK3 protein levels and
+phosphorylation. Conversely, mutant but not wild type JAK3 increased the
+expression of IL2R, indicating IL2R contributes to constitutive JAK3
+signaling through a feedback mechanism. Overall these results demonstrate
+an oncogenic potentiating role of IL2R.Conclusions: RNAi-based functional
+screening for AML cell dependence on non-kinase cytokine and growth
+factor receptors led to the identification of novel oncogenic etiologies
+for AML. This assay can identify genes that are crucial for malignant
+cell growth, regardless of the mutational status both in cell lines and
+in primary samples. These findings underscore the importance of targeting
+cytokine and growth factor receptors in leukemia pathogenesis.
+

@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Phosphoproteome networks display consistent hyperactive kinase
+activity in pancreatic cancer: evidence for new therapeutic options.
+
+
+Introduction Pancreatic ductal adenocarcinoma (PDAC) is a highly lethal
+disease due to its aggressive nature. Patients typically present with
+distant metastases, at which point cytotoxic agents can extend life
+expectancy by several months at most. Large-scale phosphoproteomics
+complements our knowledge obtained from genomics and transcriptomics as
+it provides information on which proteins and kinases are phosphorylated,
+thereby implicating pathways that are activated. This approach in cancer
+research may lead to improved patient selection for treatment with
+tyrosine kinase inhibitors (TKI). This study is the first to employ
+phosphotyrosine-based phosphoproteomics on three different preclinical
+PDAC models as well as patient tumor tissues to understand the aggressive
+nature of this disease and identify new drug targets.
+
+Approach We performed phosphoproteomics on a panel of 11 PDAC cell lines,
+7 primary cell cultures, 10 patient-derived xenografts (PDX) and 16 fresh
+frozen human tumor tissues. Tyrosine phosphopeptides were enriched via
+immunoprecipitation and phosphopeptides were analyzed by high-resolution
+nano-LC mass spectrometry.
+
+Results Using phosphotyrosine-based phosphoproteomics, we identified a
+total of 1723 tyrosine phosphorylated proteins and 138 phosphorylated
+kinases, representing 27% of the kinome. The reproducibility of our
+workflow was very high, with Pearson correlation coefficients of r =
+0.937 for technical replicates of cell lines and r = 0.876 for biological
+replicates of tumors. In our cell line panels, multiple kinases were
+commonly highly phosphorylated (e.g. PTK2, EPHA2, EGFR and MET).
+Functional testing of PTK2 by using TKI defactinib in primary cell lines
+with high phosphorylation resulted in inhibition of proliferation and
+migration in vitro. Inhibition of EPHA2 by shRNAs resulted in reduced
+proliferation in vitro. To validate the relevance of these candidate
+target proteins in vivo, the tyrosine phosphoproteome of PDXs and human
+tumors was analyzed. In these tumors, kinase activity analysis based on
+kinase phosphorylation levels and kinase-substrate networks validated
+these common active nodes in the majority of these tumors.
+
+Conclusion Our extensive tyrosine phosphoproteome analysis spanning a
+wide range of PDAC models revealed high phosphorylation levels of
+multiple kinases. Interestingly, the phosphorylated kinase profiles of
+tumors and cell lines did not show as much heterogeneity as expected,
+taken into account the existence of biological subtypes in PDAC
+identified by others via transcriptomics. The aggressive biology of this
+disease may be correlated with the consistent activation of multiple
+pathways, some of which we have shown to be targetable in vitro. This
+study prompts further validation and prognostic evaluation of the
+identified active kinases to improve treatment of PDAC.
+
+

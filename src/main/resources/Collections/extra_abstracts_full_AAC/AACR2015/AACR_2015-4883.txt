@@ -1,0 +1,27 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A novel target capture approach for next generation sequencing and
+its application to oncogenic mutation detection
+
+
+Due to the complexity and heterogeneity of cancer genetics, next
+generation sequencing has played an increasingly important role in cancer
+diagnosis, prognosis and therapeutics. An effective target enrichment
+strategy further simplifies data analysis associated with NGS and further
+reduces costs.We have developed a novel target capture technique that
+offers advantages over traditional in-solution hybridization and
+multiplex PCR protocols. With this method, genomic DNA is first
+enzymatically nicked to generate single stranded DNA of desirable length,
+in a sequence independent manner. The DNA fragments are then rapidly
+hybridized to short probes that can be captured by beads. The off target
+sequence of the captured DNA, defined by the probes, is subsequently
+removed via enzymatic digestion. The resulting targeted sequence are
+ligated with NGS platform specific adaptors and amplified by PCR. With
+our method, genomic DNA can be converted into libraries ready for
+sequencing within 6 hours; and the procedure is easily scalable for
+automation.To demonstrate the efficacy of this method, we have designed a
+cancer panel to interrogate 50 genes that are commonly mutated in cancer,
+and tested it on various DNA samples including FFPE. The results
+demonstrate that our approach captures targeted sequence with high
+specificity and uniformity, and detects variants with great accuracy and
+sensitivity.
+

@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: High-grade serous ovarian cancer subtypes are similar across
+diverse populations
+
+
+The most common and lethal type of invasive epithelial ovarian cancer is
+high grade serous (HGSC). Three to four gene expression-based HGSC
+subtypes have been identified in prior studies. In contrast to most
+previous studies, which have assessed the performance of survival
+classifiers in validation sets, we sought to determine the degree of
+similarity of gene expression patterns in subtypes between populations
+using systematic unsupervised clustering within populations.We analyzed
+publically-available mRNA expression data from studies with >200 HGSC
+tumors: The Cancer Genome Atlas (TCGA, US, n = 519, Affymetrix HT U133a),
+Tothill et al. (GSE9891, Australia, n = 242, Affymetrix U133 Plus 2.0)
+and Yoshihara et al. (GSE32062, Japan, n = 258, Agilent G4112a). We
+restricted analyses to the 12,249 genes shared across all datasets and
+selected from these the union of the 1,500 most variant genes per
+population (2,824). Using these datasets, we performed k-means clustering
+within each population for k = 3 and k = 4. We compared each cluster to
+all other clusters using Significance Analysis of Microarrays, which
+outputs an F score for all 12,249 genes, measuring cluster-specific
+differential expression. We then calculated the correlation of the
+resulting F score vectors across populations and within populations
+across both numbers of centroids (k = 3 or k = 4). We identified
+analogous clusters by high F score correlations and determined each
+cluster's similarity to the TCGA subtypes based on cluster-specific
+differentially expressed genes.We observed high concordance of gene
+expression patterns for clusters across populations and across k-means
+runs, suggesting that analogous clusters exist in most analyses. For k =
+3, F score correlations across populations for clusters 1, 2 and 3,
+respectively, ranged between 0.77-0.85, 0.80-0.90, and 0.66-0.72. For k =
+4, F score correlations for clusters 1-4 were, respectively: 0.76-0.85,
+0.82-0.85, 0.65-0.78, and 0.52-0.78. Across k = 3 and k = 4, correlations
+for cluster 1 within TCGA, Tothill, and Yoshihara were 0.99, 1.00 and
+1.00, and correlations for cluster 2 were 0.96, 0.98, and 0.95,
+respectively. Correlations for cluster 3 were less strong: 0.56, 0.88,
+and 0.60, respectively. For k = 4, cluster 4 was composed mainly of
+samples that belonged to cluster 3 for k = 3; 88% for TCGA, 54% for
+Tothill, and 95% for Yoshihara. When compared to TCGA subtypes, cluster 1
+corresponded most strongly to mesenchymal, cluster 2 to proliferative,
+cluster 3 to differentiated, and cluster 4 to immunoreactive.Our
+observation of highly correlated gene expression patterns between
+clusters across populations, across platforms, and across the number of
+centroids provides strong evidence that at least three biological HGSC
+subtypes exist. The mesenchymal-like and proliferative-like subtypes are
+particularly consistent across populations, and could be uniquely
+targeted for treatment.
+

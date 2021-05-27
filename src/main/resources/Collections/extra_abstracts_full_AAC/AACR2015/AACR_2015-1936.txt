@@ -1,0 +1,42 @@
+Meeting: 2015 AACR Annual Meeting
+Title: CoMEt: A statistical approach to identify combinations of mutually
+exclusive alterations in cancer
+
+
+Identifying driver mutations in cancer genomes is a significant challenge
+due to the mutational heterogeneity of tumors: different combinations of
+somatic mutations drive different tumors, even those of the same cancer
+type. This mutational heterogeneity arises because driver mutations
+target genes in signaling and regulatory pathways, each of which can be
+perturbed in numerous ways.We introduce CoMEt, an algorithm to identify
+combinations of candidate driver mutations de novo, without any prior
+biological knowledge (e.g. pathways or protein interactions). CoMEt
+searches for combinations of mutations that exhibit mutual exclusivity, a
+pattern expected for mutations in pathways. CoMEt uses an exact
+statistical test for mutual exclusivity that is less biased toward high
+frequency alterations than previous approaches and more sensitive in
+detecting combinations of lower frequency alterations. We compute the
+exact test using a novel tail enumeration procedure and also derive a
+binomial approximation. CoMEt simultaneously identifies collections of
+one or more combinations of mutually exclusive alterations, consistent
+with the observation of multiple hallmarks of cancer, and also performs
+simultaneous analysis of subtype-specific mutations. Finally, CoMEt uses
+an MCMC algorithm to sample from collections in proportion to their
+significance, summarizing the distribution in a marginal probability
+graph. We show that CoMEt outperforms other mutual exclusivity approaches
+on simulated and real data.We apply CoMEt to hundreds of samples from
+four different TCGA cancer types: gastric cancer (STAD), glioblastoma
+(GBM) and acute myeloid leukemia (AML), and breast cancer (BRCA). We
+identify multiple mutually exclusive sets within each cancer type. These
+include the RTK/RAS pathway in gastric cancer, the Rb and p53 signaling
+pathways in glioblastoma, and a collection containing multiple kinases,
+including FLT3, as well as the RAS genes in AML. In addition, we analyze
+subtype-specific mutations using CoMEt by encoding the subtype of each
+sample and computing exclusivity between and within subtypes. We apply
+this approach using four gene expression subtypes of breast cancer and
+identify several pathways that are enriched for mutations in specific
+subtypes including the PI(3)K/AKT signaling pathway in the Luminal A
+subtype. Many of these overlap known pathways, but others reveal novel
+putative cancer genes. These findings provide testable hypotheses for
+experimental validation.
+

@@ -1,0 +1,43 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identification of new target genes in microsatellite unstable
+colorectal cancer by exome sequencing
+
+
+Colorectal cancer (CRC) is the third most common cancer in Western
+countries. Approximately 15% of CRCs display microsatellite instability
+(MSI) caused by defective cellular mismatch repair. Most of the MSI CRCs
+are sporadic and result from biallelic inactivation of the MLH1 gene,
+which is most often due to hypermethylation of its promoter. Cells
+displaying MSI accumulate a high number of mutations throughout the
+genome, especially in short repeat areas called microsatellites. These
+mutations typically lead to a premature stop codon resulting in a
+truncated protein product that may inactivate the gene, a mechanism known
+typical of tumor suppressor genes. The aim of this study is to identify
+new target genes in MSI CRC.To date, several genes have been proposed as
+MSI target genes based on high mutation frequency in targeted searches of
+microsatellites. The availability of new sequencing and bioinformatic
+technologies has enabled genome-wide investigation of mutations in human
+cancers. This has led to identification of a vast amount of mutations in
+cancer, most of which are passenger mutations that do not confer
+selective growth advantage. The challenge is therefore to distinguish
+true driver genes from passengers. The high number of mutations in MSI
+tumors augments this challenge.In this study, 25 sporadic MSI CRCs and
+their corresponding normal samples have been exome sequenced to identify
+changes of somatic origin. An analysis and visualization program
+developed in our group, RikuRator (unpublished), will be utilized along
+with a script to estimate the accurate somatic mutation frequency of each
+coding mononucleotide repeat. A statistical model based on exome
+sequencing data will be developed that takes into account the background
+mutation frequency of microsatellites depending on the repeat length and
+nucleotide context. The most mutated repeats will be validated by Sanger
+sequencing in a set of additional MSI CRCs. Functional studies will be
+carried out to further investigate the pathogenic effect of the new
+target genes identified.The systematic screening of mutations in
+microsatellites will improve our understanding on the mutation profile
+typical of these tumors. With our approach that takes into account the
+background mutation frequency of microsatellites we aim to identify true
+driver genes in MSI CRC. A detailed understanding of the molecular
+background of this tumor type is important for the development of more
+efficient screening methods and personalized treatments to improve the
+prognosis of patients diagnosed with MSI type CRC.
+

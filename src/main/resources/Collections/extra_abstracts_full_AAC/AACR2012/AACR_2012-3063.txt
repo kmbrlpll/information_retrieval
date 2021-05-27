@@ -1,0 +1,42 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Mcl-1 dependency is a predictive biomarker for apoptotic induction
+by short-term dinaciclib (SCH 727965) treatment
+
+
+Dinaciclib (SCH 727965) is a potent and selective inhibitor of the
+cyclin-dependent kinases (CDKs) 1, 2, 5 and 9 undergoing clinical testing
+against a range of solid and hematologic malignancies. From preclinical
+studies, more than 140 cell lines have been profiled for dinaciclib
+response in long-term (>72 hrs) viability or clonogenicity assays with
+>97% of the lines showing IC50 25 nM. This uniformly low nM potency is
+likely due to repression of both cell cycle progression and transcription
+through inhibition of CDK1/2 and CDK9, respectively. CDK9 phosphorylation
+of the RNA pol II (RNAPII) at Ser2 and 5 is required for transcriptional
+initiation and elongation. We and others have observed rapid
+CDK9-dependent effects on cells after short-term dinaciclib exposure,
+including loss of RNAPII Ser2 phosphorylation followed by rapid
+elimination of the short half-life, pro-survival protein Mcl-1. Since a
+cancer cell's ability to avoid apoptosis is dependent on the balance of
+several Bcl-2 antiapoptotic family members, including Bcl-2, Bcl-xL and
+Mcl-1, we hypothesized that Mcl-1 dependent cell lines would be more
+sensitive to dinaciclib treatment. Moreover, we anticipated that this
+differential sensitivity could be discriminated from longer-term
+inhibitory cell cycle effects by conducting short-term dinaciclib
+exposure assays. Here we report the activity of dinaciclib to induce
+apoptosis on a panel of 25 human solid tumor cell lines with varying
+levels of Mcl-1 dependency. Mcl-1 dependency in solid tumor cell lines
+has been reported to correlate with the Mcl-1 to Bcl-xL mRNA ratio or the
+level of Mcl-1 gene amplification. Cell viability was assessed after an
+18 hour, 100 nM dinaciclib treatment while target engagement and
+induction of apoptosis was determined after 8 hours. With one exception,
+all cell lines showed potent CDK9 target engagement as determined by loss
+of RNAPII Ser2 phosphorylation and corresponding reduced Mcl-1 protein
+levels. We observed that loss of cell viability, measured by ATP content,
+directly correlated with the Mcl-1/Bcl-xL mRNA ratio. A dramatic increase
+in PARP cleavage was also observed in cell lines with the highest
+Mcl-1/Bcl-xL mRNA ratio. Furthermore, the extent of PARP cleavage
+correlated with levels of caspase-3/7 activity. Bcl-2 levels did not
+significantly impact the dinaciclib response. These data provide a
+rationale for utilizing Mcl-1 dependency as a predictive biomarker for
+dinaciclib anti-cancer response in solid tumor malignancies.
+

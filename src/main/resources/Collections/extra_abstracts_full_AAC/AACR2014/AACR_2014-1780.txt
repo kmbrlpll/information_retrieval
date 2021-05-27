@@ -1,0 +1,34 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identification and characterization of L524-0366 as a small
+molecule inhibitor that disrupt TWEAK-Fn14 signaling in glioblastoma
+
+
+Deregulation of the TWEAK-Fn14 signaling pathway is observed in many
+diseases including inflammation, autoimmune diseases, and cancer, notably
+glioblastoma. Activation of Fn14 signaling by TWEAK binding triggers
+glioma cell invasion and survival and therefore represents an attractive
+pathway for therapeutic intervention. Based on structural studies of the
+TWEAK-binding cysteine rich domain of Fn14, several homology models of
+TWEAK were built to investigate plausible modes of TWEAK-Fn14
+interaction. Two promising models, centered on different anchoring
+residues of TWEAK [Tyrosine 176 (Y176) and Tryptophan 231 (W231)], were
+prioritized using a data-driven strategy. Site-directed mutagenesis of
+TWEAK at Y176, but not W231, resulted in the loss of TWEAK binding to
+Fn14 substantiating Y176 as the anchoring residue. Importantly, mutation
+of TWEAK at Y176 did not disrupt TWEAK trimerization, but failed to
+induce Fn14 mediated nuclear factor kappa-light-chain-enhancer of
+activated B cells (NF-B) signaling. The validated structural models were
+utilized in a virtual screen to design a targeted library of small
+molecules predicted to disrupt the TWEAK-Fn14 interaction. 129 small
+molecules were screened iteratively, with identification of molecules
+producing up to 37% inhibition of TWEAK-Fn14 binding. One specific
+compound, L524-0366 binds specifically to the Fn14 receptor and disrupt
+TWEAK-Fn14 interaction. Treatment of L524-0366 suppresses TWEAK-induced
+cell migration and survival in glioblastoma cells. In summary, we present
+a data-driven in silico study revealing key structural elements of the
+TWEAK-Fn14 interaction, followed by experimental validation, serving as a
+guide for the design of small molecule inhibitors of the TWEAK-Fn14
+ligand-receptor interaction. Our results provide the foundation for
+further exploration utilizing L524-0366 as a small molecule inhibitor to
+the TWEAK-Fn14 signaling axis.
+

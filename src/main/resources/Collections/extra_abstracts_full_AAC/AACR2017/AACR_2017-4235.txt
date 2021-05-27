@@ -1,0 +1,75 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Application of convolutional neural networks to breast biopsies to
+uncover tissue correlates of mammographic breast density.
+
+
+Background: High percent mammographic density (MD), which reflects the
+relative fibroglandular tissue content of the breast, is one of the
+strongest breast cancer risk factors; however, the pathologic mediators
+of this risk are unknown. We hypothesize that analysis of breast tissue
+sections using deep learning approaches may characterize histologic
+features that underpin risk associated with high MD.
+
+Methods: Non-targeted H&E stained breast tissue sections of diagnostic
+image-guided breast biopsies were evaluated among 588 women enrolled
+following an abnormal mammogram in the Breast Radiology Evaluation and
+Study of Tissues (BREAST) Stamp Project (2007-2010). Overall volumetric
+percent MD for the biopsied breast and localized volumetric percent MD
+surrounding the biopsy site were determined for each participant. A deep
+convolutional neural network (CNN) model was trained to identify and
+quantitatively assess breast epithelial, stroma and fat tissue and their
+organizational and spatial arrangements. Least absolute shrinkage and
+selection operator (Lasso) regression was used to determine relationships
+between MD measures and pathological features. To ensure reliability of
+the model, a cross-validation strategy was employed to build and assess
+the performance of the fitted model. Finally, Spearman correlation
+coefficients were estimated to test the association between the predicted
+density values by each model (predicting overall or localized MD) and the
+actual MD measurements. We report the average and standard deviation (SD)
+of the correlation coefficients.
+
+Results: In an independent validation set, the CNN model was 95.5%
+accurate in classifying epithelial, stromal and fat tissue. The mean (SD)
+correlations between the predicted model and the actual measurements for
+overall and localized MD were 0.70 (0.06) and 0.65 (0.06) respectively.
+The amount of stroma identified (normalized to tissue area) had the
+highest selection probability (P-value) by the Lasso model and thus the
+strongest positive relationship with MD (P-value >0.9 for each MD
+measurement). In contrast, the amount of normalized epithelial tissue was
+not related to MD (P-value=0.01 for each MD measurement). No association
+was observed for the total normalized fat area with MD (P-value Results:
+In an independent validation set, the CNN model was 95.5% accurate in
+classifying epithelial, stromal and fat tissue. The mean (SD)
+correlations between the predicted model and the actual measurements for
+overall and localized MD were 0.70 (0.06) and 0.65 (0.06) respectively.
+The amount of stroma identified (normalized to tissue area) had the
+highest selection probability (P-value) by the Lasso model and thus the
+strongest positive relationship with MD (P-value >0.9 for each MD
+measurement). In contrast, the amount of normalized epithelial tissue was
+not related to MD (P-value=0.01 for each MD measurement). No association
+was observed for the total normalized fat area with MD (P-value <0.31 for
+each MD measurement). In addition, the number of distributed epithelial
+regions was positively associated, whereas the distance between
+epithelial regions was inversely associated with overall MD (P-value
+Results: In an independent validation set, the CNN model was 95.5%
+accurate in classifying epithelial, stromal and fat tissue. The mean (SD)
+correlations between the predicted model and the actual measurements for
+overall and localized MD were 0.70 (0.06) and 0.65 (0.06) respectively.
+The amount of stroma identified (normalized to tissue area) had the
+highest selection probability (P-value) by the Lasso model and thus the
+strongest positive relationship with MD (P-value >0.9 for each MD
+measurement). In contrast, the amount of normalized epithelial tissue was
+not related to MD (P-value=0.01 for each MD measurement). No association
+was observed for the total normalized fat area with MD (P-value <0.31 for
+each MD measurement). In addition, the number of distributed epithelial
+regions was positively associated, whereas the distance between
+epithelial regions was inversely associated with overall MD (P-value
+<0.87 and 0.62, respectively).
+
+Conclusions: These results show that greater stromal tissue amount and
+spatial distribution patterns of epithelial regions, rather than total
+epithelial amounts, had the strongest relationships with elevated MD.
+Future work will determine the relationship of these MD features with
+biopsy diagnosis.
+
+

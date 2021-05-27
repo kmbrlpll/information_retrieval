@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identify tissue-of-origin in cancer cfDNA by whole genome
+sequencing.
+
+
+Cell free DNA (cfDNA) has been shown to be an emerging non-invasive
+biomarker to monitor tumor progression in cancer patients. Elevated cfDNA
+has been found not only from tumors, but also from normal tissues. Thus,
+the identification of cfDNA’s tissue-of-origin is critical to
+understand the mechanism of cfDNA release and tumor progression. Recent
+efforts to identify cfDNA’s tissue-of-origin begin to utilize cfDNA’s
+epigenomic status, such as DNA methylation and nucleosome spacing.
+However, both of these methods have limitations: (1) For nucleosome
+positioning, lack of reference nucleosome maps in different tumor and
+normal tissues has limited its application to tissue-of-origin
+deconvolution; (2) For DNA methylation, large DNA degradation during
+whole genome bisulfite sequencing (WGBS) library preparation, even with
+current low-input DNA technology, is still the major hurdle for its
+clinical application, although extensive DNA methylation studies by WGBS
+in tumor and normal tissues during the last decade have provided many
+reference maps. Very recently, a pioneer study showed significant
+differences between DNA fragment lengths of methylated and unmethylated
+cfDNA. Taking advantage of this experimental observation, we developed a
+machine learning approach to infer the base pair resolution DNA
+methylation level from fragment size information in whole genome
+sequencing (WGS). The predicted DNA methylation, from not only high
+coverage but also dozens of ultra-low-pass WGS (ULP-WGS), showed high
+concordance with the ground truth DNA methylation level from WGBS in the
+same cancer patients. Furthermore, by using hundreds of WGBS datasets
+from different tumor and normal tissues/cells as the reference map, we
+deconvoluted cfDNA’s tissue-of-origin status by inferred DNA
+methylation level at ULP-WGS from thousands of breast/prostate cancer
+samples and healthy individuals. The cfDNA’s tissue-of-origin status in
+cancer patients showed high concordance with confirmed metastasis tissues
+from physicians. Interestingly, some clinical information, such as cancer
+grades/stages, seemed to be correlated with cfDNA’s tissue-of-origin
+status. Overall, our methods here pave the road for cfDNA’s application
+in clinical diagnosis and monitoring.
+
+

@@ -1,0 +1,37 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Mathematical models for cellular pharmacodynamics of fractionated
+radiation and radiochemotherapy
+
+
+Cellular response to radiation is generally described by the
+linear-quadratic equation, but the extension to complicated fractionated
+schedules, and to combined exposure with chemotherapeutic drugs is not
+well-established. Mathematical models for cellular response are needed
+for predictive quantitative modeling of treatment. Here, such models are
+formulated using the previously developed concepts of peak damage models
+and additive damage, which in prior studies proved successful in
+describing cellular pharmacodynamics of single-agent and combination
+chemotherapy. The exponential form of the linear-quadratic equation is
+replaced by Hill or cumulative lognormal functions of the peak value over
+time of a quantity termed cellular damage. Damage is a saturating
+function of radiation dose. Cell survival depends on whether the peak
+value of cellular damage ever exceeds a threshold value during treatment.
+This model is tested for a range of data sets for single-dose radiation,
+and compares favorably with the linear-quadratic. In one data set (Park
+et al 2008) the dose range was sufficiently wide to show the significant
+overestimation of cell kill by the linear-quadratic model at high doses;
+the Hill/lognormal formulation behaves more satisfactorily in this limit.
+The model is then extended to the case of fractionated radiation through
+the assumption that damage decays between treatments according to
+first-order kinetics, and damage from different cycles is additive. The
+model gives a satisfactory fit to literature data with multiple
+fractionation schedules for the same drug and cell line. Finally, the
+principle of additive damage is applied to model cellular response to
+radiochemotherapy, with damage as a linear superposition of terms from
+radiation and drug. Overall, the peak cellular damage model with additive
+damage was found to fit in vitro dose-response data well, and provides a
+tool for understanding and predicting response as schedule and dose are
+varied in combination treatments. It is expected that these models will
+have application in assessment of preclinical cellular pharmacodynamics
+data, as well as computational simulations of treatment response.
+

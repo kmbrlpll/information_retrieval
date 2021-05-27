@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Functional knockout of ATRX or DAXX permits the alternative
+lengthening of telomeres (ALT) mechanism in prostate cancer cells.
+
+
+A key hallmark of cancer is unlimited replication, which requires cancer
+cells to evade replicative senescence induced by short telomeres. The
+majority of cancers overcome this critical replication barrier by
+upregulating the telomerase enzyme, a telomere-specific reverse
+transcriptase. However, a subset of cancers lack telomerase, and
+telomeres are maintained by employing the Alternative Lengthening of
+Telomeres (ALT) pathway, which is dependent on homologous recombination.
+Across a variety of tumor types, our laboratory and others have reported
+a robust correlation between ALT and recurrent cancer-associated somatic
+inactivating mutations in the ATRX-DAXX chromatin remodeling complex. In
+a previous comprehensive cancer survey of ALT, we reported that ALT was
+highly prevalent in some tumor types (e.g. astrocytomas, sarcomas,
+pancreatic neuroendocrine tumors), but we did not observe any
+ALT-positive primary prostate cancer (out of 1,176 analyzed). However, we
+subsequently found a subset of metastatic prostate cancers that harbor
+ALT, suggesting that mutations giving rise to ALT in this disease are
+unique to metastatic prostate cancer.
+
+Here, we have created the first prostate cancer cell lines exhibiting
+ALT, with the explicit purpose of molecularly characterizing ALT in
+prostate cancer and identifying promising therapeutic targets for men
+with ALT-positive lethal metastatic prostate cancer. Inactivating
+mutations in either ATRX or DAXX using the CRISPR/Cas9n system were
+introduced into the genetically well-characterized, telomerase-positive
+(ALT-negative) prostate cancer cell lines, LAPC-4 and CWR22Rv1. Resulting
+mutant subclones were compared to their parental (or empty vector)
+counterparts. In these new models, abolishing ATRX expression was
+sufficient to induce the ALT phenotype in both LAPC-4 and CWR22Rv1, as
+assessed by multiple biomarkers of ALT, including the presence of bright
+telomeric FISH foci, ALT-associated PML bodies (ABPs), and
+extrachromosomal telomere c-circles. Interestingly, abolishing DAXX
+expression induced ALT in only a subset (3/5) of LAPC-4 DAXX KO clones,
+and a subset (4/19) of CWR22Rv1 DAXX KO clones.
+
+We have successfully activated the ALT telomere maintenance phenotype in
+two prostate cancer cell lines through CRISPR-mediated targeted gene
+deletion. We are currently utilizing these isogenic cell lines to further
+characterize and elucidate the underlying biology of cancers harboring
+ALT, with the goal of pharmacologically targeting the molecular features
+unique to the ALT phenotype (e.g. ATR inhibition). The identification of
+ALT-specific drugs may pave the way for the development of new targeted
+treatments for the subset of men with ALT-positive lethal metastatic
+prostate cancer, and more broadly, other ALT-positive cancers. ALT is
+easily detected in clinical tissue samples, and thus would serve as a
+predictive biomarker for personalized medicine.
+
+

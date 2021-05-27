@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: ARID1A is a novel HuR target: Implications in breast cancer
+radiotherapy
+
+
+ARID1A is part of the chromatin remodeling complex SWI/SNF, which can
+modulate transcription positively or negatively. The role of ARID1A in
+cancer is controversial. It is described as a tumor suppressor since its
+expression is found lost in several types of cancer. However, recent
+investigations suggest that ARID1A could also be an important target to
+sensitize cancer cells to chemotherapy and radiation. HuR, an important
+RNA binding protein, post-transcriptionally regulates specific mRNAs by
+binding to the 3 untranslated region (UTR) of its target mRNAs. Through
+this action, HuR regulates the expression of its target genes by
+facilitating either RNA stability or protein translation, thereby
+affecting several signaling pathways including cell-cycle, DNA damage
+response and apoptosis.In order to identify novel mRNAs regulated by HuR
+that could be targeted for breast cancer therapy, we performed a
+ribonucleoprotein immunoprecipitation (RNP-IP) microarray using an HuR
+antibody on irradiated and non-irradiated samples from triple negative
+breast cancer cell lines. This assay showed ARID1A to be potentially
+regulated by HuR. Accordingly, analysis of the AU-rich elements (ARE)
+database of the University of Vienna identifies three potential HuR
+binding sites on ARID1A 3UTR, two of which are highly conserved in 100
+vertebrate species. To demonstrate that HuR post-transcriptionally
+regulates ARID1A, we first evaluated the effect of HuR expression on
+ARID1A mRNA and protein levels in breast cancer cell lines. Genetic or
+pharmacological inhibition of HuR led to a decrease in ARID1A mRNA and
+protein levels. Conversely, HuR forced expression led to an increase in
+ARID1A levels both at the mRNA and protein levels. We also evaluated the
+effect of HuR on the stability of ARID1A mRNA. In cells where HuR is
+genetically inhibited, ARID1A mRNA half-life is dramatically reduced
+compared to the control. These results demonstrate that HuR positively
+regulates ARID1A by promoting the stability of ARID1A mRNA. To test
+whether this regulation is exerted by direct interaction of HuR on ARID1A
+mRNA, we performed an RNP-IP assay, where we pulldown HuR and analyzed
+the presence of ARID1A mRNA by RT-PCR. Consistent with our previous
+results, HuR was found to physically interact with ARID1A, thereby
+promoting its stabilization. Most importantly, through clonogenic assays,
+we found that genetic inhibition of either HuR or ARID1A results in
+radiation sensitivity of TNBC cell lines. Conversely, forced expression
+of ARID1A promotes radiation resistance.Our results show that (i) ARID1A
+is a novel HuR target and that (ii) it can dictate radio resistance in
+HuR overexpressing cancer cells. ARID1A is known to regulate cell cycle
+and to promote DNA damage repair, which can contribute to resistance to
+therapy. Altogether, our findings further support an oncogenic role for
+ARID1A making it an important target for breast cancer treatment.
+

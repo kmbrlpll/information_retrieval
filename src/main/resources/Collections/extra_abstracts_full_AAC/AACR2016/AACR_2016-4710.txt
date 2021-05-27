@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: BRD4 degradation by PROTACs represents a more effective
+therapeutic strategy than BRD4 inhibitors in ovarian cancer
+
+
+BRD4, a member of the bromodomain and extraterminal domain (BET) family
+of chromatin readers, localizes to super-enhancer regions of DNA, and
+turns on the expression of a number of oncogenes. Therefore, it has
+attracted considerable interest as a potential drug target in a variety
+of cancers, and several inhibitors that block its binding to acetylated
+histones have been discovered. The BRD4 genomic region is amplified in
+approximately 17% of ovarian serous adenocarcinomas, and a recent shRNA
+screen identified it as a bona fide target in high-grade serous ovarian
+carcinoma (HGSOC). BRD4 inhibitors were shown in the same study to be
+efficacious in cell culture and PDX models of HGSOC. However, the
+inhibitor paradigm of drug discovery has several limitations, for
+example, the requirement of high target occupancy for activity, and the
+inability to block potentially critical scaffolding functions of the drug
+target. To circumvent these limitations, we have designed small molecule
+BRD4 degraders based on our PROTAC (PROteolysis TArgeting Chimera)
+platform, and assessed their activity across a panel of ovarian carcinoma
+cell lines.BRD4 PROTACs, containing a BRD4 ligand connected to a VHL E3
+ubiquitin ligase binding moiety, successfully promote proteasome-mediated
+degradation of BRD4 at sub- to low-nM concentrations in a number of
+ovarian cancer cell lines. Furthermore, this BRD4 degradation results in
+a very potent anti-proliferative effect in the cells. All the cell lines
+tested showed modest anti-proliferative effects when treated with BRD4
+inhibitors (ED50 0.5 M-1M). In contrast, when treated with BRD4 PROTACs
+the cell lines separated into three profoundly different groups (most
+sensitive, moderately sensitive, least sensitive), with a difference of
+several orders of magnitude (ED50 0.03nM-500nM). Thus BRD4 PROTACs are up
+to 10,000-fold more potent than BRD4 inhibitors in the most sensitive
+cell lines. Moreover, the ED50 curves closely track with BRD4
+degradation, and result in a much more profound apoptotic response than
+BRD4 inhibition. In addition, we have also shown that the
+anti-proliferative effect of BRD4 PROTACs is decoupled from their effect
+on the levels of cMYC. Finally, we have carried out deep RNA sequencing
+in five cell lines of variable sensitivity to BRD4 PROTACs in order to
+thoroughly define the molecular subtype of the malignancies represented
+and have identified gene signatures that correlate with efficacy of BRD4
+PROTACs and BRD4 inhibitors in these cells.In summary, PROTACs designed
+to target BRD4 for proteasomal degradation are highly potent in ovarian
+cancer cells, and elicit a powerful pro-apoptotic response in the same
+setting. The cells can be grouped by their level of sensitivity to
+PROTAC-mediated BRD4 degradation, and carry gene expression biomarkers
+which we hope will enable a patient selection strategy as BRD4 PROTACs
+are advanced into the clinic.
+

@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: microRNA expression reflects site specificity of metastatic
+colorectal cancer.
+
+
+Colorectal Cancer (CRC) is one of the leading causes of cancer related
+deaths in the western world, and metastatic progression is the dominating
+cause of mortality. The primary site of CRC metastasis is the liver,
+followed by the lungs and peritoneal cavity, and prognosis for patients
+with metastatic CRC (mCRC) is poor, with only 10 % five-year survival.
+Although much is known about progression and metastasis of CRC; how
+primary CRC (pCRC) differs from mCRC on the molecular level and potential
+differences between metastases located in different organs are
+incompletely understood. This is important for our understanding of the
+disease, but also could have significant implications with respect to
+treatment. MicroRNAs have been shown to be key elements in cancer
+progression, but recent reports on CRC failed to consistently identify
+microRNA signatures of metastatic progression. We have addressed this
+using a smallRNA sequencing approach to analyze primary tumors and a set
+of liver, lung and peritoneal metastases, including corresponding
+adjacent tissue (colon, liver, lung, peritoneum). Further, we use the
+highly curated and updated microRNA reference MirGeneDB.org, the novel
+pipeline MirAthon - including a correction-algorithm of benign tissue
+microRNA signatures for tumor or metastatic samples, and we compare pCRC
+and site specific metastases separately. We are able to show that
+microRNA profiles of mCRC are distinct to pCRC in a site-specific manner.
+We identify a small panel of differentially expressed microRNAs including
+isoforms (isomiRs) hidden under a layer of benign signatures that we
+confirmed in other available datasets, too. Our findings will help better
+understand metastatic progression and site-specificity in CRC and could
+be potential biomarkers for mCRC.
+
+Our work identifies microRNA signatures of mCRC and suggest that microRNA
+signatures reflect mCRC site specificity. Furthermore, the results
+underline the importance of using a curated reference for microRNA
+studies, and to differentiate metastases based on their localization ab
+initio.
+
+

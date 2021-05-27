@@ -1,0 +1,26 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Assessment of whole genome amplification for whole exome
+sequencing in detecting genetic mutation.
+
+
+Whole exome sequencing (WES) has been widely used for studying genetic
+mutations in DNA coding regions to elucidate cancer etiology and for
+identifying biomarkers to optimize chemotherapy. However, these studies
+can be limited when only small amount of DNA is available. Whole genome
+amplification (WGA) technology can be combined with WES to make these
+studies technically possible. Here, we evaluated WGA using a phi 29
+polymerase prior to library preparation for WES in samples with various
+DNA concentrations. WES was performed by targeted exon amplification
+followed by massively parallel sequencing. We compared the base calls of
+single nucleotide variants for individual same samples with or without
+WGA prior to library construction to determine the concordance rate of
+variant calls. We also assessed genetic variant call rate in the same
+samples with or without WGA. The number of variants obtained ranged from
+159,851,999 to 390,784 in the non-amplified samples and from 353,215 to
+384,118 in the same amplified samples. The average concordance rate of
+identical variants in the samples with or without WGA was 96.5%. Our
+results indicate that WGA in prior to WES can increase detection
+efficiency of single nucleotide variants in samples with relatively small
+amount of DNA and/or low DNA concentration.
+
+

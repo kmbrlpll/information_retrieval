@@ -1,0 +1,54 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Discovery and development of novel 4-aminopyrimidines (A9 analogs)
+as potential BRCA1-mimetic drugs for the treatment of breast cancer.
+
+
+IntroductionThe breast cancer type-1 susceptibility protein (BRCA1) is
+encoded by the BRCA-1 gene, and mutations on this gene, or defects on its
+transcription have been associated with high risks of breast, ovarian,
+fallopian tube and prostate cancer. The major role of BRCA1 protein is as
+a tumor suppressor agent, which works mainly by repairing DNA
+double-strand breaks. We have extensively studied the interactions of
+BRCA1 protein with the estrogen receptor (ER-1), and observed that it
+strongly inhibits ER-1 activity in cancer cells and blocks estrogen
+(E2)-stimulated gene expression and cell proliferation. We have built a
+high resolution three-dimensional computational model of the protein
+complex BRCA1:ER-1, and used it to virtually screen libraries of small
+molecules capable of acting as BRCA1-mimetics. From a focused library, we
+identified the compound 2,6-dibenzyl-5-phenylpyrimidin-4-amine (A9) as a
+potent inhibitor of the ER-1 activity (IC50 9 uM). Herein, we will report
+the synthesis and development of a series of A9-analogs with improved
+activity.MethodsThe description of the three-dimensional molecular
+modeling of the protein complex BRCA1:ER-1 used to identify A9, and the
+functional assay utilized for determination of the E2-dependent
+transcriptional activity have been reported (Ma, Y. et al. Oncogene,
+2005, 24, 1831-1846). Three distinct series of A9 analogs have been
+planned, namely the symmetric, asymmetric and restrict analogs. The
+symmetric compounds were synthesized via base-catalyzed trimerization of
+aromatic-substituted benzylnitriles using microwave at 165 degrees
+Celsius, in three cycles of 15 min. After the reaction, the crude
+reaction mixture was purified via flash chromatography (Biotage) to give
+the corresponding final 4-aminopyrimidines in yields ranging from 7-23%.
+The A9 analogs were dissolved in DMSO and tested for in vitro
+E2-stimulated ERE-luciferase activity. An IC50 was calculated from graph
+interpolation and expressed in micromolar units.ResultsData for six
+initial A9 analogs are reported herein. Their IC50 values and yields of
+synthesis are as following: A9, 4-H (IC50= 9 uM); EDO-1-119, 4-NH2 (IC50=
+1.3 uM, yield 7.4%); EDO-1-123, 4-Cl (IC50> 20 uM, yield 16.4%);
+EDO-1-124, 4-CH3 (IC50= 1.3 uM, yield 12.5%); EDO-1-127, 4-Br (IC50= 1.5
+uM, yield 20.3%); EDO-1-112, 4-(3-pyridinyl) (IC50= 2.5 uM, yield 23%);
+EDO-1-116, 4-(-naphtyl) (IC50= 5 uM, yield 20%). All compounds were fully
+characterized by 1H-NMR and 13C-NMR, and elemental analysis.ConclusionWe
+have identified several new analogs with increased BRCA1-mimetic activity
+as compared to A9. Initial structure-activity relationship (SAR) studies
+suggest that the 4-position at the aromatic ring in A9 can well tolerate
+a wide range of substituents including larger aromatic rings. Synthetic
+efforts resulted in a 7-fold increase in mimetic activity.Citation
+Format: Eliseu O. De Oliveira, Yongxian Ma, York Tomita, Eliot Rosen,
+Milton L. Brown. Discovery and development of novel 4-aminopyrimidines
+(A9 analogs) as potential BRCA1-mimetic drugs for the treatment of breast
+cancer. [abstract]. In: Proceedings of the 104th Annual Meeting of the
+American Association for Cancer Research; 2013 Apr 6-10; Washington, DC.
+Philadelphia (PA): AACR; Cancer Res 2013;73(8 Suppl):Abstract nr 2458.
+doi:10.1158/1538-7445.AM2013-2458
+

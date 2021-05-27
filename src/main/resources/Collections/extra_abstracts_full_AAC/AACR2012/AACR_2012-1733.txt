@@ -1,0 +1,40 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Development of a novel blood plasma protein test for diagnosis of
+lung cancer
+
+
+Background: A blood test for detection of lung cancer (LC) could provide
+survival benefits in high-risk populations. We conducted a retrospective
+study as the next step of our effort to develop a test for diagnosis of
+non-small cell lung carcinoma (NSCLC), the most common form of LC, by
+measuring levels of protein biomarkers in plasma. Materials and Methods:
+We quantified levels of 106 proteinaceous biomarkers using multiplexed
+immunoassays of subjects a) diagnosed with stage I/II NSCLC, b) normal
+non-smoking controls, and c) normal heavy smoking controls (> 10 p.y.).
+All groups consisted of Caucasian men and women (93 subjects each, ages
+range 45-87, Ave 59). The specimens were randomized and tested in a
+blinded manner. A support vector machine (SVM) algorithm, developed and
+tested in a pilot study, was used to identify differentially expressed
+biomarkers in the disease and control groups taking into account patients
+gender. Pathway analysis was applied to characterize pathology- and
+gender-specific patterns of biomarker expression. Results: In a recent
+pilot study we developed SVM models that classified subjects to NSCLC or
+normal using 59 plasma markers or subsets thereof, for both genders
+combined or separately. When data for both genders were analyzed
+together, SVM classified subjects to NSCLC or normal and identified 4
+differentially expressed markers: EGF, sCD40 ligand, IL-8 and MMP-8;
+sensitivity (SE) 0.93 (95% CI: 0.88-0.96), specificity (SP) 0.87 (95% CI:
+0.80-0.92). Considering the sexes separately, the differentially
+expressed best subset of markers for men (EGF, IL-8, sFAS, MMP-9 and
+PAI-1) had both SE and SP of 1.0. For women, the best subset of markers
+(EGF, sCD40 ligand and IL-8) also yielded SE and SP of 1.0. The present
+study has further confirmed and refined our earlier findings and expanded
+panels of diagnostic biomarkers for NSCLC with comparable sensitivities
+and specificities. Analysis of cellular pathways represented by the
+discriminatory biomarker signatures suggested a role of sex
+hormone-driven differences of NSCLC plasma biomarkers. Conclusions: The
+set of diagnostic biomarkers for NSCLC identified in this study holds
+significant promise for use in the early diagnosis of lung cancer and
+warrants validation of findings in other ethnic groups and for
+potentially confounding diseases in clinical studies.
+

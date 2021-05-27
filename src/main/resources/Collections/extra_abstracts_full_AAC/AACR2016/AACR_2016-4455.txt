@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: DNA methylation as biomarkers to predict early recurrence of
+T1-2N0 lung cancer
+
+
+Purpose: Many patients die of recurrent NSCLC. Current clinical and
+molecular tests fail to predict patients at high risk for recurrence. We
+investigated the relationship between gene promoter methylation and
+recurrence of NSCLC and its prediction accuracy.Materials and Methods: We
+prospectively enrolled patients who underwent surgery for T1-2N0 NSCLC.
+We collected primary tumors, regional lymph nodes (RLN) and mediastinal
+lymph nodes (MLN). A total of 112 patients were included; cases (n = 39)
+and controls (n = 73) were defined based on cancer recurrence within 40
+months of surgery. Promoter methylation of eight cancer-related genes
+(CDO1, TAC1, SOX17, p16, CDH13, RASSF1A, APC and MGMT) was obtained by
+using nanoparticle-based DNA extraction followed by qMSP. Logistic
+regression analysis adjusted by age, gender, race, tumor size and pack
+year was used to study the relationship between the gene promoter
+methylation and the risk of recurrence of NSCLC; machine learning
+assessed its prediction accuracy.Results: Cases had significantly higher
+p16 methylation levels than controls in all three tissue types by
+univariate and multivariate analysis after adjusting for confounders
+(age, gender, race, tumor size, smoking history, and other gene
+methylation levels). SOX17 was significantly methylated among cases in
+both RLN and MLN samples, and remained significant in MLN after adjusting
+for confounders. Table 1 shows the prediction accuracy of p16 and SOX17
+using tumor tissue alone and combined with RLN and/or MLN. Prediction
+accuracies were increased after adding biomarkers from lymph
+nodes.Conclusion: Increased methylation status in the promoter region of
+p16 and SOX17 is associated with an increased risk of cancer recurrence
+among patients with T1-2N0 NSCLC treated with curative resection. Adding
+molecular analyses of lymph nodes to primary tumor samples significantly
+increased the diagnostic accuracy of predicting recurrence in these
+patients.
+Prediction accuracy using tumor and combined with RLN and/or MLN.
+

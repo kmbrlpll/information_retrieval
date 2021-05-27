@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Pancreatic cancer and normal pancreas water content and its impact
+in metabolite quantification
+
+
+The absence of early symptoms in pancreatic cancer creates a critical
+need for identifying new noninvasive biomarkers. Magnetic resonance
+spectroscopy (MRS) and spectroscopic imaging (MRSI) are being evaluated
+in the diagnosis of several solid malignancies. A hallmark of most solid
+tumors is the detection of elevated phosphocholine (PC) and total choline
+(tCho). We previously observed elevated levels of tCho in several
+pancreatic cancer cell lines and tumor xenografts (1). Initial single
+voxel studies performed in humans suggest that the tCho signal normalized
+to water may be relatively high in normal pancreas compared to pancreatic
+tumor (2). Since metabolites are normalized to the water signal it is
+important to determine differences in its content for accurate
+quantification. Here, we quantified tCho in orthotopic and subcutaneous
+Panc1 pancreatic xenografts, and in normal pancreas. 1H MRSI acquired on
+a 9.4T spectrometer showed heterogeneous tCho signal in orthotopic
+tumors. To further determine differences in tCho, tumor tissues and
+pancreas were embedded in agarose and imaged ex vivo with 1H MRSI.
+Concentration of tCho was 3.38 0.95 mM in orthotopic tumors, 1.32 0.59 mM
+in subcutaneous tumors, and 1.27 0.52 mM in normal pancreas (n = 2), when
+using the uncorrected water signal for normalization. Despite a much
+higher tCho signal in the subcutaneous tumors, tCho concentrations were
+comparable to the pancreas.We next estimated the water content of the
+tumors and the pancreas as a ratio of wet weight to dry weight (measured
+after 72h of lyophilization) and confirmed a significantly higher water
+content in tumors compared to the pancreas (wet to dry weight ratio of 6
+vs 4). A separate set of tumors were freeze-clamped and used for
+high-resolution 1H MRS. Tumor and pancreas extracts were obtained using a
+dual-phase extraction method and 1H MR spectra were acquired as
+previously described (3). To determine the tCho concentration, peak
+integrations from spectra for choline, PC and glycerophosphocholine were
+compared to an internal standard. Integrals of the metabolites of
+interest were determined and normalized first to the tissue wet weight.
+Once the tCho concentration in tumors and pancreas was corrected for
+differences in water content, a two-fold higher tCho concentration was
+observed in tumor tissue compared to normal pancreas. These data support
+the use of 1H MRSI that provides a tCho map rather than the placement of
+single voxels to address heterogeneities in the pancreas and in
+pancreatic cancers. The results highlight the importance of quantifying
+water content in the calculation of metabolite concentration when
+comparing different tissues.Work supported by NIH P50CA103175. (1) Penet
+et al., Clin Cancer Res (2014). (2) Ma et al., Journal of computer
+assisted tomography (2011). (3) Shah et al., NMR Biomed (2012).
+

@@ -1,0 +1,35 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Target epigenetic regulation at a specific genomic region by using
+DNA binding molecules and HDACi
+
+
+Pyrrole-Imidazole (PI) polyamide molecule was originally designed from
+structures of natural DNA binding molecule, such as Distamicine and
+Diocarbamicine and has been recognized as a synthetic molecule which
+binds the minor groove of Watson-Click base pair of double-stranded DNA
+in a sequence-dependent manner. We hypothesized conjugates between this
+synthetic DNA binding molecule and Histone Deacetylase inhibitor (HDACi)
+of Suberoylanilide hydroxamic acid (SAHA) should regulate histone
+acetylation in a specific region of the genome. We have taken two
+strategies to confirm this hypothesis. One is the candidate gene approach
+and another is chemical library approach. We synthesized a PI polyamide
+targeted the p16INK4a tumor suppressor gene and also synthesized a
+library of sequence-specific PI polyamides conjugated with the potent
+HDAC inhibitor, termed PIP-SAHA and screened their effect on the
+expression of tumor suppressor genes and Yamanaka factors, respectively.
+Chromatin immunoprecipitation analysis revealed SAHA-PIP induce
+acetylation of Histone H4 and H3 in the promoter region of p16, Oct-4 and
+Nanog. SAHA-PIP showed significant induction against c-Myc, Oct-3/4,
+Sox-2, and Klf-4, respectively in MEF but did not show significant
+induction of tumor suppressor p16 transcription. We also confirmed only
+SAHA did not show such histon acetylation and transcription induction,
+which implicated the role of PI polyamide conjugates in the induction of
+histone acetylation in specific genomic regions. Furthermore, a
+significant change in MEF morphology was demonstrated with our hit
+SAHA-PIPs. Those data suggests that a capability of PIP-SAHA regulate
+histone modification in a genomic sequence specific manner and promote
+agents for reprogramming efficiency in order to generate iPSCs, although
+the endogenous tumor suppressor gene expression was not observed,
+probably by means of double lock epigenetic silencing of tumor suppressor
+gene.
+

@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A high level of circulating CXCL10 at initial diagnosis is
+associated with poor prognosis of osteosarcoma patients
+
+
+Background: Osteosarcoma (OS) is the most common malignant bone tumor in
+children and adolescents. Although survival rates have reached 70% over
+the past few decades, the prognosis of patients with metastatic disease
+remains very dismal. Identification of prognostic biomarkers besides
+clinically detectable metastasis will facilitate risk-stratification, and
+identify the most appropriate treatment option to improve their outcomes.
+Our group has previously devised a systems biology approach and
+identified that chemokines pathway are associated with metastasis in OS
+cell line models. Additionally, we reported that the plasma levels of a
+group of CXC chemokines were associated with a poorer patient outcome.
+CXC chemokines has been identified as source of potential therapeutic
+targets such as the CXCL12/CXCR4 and the CXCL10/CXCR3 ligand/receptor
+axes, which have been targeted successfully to inhibit lung metastasis in
+OS mouse models. Therefore, we decided to expand our findings by
+employing a Luminex platform to characterize circulating levels of
+cytokines/chemokines in OS patients, as these represent potential
+prognostic biomarkers and novel therapeutic targets. Materials and
+Methods: In this study, we employed a Luminex platform to analyze 39
+chemokines/cytokines in two cohorts comprised of totally 290 OS patients.
+A regressive partitioning method was used to binarize the variables in
+the training cohort (40 samples) and the cutoff points were examined in
+the validation cohort (250 samples) for significance.Results: Twenty-two
+of the candidate biomarkers were significant with respect to overall
+survival and were tested in the validation cohort (250 samples). After
+Benjamini-Hochberg correction, CXCL10 significantly correlated with
+overall survival (p = 0.047) and remained significant after correcting
+for initial metastasis (CXCL10: p = 0.0037, Metastasis: p = 0.00012),
+indicating that CXCL10 is an independent prognostic factor. Therefore, we
+combined both prognostic factors to stratify the patients. Using this
+approach we identified three risk groups and the 5-year overall survival
+rate for the high-risk (high CXCL10 with initial metastasis),
+intermediate-risk (high CXCL10 with localized disease, or low CXCL10 with
+initial metastasis), and low-risk (low CXCL10 with localized disease)
+groups were 31%, 54%, and 71% respectively. Further, in patients with
+localized disease at diagnosis, which is conventionally considered to be
+low risk, a higher level of CXCL10 predicted a poorer outcome (p =
+0.019).Additionally, we found that the receptor for the CXCL10 ligand,
+CXCR3, is expressed in OS tumors and is potentially targetable. In
+summary, our results suggest that circulating CXCL10 can be used as
+non-invasive biomarker to better prognosticate osteosarcoma patients
+before the treatment initiation and may lead to CXCR3-targeted therapy in
+selected patients in future clinical trials.
+

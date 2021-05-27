@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Allosteric regulation of Abl and Bcr-Abl kinases by enhanced
+SH3:linker interaction
+
+
+Bcr-Abl is the oncogenic protein-tyrosine kinase responsible for the
+pathogenesis of chronic myelogenous leukemia (CML). Clinical management
+of CML has been revolutionized by imatinib, a selective ATP-competitive
+inhibitor of Bcr-Abl kinase activity. Despite the clinical success of
+imatinib in the chronic stage of CML, it is less effective in advanced
+disease due to the emergence of drug resistance often caused by point
+mutations in the Bcr-Abl kinase domain. Recently, we demonstrated that
+introduction of the gatekeeper resistance mutation T315I into a
+recombinant c-Abl core protein enhanced basal kinase activity. Imatinib
+selectivity is achieved in part by binding and stabilizing the unique
+inactive conformation of the Abl kinase domain. This conformation is
+stabilized allosterically by intramolecular binding of the SH3 domain to
+the SH2-kinase linker, which in turn docks against the back of the kinase
+domain. The goal of this project, therefore, was to determine whether
+kinase activation induced by T315I, as well as a mutation in a recently
+described allosteric inhibitor binding site in the kinase domain C-lobe
+(A356N mutant), could be overcome by enhancing the SH3:linker
+interaction. For these experiments, we engineered nine High Affinity
+Linker (HAL) variants of Abl in which SH3:linker interaction was
+tightened through sequential addition of proline residues to the linker.
+Enhanced SH3:linker interaction was confirmed by analysis of SH3 dynamics
+using hydrogen-deuterium exchange mass spectrometry. Using cell based
+assays, we identified Abl-HAL core proteins that remain locked in an
+inactive conformation. To determine the impact of the HAL sequences on
+activating mutations in the kinase domain, the strongest HAL sequence was
+combined with the T315I and A356N mutations. Remarkably, the HAL
+substitution completely reversed Abl core activation by the A356N
+mutation, and partially reversed the effect of T315I. We next introduced
+the HAL sequence into p210 Bcr-Abl coding region (wild-type and T315I),
+and expressed these forms of Bcr-Abl along with matched controls in the
+human myeloid cell line, TF-1. The Bcr-Abl HAL mutants transformed TF-1
+cells to a cytokine-independent phenotype as effectively as wild-type
+Bcr-Abl but were much more sensitive to induction of apoptosis by the
+allosteric inhibitor, GNF-2. Furthermore, TF-1 cells transformed with
+Bcr-Abl-HAL bearing a wild-type kinase domain also showed greater
+sensitivity to imatinib and the related inhibitor nilotinib, suggesting
+that enhanced SH3:linker interaction structures the kinase domain in a
+favorable conformation for drug action. Our results provide new evidence
+that SH3:linker interaction not only has a strong allosteric effect on
+the regulation of the c-Abl kinase core, but also on Bcr-Abl sensitivity
+to both ATP-competitive and allosteric inhibitors as well.
+

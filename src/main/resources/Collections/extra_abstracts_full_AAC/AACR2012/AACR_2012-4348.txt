@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Changes in leukocyte gene expression after computer tomography in
+children
+
+
+Objective: Computer tomography (CT) involves ionizing X-irradiation which
+can lead to DNA damage from free radicals. CT use has risen dramatically
+due to its high speed and diagnostic value but it leads to an estimated
+lifetime cancer risk of up to 4%, with highest risk for children. We
+tested in a pilot project whether expression of genes hypothesized to
+change upon ionizing radiation are altered in the leukocytes of young
+children undergoing CT exams that involved relatively low X-ray doses.
+Methods: 17 children aged 0.25-6 years and scheduled for medically
+indicated CT donated blood immediately before and 1 hour after a CT exam
+(median 340.9 mGy*cm equivalent to 2.3 mSv). Blood was collected into
+PaxGene tubes and RNA was extracted according to the suggested protocol,
+labeled and hybridized onto Affymetrix Gene 1.0 ST Arrays. Preliminary
+expression analysis was done on 24 genes suggested to fluctuate after
+ionizing radiation: GADD45, CDKN1A, ATM, ERP29, TP53, CDKN2A, MUC1, CDH6,
+DDB2, XPC, TNFRSF10B, FHL2, CCNG1, PCNA, CCNB1, MDM2, BAX, MAPK8, ALB,
+PPP1R14A, FLT3LG, HP, RPA2, NFKB1. Significance was determined by paired
+t-tests and stepwise multiple regression using the SAS 9.2 software.
+Results: In post versus pre CT leukocytes paired t-tests revealed that
+the expression of ERP29 decreased (p=0.002) but that the expression of
+the other 23 genes did not change significantly except for possible
+suggestive increases of XPC (p=0.11) and MUC1 (p=0.18) and decreases of
+PCNA (p=0.16) and PPP1R14A (p=0.16) expression. Stepwise multiple
+regression tests for predictors of pre to post changes revealed (i) that
+the CT dose (mGy*cm) was positively associated with PCNA expression
+(p=0.001), (ii) that the effective dose (mSv) was positively associated
+with TP53 (p=0.02) and FLT3LG (p=0.02) expression, and (iii) that the
+radiation history was associated with increased MDM2 (p=0.002) but
+negatively associated with PPP1R14A (p=0.05) and FLT3LG (p=0.03)
+expression. Stepwise multiple regression tests for predictors of baseline
+levels showed that the radiation history was associated with higher
+baseline expression of XPC (p=0.05), MDM2 (p=0.01), and BAX (p=0.001) but
+lower baseline expression of ALB (p=0.04). Conclusions: Few of the
+investigated 24 radiosensitive genes with the exception of ERP29 changed
+expression levels in the leukocytes of the 17 young children studied
+after these subjects received relatively low radiation doses. However,
+radiation dose dependent changes after CT were observed (PCNA, TP53, and
+FLT3LG expression). In addition, radiation history was found to be
+positively associated with baseline expression levels of XPC, MDM2, and
+BAX, but negatively with that of ALB. Genome wide analyses are currently
+under way to explore expression changes of other genes in these 17
+subjects. Larger studies are needed to confirm these preliminary findings.
+

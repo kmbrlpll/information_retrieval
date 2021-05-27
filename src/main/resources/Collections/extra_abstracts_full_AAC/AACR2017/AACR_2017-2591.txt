@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A guide to filtering TARGET Complete Genomics germline variants.
+
+
+With the public release of TARGET’s pediatric cancer data, researchers
+are eager to investigate and integrate variants from both tumor and
+germline sequencing data, but caution should be used when interpreting
+TARGET variant calls from Complete Genomics data, as they unlike the
+Illumina based calls for which most of our databases and tools are
+customized. Here, we use germline samples from 55 neuroblastoma cases
+with both whole genome Complete Genomics variants and whole exome
+Illumina variants from GATK, Pindel, Platypus, and bam2mpg to investigate
+differences between germline variant calls from Complete Genomics and
+Illumina platforms. Our study of ~160,000 single nucleotide polymorphisms
+(SNPS) and ~19,000 insertions or deletions (indels) reveals that while
+SNP sets largely agree between Complete Genomics and Illumina, Complete
+Genomics data have many indels not present in Illumina calls, making it
+difficult to screen Complete Genomics indels against popular Illumina
+based variant databases like those provided by the Exome Aggregation
+Consortium and the National Heart, Lung, and Blood Institute Exome
+Sequencing Project. Further probing of Complete Genomics indels uncovered
+inconsistent indel formatting resulting a loss of recurrent variants, and
+miscalculated read depths in earlier versions of the Complete Genomics
+platform. To solve these issues and make Complete Genomics variant calls
+comparable to Illumina calls, we introduce a Snakemake pipeline that
+reformats Complete Genomics variant files and creates variant features
+for use in decision tree or random forest classifiers trained to
+recognize Complete Genomics variants that will be present in Illumina
+variant call sets. We determine that the most important features for
+locating Complete Genomics variants likely to be found in Illumina
+germline variant call sets are the presence of reads from both
+directions, average variant allele fraction across the cohort, a variant
+call in the matched tumor, the variant fraction of reads, and read depth.
+Using ten fold cross validation with our decision tree, we obtain >95%
+recall and >98% precision for SNPs, and >90% recall and >85% precision
+for indels. We advocate the use of our pipeline and filtering scheme for
+making Complete Genomics variant calls comparable to Illumina based calls.
+
+

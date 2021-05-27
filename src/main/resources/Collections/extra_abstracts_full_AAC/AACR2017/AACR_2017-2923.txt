@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Label-free enrichment and integrated full-length mRNA
+transcriptome analysis of single live circulating tumor cells from breast
+cancer patients.
+
+
+Background Label-free methods for isolating circulating tumor cells
+(CTCs) are attractive because they provide an opportunity to analyze a
+larger set of CTCs that may otherwise be missed due to variable or no
+expression of protein (label) markers. Understanding genetic and
+functional heterogeneity in CTCs allows us to gain insight into the
+mechanisms underscoring metastasis, drug resistance, and tumor
+aggressiveness. Currently, a simple workflow for isolation and molecular
+characterization of single CTCs by mRNA sequencing is lacking. In order
+to address this challenge, we developed a label-free workflow to isolate
+CTCs from breast cancer patients for full-length mRNA sequencing analysis
+by integrating the ClearCell® FX System with the Polaris™ system. The
+ClearCell FX system processes blood samples from cancer patients and
+enriches for CTCs in a label-free antibody-independent manner. The low
+level of nonspecifically isolated white blood cells from ClearCell FX is
+further depleted on the Polaris system by negative enrichment of viable
+CTCs. This unique integration of systems will enable researchers to
+perturb single CTCs in a controlled environment, monitor and measure the
+response due to perturbation, and link these response measurements to
+downstream genomic and transcriptomic analysis.
+
+Method and Results CTCs from 7.5 mL of peripheral blood sample from
+breast cancer patients were enriched using ClearCell FX. To differentiate
+larger blood cells from putative CTCs, we stained the enriched cells with
+Alexa Fluor® 647-conjugated CD45 and CD31 to identify leukocytes and
+endothelial cells, respectively. Calcein AM (live cell marker) and
+CellTracker™ Orange (universal cell marker) were added to identify live
+cells. Single CTCs were selected on Polaris (Fluidigm) system, lysed and
+reverse-transcribed, and cDNA were preamplified on the Polaris integrated
+fluidic circuit (IFC). Sequencing libraries were generated using the
+Nextera® kit and sequenced on Illumina® MiSeq™ and NextSeq™
+systems. We successfully processed blood samples from four patients.
+Sequenced data showed high-quality metrics, with read depth of up to 2.5
+million reads (MiSeq) or 60 million reads (NextSeq), with a low
+percentage of mapped reads to ribosomal RNA and mitochondrial RNA.
+Unsupervised hierarchical clustering of gene expression data showed
+clustering by patient, but considerable heterogeneity was also observed
+among the CTCs from the same patient. We will provide insights into
+full-length mRNA transcriptome of single CTCs from triple negative breast
+cancer patient.
+
+Conclusion We present the feasibility of integrating two microfluidics
+platforms to capture single CTCs for transcriptome and functional study.
+Our data suggests that the heterogeneity of tumor sample and
+characterization of metastatic processes can be elucidated from
+single-cell mRNA sequencing of CTCs.
+
+

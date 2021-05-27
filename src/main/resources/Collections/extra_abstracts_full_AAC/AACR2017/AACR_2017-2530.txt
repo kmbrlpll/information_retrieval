@@ -1,0 +1,66 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Validation and pathway analysis of a metastasis-specific microRNA
+signature in primary colon cancer.
+
+
+Introduction: In lymph node negative (LNN) colon cancer 20% of the
+patients develops disease recurrence. Identification of these patients is
+needed. MicroRNAs (MiRNAs), a group of short non-coding RNAs, can
+function as tumor suppressors or oncogenes. Hur et al recently found 6
+differentially expressed MiRNAs when comparing primary colorectal cancer
+and matched liver metastasis (MiR-320, MiR-221, MiR-30b, MiR-10b,
+MiR-885-5p, Let-7i). The expression of 2 MiRNAs was significantly
+correlated with distant metastasis (low Let-7i expression and high
+MiR-10b) in primary colorectal cancers. When split at the median and
+combined into a signature (Let-7i high and MiR-10b low [n=22] vs. Let-7i
+low and/or MiR-10b high[n=122]), the first group showed 100% metastasis
+free survival (MFS). We assessed the prognostic value of these MiRNAs and
+the signature in a clinically well-defined cohort of primary colon
+cancers.
+
+Methods: Expression of the 6 MiRNAs were measured using RT-qPCR in a
+cohort of 232 colon cancer patients (n=155 untreated LNN and n=77
+adjuvant treated lymph node positive [LNP] patients) selected from the
+MATCH-cohort. Expression levels were related to microsatellite
+instability (MSI), and MFS, hepatic metastasis free (HFS) and overall
+survival (OS).
+
+Results: MiR-221, Mir-30b, Mir-10b and MiR-885-5p levels were
+significantly associated with MSI. In univariate Cox regression analysis,
+MiR-30b was significantly associated with MFS (HR=1.23 p=0.004), and
+MiR-30b and Let-7i were associated with HFS (HR=2.52 p=0.005 and HR=0.40
+pResults: MiR-221, Mir-30b, Mir-10b and MiR-885-5p levels were
+significantly associated with MSI. In univariate Cox regression analysis,
+MiR-30b was significantly associated with MFS (HR=1.23 p=0.004), and
+MiR-30b and Let-7i were associated with HFS (HR=2.52 p=0.005 and HR=0.40
+p<0.001, respectively) in the total group. In the LNN group results were
+similar for MiR-30b (MFS HR=2.07 p=0.008 and HFS HR=2.94 p=0.005) and
+Let-7i (HFS HR=0.28 pResults: MiR-221, Mir-30b, Mir-10b and MiR-885-5p
+levels were significantly associated with MSI. In univariate Cox
+regression analysis, MiR-30b was significantly associated with MFS
+(HR=1.23 p=0.004), and MiR-30b and Let-7i were associated with HFS
+(HR=2.52 p=0.005 and HR=0.40 p<0.001, respectively) in the total group.
+In the LNN group results were similar for MiR-30b (MFS HR=2.07 p=0.008
+and HFS HR=2.94 p=0.005) and Let-7i (HFS HR=0.28 p<0.001), but did not
+reach significance in the LNP group. These associations remained
+significant when correcting for MSI. Pathway analysis for MiR-30b and
+Let-7i with the GSEA hallmark gene sets between the 50 samples with the
+highest and 50 samples with lowest expression revealed a significantly
+higher expression of the TGF-beta pathway in the MiR-30b high group, and
+a significantly higher expression of the EMT pathway in the Let-7i high
+group. MiR-30b and Let-7i expression was split at the median level and
+combined into two groups (‘Let-7i high and MiR-30b low’ vs. ‘Let-7i
+low and/or MiR-30b high’). The ‘Let-7i high and MiR-30b low’ group
+in the total group (n=74) had a significantly better 5-yr HFS (100% vs
+87.4% p=0.002), and had a significantly better 5-yr MFS (91.7% vs 78%
+p=0.036) and HFS (100% vs 87.8% p=0.01) in the LNN group (n=52).
+
+Conclusion: in our cohort and more specifically the LNN group, we
+confirmed Let-7i and identified MiR-30b as a prognostic factor for MFS
+and HFS. We did not confirm the prognostic value of Mir-10b. The
+combination of Let-7i and MiR-30b identified a group with a 100% HFS.
+Pathway analysis showed higher expression of the TGF-beta pathway in the
+MiR-30b high group, and higher expression of the EMT pathway in the
+Let-7i high group.
+
+

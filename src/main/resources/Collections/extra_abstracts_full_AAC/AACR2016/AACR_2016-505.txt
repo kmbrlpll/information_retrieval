@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Optimized 7-Plex cell-free DNA assay for clinically relevant KRAS
+mutations in colorectal cancer
+
+
+Background: KRAS gene mutations are present in approximately 40% of
+colorectal adenocarcinomas and predict for nonresponse to the
+anti-epidermal growth factor receptor antibodies used in routine clinical
+practice. The most common activating mutations in this malignancy occur
+in codons 12 and 13 of exon 2. Determination of KRAS mutational status
+from tumor samples is an essential tool for managing patients with
+colorectal cancer (CRC) but requires tissue obtained by invasive
+percutaneous or surgical biopsies. Recent advances allow for the
+isolation and analysis of cell-free DNA (cfDNA) from the peripheral
+blood. A highly sensitive multiplex technology that uses low amounts of
+input DNA is needed to establish cfDNA as a liquid biopsy to personalize
+care.Methods: Digital droplet PCR (ddPCR) is a particularly sensitive
+method for detecting rare and low copy targets. Related work led to 7
+individual assays, and to companion 4-plex and 3-plex assays, to
+accommodate the 7 common KRAS mutations and internal controls. A single
+7-plex assay is favored to maximize efficiency and minimize cost. We
+optimized the RainDrop Digital PCR System to collectively detect the
+G12/G13 KRAS mutations, given that documentation of a mutation (not the
+specific mutation) is the factor of clinical relevance. Commercially
+available cell lines and genomic DNA aliquots were used as reference
+standards and for determinations of sensitivity and limit of blank (LOB).
+Initial clinical validation samples included tumor DNA derived from FFPE
+tissue (n = 10), cfDNA from healthy donors (n = 10), and cfDNA from
+metastatic CRC patients with tumors of known KRAS mutation status (n =
+4). All assays were run in triplicate to confirm reproducibility.Results:
+Custom Taqman MGB probes were selected for KRAS wild type (WT), G12A,
+G12C, G12D, G12R, G12S, G12V, and G13D to allow for testing in a single
+reaction. LOB was 9 per 110(6) droplets on the basis of WT controls,
+including cfDNA samples from healthy donors. Evaluation of cell line DNA,
+genomic DNA aliquots, and FFPE samples demonstrates that the assay
+detects mutant KRAS with 100% accuracy and 0.1% mutant DNA in a total
+input of 10 ng WT/mutant DNA. With the clinical samples, concordant KRAS
+findings between cfDNA and tissue were obtained for two patients with WT
+tumors and one patient with a KRAS G12S mutant tumor. cfDNA analysis did
+not detect the G12V mutation identified in the colon primary of the other
+patient. Evaluation of additional clinical samples is in
+progress.Conclusions: Our 7-plex G12/G13 KRAS assay has excellent
+accuracy and is able to detect the KRAS mutations of interest at low
+(0.1%) mutation frequencies. Additional studies are being performed on
+prospectively collected plasma samples from patients with metastatic CRC
+of known KRAS mutation status. Large scale correlation between tumor
+mutation status and cfDNA findings will be performed to validate our
+assay for clinical implementation.
+

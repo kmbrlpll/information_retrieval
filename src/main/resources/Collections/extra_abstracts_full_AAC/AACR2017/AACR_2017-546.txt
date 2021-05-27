@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Supporting neoantigen identification for personalized cancer
+vaccines trough analytical validation of an augmented content enhanced
+(ACE) transcriptome.
+
+
+The identification of neoantigens has become a critical step in the
+development of neoantigen-based personalized cancer vaccines and other
+immunotherapy applications. Since neoantigens can be generated from tumor
+specific mutations in any expressed gene, the first step in neoantigen
+identification typically involves deep sequencing of the tumor exome and
+transcriptome combined with exome sequencing of the matched normal. As
+personalized vaccines enter clinical trials, there is a growing need for
+strong analytical validation of these platforms.
+
+To address this, we have developed the ACE Exome (~200X) and
+Transcriptome platforms for neoantigen identification which harness an
+augmented exome approach specifically designed to increase sensitivity
+for neoantigens in low complexity, difficult to sequence regions. To
+enable this platform for neoantigen based personalized cancer vaccines,
+we have performed a validation of both our ACE Exome (tumor and normal)
+and ACE transcriptome platforms for detecting DNA-based SNVs and Indels,
+as well as for RNA based small variant and fusion calls, variant types
+that are especially important for neoantigen identification. In this
+abstract, we describe the ACE Transcriptome validation.
+
+To validate the ACE Transcriptome, we assessed analytical sensitivity
+(AS) and positive predictive accuracy (PPA). AS was calculated from a
+reference set of 894 SNVs and 19 indels across 11 tumor cancer cell lines
+with matched normals. The reference set was constructed based on
+previously observed variants in CCLE, COSMIC or had been validated by
+Sanger sequencing. PPA and limit of detection (LOD) were calculated in a
+series of tumor-normal dilutions representing allele frequencies ranging
+from 10% to 100%. For fusions, we further selected an additional 10 cell
+lines to test the detection of 16 previously characterized fusion events
+including several clinically actionable fusions (ALK and BCR-ABL1).
+
+We report an analytical sensitivity for SNVs of >99%, and a PPA of >96%
+for small variants with >=10% minor allele frequency (MAF). For fusion
+events, we report an analytical sensitivity of >99%, with the detection
+of all 16 fusion events supported by at least 5 reads.
+
+We demonstrate that our ACE Transcriptome assay and RNA cancer pipeline
+is a highly sensitive and robust platform for detecting small variants
+and fusions in the RNA.
+
+

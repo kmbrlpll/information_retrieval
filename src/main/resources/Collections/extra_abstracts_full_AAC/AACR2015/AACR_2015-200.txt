@@ -1,0 +1,39 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Effects of H. pylori infection in regulation of miRNAs-associated
+with DNA mismatch repair
+
+
+It is well known that genetic and epigenetic inactivation of DNA mismatch
+repair (MMR) genes might leads to mutations in cancer-related genes and
+to cancer development. In gastric carcinogenesis, it has been shown that
+the infection by H. pylori, the major causative agent of gastric cancer,
+induces DNA damage and mutation and/or inhibits MMR DNA repair. Recently,
+it has been reported that miRNAs (miRs) have an important role in
+regulating genomic stability and MMR DNA repair. Thus, the aim of this
+work was to identify miRs regulating MMR pathway in H. pylori-associated
+gastric carcinogenesisTo evaluate the effects of H. pylori on miRs
+releated with MMR, AGS gastric carcinoma cell line and the H. pylori
+strains 26695, and P12 were used in co-culture experiments for 4, 8 and
+12 h. As an initial screening, the AGS cells were co-cultured with H.
+pylori strain 26695 and subjected to Cancer PathwayFinder miRNA PCR Array
+(Qiagen) to determine the expression profile of 84 miRs. The expression
+levels of EXO1, MLH1, MSH2, MSH3, MSH6, POLD3, PMS1, and PMS2 were
+assessed by real-time PCR. Computational prediction of putative
+interaction of selected miRs to 3UTR of MMR mRNAs were obtained from
+TargetScan, mirDB and MetaCore. The target validation was evaluated using
+mimics/inhibitors and luciferase gene reporter assays.The results from
+the Cancer PathwayFinder PCR miRNA Array showded that H. pylori infection
+(strain 26695) modulates the expression of 23% (19/84) of the miRs after
+4 and 12 h of infection, of which 89% were up-regulated and 11%
+down-regulated. Our data show that H. pylori infection significantly
+down-regulates the expression of all selected genes. The data generated
+from computational miR target prediction enriched with the gene
+expression fold induction indicated that 4 miRs (miR-150-5p, miR-155-5p,
+miR-3163, and miR-4775) modulated by H. pylori has at least one MMR
+target gene. Regarding the target validation, our results indicated that
+MLH1 and MSH2, are regulated by miR-150-5p. The miR-155-5p is involved in
+down-regulation of MLH1, MSH2, MSH3 and POLD3 expression. MSH3 is
+regulated by both miR-3163 and miR-4775. Briefly, this study shows that
+H. pylori impairs MMR DNA repair pathway thought a modulation of miR
+expression.
+

@@ -1,0 +1,44 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A genomics approach to determining the role of DICER1 in
+tumorigenesis: Interferon responses in the cancer cell
+
+
+DICER1 is required for generation of mature microRNAs (miRNAs) and other
+short noncoding RNAs. Reduced DICER1 levels are associated with adverse
+outcomes in a variety of cancers and multiple lines of evidence suggest
+DICER1 is a tumor suppressor. The effects of reduced DICER1 on mRNA
+transcript abundance in tumor cells remain largely unknown. To determine
+how reduced DICER1 levels contribute to tumor phenotypes we used shRNA to
+stably knock down DICER1 in endometrial cancer cell lines for extended
+periods (up to 25 passages). Reduced DICER1 levels had no effect on cell
+proliferation but were associated with enhanced cell migration and
+increased growth in soft agar. MiRNA profiling for the KLE cancer cell
+line DICER1 knockdowns (two different DICER1 shRNA constructs) revealed
+that miRNA levels were decreased overall. Not surprisingly, many mRNA
+transcripts were upregulated in the DICER1 knockdowns. A striking number
+of interferon stimulated genes (ISGs) showed upregulation. Upregulation
+of six ISG transcripts was validated by qRT-PCR in three independent
+knockdowns of DICER1 in KLE cells. IFN, a key upstream regulator of the
+interferon response, was significantly increased in DICER1 knockdowns
+(KLE and additional endometrial cancer cell lines). IFN protein secreted
+in media of DICER1 knockdown cells activated an interferon response in
+HT29 colon carcinoma cells. The majority of ISGs with increased
+transcript levels lacked miRNA target sequences and as such it seemed
+unlikely that the increase in expression levels was secondary to reduced
+miRNA levels. We tested the hypothesis that defects in miRNA processing
+could trigger an interferon response. We showed that DICER1 knockdowns in
+which miRNA processing is reduced have increased levels of pre-microRNAs
+in the cytoplasm. Pre-microRNAs are double-stranded molecules and long
+enough (60-100 nt) to activate the dsRNA sensors in the cytoplasm, such
+as Mda5/IFIH1, that typically sense viral dsRNA (> 30 nt) and stimulate
+the interferon response. Knockdown of DROSHA, necessary for processing of
+pri-miRNAs to pre-miRNAs, did not result in accumulation of pre-miRNAs
+and did not cause an interferon response. Our findings suggest elevated
+pre-microRNA levels trigger the interferon response to double stranded
+RNA (incompletely processed miRNA and other species). Rescue experiments
+(restoring DICER1 function) are currently underway to shed additional
+light on how reduced double-stranded RNA processing might elicit an
+interferon response. Work is ongoing to determine the relationship
+between the observed interferon response and the migration and soft agar
+phenotypes.
+

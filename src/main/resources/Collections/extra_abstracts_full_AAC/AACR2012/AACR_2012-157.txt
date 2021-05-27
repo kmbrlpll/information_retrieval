@@ -1,0 +1,33 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Optimizing the flow cytometric analysis of cell signaling in
+heterogeneous samples
+
+
+Unlike conventional biochemical methods for cell signaling analysis,
+analyzing protein levels by flow cytometry allows measurements to be made
+at the single-cell level. Multiparameter flow cytometry provides a
+powerful tool for the analysis of protein expression and phosphorylation
+status within complex populations, such as those found in lymphoid
+tissues or blood. However, different intracellular and cell surface
+proteins often require different conditions for optimal detection,
+creating challenges for analyzing multiple protein types in a single
+sample. To facilitate the design of multiparameter staining panels for
+analysis of intracellular and cell surface proteins, we tested over 250
+fluorescently conjugated antibodies in cells fixed and permeabilized
+under various conditions. Multiple fluorescent conjugates of each
+antibody were tested in human PBMCs, human whole blood, mouse spleen,
+and/or mouse bone marrow following fixation with BD Phosflow Lyse/Fix or
+BD Cytofix Fixation Buffer and permeabilization with one of the four BD
+Phosflow Perm buffers. These studies demonstrated that certain
+intracellular epitopes required harsh permeabilization conditions for
+optimal detection, whereas others were detectable under milder
+conditions. Surface marker stains often required optimization,
+particularly under harsh permeabilization conditions. Factors such as
+antibody clone, fluorophore, and concentration had a considerable impact
+on staining resolution, and alternative staining protocols were required
+for optimal staining of some surface markers. To facilitate the
+optimization of fixation, permeabilization, and staining conditions for
+multiparameter flow cytometry, experimental data and protocols from this
+study are available through an interactive database freely accessible at
+www.cytobank.org/facselect.
+

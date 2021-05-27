@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Precision-designed, rapid and low-cost single molecule detection
+of mutations from circulating tumor DNA.
+
+
+Detecting and quantifying mutations from circulating tumor DNA (ctDNA) is
+a new approach for longitudinally monitoring cancer patients throughout
+the course of treatment. However, general limitations to the clinical
+utility of ctDNA include sample concentration, overall assay cost, and
+result turnaround time. We have developed a novel molecular assay that
+utilize single color digital droplet PCR (ddPCR) to both genotype and
+quantify the number of tumor derived DNA molecules in a given sample. Our
+assay routinely detects as few as three mutant DNA molecules per a
+reaction volume, can be tested efficiently for fewer than ten dollars per
+reaction, and generates useable mutation information within four hours.
+Additionally, the assay can be rapidly configured to detect different
+mutations specifically identified in any cancer patient. To demonstrate
+the single molecule sensitivity and specificity for clinically relevant
+hotspot mutations, we have validated the assay using multiple input
+sources including high quality cell line DNA, formalin-fixed paraffin
+embedded tissue (FFPET) DNA, and ctDNA. Our ddPCR assay utilizes a novel
+primer design that is not rely on fluorescent probes. The overall
+simplicity of assay design enables one to detect nearly any coding
+mutation; practically, this means that any cancer or DNA sample can be
+tested efficiently. We have created customized precision mutation assays
+for two individual cancer patients. After extracting ctDNA from 500µL of
+plasma we prepare a controlled mixed wild type and mutant standard curves
+which contain between 150-3 detectable mutant molecules of interest per
+reaction. We then assay the patient ctDNA sample in parallel to the
+controlled standard curve and generate clustering confidence intervals.
+We have designed precision mutation assays targeting KRAS A146V, AKT1
+E17K, and TP53 R175H for Patient A as well as KRAS G12V and PIK3CA H1047R
+for Patient B. The results of our single-color precision mutation
+quantification assays support the original mutation findings from the
+primary tumors. In one case, from 1µL of un-amplified ctDNA equivalent
+to less than 0.5ng of DNA, we identified 4 mutant molecules per ddPCR
+reaction volume. We have verified the presence of hotspot mutations from
+un-amplified patient derived ctDNA and quantified the number of mutant
+molecules present in each ctDNA sample. This assay has many features that
+make it amenable to automation. We are currently developing a massively
+high throughput process to design assays for tens of thousands of
+mutations in a matter of weeks. Overall this is an extremely low cost,
+highly sensitive and scalable diagnostic technology. We anticipate that
+this technology will be a valuable tool for rapidly monitoring ctDNA
+longitudinally in cancer patients.
+
+

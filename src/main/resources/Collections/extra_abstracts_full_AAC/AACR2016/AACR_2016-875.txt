@@ -1,0 +1,31 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Acquisition of chemoresistance in tumor cells requires crosstalk
+between dying and remnant live tumor cells via HMGB1
+
+
+Chemoresistance often develops during drug treatment in cancer patients
+but its mechanism remains unclear. To understand acquisition of drug
+resistance, we investigated whether tumor cells dying during drug
+treatment might signal to neighboring live cells to program themselves
+for survival in the drug-containing environment. The experimental design
+was to identify a factor in the supernatants of docetaxel (DTX)-treated
+human DU145 and PC3 prostate tumor cells that could cause live tumor
+cells to resist apoptosis and cell death under docetaxel. We discovered
+that dying cells release HMGB1 which can bind TLR4 or RAGE on live tumor
+cells causing the induction of cytoplasmic Clusterin (CLU). We
+demonstrated that CLU is a potent prosurvival protein that can trap Bax
+from translocating to the mitochondria to cause caspade 3 activation and
+subsequent apoptosis. Proof of this pathway came from the ability of
+anti-HMGB1to prevent supernatants from dying cells to induce CLU in
+newly-plated tumor cells. The receptors for HMGB1 were identified by use
+of anti-TLR4 and anti-RAGE, which prevented recombinant HMGB1 or dying
+cell supernatants from inducing CLU in newly-plated tumor cells, causing
+them to subsequently succumb to DTX toxicity. Moreover, overexpression of
+anti-sense CLU in tumor cells abrogated their ability to respond to
+recombinant HMGB1 or dying cell supernatants to induce drug resistance.
+Most importantly, standard chemotherapeutic agents including gemcitabine,
+taxol, Ara-C, doxorubicin, cisplatin, etoposide and carboplatin, can
+cause the release of HMGB1 from dying tumor cells, implicating this
+crosstalk between dying and live tumor cells as a common pathway towards
+multi-drug resistance.
+

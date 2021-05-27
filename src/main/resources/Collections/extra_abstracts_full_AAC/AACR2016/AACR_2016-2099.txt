@@ -1,0 +1,77 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Model-riven optimization of anti-angiogenics combined with
+chemotherapy: application to bevacizumab + pemetrexed/cisplatin doublet
+in NSCLC-bearing mice
+
+
+Bevacizumab-containing protocols are all based upon the concomitant
+administration of the drugs given in a row. Bevacizumab is expected to
+induce a transient normalization of the tumor neo-vasculature prior to
+exert its anti-angiogenic properties. The resulting increase in blood
+flow could lead to higher drug delivery to the tumors and therefore to
+higher efficacy, provided that cytotoxics are administered after
+bevacizumab. Determining this time-window cannot be performed by
+empirical practice, but mathematical modeling can help to achieve this
+goal. To this end, we have developed an original mathematical PK/PD model
+that enables the description of the effect of bevacizumab on the quality
+of the vasculature and the resulting effects of drugs sequential
+administration on tumor growth. The model was able to simulate a variety
+of scheduling and suggested that a 5-days lag between bevacizumab and
+cytotoxics should achieve higher antiproliferative efficacy as compared
+with standard administration. To test the predictivity of the model, a
+comparative study was undertaken in tumor-bearing mice. Human H460 NSCLC
+cells stably transfected with luciferase were ectotopically implanted in
+swiss nude mice. Treatment consisted in the combo bevacizumab (20 mg/kg)
+plus pemetrexed (100 mg/kg) and cisplatin (3 mg/kg) given as 3 cycles
+administered every 2 weeks following different scheduling. Mice were
+randomly allocated into 4 groups (n = 12 mice per group): control,
+concomitant (bevacizumab and chemo given the same day), sequence-1 (chemo
+followed by bevacizumab 5 days later) and sequence-2 (bevacizumab
+followed by chemo 5 days later). Tumor growth was monitored twice a week
+by bioluminescence imaging after i.p. injection of 150 mg/kg luciferine.
+As predicted by our mathematical model, results showed that the
+sequential administration of bevacizumab followed 5 days later by the
+pemetrexed/cisplatin doublet led to a better efficacy (-42% reduction in
+tumor growth at treatment completion and -35% at study conclusion,
+pBevacizumab-containing protocols are all based upon the concomitant
+administration of the drugs given in a row. Bevacizumab is expected to
+induce a transient normalization of the tumor neo-vasculature prior to
+exert its anti-angiogenic properties. The resulting increase in blood
+flow could lead to higher drug delivery to the tumors and therefore to
+higher efficacy, provided that cytotoxics are administered after
+bevacizumab. Determining this time-window cannot be performed by
+empirical practice, but mathematical modeling can help to achieve this
+goal. To this end, we have developed an original mathematical PK/PD model
+that enables the description of the effect of bevacizumab on the quality
+of the vasculature and the resulting effects of drugs sequential
+administration on tumor growth. The model was able to simulate a variety
+of scheduling and suggested that a 5-days lag between bevacizumab and
+cytotoxics should achieve higher antiproliferative efficacy as compared
+with standard administration. To test the predictivity of the model, a
+comparative study was undertaken in tumor-bearing mice. Human H460 NSCLC
+cells stably transfected with luciferase were ectotopically implanted in
+swiss nude mice. Treatment consisted in the combo bevacizumab (20 mg/kg)
+plus pemetrexed (100 mg/kg) and cisplatin (3 mg/kg) given as 3 cycles
+administered every 2 weeks following different scheduling. Mice were
+randomly allocated into 4 groups (n = 12 mice per group): control,
+concomitant (bevacizumab and chemo given the same day), sequence-1 (chemo
+followed by bevacizumab 5 days later) and sequence-2 (bevacizumab
+followed by chemo 5 days later). Tumor growth was monitored twice a week
+by bioluminescence imaging after i.p. injection of 150 mg/kg luciferine.
+As predicted by our mathematical model, results showed that the
+sequential administration of bevacizumab followed 5 days later by the
+pemetrexed/cisplatin doublet led to a better efficacy (-42% reduction in
+tumor growth at treatment completion and -35% at study conclusion,
+p<0.05, One-Way Anova) whereas standard dosing or reverse sequence did
+not significantly reduce tumor growth. Additionally, this sequential
+administration of bevacizumab first and cytotoxics next led to a median
+survival of 75 days, whereas other treatment groups could only achieve 52
+days survival and control mice 32 days, respectively. Altogether, our
+experimental data demonstrate that delaying the administration of the
+chemotherapy after that of bevacizumab leads to higher efficacy and
+longer survival as compared with standard dosing. Although preliminary,
+this study suggests that current administration of bevacizumab could be
+an underpowered strategy. Besides, this preclinical study confirms the
+accuracy of our mathematical model to identify the optimal sequencing
+between anti-angiogenics and cytotoxics.
+

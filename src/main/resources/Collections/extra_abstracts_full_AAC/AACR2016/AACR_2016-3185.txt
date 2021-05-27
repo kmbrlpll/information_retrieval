@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Value of next generation sequencing in a diagnostically
+challenging case of hematologic malignancy
+
+
+Background: Traditionally, the diagnosis of hematologic malignancies
+relied on morphological, immunological along with cytogenetic evaluation
+of bone marrow and peripheral blood. However, these methods sometimes
+yield non-diagnosis, diagnostic ambiguity or discordance. The advent of
+next generation sequencing (NGS) can be of help in such settings. Here,
+we describe our experience of using NGS data in guidance to diagnose and
+treat an indeterminate case of hematologic malignancy.Case: A 77-year old
+female presented to the clinic with worsening dyspnea on exertion with
+pancytopenia (white blood cells 1.25109/L hemoglobin 7.6g/dL platelet
+22109/L). Her bone marrow examination showed hypercellular marrow
+morphologically suggesting acute myeloid leukemia (AML) M4 by
+French-American British classification, but blast count of only 6.9%. The
+conventional karyotyping showed 46, XX [20]. Fluorescence in situ panel,
+including PML-RARA, RUNX1T1-RUNX1, CBFB, KMT2A, MECOM, were all negative,
+and so were the results of HemaVision. Direct sequencing and PCR for
+FLT-3 ITD and TLD and KIT sequencing for exon 9, 11, 13, 17 results were
+all negative. In order to reconcile the discrepancies between
+morphological and cytogenetic diagnosis, NGS was performed.Method: The
+DNA from bone marrow collected at the time of diagnosis was analyzed
+using whole exome sequencing (WES). Saliva DNA collected at the time of
+remission was used matched normal sample. Somatic mutations were
+determined by MuTect. For structure variation analysis, insertion size
+was calculated by CollectInsertSizeMetrics module of Picard package and
+Pindel to call SVs. Gene to gene network analysis was done using STRING
+database.Discussion: We identified 13 somatically mutated non-synonymous
+small nucleotide variants with WES. These included NBPF1/8/9, PBRM1,
+DDX60L, VPS52, TIMM23B, KIF26A, MYO1E, KRTAP9-8, CRELD2, FOXO4 and TNMD.
+Through gene to gene networking, we recognized FOXO gene in relation to
+AKT pathway and JUN signaling. Since FOXO4 amplification appears in 0.5%
+of AML cases and AKT/FOXO and JNK/c-JUN plays a pivotal role in myeloid
+leukemia, we recognized this as possible driver mutation. Moreover,
+fragment analysis with direct sequencing recognized NPM1 gene exon12
+c.860_863dupTCTG. NGS data revealed NPM1 1 copy repeat (2 bp insertion).
+Based on the NGS data, the patient received low dose cytarabine
+(20mg/m2/day for 14 days), as in elderly AML patients. She responded
+surprisingly well, and after 3 cycles of chemotherapy, her hemogram was
+almost normalized (WBC 3.02109/L Hb 10.4g/dL platelet 180109/L). She is
+currently being followed up without any further interventions.Conclusion:
+Our data highlights the importance of molecular diagnosis based on NGS
+when confronted with diagnostic challenges in hematology. Efforts to
+effectively incorporate NGS data in real-world clinical settings should
+be encouraged to realize the goals of tailored medicine.
+

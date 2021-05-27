@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Evaluation of lung cancer risk prediction models for selecting
+smokers for CT lung cancer screening.
+
+
+Background: The US Preventive Services Task Force (USPSTF) recommends
+computed-tomography (CT) lung-cancer screening for ever-smokers ages
+55-80 years who smoked at least 30 pack-years with no more than 15 years
+since quitting. 8.9 million U.S. ever-smokers are eligible for screening
+under USPSTF criteria. Instead, selecting ever-smokers for screening
+using individualized lung-cancer risk calculations may be more effective
+and efficient than current recommendations. We examined the performance
+of 8 risk models for estimating risk in 2 U.S. cohorts and compared the
+U.S. populations selected for screening by the models.
+
+Methods: We examined 8 models: Lung Cancer Death Risk Assessment Tool and
+Lung Cancer Risk Assessment Tool (Katki et. al., JAMA 2016), PLCOM2012
+(Tammemagi et al, N Engl J Med 2013), Bach (Bach et. al., JNCI 2003), LLP
+(Cassidy et al, Br J Cancer, 2008), LLPi (Marcus et al, Cancer Prev Res
+2015), Hoggart (Hoggart et al, Cancer Prev Res 2012), and Spitz (Spitz et
+al, JNCI 2007). We examined the predictive ability of each model among
+(1) 337,388 ever-smokers in the NIH-AARP Diet and Health Study
+(NIH-AARP), and (2) 72,338 ever-smokers in the American Cancer Society
+Cancer Prevention Study II (CPSII) Nutrition Survey Cohort. For each
+model we estimated the calibration (number of model-predicted cases
+divided by number of observed cases (Estimated/Observed)) and the
+discrimination (Area-Under-Curve (AUC)). Each of the 8 risk models and
+the USPSTF criteria were used to select a population of 8.9 million
+individuals at highest risk of lung cancer from among U.S. ever-smokers
+ages 50-80 (as characterized by data from the 2010-12 National Health
+Interview Surveys).
+
+Results: In both NIH-AARP and CPSII, 4 models were well-calibrated
+(Expected/Observed from 0.92 to 1.12) and had higher AUCs (0.76 to 0.79).
+The other 4 models had worse calibration (Expected/Observed from 1.72 to
+3.69) and worse AUCs (0.62 to 0.75). When the models were used to choose
+the 8.9 million U.S. ever-smokers at highest lung-cancer risk, only ~1.8
+million individuals were chosen by all 8 models. For a screening
+eligibility risk-threshold of 2.0% lung-cancer risk over 5 years, the 8
+models chose populations including 7.6 million to 26 million U.S.
+ever-smokers.
+
+Conclusions: Some risk models were more externally-valid and had superior
+predictiveness than others. Differences in calibration led to risk models
+choosing very different screening population sizes under a fixed
+risk-threshold. The models did not achieve consensus on selected
+populations for screening.
+
+

@@ -1,0 +1,44 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Integrated molecular profiles of primary breast tumors reveal
+differential interleukin signaling and improved prognostic power
+
+
+The accumulation of high throughput molecular profiles of tumors at
+various levels has been a long and costly process worldwide. Combined
+analysis of gene regulation at various levels may point to specific
+biological functions and molecular pathways that are deregulated in
+multiple epithelial cancers and reveal novel subgroups of patients for
+tailored therapy and monitoring. We have collected high throughput data
+at several molecular levels derived from fresh frozen samples from
+primary tumors and matched blood from approximately 110 breast cancer
+patients (the MicMa dataset) with information about presence of
+disseminated tumor cells (DTC) and long term follow-up. The MicMa set has
+been used in parallel pilot studies of whole-genome mRNA expression (1),
+arrayCGH (2), DNA-methylation (3), whole genome SNP-CGH array (4),
+whole-genome miRNA expression analyses (5), TP53 mutation status
+dependent pathways (6) and high throughput paired-end sequencing (7). We
+have explored the extent to which these new profiles, acquired by
+molecular analyses at various levels recapitulate the initially
+discovered expression subclasses and their prognostic potential. Further,
+we attempted to integrate these by modeling mRNA, CNAs, miRNAs, and
+methylation in a pathway context using Paradigm (Pathway Recognition
+Algorithm using Data integration on Genomic Models) (8). We were able to
+show that combining mRNA expression and DNA copy-number leads to better
+discrimination of patients with respect to prognosis than any of the
+molecular levels studied separately. The pathways whose perturbations
+most strongly contributed to this classification were ERBB4, also
+previously found deregulated in breast and ovarian cancers, FoxM1
+transcription, deregulated also in the ovarian and glioblastoma TCGA
+datasets, Angiopoientin receptor Tie2-mediated signaling and most notably
+the immune response (TCR) and interleukin signaling, IL4, IL6, IL12 and
+IL23 signaling. Massive interleukin signaling and similar
+sub-classification was observed also in DCIS (ductal carcinoma in situ)
+together with extracellular matrix and cell-cell adhesion regulating
+pathways. 1. Naume B et al. (2007) Mol. Oncol. 1, 160-171. 2. Russnes HG
+and Vollan HK et al. (2010) Sci. Transl. Med. 2, 38ra47. 3. Ronneberg J A
+et al. (2011) Mol. Oncol. 5, 61-76. 4. Van LP et al. (2010) Proc. Natl.
+Acad. Sci. U. S. A. 107, 16910-16915. 5. Enerly E and Steinfeld I et al.
+(2011) PLoS. One. 6, e16915. 6. Joshi H et al. submitted (2011). 7.
+Stephens P et al. (2009) Nature. 462, 1005-1010. 8. Kristensen V et al
+(2011)PNAS, 2001, Epub ahead
+

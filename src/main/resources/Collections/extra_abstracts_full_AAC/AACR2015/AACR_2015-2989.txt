@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Intra-tumor heterogeneity and clonal changes in the progression of
+DCIS to invasiveness: Combined tumor bulk and single cell analysis
+
+
+INTRODUCTION: Ductal carcinoma in situ (DCIS) is a clonal intraductal
+proliferation of epithelial cells which acts as a non-obligate precursor
+of invasive breast cancer (IBC), yet the genetic events leading to the
+acquisition of invasive behavior remain unclear. We hypothesize that DCIS
+is composed of mosaics of genetically diverse tumor cell clones, and that
+the process of invasion is an evolutionary bottleneck. To test this
+hypothesis we performed a detailed characterization of the repertoire of
+genetic alterations and intra-tumor genetic heterogeneity in
+synchronously diagnosed DCIS and IBC using NextGen sequencing of bulk
+tumor and single cells.METHODS: DNA extracted from fresh frozen,
+microdissected DCIS, IBC and adjacent normal tissue was subjected to
+whole exome sequencing on an Illumina HiSeq2000. Reads were aligned to
+the reference human genome hg19. Single nucleotide variants (SNVs) were
+called by MuTect, and gene copy number alterations were determined using
+VarScan2. Single nuclei were isolated from 100m serial sections
+microdissected to separate DCIS and IBC. Individual nuclei were
+FACS-sorted into a 96-well plate, lysed and whole genome amplified.
+Amplified DNA samples were barcoded, pooled and sequenced on a HiSeq2000.
+Single cell sequencing data were mapped to the reference genome and
+uniquely mapped reads were allocated into bins, normalized, segmented and
+CN values generated.RESULTS: In 6 cases of synchronous DCIS and IBC, a
+median of 41 and 47 non-synonymous mutations were found in each
+component, respectively. The somatic mutations identified in both DCIS
+and adjacent IBC components affected known driver breast cancer genes,
+including AKT1, PIK3CA, GATA3, MAP2K4 and TP53. Interestingly, we also
+found mutations restricted to either DCIS or IBC: ATRX (IBC-3); ALK and
+PKD2 (IBC-5); ESR1 (DCIS-5). The gene copy number profiles of matched
+DCIS and IBC were similar in all 6 pairs, however we also identified gene
+copy number alterations restricted either to DCIS or IBC: 1q gain
+(IBC-5); 3p and 3q losses (DCIS-6); 12p homozygous deletion (DCIS-4).
+Single cell sequencing of two cases (3 and 4) revealed that the majority
+of cells from both DCIS and IBC were derived from a common precursor
+lineage with shared copy number losses and gains. Both sets of DCIS-IBC
+pairs in these cases displayed elements of a subclonal structure with
+dominant clones alongside genetically diverse derivatives as well as
+genetic heterogeneity reflected in variable copy number alterations and
+non-modal clones.CONCLUSION: Synchronous DCIS and IBC share founder
+genetic events, but also harbor somatic genetic alterations restricted to
+either the DCIS or IBC components, demonstrating that although DCIS is a
+precursor of IBC, intra-tumor genetic heterogeneity is present at the
+DCIS stage. Changes in clonal composition likely take place in the
+progression from DCIS to IBC.
+

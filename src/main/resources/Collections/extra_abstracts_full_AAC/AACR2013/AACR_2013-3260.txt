@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Antiproliferative effects of PI3K-mTOR pathway inhibitors alone or
+in combination with MEK inhibitor GSK1120212 in pancreatic cancer cell
+lines are not correlated with molecular effects on ERK and S6
+phosphorylation.
+
+
+Background: Activating K-RAS mutations are frequent (>70%) in pancreatic
+adenocarcinoma (PAC) and drive downstream deregulation of both
+Raf-MEK-ERK and PI3K-mTOR pathways. Moreover, many cross-talks exist
+between these two pathways, so that inhibition of one leads to activation
+of the other. MEK inhibitors (MEKi) are currently under clinical
+evaluation in PAC, in combination with chemotherapy or targeted agents
+including PI3K-mTOR pathway inhibitors. To date, no predictive marker has
+been validated for such combinations in PAC. This study aimed to explore
+the effects of various PI3K-mTOR pathway inhibitors alone or in
+combination with MEKi GSK1120212, in MIAPACA-2 and PANC-1 PAC cell
+lines.Materials and Methods: Everolimus is a mTORC1 inhibitor, AZD8055 a
+dual mTORC1/mTORC2 inhibitor, BEZ235 a dual PI3K/mTOR inhibitor, and
+BKM120 a pan-class PI3K inhibitor. GSK1120212 is an allosteric non-ATP
+competitive MEKi. Effects on proliferation were evaluated by MTT assay.
+Protein expression was assessed by Western blot. Combinations were
+analyzed using the Chou-Talalay method.Results: We had previously shown
+that MIAPaCa-2 and PANC-1 were two mesenchymal K-RAS mutated PAC cell
+lines with different response to GSK1120212, MIAPaCa-2 being the most
+sensitive (72h-IC50=0.009M) and PANC-1 the most resistant (72h-IC50=33M).
+We additionally screened these cell lines for predictive markers of
+response to mTOR pathway inhibitors: no mutation was found in B-RAF, EGFR
+and PI3KCA genes; MIAPaCa-2 exhibited lower p27, PTEN and higher Bcl-2
+levels than PANC-1. PANC-1 exhibited high basal level of Akt associated
+with high level of pAkt and downstream pP70S6K and pS6, suggesting basal
+activation of the pathway. PI3K-mTOR pathway inhibitors exerted
+antiproliferative effects on both cell lines. Unexpectedly, MIAPaCa-2 was
+more sensitive than PANC-1 to everolimus (IC50=23.3M vs 47.0M) and other
+PI3K-mTOR inhibitors (IC50 range=0.385-4.19M vs 6.31-31.6M). Combination
+of GSK1120212 and the PI3K-mTOR inhibitors for 72h resulted in
+synergistic effects in MIAPaCa-2 sensitive cell line but not in PANC-1.
+We further studied cell signaling in PANC-1. MEK inhibition abolished
+pERK expression (-70%) and increased pAkt expression (+60%). mTOR pathway
+inhibition by everolimus or BKM120 (0.1M, 1M) decreased pS6 expression
+(-90% and -80%, respectively) and induced a slight increase in pERK
+(+10%). Combination therapy resulted in extinction of both pERK and pS6
+expression.Conclusion: Response to combined MEK/mTOR pathway inhibition
+was not correlated with usually reported biomarkers of response to MEKi
+or mTOR pathway inhibitors. PANC-1 cell line was resistant despite
+effective inhibition of both pERK and pS6, suggesting that resistance may
+be due to activation of other alternative pathway(s).
+

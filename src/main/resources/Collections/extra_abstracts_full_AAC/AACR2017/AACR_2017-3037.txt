@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Dissecting treatment resistance in patients with ovarian cancer
+and PDX-models using single-cell RNA-sequencing.
+
+
+Background: Ovarian cancer (OvCa) is frequently associated with malignant
+effusions, which are complex ecosystems with heterogeneous populations of
+malignant cells and non-malignant cells. Bulk RNA-seq or whole-exome
+sequencing (WES) only reflect average cellular behavior and thereby mask
+intrinsic cell diversity with potential relevance for treatment
+resistance.
+
+Approach: To overcome some of these barriers, we applied single-cell
+RNA-sequencing (scRNA-seq) to malignant and non-malignant cells isolated
+from patients with platinum treatment resistant disease. Furthermore, we
+used patient-derived xenograft (PDX) cohorts, in which we isolated cells
+for scRNA-seq from vehicle tumors (VEH), treated the other models with
+carboplatin, and harvested cells at the time of minimal residual disease
+(MRD) or disease progression (PROG).
+
+Results: To date, we have profiled ~12000 single cells from 12 patients
+with treatment naïve (n=3) or platinum-resistant disease (n=9),
+including sequential sampling in 3 patients with resistant disease. We
+observed significant inter- and intra-individual transcriptional
+heterogeneity in malignant cells. A recurrent pattern across resistant
+patients was the differential expression of inflammatory pathways in a
+subset of cells. In a patient with three consecutive specimens, we
+observed increasing accumulation of cells expressing a cell state
+characterized by tumor necrosis factor alpha (TNF-a) signaling,
+Importantly, these cells were genetically identical to the entire
+population, supporting the hypothesis that non-encoded mechanisms
+conferred treatment resistance. In a BRCA-mutant patient, unbiased
+analysis identified a stemness program in a subpopulation of cells, which
+was genetically identical to other cells, indicating phenotypic
+conversion. To systemically interrogate mechanisms of resistance to
+platinum therapy, sequenced single cells isolated from PDX models at
+three time points (VEH, MRD and PROG). In a BRCA-WT PDX model, resistant
+cells isolated at MRD and PROG shared a transcriptional program that was
+dominated by expression of a STAT3 program. Ex vivo cultures from
+platinum-resistant patients were exquisitely sensitivity to
+JAK/STAT3-inhibitor. Live cell imaging revealed that STAT3-inhibition
+prevented spheroid formation, attachment and clearance through a
+mesothelial monolayer in vitro.
+
+Conclusion: Our results indicate that non-encoded mechanisms play an
+important role in the development of treatment resistance in ovarian
+cancer. Our initial studies indicate an important role of inflammatory
+pathways in treatment resistance, in particular STAT3 signaling, which
+can be overcome with specific inhibitors at nanomolar concentrations.
+These data suggests that single-cell profiling can be performed on
+clinical ovarian cancer specimens and may yield novel therapeutic avenues
+for patients with treatment-resistant ovarian cancer.
+
+

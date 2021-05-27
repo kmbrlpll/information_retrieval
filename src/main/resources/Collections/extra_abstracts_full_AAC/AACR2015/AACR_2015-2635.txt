@@ -1,0 +1,36 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Targeting HER3 by interfering with its Sec61-mediated
+cotranslational insertion into the endoplasmic reticulum
+
+
+There is increasing evidence implicating HER3 in several types of cancer,
+as a resilient copartner for HER2 in HER2-amplified cancers, and as a
+driver of resistance in many other types of cancer. However, the
+development of targeted therapies to inactivate HER3 function has been a
+challenging endeavor. Its tumor-driving functions are only sometimes
+driven by ligand-activation, and targeting its extracellular domain with
+antibody molecules has only limited effects. Its kinase domain functions
+in allostery, not catalysis, and we have previously shown that the
+classical ATP-analog class of tyrosine kinase inhibitors fail to
+inactivate it. Here we describe a novel approach that eliminates HER3
+expression. This involves interfering with mechanisms critical for its
+cotranslational translocation into the endoplasmic reticulum (ER),
+resulting in the elimination of HER3 protein expression and loss of HER3
+function. The small-molecule cotransin CT8 binds the Sec61 translocon
+channel in the ER membrane and prevents the signal peptide of the nascent
+HER3 protein from initiating its cotranslational translocation into the
+lumen of the ER, resulting in the degradation of HER3. Interestingly, CT8
+treatment prevents HER3 translocation while the other HER proteins are
+unaffected. In addition, CT8 treatment suppresses the compensatory
+induction of HER3 that accompanies lapatinib treatment of HER2-amplified
+cancer cells, making for a durable suppression of HER2-HER3 signaling
+with the lapatinib-CT8 combination. Consistent with the effective
+inactivation of HER2-HER3 signaling, CT8 treatment synergistically
+enhances the apoptotic effects of lapatinib in HER2-overexpressing cancer
+cells. The target selectivities of cotransins are highly dependent on
+their structure and the signal sequence of targeted proteins and can be
+narrowed through structure-function studies. Our results thus highlight
+Sec61-dependent processing as a novel strategy to eliminate HER3
+expression and function with considerable potential for the treatment of
+HER2-amplified and other types of cancers.
+

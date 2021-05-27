@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Model-based alternative clinical trial designs and evaluations for
+SGN-CD19A, a novel antibody-drug conjugate
+
+
+BackgroundSGN-CD19A is a novel antibody-drug conjugate (ADC) composed of
+a humanized anti-CD19 monoclonal antibody conjugated to the
+microtubule-disrupting agent, monomethyl auristatin F (MMAF) via a
+maleimidocaproyl (mc) linker. Upon binding to CD19, SGN-CD19A
+internalizes and releases cys-mcMMAF, which binds to tubulin and induces
+G2/M arrest and apoptosis in the targeted cells. CD19 is a B-cell
+specific marker that is found on B cells as early as the pro-B cell stage
+and is expressed in the majority of patients with B-lineage leukemia and
+non-Hodgkin lymphoma (NHL). The objectives of this evaluation were to
+develop a semi-mechanistic PK-PD model based on the pharmacokinetics (PK)
+and pharmacodynamics (PD) of SGN-CD19A in patients with leukemia or NHL
+and to simulate alternative clinical trial designs using this model for
+the design of future clinical trials.MethodsA semi-mechanistic integrated
+PK-PD model was developed based on the mechanism of action of SGN-CD19A
+and the clinical PK and PD data from the ongoing first-in-human
+dose-escalation study in adult and pediatric patients with relapsed or
+refractory B-cell leukemia or highly aggressive B-cell lymphoma (CT.gov
+NCT01786096). Plasma SGN-CD19A ADC concentration-time profiles were
+described by a two-compartment PK model with both linear and nonlinear
+clearance pathways. The nonlinear clearance was modeled as
+target-mediated disposition through binding to cell membrane CD19 and
+internalization of the complex. Anti-tumor effects in the form of reduced
+bone marrow disease burden were modeled using a cell-kill PK-PD model
+driven by the internalized cys-mcMMAF concentrations. Both PK and PD data
+were fitted simultaneously using NONMEM version 7.1.2. Model simulations
+were conducted for alternative doses and schedules, including loading
+dose regimens, and for patients with different baseline disease
+characteristics.ResultsThe integrated PK-PD model accurately described
+the SGN-CD19A PK and PD profiles in patients with either leukemia or NHL
+at multiple dose levels. Intra-patient adjustments in doses, disease
+status changes over time, and CD19 occupancy on tumor blast cells were
+well described based on goodness-of-fit evaluations. Using CD19 occupancy
+as the target engagement biomarker, multiple dosing schedules were
+evaluated using simulations for patients with different levels of
+baseline disease burden. Simulations suggested that various schedules can
+achieve and maintain target saturation, which may result in comparable
+anti-tumor activity.ConclusionsThe clinical PK, PD, and PK/PD of
+SGN-CD19A are well-characterized by a semi-mechanistic integrated model.
+Multiple dosing schedules were predicted to achieve target saturation.
+

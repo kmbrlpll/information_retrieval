@@ -1,0 +1,46 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Damage-induced BRCA1 phosphorylation contributes to the timing of
+end resection
+
+
+Germline mutations of BRCA1 predispose women to breast and ovarian
+cancers. BRCA1 functions as a tumor suppressor. A wealth of evidence has
+established that BRCA1 plays an important role in DNA repair and cell
+cycle checkpoint control. Efficient repair of double-strand-breaks (DSBs)
+by BRCA1 is essential to its tumor suppression function. DSBs can be
+repaired either by homologous recombination (HR) or by nonhomologous
+end-joining (NHEJ). BRCA1 is hyperphosphorylated upon DSBs. Although
+phosphorylation of BRCA1 is among the earliest events documented upon DNA
+damage, the role of BRCA1 phosphorylation in DNA repair remains unclear
+after more than a decade. It has been proposed that BRCA1 serves as a
+scaffolding protein that recruits multiple repair proteins to the break
+sites. One of the BRCA1-containing complexes, MRN
+(Mre11-Rad50-Nbs1)-BRCA1-CtIP, promotes HR repair by initiating DNA
+end-resection, the first step in the HR pathway. Mre11 possesses
+intrinsic nuclease activity, which likely facilitates initial processing
+of DNA ends for subsequent extensive end-resection. Believed to stimulate
+the nuclease activity of the MRN complex, CtIP is recruited to the
+complex by BRCA1.In spite of these useful molecular models, the precise
+function of BRCA1 in DSB repair, especially the role of its
+phosphorylation, remains elusive. BRCA1 is phosphorylated by Chk2 kinase
+upon -irradiation at serine 988 (human) or serine 971 (mouse). Our data
+shows that a point mutation in mouse BRCA1 (S971A) that abolishes the
+Chk2 phosphorylation site impairs end-resection after DSBs. The S971A
+mutation does not appear to affect the assembly of MRN and CtIP at DSBs,
+but specifically delays dispersion of BRCA1 from DSBs. Interestingly,
+BRCA1 is ubiquitinated and degraded by SCFSkp2, and loss of Chk2
+phosphorylation at S988 of human BRCA1 impairs its ubiquitination.
+Previous work has revealed BRCA1 as a scaffold protein for the assembly
+of HR proteins at DSBs. Paradoxically, BRCA1 also inhibits Mre11 nuclease
+activity. Our study suggests that BRCA1 plays a dual role in HR. Although
+BRCA1 is required for initial assembly of the MRN-BRCA1-CtIP complex at
+DSBs, the exit of BRCA1 from the MRN-BRCA1-CtIP complex is required to
+relieve its inhibitory effect on Mre11 nuclease activity.
+Mechanistically, this critical exit of BRCA1 from the MRN-BRCA1-CtIP
+complex is regulated through phosphorylation catalyzed by Chk2 and then
+degraded by SCFSkp2, which is expressed at S/G2 phases, thus ensuring the
+initiation of end resection/HR to S/G2 phases of the cell cycle. Our
+study explains two seemingly paradoxical observations: BRCA1 is required
+for assembly of the MRN-BRCA1-CtIP complex, but it inhibits Mre11
+nuclease activity required for end-resection.
+

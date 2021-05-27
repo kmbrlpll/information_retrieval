@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Exploration of the human peptidome for cancer-specific peptide-MHC
+targets
+
+
+IntroductionMHC class-I molecules display peptide fragments of
+intracellular proteins on the cell surface. Peptide-MHC (pMHC) complexes
+containing peptide fragments derived from antigenic proteins lead to a
+T-cell mediated immune response. We are interested in cancer-specific
+pMHC complexes that are targetable by therapeutic molecules, e.g.,
+bispecific antibodies. A significant concern is off-target toxicity of
+the therapeutic molecules due to pMHC complexes similar to the target
+complex in essential, normal tissues. Thus we performed a comprehensive
+exploration of the 9-mer human intracellular peptidome to computationally
+identify potential breast cancer-specific pMHC class I targets and
+evaluate the likelihood of cross-reactivity.MethodsOur method has four
+steps: 1. We first identified amino acid sequences of all intracellular
+proteins and 9-mers from a human protein database (UniprotKB). 2. Next,
+we use a computational program to predict binding affinities and
+half-lives of all possible combinations of 9-mers and 13 HLA-A and HLA-B
+alleles encompassing major HLA supertypes; combinations passing affinity
+and half-life criteria are classified as potential complexes. 3. For each
+potential pMHC complex, we identify potential similar complexes; two
+complexes are considered similar if they have the same HLA allele and 5
+or more identical amino acids at identical positions. 4. We classify a
+complex as a potential target if combined mRNA expression of the complex,
+and similar complexes is higher in breast cancer tissues (TCGA data)
+compared to normal essential tissues (GTEx data) in at least 5% of the
+cancer samples.ResultsWe extracted all intracellular protein sequences
+available in the UniprotKB, from which all 9-mer peptides were derived.
+Hundreds of thousands of potential pMHC complexes using binding
+predictions for 13 HLA A and B alleles were identified. For each
+potential MHC binding peptide, similar amino acid sequences were
+identified. Combined mRNA expression analysis resulted in the discovery
+of potential targets, which we further prioritized on the basis of
+likelihood of off-target effects and breast cancer expression levels of
+the peptide's gene(s) of origin. While we identified several thousand
+potential breast cancer specific targets, the number of targets with low
+likelihood of cross-reactivity is incredibly small.ConclusionsWe have
+developed a method to identify potential cancer-specific pMHC complexes
+and to predict potential off-targets of the drugs targeting them, which
+is essential to the development of safe drugs. Using this method, we
+examined the landscape of potential breast cancer specific targets
+derived from the human peptidome. Our examination showed that finding
+targets with low likelihood of cross-reactivity may be extremely
+difficult. Nonetheless, our method could help in prioritizing pMHC
+targets based on the evaluation of the potential cross-reactivity risk.
+

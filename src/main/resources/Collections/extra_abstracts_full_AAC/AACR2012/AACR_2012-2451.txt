@@ -1,0 +1,45 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Development of a high performance liquid chromatography (HPLC)
+method for controlling the radiochemical purity (RCP) of
+99mTc-tetrofosmin used in oncology
+
+
+Background: The 99mTc-tetrofosmin is a radiopharmaceutical used in
+oncology for scintigraphic quantification of the myocardial perfusion.
+The preparation of this drug is based on a complexation reaction of
+technetium 99 metastable (99mTc) with tetrofosmin. The reference method
+for quality control is thin layer chromatography, using TLC SA bands.
+This method is simple but only separates two types of impurities: free
+technetium and hydrolyzed technetium associated to hydrophilic impurities
+like gluconate-99mTc and takes from 30 to 35 minutes. This gluconate
+impurity gives a poor image quality and difficult interpretation issues.
+HPLC is a sensitive and specific method, it thus, has an interest in
+controlling RCP and identifying all impurities. Methods: The reference
+method is a method by planar chromatography TLC SA tape, size 1 cm x 20
+cm. Two marks were scored: 3 cm from the edge to indicate the deposit (10
+L of the preparation) and 15 cm by the end of migration. Mobile phase was
+acetone: dichloromethane (65:35, v/v). The radioactive bands were
+quantified by counting the radioactivity using a radiochromatograph
+miniGITA (Raytest) equipped with a scintillation probe. The
+chromatographic system consisted in a Symmetry Shield column RP18 5m 100
+(Waters) with a gamma detector Gammaram (Lablogic). Empower software
+(Waters) was used for peak integration. The mobile phase, at a rate flow
+of 1.0 mL / min, consisted of a mixture of acetonitrile (Waters) and
+titrisol buffer (Waters) (40:60, v/v). The sample volumes injected were
+no more than 10 to 30 L in order not to exceed 50,000 counts per second
+due to the risk of radioactive detector saturation. Results: The RCP was
+measured simultaneously by HPLC and reference method in 30 preparations.
+For HPLC, mean RCP = 97.21%, = 2.178% [91.6%-99.63%]. For TLC SA, mean
+RCP = 97.99%, = 1.135% [94.31%-99.86%]. The results obtained by both
+methods were compared using the Wilcoxon t test. The RCP obtained either
+by TLC SA or HPLC methods are not significantly different (p-value =
+0,497, higher than in significance = 0.05) Conclusions: A new HPLC method
+was developed for the control of the RCP 99mTc-Tetrofosmin. This method
+is reliable, rapid, sensitive and easy to use when the equipment is
+available. It allows us to improve the detection of cardiotoxic side
+effects due to chemotherapy more quickly than TLC SA method and to
+prevent toxicity by dose adjustment of anticancer drugs. Although the
+HPLC method does not differ from TLC (reference method), HPLC provides
+additional information about the quality of the preparation (percentage
+of gluconate-99mTc).
+

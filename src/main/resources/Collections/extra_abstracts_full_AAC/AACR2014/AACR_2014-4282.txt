@@ -1,0 +1,37 @@
+Meeting: 2014 AACR Annual Meeting
+Title: High content multiparametric functional screen for regulators of
+epithelial-mesenchymal transition identifies genes associated with
+chemoresistance
+
+
+Metastasis accounts for the majority of treatment-refractory cancers and
+poor prognosis of the disease. The phenotypic transition of non-motile
+epithelial tumor cells to migratory and invasive mesenchymal cells
+enables the escape of cancer cells from the primary tumor into the
+circulation. Morphological changes from cobblestone epithelial cells to
+elongated and spindle-shaped cells is a key feature of this process. This
+transition is also marked by upregulation of vimentin, an intermediate
+filament found in mesenchymal cells. We have previously developed a
+bladder cancer model with a step-wise enhancement in the metastatic
+cascade that we have used to interrogate the role of tumor cell
+plasticity in metastasis (1). Given the need to elucidate pathways and
+assign functions to particular genes involved in this process, we
+conducted a high content screening assay across genome wide siRNA, miRNA
+and kinase inhibitor (131 compounds) libraries to systematically identify
+modulators of EMT/MET. We identified candidate gene regulators of EMT in
+TSU-Pr1-B1 bladder cancer cells using the readouts of morphological
+change (cells stained with CMFDA) and a vimentin promoter activity (dsRed
+reporter construct). Following integration of the predicted target genes
+for miRNA hits and kinase inhibitors with siRNA hits, initial validation
+using a siRNA deconvolution strategy was performed for 400 targets. 221
+siRNAs were classified as inducing statistically significant effects on
+cell shape and/or vimentin promoter reporter activity (defined as at
+least 2/4 duplexes inducing the effect for a given target). Gene ontology
+and pathway analyses feature cell cycle and various developmental
+pathways. Furthermore, the validated gene list was associated with
+bladder cancer histology and drug sensitivity in clinical specimens in
+multiple cancer types (Oncomine). Molecules identified in this assay will
+be further analysed using functional assays to determine their role in
+maintaining the epithelial phenotype and as regulators of
+chemoresistance.(1) Chaffer et al. (2005) Clin Exp Metastasis 22: 115-25.
+

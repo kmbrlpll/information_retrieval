@@ -1,0 +1,36 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Pre-clinical investigation of the wee1 inhibitor MK-1775 using
+pharmacodynamic and mechanistic markers in diverse cancer models in vivo
+
+
+Wee1 kinase is a critical regulator of the G2/M checkpoint by initiating
+inhibitory phosphorylation of the conserved tyrosine-15 residue of
+cdk1/cdc2. Wee1 also phosphorylates tyrosine 15 of cdk2 and plays a
+crucial role in maintaining genome integrity during S-phase. MK1775 (NSC
+754352) is a small molecule selective inhibitor of Wee1 kinase that is
+currently under clinical evaluation. We have developed a quantitative
+immunofluorescence assay to measure inhibition of Wee1 by detection of
+pY15 of cyclin-dependent kinases. A full analysis of the pharmacodynamic
+(PD) effects of Wee1 inhibition by MK1775, as well as the downstream
+mechanistic consequences of Wee1 inhibition on DNA repair, apoptosis, and
+premature mitotic entry markers was performed using two xenograft models:
+A673 Ewing sarcoma and U87-MG glioblastoma. Four DNA repair markers
+(pNbs1, H2AX, Rad51, and pATR) were examined as well as the mitotic
+marker pHistone H3. Advanced quantitative image analysis was performed
+using Definiens software to measure changes in PD markers by two
+approaches: total nuclear area measurements and foci per nucleus.
+Definiens software enables enhanced analysis of the markers by
+enumeration of the nuclei in the imaged xenograft tissues over an entire
+data set with high-content capacity. Our data demonstrate greater than
+80% inhibition of pY15-cdk in vivo at the clinically relevant dose of 60
+mg/kg (180 mg/m2) MK1775 in two xenograft models. In addition, H2AX
+induction was observed after multiple doses of MK1775 as a single agent.
+A PD biomarker time course was determined for MK1775 and gemcitabine (NSC
+750927) as single agents to develop a drug administration schedule for
+combination studies in a Ewing sarcoma model. The time point at which the
+DNA damage response peaked following administration of the maximum
+tolerated dose of gemcitabine in the mouse was determined. This study
+elucidates a broad profile of PD marker response, as well as the
+corresponding levels of MK1775 in the xenografts. Funded by NCI Contract
+No. HHSN261200800001E.
+

@@ -1,0 +1,66 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Canine transitional cell carcinoma of the bladder expresses
+activated BRAF, but is not sensitive to vemurafenib
+
+
+Transitional cell carcinoma (TCC) is the most common bladder cancer in
+humans and their canine companions. Canine TCCs are usually papillary
+infiltrative TCCs of intermediate to high grade. Genetic defects
+identified in human TCCs aid in the diagnosis and therapy of human
+bladder cancer. We utilized whole exome sequencing to screen canine TCCs
+for gene mutations that contribute to pathogenesis. Genomic DNA was
+isolated from 11 canine TCCs, 3 matched normal tissue samples, and 2
+canine TCC cell lines. Whole exome capture was conducted using the Canine
+Agilent Sure-select in-solution capture system, and captured fragments
+were sequenced using an Illumina HiSeq2000 platform. The sequences were
+mapped to the CanFam3.1 canine reference genome and somatic mutations
+were identified using Freebayes. Somatic mutations were characterized and
+compared to the Cancer Gene Census (COSMIC). Nonsense, missense, and
+insertion/deletion mutations were identified in 126 genes shown to be
+drivers or repressors in human cancer. Missense mutations were further
+screened using SIFT to identify alterations deleterious to protein
+function. The genes exhibiting in/dels, nonsense, or missense mutations
+with SIFT scores Transitional cell carcinoma (TCC) is the most common
+bladder cancer in humans and their canine companions. Canine TCCs are
+usually papillary infiltrative TCCs of intermediate to high grade.
+Genetic defects identified in human TCCs aid in the diagnosis and therapy
+of human bladder cancer. We utilized whole exome sequencing to screen
+canine TCCs for gene mutations that contribute to pathogenesis. Genomic
+DNA was isolated from 11 canine TCCs, 3 matched normal tissue samples,
+and 2 canine TCC cell lines. Whole exome capture was conducted using the
+Canine Agilent Sure-select in-solution capture system, and captured
+fragments were sequenced using an Illumina HiSeq2000 platform. The
+sequences were mapped to the CanFam3.1 canine reference genome and
+somatic mutations were identified using Freebayes. Somatic mutations were
+characterized and compared to the Cancer Gene Census (COSMIC). Nonsense,
+missense, and insertion/deletion mutations were identified in 126 genes
+shown to be drivers or repressors in human cancer. Missense mutations
+were further screened using SIFT to identify alterations deleterious to
+protein function. The genes exhibiting in/dels, nonsense, or missense
+mutations with SIFT scores < 0.45 in at least 2 sites or 2 samples were:
+BRAF, RPL5, RANBP2, EWSR1, NONO, PTPRB, LYL1, JAK1, MSH2, PER1, PIM1, and
+WRN. In fact, an activating BRAF V to E mutation was identified in 5 of
+the tumors and both cell lines. The RPL5 and RANBP2 mutations were also
+hotspot mutations identified in 5 and 3 of the samples, respectively.
+Mutations were confirmed using Sanger sequencing of amplified genomic
+DNA. Interestingly, deleterious RANBP2 mutations were only observed in
+non-BRAF mutant samples. Drug sensitivity assays using the BRAF V600E
+targeting drug, Vemurafenib, were conducted in the BRAF mutant canine
+cell lines as well as the BRAF mutant human A375 melanoma cell line. As
+previously described, the IC50 for the sensitive A375 line was
+approximately 100 nM, while each of the BRAF mutant canine lines had an
+IC50 value 10 M. Reverse transcriptase PCR was used to amplify the coding
+sequence for BRAF from the Bliley canine TCC cell line. The amplified
+transcript (2125 bp) was sequenced, confirming the heterozygous
+expression of the V548 to E mutant form of BRAF in this cell line. The
+sequence also indicated that the predicted expressed protein (AA 10 - 715
+of XP_013975364.1, corresponding to predicted exons 1 through 20 of
+XM_014119889.1) exhibited 99% homology to human BRAF AA53 - 763
+(NP_004324.2). BRAF protein expression in these cell lines was confirmed
+by Western blot analysis. Thus, insensitivity to Vemurafenib is not due
+to differences in canine BRAF, reduced expression, or alternative
+splicing of the expressed transcript as previously observed in some
+Vemurafenib resistant human melanomas. These data indicate that although
+constitutively active BRAF is expressed in canine TCC, other factors may
+contribute to pathogenesis.
+

@@ -1,0 +1,44 @@
+Meeting: 2014 AACR Annual Meeting
+Title: COSMIC: Enhancing the world's knowledge of somatic mutations in
+human cancer
+
+
+COSMIC, the Catalogue Of Somatic Mutations In Cancer
+(http://cancer.sanger.ac.uk) is the world's largest and most
+comprehensive online resource for exploring the impact of somatic
+mutations in human cancer. Now running for over 10 years, the 67th
+release (Oct 2013) describes 1592109 mutations in 947213 tumour samples
+across 25606 genes. This information is curated manually from the
+scientific literature, and automatically from genome resequencing
+consortium data portals. Full curation of the scientific literature
+provides in-depth understanding of the impact that each gene has in human
+cancer, and this has been achieved for 127 point-mutated cancer genes,
+and 185 fusion gene pairs. Curated genes are selected from the Cancer
+Gene Census (http://cancer.sanger.ac.uk/census), a listing of all genes
+with substantial evidence implicating them in cancer promotion, currently
+numbering 513 and updated frequently.The mutations discovered in the
+re-sequencing of over 8000 tumour genomes are now present in COSMIC
+(viewable in isolation from the genic curations,
+http://cancer.sanger.ac.uk/wgs). In addition, the Sanger has now fully
+exome sequenced 1015 common cancer cell lines, identifying 1146874 coding
+mutations annotated for functional significance, and this is available
+exclusively in COSMIC at (http://cancer.sanger.ac.uk/cell_lines). While
+COSMIC has focused on point mutations and gene fusions, many other
+mutation mechanisms cause oncogenesis and these are now being integrated.
+The 67th COSMIC release includes copy number mutations integrated into
+the database and major web page views. To allow easy graphical
+examination of this data, copy number information was reduced to gain and
+loss annotations for inclusion in histograms and tables, with much more
+precise detail available with a further click. Copy number data is
+available in detail for every gene in COSMIC, and also for every tissue.
+Exploring cancer via COSMICs Cancer Browser
+(http://cancer.sanger.ac.uk/cosmic/browse/tissue), results not just in a
+plot of the most mutated genes, but now also a circular genome plot
+summarizing the copy number gains and losses across all the samples from
+that tumour type, all explorable in more detail via clicks on the
+pictures.As the genomic data increases in COSMIC, it is becoming more
+important to qualitatively annotate the information, indicating which is
+more important or significant to oncogenesis. We are now building systems
+to better highlight known or putative functional mutations, improving the
+signal-to-noise ratio of cancer genome resequencing.
+

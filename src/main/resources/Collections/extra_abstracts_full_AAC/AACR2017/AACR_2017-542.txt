@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genomic and clonal characterization of immunogenic epitope
+landscape across The Cancer Genome Atlas.
+
+
+Recent advances in cancer immunotherapy and genomic sequencing
+technologies have created promising opportunities for precision cancer
+medicine. Somatic mutation in coding regions of cancer genomes may lead
+to amino acid alterations that generate immunogenic peptides, called
+neoantigens. These novel peptides are tumor-specific. An individual’s
+own MHC genotypes restricts the presentation of these tumor-specific
+peptides and thus there are a limited number of candidate epitopes for
+immune cellular recognition. Current studies have not comprehensively
+studied how MHC-restricted neoantigens are present across tens of
+thousands of cancer. Nor have these studies determined how somatic
+mutations and their associated neoantigens are represented among
+different subclonal populations existing within individual tumors. To
+address these limitations, we have mapped the complex immunogenomic
+topology of neoantigen epitopes across 8,000 tumors representing 18
+different cancer types. This neoantigen landscape accounts for how
+neoepitope candidates are distributed among the various clonal
+subpopulations existing within any given tumor.Our study utilized genomic
+data from the Cancer Genome Atlas (TCGA). Our automated pipeline provides
+results from 8,000 samples from 18 cancer types that have somatic variant
+calls, copy number variation, whole exome sequence, and RNA-Seq data.
+Identification of somatic mutations that lead to highly immunogenic
+antigens involved five different steps; i) in-silico translation of
+identified mutations, ii) expression as measured per RNA-Seq, iii)
+patient’s own major histocompatibility complex genotype, iv) binding
+affinity specific to the MHC alleles for any given patient and v)
+occurrence of clonal subpopulations as demonstrated by intratumoral
+genetic heterogeneity. We mapped the neoantigen landscape with
+quantitative representation of the genetic clonal diversity existing
+within individual tumors. In average, 2% of missense mutations from a
+patient are detected in RNA-Seq, with binding affinity to own HLA
+genotypes, and from the dominant clonal subpopulation.In summary, our
+study demonstrates the various relationships among the number of optimal
+antigens, the number of clonal subpopulations, the number of mutations,
+and clinical phenotypes such as tumor stage. Our automated bioinformatics
+process facilitates the use of exome and RNA-Seq as potential diagnostic
+analytic process for precision immunotherapy.
+
+

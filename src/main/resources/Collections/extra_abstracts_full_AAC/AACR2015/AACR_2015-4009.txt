@@ -1,0 +1,38 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Comparative microRNA profiling of prostate carcinomas with
+increasing tumor stage by deep-sequencing
+
+
+Background: MicroRNAs (miRNAs) are short, non-coding RNAs that
+post-transcriptionally regulate gene expression and play an important
+role in tumorigenesis. Previous deep-sequencing identified the microRNA
+profile of prostate carcinoma (PCa) vs. non-malignant prostate tissue. As
+an extension of our recent analyses, we now compared organ-confined
+prostate tumors (pT2), tumors with extra capsular growth (pT3, pN0), and
+lymph node metastasizing (pN1) PCa relative to corresponding
+non-malignant prostate tissue and healthy prostate tissue.Material and
+Methods: We performed comparative miRNA expression profiling using deep
+sequencing of cDNA libraries. Potential target genes of deregulated
+miRNAs were identified by database analysis and subsequently validated in
+vitro using reporter gene constructs. miRNA and mRNA expression was
+determined using quantitative real-time PCR.Results: The miRNA expression
+from the healthy and non-malignant tissue is consistent with our previous
+findings, indicating a high fidelity of the method employed. Some miRNAs
+(miR-375, miR-148a, miR-141 and miR-21) are expressed at increasing
+levels with increasing tumor stage, while other miRNAs (miR-200b/c,
+miR-25, miR-17 or miR-93) are up-regulated only from organ-confined
+tumors (pT2) to tumors with extra-capsular growth (pT3) but then
+expressed at lower levels after the transition to lymph node
+metastasizing tumors (pN0 vs. pN1). The same trend was seen in qRT-PCR
+analysis but due to the limited sample number, no significance was
+reached. Interestingly, miR-375, found to be up-regulated in tumor vs.
+normal tissue, and miR-15a, found induced by sequencing in T2 and T3
+tumors but not in lymph node metastasizing tumors, target the
+phosphatases PHLPP1 and PHLPP2, respectively. PHLPP1 and PHLPP2
+dephosphorylate members of the AKT-family of signal transducers thereby
+inhibiting cell growth. Co-expression of miR-15a and miR-375 resulted in
+down-regulation of PHLPP1/2 and a strongly increased PCa cell
+growth.Conclusion: miRNA profiling of pT2 (pN0), pT3 (pN0), and lymph
+node metastasizing prostate carcinoma (pN1) by deep sequencing revealed
+clearly changed miRNA levels.
+

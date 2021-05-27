@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Comprehensive genome and transcriptome structural analysis of a
+breast cancer cell line using single molecule sequencing
+
+
+Genomic instability is one of the hallmarks of cancer, leading to
+widespread copy number variations, chromosomal fusions, and other
+structural variations in many cancers. The breast cancer cell line
+SK-BR-3 is an important model for HER2+ breast cancers, which are among
+the most aggressive forms of the disease and affect one in five cases.
+Through short read sequencing, copy number arrays, and other
+technologies, the genome of SK-BR-3 is known to be highly rearranged with
+many copy number variations, including an approximately twenty-fold
+amplification of the HER2 oncogene, along with numerous other
+amplifications and deletions. However, these technologies cannot
+precisely characterize the nature and context of the identified genomic
+events and other important mutations may be missed altogether because of
+repeats, multi-mapping reads, and the failure to reliably anchor
+alignments to both sides of a variation.To address these challenges, we
+have sequenced SK-BR-3 using PacBio long read technology. Using the new
+P6-C4 chemistry, we generated more than 70X coverage of the genome with
+average read lengths of 9-13kb (max: 71kb). Using Lumpy for split-read
+alignment analysis, as well as our novel assembly-based algorithms for
+finding complex variants, we have developed a detailed map of structural
+variations in this cell line. Taking advantage of the newly identified
+breakpoints and combining these with copy number assignments, we have
+developed an algorithm to reconstruct the mutational history of this
+cancer genome. From this we have characterized the amplifications of the
+HER2 region, discovering a complex series of nested duplications and
+translocations between chr17 and chr8, two of the most frequent
+translocation partners in primary breast cancers. We have also carried
+out full-length transcriptome sequencing using PacBio's Iso-Seq
+technology, which has revealed a number of previously unrecognized gene
+fusions and isoforms. Combining long-read genome and transcriptome
+sequencing technologies enables an in-depth analysis of how changes in
+the genome affect the transcriptome, including how gene fusions are
+created across multiple chromosomes. This analysis has established the
+most complete cancer reference genome available to date, and is already
+opening the door to applying long-read sequencing to patient samples with
+complex genome structures.
+

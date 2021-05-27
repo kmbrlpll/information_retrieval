@@ -1,0 +1,41 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Integrative genomic and transcriptomic analysis of metaplastic
+carcinomas of the breast
+
+
+Background Metaplastic breast carcinomas (MBCs) are characterised by
+neoplastic cells that display differentiation towards squamous epithelium
+or mesenchymal elements. These tumours are of triple-negative phenotype
+and have an aggressive clinical behaviour. The aims of this study were to
+characterise a series of MBCs at the genomic and transcriptomic level to
+identify potential drivers of this breast cancer special type. Design
+Twenty-five frozen MBCs and two MBC cell lines (HCC1569 and Hs578T) were
+subjected to genotyping (Affymetrix SNP6), 32K BAC microarray comparative
+genomic hybridisation (aCGH), microarray gene expression profiling
+(Illumina HT12) and massively parallel mRNA-sequencing (RNA-seq, Illumina
+GAII). Novel chimaeric transcripts were identified using Chimerascan
+v0.4.3. 10 cases with available germline DNA were subjected to targeted
+exomic sequencing (Illumina HiSeq). Somatic variants were called using
+the Genome Analysis Toolkit (GATK) using best practice guidelines. Fusion
+genes and mutations were validated using (RT)-PCR and Sanger sequencing,
+respectively. Results MBCs displayed a complex pattern of gene copy
+number aberrations, with multiple copy number gains and losses throughout
+the genome. Recurrent amplifications/ high-level gains at 3q25.2-q27.1,
+8p11.21-q24.3 and 12p13.33 and recurrent homozygous deletions on 9p21.3
+(CDKN2A/2B) and 10q23.31 (PTEN) were found. Unsupervised clustering of
+gene expression showed that MBCs associated with chondroid
+differentiation separated into a distinct cluster, whereas MBC's with
+spindle and epithelial morphology did not cluster apart. Integration of
+SNP6 copy number and gene expression data identified 198 genes
+overexpressed when amplified. RNA-seq revealed 1025 unique nominated
+fusion gene events (43-119 per tumour), including 254 fusions predicted
+to be in-frame. These included a promoter swap involving TBXLR1 fused to
+PIK3CA and a recurrent promoter swap involving NF1 that was also seen in
+the MBC cell line Hs578T. Targeted exome sequencing identified 402
+somatic coding variants (12-96 per tumour), including recurrent mutations
+in TP53 (5/10) and genes involved in PI3K signaling. Conclusion Our
+results demonstrate that MBCs have complex genomes and are heterogeneous
+at both the genomic and transcriptomic levels. TP53, CDKN2A/2B and PTEN
+mutations and/ or homozygous deletions, and activation of the PI3K
+pathway are recurrent events in these tumours.
+

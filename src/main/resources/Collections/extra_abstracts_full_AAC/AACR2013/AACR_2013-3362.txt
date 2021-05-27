@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Miniaturized PBPK model improves pharmacodynamic characterization
+and physiological interpretability for compounds with profound hysteresis
+in tumor.
+
+
+Background:Significant hysteresis between plasma concentration and target
+inhibition at the effect site (e.g., tumor) is a frequent observation,
+commonly described mathematically by connecting the central (i.e.,
+plasma) compartment to an effect compartment by a link which causes the
+concentration in the latter to be delayed relative to the plasma. The
+result is a direct response between effect-compartment concentration and
+target inhibition. A significant drawback is that the effect compartment
+cannot be observed (making it impossible to validate) and has no
+physiological interpretation (rendering communication with other
+disciplines difficult). We develop a novel approach that is more
+physiologically meaningful, provides more-precise model parameter
+estimates, and gives insight into the physico-chemical factors limiting
+distribution into the tumor.Method:We orally administered single doses of
+several compounds (including Crizotinib, AZD3463, and others) targeting
+ALK to mice bearing tumors derived from the DEL and H3122 non-small-cell
+lung cancer line, at several dose levels. At 6, 24, and 48 hours
+post-dose, we measured the plasma and tumor concentrations of each
+compound and associated target inhibition (phosphorylated ALK, pALK) in
+the tumor. pALK inhibition shows a direct response not to plasma, but to
+tumor concentration, indicating that the delay is distributional in
+nature. We constructed a miniature physiologically-based pharmacokinetic
+(mPBPK) model consisting of a central compartment and a tumor of fixed
+physiological volume. pALK inhibition was modeled as a direct Emax
+response to tumor concentration. For each compound, we simultaneously
+fitted the mPBPK model to the nave-pooled plasma and tumor
+concentrations, as well as pALK, using all available dose levels. Beyond
+the standard PK and PD parameters (Emax, E0, IC50) we also fitted the
+tumor partition constant Kp, and tumor blood flow rate Qt. For
+comparison, we fitted a standard effect-compartment (link) model to the
+plasma concentrations and pALK levels to the same data.Results:For each
+compound, we computed unbound EC50 for both effect-compartment and mPBPK
+models. We found that while the point estimates largely agree, the mPBPK
+model delivers more-precise estimates (typically 50% lower CV%). We
+attribute this to its use of additional data (tumor concentration) to
+constrain the model, which more than compensates for the additional
+parameters in the mPBPK model. We find that there is broad consistency in
+estimates of tumor flow rate Qt across the compounds studied, indicating
+that distribution from plasma to site of action is limited by blood flow,
+rather than by permeability. Additionally, we found that the greater
+physiological interpretability of the mPBPK model enhances
+cross-functional communication within project teams.
+

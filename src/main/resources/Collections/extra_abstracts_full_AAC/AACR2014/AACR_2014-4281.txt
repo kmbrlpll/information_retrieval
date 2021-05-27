@@ -1,0 +1,31 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Targeted or whole genome sequencing of formalin-fixed tissue
+samples
+
+
+Background: To provide a systematic analysis of formalin fixation
+artifacts on Illumina sequencing libraries and results, we generated two
+complementary sequencing libraries (target enrichment sequencing and
+whole exome sequencing) from 11 pairs of matched formalin-fixed
+paraffin-embedded (FFPE) and fresh-frozen (FF) tumor samples and two
+pairs of matched FFPE and FF germline samples. We also generated whole
+genome sequencing data from a single pair of FF/FFPE tumor
+samples.Results: The results indicate minimal variations in library
+fragment size, coverage, and PCR duplicates within FF/FFPE paired samples
+that are less than 1 year old; whereas, a large variation in these
+parameters were observed in FF/FFPE pairs in samples that are
+approximately 2 years old. No significant increase in global mismatch
+rates and CG>TA substitutions were observed in FFPE samples from the
+former group; whereas, a discernible increase in mismatch rates and CG>TA
+substitutions were observed in FFPE samples from the latter group.
+However, over 99.7% and 99.5% of concordant calls were observed between
+matched FF and FFPE pairs at reference and non-reference positions within
+the targeted regions, respectively. Although an increased rate of global
+mismatches and CG>TA substitutions were observed in some FFPE samples,
+discordant rates were low (TA substitutions are comparable in
+non-reference positions in paired FF and FFPE samples.Conclusions: We
+developed upfront quality assessment and library preparation method that
+use low input DNA from FFPE samples to perform next-generation
+sequencing. The results from our studies indicate the suitability of FFPE
+samples in sequencing studies.
+

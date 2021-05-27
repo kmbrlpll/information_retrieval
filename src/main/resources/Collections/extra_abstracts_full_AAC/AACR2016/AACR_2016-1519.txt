@@ -1,0 +1,33 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Myb-regulated gene networks and signaling pathways in pancreatic
+cancer
+
+
+The MYB proto-oncogene (a cellular progenitor of v-Myb oncogene) encodes
+an oncogenic transcription factor that regulates the expression of a wide
+array of genes responsible for different cellular functions. We have
+recently identified MYB as a key driver of pancreatic cancer (PC)
+pathogenesis. Our findings demonstrated that MYB was overexpressed in
+majority of PC tissues and cell lines, while remained undetectable in
+normal pancreatic cells. In addition, MYB overexpression was shown to be
+associated with pancreatic tumor growth and metastasis. To gain further
+insight into the molecular mechanisms involved in MYB-potentiated effects
+in PC cells, we conducted Next-Generation Sequencing of transcriptome of
+control and MYB-silenced MiaPaCa cells on an Illumina HiSeq 2500
+platform. By keeping a cut-off of fold change > 1.5 and p 0.05, we
+identified a total of 774 genes to be differentially expressed in
+MYB-altered MiaPaCa cells. Out of these, 485 genes were downregulated,
+while 289 genes exhibited upregulated expression. The
+differentially-regulated genes were subsequently analyzed for functions
+and cellular pathways alterations using Ingenuity Pathway Analysis (IPA)
+software. The top three networks to be affected in MYB knockdown PC cells
+included i) RNA post-transcriptional modifications, molecular transport,
+RNA trafficking, ii) cellular assembly and organization, cancer, and,
+iii) cell cycle, DNA replication, recombination and repair. These
+networks are centered on splicing factors, EGFR and NF-B complex,
+respectively. IPA predicted pancreatic adenocarcinoma signaling as one of
+the most significantly affected canonical pathway upon MYB-silencing.
+Altogether, our findings identify novel MYB-regulated gene networks and
+signaling pathways in PC and thus suggest potential molecular mechanisms
+involved in mediating MYB action in pancreatic tumorigenesis.
+

@@ -1,0 +1,41 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Multiplexed chemoproteomic profiling as a tool to decipher the
+intracellular interactions between proteins and small molecules
+
+
+Chemoproteomic profiling is the qualitative and quantitative study of
+small molecule protein interactions using mass spectrometry.
+Chemoproteomics approaches typically involve four steps 1) modification
+of the bait drug molecules with the addition of an affinity tag, e.g.
+biotin, 2) incubation of the bait molecule with cells, cell lysates or
+tissue homogenates, 3) recovery of the bait molecule using the added
+affinity mechanism, e.g. streptavidin and 4) identification of proteins
+interacting with the bait molecule by liquid chromatography and tandem
+mass spectrometry (LC-MS/MS). To obtain value from chemoproteomics
+experiments any identified small molecule protein interactions need to be
+representative of the underlying biology and not artifacts of the
+chemoproteomics process.Chemoproteomic workflows offer a relatively
+simple method to generate a large volume of extremely valuable data about
+the behavior of a molecule, its analogs and its competitors. As such the
+number of samples generated for analysis can be significant. One method
+for maintaining throughput in chemoproteomics workflows is multiplexed
+proteomics with chemical labeling. This approach enables the pooling of
+multiple experimental conditions for analysis in a single LC-MS/MS
+experiment thus helping to reduce potential bottle necks associated with
+instrument capacity.Here we report a multiplexed chemoproteomics workflow
+based on a novel chloroalkane (CA) ligand that minimally affects compound
+potency and cell permeability using a p38 MAPKinase inhibitor. We show
+changes in protein interaction profiles by titrating cells with different
+mixtures of parent inhibitor + modified inhibitor-CA compound at varying
+relative concentrations. These changes in profiles can be monitored using
+cells transfected with NanoLuc fusion proteins of known inhibitor targets
+and show increasing capture correlated with increasing concentrations of
+modified inhibitor CA-compound. Overall interactions profiles can be more
+thoroughly analyzed by chemical labeling and combing this approach with
+8plex iTRAQ labeling techniques. This multiplexing approach allows for
+many titrations points to be studies at once, yielding information about
+the dynamics of interactions between small molecules and their protein
+targets. The ability to study these differences after treatment of live
+cells aids in the understanding of the differing interaction targets of
+many given small molecule inhibitor.
+

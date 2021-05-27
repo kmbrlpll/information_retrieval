@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Employing reduced representation bisulfite sequencing for
+biomarker discovery in colorectal cancer
+
+
+Using reduced representation bisulfite sequencing (RRBS), we have
+identified 3 candidate loci with aberrant methylation in colon cancer
+that in combination have 92% sensitivity for CRC tumor detection with
+100% specificity. Aberrant DNA methylation is an important epigenetic
+event occurring early in the pathogenesis of colorectal cancer (CRC).
+Detection of aberrantly methylated DNA in CRC can be exploited for
+clinical utility as a minimally invasive screening and/or monitoring tool
+by assaying for methylated tumor DNA in either stool or plasma. In this
+study we employed RRBS to identify novel methylated loci in CRC for use
+as early detection markers. We first performed RRBS on a discovery set of
+21 normal colon epithelia samples and 43 CRC tumor samples seeking loci
+unmethylated in normal colon yet methylated in CRC, referred to as UnUp
+loci. We identified 50 such UnUp loci using the following criteria:
+individual CpGs demonstrating less than 5% DNA methylation level in each
+normal sample (with > = 20 read coverage), having > = 20 percentage point
+increased methylation above the normal range in at least 80% CRC tumors
+(with > = 10 read coverage), and encompassing more than one such
+informative CpG within a 200 bp interval. We validated these 50 UnUp loci
+by PCR amplification of each locus followed by next generation bisulfite
+sequencing in an expanded validation cohort consisting of 40 CRC tumors,
+their matched normal colon tissue, plus 8 CRC cell lines and their
+matching parental tumors. The best 12 candidate UnUp biomarkers were then
+identified that had a combination of highest sensitivity for tumor and
+highest specificity for normal colon, based on total CpGs methylated in
+each sequencing read. Individually, these 12 best candidate loci were
+6%-90% sensitive in detecting colon cancers, and 92%-100% specific in not
+detecting normal colon. The 12 best candidate loci were further
+scrutinized for the feasibility of designing an assay for methylation
+detection in body fluids. To this end, we restricted window size to 100
+bp and performed a bioinformatic scan to identify the best small windows
+containing the greatest number of CpGs simultaneously having the lowest
+per-CpG methylation in normal samples, and the highest methylation in
+cancer. A panel of the 3 most robust small windows showed 92% sensitivity
+and 100% specificity of distinguishing colon cancers from normal colon
+tissue. The performance of these small-window loci is being further
+tested in an independent set of 96 CRC tumors with matched normal colon
+tissue. Other ongoing studies include examining expression of neighboring
+genes in these loci as well as testing the performance of our top
+candidates in detecting CRC from patient blood samples.
+

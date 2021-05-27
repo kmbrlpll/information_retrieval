@@ -1,0 +1,37 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Analysis of whole genome and transcriptome sequencing in single
+cell
+
+
+The rapid advancement in Next Generation Sequencing (NGS) technology has
+allowed extensive genetic profiling and analysis of tumor tissues. While
+accurate tumor characterization is crucial for cancer therapy, current
+sequencing methods are unable to resolve the genetic differences between
+the heterogeneous cell populations within tumor. By profiling specific
+subpopulations of cells from a larger heterogeneous population, single
+cell sequencing can improve the efficiency of cancer treatments through
+early detection of rare tumor cells, monitoring of circulating tumor
+cells, and accurate profiling of intra-tumor heterogeneity. In this
+study, we compared commercially available single cell amplification
+methods and sequencing platforms for whole genome and whole transcriptome
+sequencing. We isolated single cells from a human breast cancer cell
+line, MCF7, and human embryonic kidney cell line, HEK293, by
+micromanipulation, and their whole genome and transcriptome were
+sequenced. For whole genome sequencing, the performance of Repli-g
+(Qiagen), Ampli1 (Slicon Biosystems) and WGA4 (Sigma) were assessed for
+whole genome amplification. Next, we used TruSeq DNA Library Kit and Ion
+Plus Fragment Library Kit for library preparation, and whole genome
+sequencing was performed on HiSeq2000 and Proton. The sequencing data
+were analyzed by SAMtools/GATK and tmap-f3. For whole transcriptome
+sequencing, cDNA was synthesized from single cells using SMARTer ultra
+low input RNA kit (Clontech), and the cDNA library was prepared with
+Nextera XT library prep kit (Illumina) and Ion Total RNA-Seq Kit v2 (Life
+Technologies). Sequencing was performed on HiSeq2000 and Proton, and
+analyzed with Tophat and Cufflink. We show that the percentage of
+mappable reads and regions with more than 1X coverage in whole genome
+sequencing were similar to that of the genomic DNA data, but the coverage
+rate of regions with more than 10X was lower in single cell data on both
+NGS platforms. In the RNA-Seq, the gene detection rate in single cell and
+more than 100 cells were about 65% and 85% compare to total RNA,
+respectively.
+

@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Dynamic interconversion of cancer cells: single-cell analysis of
+population-based equilibrium.
+
+
+Background Multiple subpopulations of cells with different phenotypes and
+genotypes coexist within malignant tumours. Different subpopulations seem
+to maintain themselves in an equilibrium position via stochastic
+interconversion. Such plasticity plays an important role in cancer
+progression, such as transition from epithelial states to mesenchymal
+state during metastasis, dedifferentiation of non-CSCs to CSCs and rapid
+transition to MDR cells during drug exposure. We attempt to explore this
+interconversion plasticity at both population and single cell levels to
+better understand the dynamics of phenotypic transition.
+
+Methods: We isolated CD90+ and CD90- cells from A549 lung adenocarcinoma
+cell line by flow cytometry and then characterized their phenotypic
+behaviors and interconversion dynamics at both population and single
+cells level. Single cells were cultured in 96 well plate for 13 days.
+Viable cells were then transferred into 6 well plate for further
+expansion until enough cells were collected for measurement of CD90
+expression in flow cytometry.
+
+Results: A549 maintains a stable expression of CD90 (~50%) which is
+bimodal distributed. The sorted subpopulations eventually achieved a new
+equilibrium (CD90+ à 60% , CD90 - à 30%) and did not converge during
+the bulk cell interconversion. Individual single cell clones showed large
+variation of CD90 expression. The distribution of CD90 expression was
+significantly different between CD90+ and CD90- single cell clones, while
+both groups of clones achieved a similar average equilibrium as compared
+with the bulk cells. We noted two types of clones defined as transition
+clones and committed clones with differential interconversion capacities.
+The later one showed no sign of interconversion and was committed to the
+original CD90+/- expression level. Further experiments showed that the
+committed CD90+ cells were more mesenchymal with higher migration
+ability, while the committed CD90- cells were more epithelial and
+tumorigenic.
+
+Conclusions: Interconversion plasticity varied from cell to cell and the
+committed cells prohibited the return of sorted cell subpopulations
+returned back to the original equilibrium. Phenotypic studies of CD90+
+and CD90- revealed that the interconversion between them was EMT related.
+
+

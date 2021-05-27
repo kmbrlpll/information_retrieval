@@ -1,0 +1,38 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Understanding the dose and schedule dependence of efficacy for the
+Wee1 inhibitor AZD1775 in xenograft and patient derived explant models by
+mathematical modelling.
+
+
+AZD1775 is a highly selective, small-molecule inhibitor of WEE1 being
+developed to treat patients with advanced solid tumors, as monotherapy
+and in combination with olaparib.
+
+Experimental Procedures Patient-derived explant (PDX) and xenografted
+models with a range of sensitivities to AZD1775 were tested for response
+to different doses and schedules of AZD1775. WEE1 inhibition was assessed
+by pCDK1 as a direct substrate of Wee1 and RRM2 as a surrogate of CDK2
+activity. Concentration of AZD1775 in plasma was measured in the same
+animals. Mathematical models were developed to describe the relationship
+between drug exposure, biomarker modulation and resulting tumour growth
+inhibition.
+
+Results The PKPD relationship of both pCDK1 and RRM2 could be described
+by the mathematical model with significant delay between PK and RRM2
+reduction due to this being a protein degradation event. Three factors
+influenced anti-tumour activity in the A427 xenograft and three TNBC PDX
+models, namely the AZD1775 dose, the number of consecutive days of dosing
+and the number of days between AZD1775 doses. The minimally effective
+preclinical dose with anti-tumour activity was 60 mg/kg od. TGI was seen
+to increase with increased days of consecutive AZD1775 dosing from 3 days
+on, such that a 5 days on/9 days off schedule was more efficacious than 3
+days on/4 days off schedule for two weeks. A mathematical model
+successfully described this efficacy by using the predicted dose and
+schedule dependent reduction in pCDK1.
+
+Conclusions The insights from this predictive modelling informed the
+starting dose of 125mg BID AZD1775 on a 5 day on/9 day off schedule; with
+the clinical goal to optimize the days of consecutive AZD1775 dosing as
+well as the maximum tolerated dose.
+
+

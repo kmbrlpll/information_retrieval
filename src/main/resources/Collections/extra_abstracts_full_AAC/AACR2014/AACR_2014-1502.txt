@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A rapid and fully automated multiplex assay for KRAS-BRAF
+mutations with high mutation sensitivity using novel selective
+amplification and detection technologies
+
+
+IntroductionThe MAPK/ERK pathway is a complex signaling cascade involved
+in many cancer types. KRAS and BRAF gene mutations are present in a
+number of cancers, including colon, lung and pancreas, and identification
+of mutations in these genes is of great importance in clinical
+diagnostics. Moreover, there is a growing demand for performing multiple
+tests simultaneously on a single sample and there is an increased need to
+provide these answers to oncologists in a short timeframe.MethodsIdyllaTM
+is a fully integrated and automated molecular diagnostics platform (1)
+that combines speed and ease of use with high sensitivity and high
+multiplexing capabilities. Moreover, it overcomes the current
+time-consuming step of processing formalin-fixed paraffin-embedded tissue
+(FFPE) samples. After insertion of a single FFPE slice into the
+cartridge, the complete process of sample preparation, real-time PCR and
+reporting is fully automated and takes less than 2 hours. We present here
+a KRAS-BRAF mutations prototype assay that allows the sensitive detection
+of 13 KRAS mutations and 5 BRAF mutations in one single assay. The assay
+discriminates the individual mutations at codons 12, 13 and 61 of KRAS
+and codon 600 of BRAF using novel Primer Assisted Sequence Switching
+(PASS) primers along with Multi-component Nucleic Acid enzyme (MNAzyme)
+detection. These technologies confer advantages for multiplex mutation
+analysis; PASS primers selectively amplify the target sequences of
+interest resulting in enhanced specificity between wild type (WT) and
+mutant, and between mutants, and MNAzymes allow for efficient detection
+and discrimination of multiple mutations simultaneously.ResultsSeveral
+performance characteristics of the IdyllaTM KRAS-BRAF prototype assay
+were examined: specificity, cross-reactivity, sensitivity and performance
+on clinical samples. Specificity of mutant versus WT as well as
+cross-reactivity between individual mutations at each codon was
+evaluated. Results demonstrated excellent specificity and
+cross-reactivity for all individual targets, with delta Cq values of >7
+between mutants and >12 between mutant and WT. Sensitivity was assessed
+using cell lines embedded in FFPE containing defined ratios of mutants
+and dilutions of these in FFPE WT background. The results indicated
+sensitivities of 96 % concordance.ConclusionThe new and fully integrated
+IdyllaTM KRAS-BRAF prototype assay combines extended multiplexing
+capabilities with excellent specificity, high sensitivity, ease of use,
+and short turnaround time for mutation analysis on FFPE samples.(1) For
+research use only
+

@@ -1,0 +1,37 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Tumorigenesis: an investigation by network evolution and
+perturbations of somatic mutations in cancer interactome
+
+
+Cells govern biological actions through highly complex biological
+networks. Perturbations to the complex molecular network due to driver
+mutations may transit cells to new phenotypic states, e.g.,
+tumorigenesis. Identifying how genetic lesions such as somatic mutations
+perturb these networks is a fundamental challenge in cancer biology. The
+recent TCGA studies revealed that a typical tumor contains two to as many
+as eight of driver mutations while the numerous remaining somatic
+mutations are passenger mutations. So far, it remains largely unknown
+what evolutionary forces and how the genetic lesions disrupt cancer
+interactome that leads to tumorigenesis. In this study, we systematically
+investigated the relationship among the network topology, evolutionary
+rates, and evolutionary origins of somatic and germline mutation driven
+disease genes in the large context of the protein-protein interaction
+(PPI) networks by utilizing recently released extensive somatic mutations
+and gene annotation data. We aimed to address two fundamental questions.
+(1) Whether cancer genes display a distinct network topology from
+Mendelian disease genes, and why? (2) From a network biology perspective,
+how the transition occurs from a normal cell to a tumor cell as initiated
+by a few driver genetic mutations? We collected the largest ever cancer
+gene list and five comprehensive networks. We found evolutionary origin
+is the main determinant of the unique network centrality of cancer
+proteins. We further investigated the perturbations of network topology
+by somatic mutations that were identified from 3268 tumors across 12
+cancer types in TCGA. We revealed that the network-attacking perturbation
+of somatic mutations on central hubs of cancer interactome is a main
+feature of tumor emergence and evolution. This finding elucidates the
+high efficiency of the transition during tumorigenesis as initiated by a
+few driver mutations. This work improves our understanding of dynamic
+network-attacking perturbation by somatic mutations during tumorigenesis,
+and, in turn, of the implications for both basic cancer biology and the
+development of personalized antitumor therapy.
+

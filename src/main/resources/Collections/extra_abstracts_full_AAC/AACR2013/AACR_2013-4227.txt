@@ -1,0 +1,38 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Simple identification of specific mutations using allele-specific
+PCR primers and micro capillary electrophoresis (WAVE MCE).
+
+
+Transgenomic, Inc. has developed a size-based analysis for the detection
+of all EGFR Exon 19 deletions (including complex mutation) greater than 6
+base pairs (ACE Kit EGFR Exon 19). Currently there are over 70 known EGFR
+Exon 19 deletions in the region important for response of non-small cell
+lung cancer (NSCLC) to thymidine kinase inhibitors (TKIs). The majority
+of these deletions are rare, but the patients may benefit from TKI
+treatment if the deletion is present. In most current testing paradigms,
+a NSCLC patient with one of these rare mutations would be considered EGFR
+mutation negative and not receive TKI therapy. We have designed an easy,
+size-based PCR assay to detect any of the deletions present in any sample
+after a single PCR reaction. The assay is based on the separation of PCR
+fragments of different sizes using microcapillary electrophyoresis (MCE).
+Transgenomic's WAVE MCE platform can discriminate the deletions from the
+wild-type sequence in EGFR Exon 19, however the exact nature of the
+mutation cannot be determined. If the exact nature of the mutation is
+required, the PCR fragment can be sequenced.To confirm that the platform
+can detect common and rare mutations, plasmids containing various EGFR
+Exon 19 deletions were synthesized, mixed with EGFR wild-type plasmids
+and analyzed on the WAVE MCE platform. The Limit of detection for the
+plasmid mixing experiments is between 0.5 and 1% for all plasmid
+constructs tested. These plasmids include 6, 9, 15, 21, 24, and 25 bp
+deletions . As all samples tested have some wild-type sequence present, 6
+base pair deletions cannot be resolved from the wild-type fragment.
+Several of the deletion constructs contain those not detected by any
+allele-specific kit, however patients with these deletions, as determined
+by Sanger sequence analysis, have benefitted from TKI therapy. In
+addition cell line DNA and DNA isolated from FFPE sections have been
+analyzed for the detection of EGFR Exon 19 deletions and similar limits
+of detection (0.5-1.0%) were seen.This simple, size-based analysis for
+EGFR Exon deletions will result in NSCLC patients with both common and
+rare EGFR Exon 19 deletions being able to receive the treatment option
+best suited for their molecular profile.
+

@@ -1,0 +1,45 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Genomic and proteomic characterization of tamoxifen sensitive and
+resistant MCF7 cells
+
+
+Among the most common and challenging aspect to the management of breast
+cancer is the development of tumor resistance to virtually all therapies.
+Our major research focus is to investigate genes and pathways that
+contribute to this process. We have previously derived a series of
+cultured breast cancer cell lines that were either highly sensitive or
+naturally resistant to tamoxifen to study the factors that lead to drug
+resistance. By comparing tamoxifen sensitive and resistant sub-clones we
+identified 227 genes that responded to tamoxifen in sensitive but not in
+resistant cells. From these, a signature of 67 genes demonstrated that
+women whose tumors matched the resistance pattern had a significantly
+greater likelihood of early relapse while on tamoxifen. Using automated
+high-throughput cell-based assays; we identified 31 kinases that
+repeatedly conferred resistance to tamoxifen when ectopically expressed.
+To further expand our understanding of the development of tamoxifen
+resistance to a genome level, we employed 6 of our tamoxifen-sensitive
+and -resistant sister cell lines. We previously showed that all 6 of
+these cell lines, which were all sub-cloned from the same parent without
+any drug selection, were identical for a set of 24 single nucleotide
+polymorphism (SNPs), confirming that they all derived from the same
+parent MCF7 line. We reasoned that they should be nearly identical
+genetically, thus allowing us to find genetic differences that account
+for the profound difference in drug response. For the genotyping, genomic
+DNA from an early passage of three independent sensitive and three
+resistant sub-clones were analyzed for copy number variation (CNV) and
+SNP by Illumina BeadArray and HiSeq200 next-generation sequencing.
+Preliminary analysis showed segregation between the genomic profiles of
+sensitive and resistant sub-clones in general. Chromosomes that showed
+more variation between sensitive and resistant sub-clones included
+chromosome number 2, 7, 10, 15 and 20. Visual examination of the data
+identified several regions of sub-clone specific chromosomal gain or loss
+across all chromosomes, where overlap regions across both sub-clones and
+regions that are either copy number gain in one cell but loss in the
+other one. Furthermore, by comparative analysis with cDNA microarray
+data, we also found that mRNA expression levels of several genes in these
+chromosomal regions were indeed correlated with their chromosomal status.
+In addition to a gene-level analysis, we are performing quantitative mass
+spectrometry analysis (SILAC) to identify the differences in proteomes of
+sensitive and resistant cells, which may account for molecular mechanisms
+underlying drug resistance.
+

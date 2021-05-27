@@ -1,0 +1,43 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Novel drug discovery approach targeting STAT3 for breast cancer
+therapy using MLSD and drug repositioning
+
+
+Constitutive activation of Signal Transducers and Activators of
+Transcription 3 (STAT3) signaling is frequently detected in human cancer,
+including breast cancer, and has emerged as a viable molecular target for
+breast cancer treatment. Novel therapeutic approaches are needed for
+breast cancer if significant improvements in survival are to occur. To
+date, few STAT3 inhibitors are available for the therapy of breast
+cancer. Conventional high throughput screening and virtual docking drug
+discovery approaches identified many hits, but only a few of them may be
+developed into drugs. To accelerate STAT3 drug development, we used a
+novel drug discovery approach with multiple ligand simultaneous docking
+(MLSD) which we have developed and drug repositioning to search against
+FDA approved drug and experimental drug database in DrugBank. Using this
+new method, we identified the FDA-approved drug celecoxib (a COX-2
+inhibitor) with a novel function to target STAT3 [Predictive STAT3
+binding dissociation constant (Kd)= 8.6 M]. In addition, a novel
+celecoxib analog (8A) was developed exhibiting stronger STAT3 binding
+(Predicted Kd= 0.12 M, 71-fold stronger than celecoxib). Although 8A has
+stronger STAT3 binding, it has weaker COX-2 binding (521-fold weaker than
+celecoxib), suggesting its selectivity on STAT3 versus COX-2. Minimal
+COX-2 inhibition by 8A may reduce cardiovascular and gastrointestinal
+risks associated with COX-2 inhibitors. The ability of 8A to inhibit
+STAT3 was tested through a combination of Western Blot, MTT cell
+viability assay, and Immunofluorescence Standing. 8A inhibited the
+P-STAT3 stimulated by IL-6 but not the induction of STAT1, STAT2, STAT4,
+STAT5, and STAT6 phosphorylation stimulated by IFN-, IFN-, and IL-4. 8A
+also inhibited the induction of STAT3 nuclear localization by IL-6, which
+could prevent STAT3 function as a transcription factor. 8A inhibited
+STAT3 phosphorylation and resulted in the induction apoptosis on breast
+cancer cells as evidenced by caspase-3 cleavage. Further, 8A has a lower
+IC50 than celecoxib and was more potent than celecoxib to inhibit STAT3
+phosphorylation and induce apoptosis in breast cancer cells, which
+confirmed the stronger STAT3 binding energy than celecoxib. In summary,
+our study is the first report using MLSD and drug repositioning to
+develop drug-like STAT3 inhibitors. This novel method has a potential to
+significantly speed up the STAT3 drug development for the therapy of
+breast cancer and possibly other types of human cancer which express
+constitutive STAT3 signaling.
+

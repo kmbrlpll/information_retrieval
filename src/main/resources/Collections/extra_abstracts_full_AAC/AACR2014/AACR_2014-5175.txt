@@ -1,0 +1,24 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Re-analysis of breast invasive carcinoma (BRCA) TCGA copy number
+data improves tumor profiles
+
+
+Using the copy number and SNP- probes available in the TCGA level 1 data,
+reprocessed tumor profiles were more consistent with a control set in
+terms of median number of copy number events, sample ploidy, and
+breakpoint genes than the published level 3 TCGA data. Probe-level data
+were analyzed using Nexus Copy Number SNP-FASST2 (a multi-state HMM
+algorithm that uses both SNP and copy number probes in making state
+assignments), with systematic correction applied to correct for GC
+biases. Additionally we performed manual baseline adjustment to correct
+for sample ploidy based on whole-genome B-alelle frequency data for each
+sample. The median number of copy number events in the TCGA data set was
+reduced from 377 (in the level 3 set) to 193, with a corresponding
+reduction in variance, and in line with our control samples (median CN
+changes of 173 and 142). After manual inspection, more than 15% of the
+TCGA BRCA samples available at level 3 were found to have incorrect
+baseline ploidy assignments. The resultant reanalyzed data set, along
+with associated clinical annotations for each sample, is available
+through Nexus DB repository to the general scientific community and
+should provide greater utility for further research.
+

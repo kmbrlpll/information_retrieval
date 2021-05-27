@@ -1,0 +1,79 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Factors in NSCLC stage and outcome: Integrated genome-wide study
+
+
+Genome wide data has transformed disease diagnostic and prognostic model
+development through the identification of molecular profiles. Enhanced
+molecular insight can be achieved by multiple -omic profile integration.
+Accordingly, we used a novel multistep integrative unsupervised approach,
+the network phenotyping strategy (NPS), for discovery of disease
+diagnostic/prognostic panels in resected NSCLC frozen tumor samples
+(n=81; 29 Stage IA/52 Stage IB). Whole genome gene expression and DNA
+methylation data was generated using Illumina BeadChips. In NPS step 1,
+the most common (>18% of the cohort) hypo- and hyper-methylated genes
+(lowest/highest -score; n=31) were identified. In step 2, a subset of
+these genes was found to reside in networked multiple loci, co-protected
+against genetic variation by extreme (high n=10 or low n=6) incorporation
+energy costs, based on an exome entromic analysis. In step 3, maximal
+spanning tree reduction of a network of all 120 possible expression level
+relationships for these 16 genes, weighted by the correlation
+coefficients quantifying co-regulation, was used to identify the most
+informative sub-network, an 8-partite graph K8. For each partition, cases
+were dichotomized into groups where gene 1 was expressed at least 1.5x
+higher or lower relative to gene 2. In step 4, K8 cycle-decomposition
+revealed only 8 distinct gene expression patterns (C1-C8) representing
+nominally different molecular NSCLC subtypes. Characterization of
+individual tumor expression patterns was computed as the patient's
+difference vector (C) from C1-C8. Stage IA tumor gene expression patterns
+(overexpression of all 16 genes) most closely matched C1 (true positive
+rates 0.8 - 0.93 and false positive rates 0.2 - 0.07, ROC 0.9 in 10-fold
+cross-validation). For stage IB, these 16 gene expression levels were
+lower and heterogeneous. In step 5, we generated OS prediction models.
+The Cs were used in an alternating decision tree algorithm. Two rule sets
+were found, one for the high gene expression Stage IA tumors and the
+second for Stage IB. In a 10-fold cross-validation, the log-rank test for
+equality of survivor functions resulted in optimal OS separation at 1650
+days (pGenome wide data has transformed disease diagnostic and prognostic
+model development through the identification of molecular profiles.
+Enhanced molecular insight can be achieved by multiple -omic profile
+integration. Accordingly, we used a novel multistep integrative
+unsupervised approach, the network phenotyping strategy (NPS), for
+discovery of disease diagnostic/prognostic panels in resected NSCLC
+frozen tumor samples (n=81; 29 Stage IA/52 Stage IB). Whole genome gene
+expression and DNA methylation data was generated using Illumina
+BeadChips. In NPS step 1, the most common (>18% of the cohort) hypo- and
+hyper-methylated genes (lowest/highest -score; n=31) were identified. In
+step 2, a subset of these genes was found to reside in networked multiple
+loci, co-protected against genetic variation by extreme (high n=10 or low
+n=6) incorporation energy costs, based on an exome entromic analysis. In
+step 3, maximal spanning tree reduction of a network of all 120 possible
+expression level relationships for these 16 genes, weighted by the
+correlation coefficients quantifying co-regulation, was used to identify
+the most informative sub-network, an 8-partite graph K8. For each
+partition, cases were dichotomized into groups where gene 1 was expressed
+at least 1.5x higher or lower relative to gene 2. In step 4, K8
+cycle-decomposition revealed only 8 distinct gene expression patterns
+(C1-C8) representing nominally different molecular NSCLC subtypes.
+Characterization of individual tumor expression patterns was computed as
+the patient's difference vector (C) from C1-C8. Stage IA tumor gene
+expression patterns (overexpression of all 16 genes) most closely matched
+C1 (true positive rates 0.8 - 0.93 and false positive rates 0.2 - 0.07,
+ROC 0.9 in 10-fold cross-validation). For stage IB, these 16 gene
+expression levels were lower and heterogeneous. In step 5, we generated
+OS prediction models. The Cs were used in an alternating decision tree
+algorithm. Two rule sets were found, one for the high gene expression
+Stage IA tumors and the second for Stage IB. In a 10-fold
+cross-validation, the log-rank test for equality of survivor functions
+resulted in optimal OS separation at 1650 days (p<0.0005). These results
+demonstrate that: 1) graph theory provides tools for handling complex
+data relationships without loss of analytic power; and 2) networks of
+genome loci co-protected against variant incorporation form a filter
+identifying the function in experimental -omic data. Here, the 16 gene
+panel we identified includes members of 3 common lung tumorigenesis
+pathways and/or were co-regulated by miRNAs independently found to be
+associated with prognosis in our cohort. The integrative NPS facilitated
+the epigenetic identification of a biomarker gene set, stage
+classification by overall expression levels and disease outcome
+prediction by the expression patterns captured by C1-C8. Supported in
+part by NIH 5P50 CA090440, P30 CA047904, UPMC Institutional Funds.
+

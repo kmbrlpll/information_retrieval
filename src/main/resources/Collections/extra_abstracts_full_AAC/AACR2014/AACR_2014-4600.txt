@@ -1,0 +1,53 @@
+Meeting: 2014 AACR Annual Meeting
+Title: P-TEFb is a therapeutic target in human bortezomib-resistant
+multiple myeloma cells
+
+
+Despite proteasome inhibitor (e.g., bortezomib/btz and carfilzomib/cfz)
+success in multiple myeloma (MM), drug resistance remains a key problem.
+MM cells commonly over-express Mcl-1, a protein implicated in survival
+and drug-resistance. Mcl-1 exhibits rapid protein turnover (half-life
+Despite proteasome inhibitor (e.g., bortezomib/btz and carfilzomib/cfz)
+success in multiple myeloma (MM), drug resistance remains a key problem.
+MM cells commonly over-express Mcl-1, a protein implicated in survival
+and drug-resistance. Mcl-1 exhibits rapid protein turnover (half-life <
+1h), suggesting that efficient transcriptional machinery for de novo
+synthesis may be required for its constitutive expression in MM.
+Eukaryotic protein-coding gene transcription is controlled by RNA
+polymerase II (RNAPII), which is regulated by negative (N-TEF) and
+positive elongation factors (P-TEF). P-TEFb, a holoenzyme Cdk9/cyclin T
+complex, activates RNAPII by phosphorylating the S2 site within the
+carboxy-terminal domain (CTD). Here, the role of P-TEFb in Mcl-1
+maintenance was investigated in MM cells. Anti-apoptotic Bcl-2 family
+members profiling revealed high Mcl-1 protein levels in virtually all MM
+lines tested and up-regulation in drug-resistant lines (e.g.,
+btz-resistant PS-R cells). Similar patterns occurred in human MM
+xenograft mouse models and primary CD138+ MM cells. Ectopic Mcl-1
+over-expression strikingly diminished btz lethality, arguing that Mcl-1
+is a critical determinant of btz-resistance. All tested MM cell lines,
+primary MM specimens, and murine xenograft samples displayed constitutive
+P-TEFb activation i.e., high CTD (S2) phosphorylation, which correlated
+with a) up-regulation of P-TEFb subunits i.e., Cdk9 (42 and 55kD
+isoforms) and its partner cyclin T1 (but not T2a/b or K); b) marked 42kD
+T186 phosphorylation, while drug-resistant cells also displayed sharply
+increased 55kD T186 phosphorylation; and c) constitutive P-TEFb complex
+assembly and RNAPII interactions, but little inhibitory association with
+HEXIM which binds to P-TEFb via 7SK snRNP. The function of P-TEFb in
+Mcl-1 regulation was then validated by genetic and pharmacological
+strategies. First, Cdk9 or cyclin T1 shRNA knock-down dramatically
+inhibited CTD S2 phosphorylation and down-regulated Mcl-1. Second,
+pan-Cdk inhibitors e.g., dinaciclib rapidly inhibited P-TEFb and
+down-regulated Mcl-1, leading to apoptosis prior to cell cycle
+perturbations. These events primarily reflected P-TEFb complex
+disassembly, but not levels of P-TEFb subunits or T186 phosphorylation.
+Third, like Mcl-1 knock-down, Cdk9 shRNA or a specific Cdk9 inhibitor
+significantly restored susceptibility of btz-resistant cells to btz or
+cfz, and also sensitized them to the BH3-mimetic ABT-737 which does not
+target Mcl-1. Finally, pan-Cdk inhibitors reduced tumor burden and
+eliminated human CD138+ cells in the bone marrow of murine models bearing
+drug-nave or btz-resistant MM cells. Collectively, these findings
+implicate constitutive activation of P-TEFb in maintenance of high Mcl-1
+levels in MM, and argue that P-TEFb may serve as a rational target to
+overcome btz-resistance. This study was supported by the MD Anderson
+SPORE in Myeloma.
+

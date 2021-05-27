@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Elucidating the role of BHLHE40/DEC1/SHARP2/STRA13 in prostate
+cancer
+
+
+Background: Basic-helix-loop-helix proteins (BHLH) are transcription
+factors that play important roles in critical developmental processes in
+many organisms by repressing the transcription of various target genes.
+Previous studies showed that overexpression of the BHLHE40 (also known as
+DEC1, STRA13 or SHARP2) transcriptional repressor results in growth
+suppression, cell cycle arrest, and cellular senescence indicating that
+BHLHE40 may have important tumor suppressor functions. Studies showed
+that the expression of BHLHE40 is indeed downregulated in some tumors,
+intriguingly however, it is also overexpressed in many such as lung
+cancer, breast cancer. Our overall goal is to elucidate the function of
+BHLHE40 in prostate cancer (CaP) and gain an understanding of how it is
+regulated.Methods: Initial studies were based on qPCR analysis to compare
+the expression levels of BHLHE40 in different cell lines ranging from
+androgen-dependent LNCaP cells to the castration resistant C4, C4-2,
+C4-2b, R1, Rv1, PC3 and PC3 cells that stably express the androgen
+receptor (AR) (PC3-AR). Further analysis were done by treating LNCaP and
+C4-2 cells with 1 nM dihydrotestosterone (DHT) in media containing fetal
+bovine serum (FBS), or charcoal stripped serum (CSS). Western blot
+analysis was done to check the level of BHLHE40 protein in these cell
+lines. Knock-down of AR, or the use of AR inhibitors Enzalutamide and/or
+Bicalutamide were used to further assess the regulation of BHLHE40 by the
+AR.Results: qPCR comparison of BHLHE40 transcript levels in LNCaP versus
+C4, C4-2, R1, Rv1, PC3 cells showed that while LNCaP cells have high
+transcript levels of BHLHE40, the CRPC cells all had very low transcript
+levels of this transcription factor. When comparing LNCaP to PC3 and
+PC3-AR cells, it was interesting to note that PC3-AR cells showed
+significantly higher transcript levels of BHLHE40 than PC3 implying that
+BHLHE40 may be regulated by the AR pathway. Treatment with 1 nM DHT on
+these cells showed that BHLHE40 increases over time following DHT
+treatment. In contrast, inhibition of AR by Enzalutamide (2 M) showed
+reduced BHLHE40 levels, although Bicalutamide (10 M) did not
+significantly altered the expression level of BHLHE40 in LNCaP
+cells.Conclusions: Our results indicate that BHLHE40 is regulated by the
+AR pathway, although whether this is direct or indirect is yet to be
+determined. This observation is significant, since it indicates that the
+AR may be utilizing this transcription factor to suppress the
+transcription of other genes.Future studies will attempt to determine if
+BHLHE40 may have an androgen-responsive-element (ARE) in its promoter and
+via ChIP assay to identify possible binding sites for AR in conjunction
+with luciferase assay to assess androgen-receptor mediated regulation.
+

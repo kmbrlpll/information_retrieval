@@ -1,0 +1,76 @@
+Meeting: 2013 AACR Annual Meeting
+Title: miRNA-related gene variants and prostate cancer aggressiveness and
+recurrence.
+
+
+Introduction: miRNA expression has been correlated with prostate cancer
+aggressive and recurrence. However, the role of miRNA-related gene
+variants in prostate cancer aggressiveness and recurrence has not been
+adequately studied. In this study, we evaluated the association between
+single nucleotide polymorphisms (SNPs) in miRNA-related genes and
+prostate cancer aggressiveness and recurrence.Methods: We conducted a
+two-stage (discovery and replication) analysis of 136 miRNA-related gene
+variants (in 18 genes) in aggressive and non-aggressive prostate cancer
+cases. A discovery dataset of 437 aggressive and 603 non-aggressive cases
+was derived from a historical cohort of prostate cancer cases treated at
+the Moffitt Cancer Center from 1987 to 2003. A replication set of 659
+aggressive and 492 non-aggressive cases was derived from existing
+genome-wide association data from Cancer Genetic Markers of
+Susceptibility (CGEMS). In both datasets, patients with a Gleason score >
+7 or stage > III were considered to have aggressive disease and all other
+patients were categorized as non-aggressive. Associations between SNPs
+and aggressive disease were evaluated using unconditional logistic
+regression to estimate odds ratios (OR) and 95% confidence intervals
+(95%CI). We also evaluated the associations between SNPs and
+recurrence-free survival using Cox regression models to estimate hazard
+ratios (HR) and 95%CI among 245 recurrent and 979 non-recurrent cases. We
+calculated q-values to estimate false discovery rates in the analysis of
+recurrence.Results: For the analysis of aggressiveness, ten SNPs in seven
+genes (EIF2C2 [rs7009635, rs2280833 and rs13276958], FMR1 [rs28282],
+GEMIN4 [rs2291779], LIN28B [rs1149280], PIWIL1 [rs1106042], RAN [rs14035]
+and XPO5 [rs7752811, rs7748977] were significantly associated with
+aggressive prostate cancer in the discovery dataset. Five of the 10
+significant SNPs had data available in the replication dataset, but none
+of them was statistical significant in this dataset. For the analysis of
+recurrence, a total of 13 SNPs in seven genes were associated with
+recurrence-free survival (P-values Introduction: miRNA expression has
+been correlated with prostate cancer aggressive and recurrence. However,
+the role of miRNA-related gene variants in prostate cancer aggressiveness
+and recurrence has not been adequately studied. In this study, we
+evaluated the association between single nucleotide polymorphisms (SNPs)
+in miRNA-related genes and prostate cancer aggressiveness and
+recurrence.Methods: We conducted a two-stage (discovery and replication)
+analysis of 136 miRNA-related gene variants (in 18 genes) in aggressive
+and non-aggressive prostate cancer cases. A discovery dataset of 437
+aggressive and 603 non-aggressive cases was derived from a historical
+cohort of prostate cancer cases treated at the Moffitt Cancer Center from
+1987 to 2003. A replication set of 659 aggressive and 492 non-aggressive
+cases was derived from existing genome-wide association data from Cancer
+Genetic Markers of Susceptibility (CGEMS). In both datasets, patients
+with a Gleason score > 7 or stage > III were considered to have
+aggressive disease and all other patients were categorized as
+non-aggressive. Associations between SNPs and aggressive disease were
+evaluated using unconditional logistic regression to estimate odds ratios
+(OR) and 95% confidence intervals (95%CI). We also evaluated the
+associations between SNPs and recurrence-free survival using Cox
+regression models to estimate hazard ratios (HR) and 95%CI among 245
+recurrent and 979 non-recurrent cases. We calculated q-values to estimate
+false discovery rates in the analysis of recurrence.Results: For the
+analysis of aggressiveness, ten SNPs in seven genes (EIF2C2 [rs7009635,
+rs2280833 and rs13276958], FMR1 [rs28282], GEMIN4 [rs2291779], LIN28B
+[rs1149280], PIWIL1 [rs1106042], RAN [rs14035] and XPO5 [rs7752811,
+rs7748977] were significantly associated with aggressive prostate cancer
+in the discovery dataset. Five of the 10 significant SNPs had data
+available in the replication dataset, but none of them was statistical
+significant in this dataset. For the analysis of recurrence, a total of
+13 SNPs in seven genes were associated with recurrence-free survival
+(P-values < 0.05 and q-values 0.12): one each in DDX20 (rs12745851),
+PRKRA (rs4894020) and Lin28 (rs17163904); two each in EIF2C2 (rs13273553
+and rs2977491) and LIN28B (rs170276 and rs7750532); and three each in
+GEMIN4 (rs7813, rs2291779 and rs910925) and RNASEN (rs673019, rs3805521
+and rs1749275). The most significant association was observed at DDX20
+rs12745851 (HR=1.52, 95%CI=1.20-1.91, p=0.0004, q=0.04).Conclusion:
+Findings from this study suggest that variants in miRNA-related genes may
+influence prostate cancer recurrence, but not aggressiveness. Further
+studies are warranted to confirm these findings.
+

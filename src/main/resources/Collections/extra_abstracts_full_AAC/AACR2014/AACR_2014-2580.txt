@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Construction of immunoglobulin light chain IL2 immunocytokines and
+mouse-specific surrogates for studying the effects of IL2 receptor
+selectivity in mouse tumor models
+
+
+Armed antibodies are an increasingly important approach to cancer therapy
+and include the use of anti-tumor antibodies for the delivery of
+radioactivity (RIT), cytotoxic drugs (ADCs), additional antibody domains
+(bi-specifics) and immune-stimulatory cytokines (immunocytokines, or
+ICs). While these approaches have been in development for more than two
+decades, recent successes have come only after refinements that have
+balanced tumor targeting with minimal systemic toxicity. For ADCs, this
+has come from new linker technology that minimizes cytotoxic drug
+activity until the conjugates have been taken up by target cells.
+Immunocytokines are also intended to act locally, within the tumor
+microenvironment, but their systemic delivery by intravenous injection is
+complicated by their ability to activate circulating immune cells
+expressing the cytokine receptor(s). For IL2 containing ICs, pre-clinical
+mouse tumor models have shown excellent anti-tumor activity while in
+cancer patients, the therapeutic index is lower, due to a greater (10-20
+fold) ability to activate the human intermediate affinity IL2 receptor
+(IL2R). This suggests it would be advantageous to construct IL2 based ICs
+with normal activity on the high affinity IL2R (L2R), but reduced (but
+not absent) ability to trigger IL2R. A new IC platform has been developed
+in which cytokines (or other proteins) are fused to the C terminus of the
+IgG light (L) chain. This greatly restricts the freedom of movement of
+the N-terminal region of the fused protein. For IL2, this restricts
+access to aspartic acid 20 (D20) of IL2, a key site of interaction with
+the chain of the IL2R, and reduces the ability of the IC to trigger IL2R
+activation. For human cells expressing only IL2R, activity is reduced
+10-20 fold, but normal for cells expressing IL2R. This receptor
+selectivity can be increased by shortening the N-terminal region of IL2.
+Interestingly, an IC with a 100 fold reduced activity for IL2R appears to
+have full activity once the IC binds to antigen coated beads, at least
+for human immune cells. Unfortunately, the same molecules have very low
+activity for mouse immune cells expressing only IL2R, making mouse models
+non-predictive. To address this, a set of ICs (mouse model surrogates)
+have been made using a mutant IL2 with increased affinity to IL2R that is
+independent of the sterically-restricted D20 contact site. The L-chain
+fusion protein with a full length IL2 N-terminus is 50-100 times more
+potent than the same IC with native IL2 on human IL2 expressing cells and
+is being tested for activity with mouse splenocytes. Further
+modifications of the length of the IL2 N-terminus will be used to create
+molecules with the receptor specificity matching the ICs intended for
+human clinical trials. Once identified, these molecules will be tested
+for antigen-induced activation of IL2R.
+

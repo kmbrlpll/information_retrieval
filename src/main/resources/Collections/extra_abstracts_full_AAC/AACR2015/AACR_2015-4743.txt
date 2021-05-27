@@ -1,0 +1,35 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A population-based approach to address clinical cancer care: The
+national genomics platform
+
+
+Our understanding of the genetic basis for cancer is advancing at a rapid
+rate due to the application of next generation sequencing (NGS)
+technologies. It is becoming common to sequence tumors and patients in an
+attempt to find actionable mutations that could offer the patient a more
+targeted and effective treatment. However, the genomics of cancer is very
+complex and only a handful of actionable mutations have been
+characterized. Larger-scale studies are needed to understand the
+pathogenic spectrum of cancer variants and deliver reliable clinical
+decision-making support to providers.Several large-scale sequencing
+projects are underway to collect NGS data on tumors (e.g. TCGA, ICGC, and
+TARGET) but a national platform for analysis, interpretation, and
+reporting does not exist. We propose that a consolidated informatics
+platform for the collection of outcomes data with genomics and clinical
+data would accelerate research and provide patients with the opportunity
+for personalized cancer treatment. In addition, with 1,665,540 new cancer
+cases predicted in the US for 2014, a national-scale genomics platform is
+needed, capable of sequencing 3 million genomes per year, storing
+exabytes of data, while supporting over 20,000 oncologists, researchers,
+and analysts.At Lockheed Martin, we deliver highly scalable and reliable
+information systems for a variety of missions and citizen services. Here,
+we will present our vision for a national cancer genomics platform to
+include NGS data collection, cost-efficient storage, scalable and modular
+processing pipelines, and collaborative analytics and data sharing
+capabilities, within a compliant privacy and security framework. In
+conclusion, by leveraging the scale of clinical cancer sequencing and
+capturing these data into a case management system for translational
+research, this platform provides data at-scale needed for finding
+actionable mutations, designing effective treatments and implementing
+prevention strategies, faster.
+

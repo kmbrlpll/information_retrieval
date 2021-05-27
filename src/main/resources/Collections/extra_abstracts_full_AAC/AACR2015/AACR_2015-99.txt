@@ -1,0 +1,33 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identification of G9a inhibitors by AlphaLisa technology and hit
+confirmation using MT-Glo
+
+
+Epigenetic processes control gene expression and play a major role in
+cell proliferation, survival and differentiation. Dysregulation of
+epigenetic mechanisms may lead to alterations in gene expression,
+resulting in cellular transformation and malignant outgrowth. Epigenetic
+enzymes are recognized as promising therapeutic targets for the treatment
+of cancer. Inventiva has several research programs in epigenetics, with
+specific focus on histone lysine methyltransferases (HKMTs). Emerging
+evidence suggests that G9a, a HKMT, able to mono and dimethylate H3K9
+leading to the inactivation of tumor suppressor genes, plays a
+predominant role in lung and ovarian cancers. To identify novel G9a
+inhibitors, we used an AlphaLisa assay, with a histone H3-derived peptide
+and a specific antibody against H3K9me2. The assay, in 384-well format,
+displayed a robust Z-factor (0.84) with a signal to noise ratio around
+800. We screened Inventiva's proprietary compound library using this
+assay. Three hundred thirty-six hits inhibited G9a by more than 60% (Hit
+rate: 0.14%). Despite the advantages offered by AlphaLisa technology,
+such as high S/N ratios and straightforward automation, this technology
+has been reported to generate a high number of false positives. In order
+to confirm the activity of our hits, we used a different technology, the
+methyltransferase Glo (MT-Glo) assay, which measures the reaction product
+SAH by luminescence read-out. Out of the 336 identified compounds, 75
+were confirmed by this orthogonal screening (Hit confirmation rate: 22%).
+Additional compound characterization is ongoing to allow the selection of
+the best hit series for chemical optimization.In conclusion, the
+AlphaLisa assay, coupled with MT-Glo assay allowed the identification and
+confirmation of potent hits against G9a, as chemical starting points for
+our hit-to-lead optimization program.
+

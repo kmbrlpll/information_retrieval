@@ -1,0 +1,32 @@
+Meeting: 2016 AACR Annual Meeting
+Title: ADA3, a cell cycle regulator, regulates chromosome segregation
+
+
+The RNA polymerase II mediated transcription requires the higher degree
+structure of chromatin to be relieved so that general transcription
+machinery can access the DNA. The acetylation of DNA bound histones at
+specific loci is the major epigenetic modification by which opening of
+chromatin is achieved. HATs (Histone Acetyl Transferase) are the enzymes
+that catalyze the acetylation of histones and require association with
+mediator proteins for their function. One such mediator protein is ADA3
+(Alteration/Deficiency in Activation 3), which was initially discovered
+as a component of multi-protein complex that contains either GCN5
+(General Control Non-repressed 5) or PCAF (p300/CBP Associated Factor) as
+HAT and subsequent studies showed that ADA3 associates with another HAT,
+p300. As a HAT interacting protein, ADA3 enhances the acetylation of
+histones as well as non-histone proteins, such as p53.We have recently
+shown that ADA3 is a cell cycle regulatory protein and is important for
+both G1 to S phase transition as well as mitosis. Conditional deletion of
+Ada3 from Ada3FL/FL MEFs (Mouse Embryonic Fibroblasts) causes cell cycle
+arrest and severe mitotic defects. To further explore the mechanism of
+ADA3 mediated mitosis, we performed ChIP-seq analyses and found that ADA3
+bound to higher order repeat region of the centromere across most of the
+chromosomes. Further studies showed ADA3 interaction with centromere was
+mediated by a centromeric protein CENP-B. More importantly, siRNA
+mediated knockdown of ADA3 decreases the occupancy of CENP-B at
+centromere and causes chromosomal segregation defects during mitosis.
+These studies demonstrate a novel function of ADA3 in cell cycle
+regulation. Our current studies are focused on defining the exact
+mechanism of recruitment of ADA3 complex to CENP-B to regulate mitosis
+and its effect on genomic stability.
+

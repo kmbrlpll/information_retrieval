@@ -1,0 +1,59 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Single cell dual adherent-suspension co-culture microenvironment
+for studying tumor-stromal interactions in breast cancer stem cells
+
+
+Considerable evidence suggests that cancer stem-like cells (CSCs) are
+critical in tumor pathogenesis. Though functional CSCs can be identified
+using dish-based tumorsphere assays, it is difficult to handle and
+monitor single cells in a dish-based format. Tumor-stromal interaction is
+another key regulator of cancer micro-environments, affecting
+tumorigenesis and metastasis. To enable tumorsphere assays that
+incorporate interaction with stromal cells, we developed a microfluidic
+dual adherent/suspension co-culture device. This device combined a
+suspension environment for single-cell tumorsphere assay and an adherent
+environment for co-culture of stromal cells in close proximity by
+selectively patterning polyHEMA in indented microwells. By minimizing
+dead volume and improving cell capture efficiency, the presented platform
+allowed the use of small samples (Considerable evidence suggests that
+cancer stem-like cells (CSCs) are critical in tumor pathogenesis. Though
+functional CSCs can be identified using dish-based tumorsphere assays, it
+is difficult to handle and monitor single cells in a dish-based format.
+Tumor-stromal interaction is another key regulator of cancer
+micro-environments, affecting tumorigenesis and metastasis. To enable
+tumorsphere assays that incorporate interaction with stromal cells, we
+developed a microfluidic dual adherent/suspension co-culture device. This
+device combined a suspension environment for single-cell tumorsphere
+assay and an adherent environment for co-culture of stromal cells in
+close proximity by selectively patterning polyHEMA in indented
+microwells. By minimizing dead volume and improving cell capture
+efficiency, the presented platform allowed the use of small samples (<100
+cells), affording the potential to study rare cells such as circulating
+tumor cells (CTCs). As a proof-of-concept, we co-cultured single T47D
+breast cancer cells and primary cancer associated fibroblasts (CAF)
+on-chip for 14 days to monitor sphere formation and growth. Compared to
+mono-cultured T47D cells, co-cultured T47D have significantly higher
+tumorigenic potential (sphere formation rate) by three times and
+proliferation rates (larger sphere size). In addition to the phenotypic
+observation, the platform allows the retrieval of mono-cultured and
+co-cultured spheres for downstream analyses. Multiplexed single-cell gene
+expression analyses using C1 and BioMark HD platforms were performed to
+compare the expression of 96 target genes in co-cultured and
+mono-cultured T47D cells. Co-cultured cells expressed significantly
+higher MKI67, which suggests a possible mechanism for the elevated
+proliferation rate. Additionally, lower BAX (pro-apoptotic marker)
+expression matches well with higher sphere formation rate in the
+co-cultured cells. Interestingly, we noticed the down-regulation of CDH1,
+KRT8, and KRT18 in the co-cultured cells, indicating possible
+epithelial-mesenchymal transition induced by CAF. Single cell resolution,
+while to comparing between groups, also allows examination of cellular
+heterogeneity within one population. While cells in the mono-cultured
+group were more homogeneous co-cultured cells displayed clear bimodal
+gene expression distribution including, ANXA3, MTOR, MKI67, BAX, and PGR.
+This is suggestive of variable responses to the same stimuli at the
+single cell level. Combining the dual adherent/suspension co-culture
+platform presented here with the single cell gene expression analysis, we
+may successfully identify functional CSCs, investigate the phenotypic and
+transcriptional effects induced by tumor-stromal interactions, and study
+cellular heterogeneity in greater detail.
+

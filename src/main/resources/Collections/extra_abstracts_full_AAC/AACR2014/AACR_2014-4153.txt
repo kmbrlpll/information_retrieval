@@ -1,0 +1,38 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Global African ancestry is not associated with lung cancer survival
+
+
+Lung cancer is the leading cause of cancer-related mortality among men
+and women in the United States, accounting for 27% of all cancer-related
+deaths. Blacks experience poorer 5-year survival compared to whites. We
+hypothesized that individuals with higher global African ancestry have
+poorer survival compared to individuals with lower global African
+ancestry. We identified incident non-small cell lung cancer cases in the
+Southern Community Cohort Study (SCCS), a prospective study of low-income
+adults recruited from across the Southeast region of the United States.
+Individuals who donated a biospecimen were genotyped using the Illumina
+Human Exome BeadChip, which contains a panel of ancestry informative
+markers (AIMs). After standard quality control, 398 individuals (262
+self-reported black and 134 self-reported white) remained for analysis.
+Global ancestry was estimated from 2,604 AIMs using the software program
+ADMIXTURE. Self-reported blacks had a median global African ancestry of
+88.12%, while the median global African ancestry in self-reported whites
+was less than 0.01%. We estimated hazard ratios and 95% confidence
+intervals using Cox proportional hazard models adjusted for age, sex,
+body mass index (BMI), cigarettes per day, disease stage, treatment,
+insurance coverage, family history of lung cancer and recruitment site.
+BMI, age, cigarettes per day and global African ancestry were modeled
+using restricted cubic splines. We estimated time dependent area under
+the curve (AUC) for our main effects model and a main effects model with
+interactions, both with and without genetic ancestry. We found that the
+main effects model had an average AUC of 0.81. When global African
+ancestry was excluded, the AUC was minimally reduced to 0.80. When
+interactions were added to the main effects model, the AUC increased to
+0.88. Removal of global ancestry from the interactions model reduced the
+AUC to 0.84. In the main effects model, the two most predictive variables
+were stage and treatment with X2 values of 36.13 (degrees of freedom,
+df=2) and 15.47 (df=4), respectively. While we conclude that global
+African ancestry has little effect on overall survival, a relationship
+between global African ancestry and stage or treatment remains to be
+investigated.
+

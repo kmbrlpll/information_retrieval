@@ -1,0 +1,34 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Subtype-specific cancer driver gene detection improves sensitivity
+to detect drivers
+
+
+Identifying cancer driver mutations is a crucial step toward
+understanding the underlying mechanisms of oncogenesis. However, driver
+gene detection is complicated, considering the inherent complexity and
+heterogeneity of cancer.The past decade has seen the large-scale
+application of next-generation sequencing technologies (NGS) in cancer
+genomics, and many methods have been published utilizing NGS to detect
+novel oncogenic drivers. However, the low concordance across methods
+raises the concern about false positives and negatives in those findings.
+In particular, proper modeling of the background mutation profile (known
+to be affected by multiple factors) is critical to improving precision
+and recall in driver detection. Though intra-sample heterogeneity in the
+background mutation profile is considered to some extent in multiple
+methods, most computational driver detection methods assume a homogeneous
+mutational landscape across cancer samples. With more and more subtypes
+being discovered in various cancers, the assumption is largely
+untenable.In this study, we present a driver gene detection framework
+taking into account the heterogeneous mutational context in a cancer
+cohort. Our approach improves sensitivity to detect drivers by first
+pre-selecting a more uniform sample subset to apply driver detection
+algorithms. We combine this method with enhancements to an existing
+ensemble approach that combines methods with different assumptions about
+the characteristics of driver mutations (recurrence across samples,
+functional impact bias and positional clustering). We apply this combined
+approach to 750 breast invasive carcinoma samples from The Cancer Genome
+Atlas. In this dataset, genes identified by our approach show higher
+enrichment in known cancer driver genes compared to other methods, and
+the subtype-driven method identifies additional potential drivers that
+are missing in overall analysis.
+

@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Real-time assessment of uptake and utilization of lactate in
+intact human breast cancer cells using a 1H-NMR-based assay
+
+
+Objective: The purpose of this study was to evaluate the feasibility of
+monitoring lactate uptake and utilization in intact human cancer cells
+using a dynamic 1H-NMR assay and [3-13C]-lactate. This would provide a
+simple, real-time method for monitoring enzyme kinetics in cells as an
+alternative to spectrophotometry - which cannot be applied to intact
+cells - or dynamic nuclear polarisation-NMR, which requires complex
+mathematical modelling. The ability to better understand and measure
+lactate metabolism in cancer cells could be applied to monitor MCT1
+inhibition.Methods: 310^7 MDA-MB-231 human breast cancer cells were
+suspended in 400l serum-free DMEM plus 100l D2O in a 5mm NMR tube. A
+mixture of 10mM [3-13C]-lactate combined with varying concentrations of
+unlabelled 12C-pyruvate (0mM, 5mM or 10mM) was added and proton spectra
+were acquired every minute for 30 minutes on a 500MHz Bruker
+spectrometer. For comparison, cells were also incubated with 10mM
+[3-13C]-pyruvate and either 0mM or 10mM 12C-lactate.Results: The presence
+of 13C-pyruvate was detected in real-time following addition of
+[3-13C]-lactate indicating that 13C-label had been exchanged from lactate
+to pyruvate via the enzyme lactate dehydrogenase. The optimisation of
+reagent concentrations, however, revealed that this observation was
+dependent on the addition of unlabelled 12C-pyruvate and the apparent
+rate of 13C-label exchange was proportional to the concentration of
+12C-pyruvate added.The data show that no 13C-pyruvate signal is detected
+when 10mM 13C-lactate is added alone. However, 6% of the 10mM 13C-lactate
+is exchanged with 13C-pyruvate when 5mM 12C-pyruvate is added (rate =
+1.110-3mM s-1). This increases to 12% when the 12C-pyruvate concentration
+was increased to 10mM (rate = 2.210-3 mM s-1). The total pyruvate
+concentration (12C + 13C-pyruvate) remained constant, which suggests that
+there is no net production of pyruvate. In comparison, the 13C-pyruvate
+experiment was less dependent on the addition of unlabelled 12C-lactate
+for 13C-label exchange to be observed.Conclusion: The fact that
+unlabelled pyruvate was required for a reaction to be observed following
+addition of 13C-lactate suggests that the position of the isotopic
+equilibrium favours the label to remain in the lactate pool. Therefore a
+large amount of unlabelled pyruvate is required for the exchange process
+to be observed. This would also explain why the addition of unlabelled
+lactate was not required in the 13C-pyruvate experiment, since to reach
+isotopic equilibrium, a large proportion of the 13C-pyruvate needs to
+immediately exchange with the naturally larger lactate pool.
+Nevertheless, these findings demonstrate the feasibility of using this
+1H-NMR assay to measure [3-13C]-lactate uptake in real-time. This could
+inform on metabolic pathway activity in response to MCT1 inhibition in
+intact cells.
+

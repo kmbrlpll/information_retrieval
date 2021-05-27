@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genetic variation in platinum-sensitive and platinum-resistant
+high-grade serous epithelial ovarian cancer.
+
+
+Background: We examined the association of platinum resistance with
+genetic mutations in high grade serous ovarian cancer (HSOC) patients
+undergoing high-throughput genomic tumor sequencing.
+
+Methods: Snap-frozen and fresh frozen paraffin embedded tissue samples
+were collected from HSOC patients enrolled on UNCseq (NCT01457196).
+UNCSeq is an institutional protocol which uses next generation sequencing
+to detect genetic mutations in a wide array of malignancies. Illumina
+libraries were prepared separately from tumor and a matched normal sample
+from each patient. Relevant targets were enriched by a custom designed
+Agilent SureSelect hybrid capture enrichment library using standard
+protocols. Samples were sequenced on Illumina HiSeq machines in a variety
+of formats. Mutations with a quality score or or < 6 months of disease
+free interval following completion of induction therapy, respectively.
+
+Results: Overall 39 HSOC cases met inclusion criteria; 32 tumors met
+criteria for platinum sensitive and 7 platinum resistant. 308 mutations
+were noted in at least one individual across all patients. The top
+observed mutations in platinum sensitive HSOC were TP53 (41%, n= 13),
+GucylA2 (19%, n=6), MLL2 (19%, n=6) and MTOR (16%, n=5). The top observed
+mutations in platinum resistant tumors were TP53 (71%, n=5), TET1 (43%,
+n=3), NF1 (43%, n=3) and MLL3 (43%, n=3). There was a trend toward more
+p53 mutations in resistant tumors (71% versus 41%, p=0.21) There was no
+difference in the total number of mutations per tumor in platinum
+sensitive and resistant patients, (3 vs. 4, p=0.516).
+
+Conclusions: We did not detect a difference in the number of genetic
+mutations in HSOC according to platinum sensitivity. Platinum resistant
+tumors had a trend toward higher frequency of TP53 mutations than
+platinum sensitive HSOCs. Furthermore, we identified 3 frequently mutated
+genes in platinum resistant HSOC: TET1, an epigenetic regulator, NF1, a
+tumor suppressor gene and MLL3, a histone modifier gene. Ongoing tumor
+sequencing of HSOCs on UNCseq will help to confirm these results.
+
+

@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Knockdown of the spindle assembly checkpoint gene Bub1b results in
+increased cell death and cell cycle impairment in breast cancer.
+
+
+Genomic instability is an enabling hallmark of cancer that provides
+cancer cells a replicative advantage. Accumulation of genomic aberrations
+can also compromise the genomic integrity and put cells under mitotic
+stress. Maintaining balance between the instability that gives cancer
+cells a replicative advantage and the instability that could lead them to
+mitotic catastrophe is crucial for survival of cancer cells. Mitotic
+catastrophe can be caused by rapid progression through mitosis before
+crucial checkpoints are met, resulting in cell death. To overcome this
+challenge, cancer cells may acquire overexpression of spindle assembly
+checkpoint (SAC) genes, which can prevent mitotic catastrophe that would
+occur if they undergo mitosis prematurely. Bub1b is an important part of
+SAC and inhibits the onset of anaphase until all chromosomes are aligned
+at the metaphase plate. Our analysis of clinical datasets show Bub1b
+expression is elevated in breast cancer, compared to normal breast, and
+is exemplified by a pattern of increasing overexpression in more
+aggressive variants, such as triple negative breast cancer (TNBC). Bub1b
+overexpression also correlates with decreased overall survival in
+patients. Expression analysis of breast cancer cell lines corroborates
+this clinical data. We hypothesize that the requirement for Bub1b
+expression indicates a vulnerability of rapidly proliferating breast
+cancers cells, and the inhibition of Bub1b will result in cell death
+through mitotic catastrophe.
+
+Using RNA interference with siRNAs we knocked down Bub1b expression in a
+variety of breast cancer cells. This resulted in significant decrease in
+cellular viability and clonogenicity in soft agar. Furthermore, analyses
+of apoptosis using Annexin V and PI costaining showed that Bub1b
+knockdown results in significantly increased apoptosis and cell death,
+especially in the TNBC cell line MDA-MB-468. However, the viability and
+apoptosis levels of the normal breast epithelial cell line, MCF12A, were
+not affected. Bub1b knockdown resulted in silencing of SAC activity, as
+measured by Cyclin B levels, and also significantly impaired cell cycle
+progression in breast cancer cell lines. Additionally, knockdown of Bub1b
+in breast cancer cell lines demonstrated an additive effect when combined
+with DNA-damaging agents.
+
+Our data support that Bub1b is a critical player in breast cancer cell
+survival, by enabling them to overcome mitotic stress. We demonstrate
+that impairment of Bub1b has detrimental effects on cell cycle and
+progression of mitosis. Further investigation of the role of Bub1b in
+promoting successful chromosome alignment and proliferation of breast
+cancer cells with genomic instability could provide a novel pathway on
+how cancer overcomes the mitotic stress caused by genomic instability.
+These studies may also lead to novel therapeutic strategies that combine
+SAC inhibitors with standard genotoxic treatments.
+
+

@@ -1,0 +1,53 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A combined bioinformatics and GWAS approach identifies a
+functional 3UTR insertion/deletion in YES1 associated with bladder cancer
+risk
+
+
+Bladder cancer (BC) is diagnosed in over 70,000 individuals each year and
+its incidence is rising. There is a need for biomarkers to identify those
+at high risk, as well as for early detection. Large genome-wide
+association studies have identified multiple susceptibility loci;
+however, individually and combined, these variants only explain a small
+portion of the variation in BC risk. One possibility to explain the
+missing heritability is the effect of small insertions and deletions
+(INDELs). Because of the nature of these variations, they have a high
+likelihood for functional effects. Therefore, the purpose of study was to
+determine whether common INDELs are associated with BC risk. We retrieved
+0.73 million INDELs and 7.72 million single nucleotide polymorphisms
+(SNPs) from the 1000 Genomes Pilot Project. Tagging-SNPs were identified
+for 0.48 million of these INDELs with r2 > 0.80 by PLINK. We then
+evaluated each tagging-SNP for association with BC risk in 969 BC cases
+and 957 controls. Using this approach, 5,110 INDELs were shown to be
+associated with BC risk (P Bladder cancer (BC) is diagnosed in over
+70,000 individuals each year and its incidence is rising. There is a need
+for biomarkers to identify those at high risk, as well as for early
+detection. Large genome-wide association studies have identified multiple
+susceptibility loci; however, individually and combined, these variants
+only explain a small portion of the variation in BC risk. One possibility
+to explain the missing heritability is the effect of small insertions and
+deletions (INDELs). Because of the nature of these variations, they have
+a high likelihood for functional effects. Therefore, the purpose of study
+was to determine whether common INDELs are associated with BC risk. We
+retrieved 0.73 million INDELs and 7.72 million single nucleotide
+polymorphisms (SNPs) from the 1000 Genomes Pilot Project. Tagging-SNPs
+were identified for 0.48 million of these INDELs with r2 > 0.80 by PLINK.
+We then evaluated each tagging-SNP for association with BC risk in 969 BC
+cases and 957 controls. Using this approach, 5,110 INDELs were shown to
+be associated with BC risk (P < 0.05). We next focused on potentially
+functional INDELs located in exons, 3 UTRs, 5 UTRs or promoters.
+Approximately 50 INDELs fit this criterion, with a 2 basepair INDEL
+rs56342716 (-/AT) located in the 3 UTR of YES1, a src kinase oncogene,
+being highly significant. The tagging-SNP for this INDEL, rs3786347, was
+associated with a 1.27-fold increase in BC risk (OR 1.27, 95% CI,
+1.10-1.43, P = 6.08x104). These results were confirmed by direct
+genotyping of the INDEL in 822 BC cases and 802 healthy controls (OR
+1.20, 95% CI, 1.04-1.38, P = 0.01). Reporter gene assay results revealed
+that the variant allele (AT) of rs56342716 disrupted the inhibitory
+effects of three microRNAs (miR-548e, miR-548f, and miR-548a-3p),
+providing a potential biological mechanism for the association with BC
+risk through increased YES1 levels. Together, these results provide
+evidence supporting a connection between a functional INDEL and BC risk
+while implicating YES1 in bladder cancer pathogenesis through a
+microRNA-mediated mechanism.
+

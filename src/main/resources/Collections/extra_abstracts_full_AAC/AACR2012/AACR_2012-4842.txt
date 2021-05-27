@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: p300 targeting impairs treg function and promotes host anti-tumor
+immunity
+
+
+The long-held view that tumors were not sufficiently immunogenic to
+promote host immune responses has now been revised to the assessment that
+at least for some tumors, Foxp3+ T-regulatory (Treg) cells actively
+suppress anti-tumor immunity. Seeking to build on our ongoing assessment
+of the regulation of Foxp3+ Treg biology by HDAC and HAT enzymes, we have
+begun to use combined genetic and pharmacologic approaches to identify
+and modulate key mechanism within Tregs that limit host immunity.
+Microarray studies of gene expression in WT, p300-/- and CBP-/- Tregs
+showed that p300 or CBP deletion led to down-regulation of Foxp3
+expression, as well as that of a number of signature Treg genes. Cells
+co-transfected with Foxp3 and increasing amounts of p300 expression
+vectors showed that Foxp3 acetylation was enhanced by increasing levels
+of p300 levels, whereas a p300 small molecule inhibitor, C646 (p300i),
+impaired Foxp3 acetylation and inhibited Treg function using in vitro
+suppression assays. In vivo use of C646 showed negligible effects on CD4,
+CD8 or Treg cell numbers, but qPCR studies showed C646 decreased Treg
+expression of CTLA-4, GITR, IL-10 and TGF-b, in vitro assays again showed
+impaired Treg suppression. Additional studies showed, critically, that
+use of the p300i impaired Treg but not T effector cells in allograft
+recipients. Thus, parent-to-F1 assays involving alloactivation and
+proliferation of CD4 an dCD8 T cells were unaffected by C646, and this
+p300i restored allograft rejection in Treg-dependent models of allograft
+survival. Turning to tumor models, TC1 lung cancer cells were injected in
+the flanks of WT B6 mice, B6 mice in which p300 was deleted in CD4+ T
+cells (Treg plus Teff using CD4-Cre) or just in Tregs (Foxp3-Cre)
+(n=10/grp), p300 was inhibited using C646 (Alzet pumps, 14 d, 0.9
+mg/kg/d) from day 6 post-tumor injection; in both genetic and
+pharmacologic approaches, p300 targeting suppressed tumor cell growth.
+qPCR analysis of tumors in C646-treated mice showed increased CD4 and
+granzyme B mRNA but decreased Foxp3; these data were confirmed by
+immunohistology, along with increased IFN-g production by purified CD8
+cells (ELISPOT), along with reductions in tumor volumes and weights in
+these C646-treated mice. C646 use did not impair tumor growth in
+immunodeficient (RAG-/-) mice, in which tumors were exposed to drug in
+RAG-/- mice as seen by decreased acetylation of histone 3 in tumor
+extracts (Western blot); no effects on acetylation of certain
+p300-independent targets within tumor extracts was seen (e.g. acetylation
+of alpha-tubulin was unimpaired). The p300i also had no direct effect on
+tumor cell proliferation in vitro. We conclude that our comprehensive
+genetic and pharmacologic studies show that p300 is an important target
+for modulation of host Foxp3+ Treg functions, such that Treg suppression
+can be incrementally reduced and host anti-tumor responses promoted
+without inducing concomitant autoimmunity.
+

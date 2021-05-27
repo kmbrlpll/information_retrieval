@@ -1,0 +1,42 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Next-Gen deep amplicon sequencing of TP53 complements FGFR3 for
+the detection of bladder cancer-related mutations.
+
+
+Background: We have recently described an ultra-deep amplicon sequencing
+method for detection of FGFR3 mutations in urine that closely matches the
+frequency of mutations found in bladder cancer tissue. While FGFR3
+mutations are present in a large fraction of non-invasive tumors, these
+mutations are rarely detected in invasive bladder tumors. To complement
+our existing FGFR3 deep sequencing assay, we have developed a sequencing
+assay for TP53. Mutations in TP53 are commonly found in advanced bladder
+cancer, and show little overlap with FGFR3 mutations. Here, we
+demonstrate the detection of FGFR3 and TP53 mutations in bladder cancer
+tissue using a Next-Gen sequencing platform.Methods: The FGFR3 sequencing
+assay was performed as described previously, permitting the detection of
+9 mutations associated with bladder cancer. Similarly, amplicons were
+designed against TP53 exons 5-8, permitting the detection of 133 TP53
+mutations previously reported in bladder cancer. Primary amplification
+was performed on DNA isolated from FFPE or fresh frozen tissue. The
+resulting PCR products were used as template for emulsion PCR and
+sequenced using the Ion Torrent PGM. Samples were analyzed for total DNA
+reads and number of mutant sequencing reads to determine percent
+mutation.Results: A set of 57 bladder cancer tissue samples, comprised of
+38 non-muscle invasive (NMIBC) and 19 muscle invasive (MIBC) tumors, was
+analyzed for mutations in both FGFR3 and TP53. Of these samples, 18 out
+of 38 (47.4%) NMIBC tumors were positive for FGFR3 mutations, and 2 of 38
+(5.3%) were positive for TP53 mutations. 9 out of 19 (47.4%) MIBC tumors
+were positive for TP53 mutations, with an additional 2/19 (10.9%)
+positive for FGFR3 mutations. Across all tumor stages tested, 35.1%
+(20/57) of samples were positive for FGFR3 mutations, and 19.3% (11/57)
+were positive for TP53 mutations. No overlap was seen between samples
+positive for FGFR3 or TP53 mutations. In addition, we have now shown that
+these assays can detect both FGFR3 and TP53 mutations in the urine of
+bladder cancer patients. These studies will be expanded to a large set of
+urine samples to more accurately assess clinical performance of this
+FGFR3/TP53 deep sequencing assay in bodily fluids.Conclusions: We have
+developed FGFR3 and TP53 sequencing assays that can detect mutations in a
+broad range of bladder cancer stages. The complementarity of mutations
+found in these two genes may allow for the non-invasive detection of
+bladder cancer in a larger fraction of undiagnosed patients.
+

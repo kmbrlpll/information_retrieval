@@ -1,0 +1,98 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identification of druggable transcriptional outliers in urothelial
+carcinoma
+
+
+Background: Urothelial carcinoma (UC) is a major public health problem
+affecting new 75,000 patients and resulting in 15,000 deaths annually.
+Despite a variety of genetic and epigenetic alterations described in UC,
+few therapeutically exploitable drivers have been identified and
+validated. We hypothesized that transcriptional outliers from primary
+tumor biopsies could reveal such therapeutically exploitable weaknesses.
+Identification of these druggable outliers would be critical for
+individualized therapy of patients with UC. Methods: In order to identify
+transcriptional outliers we calculated Z-scores for a set of 72 druggable
+cancer-related genes from RNA sequencing data from our Institute of
+Precision Medicine (IPM) cohort of advanced platinum-resistant UC. We
+performed similar outlier analyses on The Cancer Genome Atlas (TCGA)
+cohort of UC and the Cancer Cell Line Encyclopedia (CCLE) database of
+urothelial cell lines. Common outliers between IPM and CCLE datasets or
+between TCGA and CCLE datasets were nominated for further in-vitro
+testing. Sensitivity scores of cell lines for 130 drugs were extracted
+from the publicly available cell line browser database and the variance
+these sensitivity scores across (640) cell lines was calculated. The
+drugs targeting the outlier genes (real sensitivity z-score) were
+compared to the mean z-scores of randomly chosen drugs associated with
+those genes (control sensitive z-score). To investigate the mechanisms
+underlying comparison of outliers methylation patterns of the promoter
+regions of outlier genes were examined. Results: 6 druggable outlier
+genes were common between IPM and CCLE cohorts, and 15 outlier genes
+between CCLE and TCGA cohorts. Common outliers included FGFR3, KIT, BCL2,
+ABL1, and SMO. The presence of outlier genes in cell lines correlated
+with higher sensitivity to drugs predicted to target these genes in
+comparison to randomly selected drugs (pBackground: Urothelial carcinoma
+(UC) is a major public health problem affecting new 75,000 patients and
+resulting in 15,000 deaths annually. Despite a variety of genetic and
+epigenetic alterations described in UC, few therapeutically exploitable
+drivers have been identified and validated. We hypothesized that
+transcriptional outliers from primary tumor biopsies could reveal such
+therapeutically exploitable weaknesses. Identification of these druggable
+outliers would be critical for individualized therapy of patients with
+UC. Methods: In order to identify transcriptional outliers we calculated
+Z-scores for a set of 72 druggable cancer-related genes from RNA
+sequencing data from our Institute of Precision Medicine (IPM) cohort of
+advanced platinum-resistant UC. We performed similar outlier analyses on
+The Cancer Genome Atlas (TCGA) cohort of UC and the Cancer Cell Line
+Encyclopedia (CCLE) database of urothelial cell lines. Common outliers
+between IPM and CCLE datasets or between TCGA and CCLE datasets were
+nominated for further in-vitro testing. Sensitivity scores of cell lines
+for 130 drugs were extracted from the publicly available cell line
+browser database and the variance these sensitivity scores across (640)
+cell lines was calculated. The drugs targeting the outlier genes (real
+sensitivity z-score) were compared to the mean z-scores of randomly
+chosen drugs associated with those genes (control sensitive z-score). To
+investigate the mechanisms underlying comparison of outliers methylation
+patterns of the promoter regions of outlier genes were examined. Results:
+6 druggable outlier genes were common between IPM and CCLE cohorts, and
+15 outlier genes between CCLE and TCGA cohorts. Common outliers included
+FGFR3, KIT, BCL2, ABL1, and SMO. The presence of outlier genes in cell
+lines correlated with higher sensitivity to drugs predicted to target
+these genes in comparison to randomly selected drugs (p<0.05). In vitro
+cell viability assays confirmed sensitivity of RT112 and RT4 cell lines
+to Dovitinib, an FGFR3 inhibitor as predicted by our algorithm. Outlier
+genes were frequently involved in gene fusions, amplification or DNA
+hypomethylation (pBackground: Urothelial carcinoma (UC) is a major public
+health problem affecting new 75,000 patients and resulting in 15,000
+deaths annually. Despite a variety of genetic and epigenetic alterations
+described in UC, few therapeutically exploitable drivers have been
+identified and validated. We hypothesized that transcriptional outliers
+from primary tumor biopsies could reveal such therapeutically exploitable
+weaknesses. Identification of these druggable outliers would be critical
+for individualized therapy of patients with UC. Methods: In order to
+identify transcriptional outliers we calculated Z-scores for a set of 72
+druggable cancer-related genes from RNA sequencing data from our
+Institute of Precision Medicine (IPM) cohort of advanced
+platinum-resistant UC. We performed similar outlier analyses on The
+Cancer Genome Atlas (TCGA) cohort of UC and the Cancer Cell Line
+Encyclopedia (CCLE) database of urothelial cell lines. Common outliers
+between IPM and CCLE datasets or between TCGA and CCLE datasets were
+nominated for further in-vitro testing. Sensitivity scores of cell lines
+for 130 drugs were extracted from the publicly available cell line
+browser database and the variance these sensitivity scores across (640)
+cell lines was calculated. The drugs targeting the outlier genes (real
+sensitivity z-score) were compared to the mean z-scores of randomly
+chosen drugs associated with those genes (control sensitive z-score). To
+investigate the mechanisms underlying comparison of outliers methylation
+patterns of the promoter regions of outlier genes were examined. Results:
+6 druggable outlier genes were common between IPM and CCLE cohorts, and
+15 outlier genes between CCLE and TCGA cohorts. Common outliers included
+FGFR3, KIT, BCL2, ABL1, and SMO. The presence of outlier genes in cell
+lines correlated with higher sensitivity to drugs predicted to target
+these genes in comparison to randomly selected drugs (p<0.05). In vitro
+cell viability assays confirmed sensitivity of RT112 and RT4 cell lines
+to Dovitinib, an FGFR3 inhibitor as predicted by our algorithm. Outlier
+genes were frequently involved in gene fusions, amplification or DNA
+hypomethylation (p<0.02). Conclusions: Identification of druggable
+transcriptional outliers can elucidate novel oncogenic dependencies and
+aid in selecting precision therapies for UC patients.
+

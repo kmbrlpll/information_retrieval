@@ -1,0 +1,44 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Finding the genetic determinants of response to radiotherapy
+
+
+Radiotherapy is very effective at local control of tumours but leads to
+adverse reactions in a minority of patients. This project aimed to
+predict which breast cancer patients will show radiation toxicity,
+allowing them to be offered alternative treatment (e.g. mastectomy).
+Previously, studies have focussed on single nucleotide polymorphisms
+(SNP) for association with adverse reactions, but there is growing
+evidence that genomic copy number variation (CNV) are frequent and
+significantly contribute to genetic variation and human diseases. The aim
+of this candidate gene association study was to determine copy number
+variants (CNVs) that influence radiation toxicity in cancer patients, and
+combine these with clinical indicators to contribute to a predictive
+algorithm. CNV data for 88 candidate genes were ranked based on CNV
+position, size and frequency. Paralogue ratio test (PRT) assays were
+designed for the top-ranked 13 genes. Typing of the CNVs in the analysed
+samples was performed using PRT method because it is cheap, simple and
+fast and requiring a small amount of genomic DNA. Copy number typing was
+carried out on 69 control samples (comprising 30 random DNA and 39 CEPH
+[Centre de Etude du Polymorphisme Humain] specimens of three
+multigenerational reference families); and 401 samples from a breast
+cancer cohort (i.e. test samples) with good clinical characterisation and
+scored for late effects of radiotherapy. Two PRT assays in the DNA ligase
+1 (LIG1) gene were used for typing. PRT amplification products were
+electrophoresed on agarose gel (PRT2 assay) and ABI 3031xl genetic
+analyser (PRT3 assay) respectively. Quantification of DNA bands was
+performed using Syngene and Genescan software respectively and
+statistical analysis in SPSS. The result of this study showed that 5.2 %
+of the CEPH samples and 0.3% of the breast cancer cohorts showed
+consistent evidence of raised copy numbers which suggest duplication of
+LIG1 gene in those samples. The result also showed moderate correlation
+between the two assays used (r=0.56). The findings from this study have
+re-inforced the need for future research to focus on further
+characterisation of this studied CNV either by using more PRT over a
+wider region around LIG1 or an array or sequence based approach. Future
+work would also attempt to establish whether cells from the breast cancer
+patients show changed expression of LIG1. Lastly, CNV typing would be
+repeated in further cohorts, though with a frequency of 0.3%, many more
+cohorts in the range of thousands might be required. With multiple
+patients with the variant, then it might be possible to detect
+significant differences in radiation toxicity phenotypes.
+

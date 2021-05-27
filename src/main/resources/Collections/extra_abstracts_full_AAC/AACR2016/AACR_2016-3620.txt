@@ -1,0 +1,44 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Enhancing clinical utility of NGS with reduced bias, low DNA
+input, library construction
+
+
+Early detection and diagnosis of cancer substantially increases the
+likelihood for successful treatment. Tools that aid in detecting and
+diagnosing cancer early, therefore, have the potential to greatly impact
+the clinical outcome for cancer patients. Next Generation Sequencing
+(NGS) has emerged as an important tool in this area. The technology is
+sensitive, fast and high throughput to allow sequencing of many samples
+at once. Unfortunately, many clinical samples go unanalyzed because they
+do not yield sufficient quantities of DNA to generate NGS libraries or
+the libraries generated require so many rounds of PCR amplification that
+they display extreme sequence bias. Bias not only hampers data analysis,
+but also increases costs by requiring excess sequencing to obtain
+sufficient coverage over all relevant genomic regions.To enable the
+increased use of NGS in the clinic and reduce the amount of sequence bias
+generated during library preparation, we have developed a PCR free
+library construction method that uses low quantities of DNA as input. As
+an initial test of the method, we generated PCR free libraries from
+100ng, 50ng and 25ng of human genomic DNA. The libraries where pooled and
+sequenced on the Illumina NextSeq 500 instrument to approximately 10X
+coverage. All libraries, irrespective of input amount, showed minimal
+AT/GC bias and excellent coverage distributions, with most bases covered
+within 5X of the expected coverage depth. In addition, regions identified
+as difficult to sequence (Aird, D., et.al., 2011 and Ross, M. G., et.al.,
+2013) showed coverage at near expected levels for all libraries. This
+method can easily be adapted for use with extremely low DNA inputs by the
+introduction of a minimal number of PCR cycles. In fact, we have used
+this method to construct high quality NGS libraries with picogram
+quantities of DNA input.Standard library construction methods require DNA
+inputs of 2ug to 500ng when PCR amplification is omitted. This new method
+utilizes inputs as low as 25ng to generate high-quality PCR free
+libraries and picogram quantities when amplification is performed. We are
+currently investigating the possibility of reducing input levels further
+and exploring the limits of the method with low quality DNA samples.
+Interestingly, we have observed substantial sample loss during DNA
+shearing and reaction cleanup. Samples that do not require fragmentation,
+such as DNA isolated from plasma (cfDNA) and low quality FFPE DNA, may
+reduce the input requirements even further. Finally, this new method
+utilizes low sample and reagent volumes, possibly paving the way for its
+use in microfluidic devices.
+

@@ -1,0 +1,32 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Comparison of copy number variation using exome sequencing and
+affymetrix SNP6.0 genotype array in human cancer cell lines
+
+
+Whole exome sequencing has been used successfully as a cost effective and
+unbiased method in the detection of single nucleotide variants (SNVs) in
+the coding regions of the human genome. Its application in identifying
+another class of genetic variability - copy number variation (CNV) - has
+been hindered by numerous factors including inconsistent exome capture
+probe specificity and efficiency for the target regions, discontinuous
+targets, and variable exon lengths etc. In the current work, we applied
+ExomeCNV, a depth-of-coverage based statistical analysis method developed
+by Sathirapongsauti et. al., to exome NGS data from a larger collection
+of cancer cell lines. The exomes were captured using Agilent SureSelect
+Human All Exon Kit and sequenced on the average depth of 70x using the
+Illumina HiSeq platform. To control for sequence coverage biases
+introduced by the capture technology, CNVs for each cancer cell line are
+presented as a ratio to a baseline control constructed using pooled
+samples processed in the same manner. Genotyping arrays are standard
+methods of choice for CNV discovery in cancer cell lines from the Cancer
+Genome Project by the Sanger Institute and the Cancer Cell Line
+Encyclopedia project by the Broad Institute. We obtained Affymetrix
+SNP6.0 genotype data for the cancer cell lines from these two sources.
+CNVs detected from exome sequencing were compared with those discovered
+from genotyping arrays in the same set of cancer cell lines. We present
+here a comprehensive comparison of the cancer cell line gene copy number
+determination from exome sequencing and genotyping methods. Our results
+indicate that, with sufficient exome coverage and properly constructed
+controls, copy number detection using exome data is a valuable
+alternative to genotype based approach.
+

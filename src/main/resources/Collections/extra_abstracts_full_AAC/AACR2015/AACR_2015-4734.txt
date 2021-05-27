@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A LIN28B/RAN/AURKA signaling network promotes neuroblastoma
+tumorigenesis
+
+
+Background: Neuroblastoma, a childhood cancer of the sympathetic nervous
+system, accounts for approximately 10-15% of pediatric oncology deaths.
+The genetic basis of neuroblastoma has grown clearer, with genome-wide
+association studies performed by our laboratory uncovering CASC15, BARD1,
+NBPF23, LMO1, HACE1, TP53 and LIN28B as susceptibility genes, with many
+(if not all) playing a major role in tumorigenesis. Here we focus on
+LIN28B, which binds mRNAs directly and is a master regulator of the let-7
+family of tumor suppressor microRNAs, as we previously showed that high
+LIN28B expression is associated with advanced stage disease and worse
+patient outcome.Methods: To discover LIN28B-associated pathways in
+neuroblastoma, we performed gene set enrichment analysis (GSEA) on mRNA
+expression datasets and analyzed SNP-array based DNA copy number
+datasets. We used siRNAs, shRNAs, and microRNA mimetics to perturb
+transcripts of interest in neuroblastoma cells and measured effects on
+downstream signaling, protein-protein interactions, and
+proliferation.Results: We applied GSEA to mRNA expression profiles from
+250 neuroblastoma tumors and found LIN28B expression to be robustly
+correlated with several biologically relevant gene sets, including RAN
+signaling. We focused on RAN signaling as RAN is a member of the Ras
+family of GTPases implicated in the pathogenesis of several malignancies
+and we demonstrated a strong positive correlation between LIN28B and RAN
+expression, most strikingly in the MYCN-amplified context (p = 2.21010).
+We next analyzed 374 high-risk neuroblastoma tumors and found that 28% of
+them displayed recurrent somatic copy number gain of chromosome 12q24,
+the genomic location of RAN, which was associated with increased RAN
+expression (p = 0.0004) and was inversely related to MYCN amplification
+(p = 0.0021). Increased RAN expression was associated with stage 4
+disease (p = 0.0047) and decreased overall survival (p = 0.0002). To
+further dissect the LIN28B-RAN relationship, we depleted LIN28B using
+shRNAs, showing that it reduced RAN RNA and protein levels. LIN28B
+directly bound RAN mRNA, likely enhancing its translation. As RAN
+promotes the phosphorylation and activation of Aurora kinase A (AURKA),
+we then demonstrated that LIN28B leads to AURKA activation via RAN.
+Moreover, we demonstrated that AURKA is a direct let-7 target, defining a
+separate mechanism by which LIN28B/let-7 influences AURKA expression.
+Finally, we showed that RAN depletion resulted in decreased neuroblastoma
+proliferation, phenocopying LIN28B depletion.Conclusions: These results
+demonstrate that enhanced LIN28B expression and chromosome 12q24 gain
+each independently promote RAN expression and that LIN28B and RAN
+signaling further converge on AURKA. Collectively, our studies support
+LIN28B as a master regulator of multiple oncogenes implicated in
+neuroblastoma pathogenesis, nominating it as a candidate for therapeutic
+targeting.
+

@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: High-throughput microRNA (miRNAs) arrays unravel the prognostic
+role of miR211 in pancreatic cancer
+
+
+Pancreatic ductal adenocarcinoma (PDAC) is the most lethal among solid
+tumors. Only a subset of patients benefit from chemotherapy, and
+identification of novel prognostic factors is warranted. Recently, miRNAs
+emerged as a pivotal class of regulators for multiple genes involved in
+cancer, including PDAC (Giovannetti et al, Cancer Res 2010), and miRNA
+expression pattern classified tumors better than mRNA data (Lu et al,
+Nature 2005), suggesting their use for diagnostic purposes. However,
+high-throughput arrays detecting more than 1000 miRNAs are opening new
+opportunities to evaluate whether their profiles can also predict
+clinical outcome. Therefore, the present study evaluated whether
+comprehensive miRNA expression profiling by microarray technology can
+predict overall survival (OS) in resected PDAC patients. High-resolution
+miRNA profiles were obtained with the Toray's 3D-GeneTM miRNA chip,
+detecting 1200 types of human miRNA. RNA was isolated from formaldehyde
+fixed paraffin embedded primary tumors of 26 stage-pT3N1Mx homogeneously
+treated patients (gemcitabine 1000 mg/m2/day on days 1/8/15, every 28
+days), selected according to their outcome (OS 30 months). Microarray
+slides of the 19 samples that passed RNA quality check were scanned using
+3D-GeneTM Scanner 3000 with appropriate photomultiplier settings for red
+channel. Each microarray was scanned three times, and then merged into
+one dataset analyzed. Highly stringent statistics included t-test,
+Spearman ranked correlation to generate a distance matrix, and iterative
+approaches. Unsupervised hierarchical analysis revealed that the PDAC
+specimens clustered according to their long/short OS classification,
+while the feature selection algorithm RELIEF identified the top 10
+discriminating miRNAs between the two groups. MiR211 emerged as the best
+discriminating miRNA, with significantly higher expression in long vs.
+short OS patients. The expression of this miRNA was subsequently assessed
+by quantitative RT-PCR in an independent cohort of laser microdissected
+tumors from 60 resected stage-pT3N1Mx PDAC patients treated with the same
+gemcitabine regimen. Patients with low miR211 expression, according to
+median value (12.8 a.u. calculated as Ct vs. RNU6), had a significantly
+shorter median OS (14.8, 95%CI=13.1-16.5, vs. 25.7 months,
+95%CI=16.2-35.1, log-rank P=0.004). Multivariate analysis demonstrated
+that low miR211 expression was an independent factor of poor prognosis
+for OS (hazard ratio 2.3, P=0.03) after adjusting for all the factors
+influencing clinical outcome. In conclusion, through comprehensive
+microarray analysis and PCR validation we identified miR211 as prognostic
+factor in resected PDAC. This miRNA was already associated with melanoma
+invasiveness, but our results prompt further prospective studies as well
+as research on miR211 biological role in PDAC.
+

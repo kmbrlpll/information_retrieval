@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Transcriptome sequencing of pediatric hepatocellular carcinoma
+reveals genomic events involving APC and TERT.
+
+
+Background: The goal of this project is to molecularly characterize a
+cohort of pediatric HCCs in order to understand the spectrum of genetic
+drivers for this disease. Hepatocellular carcinoma (HCC) is a rare
+pediatric liver tumor with a poor prognosis. The fibrolamellar variant of
+HCC (FL-HCC) has a characteristic DNAJB1-PRKACA gene fusion. In
+non-FL-HCC a genetic cause has not been identified. We hypothesize that
+alterations in known cancer genes play a role in non-FL-HCC tumorigenesis.
+
+Methods: We have used RNA sequencing (RNA-seq) on fresh frozen tissue to
+survey a cohort of 8 FL-HCCs, 4 pediatric HCCs, and 6 normal liver
+samples for chimeric transcripts. Fusion transcripts in the tumor samples
+were detected using deFuse on FASTQ files followed by subtraction of
+fusions called in the normal liver dataset. Fusions were verified using
+BLAST and validated by RT-PCR. On average the deFuse algorithm predicted
+150 fusion transcripts per tumor; filtering by normal liver reduced the
+number of calls in the tumors by ~60%. As expected, DNAJB1-PRKACA fusions
+were identified in the FL-HCC cohort with no additional fusions.
+Filtering by the COSMIC Cancer Gene Census list reduced the total number
+of fusion calls to 5 for the HCC dataset (3 unique events, 2 of which
+were confirmed by RT-PCR).
+
+Results: The first event is an inversion disrupting APC, resulting in two
+in-frame fusion transcripts between APC and AP3B1. This fusion was
+confirmed and the intronic breakpoints were mapped in tumor and germline
+DNA through WGS by 10X Genomics®. Variant calling by Platypus on tumor
+RNA-seq reads did not identify additional variants in APC. Reports of
+inversion of APC are rare, however we have identified an additional
+published case of APC inversion in a patient with pediatric HCC. We will
+perform WGS on germline DNA from this patient to determine if the APC
+inversion breakpoint is recurrent. The second event is a deletion
+encompassing the TERT promoter and results in an in-frame fusion between
+TERT and LPCAT1. An increase in TERT expression is seen in this tumor as
+compared to both normal liver and other pediatric HCCs.
+
+Conclusions: The detection of chimeric transcripts by RNA-seq has allowed
+us to identify two structural variants involving known cancer genes in
+two tumors, including an inversion of APC which have been historically
+difficult to detect. These events present a possible genetic cause for
+these tumors and provide genes for further analysis in the remaining
+cases with no identified fusions. These results will inform future
+studies as we expand this cohort to include 18 additional pediatric HCCs
+which we plan to characterize through NGS and targeted sequencing.
+
+

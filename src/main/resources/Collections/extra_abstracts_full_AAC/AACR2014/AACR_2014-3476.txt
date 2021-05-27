@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Profiling CD antigens signature in human hepatocellular carcinoma
+(HCC) by cell-based high-throughput screening flow cytometry (HTS-FC)
+
+
+Accumulating evidence supports the cancer stem cell (CSC) hypothesis,
+which posits that CSCs are the source of many solid tumor types including
+hepatocellular carcinoma (HCC). In HCC, CSCs have been identified by a
+variety of CD antigens, including CD133, CD326 (EpCAM), CD90, CD44, CD24,
+CD13, which could serve as potential therapeutic targets. However, due to
+the heterogeneity of HCC, these markers do not account for CSC activity
+in all tumors, and there is thus a need to identify novel HCC CSC
+markers. We have developed a cell-based high-throughput screening flow
+cytometry (HTS-FC) platform to robustly characterize expression profiles
+of CD antigens on primary human HCC cells. We titrated all commercial
+fluorescence conjugated CD antibodies (CD1 to CD363) into four 96-well
+microplates, isolated and stained HCC cells with CD45 antibody then
+divided and incubated these cells with different CD antibodies in
+microplates (1X10^5 cells/well) followed by a LIVE/DEAD reactive dye
+treatment. Stained plates were fixed and subjected to BD LSR II flow
+cytometry using High Throughput Sampler Unit. Each CD antigen expression
+percentage was analyzed within the CD45 negative subpopulation by FlowJo
+software. After investigating 10 HCC tumors, we performed heat-map and
+cluster analysis using Multi Experiment Viewer software. Our analysis of
+primary human HCC cells demonstrated that previously identified index
+markers of HCC CSC are expressed on a highly variable fraction of tumor
+cells as follows: CD13 (76.10 8.72%), CD24 (7.79 5.33%), CD90 (5.29
+0.84%), EpCAM (0.50 0.46%), CD44 (0.041 0.019%) and CD133 (0.0051
+0.0034%). Based on the heat-map, we classified all CD markers into five
+groups: 20 CD13-like high expressions (30%100%), 12 median expressions
+(10%30%), 32 CD90-like low expressions (1.0%10%), 60 EpCAM-like rare
+expressions (0.03%1.0%) and 249 nonsense expressions. We focused on the
+CD90- and EpCAM-like groups (92 CD candidates) for novel potential CSC
+markers. Using quantitative real-time RT-PCR, we determined the mRNA
+level of 92 antigens in reference to the EpCAM+/CD133+ CSC subpopulations
+sorted from 4 human HCC cell lines (HepG2, Hep3B, PLC/PRF/5 and Huh7) and
+identified 20% of these 92 candidates with stem/progenitor mRNA
+phenotype. We then measured the mRNA level of these remaining candidates
+in 40 pairs of primary human HCC tumor/adjacent normal tissues and
+identified two novel CD antigens showing high tumor specificity. We are
+now purifying these cells from primary HCC tumors in order to determine
+whether these small populations identify cells with CSC activity in
+xenograft models and sphere-forming assays. These studies demonstrate
+that cell-based high-throughput screening flow cytometry screening can be
+used in combination with other cell/molecular biological techniques to
+identify novel populations of tumor cells with unique functional
+characteristics.
+

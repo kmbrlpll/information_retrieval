@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Highly multiplexed and precisely calibrated reference materials
+for copy number variation detection.
+
+
+Introduction: Genomic instability is a hallmark of cancer, and copy
+number variation (CNV), including gene duplication and deletion, can be a
+key driver of oncogenesis. Detection of CNV is needed for personalized
+treatment, and may involve microarray analysis or Next Generation
+Sequencing. Often, DNA from patient-derived cell lines is used as
+positive control material in these assays. However, these materials are
+often poorly characterized, may change over time, and have additional
+confounding genetic alterations. Here we describe the development of new
+reference materials that are highly characterized by digital PCR and can
+aid in the validation and calibration of new diagnostic assays for CNV.
+
+Methods: The GM24385 reference cell line has been extensively
+characterized by the Genome in a Bottle project1 and originates from a
+participant in the Personal Genome Project. DNA from this cell line was
+used to make a library of full-length gene inserts. The library had >12X
+coverage of the GM24385 genome and an average insert size of ~135 Kb. PCR
+based screening was used to identify and isolate full length MYC, FGFR3
+and ERBB2 genes. Next Generation Sequencing, using Illumina Nextera
+library preparation kits and a MiSeq instrument, was used to verify the
+gene of interest. The genomic DNA and gene inserts were then formulated
+into reference materials, in purified DNA format to amplify the copy
+numbers of these key genes. Digital PCR was used to control the mixing
+and verify the number of copies of genes and/or mutations within the
+reference material.
+
+Results: The sequence confirmed genes were formulated into GM24385
+genomic DNA at levels consistent with 5X and 10X amplification. Testing
+on the ArcherDx VariantPlex™ Solid Tumor Kit indicated that each
+amplification could be detected at the expected level.
+
+Conclusions: Highly characterized and consistently manufactured reference
+materials for copy number detection are currently lacking. The described
+Seraseq CNV Reference Materials provide proof of concept for a
+biosynthetic, engineered material that uses digital PCR as an orthologous
+reference method and provides a “ground truth” copy number level for
+key oncogenes.
+
+

@@ -1,0 +1,61 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identifying predictive markers of endocrine response in high-grade
+serous ovarian cancer using RNA sequencing.
+
+
+Epithelial ovarian cancer is a complex disease and patients vary
+considerably in response to treatment. A subset of patients responds well
+to endocrine therapy, however hormone receptor positivity does not
+predict response and there are no biomarkers in clinical use to help
+select patients that would benefit from endocrine agents. We aimed to
+identify markers of endocrine response in high-grade serous ovarian
+cancer (HGSOC) by analysis of genes that are differentially expressed in
+tumors from patients that are endocrine responders compared with
+non-responders, combined with analysis of estrogen (E2) regulated genes
+that differ between E2 sensitive and E2 insensitive HGSOC cell lines.
+
+Methods: Among women recruited to the Australian Ovarian Cancer Study, we
+identified 10 HGSOC patients treated with endocrine therapy (5 responders
+and 5 non-responders, based on GCIG CA125 response criteria) and
+performed RNAseq on cryopreserved tumor tissue. We also utilized paired
+E2 receptor (ER) positive HGSOC cell lines, derived from the same
+patient, with differential sensitivity to the growth effect of E2, PEO1
+(E2 insensitive) and PEO4 (E2 sensitive). RNA was extracted following
+treatment with 0.1 nM E2 (or vehicle) for 24 hrs and gene expression
+changes in response to E2 were determined using RNAseq. Expression of
+selected ER responsive genes was validated using PCR array. Differential
+gene expression was determined using EdgeR. Pathway and Gene Ontology
+enrichment analysis of differentially expressed genes were performed
+using Metacore.
+
+Results: Between endocrine responders and non-responders, 27 genes were
+significantly differentially expressed (False Discovery Rate
+(FDR)Results: Between endocrine responders and non-responders, 27 genes
+were significantly differentially expressed (False Discovery Rate
+(FDR)<0.05, absolute log2 Fold-Change (FC)≥1). In the paired HGSOC cell
+lines, significantly more genes were regulated by E2 in E2-sensitive
+PEO4, compared with E2-insensitive PEO1 (896 genes compared to 56 genes,
+respectively, FDRResults: Between endocrine responders and
+non-responders, 27 genes were significantly differentially expressed
+(False Discovery Rate (FDR)<0.05, absolute log2 Fold-Change (FC)≥1). In
+the paired HGSOC cell lines, significantly more genes were regulated by
+E2 in E2-sensitive PEO4, compared with E2-insensitive PEO1 (896 genes
+compared to 56 genes, respectively, FDR<0.05, absolute log2FC≥1). In
+response to E2, up-regulation of NRP1 in PEO1, up-regulation of LTBP1,
+MYC, PDZK1 and down-regulation of S100A6 and CYP1A1 in PEO4 were
+validated by PCR array profiling of ER-related genes. Genes regulated by
+E2 in cell lines and also differentially expressed between endocrine
+responders and non-responders included anoctamin 1 (ANO1) and
+NOTCH-Regulated Ankyrin Repeat Protein (NRARP). Both were up-regulated in
+endocrine responders and also up-regulated by E2 in PEO4.
+
+Conclusion: The use of RNAseq in both tumors and cell line models was
+able to identify plausible sets of genes with prior evidence of
+association with endocrine sensitivity. In breast cancer, ANO1 has been
+associated with good prognosis following tamoxifen treatment, while NOTCH
+signaling, implicated in endocrine resistance, is negatively regulated by
+NRARP. Further validation is required to test the utility of these genes
+as predictive biomarkers that may aid in identifying HGSOC patients
+likely to respond to endocrine treatment.
+
+

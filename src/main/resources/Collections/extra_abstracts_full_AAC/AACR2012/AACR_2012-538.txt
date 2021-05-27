@@ -1,0 +1,43 @@
+Meeting: 2012 AACR Annual Meeting
+Title: ROS differentially regulates prostate cancer cell survival
+
+
+In vitro and in vivo studies have shown that ROS accumulation correlates
+with increasing aggressiveness of prostate cancer cells, and increased
+expression of oncogenic molecules, such as CXCR4. CXCR4 is a G-Protein
+Coupled Receptor that is heavily implicated in the metastatic
+dissemination of prostate tumor cells to bone marrow. In cancer and other
+cell models, CXCR4 expression and activity increases in response to
+hypoxic environments and/or oxidative stress. Cells react by inducing
+expression of a HIF1 transcription factor, which enhances expression of
+targeted genes involved in adjusting to oxidative stress and cell
+survival. HIF1 has been shown to directly induce the expression of CXCR4
+in prostate cancer cells. Therefore, generation of ROS in tumor tissues
+may critically influence CXCR4-mediated expression and functions,
+ultimately encouraging cancer progression. In this study, we elucidate a
+mechanism by which ROS induces CXCR4 expression and function in prostate
+cancer cells. We initially investigated the role of ROS on the
+phosphorylation of AKT (p-AKT) and ERK1/2 (p-ERK1/2) in DU145 and 22Rv1
+prostate cancer cell lines. Using H2O2 as our model of ROS, we found that
+H2O2 induced a gradual expression of p-AKT and p-ERK1/2 by western blot
+analysis, which was abrogated by the ROS scavenger N-acetyl cysteine
+(NAC). It has been shown that PTEN is a negative regulator of AKT and
+ERK1/2 signaling, and that ROS accumulation inactivates PTEN phosphatase
+function; hence, we determined whether the increase in p-AKT and p-ERK1/2
+expression was due to loss of PTEN function. By performing a phosphatase
+assay, we found that H2O2 inhibited PTEN catalytic activity compared to
+untreated cells, while NAC abrogated these effects in both cell lines.
+The increase in ROS and loss of PTEN has been shown to correlate with
+CXCR4-mediated function; therefore, we determined the role of H2O2 on
+CXCR4 expression. We found that H2O2 induced CXCR4 expression in DU145
+cells, but not in 22Rv1 cells. Furthermore, we investigated whether
+ROS-mediated induction of CXCR4 was HIF1 dependent. Interestingly, H2O2
+induced expression of HIF1 in DU145 cells, which was abrogated by siRNA
+for HIF1. HIF1 expression decreased in 22Rv1 cells, which correlated with
+apoptosis, as confirmed by Annexin-V analysis. Finally, we observed that
+the H2O2-mediated increase in CXCR4 enhanced transendothelial invasion
+and migration in DU145 cells in a CXCR4 dependent manner. Our study
+suggests that ROS differentially regulates CXCR4 expression and function
+in prostate cancer cells, suggesting that ROS plays a differential role
+on heterogeneous tumor mass.
+

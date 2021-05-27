@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Preclinical validation for treatment with RG7787 in ovarian cancer
+
+
+RG7787 is composed of a Fab fragment from an anti-MSLN antibody fused to
+a de-immunized and truncated pseudomonas endotoxin A variant. Once RG7787
+is bound and internalized by MSLN positive cells, the toxin is
+transported to the cytosol, where it inhibits protein synthesis,
+eventually causing tumor cell death.Mesothelin (MSLN) is a tumor specific
+differentiation antigen. On normal tissue, its expression is restricted
+to differentiated mesothelial cells that line as single cell layer body
+cavities and major organs (e.g. pleura, pericardium, and peritoneum). In
+cancer, MSLN is highly expressed not only on mesotheliomas but also on a
+number of other types of solid tumors like ovarian and pancreatic cancer.
+In both indications patients frequently also have significant serum
+levels of the cancer antigen-125 (CA-125), sometimes even >1000 U/ml.MSLN
+has been described to bind CA-125 and this interaction has been suggested
+to play a role for the ability of cancer cells to metastasize e.g. to the
+peritoneum. The region in MSLN that is responsible for its interaction
+with CA-125 has been reported to overlap with the binding epitope of
+RG7787 potentially resulting in competition between CA-125 and RG7787 for
+binding to MSLN. The high percentage of MSLN positive cases as well as a
+clear unmet medical need makes ovarian and pancreatic cancer promising
+indications for clinical development of RG7787. We investigated, whether
+abundance of CA-125 can negatively affect ability of RG7787 to bind and
+be taken up by tumor cells thereby antagonizing RG7787 treatment.We found
+that indeed RG7787 competes with CA-125 for binding to mesothelin.
+However, in SPR experiments, the interaction of MSLN with CA-125 was not
+strong enough to block binding of the anti-MSLN Fab moiety that targets
+RG7787 to tumor cells. At 20C the absolute affinity (KD) of RG7787 for
+human MSLN was determined to be 12.5 pM using two orthogonal affinity in
+solution methods, ELISA and SPR. In agreement with such high affinity
+binding, we found that adding soluble CA-125 to cell viability assays did
+not reduce the cytotoxic potency of RG7787. In one set of assays, ascites
+fluid containing a 10 fold excess of CA-125 compared to the average
+levels observed in sera of ovarian patients was used for competition. In
+another set of assays, we used a 100 fold excess of a truncated
+recombinant CA-125 fragment, containing the domain that interacts with
+MSLN. Neither the ascites fluid, nor the recombinant CA-125 fragment had
+any effect on the in-vitro potency of RG7787, indicating that soluble
+CA-125 levels in patients will not antagonize RG7787 treatment. Finally
+we demonstrated in cell-cell interaction assays that RG7787 can
+efficiently block the attachment of MSLN positive cells to OVCAR3 cells
+that express high levels of CA-125 on their surface. Based on these
+encouraging data we are currently evaluating in-vivo efficacy of RG7787
+in a patient-derived ovarian cancer model.
+

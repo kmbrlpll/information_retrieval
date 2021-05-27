@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: p53 is differentially regulated in proliferative and invasive
+melanoma cells
+
+
+Melanoma is one of the few cancer types where p53 is not often mutated.
+Cancers which have not mutated TP53, often attenuate p53 activity by
+affecting upstream regulators or downstream effectors of p53. As melanoma
+progresses, it by passes senescence, proliferates, and switches from a
+proliferative phenotype to a more invasive phenotype. We have found that
+invasive melanomas, characterized by high levels of the pro-invasive Wnt
+molecule, Wnt5A, express active p53. Conversely, melanomas with a more
+proliferative phenotype, characterized by increased MITF signaling and
+low Wnt5A expression, do not express active p53. We show that the
+expression of p53 appears to be controlled by Wnt5A, and this may occur
+via CAMKII. By Western blot, we have observed that more proliferative
+melanoma cells express a high molecular weight p53 (250 kDa). This high
+molecular weight p53 does not break down on an SDS-PAGE gel. Knocking
+down p53 in proliferative and invasive melanoma cells, using siRNA,
+decreases the high molecular weight band in the proliferative cells, and
+the 53 kDa band in the more invasive cells. When we over express
+HA-tagged p53 in proliferative cells, we see multiple bands for p53 by
+Western blot, including the high molecular weight bands, suggesting that
+p53 is being post-translationally modified in these cells. We confirmed
+that ubiquitination is involved in the formation of the high molecular
+weight p53, by treating proliferative cells with SMER3, an E3 ligase
+inhibitor. Following two hours of treatment, the high molecular weight
+p53 band decreased and this decrease persists for 16 h. Next, we
+transfected an E6 ligase into invasive melanoma cells, which express
+active p53. Expression of the E6 ligase increased the expression of the
+high molecular weight p53 band (250 kDa), but these cells also continued
+to express active p53 (53 kDa). To determine if ubiquitination is
+targeting p53 for degradation in proliferative cells, we treated invasive
+and proliferative cells with MG132, a proteasome inhibitor. Following
+treatment with MG132, p53 (53 kDa) increased in invasive cells,
+suggesting that p53 is degraded via the proteasome in these cells.
+However, when we treated proliferative cells with MG132 we did not see an
+increase in the high molecular weight band, suggesting that p53 is not
+being degraded via the proteasome in these cells. By immunofluorescence,
+we found that p53 is in the cytoplasm of proliferative cells, suggesting
+that ubiquitination may be playing a role in sequestration of p53 in
+proliferative cells. In invasive cells, p53 remains largely nuclear, and
+we demonstrate that this plays critical roles in response to therapy,
+counter-intuitively driving resistance, by allowing cells to undergo an
+adaptive stress response that we term pseudosenescence
+

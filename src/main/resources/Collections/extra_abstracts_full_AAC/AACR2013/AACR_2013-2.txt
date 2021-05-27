@@ -1,0 +1,44 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Genome-wide DNA methylation profiling identifies novel diagnostic
+and prognostic biomarkers in early stage prostate cancer.
+
+
+Prostate cancer (PCa) is the most prevailing cancer in the male
+population and the second-leading cause of cancer-related death in the
+Western world. Although genomic alterations during PCa development have
+been recently characterized [1], substantial evidence shows that
+genome-wide epigenetic insults complement or even precede genetic
+alterations [2]. Promoter CpG island methylation frequently correlates
+with gene silencing of functional genes. Therefore we hypothesized that
+scanning for early-silenced genes by profiling hypermethylation sites of
+promoter CpG islands would facilitate identification of novel methylation
+biomarkers with potential functions during prostate carcinogenesis.DNA
+from 9 primary pT2a tumors and matched normal tissue was subjected to
+enrichment of methylated sequences using Methyl CpG Immunoprecipitation
+(MCIp) [3], followed by array co-hybridization using Agilent CpG island
+arrays. Candidate genes were selected according to 1) hypermethylation in
+gene promoter regions in tumor tissue and 2) reduced expression in PCa in
+comparison to normal prostate tissue based on published gene expression
+datasets. DNA methylation was quantified by mass spectrometry-based
+EpiTYPER technology [4].We identified 245 promoter CpG islands
+corresponding to 207 genes that were hypermethylated in at least 6/9
+early stage PCa. Gene ontology enrichment analyses indicated enrichment
+of homeobox genes, and of gene functions such as regulation of
+transcription, cellular biosynthesis and morphogenesis, and neuron
+development. Quantitative methylation analysis of 9 selected candidate
+genes confirmed significant hypermethylation in the range of 20 -50% in
+6/9 tumors of the initial discovery set in comparison with normal
+prostate tissue. Further validation in 37 sample triplets of matched
+normal tissue - prostate intraepithelial neoplasia (PIN) - tumor tissue
+indicated significant hypermethylation of SPG20 (spastic paraplegia 20,
+p=0.023, Wilcoxon signed-rank test), SPATA6 (spermatogenesis associated
+6, p=0.017), and DUOXA1 (dual oxidase maturation factor 1 alpha, p=0.017)
+already at the PIN stage. Moreover, methylation analysis of 60 prostate
+tumor samples with increasing malignancy revealed a significant
+correlation between DNA hypermethylation patterns and biochemical
+recurrence of prostate cancer (p=0.008, log-rank test).From this
+genome-wide study we identified relevant biomarkers for early-detection
+and prognosis of early stage prostate cancer. The identified genes might
+represent interesting candidates to further investigate their function in
+the molecular pathogenesis and development of prostate cancer.
+

@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Negative enrichment of circulating tumor cells using geometrically
+activated surface interaction (GASI) chip.
+
+
+Circulating tumor cells (CTCs), existing extremely rare in peripheral
+blood (the order of one cell per 1* 106 nucleated cells), have attracted
+a lot of attention as they can be exploited to investigate metastasis.
+The isolation of intact CTCs is challenging owing to their rarity and
+heterogeneous features.A lot of methodologies for CTCs enrichment in
+blood were focused using antibodies to epithelial cell adhesion molecule
+(EpCAM). However, the recent studies found that the CTCs undergo a
+process of epithelial-mesenchymal transition (EMT) to adapt oneself to
+new circumstances which is blood stream and down regulated EpCAM
+expression on their surface. It is thought that the many CTCs may escape
+detection by conventional detection methods. So, we decided to use the
+negative enrichment (i.e. capturing WBCs which are non-target cells and
+eluting CTCs which are target cells) for isolation of intact and
+heterogeneous CTCs.To capture a large number of WBCs in the channel, we
+developed a geometrically activated surface interaction (GASI)-Chip which
+is based on the asymmetric herringbone that generate the enhanced mixing
+flows increasing the surface interaction between the WBCs and CD45
+antibody-conjugated channel surface. Using the optimized experimental
+conditions, we isolated 94.67% of MCF-7 cells (breast cancer cell line)
+and eliminated 98.94% of Jurkat cells (human T cell lymphoblast like cell
+line) at 20 L/min flow rate.Based on these results, we have attempted to
+isolate CTCs from patients with several kinds of metastatic cancer
+patients under the same conditions. The blood samples (1ml) were
+collected from breast, gastric and lung cancer patients, respectively.
+After blood samples passed through the GASI-Chip, collected cells were
+fixed on a slide glass and stained with DAPI for DNA content, PE
+conjugated Cytokeratin for CTC, and FITC conjugated CD45 for WBC.
+Following imaging the slide glass, captured images were examined
+carefully with predefined criteria (DAPI positive, Cytokeratin positive,
+CD45 negative). The number of isolated CTCs varied from 1 to 51 in 1 ml
+of blood. Although this device was not intended to process full clinical
+blood draws, which typically yield 7.5 mL, quite a number of CTCs can be
+detected from only 1ml of blood compared with other approaches based on
+the characters of CTCs such as size. Furthermore, the intact and
+heterogeneous CTCs can be isolated regardless of EpCAM expression because
+our devices do not require any labeling processes (e.g., EpCAM antibody
+for CTC).
+

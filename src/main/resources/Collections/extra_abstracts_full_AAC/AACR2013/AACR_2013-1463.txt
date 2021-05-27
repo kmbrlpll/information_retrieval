@@ -1,0 +1,38 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Detection of cancer before distant metastasis.
+
+
+Introduction: The majority of deaths from cancer are due to disseminated
+disease rather than the primary tumor. As metastases are often discovered
+years after surgical removal of the primary tumor, probably at least one
+metastasis was already present at the time of surgery. To establish a
+distant metastasis cells must disseminate from the primary tumor and
+overcome a series of obstacles, the metastatic cascade. In this study we
+develop a mathematical model for this cascade to estimate the technology
+requirements for detection of a primary tumor before the first metastasis
+has been formed.Methods: The metastatic cascade is described in discrete
+steps: 1. local tumor growth; 2. dissemination into circulation; 3.
+survival in circulation; 4. extravasation into tissue; and 5. growth into
+a metastasis. The model was built using data and relationships described
+in the literature to predict the relationship between tumor size and
+probability of distant metastasis for 38715 patients with surgically
+removed TxNxM0 primary breast cancer from the Netherlands Cancer
+Registry. The model was calibrated using primary tumor size, probability
+of distant metastasis and time to distant metastasis for 1489 patients
+with stage T1bNxM0 (25% of total patients with T1bNxM0). Validation of
+the model was done with data for all patients.Results: From the time to
+distant metastasis of these 38715 breast cancer patients, we determined a
+tumor doubling time of 1.7 0.9 months. Fitting the data for 25% of T1b
+patients estimates a metastatic efficiency of 1 metastasis formed per 60
+million disseminated tumor cells. Validation of the model to data of
+patients in all T-stages shows good agreement between model and
+epidemiological data. To reduce the 5-year risk of distant metastasis for
+TxNxM0 from 9.2% to 1.0%, the primary tumor needs to be detected and
+removed before it reaches a diameter of 2.7 1.6 mm. At this size, the
+model predicts that there will be 9 6 CTC/L blood.Conclusions: To reduce
+the rate of distant metastasis in surgically treated TxNxM0 breast cancer
+to 1%, imaging technology will need to be able to detect lesions of 2.7
+mm in diameter or smaller. Before CTC detection can be applied in the
+early disease setting, sensitivity will need to be improved by at least
+15-fold and combined with technology that minimizes false positives.
+

@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genome-wide examination of topological variability reveals cell
+type-specific mechanisms of oncogene activation.
+
+
+INTRODUCTION:
+
+The organization of chromatin within the nucleus into hierarchical
+three-dimensional (3D) structures plays a key role in the regulation of
+gene expression. Differences in 3D architecture, such as the presence or
+absence of “loops” between specific enhancers and their target genes,
+are a major driver of transcriptional and phenotypic variation. By
+determining the accessibility of genes to transcriptional machinery and
+distal regulatory regions, mechanisms mediating oncogene activation can
+be discerned. Recent studies have implicated pathogenic alterations in
+genome topology with the activation of proto-oncogenes in a multitude of
+cancers.
+
+METHODS:
+
+To characterize the topological changes associated with different cancer
+states, we developed a computational suite of tools that facilitates the
+systematic discovery, annotation, and visualization of features in
+chromatin topology and assigns statistical confidence estimates to
+regions with variability between cellular phenotypes. Our framework
+facilitates the integration of heterogeneous genomic data, including gene
+expression, histone modification, DNA methylation, open chromatin, and
+genetic variation, to further characterize changes in 3D genome.
+Ultimately, we propose a joint model that functionalizes the effect of
+epigenetic modifications on transcription as mediated through
+hierarchical chromatin structure.
+
+RESULTS:
+
+We identify regions of topological variation unique to breast cancer,
+cervical cancer, glioblastomas with and without an IDH1 mutation,
+melanoma, and leukemia. Patterns of disrupted insulation and subsequent
+localization of enhancers to proto-oncogenes can be attributed to
+variation in the epigenome, including variation in DNA methylation and
+open chromatin, at distal regulatory regions. These 3D alterations
+provide a mechanism for activation of specific oncogenic pathways,
+including signaling mediated by p38, PLK3, and BRCA.
+
+CONCLUSIONS:
+
+Variable patterns of chromatin topology provide a unique signature and
+mechanism of oncogenes for the cancer phenotypes considered.
+Additionally, our framework provides a novel means for interpreting
+epigenetic variability, particularly at distal regulatory regions, and
+explaining transcriptional variation associated with cancer phenotypes as
+mediated through structural changes in the DNA.
+
+

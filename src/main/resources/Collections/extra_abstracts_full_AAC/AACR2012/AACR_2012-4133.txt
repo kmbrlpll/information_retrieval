@@ -1,0 +1,45 @@
+Meeting: 2012 AACR Annual Meeting
+Title: MicroRNAs for early detection of lung cancer
+
+
+Introduction: Early detection of lung cancer by screening of high risk
+populations (identified by epidemiological and life-style factors) has
+the potential to save many lives. However, effective screening is reliant
+on minimally invasive techniques, such as CT screening, bronchioalveolar
+lavage (BAL) and blood tests, and the identification of suitable
+biomarkers. CT screening is effective in reducing mortality, but
+generates a large proportion of indeterminate nodules that must be
+further characterised. MicroRNAs (miRNA) have great potential as
+biomarkers due to their tissue-specific and cancer-specific expression
+patterns. We have identified tumour-specific miRNAs for non-small cell
+lung cancer (NSCLC), using a combination of screening on TaqMan microRNA
+TLDA cards and validation with qRTPCR assays, with the aim of utilising
+these as biomarkers in the early detection setting. Methods: Our sample
+group consisted of 31 frozen samples from 20 Liverpool Lung Project (LLP)
+NSCLC patients, including 10 adenocarcinomas (Ad), 10 squamous cell
+carcinomas (SCC) & matched normal tissue. Two further validation sets
+consisted of equal numbers of Ad and SCC tumour/normal pairs (124 in
+total). MiRNA was prepared from tumour and normal specimens using Qiagen
+MicroRNeasy kits. Reverse transcription and pre-amplification was
+performed using Applied Biosystems MegaPlex Pools and miRNAs were
+quantified on a 7900HT Real-Time PCR System with TaqMan Array Human MiRNA
+Card Set v3.0 (covering 754 human miRNAs). Ct values were exported using
+SDS v2.3 data and RQ Manager software and further analysed in
+Bioconductor. Validation qRTPCR was performed with individual miRNA
+assays, following reverse transcription with MegaPlex pools. Results:
+When Benjamin-Hoechst-adjusted-p value 4.0 fold-change in the cancer
+group. A subset of 22 miRNAs including miR-34a, miR-96, let-7g and
+miR-183 was identified with the greatest expression in tumours.
+Differential expression of all 22 miRNAs was confirmed in an independent
+set of 24 tumour/normal pairs. Using these 22 validated miRNAs we
+performed discriminative modelling and identified a model based on just 8
+markers that gave a specificity of 100% and a sensitivity of 98%. This
+panel was validated, with 97% specificity and 91% sensitivity, in a 2nd
+independent sample set containing 48 tumours and paired normal samples.
+Conclusion: A number of miRNAs was identified that showed good
+discriminatory power individually, but greatest sensitivity and
+specificity when combined as an 8 member panel. The lung cancer specific
+miRNAs we have identified provide a potential source of early detection
+biomarkers. Their applicability to minimally-invasive samples is being
+evaluated in a range of samples including plasma and bronchial lavage.
+

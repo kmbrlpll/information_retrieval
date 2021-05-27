@@ -1,0 +1,35 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Urine cf-DNA SNPs as early biomarkers of prostate cancer
+
+
+Background: The current strategies of prostate cancer (PC) detection,
+such as serum PSA, digital rectal examination (DRE) and prostate biopsy
+have been hampered by many limitations, including the degree of
+aggressiveness, invasiveness, non-specificity to PCa, over diagnosis and
+over treatment. Recent studies have proposed the use of cell-free
+circulating DNA (cf-DNA) as non-invasive biomarkers for cancer diagnosis,
+prediction of tumor burden and prognosis. We hypothesize that a selective
+subset of PC associated Single Nucleotide Polymorphisms (SNPs) in urine
+cf-DNA detects PCa with high specificity and sensitivity.Aim: To identify
+PC specific SNPs in urine cf-DNA from prostate cancer (PC) patients and
+further validate their clinical utilities as non-invasive biomarkers for
+early detection of PC in comparison to other genitourinary conditions,
+such as benign prostate hyperplasia (BPH) and prostatitis.Method and
+Results: A protocol was optimized for collection, processing and storage
+of urine samples and isolation of urine cf-DNA. Our discovery dataset was
+constructed by comparative Illumina HiSeq next generation sequencing
+(NGS) of urine cf-DNA from three different cohorts of patients presenting
+with PC (Gleason score 6), benign prostatic hyperplasia (BPH) or
+prostatitis. The data was analyzed by SNAPE-pooled and annotated using
+ANNOVAR; revealing 24 PC-specific non-synonymous SNPs. The selective
+detection of urine cf-DNAs in PC patients was verified by conventional
+PCR using primers flanking their genomic sites. Our validation analysis
+was performed in patients (n = 50/group) diagnosed with PC (Gleason score
+3+4), Gleason score than 4 + 3, or patients deemed as no cancer seen.
+This was performed by Droplet Digital PCR (ddPCR) targeting wild-type
+versus variant (SNP) DNA in each patient sample. The results have
+revealed detection of two PC specific SNPs in urine cf-DNA (>60% for SNP1
+and >75% SNP2 in 91 patients; patent pending).Conclusion: Our study
+brings forth the potential clinical utility for two novel urine cf-DNA
+SNPs as early biomarkers for prostate cancer.
+

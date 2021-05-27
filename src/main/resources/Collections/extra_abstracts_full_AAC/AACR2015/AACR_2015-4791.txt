@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Prognostic model of lower grade gliomas
+
+
+BackgroundLower grade gliomas (LGGs WHO grade II/III glioma) account for
+one third of all gliomas. Most LGGs generally show a slow progression,
+but some show a more aggressive clinical course, where several
+clinical/genetic factors, such as tumor size, presence of neurologic
+deficit before surgery and 1p19q LOH, have been reported to correlate
+patients survival. However, no large-scale studies prevent establishment
+of a reliable prognostication system.MethodsStatus of somatic mutations
+and copy number variations (CNVs) were investigated for 335 Japanese
+patients with LGG using whole exome/targeted sequencing and single
+nucleotide polymorphism-array karyotyping, respectively. Corresponding
+data were also publically available for 425 patients from the Cancer
+Genome Atlas (URL: http://cancergenome.nih.gov/). Correlation of genetic
+lesions and other parameters with overall survival (OS) was analyzed for
+combined 538 patients, which were divided into two sets, 269 training and
+269 validation sets. First, the 269 patients of the training set were
+classified into 3 types according to the characteristic mutations and
+CNVs: Type 1 (mutated IDH with 1p/19q LOH), Type 2 (mutated IDH without
+1p19q LOH), Type 3 (IDH wild type) patients. Using the LASSO Cox
+regression model, we built a classifier based on gene mutations, CNVs
+(over 5% of cases), sex, age, pathology, WHO grade and operation type
+(gross total resection or not). We validated the accuracy of this
+classifier in terms of prediction of OS in the independent group of 269
+patients.ResultsUsing the LASSO model, the patients in Type 1 and 3 were
+grouped into low- and high-risk groups, whereas Type 2 was not because no
+significant risk factors were extracted for Type 2 patients. Combining
+high-risk Type 1 and Type 2, between which OS was not significantly
+different, the entire training set was divided into 4 groups showing
+significantly different OS, low- and intermediate-risk groups and high-
+and very high-risk groups, respectively. In the training set, 5-year OS
+for low-, intermediate-, high-, and very high-risk groups was 100%, 82%,
+49%, and 0%, which were 94%, 70%, 43%, and 14%, in the validation set,
+respectively. The performance of the new model was evaluated by receiver
+operator characteristic (ROC) analysis, which showed significantly higher
+accuracy compared to other models based solely on clinical/histological
+parameters, including pathology, WHO grade and Karnofsky performance
+status (KPS).ConclusionWe established a new classifier based both on
+genetic and clinical parameters, which provides a reliable tool for
+predicting OS in LGGs patients and should be useful to guide therapy.
+

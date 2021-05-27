@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Genome-wide miRNA methylation analyses in non-small cell lung
+cancer patients
+
+
+Deregulated DNA methylation (referred to as methylation) leading to
+transcriptional inactivation of certain genes occurs frequently in
+non-small cell lung cancers (NSCLC). Besides protein encoding genes also
+microRNA (miRNA) encoding genes were found to be targets for methylation
+in NSCLCs, however, the number of known methylated miRNA genes is still
+small. Thus, we investigated genome-wide methylation of miRNA genes in
+primary tumors (TU) and corresponding non-malignant lung tissue samples
+(NL) of 50 NSCLC patients using methylated DNA immunoprecipitation
+followed by custom designed tiling microarray analyses (MeDIP-chip).
+Differentially methylated miRNA genes between TU and NL samples were
+identified using paired t-statistics with permutation adjusted p-values
+for step down multiple testing. Using this approach, 201 differentially
+methylated probes between TU and NL samples were found. These probes were
+annotated resulting in the identification of 39 tumor-specifically
+methylated miRNA genes. 79% of them are associated with a 5 CpG island.
+While some of these miRNA genes were already known to be methylated in
+NSCLCs (e.g. miR-9-3, miR-124) methylation of the vast majority of them
+was unknown so far.We selected 6 miRNA genes (miR-10b, miR-1179, miR-137,
+miR-572, miR-3150b and miR-129-2) for gene-specific methylation analyses
+in TU and corresponding NL samples of 108 NSCLC patients and observed
+statistically significant tumor-specific methylation of these miRNA genes
+which confirmed our MeDIP-chip data (p 1.000 NSCLC patients from The
+Cancer Genome Atlas database, we found that many of the predicted miRNA
+targets are upregulated in TU samples (e.g. CCNE1, HMGB3, HOXD11, TFAP2A,
+ZIC2). Based on these findings, we investigated if miR-1179 indeed
+targets CCNE1 in vitro. Thus, we transfected miR-1179 mimics into CCNE1
+expressing NSCLC cell lines (HTB182 and NCI-H1650). Using RT-PCR, we
+found downregulated CCNE1 expression in cells transfected with miR-1179
+mimics compared to cells transfected with controls. In addition, we
+observed downregulated CCNE1 expression in cells transfected with
+miR-1179 mimics compared to cells transfected with controls by Western
+blot analyses. Additional functional analyses of miR-1179 targets as well
+as of other miRNA targets are ongoing.In conclusion, we identified a
+large number of tumor-specifically methylated miRNA genes in NSCLC
+patients and found that some of these miRNAs target certain oncogenes in
+NSCLC cells. Overall, our findings emphasize the impact of miRNA gene
+methylation on the pathogenesis of NSCLCs.
+

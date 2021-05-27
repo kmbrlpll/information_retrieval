@@ -1,0 +1,36 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Population Pharmacokinetic (PPK) modeling of ProLindac (AP5346), a
+nanopolymer prodrug of diaminocyclohexane (DACH)-platinum (Pt) in
+recurrent advanced ovarian cancer (AOC) patients
+
+
+Background: ProLindac (PL) is a 25 kDa hydroxypropylmethacrylamide
+copolymer linked to a DACH-Pt. The DACH-Pt complex is thought to be
+biologically inert while attached to the polymer, with slow in vivo Pt
+release accelerated in low pH environments (extracellular space of
+hypoxic tumor and intracellular lysosomal compartment). Methods: 9/35
+patients (pts) with recurrent OAC treated with single-agent PL via 2-h IV
+infusion at doses of 900 mg/m*2 q2w (3 pts), 1400 mg/m*2 q3w (3 pts) and
+1680 mg/m*2 q3w (3 pts) were assessable for full PK analysis. 8 time
+point samples were collected on cycle 1, and 2 samples at cycles 2, 3 and
+4. The ultrafiltration procedure used Ultra-4 filters (Amicon) with 50
+kDa for unbound PL (U-PL) and 3 kDa for unbound Pt (U-Pt) cut-off. Urine
+was collected every 6 h from day 1 to 5 of dosing 1. Pt levels were
+measured by a validated Flameless Atomic Absorption Spectrometry Method
+(concentration range: 12.5 - 500 ng/mL). PPK was modeled using a
+nonlinear mixed effect model program (Monolix version 3.1s) by computing
+the maximum likelihood estimation of the parameters without any
+approximation of the model. Results: A 3-compartment open model
+adequately described the total PL time-concentration curve with linear
+elimination while a 2-compartment model satisfactorily described U-PL and
+U-Pt time-concentration curves with linear elimination. Mean PPK
+parameters with SD are summarized below: The mean recovery of PL dose in
+urine was at least 60% within 5 days. Conclusion: The central Vd for
+total PL Pt is rather small, close to the circulating blood volume
+suggesting that the major part of parent drug is restrained in the
+circulatory space with weak tissue diffusion probably due to a high
+protein binding rate. However, for U-PL and U-Pt, the Vd is much higher
+suggesting: 1) a significant tissue diffusion of active species
+(free-Pt), 2) PL is bound to plasma proteins with low-energy bonds.
+
+

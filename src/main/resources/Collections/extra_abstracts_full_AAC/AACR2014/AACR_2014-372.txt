@@ -1,0 +1,46 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Choosing the right schedule for progression free survival: A
+systems pharmacology approach
+
+
+Drug resistance is a common feature of many cancer therapies and often
+limits their long-term effectiveness. Most anticancer agents are
+developed with an initial focus on Objective Response (short-term
+response), despite clinical evidence that, for most cancers, this does
+not correlate with long term therapeutic benefit (Progression-Free
+Survival), due to the emergence of resistance.Viewing cancer as a disease
+of somatic Darwinian evolution reframes resistance as a consequence of
+competing populations of tumor cells within a polyclonal tumor, each
+responding differentially to selection pressure. In this context, the
+amplification of pre-existing resistance to therapy has been implicated
+as a common cause of treatment failure.Here we ask how drug scheduling
+can impact long-term response to therapy, using an evolutionary model of
+tumor kinetics. First, we apply a dynamic model of tumor kinetics with
+competing subclones of tumor cells to a published dataset of prostate
+cancer progression (Treatment thalidomide+docetaxel or ketoconazole+
+hydrocortisone+alendronate), and show that it is capable of closely
+predicting Progression Free Survival. Tumor cells are modeled as being
+either sensitive or resistant, cell growth is modeled using a simple
+exponential growth model, and drug effect is incorporated in the model as
+overall inhibition on the growth-rate. Competition between tumor
+sub-populations is modeled as frequency-dependent fitness, using a
+logistic tumor growth model.Next, we use this dynamic model derived from
+the prostate cancer dataset to understand the effect of schedule on
+resistance, simulating tumor growth upon drug treatment for different
+doses and schedules. Beyond a literal simulation of resistance for a
+given drug schedule, we assess the contributions of resistance made by
+dose amplitude and dose frequency. Our model predicts that for a graded
+dose-response curve (Hill slope of 1), more frequent dosing schedules
+minimize the emergence of resistance. On the other hand, for a steep
+dose-response curve (Hill slope of 5), for constant dose density, we find
+that a high infrequent schedule is better than a low frequent dosing
+schedule for low doses. As the dose density increases, the low frequency
+schedule again emerges as optimal for minimizing resistance. As a final
+test, a competition term between the subpopulations is also included in
+our model, with essentially identical results.We then apply our model to
+published datasets of clinical response to treatment, and find close
+agreement with published results. Our generalized approach to this
+problem provides a framework for dissecting the underlying drivers of the
+emergence of resistance, and provides a recommendation for the
+minimization of resistance in a practical setting.
+

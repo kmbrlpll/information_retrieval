@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Reconstructing the evolutionary history of metastatic cancers
+
+
+The evolution of metastases is responsible for 90% of cancer-related
+deaths. Genome wide sequencing and phylogenomic methods enable the
+reconstruction of the evolutionary history of a patient's cancer at
+unprecedented depth. However, due to a lack of samples from multiple
+spatially-distinct metastases from untreated patients and a lack of
+phylogenomic tools applicable to noisy and impure sequencing samples, the
+evolutionary rules governing metastatic spread have remained poorly
+understood.We performed whole-genome sequencing (coverage: median 51x) as
+well as deep targeted sequencing (coverage: median 347x) on 21 samples
+from multiple regions of the primary tumor and many distinct liver and
+lung metastases of two treatment-nave pancreatic ductal adenocarcinoma
+patients. We developed a tool, called Treeomics, that leverages
+computational and statistical advances to reconstruct the phylogeny of a
+cancer with commonly available sequencing technologies. Treeomics employs
+a uniquely-designed Bayesian inference model to account for error-prone
+sequencing and varying low neoplastic cell content (estimated purities
+16-44%) to calculate the probability that a specific variant is present
+or absent in each sequenced lesion. Based on Mixed Integer Linear
+Programming, a mathematically guaranteed optimal evolutionary tree is
+produced.We obtained robust phylogenies consistent with the biological
+processes underlying cancer evolution. The reconstructed phylogenies show
+that advanced cancer cells of related subclones were equally capable of
+seeding lung and liver metastases. Treeomics identified sequencing and
+biological artifacts such as those resulting from insufficient coverage
+or loss of heterozygosity; almost 7% of the variants were misclassified
+by conventional methods. Among the identified false-negatives was the
+common clonal driver mutation in KRAS within a region that has low
+sequencing read alignability and a significantly reduced coverage. Such
+artifacts can skew phylogenies by creating illusory tumor heterogeneity
+among distinct samples. Additionally, we reanalyzed publicly available
+data from ovarian, prostate and skin cancers. We further illuminated
+evolutionary relationships among some samples in a conclusive fashion and
+show that classical distance-based phylogenetic methods can produce
+evolutionarily implausible results. Treeomics avoids these common
+pitfalls and infers robust phylogenies confirmed by high bootstrapping
+values.The new approach described here efficiently reconstructs the
+evolutionary history of metastases, detects potential artifacts in noisy
+high-throughput sequencing data, and finds subclones of distinct origin.
+These phylogenies shed new light on seeding patterns and metastatic
+progression, which has significant implications for clinical decision
+making and may provide predictive value for a patient's prognosis.
+

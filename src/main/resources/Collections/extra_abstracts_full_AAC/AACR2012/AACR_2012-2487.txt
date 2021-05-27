@@ -1,0 +1,34 @@
+Meeting: 2012 AACR Annual Meeting
+Title: CONSERTING: an accurate method for detecting focal and gross
+somatic copy number alterations in cancer genome by next generation
+sequencing
+
+
+The Identification of somatically acquired DNA copy number alterations
+(CNA) is extremely important for finding causal genes in cancer. Although
+next-generation sequencing (NGS) can assay a genome at base-pair
+resolution, accurate identification of CNA from NGS data has been
+hindered by sequencing artifacts, coverage bias and paralogous genomic
+duplication. As a result, existing algorithms tend to generate many CNA
+segments that are not corroborated by an alternative assay such as SNP
+array, suggesting high false discovery rate. To improve CNA analysis for
+NGS data, we developed Copy Number Segmentation by Regression Tree in
+Next Generation Sequencing (CONSERTING), a novel copy number detection
+method that integrates read depth analysis with structural variation (SV)
+detection and adjustment for sequencing artifacts. Analysis of simulated
+data shown that CONSERTING outperforms existing methods by achieving high
+sensitivity of focal copy number detection (CONSERTING: 0.80, CNV-Seq:
+0.26, SegSeq: 0.19, FREEC: 0.02) at a low false discovery rate
+(CONSERTING: 0.09, CNV-Seq: 0.19, SegSeq: 0.46, FREEC: 0.07). When
+applied to matching tumor/normal samples of hematopoietic malignancies
+and solid tumors, CONSERTING showed a high concordance with SNP array,
+with a mean of 18 uncorroborated CNA segments compared with 104 by
+CNVSeq, 182 by SegSeq and 63 by FREEC. In addition, CONSERTING is able to
+discover bona fide focal CNAs in genes of biological importance that were
+not detectable by SNP array, such as a 36 kb homozygous deletion in SH2B3
+and a 20 kb deletion in CDK6. Finally, CONSERTING is able to find CNAs
+and SVs present in tumor subclone that are missed by SNP array or SV
+analysis of NGS data. The novel CNAs and SVs reported here were
+experimentally validated, demonstrating that the high sensitivity and
+accuracy of CONSERTING enable discovery of key genetic lesions in cancer.
+

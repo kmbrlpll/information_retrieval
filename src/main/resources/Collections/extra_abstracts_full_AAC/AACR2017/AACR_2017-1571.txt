@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Decrypting the transcriptome profile of Pak4 using next generation
+sequencing.
+
+
+The PAK4 (p-21 Activated Kinase 4) protein kinase has long been
+associated with cancer because of its key roles in regulating cell
+proliferation, cell cycle progression and cell morphology. The PAK4 gene
+is amplified in different types of cancers, including breast cancer. PAK4
+overexpression is associated with oncogenic transformation in several
+breast cancer cell lines, while PAK4 inhibition has been shown to
+significantly reduce their tumorigenic potential. However, there is
+limited information available on PAK4’s mechanism of action in
+promoting tumorigenesis. To gain an insight into PAK4 downstream
+signaling pathways, we performed Next Generation Sequencing (NGS) on RNA
+samples collected from non-transformed immortalized mouse mammary
+epithelial cells (WT iMMECs) and iMMECs overexpressing PAK4. Research
+from our lab has shown that unlike WT iMMECs, iMMECs overexpressing PAK4
+formed tumors when injected into mammary fat pads of mice, suggesting a
+central role for PAK4 in tumor formation. Previous studies to delineate
+PAK4 signaling pathways have mostly focused on substrates phosphorylated
+by PAK4. This study, however, takes into account genes which may act
+downstream of PAK4 and play an important role in mediating long term PAK4
+function. RNA-seq analysis offers the ability to discover new genes and
+splice variants and measure transcript expression. mRNA was isolated in
+triplicates from WT iMMECs and iMMECs overexpressing PAK4; mRNA from each
+condition was then sequenced using Illumina NextSeq platform. The RNA-seq
+data generated was analyzed using Top Hat and Cufflinks software, which
+created a list of genes whose expression was significantly different in
+these two cell types, and previously unknown to be regulated by PAK4 (26
+genes were up regulated and 51 genes were down regulated by more than a
+log2 fold change of 3). A qPCR analysis of 8 of these genes validated the
+sequencing data. Among the different genes we identified, we chose to
+focus on ParvB, which is consistently down regulated by almost seven fold
+in the iMMECs overexpressing PAK4. Previous studies have suggested a
+tumor suppressor role for ParvB in regulating breast tumorigenicity. We
+hypothesize that PAK4 mediates mammary tumor formation through ParvB
+downregulation. Additional studies investigating the role of ParvB in the
+PAK4 signaling pathway are under investigation. Future studies will also
+involve studying the other genes we found to be regulated by PAK4
+overexpression and determining their role in tumorigenesis.
+
+

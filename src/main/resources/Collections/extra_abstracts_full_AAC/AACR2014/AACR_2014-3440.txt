@@ -1,0 +1,27 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Cell-based screening identify gene expression signature correlated
+with sensitivity to an MEK1/2 inhibitor
+
+
+The mitogen-activated extracellular signal-regulated kinase (MEK) family
+is one of the key kinase regulators involved in tumor oncogenic growth
+and progression. Multiple MEK inhibitors are currently under clinical
+investigation for cancer treatment and more agents targeting MEK are
+under preclinical development. The mechanisms underlying resistance to
+MEK inhibitor are unclear. Here we examined the anti-proliferation
+activity of a new small molecule MEK inhibitor in a panel of cell lines
+harboring either ras or raf mutation. We found 23 lines that are
+sensitive to the inhibitor and 24 lines are resistant. We compared gene
+expression by Affymetrix U219 arrays and gene copy number by Affymetrix
+SNP6.0 arrays in these two cell line groups. With a p-value cutoff set
+at0.01, we identified 549 genes differentially expressed and 328 genes
+demonstrated different copy numbers between the two groups. 23 genes were
+both detected by gene expression profiling and gene copy number data.
+These genes include MEK family members MAP2K3 and MAP2K7, as well as
+other important molecule markers in cancer biology, including PIK3R2 and
+BRCA2. The results suggested a potential genomic signature that could be
+predictive of response to the MEK inhibitor in vitro. Further
+investigation and validation in patient-derived xenograft (PDX) models
+will undoubtfully provide valuable information for selecting patients
+that are likely to receive clinical benefit.
+

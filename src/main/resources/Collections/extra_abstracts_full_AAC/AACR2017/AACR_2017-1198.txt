@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Neuropilin-1 blockade chemosensitizes pancreatic cancer cells via
+dual inhibition of epithelial-mesenchymal transition and autophagy.
+
+
+Introduction: Fibrotic and malignant pancreatic ductal adenocarcinoma
+(PDAC) tumors are often resistant to chemotherapy, and remain a leading
+cause of morbidity and mortality. Epithelial–mesenchymal transition
+(EMT), a process by which epithelial cells lose their cell polarity and
+adhesion to become migratory and invasive mesenchymal stem cells,
+contributes to chemoresistance in PDAC. Likewise, PDAC tumors benefit
+from autophagy, a self-degradation pathway that confers a survival
+benefit against metabolic stress. Over-activation of EMT and autophagy
+has been linked to increased drug resistance in PDAC. Both these
+processes are largely mediated by TGFβ1. Recently, we demonstrated the
+role of neuropilin-1 (NRP-1) in TGFβ1-dependent endothelial-mesenchymal
+transition and fibrosis in PDAC. However, the potential mechanisms
+linking NRP-1 with EMT and autophagy-mediated chemoresistance remain
+unexplored. We hypothesized that NRP-1 blockade will enhance
+chemotherapeutic effect, by suppressing EMT and autophagy in PDAC.
+
+Methods: Human PDAC cells (BxPC-3) or serially gemcitabine exposed
+chemoresistant (CR-BxPC-3) cells were transfected with siNRP-1 or
+scramble using DharmaFECT-2. For EMT and chemotherapy studies,
+transfected cells were treated with TGFβ1 (5ng/mL, 24h), followed by
+gemcitabine (1μM) for 48h. RNA (24h) and protein (48h) was isolated
+using TRIzolTM and RIPA, respectively. EMT markers were evaluated by
+RT-PCR and immunoblotting/immunostaining. For autophagy studies, cells
+were serum starved post NRP-1 silencing and protein was isolated. For
+autophagy inhibition, cells were treated with bafilomycin-A1 (100nM) for
+24h post NRP-1 silencing and protein was isolated. Autophagy flux
+(LC3-II/I) and P62 were measured by immunoblotting/immunostaining. Cell
+viability was evaluated by MTT assay.
+
+Results: SiNRP-1 treatment in BxPC-3 and CR-BxPC-3 cells resulted in
+NRP-1 knockdown and promoted cell-death after chemotherapy.
+TGFβ1-stimulated BxPC-3 cells demonstrated a morphological change
+consistent with EMT that was revoked by siNRP-1. Also, siNRP-1 maintained
+epithelial cellular morphology via gain of epithelial and loss of
+mesenchymal markers. Remarkably, CR-BxPC-3 cells exhibited enhanced EMT
+features. SiNRP-1 inhibited EMT and promoted cell-death by overcoming
+gemcitabine resistance in CR-BxPC-3 cells, possibly through reduced ERK
+signaling. Moreover, siNRP-1 inhibited autophagy (decreased LC3-II/I
+ratio and increased P62 levels) following starvation or chemotherapy
+stress, and enhanced cell-death after chemotherapy and autophagy
+inhibition in BxPC-3 cells.
+
+Conclusions: Our findings define a previously undetermined role of NRP-1
+in regulating autophagy and TGFβ1-induced EMT in PDAC, suggesting that
+NRP-1 may represent a novel therapeutic target to overcome
+chemoresistance through reduced EMT and autophagy.
+
+

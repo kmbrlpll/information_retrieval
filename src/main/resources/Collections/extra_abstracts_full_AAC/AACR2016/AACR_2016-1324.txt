@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Enhancing therapeutic efficacy of albumin bound paclitaxel in
+breast cancer liver metastasis by homing to tumor associated macrophages:
+In vitro, in vivo and in silico studies
+
+
+This study is aimed to evaluate and enhance the albumin-bound paclitaxel
+(nab-PTX) in multistage vector (MSV) for liver metastasis treatment using
+in silico modeling based on in vitro data, and verified via in vivo
+study. The resulting model will help for therapy optimization in the
+clinical setting.Clinically, breast cancer liver metastases can be
+observed as hypoattenuated in MRI and CT images caused by low penetration
+of drugs or contrast agents into the lesions along with a high washout
+rate, which correlates to poor chemotherapeutic response. Nab-PTX is
+clinically used for treatment of advanced breast tumors, but not for
+liver metastasis. We designed MSV-nab-PTX, a new nab-PTX delivery system
+for specifically homing to tumor associated macrophages in the liver.
+MSV-nab-PTX consists of nab-PTX loaded in porous silicon multistage
+nanovectors which were previously shown to be efficient in delivering
+siRNA and other therapeutics. MSV-nab-PTX was evaluated in in vitro, in
+vivo and in silico models of liver metastasis. Co-culture of breast
+cancer tumor cells (3D-spheroids) and macrophages was developed and
+utilized to evaluate the drug efficacy and to study the mechanism of
+nab-PTX transport. Addition of macrophages in the 3D model significantly
+increased the efficacy of MSV-nab-PTX, but not nab-PTX, revealing the
+major role of macrophages in the drug transport into the lesion. Primary
+mouse and human macrophages were shown to uptake up to 10 ng of PTX/cell
+in MSV-nab-PTX with no significant effects on their viability, and later
+release the PTX over 24h. Treatment with MSV-nab-PTX increased chemokine
+production by tumor cells when compared to nab-PTX, increasing macrophage
+migration into the tumor sphere by more than 2-fold. Based on these data,
+we implemented a mathematical model linking drug release and retention
+from macrophages to project MSV-nAb-PTX efficacy based on the presence of
+macrophages in tumor biopsies. Simulation of repeat treatment every 3
+days showed a significant reduction of tumor size, and was verified by
+the in vivo data. MSV-nab-PTX as compared to nab-PTX enhanced PTX
+concentration in the target lesions, increased apoptosis rate and reduced
+cancer cells proliferation rate, ultimately reducing the tumor size and
+prolonging the survival of treated mice.This showed that MSV association
+with macrophages can increase drug efficacy compared to bolus injection,
+and that it is feasible to reach sustained lesion regression with the
+macromolecule-bound formulation. The in silico simulations also revealed
+that the timing interval is crucial for the treatment strategy, and the
+effect depends on the size and vascularization stage of the lesion. We
+conclude that an integrated in vitro, in vivo, and in silico framework
+may be of use to assess response to albumin bound paclitaxel targeted to
+breast cancer liver metastasis via tumor associated macrophages.
+

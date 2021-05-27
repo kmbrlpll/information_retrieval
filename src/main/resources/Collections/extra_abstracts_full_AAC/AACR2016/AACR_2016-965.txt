@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Exosome-derived microRNAs contributes to prostate cancer
+chemoresistance
+
+
+Accumulating evidence has demonstrated that certain miRNAs play important
+roles in cancer cell chemoresistance. However, the pleotropic functions
+of exosome-derived miRNAs on developing chemoresistance remain unknown.
+In this study, we aimed to build potential networks of miRNAs, which
+derived from the exosome of chemoresistant prostate cancer (PCa) cells,
+with their known target genes using miRNA expression profiling and
+bioinformatic tools. Global miRNA expression profiles were measured by
+microarray. Twelve miRNAs were initially selected and validated by
+qRT-PCR. Known targets of deregulated miRNAs were utilized using
+DIANA-TarBase database v6.0. The incorporation of deregulated miRNAs and
+target genes into KEGG pathways were utilized using DIANA-mirPath
+software. To construct potential miRNA regulatory networks, the
+overlapping parts of two selected KEGG pathways were visualized by
+Cytoscape software. We identified 29 deregulated miRNAs, including 19 up
+and 10 down, in exosome samples derived from two kinds of paclitaxel
+resistance PCa cells (PC3-TXR and DU145-TXR) compared with their parental
+cells (PC3 and DU145). The enrichment results of deregulated miRNAs and
+known target genes showed that a few pathways were correlated with
+several critical cell signaling pathways. We found that hub hsa-16-5p,
+hsa-miR-3915, hsa-miR-488-3p, hsa-miR-5004-5p, hsa-miR-23c, hsa-miR-3673,
+hsa-miR-3654, and hsa-miR-32-5p were potential targets to hub androgen
+receptor (AR) and phosphatase and tensin homolog (PTEN). Hub TCF4 target
+genes were mainly regulated by hub hsa-miR3176, hsa-miR-141-3p,
+hsa-miR-606, hsa-miR381, and hsa-miR-429 miRNAs. These results may
+provide a linkage between PCa chemoresistance and exosome regulatory
+networks and thus lead us to propose that PTEN and TCF4 genes may be the
+important genes which regulated by exosome miRNAs in chemoresistance
+cancer cells. Supported by NSFC Key Project 81130046; NSFC Project
+81171993 and NSFC81272415; Guangxi Key Projects 2013GXNSFEA053004 and
+2012GXNSFCB053004; Guangxi Ministry of Education grants 201202ZD022 and
+201201ZD004.
+

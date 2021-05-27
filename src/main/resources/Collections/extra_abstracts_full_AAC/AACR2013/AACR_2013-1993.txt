@@ -1,0 +1,41 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of genetic interactors of BRCA2 in mouse embryonic
+stem cell model.
+
+
+Breast cancer is the most prevalent cancer in women worldwide and
+mutations in breast cancer susceptible genes, BRCA1 and BRCA2 are the
+genetic factors conferring highest risk (40-70%) of developing breast
+cancer. Although BRCA proteins are known to maintain genomic stability
+mainly by homologous recombination-mediated DNA repair, detailed
+mechanisms of how BRCA loss induces tumorigenesis remain unclear.
+Interestingly, while inactivation of both alleles of BRCA1 or BRCA2 genes
+is necessary for tumor development, their loss in embryonic cells affects
+cell viability. To explain this paradox, we hypothesize that cells
+lacking BRCA1 or 2 are able to survive and are predisposed to
+tumorigenesis due to mutations in other genes such as those involved in
+cell cycle regulation or DNA damage response. In the current study, we
+propose to identify such genes using a mouse embryonic stem (mES)
+cell-based insertional mutagenesis screen. In mES cells with one mutant
+allele of Brca2 and the other flanked by loxP sites, cell death can be
+induced by Cre-mediated loss of the conditional allele. To identify genes
+whose up-regulation can rescue BRCA2 loss-induced cell death, we
+transduced these mES cells with murine stem cell retrovirus (MSCV)
+expressing Cre recombinase. We obtained Brca2-null ES cells that were
+rescued by the viral insertion and used them to clone the viral
+insertional sites. We identified several candidate genes that were
+upregulated in viable ES cells. One of these genes encodes a PDZ
+domain-containing protein, GIPC3. Expression of Gipc3 was elevated 3 to
+4-fold in the rescued clone. Furthermore, we rescued the lethality of
+Brca2-null ES cells by overexpressing Gipc3. The rescued cells were
+hypersensitive to DNA damaging agents and exhibited an overall increase
+in genomic instability. Mechanistically, we found DNA damage-induced p21
+expression to be attenuated in GIPC3 over-expressing clones. Because p21
+is a key mediator of BRCA2 loss-induced cell death, we hypothesize that
+GIPC3 overexpression may inhibit p21 expression resulting in viable
+Brca2-null ES cells. We are now studying the detailed signaling pathway
+of how GIPC3 affects p21 expression. In addition, we are examining if
+Gipc3 overxpression can rescue the lethality of Brca2ko/ko embryos and
+contribute to tumorigenesis in Brca2ko/+ mice. We are also examining the
+expression of GIPC3 in human BRCA2-deficient tumors.
+

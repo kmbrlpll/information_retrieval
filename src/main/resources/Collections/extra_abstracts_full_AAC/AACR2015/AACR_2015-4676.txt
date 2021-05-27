@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: In silico and in vitro analyses of androgen receptor splicing
+variants with a special focus on human patient samples
+
+
+The androgen receptor (AR) is arguably the critical driver of not only
+early but also advanced prostate cancer. AR is a transcription factor
+which comprises the four functional domains with the N-terminal
+transactivation domain encoded by exon 1, the DNA-binding domain by exons
+2 and 3, the hinge domain by exon 4, and the ligand-binding domain (LBD)
+by exons 4-8. The functional LBD provides a strict ligand-dependency of
+AR's release from cytoplasmic HSP90 and nuclear translocation to act as a
+transcription factor. Conversely, disruption of LBD can be caused by some
+point mutations or alternative splicing within exon 4-8, thus allowing AR
+to exert ligand-independent nuclear actions. Numerous AR splicing
+variants (AR-Vs) have been identified and predicted, but these are as yet
+less characterized regarding their biochemical functions and clinical
+relevance. This prompted us to perform systematic analysis of the
+clinical samples in relation to expression patterns of AR-Vs and disease
+manifestation.AR-Vs compositions were evaluated on a group of deeply
+RNA-sequenced metastases from patients treated with androgen deprivation.
+By strictly selecting and counting the reads spanning junctions of exons
+defined by Hu et al (1), novel AR-Vs were found to be substantially
+expressed: v5es is exon 5 skipped variant whereas v7es skips exon 7.
+According to the preliminary results, the v5es and v7es variants were
+detected in 20% and 26% of total patient samples, respectively. The v78es
+and v8es variants, which had been previously identified but less
+characterized, were found to be 28% and 6%, respectively, in the same
+comparison. It is of note that AR V7 was detected in 63% of the samples.
+While v5es structurally lacks the most part of LBD, the v7es, v78es, and
+v8es variants possess LBD with a short C-terminal truncation. Both v7es
+and v8es variants showed diffuse distribution in both cytoplasm and
+nucleus of the AR-negative M12 cells. These localization patterns were
+not largely affected by the presence or absence of the ligand
+dihydroxytestosterone. The above observations were consistent with the
+results from the probasin ARE-ARR3-luciferase reporter assay showing that
+these two variants possessed weak transcriptional activities regardless
+of ligand status. The bioinformatics project is now being updated by
+including the data from additional patient samples. The biochemical
+characterization of AR-Vs (v5es, v7es, v8es, and v78es variants) will be
+detailed and reported regarding their transcriptional activities,
+subcellular localization, as well as their potential protein-protein
+interactions with the full-length AR, HSP90 and co-regulators.
+Ligand-independent nuclear actions of AR have been mostly believed to
+confer resistance to anti-androgens enzalutamide and androgen
+biosynthesis inhibitors abiraterone acetate. This study thus may provide
+a foundation for novel AR-targeted therapies.1. Hu R et al. Prostate
+(2011) 7, 1656
+

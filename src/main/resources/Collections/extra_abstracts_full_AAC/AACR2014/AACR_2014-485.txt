@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Chronic exposure to a low dose of interferon- increases levels of
+DNA damage resistance signature genes through unphosphorylated ISGF3
+
+
+Ionizing radiation and DNA damaging chemotherapeutic agents are used
+widely to treat many cancers, but the presence of cells that resist DNA
+damage often leads to failure to cure. One of the specific features of
+therapy-resistance is high expression of Interferon-Related DNA damage
+resistance Signature (IRDS) genes. The IRDS genes are a subset of (about
+30 genes) Interferon Stimulated Genes (ISGs) including IFI27, OAS2, Mx1,
+and IFIT1. However, pro-apoptotic and anti-proliferative ISGs, such as
+IRF1, caspases, and FASL, are not included in this signature. In this
+study, we elucidated the molecular mechanism of how the expression of
+IRDS genes are increased, with no increase of other ISGs, in
+therapy-resistant cancer cells. When cells expressed high levels of IRF9
+and STATs 1 and 2 in the absence of phosphorylation of Tyr-701-STAT1 and
+Tyr-690-STAT2, the expression of IRDS genes was increased, but that of
+other ISGs was not. The un-phosphorylated STAT1, STAT2, and IRF9 proteins
+formed a complex resembling Interferon Stimulated Gene Factor 3 (ISGF3),
+a major transcription factor in type I interferon signaling. While ISGF3,
+consisting of phosphorylated STATs 1 and 2 and IRF9, mediates the
+expression of whole set of ISGs, the unphosphorylated ISGF3 (U-ISGF3)
+induces only IRDS genes. ChIP assay revealed that U-ISGF3 selectively
+bound to the promoters of IRDS genes (IFI27, OAS2, and Mx1), but not to
+those of other ISGs (MyD88, IFI16, and IRF1). Continuous exposure of
+cells to a low level of interferon, which might be produced by cancer
+cells or surrounding immune cells, lead to steady-state increases in the
+expression of only U-ISGF3 and IRDS genes with no increase of
+phosphorylated ISGF3 and non-IRDS ISGs. We examined the correlation
+between the U-ISGF3 levels and DNA damage resistance in various small
+cell lung carcinoma (SCLC) cell lines. The expression of IRF9 and STATs 1
+and 2 proteins varied in different SCLC cell lines, and high levels of
+U-ISGF3 correlated with resistance to DNA damage. H82, H1048, and H146
+cells, which express low levels of U-ISGF3, were sensitive to DNA damage
+induced by radiation, etoposide, and doxorubicin, while H196, H1688, and
+H2195 cells expressing high levels of U-ISGF3 were resistant to DNA
+damage. In response to radiation, H2A.X levels were significantly
+increased and remained high up to 48 hrs in H1048 cells, but the
+increased H2A.X levels returned to lower levels in H196 cells, suggesting
+that U-ISGF3-induced gene products may increase DNA damage repair. When
+STAT1 was knocked down to reduce U-ISGF3 levels in H196 cells, H2A.X
+levels increased by radiation remained high. Knocking IRF9 down also
+decreased the resistance to DNA damage. In conclusion, U-ISGF3, which is
+increased by a low dose of interferons, plays an important role in
+inducing DNA damage resistance, and its targeting sensitizes cancer cells
+to DNA damage induced by various cancer therapies.
+

@@ -1,0 +1,36 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Childhood cancer and traffic-related air pollution exposure in
+pregnancy and early life.
+
+
+Background: The literature on traffic-related air pollution and childhood
+cancers presents a mixture of findings, likely due to variations in
+exposure assessment methods, differing time periods in the children's
+lives that were considered with regard to exposures, and often, small
+sample sizes which necessitated the grouping together of disparate cancer
+types. To date, few studies used a sophisticated emissions-based model to
+assess pollution exposures in pregnancy and early childhood.Methods: The
+present study included children younger than age 6 identified in the
+California cancer registry (born 1998-2007) who could be linked to a
+California birth certificate (N=3590). Controls were selected at random
+from California birthrolls (N=80,224). CAlifornia LINE Source Dispersion
+Modeling, version 4 (CALINE4) was used to generate estimates of local
+traffic exposures at the child's residence during each trimester of
+pregnancy and in the first year of life. Model inputs were based on local
+traffic emissions of both gasoline vehicles and diesel trucks within a
+1500m radius buffer, and included traffic volumes, roadway geometry,
+vehicle emission rates, and meteorology. Unconditional logistic
+regression was used to estimate cancer risk.Results: A per interquartile
+range increase in exposure to traffic-related pollution from CALINE4 was
+associated with increases in acute lymphoblastic leukemia, germ cell
+tumors, and retinoblastoma, particularly bilateral. CALINE4 estimates
+were highly correlated across trimesters and the 1st year of life
+(r0.96-0.98), making it difficult to discern the most important period
+for exposure.
+Cancer risk with one interquartile increase of CO (ppm) in the 2nd
+trimesterConclusions: Our findings support a relation between traffic
+pollution and several childhood cancers. As this is the first study to
+report upon traffic pollution in relation to retinoblastoma or germ cell
+tumors, and both are rare, these findings require replication in other
+studies.
+

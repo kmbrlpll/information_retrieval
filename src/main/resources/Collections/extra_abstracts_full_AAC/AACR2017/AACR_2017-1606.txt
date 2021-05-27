@@ -1,0 +1,60 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Targeting human T regulatory cells with novel Interleukin 2 alpha
+- IL2 complex-specific RNA aptamer.
+
+
+Background: RNA aptamers are small RNA molecules that bind antigens like
+antibodies and are currently being explored as alternatives to antibodies
+for diagnosis and therapy. A potential merit of aptamers is that they can
+be generated against native cellular antigens, such as those with unique
+post-translational modifications or receptor-ligand complexes, for which
+antibody generation can be difficult. Here, we report the use of a
+cell-based systematic enrichment approach (SELEX) to develop a novel
+Treg-binding RNA aptamer specific to IL2Rα-IL2 receptor-ligand complex.
+
+Methods and Results:
+
+A. Generation of Treg-binding aptamers:
+
+We designed a cell-based SELEX strategy to generate RNA aptamers specific
+to human T regulatory (Treg) cells. The starting library consisted of
+random RNA aptamers with a structural diversity of ~1012. Aptamers
+against common T cell antigens were pre-cleared using CD4+CD25- Teff
+cells. Treg-binding aptamers were then positively selected using
+CD4+CD25+ Tregs from the same donor. After amplification of Treg binders
+by RT-PCR, the whole selection was repeated eight times, each time with T
+cells from a different donor. At the end, SELEX-enriched aptamer pools
+predominantly bound to Tregs, but not to Teff cells, which were then
+sequenced. The most prevalent Treg-binder, Tr-1, showed 63,875-fold
+enrichment by the end of SELEX (from 0.36 copies in the starting library
+to 22,995 copies in the eighth round per million total reads).
+
+B. Tr-1 binds to IL2Rα- IL2 complex
+
+We tested if Tr-1 recognized human IL2Rα by measuring Tr-1 binding to
+recombinant IL2Rα protein using RT-qPCR. Results indicated that Tr-1
+bound to IL2Rα and showed ~3-fold higher binding to IL2Rα when IL2 was
+added indicating that Tr-1 recognizes either the receptor-ligand complex
+or a conformational change in IL2-bound IL2Rα. Binding of Tr-1 to IL2Rα
+did not significantly alter its affinity to IL2.
+
+C. Tr-1 inhibits Treg induction
+
+Transformed B cells can induce Treg development in the tumor
+microenvironment. Experimentally, this was evaluated by quantifying Tregs
+generated from autologous CD4+ T cells co-cultured with Epstein-Barr
+virus-transformed B (EBV-B) cells. Addition of Tr-1 resulted in ~30%
+reduction in EBV-B-induced Tregs (p=0.017).
+
+Conclusion: We used a Treg cell-based SELEX strategy to derive a novel
+Treg-binding RNA aptamer (Tr-1) that preferentially binds to the
+IL2Rα-IL2 complex. Tr-1 reduced Treg induction by transformed B cells
+suggesting its potential as a therapeutic agent to reduce tumor-induced
+immunosuppression. Ongoing studies are further exploring its use in Treg
+inhibition and in targeting receptor-ligand complexes in cancer. While
+aptamers recognizing cellular receptors exist, to our knowledge, this is
+the first report of an aptamer recognizing a receptor-ligand complex. Our
+approach to generating aptamers against receptor-ligand complexes could
+have huge scientific impact.
+
+

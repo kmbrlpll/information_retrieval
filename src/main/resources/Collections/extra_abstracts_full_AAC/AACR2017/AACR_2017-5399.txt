@@ -1,0 +1,33 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Investigating phenotypic plasticity in breast cancer with
+high-throughput nanogrid single-nucleus RNA sequencing.
+
+
+Single-cell RNA sequencing (RNA-seq) is a powerful tool for investigating
+rare tumor subpopulations and resolving intra-tumor heterogeneity, but is
+low throughput, expensive, and requires fresh tissue samples. To address
+these limitations, we developed a 5’ high-throughput single-nucleus RNA
+sequencing (SNRS) approach that uses nanogrid technology to perform
+single-cell imaging and sequencing of 500-2500 nuclei in parallel. The
+automated image scanning procedure allowed us to exclude doublets and
+select live cells with DAPI/PI staining. This approach allows the
+transcriptomic profiling of frozen tissue samples, in which the
+cytoplasmic membrane is ruptured in cells, but leaves the nuclear
+membrane intact. We validated SNRS in a breast cancer cell line (SK-BR-3)
+and compared the transcriptomes of 500 nuclei to 500 whole cells, which
+revealed a high concordance in the number of genes expressed as well as
+their expression levels. We also performed bulk RNA-seq of isolated
+nuclear and cellular fractions from 5 breast cancer cell lines, which
+showed a high concordance in genes and expression levels. Differentially
+expressed genes in the nucleus mainly included lincRNAs, pseudogenes and
+mitochondria genes, but did not affect most cancer genes and pathway
+analysis. We further applied SNRS to sequence 500 nuclei from a
+triple-negative breast cancer patient and identified diverse phenotypes
+in tumor cells, including variation in cell proliferation, migration,
+invasion, and epithelial-to-mesenchymal transition. These studies
+demonstrated the technical feasibility of using a nanogrid platform to
+perform high-throughput single-cell RNA sequencing and showed that nuclei
+from cell lines and tumors can be used to study signaling pathways and
+gene networks that play an important role in tumor progression.
+
+

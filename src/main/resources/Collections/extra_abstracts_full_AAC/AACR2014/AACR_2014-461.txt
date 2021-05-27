@@ -1,0 +1,31 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Modulation of estrogen receptor (ER) and androgen receptor (AR) by
+a modified CRISPR-Cas9 system
+
+
+Clustered regularly interspaced short palindromic repeat
+(CRISPR)-CRISPR-associated (Cas) system is a bacterial adaptive immune
+defense against foreign nucleic acids from viruses, plasmids, and other
+mobile genetic elements. There are three types of CRISPR systems; type II
+uses single effector enzyme, Cas9, to cleave double-stranded DNA (dsDNA).
+Because of this unique feature, CRISPR/Cas9 system has been widely used
+as a genetic engineering tool from bacteria to mammals. In this system,
+Cas9 nuclease can bind and cleave genome directed by sequence-specific
+guide RNA (gRNA). While the wild type Cas9 can cleave double stranded
+DNA, the mutant Cas9 at D10A and H804A can only bind to but cannot cleave
+the DNA. Given this unique feature, we tried to repurpose Cas9 as a gene
+activation or suppression tool. To achieve this, we generated DMCas9
+(double-mutant Cas9), and fused it with VP16AD (VP16 activation domain)
+or VP64AD (VP64 activation domain) to explore its utility for gene
+activation. To generate a Cas9-based gene silencing tool, we fused DMCas9
+with Krab, a well-known protein domain with suppression function. Using a
+reporter system carrying a specific sequence that was recognized by a
+given gRNA and mCherry as a readout, we demonstrated that co-expression
+of VP16AD-DMCas9 and specific gRNAs leads to a at least three-fold
+induction of mCherry signal; in contrast, DMhCas9-Krab along with the
+specific gRNA resulted in a significant suppression of mCherry activity.
+Furthermore, we showed that DMCas9-Krab combined with gRNAs suppressed
+endogenous expression of AR and ER in MCF-7 cells, causing cell growth
+inhibition. Together, these results demonstrate the feasibility of
+Cas9-based gene activation and gene suppression.
+

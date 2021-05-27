@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification of resistance mechanisms to IGF-IR targeting in
+triple negative breast cancer.
+
+
+The triple negative subtypes of breast cancer (TNBC) are associated with
+poor prognosis. Unlike HER2+ and hormone receptor-positive BC, TNBC do
+not respond to targeted therapy and chemotherapy remains the primary
+treatment option. There is therefore an unmet need to develop effective
+therapy for TNBC. The insulin-like growth factor 1 (IGF-I) axis plays a
+critical role in BC progression by conveying survival and growth signals.
+Our laboratory reported on the production of a soluble fusion protein
+comprised of the extracellular domain of human IGF-IR fused to the Fc
+portion of human IgG (the IGF-Trap). The IGF-Trap reduces the
+bioavailability of circulating and locally produced IGF-I, thereby
+limiting tumor growth. When human TNBC MDA-MB-231 cells were
+xenotransplanted into nude mice and treated with the IGF-Trap, we
+observed variability in the response as it ranged from complete tumor
+regression to disease stabilization and tumor progression in some mice.
+This suggested that MDA-MB-231 cells are heterogeneous in respect to
+their sensitivity to IGF-IR signaling blockade. The aim of the present
+study was to identify resistance mechanisms that allow the cells to
+progress in the face of IGF-IR signaling blockade by the IGF-Trap.
+
+We first analyzed the tyrosine kinase receptor profile of these cells and
+confirmed by PCR that in addition to IGF-IR, they express epidermal
+growth factor receptor (EGFR), c-Met, and fibroblast growth factor
+receptor 1 (FGFR1). They also produce IGF-I, EGF and relatively high
+level of FGF1 that could provide potential autocrine signaling to
+compensate for IGF signaling blockade. Using limiting dilution cloning,
+we isolated MDA-MB-231 cells with a range of IGF-IR expression levels, as
+confirmed by qPCR and Western blotting. We found that clones with higher
+basal IGF-IR activation levels, independently of expression levels had
+increased sensitivity to IGF-Trap treatment in the presence of serum,
+identifying them as IGF-addicted clonal subpopulations. Furthermore, an
+IGF-Trap resistant population selected from MDA-MB-231 cells by prolonged
+exposure to the IGF-Trap had an increased proliferation rate in the
+presence of the IGF-Trap as compared to unselected cells, as assessed by
+MTT and showed higher p-EGFR and p-ERK levels, suggesting that prolonged
+IGF-Trap treatment enriched an IGF-I-independent population with
+increased aggressiveness.
+
+Collectively these results showed that MDA-MB-231 cells are heterogeneous
+in respect to IGF-IR expression levels and that IGF-Trap sensitivity
+correlated with constitutive IGF-IR activation levels. Moreover, IGF-Trap
+resistance in these cells was associated with increased EGFR signaling
+and proliferation. Further interrogation of the gene expression profile
+of these cells will define a “resistance signature” with potential
+relevance to personalized treatment with IGF-targeting drugs.
+
+Supported by the CIHR and Mitacs.
+
+

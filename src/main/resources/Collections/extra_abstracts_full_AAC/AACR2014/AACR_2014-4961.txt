@@ -1,0 +1,76 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Longitudinal bioluminescence imaging of primary versus abdominal
+metastatic tumor growth in orthotopic pancreatic tumor models in
+NOD/SCID(-/-) mice
+
+
+Pancreatic ductal adenocarcinoma (PDAC) has a very poor prognosis and is
+currently the fourth leading cause of cancer death in the United States.
+The lethal nature of PDAC is strongly associated with metastases to
+distant organs. The purpose of the present study was to develop and
+validate noninvasive bioluminescence imaging methods for differentially
+monitoring the kinetics of primary and abdominal metastatic tumor growth
+in mouse orthotopic models of pancreatic cancer. A semiautomated maximum
+entropy segmentation method was implemented for the primary tumor
+region-of-interest (ROI), and a rule-based method for manually drawing an
+ROI for the abdominal metastatic region also was developed. The two ROI
+methods were first validated by having two observers independently
+construct ROIs for the tumors of animals implanted orthotopically with
+Panc-1 cells, and the results compared with the number of mesenteric
+lymph node metastatic nodules counted upon necropsy. The findings were
+extended to orthotopic tumors of the more metastatic MIA PaCa-2 and
+AsPC-1 cells where different groups of animals were implanted with
+different numbers of cells. When the data were expressed as the total
+photon flux (Ph/sec) in the ROIs for the primary tumor and metastases,
+the total flux within the metastasis ROI was larger in magnitude than the
+total flux from the primary tumor ROI, at times by as much as several
+orders of magnitude. However, when the data were expressed as the average
+flux density (Ph/sec*mm2) within the ROIs, the density of the flux within
+the smaller primary tumor ROI was larger in magnitude than the density of
+the flux from the larger metastasis ROI, by as much as several orders of
+magnitude. Interobserver assessments for total flux and flux density from
+ROIs for both the primary tumors and metastatic region were highly
+concordant, with correlation coefficients of r > 0.98, coefficients of
+variation of 0.02, and limits of agreement within Pancreatic ductal
+adenocarcinoma (PDAC) has a very poor prognosis and is currently the
+fourth leading cause of cancer death in the United States. The lethal
+nature of PDAC is strongly associated with metastases to distant organs.
+The purpose of the present study was to develop and validate noninvasive
+bioluminescence imaging methods for differentially monitoring the
+kinetics of primary and abdominal metastatic tumor growth in mouse
+orthotopic models of pancreatic cancer. A semiautomated maximum entropy
+segmentation method was implemented for the primary tumor
+region-of-interest (ROI), and a rule-based method for manually drawing an
+ROI for the abdominal metastatic region also was developed. The two ROI
+methods were first validated by having two observers independently
+construct ROIs for the tumors of animals implanted orthotopically with
+Panc-1 cells, and the results compared with the number of mesenteric
+lymph node metastatic nodules counted upon necropsy. The findings were
+extended to orthotopic tumors of the more metastatic MIA PaCa-2 and
+AsPC-1 cells where different groups of animals were implanted with
+different numbers of cells. When the data were expressed as the total
+photon flux (Ph/sec) in the ROIs for the primary tumor and metastases,
+the total flux within the metastasis ROI was larger in magnitude than the
+total flux from the primary tumor ROI, at times by as much as several
+orders of magnitude. However, when the data were expressed as the average
+flux density (Ph/sec*mm2) within the ROIs, the density of the flux within
+the smaller primary tumor ROI was larger in magnitude than the density of
+the flux from the larger metastasis ROI, by as much as several orders of
+magnitude. Interobserver assessments for total flux and flux density from
+ROIs for both the primary tumors and metastatic region were highly
+concordant, with correlation coefficients of r > 0.98, coefficients of
+variation of 0.02, and limits of agreement within <5%. Further, there
+were statistically significant differences in the growth kinetics of
+AsPC-1 and MIA PaCa-2 orthotopic tumors when mice were implanted with
+different numbers of cells for each cell line. The present results
+demonstrated that the segmentation methods were highly reliable,
+reproducible and robust, and allowed statistically significant
+discrimination in the growth kinetics of primary and abdominal metastatic
+tumors of different cell lines implanted with different cell numbers.
+Thus, primary tumors and abdominal metastatic foci in orthotopic
+pancreatic cancer models can be reliably monitored separately and
+noninvasively over time with bioluminescence imaging. The novel
+segmentation methods reported here will facilitate investigations of the
+biology of primary and metastatic tumor growth, as well as the effects of
+novel treatments, over time, in individual animals.
+

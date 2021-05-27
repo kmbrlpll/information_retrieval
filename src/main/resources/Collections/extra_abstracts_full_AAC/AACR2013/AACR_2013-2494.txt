@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Liquid chromatography-multiple reaction monitoring mass
+spectrometry biomarker quantification for breast cancer patient
+assessment.
+
+
+Introduction: A quantitative mass spectrometry platform has been
+developed for measuring biomarkers of protein expression and
+phosphorylation in breast cancer. The quantification of numerous
+biomarkers from a single tissue specimen has the potential to impact
+patient care. Specifically, the focus of initial development was on the
+expression and phosphorylation of estrogen receptor alpha (ER),
+progesterone receptor (PR), and human epidermal growth factor receptor-2
+(HER2). However, immunohistochemical assessments of Ki-67 and vimentin
+are also widely used for monitoring proliferation in breast cancer. The
+integration of tissue quality control measurements, quantification of
+proliferation biomarkers, and ER/PR/HER2 evaluation could improve patient
+assessment and open novel avenues for patient classification, prognosis,
+and selection of therapy in breast cancer.Experimental Procedures: Breast
+cancer cell lines MCF7, BT474, and T47D were used to develop
+peptide-based quantitative assays, including stable isotope-labeled
+standard peptides, (n = 31) for protein expression and phosphorylation
+biomarkers using liquid chromatography-multiple reaction monitoring mass
+spectrometry (LC-MRM) of digested whole cell lysates or SDS-PAGE
+fractionated proteins followed by immunoprecipitation to examine
+expression and phosphorylation of ER/PR/HER2 (IP-LC-MRM). Using 2 mg of
+total protein, the sample is divided into three parts. Tissue QC
+biomarkers and expression levels of Ki67, vimentin, and HER2 are measured
+in digests of whole cell lysate or tissue homogenate (1% of sample).
+Then, parallel IP strategies are used for HER2 (10% of sample) and ER/PR
+(90%) before LC-MRM analysis of expression and phosphorylation. Multiplex
+IP of the three proteins was not successful, because the amplification of
+HER2 could not be accommodated. The sensitivity of each assay was tested
+using serial dilutions of cell lysate to evaluate requirements for
+analysis of clinical specimens.Data Summary: LC-MRM assays for both
+unmodified and phosphorylated peptides have been developed and
+characterized for each protein using cell line models. Assays have been
+implemented in cell lines to study Estradiol/EGF stimulation as well as
+lapatinib inhibition of HER2. Data has been generated for pre-treatment
+frozen tissue specimens from breast cancer patients that are either HER2+
+or ER+ (n = 12 per group). The analysis of a larger group of patients and
+in clinical scenarios (e.g. comparison of nave and drug resistant tissues
+from the same patient) will establish the clinical utility of these
+assays.Conclusions: The ability to examine protein expression as well as
+phosphorylation status in these biomarkers with quantitative mass
+spectrometry has the potential to improve the selection of targeted
+therapeutics.
+

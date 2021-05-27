@@ -1,0 +1,78 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A new method for assessing fidelity of DSB repair shows
+involvement of different DNA repair mechanisms at specific sites in human
+genome
+
+
+Introduction: Two major mechanisms of double-strand break (DSB) repair
+are non-homologous end joining (NHEJ) and homologous recombination (HR).
+Whereas NHEJ is error-prone and causes small deletions and other
+mutations at the site of repair, HR is highly fidelic. Here, we introduce
+a new method to identify mutations at the sites of DSB repair and apply
+it to study the fidelity of repair at different sites in human genome.
+Design: To enable the induction of DSBs at endogenous sequences in the
+somatic genome of TPC-1 human thyroid cells, the cells were transduced
+with a HA-ER-I-PpoI retrovirus (gift of Dr. Michael Kastan). DSBs were
+induced by treating cells with 4-hydroxytamoxifen (4-OHT) which causes
+I-PpoI to enter the nucleus. I-PpoI induction for 6h produced multiple
+H2AX foci in about 75% of cells. We investigated the incidence of
+mutations following I-PpoI induction at two DNA sites. One has an I-PpoI
+site located within a coding gene, DAB1, on 1p32-p31and a second has an
+I-PpoI site within an intergenic region on 2q21 that we designate as
+2qIG. qPCR analysis revealed that 9-16% of target sequences were cleaved
+at 6h post I-PpoI induction, which is consistent with previous
+observations that showed that I-PpoI cleaves about 10% of the target
+sites in human cells. Mutations at the I-PpoI cleavage sites were
+detected after reducing the presence of wild-type amplicons by digesting
+DNA and subsequent PCR products with I-PpoI prior to the resolution of
+PCR products by capillary electrophoresis or prior to cloning and
+sequencing. Results: Mutations at the sites of cleavage by I-PpoI were
+determined after induction of I-PpoI for 6h, 24h, and 48h. After removal
+of the majority (>97%) of wild-type sequences by digesting with I-PpoI,
+resolution of the PCR products by capillary electrophoresis showed the
+presence of various smaller size amplicons at the intergenic 2qIG site at
+each time interval and in all three replicates of the experiment, but no
+detectable abnormal size amplicons at the DAB1 gene site. Sequence
+analysis of cloned PCR products from one experiment revealed that 157 out
+of 252 sequences of the intergenic 2qIG site were mutant, whereas all 167
+clones containing the DAB1 site were wild-type (PIntroduction: Two major
+mechanisms of double-strand break (DSB) repair are non-homologous end
+joining (NHEJ) and homologous recombination (HR). Whereas NHEJ is
+error-prone and causes small deletions and other mutations at the site of
+repair, HR is highly fidelic. Here, we introduce a new method to identify
+mutations at the sites of DSB repair and apply it to study the fidelity
+of repair at different sites in human genome. Design: To enable the
+induction of DSBs at endogenous sequences in the somatic genome of TPC-1
+human thyroid cells, the cells were transduced with a HA-ER-I-PpoI
+retrovirus (gift of Dr. Michael Kastan). DSBs were induced by treating
+cells with 4-hydroxytamoxifen (4-OHT) which causes I-PpoI to enter the
+nucleus. I-PpoI induction for 6h produced multiple H2AX foci in about 75%
+of cells. We investigated the incidence of mutations following I-PpoI
+induction at two DNA sites. One has an I-PpoI site located within a
+coding gene, DAB1, on 1p32-p31and a second has an I-PpoI site within an
+intergenic region on 2q21 that we designate as 2qIG. qPCR analysis
+revealed that 9-16% of target sequences were cleaved at 6h post I-PpoI
+induction, which is consistent with previous observations that showed
+that I-PpoI cleaves about 10% of the target sites in human cells.
+Mutations at the I-PpoI cleavage sites were detected after reducing the
+presence of wild-type amplicons by digesting DNA and subsequent PCR
+products with I-PpoI prior to the resolution of PCR products by capillary
+electrophoresis or prior to cloning and sequencing. Results: Mutations at
+the sites of cleavage by I-PpoI were determined after induction of I-PpoI
+for 6h, 24h, and 48h. After removal of the majority (>97%) of wild-type
+sequences by digesting with I-PpoI, resolution of the PCR products by
+capillary electrophoresis showed the presence of various smaller size
+amplicons at the intergenic 2qIG site at each time interval and in all
+three replicates of the experiment, but no detectable abnormal size
+amplicons at the DAB1 gene site. Sequence analysis of cloned PCR products
+from one experiment revealed that 157 out of 252 sequences of the
+intergenic 2qIG site were mutant, whereas all 167 clones containing the
+DAB1 site were wild-type (P<0.0001). Most of the mutant 2qIG sequences
+had 2-27nt deletions and the ligation sequences frequently had
+microhomology that involved one or two nucleotides, which is highly
+characteristic of NHEJ. Conclusions: We have established a new method to
+assess mutations arising during the repair of DSBs and demonstrate that
+mutations occur at sites of DSB repair in intergenic DNA but not at sites
+of DSB repair in coding DNA. This suggests that repair of DSBs in coding
+and non-coding DNA may involve different mechanisms.
+

@@ -1,0 +1,32 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Three-dimensional in vivo blood flow mapping in tumors using
+optical frequency domain imaging.
+
+
+Angiogenesis in the tumor microenvironment is a chaotic process that
+results in a dysfunctional vascular network. Unlike normal blood vessels,
+tumor vessels are dense, tortuous, and leaky. The disorganized nature of
+the tumor vascular network often leads to unequal perfusion in different
+parts of the tumor. While some vessels see high blood flow rates, others
+can be virtually stagnant. This heterogeneity in blood flow can affect
+oxygen distribution, and, as a result, the efficacy of radiation and
+chemotherapy. Furthermore, knowing how blood flow varies as a tumor
+develops is critical for our comprehension of tumor angiogenesis.
+Finally, our understanding of how anti-angiogenic and chemotherapeutic
+treatments affect tumor vessels depends on our ability to monitor blood
+flow. Unfortunately, existing strategies for measuring blood flow are
+limited by low spatial resolution, long imaging times, or an inability to
+measure flow over whole tumor volumes. Here, we use optical frequency
+domain imaging (OFDI) to measure blood flow in individual vessels over an
+entire tumor volume growing in a mouse. Previously, we have used OFDI to
+obtain high-resolution images of tumor vasculature. Our new technique is
+based on an association between the speed of moving blood and the
+dynamics of optical speckle patterns that are intrinsically generated in
+OFDI. By employing novel methods to measure these speckle patterns and
+then relate them to an underlying flow velocity, we are able to generate
+high-resolution three-dimensional maps of blood flow within tumors. Our
+results expand the potential of OFDI to characterize the tumor
+microvasculature by adding wide-field blood flow measurements to its
+demonstrated ability to characterize microvascular morphology, tumor
+anatomy, tissue viability, and lymphatic vessel morphology.
+

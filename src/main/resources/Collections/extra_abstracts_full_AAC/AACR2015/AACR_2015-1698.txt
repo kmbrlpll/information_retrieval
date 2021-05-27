@@ -1,0 +1,41 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Systems pathology for characterization of cancer model systems in
+a multicenter IMI-PREDECT project
+
+
+Despite of our increased understanding of cancer biology, the majority of
+anti-cancer therapies fail at late-stage clinical trials. Thus, there is
+an urgent need to develop and validate novel preclinical models that
+could predict drug efficacy in humans. For this purpose, as a part of
+IMI-PREDECT public-private research consortium, this study describes
+methodology and infrastructure for characterization and comparison of
+preclinical models for drug target validation applying a systems
+pathology approach. Formalin-fixed paraffin-embedded (FFPE) samples from
+1050 different in vitro and in vivo models of breast, prostate and lung
+cancers, as well as 364 clinical tumors from the same origin, were
+collected from 26 PREDECT collaborators across the EU. We established
+standard operating procedures for central processing of FFPE samples,
+including tissue microarray (TMA) construction and immunohistochemistry
+(IHC) with 15 different antibodies (CK8, Ki67, p-histone H3, ER, AR,
+p-AKT, p-ERK, p-p38, H2AX, cleaved caspase 3, p-MET, HIF1, p63, vimentin,
+E-cadherin). We constructed 50 TMA blocks, from which sections were cut
+and stained as well as digitized using whole slide imaging. Images were
+hosted on a WebMicroscope digital pathology platform and sample metadata
+on a PREDECT Metadata database (MBase). We developed image analysis
+methods for the detection and quantification of IHC biomarkers in the
+48,800 stained TMA spots. As a proof-of-concept, we compared MCF-7 on
+several preclinical platforms including cell cultures, xenografts and
+xenograft tissue slices. Our results of the integrated biomarker
+phenotype suggest that of the various MCF-7 in vivo and ex vivo complex
+cell culture models, the xenograft tissue slice model was the most
+similar model platform to human clinical samples. In summary, we
+established a systems pathology approach to analyse and compare novel
+preclinical cancer models with IHC and digital imaging. The intention is
+that this large database will be made publicly available on the web as
+images and summary data that could be broadly useful to the community of
+cancer researchers and drug developers in comparing cancer model systems.
+The established infrastructure and workflow integrating molecular and
+digital pathology in a large-scale consortium setting could be applied to
+quantitative characterisation of consortium data in collaborations
+similar to PREDECT.
+

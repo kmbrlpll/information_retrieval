@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Validation of a predictive modeling approach to demonstrate the
+relative efficacy of three different schedules of the AKT inhibitor
+AZD5363.
+
+
+Introduction: Simeoni et al., Cancer Res 64, 1094-1101 (2004) published a
+mathematical model, widely used pre-clinically to describe the growth and
+inhibition by anti-cancer agents of xenografted models. Ribba et al. Eur.
+J. Cancer, 47, 479-490 (2011) demonstrated the utility of a mechanistic
+model that characterizes the tumor xenograft in terms of non-hypoxic,
+hypoxic, and necrotic. This poster demonstrates modeling approaches that
+have been utilized when the simplifying assumptions in the Simeoni model
+are invalid. We will also extend the model presented by Ribba et al., to
+incorporate the spatial features of a tumor in an attempt to better
+describe the tumor micro-environment. Here, focused experimentation
+coupled with PKPD modeling elucidates the schedule dependence of
+anti-tumor efficacy in a xenograted breast cancer cell line
+(BT474c).Methods: The Simeoni and Ribba models were adapted to
+incorporate features that describe: (1) the utility of biomarkers in cell
+signaling pathways as a driver for growth inhibition; (2) multiple
+mechanisms of drug action on sub-populations of cells that drive tumor
+growth. The model incorporates the concepts of a shell of cells,
+sufficiently proximal to blood vessels to be cycling; a hypoxic layer
+with the potential to cycle; a necrotic core. The model was calibrated
+using data from a dose fractionation experiment where similar weekly
+doses were delivered either twice daily continuously or a higher dose
+once daily 4 days of a week. The efficacy for untested doses and
+schedules were then simulated to identify intermittent doses that would
+result in the same efficacy as a continuous twice daily schedule. Further
+efficacy studies were then carried out to validate the
+prediction.Results: The model described biomarker and tumor volume time
+series well for a range of doses. It was found that the model predicted
+that a 30% dose increase was required for the 4 days a week schedule and
+a 70% increase was required for 2 days per week schedule. Further
+efficacy studies validated these predictions with the observed efficacy
+of three different schedules having no statistically significant
+differences.Conclusions: We demonstrate that adding mechanistic features
+to a descriptive model of drug-induced tumor growth inhibition makes it
+more representative of the disease biology and drug action. Modeling has
+enabled us to elucidate the relative balance of the anti-proliferative
+and pro-apoptotic consequences of AKT inhibition in a xenografted breast
+cancer cell line. A focused experiment-model-predict approach has
+achieved this in an efficient manner, with experimental validation adding
+credence to model predictions that will facilitate decision making for
+the clinical development program.
+

@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: shRNA library screening by dual shRNA technique identifies CHEK1
+as a synthetic lethal gene in the absence of IKK in ovarian cancer.
+
+
+Background: IKK was previously identified as an oncogene in breast cancer
+and was associated with poor clinical outcome in ovarian cancer.
+Recently, we demonstrated that IKK is a key regulator of invasion and
+metastasis programs in ovarian cancer. Therefore, we developed a rapid
+and robust dual shRNA technique to create IKK-matched cell line pairs and
+performed synthetic lethality screens to identify the key molecular
+targets influenced by the loss of IKK expression in ovarian
+cancer.Material and methods: To create an IKK-matched cell line pair, we
+utilized a retroviral bicistronic vector containing the transmembrane and
+extracellular domains of the mouse T-cell surface glycoprotein CD8 alpha,
+co-expressed with either IKK or negative control shRNAs. The positively
+transduced cells were isolated using mouse CD8a-specific microbeads.
+After recovery from beads purification, the human kinome shRNA library,
+containing a puromycin selectable marker fused to GFP, was introduced. To
+identify shRNAs that sensitized ovarian cancer cells to IKK depletion, we
+harvested each shRNA library infected control and IKK- depleted cells at
+two time points. This screening was performed in two different ovarian
+cancer cell lines, one with and one without p53 mutation.Results: We
+prioritized the genes consistently depleted at two different time points,
+depending on their doubling times (A2780 at Days 4 and 7, Ovcar5 at Days
+7 and 14). In order to generalize this synthetic lethality to ovarian
+cancers expressing a high level of IKK, we first focused on the genes
+identified in both ovarian cancer cell lines, yielding 29 candidate
+genes. We examined the expression levels of these 29 candidate genes in
+The Cancer Genome Atlas data portal containing more than 500 ovarian
+serous cystadenocarcinoma. Most of these 29 genes were overexpressed in a
+subset of TCGA ovarian cancers. Strikingly, CHEK1 was overexpressed by
+more than 2 fold in 98% of TCGA ovarian cancers. The combination
+knockdown with IKK and CHEK1 resulted in a further decrease in cellular
+proliferation and a further increase in G0/G1 arrest compared to
+individual depletion of either gene. Consistently, we observed the same
+biological effect using pharmacological inhibitors of IKK (BX795) and
+CHEK1 (PF00477736).Conclusion: Our dual shRNA technique efficiently
+identified CHEK1 as an IKK synthetic lethal gene in ovarian cancer.
+Identification of IKK dependent signaling will lead to development of
+context-specific therapeutics in the poor prognostic group of patients
+with a high level of IKK expression.
+

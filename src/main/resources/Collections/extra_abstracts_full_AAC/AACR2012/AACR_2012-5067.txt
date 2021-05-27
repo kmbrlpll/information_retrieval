@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Exome sequencing reveals both DNA sequence and copy number changes
+in AML: Potential driver changes and mechanisms of drug resistance
+revealed from serial samples from the same patients
+
+
+Despite significant advances in characterizing the molecular genetics of
+AML, the clonal evolution of leukemic cells and the dynamic impact of
+genomic changes on the development of the disease and progression to drug
+resistance are not well understood. Here, we applied next-generation
+sequencing to quantify aberrant tumor subclones carrying specific mutant
+alleles of key cancer genes and developed a method to extract
+quantitative high-resolution copy number changes across the genome using
+exome sequencing data from matching cancer and normal DNA. Serial bone
+marrow (BM) samples collected from diagnosis to relapse to post-treatment
+drug resistance in a patient-centric manner made it possible to trace the
+clonal evolution of AML and to identify variants potentially involved in
+drug resistance. Exome sequencing from AML blast cells and normal skin
+biopsies was performed as part of the Finnish Hematology Registry and
+Biobanking (FHRB) effort. Consecutive paired samples from different
+patients revealed unique genetic patterns of clonal evolution and cancer
+progression in each patient. In a pre-resistant sample of one AML M5
+patient, we identified four closely spaced insertions in the Wilm's Tumor
+(WT1) suppressor gene, none of which appear on the same sequence reads.
+This suggests the presence of multiple distinct leukemic subclones even
+before treatment resistance and underscores the strong selective
+advantage conferred by WT1 mutations. After relapse, one of the subclones
+was lost, and another one significantly increased suggesting that the
+relapse arose from the expansion of a pre-existing resistant subclone. In
+this patient, recurrent clones otherwise featured similar copy number
+changes and the same fusion genes as the primary diagnostic sample. In
+another AML patient developing recurrence an opposite pattern was
+observed: The relapsed, drug-resistant cells displayed an enormous
+increase of small microdeletions compared to the diagnostic,
+pre-treatment sample, while almost all sequence-level alterations in
+potential cancer genes were the same between the two samples. This
+suggests that a distinct type of DNA repair deficiency may have
+contributed to the drug resistant clone in this patient. Conclusions:
+Exome sequencing from paired samples of AML cells before and after
+relapse makes it possible to trace the clonal evolution of the disease
+and study the impact of therapy both at the level of sequence alterations
+of key cancer genes and simultaneously at the level of copy number
+changes inferred from exome sequence data. This analysis has highlighted
+multiple genomic patterns by which resistance may evolve in vivo during
+cancer treatment. Refined bioinformatic analysis and interpretation of
+exome-seq data provides a rich resource to identify genetic biomarkers of
+drug response and minimal residual disease.
+

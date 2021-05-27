@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Interrogation of small RNA-seq data for small noncoding RNA in
+human colon cancer.
+
+
+Genomic analysis of the human transcriptome has been made possible only
+in last decade by next generation sequencing (NGS). Recent advancements
+in NGS has further allowed us to look into small non-coding RNAs
+(sncRNAs) such as microRNAs (miRNAs), Piwi-interacting-RNAs (piRNAs),
+long non-coding RNAs (lncRNAs) & small nuclear/nucleolar RNAs
+(sn/snoRNAs). Recently, the roles of sncRNAs in biological processes have
+been implicated in biomarker development for diagnosis, prognosis
+&therapy. In the present study, 50 colon cancer patient’s small RNA
+sequencing raw data was downloaded from NIH bioproject (PRJNA266667; 7
+TNM stage II & 43 TNM stage III) which contained 27 female & 23 male
+samples. 24 samples had metachronous metastasis (MM) & 26
+non-metachronous metastasis (NMM). The small RNA-seq data was analyzed
+using PartekFlow. In depth analysis showed aberrant expression of 48
+miRNAs (all upregulated) in TNM-III vs TNM-II specimens & 20 miRNAs (17
+upregulated & 3 downregulated) in MM vs NMM. Further investigation of
+dysregulated miRNA through pathway analysis confirmed that the majority
+of the miRNAs were involved in cancer signaling pathways. Analysis of
+piRNA found unusual expression of 60 piRNAs (57 upregulated & 3
+downregulated) in TNM-III vs TNM-II & 31 piRNAs (28 upregulated & 3
+downregulated) in MM vs NMM. Further analysis of long non-coding RNAs, we
+found 77 lncRNAs were significantly expressed in TNM-III vs TNM-II &18
+lncRNAs in MM vs NMM. We also, investigated small nuclear/nucleolar RNAs
+(sn/snoRNAs), miscRNAs & mtRNAs, we identified 37 snRNAs, 105 snoRNAs, 28
+miscRNAs & 5 mtRNAs in TNM-III vs TNM-II whereas 2 snRNAs, 11 snoRNAs, 57
+miscRNAs & 8 mtRNAs in MM vs NMM were identified. In summary, our
+comprehensive analysis on publicly available small RNA-seq data
+identified multiple small non-coding RNAs that need to be further
+explored for their use in the prognosis, diagnosis & therapy of colon
+cancer.
+
+

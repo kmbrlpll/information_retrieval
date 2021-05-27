@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: NKG2A immune checkpoint blockade enhances the anti-tumor efficacy
+of PD1/PD-L1 inhibitors in a preclinical model
+
+
+Monalizumab (IPH2201) is a novel, first-in-class humanized IgG4 targeting
+the immune checkpoint receptor NKG2A (Natural Killer Group 2A). NKG2A is
+expressed as a heterodimer with CD94 on the surface of subsets of
+cytotoxic lymphocytes: NK (Natural Killer) cells, T cells and tumor
+infiltrating CD8 T lymphocytes. CD94/NKG2A is an inhibitory receptor that
+binds to HLA-E (Human Leukocyte Antigen-E) in humans and orthologous
+Qa-1b in mice. Upon ligand binding, CD94/NKG2A triggers inhibitory
+signaling that reduces NK and CD8 T cell responses. HLA-E is frequently
+up-regulated on cancer cells of many solid tumors or hematological
+malignancies, protecting from killing by NKG2A+ immune cells. By blocking
+the binding of CD94/NKG2A to HLA-E, monalizumab leads to enhancement of
+NK and cytotoxic T cell responses.The immune checkpoint receptor
+programmed cell death 1 (PD-1) is another inhibitory receptor widely
+upregulated by tumor-infiltrating T lymphocytes (TILs). In many tumor
+types immune surveillance is hampered by the expression of PD-L1, one of
+the ligands of PD-1. Blocking the PD-1 pathway has proven efficient as
+anti-tumor therapy. Nevertheless many patients remain refractory to these
+therapeutics. Combination treatment with PD-1 blockers and mAb to a
+second checkpoint receptor, CTLA-4, have proven effective only for some
+patients, suggesting a need for combining with other checkpoint
+blockers.The A20 cell line is a mouse B cell lymphoma line that expresses
+PD-L1, but not Qa-1b. Upon subcutaneous injection into Balb/c mice, A20
+formed solid tumors in which PD-L1 expression was retained and where
+Qa-1b expression was induced. A20 tumor growth was controlled by NK and
+CD8 T cells. In spite of high expression of PD-1 on many immune
+infiltrating cells, and high expression of PD-L1 on tumor cells,
+monotherapy with anti-PD-1 or -PD-L1 mAb resulted in only moderate
+reduction in tumor growth.Interestingly, more than 50% of A20 tumor
+infiltrating NK cells and about 10% of CD8 T cells expressed CD94/NKG2A.
+The NKG2A+ CD8 T cell population also co-expressed PD-1. Qa-1b expression
+was induced not only on the surface of tumor cells but also on
+infiltrating immune cells in vivo. Consistent with the hypothesis that
+Qa-1b protects tumor cells from killing by NKG2A+ effector NK and T
+cells, treatment with an antibody that blocks NKG2A significantly delayed
+A20 tumor growth. Mice were then treated with both anti-NKG2A and
+anti-PD-1 or -PD-L1 in combination. These combinations resulted in
+significantly higher anti-tumor responses compared to monotherapies,
+characterized by an increased frequency of complete tumor cell
+regression.Together, these data indicate that blocking NKG2A in
+conjunction with PD-1/PD-L1 checkpoint inhibitors could provide
+synergistic anti-tumor efficacy and support the rationale for
+investigating this combination in clinical trials.
+

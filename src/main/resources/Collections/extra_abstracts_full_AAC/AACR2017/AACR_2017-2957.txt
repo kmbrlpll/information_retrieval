@@ -1,0 +1,77 @@
+Meeting: 2017 AACR Annual Meeting
+Title: T-cell receptor immunosequencing reveals novel insights into the
+immune response to human pancreatic cancer.
+
+
+Introduction Despite advancements in therapy, pancreatic ductal
+adenocarcinoma (PDA) remains an aggressive cancer with high mortality. It
+is characterized by dense inflammation, including many T cells; however,
+it is unclear whether these T cells signify a true antitumor response. In
+the setting of disappointing early results of immunotherapy in PDA, we
+sought to gain a deeper understanding of the tumor-associated T-cell
+response.
+
+Methods With IRB approval, we obtained archival resected PDA tumors in
+paraffin-embedded blocks from 54 patients. We performed histopathology to
+identify blocks containing lymph nodes (LN) and performed T-cell receptor
+(TCR) immunosequencing on DNA extracted from immediately adjacent tissue.
+To address possible intratumoral heterogeneity, we analyzed duplicate
+samples from separate blocks for 10 patients. Productive clonality was
+defined as 1-Pielou’s evenness for TCR rearrangements encoding a
+functional protein; TCR fraction was calculated from number of observed
+templates and the amount of input DNA. Two-tailed t-tests were used to
+compare subgroups. TCR sequence overlap between each of the 10 pairs of
+duplicate samples were calculated at the amino acid level.
+
+Results Among samples that did not contain LN, mean TCR fraction was
+0.27, and mean clonality was 0.15 (typical peripheral blood mononuclear
+cell clonality is 0.08). TCR fraction was positively correlated with
+clonality (R2=0.23, p=0.007), though this correlation was only
+significant in patients who received neoadjuvant chemotherapy (R2=0.19,
+p=0.03). TCR fraction was higher in patients with positive nodal status
+(0.32 vs. 0.23, p=0.02), but lower in patients who received neoadjuvant
+therapy (0.22 vs. 0.33, p=0.02). There was no survival difference between
+high or low TCR fraction or clonality. Samples containing LN (not
+included in previous analyses) had higher TCR fraction (0.49 vs. 0.27,
+pResults Among samples that did not contain LN, mean TCR fraction was
+0.27, and mean clonality was 0.15 (typical peripheral blood mononuclear
+cell clonality is 0.08). TCR fraction was positively correlated with
+clonality (R2=0.23, p=0.007), though this correlation was only
+significant in patients who received neoadjuvant chemotherapy (R2=0.19,
+p=0.03). TCR fraction was higher in patients with positive nodal status
+(0.32 vs. 0.23, p=0.02), but lower in patients who received neoadjuvant
+therapy (0.22 vs. 0.33, p=0.02). There was no survival difference between
+high or low TCR fraction or clonality. Samples containing LN (not
+included in previous analyses) had higher TCR fraction (0.49 vs. 0.27,
+p<0.0001) but lower clonality (0.09 vs. 0.15, p=0.0002); this
+relationship was maintained regardless of nodal status. Among 10 pairs of
+duplicate samples, there was 53% mean overlap of TCR amino acid
+sequences, compared to 0.1% for pairs of unmatched samples (pResults
+Among samples that did not contain LN, mean TCR fraction was 0.27, and
+mean clonality was 0.15 (typical peripheral blood mononuclear cell
+clonality is 0.08). TCR fraction was positively correlated with clonality
+(R2=0.23, p=0.007), though this correlation was only significant in
+patients who received neoadjuvant chemotherapy (R2=0.19, p=0.03). TCR
+fraction was higher in patients with positive nodal status (0.32 vs.
+0.23, p=0.02), but lower in patients who received neoadjuvant therapy
+(0.22 vs. 0.33, p=0.02). There was no survival difference between high or
+low TCR fraction or clonality. Samples containing LN (not included in
+previous analyses) had higher TCR fraction (0.49 vs. 0.27, p<0.0001) but
+lower clonality (0.09 vs. 0.15, p=0.0002); this relationship was
+maintained regardless of nodal status. Among 10 pairs of duplicate
+samples, there was 53% mean overlap of TCR amino acid sequences, compared
+to 0.1% for pairs of unmatched samples (p<0.0001).
+
+Conclusion Here we demonstrate evidence of clonal expansion of T cells in
+the human PDA microenvironment. Extensive overlap of TCR sequences
+between two distinct samples for each of 10 pairs analyzed further
+suggests that the clonal expansion may be specific to tumor antigens.
+Neoadjuvant therapy may also influence clonal expansion, as only treated
+patients had a positive correlation between TCR fraction and clonality.
+Finally, the presence of a lymph node appears to skew TCR sequencing data
+toward a less clonal but more numerous population. This suggests that the
+most rigorous analysis of TCRs in a solid tumor microenvironment needs to
+exclude blocks that contain lymph nodes in order to characterize the true
+intratumoral population of T cells.
+
+

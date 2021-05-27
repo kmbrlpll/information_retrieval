@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: DLD microfluidic purification and characterization of intact and
+viable circulating tumor cells in peripheral blood
+
+
+We have developed a microfluidic chip-to-chip approach to purify
+circulating tumor cells (CTCs). The first, a DLD (deterministic lateral
+displacement) microchip contains an array of microposts arranged in
+sub-arrays of different gap sizes. The product outlet of the DLD chip is
+connected with a second magnetic-separation chip. In the DLD chip, cells
+and particles are deflected or bumped based on their size, whereas the
+second chip is designed to remove any cell or component tagged with a
+magnetic particle (MNP). Air pressure is applied to maintain a constant
+flow of sample and buffer throughout the system in a vertical fashion.
+First, whole blood is mixed with biotinylated antibodies to CD45 and
+strepavidin-MNP's for 20min, diluted in buffer and passed through the DLD
+chip where the blood interacts with the posts and cells are bumped based
+on a deterministic lateral displacement principle, thus separating blood
+components. The product fraction from the DLD chip containing white blood
+cells and other larger cells is directed to the magnetic chip and the
+waste fraction containing red blood cells, platelets, debris and soluble
+blood components is discarded. The second chip has an array of magnets,
+capturing the sav-MNP/CD45+-tagged cells thereby allowing the gentle free
+flow of rare cells towards the final product fraction. With the
+chip-to-chip configuration we are able to process up to 8ml of blood,
+removing >99.8% of red blood cells and >98% of white blood cells, with
+the remaining purified cell populations suitable for further analysis and
+characterization. Validation of the chip-to-chip approach using
+tumor-derived cancer cells, including MDA-MB-231, PC-3 and SKBR-3 cells,
+confirms a linear recovery of >80% of the spiked-cells with a viability
+of 90%. The minimum cell size captured by our approach is approximately
+6m ensuring the isolation of small-sized CTCs. Multi-color flow cytometry
+and imaging analysis of the chip-to-chip isolated cells from blood of
+breast cancer patients confirms the purification and identification of
+unique populations of HER2+/CD45-/EpCAM+ and CD146+/CD44+ cells
+characteristic of breast carcinomas-among other rare cell populations.
+Our chip-to-chip approach allows a gentle purification of intact and
+viable rare cells from cancer patients blood, suitable for functional
+analysis, drug sensitivity tests and genetic characterization. Thus, we
+have developed a hands-free liquid biopsy capable of isolating and
+purifying rare circulating tumor cells.
+

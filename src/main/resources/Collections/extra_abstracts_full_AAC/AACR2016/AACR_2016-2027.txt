@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Global analyses of HOXB13-regulated transcription reveal a
+potential link between HOXB13 G84E and prostate cancer risk
+
+
+Prostate cancer (PCa) is one of the most heritable cancers. However,
+germline genetic variations that are consistently and highly associated
+with PCa have remained elusive. Recently, a variety of non-synonymous
+SNPs in HOXB13 have been identified in prostate cancer patients from
+distinct ethnic populations. Among the HOXB13 variants, HOXB13 G84E has
+been consistently shown to associate strongly with increased PCa risk in
+men of European descent. HOXB13 is a prostate-specific transcription
+factor that plays a role in prostate development. HOXB13 has also been
+implicated in various aspects of PCa biology. However, to this date, the
+exact role of HOXB13 in normal prostate physiology and in PCa biology
+remains obscure. Our lab previously reported that neither HOXB13 WT nor
+G84E alone can transform prostate cells and that the G84E variant does
+not behave differently from HOXB13 WT in interactions with cofactors (AR,
+MEIS2) and protein half-life. To further delineate the function of HOXB13
+in the prostate and to identify G84E-induced alterations that subject
+G84E carriers to PCa susceptibility, we performed RNA-seq of the LAPC4
+prostate cancer cell line overexpressing a control vector, HOXB13 WT or
+G84E. Comparisons of the RNA-seq datasets were made using Ingenuity
+Pathway Analysis (IPA) by selecting genes whose expression was altered by
+2 standard deviations or higher. Among pathways altered by HOXB13 WT or
+G84E compared to the vector control dataset, the VDR/RXR activation
+pathway was negatively regulated by both WT and G84E. When the G84E
+dataset was compared to the WT dataset, the IPA analysis revealed that
+G84E can up-regulate the e-NOS signaling pathway. Interestingly, the top
+contributor to the difference imparted by HOXB13 G84E compared to WT was
+identified to be a set of genes regulated by HOXB13 itself. Overall, this
+preliminary analysis suggests that HOXB13 G84E may be a gain-of-function
+mutation whereby potential tumor-promoting functions of HOXB13 are
+over-activated. Finally, to further identify targets directly regulated
+by HOXB13 WT and G84E, we combined the RNA-seq datasets with HOXB13
+overexpression ChIP-seq datasets we previously reported and a HOXB13
+knockdown dataset in LAPC4 (Norris et al. 2009). We focused initially on
+genes that were shown to be up- or down-regulated in the same direction
+in the RNA-seq and HOXB13 knockdown datasets. Those genes were screened
+for nearby HOXB13 binding sites as annotated in our ChIP-seq analyses,
+followed by validation with droplet digital PCR. Among the genes that
+were down-regulated by HOXB13 WT and G84E include INPP4B, TNFSF10,
+IGFBP3, KLF5 and SOX9, which all have tumor suppressing functions in PCa.
+Among HOXB13-upregulated genes was BCHE, which is also implicated in the
+suppression of PCa initiation and progression. These results provide us
+with potential areas of further investigation in which HOXB13 G84E may
+differentially regulate transcription of these genes.
+

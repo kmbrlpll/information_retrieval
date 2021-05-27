@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Molecular platforms for mutation analysis from whole blood derived
+clinical samples by nextgen sequencing
+
+
+Both cell free DNA (cfDNA) and circulating tumor cells (CTC) represent
+important possible templates for mutation analysis of clinical samples
+with different theoretical advantages for a clinical test. cfDNA is easy
+to access and isolate, while CTC can provide both DNA as well as RNA for
+clinical testing. We have tested matched cfDNA and CTC DNA in a Next
+Generation sequencing test of clinical samples. Both cfDNA and CTC
+samples provided sufficient quantity for a direct sequencing clinical
+test. No whole genome amplification was required. The test consisted of
+coupling these purification technologies to an amplicon re-sequencing
+panel of 50 cancer-associated genes using a CLIA validated sequencing
+pipeline for single nucleotide variant (SNV) mutations with a sensitivity
+of 1%. Typically using this pipeline, blood borne cancer cells are
+isolated, extracted, sequenced and analyzed in 7 days. In the CLIA
+setting, the validated DNA sequencing process applied to breast cancer
+patient samples, has demonstrated useful and actionable clinical data.
+Results of SNV detection from known clinical positive control samples
+were quite definitive. We observed perfect concordance in True Positive
+(TP) SNV detection between the cfDNA and CTC templates. The only
+discordant results observed were in the detection of False Positives
+(FP). Using the identical software for SNV detection and variant calls,
+CTC templates exhibited 5x greater sensitivity in our sample set. cfDNA
+samples showed a much greater noise spectrum of FP. As blood samples are
+routinely fixed at collection, we evaluated whether fixation might
+contribute to the cfDNA observed high FP frequency. Our experimental
+results conclusively show that fixation did not contribute to increased
+FP observed with cfDNA. Whereas CTC samples showed zero FP over the
+reportable range, the cfDNA samples exhibited variable FP output ranging
+from 0 to >10 FP per sample. To extend the capabilities of sequencing
+rare cells, several RNA sequencing panels have been developed that allow
+for both SNV, expression, and fusion transcript detection. Although these
+panels have not been successfully used with cell free templates, they
+have been successfully applied to rare cell templates and promise to be
+an important capability for clinical use of CTC in the future. Looking at
+both lung and breast cancer derived samples we have measured both SNV,
+CNV (expression based), and fusion transcripts. We describe simultaneous
+detection of SNV mutations (KRAS: G12S, STK11:Q37*, PIK3CA:E545K,
+EGFR:L858R, EGFR:T790M, TP53:R273H) as well as fusion transcripts events
+EML4-ALK.E6aA20.AB374361, and EML4-ALK.E13A20.AB462411. In summary, both
+cfDNA and CTC derived DNA provided concordant results in SNV mutation
+detection. cfDNA exhibited a much higher FP rate as compared to CTC DNA.
+We further demonstrate that rare cells can provide useful template for
+RNA sequencing.
+

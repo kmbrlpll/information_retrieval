@@ -1,0 +1,72 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Progression-free survival curves suggest a dichotomous determinant
+of PD-L1 inhibitor efficacy.
+
+
+Background: PD-L1 expression varies across tumors but does not accurately
+predict PD-L1 inhibitor efficacy. Some negative tumors respond and some
+positive tumors fail. PD-L1 inhibitor progression-free survival (PFS)
+curve shape in non-small cell lung cancer (NSCLC) suggests that a
+dichotomous (present vs absent) factor might drive sensitivity rather
+than it being driven by a continuous variable like PD-L1 expression. PFS
+curves may follow first order kinetics, with a straight line if log % PFS
+is plotted vs time. If the population had 2 distinct subgroups with
+differing rates of progression then one would expect an inflection point
+on the log-linear curve, and the curve would fit a 2-phase decay model in
+nonlinear regression analysis (NLRA). A more homogeneous population would
+not fit a 2-phase model.
+
+Methods: We used arohatgi.info/WebPlotDigitizer/app/ to digitize
+published PFS curves, then GraphPad Prism5 for 2-phase NLRA, with the
+constraints Y0=100, plateau=0. To generate standardized 2-phase curves,
+we utilized 1) unselected NSCLC patients treated with epidermal growth
+factor receptor tyrosine kinase inhibitors (EGFR TKIs) where we expected
+a high proportion of curves to fit a 2-phase model as only some patients
+would have a sensitizing EGFR mutation; 2) NSCLC EGFR mutant and wild
+type (WT) patients treated with EGFR TKIs, and patients treated with
+platinum-based chemotherapy, taxanes or placebo/best supportive care
+(BSC), where we expected a lower proportion of curves to fit 2-phase
+models; 3) PD-L1 PFS curves in NSCLC and other tumor types.
+
+Results: With EGFR TKIs in unselected patients, 58 of 79 (73%) curves
+were fit by 2-phase models, vs 5 of 37 (14%) with EGFR TKIs in EGFR
+mutant patients (pResults: With EGFR TKIs in unselected patients, 58 of
+79 (73%) curves were fit by 2-phase models, vs 5 of 37 (14%) with EGFR
+TKIs in EGFR mutant patients (p<0.0001), 13 of 27 (48%) in EGFR WT
+patients (pResults: With EGFR TKIs in unselected patients, 58 of 79 (73%)
+curves were fit by 2-phase models, vs 5 of 37 (14%) with EGFR TKIs in
+EGFR mutant patients (p<0.0001), 13 of 27 (48%) in EGFR WT patients
+(p<0.02), 4 of 37 (11%) with platinum-based therapy (pResults: With EGFR
+TKIs in unselected patients, 58 of 79 (73%) curves were fit by 2-phase
+models, vs 5 of 37 (14%) with EGFR TKIs in EGFR mutant patients
+(p<0.0001), 13 of 27 (48%) in EGFR WT patients (p<0.02), 4 of 37 (11%)
+with platinum-based therapy (p<0.0001), 15 of 47 (32%) with a taxane
+(pResults: With EGFR TKIs in unselected patients, 58 of 79 (73%) curves
+were fit by 2-phase models, vs 5 of 37 (14%) with EGFR TKIs in EGFR
+mutant patients (p<0.0001), 13 of 27 (48%) in EGFR WT patients (p<0.02),
+4 of 37 (11%) with platinum-based therapy (p<0.0001), 15 of 47 (32%) with
+a taxane (p<0.0001), and 6 of 22 (27%) with placebo/BSC (p=0.0001). With
+PD-L1 inhibitors in NSCLC, 30 of 32 (94%) curves fit 2-phase models
+(pResults: With EGFR TKIs in unselected patients, 58 of 79 (73%) curves
+were fit by 2-phase models, vs 5 of 37 (14%) with EGFR TKIs in EGFR
+mutant patients (p<0.0001), 13 of 27 (48%) in EGFR WT patients (p<0.02),
+4 of 37 (11%) with platinum-based therapy (p<0.0001), 15 of 47 (32%) with
+a taxane (p<0.0001), and 6 of 22 (27%) with placebo/BSC (p=0.0001). With
+PD-L1 inhibitors in NSCLC, 30 of 32 (94%) curves fit 2-phase models
+(p<0.0001 vs each of EGFR TKIs in EGFR mutants, EGFR WTs, platinum and
+taxane chemotherapy and placebo/BSC). In other tumor types, 27 of 32
+(84%) PD-L1 curves fit 2-phase models.
+
+Conclusions: Most PD-L1 inhibitor PFS curves fit a 2-phase model. This is
+similar to what we observed with EGFR TKIs in unselected patients and
+different from EGFR TKIs in EGFR mutant and WT patients, and from
+chemotherapy or placebo/BSC. This leads us to hypothesize the existence
+of a dichotomous (present vs absent) factor such as a gene mutation,
+deletion or silencing that sensitizes tumors to PD-1/PD-L1 inhibitors. If
+found, such a dichotomous factor could prove to be a highly useful
+biomarker that could permit accurate prediction of PD-1/PD-L1 inhibitor
+efficacy. Since PD-1/PD-L1 inhibitor efficacy is higher in tumors with
+high PD-L1 expression, any sensitizing dichotomous factor might also
+drive PD-L1 expression.
+
+

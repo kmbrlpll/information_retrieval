@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Oncomine focus assay: Simultaneous detection of clinically
+relevant hotspot mutations, CNVs, and gene fusions in 52 oncogenes
+relevant to solid tumors
+
+
+Introduction: The Oncomine Focus Assay (OFA) is aimed to simultaneously
+detect and report hotspot mutations, Copy Number Variants (CNVs) and gene
+fusions in 52 oncogenes clinically relevant to solid tumors. With minimal
+DNA/RNA input, OFA employs AmpliSeq library preparation chemistry to
+enrich target regions for Ion Torrent Next Generation Sequencing.
+Variants are annotated for actionability by Oncomine Knowledgebase. Here
+we report an analytical validation of OFA.Methods: DNA and RNA, extracted
+from the FFPE processed GM12878, was used as the negative control to
+evaluate the specificity of OFA. A RNA sample containing multiple
+oncogenic gene fusions and a DNA sample containing multiple hotspot SNV
+and indels were used as the positive controls. Fresh DNA from cancer cell
+lines (HCC1143 or NCI-H2122) along with DNA from matched normal cell
+lines, HorizonDx NGS standards TruQ-1, TruQ-2, several engineered FFPE
+samples with gene fusions or copy number changes, and 43 clinical FFPE
+samples of a variety of solid tumor types (non-small cell lung cancer,
+colorectal cancer, gastrointestinal stromal tumor, ovarian cancer,
+pancreatic cancer, and melanoma) were used to evaluate the OFA
+performance. The analysis of the sequencing data was primarily performed
+with the OFA pipeline integrated with the Oncomine Knowledgebase. Only
+the genetic alterations with clinical utility were selected as the final
+output from the data pipeline. The SBS and indels detected by OFA were
+confirmed by Sanger sequencing. Any CNVs detected were confirmed by FISH,
+if possible, and detected fusions were confirmed by RT-PCR or
+FISH.Results: No clinically relevant genetic alterations were detected
+from the negative control FFPE-GM12878, indicating the high specificity
+of the OFA. The LOD for SBS and short indel detection was 5%, as assessed
+by TruQ-1 and TruQ-2, each containing 9-10 variants. The assay can
+detectgene fusion RNA present as 0.1%-1% of the total RNA, and gene
+amplifications are detected with a minimum of 50% tumor cell content. A
+known 12X CCND1 amplifications in HCC1143 and a 13X MYC amplification in
+NCI-H2122 were detected. In addition, a 13X EGFR amplification and 11X
+CDK4 amplification were detected in a lung cancer FFPE sample and
+confirmed by FISH. The analytical specificity for detection of SBS and
+indels was 100% (25/25). The analytical specificity for detection of CNV
+gain and gene fusions, and the assay sensitivity are currently under
+assessment.Conclusions: These results demonstrate the high sensitivity
+and specificity of OFA. With as little as 10 ng RNA and 10 ng DNA, OFA
+provides biomarker analysis of patient FFPE tumor specimens focusing on
+the detection of genetic alterations that have been targeted by oncology
+drugs or supported by published clinical evidence.
+

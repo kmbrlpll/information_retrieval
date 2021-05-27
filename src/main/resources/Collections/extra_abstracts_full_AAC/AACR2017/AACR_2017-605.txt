@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Potency of Gp96-Ig/Fc-OX40L cell-based combination vaccine in
+cancer immunotherapy.
+
+
+The breakthrough discoveries of checkpoint inhibitors in the field of
+tumor immunology have driven the clinical success of immunotherapies for
+cancer, despite their beneficial efficacy in only a small portion of
+patients. This is due in part to immuno-evasive mechanisms and the
+inability of the immune system to recognize tumor antigens as foreign.
+
+As a therapeutic approach to effectively present these tumor antigens in
+order to elicit an anti-tumor immune response, we previously designed and
+characterized an allogenic, gp96-Ig secreting, cell-based vaccine
+(ImPACT); currently being assessed in a phase II study in non-muscle
+invasive bladder cancer and a phase Ib study in non-small cell lung
+cancer – the latter, in combination with the PD-1 antagonist Nivolumab.
+
+We recently characterized a ‘next-generation’ vaccine (ComPACT) that
+combines the tumor antigen chaperone Gp96-Ig along with the T cell
+costimulator Fc-OX40L, which are both secreted from the same cell (Fromm
+et. al. Cancer Immunology Research. 2016). In preclinical assays, ComPACT
+is effective at stimulating CD4+ and CD8+ antigen-specific T cell
+expansion, the programing of a durable memory T cell phenotype, and the
+elimination of melanoma and colon tumors. This anti-tumor efficacy is
+enhanced when ComPACT is combined with checkpoint inhibition (anti-PD1 or
+anti-PDL1).
+
+To support manufacturing and clinical efforts of both ImPACT and ComPACT,
+in anticipation of phase III expansion and/or new trial initiation, we
+have developed novel potency assays to quantify the biologically active
+form of Gp96-Ig and the in vitro activity of Fc-OX40L on T cell
+costimulation.
+
+It has been shown that gp96 can interact with toll-like receptors (TLR)
+and that this interaction results in the activation of the NF-κB
+pathway. Since THP1 cells express abundant TLR2/4, we engineered a THP1
+cell line to express luciferase that is regulated by NF-κB response
+elements. Furthermore, we utilized the human T cell line; Jurkat, as host
+cells in which we also express NF-κB-luciferase, to quantify Fc-OX40L
+costimulation. Jurkat/NF-κB-luciferase cells primed with either CD3/CD28
+or TNFα, and subsequently cultured with ComPACT-secreted Fc-OX40L,
+results in a dose dependent increase in NF-κB (luciferase) expression.
+
+Our current data in both assays shows a linear correlation with the input
+of Gp96-Ig and Fc-OX40L, and may serve as an effective potency assay to
+facilitate the manufacturing of our vaccine product as it transitions
+into more advanced cancer immunotherapy clinical studies.
+
+

@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Evaluation of silicon phthalocyanine 4 photodynamic therapy in
+human cervical cancer cells
+
+
+Introduction: Cervical cancer is the second most common cancer in women
+worldwide. In the US there will be approximately 12,360 new cases and
+4,040 deaths in 2014. Treatment of locally advanced disease with
+concomitant- chemoradiation is suboptimal and leaves 40% of patients with
+residual disease. There are limitations on the total radiation dose that
+can be administered. There has been little progress examining novel
+therapeutic modalities for locally advanced cervical cancer. Photodynamic
+therapy (PDT) is a potential adjuvant to standard treatment. PDT requires
+a light source, a photosensitizer and oxygen to generate reactive oxygen
+species that kill cells. Silicon phthalocyanine 4 (Pc 4) is a second
+generation photosensitizer that has been evaluated in clinical trials. In
+this study we evaluated the effectiveness of in vitro Pc 4 PDT in human
+cervical cancer cells.Methods: CaSki and ME180, human metastatic cervical
+cancer cell lines expressing epidermal growth factor receptor (EGRF),
+were obtained from ATCC. Cells (104 cells/100 L) were grown as monolayers
+in 96 well plates in RPMI 1640 medium without phenol red containing 100
+IU Penicillin and 100 g/ ml Streptomycin at 37C, 5% CO2, 95% humidity.
+Cell growth was measured using a Methylthiazol Tetrazolium (MTT) assay.
+Pc 4 cellular uptake was determined at 0.3 M Pc 4 by fluorescence back
+calculated against Pc 4 standard curves (excitation 350 nm, emission 670
+nm) and expressed as % Pc 4. For the Pc 4 PDT experiments, concentrations
+of Pc 4 from 0.001 to 10 M were added starting 24 hours after cells were
+plated. Forty-eight hours after Pc 4 addition, cells were irradiated with
+a diode laser at 667 nm at a fluence of 2.5 J/cm2. A control plate was
+shielded from the laser. Twenty-four hours after PDT, cell viability was
+assessed via MTT assay. Percent inhibition was calculated from observed
+data and the IC50 was calculated from the Hill equation using ADAPT 5.
+Confocal imaging was performed to determine the intracellular
+distribution of Pc 4; mitochondria and lysosomes were imaged using
+MitoTracker (Cell Signaling) and LysoTracker (Life Technologies),
+respectively.Results: ME180 cells have a doubling time of approximately
+21 hours, while CaSki cells double in approximately 48 hours. Pc 4 is
+taken up by each cell line and the majority of uptake occurs by
+approximately 6 hours. Pc 4 was not toxic to the cells at concentration
+below 10 M. Following Pc 4 PDT, the IC50s for CaSki and ME180 cells were,
+respectively, 0.413 M (%CV 11.9) and 0.088 M (%CV 119,000). Pc 4
+distributed throughout the cells, overlapping with both the mitochondrial
+and lysosomal markers, as well being present within the
+cytoplasm.Conclusion: Pc4 PDT is effective for the treatment of human
+cervical cancer cells. Additional studies will evaluate Pc 4 PDT using
+EGFR targeted, Pc 4 loaded nanoparticles as well as cervical cancer
+spheroids.Support: P30-CA47904, CTSI BaCCoR Pilot Program
+

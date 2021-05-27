@@ -1,0 +1,38 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Down-regulation of long non-coding RNA MALL-2 is associated with
+metastasis and poor survival in lung adenocarcinoma.
+
+
+Lung adenocarcinoma accounts for ~40% of lung cancers and is among the
+deadliest cancers worldwide. Patients with metastatic lung adenocarcinoma
+exhibit poor outcome with the average 5-year survival of ~1%. Long
+non-coding RNAs (lncRNAs) have recently emerged as having critical roles
+in tumorigenesis. While a subset of lncRNAs have been shown to promote
+tumor invasion and metastasis, little is known about the role of lncRNAs
+in metastatic lung adenocarcinoma. Therefore, we analyzed publicly
+available microarray and RNA-Seq gene expression datasets that include
+primary and metastatic tissues. Through this meta-analysis we discovered
+98 metastasis associated lncRNAs that were dysregulated in metastatic
+tumors compared to non-metastatic tumors (MALLs). Notably, only two
+lncRNAs (MALL-2 and MALL-36) were found to be down-regulated in primary
+tumors, relative to normal tissue, and even further down-regulated in
+metastatic tumors relative to primary tumors. Gene set enrichment
+analysis revealed that MALL-2, the most down-regulated lncRNA in
+metastasis, was coexpressed with protein-coding genes enriched with
+biological concepts associated with repressing tumor growth and
+metastasis. Furthermore, we found that FOXA2, a metastasis repressor
+gene, was highly coexpressed with MALL-2 in lung cancer. A pan-cancer
+analysis using ~7,000 TCGA RNA-Seq tumor samples across 20 cancer types
+revealed that MALL-2 was also down-regulated and coexpressed with FOXA2
+in multiple cancers suggesting the conserved regulatory relationship
+between the two genes. We confirmed that FOXA2 expression was decreased
+upon knock-down of MALL-2 and silencing MALL-2 resulted in a significant
+increase in cellular migration in lung adenocarcinoma cell lines. Last,
+we found that low expression of MALL-2 was consistently associated with
+poor overall survival across multiple independent lung adenocarcinoma
+cohorts. Taken together, our integrative analysis has revealed MALL-2
+that acts as a repressor of lung adenocarcinoma metastasis by regulating
+FOXA2 and could serve as a biomarker of lung adenocarcinoma patient
+outcome.
+
+

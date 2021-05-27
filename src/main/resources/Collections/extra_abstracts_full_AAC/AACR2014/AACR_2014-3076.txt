@@ -1,0 +1,79 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A fully automated q-PCR-based circulating tumor cell analysis
+using the Alere TM q-Analyzer test platform
+
+
+Background: Circulating Tumor Cell (CTC) analysis has emerged as a
+promising new diagnostic field for cancer patients towards the estimation
+of risk for metastatic relapse and metastatic progression providing
+unique information for therapeutic strategies. The reliable clinical
+utility of CTCs, however, relies on the standardization of assays used
+for the detection of CTCs. Here, we report a fully integrated and robust
+system for the analysis of distinct molecular marker expression profiles
+of CTCs in blood samples of metastatic breast cancer (MBC)
+patients.Material and Methods: The CTC test platform consists of the
+portable q-Analyzer instrument and a disposable test-specific cartridge
+accommodating all required reagents for the processing of lysates of
+enriched CTCs from whole blood samples, thus removing subjectivity from
+the test process by eliminating any dependence on the test environment.
+Due to the full automation of the actual process, handling is limited to
+the loading of 100l of enriched cell lysate obtained from CTC Alere
+AdnaTest BreastCancerSelect onto the test cartridge and insertion into
+the instrument. Released mRNA is selectively captured to a solid phase
+and subjected to reverse transcription providing a template for
+target-specific amplification and real-time quantification of the
+tumor-associated transcripts EPCAM, MUC1, HER2, ESR1 and PGR. Real-time
+monitoring is achieved by utilizing the Competitor Monitored
+Amplification (CMA) combining the benefits of quantitative real-time PCR
+and microarray analysis for the analysis of expression profiles of
+multiple genes in a single reaction sample. The implementation of an
+additional control, assessing the level of contaminating leucocytes
+present in the enriched sample, provides true quality monitor for the
+purity of the sample and means to substantially improve the test
+specificity.Results: Spiking two and five T47D cells into 5 ml blood of
+44 healthy donors and evaluating 83 non-spiked healthy donor blood
+samples, analytical sensitivity revealed 100% recovery and 95%
+specificity, respectively. The duplicated inter-assay coefficient of
+variation was Background: Circulating Tumor Cell (CTC) analysis has
+emerged as a promising new diagnostic field for cancer patients towards
+the estimation of risk for metastatic relapse and metastatic progression
+providing unique information for therapeutic strategies. The reliable
+clinical utility of CTCs, however, relies on the standardization of
+assays used for the detection of CTCs. Here, we report a fully integrated
+and robust system for the analysis of distinct molecular marker
+expression profiles of CTCs in blood samples of metastatic breast cancer
+(MBC) patients.Material and Methods: The CTC test platform consists of
+the portable q-Analyzer instrument and a disposable test-specific
+cartridge accommodating all required reagents for the processing of
+lysates of enriched CTCs from whole blood samples, thus removing
+subjectivity from the test process by eliminating any dependence on the
+test environment. Due to the full automation of the actual process,
+handling is limited to the loading of 100l of enriched cell lysate
+obtained from CTC Alere AdnaTest BreastCancerSelect onto the test
+cartridge and insertion into the instrument. Released mRNA is selectively
+captured to a solid phase and subjected to reverse transcription
+providing a template for target-specific amplification and real-time
+quantification of the tumor-associated transcripts EPCAM, MUC1, HER2,
+ESR1 and PGR. Real-time monitoring is achieved by utilizing the
+Competitor Monitored Amplification (CMA) combining the benefits of
+quantitative real-time PCR and microarray analysis for the analysis of
+expression profiles of multiple genes in a single reaction sample. The
+implementation of an additional control, assessing the level of
+contaminating leucocytes present in the enriched sample, provides true
+quality monitor for the purity of the sample and means to substantially
+improve the test specificity.Results: Spiking two and five T47D cells
+into 5 ml blood of 44 healthy donors and evaluating 83 non-spiked healthy
+donor blood samples, analytical sensitivity revealed 100% recovery and
+95% specificity, respectively. The duplicated inter-assay coefficient of
+variation was <2.5% for each individual transcript. The overall agreement
+for detecting CTCs between the manual Alere AdnaTest BreastCancerDetect
+and this procedure proved to be 93% with high corresponding individual
+concordance for MUC1 (=1), EPCAM (=1), PGR (=0.97) and a lower agreement
+for HER2 (=0.46) and ESR1 (=0.74). Data were confirmed in 10 MBC patients
+and more samples are currently evaluated.Conclusion: The Alere q CTC
+Breast Test presents a robust and sensitive test platform, addressing the
+growing need for standardization which is a prerequisite for multicentric
+evaluations. We believe that our approach ultimately will pave the way of
+CTC markers into clinical practice. Moreover, the test facilitates
+comparisons and improvements of different CTC enrichment methods.
+

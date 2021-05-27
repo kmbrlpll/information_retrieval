@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Potent anti-cancer activity of the imipridone ONC206: A selective
+dopamine D2-like receptor antagonist.
+
+
+DRD2 is a G protein-coupled receptor (GPCR) that is overexpressed in many
+cancers, controls an array of pro-survival signaling pathways, and its
+antagonism causes anti-cancer effects. ONC201, the founding member of the
+imipridone class of anti-cancer compounds, is a small molecule DRD2
+antagonist that is in Phase I/II advanced cancer clinical trials. In this
+study, we evaluated the binding target and antitumor activity of ONC206,
+a chemical analogue of ONC201.
+
+An orphan small molecule target prediction algorithm revealed that
+ONC206, like ONC201, antagonizes DRD2. Experimental GPCR profiling using
+the PathHunter® β-Arrestin assay, determined that ONC206 selectively
+antagonizes the D2-like (DRD2/3/4), but not the D1-like (DRD 1/5),
+subfamily of dopamine receptors. ONC206 possesses a ~10-fold increased
+affinity for DRD2 compared to ONC201 with a Ki of ~320nM with selectivity
+that was superior to approved antipsychotics. The increased association
+rate for the ONC206-DRD2 interaction was responsible for the increased
+affinity, whereas the dissociation rate was similar to ONC201 and
+atypical antipsychotics that are well tolerated.
+
+TCGA analysis and immunohistochemistry of patient-derived tissue
+microarrays revealed DRD2 was overexpressed in neuroblastoma, sarcoma and
+pheochromocytoma specimens relative to normal tissues. In vitro efficacy
+profiling of ONC206 in the Genomic of Drug Sensitivity in Cancer
+collection of cell lines revealed broad efficacy across most tumor types
+(GI50 5µM). Efficacy evaluations in MHH-ES-1 athymic nude mice
+xenografts demonstrated that ONC206 (100 mg/kg PO every 10 days) causes
+significant tumor growth inhibition that was comparable to methotrexate
+(400 mg/kg, IP) while being better tolerated.
+
+In summary, ONC206 is an imipridone that acts as a selective antagonist
+of DRD2 at nanomolar concentrations and has broad-spectrum anti-tumor
+activity. ONC206 may address tumor types where the properties of ONC201
+do not permit for complete therapeutic engagement in vivo.
+
+

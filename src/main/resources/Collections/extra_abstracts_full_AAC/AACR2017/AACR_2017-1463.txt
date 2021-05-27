@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Intravital discovery of miRNA drivers of human cancer cell
+directional invasion.
+
+
+
+
+Metastatic cancer cells often use directional ECM cues such as blood
+vessels or collagen fibers when invading through live tissue. Oncogenic
+miRNAs have been implicated as key regulators of cancer progression yet
+the systemic discovery of miRNAs that drive directional cancer cell
+invasion has not been achieved.
+
+Here we describe the first in vivo quantitative whole human miRNAome
+screen for miRNA drivers of directional cancer cell invasion using an ex
+ovo avian embryo model of human cancer cell metastasis combined with high
+resolution intravital imaging. We identified more than twenty novel
+miRNAs that promote cancer cell invasion during the key rate-limiting
+step of cancer metastasis, the initiation and expansion of overt
+metastatic lesions. In silico miRNA target analysis (DIANA, Targetscan)
+showed significant enrichment in gene targets/pathways that control
+cancer cell-ECM adhesion and cancer cell contractility. These findings
+were further confirmed using Affymetrix gene expression analysis that
+showed significant changes in the expression of genes that regulate actin
+cytoskeleton rearrangement, cancer cell-ECM interaction and cell
+surface-receptor signaling. Public cancer gene expression database
+analysis (Oncoprint) showed that these miRNA-mRNA networks deregulated in
+several deadly cancers (pancreas, prostate, breast) and negatively
+correlate with the cancer patient survival.
+
+To elucidate potential mechanisms of these pro-metastatic miRNAs, we
+utilized an intravital imaging approach. In vivo 4D cancer cell tracking
+revealed that these pro-metastatic miRNAs are required for successful
+invasion into collagen-rich tissue and for attachment to the outer
+surface of the vascular wall. Deregulation of these miRNAs led to
+formation of loose contacts with the vasculature and chaotic,
+non-directional cancer cell invasion patterns in living tissue.
+Intravital second-harmonic microscopy analysis showed that inhibition of
+the expression of these miRNAs blocked the ability of cancer cells to
+rearrange the disorganized fine collagen fiber network into thicker
+collagen bundles that guide directional tumor cell invasion. In contrast
+to parental tumor cells that persistently moved along the collagen
+bundles, miRNA-deficient tumor cells were observed to transiently
+associate with multiple collagen fibers without establishing persistent
+collagen fiber-tumor cell protrusion contacts. Moreover, miRNA-deficient
+tumor cells failed to attach and protrude along preexisting perivascular
+collagen bundles, resulting in the complete abrogation of cancer
+cell/blood vessel co-option.
+
+In summary, we identified a novel panel of human miRNAs that are
+functionally involved in the regulation of directional invasion and
+metastasis. This work establishes these miRNAs as promising therapeutic
+targets to block the metastatic spread of lethal cancers.
+
+

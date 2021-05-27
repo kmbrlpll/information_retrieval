@@ -1,0 +1,46 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Planar filtered gene regulatory networks in breast cancer
+
+
+Gene co-expression network analysis has been shown to be effective in
+identifying functional co-expressed gene modules associated with complex
+human diseases such as cancer, Alzheimers disease, obesity and diabetes.
+However, existing techniques to construct co-expression networks require
+some critical prior information such as predefined number of modules to
+be detected and numerical thresholds for defining
+coexpression/interaction, or do not naturally reproduce the hallmarks of
+complex systems such as scale-free degree distribution of
+small-worldness). In order to mitigate these problems as whole or in
+part, we have developed a novel co-expression network analysis approach,
+Planar Filtered Network Analysis (PFNA). PFNA utilizes a graph filtering
+technique to identify true interactions by means of embedding candidate
+interactions on a topological sphere(2, 3). Planar Filtered Networks
+(PFN) are naturally scale-free, small-world, and are comprised of a
+number of highly co-expressed gene modules). Furthermore, PFNA allows
+differential topology analysis of networks from different disease states
+based on centrality and peripherality metrics).We performed PFNA on the
+breast cancer data from The Cancer Genome Atlas (TCGA), and identified a
+number of novel gene modules associated with overall survival of the
+whole cohort or patient subgroups defined by receptor status (ER, PR,
+HER2) and PAM50 biomarkers(6). PFNA uncovers not only gene modules
+enriched for genes in well-known cancer pathways such as cell-cycle and
+immune response, but also novel modules that prognostically stratify
+patients with triple negative or basal breast cancers. Notably, several
+modules involved in G-protein coupled receptor signaling, protocadherin
+and pathways are highly predictive of survival for patients with triple
+negative disease. Furthermore, the differential topology analysis reveals
+that breast cancer biomarkers such as PAM50 and poor prognosis gene sets
+developed by vant Veer et al(7) are more central in the tumor network
+than the one based on the matched adjacent normal breast tissues.In
+summary, PFNA reveals a number of novel high-level molecular features of
+the highly heterogeneous breast cancer. This novel network analysis
+method provides a set of unsupervised tools to objectively identify
+subnetworks that are associated with complex diseases such as breast
+cancer.1. R. Albert, A. L. Barabasi. Rev Mod Phys 74, 47.2. M.Tumminello,
+T. Aste, T. Di Matteo, R. N. Mantegna. Proc Natl Acad Sci U S A
+102,10421.3. T.Aste, T. Di Matteo, S. T. Hyde. Physica A 346, 20.4. W.M.
+Song, T. Di Matteo, T. Aste. Phys RevE Stat Nonlin Soft Matter Phys
+85,046115.5. F.Pozzi, T. Di Matteo, T. Aste. Adv Complex Syst 11, 927.6.
+J. S. Parker et al.. Journal of clinical oncology: 27, 1160.7. L.J. van
+'t Veer et al.. Nature 415, 530.
+

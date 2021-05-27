@@ -1,0 +1,53 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Polymorphisms in microRNA (miRNA) pathways and survival in
+esophageal cancer (EC) patients.
+
+
+Introduction: Polymorphisms within miRNA and in genes regulating miRNA
+biogenesis can regulate a variety of cancer pathways in EC patients.
+Comprehensive pathway analyses of miRNA-related genes were performed on
+EC outcomes.Methods: 324 EC patients from Princess Margaret Hospital
+(Toronto, Canada) were screened for 62 single nucleotide polymorphisms
+(SNPs) in 21 miRNA or miRNA biogenesis pathway genes. Multivariate
+Cox-proportional hazard models, adjusted for key prognostic factors
+evaluated the association of each SNP with overall survival (OS) and
+progression free survival (PFS). Significant SNPs were further analysed
+for joint effects, and also in subgroup and pathway analyses. All results
+were internally validated through bootstrapping.Results: Five
+polymorphisms belonging to the miRNA biogenesis pathway and one in a
+miRNA were nominally associated with OS or PFS, where adjusted hazard
+ratios (aHR) were between 1.23-1.41 for each comparison; p=0.003-0.04:
+AGO1 (rs595961; chromosome (chr) 1), GEMIN3 (rs197412; chr1) CD86
+(rs17281995; chr 3) hs-miRNA-26a1 (rs7372209; chr 3), GEMIN4 (rs7813 and
+rs910924; chr 17). Joint effect analysis of SNPs in the same chromosome
+found additive effects of these risk alleles (RA) on outcome: chr 1 (2-4
+vs 0-1: aHROS=1.82 [1.21-2.75], p=0.004), chr 3 (3-4 vs 0: aHROS=4.07
+[1.91-8.67], p=0.003), chr 17 (4 vs 0: aHRPFS=2.21 [1.13-4.31], p=0.02).
+Pathway based analysis found each additional RA conferring a strong
+additive effect on OS (per 2 RA: aHR=1.50 [1.25-1.81], p=1.9x10E-5).
+Results on PFS were similar, with aHRPFS per 2RA of 1.51 [1.26-1.82],
+p=1.3x10E-5. Internal validation found consistent results for all
+analyses. Exploratory subgroup analysis identified two SNPs that had
+differential effects on OS based on histology: for adenocarcinomas, the
+aHR for KIAA0423 (rs1053667) was 0.51 [0.28-0.96], p=0.03, while for
+squamous cell carcinomas, the aHR was 7.36 [2.07-26.1], p=0.002.
+Similarly, for DICER (rs13078), aHRadenocarcinoma=0.96 [0.72-1.28],
+p=0.78 vs aHRsquamous=2.51[1.21-5.21], p=0.01). In subset analyses,
+hsa-mir-30a (rs1358379), hsa-mir-492 (rs2289030), hsa-mir-499
+(rs3746444), and DGCR8 (rs1640299) were significantly associated with
+different outcomes by nodal status.Conclusion: We identified the miRNA
+biogenesis pathway as having an important role in the prognosis of EC
+patients, with a 50% increase in death or disease progression when
+carrying two additional miRNA risk alleles. Although some of the
+identified polymorphisms have been previously associated with risk or
+prognosis in other cancer disease sites, we report for the first time,
+their associations with esophageal cancer prognosis.Citation Format:
+Lawson Eng, Olusola O. Faluyi, Xin Qiu, Dangxiao Cheng, Daniel J. Renouf,
+Lorin Dodbiba, Sevtap Savas, Sharon Marsh, Jennifer J. Knox, Gail E.
+Darling, Rebecca KS Wong, Wei Xu, Geoffrey Liu, Abul K. Azad.
+Polymorphisms in microRNA (miRNA) pathways and survival in esophageal
+cancer (EC) patients. [abstract]. In: Proceedings of the 104th Annual
+Meeting of the American Association for Cancer Research; 2013 Apr 6-10;
+Washington, DC. Philadelphia (PA): AACR; Cancer Res 2013;73(8
+Suppl):Abstract nr 2562. doi:10.1158/1538-7445.AM2013-2562
+

@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Oncogene signatures and oncogene interaction networks in SUM
+breast cancer cell lines.
+
+
+During the course of tumorigenesis, cancer cells acquire a large number
+of genetic and epigenetic alterations. A subset of these alterations
+result in the generation of driver oncogenes that play critical roles in
+initiating and maintaining the transformed phenotype. Identification and
+therapeutic targeting of driver oncogenes has revolutionized cancer
+treatment however, responses to therapies that target a single oncogene
+are rarely durable. We hypothesize that most solid tumors are
+simultaneously driven by multiple driver oncogenes that together form an
+oncogene network and that durable therapies will need to target multiple
+oncogenes. Identifying multiple driver oncogenes among the large number
+of mutated/amplified genes that are present in most solid tumors is a
+nontrivial task that will require novel approaches. In this work we have
+combined RNAi-based dropout screens with copy number, expression and
+exome mutation analysis to identify the full complement of driver
+oncogenes that function in a panel of breast cancer cell lines. Our
+initial analysis has focused on four cell lines that each contain a known
+activated receptor tyrosine kinase (RTK) driver oncogene (SUM-52/FGFR2,
+SUM-185/FGFR3, SUM-190/HER2, and SUM-225/HER2). Using the SUM-52 cell
+line data as an example, we identified 956 copy number amplified genes
+and RNAi-based screening showed that 13 are amplified/over expressed and
+are necessary for growth/survival of this cell line. Similarly, of the
+615 mutated genes in this cell line, 23 scored in the screen. Three
+specific gene mutations were previously identified in other cancer types.
+Together these genes comprise a first draft of the complete oncogene
+signature for this cell line. This oncogene signature contains the known
+driver oncogene, FGFR2, as well as a novel oncogene, MYST3, that is of
+particular interest because it is found to be focally amplified in 5
+different cancer subtypes in the TCGA database. Additionally, one of the
+mutated genes, RASGRF3 is of particular interest due to the presence of
+this mutation in the COSMIC database and its role is ras/MAPK signaling.
+In an effort to identify oncogenes that cooperate with activated RTKs, we
+performed time-series expression analysis following treatment of cells
+with RTK inhibitors. In the SUM-52 cell line we identified a suite of
+genes that are regulated by FGFR2 in these cells and some of these genes
+are themselves amplified and necessary for growth/survival. Amplified
+genes regulated by an upstream driver oncogene represent candidate
+cooperating oncogenes that function as part of an FGFR2 driver oncogene
+network in these cells. Similar results have been obtained in additional
+cell lines from our panel including SUM-190 and SUM-225. Future work will
+focus on validation of oncogene signatures and identification of
+oncogenes that can be targeted to elicit a synthetic lethal response in
+the presence of specific, activated driver oncogenes.
+

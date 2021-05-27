@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Detection of microsatellite instable colorectal cancers from
+routine NGS panel sequencing data.
+
+
+Introduction
+
+In about 15% of all colorectal cancers, microsatellite instability (MSI)
+caused by defects in the DNA mismatch repair machinery can be detected.
+MSI driven tumors have a better prognosis compared to microsatellite
+stable (MSS) tumors and show good response to drugs targeting the
+PD-1-PD-L1 axis. Current molecular diagnostic procedures for colorectal
+cancer are primarily focused on the detection of oncogenic mutations in
+RAS family genes by either classical Sanger sequencing or next-generation
+sequencing. Routine testingof MSI status for therapeutic purposes is
+still rare and usually carried out by a different array of methods
+including PCR and immunohistochemistry.
+
+Experimental procedures
+
+In our routine diagnostic CRC screening, we sequenced more than 600
+colorectal tumors with an entity specific customized 180 amplicon NGS
+panel encompassing HotSpot regions of 31 genes. This panel includes
+several homopolymeric regions of genes that are known to be affected by
+MSI. We retrospectively analysed this data set for MSI signatures,
+including deletion/insertion mutations in 20 different homopolymeric
+regions (>7) and mutations/deletions of MLH1, MSH3, MSH6 and TGFBR2.
+Cases with an MSI signature detected by panel sequencing were reevaluated
+by PCR-based screening (Bethesda panel).
+
+Results
+
+From the 20 homopolymeric regions analyzed, several loci showed
+deletion/insertion mutations in MSI-positive patients. The highest
+discriminatory power presented a homopolymeric region within the ACVR2A
+gene showing a high analytical sensitivity and specificity towards MSI
+prediction. In combination with the readout of additional homopolymeric
+regions and the mutation status of MLH1, MSH3, MSH6 and TGFBR2, a
+sensitive and specific detection algorithm for MSI can be obtained from
+routine panel sequencing data. In conclusion, using only one assay, this
+approach facilitates simultaneous detection of mutations in RAS genes
+(and other druggable targets) and the MSI status in CRC As the assay is
+tissue sparing and time saving it may be advantageous over classic test
+approaches that are currently being employed in routine diagnostics.
+
+

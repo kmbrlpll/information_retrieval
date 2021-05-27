@@ -1,0 +1,35 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Comparison of dPCR versus hybridization capture methods for next
+generation sequencing of ctDNA for a SNV, copy number amplification, and
+fusion liquid biopsy assay
+
+
+Circulating tumor DNA can be found in the plasma of cancer patients, and
+can be utilized for non-invasive cancer detection and genotyping through
+Next Generation Sequencing. However, unique characteristics of ctDNA pose
+technical challenges that limit technical sensitivities and robustness.
+ctDNA are fragmented, short, rare in abundance, and found in high
+background of normal DNA from leukocytes. Cancer variants range as low as
+0.1-1% minor allele fractions, within the noise of NGS methods.
+Furthermore, clinical interest includes large number of genes and
+mutation types including single nucleotide variants, copy number
+amplification, and fusions. We compared two popular target enrichment
+categories, digital PCR and a hybridization-based capture panel for
+target enrichment. We assessed the assay performance and detection
+limitations, using a diverse sample set to test the range of input
+material that reflects ctDNA found in plasma. We titrated important
+cancer mutations (BRAF, EGFR, KRAS, PI3KCA, etc.) testing minor allele
+fractions ranging from 33% down to 0.1%, MET amplification ranges of 14x
+to 5x, and CCDC6-RET fusions of 50% to 2%. We also assessed input DNA
+ranges of 1ng and 10ng, well below manufacturer recommend input of
+library prep methods. Testing the performance of a 29kb amplicon panel
+and a 114kb hybridization-probes panel, we found superior on-target rates
+with digital PCR compared to the hybridization capture method across all
+samples. However, despite higher depths of coverage with droplet PCR,
+hybridization based methods had superior read mapping, uniformity (1.4x
+better), error rate (0.16% vs 0.02%), and greater linearity of SNV
+variants. Hybridization methods had greater accuracy of variant detection
+and were able to accurately identify the RET fusion. We demonstrated the
+feasibility of utilizing target enrichment methods for next generation
+sequencing for ctDNA variant detection.
+

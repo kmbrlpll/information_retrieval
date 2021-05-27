@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Molecular classification of triple negative breast cancer via
+RNA-sequencing data
+
+
+Introduction:Triple negative breast cancers (TNBC) are characterized as
+lacking estrogen receptor (ER), progesterone receptor (PR) and human
+epidermal growth factor receptor 2 (HER2) expression and TNBC patients
+have higher rates of recurrence and death compared with other breast
+cancer subtypes. For TNBC patients who fail standard chemotherapy, there
+are a lack of novel drug therapies, given the absence of well-defined
+molecular targets. Recently, a microarray meta-analysis identified 7
+triple negative subtypes, including the validation of the luminal
+androgen receptor (LAR) positive subtype [Lehmann, 2011]. However,
+microarray technology is dependent on probe-target specificity and the 7
+subtypes have yet to be validated using RNA sequencing data, and the
+presences of recurrent genomic alterations in the 7 subtypes are
+unknown.METHODS:We obtained 1106 breast cancer RNA-Seq bam files from The
+Cancer Genome Atlas (TCGA) and aligned with Tophat v1.3. The PAM50
+intrinsic gene signature was used to extract a cohort of 128 TNBC
+samples. Consensus clustering of genes, greater than 75th percentile of
+variance, was performed using Kmeans clustering in Spearman's correlation
+space. A nearest centroid prediction model was developed from genes
+differentially expressed among the clusters. Eighty independent TNBC RNA
+sequencing samples were obtained (British Colombia; BC) [Shah, 2012]
+which were calibrated to our TNBC conditional quantile normalized cohort
+and sub-typed by our model.RESULTS:Using RNA-Seq gene expression count
+data, we identified 5 clusters, all of which were stable, including the
+LAR cluster. Signaling pathway impact analysis (SPIA) implicated
+cytokine-cytokine receptor interaction, leukocyte transendothelial
+migration, and regulation of actin cytoskeleton pathways commonly altered
+in the non-LAR TNBC subtypes. In contrast, cell cycle, ECM-receptor
+interaction, endocrine regulated calcium reabsorption, and insulin
+signaling pathways were altered in the LAR versus non-LAR subtypes.
+Neuroactive ligand-receptor interactions were observed to be altered
+commonly between all sub-types. We then applied our model to the Shah, et
+al cohort. In this cohort, the LAR subtype was consistent with Shah's
+classification of other TNBC and contained no basal samples by PAM50
+intrinsic modeling. Analysis of sub-type specific mutation data from the
+BC cohort demonstrates an increased mutational load in ECM-related
+proteins, particularly the myosins, along with increased TP53 clonality
+in the non-LAR subtypes.CONCLUSIONS:Using TCGA RNASeq data, we have
+confirmed the presence of 5 major TNBC subtypes, including the LAR; which
+was negligible in basal composition by PAM50 intrinsic modeling. SPIA
+pathway analysis indicates a core set of pathways demonstrating altered
+expression across the TNBC sub-types and the identification of molecular
+targets within each subtype is ongoing.
+

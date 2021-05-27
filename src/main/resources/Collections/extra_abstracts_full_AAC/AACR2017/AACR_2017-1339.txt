@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Role of PTEN loss in basal-like 2 triple negative breast cancer.
+
+
+Basal-like 2 (BL2) triple negative breast cancer (TNBC) is an aggressive
+molecular subtype of breast cancer with a poor clinical outcome. These
+cancers are characterized by overexpression of epidermal growth factor
+receptor (EGFR), loss of PTEN protein expression, and presence of mutated
+TP53. Despite overexpression of EGFR, EGFR-targeted therapies have
+performed poorly in clinical settings. Therefore, understanding the
+mechanisms of resistance in these cells is critical for improved patient
+care. To understand the oncogenic signaling landscape in BL2 TNBC, our
+lab utilizes the BL2 cell lines SUM-149 and SUM-229, which overexpress
+EGFR activated by an amphiregulin-mediated autocrine loop, and are PTEN
+null. In addition, we utilize the BL1 subtype cell line MDA-MB-468, which
+also exhibits overexpression of EGFR and loss of PTEN. Both the BL1 and
+BL2 cell lines exhibit elevated levels of phosphorylated AKT (p-AKT)
+compared to control MCF-10A cells. However, while treatment of SUM-149
+and SUM-229 cells with inhibitors targeting EGFR (Gefitinib), type-1 PI3K
+(BKM120, BKM), mTOR (KU-0063794, KU) and pan-AKT (MK2206, MK) did not
+reduce p-AKT levels, MCF-10A and MDA-MB-468 cell lines treated with the
+same panel of targeted inhibitors showed marked inhibition of p-AKT. In
+addition, re-expression of PTEN in SUM-149 and SUM-229 cells had little
+effect on p-AKT but dramatically reduced p-AKT in MDA-MB-468 cells.
+Although PTEN re-expression alone had little effect on p-AKT in SUM-149
+and SUM-229 cells, these cells did display decreased AKT phosphorylation
+following treatment with Gefitinib, BKM, KU, and MK. There are three
+isoforms of AKT (AKT1, AKT2 and AKT3) of which, AKT3 has been implicated
+in the aggressive nature of some cancers. Previous studies in our lab
+showed that SUM-149 and SUM-229 cell lines have higher levels of AKT3
+message and protein compared to the other AKT isoforms. AKT3 expression
+was also higher in the BL2 cell lines compared to BL1 and control cells.
+This differential expression of AKT isoforms led us to examine the impact
+of AKT isoform-specific signaling. Using PTEN re-expressing SUM-149
+cells, we showed that PTEN re-expression resulted in decreased
+phosphorylation of AKT1 but not of AKT3. However, PTEN re-expression
+combined with Gefitinib treatment dramatically reduced phosphorylation of
+both AKT1 and AKT3. Interestingly, while neither re-expression of PTEN
+nor Gefitinib expression alone had an effect on colony-forming
+efficiency, PTEN re-expression coupled with Gefitinib treatment was able
+to reduce colony formation efficiency in both SUM-149 and SUM-229 cell
+lines. Taken together, these data indicate that BL2 breast cancers, with
+overexpression of EGFR and loss of PTEN expression, have an oncogenic
+signaling network involving AKT3 that contributes to the aggressive and
+drug-resistant phenotype observed in this subset of TNBC.
+
+

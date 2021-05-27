@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: MOSPD2, a newly characterized protein, promotes breast cancer
+metastasis.
+
+
+Introduction: We have previously described motile sperm domain-containing
+protein 2 (MOSPD2), a protein which up until recently no function was
+ascribed to, as a key regulator of monocyte migration in-vitro. In this
+study, the role of MOSPD2 in promoting breast cancer migration and
+metastasis in-vitro and in-vivo was assessed.
+
+Experimental procedure: The prevalence of MOSPD2 was evaluated by IHC in
+tissue microarray layered with cores, representing different stages of
+invasiveness in breast cancer. MOSPD2 abundance was scored according to
+the staining intensity on a scale from 0 to 3. MOSPD2 expression was
+silenced in MDA-231 breast cancer cell line using lentiviral particles
+for sh-RNA or CRISPR-CAS9 (CRISPR). Cells were then tested by a
+trans-well assay for migration towards EGF in vitro as well as for lung
+dissemination following orthotopic or systemic inoculation in vivo. For
+mechanism studies, EGF-induced signaling events were analyzed.
+
+Results: Within normal adjacent tissue (NAT), 82% of the samples had no
+staining and the remaining 18% percent displayed an intensity of 1. In
+the tissue cores with in-situ carcinoma pathology, 79% of the samples had
+no staining intensity while the remaining 21% only scored 1 or 2.
+However, analysis of invasive and metastatic cancer demonstrated higher
+frequency in score of 2 and increased staining intensity up to score of 3
+compared with NAT and in-situ carcinoma. Thus, the percent of combined
+scores 2 and 3 for invasive lobular carcinoma, invasive ductal carcinoma
+and metastatic invasive ductal carcinoma were 63%, 77% and 81%,
+respectively. MOSPD2-silenced cells, either by sh-RNA or by CRISPR, were
+severely impaired in their ability to migrate in-vitro towards EGF.
+Following EGF activation of CRISPR-Control MDA-231 cells, all tested
+proteins down-stream to the EGFR pathway, including AKT and p38, became
+phosphorylated. However, in CRISPR-MOSPD2 silenced cells, phosphorylation
+of all tested proteins excluding p38 were markedly inhibited. Moreover,
+activation with IGF of CRISPR-MOSPD2 MDA-231 cells did not hinder AKT
+phosphorylation. In vivo, SCID mice injected orthotopically or
+systemically with CRISPR-MOSPD2 silenced MDA-231 cells displayed
+significantly reduced number of metastases in the lungs relatively to
+mice injected with CRISPR-Control treated cells.
+
+Conclusions: We suggest that MOSPD2 promotes metastasis of breast cancer
+cells and is a potential target for the treatment of metastatic breast
+cancer.
+
+

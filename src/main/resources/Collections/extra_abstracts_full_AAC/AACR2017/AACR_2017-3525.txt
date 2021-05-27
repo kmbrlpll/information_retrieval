@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: PDEF promote prostate cancer luminal/epithelial differentiation
+and inhibit tumor progression.
+
+
+Conventional therapies produce a high rate of cure for patients with
+localized prostate cancer (PCa), but there is no effective treatment for
+castration resistant metastatic PCa. Transcription factors by association
+with enhancer and super-enhancer elements are key drivers of cell
+identity. Our previous studies have shown that Sam Pointed Domain Ets
+Transcription Factor a.k.a. Prostate Derived Ets Factor (SPDEF/PDEF),
+inhibits cell migration, invasion and clonogenic activity in PCa cells
+and there is a graded loss of PDEF with increasing Gleason Score in PCa
+patient samples. PDEF has been reported to be one of the cell identity
+transcription factors in LNCaP cells. We proposed that PDEF functions as
+a putative tumor metastasis suppressor. Others have shown an increase in
+Twist1, a bHLH transcription factor, was positively correlated with
+Gleason Grading. Present study was designed to investigate the role of
+PDEF and interplay between PDEF and Twist1 in PCa.
+
+PC3 cells were stably transfected with PDEF/control PABABE vectors. Gene
+expression changes were monitored by Affymetrix microarray. Microarray
+was analyzed with GSEA. qRT-PCR was performed to confirm gene expression
+and IHC, IF and IB analysis were performed to visualize protein
+expression. Chip-seq data (SRP002475) was aligned with Bowtie. Peaks were
+identified by MACS and visualized using IGB. PDEF/Twist1 expression data
+was extracted from GSE16560. GraphPad was used to generate KM survival
+analysis of PCa patients.
+
+Our results show that PDEF expression is limited to epithelial/luminal
+cells of the prostatic glands. We observed that expression of Twist1 was
+down regulated in PC3 cells following PDEF expression. Analysis of gene
+expression data from our microarray studies revealed that PDEF
+re-expression was associated with negative enrichment of gene sets
+involved with cell migration and positive enriched of gene sets involved
+with epithelial/luminal differentiation. Chip-seq analysis revealed a
+binding of PDEF to KRT8/18 promoter region. These data suggest that PDEF
+inhibits core metastasis related genes through promoting a program of
+luminal/epithelial differentiation. In clinical samples of PCa,
+expression of PDEF was inversely associated, while expression of Twist1
+was positively associated with Gleason grade. PDEF and Twist1 was able to
+predict patient survival, moreover integrated PDEF and Twist1 expression
+was able to better predict PCa patient survival as compared to PDEF or
+Twist1 alone.
+
+PDEF inhibits cell migration and metastasis in part by down-regulating
+Twist1 level and promoting luminal/epithelial differentiation. Loss of
+PDEF combined with gain of Twist1 expression may serve as a potential
+biomarker set for distinguishing lethal PCa from an indolent disease.
+Additional studies are underway to gain further insights into the role of
+PDEF in PCa progression and metastasis.
+
+Acknowledgement: FWCC support and Chair commitment funds (Koul H).
+
+

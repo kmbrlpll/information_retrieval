@@ -1,0 +1,41 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Diagnosis of chronic lymphoid leukemia on unstained blood smears
+using Raman microspectroscopy and supervised classification
+
+
+Chronic Lymphoid Leukemia (CLL) is a blood cancerous disease
+characterized by the proliferation of lymphocytes (lymphocytosis). This
+is the most common leukemia, preferentially affecting people aged over 50
+years old. It is incurable and in most cases shows no clinical signs.
+Thus, it is often discovered by chance during a blood test. If necessary,
+morphological and immunological studies are led by analyzing blood smears
+colored with May-Grnwald Giemsa, by making a complete blood count and by
+computing a Matutes scores. These studies are necessary because it is
+impossible to distinguish a healthy cell from a cancerous one only using
+a conventional microscope even if the cells are stained. In order to
+establish the diagnosis of the disease reliably and automatically, a new
+approach based on the Raman microspectroscopy is introduced in this
+study. Based on the interaction between matter and light, this technology
+acquires a real molecular and biochemical signature of the analyzed
+sample in a label-free manner (no staining or marking of the sample).
+Recently, Raman microspectroscopy has shown a promising potential to
+highlight the pathophysiological states in both human and animal since
+differences between different pathophysiological states occur at the
+molecular level. From unstained blood smears, obtained by spreading a
+drop of blood of CLL patients and healthy persons on standard glass
+slides, Raman spectra are acquired on the nucleus of white blood cells.
+Using a supervised classification algorithm such as the Support Vector
+Machine (SVM), a spectral model is established to distinguish spectra
+obtained from healthy or pathological cells. This model is computed using
+a population of spectra called training set and consists of 513 spectra
+from 6 CLL patients and 347 spectra from 4 healthy persons. Then, a
+classification of the validation set composed of 2820 spectra from 33 CLL
+patients and 1074 spectra from13 healthy individuals was achieved. A
+sensitivity of 84.84% and a specificity of 84.61% were obtained on the
+patient. Finally, a blind set composed of 721 spectra from 8 cases is
+classified. The sensitivity and specificity are respectively equal to 80%
+and 100%. The results obtained on the differentiation between healthy and
+pathological cells show the real potential of Raman spectroscopy coupled
+with supervised classification for the diagnosis of CLL. Future studies
+will concentrate on the prognosis, and if possible the prediction of CLL.
+

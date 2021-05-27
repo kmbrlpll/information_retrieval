@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Development of theranostic mesoporous silica nanoparticles for
+pancreatic cancer
+
+
+Purpose: Modern methods of pancreatic cancer diagnosis and treatment are
+severely lacking and have failed to provide effectual treatment options
+for patients. The root cause of this inadequacy stems from the
+hypovascularized nature of pancreatic cancer, making traditional
+chemotherapeutics and cancer detecting contrast agents nearly obsolete. A
+potential solution for tumor-targeting difficulties is through the
+implementation of nanotechnology, specifically targeting ligand capped,
+theranostic nanoparticles. We hypothesize that silica based, mesoporous
+nanoparticles capped with the targeting ligand, urokinase plasminogen
+activator (UPA) will serve as theranostic agents for treatment and
+diagnosis of pancreatic cancer.Methods: Mesoporous, silica nanoparticles
+(MSNs) were synthesized through the covering of acetyl trimethylammonium
+bromide (CTAB) scaffolding with tetraethyl orthosilicate (TEOS) in an
+aqueous environment. Refluxing was later used to remove the CTAB
+scaffolding and construct the desired mesoporous structure of the
+nanoparticles. MSNs were chemically engineered to be sensitive to acidic
+pH, contain fluorescent dye, and utilize a protein targeting ligand UPA.
+Multiple characterization techniques were employed to analyze the
+synthesized MSNs including UV-Vis spectroscopy, Zeta Potential, and
+Transmission Electron Microscopy (TEM). Pancreatic cancer tumor cells,
+S2CP9 and S2VP10, were treated with UPA-targeted or no-ligand
+encapsulated MSNs at pH 7.4 and 6.5. Following treatment, cells were
+washed to remove unbound particles followed by particle visualization
+based upon fluorescent dyes rhodamine or indocyanine green.
+Alternatively, cells treated with indocyanine green (ICG) loaded MSNs
+were placed into a tissue phantom and viewed using the Multispectral
+Optoacoustic Tomography system (MSOT). Mice with S2CP9 orthotopic
+pancreatic tumors were i.v. injected with 100 L of UPA-ICG loaded MSNs.
+Particle localization was conducted using MSOT after 4h post
+injection.Results: Zeta potential and UV-Vis analysis confirmed the MSNs
+chemical conjugation, attributing the MSNs properties of pH sensitivity
+and fluorescence. pH sensitivity tests on the MSNs displayed drug release
+quantities at pH 6.5 to be x2 the quantities of pH 6.8 and 7.4.
+Fluorescence microscopy showed the MSN uptake into S2VP10 and S2CP9 cell
+lines, while NIH3T3 cells (negative control) showed less binding. Use of
+UPAR antibody on S2VP10 and S2CP9 cell lines (positive control) blocked
+cellular binding. In tissue phantoms, UPA-ICG loaded MSNs at pH 6.5
+demonstrated 20X and 7X more cell signal than without ligand or at pH
+7.4, respectively. In-vivo, UPA-ICG loaded MSNs were detected within the
+orthotopic pancreatic tumor.Conclusion: UPA targeted, pH sensitive MSNs
+were found to possess substantial tumor cell binding against multiple
+cell lines and demonstrate potential as a theranostic nanoparticle for
+pancreatic cancer.
+

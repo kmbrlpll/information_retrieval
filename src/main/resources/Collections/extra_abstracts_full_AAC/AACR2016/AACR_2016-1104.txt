@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: MicroRNA miR-31 regulates oral squamous cell carcinoma cell
+migration by targeting critical enzyme of peroxisomal lipid metabolism
+
+
+MicroRNAs (miRNAs) are small endogenous non-coding RNAs that play
+important roles in a variety of cellular processes, such as growth,
+differentiation and metabolic homeostasis. Dysregulation of microRNA has
+been linked to the development of various types of human diseases,
+including cancer. Our previous study has identified that miR-31 is
+significantly up-regulated in oral squamous cell carcinoma (OSCC)
+tissues. Further gain- and loss-of-function analyses revealed that miR-31
+promotes OSCC by enhancing the migration and invasiveness of OSCC cells
+but not cell proliferation. However, the exact role of miR-31 in OSCC
+neoplastic development, especially metastasis, has not been explored.
+Computational microRNA target prediction and pathway analysis showed an
+enrichment of putative targets in lipid metabolism pathway. In this
+study, we aimed to investigate the role of miR-31 in the regulation of
+lipid metabolism and to establish the relationship between lipid
+metabolism and tumor pathogenesis in OSCC cells.First, we demonstrated
+that ACOX1, the rate-limiting enzyme in peroxisomal -oxidation, is the
+direct target of miR-31. We further analyzed publicly available mRNA and
+miRNA deep sequencing datasets and found that the expression levels of
+miR-31 inversely correlate with those of ACOX1. Furthermore, we
+discovered that depletion of miR-31 significantly decreased the intensity
+of cellular lipid droplets (LDs), and knockdown of ACOX1 conversely
+showed an increase of LD formation. These data suggested that miR-31 may
+regulate lipid metabolism by targeting ACOX1. In cultured OSCC cells, the
+migration capability and invasiveness were significantly increased after
+knockdown of ACOX1. We further confirmed that ACOX1 depletion enhances
+ERK1/2 expression and phosphorylation and increases the expression levels
+of MMP9 in OSCC cells. Collectively, our findings suggest that the
+elevated expression of miR-31 in OSCC cells directly contributes to the
+down-regulated expression of ACOX1, subsequently leading to accumulation
+of lipid metabolites and elevated OSCC migration and invasion through ERK
+pathway.
+

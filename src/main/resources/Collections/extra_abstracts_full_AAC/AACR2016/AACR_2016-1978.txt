@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: SON and its splice variants regulate MLL1/2 complex-mediated
+H3K4me3 and transcription of leukemia-associated genes
+
+
+SON is a poorly characterized nuclear protein that is particularly
+abundant in hematopoietic cells/organs and embryonic stem cells. This
+protein was recently identified as a splicing co-factor required for
+proper cell cycle progression and maintenance of stem cell pluripotency.
+Although SON's function in RNA splicing was recently highlighted, SON was
+originally identified as a DNA-binding protein and a potential regulator
+of transcription. However, the mechanism by SON controls transcription
+and its disease relevance are completely unknown.To investigate SON's
+function in genome-wide gene regulation, we performed chromatin
+immunoprecipitation-sequencing (ChIP-seq) in K562 human leukemia cells
+using SON antibodies. SON ChIP-seq results demonstrated that most of
+SON-binding sites are located within the promoter of target genes which
+include signaling mediators, transcription factors and cell cycle
+regulators. Our ChIP-qPCR revealed that knockdown of SON causes enhanced
+recruitment of the mixed lineage leukemia (MLL)1/2 complexes, but not
+MLL3/4 and SET1A/B complexes, to the SON target chromatin, resulting in
+significant increase of tri-methylation of histone H3 lysine 4 (H3K4me3)
+levels. Surprisingly, the C-terminus of SON directly interacts with
+MLL-binding region of menin and interrupts menin interaction with MLL1/2.
+These findings demonstrate an inhibitory effect of menin-SON interaction
+on menin-MLL1/2 interaction, reducing H3K4me3 and MLL1/2 complex
+assembly.In addition to full-length SON (SON F), two C-terminally
+truncated splice variants of SON (SON B and E) have been predicted in
+genome databases. To address the clinical significance of SON splice
+variants, we examined whether SON splice variants are differentially
+expressed in the condition of acute myeloid leukemia (AML).
+Interestingly, the expression levels of alternatively spliced SON
+isoforms, but not full-length SON, were significantly increased in human
+AML patient bone marrow/blood samples and mouse models of leukemia. The
+short isoforms of SON retain its DNA-binding ability, thereby competing
+with the full-length SON for target chromatin interaction. However, the
+short isoforms lack the menin-binding ability and could not inhibit
+MLL1/2 complex assembly. Importantly, overexpression of a short isoform
+of SON increased MLL complex-mediated H3K4me3 and markedly enhanced
+replating potential of hematopoietic progenitors.Taken together, our
+study reveals that the MLL1/2 complex activity is competitively regulated
+by full-length SON and its alternatively spliced isoforms, and that
+target genes of MLL1/2-menin are aberrantly controlled by overexpressed
+short SON in AML patients. Furthermore, our findings strongly suggest the
+significant roles of SON splice variants in aberrant transcriptional
+initiation in leukemia and leukemic stem cell maintenance.
+

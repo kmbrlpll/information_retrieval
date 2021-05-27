@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Decrease in phospho-S6 expression under MEK inhibitor (MEKi)
+treatment as a potential predictive biomarker of response to MEKi alone
+or in combination with PI3K-mTOR pathway inhibitor in pancreatic
+adenocarcinoma in vitro and ex vivo models
+
+
+Context: Activating KRAS mutations are frequent (>90%) in PDAC and drive
+downstream deregulation of both MAPK and PI3K-mTOR pathways. MEK
+inhibitors (MEKi) are under clinical evaluation in PDAC, in combination
+with other agents including PI3K-mTOR inhibitors. RAS and BRAF mutations,
+EMT, PI3K-mTOR activation, and pERK inhibition under treatment have been
+suggested as predictive markers for MEKi, but remain unvalidated in PDAC.
+We explored the cellular and molecular effects of MEKi GSK1120212
+(GSK212) alone or in combination with PI3K-mTOR inhibitors, in PDAC cell
+lines and ex vivo culture system.Material and methods: GSK212 is an
+allosteric non-ATP competitive MEKi. Everolimus (Ev) is a mTORC1
+inhibitor and BKM120 a pan-class PI3K inhibitor. Effects on proliferation
+were evaluated by MTT assay. Combinations were analyzed by the
+Chou-Talalay method. Protein expression was assessed by Western blot. Ex
+vivo drug evaluation used selected concentrations of drugs on cultures of
+fresh tissue slices from patient surgical specimens. Apoptosis and
+proliferation were evaluated by caspase 3 and MIB-1 (Ki67)
+immunostaining, respectively. Correlations between protein expressions
+were explored using linear regression.Results: MIAPaCa-2 and PANC-1 are
+two mesenchymal KRAS mutated/BRAF wild-type PDAC cell lines with very
+different response to GSK212, MIAPaCa-2 being sensitive (72h-IC50 =
+0.009M) and PANC-1 resistant (72h-IC50 = 33M). MIAPaCa-2 was more
+sensitive than PANC-1 to Ev (IC50 = 23.3M vs 47.0M) and BKM120 (IC50 =
+4.19M vs 31.6M). Combination of GSK212 and Ev or BKM120 for 72h resulted
+in synergistic effects in MIAPaCa-2 sensitive cell line but not in
+PANC-1. GSK212 (0.1M) treatment resulted in pERK extinction in both cell
+lines but in decreased pS6 expression in MIAPaCa-2 sensitive cell line
+only. Combination therapy resulted in extinction of pERK and pS6
+expression in both cell lines. Apoptosis induction in MIAPaCa-2 was
+confirmed by PARP cleavage from 48h. Two tumor specimens were cultured ex
+vivo: (a) GSK212 (0.1 M) treatment for 48h induced apoptosis (caspase 3
+expression) concomitantly with a decrease in pS6 expression; (b) Ev (1M)
+or BKM120 (0.1M) exerted antiproliferative effects but did not induce
+apoptosis; (c) combinations resulted in higher caspase 3 expression
+associated with a higher decrease in pS6 expression compared to MEKi
+alone. Linear regression showed significant correlation between caspase 3
+and pS6 (R2 = 0.5798, p = 0.0282, and R2 = 0.9423, p = 0.013, for tumor 1
+and 2, respectively).Conclusion: Response to combined MEK/mTOR pathway
+inhibition was not correlated with classical biomarkers of response to
+MEKi. Decrease in pS6 expression under MEKi treatment may be an early
+monitoring biomarker of response to MEKi and MEK/mTOR pathway inhibitor
+combination.
+

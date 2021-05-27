@@ -1,0 +1,27 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Elucidate the functions of TBX3 in AR positive prostate cancer
+
+
+TBX3 is a transcriptional repressor belonging to the T-box gene family.
+It is involved in lineage specification in mammary gland, limb and heart
+during embryonic development. Mutations in TBX3 can cause ulnar-mammary
+syndrome, affecting limb, apocrine gland, tooth, hair and genital
+development. TBX3 is amplified/mutated in a variety of cancers, including
+melanoma, bladder, breast and prostate cancer. Recent findings suggest
+there is a strict correlation between estrogen receptor and TBX3
+expression in mammary gland and TBX3 is mutated in 9% of invasive lobular
+breast cancer. However, little is known about the functions of TBX3 in
+hormone-dependent tumors. Here we screened several AR+ and AR- prostate
+cancer cell line and we found that the expression of TBX3 and AR is
+positively correlated. Moreover, in benign human prostate tissue, TBX3
+localization is overlapped with that of AR. Knocking down TBX3 by siRNA
+resulted in decreased cell proliferation and cell cycle arrest in AR+
+cell line Lncap and Vcap, but there was no effect on AR- cell line PC3
+and DU14 upon TBX3 knock-down. TBX3 ChIP-seq in both Lncap and Vcap
+revealed co-binding of TBX3, ETS transcriptional factors and FOXA1 on AR
+targeted genes. Gene Set Enrichment Analysis (GSEA) of RNA-seq data from
+Lncap cells infected with lentivirus expressing siSCR or siTBX3 indicated
+that TBX3 suppresses AR and ETV1 signaling. In conclusion, our data
+suggests that TBX3 is essential for AR+ prostate cancer cell growth and
+may play a role in regulating androgen signaling.
+

@@ -1,0 +1,67 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Evaluation of a new system for collection, stabilization, and
+purification of circulating tumor DNA.
+
+
+Introduction:
+
+The current preanalytical workflows for circulating tumor DNA (ctDNA)
+analysis have limitations that affect the accurate detection and
+quantification of these plasma cancer biomarkers. Release of genomic DNA
+(gDNA) from white blood cells (WBCs) due to cell lysis or apoptosis
+during whole blood storage in EDTA tubes creates higher gDNA background
+levels, affecting the sensitivity of ctDNA assays. Current tubes that
+stabilize WBCs often contain crosslinking reagents, which have negative
+effects on sensitive downstream assays, including methylation-based
+assays.
+
+Using ctDNA assays, the new PAXgene® Blood ccfDNA System*, consisting of
+a blood collection tube with unique, non-crosslinking chemistry and an
+automated circulating cell-free DNA (ccfDNA) extraction kit, was
+evaluated in three research studies.
+
+Methods:
+
+Blood samples were collected into paired PAXgene and EDTA tubes and
+stored for 7 days at room temperature (RT). ccfDNA was isolated from
+plasma using the PAXgene kit or the QIAGEN QIAamp® Circulating Nucleic
+Acid Kit.
+
+Study 1: The ccfDNA from lung cancer patients was quantified by real-time
+PCR for the amount of the ERV sequence (as a measure of the total plasma
+DNA quantity) and after bisulfte treatment for mSHOX2 as a marker for
+ctDNA.
+
+Study 2: Blood from healthy donors was spiked with fragmented,
+fully-methylated CpGenome DNA. During storage, tubes were intermittently
+inverted to simulate tubes in transit. Subsequent to bisulfite
+conversion, PCR assays targeting ACTB and methylated BCAT1 and IKZF1 DNA
+were used to determine the yields of ccfDNA and ctDNA, respectively.
+
+Study 3: Restriction enzyme treated EGFR DNA containing exon 19 deletions
+and exon 20 and 21 substitutions (T790M, L858R) were spiked into healthy
+donors’ blood. ccfDNA was tested with the QIAGEN therascreen® EGFR
+Plasma RGQ PCR Kit*.
+
+Results:
+
+Both study 1 and 2 demonstrated constant levels of the methylation ctDNA
+markers, SHOX2, BCAT1 and IKZF1, over the investigated time course. There
+was no significant release of gDNA in the PAXgene tube whereas a
+significant release of gDNA was detected in EDTA samples. Likewise, study
+3 showed constant EGFR Ct values in the PAXgene system with reliable
+mutation detection, whereas the high DNA concentration from the EDTA
+system resulted in false-positive callings.
+
+Conclusions:
+
+The new system allows researchers to accurately detect and quantify
+plasma cancer biomarkers from blood samples that have been stored in the
+tube for up to 7 days at RT. This includes challenging assays based on
+methylated ctDNA. The system provides the required assay sensitivity to
+allow the correct assay interpretation beyond the typical 3–6 hour
+storage limit for EDTA tubes.
+
+*For Research Use Only. Not for use in diagnostic procedures.
+
+

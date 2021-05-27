@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: MiRNA-652 induces neuroendocrine-like differentiation in LNCaP
+prostate cancer cells through decreased PP2A function.
+
+
+Background: MicroRNA (miRNA) dysregulation has been shown to contribute
+to prostate cancer progression. Recently, we identified a panel of five
+miRNAs associated with prostate cancer recurrence and metastasis using
+next generation miRNA sequencing. Here, we examine the clinical
+implications of dysregulation of miR-652 and its biological mechanism.
+
+Methods: Using a cohort of 585 patients treated with radical
+prostatectomy, we examined the prognostic significance of miR-652 using
+the Kaplan Meier method and Cox proportional hazard models. We examined
+miR-652 expression in prostate cancer cells and created cell lines that
+overexpressed miR-652 for functional assays. Finally, we examined
+pathways through which miR-652 may function using prediction algorithms,
+and confirmed by Western blotting, IHC and luciferase reporter assays.
+
+Results: Patients overexpressing miR-652 had significantly increased
+rates of biochemical recurrence (pResults: Patients overexpressing
+miR-652 had significantly increased rates of biochemical recurrence
+(p<0.0001). In multivariable models adjusting for known clinical
+prognostic factors, patients with high miR-652 expression had an
+increased risk of biochemical recurrence (HR 1.47, 95% CI 1.09-1.98).
+Overexpression of miR-652 in PC3 and LNCaP cells resulted in increased
+growth, migration and invasion. Prostate cancer cell xenografts
+overexpressing miR-652 had increased tumorigenicity and metastases. Using
+the miRNA target prediction program miRanda, we identified the B”
+regulatory subunit, PPP2R3A, of the tumor suppressor PP2A as a potential
+target of miR-652. PC3 and LNCaP cells transfected with miR-652 mimic
+dowregulated the PR72 isoform of PPP2R3A. Mutation of the miR-652 binding
+site in the PPP2R3A gene negated this effect. Western blotting
+demonstrated that mir-652 induced PPR2R3A inhibition induced
+epithelial-mesenchymal transition (EMT) in PC3 cells. Prolonged miR-652
+expression in LNCaP cells induced a neurite-like morphology, suggesting
+neurodocrine-like differentiation (NED). Western blotting of LNCaP cells
+after prolonged miR-652 exposure, resulted in increased phospho-AKT and
+phospho-β-catenin (phosphorylated at Serine 552), reduced AR expression,
+and upregulation of the NED marker, neuron specific enolase (NSE),
+consistent with NED. Expression of NED markers, chromogranin A, NSE, and
+synaptophysin were also observed in a xenografted tumor derived from
+LNCaP-652 overexpressing cells.
+
+Conclusion: These observations suggest that increased levels of miR-652
+found in prostate cancer may contribute to tumor progression by promoting
+NED, tumor cell survival and cell migration/invasion through decreased
+PP2A function which may provide an opportunity for novel therapy in
+prostate cancer.
+
+

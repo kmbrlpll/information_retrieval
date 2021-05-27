@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Meta-analysis of genomic aberrations identified in CTCs andctDNA
+in triple negative breast cancer
+
+
+Technological innovation and scientific advances in understanding cancer
+at the molecular level have accelerated the discovery and development of
+both diagnostics and therapeutics. Circulating tumor cells (CTCs) and
+plasma circulating tumor DNA (ctDNA) are non-invasive prognostic markers
+that have been associated with metastatic and aggressive disease. Both
+CTCs and ctDNA allow molecular characterization of a tumor that is
+inaccessible or too risky to biopsy. The analysis of genomic aberrations
+in both sample types provides insights into drug resistance and can help
+determine appropriate, targeted cancer treatments. Mutations found in the
+primary or metastatic tumor can be identified in both CTCs and ctDNA as
+well as novel mutations that may reflect intratumoral and intermetastatic
+heterogeneity. When collected and evaluated over an extended period of
+time, changes in the CTC and/or ctDNA mutational profile can offer
+guidance into the effectiveness of a treatment, indicate the progression
+of disease, and detect recurrence of disease earlier.We have performed
+whole exome sequencing of CTCs and ctDNA from a metastatic triple
+negative breast cancer (TNBC) patient to better understand the evolution
+of tumor heterogeneity during therapy. The patient was enrolled in the
+Intensive Trial of OMics in Cancer clinical Trial (ITOMIC-001) and
+initially received weekly cisplatin infusions followed by additional
+targeted therapy. Longitudinal peripheral blood samples were collected
+over a period of 272 days following enrollment in the clinical trial.
+CTCs were identified using the AccuCyte-CyteFinder system (RareCyte,
+Seattle WA).We used next generation sequencing, and computational biology
+tools to analyze genomic DNA from multiple CTCs, white blood cells (WBCs)
+and ctDNA from various time points. We observed similar genomic
+aberrations in both CTCs and ctDNA that could be classified into three
+groups: a) a static group that remains unchanged during the course of
+therapy, b) a sample-specific group that is unique to each time point and
+c) an intermediate group that has variants that are short-lived but are
+present across multiple time points. Variants identified in the liquid
+biopsy samples were compared with variants observed in primary breast
+tumor, metastatic bone marrow tumor and publically available pan-cancer
+datasets. We then performed meta-analysis on somatic variants to identify
+changes in affected networks in response to therapy over time. Several
+key nodes were identified that could rationally have been targeted for
+therapy using compounds currently in clinical trials. We then compared
+and combined the perturbed networks obtained from the CTCs and ctDNA to
+better understand the etiology of TNBC. These studies represent the first
+step of a synergistic partnership between the genetic information
+obtained from the analysis of CTCs and ctDNA with innovative health care
+for patients with metastatic breast cancer.
+

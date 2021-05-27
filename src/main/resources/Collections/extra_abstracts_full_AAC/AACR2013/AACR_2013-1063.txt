@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Examining early events in carcinogenesis by profiling premalignant
+lesions in the airways of patients with lung squamous cell carcinomas.
+
+
+Little is known about the mechanisms involved in the initiation and
+progression of lung cancer, even though lung cancer contributes to the
+most cancer-related deaths in the world. Lung squamous cell carcinoma
+(SCC) is the second most common histological subtype, and often arises
+centrally from a large airway, usually a bronchus. It is believed that
+squamous lung cancer develops through a series of genetic and epigenetic
+changes that alter the normal epithelium from squamous metaplasia, to
+dysplasia, then carcinoma in situ, and finally to invasive SCC. Although
+there have been studies devoted to discovering the genetic and molecular
+changes observed in the tumor, few studies have contributed to the
+investigation of squamous metaplasia or dysplasia. To better understand
+carcinogenesis in the lung, especially those steps involved in the early
+and precancerous stages, a precise study of the biology of premalignant
+lesions is needed. To achieve this, we used laser capture microdissection
+to specifically isolate normal airway basal cells, premalignant cells,
+and tumor regions within individual patients with squamous lung cancer.
+The RNAs obtained were successfully sequenced using Next Generation
+Sequencing. Using two different statistical models of linear mixed
+effects and edgeR (empirical analysis of digital gene expression data in
+R), we identified a list of genes that were differentially expressed in
+the premalignant lesions and in tumors when compared to the normal basal
+cells. We were able to validate at RNA and protein levels several of the
+genes identified to have higher expression in premalignant lesions and
+tumors than in normal basal cells. We performed a gene network analysis
+and found that some of these genes are known to be involved in the
+development of other squamous tumors, cell cycle progression, cell death
+and survival, and cellular assembly, while some genes are uncharacterized
+or novel to cancer development. We also discovered that, even though TP53
+RNA expression was not significantly different among normal,
+premalignant, and tumor cells, several proteins that were upregulated in
+the premalignant lesions were known to target TP53 protein for
+degradation, cytoplasmic localization, or disruption of its function.
+This suggests that the disruption of TP53 pathway began at the
+premalignant stage of carcinogenesis, and persisted through the formation
+of invasive carcinoma. This is the first comprehensive gene expression
+profiling of airway premalignant lesions and allows us to study the
+biology behind these lesions in the setting of carcinogenesis.
+

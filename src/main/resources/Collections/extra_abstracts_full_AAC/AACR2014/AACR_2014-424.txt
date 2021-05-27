@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: The transcriptomic and methylomic changes caused by subtoxic doses
+of 5-azacytidine and 5-aza-2-deoxycytidine
+
+
+Two demethylating agents, 5-azacytydine (Vidaza) and
+5-Aza-2-deoxycytidine (Decitabine), are used in the clinic to treat
+myelodysplastic syndrome (MDS) and some forms of leukemia. There are also
+several ongoing clinical trials using these demethylating agents to treat
+solid tumors. DNA incorporation of these drugs leads to the depletion of
+DNMTs (DNA methyltransferases) in the cell and passive DNA demethylation.
+The major difference between Decitabine and Vidaza is their respective
+level of incorporation into nucleic acid. Decitabine is only incorporated
+into DNA, while 70-90% of Vidaza incorporates into RNA and only 10-30%
+into DNA. Due to their mechanisms of action, the effects of these drugs
+on DNA are S-phase dependent. It has been previously demonstrated that
+various transcriptional changes are initiated by demethylation of DNA,
+but the majority of studies have focused on transcriptional activation of
+tumor suppressor genes. The objective of this study is to use genomics
+approaches to examine the effects of low doses of Vidaza and Decitabine
+on bladder cancer cells and normal immortalized urothelium. We
+hypothesize that Vidaza and Decitabine will have distinct biological
+effects on the methylome and transcriptome in these cells, including
+alternative splicing. We have generated DNA and RNA samples from normal
+(SV-HUC) and cancer bladder (T24 and SCaBer) cell lines treated with low
+concentrations (100nM, 200nM, and 1M) of Vidaza and Decitabine. The cells
+were treated with the different concentration of drugs on day 2 and 4,
+and then harvested on day 5. Before utilizing these samples for genomic
+screening, we monitored the methylation status of three CpGs in the
+promoter region of LINE-1, a surrogate marker of pharmacologically
+induced DNA demethylation. Furthermore, we examined the mRNA expression
+of NY-ESO-1 cancer testis gene previously shown to be one of the
+reactivated genes by demethylating agents through a loss of promoter
+hypermethylation. T24 cells immediately showed a significant decrease of
+methylation of LINE-1 when treated with 100nM Decitibine, but there was
+barely any change in methylation status in the other cells lines at this
+low dose. Meanwhile, treatment with Vidaza did not change the methylation
+status of LINE-1 and mRNA expression of NY-ESO-1. However, these
+experiments were merely designed to monitor the general pharmacological
+effects of Vidaza and Decitabine. We are currently examining the effects
+of these drugs focusing on genomic regions (exonic and intronic) outside
+of gene promoters by utilizing deep-coverage paired-end RNA sequencing
+and 450K Illumina methylation array. The integration of these large-scale
+data will enable us to better understand pharmacologically induced
+demethylation in cancer and utilization of these agents in treatment of
+solid tumors including bladder cancer.
+

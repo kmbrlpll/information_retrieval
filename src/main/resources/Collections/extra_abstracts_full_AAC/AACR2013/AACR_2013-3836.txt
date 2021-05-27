@@ -1,0 +1,49 @@
+Meeting: 2013 AACR Annual Meeting
+Title: A 3D high throughput RNA1 screen identifies the TLR4 kinase which
+alters spheroid architecture: a promising therapeutic strategy for
+pancreatic cancer.
+
+
+Background: Pancreatic Ductal Adenocarcinoma (PDA) ranks fourth among
+cancer-related deaths in the United States. The poor prognosis of PDA is
+due to resistance to current therapies. Contributing to this resistance
+is the tumor architecture comprising dense desmoplastic stroma,
+extracellular matrix (ECM), tumor cells and tumor hypoxia. We
+hypothesized that destabilizing the compact tumor architecture by
+weakening the interactions between tumor cells alone or tumor cells along
+with the ECM may result in more effective therapies for PDA.Methods and
+Results: Using the pancreatic cell line Panc1, we developed a three
+dimensional (3D) spheroid model system, that exhibits oxygen gradients
+and hypoxia that mimics the tumor microenvironment. We used the
+pancreatic cancer cell line PANC1-HRE that stably expresses
+HRE-luciferase and detects HIF-1 activation, and a platform comprising a
+non-matrix nano-structured scaffold, to generate compact spheroids with
+hypoxic inner cores and HIF-1 activation. A high throughput siRNA screen
+using the kinome siRNA library and our 3D spheroid modal system
+identified kinases whose silencing reduced both the level of hypoxia and
+activity of HIF-1. The positive control, siRNA against HIF-1, reduced
+activity of HIF-1 with no effect on the levels of hypoxia within the
+spheroids. We identified the kinases Toll-like receptor 4 (TLR4) and its
+downstream target spleen tyrosine kinase (SYK) as our lead candidates
+following target validation. Image analysis of spheroids transfected with
+siRNA against both TLR4 and SYK resulted in the loss of compactness of
+the spheroids. In addition, these spheroids also demonstrated a
+significant reduction in the levels of hypoxia determined by the hypoxia
+probe Lox-1. These findings suggest that the alteration of the spheroid
+architecture resulted in the reduction in hypoxia. Previous studies have
+shown that SYK is a direct target of TLR4. Therefore to determine the
+mechanism through which TLR4 dependent signaling regulates the integrity
+of the spheroidal architecture we are generating stable cell lines in
+Panc1 of shRNA targeting TLR4 under an inducible system. We will use our
+inducible shRNA targeting TLR4 and the two 3D model systems, the hanging
+drop system (analogous to a primary tumor) and the nanoculture plate
+system (analogous to the progression of a metastatic loci) to further
+confirm our findings.Conclusion: TLR4 mediated signaling regulates the
+integrity of spheroid architecture. Inhibiting this pathway destabilized
+the tumor architecture altering the hypoxic state of the spheroid. Our
+long-term goals are to use known pharmacological inhibitors of TLR4 to
+study the mechanisms by which this kinase regulates tumor architecture,
+determine the pre-clinical significance of targeting TLR4 utilizing
+autochtonous mouse models for PDA and develop TLR4-targeted therapy for
+PDA.
+

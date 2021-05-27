@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A study in locus heterogeneity: Targeted sequencing analysis of 6q
+reveals multiple significant loci as the source of a previous linkage
+peak in familial lung cancer.
+
+
+Lung cancer is the leading cancer-related cause of death in the United
+States. We had previously performed multipoint linkage analysis on
+families with a strong family history of lung cancer and found
+significant linkage to the 6q25 region. In order to find the source of
+that linkage signal, we performed targeted sequencing 6q23-6q27 on 75
+individuals from the 9 most highly linked families. We performed two
+types of parametric linkage analysis, using an autosomal dominant mode of
+inheritance with 10% penetrance for carriers and a 1% phenocopy rate
+using a disease allele frequency of 1%. The first type was a two-point
+analysis using an Elston-Stewart algorithm. This approach did not lead to
+any genome-wide significant results but demonstrated significant
+heterogeneity throughout the nine families.In an effort to recover the
+power from the original multipoint analysis, we performed a regional
+linkage analysis using SEQLinkage and MERLIN. SEQLinkage built regional
+haplotypes that corresponded to a gene or an intergenic region - the
+regions were based on a customized map of our design. The regional
+markers were multiallelic which allowed for greater information content
+and were similar to the microsatellites that were used in the original
+multipoint analysis. The regional markers were then analyzed in a
+two-point linkage analysis via MERLIN. This allowed us to identify two
+genome-wide significant signals at PACRG-AS1 at 6q26 (HLOD = 3.4) and
+SAMD5 at 6q24 (3.3). The PACRG-AS1 is novel, though it is associated with
+the known lung cancer gene PARK2. SAMD5 may be involved in lung cancer
+cell proliferation. The heterogeneity of the two signals was particularly
+interesting. The PACRG-AS1 was driven primarily by two families. The
+SAMD5 marker was not being strongly driven by any of the families and
+appears to be a small cumulative effect across the nine families. In
+addition, several families have large, but non-significant LOD scores at
+other loci across the region. This further reinforces the locus
+heterogeneity within the region, and it is likely that our two
+significant signals here are not the only variants affecting the
+phenotype. We further attempted to localize the signals by running
+SEQLinkage using a custom map where genes are broken into exons and
+introns. Though this resulted in no significant markers, the highest
+signal was located in the intronic region of SAMD5 (HLOD = 3) and several
+other suggestive signals were localized to intronic regions of good
+candidate genes like SASH1 and ARID1B. Examination of predicted effects
+of the candidate regulatory variants using eQTL databases is ongoing.
+This is a region full of promising candidates, and it is likely that the
+two significant signals found here are just part of many that could be
+affecting lung cancer risk. We plan to do further analysis within the
+individual families to elucidate any more genes affecting this signal.
+
+

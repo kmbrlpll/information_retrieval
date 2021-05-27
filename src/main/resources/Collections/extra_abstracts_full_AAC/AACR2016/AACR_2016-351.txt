@@ -1,0 +1,44 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Uptake of antibody-drug conjugates by cultured Kupffer cells can
+predict pharmacokinetics
+
+
+Interest in antibody-drug conjugates (ADCs) has increased rapidly in the
+oncology field over the past several years. Recent advances in the ADC
+field have been achieved in part by an improved understanding of how
+conjugation with drug-linkers impacts the biophysical, pharmacokinetic
+(PK), and biodistribution properties of a monoclonal antibody. Most of
+these advances have been driven by in vivo preclinical observations, an
+inevitably low throughput endeavor. A higher throughput in vitro method
+that would allow some level of predictive power for ADC disposition in
+vivo would be highly advantageous, requiring less test article and
+allowing for much faster turnaround. Thus far no such methods for ADCs
+have been reported, in contrast to the situation for the prediction of
+the metabolic clearance of small molecule therapeutics, for which
+cultured hepatocytes are widely used as an in vitro tool. It has been
+generally assumed that clearance of ADCs is driven by cells of the
+monocyte phagocytic system, and we recently published
+immunohistochemistry (IHC) data implicating hepatic sinusoidal
+endothelium and the resident liver macrophages, Kupffer cells (KCs), in
+the accelerated clearance of highly-loaded ADCs. We sought to use this
+observation to develop a convenient assay that might correlate ADC uptake
+in vitro with in vivo PK. Initial fluorescent microscopy experiments
+revealed that cultured rat KCs stain intensely when incubated with
+fluorescently labeled ADCs, but much less so with unconjugated antibody,
+similar to the observed IHC results. In an effort to further improve the
+throughput of this method to allow the rapid comparison of many ADCs, we
+moved to a FACS-based platform to quantify the amount of KC-associated
+fluorescent conjugate. To quantify the effect of different drug-linkers,
+we prepared homogeneous ADCs with 8 drugs per antibody and observed that
+the KC staining intensity varied widely depending upon the
+characteristics of the drug-linker that was conjugated. KCs incubated
+with ADCs loaded with vc-PAB-MMAE had a mean fluorescent intensity (MFI)
+>20 fold higher than unconjugated Antibody. Additionally, ADCs loaded
+with MMAE that contain a polyethylene glycol (PEG) masking moiety in the
+linker had a much lower MFI than those without PEG. This FACS method
+allowed us to compare fluorescent uptake by KCs with ADC clearance
+determined in vivo. We have observed that ADC uptake by cultured KCs in
+vitro correlates well with ADC PK, allowing for more rapid assessment of
+the PK impact of new drug classes, drug-linker designs, and conjugation
+methodologies.
+

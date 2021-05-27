@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A biophysical model for necrosis development in glioblastoma
+informed by subject-specific MRI measurements.
+
+
+Introduction
+
+We have previously developed the means to use quantitative magnetic
+resonance imaging (MRI) data to initialize a biophysical model (Model 1)
+of tumor growth which accurately predicts future tumor volume but fails
+to capture the development of low-cellularity (or necrotic) regions in a
+murine model of glioblastoma. In this work, we expand upon this
+biophysical model (Model 2) to characterize necrosis by relating tissue
+perfusion to cell death. We evaluate the accuracy of both models to in
+vivo measurements of tumor growth.
+
+Methods
+
+To evaluate this model, rats (n = 4) with C6 gliomas were imaged with
+dynamic contrast enhanced MRI (DCE-MRI) and diffusion-weighted MRI
+(DW-MRI) seven times over 10 days. DCE-MRI was used to identify tumor
+regions and estimate tissue perfusion (as estimated by the parameter
+Ktrans), while DW-MRI was used to estimate cell number. For both Models 1
+and 2, parameters describing tumor proliferation, diffusion, and carrying
+capacity were optimized from the first three imaging time points. For
+Model 1, these parameters were then used in a forward evaluation of the
+model to predict future tumor growth at the later days. For Model 2,
+additional parameters describing cell death and sensitivity to Ktrans
+were estimated from the all timepoints and used to simulate tumor growth
+over the final four time points. Error was assessed between the model and
+observed tumor growth by calculating the percent error in tumor volume,
+percent error in voxel cell number, and the concordance correlation
+coefficient (CCC) over the final four days.
+
+Results
+
+No statistically significant differences for percent error in tumor
+volume were observed between Model 1 (6.49 ± 4.70%, mean and 95%
+confidence interval) and Model 2 (6.77 ± 4.77%). Model 1 had 12.0 ±
+0.3% error in voxel cell number in low cellularity regions (where
+cellularity was between 60-80% of carrying capacity). Model 2, however,
+exhibited a statistically significant decrease (P 0.90 in high
+cellularity regions.
+
+Conclusion
+
+Incorporating a model of cell death informed by tissue perfusion improves
+the overall tumor growth characterization by decreasing the error in
+predicted cell number at the voxel level in the low cellularity (or
+hypoxic) regions. The lack of a model for Ktrans in the current
+implementation, however, requires a posteriori measurements to update
+tissue perfusion. Further work is needed to develop a predictive model
+for the spatial-temporal evolution of Ktrans.
+
+

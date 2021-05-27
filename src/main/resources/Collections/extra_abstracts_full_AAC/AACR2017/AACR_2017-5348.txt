@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Reliable gene expression profiling from smaller and H&E stained
+clinical FFPE specimens using EdgeSeq platform.
+
+
+Background: The scarcity of biological specimens and suboptimal quality
+of collected material, make clinical biomarker studies challenging. The
+EdgeSeq system, a novel genomics analysis platform which combines
+quantitative nuclease protection assay (qNPA) technology with
+next-generation sequencing (NGS), has the potential to mitigate the
+aforementioned challenges. The technology allows for a limited sample
+input and delivers high quality gene expression profiling data from
+challenging material such as FFPE tissues. However, there is further
+unmet need toward even smaller tissue input or in taking advantage of
+archival stained FFPE slides to fill the data gap, specifically for
+studying tumor microenvironment in the oncology clinical trials
+
+Methods: We performed EdgeSeq analysis on six triplets of unstained, H&E
+stained and IHC stained slides from non-small cell lung cancer (NSCLC)
+patients tumor tissue using Oncology biomarker panel (OBP). Next, we
+extended the EdgeSeq OBP analysis to 44 pairs of unstained and H&E
+stained slides from NSCLC to confirm the good correlation. To assess
+feasibility of limited tissue input, we first optimized bead-to-DNA
+volume ratio during NGS library cleanup by testing 4 ratios of
+bead-to-DNA from 2.5 to 1.0. Next, crude lysate prepared from small cell
+lung cancer (SCLC) FFPE tissue was 2-fold diluted from equivalent tissue
+area of 5mm2 to 0.08 mm2, and was subjected to EdgeSeq OBP profiling
+using the optimal bead-to-DNA ratio. Finally, correlation of gene
+expression profiles between stained and unstained pairs were calculated.
+
+Results: Within the six triplets of unstained, H&E stained and IHC
+stained slides, the gene expression profiles from H&E slides showed good
+correlation with the profiles from matched unstained FFPE. An extended
+NSCLC sample set of 44 pairs of unstained and H&E stained FFPE further
+confirmed overall good correlation with 84% (37 out of 44 ) pairs with
+Pearson correlation coefficients of 0.9 or higher. In assessing the
+limited tissue input, crude lysate was diluted to as little as equivalent
+tissue area of 0.08mm2. The tissue area as small as 0.31 mm2 resulted in
+Pearson correlation coefficients of 0.9 with 5mm2 surface area input.
+
+Conclusion: We demonstrated feasibility of using EdgeSeq to generate
+reliable gene expression data from H&E stained FFPE tissues. In addition,
+we showed that EdgeSeq platform can be used to generate reliable
+expression data from crude FFPE tissue lysate equivalent to surface area
+as low as 0.31 mm2 (size of larger laser microdissection tile or half of
+a tissue microarray core). The data show that EdgeSeq can be considered
+as a platform of choice to analyze specimens of suboptimal quality or of
+limited quantity and thus may help to fill the biomarker data gap in the
+oncology clinical trials, including enabling research into patterns of
+interactions and mechanisms of response and resistance of immune cell
+engagement with tumor at the loco-regional level.
+
+

@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification of transcriptional controls responsible for
+differential gene expression of the proton-coupled folate transporter in
+human solid tumors.
+
+
+The majority of folate uptake into tissues and tumors involves
+facilitated carriers, the reduced folate carrier (RFC) and proton-coupled
+folate transporter (PCFT). PCFT is highly expressed in a wide range of
+human tumor cell lines and primary tumor specimens from a variety of
+lineages, with modest expression in most normal tissues. PCFT transports
+optimally at pHs characterizing the tumor microenvironment. We discovered
+novel 6-substituted pyrrolo[2,3-d]pyrimidine folate analogs with
+substantial selectivity for PCFT over RFC, resulting in potent antitumor
+efficacy in vitro and in vivo. However, in some cases PCFT levels varied
+substantially. Studies were performed to characterize the basis for these
+dramatic differences in PCFT gene expression between HepG2 (elevated) and
+HT1080 (negligible) tumor cells. Low levels of PCFT gene expression in
+HT1080 cells were not likely due to methylation of CpG islands in the
+PCFT promoter since 5-aza-2’-deoxycytidine treatment did not restore
+PCFT gene expression. A PCFT promoter reporter construct -2005/+96 in
+pGL3 (transcription starts at +1) was generated and showed high levels of
+activity in HeLa cells by luciferase reporter assays. For HepG2 and
+HT1080 cells, wide variations in PCFT transcript levels by real-time
+RT-PCR were paralleled by reporter gene activities with the -2005/+96
+construct, suggesting that these were primarily due to PCFT
+transcriptional regulation. Progressive deletion analysis of the
+-2005/+96 construct and reporter assays in HepG2 and HT1080 cells
+localized the minimal promoter region to between -50 and +96. Additional
+deletion constructs (-35/+96, -20/+96, -15/+96 and -10/+96) were
+generated and studied. Whereas the -35/+96, -20/+96, -15/+96 promoter
+constructs retained ~50% activity for HepG2 cells and ~10-15% activity
+for HT1080 cells relative to the -50/+96 construct, in both cases the
+-10/+96 construct was essentially inactive. Two critical cis elements
+were identified in the PCFT minimal promoter by deletion analysis located
+between positions -50 and -35, and -15 and -10. Bioinformatics analysis
+localized putative cis elements for KLF-15 (-50 to -35) and NRF1 (-15 to
+-10) binding. The functional importance of these elements was confirmed
+by mutations of core consensus sequences in the -50/+96 construct and
+reporter gene assays. Binding of NRF1 and KLF15 to the endogenous PCFT
+promoter in HepG2 and HT1080 cells was confirmed by ChIP assays which
+paralleled patterns of differential PCFT gene expression. Collectively,
+our results suggest that NRF1 and KLF15 contribute to dramatic variations
+in PCFT gene expression between tumor cells. Better understanding the key
+determinants of PCFT transcriptional control may lead to strategies for
+modulating PCFT levels in combination with PCFT-targeted
+6-pyrrolo[2,3-d]pyrimidine folate analogs for treating solid tumors.
+
+

@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Multiplexed immunofluorescence quantitation and validation of
+multiple immune cell types in colon cancer epithelium and stroma
+
+
+Immune response to tumor growth and development is highly complex and
+varies with stromal and tumor cell composition and secreted factors.
+Different immune cell types can have opposing functions (tumor
+suppressive or immune suppressive) and their density, location and
+activation state can have profound effects on tumor outcome. Routine
+immune-profiling methods based on sample homogenization or limited in
+situ detection capabilities may be insufficient to measure this
+diversity. To fully decipher tumor immune response and contribution of
+different cell types, there is urgent need to develop new imaging tools
+for in situ immune cell-typing and quantification. MultiOmyx technology
+allows repeated staining, imaging and cell-level analysis of multiple
+biomarkers (at least 60) on the same FFPE tissue section. Together with
+epithelial and stromal cell analysis, the relative location and quantity
+of immune cells can be established, enabling regional assessment of
+immune infiltration and activation status.Using this workflow, 747 stage
+I-III colorectal cancer patient samples in TMA format were multiplexed
+for a total of 61 proteins, including CD3 (all T-cells), CD8 (cytotoxic
+T-cells), CD20 (B-cells), CD68 (macrophages) and pan-cytokeratin
+(epithelial tumor cells). All images were registered, auto-fluorescence
+subtracted and illumination corrected. Individual cells were segmented
+using automated image analysis workflow, consisting of nuclei
+segmentation, epithelium segmentation and stroma-epithelial cell nuclei
+classification. We applied a probabilistic multi-class, multi-label
+classification algorithms based on multi-parametric models to build
+statistical models of CD protein expression and classify immune cells.
+Using selected images, expert annotations of the following immune cells
+were made [CD20+ (n = 4282 (cells)), CD3+ (n = 5600), CD8+ (n = 5346),
+and CD68+ (n = 4261), and defects (n = 1739)]. Support Vector Machines
+(SVM) were used to derive a statistical model for cell classification. To
+objectively evaluate the cell classification accuracy, we performed
+10-fold cross validation.The methods described performed well in
+classifying cell-types, yielding 97% accuracy, relative to expert user
+annotations, for all immune cell types. Classification accuracy was
+slightly higher for lymphocytes vs. macrophages, likely due to more
+diffuse localization of CD68. In line with previous reports, higher
+T-cell infiltration was significantly correlated with recurrence-free
+survival in the entire cohort. In summary, we have developed a highly
+accurate quantitation method for in situ analysis of immune cells in
+tumor and stroma. Using the same workflow, additional cell lineage and
+functional markers can be added for deeper phenotyping and identification
+of innate and adaptive immune cell lineages, generating new insights into
+role of immune response in tumor progression.
+

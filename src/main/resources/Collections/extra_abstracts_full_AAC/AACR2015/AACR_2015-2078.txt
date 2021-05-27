@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A functional role for the MYC i-motif in transcription
+
+
+MYC is overexpressed in most types of tumors, but a means to selectively
+decrease its expression has yet to be found. Our recent findings on
+modulation of bcl-2 gene expression through protein interactions with the
+bcl-2 i-motif have provided a basis for further investigation of MYC gene
+control. It is proposed that the MYC i-motif could function in a similar
+molecular switch mechanism as in bcl-2. Binding sites for heterogeneous
+nuclear ribonucleoprotein K (hnRNP K) within the MYC promoter also exist
+in the i-motif-forming sequence. Circular dichroism and bromine
+footprinting confirmed that this DNA sequence is able to form an i-motif,
+and systematic mutation of the cytosine residues in this sequence has
+revealed a 5:5:5 loop configuration. Indeed, all loops of the i-motif,
+when folded into a 5:5:5 loop configuration, contain the hnRNP K
+consensus sequence (CCCT). Previous studies show that hnRNP K binds to
+this i-motif-forming sequence, but it was assumed to be single-stranded.
+Binding studies revealed that hnRNP K has more binding affinity to its
+consensus sequence in the i-motif compared to a mutant sequence where the
+i-motif cannot form. Further investigation of the MYC promoter revealed
+an additional two runs of cytosine seven bases downstream of the MYC
+i-motif. Biophysical studies showed that the additional two runs were not
+involved in i-motif formation; however, recent studies describe their
+importance for transcriptional activation. We found that hnRNP K
+preferred the longer 5CT sequence compared to the i-motif-forming 4CT
+sequence when using a competitive binding assay. Utilizing luciferase
+reporters containing either the 4CT or 5CT sequence validated that hnRNP
+K required both the i-motif and the fifth CT element for maximum
+transcriptional activation. Competition binding studies and bromine
+footprinting showed that hnRNP K bound to the downstream fifth CT element
+and the central and lateral loops of the i-motif. Additionally, we found
+that co-overexpression of Sp1 and hnRNP K induced a 10-fold increase in
+luciferase activity in the 5CT reporter only. We hypothesize that Sp1
+continuously primes the promoter to initiate transcription, inducing more
+negative superhelicity and increasing the melting of duplex DNA. This
+increased melting grants hnRNP K's three KH domains access to the i-motif
+loops and the fifth CT element. Confirmation by ChIP analysis validated
+that Sp1 overexpression causes an increase in hnRNP K occupancy at the
+MYC promoter. These findings provide new insight into the mechanisms of
+MYC transcriptional control by the i-motif and G-quadruplex. We are
+employing drug discovery efforts that can target this molecular switch
+and inhibit MYC from being transcribed. The use of such interactive
+compounds is the first step in the development of new innovative
+approaches to treat cancers that have MYC overexpression.
+

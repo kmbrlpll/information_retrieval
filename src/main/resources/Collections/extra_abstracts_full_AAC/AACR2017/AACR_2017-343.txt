@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Proteomic and functional studies identify DCAF7 as major partner
+of DYRK1A.
+
+
+Human DYRK1A protein kinase is encoded by dosage-dependent gene since an
+extra copy contributes to Down syndrome (DS) pathogenesis while loss of
+one allele causes severe developmental defects. Current knowledge of
+DYRK1A’s role in phosphorylation of proteins involved in cell cycle
+control, transcription and tumor suppression does not fully explain
+dosage-dependent function of this important kinase. Using MudPIT
+proteomic analysis, we identified DYRK1A interacting proteins in human
+T98G cell line. Four independent DYRK1A-HA pull-down samples were
+analyzed to identify 50 proteins that were specifically detected in 3 out
+of 4 replicates. This analysis identified WD-repeat protein DCAF7 as
+major partner of DYRK1A that was most highly enriched among
+DYRK1A-binding proteins. Furthermore, glycerol gradient
+ultracentrifugation showed almost exact co-fractionation of DCAF7 and
+DYRK1A. DCAF7 has been shown to bind several protein kinases including
+DYRK1A, DYRK1B, HIPK2 and MAP3K1 suggesting that it serves as a scaffold
+protein in signal transduction. However, the function of DCAF7 is not
+established yet. In order to understand the functional relationship
+between DCAF7 and DYRK1A, we undertook MudPIT proteomic analysis of DCAF7
+binding proteins in T98G cells and compared the data with the DYRK1A
+interactome dataset. Analysis of three independent DCAF7-HA pull-down
+samples identified 32 proteins specifically detected in all three
+replicates including DCAF7, DYRK1A and five proteins earlier detected in
+DYRK1A MudPIT analysis. Given the proposed role of DCAF7 as a scaffold
+protein, we tested whether DCAF7 mediates its interaction with some of
+its interacting proteins. Interestingly, we found that RNF169, a recently
+characterized RING-domain ubiquitin ligase involved in the DNA
+double-strand break (DSB) repair, binds to N-terminus of DYRK1A
+independently of DCAF7. Furthermore, our data show that DYRK1A is
+required for DCAF7-RNF169 interaction because this interaction was
+abolished in human U-2 OS cells where DYRK1A gene was disrupted using
+CRISPR-Cas9 editing (DYRK1A-KO cells). Interestingly, stable
+overexpression of DCAF7 in DYRK1A-KO U-2 OS cells rescued some of the
+phenotypes observed in these cells, suggesting that DCAF7 could be an
+effector downstream of DYRK1A. Our findings revealed an unexpected
+scaffolding role of DYRK1A that is required for mediating the interaction
+between DNA repair protein RNF169 and the WD-repeat protein DCAF7. While
+further studies are needed to understand the exact role of the
+RNF169-DCAF7 interaction in DNA repair, the novel role of DYRK1A as a
+scaffold protein could explain some aspects of the dosage-dependent
+function of this protein kinase. In addition, we report here an initial
+functional characterization of the DCAF7-DYRK1A interaction in human
+cells and discuss novel functional interactions of DCAF7 that could be
+independent of DYRK1A.
+
+

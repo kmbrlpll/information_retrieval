@@ -1,0 +1,38 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Forecasting novel therapies by understanding the role BRD4 in
+regulating the Notch3 signaling in ovarian cancer.
+
+
+Advances in cancer research have led to the rapid development of novel
+drug therapies designed for optimal personalized patient care. Despite
+this surge of treatments, there is still a challenge in accurately
+predicting the most effective targeted therapy for a specific cancer.
+Additionally, the potential of systematically identifying and
+re-purposing currently existing therapeutics designed for one specific
+cancer to treat other malignancies remains understudied. To address this
+problem, our group has developed an integrative computational
+therapy-forecasting algorithm. This algorithm incorporates data from The
+Cancer Genome Atlas (TCGA) as well as molecular and survival correlations
+to identify candidate anti-tumor drugs that can be re-purposed for other
+malignancies by targeting novel pathways. Our computational analysis
+predicted that bromodomain inhibitors, which inhibit
+bromodomain-containing proteins such as BRD4, would target the Notch3
+pathway in high-grade serous ovarian carcinoma (HGSC). Upregulation of
+Notch3 plays a crucial role in HGSC tumorigenesis and is associated with
+worse patient survival. Current Notch3 targeted therapies are not
+effective, thus designing therapeutic strategies to target Notch3 are
+critical for HGSC. We hypothesize that inhibition of BRD4 is an effective
+therapeutic target in HGSC by downregulating the Notch3 pathway. Current
+in vitro results demonstrated that BRD4 inhibition either by using
+chemical inhibitors or siRNA results in a decrease in HGSC cell viability
+by both MTT and 2-D colony formation assays. Furthermore, inhibition of
+BRD4 resulted in a decrease in both Notch3 transcription and protein
+levels. Given that BRD4 regulates gene transcription, we performed
+chromatin immunoprecipitation (ChIP) and observed that BRD4 was present
+in the Notch3 gene promoter. These findings suggest that by inhibiting
+BRD4 in HGSC, we can target Notch3 and biologically validates our initial
+in sillico analysis. The successful completion of this project could have
+major implications for development of personalized therapies not only for
+HGSC but for other cancers as well.
+
+

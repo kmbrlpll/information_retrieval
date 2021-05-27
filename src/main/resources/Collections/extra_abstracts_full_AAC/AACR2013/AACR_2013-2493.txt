@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of MGMT-binding proteins involved in the negative
+regulation of angiogenesis and invasion.
+
+
+Background: Glioblastoma multiforme (GBM) is the most frequent and most
+aggressive form of primary malignant brain tumors in adults. The dismal
+prognosis of GBM patients stems from the highly angiogenic and invasive
+behavior of GBM tumor cells. O6-methylguanine-DNA methyltransferase
+(MGMT), a DNA repair protein ubiquitously expressed in normal tissues has
+been extensively characterized for its role in resistance to alkylating
+agents used in GBM treatment. We reported for the first time an inverse
+relationship between expression of MGMT and the angiogenic and invasive
+profile of GBM cell lines. The mechanisms by which MGMT affects
+angiogenesis and invasion are unknown. We hypothesized that interactions
+of MGMT with binding proteins (BPs) may account for additional functions
+beyond its known role as a DNA repair protein.Methods: As a first
+screening to identify MGMT-BPs with a functional relevance for invasion
+and angiogenesis, we performed affinity purification of MGMT-BPs
+following overexpression of FLAG-tagged MGMT and mass spectrometry
+analysis using 293T-Flag/MGMT and control Flag-tagged empty vector
+(293T-Flag/EV). Lysates were subjected to affinity purification using an
+anti-Flag monoclonal antibody covalently attached to agarose resin. The
+affinity bound FLAG fusion proteins were eluted and separated on
+SDS-PAGE. Coomassie Blue staining enabled the identification of 6 bands
+including Flag-MGMT in 293T-Flag/MGMT but not the Flag/EV control. The
+bands were excised from the gel, subjected to trypsin digestion and
+identified by liquid chromatography-tandem mass spectrometry. The
+resultant MS/MS spectra were searched against a proteome database for
+peptide matching and protein identification. Proteins were identified
+with high confidence using Scaffold software.Results: Our analysis
+provided evidence for binding of MGMT to 120 BPs. Using gene ontology
+(GO) database to search for functional categories, we identified proteins
+involved in DNA repair, ubiquitin pathway, DNA replication and
+transcription, RNA metabolism and processing, cell cycle and division,
+response to stress and cell death. Importantly, we identified proteins
+involved in cell motility and/or angiogenesis, cytoskeletal-related
+proteins (15 proteins), small GTPases family and their regulators (10
+proteins, such as Rho guanine nucleotide exchange factor 2) and two
+proteins involved in angiogenesis (Endoribonuclease Dicer and
+Ribonuclease inhibitor). We also used T98G a human GBM cell line with
+constitutive expression of MGMT to perform immunoprecipitation of
+endogenous MGMT (anti-MGMT antibody or the IgG1 isotype control). Mass
+spectrometry and proteomic analysis of MGMT-BPs in T98G is
+underway.Conclusion: Our data provide new structural aspects of MGMT and
+shed light into the multifaceted role of MGMT, which may lead to the
+identification of novel therapeutic targets in GBM.
+

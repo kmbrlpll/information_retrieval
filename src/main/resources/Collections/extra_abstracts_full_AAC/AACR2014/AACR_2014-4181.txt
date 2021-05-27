@@ -1,0 +1,24 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Accurate and fast detection and comparison of larger clinically
+relevant insertions and deletions
+
+
+Larger somatic insertions and deletions in tumor samples are often of
+significant clinical impact. Many of them are cancer driver mutations and
+play an important role in drug treatment1.Detecting the accurate
+breakpoints of larger insertions and deletions is often problematic and
+inaccurate. Furthermore, due to ambiguous positioning of them in the
+human genome, they are hard to compare with known deletions and
+insertions in publicly available databases.Here we present a complete
+analysis workflow to accurate identify, filter and annotate larger
+insertions and deletions with information from publicly available
+databases such as COSMIC. We apply our pipeline on publicly available
+tumor/normal matched pair data from a patient with Massive Acinic Cell
+Carcinoma (A. Nichols et al. (2013) Case Reports in Oncological Medicine,
+Article ID 270362), which has not been investigated for larger insertions
+and deletions before. We show that we can identify insertions and
+deletions, which should be reported as part of the list of somatic
+variants, the authors have presented. Moreover, we will point out
+potential challenges and how to solve them while comparing own results to
+data in databases.
+

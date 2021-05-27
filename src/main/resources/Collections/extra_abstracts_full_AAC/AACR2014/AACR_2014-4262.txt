@@ -1,0 +1,50 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A pan-cancer proteomic analysis of The Cancer Genome Atlas (TCGA)
+project
+
+
+Protein levels and function are predicted poorly by genomic and
+transcriptomic analysis of patient tumors. Direct proteomic study can
+provide a wealth of information that complements those analysis in The
+Cancer Genome Atlas (TCGA) projects. We used reverse-phase protein arrays
+to analyze 3,467 patient samples from 11 TCGA Pan-Cancer diseases, using
+181 high-quality antibodies that target 128 total proteins and 53
+phospho-proteins. The resultant proteomic data were used for identifying
+commonalities, differences, emergent pathway properties, and novel
+network biology within and across tumor lineages.In general, tumor type
+and subtype were the dominant determinants of protein levels. However, we
+were able to identify several potentially targetable markers. E.g.
+luminal breast cancers demonstrated selective elevation of AR, BCL2,
+FASN, and pACC. SRC was activated in all but the hormone-responsive and
+bladder cancers, offering another potential therapeutic opportunity.
+Similarly, HER3 suggested itself as a potential target in renal cancer.
+EGFR activity, in general, paralleled SRC activity, but in GBM it was
+associated with NOTCH1 and HER3 activation, suggesting an opportunity for
+combination therapy. pSRC was highly expressed in a subset of head and
+neck tumors, suggesting that those may be more sensitive to EGFR
+targeting strategies. HER2 levels were elevated in a subset of
+endometrial, bladder, breast, and colorectal cancers. MYC was selectively
+amplified and expressed in high-grade serous ovarian cancers.We
+implemented a computational approach, MC, to decrease the effect of
+tissue-specific protein expression. MC allowed us to identify processes
+that drive cell behavior across tumor type and made it possible to find
+new therapeutic opportunities. We found 7 cross-tumor clusters, each
+driven by different markers and pathways. We found pan-cancer clusters
+with elevated HER2 and EGFR, elevated hormone signaling pathways,
+enriched MAPK and PI3K pathway activity, elevated EMT signatures, and
+cell cycle signatures. We also saw strong links between MYH11 and Rictor
+and between ETS1 and pPEA15 across tumor types. Those findings can
+provide useful clues for developing targeted, cross-tumor
+therapies.Pathway analysis of the data revealed several expected
+cross-tumor type associations, including pMEK with pERK, beta-catenin
+with E-cadherin and pPKCdelta with pPKCalpha and pPKCbeta. The findings
+support the ability of RPPA analysis to yield high-quality information
+from TCGA samples. A number of other links such as MYH11 with Rictor,
+cyclinB1 with FOXM1, and pACC with FASN were not expected and warrant
+further exploration, as does a negative link between p85 and claudin7 in
+lung squamous. Analysis of key nodes (e.g., CDK1) revealed other
+unexpected links to a wide range of protein pathways.Overall, those
+findings demonstrate the power of pan-cancer proteomic analysis,
+identifying several novel single-tumor and cross-tumor targets and
+pathways.
+

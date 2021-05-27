@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Bioorthogonal Profiling of Protein Methylation (BPPM) identified
+MCM5 as a new substrate for SETD8 in DNA replication.
+
+
+SETD8 is the only member of the SET domain containing methyltransferase
+family, which catalyzes mono-methylation of K20 on histone H4 (H4K20me1).
+Lysine residues of non-histone proteins such as p53 and proliferating
+cell nuclear antigen (PCNA) are also monomethylated, while lysine
+residues in Numb were found to be dimethylated. As a consequence, SETD8
+methyltransferase activity is implicated in several fundamental cellular
+processes such as transcriptional regulation and heterochromatin
+formation as well as processes that ensures genomic stability including
+DNA replication and the DNA damage response. Although it has been
+suggested that SETD8 is involved in DNA replication as a positive
+regulator of origin licensing through H4K20 methyation and by supporting
+Okazaki fragment processing through PCNA methylation, to date, there is
+no evidence whether other key protein in the replication fork is directly
+modified by SETD8. To address this question, we used Bioorthogonal
+Profiling of Protein Methylation (BPPM) with engineered enzyme and
+synthetic SAM analogues to profile new substrates for SETD8. We
+genetically engineered SETD8 and identified mutants amenable to
+accommodate non-native SAM analogues containing a terminal alkyne moiety
+for click chemistry. The engineered SETD8 can transfer this distinct
+chemical moiety into target proteins for subsequent pulldown and
+identification of the modified substrates. Among the new substrates
+discovered, we identified MCM5, a subunit of the hexameric minichromosome
+maintenance (MCM) DNA helicase complex. MCM5 directly interacts with MCM2
+and 3 to form the MCM2-7 hexamer which associates with the origins of DNA
+replication to form part of the pre-replicative complex (preRC), playing
+a key role during replication initiation and elongation. We found that
+SETD8 can mono-methylate MCM5 directly affecting its binding affinity to
+MCM2 and 3. In addition, MCM5 mutations at the methylated lysine further
+evidenced a stronger binding to its interacting partners contributing to
+the formation of the MCM hexamer. Taken together our results indicate
+that MCM5 methylation contributes to the assembly of the MCM complex
+suggesting an important role for SETD8 in replication initiation. Our
+findings may bring new perspectives on the biological importance of SETD8
+during DNA replication.
+
+

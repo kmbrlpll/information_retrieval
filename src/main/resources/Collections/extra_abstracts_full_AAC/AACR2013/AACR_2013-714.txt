@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Single cell phenotypic heterogeneity as a prognostic factor in
+glioblastoma.
+
+
+Background Glioblastoma Multiforme (GBM) is a highly aggressive and
+heterogeneous disease in which survival of patients is measured only in
+months. Pathologic features associated with patient outcome are still
+incompletely understood. Until recently, phenotypic features of single
+cells have not been investigated due to technological limitations.
+However, with the advent of high-content slide scanning coupled with
+cognitive and scriptable algorithms, researchers are now positioned to
+identify and quantify single cell features that may provide unique
+insight on tumor behavior. In this project we sought to identify
+variations in cellular phenotypes which correlate with time of post
+diagnostic survival in patients with GBM.Methods A total of 157 GBM
+patients were selected for study on the basis of short (SS) (median K-M
+survival = 6 months; N=81) or long (LS) (median K-M survival = 33 months,
+N=76) survival times. Median age was 56 years and all patients underwent
+current standard of care therapy for GBM (surgery, radiation and
+temozolomide). Among the 157 cases, 11 were excluded due to poor sample
+quality (final n=146). For each case, the diagnostic H&E slide was
+digitally scanned using the ScanScope XT (Aperio, Vista, CA, USA) with a
+200x/0.8NA objective lens. Definiens TissueStudio v3.0 (Munich, Germany)
+was used to identify viable tumor regions. Individual cells were
+segmented in areas of viable tumor and twenty separate features extracted
+from each tumor cell (subcellular compartmentalization, nucleus to
+cytoplasm area ratio, nuclear size and shape, etc). In total, the 20
+features were extracted in thousands of single cells for each GBM case.
+Output was evaluated by Matlab (The MathWorks, Inc,, Natick, MA) using a
+heatmap approach by first normalizing the scales of each feature to a
+range of 0-1, and assigning a color from green (0) to red (1) (5 classes)
+for each cell or compartment (x) and each feature (y).Results This study
+was completed in a series of three stages including training followed by
+two replication sets. In the training set (N=50), four of the evaluated
+features associated with the size and shape of the cancer cell nuclei
+(i.e. width [m], circularity, ellipticity and hematoxylin intensity),
+were found to distinguish the SS group (15/25) from the LS group (6/25)
+based on supervised classification. A similar pattern was observed in
+replication set 1 (15/24 and 8/28, respectively) and replication set 2
+(15/23 and 8/21, respectively). Overall, 66% of cases were correctly
+classified with respect to survival time on the basis of these cellular
+features (p=0.0001).Conclusions Quantitative image analysis may be useful
+in the identification of novel prognostic features in GBM with potential
+for gaining new biological insights on the behavior of these tumors.
+

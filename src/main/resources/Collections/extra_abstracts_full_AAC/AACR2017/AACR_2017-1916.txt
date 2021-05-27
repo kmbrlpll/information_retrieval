@@ -1,0 +1,38 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Peptidylarginine deiminase IV (PADI4) is a novel tumor suppressor
+that may contribute to regulation of breast cancer stem cell dynamics.
+
+
+Breast cancer is a global problem that accounts for almost a fourth of
+all cancers in women. Despite the many therapeutic strategies currently
+in use, treated patients often suffer from cancer relapse and metastasis
+due to the presence of a subpopulation of tumorigenic cells capable of
+self-renewal and termed cancer stem cells (CSCs). To address the
+properties of this critical sub-population, we utilized our
+recently-developed lentiviral CSC reporter carrying an Oct4/Sox2 response
+element coupled to a green fluorescent protein (SORE6-GFP) to detect and
+isolate the CSC population in a low-grade ER+ human breast cancer model,
+MCF10Ca1h, by FACS. Whole transcriptome sequencing analysis (RNA-seq) on
+the sorted cells identified Peptidylarginine deiminase IV (PADI4) as
+differentially expressed between CSCs and non-CSCs. PADI4 was recently
+shown to regulate citrullination of histone H1, displacing it from
+chromatin and resulting in global chromatin decondensation and
+pluripotency induction in embryonic stem cells (Christophorou, et al.,
+2014, Nature 507:104). Thus, we hypothesized that PADI4 may also regulate
+the stemness phenotype in breast cancer CSCs, likely through effects on
+chromatin structure. We showed that PADI4 protein expression is higher in
+luminal breast cancer cell lines than other subtypes, and we did shRNA
+knockdown (KD) of PADI4 in the luminal MCF10Ca1h model. PADI4 KD
+increased tumorosphere formation and clonogenicity indicating increased
+CSC population/activity. Additionally, MCF10Ca1h cells treated with a
+PADI4 selective inhibitor showed an increase in CSCs as assessed using
+the SORE6-GFP stem cell reporter. In vivo limiting dilution studies
+demonstrate that PADI4 KD increased tumor incidence at low cell inoculum,
+reflecting a statistically significant 2-4 fold increase in CSCs upon
+PADI4 KD. Our findings suggest that PADI4 may function as a tumor
+suppressor in luminal breast cancer. In support of this conclusion, deep
+deletions of PADI4 locus are found in 1% of human breast cancers in the
+TCGA datasets. Analysis of the effect of PADI4 KD on chromatin
+organization in the CSC and non-CSC compartments is ongoing.
+
+

@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Fractionated but not single dose radiation is an optimal adjuvant
+for in situ tumor vaccination
+
+
+Local radiotherapy (RT) has the potential to generate an in situ tumor
+vaccine by inducing an immunogenic cell death (ICD) of the cancer cells.
+In vitro, generation of the signals that define ICD is radiation
+dose-dependent. However, in vivo we have previously shown that radiation
+doses of 8 and 6 Gy given in 3 to 5 consecutive days were more effective
+at inducing anti-tumor T cell responses in combination with anti-CTLA-4
+antibody than a single larger dose of 20 Gy (Dewan et al., Clin Cancer
+Res 2009).To understand the mechanisms underlying the different outcome
+obtained with fractionated versus single dose RT, TSA tumors growing in
+syngeneic immunocompetent BALB/c mice were harvested at 4, 24 and 48 hrs
+post irradiation with 8 Gy X 3 or 20 Gy X 1 for analysis of gene
+expression using Agilent mouse mRNA Microarray Kit (V2). Subsequent data
+were analyzed using Ingenuity Pathway Analysis (IPA) and gene ontology
+classification. Expression of key immune genes in TSA cells irradiated in
+vitro was assessed by RT-qPCR. Tumor-infiltrating dendritic cells (TIDC)
+were analyzed 5 days after the last radiation exposure by flow cytometry.
+IFN production by irradiated TSA cells was measured by Procarta
+immunoassay.Over 100 immune response genes were differentially expressed
+in tumors irradiated with 8Gyx3 but not 20Gyx1, with a dominant type I
+interferon (IFN) response at 4 and 24 hours, which was confirmed by
+RT-qPCR. Tumor infiltration by CD8+ dendritic cells (DC), which are the
+subset of DC cross-presenting tumor cell-derived antigens, was only
+slightly increased by 20Gyx1 but markedly increased by 8Gyx3. Moreover,
+DCs present in tumors treated with 8Gyx3 showed a significant
+upregulation of activation markers CD40 and CD70. Importantly, the in
+vitro setting (devoid of an immune infiltrate) demonstrated expression of
+IFN and downstream immune genes, including chemokines CXCL9, CXCL10 and
+CXCL11 by TSA cells irradiated with 8Gyx3 but not 20Gyx1. Production of
+IFN by TSA cells was confirmed with an increased secretion of IFN in the
+supernatant only after 8Gyx3 irradiation.Overall, data indicate that
+fractionated RT can mimic, at least in part, a viral infection and
+activate canonical defense pathways in neoplastic epithelial cells with
+induction of type-I IFN. In vivo this leads to recruitment and activation
+of DC cross-presenting tumor antigens. Thus, fractionated-RT acts as an
+optimal immune adjuvant for in situ tumor vaccination. We propose that
+repeated cycles of RT-induced cell death may better mimick cycles of
+viral infection and are currently defining the molecular mechanisms
+involved. Results are important for understanding the determinant of
+response in patients currently treated wit RT and anti-CTLA-4 in clinical
+trials at our institution.
+

@@ -1,0 +1,42 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A proteomic signature predicts response to a therapeutic vaccine
+in pancreas cancer; analysis from the GI-4000-02 trial
+
+
+Background:We have previously reported that adjuvant treatment with a
+therapeutic vaccine targeting the mutated Ras oncogene product generated
+mutation-specific T cell responses associated with a trend toward
+improved survival in patients with post-operative residual disease (R1
+resections) but no improvement in the overall population1. Initial
+analysis of 90 pretreatment plasma samples using matrix assisted laser
+desorption ionization time of flight (MALDI-TOF) mass spectrometry (MS)
+showed the potential to predict improved RFS and OS for treatment with
+GI-4000/gemcitabine, but not placebo/gemcitabine.Methods:We have
+developed a novel technique, combining methods used in recent advances in
+learning theory (deep learning) with newly-refined MS techniques that
+allow exploration deeper into the proteome to create diagnostic tests.
+Using 500,000 laser shot Deep MALDI spectra2 more than 700 mass spectral
+features were identified. A subset of these was used to create many
+multivariate classifiers that were filtered for performance and combined
+using dropout regularization. This method allows the use of smaller
+training sets and so left a test set with which performance of the
+signature could be independently assessed. This new methodology was used
+to create a test (BDX-001) to identify patients likely to benefit from
+the addition of GI-4000 to gemcitabine.Results:Using BDX-001 for
+stratification, subjects who are BDX-001(+) demonstrated a 499 day
+advantage in median OS when treated with GI-4000/gemcitabine vs.
+placebo/gemcitabine. Additionally, these subjects demonstrated a 351 day
+improvement in median RFS. BDX-001 did not predict response for
+placebo/gemcitabine treated subjects. These results were obtained using
+only test set data, and although the small sample size prohibited
+statistical significance, it should give an unbiased test performance
+estimate to be validated independently.Conclusions:BDX-001 is a test
+developed using novel proteomic and learning theory methods that appears
+to predict treatment response to GI-4000 in resected pancreas cancer
+patients, potentially identifying patients with improved RFS and OS in
+the GI-4000/gemcitabine arm. We plan to prospectively validate BDX-001 as
+a companion diagnostic in a future study of GI-4000 in pancreas
+cancer.References1. Richards et al, ESMO GI. Annals of Oncology, June
+2012 23 (suppl 4)2. Duncan et al, ASMS 2013,
+http://asms.inmerge.com/Proceedings/2013Proceedings.aspx.
+

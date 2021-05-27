@@ -1,0 +1,36 @@
+Meeting: 2014 AACR Annual Meeting
+Title: The expression phenotype of SNPs linked to the risk for prostate
+cancer
+
+
+Numerous Genome Wide Association (GWA) studies of large populations have
+provided limited biomarkers for cancer and few linkages to phenotype. We
+investigated whether SNPs that are known to be associated with prostate
+cancer (PCa) affect expression in prostate stroma. The stroma of prostate
+tumors provides genetically homogenous tissue type with hundreds of
+tumor-dependent expression changes [1] which favors linkage
+identification. We surveyed published GWA studies covering a total of
+90,000 patients and selected the most significant 35 susceptibility loci
+for further linkage analysis. We also selected 4030 transcripts
+previously associated with PCa diagnosis and prognosis. We then
+investigated 47 PCa cases using genetic variations in nontumor DNA
+(Illumina Human1M-Duov3_B snp arrays) and correlating the genotypes with
+RNA gene expression data from the same patients (U133 plus 2.0 arrays). A
+novel eQTL (Expression Quantitative Trait Loci) analysis was carried out
+by a modified BAYES method to analyze the associations between the risk
+variants and expressed transcripts jointly in a single model. The model
+assumed that a risk variant can be associated with multiple RNA
+expression changes and vice versa. We observed 47 significant linkages
+between 8 risk variants and 46 significant expression changes. The false
+discovery rates of two resampling studies are 0.03 and 0.05,
+respectively, which indicated the 47 linkages are significant. All
+linkages are trans' linkages indicating remote effects of key SNPs on
+expressing genes. This is the first study to identify trans-linkages
+between multiple SNPs and multiple significant expression changes
+identified in cancer stroma. The linkages also associated with trends in
+clinical phenotypes. The strongest trend is between linkage
+rs9623117(C)-FOXD1 and biochemical relapse (p=0.01). The study reveals
+links between SNPs associated with PCa risk and transcription, which may
+identify the subset of patients where these genotypes may affect relevant
+phenotypes.[1] Jia et al., Cancer Research 2011; 71:2476-2487.
+

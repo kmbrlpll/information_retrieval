@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Project Survival: Prospective clinical study utilizing multiomics
+and artificial intelligence to discover novel molecular markers for
+detection, stratification, and outcome in pancreatic cancer.
+
+
+Pancreatic adenocarcinoma is the third leading cause of cancer death and
+has an extremely poor response to first line therapies. There is a
+critical unmet need to discover and implement effective diagnostic panels
+to stratify this disease and personalize treatment. Project Survival is a
+prospective study designed to discover biomarkers for patient diagnosis,
+stratification, and prognostics for pancreatic cancer. The multisite
+study is in year 2 of enrolling subjects within 6 categories: healthy
+volunteers with a relative with pancreatic cancer (N=50), pancreatitis
+(N=50), pancreatic cystic neoplasm (N=50), suspicious pancreatic masses
+with pathology other than pancreatic cancer (N=50), early stage (N=200)
+and metastatic pancreatic cancer (N=200). The study analyzes matched
+subject sera, plasma, buffy coat, saliva, urine, and tumor/adjacent
+normal tissues and integrates them with full clinical annotation.
+Multiple time points per subject per year are taken longitudinally over
+the course of the six year timeline enabling dynamic modeling. Samples
+are analyzed by Mass Spectrometry for the proteome, signaling lipidome,
+structural lipidome, and metabolome. The BERG Interrogative Biology®
+platform utilizes Artificial Intelligence to integrate multiomic profiles
+with medical annotation and clinical endpoints. Utilizing the power of
+the Bayesian Network learner, bAIcis™ (BERG Artificial Intelligence
+Clinical Information System), multiomic profiles were aligned to the
+longitudinal clinical information and subjected to the AI-algorithms that
+inferred probabilistic cause-and-effect relationships among molecular and
+clinical variables inferring markers of pancreatic cancer status and
+defining the interconnectivity of molecular features with clinical
+phenotype. Network features linking clinical endpoints and key network
+pressure points will be identified as molecular drivers. The drivers of
+clinical endpoints will be analyzed to rank potential biomarkers.
+
+

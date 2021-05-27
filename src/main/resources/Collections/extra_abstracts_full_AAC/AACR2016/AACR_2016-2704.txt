@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Radiotherapy and immunotherapy in cancer: A mathematical model
+
+
+The rise of immunotherapy is a major breakthrough in oncology. Recently,
+the combination of radiotherapy with the blockade of immune checkpoint
+inhibitors such as the PD1-PDL1 axis or the CTLA4 pathway has shown a
+synergistic potential: in addition to the direct cell kill induced by
+irradiation, radiotherapy unleashes neoantigens that can further induce
+an anti-tumoral immune response. However, this immune response can be
+inhibited by the immunosuppressive nature of the tumor micro-environment
+(TME). Hence, radiotherapy combined with immune check-point inhibitors is
+a promising solution and is the subject of preclinical and clinical
+research. However, defining the most efficient scheduling between
+radiotherapy and immunotherapy is a crucial issue that cannot be properly
+addressed solely by empirical trial-and-error practices. Consequently,
+developing mathematical models that can describe the synergy between
+immune checkpoint inhibitors and radiotherapy is critical. Hence, we have
+built a pharmocodynamic model of the combination of radiotherapy with
+inhibitors of the PD1-PDL1 axis and/or the CTLA4 pathway. We describe a
+mathematical representation of how a growing tumor first elicits and then
+inhibits an anti-tumoral immune response. This anti-tumoral immune
+response is described by a primary and a secondary response. The primary
+immune response appears first and is down-regulated by the PD1-PDL1 axis,
+while the secondary immune response happens next and is down-regulated by
+the CTLA4 pathway. We describe the effects of irradiation by a slightly
+modified version of the Linear-Quadratic model. In particular, we explain
+the biphasic relationship between the size of a tumor and its
+immunogenicity, as measured by the abscopal immune response. The ability
+of the model to forecast pharmacodynamic endpoints was retrospectively
+validated by reproducing results from experimental studies investigating
+radiotherapy and immune checkpoint inhibitors. This model clarifies the
+issue of synchronisation of immunotherapy with radiotherapy and it also
+explains why the CTLA4 blockade often occurs with a delay. The model also
+explains why a sustained response to immunotherapy may or may not happen
+after treatment discontinuation. We believe that this mathematical model
+could be further used as a simulation tool to help decision-makers
+determine the optimal scheduling between radiotherapy and immunotherapy
+and could be a building block for the in-silico design of optimized
+multimodal strategies.
+

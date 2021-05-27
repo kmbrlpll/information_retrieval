@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Insulin-like growth factor 2 (IGF-2) mRNA binding protein 3
+predicts poor prognosis and promotes cell proliferation in Ewing sarcoma
+
+
+INTRODUCTION: Insulin-like growth factor 2 (IGF-2) mRNA binding protein 3
+(IGF2BP3, also known as IMP3) is an oncofetal protein which binds RNA
+thus influencing the transcript target fate. IGF2BP3 is de novo
+synthesized in malignancies where it promotes proliferation, drug
+resistance and metastases. Moreover, IGF2BP3 represents a promising
+indicator of outcome in several cancers. Ewing sarcoma (EWS) is a rare
+bone and soft tissue tumor where the IGF system plays a pivotal role.
+This study aimed to investigate the relevance of IGF2BP3 in EWS and
+verify its value as a prognostic biomarker.MATERIAL AND METHODS: Total
+RNA was extracted from two independent cohorts of 30 and 109 snap-frozen
+tissues from localized primary EWS samples with more than 5 years
+follow-up. Microarray analysis (Affymetrix) was performed in the cohort
+of 30 patients while IGF2BP3 expression was analysed by qRT-PCR (Applied
+Biosystem) in the cohort of 109 cases. Prognostic value of IGF2BP3 was
+evaluated both in univariate and multivariate analysis. IGF2BP3
+expression was assessed by qRT-PCR and western blot in a panel of 14 EWS
+cell lines. Plasmids for IGF2BP3 silencing or over-expression were
+transfected in A673 or LAP-35 and IOR/CAR EWS cells, respectively.
+Soft-agar growth of cell lines with differential IGF2BP3 expression was
+evaluated. catRAPID express human web server was employed for prediction
+of novel IGF2BP3/mRNAs interactions. IGF-2 and ABCF1 expression levels
+were analysed in vitro and in clinical specimens.RESULTS: Microarray
+results evidenced that IGF2BP3 higher expression correlated with a worse
+outcome (p-value 0.0002). This data was confirmed in the cohort analysed
+by qRT-PCR both considering univariate (p-value 0.001) and multivariate
+analysis (HR:2.83. IC95% [1.22-6.53].p = 0.015). In vitro, higher IGF2BP3
+expression correlated with an increased capability of growth in
+anchorage-independent conditions and IGF2BP3 knockdown significantly
+decreased soft-agar growth of EWS cells. Oncogenic potential of IGF2BP3
+was not found to be mediated through IGF-2-dependent mechanism but ABCF1,
+an ABC family member with a key role in translation initiation, was
+predicted as a target of IGF2BP3 by in silico analysis. Accordingly,
+IGF2BP3 loss- or gain-of-functions approaches induced down- or
+up-regulation of ABCF1 protein levels, respectively. In addition, a
+direct correlation between IGF2BP3 and ABCF1 was found in 109 EWS
+patients (p-value minor than 0.0001). Functional studies on the role of
+ABCF1 in EWS will follow.CONCLUSIONS: IGF2BP3 represents an indicator of
+prognosis in EWS therefore its detection may be of help to stratify
+patients according to risk. We also provided evidences for IGF2BP3 in the
+regulation of EWS aggressiveness and identified ABCF1 as a new putative
+mediator of IGF2BP3 malignant effects. (Grants: FIRB RBAP11884M_005 and
+AIRC IG2013_14049 to KS)
+

@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Differences in RNA expression and chemosensitivity in 2D versus 3D
+non-small-cell lung cancer cultures
+
+
+Introduction: Increasing efforts to integrate tumour-stroma interaction
+and 3-dimensional structures in innovative in-vitro models were made
+within the last years. We established a 3D co-culture system in
+non-small-cell lung cancer applicable for drug testing. In this work, we
+present data on the differences in RNA expression and drug sensitivity in
+the 2D and 3D culture system.Methods: A549 and Colo699 NSCLC cell lines
+were both cultivated in a 2D standard cell culture (flasks, PAA, Germany)
+and a 3D 96 well plate hanging drop system (GravityPlusTM, Insphero,
+Switzerland) for 5 and 10 days, respectively. 3D microtissues were
+cultured either in mono- or in co-cultures with the human lung fibroblast
+cell line SV80. RNA expression profiling via Affymetrix chip analyses was
+performed with 3 biological replicates per cell line (A549, Colo699 and
+SV80) in mono- and co-cultures. For this purpose, RNA was isolated by a
+TriReagent standard protocol.Cytotoxicity was determined for cisplatin
+and vinorelbine after 24 hours of incubation by ATP measurements of lysed
+microtissues/cells and modified AnnexinV/Propidium iodide staining for
+flow cytometry on Colo699 cells. Furthermore, standard flow cytometry
+cell cycle analyses and microscopic volume measurements were performed to
+analyse drug induced inhibition of proliferation.Results: RNA expression
+profiles revealed within the A549 monocultures 892 and the Colo699
+monocultures 1,042 regulated genes ( two-fold change in expression) for
+2D versus 3D cultures, respectively. Between the cell lines A549 and
+Colo699 only a limited overlap (131 genes) in differentially expressed
+genes was detected. However, significant differences in gene expression
+were experienced in co-cultures with SV80. The most frequently altered
+genes are involved in the regulation of the cell cycle, organelle
+fission, RNA polymerases, histone methylation, DNA repair, oxidative
+stress and WNT signalling pathways. To prove the potential in-vivo
+relevance of these findings, we assessed the chemosensitivity in the
+Colo699 for 2D and 3D cell cultures. A significant difference in LD50
+could be observed for cisplatin between 2D (100M) and 3D (250M) cultures
+in both ATP release measurements and AnnexinV/PI flow cytometry analyses.
+In cell cycle analyses the maximum M arrest for vinorelbine was achieved
+with 25M in 2D, whereas in 3D 100M of vinorelbine were needed.
+Cytotoxicity assays did not reveal a significant difference for
+vinorelbine in 2D versus 3D models.Conclusion: Herein, we demonstrate
+that cultivation of cell lines either in a 2D or 3D environment lead not
+only to a difference in RNA expression but also in chemosensitivity.
+Thereby, these data support the urgent need of more in vivo like cell
+culture models for analysing drug related modes of action.
+

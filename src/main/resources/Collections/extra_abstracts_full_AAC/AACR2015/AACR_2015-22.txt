@@ -1,0 +1,34 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Genetic re-programming of the acute myeloid leukemia cell line
+HL-60: Regulation of cell proliferation, differentiation, and programmed
+cell death
+
+
+The human acute myeloid leukemia cell line, HL-60, in response to phorbol
+esters, undergoes genetic re-programming leading to cell cycle arrest,
+macrophage differentiation, and apoptosis. The induced program overrides
+the oncogenic mutations driving the leukemia program, illustrating that
+changes in gene expression can reverse the cancer phenotype. Whole genome
+exon DNA microarray analyses identifies 1260 genes whose RNA expression
+levels change significantly during the reprogramming. We define a subset
+of 186 genes functionally assigned to the biological processes of
+regulation of cell proliferation, differentiation, and/or programmed cell
+death showing specific temporal expression patterns, and suggest that a
+subset of these genes, which are down-regulated during the reversal of
+the leukemia phenotype while showing overexpression in AML patient
+samples, may represent new therapeutic targets in AML. Among the genes
+showing immediate early up-regulation (2-fold or greater by one hour
+post-PMA treatment), promoter analysis reveals highly significant
+overrepresentation of binding sites for the transcription factors STAT5A,
+HIF1A and NF-kB. Delayed early up-regulated genes (2-fold or greater by
+three hours post-PMA treatment), have promoters highly enriched in
+binding sites for EGR1, SP1:SP3, ZFP206 and E2F4. A phorbol ester
+response signature related to reversal of the leukemic phenotype and
+initiation of apoptosis has been defined and examined in two additional
+AML cell lines (THP-1 and Kasumi-1). Among the significantly up-regulated
+genes are MCL1, CDKN1A, NR4A1, and BCL6. Down-regulated genes include
+MYC, KIT, LGALS12, and ZBTB16. HL-60 cell lines with CRISPR-mediated
+knockouts of several of these genes are currently being evaluated for
+their effects on the leukemic phenotype and phorbol ester-induced
+apoptosis.
+

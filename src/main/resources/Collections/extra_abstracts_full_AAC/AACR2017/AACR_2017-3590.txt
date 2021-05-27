@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Somatic variation discovery with GATK4.
+
+
+The Genome Analysis Toolkit or GATK, developed at the Broad Institute, is
+currently one of the most widely used software toolkits for germline
+short variant discovery and genotyping in whole genome and exome data.
+GATK4 is the next generation of GATK; it runs faster and covers more
+ground, adding somatic SNVs, Indels and CNVs to its variant discovery
+portfolio.
+
+Given the breathtaking increase in the amount of genomic data produced in
+recent years, GATK development has come to tackle multiple challenges: a)
+reflect the cutting-edge of science in terms of depth as well as breadth
+of analyses offered, b) scale to petabytes of data and c) provide a way
+to navigate the tradeoff between turn-around-time and cost of analyses.
+GATK4 addresses all of these challenges through a complete redesign and
+reimplementation of the original GATK software.
+
+This new version greatly expands the toolkit's scope of action within the
+variant discovery space by improving somatic mutation calling and adding
+copy number, structural variant and tumor-heterogeneity analysis tools.
+For the established tools and algorithms composing the GATK Best
+Practices pipelines for short variant discovery (including MuTect2, the
+next generation of the DREAM challenge-winning somatic SNV caller MuTect,
+developed originally in the Cancer Genome Analysis group at the Broad
+Institute), GATK4 is a substantial upgrade that streamlines the tools'
+operation, providing functionally equivalent results in a much faster
+timeframe through greatly increased efficiency and leaner engineering.
+
+Designed with cloud infrastructure in mind (although it still runs on
+local infrastructure), GATK4 is implemented with support for Apache
+Spark, makes key operations hundreds of times faster than previous
+generations of GATK and comes with end-to-end pipeline implementations
+that run out of the box on select cloud platforms.
+
+

@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Patient-derived xenografts seem to have closer global expression
+profile to that of the patient tumors of the corresponding cancer types,
+than the equivalent cell lines do
+
+
+Patient derived xenografts (PDXs) without in vitro manipulation are
+believed to mirror original patients histopathologic and genetic
+profiles, thus to be predictive surrogate models for patients, with
+superiority over conventional cell lines. We have built the largest and
+comprehensive PDX library of >1,100 models with genetic profiles of major
+cancer types, including some major cancer types: 200 NSLCL1, 200 CRC2,
+200 gastric3, 100 HCC4, 100 pancreatic, 30 ovarian, 10 brain tumors, and
+many other cancer types.We set out to compare these 6 types of our PDXs
+with the corresponding TCGA5 patient tumor samples and CCLE6 cancer cell
+lines on their genomic expression by calculating pairwise Spearman rank
+correlation coefficient , in order to further explore/confirm the
+similarity and difference among the three collections. PDX were profiled
+by both RNAseq and microarray (Affymetrix Human Genome U219 Array); CCLE
+were from microarray (Affymetrix Human Genome U133 Plus 2.0 Array); and
+TCGA were from RNAseq. For convenience, these 4 gene expression datasets
+are called PDX, PDXchip, CCLE and TCGA. Only genes common to all 4
+datasets were used to compute . The preliminary data seems to lead to two
+observations. First, for all 6 types, there is always at least one
+different tumor CCLE-TCGA pair that has higher than the same tumor
+CCLE-TCGA pair. For example, the TCGA colorectal, lung, and ovarian
+cancers have higher with CCLE pancreatic cancer than the TCGA pancreatic
+cancer does. In contrast, for both PDX and PDXchip, only lung and
+pancreatic cancers show such behavior, and notable, both to TCGA
+colorectal cancer. Seocnd, for same tumor type comparisons, is 0.73-0.83
+(average 0.772) between PDX and TCGA, 0.67-0.76 (average 0.698) between
+PDXchip and TCGA, 0.67-0.7 (average 0.682) between CCLE and TCGA. Third,
+about 20% of CCLE lung cancers have much lower with TCGA, PDX, and
+PDXchip lung cancers than the other CCLE lung cancers. In summary, these
+observations show that our PDX models are close in genomic expression
+profile to TCGA patient tumors per tumor types specifically, and more so
+than CCLE cancer cell lines, which is also less specific.References1.
+Yang, M., et al. Overcoming erlotinib resistance with tailored treatment
+regimen in patient-derived xenografts from naive Asian NSCLC patients.
+Int J Cancer 132, E74-84 (2013).2. Chen, D. Cetuximab response in CRC
+patient-derived xenografts is predicted by RAS pathway activation rather
+than KRAS mutation status. ASCO 2013 Annual Conference (2013).3. Zhang,
+J. et al. A more efficient RNAi inducible system for tight regulation of
+gene expression in mammalian cells and xenograft animals. Rna 13,
+1375-1383 (2007).4. Guo, S. et al AACR-Annual Conference (2013).5.
+http://cancergenome.nih.gov/.6. Barretina J, et al.
+http://www.broadinstitute.org/ccle/home. Nature 28, 603-607 (2012).
+

@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A translational phosphoproteomic approach to study differences in
+KRAS signaling in pancreatic, colorectal and lung cancers.
+
+
+Aims To understand any context-dependent differences in signaling
+pathways between pancreatic (PAN), colorectal (CR) and lung (LU) cancers
+with KRAS mutations using a targeted phosphoproteomic approach in cell
+lines and patient-derived cancer cells exposed to targeted anticancer
+drugs ex-vivo.
+
+Materials and Methods We studied a panel of 30 KRAS mutant cell lines: 10
+PAN, 10 CR and 10 LU cell lines. Cancer cells were also
+immuno-magnetically isolated from pleural effusions and ascites of
+patients with KRAS mutant CR and LU cancer and exposed to a DMSO control
+and clinically relevant concentrations of PI3K (pictilisib), AKT
+(AZD5363), mTOR (everolimus), EGFR (gefitinib), BRAF (vemurafenib), MEK
+(trametinib) and HSP90 (luminespib) inhibitors for 1 hr. Dynamic changes
+in a panel of 52 relevant phosphoproteins were studied using the Luminex
+200 platform. Hierarchical clustering and logistic regression were used
+to find differences in dynamic changes in phosphoproteins between KRAS
+mutant, PAN, CR and LU cancer cells.
+
+Results Supervised clustering studying exposure to different drugs
+revealed that when exposed to the PI3K inhibitor, pictilisib, KRAS mutant
+LU cancers did not significantly cluster together; p=0.008, p=0.104
+following Benjamini-Hochberg correction. Independently, logistic
+regression showed significant differences in signaling of KRAS mutant
+cells when exposed to the PI3K inhibitor, pictilisib. PAN and CR cancers
+showed an increase in p-MEK while LU cancer cells did not; p=0.0195. LU
+cancer cell lines showed significantly more reduction of p-AKT compared
+to PAN and CR cell lines when exposed to the PI3K inhibitor; p=0.0423. As
+expected, exposure to vemurafenib increased p-MEK levels across the
+majority of the KRAS mutant cell lines, however compensatory reductions
+in p-mTOR levels were seen significantly more in PAN and CR cell lines
+and not in LU cell lines; p=0.0084. The dynamic phosphoprotein changes
+caused by pictilisib were validated in cancer cells isolated from serous
+effusions of 3 KRAS mutant LU and 4 KRAS mutant CR cancer patients.
+Validation of these findings using multiple other inhibitors and
+time-points is ongoing.
+
+Interpretation/conclusions We hypothesise that the significantly greater
+reduction in p-AKT and less increase of compensatory p-MEK caused by PI3K
+inhibition in KRAS mutant LU cells compared to KRAS mutant PAN and CR
+cell lines represents preferential signaling of these cells through the
+PI3K pathway. Increase in p-MEK driven by BRAF inhibitors caused a
+reduction in p-mTOR in PAN and CR but not in LU cell lines also
+indicating preferential dependence of signaling in KRAS mutant lung
+cancer cells through the PI3K pathway. These findings are important while
+designing clinical trials of KRAS mutant cancers and more broadly to
+precision medicine where mutation status independent of tissue context is
+often used.
+
+

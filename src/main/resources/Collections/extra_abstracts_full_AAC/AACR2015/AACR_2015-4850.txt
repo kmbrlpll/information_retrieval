@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identifying copy number alterations from targeted sequencing data
+
+
+Identification of copy number alterations (CNAs) in tumors can assist in
+determining diagnosis, prognosis, or predicting response to therapy in
+certain cancer types. Many CNA detection tools have been developed for
+whole genome sequencing (WGS). These algorithms typically call
+alterations by using significant deviations of the log2 ratio of tumor to
+normal coverage from the expected diploid log2 ratio. Several factors,
+however, including reporting pertinent genomic information, hardware and
+software limitations, and cost, have impeded the routine application of
+WGS in a clinical setting. Targeted sequencing - hybrid capture and
+massively parallel sequencing of defined regions (targets) of the genome
+can overcome some of these challenges and can specifically interrogate,
+for example, known cancer genes, thus maximizing the actionability or
+utility of the information generated. Though more suited for large-scale
+clinical testing, targeted sequencing of smaller gene panels with
+specific clinical reference presents some significant bioinformatic
+challenges that hinder the application of pre-existing CNA detection
+tools, resulting in a heavy dependence on manual review in the clinic.In
+addition, varying quality of DNA, minor variations in laboratory
+protocols, along with batch effects, are known to confound CNA profiles
+and are exasperated by the decreased number of sequenced regions of
+targeted gene panels. These variables alter the log2 ratio, and thus, our
+ability to call CNAs suffers. We note, that using matched normals may
+mitigate some deleterious effects, however, to minimize clinical cost and
+throughput, we tackle these challenges with unmatched tumor-normal pairs.
+Similar to the closest normal approach used in SNP array analyses, we
+rely on the assumption that some normal (non-tumor) samples experience
+similar experimental variability that affects the tumor samples.
+Minimizing maximally informative cost-functions (incorporating both
+global and local CNA variation), we iteratively investigate different
+combinations of normal samples which best resemble a given cancer sample.
+The new set of normals which minimize the cost-function, defines a panel
+of normals (PON) whose target medians are used to generate the log2
+ratio. Along with batch-effect reduction techniques, we then call CNAs
+with statistically significant thresholds at the
+target-level.Interestingly, we find that approximately 15 normals are
+typically needed to minimize CNA profile variation, as opposed to our
+typical approach of using all available normals (60). In addition, we
+demonstrate that our procedure can improve our sensitivity and
+specificity from 581% to 812% and 941% to 99.50.1%, respectively, on
+simulated data. We further compared our approach with other published
+algorithms and found a significant improvement in performance, reducing
+the time required to manually review CNAs and interpret copy number
+profiles in the clinic.
+

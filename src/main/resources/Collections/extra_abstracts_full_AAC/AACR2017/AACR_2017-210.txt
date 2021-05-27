@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Development of scores reflective of biological processes
+underlying human disease states from mass spectrometry of serum.
+
+
+A method was developed that allows the evaluation of complex biological
+processes from mass spectrometry of human serum samples. Applying gene
+set enrichment analysis ideas to matched protein expression data from a
+panel of 1129 proteins and deep MALDI® mass spectral data from a set of
+49 human serum samples with lung cancer (n=45) or non-cancer (n=4),
+subsets of mass spectral features associated with selected biological
+functions were identified. Biological functions included acute response,
+complement system, and wound healing and the protein members of each
+function were assigned using the intersection of gene ontologies and the
+protein panel. Using mass spectral data collected from an independent
+NSCLC sample cohort (n=85) from patients treated with targeted therapy,
+principal component analysis was used to derive scoring functions
+(combinations of the feature subsets) for each biological class. These
+scoring functions were validated in an additional NSCLC sample set
+(n=123) treated with chemotherapy. The scoring functions can be applied
+to mass spectra obtained from any human serum sample to generate scores
+associated with individual biological processes. We have developed
+scoring functions for several biological processes. Acute response score
+was associated with outcome in Cox proportional hazard analysis in
+several independent patient cohorts across multiple therapies and
+indications, including lung cancer, as mentioned, and ovarian cancer
+(n=165) treated with platinum doublets following surgery. Choice of a
+single cutoff allowed stratification of patients into groups with
+significantly better or worse outcome. In a cohort of nivolumab treated
+NSCLC patients (n=67) with available longitudinal samples, outcome was
+also found to depend on changes in scores during therapy. Interestingly,
+while the distributions of acute phase scores were quite similar across
+multiple tumor types, scores for other biological functions, such as
+wound healing, varied considerably. This may reflect differences in
+relative importance of individual biological functions between tumor
+types. A scoring system based on biological functional categories has a
+wide range of uses that could be tested and applied in a clinical
+setting. Currently, tests that measure a single biomarker for monitoring
+a particular disease have questionable utility and limit the usefulness
+to the clinician and patient treatment decision making. A tool that
+measures the activity of a complex biological process could be useful in
+deciding when an intervention is needed (screening), or for monitoring
+the effects during therapy.
+
+

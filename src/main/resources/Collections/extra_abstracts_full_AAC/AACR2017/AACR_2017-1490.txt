@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Role of sub-cellular specific reactive oxygen species in heart
+regeneration after cancer therapy.
+
+
+Introduction: Cardiovascular disease and cancer are the two leading
+causes of morbidity and mortality worldwide. As advancements in radiation
+therapy (RT) have significantly increased the number of cancer survivors,
+the risk of radiation-induced cardiovascular disease in this group is a
+growing concern. However, the molecular mechanism of radiation-induced
+heart failure is still elusive. Recently, it has been discovered that the
+reactive oxygen species (ROS)-mediated oxidative DNA damage is the
+primary upstream mechanism that prevents cardiomyocyte proliferation.
+Therefore, elucidating the spatial and temporal aspects of ROS production
+will lead to the development of countermeasures to prevent heart injury
+following chest radiotherapy.
+
+Methods: We have generated GSH redox potential (Grx-roGFP) ROS probe
+targeted to cytoplasm, chromatin, nucleolus, telomere, nuclear inner
+membrane and heterochromatin. These probes have been inserted into
+cardiomyocytes specific AAV9 vectors which were used to infect
+cardiomyocytes both in vitro an in vivo. For in vivo study, we infected
+three months old mice with high-titer AAV particles via tail vein
+injection and then exposed to chest-only radiation (5-10 Gy). At
+different post-radiation times, fresh heart slices of 300-500 µM
+thickness were either mock- or treated with mitochondrial electron
+transport complex (ETC) inhibitors and then subjected to live tissue
+imaging using a confocal microscope.
+
+Results: Interestingly, our results showed that the distribution of basal
+ROS levels is not uniform in different sub-nuclear compartments.
+Significantly, upon the induction of oxidative stress, the ROS levels was
+elevated in all the cellular compartments, but the extent of ROS level
+was significantly higher in the cytoplasm. Similarly, radiation altered
+ROS levels in all the cellular compartments; however the effect of
+radiation on the ROS levels was sub-nuclear compartment-specific.
+Intriguingly, we found that the complex IV of the ETC was critical for
+the maintenance of ROS levels in different cellular compartments as
+compared with complexes I and II.
+
+Conclusion and Future Directions: Our data clearly indicate that the
+spatial and temporal levels of ROS are not uniform across the cell and
+the mitochondrial ETC plays a major role in regulation ROS levels in
+different sub-nuclear compartments. The results obtained from this study
+can be utilized to develop sub-cellular compartment specific targeted
+both genetic and pharmacological ROS scavengers that will help to
+regenerate adult heart by re-activating the proliferative capacity of
+cardiomyocytes following cancer therapy. Finally, our novel approach can
+be applied to assess alterations in ROS levels in different cancers.
+
+Funding: This work was supported by the NASA (NNX13AD57G/NNX15AE06G)
+CPRIT (RP160520) and NIH R01AG053341 grants.
+
+

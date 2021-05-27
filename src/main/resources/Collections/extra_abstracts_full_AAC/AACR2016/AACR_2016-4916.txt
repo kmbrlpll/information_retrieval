@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Improved statistical approaches that account for pseudoprogression
+in preclinical studies of RRx-001 with immunotherapies
+
+
+Background and ObjectiveImmuno-oncology agents are associated with
+apparent tumor growth due to immune infiltration leading, in some cases,
+to misinterpretation of radiological scans that can result in premature
+discontinuation of effective therapeutic agents. In the clinic, this
+resulted in the introduction of modified immune-related response
+criteria. Preclinically, in the absence of radiology or
+immunohistochemistry, traditional tumor growth delay may similarly lead
+to misinterpretation of progression even in the context of a true
+response. More powerful statistical strategies are therefore required to
+distinguish between true and pseudoprogression.RRx-001 is a novel
+immuno-epigenetic agent in Phase 2 with promising single agent and
+combination activity that is associated with clinical pseudo progression
+in some cases. Previously, we tested the hypothesis that RRx-001 +
+anti-PD-L1 would increase the complete response rate in a myeloma
+preclinical model. Time-to-event statistical analyses methods that
+account for the study design features and capture the longitudinal and
+panoramic aspect of pseudo progression were used to test superiority of
+the combination in lieu of traditional, mean-based mixed effects modeling
+approaches that did not show statistical significance. Nonparametric
+p-values for the difference of cumulative incidence rates of time to 50%
+tumor growth reduction and its associated restricted mean survival times
+are illustrated.Methods and ResultsAnalysis of the raw data growth curves
+from a study comparing RRx-001, anti-PD-L1 alone and in combination in
+mice with J558L myeloma tumors showed an initial increase followed by a
+reduction in size suggesting a pseudoprogressive response. In light of
+this observation, the study-end probability of tumor volume reduction
+(50%) was chosen as a suitable endpoint. The difference in the
+Kaplan-Meier estimate for this endpoint between the combination and anti
+PD-L1 alone was 50% (95% CI: 10.8%, 89.2%). The two-sided nonparametric
+(Cox model) p-value was 0.0124, a statistically significant finding in
+favor of the combination group as compared to the PD-L1 group
+alone.ConclusionTumor flare or pseudo progression describes a transient
+increase in tumor volume due to immune cell infiltration and
+inflammation/edema, which resolves over time. Pseudo progression is
+visualizable in the clinic with radiological scans; however,
+pre-clinically it is difficult, if not impossible, to distinguish between
+pseudo and true progression with traditional statistical methods.
+Kaplan-Meier description of time-to-volume reduction (50%) coupled with
+Cox's proportional hazards model follows the data longitudinally and
+therefore permits an analysis of immune infiltration resolution, and make
+it an improved method for analysis of pre-clinical experiments with
+immuno-oncology agents.
+

@@ -1,0 +1,64 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Targeted sequencing of prostate cancer circulating tumor cells in
+comparison with matched cell free DNA and prostate tumors
+
+
+Introduction: Precision oncology care is predicated upon detecting
+actionable genomic aberrations. Obtaining tissue that accurately reflects
+the genomic landscape of prostate cancer (PCa) is a challenge, though
+circulating tumor cells (CTCs) represent a promising tissue source. We
+demonstrate the feasibility of high throughput targeted sequencing of
+CTCs across multiple PCa disease states and compare the genomic variation
+among different cancer substrates (CTCs, cell free DNA [cfDNA], primary
+tumors, metastasis) in matched patient samples.Methods: Under IRB
+approval, 7.5ml of peripheral blood was obtained from healthy controls
+and patients with PCa. CTCs were enriched using LiquidBiopsy (Cynvenio
+Biosystems), a CLIA-certified immunoaffinity-based microfluidic platform.
+CTCs were defined as EpCAM+CK+DAPI+CD45. Amplicon libraries covering 50
+cancer genes were generated (AmpliSeq 2.0, Life Technology) and sequenced
+on an Ion Proton System. Somatic single nucleotide variants (SSNV),
+occurring in >1% of DNA in a sample, were identified based on their
+presence in CTCs and absence from WBC. When available, matched cfDNA,
+primary tumors and metastatic tissue were sequenced in parallel.Results:
+Peripheral blood was collected from healthy controls (n = 31) and PCa
+patients (n = 26) at various disease states: localized (n = 2),
+biochemical recurrence (n = 4), metastatic hormone sensitive (n = 16),
+and castration resistant (n = 4). In patients with PCa, the median PSA
+was 3.32 ng/dl (range Introduction: Precision oncology care is predicated
+upon detecting actionable genomic aberrations. Obtaining tissue that
+accurately reflects the genomic landscape of prostate cancer (PCa) is a
+challenge, though circulating tumor cells (CTCs) represent a promising
+tissue source. We demonstrate the feasibility of high throughput targeted
+sequencing of CTCs across multiple PCa disease states and compare the
+genomic variation among different cancer substrates (CTCs, cell free DNA
+[cfDNA], primary tumors, metastasis) in matched patient samples.Methods:
+Under IRB approval, 7.5ml of peripheral blood was obtained from healthy
+controls and patients with PCa. CTCs were enriched using LiquidBiopsy
+(Cynvenio Biosystems), a CLIA-certified immunoaffinity-based microfluidic
+platform. CTCs were defined as EpCAM+CK+DAPI+CD45. Amplicon libraries
+covering 50 cancer genes were generated (AmpliSeq 2.0, Life Technology)
+and sequenced on an Ion Proton System. Somatic single nucleotide variants
+(SSNV), occurring in >1% of DNA in a sample, were identified based on
+their presence in CTCs and absence from WBC. When available, matched
+cfDNA, primary tumors and metastatic tissue were sequenced in
+parallel.Results: Peripheral blood was collected from healthy controls (n
+= 31) and PCa patients (n = 26) at various disease states: localized (n =
+2), biochemical recurrence (n = 4), metastatic hormone sensitive (n =
+16), and castration resistant (n = 4). In patients with PCa, the median
+PSA was 3.32 ng/dl (range <0.03-1531) and CTCs were identified in 26 of
+26 (100%) patients with a median CTC count of 46 cells/7.5 ml (range
+15-518). Six of 26 (23%) CTC samples from PCa patients had SSNV detected
+at 18 loci. Matched tissue was available in 17 of the 26 PCa patients:
+cfDNA (n = 14), primary tumor (n = 3), primary tumor and metastasis (n =
+1). Five of 14 (36%) cfDNA samples had SSNVs detected at 16 loci; 2 of 3
+(67%) primary tumors had SSNVs detected at 2 loci; and 1 of 1 (100%)
+metastasis had SSNVs detected at 4 loci. Of the 17 patients with matched
+tissue samples, SSNV concordance was seen in only one case. No SSNVs were
+detected in the control patients.Conclusion: Targeted sequencing of CTCs
+was feasible across the spectrum of PCa and SSNVs identified in CTCs were
+not concordant with SSNVs in matched cfDNA or tumor DNA, likely
+reflecting cellular heterogeneity, clonal evolution, and tissue-specific
+extraction methodologies. Expanded matched sample cohorts are needed to
+elucidate how these DNA sources - used alone or in combination - can best
+inform clinical decisions in prostate cancer.
+

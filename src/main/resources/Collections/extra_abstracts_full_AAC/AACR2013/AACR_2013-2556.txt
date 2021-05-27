@@ -1,0 +1,49 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Functional characterization of the pancreatic cancer TERT-CLPTM1L
+risk locus on chr5p15.33.
+
+
+Pancreatic cancer is a highly lethal cancer with few well established
+risk factors. PanScan, a genome wide association study (GWAS) of
+pancreatic cancer has identified four pancreatic cancer susceptibility
+loci in populations of European ancestry. One of these is in a multi
+cancer locus on chr5p15.33 where the most significant SNP from the GWAS
+(rs401681, P=3.7x10-7, ORAllele=1.19) lies in a region containing two
+genes, TERT and CLPTM1L. The TERT gene encodes the catalytic subunit of
+telomerase, well known for its essential role in maintaining telomere
+ends. The function of CLPTM1L is not as clear, although it has been
+proposed to play a role in apoptosis. It is predicted to encode a protein
+with 6 transmembrane (TM) domains and two large hydrophilic domains: a
+loop of 253 aa between the first and second TM domains, and a C-terminal
+tail of 89 aa.We have performed imputation to fine-map the signal to a
+SNP three orders of magnitude more significant than the GWAS SNP
+(PImputed=1.4x10-10, ORAllele=1.30). As this SNP is located in the
+CLPTM1L gene we have performed a series of experiments to investigate the
+function of the CLPTM1L gene and its encoded protein. Immunofluorescence
+analysis in pancreatic cancer cells (PANC-1) indicates that it localizes
+to the endoplasmic reticulum. Affinity purification and mass spectrometry
+(HEK-293T, hTERT-HPNE and PANC-1 cells) identified MYH9, a non-muscle
+heavy chain myosin, as a potential interacting protein. The interaction
+has been validated by co-immunoprecipitation and co-localization
+experiments. To examine if CLPTM1L plays a role in growth control, we
+created stable PANC-1 cell lines overexpressing the full length CLPTM1L
+gene as well as two deletions, a C-terminal deletion and a loop deletion,
+and assayed growth in vitro and in vivo. Cell lines overexpressing full
+length CLPTM1L grow faster in vitro and in vivo as compared to cells
+containing empty vector. Interestingly, the two CLPTM1L mutants abolish
+this effect. Furthermore, we have shown by RNA-seq that the CLPTM1L gene
+is overexpressed in pancreatic tumors as compared to normal pancreatic
+tissues. Our results indicate that CLPTM1L may play a role in the control
+of cell growth and oncogenesis in the pancreas. Our current efforts aim
+at further characterizing the function of CLPTM1L and to correlate
+pancreatic cancer risk variants on 5p15.33 to molecular phenotypes to
+attempt to explain the underlying biology of the risk.Citation Format:
+Jinping Jia, Irene Collins, Marta Dzyadyk, Abbey Thompson, Adam Cheuk,
+Hemang Parikh, Zhaoming Wang, Chris Westlake, Allen Bosley, Gloria
+Petersen, Thorkell Andresson, Laufey Amundadottir. Functional
+characterization of the pancreatic cancer TERT-CLPTM1L risk locus on
+chr5p15.33. [abstract]. In: Proceedings of the 104th Annual Meeting of
+the American Association for Cancer Research; 2013 Apr 6-10; Washington,
+DC. Philadelphia (PA): AACR; Cancer Res 2013;73(8 Suppl):Abstract nr
+2556. doi:10.1158/1538-7445.AM2013-2556
+

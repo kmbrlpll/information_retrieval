@@ -1,0 +1,60 @@
+Meeting: 2017 AACR Annual Meeting
+Title: [18F]HX4 shows potential as a predictive biomarker for the
+radiosensitizing capacities of metformin in a NSCLC xenograft model.
+
+
+Introduction
+
+Metformin (MET) may improve tumor oxygenation and thus radiotherapy (RT)
+response. However, appropriate imaging biomarkers for patient
+stratification, critically needed to be able to advance to clinical
+trials with MET as a radiosensitizer, are still lacking. In this
+proof-of-concept (POC) study, we first assessed the effect of acute MET
+administration on NSCLC xenograft tumor hypoxia with PET using the novel
+hypoxia PET tracer [18F]HX4. Second, we verified the influence of a
+single dose of MET prior to RT on treatment outcome.
+
+Experimental procedures
+
+A549 tumor-bearing mice (n=9; animals were inoculated in both hind legs)
+underwent a [18F]HX4 PET/CT scan to determine baseline tumor hypoxia. The
+next day, mice were administered 100 mg/kg MET IV. [18F]HX4 was
+administered IV 30 min. later, whereupon a second PET/CT scan was
+performed to assess changes in tumor hypoxia. Two days after this second
+scan, mice were randomized into three groups (n=3/group): a control group
+(1), a RT group (2), and a MET+RT group (3) with comparable tumor volumes
+(259±103; 218±81 and 247±121 mm3, resp.). Animals were administered
+0.9% saline (groups 1-2) or 100 mg/kg MET (group 3) IV, followed by a
+single dose of 10 Gy 30 min. after administration (groups 2-3). Control
+animals of group 1 underwent sham RT. During the entire study, tumor
+growth was monitored triweekly by caliper measurements. Calculation of
+the relative tumor volumes (RTV) was initiated when tumors reached a mean
+baseline volume of 100 mm3 with the formula RTV=Vtime x/Vbaseline. Tumor
+growth inhibition (TGI) was calculated for each tumor in both treatment
+groups with the formula TGI=1-(RTVtreated/RTVcontrol).
+
+Results
+
+MET significantly altered A549 tumor hypoxia, as the mean [18F]HX4
+tumor-to-blood ratio (TBR) was reduced from 3.03±0.27 to 2.82±0.25
+(p=0.040) after MET administration. The tempering influence of MET on
+tumor hypoxia improved RT response, as fifteen days after irradiation TGI
+was 63±7% in the MET+RT group as compared to only 36±9% in the RT
+group, however significance was not reached. To date, tumors are still
+being measured triweekly and this will be continued until a volume of
+1500 mm3 is reached. Then, animals will be sacrificed for histological
+validations on tumor tissue to assess differences in a.o. proliferation
+and hypoxia.
+
+Conclusions
+
+Using non-invasive imaging, we showed in A549 xenograft tumors that MET
+acts as a radiosensitizer possibly by decreasing tumor hypoxia. Our
+results imply that [18F]HX4 PET imaging holds potential as a predictive
+biomarker for the beneficial effect of MET in the treatment of NSCLC;
+however, the small group sizes in this POC study did not allow us to draw
+sound conclusions. These promising findings will be validated in a larger
+follow-up study in order to validate [18F]HX4 PET as a predictive
+biomarker for MET and RT response.
+
+

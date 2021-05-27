@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Histone demethylase KDM3A: Epigenetic target for pancreatic ductal
+adenocarcinoma (PDAC)
+
+
+Purpose: A growing body of evidence suggests that cancer stem cells/tumor
+initiating cells (CSC/TIC) within a solid tumor including in pancreatic
+cancer initiate and sustain tumor growth. Our preliminary data implicates
+KDM3A (histone lysine demethylase 3A)/Jmjd1A (jumonji domain demethylase
+1A), non-heme iron (II)- -ketoglutarate (kg) dependent enzyme, as a prime
+regulator of stems cell self-renewability for cancer progression and is
+overexpressed in PDAC. Hypoxia most prominently controls malignant
+properties of cancer cells by stimulating hypoxia inducible factor 1
+(HIF1). The fact that HIF1 binds to its responsible elements (HREs) in
+the KDM3A promoters and subsequently up-regulates its expression could
+explain why hypoxia exacerbates malignancy. Based on these observations,
+we hypothesize that hypoxia induces KDM3A that regulates
+self-renewability of CSC/TIC, thereby promoting tumor
+initiation.Experimental Procedure: We have used RNA technology to silence
+KDM3A in different pancreatic cancer cells and overexpressed KDM3A in
+non-cancerous immortal pancreatic ductal epithelial cells (HPNE). We have
+determined KDM3A expression in pancreatic cancer patient's samples. We
+performed quantitative chromatin immunoprecipitation (ChIP) analysis as
+an indicator of KDM3A recruitment.Results: KDM3A was overexpressed in
+human pancreatic cancer patient tissue samples particularly in the area
+of the pancreatic ducts and also in pancreatic cancer cells. Knockdown of
+KDM3A in pancreatic cancer cells significantly reduced the enzyme
+activity resulting in increased substrate (H3K9Me2) expression. KDM3A
+knockdown cells decreased oncogenic potential as demonstrated by
+inhibition of proliferation, clonogenicity, sphere-forming potential,
+migration and tumor formation in orthotopic mouse model
+(immunocompromised mice). KDM3A overexpressed transformed HPNE cells
+increased oncogenic potential as evidenced by foci formation, pancosphere
+formation and tumor formation in orthotopic mouse model. ChIP following
+deep sequencing analysis suggested that KDM3A recruited one of the CSC
+stem cell markers, DCLK1. N-oxaloglycine, -kg inhibitor, inhibited KDM3A
+enzyme activity and spheroid formation in overexpressing HPNE cells and
+in pancreatic cancer cells.Conclusions: KDM3A was overexpressed in PDAC.
+ChIP-seq analysis revealed that KDM3A recruitment was higher when DCLK1
+is expressed. Taken together, KDM3A appears to be responsible, at least
+in part, for PDAC progression and could be a novel preventive or
+therapeutic target in pancreatic cancer.
+

@@ -1,0 +1,34 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Integrative molecular profiling in serous epithelial ovarian
+cancer for identification of biomarkers of chemoresistance
+
+
+Ovarian cancer is the fifth leading cause of death due to gynecological
+cancers in women in the western world. Development of primary resistance
+to carboplatin and paclitaxel poses a major challenge in the management
+of serous epithelial ovarian cancer. To identify the molecular mechanisms
+underlying the development of instrinsic resistance upon exposure to
+standard first-line therapy for ovarian cancer, we used microarrays to
+profile the 1) copy number alteration and SNP, 2) mRNA, 3) miRNA and 4)
+methylation signatures in a cohort comprising 11 chemoresistant and 14
+chemosensitive tumour samples. Copy number analysis showed significant
+copy number alterations in the chemoresistant group (gains on chromosomal
+regions, 4q, 6q, 8p, 8q, 19q, 7q and 22q; losses on 8p and 10q) compared
+to the sensitive group. Gene expression data analysis using
+R/bioconductor revealed a set of 248 discriminating genes in the two
+cohorts. Pathway analysis of these genes using Ingenuity Pathway Analysis
+revealed enrichment in genes primarily involved in epithelial to
+mesenchymal transition and PI3 Kinase pathway. Additionally, genes
+related to the pro-inflammatory cytokine pathways, as well as drug
+transport demonstrated significant differential expression between the
+two groups. Ongoing concurrent comparative analyses of miRNA profiles
+within this cohort have also identified several differentially expressed
+transcripts including mir-34b, mir-155, mir-214, mir-200c and mir-143.
+Some of these miRNAs have been earlier reported to be associated with
+tumour progression. Further integrated analysis will elucidate the
+synergistic roles that the genetic and epigenetic alterations in the
+deregulation of these and other pathways involved in primary
+chemoresistance. Our research findings will yield diagnostic and
+prognostic biomarkers that will lead to development of specific treatment
+regimens for the improved control of serous epithelial ovarian cancer.
+

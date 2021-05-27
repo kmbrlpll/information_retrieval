@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Establishment and initial characterization of human hepatocellular
+carcinoma organoid culture
+
+
+Background:Hepatocellular carcinoma (HCC) is the 3rd most leading cause
+of cancer death in the world. Despite extensive research, HCC has a
+strikingly bad prognosis due to the limited therapeutic options: Other
+than surgical resection, there is no curative treatment. No cytotoxic
+agent has shown efficacy so far, and the only currently approved systemic
+agent, sorafenib, is only used in a palliative context.This dilemma is
+due to the therapy-resistant biology as well as its variable pathogenesis
+and biological diversity, which requires excellent preclinical models to
+allow differential and innovative studies.Innovative 3D culture methods
+such as organoid culture have been increasingly implemented in routine in
+vitro research for many tumor entities. However, due to its distinct
+biology, organoid culture of HCC has been a challenge. We here describe
+the initial establishment and characterization of HCC organoid
+culture.Materials/Methods:Surgical HCC tissue specimens were obtained in
+the operating rooms of the University Hospital Dresden; biopsy specimens
+were obtained via CT-/ultrasound-guided biopsy of HCC lesions. All
+samples were processed according to a novel protocol and cultured in
+Matrigel supplemented with a highly specialized culture medium. Organoids
+were propagated, passaged and frozen at regular intervals. Proliferation
+was measured using a modified WST proliferation assay protocol.
+Next-generation sequencing (NGS) was performed on corresponding triplets
+of healthy tissue, tumor tissue and organoid samples using the TruSight
+One Sequencing Panel (Illumina) on an Illumina MiSeq Sequencer. Histology
+was performed on formalin-fixed and paraffin-embedded organoids using
+standard protocols.Results:We were able to establish a method to culture
+HCC samples as organoids in vitro. Proliferation assays revealed distinct
+differences in organoid growth of HCCs from different patients and
+correlated well with both clinical behavior and histological grading of
+the tumors. Amplicon sequencing (targeting 4,813 cancer-associated genes)
+of corresponding sets of tumor specimens and HCC organoids demonstrated
+the HCC origin of the organoids and their genetic and genomic stability
+in culture. Treatment of HCC organoids with sorafenib showed the expected
+reduction in proliferation and viability. Interestingly, treatment of the
+HCC organoids with hepatocyte growth factor (HGF) resulted in a marked
+reduction in proliferation as opposed to healthy liver organoids, which
+had increased proliferation activity upon stimulation with HGF. Histology
+of the HCC organoids showed distinct features of HCC and corresponded
+well with the corresponding HCC tissue samples.Conclusion:We successfully
+established a protocol reliably allowing 3D organoid culture of HCC. The
+organoids faithfully recapitulate the biology of the corresponding tumor
+and can be used for multiple purposes including in vitro therapeutic
+testing.
+

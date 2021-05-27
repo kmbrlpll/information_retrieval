@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: A single ddPCR assay to detect KIT exon 11 mutations in tumor and
+cell free plasma DNA of patients with gastrointestinal stromal tumors
+
+
+.IntroductionGastrointestinal stromal tumors (GIST) are rare mesenchymal
+tumors of the gastrointestinal tract. These tumors are characterized by
+genomic mutations in the c-KIT gene that drive tumor growth and are
+target for specific inhibitors. Mutations in exon 11 (single nucleotide
+variations and deletions) are detected in approximately 70% of GIST.
+Although unique for each patient, most variations cluster in two
+different mutational hotspots each 25bp in size.The aim of this study was
+to develop and test a single quantitative digital droplet PCR (ddPCR)
+assay to detect exon 11 c-KIT mutations in both formalin fixed paraffin
+embedded (FFPE) tissue and serial collected cell-free plasma DNA (cfDNA)
+of GIST patients for diagnostic and treatment response
+monitoring.Materials and methodsThe drop-off ddPCR assay for detection of
+exon 11 mutations consists of two fluorescent (FAM and HEX) labeled
+probes that each cover one of the 2 mutation hotspots. Since double exon
+11 mutations are very rare in GIST, one probe will anneal to the
+non-mutated sequence (reference probe), while the other probe will not
+anneal. A decrease of one of the 2 fluorescent signals is considered as
+the presence of a mutation (drop-off). For validation, ddPCR results from
+tumor biopsies were compared with data from next generation sequencing
+(NGS) using the IonTorrent platform. Pretreatment FFPE tumor material was
+obtained from 29 (18 exon 11 mutated, 11 non-exon 11 mutated) GIST
+patients treated in 2014 and 2015. Plasma samples were collected at
+baseline (before start of treatment with imatinib) and at consecutive
+time points during treatment.ResultsUsing the drop-off ddPCR assay on the
+same DNA used for NGS, mutations in 17 of the 18 samples were detected.
+Comparison of the allelic fraction of the mutation shows that ddPCR
+analysis is very similar to NGS. In 11 control samples, who were
+wild-type (4 samples) or had mutations other than c-KIT exon 11 (7
+samples) no loss of signal was detected.CfDNA was analyzed of a 72-year
+old representative patient with metastatic GIST carrying a c-KIT deletion
+in exon 11 with a fractional abundance (FA) in tissue of 91%. We detected
+the mutation using the drop-off ddPCR assay in the plasma sample
+collected before start of imatinib treatment (FA 16%).Two weeks after
+initiation of imatinib a rise in mutant allelic frequency was observed
+(FA 61%) and a decrease after 4 weeks (FA 3%) of therapy.ConclusionThe
+detection of multiple exon 11 mutations/deletions using a single ddPCR
+assay could be used as a rapid prescreening method for the detection of
+c-KIT mutations in FFPE tissue in GIST patients. Because of the
+quantitative nature of this assay, ddPCR analysis might be used to
+monitor response to treatment. The relevance of this drop-off assay for
+treatment decision making seems promising and is currently validated on a
+large series of cfDNA samples and a prospective study in GIST patients
+(NCT02331914).
+

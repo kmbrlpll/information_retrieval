@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: TBK1 regulates mitotic progression by modulating spindle assembly
+checkpoint in cancer cells.
+
+
+TANK Binding Kinase 1 (TBK1) is a non-canonical IkB kinase that
+contributes to KRAS-driven lung cancer. It is activated by
+phosphorylation of Serine-172 by TLR and RIG1 signaling, and this circuit
+triggers phosphorylation of IRF3 and IRF7, activation of NFκB and the
+expression of proinflammatory genes and interferons. In addition to its
+role role in regulating innate immunity, TBK1 also promotes oncogenesis
+by phosphorylating Akt and enhancing cell survival and by promoting
+autophagy and mitophagy. TBK1 is also induced under hypoxic conditions
+and expressed at significant levels in many solid tumors. TBK1 also
+contributes to prostate cancer dormancy and drug resistance by inhibiting
+mTOR and to tamoxifen resistance of breast cancer cells by enhancing
+transcriptional activity of ERα.
+
+Recent studies from our lab revealed a novel role for TBK1 in regulating
+mitosis. It was found that levels of phospho-TBK1 increases and localizes
+to centrosomes and the mitotic spindles during mitosis. Depletion of TBK1
+was shown to trigger defects in spindle apparatus and prevents mitotic
+progression (Pillai et al., Nature Communications, 2015). TBK1 physically
+interacts and phosphorylates centrosomal protein CEP170 and mitotic
+apparatus protein NuMA. At the same time, it is not clear whether TBK1
+regulates mitosis my modulating the Spindle Assembly Checkpoint (SAC).
+
+Our results show that TBK1 colocalizes with Cdc20 on the centrosomes.
+Additionally, TBK1-inhibited cells showed an increase in the
+colocalization of BUBR1 and Cdc20, with enhanced recruitment of BUBR1 to
+kinetochores. To further study how TBK1 affects SAC, lung and breast
+cancer cells were depleted of TBK1 by CRISPR/Cas9 mediated genome
+editing. Cells depleted of TBK1 showed very few cells in the mitotic
+stage; those that entered mitosis had residual levels of TBK1 and showed
+multipolarity and unusually stable and bundled microtubules. TBK1
+knockout cells not only showed aberrant mitotic structures and had
+elevated levels of SAC components including BUBR1 and Cdc20.
+Surprisingly, level of mitotic Cyclin B1 remained unchanged in spite of
+elevated levels of Cdc20 indicating a possible inactivation of Anaphase
+Promoting complex (APC/C). Also, percentage of Cyclin B1 positive cells
+was significantly high in mitotic cells enriched using double thymidine
+block in the presence of TBK1 inhibitor BX795 (R9+BX) and MRT67307
+(R9+MRT) as compared to untreated mitotic cells (R9). Further, double
+thymidine blocked released cells displayed elevated levels of SAC
+components upon treatment with TBK1 inhibitors. All these findings
+suggest that TBK1 facilitates mitotic progression through satisfying SAC.
+
+

@@ -1,0 +1,44 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Proteomic profiling of PTEN-deletion mouse prostate and its
+molecular pharmacodynamic responses to methylseleninic acid .
+
+
+Recent genomic and exome sequencing analyses revealed that loss of one
+allele of tumor suppressor gene Pten (phosphatase and tensin homolog
+deleted on chromosome 10) occurs frequently in primary prostate tumors,
+and homozygous deletion of Pten plays a casual role in advanced prostate
+cancer. Therefore, the prostate-specific PTEN-deletion driven prostate
+cancer mouse model resembles many features of human prostate cancer
+including disease progression to metastasis. Due to its high clinical
+relevance, this model is gaining wider utility for prostate cancer
+chemoprevention and therapeutic studies. Very recently, our collaborative
+team found that oral administration of methylseleninic acid (MSeA), a
+second-generation selenium compound, significantly inhibited PTEN-loss
+driven prostate tumorigenesis in vivo. In particular, the efficacy was
+associated with a super-activation of p53-p21 senescence pathway
+(PTEN-loss induced cellular senescence, PICS). To gain insights into
+additional molecular targets, we profiled the prostate proteome of
+PTEN-deletion mice. Whole prostates from PTEN-deletion mice (12-15 weeks
+of age) and their wild type littermate were obtained from the NCI Mouse
+Model Repository. Homogenate from 4 prostate pairs (Pten/ and wild type)
+was prepared and digested individually and the peptides were labeled with
+8-plex iTRAQTM reagents. Labeled peptides were pooled and analyzed by
+2D-LC-MS/MS (LTQ Orbitrap Velos, Thermo Scientific). Out of 949 proteins
+identified, we further analyzed 152, the expressions of which were
+significantly and concordantly changed in all four pairs of mice. Among
+them, we detected enrichment of proteins related to cellular senescence
+(chitinase-3 like protein3 [CH3L3], cathelin-related antimicrobial
+peptide [Camp]), p53 (S100-A8, sorbitol dehydrogenase [DHSO]) and
+molecular targets involved in AKT signaling pathway (lipocalin 2, CH3L3),
+in line with the well-described AKT driven p53-mediated senescence in
+Pten-deficient prostate cancer mouse model. We also found decreased
+protein expression of GRP78 (78 kDa glucose-regulated protein),
+endoplasmin, probasin and TGM4 (transglutaminase4), same as we reported
+in the TRAMP model. Some of these protein changes (over or under) were
+predicated by published changes of their mRNA levels in prostates
+(probasin, TGM4, etc) and/or protein levels in sera (probasin,
+endoplasmin, GRP78, etc). Moreover, the congruence on some proteins
+(DHSO, S100-A8, etc) between the mouse model and clinical specimens (e.g.
+by C. Sawyers) highlights the clinical relevance of the model. The
+proteomic changes induced by MSeA are being investigated.
+

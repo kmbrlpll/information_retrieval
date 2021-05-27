@@ -1,0 +1,38 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Exploring cancer datasets in the integrative genomics viewer (IGV)
+
+
+Cancer genome characterization studies, such as The Cancer Genome Atlas
+(TCGA) and the International Cancer Genome Consortium (ICGC), are
+producing a flood of diverse data including whole-genome sequencing
+scans, expression profiles, high-resolution SNP and copy number data, and
+epigenetic profiles. These diverse datasets are enabling researchers to
+study the cancer genome in unprecedented detail. However, their sheer
+size and diversity presents significant challenges to downstream
+interpretation. While much progress has been made in automated analysis,
+human review enabled by intuitive and responsive visualizations remains
+an essential component of data analysis. The Integrative Genomics Viewer
+(IGV) was developed to address this need by providing researchers with an
+intuitive, user-friendly, interactive visualization tool for exploration
+of diverse genomic datasets. IGV has extensive support for both
+next-generation and micro-array based platforms, and for integration of
+these data types with clinical and phenotypic data. It provides an
+intuitive interface similar to online mapping tools such as Google Maps,
+enabling smooth zooming and panning at all resolution scales, from whole
+genome to base pairs. Data can be annotated, filtered, grouped, and
+sorted in a variety of ways. This ability to dynamically and flexibly
+integrate multiple different datasets, and view them at any scale, allows
+investigators to elucidate complex biological relationships that are not
+otherwise readily apparent. In this presentation we describe the IGV,
+with emphasis on recent features focused on data integration and
+interpretation, developed in close collaboration with cancer researchers.
+Specifically (1) a multi-locus pathway view which supports simultaneous
+viewing of data in multiple genomic regions defined by pathways or gene
+sets, (2) integration with external tools such as Mutation Assessor and
+PolyPhen, to provide views and data to asses the functional significance
+of somatic events, and (3) a flexible, interactive charting capability to
+enable detailed exploration of inter-dependencies between data types at a
+specific locus or set of loci. These features will be illustrated in the
+context of use cases drawn from the TCGA glioblastoma multiforme and
+ovarian datasets.
+

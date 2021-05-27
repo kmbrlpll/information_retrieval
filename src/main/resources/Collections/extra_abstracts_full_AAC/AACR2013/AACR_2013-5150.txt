@@ -1,0 +1,31 @@
+Meeting: 2013 AACR Annual Meeting
+Title: What is in control of DNA replication timing.
+
+
+The initiation of DNA replication at specific sites in the genome is
+known to be far from perfect, where known initiation sites may or may not
+fire in a given single cell during specific cell cycle. At the same time,
+from larger scale perspective, one finds that the timing of DNA
+replication is highly orchestrated, where specific regions in the genome
+are copied at specific, reproducible time points throughout S-phase. In
+an attempt to reconcile these two somewhat discordant observations, many
+researchers have assumed that a yet unknown, active regulatory mechanism
+in the cell is responsible for coordinating replication timing.Here we
+present a mechanistic explanation for genome-wide replication timing
+patterns. Our model is purely stochastic, does not contain any active
+control components and reproduces existing replication timing data with
+extreme fidelity (correlation > 0.9, about the same as the correlation
+between technical replicates of the experiment). The main findings of our
+work areExistence of reproducible genome-wide replication patterns do not
+logically necessitate existence of a complex, active control system in
+the cellIntegrative analysis of recently released ENCODE data identifies
+semi-local chromatin structure as the main determinant of replication
+timingPlasticity of replication timing across different cell types are a
+direct consequence of changes in the chromatin structure between the
+different cell differentiation statesReplication timing is a systems
+phenomenon emerging from the collective action of many uncoordinated,
+stochastic replication initiation sites. Replication timing cannot be
+understood by investigating individual initiation sites: deleting up to
+30% of high probability initiation sites does not significantly change
+replication timing
+

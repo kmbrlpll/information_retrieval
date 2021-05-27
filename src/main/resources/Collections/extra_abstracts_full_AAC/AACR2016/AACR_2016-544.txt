@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Protein phosphatase 1 regulatory subunit 1A (PPP1R1A) promotes
+tumor growth and metastasis via inhibition of protein phosphatase 1 in
+Ewing sarcoma
+
+
+Ewing sarcoma is a malignant pediatric bone and soft tissue tumor.
+Children with metastatic Ewing sarcoma have a cure rate of less than 30%
+(De loris MA et al, 2013). The major hurdle of curing Ewing sarcoma is
+the lack of specific and druggable targets. EWS/FLI is the master
+regulator of Ewing sarcoma and functions as an aberrant transcription
+factor to deregulate downstream targets which eventually leads to cancer
+phenotypes. By comparing genes deregulated by EWS/FLI in RNA-sequencing
+analyses across multiple model systems, we identified protein phosphatase
+1 regulatory subunit 1A (PPP1R1A), a potent protein phosphatase 1 (PP1)
+inhibitor, as one of the core targets of EWS/FLI (Niedan S et al, 2014;
+Sankar S et al, 2013; Tirode F et al, 2007). Public data mining and
+western blotting analysis has demonstrated that PPP1R1A is highly
+expressed at both RNA and protein levels in Ewing sarcoma, but not the
+putative cell of origin, mesenchymal stem cells, or other sarcomas.
+Quantitative reverse transcription polymerase chain reaction (qRT-PCR)
+analysis showed that PPP1R1A is up-regulated by EWS/FLI. Further data
+mining with published chromatin immunoprecipitation (ChIP)-Seq,
+Encyclopedia of DNA Elements (ENCODE), and formaldehyde-assisted
+isolation of regulatory elements (FAIRE) data suggested, and subsequent
+luciferase reporter assay validated, that PPP1R1A is directly targeted by
+EWS/FLI via a GGAA microsatellite enhancer element. We next studied the
+role of PPP1R1A in Ewing sarcoma by functional assays in vitro and in
+vivo. Intriguingly, depletion of PPP1R1A caused a loss of oncogenic
+transformation of patient-derived Ewing sarcoma cells in soft agar, and
+limited xenograft tumor growth in NOD-SCID mice (p = 0.0001).
+Furthermore, reduction of PPP1R1A resulted in decreased cell migration in
+wound healing and Boyden chamber assays, and limited lung metastasis in
+an orthotopic mouse model. Further studies demonstrated that activation
+and phosphorylation at Thr35 of PPP1R1A by protein kinase A (PKA), is
+required for PPP1R1A to promote tumorigenesis and metastasis, as
+evidenced by rescuing of PPP1R1A-knockdown induced phenotypes by
+constitutively active (T35D) but not wild-type PPP1R1A. Consistently, we
+found that Ewing sarcoma but not HEK293 cells were sensitive to the
+treatment of PKA inhibitors (H89 and PKI 5-24). Finally, we found that
+further mutating of the PP1 binding site (R8A/K9A) in T35D PPP1R1A
+rendered this constitutively active mutant unable to rescue the knockdown
+phenotype, indicating that PP1 binding and inhibition by activated
+PPP1R1A is indispensable for PPP1R1A function. Collectively, our data
+suggest that PPP1R1A and related pathway plays a positive role in
+tumorigenesis and metastasis in Ewing sarcoma. Therefore, targeting
+PKA/PPP1R1A/PP1 pathway has potential therapeutic value in the treatment
+of both primary and metastatic Ewing sarcoma.
+

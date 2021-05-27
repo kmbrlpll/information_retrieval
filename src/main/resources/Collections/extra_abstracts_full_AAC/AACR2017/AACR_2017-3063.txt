@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Predicting efficacy of c-Met targeting therapy in autocrine and
+paracrine tumor cell lines.
+
+
+Tumor cells frequently harbor abnormalities in signaling pathways,
+leading to increased migration, invasion, survival, angiogenesis, and
+proliferation. C-Met is one such commonly aberrant pathway. Because of
+its effects on tumor cells, c-Met has been a target of interest for
+anti-metastatic therapies. Clinical trials of c-Met inhibition select
+patients based on total Met expression, or amplification of the Met gene.
+However, c-Met inhibitors target the activated pathway. We therefore
+predict that phospho-Met will be a better marker for patient sensitivity
+to, and hence selection for, c-Met inhibitor trials. C-Met is activated
+by the endogenous ligand Hepatocyte Growth Factor (HGF). In order to
+mimic the paracrine signaling during in vitro experiments, many studies
+add exogenous HGF at concentrations of 25-50 ng/mL. However, these
+concentrations may not be representative of in vivo conditions. HGF serum
+levels of healthy humans is 0.4 ng/mL. While HGF levels do rise in cancer
+patients, it is unusual to see serum levels higher than 1 ng/mL.
+Conditioned media from several cell lines (MDA-MB-231, PC-3, DU145,
+LNCaP, OS156, OS521, U87, U118, RKO, KHT, SCC7, and RIF) was collected to
+analyze for secretion of HGF in conditioned media. These cells were then
+examined for basal phosphorylation of Met. The cell lines that secreted
+HGF also had higher levels of phospho-Met in comparison to
+non-HGF-secreting cell lines. Importantly, levels of total Met did not
+predict for levels of phospho-Met. In migration and invasion assays, the
+HGF-secreting cell line KHT was found to be sensitive to the c-Met
+inhibitor BMS-777607.The non-HGF-secreting cell line DU145 only became
+sensitive to the inhibitor when high, non-physiologic exogenous levels of
+HGF (25-50 ng/mL) were added.These results suggest that autocrine
+activation of the c-Met pathway may be a factor in predicting sensitivity
+to c-Met inhibition. This may indicate the existence of a subset of
+patients most likely respond to c-Met inhibition therapy. Furthermore,
+consideration of exogenous HGF concentration should be considered when
+conducting preclinical trials of c-Met inhibitors, as addition of
+exogenous HGF may change the apparent efficacy of the inhibitor.
+
+

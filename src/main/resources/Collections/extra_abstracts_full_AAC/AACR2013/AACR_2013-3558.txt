@@ -1,0 +1,49 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Single cell-based image analysis of nuclear receptor levels and
+activity in breast cancer cells reveals heterogeneous subpopulations:
+Development of biological response fingerprints for ligands and endocrine
+disruptors.
+
+
+Modern microscopy- and flow cytometry-based analyses indicate tumor cell
+populations can be markedly heterogeneous. Yet, the vast majority of
+approaches used to investigate tumorigenic mechanisms and therapeutic
+responses are based upon average single-point analysis of bulk
+populations of cells, where subpopulation responses are undetectable and
+therefore unexplored. For example, breast cancers are generally
+classified by IHC as either estrogen receptor-alpha positive (ER+) or
+negative (ER-); however, in ER+ tumors, there is a broad range of ER
+levels in individual cells. Despite a growing awareness of the importance
+of tumor cell heterogeneity and outlier biology in cancer therapeutics,
+there is a paucity of data on the potential interplay between multiple
+nuclear receptors and coregulators, their heterogeneity of expression and
+functions, and their combinatorial role in determining therapeutic
+response, or in sensing environmental stressors (e.g., endocrine
+disruptors).To specifically quantify biological responses on an
+individual cell basis rather than averaged responses from bulk
+populations, we performed single cell-based high content analysis (HCA)
+to examine MCF-7 breast cancer cells in terms of simultaneous expression
+of several type-1 nuclear receptors (e.g., Estrogen, Androgen and
+Glucocorticoid receptors - ER, AR and GR) and coregulators (e.g., SRC-2
+and SRC-3). Quantitative immunofluorescence reveals a wide range of
+heterogeneity in the expression and ratios of ER, AR, and GR.
+Multi-parametric analyses describing NR expression and spatial
+distribution were used to evaluate ligand dose responses and time pattern
+of the three nuclear receptors, simultaneously. Next, we are expanding
+our analysis to endogenous target gene expression via mRNA fluorescence
+in situ hybridization (RNA FISH) and to cell cycle marker analysis to
+link heterogeneity of NRs/coregulators expression with transcriptional
+output and cell cycle phases. We are also implementing robust analysis
+pipelines to describe and quantify NRs and coregulators patterns of
+phenotypic heterogeneity to create biological response fingerprints,
+which we are using to classify the effects of individual or mixed ligand
+treatments with particular focus on chemotherapeutic drugs and endocrine
+disruptors. We are also starting to expand our HCA approach to other
+breast cancer cell lines moving towards primary tumors microarrays
+analysis to evaluate the prognostic/diagnostic significance of NR
+heterogeneity. Collectively, these high throughput-amenable approaches
+are poised to greatly aid in the understanding the role of heterogeneity
+in breast cancer, and serve as a robust model for next-generation drug
+screening and endocrine disruptor assays moving toward personalized
+medicine.
+

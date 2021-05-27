@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Proteogenomic analysis of alternative splicing in colorectal
+adenoma-to-carcinoma progression.
+
+
+Background
+
+Early diagnosis of colorectal cancer (CRC) and identification of its
+precursor lesions (adenomas) is crucial in reducing CRC mortality rates.
+The fecal immunochemical test (FIT) is a non-invasive CRC screening test
+that detects human protein hemoglobin. Although FIT is beneficial in its
+current form with a sensitivity of ~65% for detection of CRC and ~27% for
+adenomas, its performance is still suboptimal and needs to be further
+improved. Adenoma-to-carcinoma progression is accompanied by alternative
+splicing, which results in expression of tumor-specific protein variants.
+These may yield novel biomarkers suitable for improving detection of
+progressive adenomas and CRCs.
+
+Aim
+
+We aim to identify novel biomarkers to improve early detection of CRC.
+
+Materials and methods
+
+RNA was isolated from 3D organoid cultures derived from 5 adenomas and 4
+CRC tissues. RNA and proteins were isolated from 18 healthy human colon
+tissues, 30 adenomas and 30 CRCs. Samples were analyzed by RNA sequencing
+(Illumina) and in-depth tandem mass spectrometry proteomics (QExactive).
+For both organoid- and tissue-datasets differential splicing analysis was
+performed on RNA level to enrich the sequence database, against which
+mass spectra were searched, with predicted protein isoforms.
+
+Results
+
+Comparative splicing analysis between CRC and adenoma organoids revealed
+~90 differentially spliced genes, yielding candidate biomarkers from
+epithelial origin. In the tissues, differential splicing analysis between
+CRCs and controls and between CRCs and adenomas identified over 1000 of
+splice variants. These include known alternatively spliced genes involved
+in cancer such as CD44 and VEGFA and a number of candidates overlapping
+with the isoforms derived from the organoids. Proteomics analysis
+revealed that approximately 150 of the splice variants were expressed on
+protein level.
+
+Conclusion and Discussion
+
+We have confirmed that adenoma-to-carcinoma progression is accompanied by
+aberrant splicing. Analysis of the organoid cultures allowed us to
+identify gene isoforms from (neoplastic) epithelial origin. Tissue
+analysis yielded tumor-specific splice variants that represent novel
+protein candidate biomarkers for early detection of CRC. The diagnostic
+performance of these splice variant proteins will be validated in series
+of stool and FIT samples.
+
+

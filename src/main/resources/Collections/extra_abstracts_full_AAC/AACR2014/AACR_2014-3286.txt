@@ -1,0 +1,34 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identification of genetic loci associated with ovarian cancer
+prognosis
+
+
+Primary and acquired chemotherapy resistance remains a major challenge in
+the treatment of ovarian cancer. We hypothesize that heritable
+polymorphisms might be associated with clinical outcome. Through the
+Ovarian Cancer Association Consortium, we have collected detailed
+clinical data from a large number of ovarian cancer patients. We have
+conducted association analyses of progression-free survival (PFS) and
+overall survival (OS) for 2,901 European women with ovarian carcinoma for
+8 million imputed SNPs with minor allele frequency 0.02 and good
+imputation quality (imputation r2 0.3) from the iCOGS experiment (Pharoah
+et al Nat Genet. 2013). Cox regression models adjusted for known
+prognostic factors were used to assess the log-additive effects of SNPs
+on PFS and OS in 2,825 patients who underwent cytoreductive surgery and
+received any chemotherapy (all chemo) and in the subset of 1,098 patients
+who underwent cytoreductive surgery followed by 4 cycles of carboplatin
+AUC 5 or 6 and paclitaxel 175 or 135 mg/m2 intravenously (standard
+chemo). We identified five SNPs at four loci that were significantly
+associated with outcome (p 10-7) in at least one of four analyses
+(Table). Analysis of expression data for genes within a 1Mb region
+flanking each lead SNP indicates significant associations between nearby
+genes and ovarian cancer survival. Of particular interest is the heat
+shock protein crystalline B (CRYAB) at 11q23.1. We have also identified
+significant associations with KIAA1598 and RAVER2. Further analysis of
+these loci in a larger genotyped sample is necessary to definitively
+identify SNP(s) associated with outcome. Our study adds to the growing
+evidence that genetic variants are associated with ovarian cancer
+prognosis.Table: SNPs associated with ovarian cancer outcome and gene
+expression
+
+

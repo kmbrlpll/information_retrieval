@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Familial lung cancer is significantly linked to cancer-associated
+genes on five chromosomes.
+
+
+Lung cancer (LC) is the leading cancer killer of Americans; an estimated
+158,000 people will die in the U.S. from LC in 2016. While it is
+well-known that LC risk is affected by the environment, particularly
+tobacco smoking, there is a substantial genetic risk to LC also. We
+examined genotype data from Illumina HumanCore-12v1-0 array (297,000
+SNPs) on 175 individuals in 25 extended families with a strong history of
+LC recruited by the Genetic Epidemiology of Lung Cancer Consortium. The
+purpose of this study is to determine which families are segregating a
+high-penetrance genetic risk haplotype so that the most informative
+families can be selected for DNA sequencing studies. Quality control was
+performed to remove SNPs and individuals with greater than 1% missingness
+as well as monomorphic SNPs. SNPs with Mendelian errors in more than one
+family were dropped. Identity-by-descent values were calculated to
+confirm correct familial relationships; 1 individual was dropped. After
+quality control we were left with approximately 245,000 SNPs for
+analysis. We performed three types of parametric linkage analyses using
+an autosomal dominant model with 40% penetrance in carriers and 1%
+penetrance in non-carriers. A disease allele frequency of 0.01 was used.
+Standard single variant two-point analysis between the disease and each
+marker was performed using TwoPointLods. Multipoint linkage analysis was
+performed using SimWalk2. We also performed regional-based linkage
+analyses using SEQLinkage and MERLIN. SEQLinkage builds a multiallelic
+regional marker (similar to a microsatellite) that corresponds to a gene
+or a portion of a gene. Two-point linkage analyses were then performed on
+the regional markers using MERLIN. We identified five loci that were
+genome-wide significant (HLOD score ≥ 3.3) from the regional-based
+linkage analyses on 18p11.23 (HLOD = 4.1), 2p22.2 (3.9), 14q13.1 (3.7),
+16p13.1 (3.4), and 20q13.11 (3.4). It is particularly exciting that the
+scores centered on prospective cancer genes. Our highest score was
+centered on PTPRM, a protein tyrosine phosphatase on chromosome 18 that
+has been implicated as a LC oncogene. The signal on 20q13 also centered
+on another protein tyrosine phosphatase (PTPRT) that has been shown to be
+mutated in LC cells. The source of the signal on 16p13 was RNA binding
+protein RBFOX1, which has been shown to be deleted in LC cell lines and
+the source of the signal on 2p22 was LRP1B, a LDL receptor-related
+protein that is often inactivated in LC cells. The source of the final
+signal on 14q13 was NPAS3, a transcription factor that is a tumor
+suppressor in brain tumors. It should be noted that all previous evidence
+linking these genes to cancer was based on somatic mutations; this is the
+first time any of these genes has been shown to be significantly linked
+to germline disease risk in a family-based study. We plan to perform
+targeted sequencing on the linked regions to elucidate the exact causal
+variant.
+
+

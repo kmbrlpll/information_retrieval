@@ -1,0 +1,73 @@
+Meeting: 2015 AACR Annual Meeting
+Title: MiRNA profiling in esophageal precancerous for malignancy
+progression risk assessment
+
+
+Background: Barrett's esophagus (BE) is a metaplastic disease with risk
+to develop esophageal adenocarcinoma (EAC). Current screening method for
+BE patients (endoscopy and biopsy) is discomfort, expensive and
+relatively risky for patients. Moreover, the procedure is complicated by
+subjective histopathology examination and only 2% of BE patients annually
+progress to adenocarcinoma. The aim of our study was to identify miRNA
+profiles in order to predict cancer progression in high-risk BE
+patients.Methods and patients: FFPE samples were obtained from 113
+patients (35 EAC, 21 low-grade dysplasia of esophagus, 33 BE and 24
+healthy control). There were 74 males and 39 females; mean age was 55.9
+years, range 15 - 94 years. Total RNA was purified from FFPE biopsy
+samples using proteinase K treatment followed by RNeasy kit (Qiagen).
+Microarray analysis was performed using the GeneChip miRNA 3.0 Array
+(Affymetrix). The data were analyzed using R software and the
+Bioconductor package.Results: In total, 113 GeneChip miRNA 3.0 Arrays
+were performed in 113 patients. Expression profiles of 1733 human miRNAs
+were analyzed. In supervised clustering analysis we found 8
+differentially expressed miRNAs (pBackground: Barrett's esophagus (BE) is
+a metaplastic disease with risk to develop esophageal adenocarcinoma
+(EAC). Current screening method for BE patients (endoscopy and biopsy) is
+discomfort, expensive and relatively risky for patients. Moreover, the
+procedure is complicated by subjective histopathology examination and
+only 2% of BE patients annually progress to adenocarcinoma. The aim of
+our study was to identify miRNA profiles in order to predict cancer
+progression in high-risk BE patients.Methods and patients: FFPE samples
+were obtained from 113 patients (35 EAC, 21 low-grade dysplasia of
+esophagus, 33 BE and 24 healthy control). There were 74 males and 39
+females; mean age was 55.9 years, range 15 - 94 years. Total RNA was
+purified from FFPE biopsy samples using proteinase K treatment followed
+by RNeasy kit (Qiagen). Microarray analysis was performed using the
+GeneChip miRNA 3.0 Array (Affymetrix). The data were analyzed using R
+software and the Bioconductor package.Results: In total, 113 GeneChip
+miRNA 3.0 Arrays were performed in 113 patients. Expression profiles of
+1733 human miRNAs were analyzed. In supervised clustering analysis we
+found 8 differentially expressed miRNAs (p<0.001 or logFC 2) in BE
+patients compared to EAC patients and 10 differentially expressed miRNAs
+(pBackground: Barrett's esophagus (BE) is a metaplastic disease with risk
+to develop esophageal adenocarcinoma (EAC). Current screening method for
+BE patients (endoscopy and biopsy) is discomfort, expensive and
+relatively risky for patients. Moreover, the procedure is complicated by
+subjective histopathology examination and only 2% of BE patients annually
+progress to adenocarcinoma. The aim of our study was to identify miRNA
+profiles in order to predict cancer progression in high-risk BE
+patients.Methods and patients: FFPE samples were obtained from 113
+patients (35 EAC, 21 low-grade dysplasia of esophagus, 33 BE and 24
+healthy control). There were 74 males and 39 females; mean age was 55.9
+years, range 15 - 94 years. Total RNA was purified from FFPE biopsy
+samples using proteinase K treatment followed by RNeasy kit (Qiagen).
+Microarray analysis was performed using the GeneChip miRNA 3.0 Array
+(Affymetrix). The data were analyzed using R software and the
+Bioconductor package.Results: In total, 113 GeneChip miRNA 3.0 Arrays
+were performed in 113 patients. Expression profiles of 1733 human miRNAs
+were analyzed. In supervised clustering analysis we found 8
+differentially expressed miRNAs (p<0.001 or logFC 2) in BE patients
+compared to EAC patients and 10 differentially expressed miRNAs (p<0.001
+or logFC 2) in LGD patients compared to EAC patients. One of the dominant
+findings was decreased expression of miR-223 in EAC and LGD samples,
+which is known to function as a tumor suppressor blocking E2F1. Using
+LOOCV classifier with 13 miRNAs signature we were able to correctly
+classify 86 from 113 samples (AUC = 0.840). Prediction model fails mostly
+in LGD prediction (18/21), probably due to incorrect pathological
+classification.Conclusion: We have identified miRNA profiles and
+signature allowing for better diagnostics of cancer progression in BE and
+LGD patients, which, however, will require further
+validation.Acknowledgment: This work was financially supported by IGA UP
+LF 2014_019, NPU LO1304, CZ.1.05/2.1.00/01.0030 and
+CZ.1.07/2.3.00/30.0004.
+

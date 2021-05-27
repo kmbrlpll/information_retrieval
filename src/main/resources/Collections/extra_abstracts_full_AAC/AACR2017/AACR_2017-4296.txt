@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A real-time annexin V method for monitoring programmed cell death.
+
+
+Efficacious and durable anti-cancer responses are driven by both the
+selective death of malignant cells and the induction of immunostimulatory
+activities. Limited but promising clinical evidence suggests that
+provocation of an unknown balance of inflammatory- and non-inflammatory
+cell death may be key for orchestrating these positive outcomes.
+Therefore, identifying and characterizing new clinically useful small
+molecules and biologic inducers (or combinations thereof) which promote a
+spectrum of programmed cell death in in vitro screening environments
+remains critically important. Unfortunately, current screening methods
+are either insufficiently robust, cost- or resource-prohibitive, or
+provide no means for initial characterization of the kinetics of
+programmed cell death. To address this unmet need, we developed a
+real-time, live cell assay method that utilizes a fully homogeneous,
+bioluminescent annexin V reagent. The method does not require laborious
+washing and sample preparation steps associated with traditional annexin
+methods and is fully compatible with plate-based multimodal signal
+detection systems. The system contains two annexin proteins which have
+been engineered to contain separate and distinct complementing domains of
+a binary luciferase. Additionally, the system contains a novel
+time-released luciferase substrate and a cell impermeable, fluorogenic
+DNA dye for monitoring necrosis. Because the annexin-luciferase fusion
+pairs have only modest affinity for each other, luminescence remains low
+until phosphatidylserine exposure, a hallmark of the programmed cell
+death phenotype, brings annexin monomers into close proximity
+facilitating complementation of the luciferase sensor. The assay reagent
+can be applied at dosing for real-time measurement of the dose-dependency
+and magnitude of programmed cell death progression. This work describes
+our efforts to characterize and validate the performance of the
+bioluminescent annexin assay using relevant cell death induction models.
+First, the assay was shown to be functionally concordant with a flow
+cytometry annexin method in a dose-response model with bortezomib at
+exposure periods known to produce both early and late-apoptosis (with
+necrosis) phenotypes. Next, we assessed the performance of the assay
+using a limited training set of small molecule and biologic inducers of
+programmed cell death that utilize different mechanisms of action (i.e.,
+apoptosis and necroptosis) and by using a number of diverse but
+representative cancer cell lines. We conclude that the bioluminescent
+annexin method provides a new kinetic approach to efficient and effective
+detection of programmed cell death mechanisms in real time in a
+convenient homogeneous format.
+
+

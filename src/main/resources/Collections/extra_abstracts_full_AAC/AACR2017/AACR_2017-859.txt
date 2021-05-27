@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Epigenetic regulation of epithelial-mesenchymal transition in
+esophageal squamous cell carcinoma.
+
+
+Epithelial-mesenchymal transition (EMT) is a developmental program, which
+is associated with tumor progression and metastasis. Here we investigated
+the DNA methylation and histone modifications in the regulation of EMT in
+esophageal squamous cell carcinoma (ESCC). The RNA-Seq analysis
+identified a total of 6150 differentially expressed genes (3423
+up-regulated and 2727 down-regulated). The GO terms showed that these
+genes belonged to several molecular functions and biological pathways.
+The abnormal expression of key EMT genes, some of Sox family genes and
+EZH2 significantly related to patient survival. The MeDIP-Seq analysis
+identified differentially methylated regions (DMRs) on the whole genome
+level with focal hypermethylation and widespread global DNA
+hypomethylation. The gene ontology analysis showed that the DMRs related
+genes belonged to several different ontological domains, such as EMT
+progression, cell cycle, adhesion, proliferation, and apoptosis. The
+results of the bisulfite-sequencing confirmed the EMT gene DMRs
+identified by MeDIP-Seq. However, further analyses showed that the EMT
+gene DMRs only related to gene expression, but not the patient survival.
+ChIP-Seq was then performed to observe the relationship between histone
+methylation and gene expression. A total of 295 genes were found to
+correlate with H3K27 tri-methylation (H3K27me3) , and a certain number of
+key EMT genes, such as ZEB1/2,AREG, GATA4,and CDH8 were identified.
+Further study showed that Ezh2-mediated H3K27me3 regulate the expression
+of key EMT genes. Ablation of Ezh2 expression prevents EMT, whereas
+forced expression of Ezh2 restores EMT. Sox4 gene could directly regulate
+Ezh2 expression, tri-methylated H3K27me3 for EMT gene repression. Taken
+together, our results suggest that both of the DNA methylation and
+H3K27me3 modification involved in the regulation of EMT in ESCC.
+Sox4-Ezh2-mediated H3K27me3 marks associate with key EMT gene regulation,
+representing an important epigenetic EMT signature.
+
+

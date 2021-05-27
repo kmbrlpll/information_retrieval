@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A novel imaging-based high-throughput assay identifies Niclosamide
+as inhibitor of lysosome anterograde trafficking and tumor invasion
+
+
+Background: Tumor cell invasion and metastasis are key factors
+contributing to morbidity and mortality in cancer. Previous studies from
+our laboratory have demonstrated that the outward movement of lysosomes
+stimulated by certain growth factors or acidic media is accompanied by
+increased cathepsin B secretion and consequently tumor cell invasion.
+Troglitazone and 5-(N-ethyl-N-isopropyl)-amiloride (EIPA) stimulate
+inward movement of lysosomes in prostate cancer cells resulting in
+reduced cathepsin B secretion and tumor cell invasion. We propose to
+screen for repurposed drugs that block lysosome trafficking and lower
+tumor invasiveness.Materials and Methods: DU 145 prostate cancer cells
+seeded in 96-wells plates were treated with the compounds overnight, then
+immunostained for lysosomal-associated membrane protein-1 (LAMP-1).
+Acidic media and EIPA were used as negative and positive control
+respectively. An imaging-based automated system was used to measure the
+position of lysosomes relatively to the nucleus. A variety of biochemical
+and cell biological approaches were used to further characterize the
+properties of the lead compound. Effect on lysosomal protease secretion
+was conducted using a fluorometric-based cathepsin B assay. Motility and
+Invasion studies were conducted using Incucyte system acquiring real-time
+pictures of cells covered with matrigel.Results: A total of 2240
+repurposed drugs were screened. We identified 18 hits and further
+explored Niclosamide, a drug that inhibits lysosome trafficking. A dose
+of Niclosamide below 1 microM was not toxic on DU145 cells, normal
+myofibroblasts or epithelial cells. Niclosamide blocked acidic-induced
+lysosome redistribution at a dose of 625 nanomolar (nM) and above, and
+blocked HGF and EGF-induced lysosome redistribution at a dose of 312 nM
+and above. Niclosamide altered lysosomal positioning beginning at 2-4
+hours of exposure. At a dose of 1 microM and exposure time of 4 hours or
+below, Niclosamide exhibited no significant effect on ATP level,
+microtubules or actin. The effect of Niclosamide on lysosome positioning
+was not affected by disruption of actin, or microtubules, neither by
+inhibition of PI3K or MAPK pathways. Cathepsin B secretion induced by
+extracellular acidic pH was blocked by Niclosamide. HGF and EGF-induced
+cancer cell invasion and motility were both reduced by Niclosamide. A
+decrease in extracellular matrix degradation was noticed when cells grown
+on DQ collagen gel were treated with Niclosamide.Conclusion: We have
+developed a valid high-content screening approach to identify drugs that
+inhibit lysosome trafficking and reduce tumor invasion. Further
+characterization of the other hit, including drugs that are used for
+neurological indications, are ongoing on glioma cells. Our findings
+represent a novel approach in cancer research that could potentially
+bring effective drugs that inhibits tumor invasion.
+

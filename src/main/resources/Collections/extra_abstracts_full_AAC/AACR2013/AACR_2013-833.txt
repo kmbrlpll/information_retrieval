@@ -1,0 +1,39 @@
+Meeting: 2013 AACR Annual Meeting
+Title: S100A4 interacts with p53 in the nucleus promoting its degradation.
+
+
+Background.S100A4 is a calcium binding protein which has no known
+enzymatic activity, but it exerts its function by binding and regulating
+other molecules, among which have been described Myosin and p53. S100A4
+has been shown to be upregulated in several types of cancers, correlating
+with poor prognosis and metastasis.In a previous study (Orre et al.,
+2007), S100A4 has been shown to be involved the cellular response to
+ionizing irradiation in a p53 dependent manner; our aim here was
+therefore to investigate the cellular interaction partners of S100A4 in
+response to p53 and then, based on this data, to further elucidate the
+cellular function of S100A4.Observations.Nutlin-3A is a compound that
+specifically stabilizes p53 through inhibiting the interaction between
+p53 and mdm2. We could show an interaction between S100A4 and p53 via
+immunoprecipitation in the NSCLC cell line A549 (which has a high
+expression of S100A4 and a wild-type p53), and that this interaction is
+increased after Nutlin-3A treatment. The interaction has been
+independently confirmed via Proximity Ligation Assay, showing as well
+that the protein complexes are localized in the nucleus.Since this
+interaction increased after inhibition of the mdm2-p53 interaction, we
+hypothesized that S100A4 could be involved in regulation of p53
+degradation; therefore we generated two cell lines from A549, infected
+with S100A4 shRNA (shS100A4) or an Empty Vector shRNA (shEV) as a
+control. Knockdown of S100A4 resulted in stabilization of p53 and
+transactivation of p53 transcriptional targets; it also resulted in
+higher sensitivity to cisplatin-mediated apoptotic cell death, measured
+as a drop in mitochondrial membrane potential, caspase-3 activation and
+AV/PI assay.We confirmed this finding by an independent method using
+transient S100A4 down regulation via siRNA; this resulted in an increase
+in p53 level and of p21 and MDM2 level in A549 adenocarcinoma cells.
+S100A4 siRNA resulted also in p53-dependent growth arrest, that was
+reversed after co-transfecting p53 siRNA.Conclusions.Our data show that
+S100A4 interacts with p53 increasing its degradation, resulting in higher
+cell viability and lower apoptosis after cisplatin treatment. A possible
+correlation in patients between S100A4 overexpression and cisplatin
+resistance could be used to drive treatment selection.
+

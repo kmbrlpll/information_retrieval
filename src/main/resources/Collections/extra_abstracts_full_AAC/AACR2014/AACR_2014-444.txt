@@ -1,0 +1,27 @@
+Meeting: 2014 AACR Annual Meeting
+Title: BRM/SMARCA2 is a critical synthetic lethal target in
+BRG1-deficient cancers
+
+
+The mammalian SWI/SNF complexes (mSWI/SNF) regulate chromatin structure
+through ATP-dependent nucleosome remodeling and thereby control key
+cellular processes. Recent cancer genome studies have revealed a
+significant frequency of mutations in several components of the mSWI/SNF
+complexes including the catalytic subunit BRG1. Emerging evidence is
+supportive of tumor suppressor roles for mSWI/SNF subunits, yet the
+inactivating nature of these mutations presents a challenge for devising
+targeted therapeutic strategies against cancers harboring such mutations.
+In this study, we interrogated epigenetic cancer dependencies by
+screening a deep-coverage design (DeCoDe) shRNA library targeting the
+epigenome across a broad range of 50+ cancer cell lines. Strikingly, this
+unbiased screen revealed that silencing of the SWI/SNF ATPase subunit
+BRM/SMARCA2, selectively inhibits the proliferation of BRG1-deficient
+cancer cells. BRM knockdown selectively induced cell cycle arrest in
+BRG1-mutant cancer cells and significantly impaired the growth of
+BRG1-mutant lung tumor xenografts. BRM is the paralog of BRG1, suggesting
+a model in which mSWI/SNF mutations lead to a hypomorphic complex that
+promotes tumorigenesis but cannot tolerate complete inactivation. Thus,
+targeting mSWI/SNF subunits that exhibit redundant activities to the
+residual mutated complexes may present a general strategy for SWI/SNF
+mutated cancers.
+

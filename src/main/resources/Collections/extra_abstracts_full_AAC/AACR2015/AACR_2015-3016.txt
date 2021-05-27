@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: APOBEC3 enzymes induce damage to the cellular genome during DNA
+replication
+
+
+The APOBEC3/AID family of cytidine deaminase enzymes are powerful DNA
+editors that convert cytidine to uracil. APOBEC3 (A3) enzymes provide
+immune defense by mutating and inactivating viral genomes. We have
+previously shown that A3 enzymes are also capable of causing cellular DNA
+damage. Recent bioinformatics analyses of breast cancer and other solid
+tumor genomes identify a mutational pattern consistent with A3 activity.
+The mutational signature of A3 enzymes includes a predominance of C-to-T
+transitions, mutated cytidines within a TC context, and clustered
+hypermutation. We identified the mutational hallmarks of A3 activity in a
+subset of pediatric acute lymphoblastic leukemia (ALL) genomes. To
+understand the circumstances under which A3 enzymes cause damage to
+cellular DNA, we examined the effect of A3 overexpression using a
+doxycycline-inducible system in human cancer cell lines. A3 enzymes edit
+single-stranded DNA (ssDNA), thus we hypothesize that A3 enzymes act on
+the cellular genome when ssDNA is exposed during DNA replication.
+APOBEC3A (A3A) is the most potent of the seven A3 enzymes and induces
+phosphorylation of histone-variant H2AX (H2AX), indicating
+double-stranded DNA breaks (DSBs). We examined the DNA damage response
+pathways activated by A3A expression and found that both
+Ataxia-Telangiectasia Mutated (ATM) kinase and ATM-Related (ATR) kinase
+signaling occurs when A3A is expressed. As expected from these findings,
+we show that cycling cells induced to express A3A arrest in S phase. ATR
+signaling is activated in response to DNA damage such as ssDNA breaks,
+and replication fork stress. To assess whether A3A acts on the cellular
+genome during DNA replication, we induced replication stress by treating
+cells with hydroxyurea (HU). We found that A3A expression increases DNA
+damage signaling in HU-treated cells. Additionally, we examined H2AX and
+quantified genomic uracil throughout the cell cycle in cells induced to
+express A3A. Cells that expressed A3A and were arrested in G1 phase by
+isoleucine depletion had decreased cellular DNA damage and less genomic
+uracil as compared to those in S phase. These observations suggest that
+cells undergoing DNA replication are particularly vulnerable to
+deamination by A3A. Overall, these data support the hypothesis that A3
+enzymes contribute to genomic instability and may contribute to malignant
+transformation. A3 enzymes may be responsible for the clustered cytidine
+mutations identified in pediatric leukemia genomes. This research is the
+first investigation into the association between A3 enzymes and pediatric
+cancer, and provides insight into the impact of A3A on replicating DNA.
+

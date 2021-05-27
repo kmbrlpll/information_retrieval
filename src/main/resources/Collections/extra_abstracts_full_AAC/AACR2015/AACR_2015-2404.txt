@@ -1,0 +1,25 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Quality assessment of circulating cell-free DNA using multiplexed
+droplet-digital PCR
+
+
+Recent proof-of-principle studies have demonstrated potential utility of
+sequencing cell-free DNA in cancer diagnostics. However, little is
+understood about the effect of fragment size distributions in plasma DNA
+on the performance of sequencing-based assays. We developed a multiplexed
+assay to perform one-step analysis of DNA quantity and integrity from
+minute amounts of cell-free DNA using picoliter droplet digital PCR.
+Primers were designed to amplify 5 short PCR products (67-71 bp) and 4
+long PCR products (439-522 bp) from independent quiescent regions of the
+human genome. Oligonucleotide probes targeting each of the short and long
+products were labeled with fluorescent dyes FAM and TET respectively. We
+evaluated the performance of our assay using control human genomic DNA
+sheared using sonication to an average of 150 bp, 300 bp, 500 bp and 1000
+bp fragment sizes. We observed that relative quantities of short and long
+PCR products reflect integrity of sheared input DNA. We further observed
+that accurate quantification and assessment of integrity could be
+achieved using picogram amounts of cell-free DNA (as few as 200 pg in
+current assessments). Finally, our results were predictive of diversity
+and obtainable depth-of-coverage in next-generation sequencing libraries
+made from cell-free DNA samples.
+

@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Sequence and structure-guided approach to identify functional
+mutations in G-protein coupled receptors
+
+
+G-protein coupled receptors (GPCRs) account for about 4% of all encoded
+genes in the human genome with over 800 different types. They activate
+signal transduction pathways inside the cell that regulate a wide variety
+of cellular responses and physiological processes. GPCRs are known to
+play a role in disease progression and are the target of about 40% of
+drugs on market. However, the implication of GPCRs in tumor initiation
+and/or progression has not been extensively studied and remains unknown.
+Due to GPCRs being major drug targets, identifying functional mutations
+in GPCRs that may lead to tumorigenesis has large therapeutic
+implications. Nearly 20% of human tumors harbor mutations in GPCRs.
+However, individual GPCRs may harbor few recurrent mutations making it
+hard to detect potential functional mutations. Due to this lack of
+statistical power, it is beneficial to analyze the protein family as a
+whole and look at recurrent mutations at the same structural site. We can
+use sequence conservation, protein structure, and cancer mutation data to
+investigate the mutational landscape of GPCRs and identify conserved
+mutation hotspots that might be involved in tumorigenesis.We use the
+positions of structural domains to guide our protein family alignment.
+Entropy scores, which are used to measure conservation, and somatic
+mutation densities are computed based on the structure-guided alignment
+for each position in each domain. Positions that exhibit high somatic
+mutation density and low entropy are prioritized as possible functional
+mutations. We analyzed GPCRs from 3,281 tumor samples in over 12 cancer
+types and have identified three residues located in highly conserved
+motifs: the DRY, NPxxY, and CWxP motifs that may be involved in the
+activation of oncogenic pathways. The arginine residue in the DRY motif
+serves as an ionic lock, which keeps GPCRs in an inactive state.
+Mutations at the arginine could disrupt the inactive conformation leading
+to a ligand-independent active form and constitutive activation. The
+NPxxY and CWxP motifs are known to control the equilibrium between the
+inactive and active states of GPCRs.We plan to further develop our
+methodology by integrating specific amino acid changes and mutation
+expression levels during the prioritization process. We will generalize
+our methodology into a tool called AnaConDAS (Analysis of Conservation in
+Domain Alignments and Structure) for major druggable protein families.
+Our lab has created a new tool called HotSpot3D, which clusters mutations
+and associated drugs based on proximity on a 3D protein structure. We
+plan to integrate AnaConDAS and HotSpot3D by focusing on the hotpot
+residues identified by AnaConDAS and analyzing mutations that cluster
+around them. This approach is novel because it harnesses the statistical
+power of studying mutations across a protein family and uses 3D protein
+structure/proximity based analyses to uncover functional mutations in
+cancer.
+

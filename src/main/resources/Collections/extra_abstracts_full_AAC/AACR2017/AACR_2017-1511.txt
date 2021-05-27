@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: AML patient clustering by super-enhancers reveals an RARA
+associated transcription factor signaling partner.
+
+
+Prior studies have shown that the RARA gene is associated with a
+super-enhancer (SE) and has upregulated mRNA expression in a subset of
+AML patients. Furthermore, this has been found to confer increased
+sensitivity to SY-1425, a potent and selective RARα agonist. We sought
+to better characterize the cell state and transcription factor circuitry
+in these RARA-high AML cells. Clustering of 62 primary AML patient
+samples based on their genome wide SE maps identified six discrete
+clusters. RARA-high patients partitioned principally into cluster 2, and
+to a lesser extent 1, suggesting that RARA upregulation is associated
+with a specific transcription factor (TF) network and cell state. To
+start unraveling the TF circuitry in the RARA-high cluster, we
+investigated which other TFs were SE associated with clusters 1 and 2. In
+particular, interferon regulatory factor 8 (IRF8) was found to be
+strongly associated with clusters 1 and 2 by SE and mRNA expression,
+similar to RARA. Moreover, the expression of both genes is correlated in
+primary patient samples. IRF8 is involved in interferon signaling and
+previous studies have shown crosstalk between interferon and retinoic
+acid signaling. Furthermore, aberrant IRF8 pathway signaling is
+implicated in AML and CML pathogenesis. The tight clustering of RARA and
+IRF8 in patient subgroups defined by genome wide enhancer maps suggests
+RARα and IRF8 may form an integrated transcriptional circuit. Indeed,
+treatment with SY-1425 was found to strongly induce interferon-like gene
+expression changes in AML cells with high RARA or IRF8 levels, including
+the tumor suppressive IFN responsive gene IRF1. While RARA-high AML cell
+line models have been previously shown to respond to SY-1425, we found
+that models with high IRF8 expression and low levels of RARA were also
+found to respond to SY-1425. Such IRF8-high, RARA-low AML cell lines
+showed activation of similar transcriptional pathways as RARA-high cell
+lines in response to SY-1425 based on GSEA. IRF8-high AML also had
+comparable low nM EC50 anti-proliferative effects following SY-1425
+treatment. In addition, SY-1425 was found to elicit differentiation in
+both RARA-high and IRF8-high AML cell lines based on flow cytometry.
+While RARA and IRF8 expression appear correlated, this data suggests that
+IRF8 levels may predict for sensitivity to SY-1425 in addition to RARA
+levels, particularly in cases of AML with high IRF8 expression but low
+RARA levels. Insights derived from enhancer analysis, transcriptional
+profiling and differentiation response in preclinical models support the
+recently initiated Phase 2 trial of SY-1425 (NCT02807558) in which we are
+evaluating the SE based patient selection strategies and gene circuitry
+derived pharmacodynamics clinical measurements, including differentiation
+markers, in patients with AML and MDS.
+
+

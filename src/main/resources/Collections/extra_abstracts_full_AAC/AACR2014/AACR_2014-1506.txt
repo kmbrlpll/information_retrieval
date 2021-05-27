@@ -1,0 +1,46 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Mutant enrichment by ICE COLD-PCR prior to the next-generation
+sequencing enables high sensitivity and high throughput detection of
+cancer biomarkers in patient samples
+
+
+Next-Generation Sequencing (NGS) allows high throughput mutation analysis
+of oncogenes and tumor suppressor genes by targeted resequencing.
+However, increased sensitivity for mutation detection due to the spatial
+heterogeneity of the solid tumor or temporal heterogeneity found within
+the circulating free DNA (cfDNA) may be needed to identify the key
+biomarkers that may guide the personalized treatment for patients in the
+era of precision medicine.ICE COLD-PCR (ICP) technology is capable of
+simultaneous enrichment of mutations targeted by a 50 base reference
+oligonucleotide in a modified PCR reaction followed by standard Sanger
+sequencing. In this study, we sought to establish a high sensitivity and
+high throughput mutation detection platform using ICP combined with NGS.
+ICP products from low frequency mutation mixtures were enzymatically
+treated, ligated to the Ion Torrent adapters and analyzed by the Ion
+Torrent Personal Genome Machine (PGM) and the MiSeq NGS platforms. The
+ICP-NGS analysis of low-level mutations provided a virtual increase in
+depth of coverage ahead of NGS analysis that increased the sensitivity of
+NGS detection.High sensitivity detection of cancer genetic biomarkers
+from cfDNA has the potential to facilitate cancer diagnosis and provide
+guidance for personalized cancer treatment by serving as a liquid biopsy
+when there is no available tumor tissue and as a process for monitoring
+treatment effectiveness and emergence of drug resistance. To explore the
+clinical utility of the ICP-NGS platform in detecting cancer mutations in
+cfDNA, 26 plasma DNA samples harvested from patients with carcinomas were
+analyzed simultaneously with NGS for PIK3CA exons 9 and 20, KRAS exon 2,
+and EGFR exons 18 and 19 with or without prior ICP enrichment for
+mutants. For the 15 variants (P5%) detected by ICP-NGS, only 3 variants
+were observed in NGS without ICP; even so, the mutant frequency for the 3
+variants was low (5-10%) without the prior ICP enrichment but was
+enriched to 80-90% after the ICP. More importantly, 12 of the 15 variants
+detected by ICP-NGS were only detectable in NGS analysis because of the
+prior ICP enrichment. These results support the application of ICP in
+front of NGS in high-sensitivity and high-throughput detection of mutants
+in cfDNA.In conclusion, we have established a platform of mutant
+enrichment by ICE COLD-PCR followed by NGS analysis that is capable of
+high sensitivity and high throughput detection of cancer genetic
+biomarkers. ICP-NGS detected the 80% of mutations in cfDNA that were
+undetectable without ICP enrichment, suggesting that ICP-NGS has the
+potential to detect and monitor patients' genetic biomarker in real-time
+and provide guidance for the personalized cancer treatment.
+

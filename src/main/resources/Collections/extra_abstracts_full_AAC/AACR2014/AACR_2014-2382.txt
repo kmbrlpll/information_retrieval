@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Synthetic lethal killing of RAD54B-deficient colorectal cancer
+cells by targeting SOD1
+
+
+Synthetic lethality is a rare genetic interaction that results when two
+independently viable mutations occur within the same organism/cell and
+results in cell death. Synthetic lethality is thus a rational approach to
+identify drug targets that can specifically kill cancer cells harboring
+somatic mutations in specific genes. RAD54B encodes a protein involved in
+homologous recombination repair whose expression is normally required to
+maintain genome integrity. RAD54B is somatically altered in 4% of the
+colorectal cancers and numerous other tumor types including breast,
+prostate and lung. Accordingly, a synthetic lethal approach designed to
+uncover novel drug targets that selectively exploit and kill cancer cells
+harboring defects in RAD54B is highly warranted.In budding yeast, Rad54B
+is synthetic lethal with Superoxide dismutase 1 (Sod1). We hypothesized
+that silencing or targeting SOD1 would result in specific killing of
+RAD54B-deficient cells in a human cancer context. Using a combination of
+cross-species gene approaches, RNAi and high-content imaging we
+identified and validated a synthetic lethal interaction between RAD54B
+and SOD1 in colorectal cancer cells. We demonstrated that silencing SOD1
+resulted in specific synthetic lethal killing of RAD54B-deficient
+colorectal cancer cells while RAD54B-proficient colorectal cancer cells
+remained viable. Additionally, chemical compounds (e.g. ATTM and 2ME2)
+that induce reactive oxygen species phenocopied the synthetic lethal
+interactions observed using RNAi-based approaches. In fact,
+RAD54B-deficient cells were >10-fold more sensitive to these chemicals
+when compared to RAD54B-proficient cells. SOD1 is an enzyme responsible
+for maintaining the levels of superoxide radicals within tolerable limits
+in cells. We reasoned that targeting SOD1 would lead to excessive
+superoxide anions, leading to DNA double-strand break and render
+RAD54B-deficient cells amenable to synthetic lethal killing. To determine
+if defects in DNA double-strand break repair occurred in these cells,
+semi-quantitative imaging microscopy was performed and we confirmed the
+persistence of two surrogate markers of DNA damage, namely -H2A.X and
+53BP1, following treatment with either ATTM or 2ME2 relative to controls.
+Finally, we show that apoptosis as reflected by an increase in cleaved
+Caspase 3, has a key role in the synthetic lethal killing of the
+RAD54B-deficient cells relative to controls.Together these results
+indicate that RAD54B and SOD1 are synthetic lethal interactors, and
+further identify SOD1 as a novel candidate therapeutic target. The
+pharmacological targeting of SOD1 has implications beyond the colorectal
+cancer context employed above as RAD54B is altered in many tumor types.
+

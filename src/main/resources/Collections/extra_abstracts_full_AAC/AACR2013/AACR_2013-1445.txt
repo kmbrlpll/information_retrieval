@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Clinical feasibility study of a novel cytometry-based-system for
+the detection of circulating tumor cells of patients with lung cancer.
+
+
+Enumeration and characterization of circulating tumor cells (CTCs) are,
+as "liquid biopsy," expected to provide useful clinical information on
+prognosis, cancer staging, drug choice, and therapeutic efficacy. We have
+developed a novel flow-cytometry-based CTCs detection and sorting system
+(On-Chip Sort) independent of EpCAM expression of tumor cells. In a
+preclinical study, various kinds of cell lines were spiked into human
+blood and the sensitivity in detection was evaluated. Enumeration of the
+spiked tumor cells was linear over a range of 10 to 1000 cells, with a
+recovery rate of 90%. A significantly higher recovery rate was observed
+with our system (90 - 102%) than with CellSearch (0%) when EpCAM-negative
+PC-14 cells were spiked, suggesting a superior sensitivity of our system
+in capturing EpCAM-negative tumor cells. Here we report the results of a
+clinical feasibility study on the detection of CTCs in patients with
+advanced lung cancer.16mL of peripheral blood was drawn from each case.
+In our assay, 4mL of samples were hemolyzed and eliminated CD45+
+leucocytes by magnetic beads coated with anti-CD45 antibody. After
+negative CTC enrichment, samples were fixed and labeled with
+FITC-cytokeratin, PE-EpCAM and Alexa700-CD45 antibodies, and analyzed by
+using our flow-cytometry-based CTC detection system. 22 advanced lung
+cancer patients and 3 healthy donors were recruited at National Cancer
+Center Hospital. The results of the CTC enumeration were compared with
+those by CellSearch.In 22 blood samples from patients, CTCs detected by
+our system ranged from 0 - 18 CTCs (median, 6.5), and 77.3% (17/22) of
+the samples were above the threshold level ( 4 / 4mL). On the other hand,
+with CellSearch, only 27% of the samples had a 2 / 7.5 mL threshold
+level. In 2 blood samples from the healthy donors, our system detected 0
+and 3 CTCs, and CellSearch detected 0 and 1 CTC. In the sample from a
+healthy donor spiked with 18 EpCAM-negative PC-14 cells, our system was
+able to detect 10 cells; however, CellSearch could not recover even one
+cell.These results of a clinical feasibility study showed our system to
+be significantly more sensitive for CTC enumeration in advanced lung
+cancer.Presently, we are developing a novel approach for molecular
+analysis of CTCs via sequential immunomagnetic enrichment and FACS
+sorting to isolate CTCs, followed by real-time PCR analysis using
+Scorpion Amplified Refractory Mutation System technology. For methods
+validation, PC-9 and 11_18 cells spiked into normal blood were isolated,
+and profiled the epidermal growth factor receptor (EGFR) mutations status
+correctly. In the near future, we plan to apply this approach to clinical
+samples of lung cancer patients and investigate the correlation of EGFR
+mutations in sorted CTCs, circulating free DNA and primary lesions.(Data
+to be updated prior to presentation)
+

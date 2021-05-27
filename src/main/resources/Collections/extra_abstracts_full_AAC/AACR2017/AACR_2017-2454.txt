@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genetic landscape of glioma reveals defective neuroactive ligand
+receptor interaction pathway as a poor prognosticator in glioblastoma
+patients.
+
+
+Glioblastoma (GBM; grade IV), is highly proliferative, infiltrative and
+treatment refractory. Hence, understanding the complete genetic
+alteration profile of GBM would help us in identifying molecules or
+pathways that have strong implications in GBM pathogenesis, thus opening
+up avenues for targeted therapy. Recent large scale studies suggest that
+three pathways - receptor-tyrosine kinase, TP53 and RB, are significantly
+altered in GBM. However, even with the tremendous increase in our
+understanding of the tumor, advancement in therapeutics is minimal and
+the median survival still remains at 15 months. Hence, we need to
+elucidate novel altered molecules and pathways in GBM progression such
+that more effective therapeutic options can be explored.
+
+Here, we have carried out whole exome sequencing of grade II, grade III
+and GBM samples which revealed the mutation spectrum of glioma from our
+patient set. Further, we performed integrative analysis of mutated genes
+from our patient cohort as well as TCGA cohort (The Cancer Genome Atlas)
+to find out mutated pathways that predict survival in GBM patients. The
+most significant pathway - neuroactive ligand-receptor interaction
+pathway was explored further. Patients with mutations in one or more
+genes of this pathway had poor survival. The pathway comprises of
+G-protein coupled receptors, ion channels and ligands which functions in
+modulation of neural plasticity, memory processes, behavior etc. Of the
+enriched genes belonging to this pathway, Calcitonin Receptor (CALCR),
+which was highest mutated in GBM (2.75%), was taken up for further
+investigation. CALCR was found to be downregulated in GBM and mutation or
+downregulation of the gene was found to predict poor survival in
+patients. Functional studies through cell-line based experiments revealed
+CALCR is a tumor suppressor in GBM. The peptide hormone calcitonin (CT),
+a high affinity CALCR ligand, inhibited proliferation, migration and
+anchorage-independent growth of glioma cells expressing CALCR with a
+concomitant decrease in the phosphorylation levels of ERK, AKT and JNK
+signaling
+
+molecules. However, CT failed to do these functions in CALCR silenced
+glioma cells. Exogenous overexpression of CALCR in glioma cells
+expressing low levels of the receptor was found to inhibit proliferation,
+migration and anchorage independent growth and this effect was further
+augmented when CT was added. Further, introduction of tumor-derived
+mutations in CALCR led to the abrogation of its tumor suppressor
+function. Studies are ongoing to demonstrate the tumor suppressive nature
+of CALCR using in vitro astrocyte transformation and intracranial
+orthotopic mouse glioma model. Thus, our study finds CT-CALCR signaling
+axis is an important tumor suppressor pathway in glioma development and
+underscores the importance of using CT as a novel therapeutic molecule
+for GBM treatment.
+
+

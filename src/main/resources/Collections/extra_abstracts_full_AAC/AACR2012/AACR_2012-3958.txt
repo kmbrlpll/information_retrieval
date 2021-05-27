@@ -1,0 +1,44 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Multi-Reg: An integrative parallel approach to uncover drivers of
+cancer
+
+
+Tumor samples harbor a vast number of genomic alterations of various
+kinds, and it is difficult to distinguish driver alterations that
+contribute to oncogenesis from passenger alterations. Most computational
+methods identify driver genes by focusing on the most frequent copy
+number alterations. Previous work in our lab has led to the development
+of CONEXIC, a Bayesian algorithm that identifies candidate driver genes
+in cancer and links them to gene expression signatures they govern by
+integrating copy number and gene expression (Akavia et al, Cell, 2010).
+This algorithm was applied to data from melanoma cell lines, where it
+correctly identified known drivers, such as MITF and KLF6, and connected
+them to their known targets. In addition, it predicted novel tumor
+dependencies not previously implicated in melanoma, which were validated
+experimentally. Drivers may act concurrently, where not only the
+strongest one is important. For example, either PTEN deletion or AKT
+activation can lead to a similar expression signature and phenotype.
+Therefore, we developed a new algorithm, based on the same principles as
+CONEXIC, with multiple improvements. The new algorithm - Multi-Reg - is
+capable of detecting multiple candidate regulators that can all act in
+parallel to regulate an expression signature, and is also capable of
+integrating mutations in addition to copy number and gene expression
+data. We applied Multi-Reg to glioblastoma data from The Cancer Genome
+Atlas (TCGA). This data includes copy number, gene expression and
+mutations for hundreds of primary tumor samples. Multi-Reg has identified
+putative drivers that were missed by CONEXIC, such as the known genes
+PDGFRA and NF1, in addition to EGFR & ERB2 (identified by CONEXIC).
+Additionally, since Multi-Reg candidate drivers act in parallel, we can
+group them by shared targets. For example, EGFR & ERRB2 induce the same
+genes, which represent the Mesenchymal subtype of glibolastoma. These
+same genes are repressed by PDGFRA & NF1. This matches the known behavior
+of glioblastoma subtypes, where EGFR & PDGFRA characterize the
+Mesenchymal and Proneural subtypes, respectively. Thus, our results
+correctly identify known drivers of glioblastoma. Additionally, Multi-Reg
+results identified RHPN2 as a novel oncogenic factor controlling a gene
+expression signature related to adhesion. Validation has shown that while
+RHPN2 has no effect on cell proliferation it induces invasiveness in
+glioblastoma cell lines. This shows that Multi-Reg cannot only discover
+drivers, but can link them to the oncogenic phenomena they controls, and
+suggest the appropriate biological validation for it.
+

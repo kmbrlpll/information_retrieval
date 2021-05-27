@@ -1,0 +1,46 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Highly sensitive and specific digital quantification of cancer
+genetic aberrations
+
+
+Genetic aberrations play a major role in tumor development and
+progression. As these clinically relevant genetic aberrations are
+discovered, it becomes of pressing urgency to efficiently, rapidly and
+sensitively detect these targets in individual patient tumor
+samples.Droplet digital PCR (ddPCR) is a robust technology for
+quantitating genetic variation with high sensitivity from minimal amounts
+of nucleic acid. Compared to the highly variable quantitative real-time
+PCR (qRT-PCR), ddPCR eliminates relative standards and has the advantage
+of measuring mutant and wild-type targets within the same well. Commonly,
+this is achieved with the use of a two-color fluorescent oligonucleotide
+probe (TaqMan) design, where the mutant is represented by a FAM probe and
+the wild type by a VIC or HEX probe. However, this approach is cumbersome
+and requires a significant amount of optimization.In this study we
+present an alternate quantification method for assessing CNVs and SNVs
+using a non-specific DNA binding dye. Instead of two colored probes, our
+design manipulates the length of the region of interest (ROI) and control
+amplicons to distinguish between their fluorescent signals. The dye binds
+in greater amount to the longer length target giving a higher fluorescent
+signal than the mutant target and both populations are easily
+quantifiable. This flexible and cost-effective method of independent DNA
+quantification proves to be a robust alternative to the commercialized
+TaqMan assay.The ability to customize this assay for a variety of
+functions is a major advantage of using a single-color dye and thus we
+can create highly sensitive assays for any gene. Here, we demonstrated
+the effectiveness of this method by assessing copy number of the
+proto-oncogene FLT3, a target for the small molecule inhibitor Sunitinib.
+We established accurate quantitation of a FLT3 copy number change in a
+tumor sample harboring a 1.5-fold amplification diluted to 20% in a
+normal sample. Additionally we explored the common V600E point mutation
+in BRAF and an activating mutation in HER2, a potential therapeutic
+target for cancers lacking HER2 amplification. Our assay was able to
+detect a mutation comprising less than 1% of an otherwise wild-type
+sample and in the case of HER2, distinguish between wild-type and two
+different mutant alleles. Aside from single base pair mutations and copy
+number analysis we used this assay to detect single base pair insertions
+and deletions. Finally, due to the sensitivity of ddPCR, the applications
+of this technique include the targeted analysis of small biopsies and
+circulating nucleic acid. We are also determining the improvement in
+performance with the incorporation of locked nucleic acids (LNA) in
+increasing specificity and sensitivity in lower quality samples.
+

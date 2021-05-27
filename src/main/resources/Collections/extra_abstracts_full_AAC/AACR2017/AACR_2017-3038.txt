@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Bridging the gap between NGS data and its usability: cancer gene
+discovery through massive-scale transcriptomic analyses and development
+of a powerful web-tool for dissemination of these findings.
+
+
+Background: In a prior transcriptomic analysis focused on lncRNA
+interrogation using some of these data, we discovered tens of thousands
+of novel lncRNAs (Iyer and Niknafs et al, Nature Genetics, 2015).
+Building on this analysis, we recently developed a markedly improved
+bioinformatics tool for novel gene/isoform discovery from massive RNA-seq
+datasets named TACO (Niknafs et al, Nature Methods, In press,
+tacorna.github.io). TACO produces high-fidelity transcript structure
+predictions from large RNA-seq datasets. We now set out to
+comprehensively leverage both TACO and the publicly available RNA-seq
+data for discovery of novel transcriptional cancer associations.
+Additionally, in order to widely disseminate these findings in an
+accessible manner, we have built a web-tool that provides the scientific
+community access to these data and analyses.
+
+Methods: We have downloaded, curated, and processed 23,623 RNA-seq
+samples largely from the TCGA, ICGC, GTEx, and CCLE, comprising 37 tissue
+types and over 35 cancer types. RNA-seq data processing was performed
+using STAR, Cufflinks, Kallisto, and TACO. The web tool for visualization
+and access to these data and analyses was built using a JavaScript-based
+server infrastructure (Noje.js) and a relational PostgreSQL database.
+
+Results: Generation of a consensus transcriptome from this large-scale
+RNA-seq dataset via TACO resulted in the discovery of tens of thousands
+of novel transcriptional elements, including intergenic non-coding RNAs
+and novel splice isoforms of known genes. Such an expansive RNA-seq
+cohort that includes many normal tissue samples enabled statistically
+powerful cancer association expression analyses that revealed a myriad of
+novel cancer genes, especially in tissues for which there was previously
+little-to-no normal tissue RNA-seq data (e.g., brain and pancreas). Many
+of these novel transcriptional elements discovered using TACO were also
+found to be cancer associated. We have built a web-tool to facilitate
+further analysis and discovery using these data and analyses by the
+scientific community. The web-tool provides a powerful and intuitive
+interface for researchers with little-to-no bioinformatics expertise to
+leverage large-scale RNA-seq datasets.
+
+Conclusion: Here we present the largest reported compendium of RNA-seq
+data, and reveal many novel cancer gene associations. Using a new,
+powerful gene discovery tool, TACO, we identify a multitude of novel
+transcriptional elements that are also cancer associated. Despite the
+abundance of publicly available RNA-seq data, necessary computing
+resources, data storage, and bioinformatics expertise are barriers to
+usability of these data by scientific community. Our RNA-seq expression
+web-tool bridges this gap, and enables users to powerfully interrogate
+cancer expression across dozens of tumor and tissue types.
+
+

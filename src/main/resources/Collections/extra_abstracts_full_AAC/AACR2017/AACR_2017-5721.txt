@@ -1,0 +1,69 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genome-wide discovery and identification of a novel microrna
+signature for recurrence prediction in colorectal cancer.
+
+
+Purpose: Colorectal cancer (CRC) is one of the leading causes of
+cancer-related deaths worldwide. In 2016, there were estimated 95,270
+newly diagnosed CRC cases, and 49,190 deaths from this disease in the
+United States. Survival of patients is closely associated with the tumor
+stage at the time of diagnosis as 5-year relative survival rates range
+from 65% for all stages, 90% for localized primary tumor, 71% for
+regional metastasis and 13% for distant metastasis. Post-surgery,
+adjuvant therapy is only recommended to those with high risk stage II, as
+well as stage III and IV tumors. However, approximately 40-50% of the
+patients undergo curative surgery only and 20-30% that are treated with
+adjuvant chemotherapy, eventually relapse and experience a metastatic
+disease and eventual death. The current gold standard TNM (Tumor, Node,
+Metastasis) staging for determining the prognosis of CRC patients remains
+inadequate at identification of high-risk stage II and III patients that
+have a high potential of developing tumor recurrence. MicroRNAs (miRNAs)
+play an important role in CRC development and are emerging as important
+disease biomarkers. Therefore, in this study we sought to determine the
+prognostic potential of the miRNAs using a systematic, genome-wide
+biomarker discovery approach, followed by validation of biomarkers in
+multiple patient cohorts
+
+Experimental design: Three independent publicly available genome-wide
+miRNA expression datasets were used for miRNA biomarker discovery (n=158)
+and validation (n=109 and n=40) of this miRNA signature for recurrence
+prediction in stage II and III CRC using multivariate Cox regression
+analysis. The eight gene miRNA signature discovered from the genome-wide
+analysis was analytically validated in two independent patient cohorts
+(n=127 and n=96) using Taqman-based RT-PCR assays.
+
+Results: The genome-wide comprehensive analysis led to the identification
+of an eight gene miRNA classifier that significantly predicted recurrence
+free survival (RFS) in training (log-rank p=0.003) and two independent
+validation cohorts (log-rank pResults: The genome-wide comprehensive
+analysis led to the identification of an eight gene miRNA classifier that
+significantly predicted recurrence free survival (RFS) in training
+(log-rank p=0.003) and two independent validation cohorts (log-rank
+p<0.0001 and p=0.002). The RT-PCR based training and validation of the
+eight gene classifier in two independent clinical cohorts significantly
+associated with poor prognosis in stage II and III CRC patients (log-rank
+pResults: The genome-wide comprehensive analysis led to the
+identification of an eight gene miRNA classifier that significantly
+predicted recurrence free survival (RFS) in training (log-rank p=0.003)
+and two independent validation cohorts (log-rank p<0.0001 and p=0.002).
+The RT-PCR based training and validation of the eight gene classifier in
+two independent clinical cohorts significantly associated with poor
+prognosis in stage II and III CRC patients (log-rank p<0.004 and
+pResults: The genome-wide comprehensive analysis led to the
+identification of an eight gene miRNA classifier that significantly
+predicted recurrence free survival (RFS) in training (log-rank p=0.003)
+and two independent validation cohorts (log-rank p<0.0001 and p=0.002).
+The RT-PCR based training and validation of the eight gene classifier in
+two independent clinical cohorts significantly associated with poor
+prognosis in stage II and III CRC patients (log-rank p<0.004 and
+p<0.0001). Multivariate analyses performed in these two patient cohorts
+revealed that the eight gene miRNA classifier served as an independent
+predictor of poor prognosis in stage II and III CRC patients.
+
+Conclusions: In conclusion, we have identified a novel miRNA-based
+classifier, which is robustly predictive of poor prognosis in patents
+with stage II/III CRC, and might facilitate identification and
+stratification of high-risk patients that are candidates for adjuvant
+chemotherapy and clinical surveillance.
+
+

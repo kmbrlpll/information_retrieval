@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Adjuvant effect of anti-PD-L1 in boosting HER2-targeted T cell
+adoptive immunotherapy
+
+
+In a phase I clinical trial, we used anti-CD3 x anti-HER2 bispecific
+antibody (HER2Bi) armed T cells. Utilizing HER2-directed T cells
+benefitted both HER2+ patients and patients with 1 or 2+ HER2 expression,
+ones that would be considered HER2-negative by classical criteria. We
+have also shown that the level of cancer stem cell (CSC) marker ALDH in
+HER2+ breast cancer cells (ALDHhighHER2+) is much higher than that in
+HER2- breast cancer cells (ALDHlowHER2-), and that in luminal breast
+cancers that are considered HER2-, HER2 is actually selectively expressed
+in the ALDHhigh CSC population. These observations might account for the
+surprising result that HER2Bi-armed T cells, while intended to target
+HER2, seemed to benefit HER2- patients after adoptive transfer. In this
+study, we found that the HER2Bi-armed T cells used in the clinical trial
+killed ALDHhigh human breast CSCs isolated from MCF7 (HER2-) tumor
+significantly more than ALDHlow MCF7 cells in vitro, while the same
+HER2Bi-armed T cells killed ALDHhigh human breast CSCs (ALDHhighHER2+)
+isolated from BT474 (HER2+) tumor equally to ALDHlow BT474 cells
+(ALDHlowHER2+). We then tested the mouse HER2 (neu) expression on
+ALDHhigh vs. ALDHlow 4T1 cells (mouse TNBC), and found that mHER2 was
+selectively expressed in the ALDHhigh 4T1 CSC population. These results
+replicated our findings in human breast cancers that HER2 is selectively
+expressed on CSCs, even in HER2- murine tumors, such as 4T1. For mHER2
+targeting in animal models, we generated anti-mouse HER2-CD3 bispecific
+(mHER2Bi) that binds to mouse HER2 and mouse CD3. In vitro, the
+mHER2Bi-armed T cells killed ALDHhigh 4T1 CSCs significantly more than
+ALDHlow 4T1 cells. In vivo, adoptive transfer of mHER2Bi-armed T cells
+for HER2 targeted therapy showed antitumor effect in mHER2- 4T1-bearing
+host. To boost the therapeutic efficacy of mHER2-targeted T cells, we
+administrated anti-mouse PD-L1 during mHER2Bi-armed T cell adoptive
+transfer. This combination decreased metastases significantly more than
+the use of either strategy alone. Collectively, these studies have
+generated evidence providing proofs of principle that due to the
+selective expression of HER2 on CSCs, HER2-targeted T cell therapy could
+benefit HER2- host as well as HER2+ hosts via immune destruction of HER2+
+CSCs, and use of anti-PD-L1 as an adjuvant could significantly boost the
+efficacy of HER2-targeted T cell therapy.
+

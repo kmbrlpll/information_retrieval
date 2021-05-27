@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: RNAseq analysis obtained from on-purpose tumor biopsies of
+patients in the MATCH-R trial allows the identification of potential
+mechanisms of acquired resistance to PD(L)1 therapies.
+
+
+Background: MATCH-R is a prospective molecular characterization trial
+(NCT02517892) aiming at defining the molecular basis of acquired
+resistance to targeted agents and immune checkpoint blockers. RNA
+sequencing (RNAseq) has been used to identify mechanisms of secondary
+resistance to immunotherapy.
+
+Patients and methods: Patients’ metastatic tumors were multi-site
+biopsied at relapse under immunotherapies after a period of clinical
+benefit, defined by a partial response or a stable disease of more than 6
+months. Genome-wide RNAseq counts were intra-patient normalized and a
+score of each gene’s expression was computed in comparison to a cohort
+of 450 metastatic cancer patients with RNAseq available at the time of
+analysis.
+
+Results: To date, 10 patients treated by immunotherapies have had a
+successful RNAseq in the MATCH-R trial. Five patients were treated with
+PD-1 inhibitors and 5 with PD-L1 inhibitors. Three patients had NSCLC, 2
+MSI high endometrial carcinoma, 2 anal carcinoma, 2 urothelial carcinoma
+and 1 TNBC. Eight out off ten patients had an expression of IDO1 higher
+than the median expression of IDO1 in our 450 controls (p value = 0.005).
+A patient with endometrial carcinoma had one of the highest expressions
+of IDO1 in the cohort. Consistently, IDO1 activation has previously been
+reported as a mechanism of secondary resistance to immunotherapies. A 40
+year old smoker NSCLC patient with a TP53 mutation has been treated
+during 11 months with anti-PD1. RNAseq analysis on the biopsy of a
+progressive lesion showed decreased expression of different actors of the
+JAK-STAT pathway (biopsy composed of 40% tumor cells and 60%
+microenvironment). Of the 78 genes signatures used (including 52
+immunogenes signatures), the interferon gamma signature had the lowest
+expression (p value = 0.004), consistent with a previous report of
+JAK-STAT-induced resistance to immunotherapy. Two more patients had an
+altered immune profile that could be involved in resistance to
+immunotherapies, but was not yet reported in the litterature.
+Confirmation of the RNAseq analysis with immunohistochemistry is
+currently ongoing. The gene signatures of the 10 patients, composed of
+immunogenes, DNA repair genes and epigenes, were compared to the whole
+cohort in order to deduce corresponding false discovery rates. As such we
+could identify 2 gene clusters, one enriched in T cells, dendritic cells
+and macrophages, and the other enriched in epigenes and DNA repair genes.
+Analysis of more patients is currently ongoing in order to cluster the
+results with clinical characteristics.
+
+Conclusion: Gene expression in the biopsy of patients that relapsed after
+initial benefit to immunotherapy is informative and helps to identify the
+mechanism of acquired resistance.
+
+

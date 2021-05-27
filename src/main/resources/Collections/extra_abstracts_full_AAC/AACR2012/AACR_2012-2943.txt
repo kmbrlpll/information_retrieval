@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: KPT-SINE (Selective Inhibitors of Nuclear Export) induce apoptosis
+in colon cancer cells in-vitro and in-vivo through nuclear localization
+of Tumor Suppressor Proteins (TSPs)
+
+
+Chromosome Region Maintenance 1/Exportin-1 (CRM1) is a key nuclear export
+protein whose inhibition leads to the nuclear accumulation of TSPs and
+negative regulators of cell proliferation. Through CRM1 inhibition,
+nuclear localization of these proteins restores cell cycle checkpoints
+and genome surveying functions culminating in apoptosis of tumor cells.
+Conversely, CRM1 inhibition of normal cells induces reversible cell cycle
+arrest. We are developing novel small molecules, KPT-SINE, which
+irreversibly bind and inhibit CRM1 nuclear export killing a broad range
+of tumor cell lines and xenografts. We used human colon cancer cells
+HCT116 to track the molecular and cellular events that follow KPT-SINE
+treatment and ultimately lead to cancer cell death. Methods: Using our
+proprietary in silico hierarchical structure-based discovery platform, we
+designed and tested novel SINE in a cell-based microscopy assay to
+confirm CRM1-mediated nuclear export inhibition. Cytotoxic IC50s of
+KPT-SINE were determined on a panel of cancer cell lines. KPT-SINE
+KPT-185, -251 and -276 were selected for additional testing based on
+their potency and pharmacokinetics. These include; 1. Nuclear
+localization of TSPs, 2. Effects on cell cycle and viability, 3. Effects
+on TSP mRNA and protein expression. Additionally, we transiently
+transfected mutant CRM1-C528S into cells and treated with KPT-SINE to
+show binding to Cysteine 528. We tested the effects of KPT-276 in an in
+vivo HCT116 xenograft model. Results: KPT-276, a potent inhibitor in the
+cell-based microscopy assay (EC50 = 130 nM), was a robust inhibitor of
+HCT116 proliferation (IC50 = 400 nM). KPT-SINE inhibition of CRM1 started
+within 30 minutes and reached a maximum in 8 hrs. Additionally, KPT-SINE
+effects were blocked by transient transfection of CRM1-C528S, confirming
+KPT-SINE - Cysteine 528 interaction. Washout experiments demonstrated
+that 4 hrs of KPT-SINE incubation sustained 24 hrs of CRM1 inhibition. We
+also identified nuclear accumulation of p53, FOXO3a, pRb, APC, IB, p27,
+PTEN, and p21, which was followed by cell cycle arrest and cell death.
+Although KPT-276 treatment had less effect on cell cycle and cytotoxicity
+assays of p53null HCT116 cells, the p53 wildtype and null HCT116 cells
+showed similar kill curves after 8 days of treatment. Mouse xenografts
+treated with 75 mg/kg QDX5 of KPT-276 each week for 4 weeks inhibited
+tumor growth by more than 70%. Further analysis of the tumor molecular
+markers from KPT-276 treated animals will be reported. Conclusions: In
+this study we described the correlative effects of KPT-SINE from the
+accumulation of nuclear TSPs through to cancer cell death in mouse
+models. These results suggest that KPT-SINE display potent in vivo
+efficacy in the xenograft model of human colon cancer.
+

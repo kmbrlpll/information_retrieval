@@ -1,0 +1,44 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Breast cancer cells overexpressing EMT-inducing transcription
+factors mediate metastasis of neighboring tumor cells via secretion of
+molecules that upregulate Hedgehog signaling
+
+
+Breast cancers are known to be heterogeneous, and thus it is important to
+understand how different tumor subpopulations influence each other to
+mediate metastasis. Epithelial-mesenchymal transition (EMT) is known to
+facilitate metastasis in breast cancer, via enabling tumor cells to be
+more motile and invasive (amongst other properties), yet only a small
+population of cells within a tumor is thought to undergo EMT at any one
+time. Transcription factors (TFs) such as Twist1, Snail1, and Six1 induce
+EMT, and are all known to increase metastasis of numerous tumor types,
+but are not thought to be expressed uniformly throughout tumors. While
+the cell-autonomous function of these EMT regulators has been extensively
+studied, how cells expressing these TFs influence neighboring tumor cells
+remains unknown. We have found that co-culture of HMLER-WT and
+HMLER-Snail1/Twist1 cells leads to a significant increase in migration of
+HMLER-WT cells. Importantly, transfer of conditioned media (CM) from
+HMLER-Twist1 or HMLER-Snail1 cells to HMLER-WT cells leads to increased
+migration and invasion, and Six1 is required downstream of Twist1 and
+Snail1 to mediate these non-cell autonomous phenotypes. Similarly, CM
+from metastatic MCF7-Six1 cells, when placed on MCF7-control (Ctrl)
+cells, leads to an EMT in the control cells, as observed by
+downregulation of cytokeratin 18 and membranous E-cadherin and
+upregulation of fibronectin. Importantly, while MCF7-Ctrl cells are
+non-metastatic when injected orthotopically into mice, co-injection of
+metastatic MCF7-Six1 and MCF7-Ctrl cells into nude mice results in
+increased metastasis of the control cells. These data demonstrate that in
+a heterogenous tumor where a population of cells express EMT-inducing
+TFs, these cells can influence their neighbors to also undergo EMT, thus
+promoting their metastasis. More interestingly, we have found that the
+non-cell autonomous effects of EMT-inducing TFs Snail1 and Six1 are
+mediated by Hedgehog signaling, and that the secreted factors that lead
+to activation of this pathway can be different in different contexts, but
+all impinge on Gli activation as a critical means by which neighboring
+cells develop metastatic characteristics. Therefore, our data suggest
+that treatment of heterogenous tumors with downstream, rather than
+upstream, inhibitors of the Hedgehog signaling pathway will be more
+efficacious in treating metastatic progression in breast cancer, as the
+pathway can be activated by means not dependent on the ligands SHH, IHH,
+or DHH, nor on the canonical receptors.
+

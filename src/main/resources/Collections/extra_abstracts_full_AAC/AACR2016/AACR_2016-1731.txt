@@ -1,0 +1,71 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Overexpression of DCLK1 in pancreatic cancer activates
+KRAS/PI3K/MTOR pathway signaling and supports tumorigenesis,
+invasiveness, and stemness
+
+
+Pancreatic ductal adenocarcinoma (PDAC) has the worst prognosis of any
+major malignancy with less than a 6% 5-year survival rate. Oncogenic KRAS
+mutation plays a key role in PDAC tumorigenesis with nearly 95% of PDAC
+harboring mutationally activated KRAS. Cells with cancer stem cell-like
+(CSC) properties have been identified in PDAC. These cells are often
+resistant to conventional chemotherapy and radiation therapy, and as such
+may explain why current treatments do not cure PDAC or prevent
+recurrences. It is suggested that driver mutations in these stem-like
+cells may be the root cause of PDAC. Doublecortin-like kinase 1 (DCLK1),
+is overexpressed and marks a population of tumor-initiating cells in
+PDAC. It regulates key oncogenes, pluripotency factors, angiogenic
+factors, and epithelial mesenchymal transition (EMT) related
+transcription factors. In this study we evaluated the role of DCLK1 in
+KRAS-mediated signaling in PDAC. Human pancreatic cancer cells (AsPC-1
+and MiaPaCa-2) were infected with Lentivirus containing human DCLK1 cDNA
+sequence to overexpress DCLK1 or red fluorescent protein (RFP) cDNA
+sequence as control. The expressing levels of DCLK1, active KRAS, and
+proteins in KRAS/PI3K/mTOR pathway were analyzed by western blotting. The
+proliferative and invasive potential of these cells were compared using a
+MTT assay for proliferation, wound healing assay for migration, soft agar
+assay for clonogenicity, and Matrigel coated transwell assay for
+invasion. Gemcitabine, Rapamycin, and PI3K inhibitors were used for
+evaluation. Analysis of human PDAC was performed using the TCGA PAAD
+dataset. Here we report that DCLK1 protein levels were increased more
+than 20 fold in AsPC-DCLK1 and MP2-DCLK1 cells resulting in activation of
+KRAS which was reversible by DCLK1-inhibitor XMD8-92. Compared to RFP
+control cells, AsPC-DCLK1 and MP2-DCLK1 cells exhibited a more than 20%
+increase in proliferation, approximately 30% increase in colony
+formation, 20% increase in migration, and a 2-fold increase (p Pancreatic
+ductal adenocarcinoma (PDAC) has the worst prognosis of any major
+malignancy with less than a 6% 5-year survival rate. Oncogenic KRAS
+mutation plays a key role in PDAC tumorigenesis with nearly 95% of PDAC
+harboring mutationally activated KRAS. Cells with cancer stem cell-like
+(CSC) properties have been identified in PDAC. These cells are often
+resistant to conventional chemotherapy and radiation therapy, and as such
+may explain why current treatments do not cure PDAC or prevent
+recurrences. It is suggested that driver mutations in these stem-like
+cells may be the root cause of PDAC. Doublecortin-like kinase 1 (DCLK1),
+is overexpressed and marks a population of tumor-initiating cells in
+PDAC. It regulates key oncogenes, pluripotency factors, angiogenic
+factors, and epithelial mesenchymal transition (EMT) related
+transcription factors. In this study we evaluated the role of DCLK1 in
+KRAS-mediated signaling in PDAC. Human pancreatic cancer cells (AsPC-1
+and MiaPaCa-2) were infected with Lentivirus containing human DCLK1 cDNA
+sequence to overexpress DCLK1 or red fluorescent protein (RFP) cDNA
+sequence as control. The expressing levels of DCLK1, active KRAS, and
+proteins in KRAS/PI3K/mTOR pathway were analyzed by western blotting. The
+proliferative and invasive potential of these cells were compared using a
+MTT assay for proliferation, wound healing assay for migration, soft agar
+assay for clonogenicity, and Matrigel coated transwell assay for
+invasion. Gemcitabine, Rapamycin, and PI3K inhibitors were used for
+evaluation. Analysis of human PDAC was performed using the TCGA PAAD
+dataset. Here we report that DCLK1 protein levels were increased more
+than 20 fold in AsPC-DCLK1 and MP2-DCLK1 cells resulting in activation of
+KRAS which was reversible by DCLK1-inhibitor XMD8-92. Compared to RFP
+control cells, AsPC-DCLK1 and MP2-DCLK1 cells exhibited a more than 20%
+increase in proliferation, approximately 30% increase in colony
+formation, 20% increase in migration, and a 2-fold increase (p < 0.05) in
+invasion. Evidence from TCGA PAAD demonstrated that pancreatic tumors
+expressing high levels of DCLK1 had activated PI3K/AKT/MTOR-pathway
+signaling suggesting greater KRAS activity. These data taken together
+suggest that DCLK1 promotes KRAS-driven PI3K/AKT/mTOR signaling in PDAC
+leading to increased migratory, invasive, anti-apoptotic effects,
+stem-like and tumorigenic properties.
+

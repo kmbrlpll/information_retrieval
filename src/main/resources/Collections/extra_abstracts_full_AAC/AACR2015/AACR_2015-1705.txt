@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Classification of colorectal PDX into transcriptomic subtypes
+associated with distinct genomic alteration profiles and in vivo response
+patterns to therapies
+
+
+Recently, unsupervised gene expression-based signatures with prognostic
+and potential predictive implications were proposed for colorectal cancer
+(CRC) classification. The challenge is now to characterize the genomic
+alterations of CRC subtypes and their sensitivity to therapies. Patient
+derived xenograft models (PDX) may be a valuable tool for this purpose,
+as they retain the molecular features and drug response patterns of their
+parental patient tumors. In this study, we classified our collection of
+colon PDX into transcriptomic subtypes and investigated the associations
+with genomic alterations and in vivo responses to cetuximab (CTX),
+oxaliplatin (OXT) and irinotecan (IR). We determined expression profiles
+of 67 PDX models using Affymetrix HGU133 Plus2.0 arrays and applied the
+CRC assigner-786 gene expression signature reported by Sadanandam et al.
+to classify our PDX into 5 subtypes. We identified 34 (51%)
+transit-amplifying (TA), 15 (22%) goblet-like (GL), 10 (15%) inflammatory
+(IF), 7 (10%) enterocyte (ET) and 1 (1%) stem-like (SL) PDX models. TA
+showed a gene signature of WNT pathway activation whereas GL, ET and IF
+PDX subtypes harbored gene signatures of KRAS pathway activation. As
+analyzed by whole exome sequencing and Affymetrix SNP6.0 array, the GL,
+ET and IF subtypes were found to display different signatures of
+mutational processes, mutations and chromosomal rearrangement patterns
+than TA and SL. Of particular note, mutations in BRAF, PIK3CA/PTEN,
+TGFBR2/SMAD4 or NOTCH1 were mainly found in GL, ET or IF while mutations
+in APC, TP53 and KRAS were not associated with a given subtype. Regarding
+PDX drug sensitivity, 10/11 TA/SL PDX with unaltered
+KRAS/PIK3CA/PTEN/HER2 status were sensitive to CTX whereas 9/12 models
+with alterations were resistant. TA and SL PDX were also frequently
+sensitive to IR and OXT (6/10 and 4/10, respectively). In the IF subtype,
+6/6 PDX showing KRAS, PIK3CA or PTEN alterations were resistant to CTX.
+Of interest, 5/5 IF PDX were sensitive to IR treatment. As in IF PDX, GL
+and ET often had alterations in KRAS/PIK3CA/PTEN/HER2 and were resistant
+to CTX. Moreover, these subtypes were resistant to both IR and OXT.
+Furthermore, the frequent KRAS pathway activation and the presence of
+actionable mutations in GL, ET and IF would advocate the testing of
+inhibitors (as monotherapy or in combination) of BRAF, PI3K or MEK in
+tumors of these subtypes while WNT inhibitors should be tested in TA
+models.Molecular classification of our colon PDX collection confirmed
+their similarities with patient tumors. Investigation of drug sensitivity
+resulted in the identification of PDX subtypes which respond poorly to
+standard therapies and which require different treatment options. Testing
+alternative and combined therapies in PDX may be a valuable approach to
+optimize personalized medicine.
+

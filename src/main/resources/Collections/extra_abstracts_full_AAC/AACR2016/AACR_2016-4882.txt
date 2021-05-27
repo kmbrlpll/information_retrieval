@@ -1,0 +1,34 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identification of potential immune targets in controlling
+endometrioid endometrial carcinoma metastatic progression
+
+
+Endometrial adenocarcinoma is a common cause of gynecological cancer
+death in Europe and North America. The most dominant subtype,
+Endometrioid Endometrial Cancer (EEC) accounts for >80% of this cancer
+and is estrogen-dependent. At diagnosis, 75% of women have the disease
+confined to the uterus, which is considered Stage One. Five-year survival
+for Stage One patients is 80%, however, about 15-20% develop
+metastasis.Total RNA extracted from tissues obtained after surgical
+resection from three women at stage one EEC was subjected to
+RNA-sequencing. The publicly available dataset (SRP045645) was downloaded
+directly from the Sequence Read Archive and the FASTQ files were
+processed with Biomedical Genomics Workbench for secondary analysis
+including mapping, quantification and differential expression analysis.
+Through streamlined integration the data was uploaded to Ingenuity
+Pathway Analysis (IPA) for biological interpretation.We show how in
+silico solutions developed by QIAGEN Bioinformatics enable us to analyze
+the biological parameters involved in EEC metastatic progression from an
+early stage in the three patients diagnosed at Stage One. By comparing
+these patients RNA-seq results, we determined that key Canonical Pathways
+and other biological processes differentiated the three patients from one
+other. In particular, the predicted transcriptional program allowed us to
+visualize key upstream drivers. Three of these transcriptional drivers
+are immune related molecules (two cytokines: CXCL14 and GDF15 and one
+growth factor FGF3). They have been predicted to be potential master
+regulators of a Causal Network that drives increase of EEC, metastasis,
+epithelial-to-mesenchymal-transition (EMT), and cellular invasion in one
+of the three patients. Based on these results we propose these three
+immune molecules as possible therapeutic targets to counteract the
+metastatic processes in EEC.
+

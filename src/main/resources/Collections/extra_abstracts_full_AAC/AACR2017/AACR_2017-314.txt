@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Evaluation of effective drug combinations of sonidegib and
+ribociclib for treatment of Sonic hedgehog medulloblastoma using
+mathematical models of the cell cycle and Hedgehog pathways.
+
+
+Sonic hedgehog (SHH) tumors account for roughly 25% of all pediatric
+medulloblastoma. Aberrant signaling of the SHH pathway, typically via
+Patched-1 (PTCH) mutation, results in cell proliferation and subsequent
+tumor formation. Smoothened (SMO) inhibitors such as sonidegib have been
+used clinically to combat tumor progression and have shown initial
+promise. However, many tumors acquire resistance to therapy. Combination
+therapy with an additional agent targeting another node in pathways
+affecting cell-cycle progression such as ribociclib, a cyclin D-dependent
+kinase (CDK) 4/6 inhibitor, may improve therapy and reduce tumor burden
+by delaying or preventing the development of resistance. Identification
+and evaluation of effective anti-cancer drug combinations, along with
+their schedule, sequence, and dosage are a major challenge due to the
+large number of possible combinations in addition to the cost and time
+involved in experimentally testing each possible permutation.
+Mathematical models can aid in the discovery of optimal drug
+combinations. A mathematical model of the SHH and Cyclin D / CDK / Rb
+pathways was designed to evaluate effective sequences and schedules of
+sonidegib and ribociclib for the treatment of SHH medulloblastoma. The
+model was parameterized using in vitro data from studies treating the
+NIH3T3 cell line with sonidegib and ribociclib singly or in combination.
+Flow cytometry analysis was used to quantify response to treatment by
+obtaining cell-cycle phase distributions for each drug as a single agent
+or in combination. Uncertainty and sensitivity analysis of the model
+parameters were evaluated via Latin Hypercube Sampling and Partial Rank
+Correlation Coefficient analysis to interpret the effects of
+amplification or deletion of nodes in the pathway, evaluate potential
+targetable nodes, and identify sensitive parameters that need robust
+quantification. Sensitivity analysis indicated that the formation of
+Cyclin D/CDK4/6 complexes and the dephosphorylation of Rb were
+significant nodes that should be included in the model. Uncertainty
+analysis indicated that the majority of the variability lies in the
+distribution of cells in G0/G1 and S phase. Simulations of single agent
+treatment predict a similar response between sonidegib and ribociclib,
+with co-treatment indicative of an additive effect. Optimal control
+theory methods are being applied to this model to help determine
+effective sequence, schedule, and dose of sonidegib and ribociclib to
+improve efficacy and reduce drug resistance in the treatment of SHH
+medulloblastoma.
+
+

@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A model-based approach toward clinical pipeline optimization
+
+
+IntroductionWhat is the optimal shape for a drug pipeline: A flute? A
+megaphone? A trumpet? In other words, what set of stringencies for
+passage of candidates to the next stage in development maximizes the
+value of the pipeline as a whole, and how do assays predicting drug
+quality influence this optimum?MethodsA linear programming formulation
+was developed for four phases of a drug pipeline: Preclinical, Phase I,
+Phase II, and Phase III, with variables including: the total budget for
+the entire pipeline (B), and the number (Ni), cost (ci), and net present
+value (vi) of drugs in each phase (i). The model is subject to two
+constraints: (1) the pipeline must reduce in size with each subsequent
+phase (i.e. Npre N1 N2 N3), and (2) the sum total of the cost times the
+number of drugs in each phase must be less than or equal to the total
+budget (i.e. cpreNpre + c1N1 + c2N2 + c3N3 B). The overall goal is to
+maximize the total value of drugs progressing through the pipeline (i.e.
+maximize vtot = vpreNpre + v1N1 + v2N2 + v3N3).Additionally, pipeline
+evolution was modeled to evaluate the implications of a predictive drug
+quality assay. Hypothetical drug quality scores were drawn from normal
+distributions which reflect industry probabilities of success between
+phases. Drugs that are above a cutoff stringency advance forward, with
+the process repeated for all phases. The cost of each phase and value for
+successful drugs are recorded for each simulation. The process is
+repeated many times, with the expected value calculated at each
+iteration.ResultsBeginning with a pool of drug candidates, the optimal
+pipeline structure should approach equal sized pipeline widths as rapidly
+as possible.Monte Carlo simulations demonstrated that increasing the
+stringency of a quality assay in Phase I results in a linear increase in
+expected value. Additionally, if the quality test is improved, e.g. by
+reducing the variability of the assay, the improvement in expected value
+will increase in an exponential manner.ConclusionsThe simulations predict
+that to maximize pipeline value, drug companies should: (a) pick the
+winners as early as possible (i.e. Preclinical or Phase I), (b) set
+stringent go/no-go criteria in Preclinical and Phase I development, and
+(c) perform prospective clinical trial simulations (Preclinical to Phase
+I, Phase I to Phase II, Phase II to Phase III) to improve the ability to
+predict winners.
+

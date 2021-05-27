@@ -1,0 +1,63 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Lymph node metastasis evolution drives immune evasion and targeted
+therapy resistance in gastro-esophageal adenocarcinomas (GEAs).
+
+
+GEAs are aggressive tumors in which several targeted therapy trials have
+failed. We assessed intratumor heterogeneity (ITH) and its impact on
+progression and therapy failure by applying an 81-gene NGS panel and SNP
+array copy number aberration (CNA) analysis to multiple primary tumor (T)
+regions and lymph node (LN) metastases from 9 GEAs.
+
+Analysis of 39 samples found ITH in all cases. 8 chromosomally instable
+(CIN) GEAs predominantly evolved through CNAs, with 17-76% of the genome
+affected by heterogeneous CNAs. A microsatellite instable GEA showed
+parallel evolution and diversified exclusively through point mutations
+(58% ITH). This demonstrates ongoing genomic instability rather than
+punctuated evolution and that specific instability mechanisms impact
+evolutionary trajectories.
+
+LN metastases contributed more to ITH (pLN metastases contributed more to
+ITH (p<0.01) than any anatomic location within T. Further, subclonal
+aberrations that activate the Mitogen Activated Protein Kinase-pathway
+(MAPK-pw), including ERBB3, ERK2, KRAS and NRAS amplifications (amp) and
+NRAS mutations, were detected in LN metastases from 4/8 CIN GEAs.
+Subclonal MAPK-activating amp were enriched in LN (p=0.019) compared to T
+regions that only exhibited a single subclonal MET amp. Convergent
+evolution of LN subclones across several GEAs suggests that selection
+pressures differ systematically between LN and T ecosystems.
+
+To assess the phenotypes established by MAPK-activating amp evolution, we
+analyzed 135 published primary CIN subtype GEAs. Cytolytic activity
+(CYT), estimating tumor immune recognition from RNA expression data,
+correlated with the mutation load in GEAs with EGFR, ERBB2 or MET amp
+(p=0.04). In contrast, CYT did not correlate with mutation load in GEAs
+with KRAS or ERBB3 amp (p=0.22, NRAS/ERK2: insufficient data), indicating
+that these specific alterations, that also recurrently evolved in LN, may
+enable immune evasion. Downregulation of TAP and Class I MHC genes (pTo
+assess the phenotypes established by MAPK-activating amp evolution, we
+analyzed 135 published primary CIN subtype GEAs. Cytolytic activity
+(CYT), estimating tumor immune recognition from RNA expression data,
+correlated with the mutation load in GEAs with EGFR, ERBB2 or MET amp
+(p=0.04). In contrast, CYT did not correlate with mutation load in GEAs
+with KRAS or ERBB3 amp (p=0.22, NRAS/ERK2: insufficient data), indicating
+that these specific alterations, that also recurrently evolved in LN, may
+enable immune evasion. Downregulation of TAP and Class I MHC genes
+(p<0.05) in KRAS or ERBB3 amp GEAs suggested impaired antigen processing
+and presentation as the mechanisms driving T cell immune evasion.
+
+Moreover, ITH of MAPK-activating amp is likely to confer resistance to
+upstream tyrosine kinase inhibition. We used GEA cell lines with various
+MAPK-activating amp (ERBB2, MET, NRAS) to investigate downstream MAPK-pw
+inhibition as a novel strategy to broadly target heterogeneous subclones.
+Growth control was incomplete with ERK- and MEK-inhibitors but the
+panRAF/SRC inhibitor CCT196969 was effective in all lines, suggesting
+that it can effectively intercept subclonal heterogeneity in GEAs.
+
+In conclusion, we identified ITH with parallel and convergent evolution
+in 9/9 metastatic GEAs. Distinct selection pressures in LN foster the
+evolution of subclonal MAPK-activating amp that decrease immunogenicity
+and drive evolutionary pre-adaptation to future targeted drugs that can
+be intercepted by panRAF/SRC inhibitors.
+
+

@@ -1,0 +1,40 @@
+Meeting: 2013 AACR Annual Meeting
+Title: MicroRNA target site polymorphisms and colorectal cancer risk in
+the Ashkenazi Jewish population.
+
+
+MicroRNAs (miRNAs) act as key post-transcriptional regulators of gene
+expression via binding to the 3 untranslated regions (UTRs) of mRNAs.
+Single nucleotide polymorphisms (SNPs) found in the miRNA sequence and/or
+corresponding binding sites can affect the fidelity of this interaction,
+and evidence from candidate miRNA studies suggests that such SNPs may
+increase or decrease risk of tumor development. This study was designed
+to expand the search for miRNA-related polymorphisms important in cancer
+etiology across the genome and to investigate the association between
+thousands of genetic variants in miRNA target sites and colorectal cancer
+(CRC) risk using a novel genotyping platform, the Axiom miRNA Target Site
+Genotyping Array (237,858 markers). The final study sample after quality
+control filtering included 605 cases and 615 controls from the Molecular
+Epidemiology of Colorectal Cancer (MECC) study, a population-based
+case-control study of incident CRC cases in a geographically-defined area
+of northern Israel. The marginal association between each marker with
+minor allele frequency >=1% and CRC risk was examined assuming a
+log-additive genetic model using logistic regression adjusted for sex,
+age, and the first two principal components (PC) to capture fine-scale
+population structure. There were 11 markers with p-values less than 3E-4,
+and the most statistically significant association involved rs12130051
+(chr1:19545053; 3-UTR of KIAA0090) with an OR of 2.24 (1.52,3.31) and
+p=4.48E-5. In addition, rs1051690 (chr5:142605172; 3-UTR of ARHGAP26),
+was statistically significantly associated with decreased CRC risk (OR
+(95% CI): 0.71 (0.59, 0.85); p = 2.03E-4). Further, this study provided
+evidence for replication of a previously published locus, rs1051690 in
+the 3UTR region of the insulin receptor gene, INSR (OR (95% CI): 1.27
+(0.96,1.67); p = 0.09). A fixed-effects meta-analysis of sample-size
+weighted p-values from a recent publication in Carcinogenesis describing
+the INSR variant (Landi et al., 2012) and from the current MECC study
+yielded a combined p-value of 0.01. To our knowledge, this is the first
+study to examine the association between genetic variation in miRNA
+target sites and cancer risk using a genome-wide approach. Work is
+ongoing to replicate findings from this study and to characterize the
+functional impact of prioritized polymorphisms.
+

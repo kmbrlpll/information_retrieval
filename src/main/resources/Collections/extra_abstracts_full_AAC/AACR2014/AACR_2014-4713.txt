@@ -1,0 +1,85 @@
+Meeting: 2014 AACR Annual Meeting
+Title: High-throughput multiplex Sequenom MassARRAY clinical diagnostic
+assay for the identification of actionable genetic variants in
+hematologic malignancies
+
+
+Recent cancer genome sequencing efforts have led to an enhanced
+understanding of the somatic mutation profile of hematologic malignancies
+in the context of known cytogenetic abnormalities. For cytogenetically
+normal acute myeloid leukemia (AML), mutations in NPM1, DNMT3A, CEBPA,
+TET2 and IDH1/2 are thought to have potential predictive utility and may
+impact patient management with regard to initial and consolidation
+therapy, including stem cell transplantation. As most potentially
+clinically relevant variants currently are not tested for within the
+diagnostic setting, we established a high-throughput multiplex assay
+capable of simultaneous detection of a range of somatic mutations in
+hematologic malignancies. Using iPlex chemistry and the Sequenom
+MassARRAY platform, we established the Princess Margaret Cancer Centre
+(PM) Hematologic Malignancies Panel v1.0, comprised of 110 individual
+assays profiling 186 mutations in 22 relevant genes, in a 16-well assay
+format. We conducted an in silico analysis to identify genes with hotspot
+mutations capable of being analyzed by Sequenom; genes with mutations
+distributed throughout the coding sequence (e.g., CEBPA, TET2) were
+excluded from the panel. To best integrate this technology in the
+workflow of our routine clinical molecular diagnostic testing we
+developed the PM Panel as an RNA-based test, requiring 1 g of patient RNA
+for the initial reverse transcription reaction. To validate the assay we
+tested 222 patient-derived samples, including 5 normal samples, 82 AML
+(57 with normal cytogenetics, 24 with cytogenetic changes and 1
+therapy-related), 44 myelodysplastic syndromes, 32 myeloproliferative
+neoplasms, 21 additional cases tested for KIT mutation, and 38 B-lymphoid
+malignancies (including 3 multiple myeloma cases),. Concordance with
+established lab assays for NPM1, FLT3-TKD and JAK2 mutations was 100%;
+other identified mutations were verified by Sanger sequencing at 98%
+concordance (2% of cases were below the limit of sensitivity of Sanger
+technology). Approximately 50% of samples were positive for at least one
+mutation with 174 mutations detected overall. Cytogenetically normal AMLs
+and myelodysplastic syndromes were most informative, with 2.3 and 1.8
+mutations per positive case respectively. Samples already known to carry
+a leukemogenic driver fusion protein (e.g., PML-RAR, AML1-ETO, or
+BCR-ABL) had a significantly decreased identified somatic mutation load
+than their cytogenetically normal counterparts (average of 1.4 mutations
+per case, compared to 0.3, p Recent cancer genome sequencing efforts have
+led to an enhanced understanding of the somatic mutation profile of
+hematologic malignancies in the context of known cytogenetic
+abnormalities. For cytogenetically normal acute myeloid leukemia (AML),
+mutations in NPM1, DNMT3A, CEBPA, TET2 and IDH1/2 are thought to have
+potential predictive utility and may impact patient management with
+regard to initial and consolidation therapy, including stem cell
+transplantation. As most potentially clinically relevant variants
+currently are not tested for within the diagnostic setting, we
+established a high-throughput multiplex assay capable of simultaneous
+detection of a range of somatic mutations in hematologic malignancies.
+Using iPlex chemistry and the Sequenom MassARRAY platform, we established
+the Princess Margaret Cancer Centre (PM) Hematologic Malignancies Panel
+v1.0, comprised of 110 individual assays profiling 186 mutations in 22
+relevant genes, in a 16-well assay format. We conducted an in silico
+analysis to identify genes with hotspot mutations capable of being
+analyzed by Sequenom; genes with mutations distributed throughout the
+coding sequence (e.g., CEBPA, TET2) were excluded from the panel. To best
+integrate this technology in the workflow of our routine clinical
+molecular diagnostic testing we developed the PM Panel as an RNA-based
+test, requiring 1 g of patient RNA for the initial reverse transcription
+reaction. To validate the assay we tested 222 patient-derived samples,
+including 5 normal samples, 82 AML (57 with normal cytogenetics, 24 with
+cytogenetic changes and 1 therapy-related), 44 myelodysplastic syndromes,
+32 myeloproliferative neoplasms, 21 additional cases tested for KIT
+mutation, and 38 B-lymphoid malignancies (including 3 multiple myeloma
+cases),. Concordance with established lab assays for NPM1, FLT3-TKD and
+JAK2 mutations was 100%; other identified mutations were verified by
+Sanger sequencing at 98% concordance (2% of cases were below the limit of
+sensitivity of Sanger technology). Approximately 50% of samples were
+positive for at least one mutation with 174 mutations detected overall.
+Cytogenetically normal AMLs and myelodysplastic syndromes were most
+informative, with 2.3 and 1.8 mutations per positive case respectively.
+Samples already known to carry a leukemogenic driver fusion protein
+(e.g., PML-RAR, AML1-ETO, or BCR-ABL) had a significantly decreased
+identified somatic mutation load than their cytogenetically normal
+counterparts (average of 1.4 mutations per case, compared to 0.3, p <
+10^-6). The PM Hematologic Malignancies Panel v1.0 is now being
+integrated into the current clinical diagnostic workflow. We therefore
+report the development of a versatile, RNA-based high-throughput
+multiplex platform for the identification of somatic mutations present in
+hematologic malignancies for use in a clinical diagnostic setting.
+

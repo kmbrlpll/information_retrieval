@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Multi-scale omics integration using parallel heatmap clustering
+for the systemic analysis and biomarker discovery of drug sensitivity in
+lymphoma cell lines.
+
+
+Background. Pharmacogenomics studies the role of genomics in drug
+response. By measuring the individual genome, it is hoped that
+pharmaceutical drug treatments can deviate from a "one-dose-fits-all"
+approach to a more "personalized" treatment. To achieve this goal, we
+need to explain which genomic differences cause the lack of response and
+to be able to predict the response from baseline omics data, that is from
+data available before starting treatment. Here, we present an integrated
+omics approach to analyze drug sensitivity based on in vitro experiments.
+
+Methods. We measured the drug response in 61 lymphoma cell lines for a
+number of anti-cancer drugs using a standard MTT cell proliferation
+assay. The baseline genomics of these cell lines were fully profiled for
+gene expression, copy number and methylation. Pathway and gene set
+signatures were computed using GO, KEGG, Biocarta and lymphoma databases
+to provide gene set level features. Additionally, we computed high level
+"biological concept" features. These multi-scale features were directly
+correlated with drug sensitivity but also correlated between the multiple
+data types. Using a novel parallel clustering approach, we integrated our
+data for the different omics types and at different scales: gene, gene
+set and concept level. Finally, a shortest path algorithm extracted the
+most probable explanation between genotype and response phenotype.
+
+Results. As a proof of concept, we first applied our method to the
+classification of activated B- cell like (ABC) and germinal center B
+(GCB) subtypes in diffuse large B-cell lymphomas (DLBCL). In accordance
+to previous knowledge, our method showed the MYD88/CD40/NFKB axis as
+strongly upregulated in the ABC, while, albeit less pronounced, the
+PI3K/MTOR and NOTCH signalling pathways were more enriched in the GCB
+subtype. We then applied our method to the drug sensitivity data of our
+lymphoma cell line panel. The analysis showed that drug response was
+largely driven by differential methylation rather than copy number
+aberrations. We found that B cell receptor signaling (BCR) and CD40
+signalling were among the most correlated to drug sensitivity in a
+drug-specific manner. Genes in these pathways (such as SYK, SPIB and
+CD79A) appeared as good biomarkers for drug-specific response in lymphoma.
+
+Conclusion. Using an integrated analysis of multiple omics data at
+multiple scales, we successfully identified functional modules related
+with drug sensitivity in lymphoma cell lines. The same method can be
+applied to study the sensitivity to other drugs in either hematological
+and/or solid cancer types.
+
+

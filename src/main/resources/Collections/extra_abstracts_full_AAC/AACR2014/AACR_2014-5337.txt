@@ -1,0 +1,22 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Molecular dynamics study on keap1 point mutations in lung cancer
+
+
+Keap1 is a BTB-Kelch substrate adaptor protein that regulates
+steady-state levels of Nrf2, a bZIP transcription factor, in response to
+oxidative stress. In basal condition, Nrf2 is negatively regulated
+through ubiquitination by Keap1. However, upon exposure to oxidative
+stress, ubiquitination of Nrf2 is inhibited, resulting increased
+steady-state level of Nrf2 and increased transcription of cytoprotective
+ARE (antioxidant response elements)-dependent genes. Reported in 2006,
+the structure of Keap1 Kelch domain in complex with a 16-mer peptide
+derived from Nrf2 has been solved by X-ray crystallography to a
+resolution of 1.85. Accordingly, it grants us a chance to evaluate the
+interaction between Keap1 and Nrf2 and further interpret numerous
+experimental findings on unbinding due to modifications on Keap1. Herein
+we apply molecular dynamics simulations to study the binding behaviors of
+Keap1 and Nrf2 based on the solved structure to investigate how single
+point mutations G364C and G430C on Keap1 affect Keap1-Nrf2 binding and
+further cause lung cancer.Note: This abstract was not presented at the
+meeting.
+

@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Targeting jak/stat adaptive mechanism with jak1 inhibitor azd4205
+reduces residual disease and prolongs benefit of osimertinib.
+
+
+EGFR kinase inhibitors have provided tremendous benefit for non-small
+cell lung cancer (NSCLC) patients with EGFR driver mutations. However,
+many patients fail to respond or have responses of limited duration.
+Accumulating evidence suggests that the JAK1/STAT3 axis plays a role in
+tumor escape, and that combined inhibition of EGFR and JAK1 may drive
+more complete and durable responses. Here we report AZD4205, a potent
+ATP-competitive inhibitor that inhibits JAK1 with a Ki of 2.8 nM and
+exhibits excellent selectivity vs. other JAK family kinases and across
+the kinome.
+
+Combination of AZD4205 (dosed at 12.5, 25 or 50 mg/kg BID, PO) with
+Osimertinib (doses ranging from 1 to 25 mg/kg QD, PO) led to enhanced in
+vivo anti-tumor activity in several NSCLC xenograft models driven by
+mutant EGFR: H1975 (L858R/T790M), PC-9 (del19), and HCC827 (del19). In
+the H1975 model, after 18 days of treatment beginning with 189mm3
+established tumors, treatment with osimertinib at 2.5 mg/kg led to tumor
+growth inhibition of 92% relative to vehicle. Addition of AZD4205 at 12.5
+and 50 mg/kg led to 30% and 69% tumor regression, respectively. AZD4205
+dosed at 12.5 and 50 mg/kg BID resulted in pSTAT3 (Y705) knockdown of 72%
+and 91% at peak plasma concentration (2H) respectively, and 42% and 86%
+at 8H. In the PC-9 model, after 22 days of treatment beginning with
+234mm3 established tumors, osimertinib at 1 mg/kg induced an average 41%
+regression, and increased to 74% with the addition of 50 mg/kg BID
+AZD4205. The volume of vehicle treated tumors increased by 3.7-fold over
+this treatment period. In the HCC827 model, beginning with 127mm3
+established tumors, osimertinib at 25 mg/kg induced a complete response
+in 100% of mice after 11 days of treatment, but tumors regrew to the
+average starting volume ~24 days after stopping treatment. When 50 mg/kg
+of AZD4205 was added to the osimertinib treatment, regrowth was delayed
+by an additional ~7 days. Combination activity was also observed in the
+PDX (patient-derived xenograft) model LG1049 (del19 and T790M EGFR
+mutations). Beginning with 189mm3 established tumors, osimertinib at 25
+mg/kg induced an average 39% regression after 28 days of treatment, which
+increased to 56% with the addition of 25 mg/kg AZD4205 on a 4 days on / 3
+days off / week schedule. AZD4205 treatment led to 67% knockdown of
+pSTAT3 after 4H of treatment in this model.
+
+Our experiments establish AZD4205 as a potent and selective JAK1
+inhibitor with desirable biophysical properties. While additional work is
+needed to build a patient enrichment strategy, the data generated
+supports targeting the adaptive JAK1/STAT3 axis with JAK1 inhibitor
+AZD4205 in clinic as a strategy to reduce residual disease and prolong
+the benefit of Osimertinib in lung cancer patients with EGFR activating
+mutations.
+
+

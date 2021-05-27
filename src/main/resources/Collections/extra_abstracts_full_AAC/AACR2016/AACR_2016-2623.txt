@@ -1,0 +1,69 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Common genetic variants associated with breast cancer risk used in
+the Athena study to enhance models identifying women for breast cancer
+chemoprevention
+
+
+Background: The U.S. Preventive Services Task Force recommends that women
+with a >3% five-year risk of developing breast cancer consider taking
+selective estrogen receptor modifiers (SERMs) or aromatase inhibitors
+(AIs) to reduce their risk. Polygenic risk score (PRS), calculated by
+adding the individual breast cancer risk association for each common
+genetic variant (SNP), has been found to predict women at low- to
+high-risk of breast cancer. We analyze associations between SNP risk
+alleles and known breast cancer risk factors (ethnicity, family history
+of breast cancer and number of biopsies); furthermore, we quantify the
+likely impact on chemoprevention recommendations by adding the PRS to
+known risk models in a subset of women participating in the University of
+California 100,000 women Athena Breast Health Network.Methods: Our
+research cohort included 838 women with no previous diagnosis of breast
+cancer from the University of California, San Francisco, and was enriched
+for women determined to be at elevated risk for developing breast cancer
+by the Gail model. A panel of 75 breast cancer risk SNPs were evaluated
+on saliva and blood samples (Akesogen Inc; COGS oncochip array). The PRS
+for each patient was calculated by converting the odds ratio for each SNP
+into a likelihood ratio (LR) and combining LR's across SNPs. Breast
+Cancer Surveillance Consortium (BCSC), Gail, BCSC-PRS and Gail-PRS scores
+(risk models incorporating PRS within a Bayesian framework), were
+evaluated for each patient. Associations between variables were assessed
+using t-test or ANOVA. A threshold of pBackground: The U.S. Preventive
+Services Task Force recommends that women with a >3% five-year risk of
+developing breast cancer consider taking selective estrogen receptor
+modifiers (SERMs) or aromatase inhibitors (AIs) to reduce their risk.
+Polygenic risk score (PRS), calculated by adding the individual breast
+cancer risk association for each common genetic variant (SNP), has been
+found to predict women at low- to high-risk of breast cancer. We analyze
+associations between SNP risk alleles and known breast cancer risk
+factors (ethnicity, family history of breast cancer and number of
+biopsies); furthermore, we quantify the likely impact on chemoprevention
+recommendations by adding the PRS to known risk models in a subset of
+women participating in the University of California 100,000 women Athena
+Breast Health Network.Methods: Our research cohort included 838 women
+with no previous diagnosis of breast cancer from the University of
+California, San Francisco, and was enriched for women determined to be at
+elevated risk for developing breast cancer by the Gail model. A panel of
+75 breast cancer risk SNPs were evaluated on saliva and blood samples
+(Akesogen Inc; COGS oncochip array). The PRS for each patient was
+calculated by converting the odds ratio for each SNP into a likelihood
+ratio (LR) and combining LR's across SNPs. Breast Cancer Surveillance
+Consortium (BCSC), Gail, BCSC-PRS and Gail-PRS scores (risk models
+incorporating PRS within a Bayesian framework), were evaluated for each
+patient. Associations between variables were assessed using t-test or
+ANOVA. A threshold of p<0.05 was used to assess significance.Results:
+Women in this study carry an average of 65 risk allele SNPs (of 150, 2
+per locus). By ANOVA, there is a statistically significant association
+between the SNPs risk allele count and ethnicity (p = 0.014), with a
+trend towards association with a family history of a first-degree
+relative with breast cancer (p = 0.053). PRS is significantly associated
+with a family history breast cancer (p = 0.031); neither SNP allele count
+nor PRS associates with previous biopsy status.We found by adding PRS
+that 12% (86/707) and 13% (104/776) of patients with a prior BCSC or Gail
+score 3% five-year risk, respectively, changed classifications by adding
+PRS and would no longer be eligible for chemoprevention.Conclusion: The
+addition of SNP based PRS to BCSC and Gail models significantly changes
+how women are classified and as a result changes whether risk reducing
+agents are recommended.PRS will be combined with BCSC and genetic test
+results for 9 breast cancer genes to calculate a women's breast cancer
+risk in the PCORI-funded Athena WISDOM study of 100,000 women, comparing
+risk-based vs. annual mammography screening.
+

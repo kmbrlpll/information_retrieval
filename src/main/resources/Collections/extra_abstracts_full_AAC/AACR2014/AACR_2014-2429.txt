@@ -1,0 +1,30 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Temporally and spatially inducible mouse model of aneuploidy
+
+
+Aneuploidy, the state in which cells have an abnormal number of
+chromosomes, is a hallmark of most human cancers. Despite aneuploidy's
+near-ubiquitous presence in tumors, it is unknown whether aneuploidy is a
+driver or passenger in cancer progression. Aneuploidy is normally
+prevented by the spindle assembly checkpoint (SAC), a critical cellular
+mechanism which blocks chromosomal missegregation by inhibiting premature
+sister chromatid separation during mitosis. Although transgenic mouse
+models with defective SAC proteins exist, the dysfunctional proteins are
+expressed constitutively from birth in all tissues, a milieu that differs
+from that of an in vivo human tumor in which cancer cells develop
+aneuploidy de novo in the context of a euploid organism. In order to
+generate a mouse model that more closely approximates this tumor
+environment, we will insert single copies of shRNA hairpins that target
+SAC proteins BubR1 or Mad2 into the mouse genome at the Col1A1 locus
+using recombination mediated cassette exchange. shRNA expression will be
+under the control of a tetracycline responsive element in tissues that
+co-express rtTA, leading to temporally and spatially inducible disruption
+of the SAC, and thus aneuploidy. In vitro shRNA construct validation
+experiments indicate our shRNAs successfully knockdown target RNA and
+protein levels, as well as functionally promote mitotic slippage after
+nocodazole arrest, which is indicative of an impaired SAC. We will use
+this mouse model to investigate the role of increased chromosomal
+missegregation on tumor initiation and evolution, as well as the impact
+of increased aneuploidy on normal organ function.[Daniel Eichberg is a
+Howard Hughes Medical Institute Medical Research Fellow.]
+

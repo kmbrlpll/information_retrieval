@@ -1,0 +1,57 @@
+Meeting: 2017 AACR Annual Meeting
+Title: New technologies to probe the systems glycobiology of cancer.
+
+
+A robotic 384 well based platform was developed to release and label the
+human serum N-glycome. Improved separation of the glycan pool, based on
+hydrophilic interaction UPLC chromatography combined with mass
+spectrometry (Waters Corporation) and computer assisted data
+interpretation (NIBRT Glycobase) enabled us to build a database after
+assigning the detailed structures of more than 170 N-glycans.
+
+The aim of the project was to use these technologies and databases to
+link glycosylation changes in individual patients’ serum with features
+of cancer and with changes in a range of other –omics data acquired
+from the same patients.
+
+Alterations in glycosylation in various breast cancers were mapped to
+changes in the serum glycomes and aligned with genetic, transcriptomic
+and proteomic data. Pathway analysis showed strong associations between
+these glycan changes and the –omics data. This revealed that many of
+the glycan changes are directly associated with pathways involved in
+cancer metastasis.
+
+Our next aim was to demonstrate the feasibility of collecting
+personalised data from individual patients from each of the –omics
+analyses to build up a dataset of the changing glycosylation over time.
+This opens up the possibility of linking these data to explore pathways
+of disease and, in particular, nodal points where the patient can no
+longer compensate for the effects of an altered pathway that is leading
+to disease.
+
+To this end, single glycoproteins from 8 controls and 26 ovarian cancer
+patients were sequentially purified from 5ul of serum on affinity plates
+and the released glycans were analysed. Rather than the conventional way
+of looking at markers which compare a patients’ data with averages, the
+control can now be the blood of the patient themselves taken at an
+earlier time point.
+
+The automation, sensitivity, quantitation and resolution of the new
+technology platforms coupled with dedicated software open up new
+possibilities for precision medicine and early intervention based on the
+biochemical profile of the patient.
+
+References:
+
+Association of N-glycosylation with breast carcinoma and systemic
+features using high-resolution quantitative UPLC. Saldova R, Asadi Shehni
+A, Haakensen VD, Steinfeld I, Hilliard M, Kifer I, Helland A, Yakhini Z,
+Børresen-Dale AL, Rudd PM. J Proteome Res. 2014 May 2;13(5):2314-27.
+
+Serum N-glycan analysis in breast cancer patients--Relation to tumour
+biology and clinical outcome.
+
+Haakensen VD, Steinfeld I, Saldova R, Shehni AA, Kifer I, Naume B, Rudd
+PM, Børresen-Dale AL,Yakhini Z. Mol Oncol. 2016 Jan;10(1):59-72.
+
+

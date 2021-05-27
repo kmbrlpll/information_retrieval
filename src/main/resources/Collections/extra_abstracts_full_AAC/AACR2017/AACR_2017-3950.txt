@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A novel combination therapy targeting BCL6 and phospho-STAT3
+defeats intratumor heterogeneity in a subset of non-small cell lung
+cancers.
+
+
+Purpose: Lung cancer is a disease of great oncogenotype complexity
+(oncogenes and tumor suppressor gene alterations). These alterations can
+appear in different combinations even within histologically defined lung
+cancer subtypes. The success of targeted therapy has led to a search for
+oncogenotype-specific therapies. But, no one therapy fits all
+oncogenotypes. Here, we investigate whether characterization of
+oncogene-specific alterations in cellular signaling at single cell level
+indicate heterogeneity even within cells from the same patient with
+defined oncogenotype, and whether they can suggest new targets to deal
+with this heterogeneity.
+
+Methods: We compared signaling alterations in single cells for
+β-CATENIN, SMAD2/3, phospho-STAT3, P65, FOXO1 and phospho-ERK1/2 among a
+collection of Human Bronchial Epithelial Cells (HBECs) that have been
+oncogenically transformed with combinations of TP53, K-RAS, and MYC,
+commonly found alterations in non-small cell lung cancer (NSCLC). We
+studied ~3000 cells/signaling marker/HBEC oncogenotype variant using
+immunofluorescence assays and single-cell image analysis (>1M data
+points). For downstream target identification and validation we utilized
+gene expression, Western blot and siRNA mediated knockdown assays. We
+utilized inhibitors to STAT3 and BCL6 in MTT drug sensitivity and colony
+formation assay in a panel of NSCLC lines. We used xenografted
+subcutaneous tumors for the in vivo validation of our results.
+
+Results: When all three oncogenic changes were present and the HBECs were
+tumorigenic, we observed STAT3 upregulation and SMAD2/3 downregulation.
+Interestingly, these STAT3 and SMAD2/3 signaling changes were found to be
+mutually exclusive in single cells within the transformed HBEC strain. We
+targeted the STAT3 upregulated subpopulation with the STAT3 inhibitor
+Stattic. But, Stattic treatment failed to eliminate the SMAD2/3
+downregulated subpopulation. To target the SMAD2/3 down-regulated
+subpopulation, we identified BCL6, a downstream gene of SMAD2/3, as a
+novel target in transformed HBECs. Next, to test the generality of BCL6
+as a target, we studied 5 NSCLC cell lines with various level of BCL6
+expression: H1693, H1819, H1993, HCC827 and H2009. Our data suggests that
+BCL6 can also be a therapeutic target in a subset of NSCLC lines. Then we
+tested the response of these NSCLC lines to a combination of BBI608
+(potent STAT3 inhibitor) and FX1 (BCL6 inhibitor). The combination
+treatment eliminated more cancer cells than the single treatments alone.
+Finally, we confirmed the benefit of the combination therapy in H1993
+xenografted tumors.
+
+Conclusions: We conclude that BCL6 is a new therapeutic target in NSCLC
+and combination therapy that targets multiple vulnerabilities
+(Phospho-STAT3 and BCL6) downstream of common oncogenes and tumor
+suppressors (TP53, K-RAS, and MYC) may provide a potent way to defeat
+intra-tumor heterogeneity.
+
+

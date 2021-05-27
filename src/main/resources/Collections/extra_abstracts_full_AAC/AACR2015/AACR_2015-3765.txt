@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Population pharmacodynamics: Mechanism-based modeling of receptor
+tyrosine kinase networks in cancer
+
+
+The genetic heterogeneity of cancer results in patient-to-patient
+variability that makes it difficult to predict whether the patient will
+respond to a treatment. Molecular biomarkers such as the expression
+levels of genes or proteins have proven useful in limited cases, but
+these biomarkers are typically univariate and linear, whereas
+multivariate, nonlinear biomarkers are needed to adequately describe the
+network of molecular interactions targeted by a drug.We have developed a
+method for building multivariate biomarkers that incorporate BOTH
+patient-specific transcriptomic/proteomic data AND detailed mechanistic
+models of the nonlinear interactions between ligands and receptors. The
+mechanistic models that we use are computational pharmacodynamic models,
+with multiple compartments, each with multiple cell types that express
+the ligands and receptors under investigation. The models incorporate
+detailed protein-protein interaction networks to simulate the complex
+dynamics of growth factor families and their receptors. By integrating
+this molecular detail into whole-body simulations with tumors, we can
+evaluate many different therapeutic approaches - different drugs, doses,
+schedules, and routes of administration. Our models make predictions of
+the dynamics of receptor tyrosine kinase activity and of key blood-borne
+biomarkers following therapeutic intervention. These predictions can and
+have been validated against clinical experimental data.We applied the
+method to the EGFR/ErbB family in breast cancer, using individualized
+data from The Cancer Genome Atlas (TCGA), and showed that the
+personalized models were able to capture the observed variability in
+receptor phosphorylation. Before the addition of drugs, the models
+behaved in a relatively monotonic fashion, with signaling outputs closely
+following the expression of the key ligands. However, the response to the
+addition of drugs was much more complex; the baseline expression of
+genes/proteins was not as good a predictor of the response.We simulated
+the addition of three antibody drugs that each target one of EGFR, HER2,
+and HER3. We found that biomarkers derived from gene expression data were
+outperformed by biomarkers derived from simulated baseline tumor behavior
+(i.e. that combined quantitative mechanistic information with gene
+expression data). This suggested that linear transformations of
+transcriptomic and proteomic data may not be adequate for predicting drug
+response; instead, the nonlinear mechanism-based transformation that is
+central to the computational model is more predictive. In addition, for
+each of the antibodies investigated, the incorporation of mechanistic
+protein interactions resulted in the identification of off-target effects
+with high inter-individual heterogeneity that have the potential to
+significantly blunt the response.Note: This abstract was not presented at
+the meeting.
+

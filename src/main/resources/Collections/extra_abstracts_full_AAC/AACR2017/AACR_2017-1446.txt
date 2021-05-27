@@ -1,0 +1,32 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Super-enhancer identification via Bru/BrUV-Seq and H3K27Ac
+ChIP-Seq.
+
+
+Transcriptional super-enhancers (SEs) are large clusters of active
+enhancers that drive expression of genes critical to cell identity and
+function. In cancer and other human diseases, SEs can be acquired through
+somatic aberrations. Importantly, SEs and their target genes are
+particularly sensitive to perturbation, making this mechanism a promising
+target for both diagnosis and therapy. Histone modification H3K27Ac is a
+good single predicative marker of active enhancers, though additional
+marks would help. Accordingly, a common approach to SE identification is
+using H3K27Ac ChIP-Seq. The non-TSS (transcription start site) histone
+binding sites (e.g., principally excluding TSS±2.5kb regions) are mapped
+to genome and then subject to near-neighbor stitching (e.g., within
+12.5kb). From the resulted relatively broad regions, SEs are identified
+by exceptional binding enrichment. Another potentially powerful approach
+is to use Bru/BrUV-Seq in combination. By directional sequencing of
+bromouridine(Bru)-labeled nascent RNAs, Bru-Seq has been developed to
+study nascent transcription. In the derivative BrUV-Seq, UV irradiation
+is additionally conducted to stabilize transcripts prior to labeling,
+thereby allowing more sensitive detection of TSSs and unstable
+transcripts, including enhancer RNAs (eRNAs). It has been shown that
+eRNAs indicate enhancer activity better than H3K27Ac binding. In this
+study, both approaches were used to identify SEs for three colon cancer
+cell lines, HCT-116, SW48, and SW620. We have demonstrated that
+Bru/BrUV-Seq has advantages in differentiating between mRNAs and eRNAs,
+and between overlapping transcripts; the reduced complexity helps prevent
+false identifications, which inflated our results obtained from ChIP-Seq.
+
+

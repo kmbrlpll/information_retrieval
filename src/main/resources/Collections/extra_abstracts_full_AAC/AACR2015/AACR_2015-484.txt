@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Fidelity of subclonal representation in human
+neuroblastoma-derived cell line and patient-derived xenograft models: A
+report from the NCI-TARGET project
+
+
+Patient-derived xenografts and cell lines have been the underpinning of
+functional characterization and drug discovery efforts in cancer. The use
+of these models is often under the assumption that these systems are
+renewable, faithful representations of original progenitor tumor cell
+populations. To test this assumption, we performed whole exome (92X
+median coverage) and genome sequencing (36X median coverage) analysis of
+cell line and patient-derived mouse xenografts (PDXs) originating from 7
+neuroblastoma patients. Data are from1 primary tumor, 3 PDXs, and 15
+neuroblastoma cell lines cultured from tumor, bone marrow, or blood. The
+cell lines consisted of 4 pre-/post-therapy pairs and 3 pairs established
+and maintained in either hyperoxia (room air i.e. standard cell culture)
+or physiologic (bone marrow hypoxia = 5%) oxygen. 7 lymphoblastoid or
+fibroblast cell lines were used as matched normals to identify somatic
+mutations. Subclonal population structures were inferred from somatic
+mutation calls calibrated for copy number state and tumor purity.In all
+cell lines and xenografts, we observed 1-2 additional subclonal
+populations, primarily supported by deep coverage from exome sequencing.
+In nearly every case, we observed shifts in the proportional
+representation of genetic subclones and many subclones showed additional
+mutations not evident in the progenitor tissue or cancer line derived in
+parallel. Comparison of three cell line pairs established in bone marrow
+level hypoxia versus room air found only 40% of coding mutations in each
+line were shared (average 82 mutations per line), suggesting significant
+genetic impact of growing tumor cells in the two different culture
+conditions. Matched PDXs from these cases had only 17% of coding
+mutations shared across all three models. The greatest genetic similarity
+was seen between paired cell lines established from tissue obtained
+pre-/post-therapy from the same patient (36 coding mutations shared, 14
+private to diagnosis and 13 private to progression). However, a second
+pre/post-therapy cell line pair did not share any coding mutations,
+although they did have 585 non-coding mutations in common (of 4,033 and
+2,480 in each line), assuring that the relapse was derived from a
+diagnostic tumor clone. These results highlight a need for comprehensive
+subclonal analysis of human cancer laboratory models to better inform
+design and interpretation of biological and preclinical therapeutic
+studies.
+

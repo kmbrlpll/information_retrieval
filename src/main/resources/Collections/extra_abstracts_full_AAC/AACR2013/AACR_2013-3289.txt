@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Mechanistic studies of the potentiation of hypoxia-targeted drug
+TH-302 by co-administration of checkpoint kinase1 (Chk1) inhibitors.
+
+
+The hypoxia-activated prodrug TH-302 is reduced at its nitroimidazole
+group and under hypoxic conditions, releases Br-IPM, a bis-alkylating DNA
+crosslinker. We previously reported that Chk1 inhibitors are TH-302
+sensitizers both in vitro and in vivo in the context of p53 checkpoint
+deficiency. To assess the impact of the Chk1 inhibitor AZD7762 on DNA
+damage in TH-302 treated cells directly, we used the single-cell
+electrophoresis-based Comet assay. Cells treated with vehicle, TH-302, or
+AZD7762 exhibited no visible tail moment. In contrast, cells treated with
+both AZD7762 and TH-302 exhibited a tail moment, indicating the induction
+of double-strand breaks (DSBs). To determine the effect of AZD7762 on
+TH-302-induced DNA damage response, H2AX was evaluated. We demonstrated
+in p53/ HT29 cells that either TH-302 or AZD7762 induced H2AX. However,
+treatment with both AZD7762 and TH-302 greatly increased H2AX staining,
+demonstrating a greater DNA damage response with the combiniaton therapy.
+Induction of apoptosis was also assessed. TH-302 did not induce apoptosis
+in HT29, while AZD7762 caused a slight increase in apoptosis. However,
+treatment with both TH-302 and AZD7762 induced a dramatic increase in
+apoptosis, indicating that the Chk1 inhibitor AZD7762 sensitizes HT29
+cells to apoptosis in response to the DNA damage induced by TH-302. To
+explore involved signaling pathways, we conducted immunoblot analysis and
+observed an increase in phospho-histone H3 at serine 10 in the
+combination treatment group, consistent with DNA damaged cells undergoing
+mitotic catastrophe. To investigate which DNA repair system is affected
+by Chk-1 inhibitor-mediated enhancement of TH-302 cytotoxicity, we
+utilized CHO cell-based DNA repair mutant cell line pairs. Potentiation
+of TH-302 cytotoxicity by AZD7762 was only observed in cell lines
+proficient in, and not deficient in, the specific type of DNA repair
+involved in the repair of TH-302 DNA damage (homology-dependent repair;
+HDR). To explore the role of HDR in AZD7762-mediated potentiation of
+TH-302 cytotoxicity further, we investigated the effects of AZD7762 on
+Rad51 levels. In response to TH-302, Rad51 expression levels were
+increased. However, combination treatment of cells with AZD7762 and
+TH-302 led to Rad51 expression levels lower than those observed in
+control cells. The results suggest that the down-regulation of
+Rad51-dependent HDR by AZD7762 results in the persistence of unrepaired
+DNA damage in response to TH-302 and underlies the mechanism of
+potentiation of TH-302 cytotoxicity by AZD7762. The preclinical data
+presented in this study support a new approach for the treatment of
+cancer by combining Chk1 inhibitors with the tumor-hypoxia targeted
+TH-302.
+

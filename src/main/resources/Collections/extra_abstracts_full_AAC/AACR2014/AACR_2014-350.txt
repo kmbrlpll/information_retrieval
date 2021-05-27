@@ -1,0 +1,34 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Virtualization of drug testing by predictive systems biology
+modeling for optimal drug treatment of cancer cells and drug repositioning
+
+
+Traditionally, tumors have been classified based on their tissue of
+origin and their histopathological characteristics and consequently
+patients are divided into groups where they are treated identically
+despite substantial differences in genetic profiles. Identification of
+genes causally implicated in cancer development has led to the
+development of stratified medicine, which adjusts a patients therapy
+based on biomarkers that identify some of the patients expected not
+respond to a specific therapy. However, many tumor genome sequencing
+projects have shown that many more gene mutations drive the development
+of cancer than previously thought, making every tumor unique. These
+results in low success rates and thereby high cost in drug approval as
+the identified drugs are only effective for particular patient groups
+while large patient cohorts have no clear clinical benefit. In the early
+process of drug development, drugs are therefore screened on large cancer
+cell line collections to define drug applicability and to determine
+potential tumor targets.Here, we report the results of a computational
+modeling platform, ModCell, allowing the prediction of individual drug
+effects using large-scale genomic and transcriptomic data to virtualize
+such cell line screening. We validated this approach two-fold: on
+publicly available data from the cancer cell line encyclopedia, that
+comprises pharmacological profiles for anti-cancer drugs across a library
+of cancer cell lines as well as on cancer cell line culture experiments.
+We provide evidence that ModCell is able to reproducibly predict the
+effects of individual drugs with a confounding 80% accuracy, to predict
+combinatory drug action and to identify new applications for existing
+drugs. Thus, computational modeling using ModCell can improve todays drug
+development by accelerating and partly replacing work which would have
+otherwise be conducted in the laboratory and in the clinic.
+

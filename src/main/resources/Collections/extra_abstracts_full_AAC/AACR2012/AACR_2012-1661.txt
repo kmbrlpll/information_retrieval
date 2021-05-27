@@ -1,0 +1,36 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Fine-mapping of GWAS variants in BMP4, GREM1, CDH1, and RHPN2 in
+African American colorectal cancer patients
+
+
+Background: Genome-wide association studies (GWAS) of colorectal cancer
+(CRC) have identified risk variants in candidate genes involved in TGF-
+signaling including BMP4, GREM1, CDH1, RHPN2 and SMAD7. We previously
+replicated the association with a 3-UTR SNP in GREM1 (rs10318) in African
+Americans but did not find evidence of associations in the other genes.
+This finding could be explained by different genomic structure in African
+Americans. Therefore, we sought to fine-map these genes to identify CRC
+risk variants in African Americans who are at highest risk of CRC in the
+US. Methods: DNA from cases and controls was obtained from two US
+institutions. In total, we included DNA from 795 AA cases and 985 AA
+controls. TagSNPs with minor allele frequencies >5% and pairwise r2 >0.8
+were identified in five genes using YRI Hapmap data. A total of 81 SNPs
+were genotyped in cases and controls using Sequenom MassARRAY. We
+calculated odds ratios and 95% confidence intervals using logistic
+regression controlling for ancestry, age, gender and multiple testing in
+PLINK. Results: Association analysis was completed for four genes: BMP4,
+GREM1, CDH1 and RHPN2. The top tagSNP associations for each gene are
+shown in the Table. None of the SNPs were significant after permutation
+testing. In GREM1, the strongest SNP associations were found at the 3 end
+of the gene. In BMP4, we identified two SNPs (rs1957852 and rs7146040)
+that are in LD with rs4444235 previously identified in a European GWAS.
+In CDH1, rs12931189 is located in the same LD block as the strongest
+association signal (rs7199991) in a recent fine-mapping study in
+Europeans. Finally, we have no evidence for associations in RHPN2 in
+African Americans. Conclusion: These results provide preliminary evidence
+of associations in African American colorectal cancer patients in BMP4,
+GREM1 and CDH1 identified by GWAS in Europeans. Ongoing work is testing
+associations in SMAD7 and further fine-mapping by imputation and
+resequencing in these regions.
+
+

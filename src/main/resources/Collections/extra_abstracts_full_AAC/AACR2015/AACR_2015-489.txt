@@ -1,0 +1,76 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Loss of NOXA expression by INI1/SNF5 loss impaired sensitivity to
+chemotherapeutic agents in malignant rhabdoid tumor in vitro and iv vivo
+
+
+Background: We previously showed that INI1/SNF5 reexpression increased
+transcriptional activity at the NOXA locus in malignant rhabdoid tumor
+(MRT) cell lines resulting in NOXA protein production. In other cancer
+cells, the binding between NOXA and MCL-1 induces apoptosis after
+exposure to chemotherapeutic agents. Therefore, we hypothesized that loss
+of NOXA alters the apoptotic pathway in MRTs and contributes to their
+resistance to chemotherapeutic agents.Methods: The TTC549 and KP-MRT-RY
+MRT cell lines were transfected with the pcDNA 3.1(+)-wild type hNOXA
+plasmid, a kind gift from Dr. Kelekar, University of Minnesota, using
+Lipofectamine reagent and then selected with G418. To generate MCL-1
+knockdown MRT cell lines, we transfected a small interfering (si) RNA
+targeting MCL-1 using Lipofectamine reagent. Cells were plated in growth
+medium for 24 hrs and then treated with serial dilutions of doxorubicin
+(DOX) and/or TW-37. To generate mice xenografts for both TTC549 MCL-1
+stable knockdown (KD) and control cell lines, we established two
+independently derived MCL-1 stable knockdown TTC549 cell lines using
+lentiviral vectors encoding a shRNA targeting MCL-1 and a negative
+control cell line (pLKO.1). We injected either 5 106 TTC549 MCL-1 KD or
+control cell lines s.c. into athymic mice. One week after injection, mice
+were treated once daily with DOX (15mg/kg) or vehicle alone for five
+days.Results: In both NOXA expressing and MCL-1 KD MRT cells, we observed
+a dramatic reduction of the IC50 values of DOX treatment. Moreover,
+apoptosis was also observed at 48 hrs after DOX treatment at
+concentrations less than the IC50 values for control cells.
+Immunoprecipitation of MCL-1 showed that expressed NOXA associated with
+MCL-1 in MRT cells. Furthermore, we observed that mean tumor volume in
+the DOX-treated MCL-1 KD group was significantly smaller than that in the
+vehicle-treated MCL-1 knockdown group. Next, we assessed the effects of
+TW-37, an inhibitor that binds to the Bcl-2 homology domain 3 (BH3) of
+proteins including MCL-1, in combination with DOX. Using the combination
+index, we found that DOX and TW-37 displayed modest synergy in both MRT
+cell lines (CIBackground: We previously showed that INI1/SNF5
+reexpression increased transcriptional activity at the NOXA locus in
+malignant rhabdoid tumor (MRT) cell lines resulting in NOXA protein
+production. In other cancer cells, the binding between NOXA and MCL-1
+induces apoptosis after exposure to chemotherapeutic agents. Therefore,
+we hypothesized that loss of NOXA alters the apoptotic pathway in MRTs
+and contributes to their resistance to chemotherapeutic agents.Methods:
+The TTC549 and KP-MRT-RY MRT cell lines were transfected with the pcDNA
+3.1(+)-wild type hNOXA plasmid, a kind gift from Dr. Kelekar, University
+of Minnesota, using Lipofectamine reagent and then selected with G418. To
+generate MCL-1 knockdown MRT cell lines, we transfected a small
+interfering (si) RNA targeting MCL-1 using Lipofectamine reagent. Cells
+were plated in growth medium for 24 hrs and then treated with serial
+dilutions of doxorubicin (DOX) and/or TW-37. To generate mice xenografts
+for both TTC549 MCL-1 stable knockdown (KD) and control cell lines, we
+established two independently derived MCL-1 stable knockdown TTC549 cell
+lines using lentiviral vectors encoding a shRNA targeting MCL-1 and a
+negative control cell line (pLKO.1). We injected either 5 106 TTC549
+MCL-1 KD or control cell lines s.c. into athymic mice. One week after
+injection, mice were treated once daily with DOX (15mg/kg) or vehicle
+alone for five days.Results: In both NOXA expressing and MCL-1 KD MRT
+cells, we observed a dramatic reduction of the IC50 values of DOX
+treatment. Moreover, apoptosis was also observed at 48 hrs after DOX
+treatment at concentrations less than the IC50 values for control cells.
+Immunoprecipitation of MCL-1 showed that expressed NOXA associated with
+MCL-1 in MRT cells. Furthermore, we observed that mean tumor volume in
+the DOX-treated MCL-1 KD group was significantly smaller than that in the
+vehicle-treated MCL-1 knockdown group. Next, we assessed the effects of
+TW-37, an inhibitor that binds to the Bcl-2 homology domain 3 (BH3) of
+proteins including MCL-1, in combination with DOX. Using the combination
+index, we found that DOX and TW-37 displayed modest synergy in both MRT
+cell lines (CI<1) in vitro and in vivo.Discussion: Ectopic expression of
+NOXA or knockdown of MCL-1 increased DOX sensitivity in MRT cell lines.
+These results indicate that loss of INI1/SNF5-mediated regulation of NOXA
+expression impairs an apoptotic pathway leading to repression of MCL-1
+followed by the resistance to chemotherapeutic agents. We also found that
+TW-37, a BH3 only protein mimetic, has a synergistic effect with DOX on
+MRT cell lines in vitro and in vivo, providing a potential foundation for
+molecular targeting therapy for MRT.
+

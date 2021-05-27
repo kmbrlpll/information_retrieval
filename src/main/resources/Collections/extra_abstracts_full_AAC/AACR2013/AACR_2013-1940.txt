@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: High-throughput imaging and high content analysis of disease
+relevant lncRNAs examined by RNA fluorescence in situ hybridization (RNA
+FISH).
+
+
+The genome is extensively transcribed, yet more than 50 % of RNA
+transcripts lack protein coding potential. In recent years, long
+noncoding RNAs (lncRNAs) have been shown to play extensive roles in all
+the central aspects of gene function including imprinting, epigenetic
+regulation, transcription, splicing and nuclear/cytoplasmic trafficking,
+translation and RNA stability, with wide ranging effects on cell cycle
+and differentiation. Due to the increasingly central role of lncRNAs in
+gene transcription and disease states, it is important to develop tools
+to allow direct visualization and quantification of lncRNAs that could be
+useful both in the basic science arena and in the clinical setting with
+possible uses both in diagnostics and prognostics.We recently streamlined
+both the design and synthesis of fluorescently labeled probe sets
+containing multiple tiled 20-mer GC-balanced oligonucleotides for use in
+RNA fluorescence in situ hybridization (RNA FISH). In contrast to
+traditional cell-disruptive RNA analyses (e.g. northern blotting and
+qPCR) that report relative population averages of RNA content, single
+molecule RNA FISH affords specific and sensitive detection of RNAs and
+quantitatively establishes the intracellular localization of the target
+lncRNAs.We have validated an imaging based platform to perform RNA FISH
+in both manual (coverslip) and automated (384 well) formats that allows
+tremendous multiplexing and throughput using high throughput microscopy.
+Moreover, we developed high content analysis routines that permit
+quantification of RNA particles at the single cell level and determine
+their localization and pattern (texture). As specific lncRNAs (e.g.
+MALAT1) are known to target specific intranuclear domains (e.g. splicing
+speckles) we developed classification methods based upon sets of
+intensity and texture features to compare intracellular patterns of
+novel/less characterized ncRNAs. Moreover, this framework will also
+permit to address changes in lncRNA expression and patterns during the
+cell cycle since large number of cells can be analyzed simultaneously. We
+are now expanding our analysis to primary tumor tissues where lncRNAs
+patterns will be correlated with known FISH-compatible biomarkers, thus
+providing a picture simultaneously for intra- and inter-cell variation.In
+summary, the results and tools presented here will enable the study of
+disease related lncRNAs in a high content, high throughput mode. These
+efforts will enable gaining better understanding of how expression and
+localization of lncRNAs may contribute to the diseased phenotype, and add
+a large selection of novel biomarkers that can be interrogated for
+improved diagnosis, prognosis, and therapeutic choice.
+

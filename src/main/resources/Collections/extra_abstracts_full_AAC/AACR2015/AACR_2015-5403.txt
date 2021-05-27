@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Targeted therapy of non-small cell lung cancer (NSCLC) by novel
+6-pyrrolo[2,3-d]pyrimidine thienoyl antifolates with selective transport
+by the proton-coupled folate transporter (PCFT)
+
+
+Pemetrexed (PMX) is a 5-substituted pyrrolo[2,3-d]pyrimidine antifolate
+used for first-line and maintenance therapy of NSCLC. Whereas
+correlations were reported between clinical responses in NSCLC and levels
+of folate receptor (FR) , FR is not a pharmacologically relevant PMX
+transporter. Rather, PMX is primarily transported by the reduced folate
+carrier (RFC) and PCFT. RFC is ubiquitously expressed, whereas PCFT shows
+more limited expression in normal tissues, although both are broadly
+expressed in tumor cells. Unlike RFC, PCFT is active at acidic pH, with
+significant levels at pH 6.8. Using patient cDNAs from normal lung (n =
+8) and NSCLC samples (n = 37), we measured transcripts for RFC and PCFT,
+and for intracellular targets for PMX, including thymidylate synthase
+(TS) and glycinamide ribonucleotide formyltransferase (GARFTase), by
+real-time RT-PCR (qPCR). PCFT was detected at similar levels in normal
+lung and NSCLC specimens, while RFC was decreased in tumors compared to
+normal lung. Expression of TS and GARFTase were increased in NSCLC
+samples, compared to normal tissue. In NSCLC cell lines A549, CRL5872,
+H460, H1650 and H2030, PCFT and RFC, but not FR, were detected by qPCR.
+We synthesized novel 6-substituted pyrrolo[2,3-d]pyrimidine thienoyl
+regioisomers related to PMX [AGF94 (2,5) and AGF154 (2,4)] as potential
+antitumor agents. Based on patterns of inhibition of proliferation of
+engineered Chinese hamster ovary cells expressing human RFC or PCFT,
+AGF94 and AGF154, unlike PMX, are not transported by RFC but are
+excellent substrates for PCFT. AGF94 and AGF154 showed potencies
+comparable to PMX toward all the NSCLC cell lines. We found that [3H]PMX
+and [3H]AGF154 were transported by PCFT into the NSCLC cell lines at pH
+5.5 and pH 6.8 and uptake could be blocked by non-radioactive AGF94.
+AGF154 accumulation over sustained exposure at pH 5.5 was greater than
+that of PMX, whereas accumulations of AGF154 and PMX were nearly
+identical at pH 6.8. In H460 cells treated with PMX, thymidine (10 M)
+partially protected cells from growth inhibition, whereas neither
+adenosine (10 M) nor 5-aminoimidazole-4-carboxamide (AICA) (320 M) were
+protective. In cells treated with AGF94 or AGF154, adenosine and AICA,
+but not thymidine, were completely protective, consistent with inhibition
+of de novo purine biosynthesis at GARFTase. Potent GARFTase inhibition by
+AGF94 and AGF154 was confirmed by an in situ assay which measures
+incorporation of [14C]glycine into formyl GAR (FGAR), the GARFTase
+product. Our results suggest that novel 6-substituted
+pyrrolo[2,3-d]pyrimidine thienoyl antifolates may offer significant
+promise for treating NSCLC, reflecting their selective membrane transport
+by PCFT over RFC and potent inhibition of de novo purine biosynthesis.
+

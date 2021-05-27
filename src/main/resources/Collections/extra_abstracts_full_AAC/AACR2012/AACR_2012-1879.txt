@@ -1,0 +1,36 @@
+Meeting: 2012 AACR Annual Meeting
+Title: The exomes of the NCI60 and their implications for cancer
+pharmacogenomics
+
+
+Acquired and constitutional genetic variations in cancers have a
+substantial influence on response to therapy. The NCI60 panel of cell
+lines provides a unique opportunity to investigate this problem. These 60
+human tumor cell lines represent 9 cancer types, and are richly
+characterized as the result of many previous studies which have collected
+various biochemical and genomics data [1]. In addition, there exists a
+comprehensive dataset of sensitivity and resistance profiles of over
+100,000 compounds with potential antineoplastic activity. However,
+characterization of coding region DNA sequence variants has been lacking.
+In this study, we sequenced the whole exomes of the NCI60 cell lines and
+identified single nucleotide variants and short insertions/deletions.
+Variants found by sequencing were in excellent agreement with variants
+previously identified by SNP analysis or targeted capillary sequencing.
+Even though most cell lines displayed similar mutation counts, cell lines
+with microsatellite instability displayed a hypermutator phenotype. In
+addition, observation from ti/tv ratio and nature of base changes
+revealed preservation of possible carcinogen specific DNA mutation
+signatures. Deleterious variants were identified at higher frequency in
+known cancer genes while TP53 mutations where the most frequent event
+among the NCI60. Finally, notable instances of correlation between
+gene/pathway mutations with sensitivity to certain drug/compounds was
+identified. For example, sensitivity to vemurafenib was highly correlated
+with BRAF mutation. This comprehensive dataset enhances the value of cell
+lines widely used as disease models in many laboratories by adding depth
+to the existing genomic data. Our analysis identifies a large number of
+genomic variants correlated with drug responsiveness, including a number
+of genes known to be targeted by specific agents as well as numerous
+candidates for future investigation. 1. Shankavaram, U.T., et al.,
+CellMiner: a relational database and query tool for the NCI-60 cancer
+cell lines. BMC Genomics, 2009. 10: p. 277.
+

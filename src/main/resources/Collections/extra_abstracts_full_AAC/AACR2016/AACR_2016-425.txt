@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Nuclear morphometry predicts prostate cancer progression
+
+
+Introduction:The progression of prostate cancer (PCa) involves tissue
+morphometric changes, which laid the base for current pathological
+diagnosis of prostate cancer with the Gleason Scoring system. Nuclear
+morphometry (NM) changes contribute significantly to these tissue
+morphometric changes, but accurate and autonomous quantification of NM
+changes are challenging. Here we created a macro to quantify the changes
+of size, shape, DNA content, etc., and used these parameters to predict
+PCa progression in 80 men that underwent radical prostatectomy
+(RP).Materials & Methods:Two tissue microarrays (TMAs) with 80 RP PCa
+cases, stratified by Gleason scores (GS) were used for this study. The
+two continuous sections of TMAs were stained with H&E and Feulgen
+reagents and the H&E slides were used for pathological diagnosis of PCa.
+Both kinds of slides were scanned with Aperio scanner and image of each
+core were separated using Aperio ImageScope software. The H&E or Feulgen
+stained nuclei of cancer core were quantified using Smart Segmentation of
+ImagePro Premier 9.1 software. For each core, data of all ROIs were
+pooled and the covariance of each parameter were generated. Data were
+first analyzed alone and then in combination using multivariate logistic
+regression (MLR) to predict the aggressive RP cases or biochemical
+recurrence (BCR). Decision curve analysis (DCA) was used for the MLR
+models to evaluate their power and effectiveness for clinical decision
+making. For all analysis, a p = 8) from less aggressive PCa (Gleason
+score 3+3 & 3+4) on the TMAs of RP cases, our Feulgen NM model generated
+a receiver operating characteristic curve-area under the curve (ROC-AUC)
+of 0.90 with a sensitivity of 75.51% and specificity of 86.21% while our
+H&E NM model yield an ROC-AUC of 0.96 with a sensitivity of 82.00% and
+specificity of 90.00%. DCA analysis both showed better decision using
+both models compared with considering the patients as all or none of them
+as aggressive. Both models also show strength in differentiating two
+Gleason score 7 (3+4 vs 4+3). Feulgen NM model showed moderate power in
+the prediction of BCR based on the MLR (ROC-AUC = 0.79) and DCA analysis,
+while H&E MLR model performed better with a ROC-AUC of 0.86. Further
+Kaplan-Meier analysis of BCR with GS and NM (H&E and Feulgen) showed that
+the combination of GS with either Feulgen or H&E NM showed significant
+power in the differentiation patients with BCR survival time (HR = 3.14 &
+3.89, respectively).Conclusions:Our accurate quantification of tissue
+morphometry demonstrated its translational clinical relevance since it
+can predict PCa aggressiveness in men that have undergone RP. Future
+application of this tool in active surveillance biopsies may provide an
+early diagnosis and prognosis prediction of PCa patients effectively.
+

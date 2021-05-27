@@ -1,0 +1,35 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Functional genomic strategies to identify oncogenes in breast
+cancer
+
+
+During the process of tumorigenesis and tumor progression cancer cells
+acquire an array of genetic alterations. The theory of oncogene addiction
+proposes that a small portion of these alterations generate driver
+oncogenes that are critical for maintaining the transformed phenotype.
+Strong support for this theory comes from the identification and
+subsequent therapeutic targeting of individual driver oncogenes that has
+resulted in significant clinical responses. However, in solid tumors that
+contain multiple driver oncogenes, these responses are not durable and it
+is therefore likely that multiple oncogenes will need to be identified
+and targeted in these tumors in order to reverse the transformed
+phenotype and effect durable clinical responses. Identifying multiple
+driver oncogenes among the large number of mutated/amplified genes that
+are present in most solid tumors is a nontrivial task that will require
+novel approaches. In this study, we have developed an approach that
+combines exome sequencing, array comparative genomic hybridization,
+expression analysis and genome-wide, RNAi-based functional screening to
+identify driver oncogenes that are functioning in individual cell lines
+derived from human tumors. In a pilot study using this approach we have
+shown that of the 583 amplified genes in the SUM225 breast cancer cell
+line only 45 are hits in the RNAi-based functional screen. Similarly, of
+the 806 genes that are mutated in this cell line only 26 are hits in the
+RNAi-based functional screen. Interestingly, the SMPD3 gene that was both
+amplified and a hit in the functional screen also contained a point
+mutation and this point mutation was present in another HER2 positive
+breast cancer cell line, SUM190. The identification of SMPD3 as a likely
+driver oncogene in the SUM225 and SUM190 cell lines highlights the power
+of an approach that combines sequence and copy number data with
+functional screening to identify driver oncogenes. Future analysis will
+incorporate expression data to further refine this approach.
+

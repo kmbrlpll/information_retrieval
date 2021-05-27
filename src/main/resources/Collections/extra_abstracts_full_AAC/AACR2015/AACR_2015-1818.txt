@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Analytical platform evaluation for quantification of ERG
+oncoprotein in prostate cancer using protein and mRNA detection methods
+
+
+Current molecular tests that aid in the diagnosis of prostate cancer
+(PCa) are based on the detection of PSA and PSA isoforms (blood),
+overexpression of PCA3 (urine), and overexpression of AMACR (tissue) as
+biomarkers. The discovery of cancer specific fusion transcripts, which
+are detected in over 50% of prostate cancers, revolutionized the field.
+As such, the cancer specific TMPRSS2-ERG gene fusion drives the
+overexpression of the ERG oncoprotein. Based on this, we hypothesized
+that ERG protein may serve as a valuable biomarker and for which
+quantification methods can be applied for the diagnosis of prostate
+cancer.An antibody-free assay for ERG protein detection was developed
+based on PRISM (high-pressure high-resolution separations with
+intelligent selection and multiplexing)-SRM (selected reaction
+monitoring) mass spectrometry. We utilized TMPRSS2-ERG positive VCaP and
+TMPRSS2-ERG negative LNCaP cells to simulate three different sample types
+(cells, tissue, and post-DRE urine sediment) for evaluation. Recombinant
+ERG protein spiked into LNCaP cell lysates could be detected at levels as
+low as 20 pg by PRISM-SRM analysis. The sensitivity of the PRISM-SRM
+assay was approximately 10,000 VCaP cells in a mixed cell population
+model of VCaP and LNCaP cells. Interestingly, ERG protein could be
+detected in as few as 600 VCaP cells spiked into female urine, presumably
+due to more effective loading of ERG protein and the reduced sample
+complexity. In comparison the detection limit of the in-house
+enzyme-linked immunosorbent assay was 30 pg of recombinant ERG protein
+and 10,000 VCaP cells, while Western blot analysis demonstrated the
+detection of 195 pg of recombinant ERG protein and 10,000 VCaP cells in
+these two sample types, respectively. On the other hand, qRT-PCR
+exhibited a higher sensitivity, as TMPRSS2-ERG transcripts were detected
+in as few as 250 VCaP cells spiked into female urine, in comparison to
+NanoString methodologies which detected 10,000 VCaP cells in the same
+sample.In summary the data presented here suggest that qRT-PCR and
+PRISM-SRM platforms are highly sensitive in detecting TMPRSS2-ERG
+transcripts and proteins, respectively. Compared to other RNA (without
+preamplifcation step) and protein detection technologies, the PRISM-SRM
+assay has several significant advantages: it is not affected by RNA
+stability, it does not rely on a specific antibody, and it is ideal for
+isoform-specific detection with high multiplexing capability. Therefore,
+PRISM-SRM assays can be adapted to detect ERG protein in cells present in
+clinical specimens (e.g., tissue and urine), and cell-free ERG protein
+present in the blood sera, providing an opportunity for their use in the
+clinical setting for detection of ERG in prostate cancer patients and for
+defining appropriate treatment strategies.
+

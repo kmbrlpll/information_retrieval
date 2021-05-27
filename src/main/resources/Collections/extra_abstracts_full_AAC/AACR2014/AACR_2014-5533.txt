@@ -1,0 +1,66 @@
+Meeting: 2014 AACR Annual Meeting
+Title: RNAi-mediated depletion of histone deacetylases highlights the
+potential for isoform-specific inhibitors in B-cell lymphoma and acute
+myeloid leukemia
+
+
+Introduction: Histone deacetylase (HDAC) inhibitors are a novel class of
+drugs with demonstrated activity in hematological malignancies.
+Vorinostat and romidepsin are FDA approved for treatment of cutaneous
+T-cell lymphoma and inhibit HDACs1, 2, 3 and 6 or HDAC1, 2 and 3,
+respectively. It is unknown which HDACs are most important for the
+survival of hematological tumors, however a targeted approach using
+HDAC-selective inhibitors could improve efficacy and reduce toxicity in
+the clinic. Here we utilised RNAi technology and an HDAC-specific
+inhibitor to investigate whether depletion/inhibition of individual or
+multiple HDACs could phenocopy the effects of pan-HDACi in B-cell
+lymphoma and acute myeloid leukemia (AML). Methods: HDACs were
+individually knocked down in murine E-Myc (HDACs1, 2, 3, 6) and AML
+(MLL-AF9+NrasG12D; HDACs 1-11) cells using constitutive (pLMS/pLMN) or
+Tetracycline-inducible (pTRMPVIN) vectors in vitro and in vivo. E-Myc
+cells were treated with HDAC3-specific inhibitor RGFP966. Cell
+proliferation, apoptosis, cell cycle, protein expression and gene
+knockdown were assessed by FACS, western blot and qRT-PCR. Global gene
+expression was assessed using RNAseq technology.Results: Loss of HDACs1,
+2 or 6 had no long term effects on cell growth, while E-Myc and AML cells
+depleted of HDAC3 were reproducibly lost from culture in vitro and in
+vivo. This phenotype was not prevented by Bcl-2 over-expression, caspase
+inhibition or knockout of p21 in E-Myc but appeared dependent on Trp53
+expression, including specific mutants of Trp53. HDAC3 knockdown altered
+the transcription of Introduction: Histone deacetylase (HDAC) inhibitors
+are a novel class of drugs with demonstrated activity in hematological
+malignancies. Vorinostat and romidepsin are FDA approved for treatment of
+cutaneous T-cell lymphoma and inhibit HDACs1, 2, 3 and 6 or HDAC1, 2 and
+3, respectively. It is unknown which HDACs are most important for the
+survival of hematological tumors, however a targeted approach using
+HDAC-selective inhibitors could improve efficacy and reduce toxicity in
+the clinic. Here we utilised RNAi technology and an HDAC-specific
+inhibitor to investigate whether depletion/inhibition of individual or
+multiple HDACs could phenocopy the effects of pan-HDACi in B-cell
+lymphoma and acute myeloid leukemia (AML). Methods: HDACs were
+individually knocked down in murine E-Myc (HDACs1, 2, 3, 6) and AML
+(MLL-AF9+NrasG12D; HDACs 1-11) cells using constitutive (pLMS/pLMN) or
+Tetracycline-inducible (pTRMPVIN) vectors in vitro and in vivo. E-Myc
+cells were treated with HDAC3-specific inhibitor RGFP966. Cell
+proliferation, apoptosis, cell cycle, protein expression and gene
+knockdown were assessed by FACS, western blot and qRT-PCR. Global gene
+expression was assessed using RNAseq technology.Results: Loss of HDACs1,
+2 or 6 had no long term effects on cell growth, while E-Myc and AML cells
+depleted of HDAC3 were reproducibly lost from culture in vitro and in
+vivo. This phenotype was not prevented by Bcl-2 over-expression, caspase
+inhibition or knockout of p21 in E-Myc but appeared dependent on Trp53
+expression, including specific mutants of Trp53. HDAC3 knockdown altered
+the transcription of <0.05% genes in E-Myc cells. Importantly,
+HDAC3-specific inhibitor RGFP966 reduced the growth rate of E-Myc cells
+at low micromolar concentrations (0.5-1M) while inducing apoptosis above
+2M, also partially dependent on Trp53 status. Conclusions: Our results
+have revealed exquisite sensitivities of murine B cell lymphoma and AML
+cells to depletion of HDAC3 in vitro and in vivo. This strongly suggests
+that HDAC3-specific inhibitors could prove useful for the treatment of
+various hematological malignancies. Further work investigating the
+molecular events underpinning the loss of proliferation induced by HDAC3
+knockdown/inhibition and the effects of depleting multiple HDACs are
+currently underway. Ultimately, we aim to use this technology to discover
+efficacious HDACi with the best toxicity profile for the treatment of
+hematological malignancies.
+

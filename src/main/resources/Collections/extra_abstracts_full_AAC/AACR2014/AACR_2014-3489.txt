@@ -1,0 +1,33 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A novel investigation into chemotherapy-induced peripheral
+neuropathy using iPSC-derived human neurons
+
+
+Chemotherapy-induced peripheral neuropathy (CIPN) is the major
+dose-limiting side effect of many anti-cancer drugs including taxanes,
+vinca alkaloids and platinating agents. These drugs represent standard of
+care for common cancers, however there are no effective treatments and no
+means to identify patients at risk for CIPN. The mechanisms underlying
+CIPN have not been precisely determined and few human neuronal models to
+study CIPN exist. Recent technology has allowed for the differentiation
+of induced pluripotent stem cells (iPSC) to human neurons. We have
+utilized genetically diverse human neurons as a model to study the
+effects on chemotherapy on neuronal health and on neurite morphology
+including neurite outgrowth, processes and branching. Upon treatment of
+human neurons with paclitaxel, vincristine or cisplatin (1 nM to 100 M)
+for 72 hours, we identified reproducible decreases in cell median neurite
+process length per magnitude of drug concentration of 12-14%, 6-18% and
+2-4%, respectively. No decrease in neurite length was observed with
+hydroxyurea, an agent that does not cause neuropathy. The morphological
+changes differed across drugs, with vincristine treatment showing the
+most dramatic effect on neurite outgrowth, paclitaxel showing an
+intermediate effect, and cisplatin showing no effect up to 1 M of drug.
+To determine whether the model could be used for evaluation of genes
+important in CIPN, we used siRNA to decrease expression of TUBB2A, a gene
+known to be associated with paclitaxel-induced neuropathy. Transient
+knockdown of TUBB2A caused decreases of mean neurite process length
+(interaction P = 2.2 x 10-8) and total neurite outgrowth (interaction P =
+1.8 x 10-10) of neurons 48 hours post-paclitaxel treatment. We are using
+this novel approach to screen agents that may be used to prevent or treat
+CIPN.
+

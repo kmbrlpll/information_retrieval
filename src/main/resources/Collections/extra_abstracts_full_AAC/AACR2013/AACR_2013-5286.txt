@@ -1,0 +1,33 @@
+Meeting: 2013 AACR Annual Meeting
+Title: A genetic selection system for microRNA targets identification and
+validation.
+
+
+Overwhelming evidence has indicated that microRNAs can play a fundamental
+role in regulation of diverse cellular functions and dysregulation of
+microRNA expression could lead to a variety of disorders including human
+cancer. Although significant progress has been made in the past years in
+discovery of microRNAs and their biogenesis, and their role in many
+cellular phenotypes, it is not fully understood how microRNAs exert their
+cellular functions because a single microRNA can have hundreds of
+targets. Hence, identification of microRNA targets is a critical step
+toward understanding of molecular mechanisms of microRNA-mediated gene
+expression in normal and disease processes. Here we reported a selection
+system for microRNA target identification and validation. We used
+Sleeping Beauty (SB) transposon system to generate selection vectors. The
+first generation of SB-based vector is named pSSMT-5/6 which carries
+tetO-EF1a promoter driving GFP/or mCherry-T2A-Pu and tetR-Krab under CMV
+promoter. We examined the feasibility of these new constructs in 293T and
+HeLa cells. Using GFP or m-Cherry along with Pu (puromycin resistance) as
+a reporter, we found that the construct carrying either a given UTR or
+microRNA sponge provides a significant selection advantage over the
+vector alone. For example, we cloned 6 different UTRs into the construct
+and identified 3 of them, CDH1, p53 and p27, revealed stronger mCherry
+signals and are more resistant to puromycin. Thus, we will test our
+microRNA library to identify microRNAs capable of targeting these genes
+(i.e., one known UTR construct against the microRNA library). Together,
+these results suggest that this system provides proof of principle. In
+the future, we will generate a UTR library so that we will be able to
+test for an individual microRNA against the UTR library to identify its
+biologically relevant targets.
+

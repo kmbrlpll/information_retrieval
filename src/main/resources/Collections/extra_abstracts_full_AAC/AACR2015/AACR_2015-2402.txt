@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A research approach for the detection of somatic mutations at 0.5%
+frequency from cfDNA and cTc DNA using a multiplex sequencing assay
+targeting 2000 tumor mutations
+
+
+Background:Availability of effective blood screening for tracking of
+recurrence and resistance of tumors may improve outcomes. Research
+studies suggest that virtually all tumors carry somatic DNA mutations,
+and these may serve as biomarkers that may be tracked from blood. The two
+well-characterized sources of tumor DNA in blood are circulating tumor
+cells (cTc) and cell-free tumor DNA (ctDNA). The abundance of cTc and/or
+ctDNA in blood may be very low at critical stages such as early
+recurrence or development of resistance. Hence there is great interest in
+being able to detect biomarkers at very low frequency from blood, and in
+characterizing the relationship between somatic mutations present in the
+tumor and those in cTc or ctDNA.Method:We present a research use only
+analysis workflow that facilitates researchers in detecting low frequency
+variants in blood. We developed an analysis algorithm, using statistical
+modeling of next generation sequencing reads, and optimizing parameters
+and filters to enable sensitive and specific detection of somatic
+mutations to 0.5% allele ratio.We demonstrate the analysis on a blood
+sample split into 3 sub-samples comprising germline blood cells, cTc, and
+ctDNA.We barcode the 3 sub-samples and run them on a single Ion PGM 318
+sequencing chip using Ion AmpliSeq CHPv2 cancer hot-spot panel, that
+enables very deep (10,000x coverage) and accurate sequencing.This panel
+allows interrogation of 2000 relevant biomarkers from COSMIC and FDA
+actionable databases, and de-novo variant detection at 20,000 genomic
+positions. Mutations were annotated using the Oncomine database in Ion
+Reporter software.The assay requires a small amount of input DNA (10ng),
+and has a fast turn around time from sample to variants of less than 24
+hr.Results:We tested the limits of variant detection in a dilution
+series; in cTc; and in ctDNA.First, we diluted an engineered DNA sample
+from Acrometrix into a control sample (NA12878) down to 0.5% frequency.
+The Acrometrix sample contains 500 common cancer mutations from COSMIC
+and FDA actionable databases. We achieved >99% sensitivity and
+specificity for variants present at frequency above 0.5%.Next, we spiked
+cTc cells from cancer cell lines into normal blood samples at ratio
+1:1,000,000, obtaining 40% purity of cTc after enrichment, and
+demonstrated > 99% sensitivity and specificity of variant
+detection.Finally, we performed analytical validation of variant
+detection performance in ctDNA using a dilution series of two normal
+blood samples, and we were able to detect in all 20 variants present in
+either sample in ctDNA when their frequency was above
+0.5%.Conclusions:The analysis workflow may facilitate researchers to
+study biomarkers in DNA from germline, cTc, and ctDNA, all available from
+a single blood sample, and to explore the relationship between biomarkers
+observed in solid tumor and those in blood.
+

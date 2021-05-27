@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Longitudinal expression response of glycosylation related genes,
+regulators, and targets in cancer cell lines treated with eleven
+anti-tumor agents.
+
+
+Cancer cells have profound alterations in glycosylation processes, which
+affects the functioning of malignant cells and their interaction with
+surrounding environment. We examined the effects of treatment of cancer
+cell lines with eleven antitumor agents (bortezomib, cisplatin,
+dasatinib, doxorubicin, erlotinib, gemcitabine, paclitaxel, sirolimus,
+sorafenib, sunitinib, and topotecan) on transcriptional changes in 179
+candidate genes involved in biochemical glycosylation pathways or
+encoding glycosylation targets, regulators of glycosylation processes,
+and components of cancer pathways affected by glycosylation. In order to
+achieve this goal, we analyzed time course gene expression information
+for the NCI-60 cancer cell line panel using the data from the NCI
+Transcriptional Pharmacodynamic Workbench (NCI TPW), a resource developed
+at the National Cancer Institute. Our analysis identified 145
+glycosylation related genes that responded to drug treatment in a
+concerted manner. Many of these genes had a concerted response to
+multiple agents; however, the direction and the magnitude of concerted
+response were specific to individual drugs. Expression of multiple genes
+prior to treatment and/or transcriptional changes in response to
+treatment were significantly correlated with drug chemosensitivity,
+measured as log(GI50). Treatment with dasatinib resulted in the largest
+number of significant correlations of chemosensitivity with gene
+expression prior to treatment and with gene expression changes in
+response to treatment. Significant correlations of transcriptional
+changes after treatment and/or of pre-treatment gene expression levels of
+glycosylation related genes and glycosylation targets were also observed
+for other antitumor agents. Chemosensitivity to kinase inhibitors and DNA
+damaging agents was significantly correlated with expression of genes
+involved in N- and O-glycosylation, fucosylation, biosynthesis of
+poly-N-acetyllactosamine, removal of misfolded proteins, binding to
+hyaluronic acid and other glycans, and cell adhesion. In particular,
+tumor cell sensitivity or resistance to multiple agents were
+significantly correlated with changes in expression of C1GALT1C1 (COSMC),
+FUCA1, SDC1, MUC1, members of the MGAT, GALNT, B4GALT, B3GNT, MAN, and
+EDEM gene families, and other genes involved in glycosylation processes
+or encoding glycosylation targets and signaling regulators. We present a
+catalog of dynamic concerted changes in expression of glycosylation
+related genes, their ligands, regulators, and targets in response to
+chemotherapy, and provide a list of genes that influence the strength of
+response of cancer cells to treatment. These glycosylation related genes
+may be considered as potential candidates for drug targeting in
+combination therapy to enhance the effects of treatment. Funded by NCI
+Contract No. HHSN261200800001E.
+
+

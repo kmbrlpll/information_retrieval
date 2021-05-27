@@ -1,0 +1,32 @@
+Meeting: 2012 AACR Annual Meeting
+Title: High-throughput profiling of miRNA expression in plasma and
+cerebrospinal fluid using OpenArray platform for biomarker discovery
+
+
+OpenArray platform can be used for expression profiling using TaqMan
+assays that enables higher throughput, less assay consumption, and lower
+sample input than other low-density assay platforms. One OpenArray plate
+has 3,072 through-holes, each of which requires only 33nl of reaction
+volume. We combined the workflow of Megaplex RT primer pools and
+pre-amplification with TaqMan MicroRNA assays on OpenArray plates. Each
+OpenArray plate provides the capacity of 3 samples, and each run can take
+up to 3 plates with a run time about 2.5 hours. Therefore, each typical
+work day can have 4 instrument runs generating expression data of 754
+miRNAs from 36 samples. This platform is ideal to identify potential
+miRNA biomarkers within a short period of time by screening a large
+cohort of clinical specimens that might have limitations in sample size,
+contamination of PCR inhibitors, or low abundance of target miRNAs. We
+optimized the original workflow of Megaplex RT primer pools and
+pre-amplification before applying to the OpenArray plates to ensure
+increasing detection sensitivity while maintaining the linearity in
+plasma samples. In a proof-of-principle investigation, we applied the new
+protocol to a small panel of plasma and cerebrospinal fluid (CSF)
+specimens derived from pediatric patients diagnosed with either germinoma
+or non-germinoma germ cell tumors of the brain, and benchmarked with
+another miRNA expression profiling platform, TaqMan Array Card (TAC), and
+OpenArray plates demonstrated good concordance with the TAC. Expression
+patterns of miRNAs detected in our CSF samples are largely consistent
+with previously published miRNAs differentially expressed in primary
+cancerous tissues between these two types of intracranial germ cell
+tumors. (For Research Use Only. Not for use in diagnostic procedures.)
+

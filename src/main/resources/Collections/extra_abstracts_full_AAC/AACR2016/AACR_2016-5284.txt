@@ -1,0 +1,33 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Characterizing the differences of allelic imbalance between tumor
+and normal tissues by next-generation sequencing
+
+
+Genetic variation has proved to contribute to tumor formation. One of the
+phenomenon caused by genetic variation, allelic imbalance, means
+different expression abundance between two alleles, recently has become a
+special landmark on cancer biology, with high prevalence in recent cancer
+studies. However, the present of allelic imbalance has not been fully
+understood yet. Taking the advantages of next generation sequencing,
+allelic imbalance can be identified and quantified through bioinformatics
+algorithms. Here, we developed a mathematical model to identify with
+allelic imbalance by concurrently analyzing RNA-Seq and DNA-Seq. First we
+called heterozygous SNP variants from both RNA-Seq and Exome-Seq data.
+The allele ratio is counted by the ratio of read depth between two
+alleles after integrating SNPs into gene level. Next, we identify allelic
+imbalance genes by differences of RNA and DNA allele ratios between tumor
+and normal samples. As results, a total of 91143 SNPs were identified in
+Exome-Seq, and about 3% (2586 out of 91143) SNPs were heterozygous in
+both tumor and normal tissues. We found that about 118 allelic imbalance
+genes in tumor tissue are significantly different from those in normal
+tissue. Furthermore, we investigate the enriched function of these
+allelic imbalance genes. These result showed that these genes are
+significantly enriched in DNA repair pathway. We speculated that allelic
+imbalance in tumor tissue may be involved in the dysregulation of DNA
+repair. Also other enriched functions were identified, such as z-finger
+protein pathway.Our goal is to investigate the landscape of allelic
+imbalance between tumor sample and normal sample. Our results demonstrate
+the role of allelic imbalance of dysregulation of tumor. Moreover, our
+method can be applied to uncover more basic mechanisms on allelic
+imbalance and tumorigenesis.
+

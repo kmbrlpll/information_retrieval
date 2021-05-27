@@ -1,0 +1,26 @@
+Meeting: 2014 AACR Annual Meeting
+Title: mRNA spike-in control materials for cancer fusion gene detection
+assays
+
+
+Oncogenic fusion genes underlie the mechanism of several common cancers
+and also constitute or encode important diagnostic and therapeutic
+targets. Studies using next-generation sequencing technologies,
+particularly RNA sequencing (RNA-seq), have revealed a growing number of
+recurrent fusions in a variety of cancers. As such, establishing analytic
+parameters, including the limit of detection, sensitivity, and
+specificity of detecting fusions in tumor RNA specimens is important. We
+have developed reference materials useful in assessing the ability to
+detect fusion events in RNA or DNA samples. These consist of a set of
+nine synthetic poly-adenylated RNA transcripts that correspond to common
+cancer fusion gene sequences. These synthetic fusion RNAs can be spiked
+at known concentrations into total RNA in the first stage of the mRNA
+sample prep and used as in-line controls to evaluate the sensitivity and
+specificity of the detection of these mutations. As a demonstration of
+the utility of these controls, we performed a series of spike-in
+experiments to investigate performance characteristics of three commonly
+used fusion-detection software algorithms. Our results show all three
+algorithms to be capable of detecting fusions in a dose-dependent manner.
+The results also show differences in performance among the algorithms for
+detecting specific fusions.
+

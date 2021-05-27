@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Coordinated regulation of several microRNAs in lung cancer
+patients.
+
+
+Background Non-small cell lung cancer (NSCLC) accounts for approximately
+85% of all lung cancers. NSCLCs are mainly classified adenocarcinoma and
+squamous cell carcinoma. It seems more and more obvious that specific
+molecular analyses are necessary to elucidate the complexity of
+clinically relevant phenotypes which determine the lung carcinogenesis.
+This includes the role of microRNAs (miRNAs) in the disease, involved in
+the complexity of gene expression regulation. Different modulator
+mechanisms are involved in the biogenesis and function of miRNAs, one of
+them is DNA methylation. Alterations in these mechanisms may contribute
+to the tumor genesis and progression. The purpose of this study was to
+assess miRNA methylation patterns in patients with NSCLC to study the
+potential of coordinate regulation of miRNAs as a relevant mechanism
+involved in this pathogenesis.
+
+Materials and Methods DNA methylation of gene clusters was analyzed by
+Illumina 70 subjects. The samples were divided into two cohorts. A first
+cohort constituted from 47 patients who had undergone surgical resection
+for clinical early stage NSCLC. A second group from 23 subjects was used
+as health cohort. DNA was extracted using the QIAamp DNA Mini Kit. For
+each assay, 500 ng of DNA was treated with sodium bisulfate using EZ DNA
+Methylation™ Kit and cleaned with ZR-96 DNA Clean-up Kit™, before
+standard Illumina amplification, hybridization, and imaging steps.
+Methylation data were processed using the RnBeads R package.
+
+Results We identified two clusters clearly corregulated by methylation in
+lung cancer, involving 49 miRNAs differentially hypomethylated in tumor
+samples respect to control tissue. Some of these miRNAs have been
+implicated in several pathways in cancer.
+
+Conclusions Our results strongly imply hypomethylation of two miRNA
+clusters, which represent key targets in unravelling of the mechanism of
+lung tumorigenesis.
+
+

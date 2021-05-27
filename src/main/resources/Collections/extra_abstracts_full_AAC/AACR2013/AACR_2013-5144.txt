@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Comparative Exonic Quantification analyzer (CEQer): a graphical,
+event-driven tool for copy number and allelic imbalance detection from
+whole-exome sequencing data.
+
+
+Copy number alterations (CNA) are common events occurring in leukaemias
+and solid tumors. Comparative Genome Hybridization (CGH) is actually the
+gold standard technique to analyze CNA, however CGH analyses require
+dedicated instruments and it is able to perform only low resolution Loss
+of Heterozygosity (LOH) analyses.Recently, the development of
+high-throughput sequencing instruments able to generate hundreds of
+Gigabases per run allowed the development of completely new approaches to
+the analysis of cancer genomes. By using exome reads as digital counters
+and by performing a case/control normalization to take into account
+differences in the enrichment efficiency, it is possible to detect both
+negative and positive CNA by identifying the associated decrease/increase
+in the exonic read counts. Unfortunately, the availability of
+user-friendly bioinformatics tools dedicated to the coupled CNA/AI
+(allelic imbalance) analysis of exome sequencing data is very limited.To
+overcome this limitation we developed CEQer (Comparative Exome
+Quantification analyzer), a new graphical, event-driven tool for
+CNA/allelic-unbalance coupled analysis of exome sequencing data. By using
+case-control matched exome data, CEQer performs a comparative digital
+exonic quantification to generate CNA data and couples this information
+with exome-wide LOH and AI detection. These data are used to build mixed
+statistical/heuristic models allowing the identification of CNA/AI
+events. CEQer runs on standard 32 or 64 bit desktop/notebook PC and
+accepts the most widely used alignment/pileup file formats (Pileup/BED,
+SAM and BAM) as input. CEQer requires no a priori bioinformatics or
+scripting knowledge, being graphical and event driven. It manages either
+single or multiple jobs by using a dedicated batch tool and generates
+interactive graphical views as well as textual reports as output.To test
+our tool, we initially used in silico generated data with progressively
+increasing background noise, then we performed whole-exome sequencing
+from 20 leukemic specimens and corresponding matched controls and we
+analyzed the results using CEQer. Taken globally, these analyses showed
+that the combined use of comparative digital exon quantification and
+LOH/AI allows to generate very accurate CNA data, when compared to
+standard CGH. Therefore, we propose CEQer as an efficient, robust and
+user-friendly graphical tool for the identification of CNA in the context
+of whole-exome sequencing data.
+

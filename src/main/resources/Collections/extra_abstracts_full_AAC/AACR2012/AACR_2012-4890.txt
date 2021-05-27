@@ -1,0 +1,43 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Arsenic trioxide induces apoptosis through the activation of ASK1
+and is enhanced by a thioredoxin reductase inhibitor
+
+
+Arsenic trioxide (ATO) is an effective treatment for acute promyelocytic
+leukemia (APL). While it is undergoing clinical trials for numerous
+malignancies including multiple myeloma, myelodysplastic syndrome,
+lymphoma and solid tumors, it has demonstrated only limited efficacy as a
+single agent. However, it may hold promise as part of a combination
+therapy. Thus investigation to elucidate the mechanisms of action
+underlying these clinical responses may lead to generation of rational
+combination therapies to increase its therapeutic spectrum. Previous work
+has described a pathway required for ATO-induced apoptosis in APL cells
+involving the generation of reactive oxygen species (ROS), and the
+subsequent induction of a specific mitogen-activated protein kinase
+(MAPK) cascade that includes both stress-activated protein kinase
+(SAPK)/ERK kinase 1 (SEK1) and c-Jun N-terminal kinases (JNK) activation.
+However, the link between ROS production and activation of SEK1 remains
+to be elucidated. Apoptosis signaling kinase 1 (ASK1) is a MAP3K upstream
+of SEK1 and has been implicated in the induction of stress-induced
+signaling. Here, we show that ATO activates ASK1 in a dose- and
+time-dependent manner in an APL cell line. ASK1 activation is preceded by
+ATO-induced ROS accumulation, which is significantly reduced with
+N-acetyl-L-cysteine antioxidant co-treatment. Murine embryonic
+fibroblasts (MEFs) from ASK1 deficient mice are less susceptible to
+ATO-induced apoptosis and growth inhibition. Moreover, they exhibit
+markedly lower ATO-induced JNK activity compared to wild type cells. One
+model of ASK1 regulation suggests that ASK1 is kept in an inactive form
+by reduced thioredoxin-1 (Trx1). During oxidative stress, Trx1 is
+oxidized and releases ASK1 for activation. Immunoprecipitation of ASK1
+followed by immuoblotting for Trx1 in APL cells shows a strong basal
+association that is lost with ATO treatment. Furthermore, the activity of
+thioredoxin reductase 1 (TrxR1), an enzyme that converts oxidized Trx1
+into reduced Trx1, is significantly decreased following ATO treatment.
+This suggests that ATO activates ASK1 signaling by ROS-mediated oxidation
+of Trx1 and by inhibiting the restoration of reduced Trx1 by decreasing
+TrxR1 activity. In addition, we show that inhibition of TrxR1 with the
+TrxR1 inhibitor Au(III)Cl sensitizes APL cells to ATO-induced apoptosis.
+This suggests that regulation of ASK1 is dependent on Trx1 redox states.
+Overall, our results suggest that targeting Trx1 may enhance ASK1
+signaling and ATO-induced apoptosis in a novel combination therapy.
+

@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Development of Kras mutant lung adenocarcinoma in tobacco
+carcinogen exposed mice with knockout of the airway lineage-specific
+G-protein coupled receptor Gprc5a
+
+
+Lung adenocarcinoma (LUAD) represents the most common lung cancer subtype
+in smokers. Despite the urgency for prevention in high-risk smokers, we
+still do not know the earliest changes that drive LUAD development and
+would thus be ideal targets for chemoprevention. Earlier work revealed
+that the retinoic acid-inducible G-protein coupled receptor, Gprc5a, is
+abundantly expressed in mouse normal lung relative to other normal
+tissues. Moreover, mice with knockout of Gprc5a develop spontaneous late
+onset lung tumors, including LUADs, suggesting a tumor suppressor role
+for this gene. In the present study, we sought to better understand the
+impact of Gprc5a expression on LUAD pathogenesis. We first examined the
+expression of human GPRC5A in publicly available datasets and found that
+GPRC5A was highest in human normal lung relative to other normal samples
+and was down-regulated in human LUADs. We then assessed expression
+patterns of Gprc5a within different mouse airway compartments and found
+that the gene was predominantly expressed in alveolar type I (AT1) cells
+pointing to potential airway lineage-specific functions for Gprc5a. Next
+we sought to analyze tobacco carcinogen-mediated lung oncogenesis as an
+attempt to emulate smoking-induced lung cancer in humans. In contrast to
+wild type littermates, Gprc5a-/- mice treated with the nicotine-specific
+carcinogen NNK developed LUADs by six months after carcinogen exposure.
+Following immunofluorescence analysis, these LUADs were found to express
+surfactant protein C (Sftpc) and lack the clara cell marker Ccsp
+suggesting that the cells of origin for these LUADs are alveolar type II
+(AT2) cells. We were then prompted to understand genomic alterations in
+the pathogenesis of the Gprc5a-/- LUADs. Using the Illumina HiSeq 2500
+platform, we performed whole exome sequencing (WES) of five
+carcinogen-induced LUADs as well as two Gprc5a-/- tail veins and normal
+lung tissues to infer somatic variants. Of note, all LUADs exhibited
+somatic activating Kras mutations (p.G12D or p.Q61R), the same variants
+purported to act as drivers of human LUAD in smokers. The Kras mutations
+were also observed in premalignant lesions that developed prior to LUAD
+onset. Moreover, WES analysis revealed additional driver genes that were
+mutated (Apc, Atm, Kmt2d, Nf1, Trp53) or exhibited copy number
+alterations (CNAs) (gain of Kras, Met, Braf, Ezh2) in multiple Gprc5a-/-
+LUADs. Our data suggest that Gprc5a loss coupled with NNK exposure leads
+to AT2-derived Kras mutant LUADs with co-occurring mutations and CNAs in
+other driver oncogenes and tumor suppressors. Our findings also imply
+that the tobacco carcinogen exposed Gprc5a-/- model emulates the
+molecular pathology of human LUAD and offers unique opportunities to map
+the temporal evolution of Kras mutant LUAD and identify targets for
+chemoprevention of this fatal malignancy.
+

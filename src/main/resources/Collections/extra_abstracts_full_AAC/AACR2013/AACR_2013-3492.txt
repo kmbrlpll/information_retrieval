@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Using CTCs to interrogate mechanisms of taxane resistance in the
+prospective TAXYNERGY clinical trial in prostate cancer.
+
+
+Prostate cancer progression into castration-resistant prostate cancer
+(CRPC) is driven by continued androgen receptor (AR) signaling despite
+surgical and chemical androgen ablation. The taxanes represent the only
+class of chemotherapy that improves overall survival in CRPC patients.
+Despite their success, CRPC patients do progress on taxane treatment
+rendering taxane-resistant tumors. The molecular mechanisms underlying
+clinical taxane resistance in CRPC have not been well elucidated due to
+the lack of available tumor tissue to study. Circulating tumor cells
+(CTCs) represent a liquid biopsy of the original tumor and isolation of
+them can lead to their molecular characterization potentially revealing
+predictive biomarkers for taxane sensitivity or resistance. Here, we use
+a geometrically enhanced differential immunocapture (GEDI) microfluidic
+device that couples an anti-prostate specific membrane antigen (PSMA)
+antibody with optimized 3D geometry to capture and isolate live CTCs from
+whole blood of CRPC patients. The GEDI-microfluidic device was shown to
+have a 2-400 fold higher sensitivity for CTC capture than the
+FDA-approved CellSearch system. We have previously shown that CRPC
+patient CTCs can be used to derive functional information that correlates
+to clinical response to taxane chemotherapy, namely AR subcellular
+localization status. We have developed a suite of other functional assays
+that can be performed on live GEDI-captured CTCs that enable their
+molecular characterization and allow us to test specific mechanistic
+hypotheses based on our extensive preclinical data. Included, and herein
+described, are the determination of AR subcellular localization, extent
+of effective drug-target engagement assessed by microtubule bundling,
+identification of RNA species relevant to the mechanism of taxane
+resistance and computer vision algorithms that will allow for enriched
+and automated analysis of high-volume image sets of GEDI-captured CTCs.
+In addition, we will be testing the hypothesis that distinct AR splice
+variants may affect patient sensitivity to taxane-based chemotherapy.
+This suite of assays are being rigorously applied in a phase II clinical
+trial in which chemotherapy-nave CRPC patients will be initially treated
+with either docetaxel or cabazitaxel and clinically evaluated for an
+early switch to the other taxane following disease progression. This
+prospective, randomized, multi-site clinical trial will enroll 100 CRPC
+patients within one year. Patients will be followed until relapse and
+each patient will have 15 independent GEDI assays performed across five
+time points from baseline to chemotherapy crossover to relapse. The depth
+of coverage this suite of assays provides will offer unique insights for
+potential mechanisms of clinical taxane resistance and predictive
+biomarkers for taxane sensitivity in CRPC patient CTCs.
+

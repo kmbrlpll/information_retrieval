@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Time-resolved functional perfusion-based analysis of peptide vs.
+antibody tumor penetration by photoacoustics
+
+
+Introduction: Bicycle Therapeutics is developing bicyclic peptide
+binders, targeting MT1-MMP (a matrix metalloproteinase involved in tumor
+metastasis) to deliver toxic agents specifically to tumor cells. Due to
+their high affinity, small size, enhanced tumor penetration, fully
+synthetic nature and rapid clearance bicyclic peptide drug conjugates
+(BDCs) may overcome some of the limitations of the antibody drug
+conjugate (ADC) format. Photoacoustic imaging is an emerging technology
+that combines the most compelling features of optical imaging and
+ultrasound, providing both high optical contrast and high ultrasound
+resolution at depth. Photoacoustic imaging's unique properties make it
+superior to other modalities in generating information-rich structural
+and functional images in multiple critical disease areas, including
+applications within cancer, cardiovascular disease, and inflammation.
+Here, a fluorescent-labeled Bicycle peptide (Alexa680), and a
+corresponding antibody (Alexa750), both bind to the same domain
+(hemopexin) on MMP14, to measure tumor penetration simultaneously. Both
+bind to the same domain (hemopexin) on MMP14 with similar
+(low/subnanomolar) affinities. Functional perfusion was measured by
+Indocyanine Green (ICG) dynamic imaging. By utilizing photoacoustics, we
+were able to discriminate regions of high and low perfusion in the tumor
+and measure the amount of each labeled material.Methods: Female Nude mice
+were implanted with human fibrosarcoma cell line (HT-1080)
+subcutaneously. HT-1080 is known to express large amounts of MMP14. While
+anesthesized with isofluorane, a tail vein catheter was introduced and
+the animal placed into a photoacoustic 3D imager (Nexus 128, Endra Inc.
+Ann Arbor, MI). The fluore-labeled Bicycle Peptide and Antibody were
+injected and a 30-minute dynamic scan was acquired for both labels
+simultaneously. This was followed by a 3-minute ICG scan.Results: Using
+the ICG scan, regions of high and low perfusion were determined and used
+to quantify compound penetration. The Bicycle peptide was shown to
+accumulate into highly perfused regions over the antibody. In the lower
+perfused regions the bicycle peptide was also shown to amass at higher
+amounts over the antibody in regions of high vascular
+perfusion.Conclusion: Using photoacoustics we were able to show regions
+of low perfusion were accessible by the Bicycle peptide, to a greater
+extent than the antibody. Relatively low perfusion in localized tumor
+refund can limit therapeutic effect. The delivery of a therapeutic using
+a peptide with high tumor affinity and penetration under poor vascular
+perfusion would overcome such limitations.
+

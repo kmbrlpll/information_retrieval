@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Targeting GPX4 in tumor-associated stromal cells increases
+inflammatory-cell infiltration.
+
+
+The lack of a T-cell inflamed microenvironment in tumors limits
+responsiveness to many immunotherapies. T-cell exclusion is often
+mediated by a dense infiltration of fibroblast-like stromal cells. Up to
+55% of triple-negative breast cancers have ‘stroma-rich’ tumors with
+markedly lower T-cell inflammation. Here we report a therapeutic strategy
+that can potentially convert stroma-rich tumors into T-cell inflamed
+tumors by forcing stromal cells to secrete 5-lipoxygenase products which
+are powerful chemo-attractants for T cells.
+
+We were initially interested in identifying selective inhibitors of
+stromal-cell function. To achieve this, we used phenotype-based
+small-molecule screening in which the phenotype of stroma-induced cancer
+cell migration in vitro was a surrogate for stroma-induced metastasis in
+vivo. We identified a compound, RSL3 that inhibited this migration. RSL3
+was selectively cytotoxic to stromal cells over cancer cells, in
+comparisons of immortalized cell lines as well as comparisons of
+patient-derived primary breast cancer cells to cancer-associated
+fibroblasts (CAFs). We therefore undertook studies to identify its
+mechanism of action.
+
+RSL3 was recently reported to target the redox enzyme glutathione
+peroxidase 4 (GPX4). GPX4 metabolizes lipid peroxides so we performed
+metabolomic profiling of RSL3-treated stroma-cancer co-cultures and found
+elevated arachidonic acid products of lipoxygenase enzymes. Stromal cells
+were found to contain >10-fold higher levels of lipoxygenase products
+than carcinoma cells. Blocking either 5-lipoxygenase (5-LO) or
+15-lipoxygenase (15-LO) with selective inhibitors abrogated RSL3’s
+cytotoxicity to stromal cells. Thus, high lipoxygenase activity in
+stromal cells increases their susceptibility to GPX4 inhibition.
+
+Because 5-LO products like leukotriene B4 are powerful chemo-attractants
+for myeloid cells and T cells, we studied the impact of GPX4 knockdown in
+vivo using xenografts of cancer cells co-injected with stromal cells.
+GPX4 knockdown resulted in a large increase in myeloid-cell infiltration
+into tumors but, surprisingly, T-cell infiltration was suppressed. We
+reasoned that 15-LO products are immunosuppressive based on recent
+findings that 15-LO gene amplifications are inversely correlated with
+T-cell infiltration in breast cancers in The Cancer Genome Atlas.
+Consistent with this, GPX4 inhibition of stroma-cancer co-cultures
+suppressed T-cell chemotaxis but combined inhibition of GPX4 and 15-LO
+significantly enhanced T-cell chemotaxis over untreated controls in
+vitro. We are undertaking in vivo testing of this combination.
+
+In summary, our unbiased chemical biology approach has revealed a
+therapeutic strategy to promote T-cell inflammation. We envision this to
+be a priming strategy for stroma-rich cancers to become responsive to a
+variety of different immunotherapies thereby unleashing their full
+curative potential.
+
+

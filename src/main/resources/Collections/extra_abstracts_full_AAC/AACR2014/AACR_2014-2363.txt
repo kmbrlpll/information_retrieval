@@ -1,0 +1,35 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Large scale gene expression analysis identifies key oncogenic
+pathways across hematological malignancies
+
+
+Hematological malignancies, consisting of all the subtypes of leukemia
+and lymphoma together with multiple myeloma, constitute a diverse
+assembly of cancers manifesting primarily in the circulatory or immune
+systems. Common to all of them is their developmental origin in the
+hematopoietic cell lineage, which normally produces mature blood cells.
+For this reason, numerous transcriptomic aberrations, along with their
+underlying mutations, are shared by different subtypes of hematological
+malignancies.To enable concurrent gene expression analysis across a
+comprehensive range of leukemias, lymphomas and multiple myeloma, we
+compiled a hematological dataset from gene expression microarray data
+publicly available in the Gene Expression Omnibus data repository. This
+manually curated collection includes over six thousand neoplastic and
+nearly nine hundred healthy samples of multiple lineages descending from
+the hematopoietic stem cell. The cancer samples were manually
+re-annotated in a congruent manner into categories with three
+hierarchical levels so as to allow analysis at various levels of
+specificity. For instance, an early B cell acute lymphocytic leukemia
+(ALL) sample is classified first as leukemia, secondly as ALL, and in the
+third, most specific level, as early B-ALL.The power of the dataset lays
+not only in its extensiveness in terms of subtypes of hematological
+malignancies, but also in the sheer number of samples within these
+categories. This enables the discovery of expression signatures with high
+statistical significance, as well as identification of key oncogenic
+pathways and regulatory networks within different subtypes. To
+demonstrate these analyses, we used our database to search for any
+specific expression patterns of small nucleolar RNAs (snoRNAs) in acute
+leukemias. Among thousands of leukemia patients, we identified a specific
+signature of SNORD114 in acute promyelocytic leukemia, previously
+revealed in a very restricted cohort of patients.
+

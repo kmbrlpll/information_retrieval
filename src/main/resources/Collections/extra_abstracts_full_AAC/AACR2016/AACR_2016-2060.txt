@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Polymer mediated RNAi-based combination therapy for treating
+prostate cancer
+
+
+Purpose. To determine whether RNAi-based combination therapy targeting
+androgen receptor (AR) and XIAP signaling pathways using polymeric
+micelles can treat prostate cancer.Methods. Potency of siRNAs targeting
+AR and XIAP genes was assessed using real time RT-PCR, Western Blot and
+ELISA. Cell viability was determined by MTT assay. A library of polymers
+designed to degrade via hydrolysis and enhance siRNA delivery was
+synthesized by conjugating hexylamine, pentaethylenehexamine and
+3-morpholinopropylamine to poly(ethylene
+glycol)-block-poly(5-methyl-5-carboxyl-propylene carbonate) backbone
+using EDC/HOBT coupling chemistry. Polymer structure and molecular weight
+were verified with proton NMR and Gel Permeation Chromatography,
+respectively.Results. Three siRNA sequences targeting different regions
+of the AR and XIAP genes were designed, blasted against the human genome
+database to eliminate cross-silencing of nontarget genes and their
+potency screened in LNCaP and C4-2 cells following transfection. All
+siRNAs targeting AR (start site: 1172, 1648 and 1768) used in this study
+silenced AR mRNA and protein expression in both cell lines. Furthermore,
+1172 was identified as the most potent sequence resulting in
+approximately 75% knockdown regardless of cell type. Also, the three
+siRNAs targeting XIAP (start site: 264, 297 and 458) down-regulated XIAP
+mRNA and protein levels in both cells and were generally more potent in
+C4-2 cells compared to LNCaP cells. C4-2 cells transfected with siRNA
+targeting AR (start site: 1172) and XIAP (start site: 264) alone or in
+combination and assayed after 96 hours revealed XIAP and AR
+down-regulation resulted in approximately 20% and 50% growth inhibition
+in C4-2 cells, respectively, compared to control. However, combined
+silencing of XIAP and AR genes decreased cell growth by 62% and was more
+potent in inhibiting cell proliferation compared to monotherapy.
+Additionally, combination of siRNA targeting AR (start site: 1172) and
+XIAP (start site: 264) significantly increased percentage of cells
+undergoing apoptosis (85%) compared to control or monotherapy.
+Poly(ethylene glycol)-block-poly(5-methyl-5-carboxyl-propylene carbonate)
+copolymer was synthesized by ring opening polymerization and conjugated
+with various ratios of hexylamine, pentaethylenehexamine and
+3-morpholinopropylamine moieties. The resulting copolymer
+(PEG-b-P(CC-g-PHEXYL-g-PMORPH-g-PPHEA) were non-toxic even at
+concentration of 1500 g/mL and successfully condensed siRNA at N/P of 25
+with average hydrodynamic diameter of approximately 175 nm.Conclusions.
+Combination based therapy using siRNA targeting AR and XIAP can
+potentially treat prostate cancer.
+

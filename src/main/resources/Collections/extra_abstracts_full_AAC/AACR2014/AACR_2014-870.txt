@@ -1,0 +1,69 @@
+Meeting: 2014 AACR Annual Meeting
+Title: 16S rRNA saliva analysis unveils microbiome biomonitors linked to
+human papilloma virus and oropharyngeal squamous cell carcinoma
+
+
+Microbiota markers in saliva able to distinguish HPV positive from HPV
+negative Head and Neck Squamous Cell Carcinoma (HNSCC) patients, as well
+as HNSCC patients from controls, will enable increases in treatment
+options, reductions in treatment costs and improvements in survival
+rates. In the present study we compared the microbiota present in saliva
+DNA from HPV positive and HPV negative oropharyngeal cancer (OPSCC)
+patients to saliva DNA from uvulopalatopharyngoplasty (UPPP) patients,
+used as normal oral mucosa controls.PCR amplification of the 16S rRNA
+V3-V5 gene region was performed using the 357F/926R primer set. Amplified
+fragments were multiplexed on the Roche/454 GS Junior sequencing
+platform. Data were screened for chimeric sequences and contaminant
+chloroplast DNA after pre-processing. Passing sequences were
+characterized for diversity and taxonomic composition using QIIME and R
+before cross-tabulation analyses were performed.Bacteroidetes,
+Firmicutes, and Proteobacteria dominated the microbiome in our sample set
+with less frequent presence of Actinobacteria and Fusobacteria members.
+At lower taxonomic levels, the most abundant genera observed were
+Streptococcus, Prevotella and Veillonella. We found statistically
+significant associations in the alpha-diversity estimators of UPPP and
+OPSCC patients. Specifically, the microbiota communities present in UPPP
+are significantly enriched in the observed_species category (PMicrobiota
+markers in saliva able to distinguish HPV positive from HPV negative Head
+and Neck Squamous Cell Carcinoma (HNSCC) patients, as well as HNSCC
+patients from controls, will enable increases in treatment options,
+reductions in treatment costs and improvements in survival rates. In the
+present study we compared the microbiota present in saliva DNA from HPV
+positive and HPV negative oropharyngeal cancer (OPSCC) patients to saliva
+DNA from uvulopalatopharyngoplasty (UPPP) patients, used as normal oral
+mucosa controls.PCR amplification of the 16S rRNA V3-V5 gene region was
+performed using the 357F/926R primer set. Amplified fragments were
+multiplexed on the Roche/454 GS Junior sequencing platform. Data were
+screened for chimeric sequences and contaminant chloroplast DNA after
+pre-processing. Passing sequences were characterized for diversity and
+taxonomic composition using QIIME and R before cross-tabulation analyses
+were performed.Bacteroidetes, Firmicutes, and Proteobacteria dominated
+the microbiome in our sample set with less frequent presence of
+Actinobacteria and Fusobacteria members. At lower taxonomic levels, the
+most abundant genera observed were Streptococcus, Prevotella and
+Veillonella. We found statistically significant associations in the
+alpha-diversity estimators of UPPP and OPSCC patients. Specifically, the
+microbiota communities present in UPPP are significantly enriched in the
+observed_species category (P<0.001). The raw number of operational
+taxonomic units (OTUs) was also significantly higher in UPPP when
+compared to OPSCC patients (p=0.02). Specifically, a threshold of 80 OTUs
+was enough to discriminate UPPP from OPSCC patients.At the phylum level,
+we did not detect a significant difference in taxa of UPPP and OPSCC
+patients. Yet at the family level, the taxon
+Fusobacteriales_Leptotrichiaceae is dramatically enriched in UPPP samples
+when compared to OPSCC (p=0.02) and is present in very high numbers in
+all UPPP samples. A threshold of 10 sequences assigned to
+Fusobacteriales_Leptotrichiaceae discriminated UPPP from OPSCC patients.
+At the genera level we found that the genus Tannerella is exclusively
+observed in UPPP patients (p=0.03).At the class level,
+Bacteroidetes_Flavobacteria appears significantly enriched in HPV- when
+compared to HPV+ OPSCC patients (p=0.02). A threshold of 5 sequences
+assigned to Flavobacteria discriminated HPV+ from HPV- OPSCC patients. At
+the class level, we also observed enrichment of the taxon
+Bacteroidetes_Flavobacteria in UPPP relative to OPSCC HPV+ patients
+(p=0.03). And at the genus level, the low-level presence of
+Aerococcaceae_Abiotrophia discriminated UPPP from OPSCC HPV+ patients
+(p=0.02).Our preliminary results suggest that the microbial diversity and
+taxonomic composition of the microbiota in saliva may be useful
+diagnostic and early detection biomonitors for OPSCC.
+

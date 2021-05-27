@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Hypoxia and HIF silencing mediated dysregulation of total choline,
+CD44 expression, and metastatic burden in MDA-MB-231 human breast cancers
+
+
+Hypoxic tumors frequently exhibit an aggressive phenotype due to
+dysregulated gene expression and metabolic changes. Hypoxia results in
+the stabilization of hypoxia inducible factors (HIF-1/2) that
+transcriptionally activate genes involved in invasion, metastasis,
+metabolism, and in the adaptation of cancer cells to their
+microenvironment. In breast cancer, stem-like breast cancer cells that
+survive, repopulate and metastasize to distant locations, have elevated
+expression of CD44. In a previous study, we observed elevated expression
+of CD44 in hypoxic tumor regions, and identified HIF-1 as a regulator of
+CD44 expression in breast cancer cells under hypoxic conditions [1].
+Hypoxia has also been implicated in increasing the activity of choline
+kinase (Chk)-alpha, the enzyme responsible for elevated phosphocholine
+(PC) and total choline (tCho) consistently observed in cancers [2]. In
+previous studies, lentiviral transduction of MDA-MB-231 breast cancer
+cells (231 cells) with shRNA against Chk-alpha and the in vivo delivery
+of the Chk-shRNA virus into tumor bearing mice resulted in decreased CD44
+message and expression together with effective silencing of Chk message
+and expression [3]. Here, using non-invasive proton magnetic resonance
+spectroscopic imaging (1H MRSI), we have established the importance of
+HIF in reducing total choline and metastatic tumor burden, and have
+identified a role for CD44 in establishing lung metastasis. HIF silencing
+in MDA-MB-231 cells significantly delayed tumor growth in mice. Both, the
+in vitro 1H and 31P MR spectra and in vivo 1H MRS images of tumors
+derived from engineered cells showed decreased tCho levels and
+distribution. This decrease of tCho was statistically significant in
+tumors derived from double silenced cells. Western blot analysis of
+tumors detected a decrease in Chk expression in double silenced (HIF-1
+and 2) tumors. Silencing HIF-1, -2 or both resulted in a significant
+reduction of metastatic lung burden in mice. Additionally, HIF-2
+silencing was more effective at reducing lung colonization than HIF-1,
+while silencing both was the most effective. Although metastatic burden
+decreased in HIF-1 silenced cells, the percentage of cells with high CD44
+expression in the metastatic foci was comparable to that in the wild type
+or empty vector foci. These data identify the importance of targeting HIF
+and CD44 to prevent lung colonization and disrupt the metastatic
+cascade.This work was supported by NIH R01CA136576 and P50 CA103175. We
+thank Mr. Gary Cromwell for valuable technical assistance.References: 1.
+Krishnamachary B. et al., PLoS One, 2012; 2. Glunde, K., et al., Cancer
+Res, 2008; 3. Ackerstaff E. et al., Neoplasia. 2007.
+

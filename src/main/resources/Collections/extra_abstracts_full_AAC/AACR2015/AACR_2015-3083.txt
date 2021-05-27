@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Global gene expression profiling of mice tumor-derived organoids
+identifies key microRNAs and metabolic genes involved in CRC progression
+
+
+Background. Progressive accumulation of mutations in oncogenic and tumor
+suppressor pathways are associated with colorectal cancer (CRC).
+Mutations in APC, KRAS and p53 represent key drivers events in CRC
+initiation and progression and are simultaneously mutated in about 30% of
+CRC. Tumor derived Organoids (TDO) are three-dimensional (3-D) structures
+composed of cells that are spatially organized like mini-guts and
+represent a useful ex vivo tool to study intestinal physiology and cancer
+progression. Here, we investigated the progressive deregulation of mRNA
+and microRNA (miRNA) genes in TDOs from intestines of three different
+Genetically Engineered Mouse models (GEMMs) harboring mutations in Apc,
+Apc plus Kras and Apc plus Kras and p53. Methods. Array analysis of
+protein coding and non-coding RNAs from mice TDOs was performed to
+identify mRNAs and miRNAs that were differentially expressed following
+Apc, Kras and p53 mutations. Agilent Feature Extraction software was used
+to analyze acquired array images and subsequent data processing was
+performed by the GeneSpring GX v11.5.1 software package. Results.
+Twenty-five% of mRNAs showed more than 2 fold changes in expression level
+and considered differentially expressed. Pathway analysis found that a
+great number of mRNAs, which were significantly differentially expressed
+(P-value 0.001), were involved in metabolic process. Of these, 10 were
+involved in metabolism of different amino acids or other compounds (e.g.,
+arachidonic acid, ascorbate, alendrate, and linoleic acid) and 4 were
+encoding the cytochrome p450 family drug and xenobiotic metabolizing
+enzymes. In addition, 28 and 10% of miRNAs in Apc vs Apc/Kras and
+Apc/Kras vs Apc/Kras/p53 respectively were identified as differentially
+expressed miRNA. Twenty-two of these miRNAs were related to deregulated
+metabolic genes in this study. Selected metabolic genes (e.g., Pipox)
+were constantly down regulated from early (Apc only mutants) to advanced
+(Apc/Kras/p53 mutants) CRC, whereas their associated miRNAs (mir-883a-3p
+and mir-1943) were constantly up regulated. High expression level of
+mir-125 which was detected in Apc/Kras/p53 group was also associated to
+down regulation of associated metabolic genes: Pipox and Ggt7.
+Conclusions. Using 3-D TDOs, we have identified deregulated miRNAs that
+are involved in regulation of metabolic pathways associated with CRC
+progression. Further analysis of miRNA-mRNA interaction in these models
+may help identify metabolic vulnerabilities that may be exploited for CRC
+therapy.
+

@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: BMVC specifically binds the major G-quadruplex structure formed in
+the c-MYC promoter to lower c-MYC levels
+
+
+The c-MYC proto-oncogene is one of the most deregulated genes in human
+cancers. Transcriptional repression of c-MYC is considered as one of the
+attractive strategies in targeting c-MYC. Previous studies revealed that
+the c-MYC promoter nuclease hypersensitive element (NHE) III1 region,
+which regulates 80-95% of total c-MYC transcription, can form DNA
+G-quadruplex (G4) and that stabilization of the c-MYC G4 could repress
+c-MYC gene expression. We have previously determined the molecular
+structure of the major G-quadruplex formed in the c-MYC promoter NHE
+(MycG4), which is an intramolecular parallel-stranded structure. BMVC, a
+carbazole derivative, was designed as a fluorescent probe for recognizing
+telomeric G4. However, we found that BMVC binds to MycG4 with much
+greater affinity and specificity. Cellular studies showed that BMVC was
+enriched in the nucleus at 48 hr after treatment, leading to markedly
+reduced c-MYC expression levels. Promoter-driven luciferase assays
+revealed that BMVC could enhance the inhibitory effects of MycG4,
+suggesting BMVC can repress c-MYC expression in vivo through
+stabilization of MycG4. To understand the molecular interactions between
+BMVC and MycG4, we have determined the molecular structure of the
+complexes of BMVC with MycG4 by NMR. BMVC appears to bind the 5-end of
+the MycG4 with very high affinity, as shown by the slow-exchange binding
+on the NMR timescale. The structure of the 5-end complex of BMVC and
+MycG4 shows that BMVC is paired to the flanking adenine with specific
+hydrogen bonding interactions, while the BMVC-adenine plane stacks nicely
+on the 5-end G-tetrad of MycG4. Compared to the previous MycG4 complex
+with a quindoline compound, the tighter and more specific binding of BMVC
+appears to be imparted by the novel arched shape of BMVC and specific
+pairing recognition of BMVC with the flanking bases of MycG4. BMVC can
+also bind to the 3-end of MycG4 with lower affinity to form a second
+complex. However, the 3-end complex shows much more dynamic conformation
+and less specific interactions. Our results indicated that the cellular
+targets of BMVC include not only telomeric G4, but also the c-MYC
+promoter G4. Because of the inherent fluorescence and novel binding mode
+of BMVC, our study provides useful information for future design of
+improved carbazole-based anticancer agents or specific cellular
+fluorescent probes, as well as insights into specific recognition of
+MycG4 by small molecules.
+

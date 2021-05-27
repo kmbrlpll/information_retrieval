@@ -1,0 +1,35 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Decomposing oncogenic transcriptional signatures to generate maps
+of divergent cellular states.
+
+
+The systematic sequencing of the cancer genome has provided a powerful
+framework for identifying genetic alterations in cancer. However, a
+deeper understanding of the functional consequences of these alterations
+is necessary to guide appropriate therapeutic strategies. Here, we
+describe Onco-GPS (OncoGenic Positioning System), a data-driven analysis
+framework, and associated experimental and computational methodology, to
+organize individual tumor samples with shared oncogenic alterations onto
+a reference map defined by their underlying cellular states. Using this
+approach, we generated series of RAS/MAPK sub-signatures that reflect
+known and novel downstream pathways. These sub-signatures were then used
+to classify KRAS and BRAF mutant cancers into sub groups or cell states,
+as represented in the novel visual paradigm “OncoGPS map”. OncoGPS
+approach was first applied to cancers with BRAF mutations. The approach
+not only accurately classified three groups of BRAF mutant cancers that
+aligned with sensitivity to BRAF inhibitors, but also identified
+resistance mechanisms associated with each state, validating the overall
+approach. OncoGPS also identified four major cell states associated with
+KRAS mutant cancers. Further characterization of the four cell states
+showed that multiple molecular features representing epithelial-EMT
+states and activation of NF-κB pathway delineated two major “axes”
+of KRAS mutant cancers. In addition to the pathways and cell states
+defined in each group, the OncoGPS approach is able to identify effective
+drug combinations which was experimentally tested and confirmed. These
+results show that the Onco-GPS is an effective analytic framework to
+explore the complex landscape of oncogenic cellular states across
+cancers, and a powerful framework to summarize knowledge, establish
+relationships, and generate more effective disease models for research or
+as part of individualized precision medicine paradigms.
+
+

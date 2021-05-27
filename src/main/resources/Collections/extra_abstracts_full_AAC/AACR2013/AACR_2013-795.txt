@@ -1,0 +1,58 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Transcriptome instability as a common characteristic of solid
+cancers.
+
+
+Analogous to the genomic types of instability describing cancer genomes,
+we recently proposed transcriptome instability as a genome-wide, pre-mRNA
+splicing related characteristic of colorectal cancer (Sveen et al.,
+Genome Medicine, 2011). Here, we explore transcriptome instability in
+several major solid cancer types.We have analyzed exon microarray data
+from ten cancer datasets (555 samples; seven cancer types) and four
+normal tissue types (93 samples; paired samples from colonic mucosa,
+lung, prostate and the stomach) for variation in relative amounts of
+aberrant exon usage, based on alternative splicing scores calculated by
+the FIRMA algorithm. Most major solid cancer types (breast, cervical,
+colorectal (two datasets), lung, and prostate (two datasets) cancer)
+showed large variations in aberrant exon usage amounts among the samples,
+and these amounts were strongly associated with splicing factor
+expression levels. Thus, we consider these cancer types to exhibit
+transcriptome instability. Non-random associations with splicing factor
+(n = 280) expression levels were shown by separation of samples according
+to aberrant exon usage amounts upon unsupervised hierarchical clustering
+analyses, and by stronger correlations between aberrant exon usage
+amounts and splicing factor expression levels than expected by chance
+(compared with random gene sets and permutations of the aberrant exon
+usage amounts; P Analogous to the genomic types of instability describing
+cancer genomes, we recently proposed transcriptome instability as a
+genome-wide, pre-mRNA splicing related characteristic of colorectal
+cancer (Sveen et al., Genome Medicine, 2011). Here, we explore
+transcriptome instability in several major solid cancer types.We have
+analyzed exon microarray data from ten cancer datasets (555 samples;
+seven cancer types) and four normal tissue types (93 samples; paired
+samples from colonic mucosa, lung, prostate and the stomach) for
+variation in relative amounts of aberrant exon usage, based on
+alternative splicing scores calculated by the FIRMA algorithm. Most major
+solid cancer types (breast, cervical, colorectal (two datasets), lung,
+and prostate (two datasets) cancer) showed large variations in aberrant
+exon usage amounts among the samples, and these amounts were strongly
+associated with splicing factor expression levels. Thus, we consider
+these cancer types to exhibit transcriptome instability. Non-random
+associations with splicing factor (n = 280) expression levels were shown
+by separation of samples according to aberrant exon usage amounts upon
+unsupervised hierarchical clustering analyses, and by stronger
+correlations between aberrant exon usage amounts and splicing factor
+expression levels than expected by chance (compared with random gene sets
+and permutations of the aberrant exon usage amounts; P < 0.001).In
+comparisons across healthy tissue types and paired cancer and normal
+datasets, we observed tissue- and cancer-specific patterns in splicing
+factor correlations. Interestingly, in comparisons across cancer types
+with transcriptome instability (but not across cancer datasets that did
+not show transcriptome instability; gastric cancer, a second lung cancer
+dataset, and neuroblastoma), the non-random associations between aberrant
+exon usage amounts and splicing factor expression remained intact,
+indicating a failure to adhere to tissue specificity. Thus, we consider
+transcriptome instability to be a common feature of most major solid
+cancer types, and this deviant splicing pattern is associated with
+splicing factor expression levels.
+

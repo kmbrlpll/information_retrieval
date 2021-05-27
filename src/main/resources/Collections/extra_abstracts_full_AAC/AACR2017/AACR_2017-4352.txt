@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification of ZFP42/REX1 as a regulator of cancer stemness in
+CD133+ liver cancer stem cells by genome-wide DNA methylation analysis.
+
+
+The existence of a cancer stem cell (CSCs) subset is well established in
+hepatocellular carcinoma (HCC). This subset can be characterized by its
+CD133 expression. Since the discovery of this marker, studies have
+revealed deregulated pathways and epigenetic alterations associated with
+this subset, but few have focused on changes in DNA methylation. This
+study aims to fill this research gap by discovering aberrant DNA
+methylation patterns governing CD133+ CSC-driven HCC. Results from
+Infinium HumanMethylation450 BeadChip (HuMet450 BeadChip) have led to the
+discovery of differential methylation patterns between CD133+ liver CSCs
+and matched CD133- differentiated samples. ZFP42/REX1 is one of the
+top-ranking differentially methylated candidates. Probes corresponding to
+its promoter are extensively hypermethylated in the CD133+ samples. To
+explore the hypothesis that promoter DNA hypermethylation modulates REX1
+expression, REX1 mRNA levels were first validated to be down regulated in
+sorted CD133+ HCC cell lines (n=2) and HCC samples (n=46, p<0.05) by
+RT-qPCR. Upon 5-AZA treatment, only low-REX1-expressing cells
+re-expressed REX1. By in silico prediction, a CpG island of interest
+located in the REX1 promoter region was selected for further
+investigation. Results of pyrosequencing of this CpG island show that
+REX1 expression appears to be negatively correlated with the degree of
+DNA methylation in HCC cell lines (n=3); and that HCC samples (n=13)
+exhibit a predominantly hypermethylated state compared to the matched
+non-tumor samples. To add onto the clinical relevance of REX1, two
+HuMet450 BeadChip datasets of HCC sample cohorts (GSE54503 and GSE60753)
+were obtained from Gene Expression Omnibus (GEO). In these cohorts, the
+CpG probes corresponding to the REX1 promoter region are significantly
+hypermethylated (p<0.01) in HCC samples compared to the adjacent
+non-tumor tissues. Lentiviral-based approaches were adopted to establish
+stable REX1 overexpressing and knockdown cells in HCC cell lines. REX1
+expression appears to be negatively correlated with the cells’
+abilities to migrate, invade, and form foci in vitro; and tumorigenicity
+in vivo. ChIP-seq has been adopted to study the DNA-binding property of
+REX1 in HCC cells. These findings suggest that REX1 may play a part in
+mediating various cancer properties in HCC.
+
+

@@ -1,0 +1,66 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identification of estrogen receptor alpha 1 bound lncRNAs in
+aggressive breast cancer
+
+
+Breast cancer (BC) is the second most common newly diagnosed cancer and
+the second leading cause of cancer death among women in the United
+States. Around 70% of diagnosed BCs are estrogen receptor positive (ER+).
+Despite the proven benefits of adjuvant endocrine therapy in women with
+hormone receptor positive breast cancer, relapses still occur even after
+initial treatment with endocrine therapy for 5 years, referred to as late
+stage relapse. While existing studies have focused on the role of
+protein-coding genes, long non-coding RNAs (lncRNAs) are an emerging and
+under-characterized class of transcripts that have been shown to be
+dysregulated in breast cancer. Recently, lncRNAs have been shown to
+function by interfacing with corresponding RNA binding proteins to play
+critical regulatory roles in chromatin remodeling and diverse cellular
+processes by acting as decoys, guides, and scaffolds. As estrogen
+receptor expression is controlled mostly by epigenetic and
+post-transcriptional mechanisms, and very rarely at the genomic level, we
+hypothesize that lncRNAs may interact with ER to promote aggressive
+disease. To address this, we aimed to identify lncRNAs bound to the
+estrogen receptor alpha 1 (ESR1) that promote late stage breast cancer.
+To accomplish this, we first used transcriptome sequencing to identify
+altered expression levels of lncRNAs between primary tumors and
+late-stage relapse breast cancer patients. We detected 2086 altered
+lncRNAs when comparing the metastatic to the primary samples with an FDR
+Breast cancer (BC) is the second most common newly diagnosed cancer and
+the second leading cause of cancer death among women in the United
+States. Around 70% of diagnosed BCs are estrogen receptor positive (ER+).
+Despite the proven benefits of adjuvant endocrine therapy in women with
+hormone receptor positive breast cancer, relapses still occur even after
+initial treatment with endocrine therapy for 5 years, referred to as late
+stage relapse. While existing studies have focused on the role of
+protein-coding genes, long non-coding RNAs (lncRNAs) are an emerging and
+under-characterized class of transcripts that have been shown to be
+dysregulated in breast cancer. Recently, lncRNAs have been shown to
+function by interfacing with corresponding RNA binding proteins to play
+critical regulatory roles in chromatin remodeling and diverse cellular
+processes by acting as decoys, guides, and scaffolds. As estrogen
+receptor expression is controlled mostly by epigenetic and
+post-transcriptional mechanisms, and very rarely at the genomic level, we
+hypothesize that lncRNAs may interact with ER to promote aggressive
+disease. To address this, we aimed to identify lncRNAs bound to the
+estrogen receptor alpha 1 (ESR1) that promote late stage breast cancer.
+To accomplish this, we first used transcriptome sequencing to identify
+altered expression levels of lncRNAs between primary tumors and
+late-stage relapse breast cancer patients. We detected 2086 altered
+lncRNAs when comparing the metastatic to the primary samples with an FDR
+<0.05, of which 202 were novel. As expected, Gene Set Enrichment Analysis
+of differentially expressed protein-coding genes revealed an enrichment
+of biological concepts associated with breast cancer and metastasis.
+Next, in order to identify ESR1 bound lncRNAs associated with aggressive
+disease, we conducted RNA Immunoprecipitation Sequencing (RIP-Seq) of all
+transcripts bound to ESR1 as compared to an IgG control in the ER+ T47D
+cell line in triplicate. We identified 210 transcripts bound to ESR1,
+which we term ESR1 bound lncRNAs (ESRlncs). The identified ESRlncs
+consisted of both novel (unannotated) and known (annotated) lncRNAs.
+Interestingly we found 50% of ESRlncs had significantly altered
+expression in the metastatic samples, with 96% (105) having more than a
+two fold increase in expression. Further characterization of these
+ESRlncs is ongoing to decipher how they interact with ESR1 to promote
+aggressive and metastatic disease. Overall, this is the first study to
+discover ESR1 bound lncRNAs that may be contributing to late stage
+relapse in breast cancer patients.
+

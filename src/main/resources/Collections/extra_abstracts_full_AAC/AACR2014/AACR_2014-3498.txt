@@ -1,0 +1,39 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A systematic approach to evaluate and select preclinical study
+workflow software applications for oncology
+
+
+The use of software applications to automate the workflow specific to
+preclinical oncology trials can significantly improve labor efficiency,
+data quality & security while preserving both methodology and results in
+a searchable database in perpetuity. The typically daunting and complex
+selection process can be simplified, facilitated and expedited by
+applying a systematic approach derived from those developed and used by
+oncology departments in some large pharmaceutical companies. Criteria
+common across these companies have been identified and combined into a
+single codified evaluation method. The first step is to identify and
+define a detailed set of system requirements based on the needs for each
+user level: technicians, scientists, statisticians, analytical labs,
+management and other stakeholders involved with animal studies. Some
+requirements are specific to specific animal models and must be
+considered for inclusion. Requirements may include functions such as
+staff intercommunications, protocol development, ACUC restrictions, tumor
+induction methods, treatments, group composition, tasks, measurements,
+schedules, analysis, graphing and reporting methods, etc. Each
+requirement is then assigned a weight based on its relative importance to
+the users. Frequency of use is also taken into consideration when
+developing a requirement weight. Software applications under
+consideration are evaluated by scoring the extent to which each
+requirement is met. To determine the top applications for in-house
+evaluation on actual studies, a preliminary evaluation of Requirement
+Scores may be performed by referencing user manuals. Requirement Scores
+are multiplied by their predetermined weight to derive a Net Requirement
+Score (NRS). NRSs are summed to achieve a Total Score. The applications
+selected with the highest NRS are usually evaluated in the lab on actual
+studies. Requirements are then scored by a small team of users in regular
+lab use. The Total Score is used to identify which software best meets
+the needs of the research organization as a whole. The implementation of
+a systematic approach to evaluate software for animal study workflow
+automation can save time and help ensure the objective selection of the
+best system available for a lab.
+

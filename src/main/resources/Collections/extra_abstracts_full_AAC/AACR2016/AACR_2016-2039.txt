@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Exploring the longitudinal transcriptomic landscape of tyrosine
+kinase inhibitor treatment response in chronic myeloid leukemia patients
+
+
+The interpretation and implementation of large-scale genetic profiles
+into clinical practice remains a challenge despite substantial growth in
+our understanding of genetic contributors to drug response. Most current
+omic studies focus on identifying genetic features that are distinct
+between normal and tumor samples, but fail to capture the dynamics of
+association between omic profiles, treatment response and disease
+progression over time. The focus of this research is to analyze the
+longitudinal transcriptomic profile of chronic myeloid leukemia patients
+(CML) in context of tyrosine kinase inhibitor (TKI) treatment and
+clinical status. The main objectives were to compare a series of post-TKI
+treatment transcriptome profiles to their baseline levels, and
+characterize the impact of TKI treatment and CML disease status on the
+individual's transcriptome over time. Our ultimate goal is to develop TKI
+response predictors using the longitudinal expression data collected over
+the treatment course.Peripheral blood samples, buccal swabs and detailed
+clinical data were collected from each study participant (screened for
+BCR-ABL1 translocation) for a period of 6 months, in addition to
+pre-therapy baseline. RNA was extracted from granulocytes isolated from
+peripheral blood samples, and profiled using RNA sequencing. RNAseq
+profiles over TKI treatment course were compared to baseline, as well as
+against hematologic response (complete blood count), cytogenetic response
+(FISH), and clinical disease progression.We investigated dynamic trends
+in RNAseq profiles associated TKI response, as well as with the clinical
+status of the patient over time. We identified genetic features that were
+either 1) Differentially expressed between baseline and post-TKI time
+points; 2) Showed non-random spikes in expression levels at specific time
+points; 3) Associated with hematological and clinical phenotypes,
+including white blood cell count, percentage granulocytes and percentage
+cells with BCR-ABL1 translocation; 4) Demonstrated highly correlated
+patterns of expression over time. Through clustering and enrichment
+analysis of the selected transcripts, we identified several pathways and
+molecular features associated with TKI-response, and altered disease
+state. Of note, we found mTOR signaling, and pro-apoptotic pathways to be
+significantly altered between baseline and TKI-responding individuals. In
+addition, we observed significant changes in transcription regulatory
+network of several transcription factors, notably AP-1, over the
+treatment time course.To our knowledge, this is the first study to
+establish the utility of comprehensive longitudinal multiple
+transcriptome profile analysis of TKI-response in CML. We believe this
+study will pave way for future large-scale longitudinal omic profiling of
+CML and other cancer-types.
+

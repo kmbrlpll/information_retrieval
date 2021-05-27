@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Establishment of a new method for the selection and detection of
+circulating tumor cells in metastatic breast cancer patients
+
+
+Background: Circulating tumor cells (CTCs) are discussed to be an ideal
+surrogate marker for individualized treatment options in metastatic
+breast cancer (MBC) since metastatic tissue may be difficult to obtain
+for repeated analysis. Here we established a new method for selection and
+detection of the heterogeneous CTC population using immunomagnetic
+enrichment followed by multi-marker profiling of genes related to
+different CTC phenotypes.Materials and Methods: Establishment of a nine
+gene qPCR panel was performed using various cancer cell lines for the
+markers EpCAM (epithelial); PI3K, AKT2 [epithelial-mesenchymal-transition
+(EMT)]; ALDH1 (stem cell); ERCC1, Aurora kinase (resistance markers);
+HER2, HER3, EGFR (receptors); CD45 (leucocyte control) and GAPDH
+(housekeeping gene) as well as the synthetic EpCAM fragment as an
+internal reference. 2x5 ml blood of 20 MBC patients was collected at the
+time of disease progression (T0) and at clinical staging (T1) after 8-12
+weeks of chemo-, hormone or antibody therapy for the detection of CTCs
+applying a new positive immunomagnetic selection using anti-EpCAM,
+anti-HER2 and anti-EGFR coated magnetic beads (AdnaTest EMT-2/Stem Cell
+Select, AdnaGen AG Germany). cDNA was gene specifically pre-amplified
+using the TATAA Multiplex Grand Master Mix according to in-house designed
+assays. qPCR was performed using Bio-Rad iTaq Universal Supermix SYBR
+Green Mix. The cutoff was calculated for each gene separately in a way
+that the false positive rate in all healthy donors (n=18) was lower than
+10% (specificity >90%). Subsequently, delta delta Ct was calculated as Ct
+(cutoff)-Ct(sample) - [Ct(CD45 cutoff)-Ct(CD45sample)]. Results were
+correlated with clinical response to a given therapy.Results: At T0, at
+least one of the studied markers was detected in 19/20 patients and at T1
+in 16/20 patients, respectively. The distribution of the markers across
+all patients was highly variable at both time points. However, EpCAM,
+Aurora kinase as well as EGFR and HER3 were observed most frequently.
+Interestingly, some patients expressed only one CTC-subtype. Clinically,
+we observed an increased frequency for epithelial, EMT, stem cell and
+resistance markers in therapy resistant patients as compared to
+responders. Whereas EMT and stem cell like CTCs were only detected in the
+resistant group, CTCs still detectable in the responder group mainly
+represented an epithelial phenotype showing HER2, HER3 or EGFR
+expression. Interestingly, some of these persisting CTCs in responders
+were also positive for ERCC1 and Aurora kinase.Conclusion: We
+successfully established a new method for the detection of the
+heterogeneous CTC population which might help to match the right therapy
+to the right patient in the future. Despite these promising preliminary
+findings, the qPCR panel has to be further optimized and needs to be
+verified in a larger patient population.
+

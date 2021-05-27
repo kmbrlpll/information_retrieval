@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Minor Variant Finder: New software for detecting somatic mutations
+at low level in Sanger sequencing traces
+
+
+Introduction: With the rapid adoption of next generation sequencing (NGS)
+and its use for characterization of mutations in tumor samples, a need
+has emerged to establish an orthogonal technology for reliable and
+sensitive detection of somatic mutations which may occur at proportions
+of 10% or lower compared to the normal allele. Until now, somatic
+variants with an allelic proportion of 25% or less are often undetected
+(i.e. not called) by automated Sanger sequencing software. We have
+developed Minor Variant Finder software that calls 5% minor variants at
+96% sensitivity and 99% specificity in a test data set. The improved
+variant detection software calls variants de novo, without a priori
+knowledge of location or presence, and affords all the advantages of
+Sanger sequencing, of robustness, low error rate, ease of use, human
+interpretable visual displays of the output data, and low cost per sample
+and target.Methods: New algorithms were developed to compare and subtract
+the baseline noise signals of a control sample from a test sample. Noise
+minimization and peak detection algorithms enable the detection of peaks
+representing candidate minor variants which are confirmed in the
+complementary strand.To test the new algorithms, synthetic mixtures of
+minor alleles in the range of 2.5%, 5%, 10% and 20% were prepared by
+combining genomic DNAs containing known mutations. Using an optimized
+PCR/sequencing protocol to sequence cell line and FFPE derived DNA, 13
+different amplicons and seven different genes, including P53, KRAS, BRAF,
+FLT3, RB1, CDH1, and ERBB2, were sequenced on 3500, 3730, and 3130
+Applied Biosystems Genetic Analyzers.Results: To test the new software,
+898,499 total base positions and 3126 total variant positions, spanning
+variants at 2%, 5%, 10%, and 20%, were interrogated. The software
+achieved 96% sensitivity and 99.8% specificity for automated detection of
+1112 variants present at the 5% level in 274,110 high quality base
+positions. Sensitivity was 99% for variants at 10%, and 99.7% for
+variants at 20%. The software displays a noise-minimized trace view to
+facilitate visual inspection for confirmation or rejection. Further,
+reference sequences with hg19 chromosomal locations and NGS vcf files can
+be imported and aligned side by side with the Sanger sequencing data for
+orthogonal verification. Hyperlinks to dbSNP for known rsSNP variants are
+provided in the software.Conclusions: We have developed new Minor Variant
+Finder software that detects and reports minor variants by Sanger
+sequencing. We have demonstrated that the new software used in
+conjunction with standard protocols for fluorescent dye terminator Sanger
+sequencing enable the identification of de novo somatic mutations to a
+level of 5% with 96% sensitivity and 99.81% specificity. This technology
+will also be useful for the confirmation of minor variants identified by
+NGS.For Research Use only - Not for use in diagnostic procedures.
+

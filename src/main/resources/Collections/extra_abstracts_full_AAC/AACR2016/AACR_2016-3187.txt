@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Concordance of immunohistochemistry (IHC) assay results with gene
+expression profiling (GEP) methods for diffuse large-B-cell lymphoma
+(DLBCL) subtype identification
+
+
+Introduction: The survival of DLBCL patients who receive
+immunochemotherapy is correlated with the molecular signature of their
+tumors. The two most common subtypes which are defined by cell of origin
+(COO) are the germinal center B cell-like (GCB) and activated B cell-like
+(ABC) subtypes which have 3-year OS rates of 80% and 45%, respectively
+when treated with R-CHOP. Several methods have been developed to
+categorize DLBCL into these sub-types as the treatment they receive
+directly affects their outcome. Microarray GEP was first used to classify
+DLBCL into ABC or GCB, with a minority unclassified (UNC), however this
+is difficult to implement widely and has been replaced by more recent
+technologies. The most commonly used IHC-based Hans method profiles
+patients into GCB and non-GCB. The primary focus of this study was to
+evaluate concordance between current GEP and IHC methods to designate
+DLBCL subtypes.Methods: For this study, the IHC assay used was a
+standardized IHC assay based on the Hans algorithm and for the GEP-based
+assay; the NanoString Technologies Lymphoma Subtyping Test (LST) was
+used. Commercially available DLBCL samples (N = 138) were confirmed for
+tumor content and sent to a central laboratory for evaluation by the IHC
+assay. RNA was extracted from each sample and sent to NanoString for GEP
+evaluations. To compare methods homogeneously, calls for each method were
+converted to either GCB or non-GCB. All ABC and UNC subtype calls from
+the NanoString platform was converted to non-GCB and any did not pass
+(DNP) calls were converted to not available (NA). All NA values were
+excluded from the tables and concordance calculations.Results: The
+Positive Percent Agreement [95% CI] in calling non-GCB between IHC and
+LST was 87% [78% - 96%] (47/54). Overall concordance between IHC and LST
+was 80% [73% - 87%] (N = 125, 12 LST samples DNP, 1 IHC sample DNP). The
+Negative Percent Agreement between IHC and LST (i.e., in calling the GCB
+sub-type) was 75% [65% - 85%] using the LST result as a non-reference
+standard (53/71).Conclusions: Given that the success of targeted therapy
+for the treatment of DLBCL is contingent on the correct identification of
+sub-type of DLBCL, it is important to adopt a method that accurately and
+consistently identifies the sub-type in the majority of patients. Given
+the good concordance between the GEP and IHC methods, DLBCL can be
+stratified into COO sub-types using either platform. The results show
+that an optimized Hans IHC assay standardized in a central laboratory
+offers a robust, relatively inexpensive and accessible platform for cell
+of origin sub-typing in DLBCL and, with clinical validation, may offer an
+excellent tool for the selection of optimal therapy.
+

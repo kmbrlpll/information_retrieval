@@ -1,0 +1,37 @@
+Meeting: 2015 AACR Annual Meeting
+Title: The SxxSS motif of T-cell Factor-4 isoforms regulates Wnt5a
+expression and EMT in human liver cancer cells
+
+
+Background: The T-cell factor (TCF)-4 is a key transcriptional protein
+activated by Wnt/-catenin signaling. Previously we identified 14 TCF-4
+isoforms derived from human HCC cell lines (Exp Cell Res 2011). The
+TCF-4J and K pair have been characterized based on the presence (K) or
+absence (J) of a SxxSS motif. TCF-4J-overexpressing HCC cells (J cells)
+exhibited high tumorigenic potential in contrast to TCF-4K-overexpressing
+cells (K cells) (PLoS ONE 2012). However, K cells often showed
+morphological alteration, reminiscent of epithelial-mesenchymal
+transition (EMT), which is involved in non-canonical Wnt signaling (BMC
+Cancer 2013). The finding suggested that the SxxSS motif had potential to
+regulate EMT through the non-canonical Wnt signaling pathway. Thus, the
+AIM of this study was to investigate whether the SxxSS motif modulated
+expression levels of EMT regulators and Wnt5a, a representative
+non-canonical Wnt ligand. Methods: The human HCC cell line HAK-1A
+(Hepatology 1993) was used. TCF-4K mutants (269A, 272A, and 273A) were
+prepared with conversion of serine (S) in the SxxSS motif to alanine (A)
+by site-directed mutagenesis. HAK-1A-derived stable clones overexpressing
+TCF-4J, K, and K-mutants (269A, 272A, and 273A cells, respectively) were
+established. Western blot analysis and real-time RT-PCR were employed to
+evaluate protein and mRNA expression levels, respectively. Sh-RNA was
+used to knockdown wnt5a gene expression. Results: The 269A-mutant cells
+robustly expressed Wnt5a in both protein and mRNA levels, while empty
+vector-transfected cells (control), J cells, or K cells did not. Of note,
+Wnt5a expression was coupled with SLUG expression and EMT-like cellular
+morphological change. Snail was hardly expressed in the cells examined in
+this study. When the Wnt5a expression was specifically silenced by using
+sh-RNA, the expression level of SLUG was clearly decreased. Conclusion:
+The findings in this study suggest that serine 269 (the first serine) of
+the SxxSS motif of TCF-4 is a major switch to control Wnt5a
+transcription, thereby modulating the expression level of the
+EMT-regulator SLUG in a human HCC cell line.
+

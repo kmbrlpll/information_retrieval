@@ -1,0 +1,40 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Mechanism of orlistat hydrolysis by fatty acid synthase
+thioesterase
+
+
+Fatty acid synthase (FASN), a seven domain enzyme, is the sole protein
+capable of de novo synthesis of free fatty acids, most commonly 16-carbon
+palmitate. The fatty acid synthesis cycle begins with the condensation of
+acetyl-CoA and malonyl-CoA, and continues with the elongation of the
+fatty acid chain, which is tethered to an acyl carrier protein domain
+(ACP), via a repeating cycle. At the end of elongation, the thioesterase
+(TE) domain of FASN, a member of the serine hydrolase family with an
+Asp-His-Ser catalytic triad, cleaves the bond between palmitate and ACP,
+and releases free palmitate. FASN has been found to be over-expressed in
+a wide variety of human cancers, and this over-expression is correlated
+to a higher metastatic potential and poorer prognosis in cancer patients.
+FASN over-expression is also associated with increased resistance toward
+cancer chemotherapeutics. Orlistat, an FDA approved drug for obesity
+treatment that prevents uptake of dietary fats by inhibiting pancreatic
+lipases in the gastrointestinal tract, is a compound found to act as a
+reversible inhibitor of FASN TE. A previous study using the co-crystal
+structure of the TE domain with orlistat found that orlistat was
+covalently bound to the active site Ser within the TE domain, indicating
+that inhibition of FASN by orlistat halts the fatty acid synthesis cycle
+by blocking the release of free palmitate from the ACP. A hydrolyzed form
+of orlistat was also observed in the active site of TE, demonstrating
+that orlistat is not a stable inhibitor of FASN. In this study, we
+examined the mechanism of orlistat hydrolysis within the TE domain of
+FASN using molecular dynamics simulations. We found that the hexanoyl
+tail of orlistat is capable of shifting while covalently bound to the
+active site Ser, and that this shift is accompanied by the
+destabilization of a hydrogen bond that exists between a hydroxyl moiety
+of orlistat and the active site His. Once this hydrogen bond is
+destabilized, a catalytic water molecule can enter the active site of TE
+with the proper orientation for catalysis of the covalent bond between
+orlistat and Ser. These findings suggest that the hexanoyl tail of
+orlistat plays an important role in its hydrolysis and may guide the
+future design of new inhibitors that target the TE domain of FASN with
+greater endurance for potential use in the treatment of cancer.
+

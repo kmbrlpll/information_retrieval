@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: S100A4/metastasin-1 promotes lung cancer cell invasion and
+associates with decreased overall survival among patients with
+adenocarcinoma
+
+
+The metastatic nature of advanced non-small cell lung cancer (NSCLC) is
+associated with therapeutic resistance, quick time to progression, and
+poor prognosis. This dismal outcome remains until we gain a better
+understanding of the crucial drivers of the metastatic process and the
+power to effectively target them. S100A4 (metastasin-1) is a tumor
+metastasis associated protein and an epithelial to mesenchymal transition
+(EMT) marker. S100A4 contributes to several hallmarks of cancer such as
+anti-apoptosis, proliferation, and therapeutic resistance. This protein
+has been implicated in the progression of different types of cancer,
+including breast, colon and pancreas. However, the impacts of S100A4
+signaling in lung cancer progression and its potential use as a target
+for therapy have not been properly explored. Here, using established lung
+cancer cell lines, we demonstrate that S100A4 is overexpressed in about
+45% of lung cancer cell lines tested, both at the mRNA and protein
+levels. To address the biological action of S100A4 overexpression in lung
+cancer cells, loss-of function and gain-of function experiments were
+performed. We found that inhibition of S100A4 by shRNA in A549 and H460
+lung cancer cell lines reduced cell proliferation and invasion and
+decreased 3D invasive growth, while exogenous overexpression of S100A4 in
+H1299 cells increased invasive potential. In order to examine S100A4
+expression in patient-derived tissues, we constructed a lung cancer
+tissue microarray (TMAs, N = 212) and analyzed it using
+immunohistochemistry. We found that S100A4 is preferentially
+overexpressed in lung adenocarcinoma (P = 0.0007) when compared to
+squamous cell carcinoma, which was confirmed using publicly available
+gene expression datasets (TCGA). Furthermore, we found that S100A4
+overexpression is associated with the presence of lymphovascular invasion
+(P = 0.0189) and with decreased overall survival (Hazard ratio 2.14, 95%
+confidence interval 1.08-4.22, P = 0.0243) among patients with lung
+adenocarcinoma. To elucidate the mechanisms by which S100A4 promotes lung
+cancer invasive capacity, we focused on the NF-B pathway. We observed
+that depletion of S100A4 by shRNA inhibited NF-B activity and decreased
+TNF-induced MMP9 expression. Furthermore, inhibition of the NF-B/MMP9
+axis decreased lung cancer cell invasive potential. Collectively, this
+study highlights the importance of the S100A4/NF-B/MMP9 axis in lung
+cancer invasion and metastasis and provides rationale for targeting
+S100A4 to combat lung cancer.
+

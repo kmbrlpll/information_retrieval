@@ -1,0 +1,44 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Whole genome sequencing of rhabdoid tumors of the kidney
+
+
+Rhabdoid tumors (RT) of the kidney (RTK) are aggressive pediatric solid
+tumors that predominantly affect infants. There is no effective
+chemotherapy and the overall 4-year survival rate is 23%. RT has a
+characteristic loss of SMARCB1 function, found in >90% of the patients.
+SMARCB1 is a conserved core subunit of the SWI/SNF chromatin-remodeling
+complex, which in turn is responsible for proper chromatin assembly and
+dynamic regulation of gene expression. Previous studies showed a
+remarkable paucity of mutations in coding regions of genomes and a highly
+penetrant cancer susceptibility in a conditional knockout mouse model.
+These findings support the interpretation that SMARCB1 is a tumor
+suppressor whose inactivation is the primary driver in RT and that RT
+follows a tumorigenesis model in which cancer is driven by aberrant
+epigenetic regulation and gene expression instead of accumulation of
+somatic mutations. Characterizing interplays of mutations, gene
+expression and epigenetic regulation will be important in understanding
+RT development and biology.To achieve this goal, we will comprehensively
+characterize genetic and epigenetic aberrations in RT using HiSeq
+sequencing technology. Our research efforts include profiling whole
+genome, whole transcriptome, promoter methylation and histone
+modification in 40 primary RTK samples. Here, we report preliminary
+results from whole genome analyses.Using an amplification-free library
+construction method, we sequenced whole genomes of 40 RTK and matched
+normal cases to an average haploid coverage of 39.4X. The RTK genomes
+were mostly diploid, but we found 35 loci that are either recurrently
+focally amplified or deleted using GISTIC 2.0 at FDR 0.05. Using the
+Trans-ABySS de novo short-read assembler, we assembled the RT cases whole
+genomes and identified a total of 19 genes that were recurrently
+rearranged in 8 out of 40 cases. Eleven of the genes were either known
+tumor suppressors (e.g. CABIN1, BCR) or associated with developmental or
+neurodegenerative diseases (e.g. UPB1, SPECC1L). The genome-wide single
+nucleotide variant and indel analysis showed an average somatic mutation
+rate at 0.37 per Mb in RTK, comparable to the previous finding of 0.19
+per Mb in AT/RT. Approximately 99% of the somatic mutations occurred in
+non-genic regions. SMARCB1 had homozygous loss of function in 83% of
+cases by somatic homozygous deletion, or heterozygous deletion or
+truncating point mutations followed by loss of heterozygosity. The
+remaining cases appeared to have at least 1 copy of the gene unaffected
+and analyses are ongoing to investigate the inactivation mechanism in
+these cases.
+

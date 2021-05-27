@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: MicroRNA profile of triple-negative breast cancer and prognosis.
+
+
+Background: Triple-negative breast cancer (TNBC, estrogen receptor [ER]-,
+progesterone receptor [PR]-, and human epidermal growth factor receptor 2
+[HER2]-negative) is often aggressive and lack molecular targets for
+therapy. As gene regulators, microRNAs (miRNA) are important in cancer
+etiology but their utility as tumor biomarkers for cancer diagnosis and
+prognosis is yet unclear.Methods: To characterize the differential
+expression pattern of miRNA in TNBC from non-TNBC, we performed a whole
+miRNome profiling using TaqMan based quantitative PCR array of 754 miRNAs
+constructed based on miRBase 19 (Life Technologies, CA). Total RNA was
+extracted from frozen breast tumors and only RNA samples with good
+quality were included in the array experiment. Rigorous post-experiment
+quality controls were further conducted to remove unreliable plates.
+Moderate t-test was used to identify TNBC-specific miRNAs and Cox
+proportional hazard model was used to explore miRNAs that predict
+progression-free survival. Benjamini and Hochberg's false discovery rate
+method was used to correct for multiple testing.Results: Samples from 85
+patients were included in the final analysis, including 71 Caucasians, 7
+African Americans, and 7 others. The average age (SD) was 54.9 9.1 years.
+17 patients had stage 1 tumor, 30 stage 2A, 26 stage 2B, 7 stage 3A, and
+5 stage 3B. There were 42 samples with ER+, 37 PR+, 25 HER2+, and 25
+categorized as TNBC. 363 out of 754 miRNAs showed expression in at least
+half of the samples and were included for further analysis. Of the 363
+miRNAs, we found 98 to be significantly different between TNBC and
+non-TNBC after multiple testing correction. The most significant miRNA
+(miR-190b) was down-regulated in TNBC by about 20-fold (p=1.6x10-9). In
+fact, most of these miRNAs are down-regulated in TNBC compared to
+non-TNBC. During a median follow-up of 10.9 years, 29 patients died and 7
+patients survived but had progressive disease of breast cancer. After
+multiple testing correction, we found 6 miRNAs showing significant
+association with progression-free survival. Interestingly, none of these
+6 miRNAs were related to TNBC, suggesting that their prognostic value is
+independent of breast cancer subtypes.Conclusion: Our study demonstrates
+the existence of a set of miRNAs specific to TNBC, which has a clear
+fingerprint to differentiate TNBC from non-TNBC. We also identified
+different set of miRNAs that could serve as prognostic markers. Despite
+the small sample set, our results promisingly indicate the potential of
+miRNA as diagnostic and prognostic tool for breast cancer. A replication
+study with larger sample size would be in order.
+

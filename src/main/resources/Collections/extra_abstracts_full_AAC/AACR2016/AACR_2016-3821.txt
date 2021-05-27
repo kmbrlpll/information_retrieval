@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Targeted therapy for head and neck squamous cell carcinoma using
+the novel SMAC-mimetic birinapant
+
+
+Head and neck squamous cell carcinoma (HNSCC) is the most prevalent
+cancer affecting the upper aerodigestive tract, with an annual incidence
+of 600,000 patients and a five year survival of approximately 60%
+worldwide. Molecular mechanisms driving the development of HNSCC have
+recently begun to be discovered, with The Cancer Genome Atlas (TCGA)
+uncovering the genomic landscape of 279 cases of HNSCC. Alterations in
+cell death pathways were commonly found in the TCGA analysis, with 30% of
+samples harboring 11q13/22 amplifications and overexpression of genes
+encoding for Fas-associated death domain (FADD) and/or cellular Inhibitor
+of Apoptosis Proteins 1/2 (cIAP1/2). While overexpression of cIAP1 has
+been implicated in resistance to cytotoxic therapies, the role of FADD
+amplification as a target for therapy and in mechanisms of cell death is
+not well understood. Birinapant is a novel second mitochondria-derived
+activator of caspases (SMAC)-mimetic that targets and promotes
+degradation of cIAPs. Its clinical efficacy is currently being
+investigated in phase II trials of patients with ovarian cancer and
+leukemia. However, its preclinical and clinical efficacies have not been
+tested in HNSCC and genomic markers of sensitivity remain to be defined.
+Here we hypothesized that overexpression of FADD and cIAP1/2 could
+modulate birinapant sensitivity in HNSCC. To test this hypothesis, we
+have treated a panel of 11 HPV(-) and 8 HPV(+) HNSCC cell lines with
+birinapant alone and in combination with death agonists TNF or TRAIL.
+UMSCC-46, an HPV(-) cell line which possesses high FADD expression, was
+the only cell line to reach half maximal inhibitory concentration (IC50)
+72 hours post treatment with birinapant alone (IC50 = 10.7 nM); however,
+8 of 11 HPV(-) cell lines and all 8 HPV(+) cell lines attained an IC50
+(range: 0.1 - 794 nM) when treated with birinapant in combination with
+either TNF or TRAIL. We further demonstrated that forced FADD
+overexpression in a previously resistant cell line (UMSCC-38) led to
+sensitization when treated with birinapant and TNF. In vivo, two
+FADD/cIAP1 overexpressing murine xenograft models of HNSCC, UMSCC-46 and
+UMSCC-11B, were treated with birinapant at 15 mg/kg or 30 mg/kg every 3
+days for a total of 10 treatments. The single modality regimen led to
+tumor growth inhibition and prolonged host survival. Additionally,
+combination treatment with birinapant 15 mg/kg and radiation 2Gy/day M-F
+for 2 weeks synergistically induced TNF and led to a cure of animals
+bearing UMSCC-46 xenografts. Mechanistically, birinapant enhanced
+degradation of cIAP1 and modulated caspase apoptotic or MLKL necroptotic
+cell death markers in vitro and in vivo. These results suggest that
+patients harboring genomic alterations in FADD and/or cIAP overexpression
+may be candidates for treatment with birinapant and radiation.Supported
+by NIDCD intramural projects ZIA-DC-000073, and 74.
+

@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Small volatile organic compounds extracted from advanced
+pancreatic cancer patient blood samples: Development towards a diagnostic
+method
+
+
+Introduction Analysis of biological samples for volatile organic compound
+(VOC) profiles or fingerprints can potentially be utilized as a
+non-invasive, early stage diagnostic tool for disease related to
+metabolic processes. A hypothesis was presented in 1989 that dogs could
+detect malignant tumors by scent and several studies of canine scent
+detection for cancer followed. Our team has taken an analogous approach
+using solid phase microextraction in combination with capillary gas
+chromatography time of flight mass spectrometry (SPME GC-TOFMS) in place
+of canine scent detection to discover indicators for pancreatic cancer, a
+deadly cancer difficult to detect in its early development stage. VOCs
+are not commonly considered in biomarker analysis of clinical samples
+which usually require extensive pre-processing. The VOC fingerprint from
+a biological sample presumes many such substances are products,
+by-products, and waste resulting from human metabolism (and/or symbiotic
+microbiom) of nutrients and intermediates from endogenous processes,
+absorbed environmental contaminants, and endo/exogenous bacterial
+metabolism. Methods IRB approval was obtained to enroll patients with
+advanced pancreatic cancer and healthy volunteers. Blood was collected in
+pre-conditioned vacutainers from 11 patients and 5 healthy volunteers,
+all non-smokers, no chemotherapy in preceding 5 days, and analyzed within
+2 weeks. SPME GC-TOFMS is a means for eliminating the biological matrix
+and pre-concentrating specific ranges of complex volatile fraction
+polarities at low concentrations and a very sensitive analytical
+instrumental platform for the characterization of VOC chromatographic
+profiles extracted from the 3ml blood samples. Multivariate statistical
+methods were used to analysis retention time exact mass observations and
+integrated peak areas. Results Even with the numerous variables
+contributing to an already diverse underlying metabolism of each
+participant, our chemometric approach did discriminate between healthy
+volunteers and the cancer patients with a 5% prediction error using a
+leave one out statistical analysis for 37 samplesb from the 16 subjects.
+Key retention time and exact mass observations from a fiber specific SPME
+were associated to preliminary molecule identifications via NIST data
+base searches. Our procedures for system tune, calibration, and
+monitoring achieved a response stability over a 1 month period of 10% rsd
+and accurate mass measurement of at least 5 mDa (30 - 300 Da) using
+benzene-d6, BFB, and naphthalene-d8. Conclusions VOC fingerprints from a
+SPME GC-TOFMS analysis of blood can be successful in discovering
+differentiating indicators related to APC. Future work will involve other
+SPME fibers and more samples. (Supported by the IBIS & Scottsdale Health
+Care Foundations)
+

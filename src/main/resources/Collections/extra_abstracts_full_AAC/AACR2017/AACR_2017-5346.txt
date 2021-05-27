@@ -1,0 +1,35 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Combining droplet tagged short read sequencing with optical DNA
+mapping technology for improved assembly of cancer genomes.
+
+
+Kataegis, chromothripsis, chromoplexy and forms of structural
+hyper-mutation generically described as chromoanagenesis are found in
+many cancer types. Structural rearrangements can result in deletions,
+translocations, inversions and insertions, and gene amplification with
+important functional consequenes as cancer drivers and clonal diversity.
+Whole genome sequencing is increasingly used to sensitively detect
+strucutural rearrangements. Yet, it remains difficult to detect these
+events reliably without an excessive number of false positives. This is
+largely a consequence of the still relatively short read-length of
+commonly used sequencing platforms. As a result, in larger cohorts, PCR
+based methods are generally not feasible for validating all predicted
+structural rearrangements. Accordingly, new approaches for robust mapping
+of both simple and complex rearrangements are needed. Here we used a
+hybrid of two technologies, 10X genomics droplet tagged Illumina
+sequencing (10X Genomics ) and DNA fiber molecular imaging (BioNano Irys)
+for high throughput validation. First, utilizing a sequencing-assisted
+synthetic genome: for each rearrangement predicted by NGS, we build a
+“pseudo-chromosome” offering this structure as one alternative to the
+BioNano aligner. This combination compensates for the weaknesses of each
+platform resulting in a more robust result. In this way, even short reads
+can validate structural rearrangements, as the requirement for split
+reads is obviated. Provided that sufficient coverage is achieved,
+statistical analysis can be used to confidently recognize NGS false
+positive predictions. This allows the cataloging of complex repetitive
+regions and large-scale rearrangements. In our study we have evaluated
+this combined approach to large scale genome mapping to identify hallmark
+fusions and other rearrangements from the highly complex genomes of
+osteosarcoma cancer cell lines.
+
+

@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Structural basis for the failure of the C1 domain of RasGRP2 to
+bind phorbol ester
+
+
+C1 domains represent the recognition motif for the second messenger
+diacylglycerol (DAG) and for the phorbol esters in protein kinase C,
+RasGRP, and several other families of signaling proteins. In addition to
+such typical C1 domains, atypical C1 domains have been identified which
+possess varying levels of sequence and structural homology with the
+typical C1 domains but fail to bind DAG or phorbol ester. Among RasGRP
+family members, RasGRP1 and RasGRP3 possess typical C1 domains, whereas
+the C1 domain of RasGRP2 stands out as being atypical. In order to better
+understand the structural constraints for ligand binding, we have
+analyzed the basis for the failure of the C1 domain of RasGRP2 to bind
+ligands. Using site-directed mutagenesis, we have identified four
+critical amino acid residues responsible for the lack of phorbol ester
+sensitivity. We found that the C1 domain of RasGRP2 had weak binding
+affinity (Kd = 2890 240 nM) in vitro for [3H]phorbol 12,13-dibutyrate
+([3H]PDBu). Replacing all four of critical amino acid residues (Asn7,
+Ser8, Ala19 and Ile21) with the corresponding residues (Thr7, Tyr8, Gly19
+and Leu21, respectively) of RasGRP1 resulted in potent [3H]PDBu binding
+affinity (Kd = 1.47 0.03 nM) and translocation in response to PMA in the
+LNCaP cell line. The mutant C1 domains incorporating one to three of
+these critical residues showed intermediate binding and translocation
+properties. Of the four substitutions, S8Y made the greatest
+contribution. Phospholipid requirements for [3H]PDBu binding to the
+mutant C1 domains were determined; at constant total phospholipid, the
+requirement for the proportion of phosphatidylserine in
+phosphatidylserine : phosphatidylcholine mixtures decreased in going from
+the single S8Y mutant to the quadruple mutant. Binding activity for DAG
+was also restored in the mutant C1 domains, in parallel with that for
+phorbol ester. The full length RasGRP2 protein containing the mutated C1
+domains likewise showed strong phorbol ester binding, albeit modestly
+weaker than that of the purified C1 domain (Kd = 8.2 1.1 nM for the full
+length protein containing all four mutations) and displayed translocation
+in the LNCaP (human prostate adenocarcinoma) cells in response to phorbol
+ester. RasGRP2 is a guanyl exchange factor for Rap1. A Rap1 GTPase
+pull-down assay was used to compare the guanine nucleotide exchange
+activity of wild type and mutated full length RasGRP2 in human embryonic
+kidney 293 (HEK 293) cells in the presence or absence of phorbol ester.
+These cells were transfected with either the wild type or the mutant
+RasGRP2. Consistent with the ability of phorbol ester to induce
+translocation of the full length RasGRP2 with the mutated C1 domain,
+phorbol ester enhanced the ability of the mutated RasGRP2 to activate
+Rap1.
+

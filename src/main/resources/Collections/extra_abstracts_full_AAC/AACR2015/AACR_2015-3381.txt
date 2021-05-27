@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Standardizing the analysis of Ki-67 immunohistochemical assays
+
+
+IntroImmunohistochemical assays of the proliferation marker, Ki-67, have
+been associated with poorer clinical prognosis in breast cancer. However,
+a high degree of inconsistency in scores has been demonstrated in
+inter-laboratory and intra-laboratory Ki-67 positivity scorings, this has
+limited its potential in clinical practice. In this study, we aim to find
+a more consistent method for scoring Ki-67 positivity among malignant
+breast tumours.MethodsSix Tissue Microarray (TMA) blocks were sectioned
+and immunohistochemistry was performed with Anti-Ki-67 antibody. Slides
+were then evaluated and Ki-67 positive cells in invasive breast carcinoma
+were scored as a percent positivity manually by a trained analyst with
+random sample quality assurance (QA) by trained pathologists. This was
+used as the standard benchmark for the experiment as it has been
+correlated successfully with clinical outcome. Successively, the same six
+slides were then annotated on Aperio ePathology software by two observers
+with different levels of pathology training and experience. The annotated
+regions were analyzed for Ki-67 positivity with Aperio ePathology
+software on UHN BioBank servers. The computer analyzed scores were
+compared to the manual benchmark scores.ResultsThe difference between
+computer-analyzed and manual-scores were relatively large,
+Observer-A-annotated-computer-analyzed vs. analyst-manual-scores had a
+difference of 4.23% to 16.96%, while
+Observer-B-annotated-computer-analyzed vs. analyst-manual-scores had a
+difference of 7.13% to 15.03%. Interestingly,
+Observer-A-annotated-computer-analyzed vs.
+Observer-B-annotated-computer-analyzed scores only had a difference of
+0.49% to 2.91%. Pearson Correlation was calculated for all samples on a
+case-by-case basis and we found there to be a linear correlation of
+0.564, with a P-value of 3.608210-8, between the computer scores and the
+manual scores; suggesting significant correlation between the computer
+scores and the manual score.ConclusionA significant linear correlation
+has been observed between the computer score and the manual score.
+However, while the data does not seem to support the idea that a
+semi-automatic method of computer scoring will replace analyst manual
+scoring, most of the large contributing variables have been identified.
+We plan in the next steps of the project to continue to decrease the
+effects of such variables. It is interesting that the inter-observer
+computer score displayed a minimal amount of difference, again with the
+variables identified. This could signify a more consistent method of
+Ki-67 scoring. Further experiments will be conducted to continue to
+reduce the variables and optimize the system to gain similar performance
+as manual scoring. Hopefully in the near future, computerized
+immunohistochemical analysis can replace the tedious task of manual
+scoring.
+

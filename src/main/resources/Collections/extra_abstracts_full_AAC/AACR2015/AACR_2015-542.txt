@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: CEACAM6 is upregulated by the H Pylori CAG-A oncoprotein, and is a
+candidate biomarker for the diagnosis of early gastric cancer
+
+
+Early detection of gastric cancers confers a significant mortality
+benefit, but remains a diagnostic challenge. We aim to identify and
+develop novel cell-surface biomarkers to improve the efficiency of
+gastric cancer detection by fluorescent endoscopy. Traditional approaches
+for surface biomarker discovery compare normal and malignant cell lines,
+but are prone to artifacts of cell line derivation and evolution. Our
+strategy exploits the dependence of gastric cancers on CAG-A, the
+Helicobacter Pylori oncoprotein. CAG-A incorporation is necessary and
+sufficient for gastric cancer pathogenesis, and is accordingly observed
+in early cancer specimens, but is intracellular and not expressed at high
+enough levels to be an applicable biomarker for cancer diagnosis. We
+therefore designed a strategy to screen for cell surface alterations
+induced by CAG-A overexpression, which may be retained in gastric cancers
+through oncogenic addiction.We used an inducible system for CAG-A
+expression in gastric MKN28 cells to compare the gene expression profile
+of cells with and without CAG-A overexpression, on the Affymetrix Gene
+1.0 platform. We focused on putative membrane protein transcripts, to
+identify differentially upregulated candidates in CAG-A overexpressing
+cells. The top 10 hits from our screen were then analyzed in gene
+expression and RNAseq datasets from the Singapore Gastric Cancer
+Consortium, comparing the transcriptome of gastric cancer with adjacent
+normal tissue.Amongst our top hits in the in-vitro CAG-A screen, we noted
+a significant enrichment of the cell adhesion molecule CEACAM6 in gastric
+cancer samples when compared to normal tissue (8 fold increase in gene
+expression by microarray analysis (n = 100 normals, 200 cancers), and 200
+fold increase in matched RNAseq analysis (n = 10 each)). We confirmed
+CEACAM6 to be upregulatd by CAG-A using RT-PCR on the inducible CAG-A
+system, and also in other gastric cell lines infected with H Pylori.
+Finally, we compared CEACAM6 protein expression on a gastric tissue
+microarray, using quantitative immunohistochemistry through automated
+spectral microscopy on the Vectra 2 platform. We confirm a 10-fold
+increase in CEACAM6 protein in gastric cancers as compared to normal
+tissue (n = 63 cancer, 52 normal). Fluorescently conjugated antibodies to
+these cell surface markers bind avidly to freshly resected xenografts (n
+= 3) of gastric cancer, without fixation. Together, these results suggest
+that CEACAM6 upregulation is a cell surface response to the introduction
+of H Pylori CAG-A in gastric epithelial cells, and is retained in a
+significant fraction of gastric cancers. It appears to be a promising
+candidate for a fluorescently conjugated biomarker to aid with the
+endoscopic diagnosis of early gastric cancer.
+

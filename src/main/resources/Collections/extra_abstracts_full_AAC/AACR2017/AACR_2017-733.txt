@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Detection of HCC-derived major HBV integration junctions in urine
+and their implications for driver identification.
+
+
+Chronic Hepatitis B Virus (HBV) infection is a major etiology of
+hepatocellular carcinoma (HCC), a leading cause of cancer mortality
+worldwide. Integration of HBV DNA into the host genome occurs during the
+course of chronic infection. Integrated HBV DNA is observed in most of
+HBV-associated HCC. The integration junctions derived from the original
+tumor cell become abundant (referred to as major integration junctions)
+in the infected liver because of clonal expansion during tumor
+development. Detection of circulating DNA containing these tumor-derived
+integration junctions may therefore be useful for cancer detection. We
+have adapted a method known as Primer Extension Capture (PEC) to enrich
+integrated HBV DNA for next-generation sequencing (NGS). Our initial
+studies using this approach to enrich the HBV DR1-2 region (a common site
+for HBV integrated breakpoints) identified major integration junctions
+from HBV-HCC tissue samples and matched urine. Further analysis revealed
+that most recurrently targeted integrations from these HCC tumors have
+previously reported involvement in cancer. This suggested that
+identification of recurrently targeted genes is applicable for driver
+identification. Interestingly, we show how HBV targets the TERT promoter
+in a localized region even though no two TERT junctions examined are
+identical. We have further developed this PEC to enrich for the entire
+HBV genome and applied it to (i) liver tissue DNA from 20 matched HCC and
+adjacent non-HCC samples, and (ii) DNA from urine of 20 hepatitis, 20
+cirrhosis and 20 HCC patients. The HBV enriched libraries were sequenced
+by NGS and the integration events were analyzed using the in-house
+developed software. The complexity of HBV junction sites in HCC and
+non-HCC tissue and urine derived circulating DNA is reported. Our
+approach has potential to be used for liquid biopsies to study the
+complexities of HBV integrations in chronic HBV infection and
+carcinogenesis, and to identify HCC-related DNA modifications for early
+detection and disease management.
+
+

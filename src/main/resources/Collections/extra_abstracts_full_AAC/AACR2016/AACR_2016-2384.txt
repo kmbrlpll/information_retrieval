@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: High-complexity neutral genomic barcoding technology reveals
+extensive clonal dynamics in multiple human cancer model systems
+
+
+Increasing evidence of extensive intratumoral heterogeneity, along with
+advances in high-throughput in vivo functional genetic screening
+technologies, have together highlighted the need to observe growth in
+cancer models at the clonal level. To address this, we have designed,
+constructed and validated multiple high-diversity lentivirally delivered
+barcode libraries, which utilize next-gen sequencing technology to read
+out millions of clones in heterogeneous cancer populations. These
+libraries can be used to address a multitude of biological questions in
+many cancer model systems. To date, we have completed, sequenced and
+analyzed three different types of barcoding applications to explore
+clonal dynamics in a variety of human cancer models. First, we tested the
+serial limiting dilution analysis (LDA) assay for tumor initiating cells
+(TICs) in patient-derived colon tumor models. In the LDA assay, a range
+of cell dilutions, down to a single cell, are transplanted into
+immunocompromised mice. The TIC frequency is calculated using a
+single-hit model from the proportion of tumors established at each dose.
+However, quantifying minimum cell numbers required for tumor formation
+does not reveal the actual diversity of clonal contribution during tumour
+engraftment and progression. In fact, recent research suggests that the
+single-hit model, which assumes a static hierarchy of intrinsically
+determined initiating cells, may not be biologically relevant as some
+clones may have the potential to form or contribute to a tumor only in
+specific environment, or in cooperation with another clone. Our barcoded,
+serial LDAs show interesting and informative patterns of clonal dynamics.
+Second, we have performed clonal lineage tracing on established human
+cancer cell lines in vitro compared to in vivo. Our findings demonstrate
+the presence of TICs in standard cell lines and serve as precursors to
+future in vivo genetic screens by defining upper limits of library size.
+Finally, we used a patient-derived xenograft model of brain tumor
+metastasis to investigate the presence of pre-existing metastatic clones
+with site-specific homing abilities. In summary, given the extensive
+heterogeneity present in cancer models, we propose the use of
+high-complexity barcoding technology to validate novel cancer targets in
+xenograft models, including LDAs and metastasis models. Furthermore, we
+suggest the use of barcodes for careful optimization of the system before
+genetic screens in animal models.
+

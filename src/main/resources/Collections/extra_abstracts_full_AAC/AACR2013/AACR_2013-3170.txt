@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of novel genetic alterations driving melanoma
+tumorigenesis.
+
+
+Recent high-throughput sequencing efforts have provided a comprehensive
+view of cancer genomes, revealing their complexity and heterogeneity.
+However, most of these studies remain descriptive without further
+functional and clinical validation of the candidate alterations, mainly
+due to the overwhelming number of somatic alterations present. To
+discover novel driver mutations of melanoma, massively parallel whole
+genome sequencing (WGS) was used to characterize 15 metastatic melanomas
+derived from 13 patients. A large number of somatic alterations were
+discovered in these tumors and hybridization capture-based validation
+confirmed 17,361 tier 1 point mutations, 84 tier 1 indels, and 411
+somatic structural variants. As a pilot study to exploit this genomic
+data in order to identify novel genetic alterations driving melanoma
+tumorigenesis, we performed mutation proximity analysis to select
+candidates for further analysis. In this study, we addressed possible
+roles of DBC1 (Deleted in Bladder Cancer 1) and RASA1 (RAS p21 protein
+activator 1), which showed previously undocumented neighboring mutations.
+RASA1 is a GTPase activation protein that acts as a suppressor of RAS
+function. RASA1 has been implicated in actin filament polymerization,
+vascular development, cellular apoptosis, and cell motility. Our
+whole-genome analyses of melanomas identified two somatic missense
+mutations, targeting highly conserved neighboring Y472 and L481 in or
+around the PH domain in RASA1 in two samples. DBC1, also called BRINP,
+DBCCR1, and FAM5A, was previously shown to undergo loss of heterozygosity
+at 9q32-q33 in bladder cancer, and methylation silencing in bladder,
+breast, and lung cancers. Ectopic expression of DBC1 in bladder and lung
+cancer cells was reported to cause cell death and to inhibit cell
+proliferation, respectively. We observed six DBC1 missense mutations by
+whole genome analyses in four patients, including 2 neighboring mutations
+targeting S688 and S690. The shRNA-mediated knock down of DBC1 and RASA1
+in melanocyte derived from Ink4a/Arf deletion/BRAF mutation background
+promoted proliferation, soft agar colony formation, and invasion. Ectopic
+expression of wild type DBC1 and RASA1 in human melanoma cell lines
+SKmel28 and WM983C (all with BRAFV600E), respectively, decreased soft
+agar colony formation, supporting their tumor suppressive roles. Various
+mutant forms of RASA1 and DBC1 were addressed for their roles.
+Interestingly, loss of RASA1 conferred decreased sensitivity to BRAF
+inhibitor Vemurafenib. In order to address the mutation frequency of DBC1
+and RASA1, we analyzed additional melanoma samples and observed mutation
+rates of 21% for DBC1 (20/96 patients) and 9% for RASA1 (20/221).
+Therefore, our findings support that DBC1 and RASA1 play roles in
+melanoma suppression and the utility of genomic data for the
+identification of novel genes involved in tumorigenesis.
+

@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Pharmacokinetic drug-drug interaction: a phase Ib dose escalation
+study of LY2780301 in combination with weekly paclitaxel
+
+
+Introduction: LY2780301 is an orally available small molecule dual
+inhibitor of p70 S6 kinase and AKT. LY2780301 is an inhibitor of CYP3A4.
+By the one hand, Paclitaxel (PXL) undergoes extensive metabolism via
+CYP450 2C8 and CYP450 3A4 pathways. By the other hand, PXL induces weakly
+CYP3A4 activity. In this study we investigated for the first time, the
+potential pharmacokinetic (PK) drug-drug interaction (DDI) related to the
+combination of both drugs LY2780301 and PXL.Methods: Women with HER2-
+locally advanced or metastatic breast cancer, with and without PI3/AKT
+pathway activation, were treated with weekly administration of PXL on
+day1 (D1), D8 and D15. LY2780301 was administered by a daily flat dosing
+regimen starting at D3. Dose levels [DL, LY2780301 (mg/day)/PXL
+(mg/m2/week)] ranged from 400/70 to 500/80. For PK analysis, 7 time point
+samples were collected on D1 and D3 of cycle 1 for PXL and LY2780301
+respectively. 7 samples were collected on D8 for both drugs. LY2780301
+plasma concentrations were measured using Ultra Performance Liquid
+Chromatography (UPLC) coupled with tandem mass spectrometry validated
+method. PXL plasma concentrations were measured using UPLC coupled with
+UV validated method. A joint population PK (PK-POP) model has been
+developed for LY2780301 andits main metabolite. PK-POP modelling has been
+performed with a non linear mixed effect model program (Monolix version
+4.3.2).Results: 12 patients, 35 to 67 years old, were treated. A total of
+160 and 157 concentrations for LY2780301 and its metabolite were used
+respectively for PK-POP modeling. A one compartment open model adequately
+described LY2780301 and its metabolite concentration versus time courses
+respectively with the estimation of the fraction of absorbed dose (fm) of
+LY2780301 metabolised in that metabolite. The interindividual
+variabilities (ISV) could be well estimated for all structural parameters
+(clearance: CL, volume of distribution: V, L and the absorption constant:
+Ka). The population PK parameters obtained for the structural model were:
+Ka = 0.536 h1, CL/F = 3.57 L/h, V/F = 85.2 L, CL/(F*fm) = 13.2 L/h,
+V2/(F*fm) = 13.2 L, fm = 0.747 for LY2780301 and its metabolite
+respectively. PXL increases LY2780301 CL from 3.57 to 4.4 L/h (p =
+0.016).Conclusions: We have demonstrated a PK DDI between LY2780301 and
+PXL. PXL increases LY2780301 CL and decreases LY2780301 AUC. PXL PK
+modeling is ongoing in order to verify the effect of LY2780301 on PXL PK.
+

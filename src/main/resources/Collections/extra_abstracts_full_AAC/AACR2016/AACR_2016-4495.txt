@@ -1,0 +1,32 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Development and clinical application of an integrative genomic
+approach to personalized cancer therapy
+
+
+We implemented a personalized cancer therapy (PCT) program in a clinical
+setting, applying an integrative genomics approach to maximally elucidate
+the complexity of each tumor. For patients in the study, we performed
+whole exome sequencing and SNP microarrays on tumor and patient-matched
+normal samples, as well as RNA sequencing on available frozen samples, to
+identify somatic mutations, copy number alterations, gene fusions, and
+gene expression alterations in the tumor. Ion AmpliSeq Cancer Hotspot
+Panel v2 (CHPv2) was used to ensure high sensitivity in cancer mutation
+hotspots. Genomics results were integrated with cancer knowledge
+databases and for each cancer type a specific workflow was developed to
+optimize data interpretation. We returned genomics findings to 46
+patients and their physicians, characterizing somatic alterations and
+predicting drug response, toxicity, and prognosis. Mean 17.3
+cancer-relevant somatic mutations per patient were identified, 13.3-,
+6.9-, and 4.7-fold more than could have been detected using CHPv2,
+Oncomine Cancer Panel (OCP), and FoundationOne, respectively. Our
+approach delineated the underlying genetic drivers at the pathway level
+and provided meaningful predictions of therapeutic efficacy and toxicity.
+Actionable alterations were found in 91% of patients (mean 4.9 per
+patient, including somatic mutations, copy number alterations, gene
+expression alterations, and germline variants), a 7.5-fold, 2.0-fold, and
+1.9-fold increase over what could have been uncovered by CHPv2, OCP, and
+FoundationOne, respectively. The findings altered the course of treatment
+in 4 cases. These results show that a comprehensive, integrative genomic
+approach as outlined above significantly enhanced genomics-based
+personalized cancer therapy strategies.
+

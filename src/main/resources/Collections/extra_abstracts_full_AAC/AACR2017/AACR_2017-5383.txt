@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Non-invasive diagnosis of early-stage lung cancer via targeted
+high-throughput DNA methylation sequencing of circulating tumor DNA
+(ctDNA).
+
+
+Current state-of-the-art lung cancer early screening involves using
+low-dose CT scan to identify lung nodules smaller than 3cm in diameter.
+However, it’s still a clinical dilemma to differentiate between
+malignant and benign nodules.
+
+We took the approach of methylation profiling by high-throughput
+bisulfite DNA sequencing in tissue samples to identify specific
+methylation signatures. We learned methylation patterns that
+differentiate malignant vs. benign lesions from tissue samples by
+in-depth data mining, and then used pattern matching to classify plasma
+samples. Given the usual low amount of ctDNA in plasma, we also developed
+an ultra-sensitive library preparation method to perform targeted
+bisulfite DNA sequencing from as low as 1ng of cfDNA or 1mL of plasma.
+
+From a training set of 88 tissue samples, which includes 60 malignant
+specimens with different subtypes (invasive adenomas, IA; minimally
+invasive adenomas, MIA; atypical adenomatous hyperplasia, AAH;
+adenocarcinoma in situ, AIS; carcinoid; lymphoepithelioma-like carcinoma
+of the lung, LELC; squamous carcinoma, SC; as well as 28 benign specimens
+in different categories including hematomas, granuloma, tuberculosis,
+inflammatory pseudotumor (IPT), sclerosing hemangiomas (SHL) and
+infections, we were able to achieve a sensitivity of 95% for
+identification of malignant lesions, with a specificity of 78.6%. From an
+independent validation set of 45 plasma samples, we achieved a
+sensitivity of 94.7% and a specificity of 85.7% for differentiating
+patients with malignant tumor from patients with benign lesions.
+Specifically, our assay is demonstrated to be highly sensitive towards
+early-stage lung cancer detection, with a sensitivity of 93.3% in a total
+of 15 patients with stage IA/B lung cancer.
+
+In summary, we have developed a highly sensitive blood-based non-invasive
+diagnostic assay for identification of early stage lung cancer, which can
+aid clinical decisions for patients with a CT scan positive for lung
+nodules. This approach can also be extended to non-invasive early
+screening for various cancer types.
+
+

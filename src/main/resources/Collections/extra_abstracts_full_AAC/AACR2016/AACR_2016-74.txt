@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Targeting nuclear export for triple-negative breast cancer therapy
+
+
+Triple-negative breast cancers (TNBC) comprise the most aggressive
+subtype of breast cancer. They rapidly acquire resistance to chemotherapy
+and are also refractory to endocrine therapy and HER2 inhibitors. In
+fact, no targeted therapies are currently available against these tumors.
+Genome sequencing studies have shown that TNBCs are exceedingly
+heterogeneous in genetic mutations as well as copy number variations.
+Yet, TNBC almost invariably harbor inactivating mutations in TP53, which
+seems to be a crucial event in the pathogenesis of these tumors. We
+recently performed a series of siRNA lethality screens in vitro (N = 11
+cell lines) to identify, in an unbiased way, recurrent vulnerabilities
+that could be harnessed as novel targets for TNBC therapy. Hits were
+genes whose silencing triggered massive cell death in 30% of TNBC lines
+tested. The screens re-discovered mitosis as a frequent Achilles heel of
+these tumors (antimitotic drugs are currently a mainstay of TNBC
+therapy), supporting the validity of the approach. The nuclear transport
+gene RAN also scored among the most frequent TNBC selective dependencies.
+Moreover, TNBC cell lines were exquisitely sensitive to selinexor
+(KPT-330), a first-in-class inhibitor of exportin 1 (XPO-1) currently in
+phase 2 trials, both in vitro and in vivo. TNBC cells treated with
+selinexor died of apoptosis. In contrast, normal human primary breast
+epithelial progenitors (BPE) underwent cell cycle arrest (but not death)
+upon selinexor treatment, and were able to resume proliferation upon drug
+removal. The efficacy of selinexor across different TNBC models varied,
+suggesting that additional factors, beside the TNBC status, are at play.
+Preliminary data based on a genome-wide CRISPR screen for genes and
+networks conferring sensitivity to selinexor using a p53-mutant TNBC cell
+line (MDA-MB-231) implicated a number of TP53-related genes as key
+mediators of response. Together, these data support the notion that
+p53-mutant TNBC coopt nuclear export function to silence TP53-associated
+networks and that XPO-1 inhibitors could be a viable strategy to tackle
+TNBC in the clinic.
+

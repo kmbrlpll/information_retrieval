@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Methodological considerations in the preparation of biomimetic
+reference materials for ctDNA assays
+
+
+Clinical utilization of cell-free DNA (cfDNA) has become commonplace for
+NIPS testing and has recently been more widely deployed to quantitate
+cell-free circulating tumor DNA (ctDNA) for use in cancer patient care
+longitudinally across the treatment spectrum from subclinical, to
+diagnosis and through treatment. The scarcity and unstable nature of the
+cfDNA analyte in human plasma is problematic and thus the lack of robust
+detection methods has limited clinical validation. In this work we sought
+to avoid the inherent limitations of plasma-based patient reference
+materials and developed a strategy to prepare a biomimetic reference
+material which is sufficiently equivalent to the cfDNA found in patients
+with malignant cancers. Thus far the scarcity and physical form of ctDNA
+in human plasma has attenuated the validation of assays for clinical
+utility. To this end, we have generated a biosynthetic construct with
+short DNA fragments containing relevant cancer mutation sequences,
+including single-nucleotide variations, insertions and deletions in BRAF,
+EGFR, KRAS, NRAS, PIK3CA or HER/ERBB2. The mutant fragments were titrated
+into normal human reference DNA, GM24385, and ultrasonically sheared to
+160 bp. Precise allele frequency blends were verified by digital PCR
+(dPCR) prior to encapsulation to enhance stability and compatibility with
+commutable plasma. The reference material is formulated to 20 ng/mL of
+extractable DNA in modified Seracare Matribase to confer commutability in
+pre-analytic processes. These materials have been quantitated by dPCR
+and/or Next Generation Sequencing (NGS). A dilution panel was prepared at
+10%, 5%, 2.5%, 1.25%, 0.1% allele frequency (mutant:normal DNA).
+Linearity (R2 = 0.9997) was observed by dPCR (measured vs. expected) and
+the NGS detected, Swift Accel-Amplicon 56G Oncology Panel (R2 = 0.997).
+Due to the low abundance of ctDNA, a characterized reference set is
+critical to validate assays that are developed with extremely low limit
+of detection. Data will be presented to show the breadth of this
+methodology and its utility in validating NGS and dPCR assays.
+

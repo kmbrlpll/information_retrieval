@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Functional characterization of prostate cancer risk loci by
+SNPs-seq and STARR-seq.
+
+
+Background. By SNP genotyping and RNA sequencing of 471 normal prostate
+samples, we recently created a prostate tissue-based eQTL dataset and
+identified significant eQTL signals at 51 prostate cancer risk loci. To
+functionally characterize these risk SNPs, we developed a massively
+parallel sequencing technology to screen SNPs for their allele-dependent
+protein binding differences. We combined this technology (called
+SNPs-seq) with another high throughput assay (called STARR-seq) to screen
+the risk loci with significant prostate-specific eQTL signals.
+
+Methods. To select candidate functional SNPs in eQTL regions, we took
+advantage of existing epigenomic datasets and available tools including
+ENCODE, HaploReg, and Regulome. For all selected SNPs, we first made
+allele-specific double-strand oligos and performed DNA-protein binding
+assays. We then performed sequencing analysis on the protein-bound DNA
+oligos and determined allele-specific protein binding differences. To
+evaluate reproducibility of SNPs-seq, we performed each assay in
+duplicates. We cloned SNPs-seq screened SNP regions showing
+allele-specific protein binding differences into the STARR-seq vector to
+further determine allele-specific enhancer activities. Finally, we
+performed EMSA and luciferase reporter assays to validate a set of
+promising candidate SNPs.
+
+Results. From 51 risk loci with strong eQTL signals, we selected 374 SNPs
+with strong indication of regulatory potential, as evidenced by
+overlapping with epigenomic marks. When comparing technical duplicates,
+sequence read counts from the SNPs-seq showed significant correlation
+with r2>=0.99. By normalizing input controls, we found 101 of the 374
+SNPs showing significant allelic protein binding differences (>=1.5-fold
+binding difference between variant and reference alleles). Interestingly,
+three published functional SNPs (rs12769019, rs10993994, and rs4907792)
+were also among the significant SNPs, validating SNPs-seq as functional
+SNP screening tool. To further validate the candidate SNPs from SNPs-seq,
+we applied STARR-seq and tested the 101 SNPs-containing sequences
+(371-686bp) in LNCaP cell line under androgen treatment. This analysis
+revealed 11 SNPs that not only demonstrated enhancer/repressor activity
+but also functioned with allelic differences. EMSA and luciferase
+reporter assays confirmed 6 SNPs with allele-dependent enhancer/repressor
+activity.
+
+Conclusions. We developed a high throughput sequencing-based technology
+to screen large number candidate SNPs for their allelic protein binding
+differences. The SNPs-seq coupled with STARR-seq will provide a powerful
+strategy for functionally characterizing risk loci in prostate cancer and
+other common diseases. Further understanding genetic role of prostate
+cancer etiology may facilitate the translation of population-based
+discovery into biological mechanisms and eventually benefit clinical
+practice.
+
+

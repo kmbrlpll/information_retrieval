@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A highly sensitive method for noninvasive cancer profiling through
+targeted methylation sequencing of circulating cell-free DNA.
+
+
+Liquid biopsies, by analyzing circulating cell-free DNA (cfDNA), have
+emerged as a promising tool for noninvasive cancer diagnostics and
+monitoring. Compared to the limited number of scattered DNA mutations in
+cancer patients, the genome-wide distribution of numerous densely
+clustered DNA methylation alterations may enable more robust cancer
+signal detection and higher sensitivity in cancer diagnostics.
+Furthermore, the cancer type specific methylation signatures potentially
+can be used for the identification of cancer tissue origin. To enable
+multivariate analysis of genome-wide methylation markers, we have
+developed a targeted methylation sequencing assay that can measure the
+methylation status of thousands of affected CpG (5'-C-phosphate-G-3')
+sites simultaneously. This assay allows low cfDNA input as little as 3ng
+while retaining good efficiency. The targeted sites were particularly
+selected for hypermethylated markers in more than 20 major cancer types
+based on The Cancer Genome Atlas (TCGA) database. Following bisulfite
+sequencing of cfDNA, methylation signals from targeted CpG sites were
+aggregated into a single score that measures deviation of a sample’s
+methylation profile from a reference baseline. Cancer/normal
+classification was performed by comparing the methylation score of a test
+sample to a cutoff established by a group of plasma samples from healthy
+individuals. Subsequently, methylation signals from cancer type specific
+markers were used to perform cancer type classification. In a study to
+evaluate the potential clinical applications of this method, we processed
+25 blood samples collected from healthy individuals and 70 blood samples
+collected from 63 advanced cancer patients. The assay demonstrated a
+specificity of 100% (n=25), and a sensitivity of 94.3% in colorectal
+cancer (n=36), 72.7% in breast cancer (n=11), and 52.6% in lung cancer
+(n=19) detection, respectively. We further performed cancer type
+classification on the samples that were correctly classified as true
+positives in the cancer/normal classification. Our results showed a
+classification accuracy of 82.4% for colorectal cancer (n=34), 87.5% for
+breast cancer (n=8), and 70% for lung cancer (n=10). In summary, we have
+developed a comprehensive method that allows us to perform noninvasive
+cancer profiling through targeted methylation sequencing assay and novel
+analysis algorithms. This method can potentially be used in multiple
+validated clinical applications, such as early cancer detection, cancer
+diagnostics, and monitoring of minimal residual disease.
+
+

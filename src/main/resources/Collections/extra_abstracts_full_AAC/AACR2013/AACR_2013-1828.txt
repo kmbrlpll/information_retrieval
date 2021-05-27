@@ -1,0 +1,69 @@
+Meeting: 2013 AACR Annual Meeting
+Title: RNA-seq reveals association of pCR and changes in lncRNA
+expression in pre-operative bevacizumab treatment of breast cancer.
+
+
+Background: Long non-coding RNAs (lncRNAs) are pervasively transcribed in
+the genome yet their role in human disease is not well understood. Recent
+studies show that expression of the lncRNA HOTAIR is increased in primary
+breast tumors and is a predictor of metastasis. However, to date, it is
+unclear how changes in lncRNA expression with treatment correlate with
+response. We performed an RNA-seq study to characterize changes in lncRNA
+expression following exposure to chemotherapy or biologic therapy and
+evaluate association to achievement of pathologic complete response (pCR)
+to neoadjuvant therapy.Methods: We sequenced transcriptomes of core
+biopsy RNA from 50 pairs of breast tumors obtained from neoadjuvant
+clinical trials BrUOG 211A/211B. Patients were given a run-in dose of
+bevacizumab (B), nab-paclitaxel (N) or trastuzumab (T), followed by
+combination biologic/chemotherapy (HER2- with B/carboplatin/N; HER2+ with
+T/carboplatin/N). RNA was derived from biopsy pairs obtained pre/post 10
+day exposure to run-in monotherapy. Paired-end sequencing was performed
+with 74bp read length, yielding genome-wide transcriptomic data.
+Transcriptomic abundance and differential expression were estimated
+assuming Poisson-distributed read-counts. Paired-end sequence data was
+aligned to a lncRNA database containing 14,572 unique lncRNAs. Changes in
+relative abundance of lncRNA transcripts were tested for association with
+pCR using the Wilcoxon rank-sum test.Results: On average, in each patient
+1500 lncRNAs were differentially expressed between pre and post samples
+(pBackground: Long non-coding RNAs (lncRNAs) are pervasively transcribed
+in the genome yet their role in human disease is not well understood.
+Recent studies show that expression of the lncRNA HOTAIR is increased in
+primary breast tumors and is a predictor of metastasis. However, to date,
+it is unclear how changes in lncRNA expression with treatment correlate
+with response. We performed an RNA-seq study to characterize changes in
+lncRNA expression following exposure to chemotherapy or biologic therapy
+and evaluate association to achievement of pathologic complete response
+(pCR) to neoadjuvant therapy.Methods: We sequenced transcriptomes of core
+biopsy RNA from 50 pairs of breast tumors obtained from neoadjuvant
+clinical trials BrUOG 211A/211B. Patients were given a run-in dose of
+bevacizumab (B), nab-paclitaxel (N) or trastuzumab (T), followed by
+combination biologic/chemotherapy (HER2- with B/carboplatin/N; HER2+ with
+T/carboplatin/N). RNA was derived from biopsy pairs obtained pre/post 10
+day exposure to run-in monotherapy. Paired-end sequencing was performed
+with 74bp read length, yielding genome-wide transcriptomic data.
+Transcriptomic abundance and differential expression were estimated
+assuming Poisson-distributed read-counts. Paired-end sequence data was
+aligned to a lncRNA database containing 14,572 unique lncRNAs. Changes in
+relative abundance of lncRNA transcripts were tested for association with
+pCR using the Wilcoxon rank-sum test.Results: On average, in each patient
+1500 lncRNAs were differentially expressed between pre and post samples
+(p<0.05). Within each treatment arm 600-700 lncRNAs were differentially
+expressed across a majority of the patients (65%). There are many lncRNAs
+common among the three treatment arms (80% overlap). Genes from the
+transcribed loci are enriched in Kegg pathways such as primary
+immunodeficiency, cytosolic DNA sensing, B-cell receptor signaling and
+T-cell receptor signaling. For the B arm, where response data was
+available, we identified 38 lncRNAs for which change in level of
+expression correlated with pCR after multiple hypothesis correction, of
+which 25 were differentially expressed in the other treatment arms.
+Previously characterized lncRNAs in breast cancer, MEG3 and GAS5 were
+identified to be uniquely associated with response in the B
+arm.Discussion: This is the first study to report that changes in lncRNA
+expression upon brief exposure to B are associated with achievement of
+pCR to subsequent neoadjuvant therapy. The overlapping changes in lncRNAs
+across different treatment arms suggest systematic lncRNA-mediated
+mechanisms at play. These preliminary observations need to be explored in
+a larger group of patients. Next generation sequencing technologies will
+likely allow further characterization of lncRNAs leading to improved
+methods of stratifying, subclassifying and managing breast cancers.
+

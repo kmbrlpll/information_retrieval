@@ -1,0 +1,32 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Discovery and proteogenomic investigation of genetic variants in
+human cancers
+
+
+A significant fraction of cancers have a heritable component, and require
+an interplay between somatic and germline variants. Common and rare
+germline variants have been investigated by previous GWAS and family
+based studies. However, a comprehensive analysis of both somatic and
+germline variants in cancer using high throughput sequencing data to
+discover genetic variants of functional relevance is lacking. Herein, we
+investigated the potential role of somatic and germline variants from
+over 20 major cancer types from large-scale studies such as TCGA and ICGC
+and discovered thousands of somatic and germline variants in cancer
+genomes. To link these genetic variants to cancer phenotypes, we analyzed
+the proteomics data in breast, ovarian and colorectal cancers generated
+by the Clinical Proteomic Tumour Analysis Consortium (CPTAC) using a
+PepScan pipeline that can detect whether a genomic variant is observed at
+the peptide level. The pipeline incorporated QUILTS to construct
+patient-specific protein database and MS-GF+ to identify peptide
+sequences in the database from MS spectra. Our analysis validated roughly
+2% of non-synonymous genetic variants in peptides with matched spectra.
+We correlated the effect of genetic mutations on proteomic subtypes based
+on global protein expression levels. Additionally, we assessed the role
+of genetic variations in kinase genes using phosphoproteome profiles, and
+identified downstream markers that may be candidate targets for diagnosis
+or treatment. This analysis also helped us prioritize kinase variants
+that are likely functional candidates for experimental validation. In
+conclusion, the comprehensive study of genetic variants utilizing an
+integrated proteogenomic approach revealed genetic variants with
+potential functional impacts in cancer.
+

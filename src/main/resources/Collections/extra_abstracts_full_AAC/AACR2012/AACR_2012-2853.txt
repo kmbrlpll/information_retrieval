@@ -1,0 +1,59 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Discovery of phosphatases that regulate growth and tumorigenicity
+of ER-negative breast cancers
+
+
+Background: As the leading cause of cancer-related death in women, there
+is an urgent need to identify therapeutic means for breast cancer in
+women. 60-70% of breast cancers express the estrogen receptor (ER) and
+respond to therapies targeting this receptor. The remaining 30-40% of
+breast cancers that do not express this receptor are cannot be treated
+with these therapies. To identify novel targets for treatment, we are
+investigating growth-regulatory pathways in ER-negative breast cancers.
+The goal is to identify phosphatases that are critical for the growth and
+tumorigenicity of ER-negative breast cancer. Methods: To identify
+signaling pathways important in ER-negative breast cancer, we used
+Affymetrix microarray data obtained from profiling 221 ER-negative and 56
+ER-positive breast cancers from the Baylor College of Medicine Tumor
+Bank. We then performed supervised cluster analysis to identify
+phosphatases that were differentially expressed in ER-negative and
+ER-positive breast cancers. This analysis identified 20 phosphatases
+upregulated (>1.5-fold; FDR=0.05), and 29 phosphatases down-regulated
+(Background: As the leading cause of cancer-related death in women, there
+is an urgent need to identify therapeutic means for breast cancer in
+women. 60-70% of breast cancers express the estrogen receptor (ER) and
+respond to therapies targeting this receptor. The remaining 30-40% of
+breast cancers that do not express this receptor are cannot be treated
+with these therapies. To identify novel targets for treatment, we are
+investigating growth-regulatory pathways in ER-negative breast cancers.
+The goal is to identify phosphatases that are critical for the growth and
+tumorigenicity of ER-negative breast cancer. Methods: To identify
+signaling pathways important in ER-negative breast cancer, we used
+Affymetrix microarray data obtained from profiling 221 ER-negative and 56
+ER-positive breast cancers from the Baylor College of Medicine Tumor
+Bank. We then performed supervised cluster analysis to identify
+phosphatases that were differentially expressed in ER-negative and
+ER-positive breast cancers. This analysis identified 20 phosphatases
+upregulated (>1.5-fold; FDR=0.05), and 29 phosphatases down-regulated (<
+0.66-fold, FDR=0.05) in ER-negative breast cancers as compared to
+ER-positive breast cancers. Specific siRNA were used to knock-down each
+of the 20 highly expressed phosphatases in 4 ER-negative, 4 ER-positive
+breast cancer cell lines, HMECs immortalized with TERT, and HMECs. Cell
+growth was measured by cell count, and anchorage-independent growth was
+tested with the soft agar assay. Colonies were counted after 14 days with
+the Gelcount software. Results: Of the 20 overexpressed phosphatases, 9
+showed significant growth reduction after treatment with siRNA in at
+least 2 of the 4 ER-negative breast cancer cell lines. These 9
+phosphatases are now being tested in anchorage-independent growth assays.
+Based on our results, 3 phosphatases (ACP1, PTP4A3, and CDC25B) have been
+selected for further study. These are now being tested for their
+transforming capability in in vitro and in vivo transformation and
+tumorigenicity assays. Conclusion: We identified a set of phosphatases
+highly over-expressed in ER-negative breast cancer, and showed that a
+sub-set of these phosphatases are critical for anchorage-dependent and
+-independent breast cancer cell growth. These studies have identified
+critical growth-regulatory phosphatases in ER-negative breast tumors that
+may be novel targets for the treatment of ER-negative breast cancer.
+Supported by Komen Promise grant KG081694 (PHB) & Komen SAB grant
+SAB08-00006 (PHB).
+

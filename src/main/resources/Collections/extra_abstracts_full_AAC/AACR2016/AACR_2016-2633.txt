@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Radiogenomics of breast cancer using DCE-MRI and gene expression
+profiling
+
+
+The utilization of radiomics (high-throughput extraction and analysis of
+imaging features) to abstract underlying genomic features of an evolving
+malignancy is an emerging field that has the potential to detail
+biological information of a tumor in a non-invasive and more accessible
+manner. Furthermore, applying radiomics confers a comprehensive spatial
+view of the tumor, a potential advantage over the limitations of sampling
+a small region of tissue that may not accurately represent the underlying
+complexity of the entire tumor. Most studies to date that incorporate
+radiogenomics in the analysis of breast cancers have focused on few basic
+clinical data or individual genetic mutations such as BRCA or HER2
+status.Here, we use an automated quantitative radiomics analysis platform
+developed at the University of Chicago that enables computerized feature
+extraction of tumors to analyze magnetic resonant imaging scans of 50
+breast cancer patients (mean age of diagnosis [range]: 54 [24-89];
+receptor status: HER2+: 14, Triple negative: 7; stage [1 through 4]: 10%,
+40%, 42%, 8%) who have had comprehensive gene expression profiling
+performed using Agilent Human Gene Expression arrays. Our imaging
+platform extracts 38 features across six major phenotypes (size, shape,
+morphology, enhancement texture, kinetic curve assessment, and
+enhancement variance kinetics) (see Table for listing of 24 selected
+features). Existing radiomic analysis derived from a TCGA/TCIA dataset
+suggests that there are many correlations between imaging phenotypes and
+various genetic pathways, such as VEGF signaling and volume of enhancing
+voxels, base excision repair and enhancement texture entropy, and
+TGF-beta signaling and enhancement texture variance. We confirm these
+relationships as well as establish novel associations using a robust
+imaging dataset. By associating specific radiomic features with gene
+expression profile of tumors, we have the opportunity to extract detailed
+biological information non-invasively through clinical imaging.
+Selected imaging phenotypes extracted from MRI scans
+

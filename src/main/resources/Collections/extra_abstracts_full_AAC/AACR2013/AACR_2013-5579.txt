@@ -1,0 +1,36 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Paclitaxel-induced apoptosis is BAK-dependent, but BAX and
+BIM-independent in breast tumor.
+
+
+Breast cancer is a leading cause of death among women. Understanding
+breast cancer at the molecular level is imperative for finding more
+effective approaches to successfully treat these patients. Microtubule
+inhibitors are among the most frequently used agents for breast cancer
+treatment, with proven efficacy in both localized and metastatic disease.
+Paclitaxel (Taxol) is a member of the taxane class of anti-neoplastic
+microtubule damaging agents and exhibits activity against a wide range of
+human malignancies including breast cancer. Paclitaxel stabilizes
+microtubules, resulting in G2/M cell cycle arrest, and continuous
+treatment with paclitaxel ultimately leads to cell death. However, the
+precise mechanisms of how this mitotic arrest triggers cell death are
+still unclear.When cells undergo paclitaxel-induced cell death, the BCL-2
+family-dependent mitochondrial apoptotic pathway is activated. Previous
+studies indicate that a BH3-only protein BIM (BCL-2 Interacting Mediator
+of cell death) plays a role in paclitaxel-induced apoptosis. We show here
+that BIM is dispensable in apoptosis with paclitaxel treatment using bim/
+MEFs (mouse embryonic fibroblasts), the bim/ mouse breast tumor model,
+and shRNA-mediated down-regulation of BIM in human breast cancer cells.
+In contrast, both bak/ MEFs and human breast cancer cells in which BAK
+was down-regulated by shRNA were more resistant to paclitaxel. In human
+breast cancer cells, paclitaxel treatment resulted in MCL-1 degradation
+which was prevented by a proteasome inhibitor, MG132. A cdk inhibitor,
+roscovitine, blocked paclitaxel-induced MCL-1 degradation and apoptosis,
+suggesting that cdk activation at mitotic arrest could induce MCL-1
+phosphorylation and subsequent degradation in a proteasome-dependent
+manner. BAK was associated with MCL-1 in untreated cells and became
+activated in concert with loss of MCL-1 expression and its release from
+the complex. Our data suggest that BAK is the mediator of
+paclitaxel-induced apoptosis and could be an alternative target for
+overcoming paclitaxel resistance.
+

@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Novel feature selection strategies for enhanced predictive
+modeling and deep learning in the biosciences.
+
+
+Artificial Intelligence (AI) is the single most transformative technology
+in human history. Advancements in personalized medicine depend upon
+significantly furthering our current understanding of how genetic
+variation and somatic mutation regulate aberrant gene activity and
+subsequent disease biology, including the myriad of dysregulated
+molecular mechanisms of cancer. To this end, we have built a robust AI
+method to precisely assess pathogenicity for all genomic missense
+variants. Coupled with our advanced deepCODE feature selection strategy
+for constructing deep learning models, we can quantitatively integrate a
+priori pathway-based biological knowledge with multiple types of
+high-throughput omics data. This approach significantly improves
+performance of established classification methods via enhanced semantic
+interoperability for mapping between multiple biomedical ontologies and
+the subsequent identification of genes and molecular pathways more highly
+predictive of cancer type etiology. Specifically, our deepCODE AI methods
+greatly improve tumor subtype and drug-response classification accuracies
+by combining tumor DNA- and RNA-seq data. Our results indicate
+classification of human breast and lung cancer subtypes with 96% and
+greater than 99% accuracy, respectively. Our novel multinomial
+statistical-learning method, which was validated with 6 cancer type
+patient-derived tumor xenograft (PDTX) mouse models, achieved greater
+than 95% accuracy across 10,000 human tumors within the collection of 28
+TCGA cancer types. Finally, our stepwise deepCODE drug target discovery
+approach systematically integrates our deep learning classification
+strategy with advanced Bayesian Network modeling to identify causative
+driver genes, representing probable novel drug targets. This stepwise
+machine learning approach also serves as a unique means to assess drug
+efficacy. Taken together, our advanced deepCODE AI tools greatly expand
+the means to fully understand the underlying molecular determinants of
+human cancer. We have developed user-friendly decision support and
+research tools for in-depth tumor analysis and large-scale case-control
+methods that afford investigators access to our deepCODE variant
+annotation algorithms.
+
+

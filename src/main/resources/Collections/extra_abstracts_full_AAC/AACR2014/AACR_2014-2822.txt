@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A pan-cancer analysis of inferred homologous recombination
+deficiency identifies potential platinum benefit in novel subtypes
+
+
+Personalized medicine in cancer aims to improve treatment outcome, by
+exploiting the molecular alterations of the individual tumor to inform
+therapeutic decisions. Ovarian and triple-negative breast cancers with
+defects in homologous recombination (HR) DNA repair are highly sensitive
+to treatment with platinum-based DNA-damaging agents. Reliable biomarkers
+to identify HR-deficient cancers prior to the initial treatment may be
+used to stratify patients for platinum chemotherapy. Extensive genome
+damage caused by deficient HR is readily observed as high frequencies of
+allelic imbalance and loss of heterozygosity in cancers with loss of
+either of the tumor suppressor genes BRCA1 or BRCA2, but is also common
+in ovarian and triple-negative breast cancers with no BRCA1/2 mutations,
+indicating HR loss due to alternative mechanisms.Recently, three
+independent methods were published that each quantitate the state of HR
+deficiency in a given cancer, by summarizing different types of DNA
+aberrations that are likely to be caused by improper DNA repair. Here we
+compare the three scores, named NtAI (1), LST (2), and HRD (3), utilizing
+a panel of 4400 patients representing 13 cancer types from The Cancer
+Genome Atlas.We found that the three scores are highly correlated with
+each other, suggesting they measure the effect of similar types of DNA
+damage. We found a strong association with overall survival only in
+ovarian cancer, which is consistent with frequent BRCA-related HR
+deficiency reported for this type of cancer. Next, we compared the
+distribution of the scores across cancer types, and found that those
+types ordinarily receiving platinum as standard of care have the highest
+median scores. Importantly, in most types not generally given platinum
+chemotherapy we also found small sub-populations of high scoring tumors,
+which may represent subtypes with a previously overlooked potential to
+respond to platinum agents. Lastly, we used RNAseq to identify genes
+whose expression is associated with high DNA aberration scores. We
+compared the 100 genes most highly correlated with each score and found a
+shared set of 53 genes; these were enriched for genes involved in cell
+cycle progression, mitosis and chromosome segregation. This suggests that
+replication stress, perhaps combined with or induced by HR deficiency,
+could play a role in the generation of the measured DNA
+aberrations.Overall, our results demonstrate that the three methods
+measure correlated aberration patterns possibly generated through
+replication stress, and that they show prognostic potential in patients
+who receive platinum chemotherapy. In addition, we identify subsets of
+patients suffering from cancers not presently receiving platinum
+chemotherapy, who may benefit from it.1) Birkbak NJ, et al. (2012) Cancer
+Discov 2: 366-3752) Popova T, et al. (2012) Cancer Res 72: 5454-54623)
+Abkevich V, et al. (2012) Br J Cancer 107: 1776-1782
+

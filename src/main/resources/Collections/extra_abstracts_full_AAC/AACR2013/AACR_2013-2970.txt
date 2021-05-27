@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Acute depletion of DNA methyltransferases reveals unique and
+overlapping target sites in cancer.
+
+
+DNA methyltransferases (DNMTs) are responsible for establishing (DNMT3A,
+DNMT3B, DNMT3L) and maintaining (DNMT1) DNA methylation to regulate gene
+transcription and promote overall genome stability. Global changes in DNA
+methylation, such as hypomethylation of repetitive sequences and
+hypermethylation of tumor supressor gene promoters, are commonly observed
+in various types of cancer; however, the DNMTs contribution to this
+aberrant methylation remains largely unknown. In this study, we aim to
+identify unique and overlapping target sites for each of the DNMTs in
+order to better understand aberrant DNA methylation in cancer that will
+ultimately permit development of new therapeutic strategies. We utilize
+siRNA-mediated knockdown technology to acutely deplete the mRNA for each
+of the DNMTs in both individual and combinatorial fashion in NCCIT
+embryonal carcinoma cells. Subsequently, DNA methylation is observed
+genome-wide in each DNA sample using two different methodologies: (1)
+Methyl-CpG Binding Domain (MBD)-seq, which identifies regions of the
+genome that are enriched for DNA methylation, and (2) Illumina Infinium
+HumanMethylation450 BeadChip (450K array) allowing for specific CpG site
+methylation status determination. Aligned MBD-seq sequences for
+individual DNMT knockdowns are analyzed by read coverage nomalization
+within 100Kbp windows and using various peak-calling algorithms (e.g.
+MACS, BALM). For the 450K array, DNA samples for both individual and
+combination knockdowns undergo bisulfite conversion and array processing;
+-values for each CpG site are derived from the array signal intensities
+using GenomeStudio and R/Bioconductor (minfi). Genome-wide DNA
+methylation analysis reveals that DNMT1 depletion, both individual and in
+combination with knockdown of other DNMTs, results in global
+demethylation among all genomic features. Interestingly, a small
+population of genes exhibit hypermethylation in gene-promoter CpG islands
+for DNMT1 (individual only) depletion. In contrast, de novo
+methyltransferase depletion (individual and combination) shows more
+specific demethylation effects. In particular, hypomethylation events
+resulting from DNMT3B depletion (individual and combination (not 3B+3L))
+occur within gene bodies and largely outside of CpG islands and flanking
+regions (shores, shelves). Additionally, a number of hypermethylation
+events occurring within the 3UTR region of genes are observed in de novo
+methyltransferase depleted samples. We anticipate further analysis will
+reveal unique and overlapping target sites for each of the DNMTs that
+will lay the ground-work necessary to characterize and understand DNMT
+recruitment both in normal and cancerous tissues.
+

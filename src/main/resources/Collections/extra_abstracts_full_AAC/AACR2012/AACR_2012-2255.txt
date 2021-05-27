@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Inhibition of 5-lipoxygenase interrupts c-Myc oncogenic signaling
+
+
+Background: Previous studies have demonstrated that prostate cancer cells
+continuously generate 5(S)-HETE series of metabolites from arachidonic
+acid via 5-lipoxygenase (5-Lox), and inhibition of 5-Lox blocks
+production of metabolites and triggers apoptosis both in
+androgen-sensitive as well as androgen-independent prostate cancer cells.
+This apoptosis is prevented by 5(S)-HETE and 5-oxoETE, but not by
+leukotrienes or metabolites of 12-Lox or 15-Lox, which is consistent with
+the idea that the 5-HETE series of metabolites are essential survival
+factors for prostate cancer cells. Recently, we found that 5-Lox-mediated
+survival-signaling involves protein kinase C-epsilon (PKC), but not
+PI3K-Akt, or MEK-ERK. Immunohistochemistry revealed that prostate tumor
+tissues express high levels of 5-Lox, but the expression of 5-Lox in
+normal prostate glands is undetectable. Thus, 5-Lox emerges as a novel
+molecular target for prostate cancer. However, downstream signaling
+mechanisms of 5-Lox metabolites in prostate cancer cells are yet to be
+characterized, which may reveal additional targets for prostate cancer
+management. Thus, we wanted to address this question by gene-expression
+array, RT-PCR, Western blot, and analysis of prostate glands in
+transgenic animals. Methods: Prostate cancer cells were treated with
+MK591 (a specific 5-Lox inhibitor) or by Lentiviral 5-Lox shRNA. Whole
+genome gene expression was analyzed by Illumina HT-12v4 gene-expression
+array. Expression of c-Myc was confirmed by RT-PCR and Western blot.
+Apoptosis was measured by annexin-V binding, PARP-cleavage, and
+DNA-degradation. Transcriptional activation of c-Myc was analyzed by
+nuclear localization, DNA-binding and luciferase reporter assays.
+Results: Gene expression array revealed that MK591 strongly inhibits the
+expression of the oncogene, c-Myc, in prostate cancer cells. RT-PCR and
+Western blot confirmed down-regulation of c-Myc. MK591-treatment reduces
+nuclear localization and DNA-binding activity of c-Myc, and dramatically
+decreased the luciferase reporter activity of c-Myc which is prevented by
+5-oxoETE, a metabolic product of 5-Lox. Moreover, MK591 substantially
+reduces the expression of c-Myc target genes, such as cyclin D1, CDK4,
+survivin, Aurora kinase, Gemin4 and MCM10, and blocks the viability and
+colony-forming ability of transformed prostate cancer cells derived from
+Hi-Myc transgenic mice. Interestingly, while inhibition of 5-Lox induces
+apoptosis in prostate cancer cells, non-cancer cells such as NIH3T3 or
+astrocytes (neither expresses 5-Lox), are not affected. Conclusion: Our
+findings indicate that expression and oncogenic-function of c-Myc in
+prostate cancer cells are interrupted by inhibition of 5-Lox, and suggest
+that 5-Lox may contribute to advanced, aggressive prostate cancer by
+promoting activation of c-Myc via metabolism of arachidonic acid, an
+omega-6 polyunsaturated fatty acid plentiful in Western diets.
+

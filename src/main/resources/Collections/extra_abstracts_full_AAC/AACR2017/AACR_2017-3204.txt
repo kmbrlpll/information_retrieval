@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Tryptophan 318/324, the target of C-terminal binding protein
+(CtBP) inhibitors, plays a critical role in CtBP enzymatic activity,
+oligomerization and transcriptional coregulation.
+
+
+C-terminal Binding Proteins (CtBP) 1 and 2 constitute a family of
+oncogenic transcriptional co-regulators overexpressed in tumor tissues
+that are associated with worse prognostic outcome and aggressive tumor
+characteristics in multiple cancer types. Specifically, CtBP has been
+found to repress expression of genes responsible for apoptosis and EMT
+(eg. BIK and CDH1) and promote expression of genes that partake in the
+migration of cancer cells and those that are responsible for enhanced
+drug resistance (eg. TIAM1 and MDR1). CtBP2 is also critically required
+for colon cancer stem cell self-renewal. CtBP is unique among
+transcription co-regulators in harboring a conserved D-isomer specific
+2-hydroxyacid dehydrogenase (D2DH) domain, which reduces an alpha-keto
+acid substrate to an alpha-hydroxy acid in the presence of NADH. The
+presence of NADH also facilities oligomerization of CtBP, leading to
+assembly of higher order complexes of CtBP with both DNA binding
+transcription factors and histone modifying enzymes that then leads to
+modulation target genes. We have identified
+hydroxyimino-3-phenylpropanoic acid and its 4-chloro derivative (HIPP;
+4-Cl-HIPP) as potent substrate competitive inhibitors of the CtBP
+dehydrogenase (IC50’s=240nM, 180 nM), which also disrupt CtBP
+oligomerization, promoter localization, and transcriptional regulation.
+Co-crystallization of HIPP and CtBP1/2 indicated a strong π-π
+interaction between the HIPP phenyl ring and the indolyl ring in
+tryptophan W318/324 of CtBP1/2, indicating that this tryptophan is
+critical to CtBP interaction with HIPP inhibitors, dehydrogenase
+function, and quaternary structure. Of note W318/324, though conserved in
+CtBP1/2, is unique among D2DH, suggesting that a better understanding of
+W318/324 role and function in CtBP structure and function is critical to
+optimizing design of inhibitors that targeting this evolutionary unique
+residue among dehydrogenases. To further elucidate the mechanism of
+action in catalysis and oligomerization, as well as functional importance
+for transcription of CtBP2 W324, we analyzed enzyme kinetics,
+oligomerization, transcriptional co-regulatory activity and cell
+migration in a series of CtBP2 W324 mutants overexpressed in breast and
+colon cancer cell lines with concomitant knockdown (siRNA) or knockout
+(CRISPR/Cas9) of CtBP2. Our data demonstrates that mutation of W324
+abrogated dehydrogenase activity, oligomerization, transactivation of the
+validated CtBP target gene TIAM1 and induction of migration. In summary,
+our findings suggest that the W324 residue is critical for CtBP2’s
+function and its unique conservation in CtBP1/2 vs. other dehydrogenases
+will allow the development of high specificity CtBP W318/324 inhibitors
+to limit potential toxicity due to off target inhibition of related
+metabolic dehydrogenases.
+
+

@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A benchmark study for identifying cancer drivers in the non-coding
+part of the genome.
+
+
+Purpose: Prioritizing potential deleterious variants is an essential task
+to guide research and validation of new pathological variants in the
+immensity of the genome. Many tools have been introduced to detect new
+variants in the coding part of the genome. Detailed knowledge of coding
+sequences led to efficient statistical models for cancer driver
+discovery. The challenge is greater for the non-coding part of the genome
+due to its large size (>98% of the genome) which contains many
+non-functional or unknown features. Several deleteriousness scores have
+been proposed in the last decade, but no large-scale comparison has been
+realized to date to assess their ability to identify cancer drivers.
+
+Material and method: We compared the leading scoring systems (CADD,
+FATHMM-MKL, Funseq2 and GWAVA) and some recent competitors (DANN, SNP and
+SOM scores) for their ability to discriminate assumed pathologic variants
+in the non-coding genome (as identified by 928 ClinVar variants / 44,158
+recurrent COSMIC mutations) from assumed non-pathologic variants (100,000
+randomly sampled 1000 Genomes project variants with minor allele
+frequency > 1%). To define the pathogenic variants using COSMIC as
+reference, we varied the threshold for number of COSMIC recurrences from
+2 to 10. We compared the sensibility, specificity and precision of the
+scoring systems using the area under the curve (AUC) of receiver
+operating characteristic (ROC) and precision-recall (PR) curves.
+
+Results: Most scores had good sensibility and specificity for the
+detection of the ClinVar variants (AUCROC>0.90). As far as precision for
+ClinVar variants was concerned, the top performing methods were CADD
+(AUCPR=0.84), DANN (AUCPR=0.83) and, to a lesser extent, FATHMM-MKL
+(AUCPR=0.75).
+
+When using a threshold of 3 recurrences to define true pathogenicity of
+COSMIC variants, the AUCROC ranged from 0.52 (DANN) to 0.80 (GWAVA) but
+precision was low with AUCPR ranging from 0.05 (DANN, SOMmelanoma) to
+0.18 (GWAVA). Increasing the pathogenicity threshold to 10 recurrences
+increased AUCROC values (ranging from 0.50 (SOMmelanoma) to 0.89 (GWAVA))
+but decreased precision values (AUCPR ranging from 0 to 0.02).
+
+Discussion: This large scale benchmark study distinguished CADD as the
+best tool to detect variants with features similar to those of ClinVar,
+which are mainly located in protein coding regions. However, based on the
+results using COSMIC, GWAVA outperformed CADD for variants in other
+regions, including lincRNAs, pseudogenes and other parts of the genome
+“dark matter”, for which there is increased interest. This should
+nevertheless be balanced by the potential presence of non-pathologic
+variants in the COSMIC database due to sequencing errors and limitation
+of the recurrence criteria to define pathologic status in the instable
+fragile genome regions. The development of a gold standard as consistent
+as ClinVar for these regions will be necessary to confirm our tool
+ranking.
+
+

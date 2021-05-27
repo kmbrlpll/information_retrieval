@@ -1,0 +1,41 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of MicroRNAs unique to cancer stem cells by small
+RNA deep sequencing.
+
+
+Cancer stem cells (CSCs) are undifferentiated cancer initiating cells
+with normal stem cell traits and they are responsible for cancer
+progression, tumor relapse and resistance to chemotherapy. While
+therapies that target CSCs hold promise in eliminating cancer burden,
+normal stem cells are likely to be targeted due to their similarities
+with CSCs. Recently we have demonstrated that EpCAM+ AFP+ hepatocellular
+carcinoma (HCC) cells are CSCs. EpCAM and AFP are two cellular proteins
+that are highly expressed in fetal livers and are silenced in adult
+livers but they are reactivated in a subset of HCC. Since microRNAs play
+a key role in the maintenance of normal stem cells and CSCs, we
+hypothesized that abnormal microRNA expression could be a unique feature
+specific to EpCAM+ AFP+ CSCs but not to normal liver stem cells. In this
+study, we used the SOLiD-4 system to perform genome-wide measurement of
+small RNA transcriptome. We constructed 16 small RNA libraries derived
+from EpCAM+ AFP+ CSCs and corresponding differentiated EpCAM- AFP- tumor
+cells from primary HCC clinical specimens and HCC cell lines, human
+embryonic stem cells, primary normal liver stem cells and their lineage
+restricted hepatoblasts, and differentiated hepatocytes. We generated a
+total of 290.9 million reads. Using the RNA2MAP (v0.5) computational
+program, the 35 nucleotide-filtered reads were aligned to the reference
+human miRBase (v17.0), then to the human genome (hg19). The alignment
+yielded an average of 10.3 million high-quality mapped reads, of which
+59.3% were aligned to miRBase. Further, we developed an in-house
+bioinformatics analysis pipeline to process mapped reads and identified
+83.2% of known microRNA hairpins (n=1426) and 71.0% of known mature
+microRNAs within the human miRBase (n=1733). Using a stringent comparison
+criterion between undifferentiated and differentiated cells as well as
+between normal and cancer cells, we identified 10 microRNAs unique to HCC
+CSC but not to normal stem cells and 15 microRNAs unique to normal liver
+stem cells. We also identified several microRNAs that contain candidate
+somatic mutations. These microRNAs may possess unique functions to HCC
+CSCs and thus they are strong candidates as therapeutic targets for HCC.
+Further investigation would allow us to develop novel therapies to
+specifically eliminate CSC without sacrificing normal stem cells to avoid
+unwanted side effect.
+

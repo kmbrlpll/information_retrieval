@@ -1,0 +1,38 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A comparative meta-analysis of prognostic gene signatures for
+late-stage ovarian cancer
+
+
+Numerous gene signatures of patient prognosis for late-stage, high-grade
+serous ovarian cancer (HSOC) have been proposed, but diverse data and
+methods make these difficult to compare or prioritize for clinical
+application. However, the corresponding volume of publicly available
+expression data creates an opportunity to validate previous findings and
+to develop more robust signatures. To establish the current state of HSOC
+prognostic gene signatures, we undertook a systematic review and
+meta-analysis of the publicly available microarray data and published
+prognostic gene signatures. This effort generated a curated database of
+1,319 clinically annotated HSOC microarray assays from 10 studies
+(Ganzfried et al., DATABASE 2013) and implementations of 14 published
+prognostic signatures for evaluation in independently available data. For
+each published prognostic signature we evaluated 1) its reproducibility,
+2) its prognostic accuracy for overall survival in independent datasets,
+and 3) the prognostic value of the genes used in each signature relative
+to random gene sets. Twelve published models performed better than 97.5%
+of randomized risk scores, and six out-performed 97.5% of random
+signatures of the same size trained on the same data. The four top-ranked
+models achieved overall validation C-Indices of 0.56 to 0.60, and shared
+anti-correlation with expression of immune response pathways. Most models
+demonstrated lower accuracy in new datasets than in validation sets
+presented in their publication. This analysis provides definitive support
+for several prognostic models, but confirms that these require
+improvement to be of clinical value. This work addresses outstanding
+controversies in the ovarian cancer literature, including whether the
+prognostic signature proposed by The Cancer Genome Atlas Consortium
+(Nature 2011) improved on existing signatures, the impact of batch
+effects on a frequently re-used, high-profile dataset (Dressman et al., J
+Clin Oncol 2007), and the prognostic value of a recently proposed DNA
+damage repair signature (Kang et al., J Natl Cancer Inst 2012). Finally,
+this work provides a reproducible framework for meta-analytic evaluation
+of gene signatures.
+

@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Hotair promotes glioma cell cycle through a b-catenin mediated
+mRNA network
+
+
+Background:LncRNA hotair is an oncogene that involves in the progression
+of several cancers. Previously we and others have reported that hotair
+promotes glioblastoma progression by regulating cell cycle. However,
+further mechanism still needs to be explored. The wnt/b-catenin signaling
+pathway is a crucial factor in the development of many cancers. B-catenin
+is a nuclear transcription factor that regulates multiple genes involved
+in cell proliferation, survival and EMT that contribute to glioma
+development.Methods:Positive correlation genes of hotair were picked up
+from CGGA (Chinese Glioma Genome Atlas) database by bioinformatics
+analysis. Real Time PCR is used to test the mRNA expression levels in U87
+cells and astrocytes. Western blot is emplored to determine PKM2
+expression after knocking down hotair. Further more, and nude mouse
+glioma intracranial model is employed to examine in vivo impact of hotair
+on GBM.Results:Hotair is a cell cycle related lncRNA as previously
+reported. Bioinformatics analysis indicated that various genes play
+important roles on cell cycle are positively correlated with hotair.
+Theses genes might be the executors of hotair on cell cycle regulating.
+We constructed a top 18 hotair-related genes network by connectivity. To
+test the hypothesis, we knock down hotair expression in U87 cells, and
+found out that FOXM1, CCNA2, CEP55, CENEP, CCNB2, HMMR, NCAPG, NUSAP were
+down-regulated significantly. In addition, overexpression of hotair in
+astrocytes could upregulate the mRNA of those genes. To further explore
+the regulatory mechanism, we analyed the promoter of these
+hotair-regulated genes and found out b-catenin/TCF4 binding site on all
+of them. This indicated that hotair might upregulate cell cycle
+associated genes through b-catenin/TCF4 pathway. FH535 is an inhibitor of
+wnt/b-catenin. The mRNA expression of these genes could be suppressed by
+FH535 treatment, which confirms the promoter analysis. It is reported
+that PKM2 could promote b-catenin nuclear translocation. Interestingly,
+we found out that binding site of miR-330 exists on both of hotair and
+PKM2 mRNA. Knocking-down of hotair inhibited PKM2 mRNA and protein
+expression in U87, U87vIII, U251 and LN229 cells. Further more, hotair
+siRNA could inhibit glioma growth in vivo.Conclusion:Our data indicated
+that hotair promotes glioma cell cycle through a b-catenin mediated mRNA
+network, and hotair could be a a biomarker and therapeutic target in
+glioblastoma. Meanwhile, there are still a lot of work to be done.
+

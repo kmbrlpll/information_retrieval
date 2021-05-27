@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Characterization of TpeL, a RAS specific clostridial toxin.
+
+
+Clostridium perfringes lethal toxin (TpeL) belongs to the family of large
+clostridial glycosylating cytotoxins. Clostridial toxins are
+glycosyltransferases that modify and deactivate small GTPases of the RHO
+and RAS subfamily. TpeL mono-glycosylates in the switch I domain (Thr35)
+of RAC and RAS small GTPases. Glycosylation of RAS at Thr35 prevents
+binding to the primary effector, RAF kinase and results in a blockade RAS
+signal transduction. RAS family proteins function as key regulators of
+cell proliferation, differentiation, survival and gene expression.
+Moreover, mutations in RAS proteins are highly prevalent in human
+cancers. Considering the specificity of TpeL for RAS, we decided to
+investigate the biochemical interaction between TpeL and RAS, and
+potentially develop tools to disrupt the RAS signaling pathway. In order
+to assess the effect of TpeL in vivo, we use RAS-dependent MEFs
+expressing different KRAS mutations and BRAF V600E. We expect that
+proliferation should be inhibited in MEF cells expressing RAS isoforms,
+but MEF cells expressing BRAF V600E should not be affected by any toxin.
+We found that TpeL treatment did not affect the viability of the BRAF
+V600E cells and only induced toxicity in RAS expressing cells. Consistent
+with this result, TpeL treatment inhibited MAPK signal transduction in
+the RAS expressing cells, but not in the BRAF V600E cells. Surprisingly,
+both cell viability as well as pERK levels remained unaffected in the
+KRAS Q61R MEF cells treated with TpeL, suggesting that KRAS Q61R is
+resistant to glycosylation. This may be due in part to the relatively
+slow intrinsic rate of GTP hydrolysis and very high levels of KRAS-GTP in
+KRAS Q61R cells. We also developed and adapted biochemical assays to
+study TpeL-KRAS interaction in vitro. Based on Alpha Assay and UDP Glow,
+TpeL activity does not appear to be nucleotide specific, in contrast to
+previously reported findings. We are currently testing if TpeL RAS
+glycosylation is competitive with or is inhibited by other molecules that
+bind to switch I, such as the RBD domain of RAF1 or GEF/GAP proteins.
+These data may indicate that the lack of activity in KRAS Q61R expressing
+MEF cells is due not to the high levels of RAS-GTP, but to the
+constitutive binding to effector molecules, which prevent TpeL from
+accessing KRAS. We also hope to identify the critical residues required
+for TpeL binding and catalysis. By elucidating the mechanism of substrate
+binding and substrate specificity we may gain insight into novel binding
+pockets that could be exploited therapeutically.
+
+

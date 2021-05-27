@@ -1,0 +1,183 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Site specific risk factors for colorectal cancer.
+
+
+Background: Most studies of colorectal cancer (CRC) risk factors pool
+cases across anatomical sites, though tumor characteristics and
+embryologic origins differ. Our aim was to conduct a site-stratified
+(proximal, distal, rectal) case control study of candidate risk factors
+for CRC.
+
+Methods: Our study base was US Veterans with >1 colonoscopy 1999-2011.
+CRC cases at baseline colonoscopy were identified with the Veterans
+Affairs Central Cancer Registry. Controls had normal colonoscopy without
+biopsy, no history of CRC, and no CRC within 3 years of index
+colonoscopy. Age, sex, race/ethnicity, body mass index (BMI), diabetes,
+and smoking were considered candidate risk factors. Primary outcome was
+CRC, stratified by site. Site-specific odds ratios (OR) and 95%
+confidence intervals (CI) for each risk factor were computed with
+unadjusted and adjusted multinomial logistic regression models.
+
+Results: We identified 21,739 CRC cases and 616,323 normal colonoscopy
+controls. For cases combined vs. controls, median age was 68 vs. 61
+years, 98% vs. 95% were male, median BMI was 27.8 vs. 28.8 kg/m2, 28% vs.
+24% had diabetes, and 25% vs. 29% were non-smokers; race/ethnicity was
+similar. Presence and strength of associations differed by risk factor
+and CRC site (Table). Smoking was more closely associated with rectal
+(OR=1.84) than proximal (OR=1.59) or distal cancer (OR=1.50). Diabetes
+was more closely associated with proximal than distal or rectal cancer
+(OR=1.28, 1.17 and 1.12, respectively). Blacks had reduced odds for
+rectal (OR=0.89), but increased odds for distal (OR=1.27) and
+particularly proximal cancer (OR=1.60) when compared to non-Hispanic
+whites. For males vs. females, odds of rectal was higher than distal or
+proximal cancer (OR=2.64, 1.95 and 1.32, respectively).
+
+Conclusions: Presence and strength of association of cancer risk factors
+may differ by CRC site. Site should be a key consideration in future
+studies of CRC risk.
+
+Site specific risk factors for 21,739 CRC cases compared to 616,323
+normal colonoscopy controls
+
+
+
+
+
+Anatomic Site of CRC*
+
+
+
+
+
+Proximal (n=7,686)
+
+Distal (n=7,036)
+
+Rectal (n=7,017)
+
+
+
+Candidate Risk Factor
+
+OR (CI)
+
+OR (CI)
+
+OR (CI)
+
+
+
+Age, years†
+
+1.100 (1.096-1.103)
+
+1.065 (1.062-1.069)‡
+
+1.055 (1.051- 1.059)‡§
+
+
+
+Gender, male vs. female
+
+1.318 (1.080-1.608)
+
+1.950 (1.538-2.471)‡
+
+2.636 (2.006-3.463)‡
+
+
+
+Race/ethnicity
+
+
+
+
+
+Black vs. non-Hispanic white
+
+1.596 (1.480-1.720)
+
+1.270 (1.167-1.381)‡
+
+0.886 (0.808-0.971)‡§
+
+
+
+Hispanic vs. non-Hispanic white
+
+1.291 (1.123-1.485)
+
+1.531 (1.337-1.753)
+
+1.219 (1.053-1.411)§
+
+
+
+Asian vs. non-Hispanic white
+
+0.872 (0.634-1.201)
+
+0.917 (0.662-1.272)
+
+0.556 (0.371-0.832)
+
+
+
+BMI, kg/m2†
+
+0.994 (0.988-1.000)
+
+1.005 (0.999-1.012)‡
+
+0.963 (0.957-0.970)‡§
+
+
+
+Diabetes, yes vs. no
+
+1.278 (1.196-1.366)
+
+1.170 (1.089-1.257)
+
+1.119 (1.038-1.207)‡
+
+
+
+Smoking
+
+
+
+
+
+Current vs. never
+
+1.594 (1.476-1.722)
+
+1.500 (1.383-1.627)
+
+1.837 (1.695-1.992)‡§
+
+
+
+Former vs. never
+
+0.997 (0.926-1.073)
+
+1.082 (1.001-1.171)
+
+1.085 (0.998-1.119)
+
+
+
+* Multinomial analyses adjusted for other risk factors, as well as year
+of colonoscopy, 1999-2011
+
+† by one unit increment
+
+‡ p‡ p<0.05 when compared to proximal cancer
+
+§ p§ p<0.05 when compared to distal cancer
+
+CRC, colorectal cancer; BMI, body mass index.
+
+

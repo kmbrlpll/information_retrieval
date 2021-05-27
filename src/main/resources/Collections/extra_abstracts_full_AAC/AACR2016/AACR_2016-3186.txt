@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Improved sensitive detection method of FLT3 (FMS-like tyrosine
+kinase) internal tandem duplication (ITD) mutation using next-generation
+sequencing technology and nested PCR
+
+
+Sensitive detection of internal tandem duplication (ITD) mutation of FLT3
+is very important in acute myeloid leukemia. To increase detection
+sensitivity of FLT3-ITD, we developed new detection algorithm using next
+generation sequencing (NGS) data. We validated results using nested
+polymerase chain reaction (PCR) methods. We compared results of NGS data,
+nested PCR and conventional PCR methods.First, using whole exome
+sequencing data of 83 AML patients, we applied calling algorithm for
+FLT3-ITD. Briefly, to detect ITDs with NGS data, the reads are aligned to
+a reference sequence (UCSC hg19), with BWA which is a read aligner
+allowing soft-clipping. Some reads can be an indication of the occurrence
+of ITD and BWA aligns those reads as soft-clipped.Second, we deigned two
+types of primer for Nested PCR. The first primer was targeted wildly for
+between exon14 and exon15 of FLT3 gene. Nested PCR primer was deigned to
+target previously reported regions which are frequently occurred ITD
+mutation. PCR reactions of two steps were performed using the PCR primers
+sequentially.In these 83 patients, FLT3-ITD was positive only in 7
+patients when tested by conventional PCR methods. When NGS detection
+method was applied, this resulted in positive FLT3-ITD in 11 patients
+(11/83, 13%). When validation was performed using nested PCR, FLT3-ITD
+was confirmed in all of 11 patients. Nested PCR detected additional 4
+patient positive for FLT3-ITD in this population. For 68 patients,
+FLT3-ITD was negative by both NGS and nested PCR method. Overall, NGS
+method improved sensitivity of FLT3-ITD detection by 57% in this
+population. And the concordance rate of NGS method and nested PCR was
+95.2% (79/83).Then we investigated clinical significance of sensitive
+FLT3-ITD detection. For this, we performed nested PCR and conventional
+PCR at the same time in 238 AML patients to detect FLT3-ITD. Positive
+rate for FLT3-ITD was 20% (48/238) and 10% (24/238) by nested PCR and
+conventional PCR respectively. When survival analysis was performed,
+among patients with negative FLT3-ITD result by conventional PCR,
+patients who showed positive for FLT3-ITD by nested PCR had shorter
+overall survival compared to those who showed negative for FLT3-ITD by
+nested PCR. (p = 0.03). This implies that sensitive FLT3-ITD detection
+using nested PCR is clinically meaningful.Diagnosis of FLT3-ITD is very
+important genetic factor, leading a therapeutic direction for AML
+patient. Here we report that we have developed alternative more sensitive
+detection methods for FLT3-ITD based on nested PCR and NGS. Sensitive
+detection of FLT3-ITD was clinically meaningful, suggesting that these
+methods should be incorporated in a future clinical practice. Also, we
+want to note that, NGS method is capable of quantifying FLT3-ITD size and
+amount in AML patients.
+

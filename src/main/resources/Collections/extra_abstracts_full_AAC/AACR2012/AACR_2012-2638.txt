@@ -1,0 +1,162 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Genetic association analysis of the AMP dependent protein kinase
+complex and NHL risk
+
+
+Introduction: AMPK regulates metabolic processes by sensing intracellular
+concentrations of ATP and AMP and has been implicated in at least two
+important tumor-related pathways: the mTOR pathway and the p53 axis. We
+utilize a population-based epidemiologic analysis to investigate the role
+of mutations in seven AMPK subunits and lymphomagenesis and analyze
+public microarray expression data to determine the expression of AMPK in
+non-Hodgkin lymphoma (NHL) cells. Methods: Our analysis included incident
+and histologically confirmed cases of NHL (n=456) and age-matched matched
+controls (n=527) from female residents of Connecticut. Single nucleotide
+polymorphisms (SNPs) were identified using the Tagger algorithm in the
+Haploview interface in HapMap's genome browser 22. A total of 19 SNPs (r2
+0.8 and MAF 0.2) were identified across the AMPK subunit genes. For each
+gene harboring more than one tagging SNP (PRKAA2, PRKAG2, and PRKAG3),
+haplotypes were estimated using the PHASE program. All statistical
+analyses were done in SAS 9.2. An unconditional multivariate logistic
+model was generated and the adjusted odds ratios (ORs) and 95% confidence
+intervals were reported. Family history of cancer was found to be an
+effect modifier for some SNPs and haplotypes, and stratified analyses
+were performed for these associations. We extracted gene expression data
+from GEO (GDS3516) and compared median AMPK subunit levels in NHL cells
+to the levels in normal follicle B-cells and total peripheral blood
+B-cells using a Wilcoxon rank sum test. Results: Individuals with no
+family history of cancer and heterozygous for rs293445 in the PRKAG1
+subunit had a significantly increased risk of NHL (OR: 2.80, 95% CI:
+1.54, 5.07; pIntroduction: AMPK regulates metabolic processes by sensing
+intracellular concentrations of ATP and AMP and has been implicated in at
+least two important tumor-related pathways: the mTOR pathway and the p53
+axis. We utilize a population-based epidemiologic analysis to investigate
+the role of mutations in seven AMPK subunits and lymphomagenesis and
+analyze public microarray expression data to determine the expression of
+AMPK in non-Hodgkin lymphoma (NHL) cells. Methods: Our analysis included
+incident and histologically confirmed cases of NHL (n=456) and
+age-matched matched controls (n=527) from female residents of
+Connecticut. Single nucleotide polymorphisms (SNPs) were identified using
+the Tagger algorithm in the Haploview interface in HapMap's genome
+browser 22. A total of 19 SNPs (r2 0.8 and MAF 0.2) were identified
+across the AMPK subunit genes. For each gene harboring more than one
+tagging SNP (PRKAA2, PRKAG2, and PRKAG3), haplotypes were estimated using
+the PHASE program. All statistical analyses were done in SAS 9.2. An
+unconditional multivariate logistic model was generated and the adjusted
+odds ratios (ORs) and 95% confidence intervals were reported. Family
+history of cancer was found to be an effect modifier for some SNPs and
+haplotypes, and stratified analyses were performed for these
+associations. We extracted gene expression data from GEO (GDS3516) and
+compared median AMPK subunit levels in NHL cells to the levels in normal
+follicle B-cells and total peripheral blood B-cells using a Wilcoxon rank
+sum test. Results: Individuals with no family history of cancer and
+heterozygous for rs293445 in the PRKAG1 subunit had a significantly
+increased risk of NHL (OR: 2.80, 95% CI: 1.54, 5.07; p<0.001). The
+strongest association was noted for a haplotype in PRKAA2 among
+individuals who reported no family history of cancer (OR: 5.44, 95% CI:
+2.15, 13.75; pIntroduction: AMPK regulates metabolic processes by sensing
+intracellular concentrations of ATP and AMP and has been implicated in at
+least two important tumor-related pathways: the mTOR pathway and the p53
+axis. We utilize a population-based epidemiologic analysis to investigate
+the role of mutations in seven AMPK subunits and lymphomagenesis and
+analyze public microarray expression data to determine the expression of
+AMPK in non-Hodgkin lymphoma (NHL) cells. Methods: Our analysis included
+incident and histologically confirmed cases of NHL (n=456) and
+age-matched matched controls (n=527) from female residents of
+Connecticut. Single nucleotide polymorphisms (SNPs) were identified using
+the Tagger algorithm in the Haploview interface in HapMap's genome
+browser 22. A total of 19 SNPs (r2 0.8 and MAF 0.2) were identified
+across the AMPK subunit genes. For each gene harboring more than one
+tagging SNP (PRKAA2, PRKAG2, and PRKAG3), haplotypes were estimated using
+the PHASE program. All statistical analyses were done in SAS 9.2. An
+unconditional multivariate logistic model was generated and the adjusted
+odds ratios (ORs) and 95% confidence intervals were reported. Family
+history of cancer was found to be an effect modifier for some SNPs and
+haplotypes, and stratified analyses were performed for these
+associations. We extracted gene expression data from GEO (GDS3516) and
+compared median AMPK subunit levels in NHL cells to the levels in normal
+follicle B-cells and total peripheral blood B-cells using a Wilcoxon rank
+sum test. Results: Individuals with no family history of cancer and
+heterozygous for rs293445 in the PRKAG1 subunit had a significantly
+increased risk of NHL (OR: 2.80, 95% CI: 1.54, 5.07; p<0.001). The
+strongest association was noted for a haplotype in PRKAA2 among
+individuals who reported no family history of cancer (OR: 5.44, 95% CI:
+2.15, 13.75; p<0.001). The median gene expression of PRKAA2 was
+significantly elevated in follicular lymphoma cells compared to normal
+follicle B cells (pIntroduction: AMPK regulates metabolic processes by
+sensing intracellular concentrations of ATP and AMP and has been
+implicated in at least two important tumor-related pathways: the mTOR
+pathway and the p53 axis. We utilize a population-based epidemiologic
+analysis to investigate the role of mutations in seven AMPK subunits and
+lymphomagenesis and analyze public microarray expression data to
+determine the expression of AMPK in non-Hodgkin lymphoma (NHL) cells.
+Methods: Our analysis included incident and histologically confirmed
+cases of NHL (n=456) and age-matched matched controls (n=527) from female
+residents of Connecticut. Single nucleotide polymorphisms (SNPs) were
+identified using the Tagger algorithm in the Haploview interface in
+HapMap's genome browser 22. A total of 19 SNPs (r2 0.8 and MAF 0.2) were
+identified across the AMPK subunit genes. For each gene harboring more
+than one tagging SNP (PRKAA2, PRKAG2, and PRKAG3), haplotypes were
+estimated using the PHASE program. All statistical analyses were done in
+SAS 9.2. An unconditional multivariate logistic model was generated and
+the adjusted odds ratios (ORs) and 95% confidence intervals were
+reported. Family history of cancer was found to be an effect modifier for
+some SNPs and haplotypes, and stratified analyses were performed for
+these associations. We extracted gene expression data from GEO (GDS3516)
+and compared median AMPK subunit levels in NHL cells to the levels in
+normal follicle B-cells and total peripheral blood B-cells using a
+Wilcoxon rank sum test. Results: Individuals with no family history of
+cancer and heterozygous for rs293445 in the PRKAG1 subunit had a
+significantly increased risk of NHL (OR: 2.80, 95% CI: 1.54, 5.07;
+p<0.001). The strongest association was noted for a haplotype in PRKAA2
+among individuals who reported no family history of cancer (OR: 5.44, 95%
+CI: 2.15, 13.75; p<0.001). The median gene expression of PRKAA2 was
+significantly elevated in follicular lymphoma cells compared to normal
+follicle B cells (p<0.05). A suggestive association between rare PRKAG3
+haplotypes and diffuse large B cell lymphoma (DLCBCL) was noted among
+individuals with no family history of cancer (OR: 0.36, 95% CI: 0.17,
+0.78)), but this association was not significant after correction for
+multiple comparisons. PRKAG3 was significantly lower (pIntroduction: AMPK
+regulates metabolic processes by sensing intracellular concentrations of
+ATP and AMP and has been implicated in at least two important
+tumor-related pathways: the mTOR pathway and the p53 axis. We utilize a
+population-based epidemiologic analysis to investigate the role of
+mutations in seven AMPK subunits and lymphomagenesis and analyze public
+microarray expression data to determine the expression of AMPK in
+non-Hodgkin lymphoma (NHL) cells. Methods: Our analysis included incident
+and histologically confirmed cases of NHL (n=456) and age-matched matched
+controls (n=527) from female residents of Connecticut. Single nucleotide
+polymorphisms (SNPs) were identified using the Tagger algorithm in the
+Haploview interface in HapMap's genome browser 22. A total of 19 SNPs (r2
+0.8 and MAF 0.2) were identified across the AMPK subunit genes. For each
+gene harboring more than one tagging SNP (PRKAA2, PRKAG2, and PRKAG3),
+haplotypes were estimated using the PHASE program. All statistical
+analyses were done in SAS 9.2. An unconditional multivariate logistic
+model was generated and the adjusted odds ratios (ORs) and 95% confidence
+intervals were reported. Family history of cancer was found to be an
+effect modifier for some SNPs and haplotypes, and stratified analyses
+were performed for these associations. We extracted gene expression data
+from GEO (GDS3516) and compared median AMPK subunit levels in NHL cells
+to the levels in normal follicle B-cells and total peripheral blood
+B-cells using a Wilcoxon rank sum test. Results: Individuals with no
+family history of cancer and heterozygous for rs293445 in the PRKAG1
+subunit had a significantly increased risk of NHL (OR: 2.80, 95% CI:
+1.54, 5.07; p<0.001). The strongest association was noted for a haplotype
+in PRKAA2 among individuals who reported no family history of cancer (OR:
+5.44, 95% CI: 2.15, 13.75; p<0.001). The median gene expression of PRKAA2
+was significantly elevated in follicular lymphoma cells compared to
+normal follicle B cells (p<0.05). A suggestive association between rare
+PRKAG3 haplotypes and diffuse large B cell lymphoma (DLCBCL) was noted
+among individuals with no family history of cancer (OR: 0.36, 95% CI:
+0.17, 0.78)), but this association was not significant after correction
+for multiple comparisons. PRKAG3 was significantly lower (p<0.05) in
+DLCBCL cells relative to normal peripheral blood B cells, and in
+follicular lymphoma cells relative to follicle center B cells.
+Conclusions: These findings suggest that variants in AMPK may influence
+NHL risk. Our expression analysis demonstrates differential expression of
+some AMPK subunits in lymphoma tissue relative to normal immune cells.
+Metabolic dysregulation has been suggested as an emerging hallmark of
+cancer, and future studies may focus on understanding the role of AMPK in
+tumor metabolism and utilizing this information to develop new strategies
+for chemotherapy and prevention.
+

@@ -1,0 +1,68 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Differential expression of long non-coding RNAs in ovarian
+cancer-associated fibroblasts versus normal ovarian fibroblasts
+
+
+Ovarian cancer is the most lethal gynecological malignancy in women.
+Expression profiling of the high-grade serous subtype has revealed that
+patients exhibiting a stromal expression signature demonstrate the
+poorest prognosis1. However, genetic aberrations in ovarian
+cancer-associated fibroblasts (CAFs) are extremely rare2, raising the
+possibility that alternative mechanisms that regulate gene expression,
+such as long non-coding RNAs (lncRNAs), are present in CAFs. LncRNAs are
+polyadenylated RNA transcripts that do not encode for protein, but have
+been shown to correlate with cancer progression and outcome. Therefore,
+our aim was to investigate the presence of differentially expressed
+lncRNAs in ovarian CAFs versus normal ovarian fibroblasts.CAFs were
+laser-capture microdissected from 51 advanced-stage high-grade serous
+ovarian cancers and 10 normal ovaries removed from women for non-cancer
+reasons. RNA was extracted from the microdissected samples and expression
+analyzed using Affymetrix U133 Plus 2.0 Arrays. Probes previously
+identified as lncRNAs were used in this analysis3. Samples were
+normalized and background corrected using the robust multi-arrray average
+(RMA) method and expression values were log2 transformed. Differentially
+expressed probes between cancer versus normal samples were calculated
+using linear models for microarray data (limma) package from Bioconductor
+and a moderated t-statistic used to assess significance.Based on a
+significance cutoff of fold-change > 2 and a p-value Ovarian cancer is
+the most lethal gynecological malignancy in women. Expression profiling
+of the high-grade serous subtype has revealed that patients exhibiting a
+stromal expression signature demonstrate the poorest prognosis1. However,
+genetic aberrations in ovarian cancer-associated fibroblasts (CAFs) are
+extremely rare2, raising the possibility that alternative mechanisms that
+regulate gene expression, such as long non-coding RNAs (lncRNAs), are
+present in CAFs. LncRNAs are polyadenylated RNA transcripts that do not
+encode for protein, but have been shown to correlate with cancer
+progression and outcome. Therefore, our aim was to investigate the
+presence of differentially expressed lncRNAs in ovarian CAFs versus
+normal ovarian fibroblasts.CAFs were laser-capture microdissected from 51
+advanced-stage high-grade serous ovarian cancers and 10 normal ovaries
+removed from women for non-cancer reasons. RNA was extracted from the
+microdissected samples and expression analyzed using Affymetrix U133 Plus
+2.0 Arrays. Probes previously identified as lncRNAs were used in this
+analysis3. Samples were normalized and background corrected using the
+robust multi-arrray average (RMA) method and expression values were log2
+transformed. Differentially expressed probes between cancer versus normal
+samples were calculated using linear models for microarray data (limma)
+package from Bioconductor and a moderated t-statistic used to assess
+significance.Based on a significance cutoff of fold-change > 2 and a
+p-value < 0.05, 54 lncRNAs were identified as differentially expressed in
+cancer versus normal fibroblasts. These included lncRNAs previously
+implicated in ovarian cancer such as XIST and H19, the p53-regulated
+lncRNA TUG1, as well as several lncRNAs that are known to play a role in
+other cancer types such as NEAT1, GAS5 and CASC2. In addition, 16 lncRNAs
+were differentially expressed between patients with short (15 months)
+overall survival. These included MALAT1, MEG3, TUG1, XIST and CRNDE.In
+summary, we have identified lncRNAs that are differentially expressed in
+ovarian CAFs compared to normal ovarian fibroblasts, as well as lncRNAs
+that are differentially expressed based on survival. Given that CAFs are
+known to promote tumor progression and metastasis, these lncRNAs present
+suitable candidates for their role in the tumor-promoting function of
+CAFs.References1.Tothill, R.W. et al. Novel molecular subtypes of serous
+and endometrioid ovarian cancer linked to clinical outcome. Clin Cancer
+Res 14, 5198-208 (2008).2.Qiu, W. et al. No evidence of clonal somatic
+genetic alterations in cancer-associated fibroblasts from human breast
+and ovarian carcinomas. Nat Genet 40, 650-5 (2008).3.Zhang, X. et al.
+Long non-coding RNA expression profiles predict clinical phenotypes in
+glioma. Neurobiol Dis 48, 1-8 (2012).
+

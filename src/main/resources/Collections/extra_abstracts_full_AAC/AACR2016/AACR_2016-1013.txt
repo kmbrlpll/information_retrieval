@@ -1,0 +1,27 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Quantification of NADPH balance in cancer
+
+
+NADPH is a key cofactor involved in antioxidant defense and reductive
+biosynthesis. The quantitative contribution of different NADPH pathways,
+either in normal tissues or in tumors, remains unclear. Here we enable
+tracing of NADPH production using deuterium-labeled nutrients and mass
+spectrometry, providing methods that for the first time can track each of
+the major cytosolic pathways: malic enzyme, isocitrate dehydrogenase,
+folate metabolism, and the pentose phosphate pathway. This is achieved
+via a battery of different 2H-tracers. A linear algebra method for
+deducing the fractional contribution of each pathway, even when a
+specific tracer for that pathway is not available, will be described.
+Utility of these methods will be illustrated through examples drawn from
+both normal cellular physiology and cancer. Specifically, we find that
+most NADPH in differentiating adipocytes is made by malic enzyme.
+Examining cancer cells, we find that the pentose phosphate pathway is
+typically the largest cytosolic NADPH source, but that the collective
+contribution of alternative pathways is often larger than the pentose
+phosphate pathway. The specific other pathways involved differ strongly
+depending on the cancer cell type. We also provide examples where NADPH
+production routes in both normal and cancer cells vary with nutrient
+availability, including hypoxia. Given the heightened redox stress of
+cancer cells, understanding NADPH production routes is likely to
+illuminate new avenues for therapeutic intervention.
+

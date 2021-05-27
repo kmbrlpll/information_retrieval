@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Intravital imaging of endogenous BRAFV600E melanoma reveals
+plasticity of tumor response and resistance to trametinib over time
+
+
+Although the number of therapies entering clinical trials continues to
+increase, the success rate for targeted therapy studies is quite low due,
+in part, to a lack of relevant preclinical models. The use of targeted
+therapy has become a popular method for cancer treatment against mutant
+BRAF melanoma, as studies show that clinical use of selective inhibitors
+against MEK and BRAF extend life expectancy. However, melanoma becomes
+refractory to treatment. Since the tumor and stromal factors that
+contribute to drug resistance remain poorly understood, our ability to
+treat patients with advanced disease remains limited. Current genetically
+engineered murine (GEM) models in melanoma research have enhanced our
+understanding of tumor biology and therapeutic response, but fail to
+mimic tumor progression in clinical settings as most lack spatial and
+temporal control of endogenous tumor initiation. To better mimic human
+disease, we have developed a novel tamoxifen application method that
+reproducibly induces local tumor formation on the mouse ear, and we have
+incorporated a tdTomato fluorescent reporter allele (tdTomatoLSL) into an
+existing tamoxifen-inducible GEM model of BRAFV600E/PTEN-null melanoma.
+The tdTomato allele serves as a visual marker of Cre recombination in
+endogenous melanocytes and allows disease progression to be followed
+through macroscopic and multiphoton intravital imaging.To investigate
+therapeutic effects at the cell level, we have performed imaging studies
+of primary tumors before and after treatment with a selective MEK1/2
+inhibitor (MEKi), Trametinib, which is a FDA approved therapy for
+malignant melanoma. Our melanoma induction method enables longitudinal
+studies of drug response that ultimately give rise to fully resistant
+tumors (up to 90 days on MEKi). Our studies show that this treatment
+causes a striking morphological change of the tumor cells as early as 3
+days post-treatment. After several weeks of continuous treatment, the
+remaining tumor cells are highly spatially correlated with bundled
+collagen structures detected by second harmonic signal, suggesting that
+cellular milieu strongly influences drug response. Interestingly, our
+current studies with MEKi suggest that association of tumor cells with
+collagen fibrils initially provides a protective effect against this
+drug, however once true resistance emerges, this dependency on
+extracellular matrix in the tumor stroma diminishes. Furthermore, in
+parallel with our imaging studies, we have performed molecular analysis
+of tumor response using Mib/MS and mRNA-seq. By coupling our imaging
+studies with transcriptome and kinome reprogramming analysis, we hope to
+identify properties that promote resistance. Using these novel
+approaches, we have developed a model that enables direct observation of
+endogenous tumor development, plasticity, and resistance to targeted
+therapy at the cell level in situ for the first time.
+

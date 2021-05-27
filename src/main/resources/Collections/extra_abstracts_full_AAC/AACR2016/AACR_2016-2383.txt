@@ -1,0 +1,89 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Multiregional RNA sequencing identifies intratumor transcriptomic
+heterogeneity in a subset of early-stage hepatocellular carcinoma
+
+
+BACKGROUND: Hepatocellular carcinoma (HCC) is known to have histological
+intra-tumor heterogeneity. Little is known about the underlying molecular
+contributions to this observation, or its potential impact on resistance
+to therapies.AIMS: 1) To evaluate intra-tumoral molecular heterogeneity
+of primary HCCs using multi-regional RNA-seq; 2) to correlate molecular
+alterations with histological features at distinct areas.METHODS: We
+analyzed 55 fresh-frozen tissues from 10 patients with BCLC-A HCC treated
+with surgical resection. Multi-regional sampling included 38 HCCs and 16
+adjacent non-tumoral tissues (average 5.4 samples per patient). We
+performed H&E staining and RNA-seq on all samples. Each sequenced section
+was evaluated for a panel of 11 histological features. Data analyses
+included clustering (consensus and multidimensional scaling (MDS)),
+sample ordering via linear graph modeling of expression, pathogen
+quantitation, gene set enrichment analysis (GSEA), and nearest template
+method (NTP) for gene signature prediction.RESULTS: Patients enrolled
+were mostly males (70%), with an average age of 59, all with
+single-nodule HCC, and a median tumor size of 5.3 cm (range 3-16 cm).
+Background liver disease was HBV in 50% of cases without histological
+cirrhosis in 80%. MDS and consensus clustering identified heterogeneity
+in 40% (4/10) of patients as defined by at least one sample not
+clustering with their counterparts. Sample ordering uncovered dominant
+tumor heterogeneity evolution paths, including HBV specific ones. GSEA
+revealed differential enrichment (FDRBACKGROUND: Hepatocellular carcinoma
+(HCC) is known to have histological intra-tumor heterogeneity. Little is
+known about the underlying molecular contributions to this observation,
+or its potential impact on resistance to therapies.AIMS: 1) To evaluate
+intra-tumoral molecular heterogeneity of primary HCCs using
+multi-regional RNA-seq; 2) to correlate molecular alterations with
+histological features at distinct areas.METHODS: We analyzed 55
+fresh-frozen tissues from 10 patients with BCLC-A HCC treated with
+surgical resection. Multi-regional sampling included 38 HCCs and 16
+adjacent non-tumoral tissues (average 5.4 samples per patient). We
+performed H&E staining and RNA-seq on all samples. Each sequenced section
+was evaluated for a panel of 11 histological features. Data analyses
+included clustering (consensus and multidimensional scaling (MDS)),
+sample ordering via linear graph modeling of expression, pathogen
+quantitation, gene set enrichment analysis (GSEA), and nearest template
+method (NTP) for gene signature prediction.RESULTS: Patients enrolled
+were mostly males (70%), with an average age of 59, all with
+single-nodule HCC, and a median tumor size of 5.3 cm (range 3-16 cm).
+Background liver disease was HBV in 50% of cases without histological
+cirrhosis in 80%. MDS and consensus clustering identified heterogeneity
+in 40% (4/10) of patients as defined by at least one sample not
+clustering with their counterparts. Sample ordering uncovered dominant
+tumor heterogeneity evolution paths, including HBV specific ones. GSEA
+revealed differential enrichment (FDR<0.05) of Cancer Hallmark Gene Sets
+in the 4 heterogeneous tumors. Indeed, these 4 tumors showed concordant
+gene set enrichment (FDRBACKGROUND: Hepatocellular carcinoma (HCC) is
+known to have histological intra-tumor heterogeneity. Little is known
+about the underlying molecular contributions to this observation, or its
+potential impact on resistance to therapies.AIMS: 1) To evaluate
+intra-tumoral molecular heterogeneity of primary HCCs using
+multi-regional RNA-seq; 2) to correlate molecular alterations with
+histological features at distinct areas.METHODS: We analyzed 55
+fresh-frozen tissues from 10 patients with BCLC-A HCC treated with
+surgical resection. Multi-regional sampling included 38 HCCs and 16
+adjacent non-tumoral tissues (average 5.4 samples per patient). We
+performed H&E staining and RNA-seq on all samples. Each sequenced section
+was evaluated for a panel of 11 histological features. Data analyses
+included clustering (consensus and multidimensional scaling (MDS)),
+sample ordering via linear graph modeling of expression, pathogen
+quantitation, gene set enrichment analysis (GSEA), and nearest template
+method (NTP) for gene signature prediction.RESULTS: Patients enrolled
+were mostly males (70%), with an average age of 59, all with
+single-nodule HCC, and a median tumor size of 5.3 cm (range 3-16 cm).
+Background liver disease was HBV in 50% of cases without histological
+cirrhosis in 80%. MDS and consensus clustering identified heterogeneity
+in 40% (4/10) of patients as defined by at least one sample not
+clustering with their counterparts. Sample ordering uncovered dominant
+tumor heterogeneity evolution paths, including HBV specific ones. GSEA
+revealed differential enrichment (FDR<0.05) of Cancer Hallmark Gene Sets
+in the 4 heterogeneous tumors. Indeed, these 4 tumors showed concordant
+gene set enrichment (FDR<.05) in all regions only 19% of the time
+compared to 83% in homogenous tumors on average. NTP further confirmed
+heterogeneity in molecular classification predictions in 2/4
+heterogeneous tumors (e.g., Proliferation class). There were no
+significant differences in size or regions sequenced between
+heterogeneous and homogenous tumors. Molecular outliers show distinct
+histological features such as high mitotic rate and poorer
+differentiation.CONCLUSION: Transcriptomic intra-tumor heterogeneity is
+frequent in a subset of surgically resected HCC, and it correlates with
+histological features. Integrative analysis of CNVs, expressed mutations,
+allele specific expression, and gene fusions is ongoing.
+

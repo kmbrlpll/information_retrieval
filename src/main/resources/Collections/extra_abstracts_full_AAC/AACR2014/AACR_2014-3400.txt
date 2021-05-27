@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Integrated functional RNAi screening and structural genomics
+identifies inverse co-modulators of TP53 family and NF-kB transitional
+activation as potential therapeutic targets in head and neck squamous
+cell carcinoma
+
+
+Head and neck squamous cell carcinoma (HNSCC) is the 6th most common
+cancer, with an annual incidence of over 600,000 new cases worldwide, and
+50-60% mortality. Dysregulation of tumor suppressor TP53 in HNSCC occurs
+in over 90% of cases. We and others have observed that TP53 related
+family members p63 and p73 are also deregulated, together preventing
+transcription of growth arrest and apoptosis genes. Conversely, we have
+shown that members of the NF-B/REL family of transcription factors are
+aberrantly activated, and drive expression of genes that promote cell
+proliferation, survival, inflammation, angiogenesis,and resistance in 70%
+of HNSCC cases. We have previously published that the function of
+different TP53 and NF-B family members are inversely modulated within two
+major subsets of HNSCC, suggesting that common molecules and pathways
+coordinate this modulation and may serve as critical targets for therapy.
+To test this hypothesis, we have developed HNSCC stable cell lines that
+report transcriptional activation of TP53 or NF-B individually through a
+lactamase reporter, using antibiotic selection and fluorescence activated
+cell sorting. In collaboration with the RNAi screening facility at NIH,
+kinome and druggable target genes have been screened in our NF-B reporter
+cell lines. Screening was performed by 48 hour knockdown with siRNAs,
+followed by stimulation with TNF-. The results have revealed known and
+novel targets that maintain oncogenic NF-B signaling in HNSCC. These
+targets include genes participating in Toll/IKK such as IRAK1, PI3K/AKT
+signaling such as PIK3CA and PIK3R3, mitotic kinases such as BUB1B and
+AURKA, and calmodulin signaling such as CALM2 and CAMK1G. Candidate hits
+from RNAi screening data were first prioritized by integration with
+expression, mutation, and DNA copy number variation data from The Cancer
+Genome Atlas (TCGA) database. To further investigate the interactive
+signaling regulation between NF-B and TP53 pathways, selected siRNAs that
+can inhibit NF-B activation were cross screened in our TP53 reporter cell
+lines. Transcriptional activation of TP53 was induced with doxorubicin or
+cisplatin following 48 hr RNAi knockdown. We have shown that knockdown of
+targets in the PI3K/AKT pathway can inversely increase TP53 activation
+while inhibiting NF-B activity. Selected targets were further validated
+by demonstration of anti-proliferative activity of single siRNAs in
+multiple HNSCC cell lines. Preclinical studies with PI3K-mTOR small
+molecule inhibitors indicate potential to co-modulate NF-B and TP53 and
+inhibit HNSCC in vitro and in vivo. We predict that inhibition of targets
+that inversely modulate both TP53 and NF-B signaling will be less prone
+to resistance and more effective in treatment of HNSCC.Supported by NIDCD
+intramural projects ZIADC000016, 73 and 74.
+

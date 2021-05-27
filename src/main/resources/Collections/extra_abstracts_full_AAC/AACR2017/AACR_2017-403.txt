@@ -1,0 +1,25 @@
+Meeting: 2017 AACR Annual Meeting
+Title: CRISPR/Cas9 genome-wide sgRNA libraries for loss-of-function and
+gain-of-function genetic screens.
+
+
+Genome-wide loss-of-function screening is a fundamental method to
+identify genes responsible for driving biological processes. Complex
+pooled lentiviral-based libraries expressing large numbers of genetic
+disruptors, such as shRNAs (RNAi) or sgRNAs (CRISPR), make large-scale
+cell screening practical. While RNAi-based approaches have proven to be
+an effective strategy for these screens, recent work has showed
+CRISPR-based technologies offer not only an effective alternative, but
+distinct advantage. We will present unpublished data from genetic screens
+in human cancer cell lines using CRISPR-Knockout (KO), CRISPRi and
+CRISPRa technologies, as well as RNAi. Although loss-of-function shRNA
+and sgRNA pooled library screens are similar in concept, the gene loss of
+function is achieved by different mechanisms (mRNA degradation with RNAi,
+full gene disruption with CRISPR-KO, transcriptional inhibition with
+CRISPRi), so some divergences are expected and indeed observed when
+comparing results obtained using one method versus the other.
+Furthermore, contrary to RNAi, CRISPR technology can be modified to
+activate gene expression (CRISPRa), thus enabling the use of genome-wide
+gain-of-function screening in gene function studies.
+
+

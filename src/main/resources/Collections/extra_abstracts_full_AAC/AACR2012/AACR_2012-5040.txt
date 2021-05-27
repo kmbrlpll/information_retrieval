@@ -1,0 +1,33 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Aberrant DNA methylation of microRNAs in hepatocellular carcinoma
+
+
+microRNAs (miRNAs) are a class of small non-coding RNAs involved in
+post-translational gene silencing by accelerating the degradation of mRNA
+and translational inhibition. miRNAs may regulate more than 60% of
+protein-coding genes translation. Previous studies have found that
+down-regulation of miRNAs is one of the most common features observed in
+solid tumors, including hepatocellular cancer (HCC). In the current
+study, we employed a genome-wide approach to test the hypothesis that
+methylation alteration in miRNA genes is an important mechanism causing
+deregulated miRNA expression in HCC. We analyzed tumor and adjacent
+non-tumor tissues from 62 Taiwanese HCC cases using the
+HumanMethylation27 DNA Analysis BeadChips that include 255 CpG sites
+relevant to 64 miRNA genes. A volcano plot was used to display mean DNA
+methylation differences of all CpG sites. The hierarchical clustering for
+the significant CpG sites was performed to differentiate tumor and
+non-tumor tissues. After Bonferroni adjustment, a total of 54 CpG sites
+(27 relevant genes) significantly differed in methylation levels, with 53
+CpG sites significantly hypermethylated in tumor compared to non-tumor
+tissues. Among the significant CpG sites, 15 sites have more than 2 fold
+tumor/non-tumor differences, 17 sites have a difference between tumor and
+non-tumor tissues of >10%, and 10 sites have both features. PANTHER
+ontology analysis suggested several enriched biological pathways for
+these miRNAs, including Wnt signaling, Ras, oxidative stress response,
+glutamine/glutamate conversion and mannose metabolism. The miRNAs
+methylation profiles were also compared by viral status (HBV/HCV) and
+AFB1 exposures. No statistically significant miRNA was identified.
+Analysis of a panel of candidate miRNAs (miR-196, miR-10a, miR-10b and
+miR-170) is ongoing in the same HCC tissues to evaluate whether the
+aberrant DNA methylation significantly correlates with expression.
+

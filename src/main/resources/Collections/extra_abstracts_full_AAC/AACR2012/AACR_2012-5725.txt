@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Accuracy of off-line bioluminescence imaging to localize targets
+in pre-clinical radiation research
+
+
+Introduction Pre-clinical methods of delivering focal radiation to
+biological targets have made significant advances. Our group has
+developed the Small Animal Radiation Research Platform (SARRP), which is
+capable of using x-ray cone-beam CT (CBCT) to accurately guide delivery
+of conformal radiation. However, CBCT is deficient in localizing small
+orthotopic soft-tissue tumors. Bioluminescent imaging (BLI) is an
+affordable, accessible and sensitive ancillary method of detecting such
+tumors. In this study, we evaluate the setup accuracy of off-line BLI as
+a means to guide focal irradiation of small tumor volumes. Methods
+Athymic nude mice were used in accordance with institutional guidelines.
+Human pancreatic carcinoma cells (MiaPaCa-2) stably expressing luciferase
+were injected into a small glass bulb and sutured intra-abdominally to
+the tail of the pancreas in euthanized mice. Two methods of animal
+repositioning were employed during this process in which the animals were
+either unrestrained (n=6) or restrained (n=5). Two dimensional (2D) BLI
+and 3D bioluminescent tomography (BLT) were acquired of each supine mouse
+carcass. An ink-dot marked the visual centroid of the surface BL image.
+Carcasses were then transported to a SARRP for CBCT localization. Three
+methods of image guidance were applied. Using visual setup, the animal
+was positioned to align the ink-dot with the central axis of the SARRP.
+In the CBCT-aided setup, the pose of each carcass was adjusted to
+recapitulate its pose at the time of BLI. The 2D radial offset of the
+true bulb centroid in CBCT from the central axis of the SARRP was
+measured. In the 3D setup, the 3D contours of CBCT and BLT contours were
+registered and the 3D radial offset between the 2 centroids was
+calculated. Results Using the visual set up, single plane offsets of 2.2
+mm +/- 1.2 mm and 2.5 mm +/- 1.5 mm were calculated between the isocenter
+of the vertical beam and the centroid of the bulb in unrestrained and
+restrained mice, respectively. After fusing the coronal 2D BL image to a
+corresponding coronal CBCT image, the central axis of the vertical beam
+was again aligned to the skin mark. The offset distances in a single
+plane were 2.2 mm +/- 1.2 mm and 2.4 mm +/- 1.1 mm in unrestrained and
+restrained mice, respectively. Finally, the offsets between the center of
+mass of the BL source and the CBCT glass bead after 3D fusion were 1.5 mm
++/- 1 mm and 1.6 mm +/- 0.8 mm in unrestrained and restrained mice,
+respectively. Conclusion Restraining mice between modalities did not
+result in significant reduction of set up uncertainty. Similarly, use of
+2D-BLI did not improve upon the visual set up method. The 3D-BLT fusion
+represents the best that can be achieved with off-line localization. An
+on-board approach with further improvement in BLT using prior information
+of anatomic and optical properties should be investigated to further
+improve localization uncertainty.
+

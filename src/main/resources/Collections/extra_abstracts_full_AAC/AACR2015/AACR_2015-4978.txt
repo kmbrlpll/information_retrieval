@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identification and therapeutic targeting of signaling pathways in
+Ruxolitinib resistant cells
+
+
+Ruxolitinib/Jakafi is a current front line therapy for JAK2-mediated
+myelofibrosis. Like other chemotherapy agents, prolonged use of the drug
+confers resistance. However, the mechanisms that allow for the
+development of Ruxolitinib resistance are poorly understood. Moreover,
+there is a paucity of alternative treatment options for these drug
+resistant patients. To address these timely issues, we first took
+BaF3/JAK2-V617F cells and selected for a Ruxolitinib resistant variant.
+After selection through increasing concentrations of Ruxolitinib, the
+cells grow quite rapidly in 500 nM of the drug; normal IC50 is 125 nM.
+Both the parental and drug resistant cell lines were then subjected to
+NGS of the whole exome. In the parental cells, JAK2-V617F is the driver
+mutation. Pathways downstream of JAK2-V617F include the activation of
+STAT3, STAT5, PI3K/AKT/NFkB and to some extent the SHC1/ERK pathway.
+Analysis of the variant strain revealed that the cells acquired
+Ruxolitinib resistance by tuning down all the key pathways downstream of
+the driver JAK2 mutation. There was low copy number and a consequent
+knockdown of key genes downstream of JAK2 including STAT3, STAT5, PI3K,
+SOS1, ELK1, FOS, and MCL1. Additionally there were other newly acquired
+genomic aberrations including knockdown of dephosphatases DUSP1, PTPRJ,
+PTPRR; low copy number of epigenetics regulating genes such as TET2 and
+KAT5; a knockdown of regulators of beta catenin pathway; and also an
+increase in the copy number of EGFR. Thus, in this model of JAK2 driven
+tumorigenesis, the cell is dynamically reacting to Ruxolitinib by
+decreasing flux through the JAK2 signaling pathway and tuning up other
+pathways that support growth and survival. The signaling network maps for
+both cell lines were then overlaid onto a list of FDA approved
+therapeutics that are used for other indications. Predictive simulation
+modeling of the dys-regulated signaling networks suggested that
+Roflumilast, a PDE4 inhibitor, and Chloroquine, an autophagy inhibitor,
+would be highly efficacious in reducing cell viability. When the parental
+cells were treated individually with Chloroquine (0-40 uM) or Roflumilast
+(0-40 uM), cell viability was reduced dose-dependently; Chloroquine IC50
+= 15 uM and Roflumilast IC50 = 25 uM. Furthermore, when used in
+combination, the effect of the two agents was synergistic. These drugs
+also showed efficacy in the Ruxolitinib resistant cell line, but at
+higher doses. Specifically, the IC50 for Chloroquine doubled to 30 uM in
+the drug resistant strain while 20 uM Roflumilast only reduced cell
+viability by 25%. Overall, we have created a cell model for Ruxolitinib
+resistance and identified signaling networks that are dys-regulated in
+both the drug sensitive and drug resistant cells. Furthermore, using
+predictive simulation technology, we have begun to identify alternative
+drug therapies that effectively reduce the viability of both Ruxolitinib
+sensitive and Ruxolitinib resistant cells.
+

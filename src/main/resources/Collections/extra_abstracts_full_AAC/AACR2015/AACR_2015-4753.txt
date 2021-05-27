@@ -1,0 +1,35 @@
+Meeting: 2015 AACR Annual Meeting
+Title: An effective detection method for the EGFR single mutation T790M
+using BNA-NC clamping real-time PCR
+
+
+Mutations on epidermal growth factor receptor (EGFR) cause a variety of
+cancers including breast and lung cancers. The single mutation T790M on
+tyrosine kinase domain of EGFR signifies the response to the popular
+cancer drug gefitinib, which leads to the development of resistance to
+gefitinib. Detecting the mutation thus guide effective therapeutical
+options for patients who are in need of cancer drug treatments. We sought
+to develop a rapid, reliable detection method for the T790M mutation
+using bridged nucleic acids (BNA), which has been known to enhance the
+hybridization affinity of oligonucleotides that contain BNA bases.
+Oligonucleotides containing BNA bases designed to block PCR reaction
+against wild-type genes, called BNA-clamp, were used to discriminate the
+presence of mutant genes mixed with a large number of wild-type genes.
+Real-time PCR in conjugation with BNA-clamping allows us to view the
+different levels of PCR amplifications in the degree of mixture of
+wild-type and mutant genes. In an effort to explore this possibility,
+13mer long clamps were prepared with various numbers of BNA bases. The
+clamps containing 9 BNA bases appear to be most effective in blocking the
+PCR reactions at an optimized concentration to distinguish the mutant
+from the wild-type genes. In addition to PCR results, the difference in
+the Tm values for the 7 BNA bases in the 13mer was the largest among
+differently designed clamps, which is consistent with the results
+obtained by real-time PCR. We also examined the degree of sensitivity
+using the clamp containing 9 BNA bases, revealing that the clamp has the
+ability to determine the level of mutation as low as 1% mixture of the
+mutant and wild-type gene. The effectiveness of blocking the PCR reaction
+with only 13mers containing BNA bases allowed us to detect a single
+mutation, and thus, this BNA-clamping real time PCR technology may offer
+a promising, new avenue to detect clinically important mutations in the
+future.
+

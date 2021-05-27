@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Adoptively transferred CMV-specific T-cells recognizing dominant
+and sub-dominant pp65 epitopes demonstrate improved in vivo inhibition of
+tumor xenografts in combination with PD-1 inhibition.
+
+
+Adoptive transfer of transplant donor or third party donor derived
+CMV-specific T cells (CMV-CTL) can effectively treat CMV infections in
+HSCT recipients. In clinical trials, infusion of partially matched third
+party CMV-CTLs, has demonstrated high response rates against persistent
+CMV infection. T-cells (TC) generated in vitro or directly selected in
+vivo demonstrate a striking preponderance of specificity for 1-2
+immunodominant (ID) epitopes presented by specific HLA alleles. ID
+epitopes elicit higher TC functional activity in vivo, compared to
+sub-dominant (SD) epitopes. The relative clinical efficacy of TC directed
+against ID versus SD epitopes in vivo remains undefined. Agents
+augmenting activity of TC responsive to SD epitopes are unexplored. When
+these alleles are co-inherited in humans, epitopes of CMVpp65 presented
+by HLA A*02:01 are ID over HLA A*24:02 presented epitopes. We describe an
+in vivo model to assess efficacy of CMV-CTLs using colon carcinoma cells
+(coca)transduced to express CMVpp65, as a surrogate system. HLA A*02:01 +
+and A*24:02 + human coca cells were transduced to express CMVpp65 and
+GFP-firefly luciferase (cocapp65). CMV-CTLs responding to either the
+A*0201 presented ID NLV epitope (A2-NLV) or the A*24:02 presented SD QYD
+epitope (A24-QYD) were generated from donors co-inheriting HLA A*02:01
+and A*24:02 by in vitro stimulation using NIH 3T3 artificial antigen
+presenting cells, expressing HLA A*02:01 or A*24:02, B7.1, LFA-3, and
+ICAM1. Tumor cells (105 cells) were injected subcutaneously into groups
+of 5-6 NSG mice on the R flank, and 105 cells from a pp65 expressing
+melanoma cell line (melpp65), lacking expression of HLA A*02:01 or
+A*24:02 were injected on the L shoulder as control. 2 Groups each
+received 106 of tetramer+ A2-NLV or A24-QYD CMV-CTLs i.v per mouse; one
+of each CMV-CTL treated group also received 2 i.v doses ( 200µg /dose)
+of anti-PD1 antibody (Nivolumab-BMS) at day 2 and 7 post CTL infusion.
+Control groups received IL-2, with or without anti-PD1, or HLA mismatched
+CMV-CTLs. Tumor growth was monitored by bioluminescent imaging. CMV-CTLs
+responsive to SD A24-QYD epitope induced significant cocapp65 growth
+suppression compared to controls, but did not eradicate tumors in any
+animal. Combined treatment of A24-QYD CMV-CTLs with anti-PD-1 Ab induced
+complete cocapp65 eradication in 2 of 5 mice, with minute residual tumors
+in 3 mice. Treatment with ID A2-NLV CMV-CTLs induced complete cocapp65
+eradication in 2 of 5 mice, and smaller residual tumors compared to SD
+A24-QYD CTL treatment. Combined treatment with anti-PD-1 and A2-NLV
+CMV-CTLs led to complete cocapp65 eradication in 3 of 5 mice, with minute
+tumors in 2 mice. Taken together, these data provide evidence that
+blocking the PD-1/PD-L1 interaction may significantly augment the
+antiviral activity of both ID and SD CMV-CTLs.
+
+

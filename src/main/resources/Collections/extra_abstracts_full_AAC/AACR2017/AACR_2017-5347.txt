@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Molecular barcoding improves confidence in variant calling with
+low input FFPE tissue samples.
+
+
+FFPE tissue archiving is the most widely used method for clinical sample
+preservation, and provides a valuable source of diverse genetic
+information for cancer biomarker discovery. NGS library preparation is
+often challenging, however, as FFPE-derived DNAs exhibit varying degrees
+of fragmentation and chemical modification depending on how tissues were
+handled and processed. Moreover, the presence of low allele frequency
+variants because of tumor heterogeneity, sample degradation, and high
+rate of formalin-induced mutations make SNV calling a challenging task.
+To improve variant calling and consistency across FFPE samples of varying
+quality, we developed a complete workflow solution that features DNA
+pre-qualification, molecular barcodes for uniquely tagging each DNA
+fragment, pre-capture indexing for tracking up to 192 samples,
+accelerated hybrid capture, and one-tube library prep, to enable the
+preparation of complex enriched libraries in less than 8 hours from
+10-200ng of FFPE-derived DNA. We incorporate molecular barcodes at the
+ligation step to enable de-duplication and generation of consensus reads
+using SureCall software, which significantly improves confidence of
+variant calling (99% of calls >150 variant call quality threshold) at low
+allelic frequencies.
+
+Using ClearSeq Comprehensive Cancer Panel which targets 151 genes
+frequently mutated in solid and hematological cancers, we routinely
+obtain high quality libraries (with 1000X sequencing depth and after
+deduplication) with >99% of the targeted region covered at 20X for high
+quality gDNA (FF tissue), and greater than 95% and 90% covered at 20X for
+medium and low quality FFPE samples, respectively. Using multiplex
+reference samples, we demonstrate detection of low frequency variants (at
+1-5%) including SNVs, small indels, and RET and ROS1 translocations. As
+we will further show, FFPE integrity scores determined by qPCR and
+TapeStation (ddCq and DIN) enable researchers to choose the appropriate
+quantification method, PCR cycling, and sequencing depth for optimal
+sequencing coverage.
+
+

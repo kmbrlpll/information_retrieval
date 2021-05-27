@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: In-vivo non-invasive mitochondrial evaluation of 3D human skin
+
+
+Alterations in metabolism are considered one of the hallmarks of cancer
+and have been associated with changes in mitochondrial organization. The
+latter is typically studied in two-dimensional cell cultures, using
+exogenous stains, and qualitative or at best semi-quantitative
+approaches. We have recently developed a method that relies on the
+automated analysis of high resolution intrinsic NADH two-photon excited
+fluorescence (TPEF) images of three-dimensional specimens to assess
+quantitatively mitochondrial clustering levels. The purpose of this study
+was to assess whether this approach could be extended to the analysis of
+endogenous TPEF images acquired in vivo from human subjects.In-vivo
+depth-resolved TPEF and SHG images were acquired in vivo using a MPTflex
+clinical tomograph (Jenlab) at 790nm excitation. The TPEF signal was
+detected over 410nm-650nm, whereas SHG signal was detected in the
+385nm-405nm range. In this proof of principle study a patient with a
+basal cell carcinoma lesion and a healthy volunteer were imaged. All in
+vivo measurements were conducted according to an approved institutional
+protocol. Image processing was performed in ImJ and Matlab. A series of
+analytical steps were implemented to exclude from the analysis the nuclei
+and interstitial space and also the collagen and melanin-associated
+fluorescence. After the cytoplasmic isolation, we proceeded with an
+automated, thresholding and digital object cloning method we have
+previously described. The power spectral density of the corresponding
+two-dimensional fourier transform of each processed image was fit to a
+simple inverse power law decay expression to extract a parameter
+indicative of the levels of mitochondrial clustering, . Increased in our
+study represents more clustered mitochondrial formations.The detailed
+depth-dependent analysis demonstrates distinct patterns of the clustering
+for the healthy and diseased tissue examined. An increase in
+mitochondrial clustering from the superficial to the basal layer is
+detected for the healthy sample, an outcome in accordance to previously
+results observed in fresh biopsies from healthy cervical epithelia. Since
+both the cervical and the skin epithelium are of similar histological
+type our finding is not startling but rather encouraging. The
+mitochondrial clustering values of the BCC lesion on the other hand, are
+depth-invariant, which implies an undifferentiated cellular phenotype,
+finding consistent with both the cancerous nature of the lesion and
+previously published in vitro and ex-vivo studies.In conclusion, we
+demonstrate that characterization of mitochondrial organization is
+feasible within three dimensional tissues of human subjects. This
+approach offers the potential to observe dynamically subtle changes in
+mitochondrial dynamics that occur during cancer development or in
+response to treatment, which would enrich our understanding of tissue
+metabolism and could further enhance current diagnostic approaches.
+

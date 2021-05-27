@@ -1,0 +1,63 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Label-free collection of prostate circulating tumor cells using
+microfluidic Vortex technology
+
+
+BACKGROUNDProstate cancer is among the most common cancers in men
+worldwide. Better markers than Prostate Specific Antigen (PSA) are still
+needed for the detection and monitoring of disease progression.
+Circulating Tumor Cells (CTCs) are shed into the blood stream from
+primary tumor(s) and may play key roles in the metastatic process. Liquid
+biopsies have emerged as a promising approach, with a correlation between
+the CTC numbers and patient prognosis for prostate cancer. CTCs have also
+been shown to enable early detection of recurrence, and could be
+potential candidates for guiding cancer therapy in real-time [1]. Current
+CTC enrichment technologies, including immuno-affinity and size-based
+filtration methods, have focused on high capture efficiency with
+sometimes tedious sample preparation and overall low purity.METHODHere,
+we describe the use of the microfluidic Vortex Chip [2] for rapid and
+size-based isolation of CTCs from the blood of 23 patients with advanced
+prostate cancer, and 10 healthy donors; 5 being BACKGROUNDProstate cancer
+is among the most common cancers in men worldwide. Better markers than
+Prostate Specific Antigen (PSA) are still needed for the detection and
+monitoring of disease progression. Circulating Tumor Cells (CTCs) are
+shed into the blood stream from primary tumor(s) and may play key roles
+in the metastatic process. Liquid biopsies have emerged as a promising
+approach, with a correlation between the CTC numbers and patient
+prognosis for prostate cancer. CTCs have also been shown to enable early
+detection of recurrence, and could be potential candidates for guiding
+cancer therapy in real-time [1]. Current CTC enrichment technologies,
+including immuno-affinity and size-based filtration methods, have focused
+on high capture efficiency with sometimes tedious sample preparation and
+overall low purity.METHODHere, we describe the use of the microfluidic
+Vortex Chip [2] for rapid and size-based isolation of CTCs from the blood
+of 23 patients with advanced prostate cancer, and 10 healthy donors; 5
+being <30 years old, 5 age-matched with the patient cohort. Requiring no
+upstream sample preparation, blood was diluted 10-fold and processed
+through the highly parallelized Vortex Chip at 8 mL/min (800 L/min whole
+blood). Larger cells (predominantly CTCs) were captured in microscale
+vortices produced on the Chip, released into a small volume and collected
+off-chip for CK, PSA, CD45 and DAPI immunostaining and
+enumeration.RESULTSPreliminary work with LNCaP prostate cancer cells
+spiked in blood showed a 29% capture efficiency and 50% purity. In vitro
+cell assays confirmed that cells enriched with Vortex chip were alive and
+proliferating for up to 7 days. For 23 patient samples, CTCs were
+captured (0.5 - 20 CTCs/mL) with high purity (3.6 - 72.3%), in less than
+1H, without prior sample preparation. 11.5% of the cells collected were
+CK and PSA-negative, but some were identified as undergoing
+epithelial-mesenchymal transition (EMT) following staining for vimentin
+and N-cadherin. Few atypical cells were also isolated from age-matched
+healthy donors (0.7 - 2.8 CTCs/mL), while none was detected in younger
+healthy donors. Using a threshold calculated from the age-matched healthy
+donors (3.31 CTCs/mL = mean + 2CV), 70% of the patients were
+characterized as positive for CTCs. No correlation was found between CTC
+counts and elevated PSA level.CONCLUSIONThese results demonstrate the
+ability to rapidly collect pure populations of CTCs in metastatic
+prostate cancer, independent of surface marker expression, without prior
+sample preparation. Future studies will use chips with optimized capture
+performance, sample recycling, and will include CTC molecular analysis by
+targeted panel sequencing. A larger cohort of healthy donors is also
+being examined to determine a statistically-robust CTC baseline for this
+size-based capture approach.[1] Scher Hi, et al., J. Clin. Oncol. 2015[2]
+Sollier E, et al., Lab Chip 2014
+

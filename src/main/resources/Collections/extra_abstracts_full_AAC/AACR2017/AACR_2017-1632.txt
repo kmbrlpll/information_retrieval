@@ -1,0 +1,73 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification and analysis of EGLN3 as tumor-associated peptide
+in ccRCC.
+
+
+Introduction:
+
+Kidney cancer is the 12th most common cancer world-wide with 338.000
+newly diagnosed cases in 2012, according to the World Cancer Research
+Fund International. With around 70-80%, clear cell renal cell carcinomas
+(ccRCC) make up the vast majority of kidney cancers. Advanced and
+metastatic ccRCCs are marked by poor survival rates despite the
+availability of targeted therapies. Currently several immunotherapeutic
+approaches, including checkpoint-blocking antibodies and dendritic cell
+vaccines are undergoing clinical investigations. In this study we
+identified tumor-associated peptides which could be used in cancer
+vaccines to improve treatment of patients with advanced ccRCC.
+
+Methods:
+
+To identify suitable peptides for cancer vaccines we set up a tissue
+collection of paired tumors and normal kidney tissues from 60 ccRCC
+patients. From these tissues, HLA molecules were isolated by affinity
+chromatography and bound peptides analyzed by mass spectrometry. HLA
+ligand profiles of tissues excised from various organ sites of non-ccRCC
+patients were used to complement the data. Based on these analyses, Egl
+nine homolog 3 (EGLN3) was selected as a candidate for peptide
+vaccination and further investigated in our own data cohort comprising
+the 60 ccRCC patients. Therefore, mRNA and protein expression, as well as
+DNA methylation data were collected and correlated with HLA ligandomics
+and clinical data. In addition, we integrated RNA-Seq, DNA methylation,
+somatic mutation and clinical data from a ccRCC patient cohort from The
+Cancer Genome Atlas in our analyses. Finally, EGLN3 function was analyzed
+in 2D and 3D kidney carcinoma cell culture systems.
+
+Results:
+
+16 different peptides from EGLN3 were detected in 32 of the 60 analyzed
+tumor samples, with the most frequent peptide found in tumors of 10
+different patients. Only two of the peptides were also detected in normal
+kidney or other non-ccRCC tissues, rendering EGLN3 peptides promising
+candidates to be used in ccRCC-directed vaccines. Most of our patients
+were HLA A*02:01 positive, however using NetMHCpan
+(http://www.cbs.dtu.dk/services/NetMHCpan/) only one of the peptides
+identified by HLA ligandomics was also predicted to be a strong binder
+for that particular HLA molecule. Expression of EGLN3 mRNA was not
+different in patients with and without HLA-presented peptides. Generally,
+EGLN3 mRNA expression was strongly induced in ccRCC tumors compared to
+normal kidney (p16 different peptides from EGLN3 were detected in 32 of
+the 60 analyzed tumor samples, with the most frequent peptide found in
+tumors of 10 different patients. Only two of the peptides were also
+detected in normal kidney or other non-ccRCC tissues, rendering EGLN3
+peptides promising candidates to be used in ccRCC-directed vaccines. Most
+of our patients were HLA A*02:01 positive, however using NetMHCpan
+(http://www.cbs.dtu.dk/services/NetMHCpan/) only one of the peptides
+identified by HLA ligandomics was also predicted to be a strong binder
+for that particular HLA molecule. Expression of EGLN3 mRNA was not
+different in patients with and without HLA-presented peptides. Generally,
+EGLN3 mRNA expression was strongly induced in ccRCC tumors compared to
+normal kidney (p<10-6), whereas protein levels remained mainly unchanged
+in most patients. Functional investigations in different RCC cell culture
+models indicated involvement of EGLN3 in regulation of apoptosis and cell
+cycle progression.
+
+Conclusion:
+
+Advanced ccRCC is marked by poor survival rates due to ineffective
+therapeutic options. Peptides from EGLN3, as well as other
+ccRCC-exclusive peptides could represent activators of the immune system
+to specifically fight ccRCC tumors. The function and targetability of
+EGLN3 remains to be investigated.
+
+

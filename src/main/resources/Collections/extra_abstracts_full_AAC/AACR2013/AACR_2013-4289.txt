@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: 3-Dimensional growth reveals KRAS dependency.
+
+
+Advances in the development of clinically effective therapeutic
+strategies for targeting KRAS mutant tumors have been hampered by the
+lack of suitable in vitro tools and the inability to correlate findings
+from current in vitro KRAS dependency models with clinical results.
+Studies to evaluate targeted agents in KRAS dependent and independent
+cell systems have traditionally utilized panels of cell lines grown in
+2D, which differ not only in KRAS status but also exhibit multiple
+genetic differences. An additional confounding element is that
+traditional 2D assays do not accurately mimic tumor architecture or
+growth. Our study focused on addressing two essential questions: (1) Can
+the consequence of a KRAS mutation be studied without the influence of
+other genetic factors? (2) Is there a requirement for more in vivo-like
+conditions to reveal KRAS dependency in vitro? To overcome confounding
+genetic factors, Horizon Discovery's proprietary gene editing technology
+GENESIS was used to knock-out an endogenous KRAS G13D mutation from DLD-1
+colon carcinoma cells in order to create a pair of isogenic cell lines
+that differ only in terms of their KRAS status. Extensive profiling of
+the KRAS mutant and wild type cells under a range of growth formats was
+then performed to identify conditions which reveal dependency on KRAS. In
+standard 2D formats, cell growth was independent of KRAS with both cell
+lines demonstrating identical growth rates. However, knock-out of the
+KRAS mutation severely compromised cell growth under 3D conditions which
+more closely mimic true tumor biology. Interestingly, growth of the wild
+type cells was compromised when grown in two distinct 3D formats; soft
+agar or grown without a supporting matrix under low anchorage conditions.
+These results demonstrate the essential nature of 3D conditions for
+revealing KRAS dependency. In order to profile anti-cancer compounds
+using a truly KRAS dependent system, cellular responses to a series of
+targeted agents were compared in DLD-1 cells in 2D and 3D assays.
+Multiple MEK inhibitors demonstrated clear sensitivity under KRAS
+dependent conditions, with increased potency seen in the 3D assay
+compared to the 2D assay. Targeted agents unrelated to KRAS such as JAK
+and SYK inhibitors and non-targeted agents such as Paclitaxel exhibited
+similar potency in both 2D and 3D assays, further validating this KRAS
+dependency model. The increasing evidence that 3D conditions are critical
+for revealing KRAS dependency suggests that previous studies performed
+under standard 2D conditions may have underestimated levels of
+dependency. To address this, a study to systematically evaluate KRAS
+dependency across a panel of more than thirty KRAS mutant and wild type
+cancer cell lines under 2D and 3D conditions is now underway. Greater
+knowledge surrounding the biology and an understanding of how best to
+model KRAS dependency will be key to advancing effective KRAS pathway
+targeted agents into the clinic.
+

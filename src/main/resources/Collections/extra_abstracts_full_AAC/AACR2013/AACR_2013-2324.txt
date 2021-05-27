@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: RhoGTPase-based regulation of cell motility by Plk4.
+
+
+Background. Polo-like kinase 4 (Plk4) is a serine-threonine kinase that
+localizes to centrioles and is essential for centriole duplication. Plk4
+expression is increased in colorectal, pancreas and breast cancers, and
+predicts resistance to therapy and poor survival. While centriolar
+overduplication and multipolar spindle formation is one mechanism by
+which dysregulated Plk4 can facilitate oncogenesis, our laboratory has
+found that Plk4 promotes migration and invasion of fibroblasts and of
+cancer cells by mechanisms currently under investigation. Haploid levels
+of Plk4 are associated with an increased incidence of improper cleavage
+furrow positioning during mitotic division, and we previously showed that
+RhoA is not adequately activated to effect proper actomyosin ring
+placement and contraction in Plk4 heterozygous murine embryonic
+fibroblasts (MEFs). We showed that the effect of Plk4 on RhoA activation
+is mediated by phosphorylation of the GEF Ect2 by Plk4 (Rosario et al.,
+PNAS 2010). The small Rho GTPases RhoA, Rac1 and Cdc42 are known to
+regulate cell motility. We hypothesize that Plk4 promotes cancer cell
+motility by altering the activation of one or more of these
+RhoGTPases.Methods and Results: Pulldown experiments have shown a
+two-fold reduction in activated Rac1 in Plk4+/ as compared to Plk4+/+
+MEFs. Depletion of Plk4 from wildtype MEFs using siPlk4 (confirmed by
+real time RT-PCR) reduced levels of activated Rac1, as compared to
+siLuciferase controls. Cdc42 activation was unaffected by Plk4. To
+determine the mechanism of the effect of Plk4 on Rho GTPase activation we
+investigated the upstream regulators that may be affected by Plk4, aside
+from Ect2. We scanned a library of 149 GEFs and GAPs cloned into the
+Creator system and identified 8 potential interactors (all GEFs) that
+contain the Plk4 consensus phosphorylation motif. We are evaluating these
+8 candidates for physical interaction with Plk4 by co-transfection and
+co-immunoprecipitation from HeLa cells. By this method, we find that Plk4
+physically interacts with the RhoA GEF ARHGEF1. To establish functional
+validation of this interaction, we are examining the phenotype of
+individually- and co- transfected HeLa cells. Transient transfection with
+Plk4 for 24h results in an arborized phenotype, while transfection with
+ARHGEF1 results in a rounded morphology; co-transfected cells display an
+intermediate phenotype. Immunofluorescence imaging shows co-localization
+of Flag-Plk4 and GFP-ARHGEF1 in lamellipodia, in keeping with a potential
+functional interaction. Whether the effect of ARHGEF1 on cell morphology
+is mediated through Rac1, RhoA, or both requires further investigation,
+as does the precise role of Plk4.Conclusions: Plk4 regulates the
+activation of Rac1 GTPase, and we demonstrate a physical and functional
+interaction of Plk4 with the Rac1 GEF ARHGEF1. Regulation of cancer cell
+motility via this pathway may contribute to promotion of invasion and
+metastasis by Plk4.
+

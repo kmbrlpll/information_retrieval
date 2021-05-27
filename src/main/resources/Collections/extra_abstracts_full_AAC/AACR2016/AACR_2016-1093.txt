@@ -1,0 +1,28 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The melanoma-enriched microRNA miR-4731 regulates genes involved
+in cell cycle and the melanosome
+
+
+We previously identified miR-4731-5p (miR-4731) as a melanoma-enriched
+microRNA following comparison of melanoma with other cell lines from
+solid malignancies. Additionally, miR-4731 has been found in serum from
+melanoma patients and expressed less abundantly in metastatic melanomas
+from stage IV patients relative to stage III patients. As miR-4731 has no
+known function, we used biotin-labelled miRNA duplex pull-down to
+identify binding targets of miR-4731 in three melanoma cell lines. Using
+the miRanda miRNA binding algorithm, all pulled-down transcripts common
+to the three cell lines (n = 1092) were predicted to be targets of
+miR-4731 and gene-set enrichment analysis of these (via STRING v9.1)
+highlighted significantly associated genes related to the cell cycle and
+melanosome pathways. Following miR-4731 overexpression, a selection (n =
+81) of pull-down transcripts underwent validation using a custom qRT-PCR
+array. These data revealed that miR-4731 regulates multiple genes
+associated with the cell cycle (e.g. CCNA2, ORC5L, and PCNA) and
+melanosome (e.g. RAB7A, CTSD, and GNA13). Furthermore, members of the
+synovial sarcoma X breakpoint family (SSX) (melanoma growth promoters)
+were also down-regulated (e.g. SSX2, SSX4, and SSX4B) as result of
+miR-4731 overexpression. We therefore speculate that loss of miR-4731
+expression supports melanoma growth by, in part; reducing its regulatory
+control of SSX expression levels together with members of the cell cycle
+pathway, which warrants further investigation.
+

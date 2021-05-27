@@ -1,0 +1,39 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Cross validation of NGS methylated targets using droplet digital
+PCR (ddPCR)
+
+
+DNA methylation is one of the most studied epigenetic modifications. DNA
+methylation plays an important role in a number of physiological
+processes as well as common diseases such as cancer and neurodegenerative
+disorders. In mammals, DNA methylation occurs at the C-5 position of
+cytosine in CpG dinucleotide sequences, which are mainly concentrated in
+regions known as CpG islands. Methylation in CpG islands within gene
+promoters usually leads to gene silencing.Recent data have shown the
+correlation of methylation and disease status. However, there are
+significant limitations in both biology and technology. Biologically,
+methylation status is highly heterogeneous in nature. In normal controls
+there is never a complete lack of methylation marks, and conversely,
+never a completely saturated methylation signature. In addition
+methylation sites of interest are often located in CpG islands, regions
+where multiple methylation sites occur side by side, making assay design
+and discrimination challenging. Technological hurdles add significant
+variability as well. The typical method for determining methylation is
+bisulfite conversion, which uses harsh chemicals to convert cytosines to
+uracil. When a cytosine is methylated, it is largely, though not
+completely, protected from the conversion process. However, bisulfite
+conversion also causes a great deal of DNA damage, causing the strands to
+separate and fragment. In most cases of research, the DNAs that
+researchers want to examine are from FFPE or cfDNA samples, samples which
+are already both limited and damaged.Because of these challenges, there
+is an unmet need for a sensitive yet robust method to analyze DNA
+methylation in clinical samples in a rapid, inexpensive, and high
+throughput manner.Herein we showcase the use of ddPCR for detection of
+DNA methylation in bisulfite converted gDNA samples. First we demonstrate
+the superior sensitivity, linearity and robustness of ddPCR methylation
+detection in the SNRPN promoter, a model system for an imprinted gene
+involved in neurological disorders. Secondly we show the detection of DNA
+methylation in the vimentin promoter, which is known to be methylated in
+cancer (Li et al. Nat. Biotech. 2009). We will demonstrate reproducible
+detection in replicate bisulfite converted samples and sensitivity.
+

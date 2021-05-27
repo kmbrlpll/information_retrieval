@@ -1,0 +1,34 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Acquired therapeutic resistance is mediated by deregulation of
+multiple pathways.
+
+
+The HER2-directed antibody, trastuzumab combined with chemotherapy, has
+markedly improved outcome of patients with HER2-amplified breast cancer,
+yet both de novo and acquired resistance occur in a substantial subset of
+patients. To study the molecular underpinnings of acquired resistance, we
+have developed a panel of 30 unique HER2+ cell lines that have been
+cultured to become resistant to lapatinib, trastuzumab and the
+combination treatment. Each of these models underwent next-generation
+sequencing to elucidate mechanisms of resistance to HER2 therapies. We
+hypothesized that resistance may be mediated by modulation of particular
+pathways - rather than by individual genes. With this idea in mind, we
+performed a PARADIGM pathway analysis that integrates information from
+multiple genomic data types to calculate pathway activity scores. The
+PARADIGM SuperPathways represent 1321 cell signaling pathways curated
+from sources such as KEGG, BioCarta, and Reactome. We populated the
+networks with the copy number (ExomeSeq) and expression (RNAseq) datasets
+that had been normalized to identify contrasts between parental and
+resistant lines. For each pathway, we computed a Pathway Activity Score
+as the sum of the absolute value of each node in the pathway, normalized
+by the total number of pathway nodes. Nearly 30% of the curated pathways
+(361/1321) are strongly deregulated in at least one of the network
+models, whereas a much smaller subset (3%) were strongly deregulated
+across multiple resistance cell line models. Frequently deregulated
+pathways include hemoglobin chaperone, ATM mediated phosphorylation of
+repair proteins, the HIF2alpha transcription factor network and the PLK
+signaling events in the cell cycle. All together, these findings indicate
+that resistance is mediated through many signaling mechanisms.
+Furthermore, the acquired resistance-related aberrations suggest possible
+second-line treatment strategies that may be effective.
+

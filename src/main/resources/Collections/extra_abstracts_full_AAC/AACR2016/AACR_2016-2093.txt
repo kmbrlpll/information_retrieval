@@ -1,0 +1,34 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Imaging single cell drug target engagement in vivo reveals
+heterogeneous fractional occupancy
+
+
+To produce effective therapeutic treatment, drugs need to reach and
+engage the cognate target in the cells of interest. Incomplete target
+occupancy may lead to cell survival and disease progression. Therefore,
+for maximum efficacy, it is critical to achieve high target occupancy
+within each cell of a tumor. However, the tumor microenvironment likely
+creates a dynamic, heterogenous distribution of drug that limits target
+occupancy in some cells. Unfortunately, we lack the tools to determine
+target engagement at the cellular level, which prevents studies on
+heterogeneous target occupancy and contributes to the poor understanding
+of drug failure mechanisms. Here, we developed an approach to measure
+target engagement of small molecule inhibitors within single cells in
+mouse xenograft in vivo tumor models. Our method uses fluorescently
+labeled, target specific companion imaging drugs, fluorescence
+polarization imaging, and intravital microscopy, to measure target
+occupancy of unlabeled, clinical drugs in single cells. We calculated the
+equivalent in vitro exposure of ibrutinib, a covalent BTK inhibitor, in
+vivo, but found increased cellular heterogeneity, highlighting
+differences between in vivo activity and in vitro measurements.
+Additionally, following systemic delivery of the reversible PARP
+inhibitor olaparib, we found cells with substantial uninhibited target
+when average measurements indicated all target was occupied, illustrating
+drug activity heterogeneity that may lead to tumor survival. These
+results demonstrate that our technique, which is the first to measure
+unlabeled drug engagement with target in single cells, can quantitate
+cellular fractional occupancy heterogeneity during drug treatment. We
+expect this approach to serve as a valuable tool when measuring cellular
+pharmacology in vivo, providing insight on dosing, drug activity in the
+tumor and sources of heterogeneous drug distribution.
+

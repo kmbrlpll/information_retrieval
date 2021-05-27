@@ -1,0 +1,32 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Harmonization of next generation sequencing data within consortia
+for gene discovery in familial breast cancer
+
+
+Massively parallel next generation sequencing data (NGS) has proved to be
+useful in identification of rare Mendelian disorders. Efforts are
+on-going to use NGS for discovery of novel rare variants in common
+disease etiology. Distinguishing rare private mutations from causal
+variants remains a major challenge in complex disorders. With decreasing
+cost, investigators are generating NGS data for common cancers. However,
+power and other considerations suggest that a consortia approach of
+pooling data is more likely to succeed where individual efforts fail.
+Combining data within such consortia brings its own level of challenges.
+We enumerate these challenges and suggest recommendations based on our
+experience of combining and harmonizing NGS data on 358 breast cancer
+samples from four centers; (City of Hope n=8, Mayo Clinic n=221, MSKCC
+n=96 and University of Pennsylvania n=33). Major concerns were ability of
+individual datasets to discover known and novel variations, depth of
+coverage across the exome, and quality of variants. Using pre- and
+post-processed data, we demonstrate an increased power for detecting
+variants when using a joint-calling method, quality control (QC) and
+quality assurance pre- and post-merge, as well as the advantages of
+combined annotations and filtering procedures. To generate a filtered
+list of high confident calls, we subset the data on Depth per Allele
+(DP), Genotyping Quality (GQ), Allele balance, Phred likelihood score
+(PL) as well as using frequency filters on the alternate allele both
+within the data and comparing against convenience control summaries. We
+describe general principles and QC measures to be adopted when NGS data
+is used from diverse sources, specifically applicable to large
+consortia.Note: This abstract was not presented at the meeting.
+

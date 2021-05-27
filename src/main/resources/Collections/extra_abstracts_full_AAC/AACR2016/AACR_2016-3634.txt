@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Simultaneous isolation of genomic DNA and total RNA using the
+Qiagen AllPrep method
+
+
+Introduction: The purification of genomic DNA (gDNA) and total RNA (RNA)
+from various specimen types using a single sample is currently in high
+demand in genomic settings due to the limitation of available biological
+material. There is an increased need for simultaneous isolation of
+nucleic acids in cancer genetics for use in downstream applications such
+as genotyping, microarrays or next generation sequencing. The Qiagen
+AllPrep technique provides a comprehensive solution for extraction of
+gDNA and RNA from a single specimen. In this study, we tested the AllPrep
+kits for concurrent isolation of gDNA and RNA from five different sample
+types.Materials and Methods: Genomic DNA and RNA were extracted
+simultaneously according to Qiagen AllPrep manufacturer's instructions
+from five specimen types: bone marrow mononuclear cells (BMMC),
+cryopreserved cultured cell lines, whole blood, fresh frozen and FFPE
+samples. Quantity and quality of both nucleic acids were assessed by the
+NanoDrop 2000 and Qubit fluorometer 2.0. Purified gDNA from BMMC, fresh
+frozen, whole blood and FFPE samples was further evaluated by library
+preparation, targeted hybridization capture and sequencing on an Illumina
+NextSeq500. FastQ files were submitted to a Clinical Genome Analytics
+(CGA) pipeline for quality metrics analysis.Results: The AllPrep
+technique resulted in effective isolation of high quality gDNA and RNA
+(Table1). All set wet lab and sequencing QC metrics were met for each
+sample type.Conclusion: We have successfully verified the AllPrep method
+can be used for simultaneous extraction of both gDNA and RNA using the
+same input material without compromising the yield or purity of both
+final products. This simple procedure based on spin column technology not
+only gave the advantage of generating high quality results using limited
+specimen resources, but also decreased the hands on time by 3.5 hours and
+cost when compared to extraction done with two separate kits.
+Represents average QC results and SD for each specimen type. **n = 8 for
+sequencing metrics
+

@@ -1,0 +1,43 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Detecting patient mutomes by integrating DNA and RNA sequencing
+
+
+Personalized cancer medicine, the matching of therapies to a given
+patient's somatic alterations, depends on highly accurate and complete
+identification of patients somatic alterations, or their mutome. Advances
+in sequencing technologies (exome sequencing, RNAseq, and whole genome
+sequencing) have provided a means to examine large portions of the
+genetic content of patients cancers. Computational tools have arisen that
+make somatic mutation predictions utilizing particular sequencing assays;
+however, each sequencing assay has limitations and existing mutation
+detection tools exhibit less than ideal agreement when analyzing the same
+data. The task of identifying all somatic mutations in one patient's
+cancer remains a challenge to personalized cancer medicine. Typically,
+somatic mutation detection is performed utilizing DNA sequencing. Because
+RNA sequencing is often a component of genome characterization projects
+along with DNA sequencing, we sought to evaluate the possible added value
+of RNA sequencing in somatic mutation detection. We have developed an
+original computational method, UNCeqR, that makes patient-specific
+somatic mutation predictions utilizing RNA sequencing combined with DNA
+sequencing. DNA mutations and RNA mutations are statistically modeled
+separately and results are combined in a meta-analytic fashion, resulting
+in up to three predictions for a locus: DNA-only, RNA-only, and DNA+RNA.
+In addition to de novo genomewide mutation predictions, UNCeqR can query
+specific a priori mutations. UNCeqR was applied to The Cancer Genome
+Atlas (TCGA) lung squamous cell carcinoma sequencing data, consisting of
+Ilumina RNAseq and Illumina exome sequencing. Of annotated exons, 20% had
+very low to zero coverage in RNA and 5% had very low to zero coverage in
+DNA, indicating that both sequencing assays add new genomic territory for
+mutation detection. Limiting to regions with both DNA and RNA coverage,
+56% of mutations detected from DNA were also predicted by RNA, providing
+an independent validation of these mutations. To evaluate if mutation
+detection using DNA+RNA is superior to detection using DNA-only, cancer
+specimen DNA and RNA reads were randomly split into subsamples. UNCeqR
+was executed on each of the subsamples and mutation agreement was
+compared among pairs of subsamples within regions of DNA and RNA
+coverage. Compared with the DNA-only method, DNA+RNA mutation detection
+exhibited a 42% relative increase in percent agreement across subsamples
+and a 230% relative increase in the number of mutations detected.
+Therefore, RNA sequencing adds positive value to somatic mutation
+detection via UNCeqR.
+

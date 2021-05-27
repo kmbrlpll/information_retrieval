@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: TiMi1 is a novel immune-checkpoint in solid tumors identified via
+a tumor-infiltrating lymphocyte (TIL)-based RNAi screening
+
+
+Immunotherapeutic treatment of melanoma achieved major progress in recent
+years leading for the first time to improved survival. However, since
+melanoma cells employ various suppressive mechanisms in order to evade
+recognition and destruction by immune effector cells many patients still
+do not benefit from immunotherapy. These mechanisms are far more diverse
+than reflected by currently used immune modulatory drugs. In this study,
+we established and utilized a novel high throughput RNAi screening to
+identify new immune checkpoint molecules in melanoma using
+antigen-specific patient-derived tumor infiltrating lymphocytes (TILs) in
+conjunction with primary HLA-matched melanoma cells. Using this approach,
+we screened a siRNA library targeting more than 1200 surface receptors
+and kinases to explore novel targets for immunotherapy.Briefly, HLA-A2
+and luciferase positive M579-A2-luc melanoma cells were reversely
+transfected with the siRNA library and then co-cultured with MART1- and
+gp100-specific TILs to validate the TIL-mediated tumor lysis. Local
+regression models (LOESS) were applied to generate a hit list of 48
+candidates that negatively regulated CTL cytotoxicity. Interestingly,
+four candidates of a related breast cancer screen were among the top
+hits. To streamline the discovery process for large scale molecule
+libraries, we established a secondary screen assaying multiple T cell
+activation markers, including effector cytokines.One of the strongest
+candidates from our primary and secondary screening is TiMi1 (name
+altered), a cell surface receptor belonging to the class of GPCRs. We
+found that knock-down of TiMi1 increased TIL-mediated killing of
+M579-A2-luc without affecting their viability. TiMi1 knock-down increased
+TIL activity measured by production of type 1-associated cytokines (e.g.
+IFN and TNF-), reduced TC apoptosis and increased markers associated with
+raised activity and cytotoxicity (4-1BB and CD107a). We were able to
+verify the immune checkpoint function of TiMi1 in melanoma patients using
+an autologous set of melanoma cells and TILs. Phosphoplex analysis in T
+cells revealed an involvement of the transcription factor CREB in the
+mode of action of TiMi1. Preliminary experiments suggest that TiMi1
+inhibits anti-tumor immune responses in pancreatic (PDAC) and colorectal
+(CRC) cancers as well.In summary, we established a novel antigen-specific
+screening approach for immune checkpoints expressed in melanoma and were
+able to identify TiMi1 as a promising candidate. Moreover, TiMi1 inhibits
+T cell responses in melanoma, PDAC and CRC and might be an interesting
+target for immunotherapy. Our novel high-throughput screening offers a
+systematic platform to uncover the immune-modulatome of cancer and
+subsequently discover novel targets for immunotherapy. Since the
+presented work is considered for patent protection, some gene targets are
+masked in the presented study.
+

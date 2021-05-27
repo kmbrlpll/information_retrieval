@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: In vitro modeling of patient derived bladder cancer cell lines in
+3D culture systems.
+
+
+Background: Drug screening is a key component for drug development and
+optimizing anti-tumor therapies. Traditionally, in vitro drug testing has
+been conducted in monolayer systems that are not capable of
+recapitulating the tumor complexity. Recently, the field has witnessed
+the rise of interest in 3D culture systems which are capable of
+reproducing tumor complexity while circumventing the cost associated with
+in vivo drug testing. Our access to fresh patient samples has enabled us
+to establish a novel 3D culture system consisting of bladder cancer
+patient derived cell lines. Using a wide range of matrices and co-culture
+conditions with tumor associated stromal cells we were able to establish
+a unique high throughput drug testing tool.
+
+Methods: Matrigel and collagen based matrices were used to establish 3D
+culture systems of bladder cancer patient derived cells. Tumor cells were
+cultured in 3D conditions either alone or in coculture with tumor
+associated stromal cells. Response to Cisplatin and PI3K pathway targeted
+agents (i.e. LY LY3023414) was tested in both conditions. High throughput
+imaging via Thermo ArrayScan XTI was used to assess the biological
+behavior of spheroids as well as their response to therapies overtime.
+Confocal microscopy was used to validate the biological mimicry of tumor
+derived spheroids to the original patient tumors. Integration of RNA-seq
+data from the patient-derived tumor cells with the biological behavior
+and therapeutic response in 3D culture is ongoing for the purpose of
+characterizing the 3D model
+
+Results: In 3D culture conditions; bladder cancer derived cells were able
+to re-express E-cadherin that was suppressed upon propagation in
+monolayer. The re-expression of the epithelial marker (E-cadherin)
+observed in 3D accurately mirrors the original tumors; which are of
+epithelial origin. Phenotypic differences were observed across different
+matrix conditions and also among different tumor derived cells. Bladder
+3D organoids of luminal origin were more sensitive to both cisplatin and
+PI3K pathway inhibitors as compared to those of basal origin. This drug
+response profile was reminiscent of what we observed in vivo using
+patient derived xenograft (PDX) models derived from the same tumors. The
+phenotypic as well as the drug response variations observed in our 3D
+culture correlated with variable gene expression profiles (luminal vs
+basal) that were detected in our RNA-seq data.
+
+Conclusion: As compared to monolayer, 3D culture is more capable of
+recapitulating tumor complexity and accurately reflects the drug
+resistance / sensitivity profiles that are observed in PDX models in
+vivo. Therefore, a 3D culture system provides an invaluable tool for high
+throughput screening of drugs in bladder cancer and providing a better
+understanding of tumor biology in the search of more effective treatments
+for bladder cancer patients.
+
+

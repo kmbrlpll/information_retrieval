@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Library screen to rapidly determine activity against normal and
+mutant bone marrow progenitor cells.
+
+
+Aberrant signal transduction plays a central role in the pathogenesis of
+myelodysplastic syndrome/ myeloproliferative neoplasm (MDS/MPN), as
+indicated by the high prevalence of mutations that activate Ras
+signaling. Yet despite the key role of Ras signaling in hematopoietic
+neoplasms, there are currently no signal transduction inhibitors with
+established efficacy. This necessitates a screen of inhibitors that may
+potentially reveal novel therapeutic strategies and inform efforts to
+treat neoplasms driven by hyperactive Ras signaling.Unfractionated bone
+marrow cells harvested from Mx1-Cre, KrasD12 (n= 10) and wildtype (WT)
+mice (n=18) were utilized in the screening of 94 different inhibitors. A
+disease relevant, homogenous population of PreGM cells identified as
+Lineage lo/- Sca1- c-kit+ CD34+ FcRII/III- CD105- CD150- was purified
+from bone marrow using flow cytometry. The PreGM cells were then sorted
+into 96 well plates containing various inhibitors at set concentrations
+ranging from 1E-7 (5E-7ug/ml) to 1 (5ug/ml). DMSO and cytotoxic agents
+(Cytarabine, Adriamycin, Gemcitabine) served as negative and positive
+controls respectively. The freshly sorted PreGM cells were exposed to
+inhibitors for 3 days under standard culture conditions. At the end of
+that period, cell growth was quantified using the IN Cell Analyzer 2000
+and dose response curves constructed for WT and mutant cells. WT and
+mutant IC50s for each compound were calculated using the drc package from
+the R Project for Statistical Computing.The 94 drug candidates tested in
+this screen included cytotoxic agents, tyrosine kinase inhibitors, PI3K
+family inhibitors, mitotic kinase inhibitors, epigenetic modifiers,
+hedgehog signaling inhibitors, and others. Candidates were screened for
+preferential activity against Mx1-Cre, KrasD12 cells. However, none of
+the compounds tested were found to demonstrate preferential inhibitory
+activity against Mx1-Cre, KrasD12 cells when compared to WT cells.
+Furthermore, the IC50s calculated for mutant and WT cells were not
+significantly different across all inhibitors tested.The majority of
+compounds tested were either FDA approved drugs or agents used in recent
+clinical trials. Hyperactive Kras signaling is a major underlying
+etiology for MDS/MPN, and thus we designed our study to test the efficacy
+of these candidates against mutant Kras cells. Our results indicate that
+mutant cells have similar drug sensitivities as normal cells over a broad
+range of mechanistic approaches. This leads us to believe that
+"synthetic" lethal opportunities may not be the approach of choice for
+treating Kras driven neoplasms. However, these findings have directed our
+efforts towards compounds that target upstream mediators of Kras
+signaling and future endeavors are currently underway to use the assay
+system to assess the activity of a highly curated library of kinase
+inhibitors on mutant and WT proliferation.
+

@@ -1,0 +1,43 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Specific growth suppression of wild-type p53 tumor cells by
+DNA-modified siRNA sequences targeting MDM2
+
+
+Background: Murine double minute 2 (MDM2) is an oncoprotein that
+inactivates p53 tumor suppressor protein by ubiquitination and subsequent
+proteasomal degradation. MDM2 is overexpressed in 10%-20% of human
+cancers, most of which carry wild-type (wt) p53. Synthetic siRNAs silence
+gene expression by RNA interference. However, siRNAs also suppress the
+expression of unintended targets containing complementary sequences to as
+short as 6 bases of the seed region of siRNA (off-target effects). Such
+nonspecific effects can be avoided by nucleotide modifications, including
+DNA replacement in the seed region.Aim: We conducted this study to select
+canonical and DNA-modified siRNAs possessing high silencing activity for
+MDM2 with less nonspecific effects. In addition, we examined the validity
+of the MDM2-p53 interaction as a target for RNAi cancer therapy.Methods:
+Twenty-four siRNA sequences targeting MDM2 were newly selected using the
+siDifect software. In total, 33 siRNAs, including 9 previously reported
+sequences, were chemically synthesized. Effective siRNAs were converted
+to double-stranded RNA-DNA chimera (dsRDC), which had a DNA replacement
+in the 5 region of the guide strand (nucleotide 1-6 from the 5 end) and
+its complementary sequence of the passenger strand, including the
+adjacent 2-b overhang. Three cell lines, SJSA-1 osteosarcoma (high MDM2
+expression, wt p53), NUGC3 gastric cancer (mutant p53), and Kato-III
+gastric cancer (mutant p53), were used. MDM2 protein and mRNA levels were
+examined using Western blotting and real-time RT-PCR, respectively. Cell
+viability was measured using WST-8 assay. siRNA and dsRDC were
+transfected using Lipofectamine RNAiMAX (Invitrogen) according to the
+manufacturer's instructions.Results: Among the 33 siRNAs examined, 7
+siRNAs (2 previously reported and 5 newly designed) at 1 nM suppressed
+MDM2 mRNA expression and cell viability of SJSA-1 cells by 72%-86% and
+51%-75%, respectively. These effective siRNAs were converted to
+dsRDC-modified form. Two of them demonstrated MDM2 knockdown and growth
+suppression of wt p53 tumor cells as efficiently as the unmodified forms.
+Further, in comparison with the unmodified forms, the modified forms
+showed less nonspecific growth suppression of cells carrying mutant p53.
+These 2 dsRDC-modified siRNAs were both newly selected
+sequences.Conclusions: Our 2 newly selected dsRDC-modified siRNAs had
+high knockdown activity and less nonspecific cytotoxicity. Thus, they
+represent potent therapeutic agents against cancers carrying wt p53 with
+MDM2 overexpression.
+

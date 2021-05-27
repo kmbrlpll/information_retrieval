@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Expression profiling of laser micro dissected prostate cancer
+cells delineates genes associated with biochemical recurrence after
+radical prostatectomy.
+
+
+A distinct feature of localized prostate cancer (PC) is the high
+prevalence of indolent cancer. This feature raises the dilemma of
+treatment in this group of patients since a large part of this group will
+not benefit from surgery. Finding markers of progression to help guide
+treatment decision will have a great impact on the management of
+localized prostate cancer. In this study we performed genome-wide
+expression profiling of 40 cancer samples and 10 samples of normal
+prostate tissue with the intent to find transcripts that delineate
+aggressive and indolent cancer. Twenty-four patients with biochemical
+recurrence (BR) after radical prostatectomy and 16 patients with at least
+5-year recurrence free survival were included. Tissue and clinical data
+have been collected prospectively in the Aarhus PC-project. All prostate
+samples were fresh frozen and cancer lesions were laser micro dissected.
+Nugen pico RNA amplification system was used for amplification and
+Affymetrix U133 plus 2.0 whole genome expression arrays were used. A
+publicly available PC gene expression dataset was used for validation
+(GEO accession number GSE10645). Supervised analysis comparing recurrent
+and non-recurrent disease resulted in only 4 transcripts that reached
+significance following correction for multiple testing. Next, we
+therefore performed unsupervised hierarchical cluster analysis in order
+to discover molecular subgroups associated with aggressiveness of the
+disease. One sample cluster showed an overrepresentation of recurrent
+cases (p=0.022, chi2 test) and a cluster of 64 genes showed high
+expression levels in the group of patient with aggressive disease and low
+expression in the group of patient with non-aggressive disease. Eighteen
+of these genes were included in the gene panel tested in the validation
+set, in which 13 also showed significant association with BR after
+prostatectomy. Multivariate analysis of IGFBP3 in the validation samples
+showed an OR of 1.9 (p=0.002), SFRP4 OR=2.1 (p=0.009) and MSR1 OR=2.4
+(p=0.014). Using Gene Set Enrichment Analysis we demonstrated that
+several previously identified molecular signatures associated with
+aggressiveness were significantly enriched in the molecular subgroup
+containing tumors from patients with aggressive disease. We have
+identified novel candidate markers associated with BR after radical
+prostatectomy and the findings have been successfully validated in an
+independent patient cohort. Currently, we are using TMAs for additional
+validation of our markers, and these results will be presented at the
+meeting. Following further independent validation, these candidate
+markers may guide treatment decisions for patients with localized
+prostate cancer in the future.
+

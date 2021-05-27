@@ -1,0 +1,42 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Phospho-dependent regulation of ERR expression, transcriptional
+activity, and Tamoxifen resistance in ER+ breast cancer.
+
+
+Selective estrogen receptor modulators (SERMs) such as Tamoxifen (TAM)
+can significantly improve breast cancer-specific survival for women with
+ER-positive (ER+) disease. However, resistance to TAM remains a major
+clinical problem. Estrogen-related receptor gamma (ERR) is an orphan
+nuclear receptor with broad, structural similarities to classical ER that
+is widely implicated in the transcriptional regulation of energy
+homeostasis. We previously reported that ERR is upregulated during the
+acquisition of TAM resistance in ER+ breast cancer cell lines, exogenous
+expression of ERR is sufficient to induce TAM resistance, and ERR mRNA is
+significantly increased in tumor samples from women with ER+ breast
+cancer who relapse following TAM treatment.Because ERR has no known
+ligand, our recent studies have focused on understanding how the
+expression and activity of this orphan nuclear receptor is regulated, and
+how this contributes to the TAM resistant phenotype. We have found that
+TAM-resistant breast cancer cells in which endogenous ERR is upregulated
+show a concomitant hyper activation of p44/p42 ERK. Furthermore, ERK
+activity (but not that of JNK or p38 MAPK) directly enhances ERR protein
+stability via Serines 57, 81, and/or 219 of the receptor.
+Phospho-deficient ERR is impaired in its ability to induce TAM
+resistance, and this is associated with a significant reduction in
+transcriptional activity at the estrogen-related response element (ERRE)
+half-site, in particular.This led us to hypothesize that ERR action at
+ERREs is most relevant to the development of TAM resistance. We examined
+a meta-list of validated, ERRE-containing ERR target genes in association
+with distant metastasis-free survival (DMFS) within 5 years of primary
+diagnosis in each of 3 publicly available clinical datasets comprised of
+ER+ breast cancer patients treated with TAM, and obtained a list of 37
+differentially expressed targets. The proximal promoter regions of these
+37 genes are enriched for binding sites for ELK1, a well-known ERK
+substrate. Sub-network analysis reveals enrichment of genes whose protein
+products regulate the mitochondrial unfolded protein response (UPRmito).
+We also performed differential dependency network (DDN) analysis in an
+independent dataset using the full meta-list of ERR target genes and also
+identified genes associated with UPRmito. These data suggest a
+potentially novel role for ERK-mediated regulation of ERR in
+mitochondrial protein folding in TAM-resistant breast cancer.
+

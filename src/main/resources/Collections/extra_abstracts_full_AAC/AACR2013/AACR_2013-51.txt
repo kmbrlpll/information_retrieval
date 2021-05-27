@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Activating PLCG1 mutations in cutaneous T-cell lymphomas.
+
+
+Cutaneous T-cell lymphoma (CTCL) is a heterogeneous group of diseases
+characterized by clonal expansion of malignant T-cells in the skin. The
+two predominant clinical forms of CTCL are mycosis fungoides (MF) and
+Sezary syndrome (SS). Tumor-stage MF has an unfavorable prognosis with a
+10-year survival of approximately 40%. Despite the molecular pathogenesis
+of CTCL is still basically unknown, some data including Gene expression
+profiling (GEP) studies have shown that increased signaling from the
+T-cell receptor (TCR) can be considered a driving force of CTCL and that
+the neoplastic T-cells can acquire Treg and Th17 phenotypes. However, the
+molecular mechanisms responsible for this activation have not been fully
+clarified.Based on the hypothesis that deregulated TCR activity may
+depend, at least in part, on somatic mutations, we have studied the
+coding exons of a selection of genes with known biological relevance in
+T-cells, including TCR and MAPK signaling, cytokine activity and
+survival/apoptosis regulators. By means of deep sequencing we analyzed
+paired (non tumoral vs. tumoral) genomic DNA from 11 CTCL patients. Under
+these premises, we first prepared enriched libraries for exons and
+regulatory regions for 524 genes belonging to the aforementioned
+pathways, and then proceeded to sequence with a Genome Analyzer GA2
+(Illumina). The sequencing data was checked by FastQC and aligned to the
+human reference genome (GRCh37) and somatic variants were identified
+using GATK. Candidate variants were manually reviewed and validated by
+capillary sequencing.Our results showed multiple somatic mutations in
+essential genes implicated in the biology of T cells. Strikingly, we
+found recurrent mutations in PLCG1 affecting 3/11 patients (two of them
+sharing the same mutation) in our cohort. This protein can be considered
+a mayor effector of TRC signaling as well as to play a central role in
+the differentiation processes of T-cells towards the acquisition of a
+Treg/Th17 phenotype. Using a combination of PLCG1-targeted DNA sequencing
+and immune-staining in FFPE patient samples, we corroborated that up to
+20% of a new cohort of 60 patients harbored the recurrent PLCG1 mutation.
+Moreover we found a correlation between the presence of this mutation and
+the nuclear accumulation of activated NFAT, a well-known PLCG1downstream
+effector, suggesting that these mutations may confer a gain of function
+activity to this enzyme. We corroborated this observation by comparing
+the activity of exogenous expression of WT and mutant PLCG1 proteins
+towards the activation of NFAT using a luciferase reporter gene assay.
+Moreover we also found that the resultant activity from these mutants was
+highly sensitive to the specific inhibition of CaN and PLC in our system
+which may suggest that the finding of these mutations in CTCL patients
+might be used as an indicative for targeted therapy.
+

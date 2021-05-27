@@ -1,0 +1,35 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Copy number detection using genomics technologies: A comparison
+between aCGH and NGS
+
+
+Introduction: Identification of causal DNA copy number variations (CNVs)
+is critical to the understanding of cancer development and progression,
+and is important clinically for accurate prognosis and efficient
+treatment. T-cell lymphomas are replete with amplifications and deletions
+that result in over- and under-expression of genes. Array comparative
+genomic hybridization (aCGH) has been the technology of choice to detect
+CNVs but recently, it has been proposed that mate-pair Next Generation
+Sequencing (mpNGS) can produce similar results. Here, we report a
+comparison between the two techniques.Methods: We have developed an
+algorithm based on extreme value theory to identify CNVs across the
+genome at high resolution from mate-pair NGS data. The algorithm is based
+on plotting the distribution of read-counts in windows across the genome,
+and detecting deletions and gains by finding the windows that differ
+significantly from the distribution of the normal part of the genome. We
+compared this algorithm with aCGH data to detect CNVs. We ran five cases
+of T-cell lymphoma with both techniques and compared the results using
+concordance statistics.Results: With 50kb lower cutoff for a CNV, mpNGS
+detected 98% of the cumulative deleted genome and 94% of the
+amplified/gained genome that were called by aCGH. Most of the discordant
+CNVs that were detected by only aCGH were in regions of repetitive areas
+where mapping fails. Conversely, aCGH detected 75% of the cumulative
+deleted genome and 74% of the amplified/gained genome that were called by
+mpNGS.Conclusion: A detailed comparison of these techniques showed that
+both have pros and cons. In general, mpNGS can detect most CNVs detected
+by aCGH, as long as they are more than 50KB. Additionally, mpNGS offers
+confirmatory data, particularly for deletions, based on detection of
+aberrant mate pairs that map to the rejoined ends of deleted regional.
+Finally, the mate-pair technology can also detect balanced translocations
+and can also predict fusion genes.
+

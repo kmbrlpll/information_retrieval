@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identification of biomarkers that predict response of head and
+neck squamous cell carcinoma to mitotic inhibitors
+
+
+Objectives: It is urgent to explore novel biomarkers and therapeutic
+targets for that are relevant to head and neck squamous cell carcinoma
+(HNSCC), which is the 6th most common cancer worldwide. Based on a prior
+drug screen, we identified 3 mitotic inhibitors (AZD7762, AZD1775,
+volasertib) as effective therapies for HNSCC. Our objective with this
+study is to identify mechanisms of response and potential biomarkers of
+response andMethods: Cell viability assays were performed by the
+CellTiter-Glo Luminescent method in a panel of 68 fingerprinted HNSCC
+cell lines using the 3 drugs at concentrations of 0.018 to 9.613 M. Cell
+cycle, apoptosis and altered pathway protein expression after cells
+treated by the polo-like kinase 1 (PLK1) inhibitor volasertib were
+investigated by FACS, TUNEL and western blots respectively. An orthotopic
+mouse model of HNSCC was used to confirm the antitumor effects of PLK1
+inhibition in vivo. To determine the mechanisms of drug sensitivity, we
+analyzed the correlation between gene expression, protein expression,
+gene mutation and drug sensitivity using modified two-sample t-tests were
+performed. The beta-uniform mixture (BUM) model was used to control false
+discovery rate (FDR). For correlations between drug sensitivity and gene
+mutations, we performed Fisher's exact test.Results: Using the IC80
+values with the peak plasma concentration of each drug as the cut-off to
+determine sensitivity, 34, 44 and 20 HNSCC cell lines were sensitive
+AZD1775 (Wee inhibitor), AZD7762 (CHK1/2 inhibitor) and volasertib (PLK1
+inhibitor) respectively. HNSCC harboring AJUBA mutations were more
+sensitive to these 3 inhibitors and those with RAS mutations more
+resistant. PLK1 inhibition led to G2/M arrest, but only sensitive cell
+lines underwent substantial apoptosis following PLK1 inhibition.
+Decreases of the levels of phosphorylated TCTP were observed following
+treatment with volasertib confirming PLK1 inhibition. There was a
+significant decrease of tumor volumes and prolongation of survival in the
+mice bearing orthotopic HNSCC tumors treated with volasertib in
+vivo.Conclusions: PLK1 inhibition was an effective therapy in vitro and
+in vivo models of HNSCC. We identified the AJUBA and RAS mutations as
+potential candidate biomarkers of response to these mitotic inhibitors in
+HNSCC. This study identified the therapeutic potential of PLK1 as a novel
+therapeutic target for HNSCC.
+

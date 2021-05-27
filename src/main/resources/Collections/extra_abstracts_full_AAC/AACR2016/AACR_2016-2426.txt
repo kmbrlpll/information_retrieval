@@ -1,0 +1,34 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Detection of somatic mutations associated with pulmonary
+metastasis of osteosarcoma by whole exome sequencing
+
+
+Objective: Pulmonary metastasis is a main cause of death for the patients
+with osteosarcoma (OS), although no specific genetic alteration
+associated with pulmonary metastasis has been reported. The objective of
+this study was to identify candidate somatic genetic alteration
+contributed to pulmonary metastasis in pediatric OS.Methods: Five sample
+sets including the tissues taken from primary tumor (P), resected
+pulmonary metastatic tumor (M), and normal tissue (N) of the same
+pediatric OS patients were analyzed by whole exome sequencing with Ion
+Torrent Proton sequencer. 40ng of genomic DNAs extracted from each tissue
+were used for multiplex PCR amplification with Ion Ampliseq Exome Kit.
+Data analysis including alignment to the hg19 human reference genome and
+variant calling was done using the Torrent Suite Software. Obtained
+genomic data was validated by visualizing in Integrative Genomics Viewer
+or capillary sequencing. Candidate somatic genetic alterations were
+annotated by wANNOVAR database. Pathway analysis was performed using
+GeneMANIA.Results: Mean read depths on the P, M, and N were 219, 212, and
+109, respectively. We identified 1364 and 1311 candidate non-synonymous
+somatic single nucleotide variants (SNVs) among the P and M,
+respectively. After the validation and filtering, we detected 135
+non-synonymous SNVs within the exon region in M. Among these, 32 SNVs
+were overlapped with those in P. Only 2 recurrent SNVs were identified
+within the whole SNVs. C:G>T:A transition mutations were frequently
+observed in both P and M, and the frequency were higher in M comparing to
+P. Pathway analysis showed a significant enrichment of the candidate SNVs
+in genes involved in extracellular matrix regulation
+(FDR;2.37E-03).Conclusion: We have identified 137 SNVs associated with
+pulmonary metastasis from pediatric OS. Extracellular matrix-relating
+signature might contribute to the genesis of pulmonary metastasis.
+

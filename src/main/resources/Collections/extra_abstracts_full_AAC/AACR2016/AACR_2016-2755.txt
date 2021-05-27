@@ -1,0 +1,30 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Regulation of 53BP1 by the structural nuclear protein NuMA
+
+
+DNA double-strand breaks (DSBs) can cause genomic instability and cancer
+through point mutations and genomic translocations if they are not
+properly repaired. DSBs are repaired by two major pathways: homologous
+recombination (HR) or nonhomologous end joining (NHEJ). The cellular
+choice between these two pathways is critical to cell survival and is
+altered in cancers. 53BP1, which promotes NHEJ by blocking CtIP-dependent
+DNA resection, is a key protein mediating repair pathway choice. Here, we
+present a new negative regulation mechanism of 53BP1 that relies on the
+structural nuclear protein NuMA. Apart from its role in mitotic spindle
+assembly, NuMA influences chromatin organization during the interphase
+and modulates the chromatin response to DNA damage. We identified an
+interaction between NuMA and 53BP1 by proteomics analysis of a 53BP1
+pull-down and confirmed this interaction by NuMA immunoprecipitation. We
+measured greater than 50% decreased 53BP1-NuMA binding in response to
+DSB, which suggest that, in the absence of DNA damage, NuMA may restrain
+53BP1 diffusion. This hypothesis is supported by fluorescence correlation
+spectroscopy (FCS) measurements in cells expressing GFP-tagged 53BP1, as
+well as by microirradiation experiments in which NuMA overexpression or
+silencing inhibited or promoted 53BP1 recruitment at DNA damage sites,
+respectively. 53BP1 has an essential role in B cell class switch
+recombination (CSR) and mediates PARPi sensitivity in BRCA1-null cells.
+We will present how modulating NuMA expression affects both aspects of
+53BP1 function. The results from our work will help to understand how
+53BP1 is controlled, and shed light on the mechanisms regulating this
+modulator of PARPi sensitivity in the presence or absence of DNA damage.
+

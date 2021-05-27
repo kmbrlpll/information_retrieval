@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A urine based assay to select patients for initial cystoscopy
+
+
+ObjectiveOnly 2.6 - 28% of the patients that present with haematuria will
+be diagnosed with bladder cancer. Unnecessary cystoscopies and upper
+tract imaging lead to high diagnostic costs and patient burden. In order
+to better select patients for diagnostic cystoscopy and thereby reduce
+cost and over-testing, we aimed to develop a diagnostic urine assay by
+combining mutation status of FGFR3, TERT and PIK3CA with methylation
+markers OTX1 and ONECUT2.Material and MethodsA total of 258 patients
+undergoing cystoscopy for haematuria were included, 175 were diagnosed
+with bladder cancer and 83 had a non-malignant source of the haematuria.
+Voided urine samples were collected prior to cystoscopy. DNA was
+extracted and analyzed for mutations in FGFR3, TERT and PIK3CA.
+Methylation assays were done using a single-nucleotide probe extension
+assay with multiple probes for OTX1 (4 probes) and ONECUT2 (5 probes).
+Methylation percentages were calculated and cut-off values (sensitivity
+85%) were determined for dichotomization. All results were combined and
+the optimal model was selected through logistic regression analysis. The
+Bootstrap procedure was used for internal validation.ResultsCombining the
+results of the dichotomized methylation markers OTX1 (probe 2), ONECUT2
+(probe 1+4) with the mutation markers FGFR3, TERT, PIK3CA and the
+clinical parameters Age and Gender led to a prediction model with an AUC
+of 0.95 (95% CI 0.92-0.98) and an optimism-corrected AUC of 0.94.To
+further improve the model, analyses were repeated for continuous
+methylation marker variables. Now, adding ONECUT2 probe 2 enhanced the
+predictive capacity of the model even further (AUC 0.97, 95% CI 0.94 -
+0.99 and an optimism-corrected AUC of 0.96). Overall material cost was
+estimated to be 20 euro per patient.A mutation-analysis first strategy
+would lead to a potentially larger reduction in cost. This strategy
+identified 120 patients with bladder cancer based on mutation assays
+alone. For the remaining 125 mutation-naive patients the prediction model
+containing the previously selected continuous methylation markers
+combined with Age and Gender was used. The overall combined strategy
+sensitivity was 92,1% and specificity was 89% (AUC of
+0.96).ConclusionAnalyzing haematuria patients for their risk of bladder
+cancer may lead to a reduction of unnecessary diagnostic cystoscopies and
+upper urinary tract imaging. This will present a major cost reduction in
+the urological practice. Combining continuous marker variables for OTX1
+and three probes for ONECUT2 with mutation markers FGFR3, TERT, PIK3CA
+and Gender and Age results in an accurate prediction model with an AUC of
+0.97 and an optimism-corrected AUC of 0.96. A mutation-analysis first
+strategy seems most practical and feasible (Sens 92%, Spec 89%). The
+assay must be further improved to reach a more satisfactory overall
+sensitivity (>95%), for instance by adding RAS mutation analysis.
+

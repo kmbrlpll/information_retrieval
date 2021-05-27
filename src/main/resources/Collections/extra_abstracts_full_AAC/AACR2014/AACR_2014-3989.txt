@@ -1,0 +1,24 @@
+Meeting: 2014 AACR Annual Meeting
+Title: High throughput screening highlights NFkB signaling in Ewing
+sarcoma
+
+
+Ewing sarcoma (ES) is the second most frequent pediatric bone tumor and
+still remains of poor prognosis especially for metastatic patients.
+Genetically, ES is characterized by a chromosomal translocation between
+EWSR1 and ETS family members (FLI1 in 85% of cases). This leads to the
+expression of EWS-FLI1 chimeric oncogene transcription factor. Aiming at
+identifying EWS-FLI1 regulated genes with potential therapeutic targets,
+a genome wide method was developed to rank these potential hits by
+combining Ewing sarcoma transcriptome and ChIPSeq data. Accordingly, 273
+selected genes were further investigated using a siRNA approach for their
+impact on cell cycle phases and apoptosis using high throughput imaging
+methods. 133 of these genes displayed a phenotype and bioinformatics
+tools were used to connect these genes. NFkB turned out to be a major hub
+in this network and upstream activation pathways were further
+investigated. Interleukin-1 pathway may account for this observed effect
+and in vitro and in vivo experiments are currently on going to validate
+this hypothesis. Interestingly, preliminary results indicate that both
+tumor and tumor microenvironment are of prime importance for the
+activation of this pathway.
+

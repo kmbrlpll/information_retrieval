@@ -1,0 +1,34 @@
+Meeting: 2012 AACR Annual Meeting
+Title: GenomeSpace: An environment for frictionless bioinformatics
+
+
+Over the past several years, cancer genome characterization initiatives
+such as The Cancer Genome Atlas and the Tumor Sequencing Project have
+produced an explosion of genomic data. The pace of data production has
+recently increased with the adoption of next-generation sequencing
+technologies and large-scale data production efforts to discover the
+breadth of genomic variation in humans. Comprehensive analysis of these
+datasets requires the coordinated use of Web-based applications and data
+repositories, desktop analysis tools and visualizers, and single-purpose
+algorithms. However, the effort required to transfer data between tools,
+convert between data formats, and manage results often prevents
+researchers from utilizing the wealth of methods available to them. Many
+integrative genomics and translational bench to bedside discoveries are
+possible with combinations of existing tools, but the necessary
+transitions between them puts them out of the reach of most researchers.
+GenomeSpace, http://www.genomespace.org, is an environment that brings
+together diverse computational tools, enabling scientists without
+programming skills to easily combine their capabilities. It aims to offer
+a common space to create, manipulate and share an ever-growing range of
+genomic analysis tools. GenomeSpace features support for cloud-based data
+storage and analysis, multi-tool analytic workflows, automatic conversion
+of data formats, and ease of connecting new tools to the environment. A
+set of six GenomeSpace-enabled seed tools developed by collaborating
+organizations provides a comprehensive platform for the analysis of
+cancer data: Cytoscape (UCSD), Galaxy (Penn State University),
+GenePattern (Broad Institute), Genomica (Weitzmann Institute),
+Integrative Genomics Viewer (Broad Institute), and the UCSC Genome
+Browser (UCSC). We show how researchers can use GenomeSpace to
+effortlessly combine the capabilities of all of these tools in several
+cancer research scenarios.
+

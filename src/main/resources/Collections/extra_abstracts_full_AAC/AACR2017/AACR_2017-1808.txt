@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Vascular endothelial growth factor receptor-2 (VEGFR-2)
+N-glycosylation modulates angiogenic signaling.
+
+
+Angiogenesis, the formation of new blood vessels from pre-existing
+vessels, is required for tumor growth and metastasis. Vascular
+endothelial growth factor receptor-2 (VEGFR-2) is one of the most
+important receptor tyrosine kinases (RTKs) among the VEGF receptor
+subfamily, and activation of VEGFR-2 is essential for tumor angiogenesis.
+The extracellular domain of VEGFR-2 contains seven immunoglobulin-like
+(Ig) domains, each with multiple potential N-glycosylation sites.
+N-glycosylation is thought to play a central role in receptor stability,
+ligand binding and trafficking. However, to date the occupancy and
+glycoform distributions at each of the potential N-glycosylation sites
+and their putative role(s) in VEGFR-2 function remain largely unknown.
+The objective of this study is to investigate the functional importance
+of VEGFR-2 N-glycosylation in VEGFR-2 angiogenic signaling.
+
+Porcine aortic endothelial (PAE) cells with ectopic expression of VEGFR-2
+were treated with PNGase F to remove N-linked glycans or heat-denatured
+PNGase F as a control. Following PNGase F treatment for 4 hours, cells
+were treated with VEGF-A ligand for 0, 5, 10 or 30 minutes. VEGFR-2
+phosphorylation (activation) was measured via Western blot with an
+anti-pTyr-1054-VEGFR-2 antibody. In addition, a polyclonal anti-VEGFR2
+antibody was used to immunoprecipitate untreated and PNGase F-treated
+VEGFR-2 from PAE cell lysates. Evaluation of the N-glycosylation sites
+targeted by PNGase F was carried out by gel electrophoresis, followed by
+protease digestion and MS/MS analysis. MS/MS data were processed using
+Proteome Discoverer 1.4. To obtain site-specific glycosylation
+information we performed proteolysis of VEGFR-2, glycopeptide enrichment
+via hydrophilic interaction liquid chromatography (HILIC) and subsequent
+analysis of glycopeptides with an Agilent 6550 Quadrupole Time-of-Flight
+(Q-TOF) MS using collision-induced dissociation.
+
+We detected a dramatic increase in ligand-mediated activation of VEGFR-2
+after treatment with PNGase F, suggesting that certain N-linked glycans
+may hinder ligand access to the VEGF binding site, or that removal of
+N-linked glycans results in conformational changes that lead to increased
+activation of the receptor by VEGF-A. To explore this observation in
+greater detail, we have created a series of VEGFR-2 N-glycosylation site
+mutants, and we are now using the mutants to determine which
+glycosylation sites are involved in the observed modulation of VEGFR-2
+signaling.
+
+

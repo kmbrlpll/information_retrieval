@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Association between insulin resistance and breast cancer risk: A
+Mendelian randomization analysis of data from 228,000 women of European
+descent.
+
+
+Background: Epidemiologic studies suggest that insulin resistance may be
+associated with breast cancer risk. We conducted Mendelian randomization
+(MR) analyses to reduce the biases associated with previous studies and
+provide evidence for causal inference.
+
+Materials and Methods: We used genetic variants identified in genome-wide
+association studies for circulating fasting insulin (15 variants), early
+insulin secretion (16 variants), fasting proinsulin (8 variants), fasting
+glucose (35 variants), and 2-hour glucose (8 variants) as instruments in
+MR analyses. To reduce possible pleiotropic effects, variants associated
+with obesity were removed from the instruments. We first evaluated the
+association of these instruments with type 2 diabetes risk in 110,452
+subjects to assess instrument validity. We then investigated the
+association of these instruments with breast cancer risk using data
+obtained from 122,977 cases and 105,974 controls of European descent
+included in the Breast Cancer Association Consortium (BCAC). Odds ratios
+(OR) were calculated to measure the associations of instrumental
+variables with risk of overall breast cancer and its subtypes defined by
+estrogen-receptor [ER] status.
+
+Results: All instrumental variables constructed for this study were
+strongly associated with type 2 diabetes risk with ORs of 3.01
+(p=7.86x10-5), 0.22 (p=3.54x10-14), 1.90 (p=8.28x10-4), 6.11
+(p=3.59x10-19), and 1.91 (p=6.8x10-16) for per unit increase of fasting
+insulin, early insulin secretion, fasting proinsulin, fasting glucose,
+and 2-hour glucose levels, respectively. Statistically significant
+associations with overall breast cancer risk were found for fasting
+insulin (OR=1.36 for per unit increase, 95% CI=1.09-1.70, p=0.011) and
+fasting proinsulin (OR=1.21, 95% CI=1.06-
+
+1.38, p=0.011). These associations were observed only for ER-positive
+breast cancer. No statistically significant association at p1.38,
+p=0.011). These associations were observed only for ER-positive breast
+cancer. No statistically significant association at p<0.05 was found for
+early insulin secretion, fasting glucose, or 2-hour glucose levels.
+
+Conclusions: Our study provides strong support that certain insulin
+resistance traits may be causally associated with risk of breast cancer,
+particularly ER-positive breast cancer.
+
+

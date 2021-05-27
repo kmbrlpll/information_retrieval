@@ -1,0 +1,67 @@
+Meeting: 2013 AACR Annual Meeting
+Title: The transcriptional regulation of the long non-coding RNA HOTAIR
+in ovarian cancer.
+
+
+The Polycomb Group (PcG) Repressive Complexes 1 and 2 (PRC1 and PRC2)
+maintain gene expression patterns by epigenetically modifying chromatin.
+PRC2 suppresses transcription by catalyzing the trimethylation of histone
+H3 at lysine 27 (H3K27me3), a hallmark of repressed chromatin. Although
+overexpression of PRC2 components has been implicated in cancer
+initiation, progression and metastasis how PRC2 is recruited to its
+target genes remains poorly understood. Recent work suggests the
+interaction of PRC2 with the long-non coding (lnc) RNA HOX transcript
+antisense intergenic RNA (HOTAIR) could serve as a potential guide to
+silence target genes, but the mechanism has yet to be defined. In this
+study, we performed whole transcriptome RNA-seq analysis of isogenic
+cisplatin- sensitive and -resistant A2780 ovarian cancer (OC) cell lines.
+Of the lncRNA examined, HOTAIR was markedly induced in the cisplatin
+resistant cells (5-fold upregulation compared to the cisplatin-sensitve
+A2780 parental line). shRNA depletion of HOTAIR resensitized the
+drug-resistant cells to cisplatin. Based on analysis of the HOTAIR
+promoter using luciferase assays, we identified two putative NF-B binding
+sites and three E-box binding sites. To further investigate whether these
+sites contributed to HOTAIR expression, platinum-sensitive cells were
+treated with different growth factors and cytokines (0 to 48hrs) and
+analyzed for changes in HOTAIR expression. Treatment with TNF-, a
+well-known inflammatory cytokine and established activator of NF-B,
+resulted in 16 fold-induction of HOTAIR. In accord with these results, we
+observed significant enrichment of both NF-B and cMYC on the HOTAIR
+promoter using ChIP assay. Pharmacological inhibition of cMYC and NF-B
+reduced HOTAIR expression by 2-fold, and siRNA depletion of the NF-B p65
+subunit or cMYC similarly reduced (PThe Polycomb Group (PcG) Repressive
+Complexes 1 and 2 (PRC1 and PRC2) maintain gene expression patterns by
+epigenetically modifying chromatin. PRC2 suppresses transcription by
+catalyzing the trimethylation of histone H3 at lysine 27 (H3K27me3), a
+hallmark of repressed chromatin. Although overexpression of PRC2
+components has been implicated in cancer initiation, progression and
+metastasis how PRC2 is recruited to its target genes remains poorly
+understood. Recent work suggests the interaction of PRC2 with the
+long-non coding (lnc) RNA HOX transcript antisense intergenic RNA
+(HOTAIR) could serve as a potential guide to silence target genes, but
+the mechanism has yet to be defined. In this study, we performed whole
+transcriptome RNA-seq analysis of isogenic cisplatin- sensitive and
+-resistant A2780 ovarian cancer (OC) cell lines. Of the lncRNA examined,
+HOTAIR was markedly induced in the cisplatin resistant cells (5-fold
+upregulation compared to the cisplatin-sensitve A2780 parental line).
+shRNA depletion of HOTAIR resensitized the drug-resistant cells to
+cisplatin. Based on analysis of the HOTAIR promoter using luciferase
+assays, we identified two putative NF-B binding sites and three E-box
+binding sites. To further investigate whether these sites contributed to
+HOTAIR expression, platinum-sensitive cells were treated with different
+growth factors and cytokines (0 to 48hrs) and analyzed for changes in
+HOTAIR expression. Treatment with TNF-, a well-known inflammatory
+cytokine and established activator of NF-B, resulted in 16 fold-induction
+of HOTAIR. In accord with these results, we observed significant
+enrichment of both NF-B and cMYC on the HOTAIR promoter using ChIP assay.
+Pharmacological inhibition of cMYC and NF-B reduced HOTAIR expression by
+2-fold, and siRNA depletion of the NF-B p65 subunit or cMYC similarly
+reduced (P<0.01) HOTAIR expression. Based on these results, we
+hypothesize a positive feedback loop for HOTAIR transcriptional
+regulation: HOTAIR inhibits I-B (an inhibitor of NF-B) allowing the
+lncRNA to enter the nucleus and activate not only its own expression but
+also cMYC expression to further drive HOTAIR expression as well as
+cMYC-inducible genes. We are currently testing this hypothesis. We
+believe this novel pathway, whose components have been implicated in
+numerous other cancers, may be involved in cisplatin-resistant OC.
+

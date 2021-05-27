@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Genomic and microRNAome subtraction identifies pathogenic viral
+sequences in pancreatic ductal adenocarcinoma
+
+
+Introduction:Pancreatic ductal adenocarcinoma (PDAC) is by far the most
+common type of pancreatic cancer. It constitutes about 90% of tumors of
+the exocrine pancreas. The aggressive nature of PDAC along with its poor
+diagnostic markers contributes to a high lethality of this disease.
+Studies from other cancer entities implicate the role of viruses in tumor
+development. However, there have been no established reports about
+virus(es) associated with pancreatic cancer. The present study identified
+a virus by genomic and digital microRNAome subtraction between healthy
+and PDAC patients, suggesting that this virus may play a role in
+carcinogenesis.Experimental procedures:Representational difference
+analysis (RDA) was utilized to perform an experimental genome-wide search
+for DNA sequences that occur in PDAC but not in normal tissues. Ten
+healthy and ten PDAC tissue DNA samples were used for the generation of
+representations and subtractive hybridization. The difference products
+(DPs) so obtained were paired end sequenced on the Illumina MiSeq
+platform. The sequencing data were aligned against the viral RefSeq
+database. We also did in silico subtraction of microRNA content
+(miRNA-seq) of PDAC samples. Eight PDAC samples were analyzed for viral
+sequences using relevant RefSeq databases. The two approaches (RDA and
+miRNA-seq) were pursued in parallel. RT-qPCR analysis and the in vitro
+functional characterization of viral sequences in PDAC cell lines were
+respectively performed using hydrolysis probes and second generation
+microRNA mimic systems. Stable cell lines expressing viral microRNA and
+luciferase were produced using lentivirus for mice in vivo
+studies.Results and Summary:We found DNA sequences of a virus in the
+difference products of RDA whose signature was also implicated in the
+microRNA analysis. Further, using RT-qPCR, we identified that a
+particular microRNA from this virus is expressed at significantly higher
+levels in PDAC samples than in normal tissue. This observation was also
+verified by droplet digital PCR analysis. Non-metastatic PDAC cell lines
+overexpressing viral microRNA showed significant invasion against
+relevant controls, interestingly with no significant change in
+proliferation. We are currently analyzing the functional consequences of
+these viral sequences and their involvement in
+carcinogenesis.Conclusion:From two different robust approaches, these
+findings strongly indicate viral sequences associated with PDAC that
+could affect pathways relevant to tumor development.
+

@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Transcriptome analysis demonstrates the ability of the bromodomain
+inhibitor JQ1 to attenuate expression of common oncogenes heterogeneously
+expressed among chronic lymphocytic leukemia subsets
+
+
+Chronic lymphocytic leukemia (CLL), the most common adult leukemia in the
+western world, is characterized by the ability of B-cells to escape their
+regulated apoptotic fate and oncogenically expand via microenvironment
+interactions in the lymph node. With recent studies demonstrating BET
+bromodomains as effective therapeutic targets in cancers, our goal was to
+investigate the potential therapeutic benefits of JQ1 and determine how
+this bromodomain inhibitor alters the transcriptional landscape in CLL.
+We performed in vitro proliferation assays in the MEC1, MEC2, and WAC3
+CLL cell lines. Based on dose and time dependent variables, we determined
+that 1uM of JQ1 could fully inhibit proliferation in all 3 cell lines.
+Cell cycle and Annexin V/DAPI analysis with 500nM and 1uM of JQ1 caused
+G1 cell cycle arrest in MEC1 and MEC2 after 72 hours while inducing
+little apoptosis. This result was supported mechanistically by the fact
+that cyclin D3 protein expression was lost in MEC1 after 24hr treatment
+while BCL2 expression remained stable. Based on the phenotypic results,
+we then treated MEC1, an immortalized clone of primary CLL, and MEC2, an
+immortalized clone of progressed CLL, with 1uM of JQ1 and performed a
+time course-based RNAseq analysis to determine how JQ1 affects the CLL
+transcriptional landscape. We compared the treatment analysis against 47
+clinical CLL and 5 healthy donor samples in order to conduct a
+meta-analysis comparison between transcripts significantly upregulated in
+the clinical CLL RNAseq and transcripts significantly downregulated in
+the JQ1-treated MEC1 and MEC2 RNAseq. Pathway analysis comparison between
+transcripts upregulated in clinical CLL samples and transcripts
+downregulated in the treated cell lines demonstrated that JQ1 disrupted
+expression of signaling cascades involved with the NFKB, NFAT, and PI3K
+pathways, as well as disrupting pathways activated by IL2, IL4, and
+CD40L. Interestingly, we determined that, though the clinically relevant
+pathways affected by JQ1 treatment were similar in the two cell lines,
+the specific transcriptional targets affected by JQ1 differ greatly
+between MEC1 and MEC2. Specifically, JQ1 downregulated ZAP70, LCK, BTK,
+and CXCR4 expression in MEC1, whereas JQ1 downregulated CD274 (PDL1),
+MIR155HG, TRAF1, MALAT1, and CCR7 expression in MEC2. Interestingly, the
+only transcripts that overlapped in the three-way comparison were DACT1
+and the CD23 activation marker gene FCER2. Based on our analysis, JQ1 may
+have the potential to indiscriminately inhibit certain CLL oncogenes that
+drive heterogeneous CLL subsets. These results and our ongoing
+genome-wide ChIPseq analysis of H3K27Ac marks in MEC1 and MEC2 will help
+determine whether bromodomain inhibition could potentially serve as a
+promising therapeutic against CLL clonal and subclonal expansion.
+

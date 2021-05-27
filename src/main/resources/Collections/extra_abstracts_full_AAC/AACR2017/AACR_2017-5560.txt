@@ -1,0 +1,34 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Systemic map of protein phosphatase 2A (PP2A)-regulated
+phosphotargets and drug responses in cancer cells.
+
+
+Despite the pivotal role of phosphatases in cancer cell signalling,
+systemic understanding of phosphatase targets is still at infancy.
+Protein phosphatase 2A (PP2A) is a human tumor suppressor complex. PP2A
+inhibition is a requirement for human cell transformation and PP2A
+regulates many cancer critical signalling pathways. Importantly, emerging
+data indicates that reactivation of PP2A tumor suppressor activity could
+provide entirely novel approach for cancer therapy. Here, we present
+first systemic analysis of phosphoprotein targets (dephosphorylome)
+regulated by PP2A in cancer cells. Based on data, PP2A regulates cancer
+critical signalling pathways, including entire EGFR-RAS-RAF-MEK-ERK
+cascade, and functions as a master regulator of MYC function. At network
+level, PP2A targets critical cellular processes such as chromosome
+organization, RNA splicing, and nuclear envelope assembly. Surprisingly,
+soft clustering of PP2A dephosphorylome revealed that most phospho-target
+residues are subject to only unidirectional regulation in cancer cells.
+Moreover, targets show intracellular gradient where phosphatase
+inhibition dominates nuclear phosphorylation balance. Since
+phosphoregulation is critical for cancer drug responses, dephosphorylome
+was correlated with cancer cell responses to over 300 drugs. Importantly,
+cancer therapies could be broadly classified based on their
+dephosphorylome, both at quantitative and qualitative manner. Finally, we
+demonstrate the utility of this large dataset by validating the role of
+PP2A in MEK inhibitor resistance in KRAS mutant cancer cells via
+regulation of RAF, mTor and MYC. The study presents first systemic
+resource to understand potential of PP2A manipulation in cancer cell
+signalling and drug responses. The study also uncovers generally
+important insights to phosphoregulation.
+
+

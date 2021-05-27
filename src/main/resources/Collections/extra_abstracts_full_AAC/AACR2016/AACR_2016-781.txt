@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Modeling the impact of somatic alterations across human cancers
+
+
+Large-scale cancer genomics projects like The Cancer Genome Atlas have
+generated a comprehensive catalog of somatic mutations and copy number
+aberrations across many tumor types, but the role of most frequently
+altered genes remains obscure. To better model the impact of these
+alterations, we developed a novel computational strategy for exploiting
+parallel phosphoproteomics and mRNA sequencing data for large tumor sets
+by linking dysregulation of upstream signaling pathways with altered
+transcriptional response through the transcriptional circuitry. Our
+modeling allows us to interpret the impact of somatic alterations in
+terms of functional outcomes such as altered signaling and transcription
+factor (TF) activity.We used this novel machine learning strategy to
+train phosphoprotein-TF interaction models across 12 human cancers for
+which large reverse-phase protein array and RNA-seq data sets are
+available through TCGA. First, we used this approach to identify shared
+and cancer-specific roles of TF/signaling regulators across cancer types.
+Then we performed a statistical analysis to associate frequent somatic
+aberrations with alterations in inferred TF and signaling protein
+activities. From our analysis, we gained many novel insights into cancer
+biology. We identified both known (e.g FOXO1 for breast cancer) and novel
+TF regulators of cancer (e.g. ELK1 for head and neck cancer). Many of
+these identified TF regulators were significantly associated with
+survival outcome in bladder urothelial, renal cell clear and endometrial
+carcinoma.Next we performed a comprehensive cross-cancer analysis and
+identified relationships between somatic alterations and downstream
+transcriptional effects and signaling pathway activation. We observed
+that specific molecular aberrations have different functional
+consequences in different cancer types. For example, PIK3CA mutations are
+associated with altered activities of a diverse set of TFs across cancers
+that are involved in cell cycle, apoptosis, metabolism and MAPK/ERK
+signaling. Notably, in cell line models, we validated some of the altered
+TFs predicted by our model. We showed that PIK3CA mutation leads to ELK1
+activation in breast and head and neck cancer models. We further found
+that different set of TFs are associated with a specific mutation in
+different cancers due to the different background of genomic aberrations
+in each cancer. For example, KRAS mutations are associated with a
+distinct set of TFs depending of cancer-specific co-mutation profiles
+(e.g. co-mutations of KRAS and TP53 in lung adenocarcinoma and
+co-mutations of KRAS and APC in colorectal cancer).Our analysis revealed
+both known and novel interactions of frequently altered genes with
+signaling pathways and transcriptional programs in a pan-cancer context.
+Patterns of co-alterations across cancers may provide new insights
+relevant to targeted therapy and may be crucial to optimizing combination
+therapies.
+

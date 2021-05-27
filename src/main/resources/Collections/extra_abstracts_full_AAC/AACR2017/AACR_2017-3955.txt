@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Spatially resolved, multiplexed digital characterization of
+protein and mRNA distribution and abundance in formalin-fixed,
+paraffin-embedded (FFPE) tissue sections based on NanoString’s Digital
+Spatial Profiling (DSP) technology: applications to immuno-oncology (IO)
+and tumor heterogeneity.
+
+
+Introduction: As intra-tumoral heterogeneity has emerged as a challenge
+in development of targeted cancer therapeutics, the tissue context of
+biomarker levels and colocalization of key immunoregulatory proteins has
+become an increasingly important aspect for understanding tumor immune
+responses, patient classification, and stratification. Historically,
+immunohistochemistry and in situ hybridization have been used to assess
+spatial heterogeneity of targets in clinical samples. These approaches,
+however, have limited multiplexing capacity and dynamic range. Here, we
+use DSP technology, a spatially resolved approach for quantifying up to
+800 protein or RNA targets with over 5 logs of dynamic range in a single
+FFPE slide to overcome these limits.
+
+Methods: The technology uses DNA oligo tags for either protein or RNA
+detection. For protein detection, a cocktail of 30+ primary antibodies
+(Abs), each with a unique, photocleavable oligo tag, and 1-3
+fluorescently (FL) labeled Abs was applied to a slide-mounted FFPE tissue
+section. Regions of interest (ROI), selected based on a FL imaging scan
+of the entire tissue, were illuminated sequentially with focused UV light
+to release the oligos. Following each UV cycle, eluent was collected from
+the local ROI, moved to a microtiter plate, hybridized to NanoString®
+barcodes, and then analyzed with an nCounter® Analysis System. The
+resulting digital counts corresponded to the abundance of each targeted
+protein in the ROI. For RNA detection, a cocktail of multiple
+UV-cleavable in situ hybridization probes were used in a similar manner.
+
+Results: We demonstrate multiplexed detection from discrete ROIs within a
+tumor and adjacent normal tissue, enabling systematic interrogation of a
+heterogeneous tumor microenvironment. In control samples, we found
+expected levels of protein and RNA targets. We further demonstrate that
+this approach enables analysis of target abundance from individually
+selected cells, both contiguous and non-contiguous with the same
+phenotype, and enables multiplexed detection of key IO targets. Finally,
+we demonstrate detection of key IO RNA targets using direct hybridization
+of oligo-labeled probes.
+
+Conclusions: With further development, our novel DSP approach to capture
+the spatial context of protein and RNA levels will have many applications
+in biomarker and translational research. The ability to digitally measure
+RNA and protein at up to 800-plex from FFPE tissues could facilitate drug
+mechanism-of-action and response studies within the tumor
+microenvironment. Quantitative, high-plex data should also greatly
+accelerate the discovery of IO biomarkers in tumors and the development
+of companion diagnostics for targeted therapies.
+
+

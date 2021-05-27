@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Pervasive associations between mutational processes and driver
+mutations across cancer types.
+
+
+More than 30 distinct mutational signatures, each the result of an
+underlying mutational process, have now been described in human cancers
+-- we have sought to address the extent to which these mutational
+processes shape the spectrum of driver mutations across cancer types.
+
+Using publicly available genomic data from 10,188 cancers across 22
+common cancer types, we have statistically assessed the association
+between mutational process activity and the presence of individual
+pathogenic driver mutations. Specifically, we determined the
+sample-specific exposures for each mutational signature. For each
+recurrent driver mutation in each cancer type, we tested for a difference
+in the exposure to each mutational signature in samples with the driver
+mutation compared to those without. We used an independent analysis based
+on the causal SNV(s) for each driver mutation to test our hypothesis that
+many of the associations between driver mutations and mutational
+signatures are causative in nature.
+
+Our method is novel in linking specific pathogenic amino-acid changes to
+mutational process activity. This allows us to investigate mutational
+causality in carcinogenesis, and permits us to delineate the
+inter-related effects of mutation and clonal selection.
+
+Our data indicate that both extrinsic (mutagen driven) and intrinsic (DNA
+replication and repair) associated mutational processes have pan-cancer
+associations with multiple distinct driver mutations, many of which are
+causative in nature. Of particular note is the identification of a
+pan-cancer driving role for both the APOBEC and microsatellite
+instability (MSI) associated mutational processes, an early causative
+role for defective DNA proof reading in colorectal and endometrial
+cancers, and the identification of a general ‘mutational sensitivity’
+to oncogenic PIK3CA mutations in many cancer types. In addition, our
+analysis also provides quantitative understanding of the relative effects
+of the distinct evolutionary forces of mutation and selection, via a
+detailed analysis of the mutually exclusive mutations to the IDH1 and
+IDH2, and KRAS and BRAF, genes respectively. Taking into account
+mutational signatures, our data suggest preferential selection for IDH1
+R132H compared to other common IDH1 and IDH2 mutations and preferential
+selection for KRAS G12D compared to other common KRAS and BRAF mutations,
+in a subset of cancer types.
+
+These data demonstrate the functional importance of mutational processes
+in shaping the landscape of driver mutations across cancer types,
+informing our understanding of the relative effects of mutation and
+selection in carcinogenesis. Our study has ramifications for both cancer
+prevention, by providing knowledge of how removing mutagen exposure could
+impact carcinogenesis, and for treatment choice by indicating the
+relationship of mutational processes and the likely presence of
+actionable or resistance mutations.
+
+

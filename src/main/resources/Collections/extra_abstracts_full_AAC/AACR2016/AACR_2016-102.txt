@@ -1,0 +1,33 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Pan-cancer analysis of sex differences in somatic mutation profiles
+
+
+Sex influences the clinical and pathological characteristics of a number
+of cancers including those of the lung, colon and kidney. Men and women
+differ in incidence rate, response to treatment and survival - even after
+controlling for confounding factors such as smoking status, age and
+weight. Some gene-specific sex differences have been identified in these
+cancers, but there has not been a rigorous, genome-wide analysis of the
+mutational differences in tumors between men and women. We fill this gap,
+providing a comprehensive assessment of sex-associated differences in
+cancer genomics.We leverage resources from the International Cancer
+Genome Consortium-The Cancer Genome Atlas pan-cancer project, which
+includes genomic, transcriptomic and epigenomic profiles of 25,000
+tumours and whole genome sequences of 5,000 tumours. Using this data, we
+analyzed mutational differences between the sexes in 15 tumor types.We
+use both univariate (t-test, proportions test) and multivariate
+(multinomial logistic regression) statistical techniques, along with
+bioinformatics and pathway analyses. We found distinct sex-associated
+genomic differences in the copy number aberration (CNA) profiles of six
+tumor types and in pan-cancer analysis. We observe higher genome
+instability in male-derived tumors and sex-biased mutations in specific
+genes and across genomic intervals. Using multivariate modeling to
+control for confounding variables reinforces the significance of sex in
+these genomic regions and also reveals additional sex-biased CNAs.
+Ongoing work with mRNA abundance data suggests an association between
+sex-differences in CNAs and mRNA abundance both in cis and in trans.
+Further investigation into affected genes and pathways may reveal
+fundamental differences in how tumors develop in men and women and
+provide explanations for reported clinical and pathological sex
+differences.
+

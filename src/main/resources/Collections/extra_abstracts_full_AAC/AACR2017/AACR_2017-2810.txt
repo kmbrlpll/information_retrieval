@@ -1,0 +1,29 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Using CRISPR/Cas9 to generate primary soft tissue sarcoma in
+genetically engineered and wild-type mice.
+
+
+Genetically engineered mouse models (GEMMs) that employ site-specific
+recombinase (SSR) technology are important tools for pre-clinical
+studies, but this approach is costly and time-consuming. Here, we show
+that the CRISPR/Cas9 system can be used to efficiently complement
+existing GEMMs of sarcoma and generate primary sarcomas in wild type
+mice. Mice with the genotype KrasLSL-G12D/+; Rosa26LSL-Cas9-EGFP/+
+received intramuscular delivery of an adenovirus expressing Cre
+recombinase and a single guide RNA (sgRNA) targeting Trp53. Cre-mediated
+expression of oncogenic Kras and Cas9, in combination with
+CRISPR/Cas9-mediated knockout of Trp53, was sufficient to generate
+primary soft tissue sarcomas. These tumors arose with kinetics similar to
+those generated using the Cre-loxP system to activate oncogenic Kras and
+delete Trp53 alleles. Additionally, we injected an adenovirus containing
+Cas9 and sgRNAs targeting Nf1 and Trp53 into the sciatic nerve of wild
+type mice. These mice formed malignant peripheral nerve sheath tumors
+(MPNSTs) in the same timeframe as MPNSTs generated using the Cre-loxP
+system to delete Nf1 and Ink4a/Arf alleles in GEMMs. These data
+demonstrate that CRISPR/Cas9 can be used to generate soft tissue sarcomas
+in wild type mice. Moreover, these results suggest that this technology
+can complement existing GEMMs for rapid assessment of tumor-modifying
+genes. These tools should decrease the time and expense associated with
+employing autochthonous mouse models of sarcoma for preclinical research.
+
+

@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Identification of a potential tumor suppressor function for SNX9
+by mining public genomic data
+
+
+Members of the sorting nexin (SNX) family of proteins are involved in
+intracellular trafficking and endocytosis processes, with functions
+essential to regulation of cell surface receptor levels and subsequent
+signaling by receptor-mediated endocytosis. Detrimental mutations and
+altered expression of SNX genes have been found in several cancers and
+tumor cell lines. A recent publication (Mao et al. AJCR 2011) identified
+a chromosomal translocation that created a SNX9:UNC5C fusion gene in
+prostate cancer cells. UNC5C is a known tumor suppressor gene. Although
+SNX9 is known to regulate degradation of EGFR, a well-established
+prognostic marker for lung cancer, no tumorigenic role has been
+identified for SNX9. We investigated associations of SNX9 to cancer
+phenotypes by mining curated public genomic data available in NextBio.
+Integration of diverse datatypes such as gene/miRNA expression,
+methylation, and copy-number variation in NextBio allowed us to uncover
+several lines of evidence which indicated that SNX9 activity is altered
+in many types of cancer. i) Loss of the SNX9 gene was observed in many
+different cancers including multiple myeloma, leukemia, lymphoma,
+melanoma, glioblastoma, renal clear cell carcinoma, and breast cancer.
+ii) Hypermethylation of SNX9, indicative of overall gene silencing,
+occurred in colorectal cancer, breast cancer and glioblastoma. iii) The
+miRNA predicted to target SNX9, miR-493-5p, was up-regulated in prostate,
+testicular, liver, and lung cancers. iv) SNX9 gene expression was down
+regulated relative to normal tissues in multiple myeloma, leukemia,
+lymphoma, cancers of the skin, breast, prostate and more. Correlations
+within the data suggest an association between the loss of SNX9 and more
+aggressive or recurrent disease; SNX9 is reduced in higher grade,
+metastatic clear cell carcinoma relative to lower grade, non-metastatic
+clear cell carcinoma. In myeloma and leukemia patients, lower SNX9
+expression in primary tumors correlated with earlier relapsing disease.
+SNX9 expression was also lower when comparing recurring with primary
+acute myeloid leukemia. Querying our PharmacoAtlas application revealed
+that SNX9 gene expression was altered by a number of anti-neoplastic
+therapies. For example, paclitaxel, bortezomib, and letrozole treatments
+were each found to increase SNX9 gene expression in breast cancer cells
+whereas doxorubicin treatment resulted in decreased SNX9 expression. The
+integrative analysis of curated public genomic data drawn from thousands
+of studies strongly supports a hypothesis that SNX9 is a putative tumor
+suppressor and biomarker for more aggressive forms of cancer. As genomic
+technologies are applied to patient evaluation and therapeutic guidance,
+integrating multiple lines of evidence from research and clinical data to
+identify biomarkers such as SNX9 will increasingly inform clinical
+decision making.
+

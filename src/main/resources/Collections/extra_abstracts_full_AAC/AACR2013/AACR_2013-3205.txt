@@ -1,0 +1,42 @@
+Meeting: 2013 AACR Annual Meeting
+Title: In vivo oncology target screening using a lentiviral inducible-
+shRNA knockdown system.
+
+
+Background: Small RNAs are able to suppress expression of any gene
+through the endogenous RNA interference pathway and have been used to
+identify therapeutic targets in a variety of pathological conditions. In
+this project, we aimed to optimise a lentiviral inducible-knockdown small
+hairpin RNA (shRNA) system for efficient in vivo cancer target
+validation, using polo-like kinase 1 (PLK1), an essential cell-cycle
+protein, as a proof-of-concept target.Methods: An inducible shRNA
+construct targeting PLK1 or a control construct was transduced into the
+colon carcinoma cell line SW620. Inducible shRNA expression (marked by
+turbo-RFP) was monitored by fluorescence microscopy and flow cytometry in
+vitro and by spectrum CT in vivo. PLK1 gene expression was quantified by
+real-time PCR and protein expression was quantified by Western blotting
+in vitro or IHC ex vivo. Cell viability was assessed by MTT assays.
+Xenografts were established by subcutaneous injection of PLK1
+inducible-knockdown cells into nude mice. Growth inhibitory effect was
+assessed by calliper measurement of tumour size and correlated with ex
+vivo assessment of gene and protein knockdown, and of cell proliferation
+as measured by Ki67 staining.Results: Cell viability assays demonstrated
+that concentrations of 2ug/ml of doxycycline or less did not result in
+cell death over an assay period of 7 days in both wild-type cells and
+cells transduced with a control shRNA construct. Following doxycycline
+treatment, PLK1 inducible-knockdown cells showed dose- and time-dependent
+shRNA induction with an increase in the level of shRNA expression and the
+percentage of positive cells. PLK1 down-regulation correlated with
+induction of shRNA expression reaching 80% gene knock-down and 60%
+protein knock-down 72 hours post-induction. The optimal delivery route of
+doxycycline via measurement of turbo-RFP induction and PK/PD measurements
+was assessed in vivo. In tumour-bearing mice treated with doxycycline,
+there was a decline in tumour growth rate in the PLK1 knockdown group
+compared with the control group. Ex vivo analysis showed significantly
+lower PLK1 gene and protein expression in the doxycycline-treated group
+compared with the control group which correlated with lower rates of cell
+proliferation in the treated group.Conclusion: The results support the
+anti-tumour effects of PLK1 down-regulation and confirm an efficient
+target validation methodology for cancer target screening using a
+lentiviral inducible-knockdown shRNA system.
+

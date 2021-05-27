@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: The role of the novel Notch1-Sox9 signaling axis in NSCLC
+progression and EMT
+
+
+Sox9 plays critical roles in the specification and differentiation of
+numerous progenitor and differentiated cell types during embryonic and
+fetal development. Sox9 is overexpressed in 40 - 50% of lung
+adenocarcinomas and associated with poor prognosis in lung cancer
+patients. We set out to identify upstream pathways that regulate Sox9
+expression in lung cancer, as well as the role of Sox9 in lung
+adenocarcinoma progression. Several developmental and stem cell pathways
+are known to induce Sox9 transcription during carcinogenesis, including
+the TGB-, Wnt/-catenin, Sonic Hedgehog, and NF-B signaling. Sox9 has also
+been shown to be a transcriptional target of the Notch pathway during
+mouse development, although the binding sites for Notch within the mouse
+Sox9 promoter are not conserved in humans. We mined gene expression data
+from three publicly available datasets and found that Hes1, a known Notch
+target gene, is co-expressed with Sox9 in lung adenocarcinoma.
+Furthermore, Sox9 mRNA and protein levels were upregulated over 100-fold
+as early as 14 days after Notch1 induction in the Notch1-induced mouse
+model of lung cancer, suggesting that Sox9 overexpression is an early
+event during lung cancer development. Through a series of in vitro
+assays, we determined that Sox9 is downstream of Notch1 in lung
+adenocarcinoma cell lines. By ChIP we determined that Sox9 is a direct
+target of Notch1 and using luciferase reporter assays, we located the
+previously unidentified human RBP-J binding site, the principle effector
+of canonical Notch1 signaling, immediately upstream of the Sox9
+transcriptional start site. We also examined TGF-, a known inducer of
+epithelial-to-mesenchymal transition (EMT) in lung cancer. We determined
+that induction of Sox9 expression by Notch1 is independent of TGF-
+signaling and that TGF- and Notch1 cooperate in their regulation of Sox9
+expression. Loss of Notch1 expression led to an induced MET phenotype,
+characterized by decreased cell invasion/migration, MET-like
+morphological changes, and increased E-cadherin expression, which were
+rescued by Sox9 overexpression. Our data also demonstrate that Sox9
+contributes to Notch1-induced EMT in lung adenocarcinoma. These results
+establish Sox9 as a key Notch1 target gene mediating Notch1-induced EMT
+independent of TGF-, leading to poor survival in lung adenocarcinoma.
+

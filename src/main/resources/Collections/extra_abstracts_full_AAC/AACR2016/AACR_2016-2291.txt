@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: On- and off target toxicity profiling for adoptive cell therapy by
+mass spectrometry-based immunopeptidome analysis of primary human normal
+tissues
+
+
+A major constraint for the broad and safe application of Adoptive
+Cellular Therapy (ACT) is the limited number of validated tumor targets,
+especially for solid tumors. For T-cell receptor (TCR)-based approaches,
+presentation of targeted HLA-peptides on normal tissues can lead to
+on-target toxicity, such as severe inflammatory colitis reported upon
+re-directing T cells to an HLA-A*02 restricted carcinoembryonic antigen
+(CEA) epitope. Independently, off-target cross-reactivity of TCRs
+occurred in previous ACT trials, e.g. when a MAGEA3-directed TCR
+cross-recognized an HLA-A*01 restricted epitope from titin expressed on
+heart, which led to fatal cardiac toxicities. Here we present a novel
+approach allowing the prediction of severe on- and off-target side
+effects before entering into clinical trials.We used a target discovery
+engine (XPRESIDENT) combining highly sensitive, quantitative mass
+spectrometry (LC-MS/MS), RNA-Seq-based differential transcriptomics,
+immunology and bioinformatics to characterize the human immunopeptidome
+directly on shock frozen primary human tissues. Over the last years we
+have built an according database for > 600 tumor samples from > 20
+different tumor types and, importantly, > 300 samples from > 40 different
+normal tissue types, resulting in hundreds of thousands of unique
+HLA-peptide sequences. These data allow conclusions on which HLA peptides
+are actually presented on primary normal tissues in a quantitative
+manner, taking into account relative differences between normal tissues
+and tumors as well as absolute peptide copy numbers per cell. In order to
+assess the off-target risk for a TCR, we predict all theoretical HLA- and
+TCR-binding peptides in the proteome, ideally based on the binding motif
+of the TCR, and specifically search for actual peptide presentation by
+normal tissues.When analyzing the above described CEA case, we were able
+to detect the CEA-derived peptide IMIGVLVGV on HLA-A*02 positive
+colorectal cancer samples, but importantly also on normal colorectal
+samples. In the original study describing the titin case tremendous
+experimental efforts and sophisticated cell culture models were required
+to retrospectively identify cross-recognition of the peptide on
+cardiomyocytes as the cause of toxicity. In contrast, with our approach
+we easily and directly identified the critical peptide ESDPIVAQY as one
+of the most abundantly presented peptides on an HLA-A*01 positive primary
+human heart sample. We show that this approach can lead to noteworthy
+results also for other pre-clinical and clinical stage TCR candidates.In
+conclusion our data demonstrate that ultrasensitive LC-MS/MS of primary
+tissue may represent a fast, straightforward and meaningful complementary
+method to common in vitro or animal models for the prediction of on- and
+off-target toxicities in TCR-based immunotherapy approaches.
+

@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Accelerating prediction of pediatric and rare cancer
+vulnerabilities using next-generation cancer models.
+
+
+Ongoing pre-clinical efforts aim to deploy genome-scale CRISPR/Cas9
+technology and large collections of small molecules to catalog maps of
+cancer vulnerabilities at scale. However, such efforts in pediatric and
+rare cancers have lagged behind comparable efforts in more common cancer
+types due to the dearth of cell models. Here, we present an update from
+our “Cancer Cell Line Factory” project on efforts to overcome key
+laboratory and biologistics challenges precluding progress in pediatric
+and rare cancers. This effort, now in it’s 3rd year, represents an
+industry scale pipeline aiming to generate, characterize and share novel
+cancer models of many tumor types with the scientific community. Overall,
+we have processed 1153 samples from 818 patients across over 16 cancer
+types through this pipeline with a 28% success rate overall, including
+over 350 patient samples from rare and pediatric cancers. To optimize
+conditions for each tumor type, we have systematically compared published
+methods including (1) next-generation 2-dimension, (2) organoid and (3)
+standard approaches and have captured all information with a data
+management system that should enhance the ability to predict optimal ex
+vivo propagation conditions for future samples. Among the successful cell
+models verified already as part of this effort, we have generated a
+series of over 30 unique pediatric and rare cancer models, many of which
+represent the first of their kind. We screened these and other models
+against a library of highly annotated 440 small molecules that were
+previously tested against 860 existing cancer cell lines. Our results
+suggest that dependency data generated with novel next-generation cell
+cultures is potentially backwards-compatible with existing small molecule
+dependency datasets. Furthermore, we tested the novel Broad Institute
+Drug Repurposing library consisting of 4100 approved therapeutics, or
+those under investigation for any disease, against the first cell line
+models of several of these rare next generation models including
+angioimmunoblastic T-cell lymphoma and renal medullary carcinoma, leading
+to several novel drug repurposing hypotheses for rare cancers. Given
+these proof-of-concept studies, in partnership with the Rare Cancer
+Research Foundation, we launched an online matchmaking platform to
+connect patients with rare cancers to available research studies,
+facilitate online consent and provide biologistics support to enable
+fresh tissue donation to support cancer model generation from any
+clinical site in the United States. We will present results from this
+novel direct-to-patient approach to facilitate the generation of even
+larger numbers of next generation models from rare and pediatric cancers,
+propelling the generation of pre-clinical dependency maps of these tumors
+for the scientific community.
+
+

@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: SHMT2 modulates DNA methylation and differentially affects
+prostate cancer cell response to platinum derivatives.
+
+
+Prostate cancer (PCa) is one of the leading causes of death from cancer
+in men. Several prognostic factors allow differentiating low-grade from
+high-grade PCa that are often refractory to chemical castration but are
+still treated with hormone therapy to which docetaxel or cabazitaxel are
+added when they become resistant to the anti-androgen. Despite many
+clinical trials with other chemotherapeutic agents, response rates remain
+low, pointing towards the need for new alternative therapies to treat
+these aggressive tumors. Using a rational in silico approach based on the
+NCI60-cell line panel, we recently identified a signature of 6 genes, the
+expression of which could predict at the functional level, sensitivity to
+oxaliplatin but not to cisplatin in DU145, LNCaP and C42B prostate cancer
+cell lines (Puyo et al. Mol. Pharmacol, 2012). Among them, we focused on
+SHMT2, the mitochondrial isoform of serine hydroxymethyl transferase
+involved in the biosynthesis of purines. Downregulation of SHMT2 or
+absence of SHMT2 catalytic activity was associated with a resistance to
+oxaliplatin, whereas it had no effect on cisplatin sensitivity, a
+selectivity that was attributed to the DACH moiety of platinum
+derivatives. Here, we investigated the role of DNA methylation in this
+selective response to platinum compounds since SHMTs can indirectly
+regulate the methylation status of DNA. Variations in global level of
+methylation as measured by the methylation status of LINE-1
+retrotransposon, was associated with differences in sensitivity of PCa
+cells to platinum compounds. Using our in silico approach, we found
+significant correlations between SHMT2 expression and cell sensitivity to
+both demethylating agents azacytidine and decitabine. We also found that
+treatment of DU145 cells, with high level of global DNA methylation,
+sensitized cells to platinum compounds. In order to evaluate whether
+methylation could impair the formation of Pt-adducts in vitro, we used
+purified oligonucleotides containing a unique site of platination. We
+show that methylation at specific CpG in the vicinity of the platination
+site could reduce the kinetics of DNA adducts formation. This inhibition
+was more pronounced for DACH platin than for cisplatin. We also assessed
+the effect of transient repression of SHMT2 in LNCaP cells on the
+methylation status of 450,000 CpG sites using the Infinium Meth450K
+beadchip from Illumina. Preliminary results show that significant changes
+in methylation status was only observed in a reduced number of CpGs which
+were not located in genes that are known to be involved in cell response
+to Pt adducts formation. Together our results demonstrate that
+SHMT2-mediated specific response to oxaliplatin can be due to both
+methylation in the vicinity of the platination site and the modulation of
+the expression of genes that are not directly linked to the processing of
+DNA-adducts.
+

@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Optimizing prostate cancer immunotherapy by reducing vaccine
+induced PD-1 expression
+
+
+Through early phase clinical trials we have shown that a plasmid DNA
+vaccine can elicit antigen-specific CD8 T-cells that can persist for
+years. However, the persistence of antigen-expressing prostate tumors
+demonstrates that mechanisms of tumor escape are at play. To investigate
+these mechanisms we have focused on vaccine strategies using the synovial
+sarcoma, X breakpoint 2 (SSX2) protein as a model target antigen and
+utilized mice which express HLA-A2 but not murine MHC-I. We have shown
+that immunization with a DNA plasmid encoding SSX2 elicits robust CD8+
+cells and that altering HLA-A2 affinity can augment this response. High
+affinity altered peptide ligand (APL)-encoding DNA vaccines elicited a
+greater frequency of specific T-cells; however, they fared worse in
+anti-tumor studies due to increased PD-1 expression on T-cells, an effect
+which could be abrogated with PD-1 blockade. Our current research has
+focused on why high-affinity epitopes elicit higher PD-1 expression, and
+whether this might be modulated at the time of antigen presentation. To
+that aim we have used the OT-1 mouse model, in which T-cells express a
+T-cell receptor that is specific for the dominant ovalbumin epitope
+SIINFEKL. We generated APLs of SIINFEKL and used them to stimulate OT-1
+splenocytes ex vivo. The high affinity SIINFEKL epitope resulted in high,
+sustained expression of PD-1 following activation, while lower affinity
+APLs resulted in less, transient expression. However, lowered PD-1
+expression can be indicative of T-cells that receive weaker signals via
+the T-cell receptor (TCR) and likewise display lowered effector function,
+therefore we also analyzed cytokine production and the in vivo effects of
+the APLs. In immunization experiments using B6 mice carrying adoptively
+transferred OT-1 T-cells the lower affinity peptide again resulted in
+transient PD-1 expression while the high affinity peptide led to
+sustained levels of PD-1 expression. One week after vaccination with the
+low affinity APL, PD-1 on tetramer+ CD8 T-cells had returned to baseline
+while cells from mice immunized with SIINFEKL maintained PD-1 expression.
+Furthermore, 38(8)% of tetramer+ cells from the SIINFEKL immunized group
+were PD-1+ 4-1BB- indicating that PD-1 expression is maintained even
+after activation in vivo. We are currently assessing the ability of
+immunization with each peptide to prevent B16-OVA tumor growth in vivo.
+To assess the mechanism by which PD-1 is regulated after stimulation with
+each peptide we used a combination of live cell imaging and RNA
+sequencing to observe APC/T-cell interactions and T-cell gene expression
+respectively. This research indicates that while increasing antigen
+affinity may generate a more robust T-cell response it does not always
+result in better anti-tumor immunity and provides a model in which we can
+study the biology underlying PD-1 expression.
+

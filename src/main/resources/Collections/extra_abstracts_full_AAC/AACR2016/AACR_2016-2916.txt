@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: TAF15 as an important mediator of RNA polymerase II-dependent drug
+tolerance
+
+
+Background: Cancer relapse after chemotherapy is thought to originate
+from drug-tolerant cancer cell subpopulations. We studied drug-tolerant
+colonies (DTCs), which are subpopulations of cancer cells that survive in
+the presence of drugs. Previous DTC formation-based compound screening
+identified an RNA polymerase (RNAP) II inhibitor, -amanitin (-AMA),
+suggesting the existence of an RNAPII-dependent drug tolerance in cancer
+cells. However, the mechanism underlying this regulation is
+unclear.Materials and Methods: DTCs derived from the gastric cancer cell
+line MKN45 were used as an in vitro model for gastrointestinal tumor
+recurrence. For the generation of the DTCs and those of untreated
+colonies (i.e., control colonies), cells were sparsely disseminated (100
+cells/cm2) into the presence or absence of cisplatin at 50% colony
+inhibitory concentration. To identify the DTC formation responsible
+genes, a DNA microarray analysis was performed followed by gene ontology
+analysis and quantitative RT-PCR (qRT-PCR) validation. For gene knockdown
+experiments with those that have been identified as DTC-formation
+responsible genes, cells were treated with small interference RNAs
+(siRNAs) for 48 hrs and then sparsely disseminated into the microplates
+in the presence of cisplatin for the DTC formation.Results: In terms of
+the RNAPII-dependence of the DTC formation, we focused on RNAPII-binding
+protein-coding genes in the list of the top 2.5% of specifically induced
+genes in DTCs. The transcriptional screening identified only one gene,
+TATA-binding protein-associated factor 15 (TAF15). The level of TAF15
+mRNA was 2.1-fold higher in DTCs than in the control colonies. A protein
+family consisting of fusion in sarcoma (FUS), Ewing's sarcoma (EWS), and
+TAF15 is called the FET (FUS/EWS/TAF15) family, and they play various
+roles in transcription as well as RNA processing. Among the FET family
+proteins, the TAF15 protein level was specifically increased in DTCs,
+suggesting that TAF15-specific function may contribute to DTC formation.
+Next, we examined whether TAF15 protein depletion by siRNA affects DTC
+formation. The TAF15 depletion preferentially inhibited DTC formation
+despite the fact that the degree of inhibition to the control colony
+formation was limited. With an anti-TAF15 siRNA treatment, the original
+small, round-shaped MKN45 cells exhibited spindle-like morphological
+changes within 48 hrs. Interestingly, -AMA treatment also induced similar
+morphological changes, suggesting that RNAPII inhibition caused TAF15
+depletion. Consistent with the morphological changes, both TAF15 mRNA and
+protein levels decreased in response to -AMA treatment.Conclusion: These
+results suggest that TAF15 is an important mediator of RNAPII-dependent
+drug tolerance and one of the potential molecular therapeutic targets of
+-AMA in the context of cancer relapse after chemotherapy.
+

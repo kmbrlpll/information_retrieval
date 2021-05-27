@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Integrated system-level analyses of androgen receptor variant
+networks to identify novel prostate cancer-relevant genes.
+
+
+Unbiased high-throughput approaches provide a global view of the massive
+genetic and transcriptomic changes that occur in and potentially drive
+cancer. Such approaches permit the discovery of novel markers and
+therapeutic targets. Current treatments for advanced prostate cancer (PC)
+focus on inhibiting the androgen receptor (AR). However, PC inevitably
+progresses to a stage termed castration-resistant prostate cancer (CRPC),
+which is incurable. In CRPC, C-terminal truncated, constitutively active
+AR splice variants (such as AR-V7) play key transcription-regulatory
+roles resulting in treatment resistance and disease progression. However,
+designing high-affinity drugs to target the amino terminus of AR and AR
+variants is a major challenge due to the intrinsic disorganized structure
+of this region. Thus there is an imperative need to identify novel AR-V7
+hub genes in PC that may serve as therapeutic targets. We performed an
+extensive and highly robust gene expression meta-analysis on PC patient
+samples. We defined gene modules correlated with disease progression
+using a powerful systems biology approach termed Weighted
+Gene-Co-expression Network Analysis (WGCNA). Further, we mapped the AR-V7
+interactome for the first time using a novel high-throughput synthetic
+genetic array screening in yeast, known as Yeast Augmented Network
+Analysis (YANA). YANA was performed by crossing yeast expressing AR-V7
+with a large collection of yeast strains lacking non-essential genes, and
+identifying those genes that caused a change in yeast growth (fitness).
+Human orthologs of the identified yeast genes were used to build an AR-V7
+functional gene network. Finally, we combined the results from our
+independent system-level analyses with experimental data to identify hub
+genes that are upregulated in PC patients, regulated by AR-V7, and also
+functionally interact with AR-V7. The identified genes not only include
+select genes previously linked to PC, such as members of the cyclin and
+topoisomerase families, but also genes that have not been previously
+linked to AR-V7 activity or PC progression. Moreover, our gene expression
+signature predicts a higher risk of PC recurrence after primary treatment
+in patients. In sum, we show here an unbiased and novel gene discovery
+strategy using bioinformatics in concert with experimental approaches to
+identify new candidate genes in CRPC that may lead to prognostic markers
+and future targeted therapies.
+
+

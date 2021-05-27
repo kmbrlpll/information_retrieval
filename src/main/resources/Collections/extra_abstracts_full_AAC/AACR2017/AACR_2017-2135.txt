@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Selectivity and specificity of engineered T cells expressing
+KITE-585, a chimeric antigen receptor targeting B-cell maturation antigen
+(BCMA).
+
+
+Background: Immunotherapy has provided treatment options for cancers that
+are otherwise refractory to standard approaches. One such technique is to
+use adoptive transfer of engineered autologous T cells expressing a
+chimeric antigen receptor (CAR) directed against a tumor antigen. The
+efficacy of CAR T cells directed against hematological malignancies,
+particularly CD19-expressing B cell leukemia and lymphomas, has been
+demonstrated in multiple clinical studies. The success of this approach
+has prompted development of CAR T cells directed to different tumor
+antigens for other tumor types. To ensure the selectivity and specificity
+of the CAR T cells against their intended target, screening methods need
+to be employed. Multiple myeloma is an incurable malignancy of plasma
+cells. B-cell maturation antigen (BCMA), also known as tumor necrosis
+factor superfamily member 17 (TNFRSF17) is nearly ubiquitously expressed
+on multiple myeloma cells, plasma cells and subsets of mature B cells.
+
+Methods: In order to screen for the specificity of novel CAR T cells
+directed against BCMA, we utilized a cell microarray platform developed
+by Retrogenix. In this screen, approximately 4500 human plasma membrane
+proteins (representing up to 75% of the human plasma membrane proteome)
+are individually expressed in human HEK293 cells. Fluorescently labeled
+CAR T cells, which showed cytolytic activity against MM cell lines
+expressing BCMA, were applied to the cell microarray and specific binding
+of the CAR T cells to target cells was determined.
+
+Results: Primary hits were sequenced to confirm identity and secondary
+specificity screens were performed on the identified hits. Specific
+binding of both mock transduced and BCMA CAR transduced T cells were
+confirmed for different plasma membrane proteins expressed from the
+HEK293 cells. These included known T cell interactors, such as ICOSLG,
+CD244 and CD86, where binding is proposed to be independent of CAR
+expression. Subtracting the hits of the mock transduced T cells from the
+BCMA CAR T cells demonstrated specific binding of the CAR T cells to
+BCMA. Utilizing the fully human IgGs directed against BCMA from which the
+single-chain variable fragments (scFvs) of the CARs were derived, we
+further confirmed specific binding to BCMA in additional secondary
+screens. Additionally, a lack of off-target binding of the fully human
+IgGs to normal tissue was demonstrated in a tissue cross reactivity
+screen.
+
+Conclusions: These studies highlight the tractability of this cell
+microarray approach for determining the specificity of novel CAR
+constructs expressed in T cell. Demonstrating the selectivity and
+specificity of anti-BMCA CAR T cells further supports the progression of
+KITE-585 towards Phase 1 clinical studies in MM patients.
+
+

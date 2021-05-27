@@ -1,0 +1,86 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Stromal antigen 1 (SA1) as a potential pro-neoplastic factor in
+non-small-cell lung cancer (NSCLC).
+
+
+Introduction:
+
+SA1, encoded by the STAG1 gene, is a subunit of the higher-order
+chromatin remodeler cohesin. SA1 deficiency has been implicated as a
+driver of aneuploidy and tumorigenesis (Remeseiro et al, EMBO J 2012).
+Furthermore, our lab has recently shown that SA1 functions as a tumor
+suppressor protein in early colon cancer (Wali et al, Cancer Prev Res
+2016). The aim of this project was to investigate the role of SA1 in
+NSCLC. Combining data from The Cancer Genome Atlas (TCGA), human lung
+tissue, and in vitro gene knockdown, we have surprisingly identified SA1
+as a potential pro-neoplastic factor in NSCLC.
+
+Methods:
+
+Data was extracted from TCGA and plotted to characterize STAG1 gene
+alteration in NSCLC. Immunohistochemistry (IHC) was performed on human
+lung tissue microarray assay (TMA) to assess SA1 protein expression.
+Transient knockdowns were performed on A549 human lung adenocarcinoma
+cells using STAG1 siRNA (Dharmacon) with an incubation time of 48 hours.
+Following this, quantitative real-time polymerase chain reaction (qPCR,
+Life Technologies) and WST-1 cell proliferation assays (Promega) were
+performed as per protocol.
+
+Results:
+
+STAG1 alterations occur in about 3% of lung adenocarcinoma and 17% of
+lung squamous cell carcinoma. Of these alterations, the majority were
+amplifications. Furthermore, although not reaching statistical
+significance, there was a trend towards decreased survival with STAG1
+alteration in adenocarcinoma patients (11.6 months vs. 46 months). IHC
+demonstrated a 1.7-fold increase in SA1 protein expression in NSCLC when
+compared with non-malignant lung tissue (pSTAG1 alterations occur in
+about 3% of lung adenocarcinoma and 17% of lung squamous cell carcinoma.
+Of these alterations, the majority were amplifications. Furthermore,
+although not reaching statistical significance, there was a trend towards
+decreased survival with STAG1 alteration in adenocarcinoma patients (11.6
+months vs. 46 months). IHC demonstrated a 1.7-fold increase in SA1
+protein expression in NSCLC when compared with non-malignant lung tissue
+(p<0.001). Transfected A549 cells showed a 78% decrease in SA1 RNA
+expression (qPCR, p=0.0002) and a 50% decrease in cell proliferation
+(WST-1, pSTAG1 alterations occur in about 3% of lung adenocarcinoma and
+17% of lung squamous cell carcinoma. Of these alterations, the majority
+were amplifications. Furthermore, although not reaching statistical
+significance, there was a trend towards decreased survival with STAG1
+alteration in adenocarcinoma patients (11.6 months vs. 46 months). IHC
+demonstrated a 1.7-fold increase in SA1 protein expression in NSCLC when
+compared with non-malignant lung tissue (p<0.001). Transfected A549 cells
+showed a 78% decrease in SA1 RNA expression (qPCR, p=0.0002) and a 50%
+decrease in cell proliferation (WST-1, p<0.0001). Proliferating cell
+nuclear antigen (PCNA), a marker of cell proliferation, was also
+decreased by 37% in transfected cells (pSTAG1 alterations occur in about
+3% of lung adenocarcinoma and 17% of lung squamous cell carcinoma. Of
+these alterations, the majority were amplifications. Furthermore,
+although not reaching statistical significance, there was a trend towards
+decreased survival with STAG1 alteration in adenocarcinoma patients (11.6
+months vs. 46 months). IHC demonstrated a 1.7-fold increase in SA1
+protein expression in NSCLC when compared with non-malignant lung tissue
+(p<0.001). Transfected A549 cells showed a 78% decrease in SA1 RNA
+expression (qPCR, p=0.0002) and a 50% decrease in cell proliferation
+(WST-1, p<0.0001). Proliferating cell nuclear antigen (PCNA), a marker of
+cell proliferation, was also decreased by 37% in transfected cells
+(p<0.001).
+
+Conclusions:
+
+Using TCGA data, we found that STAG1 alteration occurs with some
+frequency in NSCLC and that many of these alterations are amplifications
+of the gene. Furthermore, there is a trend towards decreased survival
+with a STAG1 gene alteration. Our IHC data shows robust over-expression
+of SA1 in NSCLC when compared with non-malignant lung tissue. Our qPCR
+data showed a profound decrease in SA1 mRNA expression following
+transfection; accordingly, our WST-1 proliferation data suggests that
+knockdown of the STAG1 gene significantly decreases proliferation of A549
+lung adenocarcinoma cells. Decreased PCNA confirms a true
+anti-proliferative effect, rather than a pro-apoptotic effect. This novel
+data suggests a link between SA1 and NSCLC, of which there are no prior
+published accounts. Even more compelling is the implication that in
+NSCLC, SA1 may be pro-neoplastic rather than anti-neoplastic, which
+introduces a new potential target for future gene therapy.
+
+

@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Tumor cell isolation using antibody/aptamer-based multivalent
+binding
+
+
+Isolation and enumeration of circulating tumor cells (CTCs) in peripheral
+blood have been used for cancer diagnosis, prognosis, and theragnosis.
+The majority of the CTC isolation methods, including the FDA-approved
+CellSearch, employ one antibody to capture tumor cells. Using such a
+monovalent-binding capture agent likely results in lower cell capture
+efficiency than multivalent-binding methods, which tend to have stronger
+binding force (or lower dissociation constant).We have investigated in a
+multivalent-binding-based tumor cell isolation method by immobilizing a
+mixture of aptamers and antibodies on the surfaces of microfluidic
+devices. Since aptamers are much smaller in the size (8-15 kDa) than
+antibodies (150 kDa), aptamers and antibodies could interact with
+different receptors on cell surfaces, resulting in a configuration that
+one cell simultaneously interacts with multiple different types of
+capture agents. The microfluidic devices we used are in the size of a
+microscope slide and each of them consists of an inlet, eight parallel
+channels connected via consecutive bifurcation, and an outlet. There are
+micromixers inside the channels for enhanced interactions. Biotinylated
+aptamers and biotinylated antibodies were coated onto microchannel
+surfaces using avidin-biotin chemistry.We tested the devices by isolating
+human leukemia cells (CCRF-CEM) in devices immobilized with a mixture of
+sgc8 aptamers and protein tyrosine kinase-7 (PTK7) antibodies. Both sgc8
+aptamers and anti-PTK7 exhibited strong binding with CCRF-CEM cells
+according to flow cytometry. An antibody-to-aptamer ratio of 1:300 showed
+the highest capture efficiency among the range we studied (from 1:30 to
+1:3000). We found that the antibody-aptamer surfaces had higher capture
+efficiency than antibody-alone or aptamer-alone surfaces; the degree of
+enhancement increased with the flow rate. Control experiments using
+non-specific aptamer (TD05) and non-specific antibody (anti-EpCAM) were
+carried out to verify the benefits of multivalent binding. We also found
+that the multivalent-binding surfaces have higher specificity than
+monovalent-binding surface, especially at a high flow rate. A calibration
+curve was obtained by spiking leukemia cells into human whole blood.In
+summary, antibody/aptamer-coated multivalent-binding surfaces in
+microfluidic devices showed higher capture efficiency and specificity
+than monovalent-binding surfaces, suggesting their potential for the
+isolation and enumeration of CTCs for clinical applications.
+

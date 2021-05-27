@@ -1,0 +1,66 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Single nucleotide variants in metastasis-related genes are
+associated with breast cancer risk, by lymph node involvement and ER
+status, in women with European and African ancestry
+
+
+Inherited genetic variation may partially explain inter-patient
+variability in prognosis by influencing lymph node involvement and
+estrogen receptor (ER) status in breast cancer patients, which may differ
+by ancestral background. We examined 154 tagging single nucleotide
+polymorphisms (SNPs) in 12 metastasis-related genes (BRMS1, CDH1, CD82,
+CTNNB1, KISS1, MTA1, MTA2, MTA3, NME1, SATB1, SIPA1, SNAI1) for
+associations with risk of breast cancer, stratified by lymph node and ER
+status.Genotyping was performed in 2,671 European-American (EA) and
+African-American (AA) women enrolled in the Women's Circle of Health
+case-control study (WCHS) using Illumina GoldenGate assays. Single-SNP
+and haplotype associations were analyzed using logistic regression.
+Pathway analyses were conducted using the adaptive rank truncated product
+(ARTP) method, with p0.10 as significant. To estimate risk, multiallelic
+scores were created using the SNPs in the significant gene(s). All models
+were adjusted for age and ancestry; multiallelic score models also
+included demographic covariates. P-values were corrected using the false
+discovery rate (FDR) method.Single-SNP and haplotype associations were
+not significant after FDR adjustment at pInherited genetic variation may
+partially explain inter-patient variability in prognosis by influencing
+lymph node involvement and estrogen receptor (ER) status in breast cancer
+patients, which may differ by ancestral background. We examined 154
+tagging single nucleotide polymorphisms (SNPs) in 12 metastasis-related
+genes (BRMS1, CDH1, CD82, CTNNB1, KISS1, MTA1, MTA2, MTA3, NME1, SATB1,
+SIPA1, SNAI1) for associations with risk of breast cancer, stratified by
+lymph node and ER status.Genotyping was performed in 2,671
+European-American (EA) and African-American (AA) women enrolled in the
+Women's Circle of Health case-control study (WCHS) using Illumina
+GoldenGate assays. Single-SNP and haplotype associations were analyzed
+using logistic regression. Pathway analyses were conducted using the
+adaptive rank truncated product (ARTP) method, with p0.10 as significant.
+To estimate risk, multiallelic scores were created using the SNPs in the
+significant gene(s). All models were adjusted for age and ancestry;
+multiallelic score models also included demographic covariates. P-values
+were corrected using the false discovery rate (FDR) method.Single-SNP and
+haplotype associations were not significant after FDR adjustment at
+p<0.05. In AA women, significant ARTP gene-level associations included
+CDH1 with risk of lymph node positive breast cancer (p = 0.10) and SIPA1
+with ER negative breast cancer in both case-control (p = 0.10) and
+case-case (p = 0.09) analyses. Multiallelic scores computed from SNPs in
+CDH1 and SIPA1 were associated with node positive (OR = 1.13, 95% CI
+1.07-1.19, pFDR = 0.0003) and ER negative (OR = 1.16, 95% CI 1.02-1.31,
+pFDR = 0.03) breast cancer, respectively.In EA women, MTA2 was associated
+with overall risk of breast cancer at the ARTP gene-level (p = 0.004),
+regardless of ER status, and with node negative breast cancer (p = 0.01).
+SATB1 and KISS1 were also significant in ER negative (ARTP gene-level p =
+0.03) and node negative (ARTP gene-level p = 0.10) analyses,
+respectively. Among EA lymph node positive cases, significant ARTP
+gene-level associations were observed for SNAI1 (p = 0.10), CD82 (p =
+0.05), NME1 (p = 0.10), and CTNNB1 (p = 0.09). The SNAI1-CD82-NME1-CTNNB1
+multiallelic risk score was associated with node positive (OR = 1.09, 95%
+CI 1.04-1.14, pFDR = 0.001) and the MTA2-KISS1 score with node negative
+breast cancer (OR = 1.18, 95% CI 1.08-1.29, pFDR = 0.002). Stratified by
+ER status, the MTA2 score was associated with ER positive (OR = 1.16, 95%
+CI 1.05-1.30, pFDR = 0.01) and the MTA2-SATB1 score with ER negative
+breast cancer (OR = 1.12, 95% CI 1.05-1.20, pFDR = 0.003).Our findings
+suggest that genetic variants in several metastasis genes may affect risk
+of breast cancer by lymph node or ER status. These results require
+verification in larger studies, particularly those that can evaluate
+long-term prognosis.
+

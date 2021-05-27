@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Co-targeting of PD-1 and CTLA-4 inhibitory pathways with
+bispecific DART® and TRIDENT™ molecules.
+
+
+Introduction: Immunotherapy with the combination of monoclonal antibodies
+(mAbs) that block PD-1 (nivolumab) and CTLA-4 (ipilimumab) has shown
+clinical benefit beyond that observed with either mAb alone. We have
+developed PD-1 x CTLA-4 bispecific proteins aimed at inducing antitumor
+immunity through simultaneous blockade of both checkpoint molecules. Two
+proteins, a tetravalent PD-1 x CTLA-4 bispecific DART® protein (bivalent
+for both PD-1 and CTLA-4) and a trivalent PD-1 x CTLA-4 TRIDENT™
+protein (bivalent for PD-1 but monovalent for CTLA-4) were engineered;
+the TRIDENT protein was designed to promote CTLA-4 blockade through
+avidity when bound to PD-1 on cells co-expressing both receptors, thus
+favoring PD-1 over CTLA-4 blockade in cells that do not co-express both
+molecules.
+
+Methods: Proteins were engineered from humanized PD-1 and CTLA-4 mAb
+sequences and demonstrated favorable biophysical properties. Binding
+assays were performed by ELISA or flow cytometry. Co-ligation of PD-1 and
+CTLA-4 was assessed in an enzyme-fragment complementation assay
+(DiscoverX). T-cell activation was tested in reporter cells,
+staphylococcus enterotoxin B-stimulated PBMCs or MLR assays.
+
+Results: Both DART and TRIDENT proteins showed equivalent potency in
+binding immobilized recombinant PD-1 or PD-1-expressing cell lines,
+inhibition of PD-1 interaction with PD-L1 or PD-L2 as well as reversal of
+PD-1/PD-L1 mediated T-cell signal inhibition. In all assays, both formats
+showed activities that were comparable to those of the precursor PD-1
+mAb. With respect to CTLA-4, the DART protein showed a minor potency loss
+in binding to CTLA-4 expressing cells, inhibition of CTLA-4/B7
+interaction and reversal of T-cell signal inhibition compared to the
+precursor mAb. The TRIDENT protein, however, showed substantial lower
+potency than the DART protein in all CTLA-4 assays, consistent with the
+monovalent nature of the CTLA-4 arm. Importantly, in cells that
+co-express both receptors, DART and TRIDENT proteins show comparable
+co-engagement of PD-1 and CTLA-4, as shown by enzyme-fragment
+complementation, suggesting that anchoring through PD-1 compensates for
+the decreased CTLA-4 avidity of the TRIDENT molecule when both target
+receptors are expressed. Similarly, in T-cell co-activation assays, both
+DART and TRIDENT proteins showed a comparable increase in IFN-gamma
+response that recapitulated that observed with the combination of the
+individual parental mAbs.
+
+Conclusion: Both PD-1 x CTLA-4 DART and TRIDENT bispecific molecules
+block PD-1 and CTLA-4 pathways, with the TRIDENT protein demonstrating a
+PD-1-biased binding preference, consistent with its design intended to
+reduce CTLA-4 blockade in the absence of PD-1 co-expression. Both
+molecules showed comparable T-cell activation activity. Further
+development of bispecific PD-1 x CTLA-4 molecules for cancer treatment is
+warranted.
+
+

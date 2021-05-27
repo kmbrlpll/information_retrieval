@@ -1,0 +1,56 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Interrogating the impact of pregnancy on breast cancer biology
+using DNA copy number profiling.
+
+
+Background
+
+Epidemiological evidence indicates a clear relationship between pregnancy
+and breast cancer (BC) risk. However, little is known regarding the
+impact of pregnancy on BC biology. DNA copy number aberrations (CNAs)
+play an important role in breast carcinogenesis. BC during pregnancy is a
+rare disease, however it can be used as a model to study the impact of
+pregnancy on BC biology.
+
+Methods
+
+We retrospectively included 54 pregnant and 113 non-pregnant BC patients
+matched for age and stage with complete clinic-pathological, gene
+expression and 5-year follow-up data. CNAs were assessed using Affymetrix
+OncoScan FFPE arrays. First, we filtered genes whose expression was
+driven by CNAs. Then, we identified genes that were differentially
+affected by pregnancy both at the CNA and the gene expression level.
+
+Results
+
+After quality control, CNA profiles were obtained for 38 pregnant and 87
+non-pregnant BC patients. There were no significant differences in
+classical clinic-pathological features (pT, pN, grade, PAM50). We
+selected 1981 genes whose expression was correlated with CNAs (ρ ≥
+0.4). Among these, 77 genes were altered at the expression level (p ≤
+0.01) between pregnant and control patients, whereas 171 genes were
+altered at the CNA level (p ≤ 0.05). Twenty-eight genes were
+concomitantly altered at the expression and CNA levels which was
+significantly higher than expected (p = 0.021, permutation test). These
+genes were mapped on three different chromosomes. Genes located on chr7q
+and chr11q were associated with copy number gains and were up-regulated
+in pregnant patients whereas genes located on chr22q were associated with
+copy number loss in control patients. Of interest we identified 6
+putative oncogenes (CDK6, ESRRA, S6K2, LIMK2, MKL1) that were
+up-regulated in pregnant patients. A ‘pregnancy-associated breast
+cancer signature’ was computed from the expression of the 28 genes.
+There was a negative relationship between the signature and the
+expression of ESR1 and PGR genes. This signature was significantly more
+correlated with the proliferation-associated AURKA gene in pregnant
+patients as compared to control (ρ = 0.73 vs ρ = 0.24, p = 0.001).
+
+Conclusions
+
+In this study, we were able to identify several genomic alterations
+associated with pregnancy that could help elucidate the impact of
+pregnancy on BC risk. Moreover, by combining CNAs with gene expression,
+we were able to identify genes that could be responsible for the poorer
+prognosis seen in pregnancy-associated breast cancer and could be
+potential drivers of this rare disease.
+
+

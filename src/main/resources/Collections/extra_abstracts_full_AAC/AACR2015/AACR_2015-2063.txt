@@ -1,0 +1,29 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A novel ELAVL1-TYK2 fusion protein drives STAT3/5 activation and
+PIM-1 expression, survival and growth in the MOLM-16 acute myeloid
+leukemia cell line
+
+
+Pim kinases are upregulated in leukemias and lymphomas and mediate cell
+growth and survival. Acute myeloid leukemia cell lines sensitive to the
+pan-Pim kinase inhibitor AZD1208 showed elevated pSTAT5 and Pim-1
+expression that correlated with known tyrosine kinase mutations. However,
+one of the most sensitive lines, MOLM-16, lacked a reported driver
+mutation. RNA transcriptome sequencing identified a novel fusion gene
+comprised of the TYK2 kinase domain fused to the N-terminus of the RNA
+binding protein ELAVL1/HuR. The genes are co-localized within 2 MB on the
+short arm of chromosome 19, at position 13.2. The fusion results in loss
+of the Tyk2 pseudokinase domain, which negatively regulates kinase
+activity, suggesting a gain of function genetic alteration. Tyk2 was
+highly expressed and found to be amplified in MOLM-16 cells, with a
+higher degree of amplification of the exons encoding the kinase domain.
+Knockdown experiments demonstrated that down-regulation of the fusion
+gene, but not of the wild type ELAVL1 or TYK2 transcripts, resulted in
+suppression of STAT3/5 phosphorylation, Pim1 levels, and proliferation.
+Conversely, expression of the ELAVL1-TYK2 fusion protein in FDCP1 cells
+was shown to confer IL-3 independent growth. The fusion was not
+identified in screening of 200 AML patient samples or through analysis of
+TCGA data suggesting that it occurs at a low frequency, but interestingly
+NPM1-Tyk2 fusions have recently been described in cutaneous CD30-positive
+lymphoproliferative disorders (Velusamy et al. Blood 2014).
+

@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification of FERM domain-containing protein 5 (FRMD5) as a
+novel target of β-catenin/TCF7L2 complex.
+
+
+Deregulated Wnt signaling is one of the earliest steps in colorectal
+tumorigenesis. The impairment results most frequently from APC mutations,
+which leads to the accumulation of β-catenin and subsequent activation
+of TCF7L2. Although previous studies have identified a number of target
+genes of the activated β-catenin/TCF7L2 transcriptional complex such as
+cMYC and CCND1, the comprehensive effect of the activation on
+tumorigenesis remains to be elucidated. To understand the precise
+molecular mechanisms underlying colorectal cancer, we searched for novel
+genes regulated by the complex in colorectal tumors. We performed
+expression profile analysis of HCT116 and SW480 colon cancer cells
+treated with β-catenin siRNAs, and combined these data with public
+microarray data of LS174 cells treated with a dominant-negative form of
+TCF7L2. As a result, we identified a total of 134 genes that were
+regulated by both β-catenin and TCF7L2. Subsequent ChIP-sequence with
+TCF7L2 antibody selected 11 genes from the 134 genes as candidates of
+direct target genes. In this study, we focused on FERM domain-containing
+protein 5 (FRMD5) among the 11 candidates. Quantitative PCR confirmed
+that its expression was reduced by β-catenin siRNA in HCT116 and SW480
+cells. ChIP-quantitative PCR analysis with ant-TCF7L2 antibody also
+corroborated the interaction of TCF7L2 with a region (hg19;
+chr15:44,449,680-44,450,487) within intron 1 of FRMD5. Reporter assay
+with plasmids containing this region revealed that the reporter activity
+was down-regulated by the knockdown of β-catenin. These data suggested
+that FRMD5 is a direct target of β-catenin/TCF7L2 complex, and that the
+region is involved in the transcriptional activation through an
+interaction with the complex. Consistently, its expression was elevated
+in colorectal tumors compared to normal colonic mucosa in public
+microarray data. To uncover the role of FRMD5 in colorectal
+carcinogenesis, we analyzed expression profile of HCT116 cells treated
+with FRMD5 siRNA, and combined the data with profile with β-catenin
+siRNA. Gene set analysis with 53 commonly up-regulated and 36 commonly
+down-regulated genes by both FRMD5 and β-catenin disclosed that the gene
+sets of DNA replication, cell cycle, and extracellular matrix (ECM) were
+altered by FRMD5. These data may be useful for the future studies of
+colorectal carcinogenesis.
+
+

@@ -1,0 +1,36 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Transcriptome analyses of the tumor cell line resistant to
+anti-VEGF therapy.
+
+
+Despite overt clinical success of anti-VEGF (vascular endothelial growth
+factor) agents, such as Avastin, for cancer patients, increasing evidence
+shows that prolonged treatment of anti-VEGF therapy results in tumor
+resistance. In order to understand how tumor cells become resistant to
+anti-VEGF therapy, we developed a mouse Lewis lung carcinoma (LLC) cell
+line, which was resistant to a potent VEGF blocker, VEGF-Trap. The cell
+line was established through five rounds of VEGF-Trap treatment and
+selection in vivo. In each round, C57BL/6 mice were inoculated with LLC
+cells and subjected to VEGF-Trap or PBS treatment. Tumors grown from
+treated mice were harvested and the isolated cells were injected to a new
+batch of mice for the next round of treatment. It was found that tumor
+cells became insensitive to VEGF-Trap in vivo after five rounds of
+VEGF-Trap treatment, i.e., VEGF-Trap no longer inhibited tumor growth. In
+contrast, VEGF-Trap remained efficacious to the LLC cells which underwent
+five passages in mice but treated with PBS. The resistance phenotype was
+maintained in LLC cells after the tumor cells were expanded for a number
+of passages in vitro, indicating that the resistance was due to inherited
+alterations in tumor cells. To gain insights into the molecular mechanism
+underlying the resistance to anti-VEGF therapy, we compared transcriptome
+profiles of the resistant and non-resistant tumor cells using mRNA-seq.
+The next generation sequencing reads were aligned to mouse genome; gene
+transcripts were assembled and calculated for relative abundance for
+individual gene. Results showed that 644 genes were differentially
+expressed with statistically significances, 317 up-regulated and 327
+down-regulated in the resistant tumor cells. Interestingly, VEGF-C was
+significantly up-regulated in the resistant tumor cells (fold change =
+4.91), which was further verified by real-time PCR analysis. Given the
+stimulatory effects of VEGF-C on both angiogenesis and lymphatic
+angiogenesis, it is possible that VEGF-C over-expression plays a role in
+the development of LLC tumor resistance to anti-VEGF therapy.
+

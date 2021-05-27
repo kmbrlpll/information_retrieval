@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Highly accurate genetic profiling of circulating tumor cells using
+a label-free inertial microfluidic approach coupled with droplet
+PCR-based next-generation sequencing
+
+
+Background: Circulating tumor cells (CTCs) could provide significant
+insights into cancer metastatic events and potentially even inform
+clinical decisions. However, the scarcity of CTCs, compounded by the
+abundance of circulating white blood cells, poses a major technical
+challenge in the isolation, yield and downstream molecular analysis.
+Moreover, next-generation sequencing (NGS) of CTCs has been challenged by
+low CTC purity and nucleic acid yields commonly derived from existing
+technologies. Here, we present a label-free microfluidic approach that
+utilizes curvilinear microchannel geometry for high purity CTC enrichment
+from 7.5 ml whole blood.Methods: We showed high purity isolation of CTCs
+using a label-free inertial focusing microfluidics platform, ClearCell
+FX. The lung cancer cell line, NCI-H1975, with known EGFR, CDKN2A and
+TP53 mutations, were spiked into 7.5ml healthy donor peripheral blood
+samples at varying concentrations (50, 100, 200 cells). DNA was extracted
+using the QIAamp Micro kit. The Thunderbolts Cancer Panel droplet digital
+PCR NGS library preparation method was used to enrich 230 loci in 50
+known cancer genes from the isolated CTC gDNA. The libraries were
+sequenced on a MiSeq system.Results: The CTCs were sufficiently enriched
+with an average recovery of 45.8% and purities ranging from 1% - 70%. All
+libraries were successfully generated and sequenced with 1400 mean
+coverage, even with as little as 2 ng of starting material. Known EGFR,
+CDKN2A and TP53 mutations in H1975 were successfully detected in all the
+samples (n = 9), with a significant variant frequency that correlates
+with CTC purity levels.Conclusion: We have demonstrated a highly accurate
+and sensitive workflow utilizing a combination of inertial focusing and
+digital droplet microfluidics to detect low numbers of rare CTCs and
+interrogate their molecular profiles from as little as 10 cells/mL
+frequency. This workflow has the potential for further development and
+adoption as a liquid biopsy approach for non-invasive genomic profiling
+of metastatic cancers.
+

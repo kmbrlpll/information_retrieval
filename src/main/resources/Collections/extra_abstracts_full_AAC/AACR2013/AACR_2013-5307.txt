@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Paired analysis of matched colon normal and tumor using whole
+exome sequencing.
+
+
+Background: Whole Exome sequencing (WES) is a tool that is
+revolutionizing screening for pathogeni single nucleotide variations
+(SNV) in complex disorders such as cancers. Using matched normal-tumor
+pairs, it is possible to identify exome-wide germline and somatic variant
+alterations that may have an effect on disease progression or response to
+different interventions. The existing analysis pipelines are under
+continuous enhancements. In analyzing matched pairs, there is a critical
+assumption that the sequenced data are matched, without any quality
+check. Identification of germline and rare somatic variants depend on the
+normal sample being the qualified matched pair. Our aim was to determine
+if Identity By State (IBS), a genetics concept on measuring relatedness
+between individuals (matched tumor-normal pairs) can assess somatic
+landscape between individual using WES data. Materials and Methods:
+Genomic DNA was extracted from 8 normal-tumor pair tissues from African
+Americans (males n=3, females n=5) with colorectal cancer (CRC). WES was
+performed for identification of SNV according to manufacturer
+recommendations (Illumina HiScan SQ). The low quality reads were
+discarded and the clean reads were aligned against the human reference
+genome (HG19) and base quality calibration was completed using SAMTools,
+and GATK for variant calling and annotation. Pairs with no shared allele,
+one shared allele, and two shared allele assigned as IBS 0, IBS 1, and
+IBS 2 respectfully. Alleles in the dataset were coded using A and B and
+pairwise IBS was computed between all samples. Display of the IBS
+landscape was done using GenomeRelator. Results: The frequency of IBS
+from WGS data sets showed that most of the changes were IBS-1 which were
+heterozygous variants; i.e. AA/BB>AB (somatic) or AB>AA/BB (LOH).
+Frequency of LOH varied from 4.36% to 73.61%. Homozygous variant (i.e.
+IBS-0, AA>BB) on the other hand was not common, from 0.00% to 4.17%.
+Distribution of IBS across genome for matched pairs reveals that most of
+the IBS were IBS-2, indicating that both alleles between matched normal
+and tumor were similar. Frequency of IBS-1 and IBS-0 varied amongst the
+samples. Sample CC1053 had the most allele changes in chr1-22, and Xq,
+and sample CC1054 showed the second highest allele changes in
+chr1,3,4,6,8,9,10,11,13, 16, 17,19,20 and 22. Conclusion: Our results
+showed that the SNV difference between normal-tumor matched pair is
+relatively small consistent with the assumption of low mutation rate in
+cancer. IBS approach provides the tumor contents as well as assurance in
+the selection of samples for sequencing using SNP data. In our samples
+88% similarly was found, as shown in IBS landscape across the
+chromosomes. We concluded that our matched pair samples are appropriately
+selected and are suitable for analysis of mutation across the samples.
+

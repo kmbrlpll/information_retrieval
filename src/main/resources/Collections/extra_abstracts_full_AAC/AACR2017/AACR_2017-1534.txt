@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The significance of a p53 gain-of-function mutation in the
+acquisition of metastatic traits in the SW13 cell line.
+
+
+The therapeutic potential of histone deacetylase inhibitors (HDACi),
+shown to epigenetically regulate a variety of genes, has yet to be fully
+realized due to their documented pleiotropic effects in vivo. Currently,
+four HDACi are FDA-approved for the treatment of hematological
+malignancies, but their effectiveness against other types of cancers have
+been shown to be limited at best and, as a result, most of these clinical
+trials have failed. A comprehensive review of the recent literature has
+identified that approximately 50% of all cell lines treated with an HDACi
+demonstrate an increase in metastatic potential as measured by increases
+in migration and invasion. Of these cell lines that respond with
+increased metastatic potential to HDACi treatment, 60% have a
+gain-of-function mutation within p53 (p=0.03). As HDACi have been shown
+to destabilize mutant p53, they have been used in studies to examine the
+effects of HDACi treatment on cancers with an identified p53 mutation.
+This is concerning as the specific p53 mutation in these cancers is not
+always known, and thus treatment could potentially result in an increase
+in cancer cell growth. Previous work in our lab demonstrates that the
+human SW13 adrenal adenocarcinoma cell line, which harbors a homozygous
+H193Y gain-of-function mutation, does have an HDACi-induced metastatic
+phenotype; treated cells demonstrate significant increases in MMP
+activity and ~50% reduction in p53 protein expression compared to
+untreated cells. To investigate the role that a decrease in mutant p53
+expression plays in the acquisition of metastatic characteristics we
+utilized stable shRNA plasmids to knock-down p53 expression in the SW13
+cell line. HeLa cells, which possess a wild-type p53 gene, were used as a
+positive control. We found that a decrease in p53 expression alone was
+not sufficient to induce changes in SW13 growth or invasiveness. In fact,
+even though p53 expression was knocked down by ~70% in the shRNA lines,
+HDAC inhibition still induced the acquisition of metastatic properties in
+these cells. Intriguingly, while the DNA binding activity of mutant p53
+was correlated with protein expression and was significantly decreased
+following HDAC inhibition, the same response was not observed in HeLa
+cells. These findings suggest that p53 status may be an important
+determinant of therapeutic response to HDAC inhibition.
+
+

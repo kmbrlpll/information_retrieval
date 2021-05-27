@@ -1,0 +1,60 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Transformation from melanocytes or nevi into melanoma: models
+based on a transcriptome meta-analysis.
+
+
+Background
+
+Melanoma is the most aggressive skin cancer due to its ability to rapidly
+metastasize and resist radio- and chemotherapy. The frequency of this
+disease has increased 400% worldwide in the last 30 years. There are 2
+ways to develop melanoma: direct transformation of melanocytes into
+melanoma and the nevus as an intermediary. Here, we used a computational
+strategy based on transcriptome meta-analysis to identify the pathways
+involved in the 2 possible ways by which cells may transform to melanoma.
+
+Methods
+
+Affymetrix HU 133A Plus 2.0 microarray files (50 in total) were collected
+from the Gene Expression Omnibus database for the meta-analysis,
+representing melanocytes, nevi and stage I, II, and III melanoma.
+Differential expression was analyzed using linear models and the limma
+library. The analysis focused on 3 comparisons: nevi vs. melanocytes;
+melanoma vs. nevi; and melanoma vs. melanocytes. Transcripts with a log
+fold change of 1 (B-statistic >3) were included in the study. Functional
+enrichment analysis identified the most deregulated pathway. Genes
+resulting from the intersection of the melanoma vs. nevi and melanoma vs.
+melanocytes comparisons were used as possible biomarkers of
+transformation and analyzed by IPA.
+
+Gene signature identification
+
+In melanoma vs. nevi comparison, 1881 expressed genes were differentially
+expressed, of which only 888 were used to generate the transformation
+model and to perform functional enrichment. Consistent with the
+phenomenon of malignant transformation, we identified 3 pathways
+associated with cell cycle checkpoint control that exhibited decreased
+activity. Conversely, the pathways that exhibited increased activity,
+Estrogen-mediated S-phase Entry and Cyclins and Cell Cycle Regulation,
+promote cell cycle progression. In melanoma vs. Melanocytes comparison,
+4112 expressed genes were differentially expressed (2310 downregulated
+and 1802 upregulated), 1099 of which intersected with the nevi vs.
+melanocytes comparison. The 682 genes intersecting the melanoma vs. nevi
+comparison were removed. Thus, 2331 genes were used to perform enrichment
+analysis. The main result was the decreased activity of the cAMP-mediated
+signaling pathway. The intersection of both comparisons (682 genes), was
+used to identify 22 genes upregulated whose product is a secreted
+protein. Two of these genes were previously reported as potential
+biomarkers in neoplasia, cytokines CXCL8 and CXCL16, supporting the
+quality of our analysis.
+
+Conclusions
+
+Our analysis, in agreement with previously reported results, identify
+CXCL8 as biomarker of melanoma, and also identified new biomarkers,
+including CXCL16, MMP19, BIVM, and FAM60A. A better understanding of the
+specific molecular alterations causally involved in this disease may lead
+to new biomarkers and pathways involved in the transformation for this
+currently incurable malignancy.
+
+

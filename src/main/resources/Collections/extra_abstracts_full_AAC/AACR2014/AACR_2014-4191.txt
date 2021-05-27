@@ -1,0 +1,39 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Whole exome sequencing of a case of olfactory neuroblastoma
+
+
+Purpose: Olfactory neuroblastoma (ONB) is an unusual malignancy occurred
+in sinonasal tract and molecular characteristics were poorly understood.
+Here we analyzed sequence of a fresh tissue from an olfactory
+neuroblastoma patient through whole exome sequencing to identify
+ONB-specific mutations.Methods: We examined fresh tumor sample with
+matched peripheral blood from a patient diagnosed olfactory
+neuroblastoma. All procedures were approved by IRB in Seoul National
+University Hospital. He was 30 years old and had chemotherapy, surgery
+and radiotherapy. He had a recurrent disease with metastasis to bones and
+lymph nodes, and tumor tissue was obtained from a lymph node. Genomic DNA
+was isolated from a dissected tissue and whole exome library was
+constructed using Agilent SureSelectXT Human All Exon V4+UTRs (71Mb).
+Sequencing was performed by Illumina HiSeq2000 platform with paired-end
+101bp reads and sequenced data was aligned to human reference genome g1k
+v37 using Burrows-Wheeler Aligner (BWA). Then, a series of
+bioinformatical tools were used such as SAMtools, PICARD, the Genome
+Analysis Toolkit (GATK) and MuTect to list up potential candidate genes.
+These genes were filtered out considered as germline variants informed in
+database like dbSNP, 1000 genome project and exome sequencing project
+6500 (esp6500). Final candidate genes were identified by manual curation
+based on cancer gene classification of public database and
+publications.Results: Our approach generated 15Gb and 17Gb of mapped
+sequence, with 97.91% and 98.43% of the target regions covered at least
+10X depth in tumor and normal sample, respectively. After processing and
+filtering, we identified 8 candidate cancer genes including 5 somatic
+nucleotide variants (SNVs; CDKN2C, NBPF1, NBPF10, TGFBR2 and TP53) and 3
+insertion/deletion mutations (ACVR1B, AR and CARD11). Among SNVs, CDKN2C
+showed stopgain SNV resulted in truncated mutation and the same mutation
+in TP53 were recurrently reported in COSMIC database. Cancer gene
+candidate indel mutations included 2 frameshift insertions (ACVR1B and
+CARD11) and 1 nonframeshift insertion (AR).Conclusions: We analyzed a
+patient of olfactory neuroblastoma using our WES pipeline and several
+genes were identified to candidate cancer gene mutations which should be
+validated in large number of samples.
+

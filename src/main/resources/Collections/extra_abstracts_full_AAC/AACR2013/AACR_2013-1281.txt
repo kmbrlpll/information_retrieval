@@ -1,0 +1,35 @@
+Meeting: 2013 AACR Annual Meeting
+Title: POLD3 is required for DNA damage response to endogenous and
+exogenous DNA damage in human cells.
+
+
+Methyl methanesulfonate (MMS) induces mutations in a nonlinear
+(hockey-stick-shaped) dose-response curve in DT40 cells, about 55% of
+which are located at A:T sites with a high frequency of A to T mutations.
+We hypothesized that these transversion mutations are due to base
+excision repair (BER) intermediates, such as abasic sites and single
+strand breaks derived from N3-methyladenine. One candidate polymerase to
+bypass abasic sites is polymerase delta (POLD). POLD is responsible for
+the lagging strand during DNA replication. POLD is referred to as a high
+fidelity DNA polymerase because of its ability to discriminate
+deoxynucleotides and its 3->5 exo-nuclease activity. One of the POLD
+subunits, POLD3, is important to recruit PCNA binding to the POLD core
+enzyme and is implied to have critical roles for translesion DNA
+synthesis. In yeast, cells deficient in POLD3 homologous gene POL32 are
+sensitive to DNA damaging agents and resistant to mutations caused by
+mutagens, such as MMS and UV. Here we generated POLD3 knock-down (KD)
+cells via lentivirus based shRNA in three different human cell lines. All
+POLD3 KD cells grow slower than the control cells, suggesting POLD3
+function tolerates endogenous DNA lesions. Furthermore, we found that
+POLD3 KD cells were sensitive to various genotoxic agents including MMS
+and potassium chromate. To further investigate the role of POLD3 in the
+DNA damage response, we introduced a series of deletion mutations of
+POLD3 in POLD3 deficient cells. We found that both the POLD2 binding
+domain and the middle linker domain are critical for the activity of
+POLD3 while the C-terminal PCNA binding domain is dispensable. While
+there is little homology between human POLD3 and yeast POL32, function of
+these two proteins appears to be quite similar in structure biology
+analysis. Our results also suggest that POLD3 plays important roles to
+bypass DNA lesions caused by endogenous and various exogenous genotoxic
+agents.
+

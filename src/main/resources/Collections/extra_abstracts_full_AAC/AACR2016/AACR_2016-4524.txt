@@ -1,0 +1,33 @@
+Meeting: 2016 AACR Annual Meeting
+Title: A rational approach for the discovery of inhibitors of NSD2 for
+the treatment of multiple myeloma
+
+
+Multiple myeloma (MM) is a plasma cell malignancy which accounts for
+approximately 10% of hematologic malignancies. Despite the introduction
+of new therapeutic agents, MM remains incurable and nearly all patients
+ultimately relapse. About 20% of MM are due to a chromosomal
+translocation t(4;14) leading to overexpression of the NSD2 histone
+methyltransferase. NSD2 catalyzes dimethylation of lysine 36 on histone
+H3 (H3K36me2) and is associated with transcriptionally active regions.
+Several studies have shown that in MM harboring the translocation
+t(4;14), oncogenic programming is dependent on the methyltransferase
+activity of NSD2. Thus, NSD2 inhibitors are potential therapeutics for
+this devastating cancerUsing the AlphaLisa technology, we screened
+240,000 compounds coming from our proprietary library. The assay was
+based on the detection of H3K36me2 on nucleosome by a specific antibody.
+False positives hits were removed by a technological counterscreen, and
+compounds with redox or metal contamination activity were excluded. For
+confirmation purposes, an orthogonal counter-screen based on 3H SAM
+incorporation was performed. The IC50 obtained for one of the best
+compounds across the AlphaLisa and 3H SAM incorporation are very similar,
+showing values of 0.15 M and 0.29 M respectively for compound 1.Binding
+affinities measured by MST and SPR for compound 1 were consistent with
+the IC50 observed in the biochemical assays KD = 0.19 M for MST and 1.7 M
+by SPR. This compound was also shown to be a good binder by NMR (STD),
+and further experiments are planned to elucidate the selectivity and MOA
+of this series.To our knowledge, no NSD2 inhibitor have been identified
+to date despite several screening efforts performed by other groups. We
+believe that our hits are promising starting points to generate potent
+and selective NSD2 inhibitors.
+

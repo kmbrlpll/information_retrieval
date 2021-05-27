@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Killing and IFN--dependent G1 cell cycle arrest are the mechanisms
+of regulation of tumor growth by cytotoxic T lymphocytes.
+
+
+Adoptive transfer of CTLs leads to tumor regression in animal models and
+human clinical settings. To understand global effector mechanisms of CTL
+therapy, we performed microarray gene expression analysis for murine CTL
+therapy model using pmel-1 TCR transgenic T cells and B16 melanoma
+cells.Tumor-specific CTLs were prepared from nave pmel-1 splenocytes
+stimulated in vitro with hgp100 peptide-pulsed DCs for 3 days. B16 tumor
+cells (1106) were implanted subcutaneously in C57BL/6 mice. Nine days
+later (day 0), 1107 CTLs were intravenously injected into tumor bearing
+mice. Tumors grew progressively in control mice. In contrast, tumor
+growth was suppressed in mice receiving CTLs by adoptive transfer from
+day 3 through day 7. In CTL-treated mice, CD8+CD90.1+CTLs were detected
+in the tumor as early as day 1 after CTL transfer, peaked on day 3-5 and
+gradually decreased by day 7. Intracellular IFN- staining demonstrated
+that tumor-infiltrating CTLs produced IFN-. The diffuse infiltration of
+CTLs into the tumor was accompanied by the spotty apoptotic or necrotic
+area of the tumor.Tumors were harvested and mRNAs of the tumors were
+subjected to genome-wide gene expression analysis. Besides up-regulation
+of genes that are related to antigen presentation, MHC class I pathway,
+cytotoxic effector molecules, etc., positively regulated cell cycle genes
+were down-regulated at days 3 and 5 after CTL therapy. To analyze cell
+cycle of tumor cells, fucci (fluorescence ubiquitination-based cell cycle
+indicator) was transduced into B16 melanoma cells (B16-fucci), which emit
+red fluorescence in G1-phase and green fluorescence in S-/G2-/M-phases,
+respectively. In the same setting of CTL therapy using B16-fucci, tumors
+were harvested on day 3 and cell cycle was analyzed by calculating
+Green/Red (G/R) ratio in fluorescence microscopic image as well as flow
+cytometry. G1 cell cycle arrest was observed in CTL transfer group (G/R
+ratio: 0.140.06, n=3) but not in control untreated group (G/R ratio:
+0.400.01, n=3) (p=0.014). Infiltrated CTLs and IFN- mRNA in the tumor
+peaked at days 3-5 after CTL therapy. G1 arrest and tumor growth
+inhibition was abrogated by administration of IFN- neutralizing antibody.
+Furthermore, they were also abrogated when B16-fucci expressing IFN-
+receptor that lacks intracellular component (B16-fucciIC) was used in
+this CTL therapy. These results indicated that IFN- by tumor specific
+CTLs were responsible for the G1 cell cycle arrest of B16 melanoma
+cells.Importantly, more tumor cells in cell cycle arrest than those
+undergo apoptosis were accompanied with the infiltration of CTLs into the
+tumor. Though infiltrated CTLs are much less in number compared to tumor
+cells, CTLs can regulate tumor growth dominantly by exerting cytostatic
+effect on tumor cells (G1 cell cycle arrest) rather than cytocidal effect
+(killing them one by one).
+

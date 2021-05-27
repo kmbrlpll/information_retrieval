@@ -1,0 +1,75 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Epigenetic signatures associated with patient outcome in thyroid
+carcinoma.
+
+
+BACKGROUND: Thyroid cancer (TC) is the most frequent endocrine neoplasia
+composed essentially by well-differentiated tumors (90%). These tumors
+generally are indolent and the patients show a favorable outcome.
+However, a set of TC patients presents aggressive outcome. Global
+deregulation of DNA methylation has been described as involved in thyroid
+cancer (TC) development. In this study, DNA methylation profile was
+performed aiming to identify a prognostic signature in TC.
+
+PATIENTS AND METHODS: The methylation profile of 50 non-neoplastic
+thyroid tissues (NT), 17 benign thyroid lesions and 74 TC (60 papillary,
+8 follicular, 2 Hürthle cell, 1 poorly differentiated and 3 anaplastic
+thyroid carcinomas) were investigated using the Methylation 450 Human
+Infinium®BeadChip platform (Illumina). The data were normalized and
+analyzed using SVA, wateRmelon and LIMMA packages. The threshold delta
+beta of 0.2 and adjusted p-value PATIENTS AND METHODS: The methylation
+profile of 50 non-neoplastic thyroid tissues (NT), 17 benign thyroid
+lesions and 74 TC (60 papillary, 8 follicular, 2 Hürthle cell, 1 poorly
+differentiated and 3 anaplastic thyroid carcinomas) were investigated
+using the Methylation 450 Human Infinium®BeadChip platform (Illumina).
+The data were normalized and analyzed using SVA, wateRmelon and LIMMA
+packages. The threshold delta beta of 0.2 and adjusted p-value <0.05 were
+used to identify differentially methylated probes among the histological
+subtypes. The delta beta of 0.1 and adjusted p-value PATIENTS AND
+METHODS: The methylation profile of 50 non-neoplastic thyroid tissues
+(NT), 17 benign thyroid lesions and 74 TC (60 papillary, 8 follicular, 2
+Hürthle cell, 1 poorly differentiated and 3 anaplastic thyroid
+carcinomas) were investigated using the Methylation 450 Human
+Infinium®BeadChip platform (Illumina). The data were normalized and
+analyzed using SVA, wateRmelon and LIMMA packages. The threshold delta
+beta of 0.2 and adjusted p-value <0.05 were used to identify
+differentially methylated probes among the histological subtypes. The
+delta beta of 0.1 and adjusted p-value <0.05 were used in the prognostic
+features analysis in WDTC (well differentiated thyroid cancer) cases. An
+epigenetic classifier according to WDTC was identified using diagonal
+linear discriminant analysis. The results were compared with The Cancer
+Genome Atlas (TCGA) database.
+
+RESULTS: Methylation analyses revealed a specific epigenetic profile
+according to the histological subtypes. A global hypermethylation was
+observed in benign lesions and follicular carcinomas, while papillary and
+undifferentiated carcinomas were widely hypomethylated compared with NT.
+An epigenetic signature comprising 21 probes differentially methylated
+(delta beta 0.1) was able to predict poor outcome in WDTC patients. This
+classifier reveled 63% of sensitivity and 92% of specificity, which was
+confirmed by TCGA database (64% of sensitivity and 88% of specificity).
+Using the established signature, we were able to confirm the involvement
+of poor prognosis markers with high-risk scores (multivariable analysis;
+PRESULTS: Methylation analyses revealed a specific epigenetic profile
+according to the histological subtypes. A global hypermethylation was
+observed in benign lesions and follicular carcinomas, while papillary and
+undifferentiated carcinomas were widely hypomethylated compared with NT.
+An epigenetic signature comprising 21 probes differentially methylated
+(delta beta 0.1) was able to predict poor outcome in WDTC patients. This
+classifier reveled 63% of sensitivity and 92% of specificity, which was
+confirmed by TCGA database (64% of sensitivity and 88% of specificity).
+Using the established signature, we were able to confirm the involvement
+of poor prognosis markers with high-risk scores (multivariable analysis;
+P<0.001).
+
+CONCLUSION: Thyroid tumors showed different methylation profile according
+to the histological subtypes. Genes regulated by methylation in TC and
+associated with the tumor development were identified and confirmed by
+TCGA. In addition, a meaningful algorithm was designed and confirmed as
+capable to predict recurrence in WDTC.
+
+FINANCIAL SUPPORT: FAPESP (2015/20548-5) and National Institute of
+Science and Technology in Oncogenomics (FAPESP 2008/57887-9 and CNPq
+573589/08-9), CNPq (302606/2011-4).
+
+

@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Talazoparib enhances low-dose temozolomide efficacy in flank
+glioblastoma models, but intracranial efficacy is constrained by limited
+brain distribution
+
+
+BACKGROUND: Talazoparib (TAL) is a potent poly (ADP-ribose) polymerase
+(PARP) inhibitor that robustly enhances in vitro sensitivity to
+temozolomide (TMZ) in several tumor models. We assessed the in vitro and
+in vivo efficacy of TAL combined with TMZ in glioblastoma (GBM)
+models.METHODS: Established glioma cell lines (T98G, U251) and the GBM12
+patient derived xenograft (PDX) line were treated in vitro with TAL (1-10
+nM) TMZ (2-300 M). Antitumor efficacy was assessed with CyQUANT,
+clonogenic and primary neurosphere assays; cell cycle analysis with flow
+cytometry; DNA damage signaling with phospho-specific western blots for
+pKap1, pChk1, pChk2 and fluorescent immunocytochemistry for H2AX and
+replication protein A foci. Brain and plasma concentrations of TAL in
+wild-type (WT), Mdr1a/b(-/-), Bcrp(-/-) and Mdr1a/b(-/-)Bcrp(-/-)
+knockout (KO) mice were assessed with LC-MS/MS. The tolerability of TAL
+(0.05 - 0.30 mg/kg/day orally, divided twice daily (div. bid)) and TMZ
+(5-50 mg/kg/day orally) was tested in athymic nude mice. Subsequently, in
+vivo combination TAL/TMZ efficacy was assessed with survival analyses in
+intracranial and flank GBM12 PDX models.RESULTS: TAL 1-3 nM sensitizes
+the TMZ resistant T98G glioma cell line to TMZ at high TMZ concentrations
+(30-300 M) and is associated with G2 cell cycle arrest and enhanced DNA
+damage signaling. TAL 1-3 nM also enhances the cytotoxic efficacy of
+lower concentrations of TMZ (10-30 M) in the TMZ sensitive U251 cell
+line. At least 3 nM TAL is required to enhance the in vitro efficacy of
+low TMZ concentrations (2-10 M) in the TMZ sensitive GBM12 PDX line. PK
+studies in non-tumor bearing WT FVB mice treated with a single dose of
+TAL 0.15 mg/kg revealed mean brain and plasma concentrations of 0.49 ng/g
+(1.3 nM) and 25.5 ng/ml (67.1 nM) respectively at 2 hours. The mean
+brain/plasma ratio at 2 hours was unchanged in Bcrp(-/-) KO mice compared
+to WT mice (1.2% vs. 2.0%), but was significantly increased in
+Mdr1a/b(-/-) KO mice (22.8%) and Mdr1a/b(-/-)Bcrp(-/-) KO mice (23.9%).
+Standard doses of TMZ (50 mg/kg/day, days 1-5) combined with low doses of
+TAL (0.05 mg/kg/day, div. bid) were toxic in nude mice. Higher doses of
+TAL (0.30 mg/kg/day, div. bid) required substantial TMZ dose reductions
+(5 mg/kg/day, days 1-5) for tolerability. The addition of TAL (0.30
+mg/kg/day, div. bid) to low-dose TMZ (5 mg/kg/day) prolonged tumor stasis
+in flank GBM12 xenografts (median time to endpoint 76 vs. 50 days, p =
+0.005). However this regimen was ineffective in intracranial GBM12
+xenografts (median survival 37 vs. 30 days, p = 0.93).CONCLUSIONS: TAL is
+a potent PARP inhibitor that enhances the efficacy of TMZ in both in
+vitro GBM models and flank GBM12 PDX models, but not in the corresponding
+GBM12 intracranial xenografts. This lack of intracranial efficacy is
+associated with limited brain distribution due to active efflux mediated
+by Mdr1 at the blood-brain barrier.
+

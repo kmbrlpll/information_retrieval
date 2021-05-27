@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: CD24 exists in the nucleus and drives cancer growth
+
+
+CD24 is an oncoprotein whose high level of expression in patient tumors
+yields a poor prognosis. This observation has been shown in breast,
+prostate, pancreas, ovary, colorectal, and bladder cancers. In vitro,
+elevated expression of CD24 has been shown to drive cancer cell
+proliferation while in vivo, it promotes tumor growth and
+metastasis.Cancer stem cells (CSC), in many different tissue types, are
+denoted by the presence or absence of CD24 cell surface expression. Most
+prominent among these tissue types is the finding that sorting breast
+cancer cells for a CD24neg population yields a CSC cohort. Using bladder
+cancer cells we discovered that a CD24neg sorted population exhibits a 2
+fold increase in anchorage independent growth relative to parental cells
+and a 5 fold increase relative to cells depleted of CD24 by RNAi
+(shCD24). In vivo we determined that CD24neg cells were dramatically more
+successful than shCD24 cells at establishing metastases (6/10 vs 0/10
+mice). Strikingly, we found that treatment of CD24neg cells with CD24
+siRNA eliminated their increased growth potential. These results strongly
+suggest a significant biological role for non-surface CD24. Therefore, we
+set out to determine the precise locations of CD24 within cells and
+assess any possible biological relevance.Cellular fractionation
+experiments revealed the existence of CD24 in the nuclear fraction in 3
+different bladder lines as well as lines from breast, lung, colon and
+prostate cancer cells. Furthermore, this nuclear signal was the same in
+both CD24neg cells and parental cells. Using immunofluorescence we
+observed CD24 signal colocalizing with DAPI signal. Again, this nuclear
+signal remained relatively unchanged in CD24neg cells compared to
+parental cells. We also found that blocking nuclear import (Ivermectin)
+lead to a decrease in nuclear CD24 signal and blocking nuclear export
+(Leptomycin B) lead to an increase in CD24 signal in the nucleus,
+suggesting cells actively regulate nuclear CD24 levels. To assess the
+potential functional significance of nuclear CD24 we expressed a mutant
+which localizes exclusively to the nucleus (NLS-CD24). Comparing cells
+expressing NLS-CD24 to those expressing either wild-type CD24 (Wt-CD24)
+or a control construct with a scrambled amino acid sequence in place of
+NLS (Scr-CD24) revealed that NLS-CD24 expressing cells exhibit a 2-3 fold
+increase in anchorage independent growth over both Wt-CD24 and Scr-CD24.
+Similarly, growth rates of subcutaneous tumors in mice expressing
+NLS-CD24 were 3 times higher than those expressing Wt-CD24.Taken
+together, we discovered and validated a nuclear cohort of CD24 and found
+that nuclear specific expression of CD24 promotes greater growth
+phenotypes both in vitro and in vivo. Thus, it is important that cancer
+models and therapeutic approaches involving CD24 expression consider this
+nuclear cohort.
+

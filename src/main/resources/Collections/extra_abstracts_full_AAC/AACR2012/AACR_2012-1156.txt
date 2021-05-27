@@ -1,0 +1,39 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Cell-surface marker discovery for colorectal cancer
+
+
+In the United States and Europe, colorectal cancer (CRC) has the second
+highest mortality rate of all cancers. Early diagnosis allows for
+treatment and improved survival. Currently, colonoscopy is the standard
+of care for detection of early-stage CRC, which is an invasive procedure
+that requires a cathartic bowel preparation and general anesthesia.
+Consequently, less invasive screening methods are highly desirable. The
+objective of this study is to develop a targeted molecular imaging
+technique termed molecular colonography, that can non-invasively detect
+dysplastic and neoplastic colonic lesions with high sensitivity and
+conspicuity by oral administration of ligand-targeted probes containing
+image contrast agents followed by clearance and non-invasive colonography
+with MRI, CT or Fluorescence imaging. The first step in the development
+of molecular colonography is identification of cell-surface markers for
+CRC. To accomplish this goal, gene expression profiling of DNA microarray
+data from 432 adenocarcinomas, 39 adenomas and 16 inflammatory bowel
+disease; and unaffected patient tissue samples (178 colon, 6 small
+intestine, 4 stomach, 4 esophagus, 4 trachea, 3 oral mucosa and 3 tonsil)
+was performed. Data were filtered using a previously compiled list of
+3,800 cell surface genes from the NCBI Gene Expression Omnibus database.
+Of these, 1085 genes were broadly expressed in CRC and were ranked by
+differential expression in adenomas and adenocarcinomas vs. normal
+tissues. Six cell-surface markers were identified that are highly and
+broadly expressed as mRNA in adenomas and adenocarcinomas relative to
+unaffected tissues: TLR4, GPR56, GRM8, LY6G6D, CLDN1 and SLC01B3. TLR4
+and/or GRM8 were shown to be expressed in 100% of the colon adenomas and
+adenocarcinomas in this dataset. To confirm protein expression,
+immunohistochemistry of normal (n=15) and CRC (16 adenoma and 60
+adenocarcinoma) patient tissue samples and 26 CRC cell lines was
+performed. All six markers were highly and broadly expressed in adenomas
+and adenocarcinomas compared to normal colon. Further validations by mRNA
+(qRT-PCR) and protein expression (Western blot and immunocytochemistry)
+of these markers were also performed in nine colon tumor cell lines
+(COLO-205, DIFI, HCT15, HCT116, HT-29, KM12C, Km12SM, SW480 and SW620).
+Development of specific binding ligands for selected targets is underway.
+

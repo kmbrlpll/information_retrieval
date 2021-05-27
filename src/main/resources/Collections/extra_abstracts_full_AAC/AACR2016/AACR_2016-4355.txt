@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Elucidation of the different roles of CDK8 and CDK19 in colorectal
+cancer (CRC) using CRISPR gene editing technology
+
+
+BackgroundCDK8 and CDK19 are two highly homologous cyclin-dependent
+kinases involved in gene transcription via the Mediator complex.
+Individual kinase module paralogs (CDK8 or CDK19) in complex with cyclin
+C, Med13 and Med12 regulate transcription through phosphorylation of the
+C-terminal domain of RNAPol II. Despite their structural similarities,
+emerging data suggest possible distinct transcriptional regulatory
+functions. There are few studies of CDK19 function, but CDK8 has been
+described as an oncogene in CRC, required for -catenin mediated
+transcription and tumor cell proliferation. In addition, CDK8 knock down
+reportedly inhibited the growth of HT29 and Colo205 CRC
+xenografts.ResultsRecently, we identified a series of
+3,4,5-trisubstituted pyridines (exemplified by CCT251545) as small
+molecule chemical probes of CDK8 and CDK19.1 Although our compounds bind
+selectively to these closely related biochemical targets, it is not known
+whether both are equally inhibited, whether inactivation of one (or both)
+is required for tumor growth control or if there is compensation in terms
+of kinase function and/or other roles in the Mediator complex. Using
+single and double CRISPR/Cas9 knockout clones, we aim to elucidate the
+roles of CDK8 and CDK19 in human CRC cells. We used the SW620 CRC cell
+line due to its sensitivity in vivo to our CDK8/19 inhibitor CCT251921.
+Single and double homozygous knockout (KO) clones were generated after
+CRISPR/Cas9 transfection of plasmids targeting CDK8 and CDK19. KO clones
+were identified by western blotting and validated by qPCR and exome
+sequencing analyses. Functional assays were performed in vitro and PD/PK
+and efficacy studies with CCT251921 in vivo using selected single and
+double KO clones. Substrates including pRNAIISer5, E2F1Ser375 and
+pSTAT1Ser727were also quantified by several independent assay platforms
+in in vitro and ex vivo tumor samples. mRNA profiling of ex vivo samples
+from PD/PK and efficacy studies was also undertaken.CRISPR deletion of
+neither CDK8 (in contrast to literature reports using RNAi in different
+CRC xenografts) nor CDK19 inhibited the growth of SW620 CRC cells in
+vitro or in vivo. Interestingly, the CDK19 knockout cells remained
+responsive to two chemically distinct probes in vitro and/or in vivo,
+with clear inhibition of the pSTAT1Ser727 engagement biomarker, whereas
+the CDK8 and CDK8/19 knockouts were far less responsive and showed
+significantly lower levels of pSTAT1Ser727. Our data suggest that there
+are certain independent functions of CDK8 and CDK19 that might not be
+simply interchangeable and that the presence or absence of one may also
+impact on the behaviour of the other.References1.Dale, T. et. al.
+Identification of a potent and selective chemical probe for exploring the
+role of Mediator complex-associated protein kinases CDK8 and CDK19 in
+human disease. 2015, Nat. Chem. Biol., 11, 973-980.
+

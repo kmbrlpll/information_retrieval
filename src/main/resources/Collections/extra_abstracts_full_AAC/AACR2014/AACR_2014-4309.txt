@@ -1,0 +1,32 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Whole slide image analysis quantification in a mouse lung
+metastasis model
+
+
+Digital whole slide imaging is the technique of digitizing a microscope
+slide at the highest resolution to produce a digital virtual microscope
+slide. This digital image can be viewed in three or four fields, from low
+to high power fields, which can be commonly used to evaluate the tissue.
+Many of these systems have a whole slide software image analysis
+system.The goal of this study was to determine if the Aperio positive
+pixel algorithm (image analysis) could effectively quantitate metastatic
+mouse lung tumors in a lung section using a H&E stain.Lung sections from
+a mouse lung metastasis model with 8 mice in each group were evaluated:
+control, 50mg/kg, and 75mg/kg carboplatin. H&E and Ki67 immunostain
+slides were scanned using the Aperio whole slide scanning system
+(Scanscope CS). A single field of view from each slide representing a
+whole lung lobe with multiple lung metastases was selected for image
+analysis. The standard positive pixel algorithm was altered to read the
+H&E slides. Various histology slides were used to validate the altered
+algorithm. The immunostain (Ki67) was generated using the standard
+positive pixel algorithm analysis.The Aperio automated positive pixel
+count for a Ki67 immunostain was consistent with the H&E image analysis.
+The values went down with a dose dependent treatment (control vs.
+50mg/kg, and 75mg/kg Carboplatin) and were (H&E) 37%, 28%, 22%, and
+(Ki67) 9%, 5%, 3%, respectively.The analysis had decreasing values for
+both the H&E and Ki67 analysis on a dose dependent drug treatment. The
+metastases decreased in both treatment groups compared to controls with
+both the H&E and Ki67 analyses. The Aperio Image Analysis positive pixel
+algorithm allows large areas of the lung tissue section to be examined
+and NOT just a single 25x or 40x field like many common image analyses.
+

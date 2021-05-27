@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: GD2-specific chimeric antigen receptor T cells targeting
+retinoblastoma
+
+
+Introduction: Retinoblastoma (RB) is an aggressive childhood cancer of
+high incidence (1/20,000). The conventional treatment is enucleation
+followed by chemotherapy. Patients with poor prognosis often face
+resistant relapses after chemo- and radiation therapies. Immunotherapy
+based on chimeric antigen receptor (CAR)-engineered T cells targeting
+cancer-specific antigens has shown great potential in treating
+hematological malignancies. This study aims to identify RB-specific
+surface antigens and investigate the RB tumor targeting function of a 4th
+generation CAR-T cells with specificity for disialoganglioside 2 (GD2)
+protein.Methods: We examined RB surgical specimens from eight patients
+for GD2 expression by immunohistochemistry, and a RB cell line (Y79RB) by
+flow cytometry. Activated T-cells were engineered to express a 4th
+generation CAR specific to GD2 protein by using lentiviral transduction.
+Y79RB cells were labeled with a green fluorescence protein and used as
+target cells in a CAR-T/RB co-culture experiment. Tumor cell lysis was
+monitored under a fluorescent microscope, and apoptotic cell death was
+analyzed by AnnexinV/PI staining and flow cytometry.Results: All eight RB
+tumor specimens were strongly positive for GD2 based on
+immunohistochemistry. In addition, GD2 expression was detected on the
+cell surface of Y79RB at a very high level by flow cytometry analysis as
+compared with known GD2 -positive tumor cells such as neuroblastoma and
+Ewing's sarcoma. In vitro co-culture experiments showed that Y79RB cells
+were targeted and killed by GD2 CAR-Ts but not control CD19 CAR-Ts. At a
+ratio of 1:1, the RB cells were completely eradicated after 3 days of
+co-culture with GD2 CAR-Ts. When we increased the tumor cell ratio in the
+coculture, we observed tumor resistance to GD2 CAR-Ts. Further analysis
+of the escaped Y79RB cells indicated that their surface GD2 expression
+was down-regulated. In addition, we found that PD-L1 was up-regulated in
+Y79RB cells when cocultured with GD2 CAR-Ts but not control CD19 CAR-Ts.
+We further demonstrated that the increased PD-L1 expression in Y79RB
+interacted with PD-1 on activated CAR-Ts and suppressed the CAR-T
+effector functions.Conclusion: This is the first report that GD2-specific
+CAR-Ts can effective target and kill RB. Decreased CAR-T killing
+efficiency may occur due to the up-regulation of PD-L1 and
+down-regulation of GD2 expressions on the tumor cells. The combination of
+GD2-specific CAR-Ts and anti-PD-L1 antibody may improve the CAR-T
+immunotherapy efficacy.
+

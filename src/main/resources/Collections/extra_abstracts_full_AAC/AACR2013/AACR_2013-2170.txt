@@ -1,0 +1,44 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Development of a "dual-hit" combination therapy for CML.
+
+
+Functioning as a constitutively active tyrosine kinase, the oncoprotein
+Bcr-Abl, the causative agent of chronic myeloid leukemia (CML), requires
+homo-oligomerization via a coiled-coil domain present on the N-terminus
+of the Bcr portion of the protein. Currently, small molecule therapeutics
+that target the tyrosine kinase domain (tyrosine kinase inhibitors, or
+TKIs) are administered as the gold standard treatment for CML. However,
+evidence shows that the acquisition of mutations in the tyrosine kinase
+domain against these small molecules is inevitable, rendering many of the
+therapeutics useless against mutated forms of Bcr-Abl. The most recently
+discovered TKI, ponatinib (AP24534), has shown to combat nearly all of
+the commonly seen mutations, including the previously uncontrollable
+T315I mutation. But, ponatinib is not without limitations, as it has been
+shown to cause dose-dependent pancreatitis and thrombocytopenia as
+adverse side effects. While many small molecules have been created to
+target the tyrosine kinase domain, our recent work has shown that
+disruption of Bcr-Abl oligomerization can also induce apoptosis and
+decrease the oncogenic potential of the disease. This work was done using
+a modified coiled-coil domain, termed CCmut3, which was rationally
+designed and mutated to bind to the endogenous Bcr-Abl coiled-coil
+domain, inhibiting oligomerization and thus preventing Bcr-Abl signaling.
+The purpose of this work is to exploit a dual-hit approach to inhibit
+Bcr-Abl using two therapeutics with different mechanisms of action. Here,
+we show that combining CCmut3 with ponatinib not only increases the
+potency of the therapy but also lowers the required therapeutic dose of
+ponatinib in vitro using K562 cells (Bcr-Abl-positive, human CML cells).
+Western blot analysis shows that both Bcr-Abl phosphorylation and
+phosphorylation of downstream signaling targets STAT5 and CrkL can be
+decreased using the combination at a ponatinib dose of 100 pM. In
+addition, transformative ability (via colony forming assay) very
+significantly declines when using a 1 nM dose in combination as opposed
+to simply administering 1 nM ponatinib only. Finally, caspase 3/7, 7AAD,
+and DNA segmentation assays were performed to show enhanced apoptosis
+induction upon combination treatment when compared with either CCmut3 or
+ponatinib treatment alone. Currently, this combination is being tested in
+a Bcr-Abl-positive Ba/F3 cell line containing the T315I mutation in the
+Abl tyrosine kinase domain. Lastly, attempts to truncate and cap the
+CCmut3 helix to provide stability and more simple therapeutic delivery
+are underway, in addition to elucidating the individual intracellular
+mechanisms of action of both CCmut3 and ponatinib.
+

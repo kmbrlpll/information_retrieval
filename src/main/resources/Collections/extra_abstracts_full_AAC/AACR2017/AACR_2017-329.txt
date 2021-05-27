@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Selinexor or KPT-8602 mediated XPO1 inhibition synergizes with
+dexamethasone to repress convergent pathways in the mTORC1 signaling
+network and drive cell death in multiple myeloma.
+
+
+Background: Dexamethasone (DEX), a synthetic glucocorticoid (GC), is
+administered to nearly all multiple myeloma (MM) patients as a single
+agent and in combination with other chemotherapies or targeted agents.
+DEX and other GCs bind to glucocorticoid receptors (GR) in the cytoplasm,
+induce nuclear translocation and regulate GR-dependent gene expression
+networks in the nucleus. Selective Inhibitor of Nuclear Export (SINE)
+compounds (selinexor and KPT-8602) exhibit potent anti-tumor activity in
+MM especially when combined with DEX. SINE compounds enhance nuclear
+localization of tumor suppressor proteins (TSPs) through inhibition of
+the nuclear export protein, XPO1. We discovered that inhibition of the
+mechanistic Target of Rapamycin Complex 1 (mTORC1) pathway is a primary
+driver of the combination effect. Here we further elucidate the molecular
+mechanism of action of the SINE-DEX synergy in MM.
+
+Methods: GR+ MM.1S and GRnull MM.1R MM cell lines were treated with SINE
+compounds and/or DEX for 24 hours. Whole cell lysates were subjected to
+SDS-PAGE and western blot analysis. Gene expression and GR
+transcriptional activity was analyzed using qPCR and ELISA, respectively.
+Cell viability was examined using the Celltiter-Fluor assay.
+
+Results: We found that MM cell lines treated with SINE compounds
+(selinexor or KPT-8602) have increased basal GR protein levels.
+Consistent with these results, the SINE-DEX combination shows enhanced GR
+transcriptional activity. Several GR-DEX target genes are known to
+inhibit the GTPase, Ras homolog enriched in brain (RHEB), which is
+required for mTORC1 activation. We discovered that the SINE-DEX
+combination not only reduces RHEB protein but also induces the RHEB
+inhibitory pathways containing REDD1 and the KLF15-BCAT2 axis. Although
+SINE compound-mediated inhibition of mTORC1 (i.e. reduced phosphorylation
+of S6K1 and 4E-BP1) is GR independent, SINE-DEX inhibition is more robust
+in GR+ MM.1S cell line when compared to the GRnull MM.1R cells. The
+combination resulted in the selinexor IC50 in MM.1S cells shifting from
+40 nM to 11 nM in the presence of low dose DEX. As expected, DEX did not
+modulate the SINE compounds IC50s in MM.1R cells.
+
+Conclusion: We show that SINE compound inhibition of MM cell viability is
+enhanced with DEX. Our results indicate that this combinatorial effect is
+due to convergent suppression of mTORC1 signaling by GR targets. The
+findings provide mechanism of action data around the SINE-DEX combination
+in MM with suggestive biomarkers (REDD1, KLF15, BCAT2 and GR) that may
+predict best response to the combination. Therefore, these data may
+translate directly to the current clinical development of SINE compounds.
+
+

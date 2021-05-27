@@ -1,0 +1,70 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Monitoring the impact on metabolic flux in vivo of a newly
+developed LDH inhibitor using hyperpolarized 13C magnetic resonance
+spectroscopic imaging.
+
+
+[aim] Increased lactate production is a feature of many neoplasms, and
+Lactate Dehydrogenase A (LDH-A) plays a key role in conversion of
+pyruvate to lactate. LDHA inhibition, therefore, is considered to be a
+promising approach toward developing a new therapeutic strategy for
+cancer treatment focused on targeting cancer metabolism. Non-invasive
+imaging approaches able to monitor metabolic fluxes in vivo will be
+useful for this purpose.
+
+Hyperpolarized 13C Magnetic Resonance Imaging (MRI) has been well known
+as a valuable technology to investigate metabolic processes in tumor
+xenografts, allowing us to perform dynamic 13C-metabolic flux analysis in
+vivo. Use of [1-13C]pyruvate with this technology provides the ability to
+monitor LDHA activity in real time through dynamic observation of
+conversion of [1-13C]pyruvate to [1-13C]lactate.
+
+This study aimed to monitor drug efficacy of a newly developed LDH
+inhibitor (LDHI, obtained from National Cancer Institute Experimental
+Therapeutics Program, NExT) in a xenograft tumor model using 13C MRI
+technology with hyperpolarized 13C-labeled pyruvate.
+
+[Results] Hyperpolarized [1-13C]pyruvate MR studies were performed before
+and after LDHI administration to assess the impact on metabolic flux in
+vivo. Using hyperpolarized [1-13C]pyruvate MR Spectroscopy (MRS), we
+found that lactate production was significantly suppressed by LDHI
+administration in MiaPaca (a glycolytic pancreatic cancer cell line)
+tumors, as was the [1-13C]lactate to [1-13C]pyruvate ratio
+([1-13C]-Lac/Pyr), which was calculated from the areas under the curves
+(AUC) using time-intensity data. This ratio decreased from 1.08 to 0.128
+(88.1% decrease) 30 minutes after intravenous administration of the LDHI.
+In addition, hyperpolarized [1-13C]pyruvate MRS revealed that LDHI
+significantly suppressed lactate production in a dose dependent manner.
+Furthermore, Chemical Shift Imaging with 13C MRI demonstrated that the
+[1-13C]lactate signal in each voxel clearly decreased, compared to that
+before LDHI administration. The sum of [1-13C]lactate signals in the
+tumor region decreased after LDHI administration, resulting in a
+significant decrease in the tumor-specific [1-13C] Lac/Pyr ratio
+(1.463±0.31 before LDHI to 0.134±0.036 30 minutes after LDHI
+administration, a 90.67±2.56% decrease, n=3, p[Results] Hyperpolarized
+[1-13C]pyruvate MR studies were performed before and after LDHI
+administration to assess the impact on metabolic flux in vivo. Using
+hyperpolarized [1-13C]pyruvate MR Spectroscopy (MRS), we found that
+lactate production was significantly suppressed by LDHI administration in
+MiaPaca (a glycolytic pancreatic cancer cell line) tumors, as was the
+[1-13C]lactate to [1-13C]pyruvate ratio ([1-13C]-Lac/Pyr), which was
+calculated from the areas under the curves (AUC) using time-intensity
+data. This ratio decreased from 1.08 to 0.128 (88.1% decrease) 30 minutes
+after intravenous administration of the LDHI. In addition, hyperpolarized
+[1-13C]pyruvate MRS revealed that LDHI significantly suppressed lactate
+production in a dose dependent manner. Furthermore, Chemical Shift
+Imaging with 13C MRI demonstrated that the [1-13C]lactate signal in each
+voxel clearly decreased, compared to that before LDHI administration. The
+sum of [1-13C]lactate signals in the tumor region decreased after LDHI
+administration, resulting in a significant decrease in the tumor-specific
+[1-13C] Lac/Pyr ratio (1.463±0.31 before LDHI to 0.134±0.036 30 minutes
+after LDHI administration, a 90.67±2.56% decrease, n=3, p<0.01).
+
+[Conclusions] These results indicate that hyperpolarized 13C-MRI is a
+useful method to evaluate on-target efficacy of novel LDH inhibitors in
+vivo, and this technique can be used to determine optimum dose and
+exposure time of the LDHI in the tumor region. The current method can be
+of great value in providing an in vivo pharmacodynamic biomarker for this
+novel anti-cancer therapeutic targeting deregulated tumor metabolism.
+
+

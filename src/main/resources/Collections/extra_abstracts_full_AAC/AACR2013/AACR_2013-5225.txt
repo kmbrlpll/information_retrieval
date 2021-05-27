@@ -1,0 +1,27 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Single-cell gene-expression programs and basal-like breast cancer.
+
+
+Basal-like carcinoma is a subtype of breast cancer that is characterized
+by poor prognosis and high intratumor heterogeneity. In basal-like breast
+epithelia, we have identified two anticorrelated gene-expression programs
+that arise among single extracellular matrix (ECM)-attached cells during
+organotypic 3D culture. The first program contains multiple TGF-related
+genes including TGFBR3, and its heterogeneous induction is critical to
+suppress ductal branching. The second program contains JUND together with
+the basal-like marker, KRT5. Homogenizing JUND expression in single cells
+leads to 3D acini with bridged lumina that are similar to cribiform
+ductal carcinoma in situ. TGFBR3 and JUND together comprise a circuit
+that is interconnected via four negative-feedback loops. Computational
+modeling of the circuit predicts damped, antiphase oscillations upon
+stimulation with endogenous impulses of TGF-like ligand, and we directly
+observe these spontaneous responses in 3D culture by live-cell imaging.
+The TGFBR3-JUND circuit is remarkably conserved in early basal-like
+tumors that heterogeneously express KRT5, suggesting that asynchronous
+circuit dynamics are active in this patient subset. We further show that
+the circuit is strongly dependent on ECM engagement, as detachment leads
+to a rewiring that is triggered by RPS6 dephosphorylation and maintained
+by juxtacrine signaling from tenascin C. Breast tumor heterogeneity need
+not stem from partial basal-like differentiation and could instead
+reflect dynamic toggling of individual cells between expression states.
+

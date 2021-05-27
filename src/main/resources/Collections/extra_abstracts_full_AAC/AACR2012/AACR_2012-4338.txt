@@ -1,0 +1,44 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Monitoring radiation response in tumor vasculature using
+intravital photoacoustic imaging in a murine window chamber model in vivo
+
+
+VisualSonics has recently developed a preclinical photoacoustic (PA)
+imaging system called the VevoLAZR that combines the sensitivity of
+optical imaging and the high resolution of micro-ultrasound. The system
+incorporates a 40 MHz (centre frequency) ultrasound transducer linear
+array probe (LZ550) and a tuneable 680-970 nm nanosecond pulsed-laser. We
+used this system to study in vivo changes in tumor oxygen saturation and
+haemoglobin density caused by exposure to radiation therapy (RT). For
+this, DsRed-Me180 human cervical tumors were grown in a nude mouse dorsal
+skinfold window chamber model until they reached 2.5 mm in diameter.
+Specifically, we investigated the system's sensitivity and dynamic range
+to measure relative changes in oxygen saturation in tumor and surrounding
+healthy tissues 10 days after treatment. Tumors (2.5 mm diameter) were
+focally irradiated with a single dose of 30 Gy using a small animal
+microirradiator (XRAD225, Precision XRay Inc., North Branford, CT). To
+measure the dynamic range and stability of our setup for measuring oxygen
+saturation in vivo, we altered the anesthetised animal's inhaled oxygen
+from 100% to 7% for 1 min during PA imaging. This test showed that blood
+oxygen saturation in the healthy dorsal skinfold tissue decreased from
+82% to 8% and confirmed the linearity of the measurement technique.
+Furthermore, we compared vascular morphology obtained by photoacoustic
+imaging and intravital fluorescent microscopy using FITC-Dextran (2 MDa,
+injected 20 mins prior). This comparison showed good correlation and
+confirms that PA imaging can provide important structural information of
+vascularity. Photoacoustic imaging was performed before and 10 days after
+irradiation to assess changes in tumour volume, relative blood oxygen
+saturation, relative tissue oxygen saturation, and relative hemoglobin
+density. Ten days after irradiation, PA imaging showed that the tumour
+volume increased from 5.7 to 14.2 mm3, relative blood oxygen saturation
+decreased from 75.3 to 48.2%, relative tissue oxygen saturation decreased
+from 40.7 to 0.1%, and hemoglobin density decreased from 18457 to 3253
+a.u. These data illustrate the capability of PA imaging to simultaneously
+measure multiple radiobiological response metrics from a single imaging
+scan. Pilot results demonstrate: i) the compatibility of the VisualSonics
+small animal VevoLAZR photoacoustic imaging system with intravital murine
+tumor models, ii) the sensitivity of the system to detect RT-induced
+changes in tumor vascular oxygen saturation non-invasively, in real time
+and in vivo, and iii) a new preclinical application of PA imaging for
+longitudinal monitoring of tumor response to RT in vivo.
+

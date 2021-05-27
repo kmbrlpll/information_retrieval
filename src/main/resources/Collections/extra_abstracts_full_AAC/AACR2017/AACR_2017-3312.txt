@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A novel plate-based assay for screening autophagic activity in 2D
+and 3D cell culture models.
+
+
+The critical importance of autophagy in cell health and its proposed role
+in disease-relevant biology, including cancer, inflammation, and
+immunology, has increased the need for more effective assays to screen
+for agents that modulate autophagic activity. Here we utilize NanoLuc
+Binary Technology (NanoBiT) to develop a homogeneous plate-based assay to
+measure autophagic flux in cell culture models. In this approach, an
+exogenous LC3B (Atg8) fusion protein was tagged on its N-terminus with an
+11 amino acid peptide (HiBiT) and stably expressed in mammalian cells,
+including U2OS and HEK293. After exposure to various treatment
+conditions, cellular levels of this novel autophagy reporter were
+determined by addition of a lytic detection reagent containing Large BiT
+(LgBiT). LgBiT rapidly associates with HiBiT in the cell lysate,
+producing a bright, luminescent enzyme in the presence of the furimazine
+substrate. The bright signal allows low levels of expression of the
+reporter, maximizing the assay response, and the signal is stable,
+allowing assay of multiple 96- or 384-well plates in the same experiment.
+In response to autophagic stimuli, including nutrient deprivation and
+various mTORC inhibitors (e.g., PP242 and rapamycin), autophagic
+degradation of expressed LC3 reporter was evident by reduced assay
+signal. In contrast, in response to both upstream (e.g., 3-MA and
+wortmannin) and downstream (e.g., bafilomycin A1 and chloroquine)
+inhibitors of the autophagy pathway, degradation of the autophagic
+reporter was effectively blocked and assay signal was consistently
+increased as predicted. Compound effects were time dependent and
+stratified according to expected potency and efficacy of the test agents
+employed. The use of a mutant reporter based on LC3G120A further
+demonstrated the specificity of the wild-type LC3 reporter for the
+detection of autophagic activity. When assayed in 384-well plates with
+automation, HEK293 autophagy reporter cells produced Z’ values of ~0.7
+in response to autophagy induction with PP242, while subsequent blockade
+of autophagy with bafilomycin A1 resulted in Z’ values of ~0.8. This
+data, and subsequent LOPAC library screening, indicates the potential
+utility of this assay method for HTS applications. In addition, the
+HEK293 autophagy reporter cells can be induced to form 3D cell spheroids,
+thus allowing investigation of assay performance in this more complex
+model. Autophagy reporter levels increased with increasing spheroid size
+(up to 650 μm diameter tested) in a manner proportional to a surrogate
+measure of viable cell number. Importantly, both induction and inhibition
+of autophagic activity was easily detected following PP242 and
+bafilomycin A1 treatment, respectively. Using this novel plate-based
+assay system for the determination of autophagic flux, it is possible to
+screen test agents and quantitatively determine both the potency and
+efficacy of autophagy modulation.
+
+

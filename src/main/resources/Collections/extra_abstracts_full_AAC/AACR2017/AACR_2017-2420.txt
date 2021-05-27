@@ -1,0 +1,74 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Integrative analyses of gene expression, DNA methylation, genotype
+and copy number alterations characterize X-chromosome inactivation in
+ovarian cancer.
+
+
+Introduction: In females, X-chromosome inactivation (XCI) epigenetically
+silences transcription of one copy of the X chromosome. Which chromosome
+is silenced is randomly selected, and is tissue- and cell-specific. While
+some genes are known to escape XCI under normal conditions, aberrant XCI
+patterns are thought to occur in female-specific cancers, although the
+role of XCI in ovarian tumorigenesis and progression is largely unknown.
+The process of XCI is complex, and integration of gene expression, DNA
+methylation, and copy number data can inform the XCI status of individual
+genes and chromosome-wide XCI patterns for individual patients.
+
+Methods: We evaluated gene- and chromosome-level patterns of XCI by
+integrating RNA sequence, copy number alteration, genotype, and DNA
+methylation data to study XCI escape patterns in tumor samples from 99
+ovarian cancer patients. We measured allele-specific expression (ASE) for
+397 X-linked genes to identify the active alleles for each tumor.
+Combining ASE data with knowledge of copy number status, we used a
+Bayesian beta-binomial mixture model to estimate which genes escaped XCI
+for each patient, and validated our findings using DNA methylation data.
+To assess global XCI patterns, we performed cluster analyses on the ASE
+and methylation data, after adjusting for loss of heterozygosity. We
+examined the relationship between the clusters and clinical factors,
+including overall survival and time to recurrence.
+
+Results: DNA promoter methylation demonstrated inverse regional
+correlations with ASE. Cluster analyses using ASE and methylation data
+demonstrated evidence of two tumor clusters, representing normal XCI and
+global XCI dysregulation. The dysregulated XCI cluster (N=52) was
+associated with lower X-inactive specific transcript expression as
+expected (pResults: DNA promoter methylation demonstrated inverse
+regional correlations with ASE. Cluster analyses using ASE and
+methylation data demonstrated evidence of two tumor clusters,
+representing normal XCI and global XCI dysregulation. The dysregulated
+XCI cluster (N=52) was associated with lower X-inactive specific
+transcript expression as expected (p<0.01). Patients with XCI
+dysregulated tumors were higher grade, stage, serous histology and were
+sub-optimally debulked (pResults: DNA promoter methylation demonstrated
+inverse regional correlations with ASE. Cluster analyses using ASE and
+methylation data demonstrated evidence of two tumor clusters,
+representing normal XCI and global XCI dysregulation. The dysregulated
+XCI cluster (N=52) was associated with lower X-inactive specific
+transcript expression as expected (p<0.01). Patients with XCI
+dysregulated tumors were higher grade, stage, serous histology and were
+sub-optimally debulked (p<0.05). These patients also had shorter overall
+survival time (HR=1.87, p=0.02) and time to recurrence (HR=2.34,
+pResults: DNA promoter methylation demonstrated inverse regional
+correlations with ASE. Cluster analyses using ASE and methylation data
+demonstrated evidence of two tumor clusters, representing normal XCI and
+global XCI dysregulation. The dysregulated XCI cluster (N=52) was
+associated with lower X-inactive specific transcript expression as
+expected (p<0.01). Patients with XCI dysregulated tumors were higher
+grade, stage, serous histology and were sub-optimally debulked (p<0.05).
+These patients also had shorter overall survival time (HR=1.87, p=0.02)
+and time to recurrence (HR=2.34, p<0.01), although associations were
+attenuated after covariate adjustment. In 45 tumor samples with
+sufficient data, we observed escape patterns largely consistent with
+previous reports of multiple tissue types. When comparing tumor to normal
+ovarian tissue, eight genes (CXorf23, CXorf36, BRWD3, ELF4, SLITRK4,
+GABRE, CLCN4, SH3BGRL) showed putative escape in the tumor and two genes
+(RBBP7, OFD1) showed discrepant tumor inactivation.
+
+Conclusions: We identified discrepant gene-level XCI tumor
+classifications compared to normal tissue and identified a group of
+patients with chromosome-wide XCI dysregulation associated with worse
+clinical prognosis. This provides evidence of the role of XCI in ovarian
+cancer and highlights the need to integrate multiple genomic data types
+to study XCI.
+
+

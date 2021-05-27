@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Interaction between MUC1 and STAT1 drives IFITM1 overexpression in
+aromatase inhibitor-resistant breast cancer cells
+
+
+Aromatase inhibitors (AIs) successfully treat many estrogen receptor
+expressing breast cancers by depleting circulating estrogen levels.
+Unfortunately, many patients eventually develop resistance to this
+treatment. In order to elucidate the mechanism(s) of AI-resistance, our
+lab has developed an AI-resistant breast cancer cell line MCF-7:5C which
+was clonally derived from parental MCF-7 cells following long-term
+estrogen deprivation. Unlike MCF-7 cells, the AI-resistant MCF-7:5C cell
+line grows robustly in the absence of estrogen and is highly aggressive.
+We have previously reported that interferon induced transmembrane protein
+1 (IFITM1) is overexpressed in MCF-7:5C cells and in AI-resistant breast
+tumors. Additionally, we have shown that loss of IFITM1 leads to cell
+death. What remains to be addressed is how IFITM1 expression is regulated
+in AI-resistant breast cancer cells. IFITM1 is a type 1 interferon (IFN)
+stimulated gene which is not expressed in normal tissue and is only
+induced by the type1 IFNs (IFN/). In previous studies we have found that
+MCF-7:5C cells produce elevated levels of IFN, which binds to the type 1
+IFN receptor, IFNAR, and induces JAK/STAT signaling, resulting in the
+overexpression of IFITM1. In this study, we further characterized the
+mechanisms of IFITM1 overexpression in AI-resistant MCF-7:5C cells. We
+have found that mucin 1 (MUC1) associates with STAT1 and stabilizes its
+phosphorylated form, thereby enhancing IFITM1 expression. This
+interaction is disrupted by treatment with the JAK inhibitor,
+Ruxolitinib. MUC1 is a transmembrane O-glycosylated protein that is
+overexpressed in 90% of breast cancers and known to promote the survival
+of the epithelium through formation of mucous, interaction with
+transcription factors and inhibition of apoptosis. A luciferase reporter
+determined that MUC1 contributes directly to IFITIM1 transcription. MUC1
+expression is hormonally controlled and is normally enhanced by estrogen
+stimulation. In this study we found that MUC1 expression is dysregulated
+in AI-resistant MCF-7:5C cells and is instead reduced by estrogen
+stimulation. In contrast with the AI-sensitive MCF-7 cells, western blot
+and immunofluorescent staining showed that MUC1 expression was enhanced
+by treatment with the pure anti-estrogen, fulvestrant. Additionally,
+Annexin V/PI staining and PARP cleavage indicated that loss of MUC1
+expression induced cell death in MCF-7:5C cells. We found that treatment
+with fulvestrant protects MCF-7:5C cells from this phenomenon, indicating
+that loss of MUC1 induces apoptosis in an ER dependent manner. MCF-7:5C
+cells are sensitive to apoptosis following exposure to estrogen, which
+can be enhanced by loss of IFITM1 expression. We report that loss of MUC1
+expression similarly enhances estrogen-induced apoptosis, suggesting that
+the communication between MUC1 and STAT1 also influences estrogen
+signaling in AI-resistant breast cancer.
+

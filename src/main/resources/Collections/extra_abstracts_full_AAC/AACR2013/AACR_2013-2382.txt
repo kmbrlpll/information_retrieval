@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Development of predictive biomarker gene expression signatures
+that associates with drug sensitivity and kinase activation in breast
+cancer.
+
+
+Breast cancer is a heterogeneous disease that is commonly divided into 3
+specific subtypes. Hormone receptor positive breast cancers that express
+either the estrogen or progesterone receptors are commonly treated with
+anti-estrogen therapies and have a favorable clinical outcome. HER2
+positive breast cancers that overexpress the HER2 oncogene, are treated
+with HER2-directed therapies, including Herceptin and Pertuzumab, which
+has dramatically improved the clinical outcome in this group. Triple
+negative breast cancers lack expression of estrogen receptor,
+progesterone receptor and HER2, are treated with chemotherapeutic
+regimens and have the worst prognosis in this disease. Recent studies
+indicates that key kinase driving events are common within specific
+subtypes of breast cancer, for example, the PIK3CA gene encoding
+p110-alpha subunit of PI3-kinase, which drives downstream pro-survival
+signals, is mutated in 35-40% of hormone receptor positive breast
+cancers, implicating potential new treatment strategies. Moreover, as
+emerging clinical evidence suggests that anti-tumor activity to targeted
+anti-cancer medicines is usually limited to specific patient subsets, the
+identification of predictive biomarkers is essential for the clinical
+development of new therapeutic agents.Clinical validation of in vitro
+derived predictive biomarkers has been largely hampered due to commonly
+used formalin fixed, paraffin embedded procedures that results in low
+yield and often degraded nucleic acids. In this study, we use the
+NanoString nCounter gene expression system to characterize and validate
+candidate biomarkers using an in-house derived custom panel of 400 genes,
+which includes key breast cancer-related genes, immune-related genes and
+pro-survival genes that encompass the PI3-kinse and MAP-kinase pathways.
+As a proof-of-concept, we compared the NanoString nCounter to commonly
+used platforms including Affymetrix microarray, RNA sequencing and
+BioMark in a panel of FFPE extracted breast cancer cell lines. Firstly,
+we applied the 400-gene signature to a panel of breast cancer cell lines
+to derive gene signatures that correlate with response to anti-cancer
+agents such as PI3-kinase, MAP-kinase inhibitors and chemotherapy agents.
+Next, we applied our in vitro derived sensitivity signature to a panel of
+150 breast cancer FFPE tumors and demonstrate that the sensitivity
+signatures derived in vitro are observed, thereby potentially identifying
+clinically actionable patient subsets. Finally, we correlated our gene
+signature with mutations and copy number alterations commonly altered in
+breast cancer. In summary, we show that an in-house derived custom gene
+panel identifies biomarkers of response to anti-cancer medicines and
+associates with key kinase-driving events, a crucial study for the future
+development of targeted anti-cancer medicines.
+

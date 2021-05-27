@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Computer based virtual tumor simulation identifies novel use for
+existing drugs - implication for personalized cancer therapy.
+
+
+Background: Genomic tumor profiling studies have demonstrated that most
+cancer cells embody a multitude of genomic aberrations that may
+contribute to the tumor phenotype. However, development and use of
+targeted molecular therapies tend to focus on the effects of single
+genomic alterations. This is due in part to our inability to integrate
+and understand the contribution of multiple mutations giving rise to the
+tumor phenotype. The ability to develop new therapies and select
+treatments for individual patients would be greatly aided by the
+availability of a predictive technology capable of integrating and
+determining the effects of multiple genomic aberrations on the tumor
+phenotype. This patient specific customization can allow for screening
+for sensitivity and resistance toward specific interventions.Methods:
+Cellworks has developed a computer pharmacodynamic simulation model of
+epithelial tumors (virtual tumor) that capture the signaling and
+metabolic pathways for cancer relevant phenotypes and bio-marker
+endpoints. This model integrates clinical and preclinical research
+insights and contains over 25,000 crosstalk interactions between 6000
+bio-molecules. Using this system, individual tumor profiles from clinical
+samples and derived cell lines are overlaid on a control epithelial
+baseline to create a personalized virtual tumor. In this study a digital
+drug library comprised of 75 molecularly targeted drugs from different
+indications were evaluated in combinations and at different doses (more
+than 10,000 simulation studies) for their ability to inhibit growth of
+mutant KRAS tumors. Therapeutic hits were shortlisted based on impact on
+the apoptotic and survival pathways. The top hits were evaluated for
+their ability to inhibit growth of tumor cells in vitro.Results: Using
+the computer simulation based screen, we identified two drugs, that are
+approved for non-oncology indications, that when used in combination, can
+inhibit the growth of KRAS driven tumors: CW229 (anti-inflammatory drug)
+and CW178 (metabolism target drug). The predictions were confirmed using
+KRAS mutant cells lines, H1299 and HCT116, in vitro. Both CW229 and CW178
+show low to moderate impact on cell viability as single agents in vitro.
+However, the combination of CW229 + CW178 shows a greater than additive
+effect, inhibiting cell growth by over 80%. Data from additional
+preclinical studies will be presented.Conclusions: Using our virtual
+tumor technology and methodology we identified a novel use for two non
+oncology drugs, CW229 and CW178, as a potential combination therapy for
+the treatment of KRAS mutant tumors. In addition this study demonstrates
+how integration of patient genomic profiles into a personalized virtual
+tumor can guide development of new therapies and aid clinicians in
+selecting the most appropriate therapeutic intervention for individual
+patients.
+

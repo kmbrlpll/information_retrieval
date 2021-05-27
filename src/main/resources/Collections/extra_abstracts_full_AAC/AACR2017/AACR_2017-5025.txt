@@ -1,0 +1,60 @@
+Meeting: 2017 AACR Annual Meeting
+Title: EZH2 reprogramming confers intrinsic stem cell properties and
+developmental plasticity driving neuroendocrine prostate cancer.
+
+
+Introduction: Potent targeting of the androgen receptor (AR) in
+castration-resistant prostate cancer (CRPC) has altered the archetypal
+course of the disease, fueling the emergence of aggressive and incurable
+neuroendocrine prostate cancer (NEPC). Alarmingly, no targeted therapies
+exist for NEPC, which stems from our poor molecular understanding of the
+disease. What regulates the plasticity that allows cells to shed their
+dependence on the AR and re-emerge as “AR-indifferent” NEPC,
+especially under the pressure of modern AR pathway inhibitors (ARPIs)
+such as enzalutamide (ENZ)? Recent data suggest that neuroendocrine
+transdifferentiation is aligned with dynamic reprogramming of the
+epigenome by developmental regulators, like EZH2, making them attractive
+therapeutic targets.
+
+Method: To uncover reprogramming factors that are activated in response
+to AR pathway inhibition, we interrogated a panel of cell lines derived
+from ENZ-resistant prostate tumors by RNA-seq. Mirroring what is observed
+in a subset of patients who progress on ENZ, 25% of ENZ-resistant tumors
+and matched cell lines displayed reduction in canonical AR pathway
+activity and a NEPC phenotype. Gene set enrichment analysis revealed that
+these cells are enriched for a Polycomb/EZH2 signature and share a
+conserved transcriptional program with embryonic stem cells. In
+particular, we identified a distinct phosphorylated form of EZH2
+(EZH2-T350), upregulated in AR-indifferent/NEPC cell lines and patient
+tumors, that was found to be indispensable for the emergence and
+maintenance of a stem-like state.
+
+Results: Blocking EZH2-T350 phosphorylation in AR-indifferent/NEPC cell
+lines yielded a marked reduction in expression of pluripotency
+transcription factors and stem-like features, including ALDH activity and
+spheroid formation capacity. Notably, EZH2-T350 was found to be
+sufficient and required for cells to enter a transient stem-like state, a
+pre-requisite for neuroendocrine transdifferentiation under the pressure
+of ARPIs both in vitro and in patient-derived prostate tumor xenografts.
+As our data revealed a strong association between EZH2 and AR in response
+to ENZ we performed ChIP-seq and observed extensive reprogramming of the
+AR cistrome, specifically at a core set of genes governing stem cell
+identity. EZH2 colocalized at the reprogrammed AR binding sites.
+Accordingly, treating AR-indifferent/NEPC cell lines with the EZH2
+inhibitor GSK126 yielded a molecular subtype shift from PCS1 to AR-driven
+PCS2, and re-sensitized cells to ARPIs.
+
+Conclusion: Our findings establish the centrality of epigenetic
+reprogramming in driving the insurgence of a clinically aggressive
+neuroendocrine phenotype in response to AR pathway inhibition. Drugging
+the epigenome via EZH2 inhibition to reverse the NEPC state and
+re-sensitize tumors to our powerful arsenal of ARPIs has the potential to
+transform the treatment of prostate cancer.
+
+
+
+
+
+Wednesday, April 5, 2017
+
+

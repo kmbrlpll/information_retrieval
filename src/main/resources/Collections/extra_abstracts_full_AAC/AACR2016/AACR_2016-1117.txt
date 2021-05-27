@@ -1,0 +1,61 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Dissection of the major hematopoietic quantitative trait locus in
+chromosome 6q23.3 identifies miR-3662 as a player in hematopoiesis and AML
+
+
+Background: Over 15 genome-wide association studies (GWASs) have
+identified a narrow region in chromosome 6q23.3 as a major hematopoietic
+quantitative trait locus (QTL) for many hematologic traits. The
+associated phenotypes have yet to be fully explained by genes in the
+region, including MYB. We noted a newly annotated microRNA within the
+QTL, miR-3662, and sought to characterize its role in the QTL by
+exploring its function in normal and malignant hematopoiesis,
+specifically acute myeloid leukemia (AML).Results: To assess the
+association between the QTL-defining SNPs and miR-3662 abundance, we
+genotyped 10 GWAS SNPs in 200 blood samples from non-leukemic
+individuals. The risk alleles of all 10 SNPs associated with higher
+miR-3662 abundance. Homozygosity for rs66650371, a three base pair (bp)
+deletion, showed the strongest association (PBackground: Over 15
+genome-wide association studies (GWASs) have identified a narrow region
+in chromosome 6q23.3 as a major hematopoietic quantitative trait locus
+(QTL) for many hematologic traits. The associated phenotypes have yet to
+be fully explained by genes in the region, including MYB. We noted a
+newly annotated microRNA within the QTL, miR-3662, and sought to
+characterize its role in the QTL by exploring its function in normal and
+malignant hematopoiesis, specifically acute myeloid leukemia
+(AML).Results: To assess the association between the QTL-defining SNPs
+and miR-3662 abundance, we genotyped 10 GWAS SNPs in 200 blood samples
+from non-leukemic individuals. The risk alleles of all 10 SNPs associated
+with higher miR-3662 abundance. Homozygosity for rs66650371, a three base
+pair (bp) deletion, showed the strongest association (P<.0001).
+Reinserting the three bp in cells homozygous for rs66650371 with
+CRISPR/Cas9 technology lowered miR-3662 abundance by 20%, suggesting
+rs66650371 directly affects miR-3662 transcription. MiR-3662 was nearly
+absent in primitive hematopoietic progenitor cells (HPCs) cells,
+whereafter its abundance increased throughout differentiation. MiR-3662
+overexpression increased cell growth and colony formation of HPCs,
+particularly of the erythroid lineage.To explore the role of miR-3662 in
+malignant hematopoiesis, we overexpressed miR-3662 in AML cell lines
+(Kasumi1, KG1a, MV4-11) and primary AML patient blasts (n = 12).
+Overexpression of miR-3662 reduced cell growth and viability in vitro,
+and significantly reduced tumor size in a murine xenograft model
+(scramble vs. miR-3662; n = 9 mice/group).We used targeted RNA sequencing
+to identify differentially expressed genes between forced
+miR-3662-expresssing- and control AML patient blasts using a panel of 361
+candidate genes (TruSeq RNA platform, Illumina). IKBKB was identified as
+a promising target, and direct regulation of IKBKB's 3-UTR by miR-3662
+was confirmed via luciferase assay. MiR-3662 overexpression lowered IKBKB
+mRNA and protein expression in both HPCs and AML patient blasts. As IKBKB
+promotes activation and nuclear localization of NF-B, overexpression of
+miR-3662 led to decreased NF-B transactivation potential via luciferase
+assay. Confocal microscopy of HPCs and AML cells, as well as subcellular
+fraction immunoblots, revealed decreased NF-B nuclear localization upon
+miR-3662 overexpression. Re-introduction of IKBKB partly rescued
+miR-3662's phenotype by increasing nuclear localization of NF-B,
+decreasing growth of HPCs, and increasing viability of AML
+cells.Conclusion: The risk alleles of the 6q23.3 region associated with
+higher miR-3662 abundance, and miR-3662 abundance was functionally linked
+to rs66650371. We characterized miR-3662 as an agent in normal and
+malignant hematopoiesis, and demonstrated that miR-3662 reduces NF-B
+activity by targeting IKBKB.
+

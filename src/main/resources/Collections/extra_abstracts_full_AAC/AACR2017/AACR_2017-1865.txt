@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Enhancing the in vivo detection of cancer by manipulating magnetic
+fields applied to tumor targeting superparamagnetic iron oxide
+nanoparticles.
+
+
+Superparamagnetic Relaxometry (SPMR) is combination technology for the
+early detection of cancer. Conceptually, PEGylated superparamagnetic iron
+oxide (Fe3O4) nanoparticles (NPs) coupled with a tumor targeting
+monoclonal antibody are systemically administered and target solid tumors
+by both passive (EPR) and active (receptor targeting) mechanisms. Once
+bound to the target cells, the NPs are magnetized by a brief, low field
+magnetic pulse to create macroscopic magnetization. Once the field is
+removed, the particle’s magnetization decays and is measurable by
+superconducting quantum interference device (SQUID) detectors. The
+pattern of decay, known as Néel relaxation, exhibits a difference in
+latency specific to bound nanoparticles and differs from the Brownian
+decay exhibited by free/unbound particles. As a proof of concept, we
+developed PEGylated NPs that are covalently bound to an anti-Her-2
+monoclonal antibody. In vitro, the nanoconstruct exhibits specific
+binding to the Her-2 overexpressing BT-474 breast cancer cells, with
+little to no binding to Her-2 negative MCF-7cells. Similar patterns of
+selective targeting were observed in vivo.
+
+To improve the specific detection of SPMR signals in tumors we developed
+a novel system that selectively enhances the magnetic signal at tumor
+sites and reduces the contribution of similar signals at off target sites
+such as the liver and spleen. For these studies, we created phantoms of
+varying strength to mimic tumor and non-specific signals. We observed
+that by creating non-homogenous excitation magnetic field patterns, we
+reduced the contribution of the non-specific signals by an order of
+magnitude, effectively increasing the signal to noise ratio of the tumor
+signal. These results are clinically relevant and support the use of SPMR
+in the detection of small tumors in cancer patients.
+
+

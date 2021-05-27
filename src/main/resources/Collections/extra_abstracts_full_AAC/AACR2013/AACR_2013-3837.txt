@@ -1,0 +1,38 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Effect of matrix and intercellular interactions on
+chemotherapeutic efficacy in a high-throughput format.
+
+
+Many researchers believe that clinical results often do not coincide with
+two-dimensional in vitro assays, prompting the need for better
+correlative cellular models. 3D culture has gained much interest in
+recent years for the effects of matrix and inter-cellular contacts on
+tumor growth and progression. We have devised a high throughput assay to
+look at the effects of matrix and intracellular interactions using a
+standard 384 2D plate, matrigel in 384 well format and 3D Elplasia
+micro-space plates with a 200 micron grid. We standardized the media
+between all three platforms but decreased the cell number 3-4 fold in 2D
+plates to keep growth within the linear range for a 6 day assay. Media
+was changed once after 3 days. In all cell lines tested, there were at
+least one doubling of cell number in 6 days and the rate of growth was
+fairly consistent between 3D and 2D techniques, with 2D growth slightly
+faster. We examined differences in potency and efficacy of 6 different
+agents in 10 cell lines comparing 2D and 3D techniques. These agents are
+directed at PI3K, DR4/5, MEK, EGFR, and BCL2. Effects due to matrix
+interactions vs. suspension were noted along with potency and efficacy
+changes of several compounds when compared to 2D but not in all cells
+lines. Often EC-50 values for various agents were identical between
+platforms. In a few cell lines, the potency of a PI3K/mTorr inhibitor was
+increased three fold but the overall efficacy (defined by area under the
+curve) was decreased in 2D vs. 3D. DR4/5 agonists also had a mixed
+profile with some cell lines. TRAIL was dramatically more potent in 2D
+for some lines and conversely, more potent for others in 3D. Ranges of
+over 10 fold in EC-50 for Trail were observed between 2D and 3D in the
+same cell line. This interesting variation between 2D and 3D endpoints
+prompts the need to correlate 3D potency with clinical data and begs
+insight into the reasons behind the differences in receptor mediated
+signaling in 3D. If 3D is more correlative, which many studies suggest,
+there will be a clear benefit to screening multiple cell lines for
+efficacy and correlating them with gene expression data in 3D culture for
+biomarker identification.
+

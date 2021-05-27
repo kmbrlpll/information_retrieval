@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: HuR dependent inhibition of PARG enhances PARP inhibitor therapy
+for DNA repair proficient and deficient pancreatic cancer cells
+
+
+Introduction: Despite our deep understanding of genetic drivers of the
+disease, pancreatic ductal adenocarcinoma (PDA) continues to be
+associated with dismal survival rates. Targeting the DNA repair machinery
+has emerged as a promising therapeutic strategy to treat pancreatic
+cancer patients carrying DNA damage repair (DDR) mutations. Such
+mutations promote tumorigenesis, but also paradoxically render tumor
+cells particularly susceptible to platinum-based agents and PARP
+inhibitors (PARPi). However, despite promising preclinical and clinical
+results, early data demonstrate that eventually most tumors, regardless
+of DDR status, become resistant to PARPi-therapies.The mRNA-binding
+protein HuR, predominantly expressed in the nucleus, translocates to the
+cytoplasm upon tumor-associated stress where it post-transcriptionally
+regulates select mRNA cargo, resulting in resistance to DNA damaging
+agents in a harsh tumor microenvironment. Here, we sought to evaluate the
+role of HuR in regulating PARPi efficacy.Results: In response to cellular
+stress induced by IC50 dosages of a panel of PARPis such as Veliparib,
+Olaparib, Rucaparib, Talazoparib and Niraparib, nuclear localized HuR
+undergoes cytoplasmic translocation. Silencing of HuR via siRNA, CRISPR
+and a DOX-inducible system resulted in significant decrease in long and
+short- term PDA cell survival, irrespective of DDR status. To complement
+and validate in vitro findings, we employed a heterotropic mouse
+xenograft model using Mia.sh290 cells wherein DOX induction significantly
+reduced HuR expression. Olaparib mediated PARP inhibition (50mg/kg, 5
+days a week) combined with DOX-induced HuR silencing resulted in
+significant reduction in tumor volumes, compared to Olaparib alone or DOX
+alone.Mechanistically, we demonstrate that the pro-survival protein HuR
+facilitates PDA cells to recover from PARPi insult by, in part,
+regulating poly ADP ribose glycohydrolase (PARG), the major enzyme
+responsible for hydrolyzing poly-ADP ribose (PAR) polymers, on chromatin
+and associated proteins. HuR binds to two 41- 43bp long sites in the 3
+untranslated region (3UTR) of PARG, increasing its mRNA stability and
+protein expression. Increased PARG activity, further validated via
+exogenous overexpression, promotes DNA repair efficiency and increases
+PDA cell survival. Functional analysis indicate that such inhibition of
+HuR and/or PARG significantly enhances PARPi sensitivity in PDA cells,
+via increased accumulation of DNA damage H2AX foci, preventing efficient
+removal of PAR polymers, and enhancing detrimental trapping of PARP1 on
+chromatin.Conclusions: Taken together, our results indicate that HuR-
+mediated upregulation of PARG acts as a universal pro-survival mechanism
+and HuR inhibition could significantly potentiate PARPi therapy in PDA,
+irrespective of DNA repair status.
+

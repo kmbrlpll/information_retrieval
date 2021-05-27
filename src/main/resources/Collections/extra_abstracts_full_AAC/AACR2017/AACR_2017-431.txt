@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: IDH1-mutated gliomas rely on anaplerosis of glutamate and lactate
+whereas IDH1 wild-type gliomas rely on glycolysis and acetate anaplerosis.
+
+
+Hotspot mutations in isocitrate dehydrogenase 1 (IDH1MT) initiate low
+grade glioma (LGG) and secondary glioblastoma and induce neomorphic
+activity that converts α-ketoglutarate (α-KG) to the oncometabolite
+D-2-hydroxyglutarate (D-2-HG). This causes metabolic rewiring that is not
+fully understood and in vitro studies have shown that IDH1MT cancer cells
+rely on glutaminolysis, providing cells with α-KG via activities of
+glutaminase (GLS) and glutamate dehydrogenase (GLUD). Here, we first show
+by in silico analysis of 269 IDH1 wild-type (IDH1WT) and 408 IDH1MT
+gliomas, obtained from the The Cancer Genome Atlas (TCGA) database, that
+IDH1WT gliomas have high expression levels of genes encoding for enzymes
+that are involved in glycolysis and acetate anaplerosis. On the other
+hand, the tricarboxylic acid (TCA) cycle, rather than glycolytic lactate
+production, is the predominant metabolic pathway in IDH1MT gliomas and is
+driven by lactate and glutamate anaplerosis to facilitate production of
+α-KG, and ultimately D-2-HG. IDH1WT- and IDH1MT-related differences in
+expression were found in both LGG and glioblastoma. Furthermore, via in
+situ enzymatic activity mapping, we show in human gliomas and in
+xenocraft models that GLUD activity is increased and GLS activity is
+decreased in IDH1MT glioma, indicating that IDH1MT gliomas depend on
+glutamatolysis, rather than glutaminolysis. We show that transcript
+levels in our xenocraft models are in good agreement with our in silico
+analysis of the TCGA database. Finally, we confirmed the glutamate
+dependency of IDH1MT gliomas by MRS-flux analysis, whereas IDH1WT gliomas
+show high lactate production. Taken together, we show that IDH1WT gliomas
+have a typical Warburg phenotype and rely on acetate anaplerosis whereas
+IDH1MT gliomas are glutamate and lactate dependent. This metabolic
+rewiring in IDH1MT glioma, enables targeting of glutaminolysis rather
+than direct inhibition of IDH1MT for therapy. It diminishes the supply of
+glutamate-derived α-KG and directly inhibits the production of D-2-HG
+and simultaneously worsen the redox status of the glioma cells by
+inhibiting NAD(P)H production by GLUD. A candidate drug to inhibit GLUD
+is epigallocatechin-3-gallate gallate, a component of green tea that is
+currently receiving high interest as anti-cancer agent.
+
+

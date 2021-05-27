@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Development of a synthetic organic peroxide, RA1, that overcomes
+p53 and Bcl-2 resistance mechanisms
+
+
+Mutations in p53 and elevated expression of Bcl-2 proteins are associated
+with therapy resistance in many human tumors. A lead compound capable of
+bypassing these resistance pathways, RA1, was identified from several
+synthetic peroxides tested at the National Cancer Institute through the
+In Vitro Cell Line Screening Project. The 1,2-dioxolane scaffold of RA1
+differs from that of the peroxide containing anti-malarial agent
+artemisinin. The lowest concentration of RA1 to cause 50% growth
+inhibition (GI50) was observed in an ovarian cancer line, IGROV-1 (GI50
+435 nM), and the highest in a lung cancer line, NCI-H322M (GI50 42 M).
+Eighteen out of the fifty-nine cell lines tested showed a GI50 below 2.5
+M. In cell lines with altered p53 status, RA1 exhibited a potent effect
+(GI50 for NCI-H522, HOP-92, and HL-60: 1.2 M, 1.4 M, and 2.2 M,
+respectively). RA1 showed a high selectivity index, inducing >90% cell
+death at 40 M in a transformed cancerous cell line (BJ-ELR: LC50 30 M);
+while only 20% cell death was observed in non-transformed cells of the
+same origin (BJ-hTERT: LC50 55 M).Using a B-lymphoblastic cell leukemia
+line, RS4:11 (LC50 7 M; wild type p53), as a model system, we
+investigated the mechanism of action of RA1. No increase in p53 protein
+expression was observed upon treatment with RA1. Unlike conventional
+chemotherapy drugs, overexpression of the Bcl-2 protein to prevent
+mitochondrial outer membrane permeabilization (MOMP) had no effect on
+RA1's ability to induce cell death. The LC50 of GFP control and Bcl-2
+overexpressing cells with RA1 is 7.7 and 7.4 M, respectively, compared to
+the control (etoposide: LC50 0.6 M and >4 M). No change in cell cycle
+distribution was observed. No activation of the executioner caspases was
+seen by Western Blot; however, pretreatment with a caspase-2 inhibitor
+(z-VDVAD-FMK) prevented cell death. Electron microscopy images showed no
+morphological features characteristic of apoptosis, necrosis, or
+autophagy. Ferroptosis, an iron and reactive oxygen species (ROS)
+dependent form of cell death also lacks these morphological
+characteristics. While no organic peroxides are known to induce
+ferroptosis, the use of an iron chelator and Ferrostatin (a lipophillic
+anti-oxidant known to inhibit ferroptosis) inhibited cell death induced
+by RA1. Similar to some ferroptosis inducing compounds, a water soluble
+anti-oxidant had no effect on cell death; however, use of a ROS detection
+kit indicated oxidative stress is occurring.RA1 demonstrates potential
+therapeutic activity for the treatment of cancer. It is capable of
+overcoming two common chemo-resistance pathways: p53 mutation and
+inhibition of MOMP by modulation of the Bcl-2 family of proteins. RA1
+targets cancer cells by a unique mechanism distinct from other peroxide
+compounds, as well as conventional chemotherapies. Current experimental
+data suggests RA1 is inducing a form of ferroptotic cell death.
+

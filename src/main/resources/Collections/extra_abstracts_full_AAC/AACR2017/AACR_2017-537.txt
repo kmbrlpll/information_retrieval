@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: TRAF3 serves as a tumor suppressor in HPV-associated head and neck
+squamous cell carcinomas.
+
+
+The molecular mechanisms that control transformation and tumorigenicity
+of human papillomavirus-associated (HPV+) head and neck squamous cell
+carcinomas (HNSCCs) are currently being investigated. The number of HPV+
+HNSCC cases has increased sharply in recent years, especially in tonsil
+and oropharyngeal cancers. These HPV+ HNSCCs often respond differently to
+treatments. Recently, The Cancer Genome Atlas (TCGA, 2015) identified
+novel loss-of-function genomic alterations of TNF receptor-associated
+factor 3 (TRAF3) in HPV+ HNSCCs. TRAF3 is a ring-finger E3 Ubiquitin
+Ligase which inhibits downstream alternative NF-κB signaling and
+promotes anti-viral immunity by promoting degradation of ubiquitinated
+proteins. To assess TRAF3’s role in HPV+ HNSCCs, we identified cell
+lines with lower level of TRAF3 protein, consistent with deficient TRAF3
+expression identified in TCGA data. Functional studies showed that TRAF3
+expression led to decreased steady-state protein levels of the
+alternative NF-κB pathway components RELB and NF-κB2/p52, as assessed
+by Western blot, reporter assays and immunofluorescence. Additionally,
+TRAF3 expression led to decreased cell proliferation, tumorigenic
+activity and migration, and increased sensitivity to chemotherapy agent
+cisplatin. Interestingly, TRAF3 increases the steady state protein level
+of the classical tumor suppressors RB and p53 in HPV+ HNSCC cell lines as
+assessed by Western blot. Further in vitro characterization of TRAF3’s
+function in HPV+ HNSCCs was assessed using clinically identified TRAF3
+loss-of-function mutagenic isoforms, mimicking both TCGA data and HNSCC
+cell line data for TRAF3 defects. In contrast to wtTRAF3, these mutant
+forms of TRAF3 do not as strongly restore p53 or inhibit RELB and
+NF-κB2/p52 protein levels. One specific mutation which causes a
+frameshift at residue 210 greatly inhibits TRAF3 function as assessed by
+Western blot. To further assess effects of wt or TRAF3 loss-of-function
+mutants in vitro and in vivo, an inducible HPV+ HNSCC line expressing
+TRAF3 using the TET-ON system, and TRAF3 knockout in HPV+ HNSCC line and
+Human Oral Keratinocyte (HOK) line using CRISPR-Cas9 genomic editing are
+generated. In conclusion, the ring-finger E3 ubiquitin ligase TRAF3
+inhibits the pro-survival alternative NF-κB signaling pathway and
+restores TP53 and RB, thereby serving as a tumor suppressor in HPV+
+HNSCCs.
+
+(Supported by NIDCD intramural project ZIA-DC-000016, 73 and 74)
+
+

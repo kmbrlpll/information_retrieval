@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Non-random genomic alterations in BRCA1-related breast cancer
+
+
+BRCA1-related breast cancer is characterized by a high degree of genomic
+instability. However, to which extent this instability is a random result
+of the homologous recombination defect or the selection of the tumor
+phenotype, is unknown. The objective of this study is to investigate the
+genomic aberrations (copy number variation and somatic mutations) of
+BRCA1-related breast cancer, using a mouse model, to identify likely
+nonrandom aberrations and their biological functions.We examined genomic
+aberrations of three independent BRCA1-related tumors from a genetically
+engineered mouse model, K14-Cre BRCA1f/fp53f/f. Tumors had been
+propagated in Cre-negative littermates and liver tissue of the recipient
+mice from the controls were used as a germline control. Fresh frozen
+tumors and normal samples were used for exome sequencing and RNA-seq
+using Illumina technology. A commonly used workflow, GATK, was used for
+the sequence alignment, preprocessing and calling somatic mutations.
+VarScan2 was used for calling somatic copy number variations. We
+investigate the prevalence of common aberrations among these mouse in
+human BRCA1-related breast and ovarian cancer from The Cancer Genome
+Atlas (TCGA). We used the BioMart software tool to map mouse genes to
+human genes for the cross species analysis. After identifying common
+aberrant regions and genes across human and mouse we applied enrichment
+analysis using GOSeq, MetaCore and MSigDB software tools to identify the
+biological functions of the genetic alterations observed in BRCA1-related
+breast cancer across species.The analysis of exome sequencing data from
+BRCA1-related mouse tumors revealed surprisingly similar patterns of CNVs
+and rates of non-synonymous mutations. Correspondingly, distinct pattern
+were identified with regard to CNVs in human BRCA1-related breast and
+ovarian cancer. The cross species analysis of BRCA1-related TCGA ovarian
+and breast cancer tumors and BRCA1-related mouse tumors identified
+commonly aberrant regions that mapped to the long arms of human
+chromosomes 1, 8, 17 and 20 in both breast and ovarian cancer.
+Functionally, the blocks of genes that were commonly amplified in
+BRCA1-related breast or ovarian cancer included genes that transduce
+mitogenic signaling and ligand independent activation of estrogen
+receptors ESR1 and ESR2 as well as genes of the renin-angiotensin
+system.To conclude, copy number aberrations in BRCA1-related breast or
+ovarian cancers are not random and enrich for genes that enforce
+mitogenic signaling. The data support the notion that in addition to loss
+of cell cycle checkpoint control, tumor development requires activation
+of a mitogenic signaling program that could potentially be targeted for
+treatment.
+

@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Alternative splicing of neurofibromin 1 is associated with
+elevated MAPK activity and poor prognosis in glioma.
+
+
+High-grade gliomas (HGG) are invasive with poor prognosis regardless of
+age: diffuse intrinsic pontine gliomas (DIPG), arising in the brainstem,
+are almost universally fatal and the leading cause of brain-tumor death
+in children; while adult anaplastic astrocytoma and glioblastoma
+multiforme (GBM) have median survivals of 1-3 years. The mutational
+spectra of adult and pediatric HGG differ, with pediatric tumours
+containing recurrent mutations of H3F3A and HIST1H3B. However,
+alterations leading to RAS/MAPK/PI3K pathway activation, including PDGFRA
+amplification, EGFRvIII, BRAF-V600E, NF1 deletion, are frequently found,
+although not all tumours will have mutations in this pathway. The
+neurofibromin 1 (NF1) gene negatively regulates RAS signalling by
+stimulating RAS-GTP turnover, thereby leading to RAS-inactivation. The
+two major isoforms, NF1-I and NF1-II, differ only by inclusion of the 21
+aa exon23a in the GAP-related domain of NF1-II. Exon23a-inclusion has
+been shown to render NF1 10 times less active towards RAS, leading to
+elevated MAPK signalling. The brain expresses predominantly NF1-I, while
+the major isoform elsewhere is NF1-II. Here we used RNA-Seq to identify
+genes alternatively spliced between DIPG and normal brain, identifying an
+isoform switch from NF1-I in normal brain to NF1-II; we additionally
+found the same isoform switch in the TCGA adult GBM and LGG cohorts. For
+both GBM and LGG, RAS/MAPK/PI3K wild-type tumors with elevated NF1-II
+conferred significantly reduced patient survival compared to
+RAS/MAPK/PI3K mutant tumors. NF1-exon23a inclusion is known to be
+repressed in cell model systems by the CELF and ELAV-like families of
+splice regulators. We further show that members of these gene families
+are downregulated in HGG. Together, our results indicate a novel
+mechanism by which gliomas can activate signaling downstream from RAS
+independent of mutations and tumor grade, which promotes tumorigenesis by
+regulating pathways such as proliferation and invasion.
+
+

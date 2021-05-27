@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Development of DNA methylation markers to estimate the fraction of
+tumor cells in DNA samples.
+
+
+Tumor tissues are always contaminated with normal cells. If we can assess
+the fraction of tumor cells in DNA samples, a great advancement will have
+been achieved, such as exclusion of samples with a low tumor cell content
+from a study, and analysis of tumor heterogeneity. Though it has been
+reported next generation sequencing data can provide such information,
+the method is complicated and expensive. Here, we focused on DNA
+methylation levels of specific CpG sites that were fully methylated in
+cancer cells and fully unmethylated in normal cells to develop a fraction
+marker of tumor cells.First, to find such specific CpG sites of
+esophageal squamous cell carcinomas (ESCCs), we performed a genome-wide
+methylation analysis of 28 cancerous mucosae from ESCC patients, a pooled
+sample of non-cancerous mucosae, a pooled sample of normal esophageal
+mucosae from four healthy volunteer, four ESCC cell lines, and one sample
+of blood, using an Infinium HumanMethylation450 BeadChip array that
+covered 485,577 CpG sites. We searched for CpG sites highly methylated in
+the four ESCC cell lines ( value > 0.8) and hardly methylated in the
+pooled samples and blood ( value 0.5) in ESCCs (TFAP2B; 24/28, ARHGEF4;
+20/28, RAPGEFL1; 19/28). To measure methylation levels of these and
+neighboring CpG sites, we designed three primer sets for high-resolution
+melt analysis.Next, we analyzed methylation levels of the three genes in
+ESCC cells and non-cancerous cells purified from three samples by laser
+capture microdissection, and confirmed at least one of the three genes
+was almost fully methylated in the ESCC cells, and all the three genes
+were almost fully unmethylated in non-cancerous cells. Furthermore, to
+exclude an effect of DNA copy number (CN) changes, we analyzed CN changes
+of each gene by quantitative PCR of 15 ESCC samples. CN gains of ARHGEF4
+or RAPGEFL1 (more than 1.5-fold change) were not observed, but a small
+gain of TFAP2B (1.6-fold gain) was observed at a low frequency (3/15).
+Therefore, the higher value of either ARHGEF4 or RAPGEFL1 was considered
+to better reflect a fraction of ESCC cells. Only when values of these two
+genes were extremely low, was the value of TFAP2B considered to reflect
+it.Finally, we analyzed methylation levels of 35 ESCC samples using the
+three markers, and estimated fractions of ESCC cells. In the biopsy
+samples (n=15), a mean fraction of ESCC cells was 46.511.4 % (range,
+24.8-72.8%), and, in the surgical samples (n=20), it was 64.111.7 %
+(range, 38.4-83.7%). Pathological analysis of three samples showed a
+fraction of ESCC cells assessed by the analysis was almost equal to that
+obtained by the markers. These results demonstrate we can estimate a
+fraction of ESCC cells in a sample with the DNA methylation markers
+established here. The use of such methylation markers can be applied to
+other types of cancers.
+

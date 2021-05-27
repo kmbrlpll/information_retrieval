@@ -1,0 +1,96 @@
+Meeting: 2016 AACR Annual Meeting
+Title: MiR-BART9 is a prognostic biomarker associated with PD-1
+expression in colon cancer patients
+
+
+Background:Epstein-Barr Virus (EBV) is widely expressed in the population
+in a latent stage. During cancer progression, antiviral immunity is
+compromised by the same mechanisms leading to suppression of anticancer
+immunity.This study was aimed at developing the expression of miR-BART as
+biomarkers to select patients at risk of fast progression for a defect of
+the antiviral/anticancer immunity.Methods:We first analyzed the
+expression of EBV-miRNAs in a panel of 438 colon cancer (CC) patients of
+the TCGA dataset. Analysis was conducted using level 1 miRNA-seq and
+level 3 RNA-seq available on the same patients.In order to confirm the
+results, we tested the expression of miR-BART9 in an additional set of
+271 CC patients using spectral imaging and quantitative fluorescent
+immunohistochemistry (PD-1 and PD-L1 antigens at the protein level and
+miR-BART9 using a specific designed ISH probe).In order to increase the
+clinical applicability of our findings, we also developed a qPCR test to
+analyze the expression of miR-BART9 in serum of colon cancer
+patients.Results:In the analysis of 438 CC patients of the TCGA dataset,
+expression of miR-BART9 was found in 78 patients (18%). Levels of
+miR-BART9 were prognostic of poor outcome in a multivariate Cox model
+including age and stage (HR = 2.8, CI 1.6-4.7, pBackground:Epstein-Barr
+Virus (EBV) is widely expressed in the population in a latent stage.
+During cancer progression, antiviral immunity is compromised by the same
+mechanisms leading to suppression of anticancer immunity.This study was
+aimed at developing the expression of miR-BART as biomarkers to select
+patients at risk of fast progression for a defect of the
+antiviral/anticancer immunity.Methods:We first analyzed the expression of
+EBV-miRNAs in a panel of 438 colon cancer (CC) patients of the TCGA
+dataset. Analysis was conducted using level 1 miRNA-seq and level 3
+RNA-seq available on the same patients.In order to confirm the results,
+we tested the expression of miR-BART9 in an additional set of 271 CC
+patients using spectral imaging and quantitative fluorescent
+immunohistochemistry (PD-1 and PD-L1 antigens at the protein level and
+miR-BART9 using a specific designed ISH probe).In order to increase the
+clinical applicability of our findings, we also developed a qPCR test to
+analyze the expression of miR-BART9 in serum of colon cancer
+patients.Results:In the analysis of 438 CC patients of the TCGA dataset,
+expression of miR-BART9 was found in 78 patients (18%). Levels of
+miR-BART9 were prognostic of poor outcome in a multivariate Cox model
+including age and stage (HR = 2.8, CI 1.6-4.7, p<0.0001). In patients
+positive for miR-BART9 we also noticed a significant higher expression of
+PD-1, CD3 but not PD-L1 at the gene level. These results suggest that the
+expression of miR-BART9 is linked to a T cell infiltrate in the cancer
+tissue capable to induce a potent suppression of anticancer and antiviral
+immunity.In order to confirm this hypothesis, we performed spectral
+imaging in an additional set of 271 CC patients. Expression of miR-BART9
+was found in 32 (12%) patients with a prevalent stromal pattern. Also in
+this case expression of miR-BART9 was associated with poor outcome in
+Cox-multivariate analysis including age and stage (HR = 2.5, CI 1.6-3.4,
+pBackground:Epstein-Barr Virus (EBV) is widely expressed in the
+population in a latent stage. During cancer progression, antiviral
+immunity is compromised by the same mechanisms leading to suppression of
+anticancer immunity.This study was aimed at developing the expression of
+miR-BART as biomarkers to select patients at risk of fast progression for
+a defect of the antiviral/anticancer immunity.Methods:We first analyzed
+the expression of EBV-miRNAs in a panel of 438 colon cancer (CC) patients
+of the TCGA dataset. Analysis was conducted using level 1 miRNA-seq and
+level 3 RNA-seq available on the same patients.In order to confirm the
+results, we tested the expression of miR-BART9 in an additional set of
+271 CC patients using spectral imaging and quantitative fluorescent
+immunohistochemistry (PD-1 and PD-L1 antigens at the protein level and
+miR-BART9 using a specific designed ISH probe).In order to increase the
+clinical applicability of our findings, we also developed a qPCR test to
+analyze the expression of miR-BART9 in serum of colon cancer
+patients.Results:In the analysis of 438 CC patients of the TCGA dataset,
+expression of miR-BART9 was found in 78 patients (18%). Levels of
+miR-BART9 were prognostic of poor outcome in a multivariate Cox model
+including age and stage (HR = 2.8, CI 1.6-4.7, p<0.0001). In patients
+positive for miR-BART9 we also noticed a significant higher expression of
+PD-1, CD3 but not PD-L1 at the gene level. These results suggest that the
+expression of miR-BART9 is linked to a T cell infiltrate in the cancer
+tissue capable to induce a potent suppression of anticancer and antiviral
+immunity.In order to confirm this hypothesis, we performed spectral
+imaging in an additional set of 271 CC patients. Expression of miR-BART9
+was found in 32 (12%) patients with a prevalent stromal pattern. Also in
+this case expression of miR-BART9 was associated with poor outcome in
+Cox-multivariate analysis including age and stage (HR = 2.5, CI 1.6-3.4,
+p<0.001). Expression of miR-BART9 was again significantly associated with
+a PD-1 positive T-cell infiltrate.Based on these results, we have
+designed a qPCR test to analyze the expression of miR-BART9 in serum
+using an EBV-infected B lymphoma cell line (Raji) as positive control.
+The assay was employed for monitoring miR-BART9 expression in serum from
+CC patients (n = 89) and healthy controls (n = 95). Human miR-486 and
+miR-17 were used as positive controls.MiR-BART9 expression was found in
+33 (37%) of CC patients and only in 5 (5%) of the 95 healthy
+controls.Conclusions: Our results reveal that expression of miR-BART9 is
+associated with aggressive CC. Patients featuring reactivation of latent
+EBV-infection have also expression of PD-1+ T cells, which will impact
+both anticancer and antiviral immunity. The expression of miR-BART9 can
+be detected also in serum and may serve to identify the right timing to
+treat CC patients with PD-1/PD-L1 inhibitors in order to restore an
+effective anticancer and antiviral immunity.
+

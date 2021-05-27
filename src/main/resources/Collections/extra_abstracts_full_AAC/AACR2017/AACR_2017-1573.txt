@@ -1,0 +1,31 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Detection of late-arising driver mutations using multi-sample
+tumor sequencing data.
+
+
+Whole-genome sequencing of tumors has identified genetic mutations that
+drive the origination, growth, and spread of cancer. Most driver
+mutations detected from sequencing tumors have been categorized as
+early-occurring and are believed to play a role in initial tumor
+formation. However, single-region primary tumor samples represent just
+one snapshot of the continuously changing mutational landscape of a
+tumor. Drivers of initial tumor formation, occurring early on in tumor
+development, are present in more tumor cells and are more likely to be
+identified from a single tumor sample than drivers of later events like
+metastasis, which are likely to be found in only one or a few tumor
+samples. We analyzed 101 multi-region and/or multi-tumor sequencing data
+sets using driver mutation annotation and phylogenetic inference to
+determine whether driver mutations occur preferentially early on. We
+found driver mutations frequently arise late in the course of tumor
+evolution, even when statistically accounting for small amounts of total
+drivers and many early total mutations. In addition, the timing of driver
+mutation occurrence varies widely depending on cancer type as well as
+among different individuals with a single cancer subtype. Finally, we
+identify known cancer genes that are enriched in either early or late
+driver mutations, reflecting different selective pressures at various
+stages of cancer development. These results illustrate how drivers of
+primary tumorigenesis must be distinguished from drivers of treatment
+resistance, metastasis, or recurrence in order to better understand the
+genetic changes behind cancer progression.
+
+

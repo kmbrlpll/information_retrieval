@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Mesodissection of slide mounted tissue: Applications including
+tumor tissue enrichment, expression analysis, and FISH on tissue fragments
+
+
+We previously reported the development of a mill based instrument for
+dissection of slide-mounted tissue sections. This instrument employs a
+specialized disposable mill bit that simultaneously dispenses liquid,
+cuts tissue from the slide surface using rotary motion, and aspirates the
+liquid along with the displaced tissue fragments. An accompanying
+software package is capable of transferring digital annotations between
+images of serially cut tissue sections to guide dissection and generate
+an electronic record of the process. Since the original report, a new
+instrument and software package has been developed with a computer
+controlled stage for automatic dissection of tissue. Here we report three
+applications using this mesodissection system. The first application
+investigated the relationship between dissection resolution and percent
+tumor tissue recovered. Areas of high tumor content were indicated on
+digital images of lung tumor samples. The areas of highest concentration
+were dissected at 400 micron resolution, the remaining areas of tumor
+dissected at 800 micron resolution, and then surrounding areas that would
+typically be recovered using manual macrodissection were dissected at 2
+mm resolution. The percent mutant DNA, determined using the Sequenom
+OncoCarta panel, was greater than 60% for the 400 micron resolution
+dissections, about 45% for the 800 micron resolution dissections, and
+less than 10% for the remaining regions. The second application
+investigated the effect of various dissection related parameters on
+expression analysis, as assayed by Reverse Transcription and Quantitative
+PCR (RT-qPCR). These parameters included placing freshly microtomed FFPE
+tissue sections directly on slides vs. first floating on water,
+dissection of deparaffinized vs. paraffinized tissue, the use of crude
+lysates vs. purified RNA for the reverse transcription reactions, and
+manual dissection vs. mesodissection of the same areas on serial
+sections. RT-qPCR results were robust and equivalent for all parameters
+except those derived from crude lysates, which were equivalent to the no
+template controls. The third application investigated if mesodissected
+tissue fragments could be re-adhered to glass slides and used for FISH
+analysis. This application has the potential to automate and increase the
+throughput of FISH on tissue sections while reducing sample consumption.
+The preliminary results demonstrate that tissue fragments can produce
+good FISH signals, but a more detailed comparison to undissected tissue
+sections is ongoing. A significant concern is the loss of context of
+these fragments. This concern can be somewhat minimized by adjusting
+dissection conditions to obtain fragments larger than 1 mm in diameter
+and by mapping the dissected area onto the corresponding area a serial
+H&E stained tissue section using the mesodissection software.
+

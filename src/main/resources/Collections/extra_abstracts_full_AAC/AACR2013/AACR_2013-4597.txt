@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Stroma-derived Basigin controls survival of leukemia cells through
+regulation of their redox state.
+
+
+Leukemia cells critically depend on interactions with the
+microenvironment in bone marrow and at extramedullary sanctuary sites,
+which provides protection to escape chemotherapy. Co-culture of primary
+leukemia cells on mesenchymal stroma cells (MSCs) derived from human bone
+marrow supports leukemia cell survival. We have developed an automated
+microscopy-based approach to identify stroma-derived pro-survival signals
+by RNA interference of candidate genes in MSCs enabling functional
+profiles of primary leukemia cells with respect to support from the
+microenvironment. We took advantage of our leukemia xenograft system of
+well characterized primary ALL samples, including cases with refractory
+disease. Based on gene expression and cell surface proteomic data from
+both cellular compartments, we generated a customized siRNA library of
+110 genes with a potential function in stromal support. Primary ALL cells
+were seeded on reversely transfected MSC cells, and ALL cell viability
+was assessed with a fluorescent viability dye after 6 days. Image
+analysis and machine learning algorithms were developed for specific
+quantification of surviving ALL cells on top of MSCs.As proof of concept,
+we could show that down-regulation of VCAM1 or the VEGF pathway in MSCs
+decreased ALL survival in a subgroup of cases. Inhibitors of VEGF
+signalling recapitulated a decrease of ALL cell viability for the same
+samples. One of the strongest effects on ALL survival was achieved by
+down-regulation of the membrane protein Basigin (CD147). Specifically, 13
+out of 17 ALL cases analysed in validation experiments were affected by
+modulation of Basigin on MSC level. Basigin has been implicated in cell
+signalling, in interactions with extracellular matrix, and serves as
+chaperone to different membrane carrier proteins. Among putative Basigin
+interactors we identified the heteromeric amino acid transporter SLC3A2
+(CD98) to be required for ALL survival in the same 13 ALL cases.
+Down-regulation of Basigin or SLC3A2 in MSCs induced a decrease of GSH
+levels and increased ROS levels in leukemia cells, enhancing oxidative
+stress. Downregulation of Basigin/SLC3A2 also increased the sensitivity
+of leukemia cells to oxidative stress by H2O2. Depletion of cysteine in
+co-culture conditions mimicked the effect of Basigin downregulation, and
+addition of cysteine restored ALL cell viability despite downregulation
+of Basigin in MSCs, identifying stroma-dependent cysteine metabolism as
+important regulatory mechanism to maintain GSH levels in ALL cells.Taken
+together, we have established a robust platform for functional
+investigation of primary ALL cell survival in a model of the leukemia
+microenvironment and obtained evidence for dependence of ALL cell
+survival on Basigin/SLC3A2 activity in stroma. Our data indicate that
+Basigin/SLC3A2 function is important for the regulation of the redox
+state of ALL cells in this model of the leukemia niche.
+

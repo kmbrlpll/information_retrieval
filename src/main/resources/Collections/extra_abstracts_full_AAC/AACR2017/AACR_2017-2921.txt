@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Integrated exome- and single cell RNA-sequencing reveals a clone's
+genomic instability and multifaceted fitness.
+
+
+DNA-damage therapy is the main line of defense against most cancers,
+especially at advanced stages of progression. DNA-damage therapy damages
+the cell’s DNA. We have identified that a cell’s cumulative extent of
+DNA damage - even when successfully repaired - is an indicator for future
+tolerance to new insults. This finding points to a quantitative measure
+of genomic instability as biomarker of sensitivity to DNA-damaging
+agents. However, quantifying genomic instability is difficult, especially
+because each individual tumor harbors clones with their own distinct
+genomic characteristics. Here we address the challenge of quantifying the
+complex phenotype of genomic instability across the clonal subpopulations
+that coexist within an individual tumor.
+
+We identified coexisting clones from bulk-exome sequencing and calculated
+the copy number profile of each clone’s genome. We integrated mutations
+detected in both, single-cell RNA-sequencing (scRNA-seq) and exome
+sequencing, to assign single cells to clones. Because cells in G2/M phase
+of the cell cycle (further referred to as G2/M clones) have twice the
+ploidy compared to cells in other cell cycle phases, their presence
+represents an opportunity for validation. Using 15 gastric cancer cell
+lines - each sorted by cell cycle phase - we validated: i) clone-specific
+copy number and ii) assignment of single cells to clones. Here, the
+predicted size of G2/M clones is an indicator of how correct we quantify
+clone-specific copy number. The degree to which expression of cell cycle
+genes is exclusive to G2/M clones is an indicator as to how correct we
+assign single cells to clones. In addition to the dominant quiescent
+clone and the G2/M clone, we identified other discrete subclones in a
+subset of cell lines, suggesting that genetic intra-tumor heterogeneity
+is sometimes maintained in-vitro. This approach identified clone-specific
+markers that can be used for cytometry separation of cells of specific
+clonal subpopulations.
+
+Overall, we demonstrate the power of combining exome sequencing and
+scRNA-seq to reveal how many clones are present in a tumor sample, how
+genomically unstable each clone is and how fit is each clone. When
+combined, these two techniques synergize into a powerful strategy to
+investigate the relationship between genomic instability, clone fitness
+and DNA-damage sensitivity.
+
+

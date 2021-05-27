@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: NUP98-fusion proteins interact with the NSL/MLL1 complexes to
+drive leukemogenesis
+
+
+The Nucleoporin 98 gene (NUP98) is fused to a variety of partner genes in
+an array of hematopoietic malignancies via chromosomal translocations
+involving 11p15. NUP98-rearranged leukemias show elevated HOXA and HOXB
+cluster genes and mouse model systems have recapitulated this high-level
+expression independent of whether the leukemias are derived from mouse or
+human bone marrow. However, the molecular mechanisms of NUP98-fusion
+mediated leukemogenesis and elevated HOX gene expression in this leukemia
+are unclear. Recent studies in Drosophila show that nucleoplasmic Nup98
+functions as a potential transcriptional activator, and physically
+interacts with the non-specific lethal (NSL) and trithorax (Trx)/mixed
+lineage leukemia (MLL) complex (Kalverda et al., 2010; Pascual-Garcia et
+al., 2014). To test whether the intranuclear localized NUP98-fusion
+proteins interact with NSL/MLL1 complexes, coimmunoprecipitation (co-IP)
+experiments using 293T cells with overexpression of NUP98 fusions and
+wild type (WT) NUP98 were performed. NUP98-fusion proteins NUP98-HOXA9,
+NUP98-HOXD13, NUP98-NSD1 and NUP98-PHF23, but not the full-length WT
+NUP98, show physical interaction with MLL1 and the NSL histone
+acetyltransferase (HAT) complexes. Genome-wide chromatin
+immunoprecipitation followed by next generation sequencing (ChIP-seq)
+illustrated that NUP98-HOXA9 and MLL1 co-localize at Hoxa and Hoxb gene
+promoters, which correlates with the presence of activating chromatin
+modifications such as H4K16ac and H3K4me3. In vitro and in vivo
+functional assays further showed that Mll1 is crucial for the growth of
+NUP98-HOXA9-transformed cells, and for the initiation and maintenance of
+NUP98-HOXA9 driven AML. These findings were further supported by
+transcriptome analyses performed in mouse NUP98-HOXA9 transformed cells
+lacking Mll1. We found a significant enrichment of co-bound targets of
+MLL1 and NUP98-HOXA9 and genes downregulated in the absence of Mll1. Gene
+set enrichment analysis (GSEA) demonstrated strong similarity between
+Mll1-dependent gene expression signature in our murine NUP98-HOXA9 AML
+model and the expression profile of human NUP98-fusion AML, indicating
+that our findings in murine AML models can be extended to human AML.
+Finally, the overexpression of Hoxa9 and Meis1, direct binding targets of
+NUP98-HOXA9 and MLL1 that are downregulated upon Mll1 loss, rescues the
+in vitro transformation defects in NUP98-HOXA9 Mll1-/- cells. In
+conclusion, our findings support a model where NUP98-fusion proteins
+recruit the NSL/MLL1 complex as an important step during leukemogenesis.
+The deregulated HOX gene expression in NUP98 fusion transformed cells
+remains dependent on MLL1. The discovery of this common leukemogenic
+pathway for NUP98-fusion proteins opens up new avenues for potential
+therapeutic opportunities to treat patients with leukemia that harbor
+various NUP98 rearrangements.
+

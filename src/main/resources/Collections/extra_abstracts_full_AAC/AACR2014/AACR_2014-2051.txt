@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Three-dimensional in vivo photoacoustic tracking of targeted
+nanoparticles in a pancreatic cancer model
+
+
+The use of targeted gold nanoparticles (AuNPs) has shown tremendous
+promise in the early detection and improved therapy of cancer. Successful
+development and implementation of these new theranostic approaches,
+however, depends on sufficient transvascular migration and specific
+accumulation of AuNPs to extravascular tumor tissue. This study utilized
+photoacoustic (PA) imaging to track - in three dimensions and through 24
+hours - the extravasation and accumulation of targeted AuNPs in a
+subcutaneous murine model of prostate cancer. AuNPs (nanorods; 760-nm
+peak) targeting the Luteinizing-hormone-releasing hormone receptor were
+systemically injected into three mice bearing PC-3 human prostate cancer
+tumors; as a control, three additional mice were injected with PEGylated
+AuNPs. For all particle-tracking studies, multi-wavelength (680, 760,
+800, 920, & 940 nm), volumetric (spherical volume with 25.6-mm diameter)
+PA imaging was conducted at pre-injection, post-injection, 15-min,
+60-min, 240-min, and 24-hr time points; the imaging volume contained the
+tumor and the spleen (control). Following imaging, tumors were excised
+and inductively coupled plasma mass spectrometry (ICP-MS) of samples and
+two-photon imaging of histological sections was performed to confirm AuNP
+accumulation and diffusion, respectively. Volumetric PA perfusion
+assessment was then conducted by monitoring the wash-out of indocyanine
+green (ICG) in near real-time (0.25 Hz for 180 s post-injection). All PA
+imaging studies were performed on the Nexus 128 preclinical imaging
+system (Endra Inc., Ann Arbor, MI). Spectral unmixing of the
+multi-wavelength PA data was achieved to segment AuNPs and
+deoxy-/oxyhemoglobin (i.e. for local hypoxia assessment). Accumulation
+and extravasation data of the targeted AuNPs in the tumor were then
+compared to tumor perfusion data, PA-derived tumor hypoxia data,
+PEGylated AuNP accumulation data in the tumor, AuNP accumulation data in
+the spleen, and ICP-MS/histological analysis. Results of the study
+establish that volumetric PA imaging with multi-wavelength unmixing is
+able to track nanoparticle accumulation and extravasation throughout an
+in vivo tumor model. The location and relative degree of particle
+accumulation was also found to correlate with PA-based perfusion and
+vascularity assessment. This study demonstrates that volumetric PA
+imaging has the spatiotemporal resolution and sensitivity to track
+extravasation of AuNPs in an in vivo tumor model. This in vivo tracking
+ability - along with concurrent PA-based perfusion and hypoxia mapping -
+could be of significant benefit in understanding and improving
+nanoparticle targeting for the diagnosis and treatment of cancer.
+

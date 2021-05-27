@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Efficient KO of PD1 into primary T cells using a new
+non-integrative lentiviral particle expressing CRISPR/Cas9 system.
+
+
+Gene editing by the CRISPR system shows great promises for gene therapy.
+Nevertheless, it must now face a number of challenges especially for the
+development of safe and efficient delivery tools for in vivo, as well as
+ex vivo gene editing. Cas9 and sgRNA delivery, mediated either by viral
+vectors (AAV- or Lentivirus-derived) or transfection protocols (chemical
+or by electroporation) have been largely and efficiently used but they
+bring major drawbacks incompatible with clinical applications. Indeed,
+viral vectors can display uncontrolled chromosomal integrations and
+transfection protocols are known to induce cell toxicity and/or phenotype
+modifications of the target cells.. Moreover, the CRISPR technology
+entails a “hit-and-run” mechanism that only requires a transient
+expression of the nuclease complex. Therefore, achieving an efficient
+delivery into hard-to-transfect cells, such as T cells, remains
+challenging and the need for delivery tools that would allow efficient
+transfer on most cell types without causing any cell damages is essential
+for downstream therapeutic applications. Here, we present an innovative
+tool, named LentiFlash, allowing RNA delivery into target cells without
+any genomic scar. The RNA encapsidation is mediated via an RNA/protein
+interaction: the respective properties of the MS2 bacteriophage and the
+lentiviral vectors have been combined to build a non-integrative
+packaging system in which the wild type HIV packaging sequence is
+replaced by the MS2 stem-loop repeats and the MS2 coat protein is
+inserted into the Nucleocapsid. This new vector breaks with all existing
+systems, as the resulting lentiparticle is able to deliver non-viral
+coding or non-coding RNA, at high efficiency, into the cytoplasm of any
+cell type. Transduction of a large range of cells, from immortalized
+cells to delicate primary cells, such as T cells and hematopoietic stem
+cells, with LentiFlash shows an efficient, fast and transient expression
+of proteins and RNA, with no cell phenotype modification. In particular,
+LentiFlash particles were successfully used to deliver Cas9, alone or in
+association with an sgRNA not only targeting a reporter gene into
+immortalized cells, but outstandingly knocking-out the PD-1 gene into
+primary human T lymphocytes. This new RNA delivery system is an efficient
+and safe tool for the delivery of CRISPR editing machinery in most cell
+types without affecting cell viability and phenotype. The transient,
+RNA-based mechanism of LentiFlash vector, preventing the risk of
+integration, associated with its ability to utilize lentiviral production
+platforms already validated in clinical settings, make it a promising
+tool for CRISPR therapeutic applications. As a matter of fact, beyond
+gene editing efficiency, safety of delivery tools is a major concern that
+should be addressed to move forward with CRISPR clinical development.
+
+

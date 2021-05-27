@@ -1,0 +1,92 @@
+Meeting: 2017 AACR Annual Meeting
+Title: E2F2-mediated copy number changes drive metastasis and therapeutic
+response of HER2-positive tumors through Col1a1, CHAD, and AKT-dependent
+mechanisms.
+
+
+The E2F family of transcription factors is classically known to regulate
+G1 to S-phase transition in cell cycle but has emerging roles in HER2+
+breast cancer. A loss of E2F1 or E2F2, in a HER2 mouse model, MMTV-Neu,
+leads to a decrease in tumor metastasis1. It is not known what
+mechanistic roles specific E2Fs are playing in this process. To
+investigate this, we leveraged and bioinformatic principles, including
+genomics and transcriptomics with traditional laboratory science and high
+throughput drug screening projects. This experimental approach
+immediately revealed that loss of E2F2 is significantly associated with a
+more unstable tumor including an increase in copy number alterations,
+single nucleotide variants, and translocations. Further analysis revealed
+a conserved copy number alteration in both mouse and humans. Specifically
+we noted the amplification of 17q21.33 in 25% of HER2+ patients. The
+analogous region chromosome 11D was lost in 30% of the less metastatic
+MMTV-Neu E2F2 knockout mice indicating a role of the region in tumor
+metastasis. Transcriptomic data revealed that two genes, Collagen Type I,
+alpha 1 (Col1a1) and Chondroadherin (CHAD), were potential genes of
+significance in the amplification event. CRISPR mediated knockout studies
+were conducted to determine each gene’s effect on tumor cell migration
+and metastasis in mouse and human derived cell lines. Wound healing
+assays and tail vein injection have shown the Col1a1 and CHAD KO cell
+lines have a delay in cell migration (PThe E2F family of transcription
+factors is classically known to regulate G1 to S-phase transition in cell
+cycle but has emerging roles in HER2+ breast cancer. A loss of E2F1 or
+E2F2, in a HER2 mouse model, MMTV-Neu, leads to a decrease in tumor
+metastasis1. It is not known what mechanistic roles specific E2Fs are
+playing in this process. To investigate this, we leveraged and
+bioinformatic principles, including genomics and transcriptomics with
+traditional laboratory science and high throughput drug screening
+projects. This experimental approach immediately revealed that loss of
+E2F2 is significantly associated with a more unstable tumor including an
+increase in copy number alterations, single nucleotide variants, and
+translocations. Further analysis revealed a conserved copy number
+alteration in both mouse and humans. Specifically we noted the
+amplification of 17q21.33 in 25% of HER2+ patients. The analogous region
+chromosome 11D was lost in 30% of the less metastatic MMTV-Neu E2F2
+knockout mice indicating a role of the region in tumor metastasis.
+Transcriptomic data revealed that two genes, Collagen Type I, alpha 1
+(Col1a1) and Chondroadherin (CHAD), were potential genes of significance
+in the amplification event. CRISPR mediated knockout studies were
+conducted to determine each gene’s effect on tumor cell migration and
+metastasis in mouse and human derived cell lines. Wound healing assays
+and tail vein injection have shown the Col1a1 and CHAD KO cell lines have
+a delay in cell migration (P<.01) and reduced ability to colonize the
+lung (PThe E2F family of transcription factors is classically known to
+regulate G1 to S-phase transition in cell cycle but has emerging roles in
+HER2+ breast cancer. A loss of E2F1 or E2F2, in a HER2 mouse model,
+MMTV-Neu, leads to a decrease in tumor metastasis1. It is not known what
+mechanistic roles specific E2Fs are playing in this process. To
+investigate this, we leveraged and bioinformatic principles, including
+genomics and transcriptomics with traditional laboratory science and high
+throughput drug screening projects. This experimental approach
+immediately revealed that loss of E2F2 is significantly associated with a
+more unstable tumor including an increase in copy number alterations,
+single nucleotide variants, and translocations. Further analysis revealed
+a conserved copy number alteration in both mouse and humans. Specifically
+we noted the amplification of 17q21.33 in 25% of HER2+ patients. The
+analogous region chromosome 11D was lost in 30% of the less metastatic
+MMTV-Neu E2F2 knockout mice indicating a role of the region in tumor
+metastasis. Transcriptomic data revealed that two genes, Collagen Type I,
+alpha 1 (Col1a1) and Chondroadherin (CHAD), were potential genes of
+significance in the amplification event. CRISPR mediated knockout studies
+were conducted to determine each gene’s effect on tumor cell migration
+and metastasis in mouse and human derived cell lines. Wound healing
+assays and tail vein injection have shown the Col1a1 and CHAD KO cell
+lines have a delay in cell migration (P<.01) and reduced ability to
+colonize the lung (P<.05) respectively. Oncogenic signaling data shows
+that the 17q21.33 amplification event has higher AKT and E2F2 signaling
+than HER2 positive tumors without the event. It was hypothesized that the
+tumors would be dependent on the signaling and perturbation of the
+network might be an effective therapy for patients with the 17q21.33
+amplification event. To investigate this we identified deferentially
+lethal siRNAs and compounds between HER2+ tumors with and without the
+17q21.33 event in the Achilles, CCLE, and PDX datasets. A String-DB
+analysis showed many of the deferentially lethal genes and compounds
+centered around AKT. A decrease in AKT signaling through siRNA or
+chemical compound results in the death of the cell in the 17q21.33
+amplified samples but not the HER2+ samples without the event. This study
+reveals that patients’ with a 17q21.33 amplification event have more
+metastatic tumors mediated through Col1a1 and CHAD and may be responsive
+to AKT targeting therapy.
+
+References1. Andrechek ER: HER2/Neu tumorigenesis and metastasis is
+regulated by E2F activator transcription factors. Oncogene 2013.
+
+

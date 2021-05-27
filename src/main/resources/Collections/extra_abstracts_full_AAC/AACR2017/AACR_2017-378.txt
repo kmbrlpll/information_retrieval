@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The Cancer Genome Collaboratory.
+
+
+The Cancer Genome Collaboratory is an academic compute cloud designed to
+enable computational research on the world’s largest and most
+comprehensive cancer genome dataset, the International Cancer Genome
+Consortium (ICGC). The ICGC is on target to categorize the genomes of
+25,000 tumors by 2018. A subproject of ICGC, the PanCancer Analysis of
+Whole Genomes (PCAWG) alone has generated over 800TB of harmonized
+sequence alignments, variants and interpreted data from over 2,800 cancer
+patients. A dataset of this size requires months to download and
+significant resources to store and process. By making the ICGC data
+available in cloud compute form in the Collaboratory, researchers can
+bring their analysis methods to the cloud, yielding benefits from the
+high availability, scalability and economy offered by cloud services,
+avoiding a large investment in static compute resources and essentially
+eliminating the time needed to download the data.
+
+To facilitate the computational analysis on the ICGC data, the
+Collaboratory has developed software solutions that are optimized for
+typical cancer genomics workloads, including well tested and accurate
+genome aligners and somatic variant calling pipelines. We have developed
+a simple to use, but fast and secure, data transfer tool that imports
+genomic data from cloud object storage into the user’s compute
+instances. Because a growing number of cancer datasets have restrictions
+on their storage locations, it is important to have software solutions
+that are interoperable across multiple cloud environments. We have
+successfully demonstrated interoperability across The Cancer Genome Atlas
+(TCGA) dataset hosted at University of Chicago’s Bionimbus Protected
+Data Cloud, the ICGC dataset hosted at the Collaboratory, and ICGC
+datasets stored in the Amazon Web Services (AWS) S3 storage. Lastly, we
+have developed a non-intrusive user authorization system that allows the
+Collaboratory to authenticate against the ICGC Data Access Compliance
+Office (DACO) when researchers require access to controlled tier data. We
+anticipate that our software solutions will be implemented on additional
+commercial and academic clouds.
+
+The Collaboratory is actively growing, with a target hardware
+infrastructure of over 3000 CPU cores and 15 petabytes of raw storage. As
+of November 2016, the Collaboratory holds information on 2,000 ICGC PCAWG
+donors (500TB total). We anticipate expanding the Collaboratory to host
+the entire ICGC dataset of 25,000 donors (approximately 5PB) and to
+extend its data management and analysis facilities across multiple
+clouds. During the current closed beta phase, the Collaboratory has been
+successfully utilized by multiple research groups, most notably PCAWG
+project researchers who analyzed thousands of genomes at scale over a few
+weeks’ time. The Collaboratory will open to the public during the
+second quarter of 2017. We invite cancer researchers to learn more about
+our cloud resources at cancercollaboratory.org, and apply for access to
+the Collaboratory.
+
+

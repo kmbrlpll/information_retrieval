@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: ERK1/2 inhibitors with distinct modes of inhibition confer
+different response profiles in KRAS mutant cancers
+
+
+The clinical benefit of targeting the MAPK pathway is demonstrated by the
+success of RAF and MEK inhibitors in the treatment of melanoma. However,
+response to such agents is short-lived due to the onset of resistance
+mechanisms that result in reactivation of ERK signalling. Additionally,
+many BRAF- and KRAS-mutant cancers exhibit de novo resistance. As the
+direct targeting of ERK may overcome the limitations of RAF or MEK
+inhibitors, there are several ERK1/2 inhibitors in development. SCH772984
+(SCH, Merck-Schering) is an example of an ERK1/2 inhibitor that in
+addition to inhibiting ERK catalytic activity also inhibits the
+phosphorylation of residues within the ERK activation loop. Several
+ERK1/2 inhibitors have been described that inhibit ERK catalytic activity
+without modulating ERK phosphorylation e.g GDC-0994 (GDC, Genentech).
+Here we aim to characterise the biological relevance of the different
+modes of ERK inhibition.We investigated the biochemical mechanism by
+which SCH inhibits ERK phosphorylation and demonstrated that it prevents
+the phosphorylation of ERK by MEK (T202/Y204), but does not affect MEK
+activity.We characterised the effects of the distinct modes of ERK
+inhibition on ERK substrates, cellular pERK levels, pathway feedback
+activation and sensitivities of cell lines with different genetic
+backgrounds.In BRAFV600E-mutant cells e.g A375 (melanoma) and Colo205
+(colorectal), 16 hr treatment with SCH and GDC significantly inhibited
+the phosphorylation of RSK (ERK substrate). SCH significantly inhibited
+ERK phosphorylation, whereas GDC did not modulate pERK levels. Neither
+compound induced pathway feedback activation. In proliferation assays
+A375 and Colo205 cells had remarkably similar sensitivities to SCH (EC50
+40 nM and 30 nM, respectively) and GDC (EC50 = 140 nM in both).In
+contrast to BRAF-mutant cells, SCH and GDC treatment conferred pMEK
+induction in the KRAS-mutant cell line HCT116 (while still significantly
+inhibiting RSK phosphorylation). This is likely to be attributable to the
+feedback-driven C-RAF activation commonly associated with MAPK pathway
+inhibition in KRAS-mutant cells. In addition to pMEK, GDC also conferred
+an induction of pERK. However, SCH overcame pathway feedback and
+inhibited the ERK phosphorylation. The inhibition of pathway feedback
+conferred by SCH was associated with increased sensitivity of HCT116
+cells to SCH (EC50 = 30 nM) compared to GDC (EC50 = 1.1 M). In a cell
+panel screen comprising 25 BRAF-mutant and 63 KRAS-mutant cell lines, SCH
+and GDC had similar activity in BRAF-mutant cell lines. However, although
+KRAS-mutant cell lines were sensitive to SCH, they were largely resistant
+to GDC. These data suggest that due to their ability to overcome MAPK
+inhibitor-induced pathway feedback, ERK inhibitors that also inhibit the
+phosphorylation of ERK would be more effective in KRAS-mutant cancer than
+those that inhibit ERK activity alone.
+

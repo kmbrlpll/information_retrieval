@@ -1,0 +1,28 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Biomarker identification of residual triple negative breast cancer
+(TNBC) after standard neoadjuvant chemotherapy (NCT)
+
+
+Backgrounds Residual TNBC after standard NCT has a poor prognosis. The
+aim of this study was to identify biomarkers that correlate with
+prognosis and can be used as novel therapeutic targets in this disease
+Methods 54 residual TNBC were identified. Protein was extracted and 76
+antibiotics to proteins related to breast cancer signaling were measured
+by reverse phase protein arrays (RPPA). Univariable and multivariable Cox
+proportional hazard model ratios were fitted for each protein and
+simultaneously. Cross-validation was also performed. The coefficient in
+the multivariable Cox model were used to calculate a risk score (RS) for
+each sample. Results The unsupervised clustering analysis of the
+proteomic profiles for the 54 residual breast cancers and 76 proteins
+divided the tumors into two groups without significant survival
+difference. Multivariable analysis using the top 25 proteins from
+univariable analysis at a false discovery rate (FDR) of 0.3 showed that
+IGFPB2, LKB1, and S6 were significant predictors in relapse free survival
+(RFS). RS model calculated based on multivariable analysis was
+0.3746*IGFPB2-0.8852*LKB1+0.6012*S6, AUC=0.807. Employing crossvalidation
+the model was found to be reproducible. Multivariable analysis suggested
+that RS was an independent predictor of RFS (HR: 2.705, 95% CI 1.549 to
+4.723, P-value=0.0005). Conclusions We identified a RS of three
+biomarkers that predict outcome in patients with residual TNBC that could
+be studied as therapeutic targets for this disease.
+

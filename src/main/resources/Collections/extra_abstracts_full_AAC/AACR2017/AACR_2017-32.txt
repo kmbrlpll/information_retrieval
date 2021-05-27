@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Preclinical evaluation of MCLA-158: A bispecific antibody
+targeting LGR5 and EGFR using patient-derived colon carcinoma organoids.
+
+
+Background. Colorectal cancer (CRC) is the third most common cancer and
+remains a large unmet need. Dysregulation of Wnt and receptor tyrosine
+kinase (RTK) signalling pathways are important oncogenic driving events
+in CRC. Due to this dysregulation, Wnt target genes are expressed at
+higher levels in CRC particularly in tumor initiating cells. We
+previously performed an unbiased screen of bispecific antibodies (bAbs)
+targeting Wnt and RTK targets that resulted in the selection of MCLA-158.
+
+Methods. A cohort of 32 genetically and transcriptionally annotated
+patient-derived colorectal cancer and normal colon organoids were used to
+functionally characterize responses to antibodies based on morphological
+changes with high content 3D imaging. Binding affinity was measured by
+surface plasma resonance and cell based assays. The antibody binding
+epitopes were mapped by shotgun mutagenesis and FACS based screening.
+Ligand (R-spondin or EGF) blocking activity was measured in vitro by
+competition for ligand binding or functional inhibition of ligand
+dependent growth. In vivo activity was evaluated in xenograft models
+generated from organoids subcutaneously implanted into immunocompromised
+mice. Safety was evaluated via once weekly intravenous administration of
+MCLA-158 to cynomolgus monkeys for 4 weeks and monitoring for
+pathological changes.
+
+Results. MCLA-158, an ADCC enhanced common light chain IgG1 bispecific
+antibody, binds in domain III of EGFR and in the N-Cap/1st LRR of LGR5,
+both ligand binding regions, however, only EGF binding was blocked by
+MCLA-158. MCLA-158 demonstrated inhibitory activity in 74% of tumor
+organoids independent of KRAS mutational status but was not active on
+organoids of the cohort harboring both KRAS and PIK3CA mutations.
+MCLA-158 was significantly more active on organoids derived from tumors
+than from normal tissue in contrast to cetuximab, which demonstrated
+equivalent activity on both (range 20-100 fold, n=4). In vivo activity
+was evaluated against tumor organoids with different KRAS mutation status
+shown to be sensitive to MCLA-158 in vitro. In all cases, MCLA-158
+significantly inhibited the growth of the tumor compared to both control
+and cetuximab treatment. Inhibitors of both the Wnt and EGFR pathways
+have shown significant toxicity in humans. An initial evaluation of
+MCLA-158 toxicity in cynomolgus monkeys did not demonstrate any
+pathological finding after repeated dosing at 25mg/kg.
+
+Conclusions. MCLA-158 demonstrates superior activity compared to
+reference antibodies in both in vitro and in vivo tumor organoid based
+assays regardless of KRAS status and was well tolerated in non-human
+primates. These preclinical data suggest MCLA-158 could benefit patients
+with metastatic CRC and warrant clinical evaluation.
+
+

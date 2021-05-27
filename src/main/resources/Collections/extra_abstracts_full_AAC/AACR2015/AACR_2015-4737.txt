@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Comprehensive profiling of immunoglobulin sequences using hybrid
+capture-based next generation sequencing in B-cell hematologic
+malignancies
+
+
+Background:Sequencing the genes encoding immunoglobulins is critical in
+detecting clonal cell populations as well as determining prognosis and
+therapeutic decisions in patients with lymphoid malignancies including
+B-cell leukemias, lymphomas and multiple myeloma. Current assays for
+identifying the rearranged immunoglobulin sequence in B-cell malignancies
+rely on sequence specific PCR based amplification of conserved
+immunoglobulin (IG) regions. We have developed a novel, hybrid
+capture-based approach to sequencing the immunoglobulin chains that
+enables identification of the heavy and light chain variable domains,
+complementarity-determining region (CDR) sequences and somatic
+hypermutation (SHM) status.Method:RNA and DNA were successfully extracted
+from 60 specimens, including 7 mantle cell lymphoma cell (MCL) lines and
+53 clinical chronic lymphocytic leukemia (CLL) bone marrow aspirates.
+Adaptor-ligated DNA and cDNA sequencing libraries were captured by
+solution hybridization using custom bait-sets targeting the
+immunoglobulin variable, joining and class segments. All captured
+libraries were sequenced to high depth (Illumina HiSeq) in a
+CLIA-certified laboratory (Foundation Medicine).Results:The capture-based
+approach was validated using 7 MCL cell lines and 53 CLL samples profiled
+using a CLIA-certified commercial PCR-based assay (Invivoscribe). The
+immunoglobulin sequences derived from the 7 MCL cell lines were 100%
+concordant with identifying the published heavy and light chain variable
+domain and percent SHM. Comparison to 53 previously clinically tested
+samples showed 98% (52/53) concordance for identifying the presence of a
+clonal population, and 100% (39/39) concordance for identifying the IGHV
+domain. Comparison to 50 CLL samples previously tested for SHM resulted
+in 96% (48/50) overall concordance with 94% (31/33) concordant for no SHM
+and 100% (17/17) concordant for the presence of SHM. Additionally,
+secondary clones were identified in 11 samples.Conclusions:We have
+demonstrated that hybrid capture-based targeted DNA and RNA sequencing
+can be used to comprehensively characterize the immunoglobulin sequence
+of clonal tumor B cell populations. This capability enables
+quantification of SHM and identification of the variable domain, CDR3
+sequence and class restriction. Integration of this methodology with
+comprehensive genomic profiling approaches will expand the clinical
+utility of such assays in patients with hematological malignancies and
+may provide important insights in immune oncology and response of
+patients to immunotherapies, including patients with solid tumors.
+

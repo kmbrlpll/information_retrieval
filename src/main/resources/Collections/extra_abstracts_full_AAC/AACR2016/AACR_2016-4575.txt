@@ -1,0 +1,27 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Altered catalytic properties of a subset of Met cytoplasmic domain
+variants occurring in renal cell carcinoma
+
+
+TCGA provisional data of papillary renal cell carcinoma (PRCC) kidney
+cancer, a malignant hereditary cancer syndrome, reveals that 23% of
+patients (n = 161) have MET gene amplification and/or mRNA up-regulation
+(2-fold or greater; RNA-Seq V2) and 10% of patients possess MET
+mutations. The Met tyrosine kinase is the cell surface receptor for
+hepatocyte growth factor (HGF). HGF stimulation induces Met protein
+autophosphorylation and consequently enhances epithelial cell motility,
+morphogenesis, and proliferation. Chronic and/or overstimulation of Met
+contributes to tumor growth and metastasis. We determined Km and Vmax for
+ATP binding to full-length Met protein isolated from the PRCC derived
+cell line ACHN, which possesses the MET mutation T992I (numbered per
+SWISSPROT accession P08581) in the juxtamembrane domain, and the clear
+cell RCC derived cell line Caki-1, which possesses the MET V1220I
+mutation in the kinase domain. Catalytic constants were determined using
+two-site immunoassays for total Met and phospho-Met. Both variants were
+associated with increased Vmax relative to wild type Met protein isolated
+from B5/589 breast epithelial cells. The observed increased catalytic
+activity of receptor variants may confer a higher overall rate of
+signaling at lower ATP concentrations, potentially contributing to
+enhanced tumor cell motility and proliferation in both papillary and
+clear cell RCC.
+

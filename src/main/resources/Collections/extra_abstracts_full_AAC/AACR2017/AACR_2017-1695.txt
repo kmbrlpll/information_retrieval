@@ -1,0 +1,57 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Exploiting the pancreatic cancer mutome for immune interception.
+
+
+This study aims to translate tumor-specific mutations identified by
+next-generation sequencing techniques into an effective anti-tumor
+vaccine for a classically non-immunogenic tumor, pancreatic ductal
+adenocarcinoma (PDA). Pancreatic ductal adenocarcinomas develop an
+average of 63 mutations during tumorigenesis, collectively referred to as
+the “mutome.” Of these, approximately 45 are amino acid point
+mutations. These mutations are not present in normal cells and provide a
+source of tumor-specific neoepitopes for targeted immunotherapy.
+Next-generation sequencing technologies allow for rapid identification of
+mutations present in patient tumors; however, methods for rapid
+identification of immunogenic neoepitopes which can be effectively
+targeted for tumor clearance, and optimized vaccination strategies for
+targeting them, still need to be developed.
+
+In this study, we are using a transplantable murine PDA model, Panc02, to
+develop vaccination strategies for inducing neoepitope-specific T cell
+antitumor responses, and to define parameters for selecting appropriate
+targets. Exome sequencing identified 878 nonsynonymous mutations in the
+Panc02 cell line. Three immunological epitope prediction servers
+identified 878 potentially immunogenic peptides in the Panc02 model, 29
+of which were strong candidates (scores In this study, we are using a
+transplantable murine PDA model, Panc02, to develop vaccination
+strategies for inducing neoepitope-specific T cell antitumor responses,
+and to define parameters for selecting appropriate targets. Exome
+sequencing identified 878 nonsynonymous mutations in the Panc02 cell
+line. Three immunological epitope prediction servers identified 878
+potentially immunogenic peptides in the Panc02 model, 29 of which were
+strong candidates (scores <50) and another 240 candidate epitopes within
+the limits of prediction (scores In this study, we are using a
+transplantable murine PDA model, Panc02, to develop vaccination
+strategies for inducing neoepitope-specific T cell antitumor responses,
+and to define parameters for selecting appropriate targets. Exome
+sequencing identified 878 nonsynonymous mutations in the Panc02 cell
+line. Three immunological epitope prediction servers identified 878
+potentially immunogenic peptides in the Panc02 model, 29 of which were
+strong candidates (scores <50) and another 240 candidate epitopes within
+the limits of prediction (scores <1000). Panc02 neoepitope peptide
+vaccinations in mice confirmed 14% of the predicted epitopes to be
+immunogenic by IFNγ ELISPOT, which may include both CD8+ and CD4+ T cell
+responses. Tumor transplant experiments demonstrate that therapeutic
+vaccination against neoepitopes in combination with a human
+STING-activating cyclic dinucleotide adjuvant is capable of inducing a
+temporary regression of implanted tumors. After tumor escape and
+regrowth, flow cytometry reveals a large population of infiltrating
+lymphocytes, the majority of which are co-expressing the checkpoint
+molecules PD-1, Tim3, and Lag3, indicating that treatment of vaccinated
+animals with checkpoint blockade therapy may potentiate infiltrating
+lymphocytes and ultimately result in permanent tumor regression. Thus, a
+broad and unbiased approach for screening vaccine targets will allow for
+the evaluation of predictive algorithms and ultimately the development of
+more effective vaccination approaches for targeting the tumor mutome.
+
+

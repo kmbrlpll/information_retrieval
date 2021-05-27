@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Histone deacetylase inhibitors promote persistent binding of
+PARP-1 to DNA double strand breaks in chromatin, thus decreasing repair
+via non-homologous end joining
+
+
+Histone deacetylase inhibitors (HDACi) induce acetylation of histone and
+non-histone proteins, and trigger an increase in DNA double-strand breaks
+(DSBs) in addition to widespread acetylation. Additionally, research has
+also shown that post-translational modifications, such as
+acetylation/deacetylation of DSB repair proteins, influence their overall
+function. The focus of our study is to determine how HDACi influence the
+repair of DSBs by non-homologous end joining (NHEJ) and thus the
+potential genomic instability of cancer cells. We have previously
+demonstrated that HDAC inhibition in leukemia cells (K562 and HL60) with
+trichostatin A (TSA) results in differential acetylation of Ku70 and
+PARP1, and this is associated with decreased repair via classical NHEJ
+(c-NHEJ). Our new studies, using a chromosomally integrated reporter for
+measuring c-NHEJ, confirms that treatments with TSA significantly
+downregulate c-NHEJ activity. Recent reports have indicated that Ku70 and
+PARP compete for binding to DSBs following DNA damage. Since the
+structure of chromatin can impede the accessibility of these repair
+proteins, we questioned whether HDAC inhibitors directly (via
+acetylation) or indirectly (via DSB induction), influence the recruitment
+of repair factors to sites of DNA damage in chromatin. To test this, we
+performed subcellular fractionation of TSA-treated K562 cells into
+cytoplasmic, nuclear and chromatin fractions and by Western blotting
+analysis observed a significantly increased presence of several c-NHEJ
+proteins (Ku70, Ku80 and 53BP1) and ALT NHEJ protein PARP1.
+Interestingly, homologous recombination (HR) DSB repair factor RAD51 is
+also present in chromatin following TSA treatment. Also, chromatin
+localization of DSB repair proteins increases with higher doses of TSA.
+To investigate whether TSA treatment alters the binding of these DNA
+repair proteins to DSBs, we used a chromatin immunoprecipitation (ChIP)
+assay in K562 cell line with stable chromosomal integration of a c-NHEJ
+reporter. Here, a DSB can be induced in a site-specific manner and
+recruitment of DSB repair components can be studied at the site of a DSB
+in the c-NHEJ reporter. Our ChIP analysis shows that of all DSB repair
+proteins tested, PARP-1, is most significantly increased and persists at
+the DSB after TSA treatment. These results suggest that increased binding
+of PARP1 to DSBs block subsequent repair steps, a phenomenon similar to
+PARP1 trapping observed with the potent PARP inhibitors. The results
+presented here provide a mechanism by which HDACi treatment increases
+cytotoxic DSBs in leukemia cells.
+

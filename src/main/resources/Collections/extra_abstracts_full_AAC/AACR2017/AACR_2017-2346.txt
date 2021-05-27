@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Preclinical selectivity profile of the CDK4/6 inhibitor ribociclib
+(LEE011) compared with that of palbociclib and abemaciclib.
+
+
+A hallmark of cancer is unchecked cell division. Retinoblastoma protein
+(Rb) is a human tumor suppressor that guards a cell’s entry into S
+phase by binding E2F transcription factors and keeping them inactive.
+Many growth-promoting stimuli increase expression of D-type cyclins,
+which bind to and activate cyclin-dependent kinases 4 and 6 (CDK4/6). The
+cyclin D–bound CDK4/6 holoenzymes phosphorylate Rb, resulting in
+release of E2F, which in turn activates genes required for S phase entry
+and DNA replication. Numerous oncogenic aberrations converge at the
+CDK4/6–Rb pathway, providing a strong rationale for developing CDK4/6
+inhibitors as cancer therapeutics.
+
+Ribociclib (LEE011) is a selective CDK4/6 inhibitor that has received FDA
+breakthrough therapy and priority review designations for treatment of
+hormone receptor–positive breast cancer in combination with letrozole
+and is being tested in additional clinical trials. Here we describe the
+preclinical selectivity profile of ribociclib in biochemical and cellular
+assays. Ribociclib inhibits both CDK4–cyclin D1 and CDK6–cyclin D3
+kinase activity with nanomolar IC50s in biochemical assays. To
+comprehensively address the selectivity of ribociclib in direct
+comparison with 2 other clinical CDK4/6 inhibitors, palbociclib and
+abemaciclib, we made use of the KINOMEscan assay consisting of >450
+kinase active site–directed competition-binding assays. We adjusted the
+test concentrations in the kinase-selectivity panel per the binding
+constants for CDK4 and CDK6 to account for the higher potency of
+abemaciclib. Data showed that both ribociclib and palbociclib have high
+selectivity for CDK4 (CDK6 was not covered in the panel), with very few
+distinct additional binding events detected. In contrast, abemaciclib is
+a much more promiscuous kinase inhibitor.
+
+Next, we sought to determine the relative potencies of the 3 inhibitors
+against CDK4 vs CDK6 in cellular assays. When testing different routinely
+used readouts of cellular viability, we found that assays that measured
+metabolic activity (eg, CTG) tended to underestimate the effects of
+CDK4/6 inhibition; thus, assays that either directly or indirectly
+assessed cell number were used instead. We first identified cancer cell
+lines primarily dependent on either CDK4 or CDK6 as judged by combined
+RNA expression analysis and shRNA or CRISPR-based functional assays. When
+determining IC50s of the 3 CDK4/6 inhibitors in these cell lines, we
+found that ribociclib and abemaciclib demonstrated greater activity in
+CDK4-dependent cells vs CDK6-dependent cells, whereas palbociclib was
+similarly active in both cell types.
+
+The high degree of CDK4 selectivity of ribociclib suggests that
+off-target kinase inhibition is an unlikely complication in patients.
+Moreover, the apparent preference for CDK4 over CDK6 could be an
+advantage in certain cancer types that are primarily dependent on CDK4.
+
+

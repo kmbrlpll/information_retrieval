@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Label-free concentration of viable breast cancer CTCs for single
+cell Western blotting
+
+
+The isolation of circulating tumor cells (CTCs) in blood can aid in
+cancer prognosis, characterize genetic mutations for targeted therapies,
+and elucidate the biological mechanisms of metastasis. While CTCs provide
+clinical utility, there are still several technical difficulties with CTC
+isolation and analysis. CTCs are very rare (1-10 cells/mL of blood) and
+current isolation methods rely on immunocapture, require long sample
+preparation, and fail to deliver viable cells. Further, recent advances
+in single cell analysis of CTCs have been limited to genomic studies, in
+which DNA/mRNA does not provide a complete picture of CTCs at the
+functional level, as mRNA expression may only account for a portion of
+protein expression. The ability to study and measure the protein
+expression of CTCs could provide insight into the mechanisms driving
+cancer progression and signaling dysregulation. Unfortunately,
+conventional proteomic tools (e.g. immunocytochemistry and Western blot)
+either do not provide sufficient specificity or sensitivity toward single
+cell levels. Thus, there is a lack of tools that can provide quantitative
+protein analysis for rare CTCs.To address this gap, we enable rare cell
+Western blotting by combining isolation and proteomic technologies in a
+unique workflow:(i) Label-free Vortex enrichment of rare larger cells
+from blood samples. Larger cancer cells are trapped within an array of
+microscale fluid vortices that form in simple rectangular reservoirs,
+while smaller blood cells pass through. The cancer cells are stably
+maintained in the vortices, allowing for solution exchange, followed by
+release upon lowering the flow rate. With this device, we were able to
+release a small volume (500 L) of concentrated, viable cancer cells
+(MCF7) from healthy blood, at high throughput, capture efficiency (35%),
+purity (>80%), and 10,000 fold enrichment. CTCs were also successfully
+extracted and enumerated from the blood of patients with breast cancer (N
+= 18, from 0.75 to 23.25 CTCs/mL).(ii) High-specificity and multiplexed
+protein analysis of rare cancer cells with single cell Western blotting
+(scWB). Enriched CTCs are placed into microwells patterned into a
+polyacrylamide gel for the scWB assay (in-situ chemical lysis in the
+microwells, electrophoresis into bulk gel layer, photo-immobilization,
+and subsequent antibody-probing of immobilized proteins). Here, we
+demonstrate scWB compatibility with rare cells by spiking MCF7s into
+normal blood and performing protein separations. The scWB is multiplex
+and can assay several target proteins simultaneously. Cells stained for
+surface markers (anti-EpCAM) are also compatible, and the scWB can
+resolve complete immunocomplexes without disrupting the location of the
+intracellular targets (GAPDH, ERK).With the integration of these
+technologies, we push the limits of quantitative protein analysis of
+CTCs, an essential step to better understand these rare populations.
+

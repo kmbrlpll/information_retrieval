@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: ABO blood type and cancer risk: preliminary findings from a
+phenome analysis.
+
+
+Introduction: ABO blood type has long been implicated in disease
+susceptibility, including cancer. However, evidence for associations with
+many malignancies is mixed. We applied a novel phenome approach to test
+to cancer codes from electronic medical records (EMR) in relation to ABO
+blood type in a large predominantly Caucasian study population.
+
+Approach: Among adults aged 18-100, cancer case and control status were
+assigned using 58 general neoplasm related phenome codes to de-identified
+EMR at the Vanderbilt University Medical Center. Blood type from
+serologic assays was ascertained from EMR-linked laboratory reports.
+Associations between blood type and cancer phenomes were quantified with
+Odds Ratios (OR) and corresponding 95% Confidence Intervals (CI) from
+logistic regression in models adjusted for sex and stratified by
+race/ethnicity. Only analyses with at least 100 cases per strata were
+conducted.
+
+Results: Among 221,015 Non-Hispanic Caucasians, 37,841 Blacks, 7,714
+Hispanic Caucasians, and 3,616 Asian subjects with ABO blood type
+available in linked EMR, we evaluated 56, 37, 4, and 3 general cancer
+phenome codes, respectively. After employing Bonferroni corrections, ABO
+blood type was significantly associated with cancers of the pancreas,
+ovary, cervix, skin, and hematopoietic system. Caucasians with blood type
+O were less likely to have ovarian cancer (OR: 0.82, 95% CI 0.73-0.91)
+and pancreatic cancer (OR: 0.83, 95% CI: 0.74-0.92), and more likely to
+have squamous cell or other skin cancer (OR: 1.08, 95% CI: 1.04-1.13) and
+myeloid leukemia (OR: 1.15, 95% CI: 1.06-1.25) than those with other
+blood types (A, B, or AB). Hispanic Caucasians with blood type O were
+less likely to have cervical cancer (OR: 0.56, 95% CI: 0.38-0.82) than
+those with other blood types. No associations surpassed correction for
+multiple comparisons among Blacks or Asians.
+
+Conclusions: Our phenome approach confirmed known associations between
+blood type and risk of pancreatic and ovarian cancer, and adds to
+accumulating evidence supporting associations with skin cancer and
+leukemia. Our novel cervical cancer association among Hispanic Caucasians
+and other nominally significant findings, especially in understudied
+non-Caucasians, should be further evaluated in large and diverse
+populations. In addition, research to determine how ABO blood type may
+influence cancer development and progression, and if such associations
+can be exploited for risk prediction or cancer prevention is warranted.
+
+

@@ -1,0 +1,46 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Reciprocal expression of miR-125b and miR-192/miR-200 families
+define clinically relevant sub-types of colorectal cancer with
+differential sensitivity to EGFR and MEK targeted agents
+
+
+The aims of this study were to determine if miRNA profiles could enhance
+prediction of pharmacological response compared to mutation alone. miRNAs
+are readily detectable in serum and plasma thus could be used in
+combination with mutations in liquid biopsies to support patient
+selection.Unsupervised hierarchical clustering of a 50 cell line panel
+global miRNA profile revealed a subset of miRNAs with a striking
+reciprocal expression pattern. Expression of miR-192+ve (3 miRs),
+miR-125b+ve (3miRs) and miR-200-ve (3miRs) defined 3 main cell sub-types
+which were further divided into 5 subtypes by expression of
+miR31+ve.Significantly, the miRNA sub-types are closely related to the
+five mRNA subtypes we had previously identified using iNMF (Schlicker et
+al, 2012) and to the subtypes identified in clinical CRC samples by
+Sadanandam et al 2013, Loboda et al, 2012 and Oh et al 2012. The
+miR192+ve subtype is an epithelial sub-type (iNMF sub-type 2 / Oh A-type)
+which has a gene expression pattern found in cells with transit
+amplifying phenotype, whereas the miR200 negative sub-type relates to the
+mesenchymal iNMF sub-type 1.1 and has a gene expression pattern similar
+to that found in CRC stem-like cells. Expression of miR125b is found in
+the stem-like subtype but also in mesenchymal sub-types with gene
+expression related to an inflammatory phenotype (iNMF sub-type 1.2, Oh
+B).Analysis of differentially expressed genes between the sub-types
+revealed the miR-192+ve positive sub-type was discriminated from the
+miR-125b+ve by higher expression of several genes specifically associated
+with intestinal differentiation including HNF1a (TCF1) (3-fold) and HNF4a
+(TCF14) (13-fold) which drive expression of miR192 and CDX1 (71-fold),
+HNF4G (6-fold) ISX (12-fold), and IHH (24-fold).TCGA clinical samples
+were also classified by the four mRNA methods and miRNAs differentially
+expressed between the sub-types analysed; all of the miRNAs identified in
+cell lines were statistically significantly differentially expressed in
+TCGA sub-types, however, there were additional miRNAs which clearly
+correlate with sub-types in clinical samples that have very low
+expression in cells.Importantly, the miR-192+ve sub-type exhibited
+significantly greater sensitivity to EGFR TKIs, cetuximab and MEK
+targeted agents compared to the miR-200-ve and miR-125b+ve
+sub-types.Taken together, the miR data enables segregation by
+differentiation status, this data enhances prediction of drug activity
+compared to mutation data alone and is of significance because miR
+expression and differentiation status are modulated by prior chemotherapy
+regimes.
+

@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Functional genomic screens identify microRNA regulators of the
+oncogenic fusion transcription factor EWS-FLI1
+
+
+Ewing sarcoma (ES) is a highly aggressive malignant pediatric cancer of
+the bone and soft tissue with a poor prognosis. The genetic hallmark of
+ES is the t(11:22)(q24:q12) translocation that generates a fusion
+transcript containing the 5 end of EWSR1 and the 3 end of FLI1 referred
+to as EWS-FLI1. This fusion generates an oncogenic transcription factor,
+EWS-FLI1 that is responsible for malignant transformation and is
+necessary for ES cell survival. To enhance our understanding of the
+molecular mechanisms underlying ES, with the long-term aim of enhanced
+treatment for this cancer, we are applying RNAi functional genomic
+approaches. MicroRNAs (miRNAs) are critical regulators of gene
+expression. There is evidence that many transcription factors and miRNAs
+act in concert to regulate gene expression. To identify miRNAs that
+directly or indirectly modulate EWS-FLI1 activity we conducted parallel
+screens of mimics or inhibitors of the human miRome using a cell-based
+reporter assay. The reporter assay consists of two isogenic reporter cell
+lines generated in the EWS-FLI1 expressing TC32 cell line. One line
+harbors a luciferase reporter driven by the promoter of an established
+EWS-FLI1 target NR0B1, while the second line expresses luciferase from a
+constitutive CMV promoter. A comparison of the effects of a miRNA on
+these two reporter constructs can identify proteins that specifically
+modulate EWS-FLI1 activity. We first identified those miRNAs for which a
+differential effect was seen when the NR0B1- and CMV-luciferase signals
+were compared and prioritized those where the mimic and inhibitor
+corresponding to a specific miRNA exhibited opposite effects.
+Twenty-eight miRNAs were identified, including miR-145, an established
+regulator of EWS-FLI1. The screen also identified miRNAs that have not
+been linked to EWS biology. One such candidate is miR-200b, a known
+regulator of epithelial-mesenchymal transition and tumor progression. We
+have confirmed that biotinylated-miR-200b captures the EWS-FLI1 mRNA when
+transfected into TC32 and 300 other mRNAs that includes EWS-FLI1 target
+genes. This functional genomic approach gives us an opportunity to
+investigate the co-regulatory activity of an oncogenic transcription
+factor and miRNAs in a systematic fashion that could be extended to
+investigate the co-regulation of other transcription factors and miRNAs.
+

@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Assembling test points for quantitative proteomics to elucidate
+RAS signaling
+
+
+RAS mutation is a critical player in cancer development, particularly in
+lung, colon, and pancreas. However, mutant RAS phenotypes have not
+produced viable therapeutic options. Therefore, additional reagents and
+techniques are required to study the functionality of RAS pathway
+components in model systems and patient specimens. Liquid
+chromatography-multiple reaction monitoring mass spectrometry (LC-MRM)
+has been applied to study cancer signaling by quantification of protein
+expression, mutation status, and post-translational modification in a
+variety of sample types. LC-MRM with immunoaffinity enrichment
+(ImmunoMRM) enables multiplexed analysis of target peptides with little
+background interference. Here, we describe the selection of 100 targets
+for assay development and provide insight into the utility of the
+immunoMRM platform as part of the NCI's RAS Initiative.Provided with
+biologically relevant proteins, several approaches were used for peptide
+selection. Complementary contributions were obtained from analysis of
+individual proteins, targeted LC-MRM screening, phosphoproteomics, and
+global discovery proteomics datasets (both in-house and publically
+available). For phosphorylation and mutation sites, the ability to
+quantify those molecular endpoints is directly limited by the primary
+amino acid sequence produced by trypsin digestion. Peptides selected for
+assay development quantify biological endpoints indicating the expression
+levels of wild-type and mutant proteins and signaling of RAS pathway
+components. Literature reviews show the prospective value of each assay
+in their specific biological context.Assays are developed for RAS
+signaling proteins in three categories: upstream proteins, RAS isoforms,
+and downstream effectors. As an example of upstream proteins, EGFR
+expression and tyrosine phosphorylation will be quantified, which enables
+comparison of ImmunoMRM to prior techniques. Extensive characterization
+is planned for RAS isoforms, particularly to monitor the expression of
+wild-type and mutant proteins. Measurements focused on downstream
+proteins include Erk and pErk to examine the activation of that MAPK
+pathway as well as disparate processes, like epithelial-to-mesenchymal
+transition (N-Cad/E-Cad). A comprehensive circuit diagram is prepared to
+illustrate the assembled test points for discussion with the cancer
+biology community.Development of these immunoMRM assays enables
+evaluation of multiple RAS signaling events and downstream outcomes in
+one sample. The emerging paradigm of peptide enrichment for protein
+biomarker measurement provides a novel platform for the study of critical
+processes in cancer. Although currently early in development, the
+implementation of this platform can ultimately demonstrate the utility of
+ImmunoMRM reagent development and be a first step for understanding RAS
+biology in human tumors and developing novel treatment options for
+patients.
+

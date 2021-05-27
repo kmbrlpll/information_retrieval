@@ -1,0 +1,33 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Stringent analysis of large-scale siRNA screens identifies a
+kinase fusion oncogene.
+
+
+The interpretation of RNAi knockdown experiments can be challenging due
+to the extensive off-target effects exhibited by siRNAs and shRNAs. This
+has led to the reporting of results that cannot be independently
+verified, or to the identification of putative cancer targets that are
+insufficiently robust to support industrial drug discovery efforts. The
+problems associated with off target effects are particularly acute in
+high throughput RNAi screens, whose results often differ wildly between
+laboratories using different experimental platforms. As a result, the
+validity of published large-scale RNAi screens has recently been called
+into question.Here we report results from large scale RNAi screens to
+identify genes essential for the proliferation or survival of cancer
+cells. To overcome the inherent liabilities of RNAi screens, we have
+increased the experimental power by using typically 8, and up to 20 RNAi
+triggers per gene, and have developed novel statistical algorithms that
+exploit this increased power. Importantly, this approach allows the
+calculation of a false discovery rate (FDR) that accurately predicts the
+ability of results to be confirmed by independent labs using independent
+reagents, solving a key issue of such screens. Using a stringent FDR
+cutoff of 5%, known essential genes and driver oncogenes such as KRAS,
+ERBB2 and BRAF are readily identified, demonstrating the robustness and
+power of the method. We have also identified a number of novel cancer
+targets. We present the identification and genetic and pharmacological
+validation of one of these targets, a kinase present as a fusion partner
+in multiple fusion oncogenes in primary tumors. Our data demonstrate that
+large-scale RNAi screens can be a robust and independently verifiable
+tool to uncover previously unknown cancer vulnerabilities which have yet
+to be characterized despite extensive genomic sequencing efforts.
+

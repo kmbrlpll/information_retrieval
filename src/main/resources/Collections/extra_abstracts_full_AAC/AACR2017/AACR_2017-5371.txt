@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Effect of DNA methyltransferase inhibitor 5-azacitidine on 3D
+chromatin structure measured by Hi-C.
+
+
+Therapies targeting epigenetic modifiers such as the DNA
+methyltransferase (DNMT) inhibitor, 5-azacytidine (Aza), are used in
+treating hematologic malignancies and also show promising results in
+subsets of solid tumors. The molecular mechanisms for these results,
+however, are not fully understood. Nonetheless, a number of clinical
+studies using combinations of epigenetic therapies plus chemo or
+immunotherapy to enhance the tumor response are ongoing. HCT-116, a colon
+cancer cell line genetically defined by microsatellite instability (MSI),
+resulting in a highly mutated, yet primarily diploid genome, has been
+routinely used to study epigenetic mechanisms and response to DNMT
+inhibition. In a previous study, we integrated a combination of data
+types including DNA methylation, DNA accessibility, histone modifications
+and transcriptomic data that revealed strong correlations between
+epigenomic changes and gene expression following Aza treatment. However,
+for some genes, we could not predict expression changes using these
+unidimensional, region-specific analysis methods. As others have
+demonstrated, genes do not work as single, isolated units, but rather
+interact with distal regulatory elements. These regulatory elements,
+often several Mb away can control gene expression through physical
+interactions such as bending and looping. We reason that in addition to
+direct demethylation of the immediate regulatory elements within the
+gene, Aza treatment can affect long-range chromosomal communications. In
+order to further understand the chromatin remodeling effect of Aza
+treatment, we performed high resolution genome-wide chromosome
+conformation capture (Hi-C) followed by NGS. HCT-116 cells were treated
+with DMSO or 1 μM Aza for 42 and 96 hours. Hi-C and RNA-Seq data was
+analyzed and integrated with other datatypes. The results showed that AZA
+treatment alters topologically associating domains (TAD), with the
+formation of new TAD boundaries and disappearance of others. The genome
+was then separated into 25K base pair consecutive bins, with each bin
+marked as type A (active) or type B (inactive). We observed bin switching
+following AZA treatment and differential loop formations (e.g.
+promoter-enhancer). Bins that switched from B to A at both time points
+were found enriched in genes that are related to acute phase response,
+interferon pathway, and cancer including PI3KCB, DDX58, CD274 and CDKN2A.
+Our findings using Hi-C were found to be in agreement with previous
+results using alternative experimental methods, which identified Aza and
+CTCF as the top upstream regulators of these genes. Our data also
+suggests that overall changes in 3D chromatin activities measured by Hi-C
+could be a better predictor of transcriptional regulation compared to
+H2K27me3 and H3K4me3 alone, particularly in situations where there are no
+significant changes in those marks but where changes in gene expression
+exist.
+
+

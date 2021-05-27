@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A therapeutic strategy combining the Wee1 inhibitor MK1775 with
+HDAC inhibitors targets both p53 wild-type or mutant AML cells
+
+
+Wee1 is an essential component of the G2-M cell cycle checkpoint
+machinery, providing a target for Wee1 inhibitors (e.g., MK1775) designed
+to potentiate the anti-tumor activity of genotoxic agents via mitotic
+lethality. In this setting, Wee1 inhibitor actions are primarily
+p53-dependent. However, recent studies have identified novel S-phase
+functions of Wee1 that operate independently of p53 status. Such findings
+present a rationale for combining Wee1 inhibitors with other targeted
+agents such as HDAC inhibitors (HDACIs) which interrupt DNA replication
+and repair. To test this hypothesis, interactions between MK1775 and the
+HDACIs SBHA or vorinostat were investigated in AML cells. Significantly,
+MK1775 interacted highly synergistically with either HDACI in both p53
+wild type (wt) or mutant AML cells, manifested by pronounced apoptosis
+induction and attenuation of clonogenic survival. Consistent with these
+findings, shRNA knock-down of Wee1 significantly sensitized cells to
+HDACIs. Immunobloting revealed that HDACIs markedly enhanced Wee1
+inhibition by MK1775, reflected by diminished Wee1 S642 phosphorylation
+and protein levels, as well as cdc2/Cdk1 Y15 phosphorylation, a direct
+downstream Wee1 kinase target. In p53-null (U937) or -mutant (MV-4-11)
+cells, MK1775 triggered S-phase arrest, whereas HDACI co-administration
+resulted in early S-phase accumulation accompanied by a marked increase
+in sub-G1 cells. In sharp contrast, in p53 wt MOLM-13 cells, HDACIs
+clearly induced G2/M arrest, an event abrogated by MK1775, arguing for
+context-specific cell cycle effects of this strategy. Interestingly,
+while MK1775/HDACI synergism persisted, shRNA p53 knock-down in p53 wt
+AML-3 cells partially attenuated lethal effects of combined treatment.
+Nevertheless, MK1775/HDACI co-treatment strikingly increased DNA damage,
+manifested by dramatically increases in H2A.X generation, in both p53 wt
+and mutant cells. This event was associated with profound caspase
+activation and PARP cleavage. Notably, the MK1775/HDACI regimen was
+highly active against patient-derived AML cells harboring either wt or
+mutant p53, as well as various other mutations in cancer hotspot genes
+including FLT3, NRAS, KRAS, BRAF, PDGFRA, MET, STK11, SMARCB1, and APC.
+Furthermore, the CD34+/CD123+/CD38- population, enriched for
+leukemia-initiating progenitors, but not normal CD34+ hematopoietic
+cells, was highly susceptible to the Wee1/HDAC inhibition strategy.
+Finally, co-administration of MK1775 with vorinostat substantially
+suppressed tumor growth and significantly prolonged animal survival in a
+murine AML xenograft model. Together, these findings indicate that a
+strategy combining Wee1 inhibition (e.g., by MK1775) with HDACIs is
+highly active towards AML cells, including primitive progenitors, through
+context-specific p53-dependent and -independent mechanisms.
+

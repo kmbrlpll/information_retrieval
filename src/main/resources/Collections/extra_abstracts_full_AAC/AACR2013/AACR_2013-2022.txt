@@ -1,0 +1,44 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Multilayer-omics (whole-exome, methylome and transcriptome)
+analysis identifies the Wnt/-catenin pathway as a key player in the
+development of renal cell carcinoma.
+
+
+Introduction: Even though recent developments in high-throughput sequence
+capture methods and next-generation sequencing technologies have made
+exome sequencing technically feasible, the use of an integrated
+multilayer-omics approach including exome analysis to examine human renal
+cell carcinomas has never been reported. The aim of this study was to
+identify pathways that have a significant impact during renal
+carcinogenesis by multilayer-omics analysis. Methods: Thirty paired
+specimens of non-cancerous renal cortex tissue and tumorous tissue from
+patients with clear cell renal cell carcinoma, the major histological
+subtype of renal cell carcinoma, were subjected to whole-exome, methylome
+and transcriptome analyses using Agilent SureSelect All Exon capture
+followed by sequencing on an Illumina HiSeq 2000 platform, Illumina
+Infinium HumanMethylation27 BeadArray and Agilent SurePrint Human Gene
+Expression microarray, respectively. Sanger sequencing and quantitative
+reverse transcription-PCR were performed for technical verification.
+MetaCore software was used for pathway analysis. The other 37 renal cell
+carcinomas were subjected to the validation study. Results: The exome
+analysis has revealed for the first time frequent genetic aberrations of
+GCN1L1, MACF1, ERC2, ABCA13, and MUC16 in clear cell renal cell
+carcinomas. Somatic non-synonymous mutations of GCN1L1, MED12 and CCNC,
+which are members of CDK8 mediator complex directly regulating
+-catenin-driven transcription, were identified in 17% of the clear cell
+renal cell carcinomas. In addition, MACF1 functions in the Wnt/-catenin
+signaling pathway. Reduced expression associated due to DNA
+hypermethylation of SFRP1, which downregulates Wnt/-catenin signaling by
+competing with Frizzled for Wnt binding via their cysteine-rich domain,
+was frequent in clear cell renal cell carcinomas. A combination of
+methylome and transcriptome analyses further highlighted the significant
+role of the Wnt/-catenin signaling pathway in renal carcinogenesis.
+Genetic aberrations and reduced expression of ERC2 and ABCA13 were
+frequent in renal cell carcinomas. MetaCore pathway analysis revealed
+that MTOR mutations were one of the major disrupters of cell signaling
+during renal carcinogenesis. MTOR mutation may be a marker for predicting
+the sensitivity of clear cell renal cell carcinomas to mTOR inhibitors,
+such as rapamycin and its derivatives. Conclusion: Our results confirm
+that multilayer-omics analysis can be a powerful tool for revealing
+pathways that play a significant role in carcinogenesis.
+

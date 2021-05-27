@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Next-generation sequencing of a panel of genes contributing to
+breast cancer risk
+
+
+BRCA mutations account for a minority of hereditary breast cancer risk
+families. Many other genes have been identified, with rare but highly
+penetrant mutations, or more frequent mutations giving modest breast
+cancer risk. Next generation sequencing has made it possible to explore a
+wide sample of genes for their contribution to breast cancer risk. We
+have sequenced gene panels in two populations of non-BRCA breast cancer
+families.First, 47 French families were selected for triple-negative
+breast cancer in the index case and >1 first degree relative with breast
+cancer. A panel of 33 genes involved in cancer risk, DNA repair, and/or
+partners of BRCA1 or BRCA2 was sequenced using DNA capture and GS-Flex
+sequencing. Second, a Lebanese cohort of 25 non-BRCA cases with
+Manchester scores >18 was sequenced on a MiSeq after capture of a similar
+panel of 37 genes. BRCA1 and BRCA2 were included in both panels to
+confirm previously obtained results. Large rearrangements were detected
+using MLPA.Sequence alignment and variant identification was performed
+using a combination of commercial software and an in-house GATK-based
+pipeline. Variants were described as neutral or likely neutral if the MAF
+in online databases exceeded 1%, if in silico analyses suggested
+neutrality, and if splicing prediction algorithms agreed on the absence
+of any significant effect.NGS analysis confirmed the absence of BRCA
+mutations. Deleterious mutations were observed in three Lebanese cases:
+two with a deletion in PALB2 and one stop mutation in ATM. Nine
+additional Lebanese cases and four from the French TNBC group were found
+to carry variants of unknown significance (VUS) in one or more genes.
+Most cases were found to have one VUS; two TNBC cases had more than one
+VUS and one Lebanese case had a VUS and a PALB2 mutation.The cases with
+deleterious mutations had Manchester scores of 56, 22 and 19. Scores for
+cases with VUSs ranged from 18 to 45 (average 23), and those with only
+neutral or likely neutral variants ranged from 18 to 27 (average 21.8).
+These differences are not significant, but additional cases are under
+study and will be presented. No difference was observed between French
+TNBC families with or without VUSs.DNA capture of gene panels is a quick
+and efficient way of analyzing multiple genes involved in hereditary
+cancer risk. Our panels focused on a limited number of genes involved in
+DNA repair and/or direct interactions with the BRCA genes: the small
+number of genes allowed us to analyze a maximum number of patients per
+experiment on two relatively low-throughput machines. Although the two
+cohorts are small, they show that the number of variants requiring
+follow-up in non-BRCA genes is low. The absence of deleterious mutations
+in genes involved in homologous recombination repair in the TNBC cohort
+showed that although genes of this pathway are candidates for tumor
+sensitivity to PARP inhibitors, the candidates we tested may not be
+frequently constitutionally mutated.
+

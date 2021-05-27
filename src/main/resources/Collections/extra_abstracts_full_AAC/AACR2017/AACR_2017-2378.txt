@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A kinome analysis of the molecular pharmacodynamics of PT-112 in a
+human cancer cell line.
+
+
+Background: To better understand the mechanism of action of PT-112, we
+investigated the effects of PT-112 on kinase activity within HCT116 human
+colorectal cancer cells. PT-112 is a pyrophosphate-conjugated platinum
+(Pt) containing new chemical entity under clinical development in the US
+and Taiwan. Designed to reduce certain toxicities associated with Pt
+agents and drug resistance from DNA-repair pathway activity, PT-112
+differs in significant ways from traditional Pt therapies. PT-112 results
+in potent anti-proliferation effects with lower Pt accumulation in whole
+cell and DNA extracts. Upregulation of p16 and p21 and, consistently,
+inhibition of the cell cycle at the G1/S phase transition is observed
+with PT-112 use, a finding not commonly associated with Pt agents.
+Further, sensitivity to PT-112 is not significantly affected by the
+functionality of DNA repair pathways. Finally, the induction of
+immunogenic cell death by PT-112 has been indicated via release of HMGB1,
+cell surface localization of calreticulin, and suppression of STAT3.
+
+Methods: A broad analysis of the phosphorylation pattern of kinase
+targets was achieved by utilizing the Tyrosine Kinase and Serine /
+Threonine Kinase PamChip® Arrays, each spotted with 144 peptides
+harboring kinase phosphorylation sites. Data were collected after 1, 6,
+and 24hr of exposure to 10 μM PT-112, a concentration achievable in
+human patient plasma at sub-toxic doses, and the degree of
+phosphorylation of these peptide targets was measured by the PamStation®.
+
+Results: A set of kinase targets was identified as differentially
+phosphorylated relative to untreated control samples. In total, 4/15/30
+targets were more phosphorylated than controls at the 1/6/24hr time
+points, respectively, while 1/0/10 targets were less phosphorylated.
+Several of these targets connect to key cancer relevant pathways,
+including anti-angiogenesis (VGFR1), apoptosis (BAD), cell cycle
+regulation (CDC2, Rb, RBL2), cell growth (EGFR, MK07, RBL2), and cancer
+immunology (STAT4, CSF1R).
+
+Conclusions: A narrow set of initial effects on kinase activity from
+PT-112 exposure, which broaden over time, was observed. While we cannot
+discriminate direct from indirect effects, these data are consistent with
+PT-112 having mechanistic targets independent of nuclear DNA. Several
+observations were consistent with findings from previous experiments
+(e.g. evidence of impacts on apoptotic, cell cycle, and immunological
+pathways), while others were novel (e.g. impact on VGFR1, EGFR, MK07). In
+conclusion, PT-112 at pharmacologically achievable concentrations leads
+to a unique pattern of kinase disruption in vitro. Further work will be
+conducted to validate these findings, identify the driver kinases, and
+connect these observations into a coherent network of kinases and targets
+affected by PT-112 treatment, and to understand the clinical impact of
+the unique pharmacodynamic profile of PT-112.
+
+

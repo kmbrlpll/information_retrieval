@@ -1,0 +1,44 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Normalization of miRNA-sequencing data.
+
+
+microRNAs (miRNA) are endogenous, small non-coding nucleotides that
+negatively regulate gene expression post-transcriptionally. Through
+interactions with Argonaute (Ago) proteins, they form the RNA-induced
+silencing complex (RISC) and can recognize and bind to the 3UTR of mRNAs
+in a sequence-specific manner, leading to translational inhibition or
+mRNA degradation. Over 30% of human protein-coding genes are predicted to
+be conserved targets of miRNAs. Consequently, changes in their expression
+are likely to be associated with the development and progression of
+diseases, including cancer.An increasing number of studies are utilizing
+high-throughput sequencing over microarrays for the expression profiling
+of miRNAs. Processing of the raw sequencing data usually involves
+filtering based on quality measures, trimming for adapters and mapping
+the reads to a (genome or miRNA) reference. Then, normalization of the
+data is crucial before any downstream analysis can be performed.
+Normalization is the process of removing sources of variation, which are
+of non-biological origins (stemming from sample handling, library
+preparation, imaging and so on), and can affect the measured expression
+levels. An effective normalization method should minimize technical and
+experimental bias without introducing noise; the differences that remain
+should be truly biological effects.Several normalization methods for
+miRNA-seq data have been proposed, including linear scaling, non-linear
+scaling, quantile normalization and variance stabilization normalization.
+These methods differ in terms of complexity and the assumptions made.
+However, no standard technique has been recommended. Read counts from
+each experiment are usually simply adjusted for differences in sequencing
+depth (library size) to reads-per-million (RPM). Unfortunately, the
+performance and appropriateness of any of the normalization methods
+cannot be assessed using real data because the true values are not
+known.To this end, we have used a 12x12 Latin Square design to spike in
+12 different oligonucleotides with known nominal concentrations, into a
+complex mixture of human miRNAs. These spike-in pools were subjected to
+all the preparatory steps of small RNA library construction for
+sequencing on the Illumina HiSeq2000. Preliminary results show that the
+spike-in sequences can be recovered successfully from the data. Using
+this data set, the relative merits of different normalization procedures
+are being assessed based on measures of bias, variance and improved
+sensitivity and specificity for the detection of differentially expressed
+miRNAs. The goal is to identify an optimal normalization method for
+miRNA-seq data, which would reduce variance without increasing bias.
+

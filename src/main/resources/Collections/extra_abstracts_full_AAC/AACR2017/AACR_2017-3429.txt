@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Oncogenic function of miR-23b-3p in hepatocellular carcinoma.
+
+
+Background: miR-23b has been identified as various cancer-related
+biomarkers. Interestingly, it works as an oncogenic miRNA in lymphoma,
+renal cancer and glioma, while it works as a tumor suppressor miRNA in
+pancreatic cancer, bladder cancer and prostate cancer (Donadeli M et al,
+Cancer Lett, 2014). We have previously reported miR-23b-3p as a oncomiR
+in NSCLCs (Begum S, Hayashi M et al, Sci Rep, 2015). To find the
+correlation to other carcinogenesis, we focused on miR-23b function in
+hepatocellular carcinoma (HCC).
+
+Methods: miR-23b-3p expression was examined in 9 HCC cell lines (SK-Hep1,
+HuH2, HLE, PLC/PRF/5, HuH1, HuH7, HLF, Hep3B, HepG2). The downstream of
+miR-23b-3p overexpression was examined by Cancer Pathway Finder (Qiagen).
+Results were applied to 125 clinical HCC samples (2002-2011 surgically
+resected).
+
+Results: Transfection experiments were performed for HepG2 (miR-23b-3p
+highly expressed) by siRNA and for SK-Hep1 (lowly expressed) by miRNA
+mimic. Cancer cell proliferation was activated by miR-23b-3p
+overexpression, and diminished by its inhibition. In order to find the
+associated genes, miR-23b-3p overexpressed SK-Hep1 cells were compared
+with parental SK-Hep1 cells by global gene expression analysis. ANGP1,
+ERCC5 and G6PD genes were upregulated, while KDR, WEE1, OCLN genes were
+downregulated. We also detected additional two genes (AUH and MICU3) by
+TargetScan Release 5.2. Clinical HCC samples were divided into miR-23b-3p
+upregulated 48 cases (38%) and downregulated 77 cases (62%). Upregulated
+cases were correlated with aged patients (P=0.015), capsule invasion
+positive (P=0.039) and serosal invasion positive (P=0.049). Also, they
+showed significantly poor recurrence free survival (HR=1.64, P=0.037,
+95%CI:1.03-2.59) and overall survival (HR=3.10, P=0.001, 95%:1.57-6.29)
+in multivariable analysis.
+
+Conclusion: miR-23b-3p increased the HCC cell proliferation, and
+indicated the invasive type of HCCs. It functions as a oncogenic
+biomarker in HCCs and might be a therapeutic target.
+
+

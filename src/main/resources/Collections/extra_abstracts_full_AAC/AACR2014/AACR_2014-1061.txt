@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: High resolution DNA recognition by the Snail zinc finger protein:
+Testing of a molecular dynamics based model defines the atomic level
+interactions required for high affinity binding, E-box specificity and
+reveals potential strategies for small molecule control of EMT
+transcriptional programs
+
+
+In most epithelial-derived tumors, the early developmental program known
+as Epithelial to Mesenchymal Transition (EMT), is reactivated and plays
+an important role in cancer metastasis and recurrence. The EMT program
+directs cells to become non-adherent, motile and highly invasive thus
+leading to metastatic spread. Thus, strategies to shutdown the EMT
+program might be useful in controlling EMT mediated tumor progression.
+EMT is largely controlled by a handful of transcription factors,
+including Snail and Slug: these are the canonical master regulators of
+the EMT and function as transcriptional repressors of E-cadherin and
+other cell adhesion molecules. A rate-limiting step in EMT regulation by
+Snail occurs when its four tandem C2-H2 zinc finger (ZF) motifs bind the
+E-box DNA sequence (CANNTG) in target promoters. The atomic structure of
+Snail-DNA complex remains undefined. We derived a high resolution model
+for DNA recognition by Snail using Molecular Dynamics (MD) based
+threading of known ZF-DNA structures and energy minimization. The model
+was tested using purified recombinant Snail protein, and
+truncations/single amino acid substitutions in in vitro DNA binding
+assays. A Snail monomer binds with nanomolar affinities (Kd=22.1 nM) in
+the major groove of DNA. Disrupting cysteine residues in each finger
+shows that fingers 2 and 3 contribute most to the specificity for DNA
+recognition. Alanine scanning mutagenesis in the recognition helices
+revealed that R191, W193, S221, D219, N222 and R247 are invloved in
+direct DNA contact. Among them, W193 in finger 2, S221 in finger 3 and
+R247 in the finger 4 are predicted to mediate critical base-pair contacts
+and therefore determine the sequence specificity for Snail DNA-binding,
+while R191 in finger 2 and N222 in finger 3 stabilize the complex via
+phosphate backbone contacts. A comparison of the base-pair contacts
+required for binding by Snail vs. the bHLH protein Twist was highly
+informative. The Twist dimer does not utilize the central 2 base pairs
+within the E-box (ie. NN in the CANNTG sequence) for proper binding. In
+contrast, E-box binding by Snail requires a guanine as the second base in
+the central 2 base pairs (ie. NG in the CANGTG sequence). However, if the
+central 2 base pairs is CG, CpG methylation of this motif strongly
+inhibits Twist binding but does not affect Snail binding. Thus,
+remarkably, depending on the exact sequence of the E-box present in a
+promoter, CpG methylation of that site can differentially effect binding
+and thus regulation by Snail or Twist. These data provide the first
+examples of how specificity can be generated for target gene regulation
+by either Twist or Snail.
+

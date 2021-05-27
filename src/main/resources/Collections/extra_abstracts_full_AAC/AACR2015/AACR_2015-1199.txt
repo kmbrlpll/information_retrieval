@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Systems-based approach identifies altered carbohydrate metabolism
+as a predictor of a malignant phenotype in ovarian cancer
+
+
+Objective: Metabolic changes occur initially at a molecular level, while
+genetic alterations further contribute to this shift and promote cancer
+cell survival and proliferation. We sought to identify genomic correlates
+of metabolic dysregulation in high grade serous ovarian cancer
+(HGSOC).Methods: We profiled 101 HGSOC samples and 15 normal ovarian
+tissues samples by LC/MS and GC/MS metabolic profiling; 172 significantly
+altered metabolites were identified. We classified these metabolites into
+altered pathways and carried out full-scale gene expression
+analyses.Results: We compared expression of measured metabolites for
+normal ovarian tissues and HGSOC and classified them into super pathways.
+We created a random forest classifier to generate a prediction model
+using metabolic profiles from normal tissue versus tumor within 3% error.
+From the random forest classification, the top 10% of significantly
+altered metabolites included gluconate, ADMA, and NAA. Carbohydrate,
+amino acid, and lipid super pathways were identified as the most
+important, with carbohydrate enrichment as significant (p = 0.03).
+Metabolites from the pentose phosphate pathway (PPP) and glycolysis were
+identified with this prediction model and found to be globally
+downregulated. Gene expression for enzymes in the PPP and glycolysis were
+compared between HGSOC and normal ovary and not found to be different.
+Gene expression ratios from the rate limiting steps in these pathways
+were evaluated. No significant difference was identified between gene
+ratios from normal and tumor tissues (p = 0.22) within our data set, but
+relative expression was significantly different within The Cancer Genome
+Atlas (TCGA) data set (p = 0.009). We subsequently generated a network
+that merged metabolic and gene level changes for enzymes coding for the
+synthesis and degradation of these metabolites, while accounting for time
+to recurrence in ovarian cancer patients for each gene within glycolysis
+and PPP. We then merged the genes identified by our network analysis with
+data from a whole-genome siRNA synthetic lethality screen (3 HGSOC
+chemoresistant cell lines). When GPI, the gene that encodes
+glucose-6-phosphate isomerase (PGI), was silenced, cellular lethality was
+observed across all cell lines tested. In our network analysis, GPI was
+among the most upregulated within the carbohydrate pathway within our
+cohort of ovarian cancer samples. In the TCGA data, ovarian cancer
+patients with tumoral GPI levels higher than the median had worse overall
+survival (p = 0.0002).Conclusions: Here, we present a novel systems-based
+approach using altered metabolites and genes to predict a malignant
+phenotype specific to HGSOC patients. Altered metabolism, coupled with
+genomic analyses, identified the most interconnected gene-biochemical
+networks that will lead to novel biomarkers and therapeutic targets.
+

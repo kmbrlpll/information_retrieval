@@ -1,0 +1,40 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Kinetic quantification of caspase-3/7 mediated apoptosis using
+live-cell imaging
+
+
+Apoptosis, the biological process by which cells undergo programmed cell
+death, is required for normal tissue maintenance and development.
+However, aberrations in apoptotic signaling networks are implicated in
+numerous human diseases including neurodegeneration and cancer.
+Stimulation of either the extrinsic or intrinsic apoptotic pathways
+triggers a signaling cascade that typically results in the activation of
+executioner caspase-3. Numerous in vitro assays have been designed to
+measure the activation of caspase-3. The majority of these assays utilize
+reagent substrates that incorporate the DEVD motif which is recognized by
+both activated caspases 3 and 7. Such assays result in single,
+user-defined time point measurements of caspase-3/7 activity and
+typically require multiple wash steps or cell lifting prior to data
+collection; potentially resulting in the loss of cells or critical data
+in experiments where cells undergo apoptosis at different rates according
+to treatment conditions. In this study, we optimized an assay system
+incorporating a bi-functional reagent containing the DEVD motif linked to
+a DNA dye for use on the IncuCyte FLR imaging system. When added to cell
+culture growth medium, this relatively inert, non-fluorescent molecule
+crosses the cell membrane where it is available to be a substrate for
+activated caspase-3/7. The reaction product is a green fluorescent DNA
+dye that labels the nuclei of cells undergoing apoptosis. Our data show
+that this strategy can quantitatively measure the kinetic activation of
+caspase-3/7 through extrinsic stimulation of human tumor derived
+MDA-MB-231 breast adenocarcinoma cells, HeLa cervical adenocarcinoma
+cells, A549 lung epithelial carcinoma cells, and HT 1080 fibrosarcoma
+cells following treatment with TNF and cycloheximide. Moreover, we
+exemplify the use of this strategy in 96-well plate screening protocols
+using both HT 1080 and MDA-MB-231 cells to measure the induction of
+caspase-3/7 activity in the presence of staurosporine, a well-known
+general protein kinase inhibitor and inducer of caspase-3/7 mediated
+apoptosis with Z values 0.6. We provide evidence that this stable,
+kinetic, mix-and-read assay can provide both quantitative and qualitative
+assessments of caspase-3/7 activity using fluorescent images and
+high-definition phase contrast images, respectively.
+

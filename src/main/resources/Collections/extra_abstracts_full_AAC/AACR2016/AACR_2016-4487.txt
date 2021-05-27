@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: An INDEL variant confers melanoma risk through PARP1 expression
+regulation
+
+
+Recent genome wide association studies identified several new loci for
+melanoma susceptibility including chr1q42.1 locus encompassing Poly
+[ADP-ribose] polymerase 1 (PARP1). As an effort to identify effecter
+genes and functional risk variants from this locus we performed
+expression quantitative trait loci (eQTL) analysis in 62 melanoma cell
+lines. Among the genes in 1Mb area eQTL was identified for PARP1 and
+subsequently validated by qPCR, where increased PARP1 levels are
+significantly correlated with the risk allele (p = 0.03, copy number
+adjusted). Further allele discrimination qPCR of PARP1 transcripts in 14
+melanoma cell lines heterozygous and of neutral copy for the lead SNP
+indicated significantly higher proportion for the risk allele (p =
+.0001). Same allelic imbalance was also observed in 51 heterozygous
+melanomas with neutral copy numbers from The Cancer Genome Atlas (p =
+.028). To identify functional risk variants mediating these effects we
+annotated this locus using six melanoma relevant cell types available
+from ENCODE and Roadmap database. Based on recent fine mapping data
+suggesting single-SNP model for this locus we prioritized high LD
+variants for nomination. Among 65 SNPs of high LD with the lead SNP or
+imputed best SNP (r2>0.6 using 1000 Genomes phase3), four exhibited
+strong evidence as potential transcriptional enhancers. Electro Mobility
+Shift Assays and luciferase assays on these four variants demonstrated
+that one of them, a six-base pair INDEL (-/GGGCCC) in the first intron,
+displayed strong allelic functionality. Consistent with the expression
+data melanoma-associated deletion allele results in higher luciferase
+activity while protective insertion allele binds a group of proteins with
+higher affinity. Subsequent comparative mass-spectrometry for these
+insertion-binding proteins identified a striking collection of
+Guanine-quadruplex binding proteins including RECQ1 as potential
+inhibitors of PARP1 expression. Consistent with this hypothesis
+over-expression of RECQL results in more pronounced allelic difference in
+luciferase activities indicating that RECQ1 contributes to allelic PARP1
+expression. Further interrogation of RECQ1 and PARP1 expression
+correlation analysis suggested that RECQ1 levels are inversely correlated
+with PARP1 in melanomas carrying insertion alleles. These data
+demonstrate that increased PARP1 expression is correlated with melanoma
+risk and an INDEL variant mediates differential PARP1 expression possibly
+through secondary DNA structure binding proteins including RECQ1.
+

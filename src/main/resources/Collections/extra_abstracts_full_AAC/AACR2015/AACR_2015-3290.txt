@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Limited intra-tumor versus inter-tumor heterogeneity as assessed
+by proteomic profiling of high-risk neuroblastoma
+
+
+Introduction: Tumor heterogeneity at a histological and molecular level
+has been previously described in neuroblastoma (NB) and therefore concern
+exists about how representative the molecular profile of a single tissue
+section can be of an entire tumor. We hypothesized that a single tissue
+section would provide a representative proteomic signature of the whole
+tumor.Methods: As part of our effort to assess differential protein
+expression patterns from two maximally divergent groups with high-risk NB
+(i.e.: patients with early death from disease versus long-term
+survivors), we sampled multiple non-adjacent sections from blocks of 5
+tumors within our larger cohort of 58 single section tumors.
+De-identified samples were obtained from the Children's Oncology Group
+biorepository. Using 5-10 thick formalin fixed paraffin embedded tumor
+sections on a glass slide, we extracted 1 microgram of protein, performed
+tryptic digestion and desalting, and loaded peptides onto a reverse-phase
+column for separation by nanoflow chromatography. We performed peptide
+tandem mass spectrometry and protein expression vectors were identified
+using MaxQuant. The 1,495 most abundant proteins were evaluated across
+samples. Data were normalized and imputed. Hierarchical clustering
+analysis was performed using the pvclust R package between subjects with
+multiple sections and between all samples. We used average clustering
+criteria, correlation methods for distance, and pairwise covariance
+measures. Confidence of clusters was measured using approximately
+unbiased and bootstrap probability (1000 permutations) methods.Results:
+Intra-tumor distance was significantly shorter than the inter-tumor
+distance. When testing only subjects with multiple tumor samples, 4 out
+of 5 samples from the same subject clustered with >95% confidence. The
+samples from the remaining subject have a confidence >80% but seem to
+have differing rates of missing data, suggesting experimental errors.
+When using all samples available, tumor samples from the same subject
+still clustered together and had a greater correlation than tumor samples
+from different subjects. A validation cohort of 7 distinct sections from
+separate blocks of tumors of 3 high-risk patients confirmed that tumors
+cluster by protein expression.Conclusion and Future Directions:
+Intra-tumor heterogeneity exists but is significantly less than
+inter-tumor heterogeneity as assessed by proteomic profiling. We provide
+rationale to use single tissue section proteomics in ongoing research to
+define biologic drivers of primary refractory NB, a clinically important
+subgroup of patients who have highly lethal disease.
+

@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Molecular subtyping of glioblastoma based on isoform level network
+modeling
+
+
+Glioblastoma multiforme (GBM) is the most common primary central nervous
+system tumor, accounting for nearly 80% of the 22,000 malignant brain
+tumors diagnosed annually in the United States. Patients who receive a
+diagnosis of glioblastoma have a dismal prognosis and median survival of
+12-14 months following the standard therapy. Therefore, there is a need
+for improved molecular classification of GBM to identify highly sensitive
+and specific biomarkers and therapeutic targets. Recent genome wide
+transcriptome studies, by us and others, have discovered that one gene
+gives rise to multiple protein isoforms, which could be involved in
+multiple functional pathways. Based on this model, we hypothesize that
+the isoform-level expression profiling will lead to significantly
+improved classification of molecular sub-types and identification of more
+specific isoform based regulatory modules that are disrupted in each GBM
+molecular sub-type. Using the GBM data sets from TCGA data portal, we
+identified 2903 genes, which differ significantly in expression between
+the normal brain and GBM. In contrast, similar analysis using
+transcript-level expression showed that the expression of 7639
+transcripts (correspond to 4401 genes) was significantly altered in GBMs,
+suggesting that measuring isoform/mRNA variant expression is more
+sensitive to identify molecular changes in GBM. Furthermore, we
+identified 51 genes (e.g. RTN3, DCLK2, PKM2, ACTN1), mostly associated
+with cellular assembly and organization, whose transcript variants show
+opposite expression pattern, an information lost in a gene centric
+approach. Although GBMs have been grouped into four subtypes (Proneural,
+Neural, Classical, Mesenchymal) based on gene expression and mutation
+profiling, these sub-types do not show any survival differences. Since we
+observed higher expression differences at isoform-level, we investigated
+whether isoform-level expression estimates can improve the grouping in
+terms of disease prognosis. We observed that isoform level clustering
+always generated a better survival grouping and effectively grouped the
+173 core samples into 4 sub-groups with significant (p=0.024) survival
+differences between the groups. Interestingly, we identified a subgroup,
+consisting of selected proneural samples, which exhibits higher survival
+and is characterized by isoform specific overexpression of
+oligodendroglial markers including Olig1, Olig2, Sox 4, Sox6, Sox8, and
+Sox10. Gene level expression fails to identify Olig1, Sox6 and Sox10 as
+significantly misregulated in this subgroup. Similarly, we identify an
+isoform specific network in another subgroup that could confer resistance
+to EGFR tyrosine kinase inhibitor, erlotinib. Our analyses suggests that
+the quest for genomics based personalized medicine requires molecular
+classification and systematic understanding of the gene regulatory
+networks at the isoform level.
+

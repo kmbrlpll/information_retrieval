@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A novel in vitro microenvironment modeling platform for HCC
+therapeutics and biomarker development.
+
+
+Background: Hepatocellular carcinoma (HCC) is characterized by hypoxia,
+hypoglycemia and lactic acidosis within the microenvironment due a highly
+glycolytic phenotype. However, routine culture conditions of HCC cells
+employ supra-physiological glucose, pH-buffered media, and normoxia. The
+aim of the study was to simulate the microenvironment features of HCC in
+vitro by culturing HCC cells in their native (NAT) conditions
+(hypoglycemia, hypoxia and lactic acidosis) and examine phenotypic,
+transcriptomic and pharmacological differences compared to cells cultured
+in standard (ST) culture conditions.
+
+Methods: Six HCC cell lines were cultured in NAT or ST conditions.
+Pharmacological response to cytotoxic drugs and targeted agents were
+evaluated using the MTS assay. Phenotypic differences were examined using
+standard techniques. Transcriptomic analysis was carried out using the
+Illumina HumanHT-12 expression kit.
+
+Results: HCC cells cultured in NAT conditions have higher doubling time
+than cells cultured in ST conditions. However, no remarkable differences
+in the cell cycle profiles were observed when cultured in either NAT or
+ST conditions. Protein analysis revealed an increase in phosphorylation
+of AKT and decrease in the levels of AMPK in all cells cultured in NAT
+but not in ST conditions. Increase in the protein levels of GLUT1, HK2,
+LDHA, and a decrease in PDHA was observed only in cells cultured in NAT
+conditions. Furthermore, the HCC cells in NAT conditions exhibited lower
+levels of reactive oxygen species and ATP consistent with the elevated
+glycolysis and inefficient oxidative phosphorylation phenotype of HCC.
+Thirty-one genes were found to be aberrantly expressed by gene expression
+analysis, most notably NDRG1, a hypoxia-associated gene was upregulated
+in NAT cells, validated by qPCR. Upregulated NDRG1 was maintained even up
+reversal of the NAT condition. The panel of thirty-one genes were found
+to be associated with poor prognosis exclusively in HCC based on data
+available via TCGA supporting the validity of NAT culture condition.
+Differences in the IC50 of doxorubicin, sorafenib, PI3K, c-MET and HDAC
+inhibitors but not AKT, MEK, mTOR, Wnt inhibitors were observed in cells
+cultured in NAT compared with ST conditions suggesting microenvironment
+modelling can influence pharmacological response of certain class of
+compounds. Additional genomic and metabolomics analysis are currently
+being undertaken to characterize the HCC cells in NAT conditions.
+
+Conclusion: In conclusion, HCC cells when cultured in NAT condition
+exhibit more of the tumor characteristics than cells in ST condition and
+this can be utilized as an informative platform for better understanding
+of disease biology and pharmacology.
+
+

@@ -1,0 +1,96 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Integration of GWAS, gene expression and protein interaction data
+identifies a HOX-centric gene network associated with serous ovarian
+cancer risk
+
+
+GWAS have so far identified 12 loci associated with serous epithelial
+ovarian cancer (sEOC) risk at genome-wide significance. Network-based
+integration of other molecular data with GWAS is one way to elucidate the
+functional basis of these loci. We hypothesized that some of these loci
+may impact sEOC development via transcription factor (TF) genes encoded
+at the locus and target genes of these TFs may also harbor weaker
+association signals. Therefore, we began our multi-step network analysis
+by selecting all known TF genes within 1 Mb of the top SNP at each of the
+12 loci. Since 19/29 TF genes selected belonged to either the HOXB or
+HOXD cluster, whose targets remain poorly characterized by other
+approaches, we used co-expression to identify potential TF target genes.
+Specifically, a mutual information algorithm with a strict threshold was
+used to infer networks of genes highly co-expressed with each risk locus
+TF gene in the 489-tumor TCGA high-grade sEOC unified expression
+microarray data set. All genes in the genome that were also profiled in
+TCGA data (11,864 genes) were then ranked according to their association
+with sEOC. The rank was derived from the minimum p value among all SNPs
+in each gene (adjusted for gene size, SNP density and intra- and
+intergenic linkage) after mapping 2.5 million SNPs to genes from a GWAS
+meta-analysis of sEOC risk (2,196 cases/4,396 controls). Gene set
+enrichment analysis (GSEA) showed that genes in co-expression networks
+centered on six TF genes, four at the 17q21.32 risk locus (HOXB2, HOXB5,
+HOXB6, HOXB7) and two at the 2q31.1 locus (HOXD1, HOXD3) were
+significantly over-represented (PGWAS have so far identified 12 loci
+associated with serous epithelial ovarian cancer (sEOC) risk at
+genome-wide significance. Network-based integration of other molecular
+data with GWAS is one way to elucidate the functional basis of these
+loci. We hypothesized that some of these loci may impact sEOC development
+via transcription factor (TF) genes encoded at the locus and target genes
+of these TFs may also harbor weaker association signals. Therefore, we
+began our multi-step network analysis by selecting all known TF genes
+within 1 Mb of the top SNP at each of the 12 loci. Since 19/29 TF genes
+selected belonged to either the HOXB or HOXD cluster, whose targets
+remain poorly characterized by other approaches, we used co-expression to
+identify potential TF target genes. Specifically, a mutual information
+algorithm with a strict threshold was used to infer networks of genes
+highly co-expressed with each risk locus TF gene in the 489-tumor TCGA
+high-grade sEOC unified expression microarray data set. All genes in the
+genome that were also profiled in TCGA data (11,864 genes) were then
+ranked according to their association with sEOC. The rank was derived
+from the minimum p value among all SNPs in each gene (adjusted for gene
+size, SNP density and intra- and intergenic linkage) after mapping 2.5
+million SNPs to genes from a GWAS meta-analysis of sEOC risk (2,196
+cases/4,396 controls). Gene set enrichment analysis (GSEA) showed that
+genes in co-expression networks centered on six TF genes, four at the
+17q21.32 risk locus (HOXB2, HOXB5, HOXB6, HOXB7) and two at the 2q31.1
+locus (HOXD1, HOXD3) were significantly over-represented (P<0.05 and
+FDRGWAS have so far identified 12 loci associated with serous epithelial
+ovarian cancer (sEOC) risk at genome-wide significance. Network-based
+integration of other molecular data with GWAS is one way to elucidate the
+functional basis of these loci. We hypothesized that some of these loci
+may impact sEOC development via transcription factor (TF) genes encoded
+at the locus and target genes of these TFs may also harbor weaker
+association signals. Therefore, we began our multi-step network analysis
+by selecting all known TF genes within 1 Mb of the top SNP at each of the
+12 loci. Since 19/29 TF genes selected belonged to either the HOXB or
+HOXD cluster, whose targets remain poorly characterized by other
+approaches, we used co-expression to identify potential TF target genes.
+Specifically, a mutual information algorithm with a strict threshold was
+used to infer networks of genes highly co-expressed with each risk locus
+TF gene in the 489-tumor TCGA high-grade sEOC unified expression
+microarray data set. All genes in the genome that were also profiled in
+TCGA data (11,864 genes) were then ranked according to their association
+with sEOC. The rank was derived from the minimum p value among all SNPs
+in each gene (adjusted for gene size, SNP density and intra- and
+intergenic linkage) after mapping 2.5 million SNPs to genes from a GWAS
+meta-analysis of sEOC risk (2,196 cases/4,396 controls). Gene set
+enrichment analysis (GSEA) showed that genes in co-expression networks
+centered on six TF genes, four at the 17q21.32 risk locus (HOXB2, HOXB5,
+HOXB6, HOXB7) and two at the 2q31.1 locus (HOXD1, HOXD3) were
+significantly over-represented (P<0.05 and FDR<0.05, 10,000 permutations)
+at the sEOC-associated end of the ranked list. To explore translational
+conservation of these transcriptional relationships, we pooled the genes
+driving the GSEA signal in each of the six significant co-expression
+networks to yield a single module of 49 genes and overlaid them on a
+database of 169,810 high confidence protein-protein interactions (PPIs).
+The single largest connected component after overlay had 29/49 genes and
+significantly more indirect connectivity than 10,000 random networks
+permuted with similar topology (P=0.01). Finally, we further demonstrated
+the context-specificity of the significant networks to sEOC in two
+separate analyses using microarray data from an additional 245 sEOC
+tumors (GSE9899) and non-cancer GWAS results. We will discuss the power
+of our approach by highlighting the identification of both novel and
+established sEOC genes in the final set of 49 obtained from the six seed
+HOX genes. Thus by combining the largest available sEOC GWAS and gene
+expression data sets and PPI data in a network paradigm, we adopted a
+method more context-specific than conventional GWAS pathway analysis.
+This identified a HOX-centric network contributing to sEOC susceptibility
+and prioritized risk locus genes for ongoing follow-up.
+

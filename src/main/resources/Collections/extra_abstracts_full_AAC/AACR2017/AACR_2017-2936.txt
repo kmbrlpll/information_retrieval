@@ -1,0 +1,86 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Molecular characterization of the immune subclass of
+hepatocellualr carcinoma.
+
+
+Background: Immune checkpoint inhibitors have emerged as a promising
+therapeutic approach in different solid tumors, including hepatocellular
+carcinoma (HCC). Nonetheless, little is known about the immune-component
+of HCC or potential biomarkers of response to these therapies.
+
+Aims: To perform comprehensive characterization of the HCC immunological
+profile and to identify biomarkers to select immunotherapy candidates.
+
+Methods: We performed gene expression array deconvolution through
+non-negative matrix factorization in 228 resected HCCs. Characterization
+of the transcriptional landscape was conducted using >1,000 signatures
+representing distinct immune cells by gene set enrichment and nearest
+template prediction analyses. Presence of immune infiltration, tertiary
+lymphoid structure (TLS), PD-1 and PD-L1 immunostainings was investigated
+using immunohistochemistry. DNA methylation profile of 450K CpG sites was
+analyzed to identify those with significant differences for each group.
+Extensive validation of the immune classifier was performed in 728
+independent HCC samples.
+
+Results: Overall, an immune-related subclass of HCC was identified in
+~27% of patients. The immune subclass was characterized by gene
+signatures identifying immune cells (i.e. T cells, TLS, cytotox,
+pResults: Overall, an immune-related subclass of HCC was identified in
+~27% of patients. The immune subclass was characterized by gene
+signatures identifying immune cells (i.e. T cells, TLS, cytotox,
+p<0.001), signatures of response to immune checkpoint therapy (pResults:
+Overall, an immune-related subclass of HCC was identified in ~27% of
+patients. The immune subclass was characterized by gene signatures
+identifying immune cells (i.e. T cells, TLS, cytotox, p<0.001),
+signatures of response to immune checkpoint therapy (p<0.001), presence
+of high immune infiltration (p=0.01), TLS (≥5 foci, 19/51 vs 33/168,
+p=0.01) and PD-1 and PD-L1 protein expression (pResults: Overall, an
+immune-related subclass of HCC was identified in ~27% of patients. The
+immune subclass was characterized by gene signatures identifying immune
+cells (i.e. T cells, TLS, cytotox, p<0.001), signatures of response to
+immune checkpoint therapy (p<0.001), presence of high immune infiltration
+(p=0.01), TLS (≥5 foci, 19/51 vs 33/168, p=0.01) and PD-1 and PD-L1
+protein expression (p<0.05). The methylation levels of 363 CpG sites in
+192 immune response gene promoters were able to capture the Immune class
+(ANOVA, p0.2 Tukey test). Integration with HCC molecular classifications
+revealed significant enrichment of the Immune subclass with IFN and S1
+(p0.2 Tukey test). Integration with HCC molecular classifications
+revealed significant enrichment of the Immune subclass with IFN and S1
+(p<0.001) and exclusion of the CTNNB1 and S2 (p0.2 Tukey test).
+Integration with HCC molecular classifications revealed significant
+enrichment of the Immune subclass with IFN and S1 (p<0.001) and exclusion
+of the CTNNB1 and S2 (p<0.001) subclasses. The immune class contains two
+distinct microenvironment-based types: A) Exhausted immune response type
+(~35%) characterized by stromal activation, T cell exhaustion signatures,
+and presence of immunosuppressive components such as TGFB, LGALS1, M2
+macrophages and pathways able to recruit myeloid-derived-suppressor cells
+(FDR0.2 Tukey test). Integration with HCC molecular classifications
+revealed significant enrichment of the Immune subclass with IFN and S1
+(p<0.001) and exclusion of the CTNNB1 and S2 (p<0.001) subclasses. The
+immune class contains two distinct microenvironment-based types: A)
+Exhausted immune response type (~35%) characterized by stromal
+activation, T cell exhaustion signatures, and presence of
+immunosuppressive components such as TGFB, LGALS1, M2 macrophages and
+pathways able to recruit myeloid-derived-suppressor cells (FDR<0.01); and
+B) Active immune response type (~65%) characterized by overexpression of
+adaptive immune response genes and IFN signaling (p0.2 Tukey test).
+Integration with HCC molecular classifications revealed significant
+enrichment of the Immune subclass with IFN and S1 (p<0.001) and exclusion
+of the CTNNB1 and S2 (p<0.001) subclasses. The immune class contains two
+distinct microenvironment-based types: A) Exhausted immune response type
+(~35%) characterized by stromal activation, T cell exhaustion signatures,
+and presence of immunosuppressive components such as TGFB, LGALS1, M2
+macrophages and pathways able to recruit myeloid-derived-suppressor cells
+(FDR<0.01); and B) Active immune response type (~65%) characterized by
+overexpression of adaptive immune response genes and IFN signaling
+(p<0.001). Tumors within the active immune response type showed a trend
+towards better survival vs rest (p=0.07).
+
+Conclusions: Around 27% of HCC patients belong to the Immune class,
+characterized by activation of immune cells and signatures of response to
+immunotherapies. Within this subclass, two distinct types have been
+characterized by presenting active or exhausted immune responses, a
+feature that provides the rationale for precision medicine-based
+therapies.
+
+

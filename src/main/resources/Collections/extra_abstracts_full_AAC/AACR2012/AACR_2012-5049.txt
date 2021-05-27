@@ -1,0 +1,41 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Serum miRNAs as an early marker for breast cancer
+
+
+MicroRNAs (miRNAs) are small, non-coding, single-stranded RNAs between
+18-22 nucleotides that regulate gene expression by affecting mRNA
+translation and degradation. It has been proposed that miRNAs could be
+master regulators of gene expression by regulating entire gene networks.
+Expression of miRNAs is altered in tumor compared to normal tissue and
+there is growing evidence that miRNA profiles in serum may differ in
+cancer cases as compared to healthy controls. However, these studies use
+samples collected after diagnosis so treatment and/or disease effects
+cannot be excluded. We are using serum samples from the Sister Study, a
+prospective cohort study of 50,000 women who had never had breast cancer
+at the time of enrollment, but were at increased risk because they had a
+sister previously diagnosed with breast cancer. We are exploring whether
+serum miRNA profiles can be used as prediagnostic markers of breast
+cancer. In an initial pilot analysis comparing 5 women diagnosed with
+breast cancer 1-2 months after their blood draw to 5 controls, there were
+25 miRNAs significantly different at the 0.05 level (paired T test). Of
+those 25 miRNAs, 7 have been previously associated with breast tumor
+tissue in published studies showing differential expression in tumor
+tissue or in breast cancer cell lines. We have now completed a larger
+follow up study examining 205 women diagnosed with breast cancer within
+18 months of their blood draw compared to 205 controls frequency matched
+to cases by age, 2 month interval of blood draw and race. We are using
+Affymetrix miRNA microarrays to profile miRNA expression in serum
+samples, and have optimized this platform for use with less than .5mLs of
+serum. After normalization and background correction, we found 439 miRNAs
+(of 1105 human miRNAs on the chip) expressed above background in at least
+50 samples. When the average expression of controls was compared to cases
+using logistic regression, we found 16 miRNAs significantly different at
+the .05 level. For cases, the mean time between blood draw and cancer
+diagnosis was 10 months. We hypothesize that, if miRNA is a prediagnostic
+marker, cases with a longer time between blood draw and diagnosis would
+have a more control-like miRNA profile. To examine this, we are
+conducting a more detailed analysis among cases with a short time between
+blood draw and diagnosis. The next steps of our analysis will be to
+examine how far in advance of cancer diagnosis can we detect case-control
+differences in miRNA expression profiles.
+

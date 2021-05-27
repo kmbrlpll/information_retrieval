@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Accumulation of a liver- and microbiome-derived metabolite in
+human breast tumors is associated with patient survival.
+
+
+Breast cancer is the most common cancer in women in the United States.
+Gene expression profiling studies of breast tumors led to the discovery
+of disease subtypes with different biologies. These studies also
+described novel biomarkers for therapy response and disease survival.
+However, it remains a challenge to define breast cancer biology solely
+based on gene expression. Recently, metabolomics emerged as a new
+discovery tool with the promise of identifying prognostic biomarkers and
+targetable metabolic dependencies of cancer cells. We previously measured
+the abundance of 536 metabolites in 67 breast tumor and their tumor
+adjacent noncancerous tissue by untargeted mass spectrometry. In the
+current study, we explored the prognostic power of the metabolome and
+conducted an integrated analysis comprising of the metabolome,
+transcriptome, and proteome to explore the association of metabolites
+with cell systems, tumor biology, and disease outcome. We built a
+predictive model based on multivariable Cox proportional hazards using
+the L1 penalized log partial likelihood (LASSO) method after
+pre-selecting prognostic metabolites following cross-validation with 1000
+iterations. The median C-index was 0.73, indicating a certain robustness
+of metabolites as classifiers of breast cancer outcome. The models
+identified five metabolites including a bile acid-related metabolite,
+glycochenodeoxycholate (GCDC), as the most frequently selected features
+and outcome markers among these metabolites. An increased GCDC tumor
+content was associated with improved patient survival. We corroborated
+the presence of GCDC and three other bile acids in the human breast
+tissues using absolute measurements and confirmed their occurrence in
+breast tumors. Because additional large-scale transcriptome and proteome
+data were available for the same tissue samples, we further characterized
+the tumors based on their GCDC abundance, which showed that cell
+cycle-related pathways were enriched for differently expressed genes and
+tumors with a high GCDC content tended to have a low cell proliferation
+score, indicating that accumulation of GCDC leads to growth inhibition.
+We also conducted a correlation analysis for the relationship between
+GCDC abundance with other metabolites and identified 51 metabolites that
+were significantly correlated with GCDC. In this analysis, metabolite
+abundance in the sterol/steroid pathway associated most strongly with the
+GCDC tissue content. Lastly, we evaluated the effect of bile acids on
+breast cancer cell lines. The data showed a strong reduction of cancer
+cell proliferation under bile acid treatment, consistent with the tumor
+data, and distinct changes in gene expression. In conclusion, we propose
+that integrated metabolomics can provide powerful prognostic information
+with GCDC being a novel prognostic marker in breast cancer because
+accumulation of GCDC reduces cancer cell proliferation.
+
+

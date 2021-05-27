@@ -1,0 +1,44 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Rapid detection of somatic mutations in cancer genes
+
+
+In the context of personalized cancer treatment, tumor mutational
+analysis by DNA sequencing has been described frequently as the gold
+standard, yet DNA sequencing is one of the least sensitive methods for
+characterizing mutation. At least 10-20% of a DNA population must be
+mutant for the mutation to be detected by standard DNA sequencing.
+Implicit acceptance that this level of sensitivity is sufficient to
+characterize tumor mutations only makes sense if one assumes that tumors
+are monoclonal and that all the critical driver mutations will be present
+in the bulk of the tumor. Yet these are incorrect assumptions. In fact,
+it has become clear that most if not all colon tumors are polyclonal and
+heterogeneous. Consequently, tumor driver mutations may not be detectable
+using standard DNA sequencing methods. In order to rapidly detect these
+low frequency mutations in tumor derived DNA we have developed a new
+technology that allows the detection of tumor driver and drug resistance
+somatic mutations at In the context of personalized cancer treatment,
+tumor mutational analysis by DNA sequencing has been described frequently
+as the gold standard, yet DNA sequencing is one of the least sensitive
+methods for characterizing mutation. At least 10-20% of a DNA population
+must be mutant for the mutation to be detected by standard DNA
+sequencing. Implicit acceptance that this level of sensitivity is
+sufficient to characterize tumor mutations only makes sense if one
+assumes that tumors are monoclonal and that all the critical driver
+mutations will be present in the bulk of the tumor. Yet these are
+incorrect assumptions. In fact, it has become clear that most if not all
+colon tumors are polyclonal and heterogeneous. Consequently, tumor driver
+mutations may not be detectable using standard DNA sequencing methods. In
+order to rapidly detect these low frequency mutations in tumor derived
+DNA we have developed a new technology that allows the detection of tumor
+driver and drug resistance somatic mutations at <0.1% sensitivity using
+quantitative PCR (qPCR) without the need for digital PCR or droplet
+digital PCR (ddPCR) methodology. We utilize xeno-nucleic acid (XNA)
+clamping probes that are specific for the target gene wild-type template
+and allow only the selective amplification of mismatched mutant
+templates. Direct detection of driver and drug resistance mutations
+within 2 hours of obtaining samples in KRAS, NRAS, BRAF, EGFR and JAK2
+utilizing real-time qPCR with interchelating fluorescence dye detection.
+As well as a new end-point post-PCR microtiterplate based target gene
+mutant amplicon capture format that utilizes colorimetric or
+chemiluminescence detection will be described.
+

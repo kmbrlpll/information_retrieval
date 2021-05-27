@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: How to deal with DNA damage during mitosis: a genetic interaction
+map of the PICH DNA translocase
+
+
+Genomic instability is one of the enabling characteristics of cancer, and
+is thought to be driven in large part by replication stress. It is
+generally believed that damaged DNA needs to be repaired before entry
+into mitosis. Recent evidence showed that DNA damage occasionally is
+present in mitosis, and can be repaired either through break-induced
+replication during early mitosis or during anaphase at so-called
+ultrafine DNA bridges (UFBs). These UBFs are characterized by the
+presence of the PICH DNA translocase, and Rif1, which we recently
+identified to be involved in the resolution of UFBs (Hengeveld et al, Dev
+Cell, 2015). However, detailed molecular composition of UFBs associated
+proteins and their mechanism of action are incompletely understood. Also,
+whether specific cancer types are dependent on this DNA repair pathway
+for their survival is not known. We hypothesise that cancer cells with
+high levels of replication stress may increasingly depend on these
+mechanisms for their survival. Here, we aimed to identify the genetic
+make-off of cancer cells that depend for their survival on repair of
+damage lesion during anaphase.We used inactivation PICH or Rif1 as a
+model for defective resolution of anaphase bridges. To elucidate the
+consequences of loss of DNA repair at UFBs, we analysed the sensitivity
+to genotoxic agents and assessed genomic instability in HAP1 cells, in
+which the ERCC6L gene, which encodes the PICH DNA translocase, or the
+Rif1 gene were inactivated using Cas9/CRISPR-mediated mutation. ERCC6L as
+well as RIF1 knock-out cells showed increased levels of intrinsic DNA
+damage, as judged by elevated levels of H2AX phosphorylation and
+increased frequencies of 53BP1 bodies, known to represent unrepaired
+replication damage. ERCC6L as well as RIF1 knock-out cells also display
+increased sensitive to the topoisomerase II inhibitor ICRF193.
+Amplifications and loss of genomic areas was assessed using single strand
+sequencing of single cells. Subsequently, we wanted to determine which
+genetic mutations are not allowed or show competitive outgrowth in the
+absence of UFB resolution during anaphase. To this end, we exploited the
+haploid nature of the HAP1 cells, which allows insertional mutagenesis
+using retroviruses carrying a strong spice-acceptor to create random
+instantaneous knock-outs. The list of candidate genes of which depletion
+leads to a lethal phenotype specifically in cells lacking PICH is
+currently being analysed.In conclusion, our studies have shown that the
+inactivation of PICH or RIF1 results in a marked increase in unresolved
+UFBs which ultimately lead to elevated numbers of 53BP1 bodies, and
+increased sensitivity to topoisomerase inhibitors. These data makes both
+RIF1 and PICH interesting therapeutic targets in tumours with high levels
+of replication stress, or targets to potentiate the effects of
+topoisomerases.
+

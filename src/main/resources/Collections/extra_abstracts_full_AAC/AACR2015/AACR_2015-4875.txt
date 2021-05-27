@@ -1,0 +1,37 @@
+Meeting: 2015 AACR Annual Meeting
+Title: HIVE Proteomics: Integrated, cloud-based RNA-Seq and proteomics
+analysis of prostate adenocarcinoma samples
+
+
+Automated bottom-up proteomics workflows implemented with modern
+mass-spectrometry instrumentation can readily generate millions of
+peptide fragmentation spectra from cell-lines and clinically derived
+samples. The tandem mass-spectra promise to reveal wild-type and somatic
+mutations, insertions, and deletions and alternatively spliced isoforms
+translated to functional protein isoforms in tumor samples. However, the
+available reference proteomes represent a poor analysis substrate for the
+observation of protein evidence of genomic and transcript variation. The
+advent of cheap and fast RNA sequencing (RNA-Seq) provides an elegant
+solution to the lack of sample-specific reference proteomes. We
+anticipate that the falling cost of RNA-Seq will prompt an increasing
+number of proteomics labs to use contract next-gen sequencing (NGS)
+services to obtain RNA-Seq data to derive sample-specific reference
+proteomes. In contrast to public repositories of genomic variation,
+sample-specific RNA-Seq data captures transcribed rare, individual,
+cell-type, and sample-specific genomic variation. RNA-Seq-based
+transcripts also provide sample-specific information on observable
+proteins. Furthermore, paired RNA-Seq and proteomics data links gene
+expression and protein abundance, enabling the study of gene regulation
+linked to protein abundance dynamics. However, the analysis of
+multi-gigabyte paired mass-spectra and RNA-Seq datasets pose significant
+scientific and logistical challenges. Few proteomics labs have the
+personnel, archival data storage, computational resources, or informatics
+pipelines needed. The cloud-based genomics analysis platform
+High-performance Integrated Virtual Environment (HIVE) will provide
+turn-key integrated proteomics and RNA-Seq analyses to the wider
+proteomics community in a secure, trackable, sharable, and scalable
+computing platform. We will then use this integrated proteomics_RNA-Seq
+analysis pipeline to identify high-value mutations in prostate
+adenocarcinoma samples, thereby demonstrating the utility of the platform
+while also generating key data for future investigations.
+

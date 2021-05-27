@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Discovering therapeutic epigenetic targets using whole genome
+siRNA screening
+
+
+Background and aims: In the past decade, epigenetic mechanisms involved
+in the regulation of tumor-specific gene expression have been elucidated
+partially, prompting the development of therapeutic approaches in cancer
+cells. In this study, we used an unbiased screen to investigate
+therapeutic targets which might be effective combination with DNMT
+inhibitors in reactivating hypermethylated genes. Methods: We screened a
+whole genome siRNA library targeting 21360 genes using a colon cancer
+cell line that harbors a cytomegalovirus (CMV) promoter driven GFP stably
+integrated and silenced by hypermethylation. GFP-positive cell
+percentages were measured using Guava EasyCyte Plus flow analyzer
+software and normalized by Z-score. The primary siRNA library contained
+SMART pools (Dharmacon) of 4 siRNA duplexes per gene. To validate hits,
+transfections using individual siRNA were performed, followed by FACS
+analysis and qRT-PCR. DNA methylation status was evaluated by
+pyrosequencing analysis and Digital Restriction Enzyme Analysis of
+Methylation (DREAM), based on next generation sequencing analysis.
+Results: The screen was conducted in combination with low dose
+decitabine. Of the 21,630 genes tested, 37 (0.2%) were positive (Z-score
+> sample mean + 5SD) and proceeded to validation studies. We successfully
+confirmed top hits by flow cytometry and qRT-PCR. Among them, some genes
+are known epigenetic regulators such as chromodomain helicase DNA-binding
+protein 4 (CHD4), activating transcription factor 7 interacting protein
+(ATF7IP) and DNMT1 itself. Interestingly well-known epigenetic regulators
+such as other DNMTs, histone deacetylases and histone methylases were
+generally absent among the top hits. CHD4 depletion in combination with
+DNMT inhibition synergistically reactivated expression of endogenously
+methylated genes and inhibited cell growth of colon cancer cell lines
+with minimal effects on the cell growth of non-cancerous cell lines.
+Depletion of CHD4 alone also inhibited cell growth of colon cancer cell
+line but not of non-cancerous cell lines. ATF7IP was previously reported
+to synergize with DNA methylation to maintain X chromosome inactivation,
+and here we show that it also plays a role in autosomal gene silencing.
+Other genes which were not previously known as epigenetic regulators are
+now under investigation. Conclusions: A whole genome siRNA screen in
+combination with the DNMT inhibitor decitabine identified many new target
+genes that might be epigenetic regulators and potential targets for drug
+development.
+

@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Colon cancer molecular subtypes: Concordance, effect on survival
+and selection of most representative preclinical models
+
+
+Introduction: Colon cancer is a genetically heterogeneous disease and
+there is an increasing need for more detailed classification of stage II
+and III patients. The NCCN guideline currently lists three FDA approved
+gene-expression based multi-gene prognostic tests for stage II-III
+colorectal cancer. However, it is undecided how many molecular subtype
+would most accurately describe these tumours. Here, we cross-validated
+known molecular subtypes for their concordance and capability to predict
+prognosis free survival. We utilized gene expression signatures to
+identify the most representative cell line model for each
+subtype.Materials and methods: Using publicly available datasets from the
+GEO repository we established a database containing clinical and
+microarray data for 2,166 colon cancer patients. Gene expression measured
+on Affymetrix HG-U133A and HG-U133 Plus2.0 arrays was processed according
+to authors description for each classifier in R. We conducted a
+systematic review of the literature in order to identify gene-expression
+based classifiers. We assigned each sample for these classificators and
+then compared their potential to predict recurrence free
+survival.Results: All together 22 different molecular subtypes were
+re-classified including the CCHS, CIN25, CMS, ColoGuideEx, ColoGuidePro,
+CRCassigner, MDA114, Meta163, ODXcolon, Oncodefender, TCA19, V7RHS
+classifiers as well as subtypes established by Budinska, Chang, DeSousa,
+Marisa, Merlos, Popovici, Schetter, Yuen, and Watanabe (first authors).
+When comparing the methods the most concordant classifiers were MDA114
+and DeSousa (Cramer's V = 0.711). The highest efficacy to predict
+progression free survival in stage II-III patients was achieved by Yuen
+(p = 3.9e-05, HR = 2.9), Marisa (p = 2.6e-05, HR = 2.6) and Chang (p =
+9e-09, HR = 2.35). We also assigned 61 colon cancer cell lines from four
+independent studies to the closest molecular subtype.Conclusion: In
+summary, here we present a comprehensive analysis of human colon cancer
+molecular subtypes by cross-validation using independent transcriptomic
+datasets.
+

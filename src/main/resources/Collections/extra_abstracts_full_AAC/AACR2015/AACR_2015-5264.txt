@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A novel strategy for accuurate and unambiguous mutation detection
+of the highly homologous PMS2 gene
+
+
+Background: Heterozygous mutations in the DNA mismatch repair gene, PMS2
+contribute to Lynch syndrome. Carrier individuals are at increased risk
+of developing cancers, including colorectal and endometrial cancers.
+Biallelic mutations in PMS2 can cause constitutional
+mismatch-repair-deficiency syndrome, which is characterized by childhood
+onset malignancy, including brain cancers, hematologic malignancies,
+colorectal cancers, and multiple intestinal polyposis. Molecular analysis
+of the PMS2 gene is complicated by the presence of a large family of
+highly homologous sequences in other genomic regions and frequent gene
+conversion between the active gene and pseudogenes. Although the
+combination of multiplex ligation-dependent probe amplification (MLPA)
+assay and Sanger sequencing can largely overcome this problem, copy
+number variations (CNVs) at the 3 end cannot be unambiguously
+differentiated when gene conversion is involved. Here we described a
+novel approach that combines long range PCR (LR-PCR), next generation
+sequencing (NGS), and MLPA to identify sequence and copy number changes
+of the PMS2 gene.Method: A comprehensive workflow incorporating MLPA,
+LR-PCR, and NGS was carefully designed for sequence and CNV analyses of
+the PMS2 gene. MLPA was used to detect CNVs in PMS2 and PMS2CL. In order
+to distinguish mutations in the active gene from changes in the
+pseudogene, the active gene was specifically enriched by LR-PCR, followed
+by whole gene NGS analysis to detect point mutations and CNVs. CNVs can
+be further confirmed by MLPA. Allele dropout is overcome by capture-based
+NGS.Results: Using the comprehensive workflow described above, we have
+identified CNVs in all coding exons of the PMS2 gene: exonic deletions
+(E2-E9, E5-E9, E8, E10, E14), exonic duplications (E11-E12), whole gene
+deletion (E1-E15), and a nonsense mutation, S22X. We identified an exon
+14 deletion (c.2276-113_c.2445+1596del) in the active gene that could not
+be differentiated originally by the combination of MLPA and Sanger
+sequencing due to a gene conversion event in the 3 region between PMS2
+and PMS2CL, however, with LR-PCR followed by NGS, the deletion was
+unequivocally identified. Breakpoint analysis of multiple samples with
+exon 14 deletions revealed that frequent exon 14 deletions were mediated
+by homologous Alu sequences. We also identified a potential LINE1
+sequence mediated intragenic duplication flanking exons 11 and
+12.Conclusion: The combined strategies of long range PCR, MLPA, and deep
+coverage NGS ensure accurate and unambiguous identification of a wide
+spectrum of mutations, including point mutations, small indels, and copy
+number changes, in addition to the determination of breakpoints. The
+novel strategy of comprehensive workflow provides a reliable tool for NGS
+based accurate molecular analysis of genes containing multiple copies of
+highly homologous sequences such as PMS2.
+

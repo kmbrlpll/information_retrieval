@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Seamless fluorescence guided surgery for pancreatic cancer is
+facilitated by a hand held electrocautery pencil with excitation light
+source
+
+
+Fluorescent labeling of tumors with the goal of fluorescence guided
+surgical resection (FGS) continues to be perfected and investigated. In
+addition to a bright fluorophore that specifically and selectively labels
+tumor tissue, a specific excitation light source that can be turned on as
+needed by the surgeon without having to take their hands off the
+dissecting instruments would be the most ideal system. The optimal method
+for tissue excitation would therefore require the excitation light source
+to be on the surgeon's dissecting or cutting instrument that could be
+easily turned on or off as needed and in direct line with the labeled
+tumor tissue. In designing the excitation light source we decided to use
+the NIR window (600-1000 nm) due to it's favorable imaging qualities that
+would allow for fluorophore excitation without the necessity of
+eliminating white light from the field and with little to no tissue
+autofluorescence. An electrocautery pencil was fitted with LEDs at the
+base of the tip with an emitted signal between 633-660nm. The
+complementary dye selected for labeling was DyLight 650 (Ex: 652 nm, Em:
+672 nm). Nude mice were implanted with patient-derived orthotopic
+xenograft (PDOX) pancreatic tumors and allowed 4 weeks for engraftment.
+Anti-CA 19-9 antibody was then conjugated to DyLight 650 and injected
+intravenously 24 hours prior to FGS. After 24 hours the mice underwent
+surgical exploration for an attempt at FGS with the new device. A Canon
+EOS 60D camera fitted with a 672 nm emission filter connected to a 19
+inch monitor was selected as the fluorescence image-capturing device. The
+mice were grounded appropriately to a surgical monopolar generator
+selected to power to the electrocautery pencil. After initial incision
+and tumor exposure under bright light the tumor was illuminated by the
+excitation LEDs by simply pushing forward on the cautery activation
+button on the device. The fluorescently labeled image of the tumor was
+easily seen and confirmed on the monitor in real-time as the surgery
+proceeded. The tumor was brightly visible with good background contrast.
+Using this method had the benefit of allowing tumor resection with
+electrocautery using both ambient light and the fluorescent image
+simultaneously to confirm a complete resection. In this respect, critical
+surrounding structures are visible with the ambient light, helping to
+avoid inadvertent tissue injury. Coupling an excitation LED light source
+to an electrocautery pencil allows for good imaging of pre-labeled tumors
+during resection without mounting an external excitation light source.
+The set-up is very compact, efficient, easy to sterilize and works very
+efficiently during surgical resection without the need to eliminate
+background light. This is highly advantageous and allows simultaneous
+visualization of the surgical field in white light and the labeled tumor
+via an imaging device connected to a monitor.
+

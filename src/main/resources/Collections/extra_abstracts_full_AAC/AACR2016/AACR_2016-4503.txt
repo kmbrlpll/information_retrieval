@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Actionable mutations and mutational burden in renal cell carcinoma
+
+
+Clear cell renal cell carcinoma (CCRCC), the most common subtype of renal
+cell carcinoma, is a heterogeneous cancer with variable outcomes and
+molecular aberrations. Further elucidation of mutational profiles and
+actionable mutations may improve patient outcomes in CCRCC. Somatic
+mutational profiling via next-generation sequencing was conducted on 30
+CCRCC whole section FFPE patient samples to determine the mutational
+burden as compared to other solid tumor types. The sequencing failure
+rate for these samples was 20% (6/30). A 358-gene panel was also run on
+an additional 57 non-CCRCC solid tumor FFPE patient samples (81 samples
+in total). FASTQ files generated from Illumina's CASAVA software were
+submitted to the JAX Clinical Genome Analytics (CGA) data analysis
+pipeline to perform automated read quality assessment, alignment, and
+variant calling. Identified variants were then submitted for clinical
+curation using the JAX Clinical Knowledgebase (CKB) for actionable
+mutational analysis and overall mutational burden. Of the CCRCC sample
+set, 33% had one or more actionable mutations. This was low compared to
+actionable mutations in colon (16/16, 100% actionable), TNBC (18/20, 90%
+actionable), squamous lung (8/9, 89% actionable), and pancreatic (8/12,
+67% actionable). Furthermore, the CCRCC set had a low overall mutational
+burden with 22 6.7 nonsynonymous SNV's as compared to colon (29 11),
+squamous lung (43 17), and TNBC (31.5 12). However, the pancreatic set
+had even lower SNV's at 12.7 3.4. The number of indels was comparable
+across the five sets, except for colon, which averaged 6.9 8.3.
+Significant copy number variations (CNVs; amplification validated at
+greater than or equal to 6 copies) also had a wide range with squamous
+lung at the highest (11 11), followed by TNBC (5.6 5.0), and then colon
+(2.3 3.0). Both the CCRCC and pancreatic sets had few CNV's at 0.8 1.5
+and 0.17 0.40, respectively. Common mutations identified in the CCRCC set
+included EPHB6 duplications near S166, which were identified in 25% of
+samples. Gene specific mutations in CCRCC were also identified in VHL
+(54%) and SETD2 (21%). These three genes, EPHB6, VHL, and SETD2 have been
+previously implicated in CCRCC pathogenesis. Six variants identified in
+VHL were C77*, P86R, Q132fs, A149D, R177fs, and L184fs. Due to the low
+mutational burden and/or actionable mutations in CCRCC, even large NGS
+panels may not be adequate to profile somatic mutations and whole exome
+or whole genome may be more conducive for molecular subtyping of renal
+cell carcinoma.
+

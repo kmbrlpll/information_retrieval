@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Hampering the crosstalk between fibroblasts and tumor cells
+reveals the need for blocking both canonical and non-canonical TGF
+pathways
+
+
+Background: Since fibroblasts are the predominant stromal cell type in
+colorectal carcinomas (CRC), it is reasonable to assume that
+fibroblast-tumor cell crosstalk play an important role in the production
+and maintenance of the malignant phenotype. Thus, it is very relevant to
+abort the supply of such factors responsible for this crosstalk in order
+to hamper tumor growth.In this work, we studied the crosstalk between
+Normal Colonic Fibroblasts (NCF) and tumor cells, its relation with de
+novo chemoresistance and fibroblast activation, providing hints for the
+treatment of CRC.Methods: After 5 days of Transwell coculture between
+fibroblasts and tumor cells we obtained mRNA of each cell type to obtain
+differentially expressed genes compared to monocultures (Affymetrix
+GeneChip Human Gene 1.0 ST Array). From genes with fold change>2, we
+selected those codifying for secreted or membrane proteins in both tumor
+cells and fibroblast. Protein-protein interaction (PPI) analysis was
+carried out by means of BIANA software searching for fibroblast secreted
+proteins with receptors in tumor cells plasma membrane and viceversa. We
+also studied the main pathways involved in such crosstalk in control
+conditions or pharmacologically disrupted. In addition we performed
+functional assays (proliferation, migration and citotoxicity against
+Oxaliplatin and 5FU). We also performed a cytokine array (Raybiotech) to
+characterise products mediating such crosstalk.Results: After integrating
+our transcriptomic/PPI data with information obtained by means of GSEA we
+stated our working hypothesis as: cytokines released by NCF stimulate
+tumor cells to secrete IL1 and TGF1. These two soluble factors are
+responsible for the NCF activation. Activated fibroblasts in turn began
+to produce large amounts of IL1/TGF1 targets, mainly chemokines,
+cytokines, EGFR-ligands and PAI-1, signalling basically through IL6R,
+CCR2 (JAK-STAT pathway), CCR6, EGFR and CXCR3 (PI3K-AKT pathway),
+pathways involved in chemoresistance in CRC. Hampering the crosstalk by
+means of a blocking IL1 antibody and TGFBR1 inhibitor sensitizes tumor
+cells to Oxaliplatin and 5FU and induces a change in the cytokines
+mediating the crosstalk. Cell signalling reveals an activation of
+non-canonical TGF1 evidenced by TAK1 phosphorilation and NFk
+activation.Conclusions: Disrupting the crosstalk between fibroblasts and
+tumor cells with TGFBR1 inhibitor and a blocking IL1 antibody induces a
+change in the cytokine repertoire of both cells that activates NFk
+pathway in fibroblasts and a sustained activation of AKT in tumor cells.
+We can avoid such activation inhibiting non-canonical TGF pathway with a
+TAK1 inhibitor. The combined use of canonical and non-canonical TGF
+inhibitors could an interesting approach to overcome
+microenvironment-mediated drug resistance.
+

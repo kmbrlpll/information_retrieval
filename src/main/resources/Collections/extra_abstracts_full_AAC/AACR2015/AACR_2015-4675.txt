@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: GR activation modifies ER transcriptional activity and results in
+decreased estrogen-mediated breast cancer cell proliferation
+
+
+Approximately 75% of breast cancers (BC) express estrogen receptor-alpha
+(ER). The proliferative and anti-apoptotic actions of estrogen signaling
+in ER+ BC are well-established. Our laboratory recently reported that
+approximately 40% of ER+ breast cancers express significant
+glucocorticoid receptor (GR) mRNA; a meta-analysis of early-stage ER+ BC
+gene expression unexpectedly found that patients with tumors expressing
+high GR had significantly improved relapse-free survival (p-value
+7.8E-8). Consistent with the improved outcome observed in ER+/GR+ BC
+patients, our laboratory and others have reported that GR activation can
+alter ER-mediated transcription and also antagonize estradiol
+(E2)-mediated cell proliferation. We therefore hypothesized that GR
+activation directly antagonizes the expression of ER-mediated
+pro-proliferative genes.Recapitulating observations reported by others,
+we first performed cell cycle analysis and found that the synthetic
+glucocorticoid dexamethasone (Dex) decreased E2-mediated proliferation of
+MCF-7 BC cells. To understand how GR activation inhibits ER-mediated
+pro-proliferative activity in ER+ BC cells, we performed chromatin
+immunoprecipitation followed by high-throughput sequencing (ChIP-seq) to
+examine global GR chromatin occupancy in MCF-7 cells in the presence or
+absence of ER activation (+/- E2 at 10 nM). Surprisingly, in GR ChIP
+experiments we observed that in the presence of Dex, E2 treatment
+resulted in significantly increased GR association with ER response
+elements (EREs). Likewise, ER ChIP experiments showed that in the
+presence of E2, Dex treatment significantly increased the association of
+ER with GR response elements (GREs). Using genome-wide gene expression
+array analyses of MCF-7 cells, the gene expression signatures resulting
+from Dex and E2 co-treatment compared to E2 treatment alone are being
+examined. In analyses done to date, we found that in the presence of E2,
+Dex treatment inhibits the induction of ER-mediated pro-proliferative
+genes related to the cell cycle such as CCND1 (Cyclin D1) and CDC6.
+Furthermore, microarray analysis suggested that E2-mediated ER activation
+represses pro-apoptotic CASP7 and BIK gene expression, while co-treatment
+with Dex inhibits this repression. Additionally, anti-GR ChIP-seq
+analysis showed GR enrichment at CASP7 regulatory regions upon
+co-treatment with Dex and E2. Together, these data suggest that GR
+expression and subsequent GR activation may inhibit ER-mediated
+pro-proliferative gene expression as well as inhibit ER-mediated
+repression of anti-apoptotic genes through direct GR-chromatin
+interaction. These experiments suggest that GR activation can be an
+important component modulating ER activity in ER+/GR+ BC.
+

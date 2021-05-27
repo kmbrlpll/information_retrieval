@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Next generation high capacity DNA damage detection assay for
+chemotherapy and genotoxic compound screening
+
+
+The mechanism of action of many classes of chemotherapeutic agents
+involves either the repression of DNA repair or an increase in DNA
+damage. However the measurement of DNA damage levels within a cell has
+been notoriously difficult and current methods to asses DNA damage
+potential of new chemotherapeutics have major technical flaws. The single
+cell gel electrophoresis (SCGE) assay is a long-standing method for
+measuring levels of DNA damage within a cell. The principle of SCGE is
+that DNA damage can cause DNA strand breaks in cells. These breaks cause
+the relaxation of the compact highly supercoiled DNA. The application of
+an electric field while the cells are embedded in agarose allows damaged
+DNA to migrate faster than intact DNA. The more breaks in the DNA, the
+further it will travel in the agarose resulting in the formation of a
+comet tail, the size and length of which directly correlates to the
+amount of DNA damage. The SCGE method benefits from both technical
+simplicity and high sensitivity. The major drawback is the assay is
+extremely laborious, lacks appropriate controls and has poor
+reproducibility. We have recently overcome these drawbacks by developing
+a 96-well plate format of the SCGE, aptly named CometChip. The CometChip
+uses micro-pillar technology to create an agarose 96-well chip where each
+well has approximately 300 micro-wells used to capture individual cells.
+Using this technology we can incorporate multiple treatments, controls
+and time points on a single CometChip which can then be rapidly analyzed
+using a fluorescence based imaging instrument. The utility of the new
+technology was tested using 75 different chemical compounds considered
+either genotoxic, non-genotoxic or unknown. The compounds were tested on
+two lymphocyte cell lines with different p53 status to compare the
+accumulation and repair of DNA damage. We report that the CometChip gives
+highly reproducible and accurate results without loss of sensitivity. In
+the high throughput screening approach using multiple CometChip
+apparatus, we estimate the throughput of the assay to be approximately
+10,000% greater than doing traditional slide based comet analysis. The
+massive increase in processivity brings new opportunity for large-scale
+compound screening. The increased sensitivity coupled with large sample
+sizes will allow researchers the option to measure minor changes in DNA
+damage with unparalleled accuracy.
+

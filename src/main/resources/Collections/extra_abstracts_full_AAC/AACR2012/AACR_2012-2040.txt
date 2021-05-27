@@ -1,0 +1,38 @@
+Meeting: 2012 AACR Annual Meeting
+Title: The Mre11 nuclease is critical for sensitivity of cells to Chk1
+inhibition
+
+
+The Chk1 kinase is required for the arrest of cell cycle progression when
+DNA is damaged, thereby providing time for cells to repair their DNA and
+recover. Chk1 also stabilizes stalled replication forks. As a
+consequence, many Chk1 inhibitors have been developed and tested for
+their potential to enhance DNA damage-induced tumor cell killing.
+However, inhibition of Chk1 alone, without any additional exogenous
+agent, can be cytotoxic. Using the novel Chk1 inhibitor MK-8776
+(previously known as SCH900776), we screened a panel of cell lines and
+found that some are killed rapidly at low concentrations while other cell
+lines continue to grow in the presence of much higher concentrations.
+Understanding the underlying mechanisms of this sensitivity is critical
+for defining which patients might respond best to therapy with Chk1
+inhibitors. We have investigated the mechanism of sensitivity in U2OS
+osteosarcoma cells. Upon incubation with MK-8776, single-stranded DNA
+regions (ssDNA) and double-strand breaks (DSB) begin to appear within 6
+h. These DSB have been attributed to the structure-specific DNA
+endonuclease, Mus81. The Mre11/Rad50/Nbs1 (MRN) complex is known to be
+responsible for the resection of DSB to ssDNA. However, we show that
+inhibition of the Mre11 nuclease activity leads to a decrease not only in
+the amount of ssDNA following Chk1 inhibition, but also in the formation
+of DSB, suggesting that DSB arise as a consequence of ssDNA formation.
+These findings were corroborated by the discovery that Mre11-deficient
+ATLD1 cells are highly resistant to MK-8776 and form neither ssDNA nor
+DSB following treatment, but once complimented with exogenous Mre11, the
+cells accumulate both ssDNA and DSB when incubated with MK-8776.
+Inhibition of Chk1 also leads to aberrant activation of Cdc25A and Cdk2,
+and our findings suggest that Mre11 provides the link between Cdk2
+activation and Mus81. We propose that the variable sensitivity of cell
+lines to Chk1 inhibition reflects defects in this pathway. These data
+highlight a novel role for Mre11 in the production of DSB and may help
+define which tumors are more sensitive to MK-8776 alone or in combination
+with DNA damaging agents.
+

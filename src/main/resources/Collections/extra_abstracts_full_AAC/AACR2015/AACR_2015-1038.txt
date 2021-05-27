@@ -1,0 +1,23 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Cell-based screening identifies gene expression signature
+correlated with sensitivity to PI3K-mTOR dual inhibitor BEZ235
+
+
+The PI3K-mTOR pathway is one of the major signaling cascades that promote
+tumor growth and cell survival. Multiple inhibitors targeting this
+important axis are currently under clinical investigation for cancer
+treatment and some are under preclinical development. Here we examined
+the anti-proliferation activity of BEZ235, a PI3K and mTOR dual
+inhibitor, in 243 human cancer cell lines of different caner types. We
+identified 35 lines that are sensitive to the inhibitor with IC50 values
+less than 0,04uM and 57 insensitive lines with IC50 values more than
+0.4uM. We compared gene expression of the two groups by Affymetrix U219
+arrays. With a p-value cutoff set at 0.00001, we identified 14 genes that
+are differentially expressed. These genes include epithelial membrane
+glycoprotein EPCAM and serine threonine kinase 31 (STK31). Furthermore,
+the mutation status of tubulin tyrosine ligase TTL is significantly
+correlated with sensitivity to BEZ235. These results suggested a
+potential genomic signature that could be predictive of response to
+BEZ235 and provided information that may help selecting patients that are
+likely to receive clinical benefit.
+

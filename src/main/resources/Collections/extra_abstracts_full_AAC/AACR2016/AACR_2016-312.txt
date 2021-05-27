@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Evidence of EZH2 dependent and independent mechanisms of
+tazemetostat treatment emergent resistance in models of diffuse large B
+cell lymphoma
+
+
+Tazemetostat is a small molecule inhibitor of the histone
+methyltransferase EZH2 and is currently in phase 2 clinical trials
+including relapsed refractory Non-Hodgkin Lymphomas (RR-NHL) Diffuse
+Large B Cell Lymphoma and Follicular Lymphoma. In the phase 1 clinical
+trial RR-NHL patients demonstrated positive clinical activity with a
+favorable safety profile. Acquired mutations in the D1 domain (I109K,
+Y111D, Y111L) and the SET domain (Y661D) of EZH2 have recently been
+reported as a mechanism of resistance to non-tazemetostat small molecule
+EZH2 inhibition. Given the clinical activity observed in the phase 1
+tazemetostat clinical trial and these reports of pre-clinical EZH2
+inhibitor induced resistance we embarked on investigations of the
+potential of tazemetostat to induce resistance in NHL cell lines. An EZH2
+Y641F mutant DLBCL cell line WSU-DLCL2 was exposed to 1 M tazemetostat, a
+dose which is 100 fold greater than the nave line's 11 day growth IC50.
+After 8 weeks, growth of the tazemetostat treated cells matched that of
+the control cells. Subsequent increases in dose of tazemetostat up to 10
+M did not yield any changes in growth rate of the treated cells. EZH2
+wild-type PMBCL cell line U2940 was exposed to a step wise increase in
+tazemetostat concentration for 7 weeks and finally maintained at the nave
+cell line 11 day proliferation IC50 of 10 M, with minimal effects on cell
+growth. Tazemetostat resistant cell lines were screened for acquired EZH2
+mutations using a full coding next generation sequencing assay, with a
+mean depth of 17,126 across all positions. Sequencing results showed the
+resistant U2940 had gained mutations in EZH2 similar to those previously
+identified, a heterozygous Y661N mutation and a low frequency mutation of
+Y111H, consistent with a subclonal mutation. These acquired mutations
+have been reported to interfere with the binding of EZH2 inhibitors,
+which supports the minimal reduction of H3K27me3 as measured by ELISA in
+the resistant U2940 after treatment with tazemetostat. In contrast, after
+induction of tazemetostat resistance WSU-DLCL2 retained equipotent
+sensitivity to reduction of H3K27me3 by ELISA. Correspondingly,
+sequencing of EZH2 in the resistant WSU-DLCL2 line did not identify any
+additional mutations. These findings suggest continued target engagement
+with tazemetostat in the resistant WSU-DLCL2, and that a novel bypass
+mechanism may be engaged to confer resistance. In an attempt to identify
+the mechanism of resistance in the WSU-DLCL2 line, whole exome sequencing
+and RNA sequencing has been performed. Detailed mutational, gene
+expression and pathway analysis will be performed on these data to
+investigate mechanisms of treatment emergent resistance to tazemetostat.
+Understanding these mechanisms may guide hypotheses for rational
+combinations and provide direction for future preclinical and potentially
+clinical studies.
+

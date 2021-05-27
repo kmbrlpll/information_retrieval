@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Genetic variation at a cis-acting C/EBPG binding site is
+associated with allele-specific ERCC5 transcript expression
+
+
+Background: CCAAT/enhancer-binding protein gamma (C/EBPG) transcription
+factor expression is correlated with that of ERCC5 and other key DNA
+repair genes in normal bronchial epithelial cells (NBEC) suggesting a
+regulatory role. In prior studies, ERCC5 transcript expression was
+increased in a human lung carcinoma cell line H23 following CEBPG
+overexpression and in NBEC from 81 subjects, A allele at putative ERCC5
+cis-regulatory SNP (rSNP) rs751402 and T allele at rSNP rs2296147 were
+associated with higher expression of ERCC5 marker SNP rs1047768 T allele
+transcript. rs751402 is located in open chromatin region identified by
+FAIRE-seq in NBEC and variation at rs751402 is predicted to alter binding
+of C/EBP. These studies support the hypothesis that allelic differential
+affinity to C/EBPG at rs751402 contributes to hereditary inter-individual
+variation in regulation of ERCC5 either directly or through interaction
+with complexes bound at rs2296147. The purpose of this study was to
+further investigate the role of C/EBPG in ERCC5 cis-regulation in an
+independent cohort of subjects and lung cancer cell lines. Methods: We
+knocked-down C/EBPG transcript level by C/EBPG siRNA transfection in
+human non-small cell lung carcinoma cell line H1703. Total and
+allele-specific expression (ASE) at rs1047768 was measured through
+multiplex competitive PCR-based amplicon sequencing library preparation
+followed by Illumina HiSeq next generation sequencing (NGS). This NGS
+controls for inter-target variation in PCR amplification during library
+preparation by measuring each transcript native template relative to a
+known number of synthetic competitive template internal standard copies.
+The genotype at rs751402 and rs2296147 in NBEC from 78 subjects and 14
+human lung carcinoma cell lines was determined by TaqMan SNP genotyping
+assays. Direct assessment of the syntenic relationship of alleles in gDNA
+from poly-heterozygous individuals was assessed by allele-specific PCR
+followed by sequencing. Results: CEBPG transcript expression was
+knocked-down by 93% in H1703 cells and this was associated with 4-fold
+reduction in the ERCC5 transcript level at rs1047768. ERCC5 displayed
+significant inter-individual variation in allele specific expression
+(ASE) in NBEC from 85 subjects. Thirty nine out of 92 subjects including
+3 cell lines were heterozygous at rs751402 and rs2296147 rSNPs and
+rs1047768 marker SNP and will be assessed for haplotypes comprising those
+sites. Conclusions: Results are consistent with CEBPG regulation of ERCC5
+in the cell line H1703. The results obtained will enable us to test the
+hypothesis that haplotypes comprising particular alleles syntenic between
+rs1047768 and rs751402 are associated with higher allele-specific ERCC5
+transcript abundance. Cell lines heterozygous at three sites will be
+subjected to CEBPG up and/or down regulation to assess effect on
+allele-specific ERCC5 expression at rs1047768.
+

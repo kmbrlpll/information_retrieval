@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Fast and accurate fusion transcript detection using the Trinity
+Cancer Transcriptome Analysis Toolkit
+
+
+Chromosomal rearrangements leading to fusion transcripts represent a
+class of oncogenic aberrations that are of high interest for
+understanding cancer biology, treating cancer patients, and as targets
+for the development of new therapies. Transcriptome sequencing via
+RNA-Seq coupled with downstream bioinformatics software applications
+offers an effective method for identifying candidate fusion transcripts,
+and is more targeted and cost-effective than whole genome sequencing.
+Although many such fusion detection software tools have recently been
+made available, they often differ greatly in prediction accuracy,
+execution times, computational requirements, installation complexity, and
+in not being readily accessible to non-bioinformatician cancer
+researchers.Here we present the Trinity Cancer Transcriptome Analysis
+Toolkit (CTAT), a newly developed suite of RNA-Seq targeted fusion
+detection tools leveraging a combination of reference genome read-mapping
+and de novo transcriptome assembly, coupled to in silico fusion
+transcript validation, annotation, and visualization. We show that
+components of our Trinity CTAT fusion detection toolkit, including
+STAR-Fusion and FusionInspector, yield improved accuracy and run times as
+compared to alternative leading tools. As a demonstration of the utility
+of Trinity CTAT, we explore fusion transcript discovery in a large cohort
+of 300 chronic lymphocytic leukemia (CLL) patient samples. We identify
+several novel recurrent fusions that may represent drivers of CLL
+etiology and provide new avenues to therapies.In addition to fusion
+transcript identification, Trinity CTAT aims to provide cancer
+researchers with easy access to methods for analyzing cancer RNA-Seq,
+including transcript reconstruction, identification of mutations,
+expression analysis, and tumor heterogeneity. Trinity CTAT is freely
+available open source software and readily accessible to all cancer
+researchers via our public Galaxy web portal:
+https://galaxy.ncgas-trinity.indiana.edu/.
+

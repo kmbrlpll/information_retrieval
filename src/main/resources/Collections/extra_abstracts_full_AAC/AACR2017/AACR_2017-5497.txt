@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: LSD1 modulates androgen receptor cistrome in prostate cancer via
+regulation of FOXA1 chromatin binding.
+
+
+Patients with castration-resistant prostate cancer (PCa) benefit from
+CYP17A1 inhibitors and more potent AR antagonists, but still relapse with
+tumors expressing high levels of AR and AR regulated genes, indicating
+restoration of AR activity. Therefore, there remains a pressing need for
+further development of novel AR targeted therapies.
+
+One major mechanism that contributes to the PCa development is
+reprogramming of AR cistrome by transcriptional factors and chromatin
+modifiers. In this process, AR is recruited to a subset of newly
+established enhancers that can drive the expression of proliferation
+genes. FOXA1 is one such transcriptional factor that determines
+cell-lineage and is characterized as a “pioneer” factor to facilitate
+the access of additional transcription factors (such as AR or ER) to the
+regions with compact chromatin. A recent study by comparing the AR
+cistrome in normal prostate and PCa tissues suggests that FOXA1 is
+responsible for driving AR reprograming. Whole genome analyses in PCa
+cells have revealed that FOXA1 can recognize enhancer regions with active
+histone marks (H3K4me1,2) and then further open up the sites to allow
+subsequent AR binding. However, the molecular mechanism on how FOXA1 is
+guided to the target region in PCa is still elusive and studying this
+mechanism exhibits significant translational potential on modulating AR
+activity in PCa.
+
+Lysine Specific Demethylase 1 (LSD1/KDM1A) is an important epigenetic
+modifier that can function as a repressor by demethylating H3K4me1,2.
+However, LSD1 also often associates with enhancers and can function as an
+activator in some contexts. Our previous studies showed that LSD1 binding
+significantly overlaps with FOXA1 and the overlapping sites that are
+marked by high levels of H3K4me2 enrich for AR activated genes. LSD1 also
+interacts with FOXA1 and this interaction enhances binding of both
+proteins at AR-mediated enhancers. These findings suggest that LSD1 may
+regulate the availability of enhancers to AR via interaction with FOXA1
+and hence may reprogram AR cistrome in PCa cells. In this study, we
+performed ChIP-seq analyses of FOXA1 and AR in PCa cells treated with
+LSD1 inhibitors. The results showed that the global FOXA1 binding was
+drastically diminished by inhibiting LSD1, indicating that its
+demethylase activity is required for FOXA1 binding. Importantly,
+inhibiting LSD1 also results in distinct AR binding patterns with the
+expression of many classic AR-activated genes being impaired and new
+AR-activated genes emerged. We are currently carrying out xenograft
+studies to examine the impact on tumor progression and AR cistrome by
+LSD1 inhibitor. Overall, our results suggest that the LSD1-FOXA1
+interaction functions as an important modulator of AR cistrome and
+targeting LSD1 in conjunction with AR antagonists may be a promising
+therapeutic approach to treat PCa.
+
+

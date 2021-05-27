@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Mechanism of action of the multikinase inhibitor TG02 in chronic
+lymphocytic leukemia
+
+
+TG02 is small molecular multikinase inhibitor with a unique inhibition
+spectrum of therapeutic targets. It potently inhibits Cdk9 and Cdk7, the
+Cdks involved in transcription regulation, with IC50 values of 3 nM and
+37 nM, respectively. Cdk1 and 2 are inhibited at IC50s of 9 and 5 nM.
+Kinases in other signaling pathways are also targets of TG02, such as
+JAK2 and FLT3 (IC50 19 nM for both). It is currently in Phase I clinical
+trials in hematological malignancies based on its unique target profile
+and the encouraging preclinical results. In this study, we investigated
+its activity in an indolent tumor type: chronic lymphocytic leukemia
+(CLL). CLL is characterized by the dependence on the continuous
+expression of anti-apoptotic proteins for survival. Our previous studies
+showed that inhibiting Cdk9 and Cdk7 blocked the activity of RNA
+polymerase II (RNA Pol II), which resulted in the depletion of the
+short-lived anti-apoptotic protein Mcl-1 and induction of apoptosis in
+primary CLL cells in vitro. This action was confirmed during clinical
+trials of Cdk9 inhibitors. In this study, we first confirmed the activity
+of TG02 as a Cdk7/9 inhibitor. Our results showed that the
+phosphorylation of Ser2 sites (Cdk9 substrate) of RNA Pol II C-terminal
+domain repeat was significantly reduced at 4 hr by 0.5 M TG02. Greater
+concentrations were required to inhibit the phosphorylation at Ser5 sites
+(Cdk7 substrate), consistent with a higher IC50 for Cdk7. These actions
+led to a decrease in RNA Pol II mediated transcription, measured by
+tritiated uridine incorporation. Mcl-1 expression was reduced rapidly at
+both the mRNA and protein levels. This was associated with loss of
+mitochondrial membrane potential and induction of apoptosis. To
+differentiate the targets that contribute to the induction of apoptosis,
+toxicity of TG02 was compared to SNS-032 (Cdk9 inhibitor), Sunitinib
+(FLT3 inhibitor) and TG-101348 (JAK2 inhibitor). The pattern of TG-02
+induced cell death was similar to that of SNS-032, whereas sunitinib
+induced rapid necrosis, and TG-101348 was much less potent. Thus, this
+data indicated that inhibition of Cdk9 played a major role for the
+toxicity of TG02 in CLL. While in these experiments CLL cells were
+cultured in RPMI media supplemented with 10% autologous plasma to mimic
+the in vivo conditions, our experiments showed that human plasma proteins
+impact on the potency of TG02. Compared to 10% FBS, the IC50 for cell
+death at 24 h was about 4-fold and 18-fold greater in 10% and 50% human
+plasma, respectively, indicating a substantial plasma protein binding for
+TG02. Finally, BAX/BAK double knockout MEF cells were resistant to TG02,
+suggesting that TG02 requires BAX/BAK to induce apoptosis, consistent
+with a mitochondrial pathway of cell death. Taken together, these studies
+suggested that among the multiple targets of TG02, inhibition of Cdk7/9
+and transcriptional down-regulation of Mcl-1 was the major cytotoxic
+pathway activated by TG02 in CLL.
+

@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Validation of a clinically actionable cancer core gene test for
+solid tumors facilitating targeted molecular therapy and immunotherapy.
+
+
+Molecular profiling of tumor mutations has expedited molecular targeted
+therapy for cancer patients. Additionally, tumor mutation load and DNA
+microsatellite instability (MSI) status can help predict patient’s
+response to immunotherapy. We analytically validated a gene test
+targeting clinically actionable cancer mutations of all 4 major types:
+single nucleotide variations (SNVs); insertion/deletions (INDELs); whole
+gene copy number variations (CNVs); and structural rearrangements
+(translocations) as well as the MSI status. This test interrogates all
+coding exons from 49 core cancer genes, introns for a subset of genes
+selected for detection of prevalent gene rearrangements, and the TERT
+(telomerase reverse transcriptase) promoter region. MSI status is
+determined from a set of 5 intronic mono-nucleotide repeats collectively
+associated with microsatellite instability. Targeted DNA regions are
+captured by in-solution hybridization with complementary biotinylated RNA
+baits and sequenced on the Illumina NextSeq®500 platform. Paired
+formalin-fixed, paraffin-embedded (FFPE) tumor samples and whole blood
+samples are analyzed simultaneously for the detection of SNV, INDEL, CNV,
+translocation and MSI status. FFPE samples can also be analyzed alone if
+the whole blood sample is not available, eliminating the reporting of MSI
+status. A minimum of 50 ng FFPE DNA and 100 ng of whole blood DNA are
+required for this test. A total of 123 FFPE, 2 FFPE FNA samples, 19
+paired FFPE and whole blood paired samples covering lung cancer,
+colorectal cancer, melanoma and breast cancer were included in this
+validation study. Analytical validation of assay performance demonstrated
+that, on average, 700-fold read depth was achieved across all targeted
+regions with >95% of these regions covered by a minimum of 300 unique
+reads. Analytical sensitivity was ≥5% mutation frequency for SNV and
+INDEL and ≥20% for translocation and CNV. Thirty-eight unique variants
+were confirmed between this test and orthogonal methodologies: 22 SNVs, 6
+INDELs, 5 translocations, and 5 CNV. Fifty-eight out of 59 (98%
+concordance) paired FFPE/blood samples achieved the same MSI status
+result with this targeted sequencing approach compared to the reference
+National Comprehensive Cancer Network (NCCN) Bethesda PCR test.
+MSI-positive samples, on average, were determined to have 5-fold higher
+mutation count compared to MSI-negative samples, consistent with the
+previously reported higher mutation burden. In conclusion, we have
+developed and analytically validated a core cancer gene test employing
+NGS technology with demonstrated high analytical sensitivity and
+specificity. Coupled with clinical interpretation, this test will
+facilitate clinical decision-making for molecular targeted therapy and
+immunotherapy.
+
+

@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Targeted re-sequencing of neuroblastoma tumors reveals chromosomal
+rearrangements that involve the Anaplastic Lymphoma Kinase (ALK) gene.
+
+
+Neuroblastoma (NBL) is a cancer of early childhood arising from the
+developing sympathetic nervous system. NBL tumors display a broad
+clinical and biological heterogeneity, ranging from highly aggressive
+tumors with fatal outcome to tumors with spontaneous regression.
+Recurrent mutations are mainly only observed in Anaplastic Lymphoma
+Kinase (ALK), which is involved in the pathogenesis of both familiar and
+sporadic NBL. ALK encodes a tyrosine kinase receptor with importance in
+neuronal development and was initially characterized in anaplastic large
+cell lymphoma from a translocation leading to the NPM-ALK fusion protein.
+Subsequent studies show that additional ALK chimeras have been generated
+with different fusion partners in various cancers. To date no
+ALK-containing rearrangement has been reported in primary NBL tumors
+although one study has describeda NBL cell line with an ALK intragenic
+deletion leading to constitutive ALK kinase activity. This led us to
+screen for and further investigate possible ALK containing translocations
+in our NBL material.Genomic profiling of 350 NBL samples though SNP
+microarrays indicated ALK-rearrangement in four primary tumors and two
+cell lines (IMR32 and CLB-BAR) which were further analyzed through
+targeted re-sequencing of the common MYCN amplicon region (Chr2;14-18Mb)
+and the entire ALK gene. Briefly, detection of rearrangements was
+performed through solution-based enrichment followed pair-end sequencing
+of 400-500bp libraries.Junction sites were identified by manual sequence
+viewing on IGV and validated through PCR followed by Sanger
+sequencing.With this strategy we were able to determine translocation
+sites for all but one sample. In one tumor ALK was found to be
+translocated to GAB2 (chr11q14) causing loss of the first exon of
+respective gene. However,ALK and GAB2 were placed head-to-head with
+respect to transcription direction and this novel translocation is
+therefore unlikely to cause a chimeric protein. Another tumor showed
+translocation between ALK intron 4 and chr 4 subtelomeric region without
+known genes. Two NBL cell lines and one tumor had both MYCN and ALK
+amplification and sequencing revealed high level complexity of respective
+amplicon with multiple rearrangements. IMR32 show involvement of at least
+six different 2p-regions including MYCN and ALK exon 3-4. CLB-BAR has
+also multiple rearrangements including an ALK intragenic translocation
+causing loss of exon 4-11, ultimately resulting in an ALK protein with
+truncated extracellular domain.Here we show that ALK translocation sites
+could be deduced from targeted re-sequencing without previous knowledge
+about fusion partner. However, no translocations resulting in chimeric
+protein were detected. We were also able to detect MYCN amplicon
+junctions, which are highly unique for each patient and could be used for
+detection of minimal residual disease.
+

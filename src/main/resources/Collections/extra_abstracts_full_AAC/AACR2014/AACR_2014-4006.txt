@@ -1,0 +1,43 @@
+Meeting: 2014 AACR Annual Meeting
+Title: MicroRNA footprints of circulating tumor cells in patients with
+non-small cell lung cancer
+
+
+Purpose: MicroRNAs (miRNAs) are being investigated as stable,
+non-invasive, circulating biomarkers for detecting human disease,
+including cancer. We sought to determine whether select, circulating
+miRNAs can define a footprint for circulating tumor cells (CTCs) in the
+blood of lung cancer patients.Methods: We analyzed plasma from patients
+with non-small cell lung cancer (NSCLC) for nine candidate miRNAs using
+Taqman qRT-PCR primers in duplicate and normalized by spiked-in synthetic
+cel-miR-39. We then associated miRNA expression levels with CTCs using a
+morphometric assay that is independent of Epithelial Cell Adhesion
+Molecule (EpCAM) and designed for the ultra-sensitive detection of
+individual CTCs and tumor cell clusters. We chose candidate plasma miRNA
+markers based on criteria including low or absent expression in other
+blood components, epithelial-specific expression, and/or significance in
+the literature. This included miRs -21, -135b, -141, -200a/b/c, -205,
+-210 and -429. We analyzed Pearson and Spearman rank correlations and
+associations by group using ANOVA with Bonferonni adjustments for
+multiple comparisons. Lastly, we integrated patients' clinical and
+tumors' imaging data for modeling using multiple logistic regression to
+assess how miRNAs associated with CTCs.Results: We evaluated 68 patients
+with predominantly stage I disease (75%) and adenocarcinoma histology
+(69%). Median CTC/mL was 4.2 (Interquartile Range [IQR] 0-19), 49%
+(33/68) of patients had more than 5 CTCs/mL and 51% (35/68) of these
+patients also had tumor clusters present. MiRNAs were only weakly
+correlated with absolute CTC/mL levels in the circulation but at a
+threshold of 5 CTCs/mL there was a strong relationship with miR-141
+(p-value = 0.0004, adj p-value = 0.004). Several miRNAs were associated
+with the presence of tumor clusters, including miR-205 (p-value = 0.007;
+adj p-value = 0.06) and miR-429 (p-value = 0.006, adj p-value = 0.05). A
+logistic model integrating clinical, imaging and miRNA features selected
+several miRNAs preferentially to predict the presence of tumor clusters
+(miR-21, miR-200b, miR-205, and miR-429).Conclusion: Circulating oncomiRs
+may indirectly associate with CTCs and tumor clusters in patients with
+NSCLC. Our footprint is concordant with one previous investigation in
+metastatic breast cancer showing common results for miR-141 and the
+miR-200-429 cluster. Further investigations examining miRNAs expressed
+directly in CTCs would be useful to determine the origin of circulating
+cancer-associated miRNAs.
+

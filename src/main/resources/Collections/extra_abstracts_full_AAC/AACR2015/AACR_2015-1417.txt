@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Clonal succession in pancreatic cancer progression is not driven
+by genetic instability
+
+
+Our group has recently shown that human pancreatic cancer (PDAC)
+progression is driven by a succession of transiently active tumor
+initiating cell (TIC) clones during serial xenotransplantation. Genetic
+labeling demonstrated that serial PDAC xenograft tumors and even tumors
+of parallel mice transplanted with cells from the same donor xenografts
+harbored very little to no overlap of active TIC clones, indicating
+substantial changes in the proliferative activity of individual TIC
+predominantly producing progeny without detectable tumor-initiating
+activity. We now asked whether observed clonal activation and
+inactivation is caused by acquisition of de novo mutations during
+evolution of genetic subclones or by functional plasticity of genetically
+stable TIC clones. Therefore, we monitored somatic non-synonymous
+mutations in culture and during PDAC progression in genetically marked
+serial xenografts of two patients. DNA was isolated from xenografts,
+primary TIC cultures and corresponding normal pancreas or primary tumor
+tissue. Following paired-end exome sequencing, reads were aligned to a
+concatenated hs37d5 human and mm10 mouse genome assembly and human
+specific single nucleotide variants (SNVs) and small insertions/deletions
+(indels) were identified. We found a total of 45 altered gene coding
+genomic loci (P1 = 10; P2 = 35) not present in control tissue.
+Strikingly, most SNVs detected were present in all samples, only very few
+SNV were acquired during serial transplantation. In P1, 4 novel SNVs not
+present in the original patient tumor sample were detected within coding
+regions of TTC13, OR4K15, SSPO and TPGS1. Allele frequencies ranged from
+2-27% in serial xenografts. In xenografts of P2 we detected 35 SNVs not
+present in healthy tissue. Of these, one mutation in the gene C10orf12
+aroused after serial transplantation with a maximum altered allele
+frequency of 17%. None of these mutations is a known cancer driver or was
+found as recurrent in large scale cancer sequencing approaches. To
+evaluate whether the clonal TIC dynamics within established tumors are
+recapitulated in vitro, we analysed individual TIC clone kinetics in
+serially passaged cultures and in cultures derived from transduced
+xenografts. Strikingly, the kinetics in vitro were similar to those
+observed within serially transplanted xenografts. Every culture passage
+was formed by a distinct set of actively proliferating cell clones
+without significant overlap between individual serial passages indicating
+that clonal succession of TIC activity in PDAC is not dependent on the
+cellular context in tumors in vivo. The remarkable genetic stability of
+xenografts during serial transplantation strongly indicates that changes
+in the functional state of PDAC cells and not genetic instability drive
+clonal succession of TIC activity in PDAC.
+

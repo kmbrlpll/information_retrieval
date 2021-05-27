@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Sensitive, specific and highly multiplexed mutation detection for
+cancer management
+
+
+Mutations in RAS, RAF, EGFR and PIK3CA genes are present in a number of
+cancers including colon, lung and breast cancers. Importantly, many of
+these mutations are predictive biomarkers of clinical outcomes for
+targeted therapies. This has led to a growing demand for detection of
+multiple mutations simultaneously. Multiplex formats allow a greater
+amount of information to be obtained from each sample.PASS primer
+technology can sensitively and specifically identify the presence of SNPs
+and somatic DNA changes (point mutations, deletions and insertions) with
+sensitivity up to 1 in 1,000 (0.1%). PASS primers selectively amplify
+nucleic acid variants and create amplicons that are markedly different
+from the parent sequence. The method is superior to ARMS PCR for
+multiplexing, particularly when mutations are present at the same,
+adjacent or nearby loci.PASS primers consist of two target specific
+regions separated by an insert sequence (IS) which is not complementary
+to the target. A long 5 target-specific region anchors the primer and a
+short 3 region targets the variant base/s thus directing highly specific
+binding and extension. During amplification, the IS sequences are
+incorporated into amplicons, introducing 10 base difference between the
+starting single base variant and the resulting amplicon. This reduces
+competition between primers during amplification and facilitates robust
+discrimination between amplicons during detection.MNAzyme qPCR is a
+robust alternative to other probe based real-time qPCR protocols such as
+TaqMan and Beacons. MNAzymes are bi-specific, catalytic oligonucleotide
+complexes which form in the present of target and cleave universal
+reporter probes. The bi-specificity, and the use of well-characterised
+universal probes sets (suitable for use with any group of targets), makes
+MNAzyme qPCR more amenable to multiplexing. When combined with PASS,
+MNAzyme qPCR easily discriminates between amplicons since MNAzymes are
+tailored to specifically detect both the distinct IS and the original
+mutation.PASS MNAzyme qPCR has been used to facilitate multiplex
+detection of RAS, RAF, EGFR and PIK3CA mutations. As many as eight
+mutations located at codons 12 and 13 of RAS have been successfully
+detected in a single well using three channels on a standard PCR machine.
+The technology is even more powerful when combined with newer instruments
+with higher multiplex capabilities such as Biocartis Idylla automated
+platform. A multiplexed KRAS/BRAF assay, which detects 18 mutations, was
+evaluated using colon cancer and melanoma FFPE samples. The results
+showed >96% concordance with sequencing and significantly specificity
+compared to the singleplex Therascreen KRAS test.Since PASS MNAzyme qPCR
+affords greater multiplex capacity, along with high specificity and
+sensitivity, it provides a superior tool for ascertaining mutations from
+tumour tissues and is particularly well suited for use with liquid
+biopsies.Note: This abstract was not presented at the meeting.
+

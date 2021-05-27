@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Heterogeneity of cancer associated fibroblasts in non-small cell
+lung cancer is defined by the level of collagen gel contraction activity
+
+
+Background: Cancer associated fibroblasts (CAFs) are well known to
+strongly influence tumor development, progression and metastasis. Their
+characteristics and prognostic gene signature in non-small cell lung
+cancer (NSCLC) patients have been recognized. However, the functional
+heterogeneity of CAFs between patients and their genetic basis were far
+less known. The results revealed two functionally and also genetic
+distinct subgroups of CAFs which were closely related to the degree of
+tumor desmoplasia and also prognostic of survival in NSCLC
+patients.Methods: 28 independent lung cancer resection specimens were
+used to establish primary cultures of CAFs and noncancer fibroblasts from
+the corresponding nonneoplastic lung parenchyma. We applied collagen gel
+contraction and xCELLigence Real-Time Cell Analysis of proliferation and
+in vivo tumorigenicity for measuring the CAF activity. To assess the
+grading of desmoplasia, the percentage of desmoplasia in total tumor
+stroma was used to define high desmoplasia (HD) versus low desmoplasia
+(LD). Microarray data on RNA extracted from contracted gels following 8
+hours incubation was performed using Illumina Human HT-12v4 Bead Chips
+array and was preprocessed and normalized using RMA and values were log2
+transformed.Results: We have identified that CAF activity depends on
+higher ability to contract collagen gel, increased cell proliferation and
+tumor growth. Using microarray gene expression analysis of the 24 CAF
+cell lines (12 CAFs-HD versus 12 CAFs-LD), we observed high correlation
+of differential gene expression in extreme CAF-HD to tumor stroma while
+we found a high correlation between differential gene expression in
+extreme CAF-LD to normal lung. We were also able to validate our previous
+published subset of 11 genes (13 probe sets) in CAFs-HD versus CAFs-LD.
+To study the degree of desmoplasia and outcome, we used MedBio data set
+containing 181 records. We observed that desmoplasia appears to be
+associated with the time to relapse in univariable analysis. The
+association was far stronger in the adenocarcioma group with significance
+for both univariable and multivariable analysis.Conclusion: In this
+study, we provided the direct and robust evidence of functional
+heterogeneity of CAFs in NSCLC patients and first showed that CAFs from
+tumor with severe desmoplasia had higher gel contraction activity,
+proliferation rate and enhanced tumor growth. Furthermore, we developed
+desmoplasia-specific gene signature that could subgroup CAFs and
+contribute to their functional heterogeneity which would also allow us to
+discriminate among patients who would more likely benefit from tumor
+stroma targeting therapies in the future.
+

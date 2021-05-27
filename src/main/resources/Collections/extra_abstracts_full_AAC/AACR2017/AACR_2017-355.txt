@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: TET2-loss modifies androgen signaling in prostate cancer.
+
+
+Molecular markers for metastatic prostate cancer (PCa) can be identified
+by sequencing metastatic tumor genomes. We recently identified cancer
+gene mutations in a patient with metastatic disease using next generation
+sequencing (NGS) of DNA from 5 metastatic tumors and blood. We
+characterized a somatic non-conservative substitution in the
+methylcytosine dioxygenase ten-eleven translocation 2 (TET2) in all
+metastatic tumors but not the blood or primary adenocarcinoma. Analysis
+of metastatic tumors from additional patients revealed frequent somatic
+loss and sequence alteration of TET2, which was previously observed to be
+altered in 5-15% of myeloid, kidney and colon cancer. Genome-wide
+association studies previously identified non-coding risk variants
+associated with PCa and melanoma, and rare germline missense variants are
+observed in African-Americans with PCa. We sought to further investigate
+the role of TET2 in PCa. We performed fine-mapping of PCa risk across the
+TET2 locus using genotypes from the PEGASUS case-control cohort and
+identify six new risk variants in introns 1 and 2. Electrophoretic
+mobility shift assays show two risk SNPs are bound by the transcription
+factor octamer-binding protein 1 (Oct1). Full length TET2 (2002 aa) is
+expressed in normal prostate and cancer tissue and is significantly
+reduced in a subset of the Cancer Genome Atlas (TCGA) PCa tumors that are
+associated with metastatic disease and reduced disease-free survival.
+TET2-loss drives a cancer phenotype as siRNA-mediated knockdown (KD)
+significantly increases LNCaP and DU145 cell proliferation, and LNCaP
+transwell migration and wound healing. Affinity chromatography, mass
+spectrometry and co-immunoprecipitation confirm that endogenous TET2
+binds the androgen receptor (AR) in LNCaP cell extracts. TET2 KD alters
+the expression of a subset of androgen-responsive genes including
+increased prostate-specific antigen (KLK3/PSA) expression, and published
+data indicate TET-catalyzed hydroxymethylcytosine (hmC) and TET2 binding
+sites proximal to KLK3. Analysis of TCGA PCa tumor RNA-seq reveals TET2
+expression is co-regulated with the expression of genes encoding
+functions metabolizing 2-oxoglutarate and succinate including the lysine
+demethylase KDM6A, BRCA1-associated BAP1, and citric acid cycle enzymes
+IDH1-2, SDHA-B and FH. Co-expression is conserved across all 31 TCGA
+cancers examined. Examination of genomic locations associated with
+TET2-binding and hmC, and gene expression changes during androgen
+signaling indicate a putative role for TET2 as an energy sensor that
+modifies androgen-AR signaling. Decreased TET2 mRNA expression in TCGA
+PCa tumors that are associated with reduced patient survival indicates
+TET2 expression may be an informative biomarker of PCa disease
+progression.
+
+

@@ -1,0 +1,32 @@
+Meeting: 2013 AACR Annual Meeting
+Title: ShRNA-based cellular proliferation signaling analysis revealed
+DRD2 as a novel therapeutic target for glioblastoma.
+
+
+Glioblastoma remains one of the deadliest of human cancers, with most
+patients succumbing to the disease within one year of diagnosis. Our best
+current understanding of its etiology is that glioblastoma involves
+genetic and epigenetic changes that subvert the inherent molecular
+circuitry of glial cells to drive uncontrolled cellular proliferation.
+Unfortunately, this molecular circuitry in glioblastoma appears
+sufficiently complex and redundant that disruption at any particular
+point tends to redirects signaling through the remaining circuit. In this
+context, meaningful therapeutic gains will require the identification of
+therapeutic agents that target critical nodes within this circuit. To
+identify novel therapeutic agents that target critical nodes which
+regulate cellular proliferation, a genome-wide retroviral shRNA library
+screen was conducted in two glioblastoma cell lines (U87MG and A172) and
+two lung carcinoma lines (A549 and NCI-H460). Pathway analysis of the
+pro-proliferative genes using both PANTHER and Ingenuity software
+revealed an over-representation of G-protein coupled neurotransmitter
+receptors (GPCR), including dopamine receptor subtype 2 (DRD2), which was
+also highly expressed in glioblastoma specimens relative to the matched
+normal parentchymal. Further investigation demonstrated that DRD2 signal
+regulates cell growth by GNAI2-induced ERK activation. Moreover,
+Haloperidol, one of DRD2 antagonists, enhances significantly anti-tumor
+efficacy of EGFR inhibitor AG1478 using U87 and mesenchymal neuroshpere
+xenografy mouse models. Given that both AG1478 and DRD2 antagonists have
+been approved for the treatment of glioblastoma and psychotics,
+separtately, Haloperidol combined with chemotherapy represents a novel
+and likely conducted strategy for the treatment of glioblastoma.
+

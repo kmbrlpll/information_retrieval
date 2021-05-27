@@ -1,0 +1,33 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Increased sensitivity in whole-genome bisulfite sequencing (WGBS):
+A novel post-bisulfite conversion library construction method from
+sub-nanogram DNA inputs.
+
+
+Genome-wide analysis of 5-methylcytosines is possible with whole-genome
+bisulfite sequencing (WGBS), where unmethylated cytosine residues are
+converted to uracil. However, a major challenge in WGBS is the
+degradation of DNA that occurs during bisulfite conversion under
+conditions required for complete conversion. Typically, 90% of input DNA
+is degraded and thus, is especially problematic with limited starting
+amounts of DNA. Additionally, regions that are rich in unmethylated
+cytosines are more sensitive to strand breaks. As a consequence, a
+majority of DNA fragments contained in di-tagged NGS DNA libraries
+treated with bisulfite post-library construction can be rendered inactive
+due to strand breaks in the DNA sequence flanked by the adapter
+sequences. These mono-tagged templates are then excluded during library
+enrichment resulting in incomplete coverage and bias when performing
+whole genome bisulfite sequencing.Here, we describe a novel
+post-bisulfite conversion library construction method for preparing NGS
+libraries from genomic DNA prior to the addition of one or both adapters.
+This post-bisulfite conversion library construction method uses the
+resulting untagged or mono-tagged single-stranded DNA as template for the
+subsequent addition of adapter sequences required for NGS. Thus,
+single-stranded DNA fragments independent of size and position of strand
+breaks remain as viable templates for library construction, eliminating
+the loss of fragments and the selection bias associated with a
+post-library construction bisulfite conversion strategy. This novel
+post-bisulfite conversion library construction method exhibits high
+diversity, increased efficiency and sensitivity (500 picograms human
+genomic DNA input), and improved coverage required for WGBS.
+

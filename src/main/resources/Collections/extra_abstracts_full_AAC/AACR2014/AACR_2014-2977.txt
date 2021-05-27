@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Myc and Miz1 in medulloblastoma
+
+
+Medulloblastoma (MB) is the most common malignant pediatric brain tumor,
+which arises in the cerebellum. Human MBs are classified into four
+subgroups: Wingless (WNT), Sonic Hedgehog (SHH), Group 3 (G3) and Group 4
+(G4). In 2012, we developed a mouse model of the most aggressive and
+least curable G3 MB, by overexpressing MYC but not MYCN, in Trp53-null
+cerebellar granule neuron progenitors (GNPs), which were implanted into
+the cortices of recipient CD-1 nu/nu mice. Remarkably, enforced
+expression of MYCN in Trp53-null GNPs induced a SHH MB. This was
+unexpected since MYC and MYCN bind to the same E-box DNA binding
+sequences. We hypothesized that the difference between MYC- and
+MYCN-induced MBs might be due to their interaction with different
+partners in GNPs. Human G3 MBs are distinguished by MYC overexpression.
+The MYC proto-oncogene encodes a bHLH/leucine-zipper transcription factor
+that forms heterodimers with MAX to drive transcription. However, MYC can
+repress transcription when the MYC/MAX heterodimer is recruited to core
+promoter sequences by MIZ1, a member of the POZ-domain/zinc-finger
+transcription factor. MIZ1, ubiquitously expressed during embryonic
+development, can either be a transcription activator or repressor
+depending on its binding partners.To investigate whether the MYC/MIZ1
+complex contributed to G3 MBs, we used a mutant of MYC which no longer
+binds to MIZ1 in which a Valine is substituted for an Aspartic acid amino
+acid at position 394 (MYCV394D). We enforced the expression of MYC or
+MYCV394D in GNPs purified from seven-day-old Trp53-null mouse pups using
+retroviral transduction, and implanted transduced GNPs into the cerebral
+cortices of recipient mice. MYCV394D-induced tumors developed later than
+MYC-induced G3 MBs. Histopathological analysis revealed that MYC-induced
+tumors exhibited a large cell/anaplastic (LCA) phenotype and were
+classified as G3 MBs; however, MYCV394D-induced tumors were described as
+unclassified primitive neuroectodermal tumors. In vitro, MYCV394D-induced
+tumors formed tumorspheres that were highly apoptotic and less
+proliferative compared to MYC tumorspheres. Global gene expression of
+MYCV394D tumors was distinct from murine G3 and SHH subgroup MBs.
+Particularly, genes needed for neuronal differentiation and which are
+strongly repressed by MYC in G3 MBs, were no longer repressed by the
+MYCV394D mutant, indicating that the MYC/MIZ1 complex was responsible for
+their repression.To analyze whether the MYC/MIZ1 complex was present on
+chromatin in G3 MBs, we performed ChIP-Seq for MYC and MIZ1. In contrast
+to Trp53-null GNPs, where MIZ1 only binds 140 promoters, 11.549 promoters
+were occupied by MIZ1 in G3 MBs, 9.353 of which were co-occupied by MYC
+(81%). Because as many of the joined binding sites neither contained a
+canonical E-box sequence nor a bona fide MIZ1 binding motif, we speculate
+that cooperative binding of oncogenic MYC with MIZ1 is necessary for
+binding.Our data suggest that the MYC-MIZ1 interaction is critical for
+the development of G3 MBs.
+

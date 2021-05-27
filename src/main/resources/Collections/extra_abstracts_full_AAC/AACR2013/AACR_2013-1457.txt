@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: An integrated microfluidic device for circulating tumor cell
+detection in pancreatic cancer patients.
+
+
+Pancreatic cancer has one of the highest mortality rates of all cancers.
+The mortality is associated with both resistance to therapeutics and late
+stage detection. Often by the time symptoms are presented the disease has
+advanced to an incurable state. Due to the aggressive nature of
+pancreatic cancer and the difficulty in obtaining biopsies, it has been
+challenging to examine the behavior and characteristics of pancreatic
+tumors over time. Recently, circulating tumor cells (CTCs) have been
+isolated from peripheral blood of cancer patients and correlated with
+survival and therapeutic response. CTCs can also be analyzed to provide
+insight into tumor genetics and metastatic capabilities. Since CTCs are
+present in early cancers, they have the potential to be used as an early
+screening marker of metastatic disease. Especially for pancreatic cancer,
+isolating CTCs would perhaps allow for detection prior to advanced
+disease states and aid in determining appropriate therapeutic treatments.
+We demonstrate an integrated microfluidic device to detect CTCs in
+pancreatic cancer patients. The three-part device which integrates an
+inertial pre-sorter, a passive mixer and a magnetic sorter can process
+1ml of blood in less than 20min to achieve nearly 100% pure cancer cells
+at the outlet. High-throughput pre-sorting of CTCs from the diluted blood
+is achieved using the inertial sorter and further specificity and
+isolation of the CTCs is achieved through magnetic labeling and
+re-sorting. First diluted whole blood is run through the inertial spiral
+sorter at nearly 2ml/min.The curvature of the spiral focuses and aligns
+cancer cells to the inner channel wall, thus making it possible to enrich
+the cancer cells. The outlet of the spiral is designed to collect the
+enriched CTC stream, which are then passed through a passive mixer with
+EpCAM-labeled superparamagnetic beads. Only the cancer cells will be
+labeled with the magnetic beads as leukocytes and erythrocytes do not
+express the epithelial markers that are targeted during the mixing
+process. The mixed and labeled sample is sorted by a continuous flow
+magnetic sorter, where the application of an external magnetic field
+deflects the magnetically labeled cancer cells to a single collection
+outlet. Once isolated, the highly pure CTC population can be counted,
+genetically profiled, immunostained, or cultured for further analysis.
+Cells were stained usingCK7/8, N-cadherin, CD45, and DAPI to assess
+epithelial and mesenchymal characteristics. Isolating pancreatic CTCs
+with both high sensitivity and high specificity can enable earlier cancer
+detection and downstream molecular analysis can identify key targets for
+pancreatic cancer treatment. Thereupon, the development of effective CTC
+isolation tools will improve patient prognosis and therapeutic treatment
+plans.
+

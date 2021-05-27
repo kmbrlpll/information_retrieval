@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Optimization and detection of focal somatic copy number variants
+in whole genome, whole exome and panel sequencing for tumor/normal
+matched pairs and tumor only analysis
+
+
+Often in the clinical setting, tumor samples may be derived from
+historical tissue or from fresh frozen tissue and it may not be feasible
+to obtain normal tissue from the individual. Comparing unmatched tissues
+from different individuals possess a unique challenge of addressing
+common copy number variations not faced when comparing matched samples.
+In addition to the challenges of comparing unmatched samples, DNA
+extracted from samples preserved as formalin-fixed, paraffin-embedded
+(FFPE) tissue is often highly degraded and when compared to more intact
+DNA extracted from different source (e.g. blood) can increase the
+inherent noise in the system. Here we analytically characterize the
+accuracy and performance of algorithmic approaches for separating
+germline inherited copy number variation from somatic copy number
+changes, focusing on both filtering approaches and use of pooled
+reference samples sequenced under similar conditions. Example approaches
+include filtering known common copy number variation within 1000 Genomes
+Phase 3 and Database of Genomic Variants (DGV) Gold Standard.
+Additionally, we utilized a tumor/reference pool based analysis where a
+reference pool was constructed by equimolar pooling of multiple
+individuals. Determination of fold changes between tumor and reference
+was calculated by determining physical coverage of read pair fragments in
+100 bases increments. Next, to address differences in sequencing
+performance between tumor and reference, the read depth data for each
+sample is collapsed/averaged into a lower resolution according to
+user-selected parameters (e.g. distance between points and read depth).
+Normalized log2 fold-changes between tumor and reference samples are then
+calculated and an adjustable smoothing window is applied. In addition, we
+utilize tumor allele frequencies of known heterozygous germline SNPs
+identified within the normal to both evaluate potential false positives
+and correct biases. Lastly, a segmentation algorithm is applied to
+summarize the individual log2 fold-changes into intervals with a constant
+copy number state. We will present the advantages and limitations of
+these approaches both when a germline normal is available and when tumor
+only analysis is necessary.
+

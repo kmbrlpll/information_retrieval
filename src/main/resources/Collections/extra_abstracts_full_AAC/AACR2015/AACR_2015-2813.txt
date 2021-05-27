@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Chemoprevention of mammary cancer: Modeling predictive values of
+short-term morphologic assays for efficacy in animal tumor assays
+
+
+Background: Understanding the ability of chemopreventive agent efficacy
+in morphologic (in vitro/in vivo) assays to predict efficacy in animal
+(mouse and rat) in vivo tumor assays has not been well studied. The
+Chemopreventive Agent Development Research Group (CADRG) in the U.S.
+NCI's Division of Cancer Prevention has, over 25 years, tested
+approximately 800 agents for potential chemopreventive activity. Of these
+agents, a subset of 146 that were tested in both morphologic and mammary
+gland tumor assays constitutes the focus of our current project. Our goal
+is to gain deeper insight into the relevant predictive values.Materials
+and Methods: Two critical steps are involved in the early stages of the
+CADRG testing pathway: (1) in vitro/in vivo morphologic assays and, for
+agents successful in these, (2) testing for tumor prevention (measured in
+terms of tumor incidence and multiplicity reduction) in animal tumor
+assays. Ultimately, our goal is to test agents that successfully decrease
+tumor incidence and multiplicity in animal tumor assays in humans. In the
+project presented here, we evaluated the predictive values of
+earlier-stage (morphologic) assays for efficacy in later-stage (animal
+tumor, specifically mammary tumor) assays. We used statistical modeling
+to determine how well the six most commonly used morphologic assays
+predicted efficacy of the 146 tested agents in mouse and rat mammary
+gland tumor assays. For this purpose multimodel inference was applied to
+ordinal logistic regression.Results: We evaluated the ability of the six
+morphologic assays to predict tumor outcomes in the mouse and rat mammary
+gland cancer assays. In our statistical modeling approach, each
+morphologic assay was assigned a value describing how strongly it
+predicted outcomes in the mammary gland tumor assays. Specific
+morphologic assays (mouse mammary organ culture/MMOC and human foreskin
+epithelial cell/HFE morphologic assays) in combination yielded predictive
+values that are reasonably suggestive of the efficacy demonstrated by
+chemopreventive agents in the mouse and rat mammary gland tumor
+assays.Conclusions: Predictive models such as these should prove useful
+in guiding future decision-making regarding agent selection and
+morphologic and animal tumor assay use. Our current strategy is to gain
+insight into the Predictive Value approach by: (1) identifying the
+mammary gland tumor assays that best reflect anti-tumor efficacy in
+animals; (2) teasing apart those classes of agents that exhibit the
+highest predictive values overall; and (3) examining those classes of
+agents that exhibit the highest efficacy in specific mammary gland tumor
+assays.
+

@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Enhancing drug discovery and development throughput without
+sacrificing predictivity: ex vivo 3D drug response profiling (DRP) using
+patient-derived xenografts (PDX)
+
+
+Background: PDX have become critical elements of preclinical drug
+development as they better reflect the heterogeneity, molecular and
+histopathologic signatures of the original tumor than cell lines or
+genetically engineered mouse models, and their drug response profiles
+correlate with clinical response. While PDX models have become a powerful
+tool in drug discovery and development, limitations include low
+throughput for broad drug screening, lack of dose-response curves, high
+cost and progressive loss of human-derived stromal elements over serial
+passages, restricting utility for certain therapeutic classes. A
+potential mechanism to overcome the low throughput and high cost of PDX
+models is the incorporation of ex vivo 3D (EV3D) DRP on cells isolated
+from early passage PDX models. Thus, we correlated DRP results using PDX
+with genetic mutations and drug response of PDX tested in vivo. Materials
+& Methods: Cells were isolated from low-passage triple negative breast,
+invasive bladder, and non-small cell lung PDX tumors propagated in NSG
+mice and cultured as 3D spheroids. 3D spheroid cultures were exposed to
+15 clinically-relevant chemotherapy and targeted agents and assayed for
+cell viability over a range of concentrations. Non-linear regression
+curves were generated and relative IC50s estimated. In vivo response with
+limited numbers of agents at clinically relevant concentrations (3
+including controls) was assessed. Results: 3D cultures and testing were
+successfully established across all PDX and IC50s were successfully
+generated in 98% of drugs tested. EV3D DRP of PDX tumors differentiated
+activity of cytotoxic and targeted agents across tumors of similar
+histologic site of origin. Gemcitabine (IC50 = .007 versus 27 uM) and
+docetaxel (0.2 versus 40uM) activity was highly correlated with in vivo
+response in bladder and breast cancers, respectively, whereas cisplatin
+was equally active across all tumor types (IC50 = 3-8uM). hENT1 mRNA
+expression was not predictive of gemcitabine activity. EV3D DRP data
+correlated with PDX and clinical outcome. It identified Erlotinib as
+being relatively inactive (3 uM) against lung cancer PDX with an EGFR
+e19del, T790M mutation which correlated with the outcome seen in the PDX
+mouse and the clinical patient outcome in which the patient became
+nonresponsive to erlotinib. Trametinib was highly active against lung
+cancer PDX with a KRAS G12C mutation (IC50 6.7 10-6 versus 1.1 10-3) and
+will be used to perform efficacy studies in the KRAS mutant lung PDX
+model Conclusions: EV3D DRP predicts in vivo response and correlates with
+pathway activating mutations. EV3D DRP using PDX may represent a novel
+high throughput and predictive drug response platform that enables
+compound ranking for preclinical and clinical applications.
+

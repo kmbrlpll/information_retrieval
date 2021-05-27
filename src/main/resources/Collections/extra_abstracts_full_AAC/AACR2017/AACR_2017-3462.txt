@@ -1,0 +1,35 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Investigating the role of GSK3 in the mitotic checkpoint.
+
+
+Progression through the cell cycle is regulated by multiple checkpoints
+that ensure genomic integrity and proper cell division. The spindle
+assembly checkpoint (SAC) monitors bi-orientation of chromosomes on the
+mitotic spindle, and signals assembly of the mitotic checkpoint complex
+(MCC) at unattached kinetochores. This checkpoint prevents unequal
+segregation of chromosomes and thus maintains genomic stability. Our data
+shows a novel role for glycogen synthase kinase 3 beta (GSK3β) in
+regulation of the mitotic checkpoint. GSK3β is a ubiquitous
+multifunctional Ser/Thr kinase with distinct roles in different types of
+cancer. Following pretreatment with spindle toxins which arrest cells in
+mitosis, GSK3 inhibitors, SB 415286 (SB), RO-81220 (RO) and LiCl, induce
+mitotic exit in multiple cancer cell lines. GSK3β knockout mouse embryo
+fibroblasts (MEFs) showed a similar decreased mitotic index in the
+presence of spindle toxins. Similarly, the mitotic checkpoint was
+weakened when we performed GSK3β knockout in HeLa cells using
+transiently expressed CRISPR/Cas9. More detailed analysis showed
+decreased kinetochore localization of checkpoint proteins Mad1, Mad2,
+BubR1 and Bub1 in SB415286-treated Hela cells and gsk3-/- MEFs in the
+presence of spindle toxins. The assembly of MCC also decreases in the
+presence of GSK3 inhibition as witnessed by decreased Mad2 associated
+with BubR1. Overexpression of GSK3β in Hela cells results in an increase
+in mitotic index compared to untransfected cells, consistent with our
+results with inhibitors and knockouts. GSK3β is a key kinase in the
+Wnt-signaling pathway, the mis-regulation of which has been associated
+with cancer. Our data shows an increase in taxol-induced mitotic arrest
+in response to WNT-C59, a compound that disrupts processing of Wnt
+ligands to inhibit Wnt signaling. This observation suggests that the
+strength of the mitotic checkpoint can be modulated by external signaling
+molecules.
+
+

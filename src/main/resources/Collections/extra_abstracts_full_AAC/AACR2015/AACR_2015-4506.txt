@@ -1,0 +1,81 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Computational-driven metronomics: application to gemcitabine in
+neuroblastoma-bearing mice
+
+
+Metronomics (i.e., repeated administration of small doses of drugs over a
+long period of time) is an attractive strategy to reduce
+treatment-related toxicities while possibly offering unexpected novel
+mechanisms of action such as anti-angiogenesis or immuno-stimulatory
+properties. Defining an optimal metronomic schedule remains uneasy
+because of the variety of possible combinations between dosing, frequency
+and duration. Our group has developed innovative modeling tools to
+optimize metronomic schedules. Here, we have used this computational
+approach to test whether metronomics gemcitabine would make better than
+standard gemcitabine in mice bearing human neuroblastoma. In silico
+simulation suggested that shifting from standard 100 mg/kg/w over 4
+consecutive weeks to the metronomic 1 mg/kg/d schedule for 28 consecutive
+days would achieve higher antitumoral efficacy while being well
+tolerated. To test this hypothesis, 100 000 human GI-ME-N neuroblastoma
+cells stably transfected with luciferase were subcutaneously grafted in
+40 nude mice. Mice were next split in 3 groups: control, 100 mg/kg/w
+gemcitabine (STD-GEM) and 1 mg/kg/d gemcitabine (MetroGem-1). An
+additional satellite group was treated with 0.5 mg/kg/d (MetroGem-0.5).
+Metro-Gem was administrated using an osmotic pump implanted
+subcutaneously. Efficacy (i.e., comparison in tumor growth) was the main
+endpoint. Pharmacokinetics, tumor inflammation, and vascular density were
+the secondary endpoints. Gemcitabine assay showed that whereas Cmax up to
+80 g/ml were reached in mice treated with STD-GEM, steady-state
+concentrations of 0.1 g/ml only were observed in animals undergoing
+MetroGem-1. Measuring cathepsin expression by fluorescence imaging
+suggested reduced inflammation in mice treated with the metronomic
+schedule. Similarly, fluorescence imaging showed smaller vascular density
+in mice treated with MetroGem-1 or -0.5 as compared with control or
+STD-GEM animals. To further check a possible anti-angiogenic effect,
+tumor perfusion rate was measuring next using luciferine, and fully
+confirmed that mice treated with Metro-Gem exhibited reduced blood flow
+as compared with other groups. Finally, bioluminescence monitoring of
+tumor growth showed that whereas STD-GEM was totally ineffective, both
+MetroGem-1 and MetroGem-0.5 achieved 60% reduction in tumor mass at the
+end of the treatment (pMetronomics (i.e., repeated administration of
+small doses of drugs over a long period of time) is an attractive
+strategy to reduce treatment-related toxicities while possibly offering
+unexpected novel mechanisms of action such as anti-angiogenesis or
+immuno-stimulatory properties. Defining an optimal metronomic schedule
+remains uneasy because of the variety of possible combinations between
+dosing, frequency and duration. Our group has developed innovative
+modeling tools to optimize metronomic schedules. Here, we have used this
+computational approach to test whether metronomics gemcitabine would make
+better than standard gemcitabine in mice bearing human neuroblastoma. In
+silico simulation suggested that shifting from standard 100 mg/kg/w over
+4 consecutive weeks to the metronomic 1 mg/kg/d schedule for 28
+consecutive days would achieve higher antitumoral efficacy while being
+well tolerated. To test this hypothesis, 100 000 human GI-ME-N
+neuroblastoma cells stably transfected with luciferase were
+subcutaneously grafted in 40 nude mice. Mice were next split in 3 groups:
+control, 100 mg/kg/w gemcitabine (STD-GEM) and 1 mg/kg/d gemcitabine
+(MetroGem-1). An additional satellite group was treated with 0.5 mg/kg/d
+(MetroGem-0.5). Metro-Gem was administrated using an osmotic pump
+implanted subcutaneously. Efficacy (i.e., comparison in tumor growth) was
+the main endpoint. Pharmacokinetics, tumor inflammation, and vascular
+density were the secondary endpoints. Gemcitabine assay showed that
+whereas Cmax up to 80 g/ml were reached in mice treated with STD-GEM,
+steady-state concentrations of 0.1 g/ml only were observed in animals
+undergoing MetroGem-1. Measuring cathepsin expression by fluorescence
+imaging suggested reduced inflammation in mice treated with the
+metronomic schedule. Similarly, fluorescence imaging showed smaller
+vascular density in mice treated with MetroGem-1 or -0.5 as compared with
+control or STD-GEM animals. To further check a possible anti-angiogenic
+effect, tumor perfusion rate was measuring next using luciferine, and
+fully confirmed that mice treated with Metro-Gem exhibited reduced blood
+flow as compared with other groups. Finally, bioluminescence monitoring
+of tumor growth showed that whereas STD-GEM was totally ineffective, both
+MetroGem-1 and MetroGem-0.5 achieved 60% reduction in tumor mass at the
+end of the treatment (p<0.05, Anova). Much interestingly, tumor growth
+with metronomics was kept under control for up to 40 days after stopping
+treatment. Overall, this study shows how computational approaches can
+help to refine and to rationalize metronomic dosing. Here, higher
+efficacy and long-lasting stabilization was achieved with metronomics.
+Impact on tumor angiogenesis could explain, at least partly, this
+increase in efficacy in a chemo-resistant model.
+

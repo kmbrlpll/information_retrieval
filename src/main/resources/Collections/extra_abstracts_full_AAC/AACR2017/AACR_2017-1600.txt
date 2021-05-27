@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Interleukin-8 (IL-8) in TGF-β immunotherapy and chemotherapies.
+
+
+Background: Increased expression of IL-8 and/or its receptors has been
+characterized in cancer cells, endothelial cells, infiltrating
+neutrophils, and tumor-associated macrophages, suggesting that IL-8 may
+function as a significant regulatory factor within the tumor
+microenvironment. OT-101 is a phosphorothioate antisense
+oligodeoxynucleotide targeting transforming growth factor-beta 2
+(TGF-β2). Herein, we examined the role of IL-8 in OT-101 treatment
+followed with chemotherapies during our Phase II trial in patients with
+advanced pancreatic cancer (PAC).
+
+Methods: Time evolution of a panel of 31 cyto-/chemokine levels in plasma
+were tracked over 3 cycles of OT-101 administration (140 mg/m2/day) for
+12 PAC patients. Samples were acquired before onset of OT-101 therapy and
+at 8 selected time points (Cycle 1 [Day 2 and 5], Cycle 2 [Days 1, 2, and
+5], Final Visit, Cycle 3 [Day 5]) during the therapy. Samples were
+measured in duplicate and concentrations were expressed in pg/mL.
+Standardized log10 transformed values calculated from the mean and
+standard deviation of each cyto-/chemokine in each patient was utilized
+in an ANCOVA model to investigate the correlation with Overall Survival
+(OS).
+
+Results: Clustering of correlation coefficients resulted in the
+identification of three highly correlated subsets of cyto-/chemokines
+(Cluster 1: EGF, MIP-1α, MIP-1β; Cluster 2: FGF-2, IL-1RA, MIG, IP-10,
+IL-15, IFN-α, IL-12A/IL-12; Cluster 3: HGF, IL-2R, IL-6, IL-8).
+Protein-Protein Interaction networks constructed using STRING10 algorithm
+identified a relationship between IL-8 and TGFβR2 inhibition. The ANCOVA
+model explained a significant proportion of the observed data for Cycle
+1[Day 2] measurements of cyto-/chemokines (R2 = 0.3, F59,217 = 1.575, P =
+0.0103). Other time points did not exhibit a significant model fit or
+significant relationships in the interaction term. IL-8 expression showed
+significant association with OS (positive association, N=12, T-value =
+2.92, P = 0.0039) at Cycle 1[Day 2] measurements (7% False Discovery
+Rate). Linear regression of the increase in IL-8 levels during Cycle
+1[Day 2] treatment with OT-101 was related to an increase in OS outcome
+(R2 = 0.54). To further define the appropriate chemoagent to combine with
+OT-101, we evaluated paclitaxel (PTX), gemcitabine (GEM), and dacarbazine
+(DTIC) in animal model. Synergy was observed with PTX and DTIC, but not
+with GEM. Both PTX and DTIC induced IL-8 expression whereas,
+surprisingly, GEM reduced IL-8 expression.
+
+Conclusion: IL-8 expression during early phase of OT-101 treatment cycle
+was positively associated with OS across 12 patients. IL-8 is also
+induced by PTX and DTIC which synergized with OT-101. The data suggests
+that PAC and DTIC are acting on the same target as our TGF-β2 inhibitor;
+and potentially, the beneficial effect of these chemoagents is a result
+of chemoagent-induced immune/IL-8 response.
+
+

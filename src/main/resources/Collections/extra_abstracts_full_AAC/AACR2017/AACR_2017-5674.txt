@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Cancer immunogenomics for the development of personalized ovarian
+cancer vaccine.
+
+
+Ovarian cancer (OC) is the fifth leading cause of cancer death in the
+United States with approximately 20,000 women being diagnosed every year.
+Since OC development is mainly asymptomatic, patients are often diagnosed
+at late stage and present local and distal metastases. This offers a
+clinical challenge, as roughly 70% of the patients develop chemoresistant
+disease. With the advent of cancer immunogenomics it is now possible to
+identify tumor specific mutations, or neoantigens/neoepitopes, that can
+be exploited for the development of personalized T cell therapies via DC
+vaccines or adoptive cell therapy (ACT). We therefore hypothesize that
+tumor cells isolated from malignant ascites reflect the genomic landscape
+of the primary tumor, offering a unique opportunity to identify
+clinically actionable tumor neoantigens. We utilized primary tumor, tumor
+cells isolated from malignant ascites and metastatic samples to create
+patient-derived xenografts (PDX) mice and to interrogate the tumor
+mutational landscape. Somatic mutations were identified by whole exome
+sequencing (WES) and RNASeq analysis in tumor samples, using PBMCs as
+germline control. In parallel 20 PDX of ovarian cancer were established
+in NSG mice by injecting 2×106 cells/mouse subcutaneously (SQ, n=10) and
+intraperitoneally (IP, n=10). Tumor growth was monitored weekly via
+caliper measurement for mice injected SQ and via abdominal circumference
+for mice injected IP. Mutational analysis and prediction of high affinity
+peptides was done using bioinformatics approach. We have utilized
+different algorithms that are based on Artificial Neural Networks or
+published motifs for predicting binding of 8-11 mer peptides to number of
+Human MHC alleles (HLA) and out of 168 mutated peptides identified, 30
+were found to have high affinity for different HLAs compared to wild type
+peptide. Mutated and wild type peptides were pulsed into dendritic cells
+and co-cultured with CD8+ T cells for 20 days. Validation of stimulated
+CD8+ T cells by these mutated peptides using ELISPOT is underway. TCR
+specific for neoantigen from CD8+T cells will be identified and cloned
+using retroviral vectors. Transfected CD8+ T cells with neoantigen
+specific TCR will be confirmed by co-culturing them with dendritic cells
+pulsed with wild type and mutated peptides. Further engineered CD8+ T
+cells specific for neoantigens will be tested for adoptive cell therapy
+in the established PDX models of ovarian cancer.
+
+

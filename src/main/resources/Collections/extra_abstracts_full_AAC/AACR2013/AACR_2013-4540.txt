@@ -1,0 +1,40 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Development of a biochemical High Throughput Screening (HTS) assay
+for chemical inhibitors of MALT1, a target for lymphoma therapeutics.
+
+
+MALT1 plays critical role in antigen receptor-mediated lymphocyte
+activation and lymphomagenesis. MALT1 acts both as a scaffold protein to
+recruit upstream signal transducers and as an intracellular cysteine
+protease with proteolytic activity that cleaves substrate proteins
+involved in NF-kB induction. Dysregulation of MALT1 activity occurs in
+lymphoma as a result of chromosomal translocations that fuse the
+catalytic domain of MALT1 with portions of BirC3 (c-IAP2). Previous
+studies have shown that MALT1s proteolytic activity is required for its
+participation in NF-kB induction and for promoting cell viability of
+certain types of lymphomas, particularly the activated B-cell (ABC) type
+of diffuse large B-cell lymphoma.To lay a foundation for discovery of
+drug-like chemical inhibitors of MALT1, we developed a
+fluorescence-based, biochemical assay for measuring protease activity of
+MALT1 in vitro in 384 and 1,536 well formats. The assay components
+included recombinant purified full-length MALT1 protein, the
+MALT1-binding protein, Bcl-10, and the fluorigenic substrate Ac-LRSR-AMC
+(Ac-Leu-Arg-Ser-Arg-7-amino-4-methylcoumarin). Experiments showed that
+addition of Bcl-10 increases MALT1s protease activity up to 20-40 fold.
+The high throughput screening (HTS) assay was validated with excellent Z
+factors (>0.7) in both 384 and 1,536 well formats, with performance
+remaining robust for more than 6 hours, and thus suitable for screening
+of large chemical libraries. The HTS assay was validated by performing
+pilot screens with two small collections of compounds enriched in
+bioactive molecules (n = 1280 for LopacTM and 2000 for SpectrumTM
+library), yielding confirmed hit rates of 0.2 % and 0.7%, respectively.
+Counter-screening assays were also generated using other types of
+intracellular cysteine proteases, specifically Caspase-3 and Autophagin-1
+(ATG4B), for eliminating non-specific inhibitors. Various supporting
+cell-based assays have also been generated to support hit
+characterization. In conclusion, we have generated a robust biochemical
+HTS assays for detection of chemical inhibitors of the MALT1 protease. We
+plan to utilize the HTS assay for screening large compound libraries as a
+starting point for discovery of novel therapeutics for treatment of
+lymphoma, autoimmunity, and allograft rejection.
+

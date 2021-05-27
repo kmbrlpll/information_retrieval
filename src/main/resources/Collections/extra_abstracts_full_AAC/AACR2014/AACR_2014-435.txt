@@ -1,0 +1,44 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Is PYGM dysregulation involved in breast cancer cell metabolism
+
+
+Many anticancer targets with role in drug resistance are involved in key
+metabolic processes. In recent years, the interest in targeting cell
+metabolism and metabolic pathways connected to energy storage and redox
+potential has been renewed. Comparative analyses of paired samples of
+tumor cells and corresponding normal tissue can reveal the altered
+metabolite profiles and can increase the understanding of metabolic
+involvement in cancer progression.By applying whole exome sequencing on
+eight pairs of pleiomorphic lobular carcinoma frozen samples, an
+aggressive breast cancer subtype, and matched normal tissue, we recently
+identified recurrent somatic mutations in four genes. Three of these
+genes are already described to be implicated in breast cancer (PIK3CA,
+TP53 and CDH1), and one novel mutated gene was identified: PYGM which
+encodes for glycogen phosphorylase firstly isolated from muscular tissue.
+Targeted sequencing performed on 27 pleiomorphic lobular carcinoma
+samples confirmed PYGM as a frequently mutated gene in this pathology
+(30%). Subsequent analysis of the breast gene expression TCGA dataset
+uncovered that PYGM is significantly downregulated in breast cancer
+samples compared to normal breast tissue, irrespectively of the breast
+cancer molecular subtype. The same trend was observed in other cancer
+types, such as colon, bladder or head and neck carcinoma, after analysis
+of publicly available gene expression databases. PYGM is expressed in
+many other cell types and initiates the breakdown of glycogen by
+degradation in glucose-1-phosphate, which can be enzymatically converted
+to glucose-6-phosphate. This generates an alternative cellular energy
+source to immediate ATP. In muscle cells, various mutations impairing
+PYGM activity lead to McArdle disease (autosomic recessive glycogen
+storage disease type V) which is characterized by exercise intolerance,
+pain, muscle weakness, and cramps. In cancer cells, some few
+abnormalities of PYGM have been reported. We thus investigated the
+potential dysregulation of PYGM expression and/or function in breast
+cancer and its consequences on cell metabolism. We found that PYGM
+expression is downregulated in breast cancer tissue compared to paired
+normal tissue. In order to analyze the role of PYGM in preclinical
+models, we established new breast cancer cell lines overexpressing PYGM.
+Biochemical and molecular analyses are ongoing to investigate cell
+behavior according to PYGM expression level in various culture conditions
+and will inform us about a potential efficacy of PYGM targeting in new
+therapy development based on metabolic biomarkers applied to breast
+cancer treatment.
+

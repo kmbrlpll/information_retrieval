@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Evaluating the contribution of heterogeneity and the tumor
+microenvironment in companion diagnostic approaches
+
+
+As our understanding of the factors which affect efficacy of a targeted
+therapy increases, the reliance on histopathological analysis of a
+biomarker has also increased. This is often due to the necessity to weigh
+the critical factors of a target or biomarker protein in tissue and
+cellular context. Currently, histopathologic assessment of tumors which
+aims to project patient clinical outcome utilize drug target response
+factors, such as relative expression of the drug target of the drug
+target or a resistance mechanism in the target (tumor) cells or the tumor
+microenvironment (TME ). Multiple studies have also shown that TME
+factors such as inflammatory cell content can be prognostic and
+predictive. For example, adding the Immunoscore assessment to the TNM
+classification systems improves the accuracy of disease prognosis. This
+correlation has led to the concept of predictive immunoprofiling, which
+uses an individual's immune system profile to predict that patient's
+response to immunomodulating antibody therapy. For these reasons, it is
+critical to evaluate the drug target or biomarker in conjunction with TME
+features when defining a patient selection strategy.Critical factors such
+as tissue and/or cellular compartmentalization and tumor heterogeneity
+direct the interpretation of these measures and their predictive value.
+To address the need for careful, contextual interpretation of
+histopathological evaluations, Flagship has built CellMap image analysis
+algorithms to directly measure heterogeneity and the TME components in a
+whole tissue section. These approaches allow biomarker interpretation in
+the complex context of spatial, architectural, and morphological
+information to aid histological definition and quantification. In this
+study, we utilized a cohort of specimens from 20 colorectal cancer (CRC)
+patients and immunologically stained them in order to visualize c-Met, as
+a characteristic and biologically relevant therapy target; and CD3+ and
+CD8+ to visualize the inflammatory cell environment. Using these
+immunohistochemical markers as a prototype for a simultaneous evaluation
+of a molecular target and the TME, we characterized the biomarker and
+inflammatory content in both the tumor and stroma using our CellMap image
+analysis algorithms. This provided detailed accounting of the molecular
+target profile (tumor vs stroma; membrane vs cytoplasm vs nucleus), and
+the immunoprofile, which allowed us to quantitatively describe and
+associate these features relative to each other in the context of
+heterogeneity. This data demonstrated discrete patterns of association
+between c-met and the TME, serving as a potentially critical measure
+which reflects a biological process relevant to disease outcome. These
+studies demonstrate novel tools which can assess both the prognostic and
+predictive value of key measurements which reflect complex tumor biology.
+

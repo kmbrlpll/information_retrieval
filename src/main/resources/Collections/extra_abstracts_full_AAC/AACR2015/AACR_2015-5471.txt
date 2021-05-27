@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identification of OAT1/OAT3 as contributors to cisplatin
+nephrotoxicity
+
+
+Cisplatin is among the most widely used anticancer drugs and known to
+cause dose-limiting nephrotoxicity. We previously reported that renal
+organic cation transporters (OCT2 in humans, Oct1/Oct2 in mice) are
+involved in the etiology of this side effect (Filipski et al, CPT 2009),
+but the tubular damage is not completely abolished in mice deficient of
+Oct1 and Oct2 (Sprowl et al, CCR 2014). Since probenecid and furosemide,
+inhibitors of organic anion transporters OAT1 and OAT3, are known to
+provide partial protection against cisplatin nephrotoxicity in mice, we
+evaluated the comparative excretion and nephrotoxicity of cisplatin in
+mice with and without the Oat1 [Oat1(-/-) mice] and Oat3 genes [Oat3(-/-)
+mice]. Following a single cisplatin dose of 30 mg/kg, we found that the
+rate and extent of the cumulative percentage of the dose recovered in
+urine was impaired in Oat-deficient mice compared with age-matched
+wild-type mice. Blood urea nitrogen and creatinine, markers of acute
+renal tubular necrosis, were significantly increased within 3 days after
+cisplatin administration in wild-type mice but not in Oat1(-/-) or
+Oat3(-/-) mice. The lesions were characterized by dilated tubules filled
+with necrotic tubular epithelial cells, cellular debris and proteinaceous
+casts, whereas the glomeruli, which do not express Oat1 or Oat3, were
+histologically normal. Previous studies have indicated that OAT1 and OAT3
+can transport mercapturic acids, negatively charged N-acetylcysteine
+S-conjugates formed from the coupling of cysteine with endogenous or
+exogenous compounds. The existence of a mercapturic acid metabolite of
+cisplatin (NAC-1) that acts as a precursor of a nephrotoxic and reactive
+thiol led to our hypothesis that this conjugate might be a transported
+substrate of OAT1 and/or OAT3 and is responsible for the OCT2-independent
+mechanism leading to renal injury. To obtain support for this mechanism,
+we confirmed that NAC-1 preferentially accumulates in HEK293 cells
+engineered to overexpress OAT1 or OAT3 compared with control cells and
+that this process is sensitive to inhibition by probenecid. Based on the
+ability of several tyrosine kinase inhibitors (TKIs) to potently inhibit
+several transporters of the SLC22A family, including OCT2 (Sprowl et al,
+ENA 2012), we next evaluated the possibility that some of these same
+agents may also affect OAT1 and/or OAT3 function in vitro using the
+prototypical substrates p-aminohippuric acid and estrone-3-sulfate,
+respectively. Of 23 TKIs evaluated, we found that only nilotinib was able
+to potently inhibit OCT2, OAT1, and OAT3, without being itself a
+transported substrate and without influencing cisplatin plasma levels and
+cytotoxicity against cancer cell lines with detectable levels of OCT2.
+Collectively, this study identified OAT1/OAT3 as a modulator of cisplatin
+toxicity, and we expect that nilotinib could be exploited as a
+transporter inhibitor to alleviate these side effects.
+

@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Cell lineage-oriented clinical sequencing unveils distinct clonal
+ontogeny of acute myeloid leukemia with myelodysplasia-related changes.
+
+
+Acute myeloid leukemia (AML) is characterized by unregulated clonal
+expansion and maturation arrest of myeloid committed progenitors (MP).
+AML generally represents de novo onset or evolves from preceding
+myelodysplastic syndrome (MDS), which is defined by refractory
+cytopenias, clonal hematopoiesis, and/or multi-lineage dysplasia. The WHO
+classification 2008 includes this entity as “AML with
+myelodysplasia-related changes (AML-MRC)”, and currently, diagnosis of
+AML-MRC is based on either previous history of MDS, multi-lineage
+dysplasia, or MDS-related cytogenetic abnormality. However, AML-MRC often
+represents de novo onset without these MDS-compatible clinical features.
+Considering that AML-MRC exhibits rather poor prognosis with
+refractoriness to conventional chemotherapy against AML, more accurate
+and objective diagnostic approach is requisite to unveil hidden “MDS
+signatures” in patients with apparently de novo AML. A certain set of
+gene mutations is specific and recurrent in MDS. Given the pre-existing
+“MDS signatures”, the founder gene mutations might be detected in not
+only blast cells but also neutrophils and/or T cells in AML-MRC. To test
+this hypothesis, we performed FACS sorting of neutrophils, T cells, and
+blasts fractions, respectively, followed by mutation screening using
+targeted deep sequencing, namely, cell lineage-oriented sequencing (CLS).
+Genomic DNA both from each cell fraction and buccal swab was subjected to
+screening mutations in 54 genes which are tightly involved in MDS and
+AML. Pair-end deep sequencing was performed on an Illumina MiSeq, using
+library prepared by TruSight Myeloid Panel (Illumina, San Diego, CA).
+Bioinformatic analysis was performed by in-house pipeline. We performed
+CLS of clinically diagnosed AML-MRC (n=7), suspected AML-MRC (n=2), de
+novo AML (AML with t(15;17) or AML with inv16, n=4), MDS (RAEB-1 and
+RAEB-II, n=3), and familial MDS (n=1). As expected, in a familial MDS
+case, overlapping germline RUNX1 driver mutation was demonstrated in
+granulocytes, blast cells and T cells, supporting that it would be
+originated from a hematopoietic stem cell. Notably, in MDS, AML-MRC, and
+suspected AML-MRC cases with no germ-line mutations, the founder
+mutations present in neutrophils were also retained in the AML blast
+cells, irrespective of a history of MDS, suggesting that these are
+derived from a myeloid progenitor cell. In marked contrast, there were no
+overlapping driver mutations between blast cell and neutrophil fractions
+in de novo AML characterized by recurrent chromosomal abnormalities. In
+summary, CLS revealed that founder mutations are shared by neutrophils
+and AML blast cells in AML-MRC, but not in de novo AML. Although our data
+should be validated in a larger cohort of AML cases, CLS is a promising
+approach to molecular diagnosis of latent AML-MRC which require distinct
+therapeutic options from de novo AML.
+
+

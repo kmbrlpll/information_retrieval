@@ -1,0 +1,55 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Exome sequencing of refractory diffuse large B-cell lymphomas
+highlights candidate genes for targeted resequencing
+
+
+As the most common lymphoid malignancy, Diffuse Large B-Cell Lymphoma
+(DLBCL) has largely benefited from immunochemotherapy combinations
+developed in the past decade. However 30% to 40% of patients still do not
+respond to treatment, or relapse in a few months. The mechanisms involved
+in short term treatment failure are poorly understood, and biomarkers to
+predict refractoriness in newly diagnosed patients are still lacking.To
+address this issue, 14 normal / tumoral pairs of exomes from patients who
+progressed or relapsed within 12 months were sequenced on a HiSeq2500
+platform. Somatic events were called using VarScan2, and significantly
+mutated pathways were highlighted by PathScan (False Discovery Rate, FDR
+As the most common lymphoid malignancy, Diffuse Large B-Cell Lymphoma
+(DLBCL) has largely benefited from immunochemotherapy combinations
+developed in the past decade. However 30% to 40% of patients still do not
+respond to treatment, or relapse in a few months. The mechanisms involved
+in short term treatment failure are poorly understood, and biomarkers to
+predict refractoriness in newly diagnosed patients are still lacking.To
+address this issue, 14 normal / tumoral pairs of exomes from patients who
+progressed or relapsed within 12 months were sequenced on a HiSeq2500
+platform. Somatic events were called using VarScan2, and significantly
+mutated pathways were highlighted by PathScan (False Discovery Rate, FDR
+< 0.001). Genes from 175 pathways were found to be more mutated than
+expected according to the background mutation rate observed throughout
+the exomes (2.68 non synonymous mutations per megabase, ranging from 0.69
+to 4.66), including genes encoding histone monomers (HIST1H1/2) and
+transcription regulators (CREBBP, EP300, TP53), members and relatives of
+the NFKB signaling pathway (MYD88, TNFAIP3, NFKBIA/E), or other signaling
+cascades (IRF4, CIITA, SOCS1).To pinpoint genes and pathways unusually
+enriched in such refractory patients, a published series of 39 DLBCL
+genome pairs was used (Morin et al, Blood 2013). Variant annotation and
+filtering was reapplied to enforce target region consistency, and Fisher
+tests were conducted independently in the two series. 22 of the 175
+pathways selected by PathScan were found to be enriched in refractory
+patients (FDR 0.5). One of the most relevant was IL4 mediated signaling
+events, which includes genes such as STAT6, IRF4 or SOCS1.These 3 genes,
+along with 31 other genes frequently mutated in DLBCL, were sequenced in
+a series of 216 DLBCLs with an orthogonal method (PGM sequencer).
+Although the survival impact of IL4 related gene mutations could not be
+confirmed, their prevalence (17.5%) was far above what was previously
+described in DLBCL. Molecular profiling by Affymetrix U133+2 arrays
+revealed a strong association with the Primary Mediastinal B-Cell
+lymphoma (PMBL) subtype (Fisher p = 5e-10), a molecular subtype observed
+in 4/14 and 22/216 patients of the refractory and extended series
+respectively.We propose here an exhaustive description of mutations found
+in 14 exomes from refractory DLBCL patients, compared to 39 previously
+published genomes. The extension to 216 patients enrolled in the LNH03
+LYSA (LYmphoma Study Association) clinical trial program using targeted
+resequencing and transcriptomic arrays allowed us to refine these
+results, and highlight the high prevalence of somatic mutations in IL4
+signaling related genes in PMBLs.
+

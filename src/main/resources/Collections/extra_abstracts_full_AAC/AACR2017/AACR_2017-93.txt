@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Transcriptional control of glucocorticoid responses in leukemia.
+
+
+Glucocorticoids (GCs) are central to all major therapy regimens for pre-B
+cell-derived acute lymphoblastic leukemia (ALL), but have no activity in
+myeloid leukemia. Such divergent responses represent an empirically
+established clinical standard; however, neither the mechanism by which
+GCs induce cell death nor the biological basis for the distinct responses
+in B-cell and myeloid leukemias is clear. Studying patient-derived
+samples revealed that NR3C1 (glucocorticoid receptor) levels were 6- to
+20-fold higher in pre-B ALL compared to chronic myeloid leukemia (CML).
+High levels of Nr3c1 were reduced upon B- to myeloid-lineage conversion,
+suggesting that regulation of NR3C1 expression and GC responsiveness
+depend on a B-cell transcriptional program. B-cell transcription factors
+(e.g. PAX5, IKZF1) are critical for B-cell development, yet they are
+genetically lesioned in more than 80% of pre-B ALL cases. Despite such
+high frequency, the significance of these inactivating lesions remains
+elusive. Combining ChIP-seq and RNA-seq analyses, we identified a novel
+B-cell transcriptional program for activation of NR3C1 and its
+transcriptional target TXNIP (a negative regulator of glucose uptake).
+Reconstitution of PAX5 or IKZF1 expression in haploinsufficient
+patient-derived pre-B ALL cells increased NR3C1 and TXNIP levels.
+Conversely, expression of dominant negative mutant of PAX5 or IKZF1
+abolished NR3C1 expression. Loss of Nr3c1 or Txnip in murine
+BCR-ABL1-driven pre-B ALL cells resulted in survival advantage in
+competitive growth assays. Importantly, loss of Nr3c1 or Txnip
+significantly elevated glucose uptake, lactate production and cellular
+ATP levels. These findings suggest that GCs induce cell death by
+exacerbating glucose and energy depletion. Notably, reconstitution of
+PAX5 or IKZF1 rendered haploinsufficient patient-derived pre-B ALL cells
+more sensitive to dexamethasone (dex) treatment. In contrast,
+dominant-negative PAX5 or IKZF1 largely de-sensitized pre-B ALL cells
+expressing wildtype PAX5 or IKZF1. These findings suggest that B-cell
+transcription factors set the threshold for GC responsiveness in pre-B
+ALL. Since relapsed ALL cells often acquire GC resistance,
+drug-combinations may be useful to prevent GC-resistance. As expected,
+loss of Nr3c1 abrogated responses to GCs. Interestingly, loss of Txnip
+also largely rescued GC-induced cell death in pre-B ALL cells. On this
+basis, we tested drug interactions between GCs and TXNIP agonists,
+3-O-methylglucose (3-OMG) and D-allose. Treating patient-derived
+GC-refractory pre-B ALL cells with 3-OMG or D-allose strongly synergized
+with GC-treatment. Collectively, our findings provide a mechanistic
+explanation for the empiric finding that GCs are effective in the
+treatment of B-cell but not myeloid malignancies, and identify TXNIP as a
+novel therapeutic target in pre-B ALL.
+
+

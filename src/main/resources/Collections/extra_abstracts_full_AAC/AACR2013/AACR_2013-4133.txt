@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Comparison of qNPA vs qPCR on FFPE tissue.
+
+
+Accurate, sensitive and robust multiplexed measurements of gene
+expression from formalin fixed paraffin embedded (FFPE) tissue or
+paraformaldehyde fixed samples are ideally required for clinical
+diagnostic tests and retrospective analysis of archived samples. We
+evaluated the measurement of gene expression from FFPE tissues using HTG
+Molecular's qNPA assay and made comparisons to qPCR. The results show
+that qNPA provides a highly sensitive, accurate, quantitative, and
+robustly reliable automated multiplexed assay of gene expression from
+FFPE, permitting the rapid development and launch of new diagnostic and
+research assays. qNPA uses a lysis-only, extraction-free protocol which
+measures up to 47 genes/sample. In contrast, qPCR requires RNA
+extraction/reverse transcription. Accuracy was determined by correlating
+measurements from matched frozen and fixed samples, determining the R2
+correlation coefficient. Comparing frozen/FFPE cell pellets qNPA R2 =
+0.97. Comparing frozen/FFPE pancreas tissue qNPA R2= 0.97 with a present
+call rate of 91%, compared to qPCR R2= 0.86 and a present call rate of
+just 17%, even using 26 times more FFPE sample amount than qNPA.
+Comparing fresh/paraformaldehyde fixed Islet cells, qNPA R2= 0.98, qPCR
+R2= 0.02, after staining for sorting by cytometry qNPA R2= 0.96, qPCR R2=
+0.12. Thus, qNPA fixed tissue measurements were much more accurate than
+qPCR. In an additional comparison using matched breast cancer frozen
+compared with FFPE samples, qNPA measurements averaged R2=0.81, with 6%
+CV for triplicate measurements of separately processed samples. For >95%
+of genes the expression levels measured by qNPA were independent of cold
+ischemic times of 0 to 16 hr. Measured levels are also independent of
+fixation from 4 to 72 hr. The robust performance of qNPA measurements
+from FFPE translated into quantitative consistency that has previously
+not been achievable using qPCR. Data from clinical FFPE samples submitted
+by a large number of HTG's clients was reviewed and for each set the
+number of samples tested, the average area tested/sample (cm2 area of a 5
+micron thick section), the failure rate (FR), and the avg reproducibility
+(%CV for samples independently processed in triplicate) was determined
+for breast FFPE (300 samples, 0.3 cm2/sample, 1% FR, 10.5%CV), lung FFPE
+(700 samples, 0.3 cm2/sample, 0.5% FR, 9.5%CV), prostate FFPE (15
+samples, 0.3 cm2/sample, 0% FR, 11%CV), colon FFPE (15 samples, 0.3
+cm2/sample, 0% FR, 9%CV), ovary FFPE (15 samples, 0.3 cm2/sample, 0% FR,
+10%CV) and lymphoma FFPE (300 samples, 0.3 cm2/sample, 0.5% FR, 8%CV).
+Thus, qNPA provides a highly accurate, reproducible, robust multiplexed
+measurement of gene expression from FFPE tissue that is not affected by
+wide variations in ischemic or fixation time. Fully automated qNPA on the
+EDGE platform is expected in Jan 2013. This system, with a turn-around
+time of less than 24 hours, will improve even further the robustness of
+extraction-free gene expression.
+

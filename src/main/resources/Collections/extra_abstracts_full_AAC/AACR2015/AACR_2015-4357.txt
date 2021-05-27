@@ -1,0 +1,42 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Key differences revealed in NSD2 kinetics using truncated versus
+full-length protein
+
+
+Histone lysine methyltransferases (HKMTs) are a class of enzymes that
+transfer a methyl group from S-adenosyl-L-methionine (SAM) to lysine
+residues on histone tails. The nuclear receptor SET domain-containing
+(NSD) family of proteins is known to methylate lysine 36 of histone H3
+(H3K36). Abnormal methylation at H3K36 has been widely implicated in a
+variety of cancers and diseases, therefore, the enzymes responsible for
+this posttranslational modification are of interest from a drug-discovery
+standpoint. NSD2 (MMSET/WHSC1), a representative of this family, was
+found to be highly expressed in a multitude of human tumors and has been
+directly linked to multiple myeloma and Wolf-Hirschhorn syndrome. The
+chromosomal translocation t(4:14)(p16;q32) that occurs in 15% of myeloma
+patients is associated with both increased production of NSD2 and poor
+prognosis while loss of the NSD2 gene at the 4p16.3 region results in
+Wolf-Hirschhorn syndrome. In order to better understand the
+multi-dimensional nature of NSD2, full-length and truncated versions of
+the protein were generated to evaluate NSD2 kinetics. The biochemical
+activity of each NSD2 construct was assessed using (1) a radioactive
+assay measuring 3H transfer from SAM to the histone substrate or (2)
+LC-MS/MS analysis of the NSD2-dependent product. Full-length NSD2 prefers
+a nucleosomal substrate; whereas, C-terminal truncation of a highly
+charged region (AA 12-14-1240) resulted in a loss of nucleosomal activity
+and a gain of activity using a peptide derived from Histone H3.
+Additionally, LC-MS/MS mapping revealed a shift in the methylation site
+from H3K36 to H3K18 when using the truncated system. More detailed
+kinetic analysis revealed that the FL/nucleosome reaction catalyzes
+processive methylation while truncated NSD2 methylates the peptide
+distributively. Lastly, key changes in inhibitor specificity were
+observed. An alternative C terminal region, residues 1341-1365, was
+required to maintain potency of the product inhibitor SAH but not the
+close analog sinefungin. This may be indicative of the ping-pong kinetics
+proposed for FL NSD2 implying that SAH targets the NSD2-nucleosome bound
+form of the enzyme (UC vs. nucleosome) while sinefungin does not (NC vs.
+nucleosome). While a truncated NSD2/peptide system would be much easier
+to screen, profile and characterize in the search for inhibitors, the
+results found herein indicate that screening a full-length
+NSD2/nucleosome system may be more physiologically relevant.
+

@@ -1,0 +1,71 @@
+Meeting: 2017 AACR Annual Meeting
+Title: PANCeq - Development and validation of a targeted sequencing assay
+for detection of mutations and copy number changes in most recurrently
+mutated driver genes.
+
+
+Next generation sequencing is becoming increasingly prevalent as a tool
+for the identification of genetic variation to aid diagnosis and support
+therapy decisions in routine clinical care. It has been shown that tumors
+are comprised of subpopulations of cells with distinct genomic
+alterations, and hence tumor heterogeneity is becoming an important
+factor in deciding treatment. Deep sequencing of tumor samples allows for
+the determination of number and proportions of low variant allele
+frequency tumor subclones. Currently, high costs for whole-exome deep
+sequencing (> 250X) limit its application in routine clinical care, and
+there is a need for more affordable targeted approaches. Here we present
+PAN Cancer Sequencing (PANCeq), a targeted deep sequencing panel for the
+detection of mutations and copy number variants (CNVs) in most
+recurrently mutated cancer driver genes. A platform-independent
+computational Docker-based pipeline for data analysis and automatic
+report generation was developed. PANCeq uses customized targeted
+enrichment, followed by next-generation sequencing of (FFPE) tumor and
+matched germline samples.
+
+We included 12 patient samples (breast, ovarian, kidney and prostate) as
+well as triplicates of 3 reference standards (HD200, HD753, HD733 -
+Horizon). These were sequenced on Illumina NextSeq o an average depth of
+1000X. Sequencing data was aligned using BWA to hg19 human reference.
+Somatic variants and CNVs were identified using VarDict and CNVkit
+respectively.
+
+We mined TCGA data across 26 tumor types, and selected known mutations
+from the most recurrently mutated genes, yielding 2849 mutations across
+467 genes. In addition, we included 79 pharmacogenomic relevant and 218
+sample tracking SNPs as well as 80 cancer relevant CNVs (whole exon), and
+designed a custom panel based on their genomic locations, resulting in a
+panel size of 708kb. To assess performance, we sequenced reference
+standards with known variants spiked-in at varying VAF (1 - 41.5%).
+Somatic variant calling was performed against a wildtype sample. For
+HD200, out of 21 covered mutations, 14 were correctly classified as
+germline, and 7 as somatic. For HD733, out of 21 mutations, 3 were
+correctly identified as germline, 18 as somatic. For HD753, all 6
+germline and somatic mutations were correctly identified. The 2 CNVs
+spiked-in were also correctly identified. In all cases we found a good
+agreement between observed and expected VAF. Somatic variant results for
+12 patient samples were compared with variants reported by a private
+vendor. While we found good agreement at VAF > 20%, our panel detected on
+average 7 additional clinically relevant mutations at We mined TCGA data
+across 26 tumor types, and selected known mutations from the most
+recurrently mutated genes, yielding 2849 mutations across 467 genes. In
+addition, we included 79 pharmacogenomic relevant and 218 sample tracking
+SNPs as well as 80 cancer relevant CNVs (whole exon), and designed a
+custom panel based on their genomic locations, resulting in a panel size
+of 708kb. To assess performance, we sequenced reference standards with
+known variants spiked-in at varying VAF (1 - 41.5%). Somatic variant
+calling was performed against a wildtype sample. For HD200, out of 21
+covered mutations, 14 were correctly classified as germline, and 7 as
+somatic. For HD733, out of 21 mutations, 3 were correctly identified as
+germline, 18 as somatic. For HD753, all 6 germline and somatic mutations
+were correctly identified. The 2 CNVs spiked-in were also correctly
+identified. In all cases we found a good agreement between observed and
+expected VAF. Somatic variant results for 12 patient samples were
+compared with variants reported by a private vendor. While we found good
+agreement at VAF > 20%, our panel detected on average 7 additional
+clinically relevant mutations at < 20%.
+
+We demonstrate that PANCeq is an accurate and sensitive method for timely
+identification of clinically actionable mutations and copy number
+variations across multiple cancer types.
+
+

@@ -1,0 +1,42 @@
+Meeting: 2013 AACR Annual Meeting
+Title: The human mammary circadian transcriptome.
+
+
+The circadian rhythm, a phenomenon present in all of Eukaryota and in
+some members of Prokaryota, describes the processes within an organism
+that fluctuate throughout a daily cycle. Within peripheral tissues, clock
+gene expression is organized into a roughly 24-hour period by an
+elaborate feedback loop mechanism developed around a core set of
+circadian genes. In addition to maintaining rhythmicity within the
+molecular clock, key circadian genes such as CLOCK and ARNTL1 are also
+transcription factors that regulate the expression of a number of
+additional transcripts; the so-called clock-controlled genes (CCGs). This
+transcriptional control forms the backbone of circadian rhythmicity and
+is critical for the maintenance of proper cellular function in a variety
+of physiological processes, ranging from cell cycle regulation to
+cellular metabolism. Despite the importance of this regulatory clockwork
+system, little is known about the extent of molecular circadian control
+in human peripheral tissues. In fact, the majority of our knowledge of
+molecular oscillatory systems is derived from studies of model organisms
+which consistently demonstrate that outside of the core circadian genes;
+there is virtually no overlap in the compendium of CCGs across tissue
+types. Based on this critical observation, it is reasonable to expect
+that if CCGs vary considerably across tissues within the same organism,
+there may also be considerable heterogeneity across organisms, even
+within the same tissue type. Here we use next-generation sequencing
+analyses to provide the first circadian transcriptome in pre-stasis
+non-immortalized primary human mammary epithelial tissue. Using the
+non-parametric JTK_CYCLE algorithm, we found that approximately 6% of all
+expressed genes within this tissue are CCGs. We also find considerable
+evidence for circadian control in RNA processing events, including splice
+isoform usage and alternative polyadenylation, and a pathway analysis of
+all CCGs indicates circadian involvement in multiple signaling and growth
+pathways. These results demonstrate, for the first time, that a
+significant and important proportion of the human mammary transcriptome
+is regulated by the circadian system. Given the importance of circadian
+disruption in the pathophysiology of a range of human disorders, from
+metabolic disease to breast cancer, we believe that categorization of the
+circadian rhythm in human peripheral tissue will lay an important
+foundation for future breakthroughs in disease prevention, as well as in
+the development of novel therapeutic strategies.
+

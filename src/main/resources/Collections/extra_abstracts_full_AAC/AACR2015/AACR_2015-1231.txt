@@ -1,0 +1,41 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Live cell and in vitro analysis of p53 interactions
+
+
+Dysregulation of protein-protein interactions between the tumor
+suppressor p53 and its binding partners is implicated in the pathogenesis
+of various cancers. Here we describe several novel assays for analysis of
+p53 interactions and their inhibitors both in live mammalian cells and in
+vitro.To evaluate putative inhibitors of protein-protein interactions
+between p53 and its negative regulators Mdm2 and Mdm4, we recently
+developed two comparative live-cell Fluorescent-Two Hybrid (F2H) assays.
+The F2H principle is based on a tethering strategy: the GFP-tagged
+protein (here p53) is enriched at the protein interaction platform of the
+engineered F2H-BHK cells and serves as bait, whereas the RFP-tagged
+protein serves as a prey (here Mdm2 or Mdm4). By performing p53:Mdm2 and
+p53:Mdm4 F2H assays side-by-side, we could evaluate the dual inhibitory
+activity of the previously published stapled peptides. Furthermore, since
+F2H allows visualization of the dynamics of protein-protein interactions,
+we could compare the compound's kinetics with real-time imaging. We
+performed a mutant analysis with F2H and showed that several
+Nutlin-resistant mutants of Mdm2 are sensitive to inhibition with stapled
+peptides sMTide-02 and sMTide-02a.For in vitro validation of p53
+interactions, we developed novel p53 immunoprecipitation reagents. We
+employed the single-domain antibody technology in conjunction with phage
+display to isolate two specific anti-p53 VHHs (also termed nanobodies)
+from immunized alpacas. When conjugated to agarose beads, these VHHs
+serve as highly efficient pull-down reagents (p53-Traps), specific
+exclusively against N- and C-terminus of p53 respectively. Using both
+p53-Traps, we could confirm our F2H results in immunoprecipitation
+followed by Western blotting. Furthermore, p53-Traps enabled us to extend
+our analysis of the p53 interaction network and evaluate interactions
+between the p53 isoforms.Taken together, we developed a toolbox for
+analysis of p53 interactions both biochemically and by fluorescence
+microscopy. Our fully reversible live-cell F2H assays can be applied for
+side-by-side profiling of new inhibitors of p53:Mdm2 and p53:Mdm4
+interactions with respect to their intracellular activity, cell
+penetration and kinetics. Our N- and C-terminal p53-Traps complement p53
+interaction analysis and enable highly efficient biochemical
+investigation of the p53 network and discovery of new interaction
+partners of p53.
+

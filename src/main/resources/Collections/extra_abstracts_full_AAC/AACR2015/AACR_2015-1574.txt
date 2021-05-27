@@ -1,0 +1,156 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Leveraging bronchial airway gene expression to develop a nasal
+biomarker for lung cancer detection
+
+
+Rationale: Using nasal gene expression to predict the presence of lung
+cancer would offer a less invasive alternative to diagnostic approaches
+we have pioneered using bronchial airway epithelial (BE) gene expression.
+We have previously demonstrated that cytologically normal BE and nasal
+epithelial (NE) cells harbor gene expression differences that reflect
+tobacco-related lung disease and that these changes in the BE form the
+basis of a clinically informative lung cancer biomarker. Given the
+concordance of BE and NE gene-expression, we hypothesized that gene
+signatures associated with the presence of lung cancer extend from the
+airway to the nose and that lung cancer associated BE gene-expression
+could be leveraged to develop more accurate nasal lung cancer
+biomarkers.Methods: BE (n = 676) and NE (n = 280) brushings were
+collected from current and former smokers undergoing bronchoscopy for
+clinical suspicion of lung cancer. We leveraged two methods to determine
+the concordance between BE and NE gene-expression signal for cancer.
+First we applied the bronchial gene expression-based diagnostic test
+directly to our nasal cohort. Second, we used Gene Set Enrichment
+Analysis (GSEA) to quantify the relationship between the BE and NE. To
+develop the nasal gene expression biomarker, we examined the correlation
+of each gene between the BE and NE. Genes passing our selection criteria
+were passed to a biomarker discovery pipeline in which we examined the
+performance of different biomarker algorithm configurations using
+cross-validation.Results: Direct application of the bronchial airway
+gene-expression classifier to an independent set of nasal samples (n =
+109) resulted in an AUC of 0.67. GSEA revealed high concordance
+(pRationale: Using nasal gene expression to predict the presence of lung
+cancer would offer a less invasive alternative to diagnostic approaches
+we have pioneered using bronchial airway epithelial (BE) gene expression.
+We have previously demonstrated that cytologically normal BE and nasal
+epithelial (NE) cells harbor gene expression differences that reflect
+tobacco-related lung disease and that these changes in the BE form the
+basis of a clinically informative lung cancer biomarker. Given the
+concordance of BE and NE gene-expression, we hypothesized that gene
+signatures associated with the presence of lung cancer extend from the
+airway to the nose and that lung cancer associated BE gene-expression
+could be leveraged to develop more accurate nasal lung cancer
+biomarkers.Methods: BE (n = 676) and NE (n = 280) brushings were
+collected from current and former smokers undergoing bronchoscopy for
+clinical suspicion of lung cancer. We leveraged two methods to determine
+the concordance between BE and NE gene-expression signal for cancer.
+First we applied the bronchial gene expression-based diagnostic test
+directly to our nasal cohort. Second, we used Gene Set Enrichment
+Analysis (GSEA) to quantify the relationship between the BE and NE. To
+develop the nasal gene expression biomarker, we examined the correlation
+of each gene between the BE and NE. Genes passing our selection criteria
+were passed to a biomarker discovery pipeline in which we examined the
+performance of different biomarker algorithm configurations using
+cross-validation.Results: Direct application of the bronchial airway
+gene-expression classifier to an independent set of nasal samples (n =
+109) resulted in an AUC of 0.67. GSEA revealed high concordance (p<0.001)
+between cancer-associated nasal and bronchial gene expression profiles
+from the same patients. Using a cross-validation approach, we found that
+nasal biomarkers built from sets of genes showing significant correlation
+(pRationale: Using nasal gene expression to predict the presence of lung
+cancer would offer a less invasive alternative to diagnostic approaches
+we have pioneered using bronchial airway epithelial (BE) gene expression.
+We have previously demonstrated that cytologically normal BE and nasal
+epithelial (NE) cells harbor gene expression differences that reflect
+tobacco-related lung disease and that these changes in the BE form the
+basis of a clinically informative lung cancer biomarker. Given the
+concordance of BE and NE gene-expression, we hypothesized that gene
+signatures associated with the presence of lung cancer extend from the
+airway to the nose and that lung cancer associated BE gene-expression
+could be leveraged to develop more accurate nasal lung cancer
+biomarkers.Methods: BE (n = 676) and NE (n = 280) brushings were
+collected from current and former smokers undergoing bronchoscopy for
+clinical suspicion of lung cancer. We leveraged two methods to determine
+the concordance between BE and NE gene-expression signal for cancer.
+First we applied the bronchial gene expression-based diagnostic test
+directly to our nasal cohort. Second, we used Gene Set Enrichment
+Analysis (GSEA) to quantify the relationship between the BE and NE. To
+develop the nasal gene expression biomarker, we examined the correlation
+of each gene between the BE and NE. Genes passing our selection criteria
+were passed to a biomarker discovery pipeline in which we examined the
+performance of different biomarker algorithm configurations using
+cross-validation.Results: Direct application of the bronchial airway
+gene-expression classifier to an independent set of nasal samples (n =
+109) resulted in an AUC of 0.67. GSEA revealed high concordance (p<0.001)
+between cancer-associated nasal and bronchial gene expression profiles
+from the same patients. Using a cross-validation approach, we found that
+nasal biomarkers built from sets of genes showing significant correlation
+(p<0.05) between the BE and NE as well as significance for cancer in both
+tissues (pRationale: Using nasal gene expression to predict the presence
+of lung cancer would offer a less invasive alternative to diagnostic
+approaches we have pioneered using bronchial airway epithelial (BE) gene
+expression. We have previously demonstrated that cytologically normal BE
+and nasal epithelial (NE) cells harbor gene expression differences that
+reflect tobacco-related lung disease and that these changes in the BE
+form the basis of a clinically informative lung cancer biomarker. Given
+the concordance of BE and NE gene-expression, we hypothesized that gene
+signatures associated with the presence of lung cancer extend from the
+airway to the nose and that lung cancer associated BE gene-expression
+could be leveraged to develop more accurate nasal lung cancer
+biomarkers.Methods: BE (n = 676) and NE (n = 280) brushings were
+collected from current and former smokers undergoing bronchoscopy for
+clinical suspicion of lung cancer. We leveraged two methods to determine
+the concordance between BE and NE gene-expression signal for cancer.
+First we applied the bronchial gene expression-based diagnostic test
+directly to our nasal cohort. Second, we used Gene Set Enrichment
+Analysis (GSEA) to quantify the relationship between the BE and NE. To
+develop the nasal gene expression biomarker, we examined the correlation
+of each gene between the BE and NE. Genes passing our selection criteria
+were passed to a biomarker discovery pipeline in which we examined the
+performance of different biomarker algorithm configurations using
+cross-validation.Results: Direct application of the bronchial airway
+gene-expression classifier to an independent set of nasal samples (n =
+109) resulted in an AUC of 0.67. GSEA revealed high concordance (p<0.001)
+between cancer-associated nasal and bronchial gene expression profiles
+from the same patients. Using a cross-validation approach, we found that
+nasal biomarkers built from sets of genes showing significant correlation
+(p<0.05) between the BE and NE as well as significance for cancer in both
+tissues (p<0.05) perform better, on average, than biomarkers built from
+genes significant for cancer (pRationale: Using nasal gene expression to
+predict the presence of lung cancer would offer a less invasive
+alternative to diagnostic approaches we have pioneered using bronchial
+airway epithelial (BE) gene expression. We have previously demonstrated
+that cytologically normal BE and nasal epithelial (NE) cells harbor gene
+expression differences that reflect tobacco-related lung disease and that
+these changes in the BE form the basis of a clinically informative lung
+cancer biomarker. Given the concordance of BE and NE gene-expression, we
+hypothesized that gene signatures associated with the presence of lung
+cancer extend from the airway to the nose and that lung cancer associated
+BE gene-expression could be leveraged to develop more accurate nasal lung
+cancer biomarkers.Methods: BE (n = 676) and NE (n = 280) brushings were
+collected from current and former smokers undergoing bronchoscopy for
+clinical suspicion of lung cancer. We leveraged two methods to determine
+the concordance between BE and NE gene-expression signal for cancer.
+First we applied the bronchial gene expression-based diagnostic test
+directly to our nasal cohort. Second, we used Gene Set Enrichment
+Analysis (GSEA) to quantify the relationship between the BE and NE. To
+develop the nasal gene expression biomarker, we examined the correlation
+of each gene between the BE and NE. Genes passing our selection criteria
+were passed to a biomarker discovery pipeline in which we examined the
+performance of different biomarker algorithm configurations using
+cross-validation.Results: Direct application of the bronchial airway
+gene-expression classifier to an independent set of nasal samples (n =
+109) resulted in an AUC of 0.67. GSEA revealed high concordance (p<0.001)
+between cancer-associated nasal and bronchial gene expression profiles
+from the same patients. Using a cross-validation approach, we found that
+nasal biomarkers built from sets of genes showing significant correlation
+(p<0.05) between the BE and NE as well as significance for cancer in both
+tissues (p<0.05) perform better, on average, than biomarkers built from
+genes significant for cancer (p<0.05) in the NE alone.Conclusions. We
+have demonstrated concordance between BE and NE gene expression
+differences associated with lung cancer. We have further shown that gene
+expression in the NE reflects the presence of lung cancer and can serve
+as a diagnostic biomarker. These results demonstrate the feasibility of
+leveraging cancer-associated gene expression changes throughout the
+airway to develop a minimally invasive and robust nasal gene expression
+biomarker for lung cancer diagnosis.
+

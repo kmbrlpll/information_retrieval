@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: An inducible transgenic porcine model for human cancer.
+
+
+Common rodent-based models have limitations in terms of modeling human
+cancers. Given that pigs share many genetic and physiological
+similarities with humans, we investigated the potential of developing
+genetic porcine models of cancer. In this regard, we previously reported
+that activation of oncogenes like Ras in conjunction with inhibiting
+tumor suppressor pathways like p53 were required, in part, to convert
+normal porcine cells to a tumorigenic state. Based on this, we chose to
+generate transgenic pigs that can be induced to express oncogenic Kras
+and dominant-negative p53. First, porcine Kras and p53 wild-type genes
+were cloned, sequenced and aligned with porcine, human and murine
+homologues to identify porcine-specific mutation sites corresponding to
+those commonly found in human cancers. Porcine Kras mutation occurs at
+the 12th glycine (G) to aspartic acid (D), whereas p53 arginine (R) at
+167th position was mutated to histidine (H). KrasG12D and p53R167H
+mutants were linked by internal ribosome entry sites (IRES) for their
+simultaneous expression and then inserted into a vector following the
+LoxP-polyA(STOP)-LoxP sequence (LSL). Porcine fetal fibroblasts were
+transfected in vitro with this vector construct and infected by
+adenovirus (Ad) vectors encoding Cre recombinase (Ad-Cre-GFP), which
+deletes the LSL sequence and permits transgene expression, or control Ad
+vectors without the inserted Cre transgene (Ad-GFP). Cre
+recombinase-mediated KrasG12D and p53R167H expression was significantly
+induced in porcine fibroblasts transfected with Ad-Cre-GFP virus compared
+with Ad-GFP control, which provides an in vitro proof of functional test
+of the oncopig construct. We then transfected porcine fibroblasts with
+the aforementioned oncopig construct to produce donor cell lines for
+nuclear transfer cloning. Transgenic fibroblast cell lines generated from
+the cloned pig were subjected to a wound assay through which we observed
+a statistically significant difference of in vitro migration capability
+between Ad-Cre-GFP cells and Ad-GFP control cells. In a migration time of
+24h, the number of cells in the wound area for the Ad-Cre-GFP cells was
+184 as for the Ad-GFP cells was only 67 (p-value 0.01). A statistically
+significant difference was also observed between the cell cycle length
+for these cell lines by flow cytometry. Ad-Cre-GFP cells went through a
+greater number of cell divisions compared with Ad-GFP cells. Within a 73h
+time period, Ad-Cre-GFP cells divided twice as many times than Ad-GFP
+cells (p-value 0.01). Present results demonstrate that induction of the
+transgenes in these porcine cells triggered a transformed phenotype. In
+the future, these cells will be tested for growth in soft agar, tumor
+growth in mice, and then the pigs will be monitored for tumor incidence
+following site-specific transgene induction. Such an approach could
+provide a porcine model to cancer etiology and the development of
+anti-cancer therapy.
+

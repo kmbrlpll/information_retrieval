@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: An integrated platform for quantifying gene expression in
+co-cultured cells
+
+
+The quantification of mRNA is a ubiquitous and critical tool for
+understanding cellular mechanisms in cancer. While RT-PCR is often the
+endpoint, the success of the analysis depends not only on the PCR
+reaction, but also on an entire process flow linking living cells to the
+PCR endpoint. For cultured cells, this process flow includes the culture
+itself, cell lysis, mRNA extraction and purification, and RT-PCR. While
+much research has been targeted to streamlining and increasing throughput
+of the PCR process, the remainder of the process flow has largely been
+neglected. In this study, we link a new mechanism for purifying mRNA,
+Immiscible Filtration Assisted by Surface Tension (IFAST), with cell
+culture on a single platform. IFAST uses an immiscible liquid barrier
+(e.g., oil) to separate the cell culture / lysis region from an elution
+buffer. Using paramagnetic particles (PMPs) that selectively bind mRNA,
+we extracted mRNA from the lysate by using a magnet to draw the
+PMP-captured mRNA through the immiscible phase. This process, which takes
+only seconds, replaces multiple washing steps required by current mRNA
+isolation protocols, which typically take 15-60 minutes to complete. The
+simplicity of IFAST enables facile integration of culture and mRNA
+extraction on an easy-to-use chip that requires only a micropipette and
+magnet to operate. Once proof-of-concept was demonstrated with a single
+cell type, the platform was expanded to incorporate co-culture of two
+cell types, with breast cancer cells and stromal cells in separate
+compartments connected via diffusion ports to allow cytokine exchange.
+Each compartment has an IFAST device, such that mRNA can be collected
+independently from each side. RT-PCR expression levels from the
+integrated culture / IFAST platform had less variance than similar
+experiments with independent culture and mRNA purification components,
+possibly due to the elimination of error during transfer. mRNA purified
+with the integrated device had a yield and purity similar to gold
+standard kits. Breast cancer cells co-cultured with bone marrow stromal
+cells showed increased proliferation and morphological changes relative
+to breast cancer cells cultured alone. Additionally, mRNA extracted from
+these cells using the integrated device showed transcriptional changes
+consistent with estrogen response, even in hormone-independent
+conditions. We have developed a new platform linking compartmentalized
+cell co-culture with NA isolation. This technology simplifies and
+accelerates two processes ubiquitous in cancer biology, enabling the
+collection of additional endpoints with finite resources while reducing
+error associated with manipulation. Furthermore, co-cultures of breast
+cancer with stroma from a metastatic site induced proliferation and
+transcriptional signaling associated with pro-growth conditions,
+illustrating the utility of this platform for studying the metastatic
+microenvironment.
+

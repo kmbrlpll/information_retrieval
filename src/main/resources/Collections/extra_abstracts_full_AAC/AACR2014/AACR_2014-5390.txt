@@ -1,0 +1,37 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Development of a high-throughput screening assay to identify UHRF1
+inhibitors via time-resolved fluorescence resonance energy transfer
+(TR-FRET)
+
+
+Aberrant DNA methylation of gene promoters can be involved in silencing
+tumor suppressor genes in cancer. The protein ubiquitin-like containing
+PHD and ring finger domains 1 (UHRF1) is an essential component in the
+cellular machinery for DNA methylation maintenance and can couple DNA
+methylation and other epigenetic histone modifications. UHRF1 is thought
+to bind newly synthesized hemimethylated DNA and recruit DNA
+methyltransferases to copy the methylation pattern to the daughter DNA
+strand. Interfering with the ability of UHRF1 to bind methylated DNA can
+lead to the re-expression of epigenetically silenced genes including
+tumor suppressors, which positions UHRF1 as a target for anticancer drug
+development. We have created a high-throughput, time-resolved
+fluorescence resonance energy transfer (TR-FRET)-based assay to screen
+for inhibitors capable of disrupting the interaction between the UHRF1
+SRA domain and hemi-methylated DNA. The assay measures the degree of
+TR-FRET between a 5-fluorescein (FAM) labeled hairpin oligonucleotide and
+a terbium-conjugated antibody bound to the 6xHis-tag of the UHRF1_SRA
+domain polypeptide. In 384-well plate format, the assay achieved a Z'
+factor of 0.74. We successfully screened the Library of Pharmacologically
+Active Compounds (LOPAC) for inhibitors of UHRF1_SRA binding to
+hemimethlylated DNA, and validated 6 hit compounds in a dose-response
+series. These include: aurintricarboxylic acid, NF449, 6-hydroxy-DL-DOPA,
+NF023, PPNDS and mitoxantrone. Additionally, we observed a decrease in
+methylation one week after treatment of DU145 cells with mitoxantrone at
+a concentration near its IC50 from the TR-FRET binding assay. This
+suggests that mitoxantrone, a known DNA topoisomerase II poison and
+general DNA intercalator, may interfere with methylation maintenance. In
+summary, we have established a novel method to identify small molecule
+inhibitors of the UHRF1-methylated DNA interface, and have shown that one
+hit compound, mitoxantrone, can perturb methylation maintenance near its
+IC50 for inhibition of SRA domain binding to methylated DNA.
+

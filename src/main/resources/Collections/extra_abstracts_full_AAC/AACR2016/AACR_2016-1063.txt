@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: miR-195 represses the tumorigenesis of non-small cell lung cancer
+and synergizes with microtubule targeting agents
+
+
+MicroRNAs (miRNAs) play important roles in nearly all cellular
+physiological and pathological pathways. Dysregulated miRNAs have been
+shown to contribute to tumorigenesis of many cancers, including lung
+cancer. The let-7 miRNA family, among the first miRNAs discovered,
+suppresses the growth of non-small cell lung cancer (NSCLC). Other miRNAs
+have been shown to regulate the response of cancer cells to anticancer
+agents, such as the microtubule-targeting agent (MTA) paclitaxel. These
+findings highlight the potential application of miRNAs as the next
+generation of therapeutic agents, either alone or in combination with
+chemotherapy.A high throughput screen was performed in NSCLC cells.
+miRNAs that both inhibited NSCLC cell growth and sensitized NSCLC cells
+to paclitaxel were validated by short- and long-term assays for cell
+viability. The targets of miRNAs were identified by expression profiling
+following miRNA transfection, validated by luciferase reporter assay, and
+confirmed by functional assays.We show that miR-195 causes G1 phase
+arrest of NSCLC cells by targeting CCND3, and leads to apoptosis and
+reduction of cell migration and invasion by targeting BIRC5. Conversely,
+the inhibition of cell growth by miR-195 is compromised by overexpressing
+CCND3 or BIRC5; the inhibition of cell migration and invasion by miR-195
+is abrogated by overexpressing BIRC5. We also show that miR-195
+synergizes with MTAs paclitaxel and eribulin to inhibit the growth of
+NSCLC cells by regulating CHEK1. Analysis of miRNA and gene expression
+profiles from The Cancer Genome Atlas (TCGA) shows that miR-195
+expression is negatively correlated with BIRC5 and CHEK1 but not CCND3.
+Clinical data from TCGA show that miR-195 is significantly down-regulated
+in lung tumors compared to adjacent normal tissues and that its
+down-regulation in lung cancer patients is associated with worse
+survival. The TCGA data also show that BIRC5 and CHEK1 are significantly
+up-regulated in lung tumors and that their up-regulation is associated
+with worse survival. CCND3, however, is slightly downregulated in lung
+tumors and its expression is not correlated with patient survival.
+Intriguingly, we also show that miR-195 up-regulates the oncogene MYC,
+inhibition of which sensitizes NSCLC cells to miR-195. We show that Myc,
+reported to transcriptionally repress let-7c, also represses miR-195, and
+further identify a feedback loop between let-7c and miR-195 in which each
+inhibits the other.We identify miR-195 as a tumor suppressor and
+chemotherapy sensitizer in NSCLC mediated by its repression of CCND3,
+BIRC5 and CHEK1. We also uncover a feedback network between miR-195, Myc
+and let-7c. The ability of miR-195 and Myc to regulate each other
+indicates a mechanism by which NSCLC cells can become more sensitive to
+miR-195. The mutual inhibition between miR-195 and let-7c suggests an
+interesting regulatory loop between cancer-related miRNAs that deserves
+further study.
+

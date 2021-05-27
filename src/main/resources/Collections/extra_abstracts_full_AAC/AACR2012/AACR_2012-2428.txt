@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Echo-contrast monitoring of sorafenib early efficacy: animal model
+for Ewing's sarcoma tumors
+
+
+Background: Anti-angiogenic drugs are a pillar of the therapeutic
+approach against cancer. Contrast ultrasound (CUS) can detect perfusion
+modifications during anti-angiogenic therapy preceding tumor size
+regression. However, contrast imaging would benefit from better
+standardization of the technique. This work compares discrimination of
+tumors in Sorafenib-treated and placebo mice using CUS evaluation of
+relative blood volume (rBV), mean transit time (mTT) and wash in rate
+(WiR). Methods: Ewing's sarcoma tumors were grafted orthotopically by
+sub-capsular injection of 100 L of SK-NEP-1 cells (5 x 106cells/mL) in
+the left kidney of nude fifteen mice (Elevage Janvier, Le Genest-St-Isle,
+France). Contrast enhanced ultrasonography was performed using a clinical
+ultrasound system Acuson Sequoia 512 with a 14 MHz probe (Siemens Medical
+Solutions, Mountain View). The tumor area (A) was calculated according to
+A = ( x L x w)/2. CUS (Sonovue, Bracco SA, Milan, Italy) with
+destruction-reperfusion was performed using cadence pulse-sequence (CPS).
+Data were acquired from each mouse at 14 days after tumor-cell injection.
+The treatment was started at day 14 just after the CUS baseline. At day
+14 (day of start therapy) the 12 mice were randomized into two groups.
+One group received (6 mice) the anti-angiogenic treatment Sorafenib daily
+(10mg/kg/jr) per os and the other group (6 mice) received corresponding
+doses of placebo by the same route for 8 days. Image sequences were
+recorded in DICOM format and analyzed with prototype software from Bracco
+Suisse SA (Geneva, Switzerland) allowing selection of regions of
+interest, approximate linearization of the data and fitting of flow
+models to time-intensity data to estimate functional parameters within
+the tumor. All parameters were normalized with respect to normal cortex
+perfusion. Statistical analysis was performed using Wilcoxon Signed-Rank
+tests. Results: Ultrasound estimates of the tumor size increased with
+time for both groups, but tumor size was never significantly different
+between the two groups. Before the normalization with the adjacent renal
+cortex perfusion, the functional parameters did not present a significant
+difference between the two groups. Therefore after normalization: the rBV
+shows a significant difference Sorafenib vs placebo (p=0.008) at 8 days,
+the mTT also becomes significant after 8 days of treatment (p=0.02). The
+WiR shows a significant difference between groups at 8 days (p=0.005),
+but also at 6 days (p=0.04). Conclusions: functional CUS was an effective
+technique for monitoring the early response of anti-angiogenic treatment.
+The parameters obtained by fitting flow models of destruction-reperfusion
+demonstrated the capacity to standardize this angiogenesis analysis. Also
+the normalization with respect to adjacent normal tissue appears to
+reduce estimate variability and improve functional contrast assessment.
+

@@ -1,0 +1,63 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Copy-number profiling of single, digitally-sorted PD-L1 positive
+cells in NSCLC FFPE tissues.
+
+
+Introduction:
+
+Immune system strongly affects cancer cell fate; indeed,
+immune-checkpoint blockade is emerging as an effective therapeutic
+strategy in a broad range of tumor types. The effectiveness of these
+therapies depends on different aspects of tumor biology such as the
+expression of immune checkpoint proteins, the presence of infiltrating
+active immune cells and many others. To date, a robust biomarker to
+predict therapeutic response to these drugs has not been found yet.
+
+Among all the strategies used to identify effective biomarkers, a
+single-cell level molecular profiling of tumor, stromal and infiltrating
+cells, has not been explored due to technical challenges. Here we present
+a method for the digital isolation of single PD-L1+ cells from FFPE
+tissues, along with their genetic characterization for the identification
+of novel biomarkers.
+
+Methods:
+
+FFPE tissue sections from two NSCLC patients, were independently tested
+for PD-L1 expression using IHC VENTANA PD-L1 (SP142) Assay and scored in
+terms of tumor content (30%, 85%), percentage of PD-L1 positive tumor
+cells (70%, 95%), PD-L1 intensity, and H-score (130, 175). From the same
+tissue blocks, additional FFPE sections were dissociated down to cell
+suspension, and immunofluorescently labelled using
+Keratin-AlexaFluor®488, Vimentin-AlexaFluor®647 and PD-L1 (clone
+SP263)-AlexaFluor®546. Four cell populations (Keratin+PD-L1-,
+Keratin+PD-L1+, Vimentin+PD-L1- and Vimentin+PD-L1+) were identified at
+the DEPArray™ platform and, for each, we isolated pools of precise
+number (range 43-121) of cells, along with pure single cells. Recovered
+cells were whole genome amplified (Ampli1™ WGA), and genome-wide
+copy-number aberrations (CNA) profiles were obtained by Ampli1™ LowPass
+kit and IonTorrent sequencing.
+
+Results:
+
+The expression of PD-L1 on cell membrane was attributed -by means of
+co-expression of either keratin or vimentin- to tumor or stromal cells,
+respectively. For both patients, in the tumor populations numerous gains
+and losses were clearly identified along the genome; Keratin+PD-L1+ and
+Keratin+PD-L1- pooled cells displayed comparable profiles. Notably, in
+both patients copy gains were identified on chromosome 9 region including
+the PD-L1 gene. A variable range of alleles (3 to 6) on the same PD-L1
+locus was detected on single tumor cells, along with a high inter-cell
+heterogeneity in terms of gain extent and genomic regions involved,
+suggestive of the presence of different tumor clones, hidden in pooled
+cells data. All the stromal (Vimentin+PD-L1+/-) cells showed flat
+profiles.
+
+Conclusions:
+
+This study demonstrates an innovative approach for isolation and genetic
+profiling of single pure PD-L1+ cells from FFPE tissue. DEPArray™
+sorting combined with low-pass whole genome sequencing enables high
+quality genome-wide profiling of pure single cells and pools isolated
+from phenotypically distinct populations in FFPE tumor tissue.
+
+

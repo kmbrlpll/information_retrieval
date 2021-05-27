@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: In vitro designer microenvironments for modeling the endothelin
+axis in brain cancer
+
+
+Preclinical studies in vivo have demonstrated that the endothelin (ET)
+axis is implicated in drug resistance of several tumors (e.g. brain and
+ovarian). Indeed, antagonists, blocking the binding of endothelin-1 to
+endothelin receptors (ETRs) overexpressed by cancer cells, have shown to
+make tumors more sensitive to conventional chemotherapies. In vitro,
+however, mechanistic studies have been hampered by the lack of adequate
+models, in which cell lines sufficiently express all key elements of the
+ET axis (e.g. ETRs), as they do in xenografts.We argue that limitations
+of conventional in vitro systems are mainly due to their inability to
+take into account the role of the extracellular microenvironment (ME). To
+overcome these limitations we have exploited the design flexibility of
+the QGel Matrix technology to identify 3D cell microenvironments that
+induced cancer cells to naturally express ETRs in vitro. Briefly, brain
+cancer cells LN229 were grown clonogenically in differently
+functionalized poly(ethylene glycol) (PEG)-based gels whose biological
+and biophysical characteristics were combinatorially varied. AlamarBlue
+assays and intracellular calcium release measurements (ICRM) were
+employed to measure cell growth and functionality of ETRs in the
+different gel ME over time. All assays were performed in 384-well plate
+format with liquid handling devices.ETR expression and functionality was
+confirmed in control cell lines when grown as clonogenic spheroids in MEs
+or as monolayer on tissue culture plastic (2D). Likewise, LN229 growth
+was observed in all tested MEs and in 2D. However, ETR functionality of
+LN229 differed considerably depending on the ME. For instance, in 2D,
+ICRM did not show ETR functionality. In contrast, clonogenically grown
+cell spheroids, in gel MEs containing cell integrin binding sites, showed
+significantly higher ETR functionality compared to LN229 in control gel
+MEs. Ongoing studies are further investigating the influence of other
+matrix characteristics (stiffness and degradability) to optimise
+expression and functionality of ETRs by LN229 for drug testing
+applications.These data suggest that engineered MEs are powerful tools
+for the development of cell-based assays with enhanced physiological
+relevance. With their proven compatibility with standard laboratory
+automation systems and assay miniaturization, these in vitro disease
+models can be translated to industry for making more relevant decisions
+on compound efficacy in preclinical tests.
+

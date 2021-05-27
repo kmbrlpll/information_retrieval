@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Comparing the mutational landscape of African American and
+Caucasian lung cancers
+
+
+Background: The overall death rate from lung cancer is higher in
+African-Americans (AA) compared to Caucasians (CAU). Understanding
+differences in the prevalence and type of somatic alterations between
+races may illuminate differences in prognosis and lead to the reduction
+of outcome disparities by more precisely targeting patients
+treatment.Methods: Formalin-fixed paraffin embedded tumor samples were
+collected from Baptist Cancer Center, Memphis, TN. DNA was extracted and
+sonicated to 250 bp following Covaris FFPE DNA Extraction & Purification
+protocol and further purified using Agencourt AMPure XP beads. The
+OncoPanel_v2 target enrichment panel (Agilent SureSelect) was used for
+hybrid capture of 502 cancer-related genes. Samples were pooled and
+sequenced on an Illumina HiSeq2500 to a mean depth of coverage of 210x.
+Tumors with >30x sequencing depth over >80% of targeted bases were
+considered for analysis. MuTect and SomaticIndelDetector were used to
+identify somatic single nucleotide variants (SNVs) and short insertions
+or deletions (indels), respectively. As matched normal DNA was not
+available for these samples, analysis was limited to variants previously
+observed in tumors as described in the Catalogue of Somatic Mutations in
+Cancer (COSMIC) database, and variants were excluded if found in the
+germline dataset of the Exome Sequencing Project (ESP).Results: 510 tumor
+specimens from 242 Black and 268 White patients (with self-reported race)
+were analyzed including 320 adenocarcinomas and 142 squamous cell
+carcinomas. Pathological classification was independently reviewed and
+confirmed for 374 of 472 cases for an overall concordance rate of 79%.
+Using principle component analysis (PCA) on germline SNVs, we observed
+that the biological ancestry was different than the self-reported race
+for 1.5% of patients. Mutational frequencies for genes with known roles
+in adenocarcinoma such as KRAS and EGFR were not significantly different
+between tumors from Black and White patients (Fisher's exact p-value >
+0.05). Amplification rates for NKX2-1, MET, MDM2, and MYC and homozygous
+deletion rates for CDKN2A were also not significantly different between
+populations. Translocations involving ALK and ROS1 were detected in
+tumors from Black patients demonstrating that these events are present in
+both populations. Similarly, mutational frequencies for genes such as
+PIK3CA and PTEN were not significantly different across populations in
+squamous cell carcinomas.Conclusions: These results demonstrate that lung
+cancers from Black patients are more similar to Whites than East Asians
+with respect to genes such as EGFR, and suggest that clinical trials of
+targeted therapies could significantly benefit patients in both
+populations.
+

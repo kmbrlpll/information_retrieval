@@ -1,0 +1,46 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Targeting the KRAS signaling naocluster protein CNKSR1 provides
+antitumor activity against mutant KRAS xenografts
+
+
+KRAS, the predominant form of mutated RAS (mut-KRAS) is found in 25% of
+patient tumors across many cancer types and plays a critical role in
+driving tumor growth and resistance to therapy. Its effects are so
+powerful that it overrides the activity of many molecularly targeted
+signaling drugs being developed for cancer today such that they cannot be
+used in patients with mut-KRAS. We have identified genes that when
+inhibited block the growth of mut-KRAS cancer cells without affecting
+wild type-KRAS (wt-KRAS) cell growth using a global siRNA screen. A top
+hit was CNKSR1 (connector enhancer of kinase suppressor of Ras 1), a
+protein associated with KRAS in the RAS membrane signaling nanocluster.
+siRNA knockdown of CNKSR1 shows selective inhibition of the growth of
+mut-KRAS versus wilt type non-small cell lung cancer (NSCLC) cell lines.
+CNKSR1 is a multidomain protein with a pleckstrin homology (PH)-domain, a
+100 to 120 amino acid, highly conserved but low sequence identity 3D
+superfold. This domain is found in a number of signaling proteins, and is
+responsible for binding to membrane phosphatidylinositol-3-phosphates
+(PIP2/3). Over expression of the PH-domain of CNKSR1 in H1373 mut-KRAS
+NSCLC cells inhibits cell growth suggesting a dominant negative activity,
+and that the PH-domain of CNKSR1 is necessary for the effects on mut-KRAS
+activity. PHusis is developing PH-domain inhibitors of signaling proteins
+through use of its in silico computational modeling platform PhuDock, and
+has used this approach to identify inhibitors that bind to the PH-domain
+of CNKSR1. Through rounds of compound refinement we have been optimizing
+the activity of leads using surface plasmon resonance spectroscopy (SPR),
+in vitro cell line screening and in vivo xenograft evaluation. Micromolar
+binders have been improved to nanomolar inhibitors (SPR) that also
+demonstrate in vitro cytotoxicity. The initial lead PHT-782 (Kd1.8 M)
+inhibited mut-KRAS signaling and growth of mut-KRAS isogenic NSCLC cell
+lines (IC50 30 M) as effectively as siRNA knockdown of KRAS. Importantly,
+PHT-782 did not block the growth of wt-KRAS cell lines at concentrations
+up to 100 M. In mice PHT-782 exhibited oral bioavailability and had
+moderate antitumor activity against a mut-KRAS xenograft model without
+observable toxicity. Refinement has provided PHT-7571 and PHT-7327 with
+improved PH-domain binding. Additionally, PHT-7327 displays more potent
+in vivo antitumor activity, both as a single agent in mut-KRAS xenografts
+and in combination with chemotherapy or EGRF inhibitors. Thus, our
+studies have shown that the PH-domain of CNKSR1 can be targeted by small
+molecule inhibitors, selectively blocking mut-KRAS signaling and cell
+growth, thus creating a novel therapeutic potential for patients with
+oncogenic KRAS for which there is currently no effective therapy.
+

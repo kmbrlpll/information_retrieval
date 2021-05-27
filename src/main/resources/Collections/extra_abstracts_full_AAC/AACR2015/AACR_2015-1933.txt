@@ -1,0 +1,39 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Alteration of the protein tyrosine phosphatome in cancer
+
+
+While the importance of receptor tyrosine kinase pathways in cancer has
+and continues to be carefully studied there are more than 100 tyrosine
+phosphatases, either receptor or non receptor, that also play an
+important role in cancer development. However there has been no
+comprehensive study of all PTPs or the protein tyrosine phosphatome
+(PTPome), to identify which have a role in cancer. We as a cancer
+community are fortunate to have access to a wide array of data types from
+a number of data sources such as TCGA, where we can determine if the PTPs
+are mis regulated in more than 20 types of cancers, totaling close to
+4,000 samples. We utilized TCGA data for all tumor types with mature data
+sub setting the data to analyze the PTPome for all data types including
+expression, methylation, copy number and sequence data where available.
+Our intention was to use the genomic data to identify PTPs that were
+important to specific cancers as well as to understand which PTPs play an
+important role in multiple tumor types. Presently we have studied copy
+number variations, expression and methylation changes in 20 different
+tumor types. Thus far, copy number variations, as could be expected were
+extremely useful to determine the primary mutations in specific tumor
+types as well as PTPs that are found recurrently in multiple tumor types
+but not as useful to identify a number of PTPs that are co-altered or
+altered in the same individual tumors. We were surprised to find that the
+methylation data was not very useful to identify alterations but could
+use the methylation data to corroborate other alterations found.
+Presently we are also using the methylation data to determine if it can
+be used to identify possible clinical correlations. The expression data
+has been very useful to identify co-altered PTPs. Interestingly we found
+several PTPs that are altered together (for example, PTPN6, PTPN7,
+PTPN18, PTPN22, PTPRC, DUSP2 and DUSP22 with an overall pvalue of 0.02
+and much lower if measured between any two PTPs in this list). In
+addition we have found PTPs that are co-altered in a specific tumor type
+but possibly more interesting PTPs that are co-altered in a number of
+tumor types. We are now studying if our results can be used to determine
+if these PTPs represent multiple specific pathways that are
+advantageously altered in carcinogenesis.
+

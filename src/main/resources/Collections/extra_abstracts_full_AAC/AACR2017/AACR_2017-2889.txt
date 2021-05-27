@@ -1,0 +1,56 @@
+Meeting: 2017 AACR Annual Meeting
+Title: V-ATPase control of EV signaling in glioma stem cells.
+
+
+Background: Recent evidences highlighted that GBM secreted microvesicles
+(EVs), particularly exosomes (Exo) and large oncosomes (LO), play a major
+role in the cross-talk between tumor cell and non-neoplastic parenchyma.
+How GBMs manage to thrive in a highly unfavorable, acidic
+microenvironment is still unclear, but recent work from our group has
+identified the vacuolar pump H+-ATPase (V-ATPase) as an important
+effector of GBM growth and glioma stem cells (GSC) maintenance.
+Additionally, in ExoCarta database V-ATPase subunits have been described
+in Exo from different cancer cell types.
+
+Taken together, these data identify V-ATPase as an important driver of
+gliomagenesis, and a novel, actionable therapeutic target for disease
+intervention. However, the role of V-ATPase in reprogramming the GBM
+microenvironment has not been previously investigated.
+
+Methods: Exo and LO were isolated by an Invitrogen kit and serial
+centrifugation, respectively, from media of patients’ derived GBM
+neurospheres, enriched in GSC (NS, n=12) or differentiated cultures
+(n=8). For EVs internalization studies, Exo or LO were stained using FM
+1-43 FX dye and the process was followed live for 30’ and at selected
+time points (30’-4h-24h), using a confocal microscopy or flow cytometry
+(FACS). Electron microscopy, FACS (of Exo stained with CellTrace and
+SytoRNA in combination with CD63 coated beads), Nanosight and
+immunoblotting (for CD63, CD9 and Clathrin) analyses were used to confirm
+EVs subtypes. Cultures from patients’ derived brain tumor margins or
+primary GBM (differentiated and not) were used as EVs-recipient cells.
+miRNA profiling was performed using Taqman Low density arrays and
+analyzed by R packages. Gene Ontology analysis was performed by DAVID.
+The study was approved by the Institutional Ethical Committee.
+
+Results: NS are able to produce different EVs, which are internalized by
+recipient cells after 4 and up to 24 hours of co-culture. Both Exo than
+LO from NS are able to significantly increase cell growth in recipient
+cells (brain tumor margins and primary GMB differentiated monolayers),
+and this effect is stronger with EVs produced by NS with higher V-ATPase
+expression (V-ATPaseHIGH NS). Primary GBM cells after co-culture with EVs
+are able to produce a higher number of NS and V-ATPase activity block by
+BafilomycinA1 in NS-producing EVs completely revert this effect. Finally,
+the co-culture of V-ATPaseLOW NS with EVs from V-ATPaseHIGH NS increases
+their motility in collagen matrixes.
+
+At molecular level, profiling of Exo-derived miRNAs distinguishes
+differentiated cultures from NS and, among NS, V-ATPaseHIGH cultures. In
+silico analysis and annotation of miRNA target genes from
+V-ATPaseHIGH–derived Exo showed an enrichment of cancer, cell cycle and
+PI3K/Akt pathways.
+
+Conclusions: Altogether, these data point toward the central role of
+different EV types in GBM communication and suggest a role of the
+V-ATPase proton pump in regulating EV’s contents.
+
+

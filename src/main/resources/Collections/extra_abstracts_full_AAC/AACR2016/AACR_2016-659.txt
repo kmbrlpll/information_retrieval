@@ -1,0 +1,27 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Novel refinements for the autochthonous mouse model of cancer
+
+
+There are many levels of genetic regulation at play in autochthonous
+mouse models of cancer. For instance, mouse models can be programed to
+knockout tumor suppressor genes and enable transcription of oncogenes in
+order to cause normal cells to transform into cancer cells that can
+eventually form tumors and metastasize. Concurrently to this, a gene of
+interest (GOI) under the control of a tetracycline-response element (TRE)
+promoter can be studied in a doxycycline-dependent fashion. The GOI under
+the control of the TRE promoter will be transcribed only in the presence
+of a transcriptional activator fusion protein, rtTA, and a chemical
+compound, doxycycline. Unfortunately, it is extremely difficult to limit
+the doxycycline-dependent expression of the GOI only to cancer cells, so
+normal cells will invariably express the GOI. This inaccuracy can limit
+the translation of results from mouse model to human patient. In the
+interest of engineering models that closely recapitulate the disease in
+question, we propose to limit the expression of rtTA and the GOI to
+cancer cells by linking rtTA expression to cell cycle regulation. The
+cell cycle is leveraged because rapid division and proliferation are
+characteristics intrinsic to proliferative cancer cells, and some cell
+cycle proteins are abundantly expressed in cancer cells but not expressed
+in normal cells. By fusing rtTA to cell cycle proteins that are expressed
+in cycling cancer cells, we hope to improve the accuracy and capabilities
+of the autochthonous mouse model of cancer.
+

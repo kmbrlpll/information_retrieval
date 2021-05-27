@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A computational framework for removing mouse contamination in
+tumors sequenced from patient-derived xenografts.
+
+
+Introduction: Using patient derived xenograft (PDX) models has become an
+effective way for investigating response to standard or new therapeutics
+in cancer. Human cancer cells injected in mice are allowed to establish
+tumors and subjected to desired treatments. The PDX tumors are later
+harvested and characterized, often by massive parallel sequencing.
+However, a major challenge with analyzing these data is the presence of
+stromal mouse genomic material, frequently resulting in artifacts in
+downstream variant detection. We present a computational method to
+eliminate mouse contamination in PDX.
+
+Method: We used the Burrows-Wheeler Aligner to map reads obtained from
+sequencing the PDX samples to a combined human and mouse reference genome
+. We remove reads that are mapped to the mouse reference. The remaining
+reads are then processed through standard mutation calling pipelines for
+somatic mutation detection. To test the efficacy of our method, we
+created in silico mixtures of human and mouse whole-exome sequencing
+reads from a melanoma patient’s tumor and an immortalized mouse cell
+line captured with human exome baits. We then carried out a sensitivity
+analysis to examine how changing the mean target coverage of sequencing,
+or mouse contamination levels affects our results. For each of the
+computational experiments, we evaluated somatic mutations detected from
+the synthetic samples in comparison to the original human sample.
+
+Results: We calculated the sensitivity and specificity of detecting
+somatic mutations to determine our algorithm’s performance. In all
+instances, we found greater than 99% for both sensitivity and specificity.
+
+Conclusions: Our results demonstrate that our method works accurately
+towards removing mouse reads in PDX samples. This task could also be
+applied to separating sequence reads from other species.
+
+

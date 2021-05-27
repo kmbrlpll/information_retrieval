@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identifying AML-specific key targeted drugs using high-throughput
+drug sensitivity and resistance testing profiles of AML cells.
+
+
+Introduction: Conventional cytotoxic chemotherapy regimens for adult
+acute myeloid leukemia (AML) are effective in curing less than 50% of the
+patients, and there is a major need for targeted drugs with better
+anti-cancer selectivity. Here, our aim was to i) identify potential
+clinically used or emerging cancer drugs by quantitative drug sensitivity
+and resistance testing (DSRT) of 16 AML cell lines ii) compare the cell
+line data with results obtained from tested 24 ex vivo AML patient
+specimens iii) identify genomic correlations potentially explaining drug
+responsiveness.Methods: The cancer pharmacopeia-wide drug collection is
+composed of 119 FDA approved and 90 investigational chemical compounds
+including cytotoxic agents and cell signaling molecule inhibitors. Each
+drug was tested over a 10,000-fold concentration range and that has
+generated quantitative five point dose-response curves. AML cells were
+plated in 384 well plates (where the drugs were pre-printed using an
+acoustic nano-dispensing technology, Labcyte) and incubated in standard
+cell culture conditions. Cell viability was measured by Cell Titer Glow
+luminescence assays. Analysis of dose response curves using Dotmatics
+software resulted in IC50 values. Moreover, the genomic profiles of the
+AML cell lines were determined by microarrays and/or next-gen sequencing
+data for further integration with drug responses.Results: Comprehensive
+data analysis of 16 AML cell lines indicated that specific targeted drugs
+were selectively killing AML cells. The data analysis revealed relatively
+strong responses for MEK inhibitors in most AML cell lines (e.g.
+refametinib 87%, trametinib 82%, selumetinib 75%) while 21% of ex vivo
+AML patient samples were sensitive to these MEK inhibitors. In case of
+rapalog sensitivity, 80% of AML cell lines (e.g. temsirolimus 82%,
+everolimus 71%, sirolimus 81%) and 25% of ex vivo AML patient cases were
+responsive to the mTOR inhibitors. The AML cell lines carrying FLT3-ITD
+mutations were extremely sensitive to FLT3 inhibitors (e.g. quizartinib,
+lestaurtinib, tandutinib, and sorafenib) but very few responses to FLT3
+inhibitors were observed in AML patients carrying an ITD mutation in the
+FLT3 kinase.Summary: Systematic DSRT profiling of AML cell lines
+illustrates drug sensitivity patterns to classify the cell lines as
+sensitive or resistant to specific classes of drugs. mTOR and MEK
+inhibitors were among the most effective inhibitors for most cell lines
+and also in some ex vivo patient cases suggesting that these drugs may
+have potential as therapeutic agents in AML. Also, bioinformatics
+predictions can be used to identify key synergistic combinations of
+tested drugs for effective AML therapy. Further integration of molecular
+profiles and functional responses of AML cell lines will help provide
+better understanding of drug efficacy based on known genetic background
+of the disease.
+

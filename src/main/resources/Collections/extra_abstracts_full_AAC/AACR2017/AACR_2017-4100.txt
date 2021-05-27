@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Mechanisms of resistance to type I and type II MET inhibitors in
+non-small cell lung cancer.
+
+
+Background: MET targeted therapies are clinically effective in MET
+amplified and MET exon 14 deletion mutant non-small cell lung cancers
+(NSCLC). At least 8 MET tyrosine kinase inhibitors (TKIs), including both
+type I and II, have been developed and are under clinical evaluation. We
+recently described a resistance mechanism in a patient with a unique MET
+secondary mutation, D1228V, refractory to all type I but sensitive to
+type II MET TKIs (Bahcall et al. Cancer Discovery 2016). We examined
+whether the sensitivity and resistance of other MET secondary mutations
+were similarly dependent on the mode of inhibitor binding, and sought to
+determine the optimal sequence of MET inhibitor use, so as to achieve the
+longest combined latency before the emergence of resistance.
+
+Methods: TPR-MET Ba/F3 cells were mutagenized with ENU and treated with
+each of the type I TKIs - crizotinib; savolitinib; capmatinib, or type II
+TKIs - cabozantinib; glesatinib; merestinib, until resistant clones
+emerged. Resistant mutations were identified by sequencing, constructed
+in the TPR-MET background, and expressed in Ba/F3 and NIH-3T3 cells.
+Cross-resistance to the 6 MET TKIs was evaluated. Next, low frequency
+(0.1%) of mutant Ba/F3 cells was spiked into parental TPR-MET Ba/F3 cells
+and sequentially exposed to different MET TKIs to identify the sequence
+associated with the longest combined time to resistance. Clonal evolution
+was assessed by droplet digital PCR (ddPCR).
+
+Results: Of 300 plated wells per drug used at either 0.1μM or 0.5μM,
+crizotinib yielded 210 and 2 clones; savolitinib 51 and 1 clone;
+capmatinib 9 and 3 clones; cabozantinib 38 and 3 clones; glesatinib 300
+and 300 clones; merestinib 18 and 3 clones, respectively. Of the
+mutations, those at Y1230 were common to all 3 type I TKIs and the most
+frequently seen with savolitinib and capmatinib; D1228 was shared by
+savolitinib and capmatinib; V1155L, the most common mutation with
+crizotinib, was shared with savolitinib; M1211L emerged with capmatinib.
+Mutated F1200 residue was shared by and exclusive to all type II TKIs and
+was the single identified mutation for both glesatinib and merestinib.
+Cabozantinib gave rise to a broader array of unique mutants - with F1200
+mutations being the most common - and shared G1163R with crizotinib. We
+show D1228 and Y1230 mutations being moderately resistant to crizotinib
+and strongly resistant to both savolitinib and capmatinib, while
+retaining sensitivity to all type II TKIs. G1163R and L1195V were
+slightly to moderately resistant to crizotinib, cabozantinib and
+glesatinib, but strongly sensitive to savolitinib and capmatinib. In this
+assay, merestinib had the broadest, while crizotinib most narrow activity
+against the tested mutants.
+
+Conclusions: Here we highlight key differences between and within the 2
+types of MET inhibitors that define their activity against MET secondary
+mutants likely to emerge in patients, providing rationale for the
+specific use of these inhibitors in the clinic.
+
+

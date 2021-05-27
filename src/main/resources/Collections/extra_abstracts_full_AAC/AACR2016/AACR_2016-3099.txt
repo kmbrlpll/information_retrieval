@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: KRAS and clinical context: Differential dynamic signaling output
+of KRAS mutant lung, colorectal and pancreatic cancer cell lines when
+exposed to targeted anticancer drugs
+
+
+BackgroundClinical trials have shown that cancers originating from
+different tissues driven by the same oncogene respond differently to
+targeted anticancer drugs. We aimed to understand different signaling
+patterns in KRAS mutant cells derived from non-small cell lung cancer
+(NSCLC), colorectal cancer (CRC) and pancreatic cancer.Materials and
+methodsWe optimized a 50 phosphoprotein antibody-based assay on the
+Luminex 200 platform. We then exposed a panel of 15 KRAS mutant cell
+lines (5 cell lines each originating in the lung, pancreas and colon) to
+a DMSO control (n = 3) and clinically significant concentrations (Cmax
+achieved in humans adjusted for protein binding in culture medium) of a
+PI3K (GDC-0941), AKT (AZD5363), m-TOR (everolimus), BRAF (vemurafenib),
+EGFR (gefitinib), MEK (trametinib) and an HSP90 inhibitor (luminespib)
+for 1 hr. We quantified the change in phosphorylation of proteins for
+each drug compared to control. Logistic regression analysis was used to
+analyse differences between KRAS-driven cell lines originating from
+different anatomical sites.ResultsThere were changes in phosphorylation
+related to the pharmacodynamic effects of the drug independent of cell
+line of origin; however, there were interesting differences between KRAS
+mutant cells originating from different anatomical sites. In NSCLC cell
+lines, p-EGFR levels changed significantly less when exposed to PI3K, AKT
+and m-TOR inhibitors (p = 0.047, 0.022 and 0.047, respectively) when
+compared to cells originating from CRC and pancreatic cancer. CRC cell
+lines, when compared to NSCLC and pancreatic cancer cell lines, showed
+significantly less changes in phosphorylation of key cell cycle
+regulators such as CHK1 when exposed to PI3K, AKT and m-TOR inhibitors,
+(p = 0.001, 0.047 and 0.047, respectively) and RB when exposed to an AKT
+and m-TOR inhibitor (p = 0.047 and 0.047, respectively). Interestingly,
+pancreatic cell lines showed significantly more changes in p-m-TOR
+compared to CRC and NSCLC cell lines following exposure to PI3K and AKT
+inhibitors (p = 0.0095 and 0.022, respectively). Of note, drugs not
+directly targeting the PI3K pathway differentially regulated different
+nodes in the PI3K pathway, for example, BRAF inhibitors significantly
+differentially changed levels of phosphorylation at different nodes in
+the PI3K pathway such as AKT in NSCLC cell lines, p = 0.047, p70S6K in
+CRC cell lines, p = 0.0472 and PRAS40 in the pancreatic cancer cell
+lines, p = 0.022.ConclusionThese results suggest that there are
+significant differences in signaling patterns caused by PI3K pathway
+inhibitors in KRAS mutant NSCLC, CRC and pancreatic cancer cell lines.
+Our findings shed light on the putative use of PI3K pathway inhibitors in
+KRAS mutant cancers. They also question the universal application of
+solely using genetic mutations to stratify patients in basket clinical
+studies.
+

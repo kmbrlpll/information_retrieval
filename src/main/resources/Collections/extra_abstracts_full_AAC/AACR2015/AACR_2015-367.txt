@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Microfluidic devices for the interrogation of single circulating
+tumor cells
+
+
+Introduction: Genetic and phenotypic characterization of Circulating
+Tumor Cells (CTC) offer the opportunity for a real time liquid biopsy.
+However, heterogeneity and rarity of CTC command the need for individual
+cell characterization. Following an enrichment procedure of CTC from
+blood, the identification, isolation and manipulation of single CTC for
+further analysis without cell loss remains challenging. Here, we present
+microfluidic devices for parallel single cell whole genome amplification
+(psc WGA) and parallel probing of drug response of single cancer cells
+(psc probing).Method: Microfluidic devices were designed using AUTOCAD
+software, and fabricated using PDMS multilayer soft-lithography. Cells
+from the SKBR-3 and MCF-7 breast cancer cell lines were used in the
+devices and identified using fluorescence microscopy after
+immunofluorescence staining. For pscWGA, the GE Single Cell GenomiPhi DNA
+Amplification kit was used under isothermal conditions.Results: In the
+1st scWGA device, single cancer cells were addressed in 16 individual
+reaction chambers, subsequently lyzed, and their DNA amplified on a chip.
+We successfully amplified DNA of single cancer cells in a ca. 23
+nanoliter reaction volume. 1,000-fold amplified DNAs were validated using
+qPCR targeting a set of genes on different chromosomes. For WGA of CTC
+present in a large number of other cells, we developed a 2nd scWGA
+platform by combining a self-sorting microwell cell sorter and a
+microfluidic device. After filtration of a cell suspension using a
+microwell plate, cancer cells were identified using fluorescence
+microscopy at the bottom of the plate. Cells of interest were
+subsequently punched into the open-well structures of the microfluidic
+device for further analysis. The lysis and WGA reaction buffers were
+loaded using peristaltic pumping of integrated micro-valves. After cell
+lysis, DNA was amplified in the open-well reaction chamber. For
+validation 100 ng of DNA was pipetted out of the well. We also developed
+microfluidic devices to study drug-dose response of single cancer cells.
+This device is capable of capturing single cells, dosing various
+concentrations of drugs and exposing the cells to the drugs. We optimized
+the capturing efficiency using different sizes of beads (3 m, 6 m, and 15
+m) as well as MCF-7 cells. We demonstrated that single cancer cells could
+be exposed to different drug candidates in the reagent chambers and their
+response measured.Conclusion: We successfully developed various
+microfluidic devices for individual cell characterization to be applied
+for CTC analysis. For genetic make-up, whole genome amplification of
+single cells either in suspension or in a self-sorting microwell plate
+was demonstrated. On-chip cell lysis and DNA amplification were performed
+and validated by qPCR targeting specific genes. In addition microfluidic
+devices were designed and tested to investigate single cell response to
+cancer drugs.
+

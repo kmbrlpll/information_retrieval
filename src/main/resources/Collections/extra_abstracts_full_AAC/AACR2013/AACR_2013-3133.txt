@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification and functional validation of novel
+genetically-linked breast cancer targets through pooled gain-of-function
+screening.
+
+
+Breast cancer is one of the most common cancer types, with greater than
+450,000 deaths reported per year worldwide. Through genome wide
+sequencing efforts, multiple genetic alterations have been identified,
+including mutations and amplifications in genes such as v-erb-b2
+erythroblastic leukemia viral oncogene homolog 2 (ERBB2), GATA binding
+protein 3 (GATA3), phosphatidylinositol 3-kinase alpha catalytic subunit
+(PIK3CA) as well as novel genomic rearrangements such as the recently
+identified MAGI3-AKT3 fusion. Now that breast cancer can be characterized
+to an unprecedented level, one of the key challenges remaining is to
+identify and distinguish critical driver events responsible for tumor
+progression, from neutral passenger lesions. In order to achieve this, we
+utilized high resolution aCGH analysis of 50 purified breast cancer
+samples (made up of Her2+, estrogen receptor positive (ER+) and triple
+negative tumors with variable responses to SOC regimens), in combination
+with a Gain-of-Function transformation screen to identify and validate
+novel breast targets. 158 genomic regions were found to be recurrently
+amplified, consisting of 759 genes in total. The top 32 focally amplified
+genes, along with 12 cancer-relevant mutant alleles were prioritized and
+a library generated utilizing the pTRIPZ-tetracycline regulated inducible
+lentiviral vector system. These 44 genes were subsequently combined into
+16 different target pools (5-13 targets per pool, co-expressing genes
+that were co-amplified in the same clinical specimen) and evaluated for
+their ability to transform immortalized breast epithelial MCF10A cells
+(both wild-type and p53 -/- cells). Through this screening approach,
+p21-activated kinase 1 (PAK1) was identified, whose kinase activity was
+required to robustly transform MCF10A cells through regulating multiple
+signalling pathways including MAPK. Several other putative oncogenes were
+also identified and will be presented here, including the
+glycosyltransferse asparagine-linked glycosylation 8 (ALG8).
+Interestingly, PAK1 and ALG8 are co-amplified in both breast (8%) and
+ovarian cancers (11%). Our target validation studies have suggested that
+ALG8 can support PAK1-induced transformation, as dramatic suppression of
+soft-agar colony growth was seen in co-amplified breast cancer cell lines
+upon combined siRNA treatment to both targets. Thus, this combined high
+resolution aCGH profiling and functional screening approach has enabled
+the successful identification of novel oncogenic targets in breast cancer.
+

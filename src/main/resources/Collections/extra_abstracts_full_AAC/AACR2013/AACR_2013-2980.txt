@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Integrated transcriptome and methylome sequencing of Xp11
+translocation renal cell carcinomas reveal uncoupling of DNA methylation
+and transcriptional profiles.
+
+
+Background: Xp11 translocation renal cell carcinoma (RCC) is a rare
+subtype of RCC characterized by the fusion of TFE3 gene to multiple
+partners. Despite its genetic homogeneity, there is considerable
+heterogeneity in the clinical course of this disease, probably due to
+epigenetic events that follow the initial translocation.Material and
+methods: We performed whole-transcriptome next-gen paired end sequencing
+of 7 Xp11 RCC samples, 10 clear-cell RCC and 19 papillary RCC. In
+addition, we performed genome-wide analysis of DNA methylation of 9 Xp11
+samples by Digital Restriction Enzyme analysis of Methylation (DREAM),
+based on next-generation sequencing.Results: Using a robust
+bioinformatics pipelines, we confirmed 6 previously known TFE3
+translocation partners, and discovered a novel partner involving the
+splicing gene LUC7L3 that we validated by RT-PCR. Unsupervised clustering
+of gene expression profiling revealed genetic homogeneity of Xp11 cases
+that clustered together, independently from clear-cell and papillary RCC
+subgroups. Ingenuity analysis confirmed MITF activation. Gene Set
+Enrichment Analysis (GSEA) showed mTOR pathway activation. In contrast
+with genetic homogeneity of gene expression, unsupervised clustering
+analysis of CpG sites located within CpG islands (CGI) revealed: (1) a
+CpG islands methylator phenotype (CIMP+) subgroup related to patients
+with metastatic disease (n=3), and (2) a CIMP negative (CIMP-) subgroup
+related to patients with local disease (n=6). Integrative analysis showed
+that genes with differentially methylated levels between CIMP+ and CIMP-
+tumors (SD: +/-20%) and which were down-regulated in CIMP+ subtype as
+compared to normal kidney, were also down-regulated in CIMP- subgroup .
+Of note, FZD10 and CCDC8 were found to gain promoter methylation in three
+cases of Xp11 RCC, but their baseline expression was already low in
+normal kidney. In contrast, small gain of promoter DNA methylation in
+cancer samples was associated with gene silencing of putative tumor
+suppressor genes. Interestingly, GSEA for gene body methylation
+identified enrichment of MAPK signaling pathway in CIMP+ versus CIMP-
+cases. Exome-sequencing of 2 out of 3 cases with CIMP+ phenotype
+identified non-synonymous IDH1 (p.V71I) mutation present in COSMIC
+database for one case and a frameshift mutation of the chromatin
+remodeling enzyme INO80D in the second case.Conclusion: Our data reveal
+uncoupling of DNA methylation and gene expression profiling in Xp11 RCC.
+Patients with metastatic disease showed higher methylation level, with
+CIMP+ phenotype possibly related to IDH1 mutation in one case. These
+results suggest that additional epigenetic alterations following the
+initial Xp11 translocation may explain the aggressive biology of some
+Xp11 RCCs.
+

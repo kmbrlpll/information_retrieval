@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: DNA methylation of mitochondrial biogenesis regulating genes: A
+possible link between telomeres, mitochondria, and cancer incidence.
+
+
+Background: PGC1A and PGC1B encode transcriptional factors that regulate
+mitochondrial biogenesis and have been implicated as a link between
+telomeric and mitochondrial functions. Telomere dysfunction is associated
+with impaired mitochondrial biogenesis and increased generation of
+reactive oxygen species. Animal studies have also shown that loss of
+PGC1A protects against cancer as mitochondrial function is required for
+transformation and tumor growth. No human studies have examined the role
+of these genes in relation to cancer incidence. Our objective was to
+examine associations between PGC1A and PGC1B methylation in relation to
+cancer incidence.
+
+Methods: We studied 491 Normative Aging Study participants who had blood
+drawn 1-4 times from 1999 through 2012. After median 10.2-year follow-up,
+there were 125 incident cancers including 36 prostate. PGC1A and PGC1B
+methylation was measured at 30 and 27 sites, respectively, using the
+HumanMethylation450k assay. We used Cox proportional hazards models to
+examine associations between CpG methylation and cancer incidence
+measured at first blood draw as well as in time-dependent associations.
+All models adjusted for age, race, smoking status and pack-years, alcohol
+consumption, blood cell composition, and processing batch.
+
+Results: In single-site adjusted time-dependent models, we identified 13
+instances of 11 individual loci (10 from PGC1A and 1 from PGC1B)
+significantly associated with all-cancer and prostate cancer incidence.
+In multi-site adjusted models, we showed cg0677257 from the 3’ UTR of
+PGC1A was inversely associated with first-visit (HR: 0.41; 95% CI: 0.21,
+0.79) and time-dependent all-cancer incidence (HR: 0.42; 95% CI: 0.22,
+0.81). Similarly, we showed cg0942771 and cg03281309 from the gene body
+of PGC1A were inversely associated with time-dependent all-cancer
+incidence (HR: 0.51; 95% CI: 0.30, 0.88; HR: 0.74; 95% CI: 0.56, 0.98,
+respectively). Finally, we found that cg1521939 from the 5’ UTR region
+of PGC1B was positively associated with time-dependent all-cancer
+incidence (HR: 3.27; 95% CI: 1.55, 6.90).
+
+Conclusion: This is the first study in humans to show site-specific PGC1A
+and PGC1B methylation is a significant predictor of cancer incidence.
+These findings point to a possible interplay between telomere and
+mitochondrial dysfunction, and epigenetics in carcinogenesis. Additional
+studies should also examine these associations in larger cohorts with
+greater racial/ethnic, gender, and socioeconomic diversity to validate
+these findings.
+
+

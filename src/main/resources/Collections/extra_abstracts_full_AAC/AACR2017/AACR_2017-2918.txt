@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Analysis of matched pre and post cisplatin-treated muscle-invasive
+bladder cancer reveals a candidate cisplatin mutational signature.
+
+
+Background: Mutational signatures of exposure to DNA damaging agents such
+as UV irradiation, tobacco, and temozolomide have been described; however
+a cisplatin mutational signature has not been identified. We analyzed
+mutational changes in matched pre- and post-cisplatin based neoadjuvant
+chemotherapy (NAC)-treated muscle-invasive bladder cancer (MIBC) samples
+to identify a cisplatin mutational signature.
+
+Methods: Whole exome sequencing and mutation calling was performed on
+matched germline and pre- and post-cisplatin based NAC (MVAC and GC)
+tumor samples from 46 MIBC patients with gross residual disease (≥ pT2)
+at cystectomy. After quality control, samples from 30 patients were
+analyzed. For each tumor, we characterized single nucleotide mutations
+(C>A, C>T, C>G, T>A, T>C, T>G) within a tri-nucleotide context, and used
+an optimized non-negative matrix factorization (NMF) to discover
+signatures of mutational processes in pre-NAC tumors, post-NAC tumors,
+and among mutations unique to the post-NAC samples.
+
+We compared our discovered signatures to previously described human
+mutational signatures and to a signature of cisplatin exposure in a DT40
+(chicken lymphoblast) cell line (normalized for a human exome context).
+We also performed strand asymmetry analysis to search for evidence of
+transcription-coupled repair.
+
+Results: In both pre and post-NAC tumors we identified mutational
+signatures matching those attributed to APOBEC activity and nucleotide
+excision repair pathway defects, consistent with past studies in MIBC. In
+post-NAC tumors we identified an additional novel mutational signature,
+with modest overall cosine similarity (0.61) to the DT40 cisplatin
+signature, but similar C>A and T>A motifs. There was a strong correlation
+in inferred mutational activity (Pearson R = 0.98) when we replaced the
+novel signature with the DT40 signature in the post-NAC tumors, which was
+highly unlikely to be due to chance (p A (p = 0.00025) and T>A (p =
+4.2e-06) motifs with depletion of coding strand mutations, consistent
+with transcription coupled repair of platinum crosslinks at GpG and ApG
+motifs in the non-coding strand. Finally, we were able to rediscover the
+novel signature when limiting analyses to mutations unique to post-NAC
+tumors, consistent with mutational activity during chemotherapy.
+
+Conclusions: Analysis of matched pre- and post- cisplatin treated MIBC
+identified a novel signature in post-cisplatin treated samples that (1)
+has mutational activity similar to a preclinical cisplatin mutational
+signature; (2) has a transcription strand bias consistent with known
+repair characteristics of platinum-induced DNA damage; and (3) arises in
+tumors following cisplatin chemotherapy. This may represent a
+cisplatin-induced mutational signature in human tumors.
+
+

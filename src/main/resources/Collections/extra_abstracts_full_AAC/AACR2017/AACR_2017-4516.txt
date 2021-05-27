@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Dual inhibition of CDK1 and HSP90 destabilizes HIF1α and
+synergistically induces cancer cell death.
+
+
+Solid tumors are often characterized by intratumoral hypoxia.
+Hypoxia-inducible factor 1α (HIF1α) has been implicated in cell
+proliferation, survival, angiogenesis, invasion and migration. The
+expression of HIF-1α is increased in a variety of cancers but this is
+not restricted to hypoxic regions. We have previously shown that
+cyclin-dependent kinase 1 (CDK1) stabilizes HIF1α through direct
+phosphorylation of its Ser668 residue in a Von Hippel-Lindau
+(VHL)-independent manner both under hypoxia and at G2/M under normoxia
+(Warfel et al., Cell Cycle, 2013). Heat shock protein 90 (HSP90) is also
+an acknowledged VHL-independent HIF1α stabilizer. We sought to explore
+the link between CDK1-mediated and HSP90-mediated HIF1α stabilization.
+Administration of the CDK1 inhibitor, Ro-3306, reverses the heat shock
+(40°C)-increased level of HIF1α in normoxia suggesting that CDK1
+activity may contribute to HSP90-mediated HIF1α stabilization. Under
+hypoxia, combination treatment with HSP90 inhibitor geldanamycin and CDK1
+inhibition/knockdown decreases HIF1α levels more robustly than either
+treatment alone. This led us to investigate whether combined CDK1 and
+HSP90 inhibition results in synergistic anti-cancer effects. Indeed, dual
+inhibition of CDK1 and HSP90 synergistically decreases HCT116 colon
+cancer cell viability. PARP cleavage and sub-G1 analysis indicate the
+combinational treatment triggers cancer cell death through apoptosis.
+Consistent with these findings, we observed that inhibition of cell
+viability by the combination is impaired in HCT116 Bax-/- cells.
+Furthermore, the dual inhibition also suppresses cell migration in vitro.
+We further validated our results with CDK1 and HSP90 inhibitors that have
+entered clinical trials. Second-generation HSP90 inhibitor ganetespib and
+Ro3306 synergistically inhibit cell viability in HCT116 cells. We have
+previously demonstrated that CDK4 also contributes to the stabilization
+of HIF1α under hypoxia (Warfel et al., Cell Cycle, 2013). Interestingly,
+the combination of CDK4 and HSP90 inhibitors is also able to improve
+downregulation of HIF1α as compared to either agent alone in various
+cancer cell lines (eg. colon cancer, gliobastoma, etc). The FDA-approved
+CDK4 inhibitor palbociclib along with ganetespib synergistically inhibits
+cell viability in HCT116 cells under hypoxia. Such effect is not observed
+in WI38 normal cells under normoxia at similar concentrations. Our
+findings demonstrate that CDK1 inhibition disrupts the interaction
+between HSP90 and HIF1α providing a rationale for therapeutic targeting
+of HIF1α through the combination of CDK1/4 and HSP90 inhibitors in
+cancer. Ongoing studies are examining the effects of CDK1/4 plus HSP90
+dual inhibition in other tumor types and in vivo.
+
+

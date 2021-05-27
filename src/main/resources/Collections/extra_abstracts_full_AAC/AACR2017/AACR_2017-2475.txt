@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: In vitro and in vivo assessment of the mechanism of action of the
+PARP inhibitor rucaparib.
+
+
+Background: Rucaparib (CO-338) is an oral small molecule inhibitor of
+poly (ADP-ribose) polymerase (PARP) that is being developed for patients
+with BRCA1 and BRCA2 mutated and homologous recombination deficient
+ovarian cancer (Swisher et al., 2016; Lancet Oncol. Epub). The mechanism
+of action (MOA) of rucaparib was characterized in the studies reported
+here.
+
+Methods: Enzymatic and cellular reporter assay profiling were performed
+by BPS Biosciences. Rucaparib potency was assessed using 6-day cell
+viability assays (CellTiter-Glo). In vivo PK/PD and efficacy studies in
+the MDA-MB-436 (BRCA1 mutant) and the HBCx-17 (BRCA2 mutant) TNBC models
+were performed at Crown Biosciences and XenTech, respectively.
+
+Results: In biochemical assays rucaparib inhibited PARP-1, PARP-2 and
+PARP-3, with IC50 values of 0.8, 0.5, and 28 nM, respectively. Rucaparib
+weakly inhibited PARP5a (tankyrase 1[TNKS1]) and PARP5b (tankyrase
+2[TNKS2]) with an IC50 of 796 and 486 nM; however rucaparib did not
+inhibit TNKS1/2 in a cellular reporter assay evaluating Wnt pathway
+signaling (IC50 >10 µM). Rucaparib cytotoxicity was evaluated in the
+BRCA1 mutant (UWB1.289) and wild-type (UWB1.289+BRCA1) isogenic pair, and
+a panel (n=26) of breast and ovarian cancer cell lines. The UWB1.289 cell
+line was more sensitive to rucaparib (IC50 = 375 nM) than the
+UWB1.289+BRCA1 cell line (IC50 = 5430 nM). Rucaparib also decreased the
+cell viability of several BRCA1 and BRCA2 mutant ovarian and breast
+cancer cell lines. Mechanistic analyses in the UWB1.289 cell line
+demonstrated a dose dependent decrease in poly (ADP) ribosylation (PAR;
+IC50 = 2.8 nM), and an increase in DNA damage and apoptosis. Taken
+together, these results are consistent with the concept of synthetic
+lethality, where simultaneous inhibition of multiple DNA repair pathways
+results in irreparable DNA damage and cell death. In vivo PK/PD and
+efficacy studies assessed the MOA and activity of rucaparib in the
+MDA-MD-436 (BRCA1 mutant) xenograft model. In a PK/PD study, dose
+dependent inhibition of PAR was observed in the tumors of mice treated
+with 15, 50 and 150 mg/kg BID rucaparib, resulting in statistically
+significant (p 2-fold) than the levels of rucaparib measured in plasma.
+Dose dependent and statistically significant tumor growth inhibition was
+observed in both subcutaneous and orthotopic xenograft studies evaluating
+the anti-tumor activity of rucaparib in the MDA-MB-436 model. Rucaparib
+also demonstrated potent activity in the BRCA2 mutant HBCx-17
+patient-derived xenograft model.
+
+Conclusion: These results demonstrate that rucaparib is a potent and
+selective inhibitor of PARP1, PARP-2, and PARP-3 with in vitro and in
+vivo activity in BRCA1/2 deficient tumors.
+
+

@@ -1,0 +1,44 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Investigation of estrogen receptor-modulated association between
+immune activities and patient survival in breast cancer
+
+
+In breast cancer, estrogen receptor (ER) is a crucial biomarker for
+subtyping and predicting patients prognosis. Nonetheless, its modulation
+of immune-related genes and survival was rarely discussed. Addressing
+this, in the present study we devised a comprehensive analysis to compare
+the survival associations of immune genes between ER+ and ER- breast
+tumors. Specifically, we modeled immune activities by a gene set
+enrichment analysis of 31 immunologic gene sets defined by a recent
+study. Whole-genome expression profiles and ER status of 279 breast
+cancer patients (245 ER+ and 34 ER-) were downloaded from the Gene
+Expression Omnibus (GSE4922); another dataset was incorporated for
+validation (GSE2034).Nine immunologic gene sets were significantly
+predictive of relapse-free survival (RFS) in a ER+ specific manner (Cox
+P-values0.05 in ER-). In order to investigate the modulation of ER in
+gene set interactions, we calculated the Pearson correlation coefficients
+between gene sets in ER+ and ER- cohorts, respectively. The gene sets
+formed two coexpression clusters in ER+ patients (all correlation
+coefficients>0.7); one cluster was composed of protective gene sets (with
+hazard ratios 0.05 in ER-). In order to investigate the modulation of ER
+in gene set interactions, we calculated the Pearson correlation
+coefficients between gene sets in ER+ and ER- cohorts, respectively. The
+gene sets formed two coexpression clusters in ER+ patients (all
+correlation coefficients>0.7); one cluster was composed of protective
+gene sets (with hazard ratios <1) of dendritic cells, T cell regulatory,
+eosinophil, and mast cell, and the other included risk gene sets of CD4,
+CD8, and effector memory CD4. Interestingly, no significant intra-cluster
+correlation appeared in the ER- condition. We also identified
+inter-cluster inverse correlation between mast cell and CD8 or effector
+memory CD4 in ER+ patients (correlation coefficients0.6 and 0.6 and
+<-0.45 for intra- and inter-cluster pairs, respectively). To further
+dissect the functional relevance of these ER-modulated immune activities,
+we performed Gene Set Enrichment Analysis (GSEA) to identify
+differentially activated biological functions between patients with high
+and low enrichment scores of an immunologic gene set. GSEA revealed
+significant associations with breast cancer grades, subtypes, and
+metastasis.In conclusion, using a gene set framework we comprehensively
+investigated the involvement of ER in modulating between immune
+activities and prognosis. Further biological investigations into our
+findings are warranted.
+

@@ -1,0 +1,69 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Hypoxia-induced Cystathionine-β-synthase (CBS) expression: impact
+on colonic epithelial cells metabolism, proliferation and migration.
+
+
+Introduction: We have reported aberrant overexpression of CBS in human
+colorectal cancers, where its activity (H2S production) promotes tumor
+progression and metastasis. New data show that CBS expression increases
+in adenomatous polyps. The aims of this study were to identify possible
+mechanisms for CBS upregulation and determine the biological impact of
+its upregulation using a premalignant colonic epithelial cell line NCM356.
+
+Methods: Induction of CBS in response to LPS, TLR2&4 agonists, and
+hypoxia was assessed by immunoblotting. CBS overexpression was achieved
+using lentiviral expression vector (pReceiver-Lv103, GeneCopoeia™) in
+NCM356 cells. Global metabolic profiling (Metabolon, Durham) was
+performed on cellular extracts from NCM365 overexpressing cells (CBS-hi)
+and vector-transduced controls. High-resolution respirometry (Orobors
+Oxygraph-2k) assessed bioenergetics. H2S levels were measured using the
+fluorogenic probe 7-Azido-4-methylcoumarin. A Coulter counter was used to
+assess cell proliferation rates. Transwell assays were used to assess
+cell migration. CBS activity was inhibited with aminooxyacetic acid
+(AOAA).
+
+Results: CBS protein expression was increased by ~3-fold in pNCM after 2
+and 24 hr of hypoxia (1% O2). Treatment with LPS but not the TLR agonists
+increased CBS expression 2-fold. Metabolic profiling of CBS-hi cells and
+controls identified 85 metabolites that were differentially expressed (65
+increased and 20 decreased; p≤0.05 Welch’s 2-Sample t-Test). The
+metabolite lanthionine, which is produced by the CBS-dependent
+condensation of cysteine to produce H2S, showed the largest increase
+(12.3-fold increase, p=1.5E-06). A 4-fold increase in basal H2S
+production was measured in CBS-hi cells compared to control cultures.
+High-resolution respirometry showed that CBS-hi cells exhibited a
+significant increase in maximum respiration rate, reserve respiratory
+capacity and increased citrate synthase activity, suggesting increased
+cellular mitochondria mass. Treatment of CBS-hi cells either with pentose
+phosphate pathway inhibitor (oxythiamine) or lactate dehydrogenase
+inhibitor (XF-11) reducing growth by 90% and ~25% at day 5, respectively;
+the inhibitors had no effect on the vector control cells. Exposure of
+NCM356 cells to hypoxic conditions resulted in increased migration to
+conditioned media (pResults: CBS protein expression was increased by
+~3-fold in pNCM after 2 and 24 hr of hypoxia (1% O2). Treatment with LPS
+but not the TLR agonists increased CBS expression 2-fold. Metabolic
+profiling of CBS-hi cells and controls identified 85 metabolites that
+were differentially expressed (65 increased and 20 decreased; p≤0.05
+Welch’s 2-Sample t-Test). The metabolite lanthionine, which is produced
+by the CBS-dependent condensation of cysteine to produce H2S, showed the
+largest increase (12.3-fold increase, p=1.5E-06). A 4-fold increase in
+basal H2S production was measured in CBS-hi cells compared to control
+cultures. High-resolution respirometry showed that CBS-hi cells exhibited
+a significant increase in maximum respiration rate, reserve respiratory
+capacity and increased citrate synthase activity, suggesting increased
+cellular mitochondria mass. Treatment of CBS-hi cells either with pentose
+phosphate pathway inhibitor (oxythiamine) or lactate dehydrogenase
+inhibitor (XF-11) reducing growth by 90% and ~25% at day 5, respectively;
+the inhibitors had no effect on the vector control cells. Exposure of
+NCM356 cells to hypoxic conditions resulted in increased migration to
+conditioned media (p<0.001, NCM356 normoxia vs. hypoxia); inhibition of
+CBS using AOAA attenuated the hypoxia-induced migration.
+
+Conclusions: Hypoxia and LPS can induce CBS expression in a premalignant
+colonic epithelial cell line. Upregulation of CBS has a board impact on
+cellular metabolism including enhanced flux through the transsulfuration,
+glycolytic and pentose phosphate pathways, resulting in enhanced cellular
+bioenergetics, growth and migration. These data suggest that enhance CBS
+activity may be involved the adenoma to carcinoma sequence.
+
+

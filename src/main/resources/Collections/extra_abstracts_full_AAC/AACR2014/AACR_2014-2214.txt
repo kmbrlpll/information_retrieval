@@ -1,0 +1,50 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Genome-wide gene-diabetes and gene-obesity interaction scan in the
+pancreatic cancer case control consortium
+
+
+IntroductionPancreatic cancer is a highly lethal malignancy due to late
+diagnosis and aggressiveness of the tumor. Characterization of high-risk
+populations for monitoring, intervention and early detection remains
+challenging. Obesity and diabetes are potentially modifiable contributors
+to pancreatic cancer. Genetic factors modifying the risk of obesity- and
+diabetes-induced pancreatic cancer have previously not been fully
+investigated at the genome-wide level.HypothesisThere are potential
+genetic factors modifying the associations between obesity/diabetes and
+pancreatic cancer.MethodsIntegrating genotype with risk factor data from
+a GWAS for the Pancreatic Cancer Case Control Consortium, we performed a
+genome-wide gene-environment interaction (G x E) scan for 457,688 SNPs in
+a discovery study of 2,028 cases and 2,109 controls using
+state-of-the-art methods including case-only (CO), case-control (CC),
+Empirical Hierarchical Bayes (EHB), Empirical-Bayes test (EB) and three
+2-step approaches (DG2, EG2, DGEG2).ResultsWe detected a genome-wide
+significant (P IntroductionPancreatic cancer is a highly lethal
+malignancy due to late diagnosis and aggressiveness of the tumor.
+Characterization of high-risk populations for monitoring, intervention
+and early detection remains challenging. Obesity and diabetes are
+potentially modifiable contributors to pancreatic cancer. Genetic factors
+modifying the risk of obesity- and diabetes-induced pancreatic cancer
+have previously not been fully investigated at the genome-wide
+level.HypothesisThere are potential genetic factors modifying the
+associations between obesity/diabetes and pancreatic
+cancer.MethodsIntegrating genotype with risk factor data from a GWAS for
+the Pancreatic Cancer Case Control Consortium, we performed a genome-wide
+gene-environment interaction (G x E) scan for 457,688 SNPs in a discovery
+study of 2,028 cases and 2,109 controls using state-of-the-art methods
+including case-only (CO), case-control (CC), Empirical Hierarchical Bayes
+(EHB), Empirical-Bayes test (EB) and three 2-step approaches (DG2, EG2,
+DGEG2).ResultsWe detected a genome-wide significant (P < 1.09 x 10-7 )
+interaction of diabetes with rs13061928 (in CNTN4) in CO (P = 8.8 x 10-8
+), which was independent of diabetes in control group (P = 0.08). The
+minor allele was in a synergism with diabetes on the cancer risk:
+diabetics carrying GA/AA genotype had a 3.39-fold (95% CI: 2.47-4.65)
+increased disease risk compared with non-diabetics carrying GG genotype.
+Consistently, the SNP-diabetes interaction had a high ranking statistic
+in EHB (No.1) and high p-value ranks for EG2 and DGEG2 methods (No.1, P=
+5.44 x 10-5).ConclusionsThese observations, once validated/confirmed, may
+help define at-risk subpopulation and initiate targeted intervention and
+prevention of pancreatic cancer. Genome-wide G x E analysis requires
+larger sample size than genetic main effects scan; combining the CO
+method with alternative methods may be the optimal scheme for genome-wide
+G x E analysis.
+

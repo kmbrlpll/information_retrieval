@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Analytical and clinical validation of the Epic Circulating Tumor
+Cell (CTC) Platform: enrichment-free CTC detection and biomarker
+characterization
+
+
+Introduction:CTCs hold promise as prognostic and predictive biomarkers
+for cancer management. Many CTC technologies enrich CTCs based on cell
+surface markers or physical parameters such as cell size. However,
+genomic and phenotypic intra-tumor heterogeneity is well documented and
+similarly observed in CTCs. We sought to validate the Epic Platform, an
+enrichment-free approach, for CTC identification and biomarker
+characterization. In addition, we sought to enumerate and molecularly
+characterize CTCs in Metastatic Castrate Resistant Prostate Cancer
+(mCRPC) patients.Experimental Procedures:To assess intra/inter-assay and
+-operator reproducibility, cell line cells (CLCs) were spiked into
+healthy donor (HD) blood and processed onto slides (0.5mL/slide) in
+dilutions ranging from 6-300 CLCs/slide and assessed by%CV of CLC counts
+in replicate samples. Accuracy and linearity were assessed via linear
+regression and slope of all dilutions. CLCs were also molecularly
+characterized by immunofluorescence (IF), FISH, and NGS.To test clinical
+sensitivity, 1mL of blood from 28 mCRPC patients was processed. CTCs
+(CK+, CD45-, DAPI+) and CTC subtypes including apoptotic (CK+, CD45-,
+fragmented DAPI), and CK- (CK-, CD45-, DAPI+) were enumerated. Androgen
+receptor (AR) expression was quantitated on each CTC. A subset of samples
+were further analyzed for ERG rearrangements via FISH and whole genome
+copy number variation (CNV) by NGS. In addition, 18 HDs were tested to
+assess clinical specificity.Results:Intra/inter-assay and operator
+reproducibility across 3 runs each produced 20% CV at 300 CLC/slide and
+30% CV at 25 CLC/slide. The CTC enumeration assay demonstrated accuracy,
+linearity and sensitivity throughout all dilutions tested, 6-300 CLC/mL,
+(x = 1.15, r2 = 0.9987,%CV 30%). CLCs exhibited expected biomarker
+expression (IF) and genetic aberrations (FISH and NGS).No CTCs or CTC
+subtypes were detected in HD samples. At least 1 CTC/mL was detected in
+82% of mCRPC patient samples. Including CK- and apoptotic CTCs, 100% of
+mCRPC patients had at least 1 CTC/mL. Analysis of AR
+expression/localization, ERG rearrangements by FISH, and whole genome CNV
+analyses were consistent with malignant origin.Conclusions:We established
+the reproducibility, linearity, accuracy, and sensitivity of the Epic
+Platform. CTCs and CTC subtypes were absent in HDs and present in all
+mCRPC samples tested. We also demonstrated integrated IF, FISH, and NGS
+characterization of single CTCs, which has powerful implications for
+improved patient selection for targeted therapy and could enable a better
+understanding of intra-patient heterogeneity, clonal evolution, and drug
+resistance and response over time.
+

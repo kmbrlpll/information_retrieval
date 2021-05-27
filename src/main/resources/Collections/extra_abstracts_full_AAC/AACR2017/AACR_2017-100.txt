@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Pancreatic cancer cells rely on the NADPH producing enzyme, IDH1,
+for adaptive survival against acute metabolic stress.
+
+
+We recently demonstrated that pancreatic cancer cells adapt to low
+nutrient conditions and chemotherapeutic stress through an adaptive
+response where HuR (ELAVL1) protects cells from oxidative damage induced
+by metabolic stress. RNA sequencing data and a series of protein-RNA
+interaction assays proved that HuR stabilizes transcript levels of the
+NADPH producing enzyme, isocitrate dehydrogenase 1 (IDH1). HuR-knockout
+cells had near-complete loss of IDH1 expression (manuscript under
+review). In light of the fact that IDH1-null mice are particularly
+sensitive to oxidative damage, we hypothesize that this enzyme plays a
+critical role in PDA survival of acute stress. We examined the expression
+levels of all eight well-characterized NADPH-generating enzymes in
+pancreatic cancer cells in vitro, and demonstrate that only IDH1 and
+phosphogluconate dehydrogenase (PGD) are upregulated by >2-fold after
+incubation in low glucose (5 mM) for 48 hours. IDH1-knockout MiaPaCa2
+cells were generated through CRISPR gene editing, such that mRNA
+expression was detected at We recently demonstrated that pancreatic
+cancer cells adapt to low nutrient conditions and chemotherapeutic stress
+through an adaptive response where HuR (ELAVL1) protects cells from
+oxidative damage induced by metabolic stress. RNA sequencing data and a
+series of protein-RNA interaction assays proved that HuR stabilizes
+transcript levels of the NADPH producing enzyme, isocitrate dehydrogenase
+1 (IDH1). HuR-knockout cells had near-complete loss of IDH1 expression
+(manuscript under review). In light of the fact that IDH1-null mice are
+particularly sensitive to oxidative damage, we hypothesize that this
+enzyme plays a critical role in PDA survival of acute stress. We examined
+the expression levels of all eight well-characterized NADPH-generating
+enzymes in pancreatic cancer cells in vitro, and demonstrate that only
+IDH1 and phosphogluconate dehydrogenase (PGD) are upregulated by >2-fold
+after incubation in low glucose (5 mM) for 48 hours. IDH1-knockout
+MiaPaCa2 cells were generated through CRISPR gene editing, such that mRNA
+expression was detected at <5% of control levels. ROS levels detected by
+DCFDA measurements were increased by 55% in IDH1-knockout cells compared
+to isogenic controls under normal culture conditions, with even higher
+levels under low glucose and chemotherapy stress for 48 hours.
+Additionally, IDH1-knockout cells were more sensitive to chemotherapy
+under both high and low glucose conditions, compared to IDH1-proficient
+control cells. Taken together these results suggest that IDH1 expression
+is important for acute antioxidant defense in pancreatic cancer cells in
+the face of metabolic stress, and represents a potential therapeutic
+target.
+
+

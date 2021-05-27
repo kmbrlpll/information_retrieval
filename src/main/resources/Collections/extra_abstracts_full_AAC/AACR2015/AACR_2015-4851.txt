@@ -1,0 +1,39 @@
+Meeting: 2015 AACR Annual Meeting
+Title: BubbleTree: an intuitive visualization to elucidate tumoral
+aneuploidy and clonality in somatic mosaicism using copy number ratio and
+allele frequency
+
+
+BackgroundTumors are characterized by properties of instability,
+heterogeneity, and significant oligoclonality. Elucidating these patterns
+of tumor clonal evolution is critical to our understanding of neoplastic
+development, which can ultimately improve diagnosis and treatment
+decisions in cancer therapy.MethodsBubbleTree is an intuitive tree-like
+graph used to simultaneously illustrate tumor cell prevalence,
+allele-specific copy number, and clonality in human tumor specimens. This
+method evaluates somatic copy number alterations (SCNAs) at the focal
+genomic segment level to determine allele-specific copy number and
+elucidate the clonal hierarchy within tumors. Further, BubbleTree can
+longitudinally track genetic alterations in clonality during tumor
+progression and/or recurrence. Two models, a Bayesian and finite mixture
+distribution-based method, were developed to automate the interpretation
+of the BubbleTree graph. Both whole genome and whole exome sequencing
+(WGS and WES, respectively) data from three case studies are presented
+using the BubbleTree method: paired primary tumors in the lung and ovary
+from a patient, matched primary and recurrent liver tumors from a
+hepatocellular carcinoma (HCC) patient, and matched primary liver and
+metastatic lung tumors in a second HCC patient.ResultsBubbleTree
+accurately identified both inherited and altered karyotypes, as well as
+their prevalence between primary and recurrent liver tumors in two HCC
+patients, which suggests that the recurrent HCC malignancy post
+orthotopic liver transplantation originated from the primary tumor, with
+novel subclonal expansion during metastasis. Furthermore, BubbleTree
+accurately reveals the dominant clone and instable subclones in the lung
+tumor of a patient with synchronous double malignancies; these results
+were validated by fluorescent in situ hybridization.ConclusionsOur model
+is robust for both WGS and WES data, with consistency demonstrated on
+both data types from the same tumor biopsy. The BubbleTree diagram and
+model presented here is a powerful approach to provide a comprehensive
+spectrum of the heterogeneous tumor karyotype in tumors. Further, this
+tool is a free R package available for download at Bioconductor.
+

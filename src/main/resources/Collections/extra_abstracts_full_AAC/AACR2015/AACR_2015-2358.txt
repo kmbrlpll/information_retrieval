@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Quantifying PD-L1 spatial distribution signatures for patient
+selection approaches
+
+
+Inhibitors of inflammatory checkpoints, such as PD-L1 inhibitors, have
+demonstrated great promise in preclinical and clinical studies. This
+therapeutic paradigm focuses on controlling natural inflammatory
+checkpoints to stimulate an elevated inflammatory response against the
+tumor to increase anti-tumor inflammatory cell infiltrates in the tumor
+microenvironment or decrease inflammatory suppressor infiltrates. The
+proteins which control these processes can be found in the tumor cells,
+cells in the tumor micro-environment (TME), or in both locales. Positive
+cells are often assessed in a qualitative or semi-quantitative manner
+using immunohistochemistry and evaluation of a limited number of
+representative microscopy fields across a particular tissue compartment
+(tumor vs stroma) or the whole tissue area. However, the locale of the
+inflammatory suppressors such as PD-L1 may be more revealing than
+estimating the tumor-wide dispersion of an inflammatory cell type.
+Unfortunately, the intricate spatial relationships and the often complex
+distribution of inflammatory cells in tissues pose significant challenges
+for a meaningful evaluation.We have developed an approach which can
+quantify these spatial relationships in a contextual, biologically
+meaningful score. Immunohistochemistry staining for PD-L1 in whole lung
+cancer tissue sections was performed, and our CellMap software was used
+to assess inflammatory cell distribution in the whole tissue sections.
+PD-L1 positive cells were quantified relative to: 1) the total number of
+cells in the tumor and stromal tissue compartments, and 2) the number of
+cells within a distance from the tumor/stroma interface. Interestingly,
+several unique PD-L1 distribution patterns relative to the tumor/stroma
+interface were observed in the sample cohort analyzed. Quantifying the
+distribution of PD-L1 positive cells as a function of distance from the
+tumor/stroma interface revealed distribution signatures, which could be
+used to differentiate between samples. In contrast, this differentiation
+of the same samples was not possible when PD-L1 cells were assessed
+relative to the total number of cells.This study provided a novel method
+for assessing inflammatory cell type spatial distribution relative to a
+tissue feature, the tumor/stroma interface. The data suggested that
+unique spatial patterns of inflammatory cell type distribution could be
+used to uniquely stratify patients compared to existing quantitative
+methods. Taken together, this proof-of-concept study demonstrates a
+unique quantitative assessment of inflammatory cell infiltrates in tumors
+that could be used to gain new insights into inflammatory cell type
+distributions and interactions in tumors, inflammatory cell spatial
+responses to oncology therapies, and novel patient selection criteria for
+traditional and immuno-oncology therapeutics.
+

@@ -1,0 +1,41 @@
+Meeting: 2015 AACR Annual Meeting
+Title: De novo engineering of chromosomal amplifications in human cells
+
+
+Chromosomal amplifications are among the most common genetic alterations
+found in human cancers. However, experimental systems to study the
+processes that lead to recurrent amplification events are lacking.
+Moreover, some common amplification events, such as that at 8p11-12 in
+breast cancer, harbor multiple candidate driver oncogenes, which are
+poorly modeled by conventional overexpression approaches. We sought to
+develop an experimental system to model recurrent chromosomal
+amplification events in human cell lines. Our general strategy is to use
+homologous-recombination-mediated gene targeting to deliver a dominantly
+selectable, amplifiable marker to a specified chromosomal location. We
+chose regions recurrently amplified at high frequency in breast cancer,
+including 8p11-12, 17q12, and 11q13-14. After confirmation of successful
+gene targeting, the targeted cells are subjected to selective pressure
+directed at the amplifiable marker. Spontaneous DNA breakage events lead
+to varying degrees of co-amplification of linked loci near the targeting
+site. We used adeno-associated virus vectors to target human MCF-7 breast
+cancer cells at the ZNF703 locus, in the recurrent 8p11-12 amplicon,
+using either the E. coli inosine monophosphate dehydrogenase enzyme IMPDH
+or a mutant dihydrofolate reductase gene as a marker. We applied
+selective pressure using IMPDH inhibitors. Surviving clones were found to
+have increased copy number of ZNF703 (average 2.5-fold increase) by
+droplet digital PCR. Genome-wide array comparative genomic hybridization
+confirmed that amplification had occurred on the short arm of chromosome
+8, without changes on 8q or other chromosomes. Patterns of amplification
+were variable and similar to those seen in primary human breast cancers,
+including sawtooth patterns, distal copy number loss suggesting a
+breakage-fusion-bridge mechanism, and large continuous regions of copy
+number gain. Amplification was confirmed by FISH. RT-PCR and
+immunoblotting demonstrated overexpression of selected amplified
+transcripts and proteins. In summary, we have used genome engineering
+techniques to create focal chromosomal amplification events de novo in
+human cell lines. These amplifications share many of the features of
+amplifications observed in primary human cancers. This system will allow
+study of the cis- and trans-acting factors that are permissive for
+chromosomal amplification and provide a system to model oncogene
+cooperativity in amplifications harboring multiple candidate driver genes.
+

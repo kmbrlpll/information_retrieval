@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Relapse in BCP-ALL predicted by activated signaling in pro-B cell
+subsets
+
+
+B-cell precursor acute lymphoblastic leukemia (BCP-ALL) is the most
+common type of childhood cancer and is characterized by the malignant
+expansion of B-lymphocyte progenitors in the bone marrow (BM). Current
+therapy improves the relapse-free survival in children to over 80%.
+However, the 20% of patients who relapse have a poor prognosis and there
+are no reliable tests that predict relapse using diagnostic samples. We
+reasoned that aligning BCP-ALL cells according to a formalized context of
+normal B-lymphocyte development would reveal hidden cell states
+associated with relapse, and potentially expose targets to augment
+therapy for patients at risk. Until recently, our ability to pinpoint the
+identities of B-cell progenitors had been hindered by the vast cellular
+diversity within the BM and by the scarcity of the primary BM samples. We
+applied a single-cell proteomics platform termed mass cytometry by
+time-of-flight (CyTOF). In CyTOF, elemental mass reporter tagged
+antibodies probe proteins defining cellular identity and signaling within
+those cells. CyTOF simultaneously quantifies > 40 proteins per cell in
+millions of individual cells. We defined a cell-state signature for 15
+developmental populations of B lymphocytes within the normal human BM.
+Using this signature we assigned each leukemia cell from 52 primary
+diagnostic samples to its closest match in B lymphopoiesis using a
+classifier based on Mahalanobis distance. When applied to BM samples from
+4 healthy donors our classifier correctly assigned cells to the true
+developmental population (accuracy = 0.92, F-measure = 0.92). Using this
+classifier it was determined that each BCP-ALL sample contains a mix of
+developmental populations - with 97% of samples enriched in populations
+that span the pre-pro-B to pre-B transition. We identified 20 predictors
+(using a machine learning approach) in diagnostic samples that perfectly
+separate patients who will relapse from those who will not (lasso;
+predictive AUC = 0.83). This is superior to the NCI risk that is
+currently employed at clinical diagnosis. These predictors are
+informative and suggest that high basal activation of IL-7 signaling
+nodes (pSTAT5, pAKT) in pre-pro-B to pro-BII cells and poor response
+following pre-B-cell receptor engagement in pre-BI cells portend relapse.
+As such, these pathways might eventually be targeted via drug repurposing
+to improve outcomes and to guide therapy in the high-risk childhood
+BCP-ALL patients identified with our predictor signature. Such an
+approach to cancer cell developmental classification could be generally
+applicable across various investigations on understanding and preventing
+relapse.
+

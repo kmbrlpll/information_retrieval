@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Development and characterization of CCK2R-targeted SMDCs and
+identification of GIST as a potential therapeutic indication
+
+
+Cholecystokinin B receptor (CCKBR/CCK2R) is a GPCR of the cholecystokinin
+receptor family that is primarily expressed in the CNS and the
+gastrointestinal tract where it binds the ligands cholecystokinin and
+gastrin, respectively, and mediates their downstream actions. Since it
+has been reported that CCK2R is overexpressed in certain cancer types, we
+have explored the potential of utilizing CCK2R as a receptor system to
+deliver potent therapeutic warheads. To this end, we designed a series of
+CCK2R-targeted small-molecule drug conjugates (SMDCs) containing either a
+non-peptidic antagonist (Z-360) or a peptidic agonist (CCK8) as their
+ligand moiety and explored their activity in in vitro and in vivo models.
+While EC1812 (Z-360-tubulysin B) failed to elicit either competable
+cytotoxicity in vitro or robust therapeutic response in vivo (n = 5; 1
+PR) when tested against a HEK293-CCK2R overexpressing cell line, the
+addition of a PEG36 linker to generate EC1977 greatly improved
+therapeutic efficacy in vivo (n = 5; 1 CR, 4 cures) despite having no
+activity in vitro. In contrast, while EC1868 (CCK8-tubulysin B)
+demonstrated potent, competable cytotoxicity in vitro it had only modest
+activity in vivo (n = 5; 5 CRs). To explore the clinical relevance of a
+CCK2R-targeted SMDC, we performed mRNA profiling of a human cancer array
+to identify indications that have high CCK2R mRNA expression. Of all the
+indications present on the array, those representing gastrointestinal
+stromal tumor (GIST) were identified as expressing the highest level of
+CCK2R mRNA. To further elucidate the clinical relevance of this finding,
+we procured human clinical samples from GIST patients and determined
+CCK2R-specific radioligand binding and mRNA levels. These data revealed
+that 50% of GIST samples express high levels of CCK2R mRNA and exhibit
+functional ligand binding. Interestingly, although 50% of normal stomach
+samples had similar mRNA levels as the high-expressing GIST samples, they
+failed to exhibit detectable radioligand binding. In contrast, HCC, colon
+cancer, and pancreatic cancer samples were all negative for both mRNA
+expression and ligand binding. Subsequent screening of a series of GIST
+patient-derived xenograft (PDX) models for functional binding and mRNA
+levels failed to identify an appropriate model for further in vivo
+testing. In conclusion, we have developed and characterized a series of
+CCK2R-targeted SMDCs and tested their activity in vitro and in vivo.
+Given the expression and functional binding of CCK2R in GIST we propose
+that GIST may represent an indication for CCK2R-targeted therapies.
+

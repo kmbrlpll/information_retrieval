@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Interpreting glioma MR imaging and somatic mutations in a cancer
+hallmark context.
+
+
+Extracting biologically relevant data from radiology images can enable
+better monitoring of disease progression and therapy response. The field
+of radiogenomics is providing new approaches for such genomic/radiology
+correlations. However, there are several challenges in validation and
+clinical translation in that few DNA mutations are shared between tumors
+from different individuals and the differences in scale between imaging
+and genomic features can limit interpretation of underlying mechanisms.
+The goals of this work were to i) analyze correlations between low grade
+glioma (LGG) DNA somatic mutations, using a novel DNA impact scoring
+approach, and MRI derived imaging features; and ii) to interpret results
+in context of cancer hallmarks1. Multi-parametric MRI and corresponding
+DNA data from 32 LGG patients were extracted from The Cancer Genome Atlas
+(TCGA) and The Cancer Imaging Archive (TCIA). The cohort included 18
+males (56%), with mean age of 44 years (range: 21-74 years). An expert
+radiologist outlined the normal and tumor regions of interest using
+ITK-Snap tool. The normal region was used as a reference to normalize
+image intensities in the tumor region. Tumor mean intensity and mean
+variance were computed from Apparent Diffusion Coefficient (ADC), T1
+enhancement ratio (derived from T1 pre- and post- contract MRI), and
+Fluid-Attenuated Inversion Recovery (FLAIR) images. A novel algorithm was
+used to compute DNA impact scores for each somatic mutation. The score
+represents the probability of a DNA variant being pathogenic vs.
+nonpathogenic. First, the scoring algorithm computes a score for
+nucleotide base insertions, deletions, or single base changes and then
+computes the consequence of such changes on amino acid coding, binding
+sites, splice sites and protein phosphorylation sites. An impact score
+was then computed based on the individual DNA impact scores of mutations
+within the gene. Finally, an average DNA impact score was computed at the
+Cancer Hallmark level using a gene-cancer hallmark map. At gene level,
+significant positive correlations were found between the ATRX (p=0.0002),
+TP53 (p=0.02) and ADC mean intensity. At pathway level, regulation of
+TP53 expression and degradation, and DNA damage response, signal
+transduction by p53 class mediator, and DNA translocase activity were
+found to be enriched with genes that correlated with ADC and FLAIR. These
+pathways also contained genes that were enriched in the following cancer
+hallmarks: replicative immortality, evading growth suppression and genome
+instability. The ATRX gene is a member of all three hallmarks and TP53 a
+member of two. Since ADC is a measure of water diffusion and hence an
+indirect measure of cellularity, these findings demonstrate that
+mutations in replication and repair pathways are contributing to imaging
+features at the tumor level.1 Hanahan, D. and Weinberg, R.A. (2011).
+Hallmarks of cancer: the next generation. Cell 144(5):646-74.
+
+

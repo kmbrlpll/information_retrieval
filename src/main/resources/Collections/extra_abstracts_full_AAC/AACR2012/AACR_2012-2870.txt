@@ -1,0 +1,42 @@
+Meeting: 2012 AACR Annual Meeting
+Title: p28, a cell penetrating peptide fragment of azurin, inhibits COP1
+mediated ubiquitination of wild type and mutated p53, but does not alter
+intracellular levels of c-jun
+
+
+Amino acids (aa) 50-77 of azurin, p28, a 128 aa member of the cupredoxin
+family of copper containing redox proteins, isolated from the
+opportunistic pathogen Pseudomonas aeruginosa is a cell penetrating
+peptide (CPP) that preferentially penetrates a wide variety of human
+cancer cells. Exposure of p53wt, mut cancer cells to p28 produces a post
+translational increase in the level of p53, inhibition of the cell cycle
+at G2/M and apoptosis (Yamada et. al., Mol. Can. Therap., 8:2947-58,
+2009). Computer simulation (ClusPro, GROMACS) and domain specific
+antibodies to p53 suggest p28 binds to motifs that span aa 110146 in
+flexible L1 loop and 80 and 276 of the p53 DNA binding domain (DBD),
+respectively. Western and RT-PCR analyses of human breast cancer, MCF-7
+(p53wt), MCF-7 derived MDD2 (p53dom/neg), MDA-MB-231 (p53mut), and
+melanoma cells, Mel-29 (p53wt), Mel-23 (p53mut) and Mel-6 (p53null)
+exposed to p28 for 72 hrs showed a significant increase in the levels of
+p53 and p21 in MCF-7, MDA-MB-231, Mel-29 and Mel-23 cells, while
+significantly reducing the level of FoxM1 over a 72hr exposure. The level
+of STMN1 was not altered suggesting the block at G2/M does not involve
+microtubules. p28 significantly decreased the level of the E3 ligase COP1
+in p53wt, mut MCF-7, MDA-MB-231, Mel-29 and Mel-23, but not in p53null
+Mel-6 cells. In addition, p28 did not significantly decrease the level of
+E3 ligases TOPORS, Pirh2 or HDM2 which also ubiquitinate p53. The levels
+of p53, p21, FoxM 1, STMN1, COP1, TOPORS and Pirh2 either remained
+essentially at control levels (p53, p21) or were elevated (FoxM1, STMN1,
+COP1, TOPORS, Pirh2) at some point during a 72 hr exposure of p53dom/neg
+MDD2 cells to p28. In contrast, COP1 has also been reported to negatively
+regulate cell proliferation in a c-jun-dependent manner and not regulate
+intracellular levels of p53 (Migliorini et. al., J. Clin. Invest., 121:
+1329-43, 2011). The p28 induced decrease in the level of COP1 in p53wt,
+mut cancer cells was not accompanied by a sustained increase in c-jun, in
+any cancer cell line, suggesting that COP1 regulates the level of p53 in
+cancer cells independent of any effect on c-jun. These data also suggest
+that COP1, but not TOPORS or Pirh2, also binds within this region of p53,
+and that COP1 is a major regulator of p53 activity. In sum, these data
+suggest that p28 binds to a specific motif within the p53 DBD where it
+inhibits COP1 mediated binding to and ubiquitination of p53.
+

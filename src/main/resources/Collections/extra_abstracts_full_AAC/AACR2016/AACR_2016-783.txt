@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Methylation-expression QTLs (meeQTLs) as part of an integrated
+model of the disruption of gene regulation in cancer
+
+
+This work describes a new approach aimed at untangling the complex
+relationship that disrupted methylation patterns share with aberrant gene
+expression in cancer.Typically, the association between methylation and
+gene expression is considered through correlation analysis.
+Anti-correlation of promoter DNA methylation with expression is taken to
+imply repression of the gene. However, this approach is limited in its
+ability to consider the effect of methylation on genes other than the one
+most proximal to a CpG whose methylation value is known. Furthermore, the
+lack of a statistical model means that covariates may be ignored.
+Additionally, unnecessary tests may be run (reducing statistical power)
+when all data points are treated as independent, when in reality CpG loci
+that are close to each other are often highly correlated. Finally, the
+effect of copy number variation on gene expression is often not
+considered.We propose an approach that addresses these issues and finds
+significant results with large effects even with relatively small sample
+sizes. The core of our method involves eQTL analysis, but not based on
+the typical SNP-gene association. Instead, matched tumor/normal data are
+used to model differentially methylated regions (DMRs) throughout the
+genome. Highly correlated values are aggregated, resulting in a more
+stable measure of methylation and fewer tests. The extant of differential
+methylation for an individual is then assigned as that individual's
+genotype for a DMR. These genotypes are then used for an eQTL analysis,
+modeling the association of methylation and expression both in cis and in
+trans. We call this meeQTL analysis, for methylation-expression QTLs.
+Covariates can also be included in the model. Furthermore, the effect
+sizes from meeQTL analysis are adjusted, to compensate for the effect of
+copy number variation on the results.As a proof of concept, we ran our
+meeQTL analysis on breast cancer data from TCGA, and found thousands of
+significant meeQTLs, using just 78 matched samples. The top 10
+cis-meeQTLs (by effect size) had absolute log-odds between 6 and 9 (i.e.
+a 1 unit increase in methylation is associated with a 6 to 9 unit change
+in expression), and include genes such as HIF3A, a negative regulator of
+hypoxia response genes, or KLF15, which regulates TP53 and NF-kappa B.
+The top 10 trans-meeQTLs had absolute log-odds between 16 and 19 and
+include multiple genes associated with a DMR in the first intron of
+CRADD, a death-domain containing protein. Our model also found that DMRs
+experience significantly fewer somatic mutations than other loci and
+identified regions of copy number variation associated with aberrant gene
+expression in trans. These results suggest our approach can provide
+robust delineation of methylation and expression relationships arising
+from the complex structure of the genome and the epigenetic mechanisms
+regulating its activity.
+

@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Sequencing the human TCRβ repertoire on the Ion S5™ System.
+
+
+Next-generation Sequencing (NGS) is proving an important tool in
+increasing understanding of the human immune system, and thereby cancer
+immunology. αβ-T cells are the primary constituents of human
+cell-mediated adaptive immunity. The antigen specificity of each αβ-T
+cell is encoded in the 500-600 bp transcript encompassing the variable
+portion of the rearranged TCRα and TCRβ subunits, which can be read via
+NGS in a process termed repertoire sequencing. Until now, the main
+challenge the field faces is the lack of a technology that can provide a
+contiguous read of 600 bp to minimize the complexity of designing
+bias-prone primers and informatics challenges of stitching short reads.
+Here we leverage the long read capability of Ion 530™ chip to
+comprehensively sequence all three CDR domains of the TCRβ chain. The
+Ion 530™ chip offers greater than 15 M productive reads, allowing a
+multiplex of 2-4 samples with sufficient coverage for most repertoire
+profiling studies. Initial testing with Leukocyte total RNA demonstrates
+that this multiplex PCR assay produced repertoires that were much more
+similar to data derived from 5’RACE protocol than the commonly used
+BIOMED2 primer set. This result suggested that the use of long reads
+minimizes bias by allowing targeting of less variable regions. To further
+assess the performance of the assay, we designed a model system of 30
+plasmid controls containing common human T-cell CDR3 sequences. Each
+plasmid was amplified individually and sequenced to confirm the detection
+of a single clonal population. Analytical sensitivity of the assay and
+accuracy of the accompanied analysis solution were further evaluated by
+spiking in plasmid concentrations from 10 pg to 0.0001 pg (5 million to
+50 copies) in a background of 100 ng cDNA reverse transcribed from
+leukocyte total RNA. Results showed the assay offers linearity over 5
+orders of magnitude of decreasing input concentration. In summary, we
+have demonstrated a NGS workflow for TCRβ sequencing that offers
+multiplex flexibility on Ion S5 with sample to answer in less than 48
+hours. For Research Use Only. Not for use in diagnostic procedures.
+
+

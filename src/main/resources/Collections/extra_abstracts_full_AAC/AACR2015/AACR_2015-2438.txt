@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identification of the mitochondrial binding site on the
+amino-terminal end of hexokinase II
+
+
+Hexokinase II is responsible for the first step in the glycolysis
+pathway. Hexokinase II adds a phosphate onto the glucose molecule so it
+can proceed down the pathway to give the cancer cell energy for its
+continuous growth. Tumor cells overexpress the hexokinase II enzyme. In
+fact, it is the overexpression of the hexokinase II enzyme that makes the
+diagnosis of cancer possible when imaged by positron emission tomography
+(PET). Hexokinase II binds to the voltage-dependent anion channel (VDAC)
+on the mitochondrial membrane and when it is attached to the
+mitochondrial membrane it is blocking a major pathway for cell death.
+Thus, hexokinase II is responsible for two characteristics of cancer
+cells, rapid tumor growth and difficulty to kill. Therefore the overall
+goal of our laboratory is to identify novel compounds with the ability to
+displace or translocate hexokinase II from the mitochondrial membrane to
+the cytoplasm. To attain our goal, we propose to use the crystal
+structure of hexokinase II to create a molecular model of the enzyme.
+However the amino acids responsible for binding to VDAC are not known.
+Therefore, we made a series of truncations and point mutations to
+identify the binding site to VDAC. Truncations of the first 10 and 20
+amino acids indicated that important amino acids for binding were located
+within the first 10 amino acids. We made a series of single, double and
+triple point mutations within the first 10 amino acids.
+Immunofluorescence and immunoblot data has confirmed that mutating the
+fifth amino acid from histidine to proline completely abolished binding
+to the mitochondrial membrane. To prepare hexokinase II for
+crystallization, we have cloned the enzyme downstream of a thrombin
+cleavage site and His-tag. We were able to purify hexokinase II using a
+cobalt column, then eluting hexokinase II using thrombin to cleave at the
+thrombin cleavage site. Purified hexokinase II is isolated after removal
+of the thrombin using Protein A beads. After the crystal structure of
+hexokinase II is obtained, we will use the University of Florida
+Structure-based Molecular Docking Core facility to identify compounds
+predicted to fit into the VDAC binding site. The compounds will be
+characterized to validate a mechanism-of-action of translocating
+hexokinase II from the mitochondrial membrane to the cytoplasm, blocking
+glycolysis and decreasing ATP synthesis. The positive compounds will be
+analyzed to determine the best strategy for moving our studies closer to
+clinical application in cancer patients.
+

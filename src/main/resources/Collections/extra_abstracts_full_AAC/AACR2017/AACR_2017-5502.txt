@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Functional evaluation of superenhancers as mediators of epithelial
+ovarian cancer risk.
+
+
+Superenhancers are master regulators of genes involved in cellular
+differentiation and tumorigenesis. While it is now well established that
+typical enhancers are key mediators of alleles associated with a mild
+risk of polygenic diseases, including cancer, the role of superenhancers
+is less understood. We evaluated the role of superenhancers in mediating
+risk of epithelial ovarian cancer (EOC). Using FunciVar software and
+superenhancers defined using H3K27ac chromatin immunoprecipitation
+followed by next generation sequencing, performed in cell lines and
+tissues, we characterized the superenhancer-risk SNP intersect and
+identified a series of risk-associated loci where multiple candidate
+causal alleles overlap with ovarian superenhancers. In particular, locus
+3q25, the locus most associated with epithelial ovarian cancer (EOC) risk
+from GWAS studies, has >70 candidate causal risk SNPs, all of which
+coincide with superenhancers detected in ovarian cancer precursor cells
+(ovarian and fallopian tube epithelia) but not in ovarian cancers. We are
+proposing that the presence of one or more SNPs occurring at this locus
+leads to a higher expression of one or more genes by modulating
+activation of the superenhancer region. We tested the effect of
+decreasing the binding affinity of BRD4, a protein that binds
+superenhancer regions, using a small molecule inhibitor on the expression
+of genes in this locus. We identified three candidate genes—LEKR1,
+SSR3, and TiPARP—that demonstrated a decrease expression level as a
+result of BRD4 binding inhibition.
+
+Preliminary results show that partial knockdown of either SSR3 or TiPARP
+decreases normal ovarian and fallopian cell proliferation, and knocking
+down both SSR3 and TiPARP simultaneously shows an enhanced proliferation
+decrease compared with knockdown of a single gene. We then created stable
+knockout (KO) models using the CRISPR-Cas9 system to fully KO one, two or
+all three of our candidate causal genes: LEKR1, SSR3, and TiPARP.
+Functional evaluation of these KO models is currently underway to test
+the hypothesis that risk SNPs may regulate more than one gene at this
+locus. In all we identify a potential role for superenhancers at a subset
+of EOC risk loci, and present a functional pipeline for identification of
+the target gene/genes and evaluation of their role in neoplastic
+transformation.
+
+

@@ -1,0 +1,44 @@
+Meeting: 2014 AACR Annual Meeting
+Title: The breast cancer metastasis suppressor RRP1B modulates metastasis
+through regulation of histone methylation
+
+
+Ribosomal RNA Processing 1 Homolog B (Rrp1b) is a germline breast cancer
+metastasis suppressor that regulates transcription to induce a highly
+prognostic gene expression signature. Although RRP1B interacts with
+chromatin- and mRNA splicing-associated factors, the mechanisms by which
+RRP1B modulates metastasis-associated gene expression are unclear. In
+this study, we examined the chromatin-binding properties of RRP1B to
+determine the mechanism by which it regulates metastasis-associated gene
+transcription.Genome-wide chromatin binding sites for endogenous RRP1B
+were defined using chromatin immunoprecipitation-sequencing (ChIP-seq) in
+Hela and MDA-MB-231 cells. ChIP-seq analysis of these samples identified
+689 RRP1B binding regions in Hela and 339 binding regions in MDA-MB-231
+cells. Among these, 136 regions were common to both cell lines. The
+expression of 40 genes located at or near these binding regions was
+examined by qPCR in MDA-MB-231 cells stably over-expressing RRP1B. These
+experiments demonstrated that RRP1B binding is primarily associated with
+transcriptional repression. Co-occupancy of RRP1B with the
+heterochromatin-associated proteins TRIM28 and HP1 at these loci were
+observed through ChIP-reChIP assays. Interaction between RRP1B and TRIM28
+and HP1 was confirmed through co-immunoprecipitation.TRIM28 and HP1 have
+been shown to induce trimethylation of histone H3 at the lysine-9
+position (H3K9me3) via the histone methyltransferase, SETDB1. Increases
+in H3K9me3 are typically associated with heterochromatinization and
+transcriptional repression. Given that RRP1B interacts with both TRIM28
+and HP1, and binds at common chromatin regions with these factors, we
+hypothesized that RRP1B is also implicated in increasing H3K9me3 levels
+at these loci. To examine the effect of RRP1B on H3K9me3, ChIP assays
+were performed in MDA-MB-231 cells stably over-expressing RRP1B and
+control cells with an antibody against H3K9me3. ChIP-qPCR demonstrated
+that chromatin regions that displayed co-occupancy of RRP1B with TRIM28
+and HP1 have increased levels of H3K9me3 compared to that of the control.
+Additionally, ChIP-seq for H3K9me3 in cells stably over-expressing RRP1B
+demonstrated that RRP1B causes a global increase in H3K9me3 levels
+compared to control.These data collectively demonstrate that RRP1B
+regulates gene expression at the transcriptional level through an
+association with the transcriptional repressors TRIM28 and HP1.
+Furthermore, the prominent mechanism that the metastasis suppressor RRP1B
+uses to regulate transcription is through epigenetic modifications, such
+as histone methylation.
+

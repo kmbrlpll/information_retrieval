@@ -1,0 +1,66 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genomic wide microarray analysis identifies novel copy number
+alterations in adult acute myeloid leukemia.
+
+
+Introduction: Novel array-based technique as SNP microarray can detect
+losses or gains of chromosomic material, which could be predictive of
+response and can help define therapeutic strategies. The aim of this
+study is to improve conventional cytogenetic analysis and identify new
+genetic alterations relevant to leukemogenesis, by a SNP array-based
+genotyping approach.
+
+Materials and Methods: We performed SNP 6.0 or Cytoscan HD (Affymetrix)
+in 235 Acute Myeloid Leukemia (AML) patients at diagnosis.
+Seventy-eight/235 samples were also performed by Whole Exome Sequencing,
+WES (HiSeq,Illumina). SNP Array data were analyzed by Nexus Copy Number
+v8.0 (BioDiscovery) and R Core Team.
+
+Results: Copy Number Alterations (CNAs) were scattered across all
+chromosomes and all pts showed CNA events. SNP array analysis showed that
+several genes were preferentially deleted, including MRPS5 (14.8%), PHF6
+(9.3%), SCAPER (7.2%), CASK (5.9%), WNK (4.6%), STAG2 (4.2%), LRRK1
+(3.4%), PALB2 (3.4%), while the genes preferentially amplified were
+RABL2B (16.1%), NF2 (10.2%), NBPF9 (7.6%), JAK2 (6.8%), RB1, NF1 and
+KMT2A (4.2%), PTEN (3.4%), TP73 and SMAD2 (2.5%). Single-copy losses and
+deletions were enriched (pResults: Copy Number Alterations (CNAs) were
+scattered across all chromosomes and all pts showed CNA events. SNP array
+analysis showed that several genes were preferentially deleted, including
+MRPS5 (14.8%), PHF6 (9.3%), SCAPER (7.2%), CASK (5.9%), WNK (4.6%), STAG2
+(4.2%), LRRK1 (3.4%), PALB2 (3.4%), while the genes preferentially
+amplified were RABL2B (16.1%), NF2 (10.2%), NBPF9 (7.6%), JAK2 (6.8%),
+RB1, NF1 and KMT2A (4.2%), PTEN (3.4%), TP73 and SMAD2 (2.5%).
+Single-copy losses and deletions were enriched (p<.001) for genes mapping
+into the following pathways: aberrant PD-1 signaling, loss of function of
+SMAD4 in cancer and SMAD4 MH2 Domain mutants in cancer. The functional
+pathways significantly (pResults: Copy Number Alterations (CNAs) were
+scattered across all chromosomes and all pts showed CNA events. SNP array
+analysis showed that several genes were preferentially deleted, including
+MRPS5 (14.8%), PHF6 (9.3%), SCAPER (7.2%), CASK (5.9%), WNK (4.6%), STAG2
+(4.2%), LRRK1 (3.4%), PALB2 (3.4%), while the genes preferentially
+amplified were RABL2B (16.1%), NF2 (10.2%), NBPF9 (7.6%), JAK2 (6.8%),
+RB1, NF1 and KMT2A (4.2%), PTEN (3.4%), TP73 and SMAD2 (2.5%).
+Single-copy losses and deletions were enriched (p<.001) for genes mapping
+into the following pathways: aberrant PD-1 signaling, loss of function of
+SMAD4 in cancer and SMAD4 MH2 Domain mutants in cancer. The functional
+pathways significantly (p<.001) deregulated in our cohort with single
+copy gain and homozygous amplification were: regulation of transcription
+and nucleic acid, negative regulation of metabolic processes,
+constitutive signaling by aberrant PI3K in cancer and PI3K/AKT network.
+Finally, in order to define driver alterations, we correlate deletions
+and losses with mutational data. Interestingly, we found losses which are
+also targeted by mutations (BRCA2, LRRK1). Moreover, some deleted genes,
+as CASK, CDK6 and MAPT, were involved in pathways affected by genomic
+mutations (CASK deletion and MPP6 mutation, CDK6 deletion and PPM1D
+mutation, MAPT deletion and SPAG5 mutation).
+
+Conclusion: We have identified new CNAs and pathways involving novel
+potential leukemia-related genes. Our results suggest that the comparison
+between SNP and WES data could provide important findings on prognosis of
+AML patients. Minimal deleted regions of genes implicated in deregulated
+pathways deserve further investigation in order to identify new candidate
+genes which could be relevant AML biomarkers. Acknowledgements:
+ELN,AIL,AIRC,progetto Regione-Università 2010-12 (L. Bolondi),FP7
+NGS-PTL project,HARMONY.
+
+

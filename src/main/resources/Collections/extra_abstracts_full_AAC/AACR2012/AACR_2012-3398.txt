@@ -1,0 +1,38 @@
+Meeting: 2012 AACR Annual Meeting
+Title: High-throughput expression profiling of circulating tumor cells
+from breast cancer patients as potential therapy decision indicator
+
+
+Background: The aim of this study was to assess the molecular profiles of
+circulating tumor cells (CTCs) from metastatic breast cancer (MBC)
+patients and to evaluate their potential as prognostic and therapy
+indicators. Methods: Blood samples (5ml) of 77 MBC patients from Czech
+and German Gynecological Cancer Centers were analyzed for CTCs using the
+AdnaTest BreastCancer (AdnaGen AG, Germany) for the detection of EpCAM,
+MUC-1 and HER-2 transcripts. Obtained cDNA molecules have been
+gene-specifically pre-amplified for multimarker qPCR analysis measured on
+Biomark (Fludigm, USA) microfluidic chip for 48 samples and 48 testing
+positions (in total: 2304 rxn, 31 tumor specific-genes, 30 MBC samples,
+respectively). qPCR- results have been analyzed by GENEX v.s. 5.0
+software (MultiD, SE). Results: CTCs were found in 42% of the MBC
+patients. Based on the AdnaTest, two distinct groups of CTC positive-MBC
+patients have been identified after principal component analysis of the
+gene expression data. The first CTC-positive group had relatively high
+EPCAM, MUC1, KRT19, HER2, AURKA, and MCM expression. In contrast,
+expression of PTEN, SATB1 and CD45 was low. The second CTC-positive group
+showed lower expressions of AURKA, EPCAM, and KRT19 than the first group.
+Furthermore, markers typically expressed in CD45 positive cells like
+SATB1, AKT, PARP, PTEN, mTOR, but also oncogene MYC and tumor suppressor
+TP53 were highly expressed in this group. The samples of CTC-negative MBC
+patients were characterized by low expression of the cancer phenotype
+associated genes EPCAM, KRT19, and MUC1, but showed comparably higher
+expression of genes associated with a stem cell like phenotype such as
+TWIST, ALDH1 and CD24. Conclusions: Based on our data, we conclude that
+CTCs enriched by the AdnaGen-technology are heterogeneous and do not
+necessarily express EPCAM. Even CTCs with low EPCAM expression but with
+elevated KRT19 and AURKA levels may represent a subgroup of high risk
+metastatic BC patients. Follow-up of the patients will show whether
+specific gene profiles of CTCs will a) identify responders and
+non-responders to breast cancer related therapies and b) be useful for
+personalized therapy of MBC in the future.
+

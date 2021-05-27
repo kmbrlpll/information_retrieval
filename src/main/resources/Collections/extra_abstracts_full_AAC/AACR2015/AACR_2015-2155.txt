@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Inactivation of the tumor suppressor DLC1 by the oncogenes SRC and
+ERK1 in lung adenocarcinoma
+
+
+The oncogenes SRC and ERK1 are frequently activated in a wide variety of
+human cancer, while the tumor suppressor DLC1, which encodes a Rho-GAP
+(GTPase activating protein) essential for its tumor suppressor functions,
+is frequently down-regulated. However, no prior research has
+mechanistically linked SRC and ERK1 to DLC1. In this study, we report
+that SRC and ERK1 cooperate to attenuate the Rho-GAP and tumor suppressor
+functions of DLC1 by a previously undescribed mechanism. We determined
+the direct phosphorylation of Y701 of DLC1, which lies in the Rho-GAP
+domain, by the SRC kinase reduces the binding of Rho-GTP (active Rho) to
+the Rho-GAP domain of DLC1 and abolishes its Rho-GAP activity. In
+untransformed and lung adenocarcinoma cell lines, endogenous active SRC
+and DLC1 co-localized at focal adhesions and formed a protein complex in
+vivo, implying this interaction is physiologically relevant. The
+phosphorylation of S129 of DLC1, which lies N-terminal to the Rho-GAP
+domain, by ERK1 enhanced the binding of the SRC SH3 domain to this region
+of DLC1 and increased the phosphorylation of Y701 by SRC. These changes
+reduced the Rho-GAP activity of DLC1, increased Rho-GTP in the cell, and
+attenuated the DLC1 tumor suppressor functions, as measured by cell
+migration rate, anchorage-independent growth, and tumor formation in nude
+mice. Consistent with these observations, mutation of Y701 to F701
+increased the Rho-GAP and tumor suppressor activities of DLC1 and
+decreased Rho-GTP and Rho/ROCK/MRLC signaling. Conversely, mutation of
+Y701 to the phosphomimetic D701 produced a mutant DLC1 with the opposite
+phenotype, similar to a GAP-dead DLC1 mutant. The Rho-GAP domain of DLC1
+was necessary and sufficient for the attenuated Rho-GAP activity
+attributable to Y701 phosphorylation, as the isolated Rho-GAP domain
+(residues 609-878) with the Y701F and Y701D mutants displayed,
+respectively, high and low Rho-GAP activities, as in full-length DLC1. In
+considering the potential relevance of these findings to human tumors, it
+is important to recognize that while the Rho-GAP activity of DLC1 is
+necessary for its full tumor suppressor activity, it is not sufficient,
+as DLC1 binds several ligands that contribute to this function without
+attenuating its Rho-GAP activity. Thus, it would be predicted that there
+would be selective pressure for down-regulation of DLC1 expression even
+in the presence of high SRC activity. Consistent with this hypothesis,
+the combination high SRC expression and low DLC1 expression was
+associated with a poor prognosis in lung adenocarcinomas (p = 0.005) in
+the TCGA cohort. In summary, the cooperation between the SRC and ERK1
+pathways contribute to phosphorylation of Y701, which directly
+inactivates the Rho-GAP function of DLC1 and attenuates its tumor
+suppressor activity. These findings are relevant to normal physiology and
+human cancer.
+

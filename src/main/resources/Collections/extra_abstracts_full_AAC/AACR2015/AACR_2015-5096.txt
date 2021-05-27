@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: ALIBI: a novel, truncated tubulin isotype in AML and stem cells
+
+
+Tubulin isotype expression is tissue restricted, with -1 tubulin (TUBB1)
+restricted to hematopoietic tissues. Using the TCGA database, we found
+that -1 is highly expressed in acute myeloid leukemia (AML) among all
+hematologic malignancies. -1 may therefore be an attractive target for
+the development of novel therapeutics for AML. Analysis of a panel of AML
+cell lines using a polyclonal antibody against the C-terminus of -1
+revealed the presence of a band at 35kD, distinct from the canonical
+tubulin molecular weight of 50kD. This 35kD band, which we call Acute
+Leukemia Isoform 1 (ALIBI), was present in 10 of the 19 AML cell lines
+tested of various molecular and morphologic subtypes. In addition, we
+analyzed 12 AML primary AML patient blast samples and found ALIBI
+expression in six patient samples, suggesting that ALIBI is clinically
+relevant and prevalent Immunofluorescent analysis of ALIBI's subcellular
+localization revealed that ALIBI is present in distinct cytoplasmic
+aggregates not co-localizing with native microtubules as well as in the
+nucleus. Interestingly, ALIBI was also enriched in AML patient
+CD34+/CD38- cells containing leukemia stem cells. Using a murine -1
+antibody in a mouse model of acute leukemia (HOXA9-NUP98/BCR-ABL) we
+found that ALIBI expression was significantly higher in the leukemic
+marrow as compared to normal mouse marrow. As leukemia stem cells share
+features with embryonic stem cells (ESCs) we next investigated ALIBI
+expression in mouse ESCs after differentiation along megakaryocytic and
+erythroid lineages. ALIBI, but not canonical -1, was expressed in ESCs,
+while hematopoietic differentiation led to loss of ALIBI and expression
+of only canonical -1 tubulin, suggesting that expression of canonical -1
+and ALIBI are differentially regulated and that ALIBI expression is
+associated with stemness. RNASeq and 5RACE of cell lines and patient
+samples revealed that ALIBI mRNA is missing exons 1 and 2 of canonical -1
+RNA, while it retains part of exon 3, exon 4 and the intervening intron.
+These results suggest that ALIBI mRNA is alternatively spliced, leading
+to the use of a cryptic translational start site in exon 4 flanked by a
+strong Kozak sequence. Exogenous expression of the putative coding region
+of ALIBI in ALIBI-negative cell lines produced a protein product with
+similar molecular weight and subcellular localization as endogenous
+ALIBI. Studies of ALIBI function using genome editing are currently
+underway. In conclusion, ALIBI is a novel truncated isoform of tubulin
+that has unique biologic features never previously described for
+tubulins. While the exact function of ALIBI within leukemic cells is
+still being uncovered, it nevertheless is a highly attractive target of
+novel therapeutic development based on its high expression in AML and its
+unique biologic properties.
+

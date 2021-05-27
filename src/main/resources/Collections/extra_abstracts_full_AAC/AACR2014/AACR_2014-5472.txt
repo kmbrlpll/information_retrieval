@@ -1,0 +1,55 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Systems pharmacogenomics approach identifies synergistic molecular
+action of combined MTOR/HDAC inhibition on MYC
+
+
+Multiple myeloma (MM) and murine plasmacytoma (PCT) are rare mature
+B-lymphoid malignancies. Allelic variants of Mtor and Cdkn2a affect
+susceptibility to PCT, and functional alterations in the PI3K/MTOR and
+CYCLIN/CDK/CDKI/RB (RB) pathways are common to both malignancies. We
+found that combining sirolimus (rapamycin), an inhibitor of mechanistic
+target of rapamycin (MTOR), with entinostat (MS-275), a selective class I
+histone deacytlase (HDAC) inhibitor, was synergistic in controlling 90%
+of tested cell lines derived from B cell malignancies in vitro, effective
+in limiting xenograft growth in vivo, and diminished cellular viability
+in ex vivo patient samples. Similarly, the combination reduced tumor
+burden and volume and increased survival in a long-term, in-vivo study in
+C.B6-Bcl2l1 mice. To examine the core synergistic consequence of
+combining entinostat with sirolimus, an integrated, systems-level
+approach was used. Weighted gene co-expression analysis (WGCNA) of GEP
+data from MM cells treated individually and in combination was used to
+identify a distinct module of 126 genes cooperatively affected by both
+drugs. Of the cooperatively affected genes, 37 were found to be
+differentially expressed in MM and predictive of survival (pMultiple
+myeloma (MM) and murine plasmacytoma (PCT) are rare mature B-lymphoid
+malignancies. Allelic variants of Mtor and Cdkn2a affect susceptibility
+to PCT, and functional alterations in the PI3K/MTOR and
+CYCLIN/CDK/CDKI/RB (RB) pathways are common to both malignancies. We
+found that combining sirolimus (rapamycin), an inhibitor of mechanistic
+target of rapamycin (MTOR), with entinostat (MS-275), a selective class I
+histone deacytlase (HDAC) inhibitor, was synergistic in controlling 90%
+of tested cell lines derived from B cell malignancies in vitro, effective
+in limiting xenograft growth in vivo, and diminished cellular viability
+in ex vivo patient samples. Similarly, the combination reduced tumor
+burden and volume and increased survival in a long-term, in-vivo study in
+C.B6-Bcl2l1 mice. To examine the core synergistic consequence of
+combining entinostat with sirolimus, an integrated, systems-level
+approach was used. Weighted gene co-expression analysis (WGCNA) of GEP
+data from MM cells treated individually and in combination was used to
+identify a distinct module of 126 genes cooperatively affected by both
+drugs. Of the cooperatively affected genes, 37 were found to be
+differentially expressed in MM and predictive of survival (p<0.01).
+Ingenuity upstream analysis identified MYC as a potential core regulator
+of the synergistic transcriptional response. MYC protein, but not mRNA,
+decreased in response to the drug combination when examined by Western
+blot and NanoString analyses, respectively. Using tet-off, MYC-inducible
+transformed P493 cells, the necessity of MYC for the drop in cellular
+viability and response of the gene signature to the combination was
+evident. Using the translational and proteasomal inhibitors,
+cycloheximide and MG132, respectively, it was determined that MYC protein
+half-life decreased with the combination, largely due to proteasomal
+degradation. Utilizing a systems-level approach and biological filters,
+an alternative route to MYC inhibition was determined. Biologically
+relevant, this methodology can be used to define the molecular
+underpinnings of drug combinations, applicable to many diseases.
+

@@ -1,0 +1,75 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Improvement of the bispecific antibody ADCC platform by genetic
+insertion of IL-15 as a cross-linker to create NK cell reactive TriKEs
+
+
+Natural killer (NK)-cell related anti-tumor surveillance is limited by
+the ability of the tumor to escape killing. Previously, we constructed a
+bispecific NK-cell engager (BiKE) consisting of two scFV against CD16
+(FcRIII) on NK cells and EpCAM on tumor cells (EpCAM16). Epithelial cell
+adhesion molecule (EpCAM) is a transmembrane protein with prevalent
+expression on carcinomas making it a valuable marker for cancer
+targeting. This BiKE facilitated ADCC and tumor elimination, but did not
+account for the cellular expansion required for the success of T CARs. To
+improve this, we incorporated a modified interleukin (IL)-15 crosslinker
+to create a trispecific construct (TriKE) to enhance activation,
+proliferation, and to prolong survival of NK-cells. IL-15 was chosen
+since it is an established immunostimulatory cytokine with known effects
+on NK cells and is recognized as a promising cancer cure drug in NIH
+guided review. TriKE was assembled, expressed in E.coli, extracted,
+refolded, and purified to >90% with a molecular weight of 68,860 daltons.
+To determine the functional activity of 1615EpCAM, its killing ability
+was measured in standard Cr-51 release assays with EpCAM+ HT-29
+colorectal cancer cells. The 1615EpCAM TriKE induced the highest level of
+killing compared to BiKE and other controls. To determine if the effect
+of IL-15 in the drug correlated with NK-cell levels, donors were selected
+with different naturally occurring NK cell levels. Freshly isolated PBMCs
+were added to HT-29 cells at E:T ratios of 20:1, 6.6:1, and 2:1. Donors
+showed increasingly higher levels of Cr-51 kill with TriKE, but not with
+BiKE indicating that greater the presence of NK-cells, the greater the
+TriKE effect. In order to study lytic degranulation as a function of
+NK-cell activity, CD107a expression was measured. Cells treated with
+TriKE showed significantly elevated degranulation when co-cultivated with
+targets (pNatural killer (NK)-cell related anti-tumor surveillance is
+limited by the ability of the tumor to escape killing. Previously, we
+constructed a bispecific NK-cell engager (BiKE) consisting of two scFV
+against CD16 (FcRIII) on NK cells and EpCAM on tumor cells (EpCAM16).
+Epithelial cell adhesion molecule (EpCAM) is a transmembrane protein with
+prevalent expression on carcinomas making it a valuable marker for cancer
+targeting. This BiKE facilitated ADCC and tumor elimination, but did not
+account for the cellular expansion required for the success of T CARs. To
+improve this, we incorporated a modified interleukin (IL)-15 crosslinker
+to create a trispecific construct (TriKE) to enhance activation,
+proliferation, and to prolong survival of NK-cells. IL-15 was chosen
+since it is an established immunostimulatory cytokine with known effects
+on NK cells and is recognized as a promising cancer cure drug in NIH
+guided review. TriKE was assembled, expressed in E.coli, extracted,
+refolded, and purified to >90% with a molecular weight of 68,860 daltons.
+To determine the functional activity of 1615EpCAM, its killing ability
+was measured in standard Cr-51 release assays with EpCAM+ HT-29
+colorectal cancer cells. The 1615EpCAM TriKE induced the highest level of
+killing compared to BiKE and other controls. To determine if the effect
+of IL-15 in the drug correlated with NK-cell levels, donors were selected
+with different naturally occurring NK cell levels. Freshly isolated PBMCs
+were added to HT-29 cells at E:T ratios of 20:1, 6.6:1, and 2:1. Donors
+showed increasingly higher levels of Cr-51 kill with TriKE, but not with
+BiKE indicating that greater the presence of NK-cells, the greater the
+TriKE effect. In order to study lytic degranulation as a function of
+NK-cell activity, CD107a expression was measured. Cells treated with
+TriKE showed significantly elevated degranulation when co-cultivated with
+targets (p<0.001) compared to BiKE. IL-15 alone did not enhance lytic
+degranulation. When PBMC were exposed to TriKE, only NK-cells, but not
+T-cells showed a proliferation specific pattern. Direct comparison of the
+BiKE and the TriKE showed that the TriKE had the ability to induce
+proliferation and expansion, the BiKE did not. Only with TriKE or IL-15
+exposure was there a significantly enhanced expansion index. IFN-
+production from the same CD56+/CD3- NK-cell population was enhanced by
+1615EpCAM, but levels did not approach levels seen with the IL12/IL18
+combination that is known to stimulate cytokine production at
+supraphysiologic levels. We believe that this is a platform technology
+since anti-CD133 also can be substituted for anti-EpCAM to create
+functional anti-cancer stem cell TriKEs. These results indicate that we
+have successfully developed an immune engager that simultaneously
+mediates ADCC and also provides a self-sustaining costimulatory signal
+inducing NK effector cell expansion.
+

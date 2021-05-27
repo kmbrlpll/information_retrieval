@@ -1,0 +1,34 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Integrative genomics and expression analysis reveals enhanced
+SENP2-mediated desumoylation and a crosstalk with Neddylation pathway in
+squamous cell carcinoma of the lung.
+
+
+Chromosome 3q26-29 amplification is a critical genomic alteration in
+squamous cell carcinomas (SCC) of the lung. There remains no consensus on
+what driver genes may carry this amplicon throughout tumor progression
+and their functional implications. We hypothesized that the amplification
+level of a predefined amplicon in a tumor sample can be inferred based on
+gene expression data. The hypothesis was tested using the TCGA dataset
+with paired copy number and gene expression data and achieved an accuracy
+of 90%. Based on the TCGA dataset and six other independent gene
+expression datasets (GSE4573, GSE8894,GSE2109,GSE3141 and GSE17710), we
+inferred candidate 3q26-29 drivers by searching for genes that were
+consistently over-expressed in SCCs with a high-level of 3q26-29
+amplification in all seven datasets. The top 20 candidate driver genes
+includes PSMD2, DCUN1D1,SENP2, ZNF639, FXR1, SENP5,PRKCI, PIK3CA and
+UBXN7, et al. Using NetWalker we further identified a potential driver
+network consisting of SENP2, DCUN1D1, UBXN7 and DVL3, which are involved
+in SUMOlyation and Neddylation pathway. The amplification and
+overexpression of four genes were confirmed by performing genome-wide
+Agilent 244k CGH profiling and 44k gene expression profiling on
+twenty-four SCC tumors. Knocking down using siRNA against SENP2 resulted
+in greatest cell growth inhibition on 3q26-28 amplified SCC cell line
+H520. Immunoprecipitation assay showed that SENP2 binds to endogenous
+MDM2 in H520 cells. Loss of SENP2 leads to increased SUMO1 expression and
+elevated p53 expression associated with a decrease in MDM2 expression.
+Furthermore, knocking down SENP2 reduced the expression of DCUN1D1 and
+DVL3 but not UBXN7 in H520 cells. Together these data suggest that
+SENP2-mediated desumoylation and crosstalk with the Neddylation pathway
+contribute to lung SCC progression.
+

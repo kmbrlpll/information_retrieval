@@ -1,0 +1,84 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Molecular similarity of Barretts-associated and gastro-esophageal
+junction adenocarcinomas
+
+
+The incidence of Barretts-derived esophageal adenocarcinomas (EAC) and
+gastroesophageal junction adenocarcinomas (GEJAC) are rapidly increasing
+in western countries. Our recent efforts identified cell surface peptides
+that target Barretts(BE)-associated EAC for early detection by
+fluorescent endoscopy however these markers only identify a subset of
+tumors due to molecular heterogeneity. We also observe that >30% of
+esophagectomy patients present with GEJAC with no evidence of Barrett's
+metaplasia. Although the etiology of both cancers appears similar, a
+detailed molecular comparison of EAC and GEJAC is lacking. Our goal was
+to compare molecular profiles for these two cancer types to develop a
+panel of either universal, or cancer-type specific cell surface markers
+to facilitate early detection. We utilized two pre-existing datasets that
+performed whole-exome sequencing and copy number variation (CNV) analysis
+in a combined cohort of GEJAC and EACs. When assessing the rate of
+non-silent mutations, gene specific mutations, and CNV changes, no
+significance differences were observed between GEJAC and EAC. For a
+comparative characterization of the expression profiles of EAC and GEJAC
+we utilized Affymetrix mRNA analysis of 123 GEJAC and EAC. Normal gastric
+and esophageal squamous tissues were used as controls. Principal
+component analysis of the tumors showed little separation between the two
+tumor classes (PC#1 and #3, p-value = .03 for t-test of EAC vs. GEJAC).
+When performing ANOVA analysis of GEJAC and EAC we observed 305 genes
+with p-value1.3. Unsupervised hierarchical clustering of the 123 tumors
+revealed two main clusters (Cluster 1 n = 58, Cluster 2 n = 64) with no
+enrichment of tumor type in either cluster (Clus. 1 vs. Clus. 2, GEJAC
+and EAC p-value = 0.067). These observations suggest that there few
+differences at the transcription level between GEJAC vs. EAC.
+Multi-platform (mutation, CNV and mRNA expression) molecular
+characterization of GEJAC and EAC tumors revealed no significant
+differences between tumor types suggesting that shared molecular
+processes are likely involved in the development of these tumors. We then
+used the 123 GEJAC/EAC expression data, along with our previous cohort of
+46 samples representing BE progression to EAC, in order to identify
+potential cell surface coding genes specifically overexpressed within the
+combined cancer cohort. We identified >20 cell surface coding genes that
+were over-expressed (FC>2, p-valueThe incidence of Barretts-derived
+esophageal adenocarcinomas (EAC) and gastroesophageal junction
+adenocarcinomas (GEJAC) are rapidly increasing in western countries. Our
+recent efforts identified cell surface peptides that target
+Barretts(BE)-associated EAC for early detection by fluorescent endoscopy
+however these markers only identify a subset of tumors due to molecular
+heterogeneity. We also observe that >30% of esophagectomy patients
+present with GEJAC with no evidence of Barrett's metaplasia. Although the
+etiology of both cancers appears similar, a detailed molecular comparison
+of EAC and GEJAC is lacking. Our goal was to compare molecular profiles
+for these two cancer types to develop a panel of either universal, or
+cancer-type specific cell surface markers to facilitate early detection.
+We utilized two pre-existing datasets that performed whole-exome
+sequencing and copy number variation (CNV) analysis in a combined cohort
+of GEJAC and EACs. When assessing the rate of non-silent mutations, gene
+specific mutations, and CNV changes, no significance differences were
+observed between GEJAC and EAC. For a comparative characterization of the
+expression profiles of EAC and GEJAC we utilized Affymetrix mRNA analysis
+of 123 GEJAC and EAC. Normal gastric and esophageal squamous tissues were
+used as controls. Principal component analysis of the tumors showed
+little separation between the two tumor classes (PC#1 and #3, p-value =
+.03 for t-test of EAC vs. GEJAC). When performing ANOVA analysis of GEJAC
+and EAC we observed 305 genes with p-value1.3. Unsupervised hierarchical
+clustering of the 123 tumors revealed two main clusters (Cluster 1 n =
+58, Cluster 2 n = 64) with no enrichment of tumor type in either cluster
+(Clus. 1 vs. Clus. 2, GEJAC and EAC p-value = 0.067). These observations
+suggest that there few differences at the transcription level between
+GEJAC vs. EAC. Multi-platform (mutation, CNV and mRNA expression)
+molecular characterization of GEJAC and EAC tumors revealed no
+significant differences between tumor types suggesting that shared
+molecular processes are likely involved in the development of these
+tumors. We then used the 123 GEJAC/EAC expression data, along with our
+previous cohort of 46 samples representing BE progression to EAC, in
+order to identify potential cell surface coding genes specifically
+overexpressed within the combined cancer cohort. We identified >20 cell
+surface coding genes that were over-expressed (FC>2, p-value<0.01) in
+both GEJAC and EAC, when compared to normal tissue and BE mucosa. Three
+of the candidates were chosen for qPCR validation and also protein
+expression using commercial antibodies and an esophageal tumor tissue
+microarray. Developing a comprehensive panel of cell surface markers able
+to discriminate the majority of EAC and GEJAC will be an essential step
+towards integration of image-based technology into existing early
+detection screening programs. Supported NCI U54 CA163059
+

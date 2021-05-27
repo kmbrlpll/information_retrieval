@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A commutable circulating tumor DNA (ctDNA) reference material.
+
+
+We developed and assessed a novel ctDNA reference material that was
+designed with an emphasis on commutability. Possessing qualities that are
+well-matched with clinical specimens is critical for a reference
+material, however many existing methods of preparing ctDNA analogues
+result in material that is not commutable for certain assays. For
+example, sonication of genomic DNA yields fragments across a broad range
+of sizes that must be used at greater input amounts relative to native
+cell-free DNA (cfDNA) - even after enzymatic end-repair to reduce damage.
+This can affect the utility of the reference material for assays that
+depend on the ligation of adapters to double-stranded DNA, such as many
+hybrid/capture-based Next Generation Sequencing (NGS) assays. If higher
+input amounts are not used, then the LOD and precision of such an assay
+may appear substantially poorer than expected. At the same time,
+sonicated DNA has been shown to be acceptable for amplicon-based ctDNA
+assays.
+
+We created commutable ctDNA reference material by starting with genomic
+DNA from GM24385 cells and mixing with synthetic variant-containing DNA
+sequences at defined ratios. The use of GM24385 cells allows for the
+comparison of detected variants against the NIST RM 8391 high confidence
+variants. The use of synthetic DNA permits addition of large numbers of
+different cancer-associated variants at defined allele frequencies.
+Fragmentation was followed by size-selection in order to obtain
+ctDNA-like sizes. Additional steps were performed to increase the amount
+of output material from the size-selection step. The general method of
+preparing the reference material is also compatible with native cfDNA,
+such as that isolated from cancer patients.
+
+The reference material was submitted to several testing laboratories
+along with similar sonicated material. When tested using
+hybrid/capture-based assays, variant detection was superior in the novel
+reference material compared to sonicated DNA when similar amounts of
+material were used as the input. We therefore conclude that our new
+reference material has greatly improved commutability compared to
+existing materials composed only of sonicated DNA.
+
+

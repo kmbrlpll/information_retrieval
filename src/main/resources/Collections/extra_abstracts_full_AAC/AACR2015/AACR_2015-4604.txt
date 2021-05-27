@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: DNA methylation at chromosome 8q24 in peripheral blood and
+prostate cancer risk
+
+
+Chromosome 8q24 has emerged as an important region for the genetic
+susceptibility to several cancers, including prostate cancer; however,
+little is known about the contribution of DNA methylation in this region
+to risk. To evaluate DNA methylation levels at 8q24 in relation to the
+risk of prostate cancer, we conducted a nested case-control study using
+pre-diagnostic peripheral blood samples from 694 prostate cancer cases
+and 703 controls in the Prostate, Lung, Colorectal, and Ovarian (PLCO)
+Cancer Screening Trial. We quantified DNA methylation levels at 63
+specific CpG sites nearby cancer susceptibility single nucleotide
+polymorphisms (SNPs) at 8q24 or the MYC oncogene using pyrosequencing
+with bisulfite-treated DNA. For each of the 50 CpG sites meeting our
+quality control requirements, we used logistic regression to estimate
+odds ratios (OR) and 95% confidence intervals (CI) for the risk of
+prostate cancer associated with each unit increase in percent DNA
+methylation. We identified 7 CpG sites whose DNA methylation levels were
+associated with prostate cancer risk (p less than 0.05), including 5 CpG
+sites in POU5F1B that were moderately correlated with one another
+(Spearman rho: 0.20-0.52), as well as 2 intergenic CpG sites
+(Chr8:128081593 and Chr8:128513944). The most significant association was
+observed for Chr8:128498079 in POU5F1B (OR = 0.97, 95% CI: 0.95-0.99,
+p-value = 0.01). The five POU5F1B CpG sites found to be associated with
+prostate cancer risk were significantly correlated with several
+established cancer susceptibility SNPs at 8q24 from genome-wide
+association studies, including rs6983267 (rho: 0.14-0.36), which has been
+previously associated with prostate cancer, among other cancers.
+Rs6983267 was only marginally associated with prostate cancer risk in
+this study (p = 0.10). When rs6983267 was included in the models for the
+five correlated CpG sites at POU5F1B, the associations for these CpG
+sites with prostate cancer were attenuated, suggesting that the POU5F1B
+CpG sites may be part of the same biological pathway conferring increased
+prostate cancer risk. Our findings suggest that DNA methylation at 8q24
+may contribute to the risk of prostate cancer, and epigenetic mechanisms
+may help explain some of the SNP-associated risk in this important cancer
+susceptibility region.
+

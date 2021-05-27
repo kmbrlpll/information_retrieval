@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Targeted depletion of polo-like kinase 1 alters metabolic
+regulation in melanoma.
+
+
+Polo-like kinase 1 (PLK1), a critical regulator of mitosis, is shown to
+be overexpressed in a variety of cancers. PLK1 overexpression has also
+been linked to poor disease prognosis and a lessened survival in cancer
+patients. Previously, we have shown that PLK1 is overexpressed in human
+melanoma and its inhibition causes significant anti-proliferative
+response in vitro (in multiple melanoma cells) as well as in vivo (in
+human melanoma xenografts). Further, in another study we demonstrated,
+based on a large-scale label-free comparative proteomics analysis, that
+PLK1 inhibition via the small-molecule inhibitor BI 6727 (Volasertib) in
+human melanoma cells resulted in an alteration of certain
+metabolism-associated proteins with an associated decrease in cellular
+metabolism. In this study, to further explore the association between
+PLK1 and cellular metabolism, we utilized a doxycycline-inducible PLK1
+knockdown approach in A375 melanoma cells coupled with a Human Glucose
+Metabolism PCR array that covers 84 key genes involved in the regulation
+and enzymatic pathways of glucose and glycogen metabolism. We found that
+PLK1 knockdown resulted in a significant downregulation of 29 genes and
+upregulation of 3 genes (more than 2 fold change) associated with
+cellular metabolism. IDH1, PDP2 and PCK1 were >3-fold downregulated while
+FBP1 was >7-fold upregulated. Through Ingenuity Pathway Analysis (IPA),
+we identified glycolysis and the pentose phosphate pathway as major
+canonical pathways altered by PLK1 inhibition. Further, IPA identified
+that PLK1 inhibition-modulated genes were largely associated with the
+proliferation of cells, where FBP1 appeared as a key regulatory player.
+PCK1 was found to be highly downregulated in our array, and IPA
+identified it as part of a monosaccharide regulation network. We further
+validated our data in vivo and found that BI 6727 treatment resulted in a
+decrease in PCK1 and increase in FBP1 in A375 melanoma cell implanted
+xenografts. In addition, we observed a strong inverse correlation between
+PLK1 and FBP1 in multiple melanoma cell lines, with FBP1 expression
+significantly downregulated in a panel of melanoma cells compared to
+normal melanocytes. Moreover, BI 6727 treatment resulted in an
+upregulation in FBP1 in A375, Hs 294T and G361 melanoma cells.
+Interestingly, in recent studies, FBP1 (fructose-bisphosphatase) that is
+a rate-limiting enzyme in gluconeogenesis, has been shown to function as
+a tumor suppressor in certain cancers. Overall, our study support the
+hypothesis that PLK1 is a regulator of metabolism maintenance that
+affects the melanoma cell growth.
+
+

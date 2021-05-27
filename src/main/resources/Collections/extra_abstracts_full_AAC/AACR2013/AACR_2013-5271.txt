@@ -1,0 +1,44 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Nicotinic acetylcholine receptors and EGF induce c-Kit ligand/Stem
+Cell Factor (SCF) in a -arrestin-1 and E2F1 dependent manner in NSCLC .
+
+
+-arrestin-1 (ARRB1), a scaffolding protein involved in the termination or
+desensitization of signals arising from activated G-protein-coupled
+receptors (GPCRs) has been shown to play a role in invasion and
+proliferation of many cancers, including nicotine-induced proliferation
+of human non-small cell lung cancers (NSCLCs). In this study, we carried
+out microarray analysis of cells lacking -arrestin-1 which have been
+rendered quiescent and subsequently stimulated with nicotine or EGF.
+Nicotine induced and -arrestin-1 dependent genes from the microarray data
+were analyzed. We identified 296 genes that were upregulated and 208 that
+were downregulated by nicotine in a -arrestin-1 dependent fashion. The
+functional pathway analysis tool, MetaCoreTM (Genego, MI, USA) was used
+to obtain curated molecular interactions related to the above selected
+genes. We selected top 10 genes from both up and down regulated list for
+prognosis prediction. Prognostic prediction was carried out using a
+subset of NCI Director's Challenge Set. Kaplan-Meier analyses for 5 year
+as well as overall survival showed significance for 4 genes namely
+COL4A4, NFASC, SCF and ZNF137 by log-rank test. We also examined whether
+the expression of these gens correlated with smoking; it was found that
+SCF strongly differentiated smokers from non-smokers implying an
+important role of this gene in lung carcinogenesis induced by
+smoking.Stem cell factor (SCF) is the ligand of the c-Kit proto-oncogene
+product. It is a major human cytokine for the self-renewal, proliferation
+and differentiation of numerous embryonic, adult hematopoietic and
+primordial stem cells. Earlier reports show that uncontrolled activity of
+c-Kit contributes to formation of an array of human tumors. This
+unregulated activity of c-Kit may be due to overexpression or mutational
+activation suggesting that SCF-c-Kit signaling can be a potential target
+for cancer therapy. We elucidate the molecular mechanisms by which
+nicotine as well as EGF induces the expression of SCF in lung
+adenocarcinoma cell lines A549 and H1650. ChIP assays and transient
+transfection experiments showed that transcription factor E2F1 can
+positively regulate SCF expression at the transcriptional level;
+depletion of E2F1 or -arrestin-1 prevented the nicotine-mediated
+induction of SCF. Given that the binding of SCF to c-Kit leads to
+activation of multiple downstream signaling pathways including Src,
+PI3-kinase and MAP/ERK pathways, our data suggest that the SCF/c-Kit
+pathway plays a central role in lung carcinogenesis, and may be a
+potential therapeutic target for combating NSCLC.
+

@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Massively parallel sequencing of clinical FFPE cancer specimens
+enables comprehensive genomic assessment of patient eligibility for
+targeted therapy
+
+
+Molecular diagnostics are growing in importance to clinical oncology as
+an increasing number of therapies targeting specific molecular
+alterations become available. This trend has led to a proliferation of
+focused biomarker tests delivered using a variety of technologies, which
+are generally restricted in their breadth of mutational status assessment
+and constrained by scarce tissue material. We deployed massively parallel
+sequencing (or NGS) technology to develop a pan-cancer, comprehensive
+genomic profiling assay interrogating 189 relevant cancer genes, using
+minimal DNA from fixed surgical or biopsy specimens. With this assay we
+identify all classes of DNA alterations (base substitutions, insertions
+and deletions, copy number alterations and rearrangements at specific
+loci) in a single test with high sensitivity and specificity. To assess
+the potential for comprehensive genomic profiling to inform clinical
+decisions, we sequenced 58 archival FFPE tumor specimens, including 16
+breast, 16 colon, 14 lung, and 12 renal cell cancers to an average of
+depth of 850x and considered the resultant mutation profiles in the
+context of current treatment guidelines and clinical trial information.
+In total, 121 mutations and 30 copy number alterations were identified,
+of which less than one third could be identified by traditional hotspot
+analysis. The observed mutation frequencies were consistent with
+published studies for these tissue types: 56% of breast cancers carried
+TP53 mutations, 38% had PIK3CA mutations, and 13% harbored HER2
+amplifications. In colon cancers, 75% and 63% carried APC and TP53
+mutations, while 38%, 31%, and 25% harbored KRAS, BRAF, and PIK3CA
+mutations respectively. Finally, 57% and 42% of NSCLCs carried mutations
+in TP53 and KRAS, while 17% of RCCs had mutations in VHL. Nearly 70% of
+the 58 cases carried one or more mutations that could plausibly confer
+sensitivity or resistance to approved or experimental targeted therapies.
+Of these potentially clinically actionable mutations, 57% occurred at
+known sites of oncogene activation, 27% involved gene amplification or
+deletion, 14% resulted in tumor suppressor loss, and one resulted in the
+EML4-ALK fusion gene. Our results demonstrate technical feasibility of
+comprehensive cancer gene characterization through massively parallel
+sequencing in clinical FFPE specimens. The prevalence and diversity of
+potentially actionable mutations we observed highlights the benefits of
+adopting this approach. As massively-parallel sequencing is the only
+practical means to detect all classes of somatic mutation in a small,
+clinically relevant sample, we suggest that this type of testing will be
+an essential ingredient in bringing targeted therapies to cancer patient
+care.
+

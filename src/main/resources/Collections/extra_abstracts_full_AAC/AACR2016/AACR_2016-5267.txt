@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Gene fusion database to create custom panels: Enabling detection
+of fusion transcripts and gene expression assays
+
+
+Gene fusions play an important role in tumorigenesis and are increasingly
+recognized as important entities for the diagnosis and treatment of
+hematological malignancies and solid tumors. Fusion events generate a
+hybrid mRNA transcript comprising sequence from multiple otherwise
+distinct genes. Oncogenic fusion events often involve tyrosine kinases or
+transcription factors, leading to aberrant growth signaling, making these
+events potentially attractive drug targets. For instance, targeted
+therapies such as known tyrosine kinase inhibitors are currently approved
+to treat ALK fusion positive Non-Small Cell Lung Carcinoma (NSCLC)
+patients. Detection of known gene fusion events is an important part of
+genomic characterization which can inform patient diagnosis. Current
+methods for fusion detection include chromosome banding analysis (CBA),
+fluorescence in situ hybridization (FISH), and reverse transcription
+polymerase chain reaction (RT-PCR). New developments in next-generation
+sequencing (NGS) enable the efficient and simultaneous assessment of
+multiple gene fusion targets with high sensitivity. To enable researchers
+to design their own custom panels and assess a set of gene fusions of
+interest, we developed a comprehensive RNA gene fusion database. Oncology
+researchers now have the capability to create custom panels from this
+comprehensive database which includes over 1,000 well annotated and
+optimized gene fusion assays and over 20,000 gene expressions assays.To
+build this comprehensive gene fusion database, we identified breakpoint
+information for 1,178 well annotated fusions described in publications
+and in the COSMIC and NCBI databases. We prepared a target RNA sequence
+for each breakpoint using transcript sequences from the Ensembl database.
+We used a proprietary primer designer to generate candidates for each
+fusion target amenable to the AmpliSeq product line requirements. Quality
+control was performed throughout the design process to identify the best
+primer set for each target, to avoid primers overlapping common germline
+SNPs, potential primer/primer or primer/amplicon interactions, or
+off-target or wild-type amplifications.With this comprehensive database
+we provide a complete range of solutions available on ampliseq.com.
+Making use of the AmpliSeq technology, researchers now have the
+capability to create their own custom fusion panel and place the order
+within an hour. These custom panels are used with AmpliSeq Library
+reagents and Ion Torrent sequencing platforms for targeting
+next-generation sequencing. The analysis solution is provided through the
+Ion Reporter (IR) software package. Custom fusion panel workflows in IR
+are used to analyze sequencing data coming from the custom panels, which
+includes visualization of fusion transcripts and gene expression levels
+in a heat map feature.
+

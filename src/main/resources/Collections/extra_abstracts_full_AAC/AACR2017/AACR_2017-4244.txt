@@ -1,0 +1,67 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Detection and characterization of extrachromosomal circular DNA in
+human plasma.
+
+
+Background: eccDNA (extrachromosomal circular DNA) has been reported in
+most eukaryotes, including in human cells. However, little is known about
+the eccDNA profiles in human circulating system such as blood.
+
+Method: We extracted plasma cell free DNA (cfDNA) from three patients
+with advanced stage cancers. For each patient, we tested 10ng, 1ng and
+0.1ng cfDNA, each with a technical replicate. The cfDNA samples were
+subjected to ATP-dependent DNase digestion and whole genome amplification
+(WGA). An additional 2ng cfDNA from each patient skipped the DNase
+digestion and went directly to WGA step. We sequenced the amplified DNAs
+using the Illumina 100bp PE read protocol. We analyzed sequencing data
+using a custom split reads-based strategy to retrieve circular DNA
+molecules. We further analyzed eccDNAs for their biofeatures using
+functional annotation tools.
+
+Results: We received sequence reads at ~14.8 million (11.4~22.4) for each
+sample. When read depth≥ 3 as a cutoff, we detected a total number of
+2542, 1578, and 57 unique eccDNAs in three patients while negative
+controls showed Results: We received sequence reads at ~14.8 million
+(11.4~22.4) for each sample. When read depth≥ 3 as a cutoff, we
+detected a total number of 2542, 1578, and 57 unique eccDNAs in three
+patients while negative controls showed <=5 eccDNAs. For non-DNase
+digested cfDNAs, we detected only 3 eccDNAs. By comparing read numbers
+mapped to mitochondria and human genome, we found that mitochondrial
+sequence reads increased significantly from 0.34-1.1% before digestion to
+24.1-50.1% after digestion. Numbers of detected eccDNAs were similar
+between technical replicates and proportional to initial input cfDNA.
+However, eccDNAs detected also showed few overlaps between technical
+replicates. Size distribution ranged from 31bp to 19740bp (median
+1801-1962bp). To test if eccDNAs were generated in specific genomic
+regions and if eccDNA-involved genes were enriched in specific pathways,
+we performed enrichment analysis and observed higher GC content in
+smaller eccDNAs (500bp, 41%) (p500bp, 41%) (p<0.001). When compared to
+random distribution, eccDNAs were more likely located at CpG islands
+(1.36-1.53 fold enrichment). The eccDNAs were also enriched in exons,
+5’UTR, 3’UTR and DNase hypersensitive sites (enrichment folds from
+1.39 to 2.3). Using DAVID annotation tool, we observed significant
+enrichment of the eccDNA-related genes in several categories including
+the Coiled coil, phosphoprotein, fibronectin, suggesting a potential
+involvement in gene expression regulation and cell adhesion events. Using
+GREAT (Genomic Regions Enrichment of Annotations Tool), we found that the
+eccDNAs were involved in genes associated with invasive cancer cell gene
+expression regulation (p500bp, 41%) (p<0.001). When compared to random
+distribution, eccDNAs were more likely located at CpG islands (1.36-1.53
+fold enrichment). The eccDNAs were also enriched in exons, 5’UTR,
+3’UTR and DNase hypersensitive sites (enrichment folds from 1.39 to
+2.3). Using DAVID annotation tool, we observed significant enrichment of
+the eccDNA-related genes in several categories including the Coiled coil,
+phosphoprotein, fibronectin, suggesting a potential involvement in gene
+expression regulation and cell adhesion events. Using GREAT (Genomic
+Regions Enrichment of Annotations Tool), we found that the eccDNAs were
+involved in genes associated with invasive cancer cell gene expression
+regulation (p<0.001).
+
+Conclusion: Human plasma contains an abundant number of eccDNAs.
+Distribution of these eccDNAs is nonrandom event and is likely enriched
+in genomic regions with known functional consequences and genes that play
+a role in gene regulations. Further characterization of circulating
+eccDNAs in peripheral blood will facilitate understanding of their
+molecular mechanisms and potential clinical utilities.
+
+

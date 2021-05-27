@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Predictive biomarker discovery in sunitinib treated renal cancer
+patients: A non-hypothesis driven proteomic approach
+
+
+IntroductionKidney cancer is one of the ten most common adult cancers,
+the majority of which (90%) represent renal cell carcinomas (RCC). Over
+50% of patients develop metastases, for which the standard of care is
+vascular endothelial growth factor (VEGF)-targeted tyrosine kinase
+inhibitors (TKIs), such as sunitinib. Unfortunately, not all patients
+respond to these agents, toxicity is frequent and the treatment is
+expensive. The identification of biomarkers would have a significant
+impact on patient care, but unlike many targeted therapies in other
+cancers, no markers have yet been reliably found to predict response in
+this setting. Previous studies have mostly adopted a hypothesis-driven
+approach. Here, we use a global discovery approach, which may provide
+novel insights into response and resistance to these
+drugs.MethodsFormalin fixed-paraffin embedded primary renal tissues,
+taken at nephrectomy from clear cell RCC patients subsequently starting
+sunitinib between 2008 and 2012 for metastatic disease, were employed in
+the study. Patient samples were identified from our large-scale research
+tissue bank. Tumors with intrinsic resistance versus those with prolonged
+sensitivity to drug were compared. Sixteen patients were selected based
+on best radiological response and duration on sunitinib; eight patients
+with partial response as best response and >500 days on treatment, versus
+eight patients who had radiological disease progression within 200 days.
+Groups were matched by sex, age and grade, and pathological review was
+performed on all sections to avoid areas of necrosis and inflammation.
+Proteins were extracted, digested with trypsin and analyzed by liquid
+chromatography-tandem mass spectrometry with a Thermo Orbitrap Velos,
+using label free quantitation. Data were analyzed using the MaxQuant
+software suite, searched against the human UniProt database and
+statistical comparisons were performed in the R environment.ResultsIn
+total, 4510 proteins were identified. Pairwise comparisons between the
+two groups revealed significant differences in 240 proteins (P10 fold
+change between the total number of peptides identified. Proteins
+upregulated in the resistant group included those involved in
+proliferation, invasion and inflammation, whereas proteins upregulated in
+the sensitive group included those involved in immunogenicity and
+promotion of apoptosis.ConclusionWe have identified a number of protein
+targets that have not previously been implicated in response / resistance
+to anti-VEGF TKIs, and which may provide novel insights into the biology
+governing this. Further work will focus both on verification of findings
+in additional clinical samples and functional characterization of
+proteins of interest. Preliminary verification of the results using
+Western blot and immunohistochemistry will be presented.
+

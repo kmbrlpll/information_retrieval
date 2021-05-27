@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Integrated high-throughput screen to identify treatment leads for
+pediatric AML
+
+
+While dramatic improvements in survival have been achieved for children
+and adolescents with acute myeloid leukemia (AML), some subtypes are
+associated with event free survival of 8000 compounds. Compounds with
+>50% activity (N = 285) in the primary screen and known clinical
+candidates were prioritized for a secondary HTS performed in a
+dose-response manner (10 point curve, 0-10M). Screening was performed
+using a 348-well plate format and a Biomek automation workstation for
+drug delivery. At 72 h cell viability was determined using Cell Titer Glo
+and automated Envision plate reader. Multiple drug classes had broad
+activity including: anti-malarials, cytotoxics (antimicrotubules,
+purine/pyrimidine antimetabolites, floxuridine, trimetrexate, topoI/II
+inhibitors), epigenetic modifiers (BET, DNMT and HDAC inhibitors), and
+agents targeting Bcl-2, Chk1, Parp, Hsp90, NF-B, NAMPT, p53, proteasome,
+and Wee1. We validated 13 compounds from select drug classes (artesunate,
+cytarabine, gemcitabine, cabazitaxel, depsipeptide, panobinostat,
+vorinostat, ABT-199, RG117, bortezomib, carfilizomab, BMN673, MK-1775)
+using primary blast samples representing 3 high-risk groups
+(FLT3-ITD-positive, MLL-rearranged, FAB M7). Given the broad activity of
+gemcitabine and cabazitaxel across AML subtypes and the ability for
+repurposing in childhood AML, we further evaluated these agents alone and
+in combination in vitro. After 72h exposure, cabazitaxel was a potent
+inhibitor of viability in AML cell lines (IC50, 3-11nM) and primary blast
+samples (IC50, 3.4nM to >10M); gemcitabine had similar activity (IC50,
+3-62nM and 102nM to >10M, respectively). The combination was evaluated
+using continuous and sequential administration schedules for up to 72h of
+treatment in several cell lines; simultaneous treatments were synergistic
+(CI, 0.2-0.45) and sequential treatments were additive to synergistic
+(CI, 0.82-0.95). Tolerable combination regimens were identified in NSG
+mice (5mg/kg cabazitaxel + 50mg/kg gemcitabine q3d x 4 weeks or q4d x 3
+weeks) and efficacy studies in AML xenografts and primagrafts are
+ongoing. Further studies will aim to determine the underlying mechanisms
+of AML sensitivity to gemcitabine, cabazitaxel, and the combination. Our
+comprehensive approach to identify treatment leads provide advances in
+understanding the biology of a heterogeneous disease and development of
+novel treatment strategies with potential clinical benefit for pediatric
+AML.
+

@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Assessing the reproducibility of computer-aided nodule assessment
+and risk yield (CANARY) method to characterize lung adenocarcinomas.
+
+
+This study assessed the inter-user reproducibility of Computer-Aided
+Nodule Assessment and Risk Yield (CANARY), a novel analytical tool that
+risk stratifies lung adenocarcinomas (ADCs) according to defined computed
+tomography (CT) structural characteristics. CANARY detects nine distinct
+voxel signatures in ADCs based on standard CT imaging, thereby defining
+nodule characteristics correlating with patient outcomes, and
+corresponding to invasion or lepidic growth histologically. A software
+user segments the borders of each ADC prior to voxel analysis,
+introducing potential variability into the assessment. While CANARY is a
+promising method, it requires validation of the analytical variability
+between users and prediction of accuracy in an independent cohort. To
+evaluate the reproducibility of CANARY analysis, three independent users
+who are not part of the CANARY development team segmented and analyzed 50
+biopsy-confirmed primary lung ADCs from Vanderbilt University Medical
+Center. The CT scans of ADCs were selected retrospectively based on the
+following criteria: ADC-histology proven on biopsy, diagnosed between
+2009-2015, less than 3cm in greatest diameter, and stages IA-IV. Users
+followed a standard operating procedure established at the Mayo Clinic,
+and were blinded to clinical characteristics and patient outcomes.
+
+Results: To measure inter-user variability of ADC voxel composition, the
+intraclass correlation coefficient (ICC) was calculated based upon the
+percentage of each voxel subtype within the whole ADC. An ICC of 1
+reflects high reproducibility between users. Amongst all 50 ADCs, the
+average ICC for all nine voxel types was 0.828 (95% CI 0.76, 0.895). The
+ICC of the four voxel types associated with invasive features on CT was
+0.865 (95% CI 0.805, 0.924). ICCs were also calculated using a
+logarithmic transformation for data normalization, generating an ICC of
+0.745 (95% CI 0.663, 0.826) for all nine voxel types, and an ICC of 0.995
+(95% CI 0.993, 0.997) for the four voxel types associated with invasion.
+Conclusions: (1) CANARY analysis of lung ADC voxel signatures appears to
+be reproducible amongst users, making it a reliable tool for the
+evaluation of ADC voxel density. (2) Correlation of invasive signatures
+associated with more aggressive ADCs was nearly perfect amongst users.
+Additional validation metrics for CANARY with larger datasets are being
+evaluated, including the accuracy of tumor prognostic predictions between
+users and analysis of ADC datasets from other institutions.
+
+

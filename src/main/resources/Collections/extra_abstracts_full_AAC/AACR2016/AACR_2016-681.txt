@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Using a genome-editing approach for the stepwise establishment of
+zebrafish models of pediatric high-grade gliomas and MPNSTs
+
+
+By high-throughput sequencing of cancer patient's genomes, driver
+mutations have recently been described in high-grade pediatric glioma, an
+aggressive type of brain tumor in children. The most prominent recurrent
+mutations were found in four genes, namely NF1, TP53, ATRX and H3F3A. NF1
+and TP53 are tumor suppressor genes and their loss of function is
+characteristic for various human malignancies. However, the mechanisms
+through which precise missense mutations in H3F3A and loss-of-function of
+ATRX influence tumor biology remain largely unknown. In our project, we
+employ the genome-editing technology CRISPR-Cas9 to develop a zebrafish
+model of pediatric high-grade glioma, in order to examine the impact of
+these mutations on tumor onset and progression. We previously created a
+zebrafish line that is deficient for tp53 (tp53-/-) and has a
+loss-of-function mutation in 3 of 4 alleles of nf1 (nf1a+/-, nf1b-/-),
+which is duplicated in zebrafish. These fish develop high-grade gliomas
+with low penetrance and malignant peripheral nerve sheath tumors (MPNSTs)
+with high penetrance. By CRISPR-Cas9 we further incorporated early
+frameshift mutations of atrx in the background of tp53-/-, nf1a+/-,
+nf1b-/-. All analyzed fish injected with Cas9-mRNA and CRISPR guide-RNAs
+(gRNAs) targeting atrx coding sequences showed germline transmission of
+mutant alleles, of which one third were frameshift mutations. Primary
+CRISPR-Cas9 atrx-gRNA injected tp53-/-, nf1a+/-, nf1b-/- fertilized eggs
+developed as mosaics and exhibited increased tumor penetrance and faster
+onset of MPNSTs and these tumors harbored atrx mutations in 8/10 analyzed
+samples. This indicates that atrx loss-of-function mutations cooperate
+with loss of tp53 and nf1 tumor suppressors. Gliomas were not observed in
+mosaic atrx mutated fish, and these will be reanalyzed in stable atrx
+mutant lines. Next, we will add previously described missense mutations
+of h3f3a. To unravel the synergy between oncogenic mutations in atrx and
+h3f3a in tumor progression, mutant stable lines for both genes will be
+investigated independently and in a combined manner. The zebrafish model
+of pediatric high-grade gliomas and MPNSTs that we are developing will be
+useful to dissect the mechanisms underlying cooperation among driver
+mutations and for small molecule screens to identify specific inhibitors
+of cell growth and survival in these malignancies.
+

@@ -1,0 +1,63 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Are the genomic gene expression profiles maintained between the
+original donor and patient-derived xenograft tumors
+
+
+INTRODUCTION: Patient-derived xenograft model (PDX) that transplant
+patient tumors into nude mice are now an accepted model to be used for
+drug development, and even for guiding therapy. It has been reported that
+PDX tumors retain the histologic characteristics, tumor heterogeneity,
+and maintain the metastatic potential of the original donor tumor.
+Therefore, PDX has been expected to be a potential tool for predicting
+responses to specific therapies, and large amounts of funding and labor
+are invested in generating PDX from tumors obtained from patient samples.
+Recently, however, there have been disagreements in the literature
+whether PDX tumors maintain the transcriptomics gene expression profile
+of the original donor tumor.METHODS: 2 datasets (Uronis (PLoS One.
+2012;7(6):e38422), and Julien (Clin Cancer Res. 2012 Oct
+1;18(19):5314-28)) were identified from the GEO database that contained
+gene expression data from colorectal cancer tumor samples and from
+xenografts of the same tumors transplanted into nude mice or rats. A
+series of quality control tests were performed to ensure only high
+quality arrays were included in downstream analyses. Differentially
+expressed genes (FDR INTRODUCTION: Patient-derived xenograft model (PDX)
+that transplant patient tumors into nude mice are now an accepted model
+to be used for drug development, and even for guiding therapy. It has
+been reported that PDX tumors retain the histologic characteristics,
+tumor heterogeneity, and maintain the metastatic potential of the
+original donor tumor. Therefore, PDX has been expected to be a potential
+tool for predicting responses to specific therapies, and large amounts of
+funding and labor are invested in generating PDX from tumors obtained
+from patient samples. Recently, however, there have been disagreements in
+the literature whether PDX tumors maintain the transcriptomics gene
+expression profile of the original donor tumor.METHODS: 2 datasets
+(Uronis (PLoS One. 2012;7(6):e38422), and Julien (Clin Cancer Res. 2012
+Oct 1;18(19):5314-28)) were identified from the GEO database that
+contained gene expression data from colorectal cancer tumor samples and
+from xenografts of the same tumors transplanted into nude mice or rats. A
+series of quality control tests were performed to ensure only high
+quality arrays were included in downstream analyses. Differentially
+expressed genes (FDR < 0.01) in each dataset were identified comparing
+patient donor tumor and PDX tumor.RESULTS: There were 19 original tumors
+and 27 PDX in the Uronis dataset and 40 original tumors and 75 PDX in the
+Julien dataset. In both datasets, there was a general under-expression of
+genes in PDX tumors compared with original donor tumors. Hierarchical
+clustering of the Uronis dataset showed two main clusters - the donor
+tumors clustered together and the PDX tumors clustered separately, except
+for one original tumor sample that clustered together with the PDX. There
+were a total of 5234 genes differentially expressed between the donor and
+PDX tumors. In the Julien dataset, the PDX tumors also clustered
+separately from the original tumors. There were also 2 main clusters seen
+in hierarchical cluster analysis, with most of the original tumors
+clustering together except for eight, and all the PDX clustering together
+including the former eight original tumors. There were a total of 1661
+differentially expressed genes, with 913 genes differentially expressed
+in both datasets (p = 7.4e-151).CONCLUSIONS: Original donor tumors and
+matched PDX tumors cluster separately in hierarchical cluster analysis.
+These results suggest that PDX transcriptomic gene expression profiles
+are more similar among PDX tumors that originated from different tumors
+than from the original tumor used to create the corresponding PDX. Thus
+we recommend using the PDX model with caution due to the significant
+dissimilarity of gene expression profiles between PDX and matched donor
+tumors.
+

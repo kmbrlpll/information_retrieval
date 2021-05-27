@@ -1,0 +1,72 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Analytical and technical validation of a cost-effective diagnostic
+test for BRCA1, BRCA2 and TP53
+
+
+BRCA1, BRCA2 and TP53 encode tumor suppressor proteins in humans that
+help repair damaged DNA and play critical roles in ensuring genome
+stability. Several inherited mutations in any of the above 3 genes
+substantially increase the risk of cancer. Together, BRCA1 and BRCA2
+mutations account for about 20 to 25 percent of hereditary breast and
+ovarian cancers. Germline mutations in TP53 are the most common cause of
+Li-Fraumeni syndrome, a rare disorder that increases the risk of
+developing multiple tumors such as breast, soft-tissue and leukemias, in
+children and young adults. In India, where the incidence of cancer has
+seen a steep rise in the last decade, there is a pressing need to develop
+cost-effective screening tests that can identify known and novel
+mutations in commonly associated genes.We have developed and offer a
+3-Gene panel (Strand - 3 gene) covering all known HGMD/ClinVar mutations
+and all coding exons of BRCA1, BRCA2 and TP53 genes. Current Sanger based
+methods query for restricted loci across these genes. Our test is based
+on an NGS enrichment protocol using xGen lockdown probes that allows
+parallel sequencing of upto 32 - 96 samples. The test would be offered at
+a tenth of the cost of current Sanger based tests anywhere in the world.
+In this study we present the technical and clinical validation data
+obtained from this assay. For technical validation, we included gold
+standard HAPMAP characterized as part of 1000 Genome Project, seven cell
+lines with known BRCA and TP53 mutations. For clinical validation, we
+enrolled thirty seven (37) patients who were consented on an IRB-approved
+study at HCG hospital for collecting saliva / blood. These patients were
+stratified / selected based on their family history, known risk of
+hereditary cancers and availability of previously characterized clinical
+samples. The overall sensitivity and specificity of this panel is 99.78%
+and 99.74% respectively with a reproducibility of 100%. On an average,
+99.75% and 97% of the bases are covered at 0.2x and 0.5x mean coverage
+and the average gap (BRCA1, BRCA2 and TP53 encode tumor suppressor
+proteins in humans that help repair damaged DNA and play critical roles
+in ensuring genome stability. Several inherited mutations in any of the
+above 3 genes substantially increase the risk of cancer. Together, BRCA1
+and BRCA2 mutations account for about 20 to 25 percent of hereditary
+breast and ovarian cancers. Germline mutations in TP53 are the most
+common cause of Li-Fraumeni syndrome, a rare disorder that increases the
+risk of developing multiple tumors such as breast, soft-tissue and
+leukemias, in children and young adults. In India, where the incidence of
+cancer has seen a steep rise in the last decade, there is a pressing need
+to develop cost-effective screening tests that can identify known and
+novel mutations in commonly associated genes.We have developed and offer
+a 3-Gene panel (Strand - 3 gene) covering all known HGMD/ClinVar
+mutations and all coding exons of BRCA1, BRCA2 and TP53 genes. Current
+Sanger based methods query for restricted loci across these genes. Our
+test is based on an NGS enrichment protocol using xGen lockdown probes
+that allows parallel sequencing of upto 32 - 96 samples. The test would
+be offered at a tenth of the cost of current Sanger based tests anywhere
+in the world. In this study we present the technical and clinical
+validation data obtained from this assay. For technical validation, we
+included gold standard HAPMAP characterized as part of 1000 Genome
+Project, seven cell lines with known BRCA and TP53 mutations. For
+clinical validation, we enrolled thirty seven (37) patients who were
+consented on an IRB-approved study at HCG hospital for collecting saliva
+/ blood. These patients were stratified / selected based on their family
+history, known risk of hereditary cancers and availability of previously
+characterized clinical samples. The overall sensitivity and specificity
+of this panel is 99.78% and 99.74% respectively with a reproducibility of
+100%. On an average, 99.75% and 97% of the bases are covered at 0.2x and
+0.5x mean coverage and the average gap (<20 reads per base) is 0.0056% in
+the validation study. We have identified 3 separate cases of Li-Fraumeni
+from the cohort of thirty seven patients. We further present clinical
+validation data from these 3 case studies in which we have identified
+both known and novel mutations. Further clinical validation of panel is
+ongoing.In summary this panel will provide a cost effective screening
+method for early detection of pathogenic variants in pre-symptomatic
+individuals and in families with known risk of hereditary cancer.
+

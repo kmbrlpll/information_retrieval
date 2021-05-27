@@ -1,0 +1,28 @@
+Meeting: 2013 AACR Annual Meeting
+Title: CanDrA: Cancer-specific driver missense mutation annotation with
+optimized features.
+
+
+Driver mutations are somatic mutations that provide growth advantage to
+tumor cells, while passenger mutations are those that are not
+functionally associated with oncogenesis. Distinguishing drivers from
+passengers is challenging because drivers occur much less frequently than
+passengers, they turn to have low prevalence, and their functions are
+multifactorial. Missense mutations are excellent candidates for driver
+identification, as they occur more frequently and are potentially easier
+to target than other types of mutations. Although several methods have
+been developed for predicting the functional impact of missense
+mutations, only a few are specifically designed for identifying driver
+mutations. As more mutations are being discovered, more accurate
+predictive models can be developed using machine learning approaches that
+systematically characterize the commonality and peculiarity of somatic
+mutations under specific cancer background. Here, we present such a
+Cancer Driver Annotation (CanDrA) tool that assesses the driver potential
+of missense somatic mutations based on a set of 95 structural and
+evolutionary features computed by over 10 functional prediction
+algorithms from SNVBOX, VEP, ANNOVAR and Mutation Assessor. Through
+feature optimization and supervised training, CanDrA outperforms existing
+tools in analysing the glioblastoma multiforme and the ovarian carcinoma
+data in The Cancer Genome Atlas (TCGA) and the Cancer Cell Line
+Encyclopedia project.
+

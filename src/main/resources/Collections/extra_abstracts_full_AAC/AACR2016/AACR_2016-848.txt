@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Proteogenomic analysis of alternative splicing: the search for
+novel biomarkers for colorectal cancer
+
+
+IntroductionEarly detection of colorectal cancer (CRC) and its precursor
+lesions (adenomas) is crucial to reduce mortality rates. The fecal
+immunochemical test (FIT) is a non-invasive CRC screening test detecting
+blood-derived protein hemoglobin. However, FIT sensitivity is suboptimal
+especially in detection of CRC precursor lesions. As adenoma-to-carcinoma
+progression is accompanied by alternative splicing, tumor-specific
+proteins derived from alternatively spliced RNA transcripts might serve
+as candidate biomarkers for CRC detection.Materials and methodsRNA and
+proteins were isolated from CRC cell line SW480 before and after
+siRNA-mediated down-modulation of the splicing machinery: SF3B1, U2AF1,
+and SRSF1. To identify splice variants, mRNA was sequenced (Illumina
+HiSeq) and analyzed. RNA-seq analysis included quality checks (FASTQ,
+RSeQC), reads mapping (STAR), differential gene expression (DESeq2) and
+differential expression of splicing isoforms between conditions (MATS).
+Results from the in silico analysis were validated by qRT-PCR. Proteins
+were analyzed by in-depth tandem mass spectrometry (QExactive). A
+proteogenomic data analysis pipeline was established to enrich the
+sequence database, against which the mass spectra are searched, with the
+predicted protein splice variants and identify protein isoforms. To
+further extend the splice-variant database, PacBio sequencing of
+full-length transcripts is being performed for the SW480 siSF3B1- and
+control-samples.ResultsDifferential expression analysis on RNA and
+protein level proved that the knock-down experiments were performed
+successfully. The RNA-seq analysis revealed hundreds of mRNA splice
+variants, including positive controls described in literature. For
+example, down-modulation of SF3B1 resulted in quantitative mRNA changes
+of spliced isoforms of ADD3 both in RNA-seq and RT-PCR data. The
+proteomics experiment yielded over 6000 proteins per sample, among which
+a number of protein isoforms resulting from alternative
+splicing.Conclusions and discussionWe established a proteogenomic
+pipeline for the analysis of alternative splicing and provided
+experimental proof of concept.We expect, however, that the true
+complexity of RNA variant information remains highly underestimated. We
+therefore are performing PacBio long-read RNA-seq to validate our
+approach and to identify additional (novel) splicing events. In future
+studies we will apply the mRNA-seq based proteogenomic pipeline for
+detection of protein alterations to a series of adenomas at low- and
+high-risk of progression, and CRCs to validate the isoforms in a
+clinically relevant setting. Novel findings will be evaluated for their
+performance as screening markers for CRC.This work was financially
+supported by KWF project nr: VU 2013-6025.
+

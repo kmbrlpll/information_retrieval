@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Combined targeting of the EWS/ETS transcriptional program by
+blocking epigenetic readers and transcription initiation in Ewing sarcoma.
+
+
+Introduction: Previously, we reported blocking of BET bromodomain binding
+proteins (BRDs) by use of an inhibitor (JQ1) and the associated strong
+down-regulation of the predominant EWS-ETS protein EWS-FLI1 in Ewing
+sarcoma (ES). Here we analyzed in depth the mechanistic effects of this
+treatment by EWS-FLI1 interaction studies and the evaluation of possible
+combined targeting.
+
+Experimental procedures: Function of BRDs was analysed by application of
+specific inhibitors (JQ1, I-BET151), RNA interference (RNAi) with the
+generation of stable and inducible knockdowns or knockouts by the
+generation of BRD4 CRISPR/Cas9 cell lines. To analyse the resulting
+changes Co-IP, ChIP-qPCR, RT-PCR, western blotting, cell cycle analysis,
+proliferation and invasion assays, whole transcriptome analysis via
+microarrays as well as xenograft mouse models were utilized.
+
+Results: By use of JQ1 or iBET we strikingly observed a strong
+down-regulation of the predominant EWS-ETS protein EWS-FLI1 and
+subsequent microarray analysis revealed JQ1 treatment to block the
+typical ES associated expression program. The effect on this expression
+program was partially mimicked by RNAi for BRD3 or BRD4 but not by BRD2.
+However, knockout studies of BRD4 by CRISPR/Cas9 as well as knockdowns of
+individual BRD2, 3 or 4 did not recapitulate JQ1-mediated proliferation
+restrictions and blockade and tumor development in xenograft mice as
+observed for JQ1. However, co-immunoprecipitation experiments revealed an
+DNA independent interaction of BRD4 with EWS/FLI1 and further interaction
+with CdK9. Treatment of ES cells with a specific CDK9 inhibitor
+demonstrated a rapid down regulation of EWS-FLI1 expression and block of
+contact dependent growth. Furthermore, CDK9 inhibition induced apoptosis
+in ES as depicted by down regulation of XIAP and CFLAR and consequently
+cleavage of Caspase 8, PARP and increased CASP3 activity, similar to JQ1.
+Combined treatment of ES with BRD and CdK9 inhibitors was more effective
+than individual drug application.
+
+Conclusion: Translocation driven tumors such as ES are very susceptible
+to combined treatment with epigenetic inhibitors. Here we demonstrate
+that treatment with inhibitors targeting the p-TEFb complex could
+interrupt communication between EWS-FLI1, BRD4 and CDK9 further impeding
+EWS-ETS transcriptional activity and its associated pathognomonic
+expression program.
+
+

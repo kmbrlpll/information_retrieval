@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Targeting GLI-dependent transcription by GANT61 in human colon
+carcinoma cells (CC); a new therapeutic approach
+
+
+Colorectal cancer constitutes the second leading cause of cancer
+mortality in the United States with limited therapeutic options and poor
+survival for advanced stage disease. The GLI genes, GLI1 and GLI2, are
+transcription factors, which act at the distal end of the Hedgehog
+pathway (SHH->PTCH->SMO->GLI) to regulate organogenesis and
+differentiation in the colon. In cancer GLI1 and GLI2 are activated, are
+oncogenes, and we have shown are critical to the survival of colon
+carcinoma cells. Inhibition of GLI by the small molecule inhibitor,
+GANT61, induces extensive cell death downstream of H2AX foci formation in
+CC. GANT61 rapidly reduces GLI binding to consensus sequences in target
+gene promoters (1 hr) and inhibits GLI1- and GLI2- dependent
+transcription. Using the known crystal structure of the five zinc finger
+GLI1-DNA complex we demonstrated, by computational docking, that GANT61
+binds to the GLI1 protein, but not to the DNA binding site, via H bonds
+at amino acids E119 and E167. These sites lie within the groove between
+zinc fingers 2 and 3, on the opposite surface from, but in close
+proximity to, the GLI1-DNA binding regions. GANT61 is not observed to
+dock with DNA. The predicted binding constant for GANT61 (Kd = 2.6 M) is
+consistent with GANT61 concentrations required to induce cell death in
+CC. Surface plasmon resonance (Biacore) confirmed the model predictions
+using immobilized GLI1 or DNA and GANT61 or GANT61/DNA as anylate,
+respectively (KD= 7.5 M; IC50= 3.2M). Following GANT61 treatment of CC we
+demonstrated transcriptional stalling of RNA Polymerase II (Pol II) at
+sites of early elongation adjacent to GLI binding regions at target gene
+promoters. This is associated with modification of promoter-bound pause
+(DSIF, NELF) or pause-release (P-TEFb) factors. Single-stranded DNA
+(R-loops) is detected at sites of stalled Pol II; H2AX foci are induced.
+Consistent with inhibition of transcription, GANT61 induces H2AX foci in
+S-phase and non-S-phase cells. A transient intra-S-phase checkpoint is
+induced and cells accumulate in early S without further progression prior
+to the onset of cell death. The GLI1 target gene FOXM1, and its
+transcriptional target CDC6, regulate the G1/S transition and initiation
+of DNA replication, and are decreased in GANT61-treated cells. Data
+suggest that: 1) GANT61 inhibits GLI-mediated transcription by direct
+binding to GLI; 2) GLI-dependent Pol II transcription is stalled at early
+elongation in GANT61-treated cells, with formation of R-loops and DNA
+DSBs; 3) GLI1, FOXM1 and CDC6 regulate events at G1/S and initiation of
+DNA replication that controls outcome of the GANT61 response. These
+studies open the door to exploring the role of GLI as a therapeutic
+target. Since dysregulated HH signaling occurs in a wide variety of human
+cancers, the proposed studies are of broad impact.
+

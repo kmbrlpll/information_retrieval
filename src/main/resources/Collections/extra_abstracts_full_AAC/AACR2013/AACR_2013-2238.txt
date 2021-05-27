@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Modeling local network connectivity to identify druggable enzyme
+targets.
+
+
+While targeted therapies have provided extended lifespans to some cancer
+patients, the majority of cancers do not have these golden bullet
+therapies despite their increasing need. To address this, large-scale
+drug screening efforts are conducted to identify novel therapeutic
+targets in various cancers. While these screening efforts identify
+important nodes in the cancer cell signaling network, they do not
+necessarily reflect the druggability of those nodes. We predict that the
+local molecular connections surrounding a drug target will be predictive
+of inhibitor efficacy and should be considered in drug screening efforts
+and prioritizing drugs for clinical development. Towards this end, we
+have used computational modeling to survey the behavior of a three-tiered
+enzyme cascade configured with all possible one- and two-feedback
+interactions. To characterize the effect of local network topology on
+pathway inhibition, we compared inhibition by RNAi vs. small-molecules in
+the computational models. Our modeling predicts that certain topologies
+will be more sensitive to RNAi than small-molecules, and that other
+topologies will show the opposite behavior. We next experimentally tested
+one network wiring that our modeling predicts will be more potently
+inhibited by a small-molecule inhibitor than RNAi inhibition, where the
+third enzyme in the cascade negatively feeds back on the first. This
+topology is found in the Raf-MEK1/2-ERK1/2 pathway where ERK1/2 can
+hyperphosphorylate and inactivate Raf, creating a negative feedback loop.
+To test our model hypothesis, we compared the potency of shMEK constructs
+relative to equivalent inhibition by a small-molecule inhibitor of
+MEK1/2, U0126. We analyzed pathway output (pERK1/2) over time in response
+to pathway activation. Our data suggests that pERK1/2 responses are both
+qualitatively and quantitatively different for cells inhibited by shMEK
+compared to U0126. In U0126-treated cells, pERK1/2 activation after
+stimulation is delayed and transient compared to shMEK1/2 cells, which
+show reduced pERK1/2 compared to controls but no differences in signaling
+kinetics. We further investigated the phenotypic response from this
+difference in pERK1/2 signaling and found that upon stimulation the
+shMEK-inhibited cells proliferated whereas the U0126-inhibited cells did
+not. These results support our model prediction that small-molecule
+inhibition of MEK1/2 will more potently inhibit pathway output compared
+to RNAi. While global loss-of-function screens can identify new targets
+for therapy, it is critical to determine whether drugging such targets
+will yield the same outcome as eliminating them. Our work demonstrates
+the need to consider local network topology in drug screening and target
+identification for drug development. Prioritizing targets for drug
+development in this way will reduce the cost of drug development and
+allow more effective therapies to reach patients in the clinic.
+

@@ -1,0 +1,33 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Polyamines are rich and induces epigenetic change by inhibition of
+LSD1 in cancer stem-like cells.
+
+
+Cancer stem cells (CSC) are highly tumorigenic and resistant to
+chemotherapy and radiotherapy. We have previously reported that a small
+fraction of cancer cells with low proteasome activity had CSC-like
+properties. Ornithine decarboxylase (ODC) is an enzyme which converts
+ornithine to polyamines including putrescine, spermidine, and spermine.
+Proteasomal degradation of ODC is known to be ubiquitin-independent. The
+aim of this study was to explain how low proteasome activity gave
+CSC-like properties. Western blot showed high ODC protein level in
+CSC-like cells in cervical cancer and osteosarcoma cell lines, although
+ODC mRNA level is not high. These findings suggest that ODC protein level
+is high in CSC-like cells because ODC protein degradation is inactive. To
+investigate polyamine metabolism in CSC-like cells, we performed GC-MS
+analysis and found that putrescine, spermidine, and spermine were
+enriched in CSC-like cells. Furthermore, flux analysis showed conversion
+from ornithine to polyamines was more rapid in CSC-like cells. We
+performed a computational structure analysis and found that polyamines
+bind and inhibit demethylase site of LSD1 which is known to be a
+demethylase of histone H3K4 and a nuclear homolog of amine oxidases.
+Spermine was the strongest binding energy. An enzyme assay showed that
+LSD1 activity was dose-dependently inhibited by polyamines and spermine
+was the strong inhibitor. Finally, we analyzed performed ChIP sequencing
+analysis by using HeLa CSC-like cells and found that more global
+enrichment of H3K4me3 and less global enrichment of H3K4me1 than
+non-CSC-like cells. In conclusion, polyamines are rich in CSC, and be
+able to inhibit LSD1 activty and induce epigenetic alterations especially
+in H3K4 methylation in CSC.
+
+

@@ -1,0 +1,68 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Revolutionizing clinical care using prospective, institution-wide
+tumor sequencing
+
+
+Identification of predictive and prognostic biomarkers is central to
+clinical oncology. Use of targeted next generation sequencing (NGS) is
+increasing in molecular diagnostics labs, however the feasibility and
+impact of its routine application across all tumor types is largely
+untested. We launched an institution-wide effort to generate targeted NGS
+data (Oncopanel) for invasive tumors of all consenting patients. We
+hypothesized that this approach could replace traditional targeted
+testing, generate robust data on copy number alterations and structural
+variants, and provide novel patient-specific observations to facilitate
+clinical trial enrollment. Illumina NGS was performed on libraries
+prepared with Agilent SureSelect custom-designed hybrid capture of 4430
+exons from 275 genes plus selected introns of 30 genes. Results were
+analyzed by an internally-developed computational pipeline for mutations,
+small insertions/deletions, copy number variation and rearrangements.
+Variants were characterized according to predictive, prognostic, or
+diagnostic actionability. Data is available for the first 4291 cases
+sequenced. Oncopanel succeeded in 96% of specimens with adequate DNA. In
+a subset analysis performed on the first 1000 cases, assay success ranged
+from 83-100% according to tumor type; breast carcinoma was most prone to
+failure (pIdentification of predictive and prognostic biomarkers is
+central to clinical oncology. Use of targeted next generation sequencing
+(NGS) is increasing in molecular diagnostics labs, however the
+feasibility and impact of its routine application across all tumor types
+is largely untested. We launched an institution-wide effort to generate
+targeted NGS data (Oncopanel) for invasive tumors of all consenting
+patients. We hypothesized that this approach could replace traditional
+targeted testing, generate robust data on copy number alterations and
+structural variants, and provide novel patient-specific observations to
+facilitate clinical trial enrollment. Illumina NGS was performed on
+libraries prepared with Agilent SureSelect custom-designed hybrid capture
+of 4430 exons from 275 genes plus selected introns of 30 genes. Results
+were analyzed by an internally-developed computational pipeline for
+mutations, small insertions/deletions, copy number variation and
+rearrangements. Variants were characterized according to predictive,
+prognostic, or diagnostic actionability. Data is available for the first
+4291 cases sequenced. Oncopanel succeeded in 96% of specimens with
+adequate DNA. In a subset analysis performed on the first 1000 cases,
+assay success ranged from 83-100% according to tumor type; breast
+carcinoma was most prone to failure (p<0.0001). Median number of
+mutations per case was 8 (range 0-205) and was lowest in endocrine
+malignancies and highest in skin malignancies. Three percent of tumors
+were hypermutated with mutational signatures revealing distinct
+pathogenic underpinnings, including prior temozolomide therapy,
+microsatellite instability, and UV exposure. Compared to clinical
+testing, Oncopanel showed 100% accuracy for detection of KRAS and BRAF
+point mutations in colon adenocarcinoma, EGFR exon 19 deletion mutations
+in lung adenocarcinoma, and for EGFR amplification in glioblastoma.
+Oncopanel was 97.5% sensitive and 87.5% specific for 1p19q deletion as
+compared to aCGH or FISH and was 80% sensitive and 100% specific as
+compared to ALK FISH and additionally detected 2 ALK rearranged tumors
+for which FISH failed. In the overall cohort, 26% of patients had an
+actionable variant (most commonly KRAS) and 39% had alterations with
+implications for clinical trial enrollment (most commonly in
+PI3K/PTEN/AKT pathway). TP53 was the most commonly altered gene overall
+and the most likely to be co-mutated with oncogenic drivers. High level
+amplifications were most common for EGFR, MDM2, CDK4, ERBB2, MYC, and
+CCND1. Two-copy deletions were most common for CDKN2A/B, followed by TP53
+and PTEN. In several cases, Oncopanel data uncovered alterations that
+informed diagnosis and treatment of difficult-to-classify tumors. These
+efforts demonstrate that high quality, high throughput NGS data can be
+generated prospectively on an institutional level, thereby informing
+disease course and therapeutic options at an unprecedented scale.
+

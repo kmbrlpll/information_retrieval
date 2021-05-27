@@ -1,0 +1,66 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Combining forces: Synergy of erlotinib and crizotinib in a
+wild-type squamous non-small cell lung cancer cell line.
+
+
+Oncogenic drivers are often overexpressed in adenocarcinoma non-small
+cell lung cancer (NSCLC) patients, so this tumor type is often sensitive
+to targeted therapies. Sensitizing mutations in the epidermal growth
+factor receptor (EGFR) are good predictive biomarkers for response to
+EGFR-small molecule inhibitors, eg erlotinib. Amplification or exon 14
+skipping of cMET are good biomarkers for cMET-small molecule inhibitors,
+eg crizotinib. In other subtypes of NSCLC, eg squamous, targeted therapy
+is not considered to be active.
+
+We tested the combination of erlotinib and crizotinib on a panel of
+squamous NSCLC cell lines that were wild-type for both EGFR and cMET. The
+effect of this drug combination was tested with different assays. The
+sulforhodamine B-assay was used to determine growth inhibition and
+combination indexes (CI) were calculated with the method of Chou&Talalay.
+A CIWe tested the combination of erlotinib and crizotinib on a panel of
+squamous NSCLC cell lines that were wild-type for both EGFR and cMET. The
+effect of this drug combination was tested with different assays. The
+sulforhodamine B-assay was used to determine growth inhibition and
+combination indexes (CI) were calculated with the method of Chou&Talalay.
+A CI< 0.8 was synergistic, 0.8We tested the combination of erlotinib and
+crizotinib on a panel of squamous NSCLC cell lines that were wild-type
+for both EGFR and cMET. The effect of this drug combination was tested
+with different assays. The sulforhodamine B-assay was used to determine
+growth inhibition and combination indexes (CI) were calculated with the
+method of Chou&Talalay. A CI< 0.8 was synergistic, 0.8<CI1.2 was
+antagonistic. With flow cytometry the cell cycle was studied. With the
+wound-healing assay we determined the effect on cell migration. A 3D
+spheroid assay was performed to determine the effect of limited nutrient
+availability and hypoxia. Protein phosphorylation was studied with a
+pathscan array and phospho-specific western blotting.
+
+The LUDLU cell line gave a synergistic CI of 0.39±0.07, whereas the
+Calu1 (CI = 0.81±0.04), H520 (CI = 0.87±0.06) and SKMES1 (CI =
+0.81±0.02) were additive and the H1703 cell line (CI = 1.20±0.15) was
+antagonistic. Cell cycle analysis revealed that erlotinib monotherapy
+caused a G1 phase arrest (38 to 76%) and crizotinib caused a G2/M (13 to
+64%) phase arrest. In cells treated with the combination, the effect of
+crizotinib was dominant (13 to 52%). In the wound-healing assay the LUDLU
+cells were not migratory. The pathscan revealed a decrease in the
+phosphorylation of pERK1/2 (Thr202/204), pPRAS40 (Thr246) and pGSK3β
+(Ser9). Western blotting showed that the levels of pPRAS40 were decreased
+in the LUDLU cells after treatment with erlotinib or crizotinib, and
+almost gone when treated with the combination. In the SKMES1 cells only
+the combination decreased pPRAS40. H1703 cells showed no change in
+pPRAS40.
+
+These changes in phosphorylation make us hypothesize that Her3 and
+PI3K/Akt signaling may be important in the interaction of both drugs.
+Her3 is a promiscuous receptor that is able to heterodimerize with EGFR
+and cMET. When blocking one of these receptors, Her3 is still able to
+continue downstream PI3K/Akt signaling. When both EGFR and cMET are
+blocked, Her3 and PI3K/Akt signaling is inhibited, leading to synergy.
+The expression of total-Her3 was lowest in the antagonistic cell line.
+The combination of both inhibitors lead to a complete inhibition of pHer3
+(Tyr1289).
+
+In conclusion: Blocking both EGFR and cMET signaling causes inhibition of
+Her3 downstream signaling through PI3K/Akt, leading to synergy in
+wild-type squamous NSCLC cells.
+
+

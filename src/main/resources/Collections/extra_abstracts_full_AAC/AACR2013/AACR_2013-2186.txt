@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Quantitative cell surface proteome profiling of CD4+ T cells to
+identify potential therapeutic targets for adult T-cell leukemia (ATL).
+
+
+Human T-cell leukemia virus type 1 (HTLV-1) is one of retroviruses known
+as the causative agent of adult T cell leukemia/lymphoma (ATL) and
+HTLV-I-associated myelopathy/tropical spastic paraparesis (HAM/TSP), both
+of which develop after a long latency period over 30 years. ATL develops
+in HTLV-1-infected individuals at the prevalence of 5%, who exhibit only
+20% overall 5-year survival rate. Recently, ATL treatment using
+Mogamulizumab showed 58 % of response rate in the clinical studies.
+However, adverse reactions were reported for all cases during the
+treatment. Moreover no effective treatment has been developed for the
+Mogamulizumab-resistant ATL patients. The objective of the present study
+is to discover molecular treatment targets for antibody therapies against
+ATL. For effective isolation of the therapeutic targets, comprehensive
+cell surface proteome profiling was performed. Since most of cell surface
+proteins are glycosylated, a glycopeptide enrichment technology IGEL
+(Isotopic Glycosidase Elution and labeling on Lectin column
+chromatography) was employed to focus on the cell surface proteins. The
+IGEL was previously developed in our group, which based on 96-well
+modified lectin column chromatography (Mol Cell Proteomics.
+2010,9(9),1819). 1 106 of peripheral blood mononuclear cells (PBMCs) were
+lysed, reduced and alkylated followed by tryptic digestion. In this
+study, we used ConA lectin beads to enrich glycopeptides, which
+specifically recognized -mannosyl or -glucosyl residues of N-glycans. The
+eluates were lyophilized and subjected to LC/MS/MS analysis. The LC/MS/MS
+analysis identified 594 peptides derived from 268 proteins including 510
+glycosylated peptides. Gene Ontology analysis revealed that 73.6% of
+identified proteins were assigned as the membrane associated proteins.
+For the therapeutic target screening experiment, CD4+ T cells were
+isolated from PBMCs derived from 16 uninfected volunteers, 25
+asymptomatic carriers, 26 HAM/TSP patients, and 15 ATL patients. To
+perform relative quantification and subsequent statistical analysis of
+over 100,000 peptides among 82 samples, we employed the Expressionist
+proteome server system (Genedata AG). Although recent high-end mass
+spectrometers allow in-depth and comprehensive analysis of any proteomes,
+improvement of data processing infrastructures, such as Expressionist,
+should be essential for future clinical proteomics studies analyzing
+hundreds of specimens. Here we introduce a systematic workflow to
+identify ATL-specific cell surface antigens, accompanying further
+FACS-based replication experiments. In particular, our strategy could be
+useful for exploring any proteomic changes on cell surface, which include
+malignant transformation, metastasis, or cell development.
+

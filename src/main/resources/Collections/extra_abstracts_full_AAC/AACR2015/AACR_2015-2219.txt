@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Development of an assay to detect transcription misincorporation
+errors in Escherichia coli
+
+
+In contrast to errors in DNA replication which can product heritable
+mutations, errors in transcription cause only transient alterations. The
+temporary nature of these transcription mistakes has made them difficult
+to detect and genetic screens to identify mutations that lower the
+fidelity of transcription have been problematic. We addressed this
+problem by developing methods to turn transient transcription errors into
+permanent genetic changes. The principle is based on suppression of a
+mutation in the active site of the cre recombinase. This assay is based
+on two parts: a source of Cre, which is actually the transcription
+misincorporation substrate, and a genetic reporter with a phenotypic
+change created by Cre-mediated recombination between lox sites. To
+develop a substrate for E. coli we chose the galactokinase gene (galK) as
+our reporter. From an alignment of the galK protein from E.coli, H.
+sapiens and L. lactis we identified sites that might be able to accept a
+12aa insertion encoded by the LoxP sequence without disrupting its
+function. We selected four different sites that were away from the GalK
+active site and on the surface of the protein. We started our project
+using the strain MG1655, which is galK (+), able to grow in galactose as
+a carbon source and red on a MacConkey galactose plate (MAcGal). Using
+oligo recombineering, we first inserted a 7 base sequence, which caused a
+frame-shift mutation, the cells became galK (-) and, therefore white on
+MacGal. To put it back in frame, we next replaced the 7 bases with a 36
+base loxP site, which, if it does not disrupt the function of galK will
+make the cells galK (+) again. To our surprise, the insertion of this
+LoxP site was completely successful, putting the gene back in frame and
+making the cells galK (+) and, therefore, red at each of the four sites
+we chose. A derivative of this reporter was made with the a portion of
+the galK gene inverted at one of the loxP sites. Active Cre recombinase
+can be detected by flipping the inversion to restore galK function. The
+active site mutant cre-Y324C exhibits a very low inversion rate.
+Mutations that reduce the accuracy of transcription, such as cells
+defective in greA, exhibit an elevated frequency of galK (+) inversions.
+This system will be used to identify additional mutations that reduce the
+fidelity of transcription in E. coli.
+

@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Functional characterization of KIT and FcR1 receptor mutations in
+Mast Cell Leukemia using Single Cell Network Profiling (SCNP).
+
+
+Background: A recent report described an imatinib/dasatinib (Imat/Dasat)
+resistant MCL patient (pt) with mutations in KIT (V654A) and FcR1 (L188F)
+receptors [Spector et al, Leukemia 2011]. The pt did not respond to
+cytarabine-based induction therapy combined with Dasat or to
+post-induction Imat. The functional consequence of the receptor mutations
+on downstream signaling networks, and sensitivity to alternative
+therapeutics, was unknown. SCNP is a flow cytometry-based assay that
+quantitatively and simultaneously measures, in single cells,
+extracellular surface markers and activation of intracellular signaling
+proteins in response to modulation. SCNP was applied to interrogate
+downstream signaling networks and network sensitivity to targeted
+therapeutics by examining:1) Basal and modulated signaling using stem
+cell factor (SCF) or -IgE2) Effect on basal and modulated signaling of:a)
+KIT inhibitors Imat, Dasat, and Nilotinibb) PI3K inhibitor GDC-0941c) SYK
+inhibitor fostamatinib R406Methods: Cryopreserved MCL BMMCs and healthy
+donor BMMCs were processed alongside fresh healthy donor basophils (FHDB)
+as controls. BMMCs were modulated with SCF for 5 and 15 min +/-KIT or
+PI3K inhib. MCL BMMCs and FHDB were modulated with -IgE for 5min +/-
+fostamatinib. Signaling in the KIT and FcR1 pathways was quantified
+through measurement of p-AKT/ p-ERK/ p-S6 and p-ERK/ p-PLC2 / p-SYK
+levels, respectively, in the MCL population: CD45+, CD34+, CD33+, and
+CD117+.Results: As previous reported, the V654A KIT mutation did not
+result in constitutive activation of the PI3K or MAPK pathways in MCL
+blasts, but was associated with dysfunctional SCF modulated signaling.
+Specifically, SCNP identified SCF induced p-AKT levels at 5min, higher
+(2X) compared to CD34+/CD117+ FHDB, and sustained to 15min with no
+simultaneous induction of p-ERK or p-S6. Consistent with the clinically
+observed Imat/Dasat resistance of the MCL case, in vitro AKT induction
+was unaffected by the presence of KIT inhibitors but sensitive to the
+PI3K inhib GDC-0941. KIT inhibitors and GDC-0941 blocked SCF induced
+signaling in the healthy BMMC control. Despite robust p-ERK induction in
+the FHDB control after -IgE modulation of the FcR1 receptor and
+inhibition by fostamatinib treatment, no basal or -IgE modulated FcR1
+receptor signaling was detected in MCL BMMC cells.Conclusions: SCNP
+functionally characterizes signaling and drug resistance profiles in MCL
+BMMCs and can potentially inform on therapeutic selection. Despite robust
+p-ERK induction in the FHDB control after -IgE modulation of the FcR1
+receptor and inhibition by fostamatinib treatment, no basal or -IgE
+modulated FcR1 receptor signaling was detected in the cryopreserved MCL
+BMMCs. Further studies will elucidate whether the lack of detected signal
+could be related to the freeze/thaw process and/or to cell-type specific
+differences.
+

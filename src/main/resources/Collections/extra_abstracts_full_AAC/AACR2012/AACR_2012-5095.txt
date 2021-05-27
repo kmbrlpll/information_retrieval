@@ -1,0 +1,40 @@
+Meeting: 2012 AACR Annual Meeting
+Title: CGH+SNP microarrays for copy-neutral aberration detection in
+cancer research
+
+
+Advances in cancer research have greatly benefited from high resolution
+copy number (CN) measurements provided by oligo array Comparative Genomic
+Hybridization (aCGH). The addition of single nucleotide polymorphism
+(SNP) measurements to CGH microarrays enables the detection of
+copy-neutral loss of heterozygosity (cnLOH) events and allelic imbalances
+arising from genomic instability during cancer development and
+progression. Nonetheless, cancer studies face challenges associated with
+genomes aneuploidy, polyclonality and mosaicism due to the admixtures of
+tumor and normal cells. In the quest to decipher tumor complexity, the
+power and sensitivity of Agilent's CGH+SNP platform has been expanded
+with new computational methods capable of determining clonal fraction,
+total CN and allele-specific CN in aneuploid samples. Genomic DNA from
+hematology-oncology samples, cell lines and a genotyped control sample
+was digested with AluI and RsaI restriction endonucleases to allow for
+SNP profiling at the enzymes restriction sites. Experimental and
+reference samples were differentially labeled and hybridized to the
+Agilent Cancer CGH+SNP microarray, containing 20K cancer associated CGH
+probes, 100K backbone probes and 60K SNP probes. The data were analyzed
+using algorithms with extended capability to determine clonal fraction,
+total and allele-specific CN of the aberrant clone. As expected,
+significant diversity was found in different chronic lymphocytic leukemia
+(CLL) tumors. In one CLL sample a small homozygous deletion and cnLOH
+were identified on chromosome 13. In another CLL case a trisomy of the
+entire chromosome 12 was observed, together with a small hemizygous
+deletion and cnLOH on chromosome 18. An Acute Lymphoblastic Leukemia
+(ALL) tumor sample was found to harbor an amplification on chromosome 6,
+as well as two small amplifications on chromosome X. To assess the
+ability of detecting low level mosaicism, we conducted a mixed sample
+experiment whereby a sample with a known aberration was mixed at known
+ratios with a matched sample not containing the aberration. The computed
+clonal fraction, total and allele-specific CN matched the expected
+values. We have shown that the new algorithms developed for cancer sample
+analysis determined the genotypes, total copy numbers and clonal
+fractions in aneuploid samples highly mixed with normal cell populations.
+

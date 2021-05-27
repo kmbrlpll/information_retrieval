@@ -1,0 +1,78 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The oral microbiome and prospective risk for esophageal cancer: A
+population-based nested case-control study.
+
+
+Background: The two most common types of esophageal cancer, esophageal
+adenocarcinoma (EAC) and squamous cell carcinoma (ESCC), are highly
+fatal. The human microbiota have been suggested to play a role in
+esophageal cancer etiology, although the evidence is limited to small,
+cross-sectional studies. We hypothesized that the oral microbiota, which
+shape the esophageal microbiota, may be causative agents in esophageal
+carcinogenesis.
+
+Methods: We conducted a prospective study nested in two large U.S.
+cohorts: ACS CPS-II and NCI-PLCO. Oral bacteria were assessed in
+pre-diagnostic mouth-wash samples collected from cases and controls
+(n=81/160 EAC and n=25/50 ESCC cases/matched controls), using 16S rRNA
+gene sequencing. We compared overall microbial composition between cases
+and controls using permutational multivariate analysis of variance
+(PERMANOVA) of UniFrac distances, and we examined associations between
+centered log-ratio transformed taxon abundances and cancer risk using
+conditional logistic regression. Metagenome functional content was
+predicted from taxonomic composition using PiCRUST.
+
+Results: Overall microbial composition did not differ between EAC cases
+and matched controls or ESCC cases and matched controls, adjusting for
+matching factors (age, sex, race, cohort, time to diagnosis/selection),
+BMI, smoking, and alcohol intake (all p>0.40). The periodontal pathogens
+Tannerella forsythia and Porphyromonas gingivalis were nominally
+associated with increased risk for EAC (OR [95% CI] = 1.21 [1.01, 1.46],
+p=0.04) and ESCC (OR [95% CI] = 1.3 [0.96, 1.77], p=0.09), respectively.
+Conversely, genus Neisseria, previously shown to be depleted by cigarette
+smoking, was associated with protection against EAC (OR [95% CI] = 0.88
+[0.8, 0.97], p=0.01). Other species associated with EAC risk (pResults:
+Overall microbial composition did not differ between EAC cases and
+matched controls or ESCC cases and matched controls, adjusting for
+matching factors (age, sex, race, cohort, time to diagnosis/selection),
+BMI, smoking, and alcohol intake (all p>0.40). The periodontal pathogens
+Tannerella forsythia and Porphyromonas gingivalis were nominally
+associated with increased risk for EAC (OR [95% CI] = 1.21 [1.01, 1.46],
+p=0.04) and ESCC (OR [95% CI] = 1.3 [0.96, 1.77], p=0.09), respectively.
+Conversely, genus Neisseria, previously shown to be depleted by cigarette
+smoking, was associated with protection against EAC (OR [95% CI] = 0.88
+[0.8, 0.97], p=0.01). Other species associated with EAC risk (p<0.05)
+included Corynebacterium durum, Prevotella nanceiensis, and Streptococcus
+pneumoniae (inversely associated with EAC), and Actinomyces cardiffensis,
+Selenomonas oral taxon 134, and Veillonella oral taxon 917 (positively
+associated with EAC). Other species associated with ESCC risk (pResults:
+Overall microbial composition did not differ between EAC cases and
+matched controls or ESCC cases and matched controls, adjusting for
+matching factors (age, sex, race, cohort, time to diagnosis/selection),
+BMI, smoking, and alcohol intake (all p>0.40). The periodontal pathogens
+Tannerella forsythia and Porphyromonas gingivalis were nominally
+associated with increased risk for EAC (OR [95% CI] = 1.21 [1.01, 1.46],
+p=0.04) and ESCC (OR [95% CI] = 1.3 [0.96, 1.77], p=0.09), respectively.
+Conversely, genus Neisseria, previously shown to be depleted by cigarette
+smoking, was associated with protection against EAC (OR [95% CI] = 0.88
+[0.8, 0.97], p=0.01). Other species associated with EAC risk (p<0.05)
+included Corynebacterium durum, Prevotella nanceiensis, and Streptococcus
+pneumoniae (inversely associated with EAC), and Actinomyces cardiffensis,
+Selenomonas oral taxon 134, and Veillonella oral taxon 917 (positively
+associated with EAC). Other species associated with ESCC risk (p<0.05)
+included Aggregatibacter paraphrophilus (inversely associated with ESCC)
+and Prevotella nanceiensis, Bergeyella oral taxon 322, and Neisseria
+weaveri (positively associated with ESCC). Analysis of inferred
+metagenomes revealed that bacterial carotenoid biosynthesis was
+associated with protection against EAC (OR [95% CI] = 0.84 [0.7, 1.0],
+p=0.05).
+
+Conclusions: Our findings from this prospective study suggest that
+specific bacterial pathogens may play a causal role in esophageal cancer,
+while members of the healthy oral microbiota may protect against
+carcinogenesis. Unique microbial profiles may contribute to each of the
+distinct esophageal cancer types, EAC and ESCC. Oral microbiota
+manipulation may be a future strategy for preventing this highly fatal
+disease.
+
+

@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Genome-wide analysis of DNA methylation induced by environmental
+carcinogen dibenzo[def,p]chrysene in ovarian tissues of mice
+
+
+We and others have demonstrated that the administration of
+dibenzo[def,p]chrysene [also known as dibenzo[a,l]pyrene (DBP)], a
+representative example of the class of polycyclic aromatic hydrocarbon
+(PAH), by ip, oral gavage, or topical application onto the oral cavity
+induced tumors in multiple organ sites in mice; the ovary was the most
+susceptible tissue. We further demonstrated that the capacity of the
+target organs to metabolize DBP to active intermediates that can form DNA
+adducts may account for its tissue selective tumorigenicity. In addition,
+formation of DNA adducts by certain chemical carcinogens has been linked
+to aberrant DNA methylation, including the most extensively studied
+prototype PAH benzo[a]pyrene (B[a]P). The goal of this study is to
+examine whether alteration of DNA methylation occurs in the ovarian
+tissues of mice treated with DBP during the early stage of tumor
+development. In this study, we employed a previously established animal
+protocol in which the levels of DBP-DNA adducts as a function of time had
+been determined in the ovary following the oral administration of DBP (24
+nmol, 3/week for 5 weeks) or vehicle (DMSO) to female B6C3F1 mice (six
+weeks old, n = 3/group). DNA was isolated from ovary and subjected to
+enhanced reduced representation bisulfite sequencing (ERRBS) which is a
+single nucleotide resolution technique used to study DNA methylation in
+CpG sites and the surrounding regions. Briefly, DNA was digested by MspI
+followed by end repair, adenylation and adapter ligation with a
+modification of bead size selection to capture MspI fragments of 70-320
+bp size. The resulting libraries were bisulfite-converted followed by PCR
+amplification and read by 150 bp on HiSeq 2500. Base calls of bisulfite
+treated sequencing reads were mapped to the mm9 mouse assembly and
+methylation calls were performed using Bismark v0.10.1 (Babraham
+Bioinformatcis, UK). The methylKit v0.9.2 R package was then used to
+calculate the differential methylation. Differentially methylated bases
+with q-value 25% were extracted. Among 179 differentiated methylation
+sites (DMS) identified between DBP and vehicle-treated mice, 68 are
+hypermethylated and 111 are hypomethylated. About 25% of DMS are located
+in promoter or exon, 32% in intron and 44% in intergenic regions. DMS are
+located in genes including oocyte specific homeobox 2, transforming
+growth factor alpha, and tumor necrosis factor. Ingenuity Pathways
+analysis of the genes with altered methylation patterns identified top
+canonical pathways as growth hormone signaling, spermine biosynthesis,
+threonine degradation, trehalose degradation and L-serine degradation.
+Collectively, our previous results together with those presented here
+demonstrate that both genetic and epigenetic alterations may account for
+the carcinogenicity of DBP in the mouse ovary. Support: NIEHS R21ES020411
+and NCI R01-CA173465.
+

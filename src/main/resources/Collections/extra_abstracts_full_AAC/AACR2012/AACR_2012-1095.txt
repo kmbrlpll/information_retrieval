@@ -1,0 +1,42 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Comprehensive miRNA profiling of taxane-resistant human breast and
+ovarian cancer cell lines using the SmartChip real-time PCR system
+
+
+MiRNAs are post-transcriptional regulators of cell proliferation, tissue
+differentiation, embryonic development and apoptosis. We profiled the
+expression of miRNAs in a panel of taxane-resistant human breast and
+ovarian cancer cell lines using the recently developed WaferGen SmartChip
+System. Four breast cancer cell lines (MCF-7, BT-549, MDA-MB-231 and
+T-47D) and four ovarian cancer cell lines (1A9/A2780, ES-2, MES-OV and
+OVCAR-3) were selected for resistance to either docetaxel or paclitaxel
+alone or co-selected with taxane in the presence of the P-glycoprotein
+inhibitor, PSC-833 (valspodar, 2 M). All of the variants established by
+exposure to taxanes alone are MDR1/ABCB1(+), whereas the resistance
+observed in the co-selected variants is not transporter-mediated. We have
+previously reported elevated class III -tubulin (TUBB3) content, reduced
+BRCA1 and elevated CDKN1A (p21) in the majority of the non-MDR1 taxane
+variants relative to parental controls. For miRNA profiling, total RNA
+was analyzed using the SmartChip Human MicroRNA Panel version 2.0
+containing 1,150 unique real-time PCR reactions in quadruplicate for a
+total of 4,600 reactions per sample. Following ligation to a miRNA
+cloning linker (Integrated DNA Technology, Coraville, IA), the equivalent
+of 500 ng of starting RNA per sample was added to a one-step cDNA and
+real-time PCR cocktail (Applied Biosystems, Foster City, CA). The total
+volume per reaction was 100 nL containing an equivalent of 96 pg of RNA.
+Forty cycles of real-time PCR were performed on the SmartChip Cycler and
+a quality screen was performed to remove any outlier data. MiRNA
+profiling is complete and an analysis of these data revealed a clear
+separation between the two sets of non-MDR1 variants based on tumor type
+(breast vs. ovarian), and selection conditions (non-MDR1 vs. parental).
+We observed reduced miR-200 family expression in the majority of these
+taxane-resistant variants, consistent with published findings that
+miR-200c directly targets and suppresses TUBB3. Furthermore, Significance
+Analysis of Microarrays (SAM) software identified reduced miR-635,
+miR-296-3P, and let-7B in both MDR1(+) and MDR1(-) variants of breast
+origin, and elevated let-7 family (let-7B, let-7F and let-7I) and reduced
+miR-1225-5P and miR-4286 in the ovarian cell lines relative to parental
+controls. The functional significance of these observations will be
+studied by introducing miRNA inhibitors or mimics specific to key
+alterations with the goal of sensitizing cells to taxanes.
+

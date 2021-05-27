@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Translational strategy for targeting MCL1 amplified tumors with
+CDK9 inhibitor
+
+
+BCL-2, BCL-XL, and MCL-1 are members of the prosurvival family of
+proteins that regulate the mitochondrial apoptotic pathway. These
+proteins are often amplified or overexpressed in multiple tumor types.
+Previously, we showed that non-small cell lung cancer (NSCLC) cell lines
+with low BCL-XL expression (high MCL-1 / BCL-XL ratio) are
+MCL-1-dependent. TCGA data shows MCL1 amplification is one of the
+frequent genetic events in NSCLC adenocarcinoma (20%) and breast cancer
+(15%), while BCL2 is frequently amplified in activated B-cell like
+diffuse large B cell lymphoma (11%) and BCL2L1 in colorectal cancer
+(15%). We hypothesize that cancer cell lines with MCL1 amplification
+and/or high MCL-1 / BCL-XL ratio depend on MCL-1 for survival and are
+sensitive to inhibition of CDK9, a component of the transcriptional
+elongation complex that regulates MCL-1 expression. In this study, we
+demonstrate that NSCLC, triple negative breast cancer (TNBC) and ovarian
+cell lines with amplified MCL1 or low BCL-XL expression (high MCL-1 /
+BCL-XL expression ratio) are MCL-1-dependent, and are sensitive to
+dinaciclib, a CDK9 inhibitor. Cell lines with high BCL-XL expression
+could be re-sensitized to dinaciclib when co-treated with BCL2/BCL-XL
+inhibitor navitoclax (ABT-263) or BCL-XL-selective inhibitor A-1155463,
+suggesting BCL-XL as a resistance factor. Indeed, exogenous expression of
+BCL-XL rescues sensitive cell lines from dinaciclib. As reported in TCGA,
+ovarian, NSCLC and TNBC patients with MCL1 amplification also have high
+MCL-1 expression, and we hypothesized that these patients to be sensitive
+to CDK9 inhibitors. We developed a fluorescence in situ hybridization
+(FISH) assay to detect MCL1 amplification which can potentially select
+patients that may benefit from dinaciclib treatment. We show that fifteen
+percent of NSCLC patients have high MCL1 amplification, similar to
+published data. In addition, we have identified other predictive
+biomarkers associated with sensitivity in TNBC cell lines from gene
+expression analysis. In conclusion, we have developed a translational
+strategy for identifying MCL-1-dependent cancers that may be sensitive to
+CDK9 inhibitors in the clinic.Disclosures:All authors are employees of
+AbbVie. The design, study conduct, and financial support for this
+research were provided by AbbVie. AbbVie participated in the
+interpretation of data, review, and approval of the publication
+

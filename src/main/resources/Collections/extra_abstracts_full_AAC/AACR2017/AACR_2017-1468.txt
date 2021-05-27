@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: MiR-200b targets ARHGAP18 and suppresses triple negative breast
+cancer metastasis.
+
+
+Triple negative breast cancer (TNBC) refers to a group of highly
+heterogeneous malignant tumors that lack estrogen receptor and
+progesterone receptor expression, and human epidermal growth factor
+receptor 2 amplification, accounting for 10-20% of newly diagnosed breast
+cancer cases. Compared to other subtypes of breast cancer, TNBCs usually
+show worse clinical features such as rapid tumor growth, earlier
+recurrence, and more aggressive metastasis. Unfortunately, the mechanism
+of TNBC metastatic behavior has not been well understood. Moreover, no
+efficient targeted therapies for TNBCs are currently available,
+representing a real unmet need for effective new therapies. MiR-200
+family members are among the first miRNAs reported to function as potent
+inhibitors of cancer metastasis. However, the mechanism of miR-200 family
+on cancer metastasis has not been well understood. In this study, we
+investigated the effect of miR-200b, one member of the miR-200 family, on
+TNBC metastasis using cell culture and mouse orthotopic mammary xenograft
+tumor models. We found that the expression level of miR-200b is
+significantly lower in TNBC cells and tissues than that in other types of
+breast cancer. Stably expressing miR-200b significantly reduced TNBC cell
+migration and invasion and suppressed TNBC metastasis in a mouse
+orthotopic mammary xenograft tumor model. Mechanistic studies revealed
+that miR-200b overexpression in TNBC cells caused drastic changes in
+cellular actin cytoskeleton organization patterns as evidenced by reduced
+lamellipodia formation but increased stress fiber formation. In
+consistent with these findings, Rho GTPase pulldown assays demonstrated
+that stably expressing miR-200b significantly increased the Rho GTPase
+Rho A activation, but reduced the Rho GTPase Rac1 activation. Moreover,
+inhibition of Rho A signaling impaired the inhibitory effect of miR-200b
+on TNBC cell migration. Bioinformatics analysis indicated that ARHGAP18,
+a specific Rho A GTPase activating protein (GAP), is a predicate target
+of miR-200b. Further Q-PCR, Western blot and 3’UTR reporter analysis
+confirmed that ARHGAP18 is a target of miR-200b. Knocking down ARHGAP18
+in TNBC cells using siRNAs significantly increased Rho A activation but
+reduced Rac1 activation. To further determine the role of ARHGAP18 in
+TNBC, ARHGAP knockout TNBC cells were generated using the CRISPR
+technology. It was found that knockout ARHGAP18 phenocopied the effect of
+miR-200b overexpression. Moreover, overexpressing ARHGAP18 in miR-200b
+stable expression cells overcome the inhibitory effect of miR-200b on
+TNBC metastasis. Together, these findings suggest that miR-200b
+suppresses triple negative breast cancer metastasis by targeting ARHGAP18
+and enhancing Rho A activation.
+
+

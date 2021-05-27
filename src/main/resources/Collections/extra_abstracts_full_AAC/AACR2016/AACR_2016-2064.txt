@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Novel HIF-2 targeted RNAi therapeutic for renal cell carcinoma
+
+
+Background: Targeted therapy including VEGF and mTOR pathway inhibitors
+has dramatically transformed treatment options and outcomes for patients
+with metastatic clear cell renal cell carcinoma (ccRCC). However,
+alternate treatments are needed as resistance to these initially
+promising agents occurs frequently. RNAi interference (RNAi), an innate
+gene silencing mechanism, has been explored as a new class of
+therapeutics where conventional treatments are lacking or have failed.
+The challenge in leveraging this promising approach has been efficient
+delivery of an RNAi trigger (siRNA) to target tissue. Over 90% of ccRCC
+tumors express a mutant inactive form of the von Hippel-Landau protein
+(pVHL), an E3 ubiquitin ligase that promotes target protein degradation.
+Strong evidence supports the observation that pVHL functional loss leads
+to the accumulation of the transcription factor hypoxia-inducible factor
+2 (HIF-2), a tumorigenic driver of ccRCC.Methods: We have developed a
+targeted delivery platform called Dynamic Polyconjugte (DPC) as an
+RNAi-based therapeutic targeting HIF-2 for advanced ccRCC. The
+ccRCC-specific DPC (ITG-DPC) comprises a membrane active polymer to
+promote RNAi trigger endosomal release, a ligand that binds to
+V-containing integrin receptors expressed on tumor cells, reversible
+masking to prevent polymer activity before reaching the endosomal
+compartment, and a potent and specific RNAi trigger to HIF-2. The modular
+nature of this delivery platform allows for flexibility to optimize each
+functional component independently. The ligand-dependent delivery of
+ITG-DPC was first evaluated in cultured tumor cells and then confirmed in
+ccRCC tumors established in nude mice using fluorescently-labeled ITG-DPC
+and confocal microscopy. To validate silencing of HIF-2 as an effective
+therapeutic approach, an inducible shRNA to HIF-2 was expressed in ccRCC
+tumors established in mice that significantly silenced HIF-2 gene
+expression and induced tumor regression.Results: Bi-weekly injection of
+ITG-DPC into nude mice with established orthotopic A498 ccRCC tumors
+resulted in >80% knockdown of HIF-2 mRNA and significant tumor growth
+inhibition. Histological examination of tumor sections showed substantial
+cell killing and destruction of tumor architecture. Down-regulation of
+HIF-2 regulated pathways genes including VEGF-A, and the corresponding
+reduction in tumor-associated CD31 positive neovascularization,
+corroborated on-target effects of HIF-2 gene silencing.Conclusion:
+Targeted delivery of a HIF-2 specific RNAi-based-therapeutic has the
+potential to radically impact the late-stage ccRCC treatment paradigm.
+

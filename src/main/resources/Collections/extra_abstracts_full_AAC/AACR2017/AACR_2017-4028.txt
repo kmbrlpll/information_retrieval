@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Analysis and recovery of functionally defined single immune cell
+clones through opto-electro-positioning technology.
+
+
+Cancer patients mount protective innate and adaptive immune responses
+against tumor cells. Such responses are able to control or even eliminate
+tumor burden if harnessed properly. Identifying clonal adaptive immune
+cells targeting tumor cells with designated function is extremely
+valuable as these cells are able to either fight the tumor directly or
+provide tumor targeting immune receptors to engineer other effector cells
+like autologous CD8 T cells or NK cells. The process of isolating cancer
+specific immune cells and their receptors, however, remains technically
+challenging and labor intensive.
+
+Opto-Electro-Positioning (OEP) technology employs a light actuated
+dielectrophoretic force to maneuver live cells in their culture
+environment. We have combined OEP with a nanofluidic cell culture system
+to produce an integrated microfluidic platform that enables
+multi-dimensional investigation of lymphocyte specificity and function.
+The system is able to 1) deterministically capture designated
+lymphocytes, 2) actively maintain and observe colony growth, and 3)
+conduct cytokine release assays, all in a single enclosed microfluidic
+chip. The new platform is suitable for high throughput screening to
+identify and harvest antigen specific and/or functionally defined T
+cells. We have successfully applied it to isolate primary human T cells
+targeting either EBV/Tetanus toxin antigens or tumor associated antigens
+such as MART-1 through tetramer staining or a proliferation assay. The
+system is also exceptionally efficient for investigating immune cells
+from clinical specimens typically of low cellularity. From tumor
+biopsies, we are able to capture tumor infiltrating T cells, stimulate
+proliferation, investigate their TNF-α secretion on chip, and obtain
+full transcriptomic analysis after export.
+
+Overall, our data suggest the OEP nano-fluidic environment provides a
+powerful high throughput screening tool to identify rare lymphocytes
+against tumor associate antigens or neo-antigens and to investigate
+precious clinical samples for biomarker discovery.
+
+

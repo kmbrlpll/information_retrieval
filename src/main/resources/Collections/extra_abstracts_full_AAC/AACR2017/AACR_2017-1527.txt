@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: BRD3 as a specific vulnerable therapeutic target in neuroblastoma.
+
+
+Introduction: BET inhibitors have raised high expectations for cancer
+treatment given their anti-proliferative effect by inhibiting BRD4
+controlled enhancer activity of highly transcribed genes such as MYC(N).
+However, current inhibitors also target BRD2 and BRD3 which are
+functionally nonredundant with BRD4. In neuroblastoma only MYCN amplified
+tumors respond well to these drugs.
+
+Methods: We performed an integrated bioinformatics approach to scrutinize
+BET family genes as well as further candidate epigenetic regulators as
+targets for novel therapies in neuroblastoma.
+
+Results: First we performed a time-resolved expression data analysis of
+week 1 and 2 hyperplastic lesions and tumors derived from the TH-MYCN
+transgenic mouse model and confirmed dynamic regulation during tumor
+development for established neuroblastoma oncogenes and tumor suppressor
+genes. Next, we filtered within the highest upregulated genes for Cancer
+Gene Census (CGC) genes and identified 21 upregulated CGC genes mainly
+involved in chromatin remodeling and DNA repair. Finally, after further
+selection based on expression in CCLE and survival in neuroblastoma
+patients, BRD3 was identified as the top-ranked candidate. BRD3 exhibits
+drastic upregulation during tumor formation. Elevated BRD3 expression is
+the highest expressed gene in neuroblastoma cell lines upon analysis of
+the CCLE panel and associated with very poor prognosis. To explore the
+nonredundant functions of BRD3 in relation to BRD4, we performed
+RNA-sequencing after stable knockdown of BRD3 in neuroblastoma cell lines
+and compared the downstream effects on the transcriptome as well as the
+impact on cell viability to knockdown of BRD4 and pharmacological
+treatment with BET-inhibitors (JQ1, OTX015). In addition, we dissected
+the BRD3 protein complex by means of label-free mass spectrometry
+analysis to gain further insights into the BRD3 specific functions in
+relation to control of gene transcription and putative interaction with
+transcription factors such as MYCN. Current efforts are ongoing to test
+cooperative interaction of BRD3 versus BRD4 in dbh-MYCN driven
+neuroblastoma formation in zebrafish as well as BRD3 and BRD4
+ChIP-sequencing in neuroblastoma cells.
+
+Conclusion: We identified BRD3 as a candidate novel driver gene in
+neuroblastoma and will present differential transcriptional control and
+protein interactions of BRD3 versus BRD4. This study can open the way
+towards developing BRD3 specific inhibitors for neuroblastoma and other
+BRD3 overexpressing cancers such as T-ALL and small cell lung carcinoma.
+
+

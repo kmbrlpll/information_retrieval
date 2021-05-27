@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identification of a specific RNA aptamer targeting non-small cell
+lung cancer by in vivo SELEX
+
+
+In vivo selection of the RNA aptamers by systematic evolution of ligands
+by exponential enrichment (SELEX) has demonstrated a great targeting tool
+for diagnostics and treatments in the clinic. In this study, in vivo
+selection of specific RNA aptamer for cells was established through the
+use of tumor-bearing xenograft mice injected with human non-small cell
+lung cancer NCI-H460 cells. Briefly, a synthetic DNA pool was first
+transcribed in vitro using mutant T7 RNA polymerase (Y639F), which is
+capable of recognizing 2-fluoropyrimidines to produce nuclease-resistant
+RNA. PEGylated RNA library was then constructed to produce stable PEG-RNA
+molecules. A cDNA library was produced and was further transcribed for an
+RNA pool. The enriched nuclease-resistant PEG-RNA pool was re-injected
+into NCI-H460 tumor-bearing mice again. After multiple cycle selections
+in vivo, the cDNA pool was cloned into T-vector for sequencing analysis
+for enriched RNA motifs.On round 8 of SELEX selection, an enriched RNA
+sequence (RA16) was identified at a frequency of 21.2%. The RA16
+preparation was further enriched up to 94.7% on round 11. To characterize
+the specificity in vitro, NCI-H460 cells, along with additional tumor
+cells or normal control cells, were incubated with Cy3-labeled RA16 or
+the initial RNA library. The specific fluorescent binding was observed
+for HCI-H460 and H1299 cells, but not for HEK293T, Hela, and H226 cells.
+Binding affinity (Kd 92 nM) for RA16 was determined by flow cytometry
+using FITC-labeled RA16 to HCI-H460 cells. Meanwhile, cryosections from
+various organs of tumor-bearing mice also revealed strong binding of RA16
+with HCI-H460 tumors but only slightly with lung tissue. No any
+significant binding was detected in other tissues of tumor-bearing mice
+or in any normal tissues of control mice.Furthermore, a
+quantitative-RT-PCR was performed to trap specific RA16 sequence from
+various tissues of control or tumor-bearing mice. The selected RNA
+aptamer RA16 or the initial RNA library was injected into tumor-bearing(n
+= 4) and normal control mice (n = 4). Total RNAs were extracted from the
+mouse tumor or from heart, liver, spleen, lung and kidney 3.5 hrs post
+injection. There was an enrichment of 44.33.6-folds for the injected RA16
+in mouse tumors treated by RA16 preparation comparing with mouse tumors
+treated by the initial RNA library. No significant enrichment of RA16 was
+detected in any other tissues of tumor-bearing mice or tissues from
+normal control mice. Significantly, in vivo tumor imaging study with
+Cy5.5-labeled RA16 showed that aptamer RA16 was gradually migrated toward
+tumor site and enriched with time at tumor area in mice. Our studies thus
+strongly suggests that RNA aptamer RA16 was specifically selected for
+targeting human NCI-H460 cells, as well as xenograft tumor tissues with
+high affinity both in vitro and in vivo.
+

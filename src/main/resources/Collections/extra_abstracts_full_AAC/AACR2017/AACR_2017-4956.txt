@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Transcriptome-wide association study identifies new prostate
+cancer susceptibility genes in the OncoArray data.
+
+
+Genome-wide association studies (GWAS) have identified over 150 genomic
+regions harboring risk variants for prostate cancer which explain one
+third of all familial risk. However, with some notable exceptions, the
+causal variants and target susceptibility genes at these risk loci have
+yet to be identified. Recent work has shown a strong overlap between loci
+associated with gene expression levels (eQTLs) in prostate tissue and
+GWAS loci, which suggests that the causal mechanism at a significant
+proportion of risk loci includes causal alleles that regulate expression
+levels of nearby susceptibility genes. While overlapping eQTLs with GWAS
+is a powerful method to prioritize susceptibility genes, it is often the
+case that multiple eQTLs co-localize at the GWAS risk region (due to
+linkage disequilibrium (LD) and correlations across transcript levels).
+This prohibits the identification of the true susceptibility gene as
+opposed to spurious co-localization at the same locus.
+
+We recently leveraged gene expression imputation to perform
+transcriptome-wide association studies (TWAS) as a principled approach to
+measure the strength of association between gene expression and disease
+status. Here, we use imputed expression to identify new susceptibility
+genes for prostate cancer in the OncoArray GWAS data. We integrate gene
+expression data from more than 44 tissues across ~4,000 individuals with
+GWAS of prostate cancer from the OncoArray in ~140,000 individuals. Our
+approach identified 118 susceptibility genes for prostate cancer that
+reside in 90 independent loci across the genome. Of these, we report 7
+genes located more than 0.5 Megabases away from any previously reported
+GWAS loci for prostate cancer, thus providing new risk loci. Second, we
+use TWAS to investigate genes previously reported as susceptibility genes
+for prostate cancer through overlaps of eQTL and GWAS. We find 36 (out of
+86 previously reported genes) to be significant in TWAS. Overall, our
+findings highlight the power of integrating gene expression data with
+GWAS and provide testable hypotheses for future functional validation of
+prostate cancer risk.
+
+

@@ -1,0 +1,40 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Wnt signaling as chemotherapy sensitivity marker of triple
+negative breast cancer (TNBC).
+
+
+Background: Triple negative breast cancer is characterized by an
+unfavorable prognosis. While patients do not benefit from endocrine or
+Her2 targeted therapies except chemotherapy, there is an increased
+response (pCR) to taxane-/anthracycline-containing therapy compared to
+other breast cancers. However, molecular determinants of chemotherapy
+specifically in TNBC remain largely unknown. Current research suggests an
+increased Wnt Pathway activity in TNBC while Wnt pathway activity has
+been shown to play an important role in breast cancer pathogenesis.
+Material and Methods: Differentially expressed genes in TN vs. non-TN
+breast cancers of patients treated with neoadjuvant
+taxane-/anthracycline-containing chemotherapy were identified and
+validated in an independent AffymetrixU133A gene chip dataset (Hess et
+al. 2006). Genes were tested for correlation with relapse-free survival,
+response to neoadjuvant chemotherapy and Ki67 expression. The effects of
+siRNA mediated knockdown of SFRP1 and treatment with small molecule
+XAV939 (specific inhibitor of Wnt signaling) were analyzed in TNBC cell
+lines MDA-MB 468, MDA-MB 231, HCC 1806 and luminal cell line MCF7 on
+chemo sensitivity. Results: Our list of over expressed genes in TNBC vs.
+non-TNBC contains several genes which are already discussed as potential
+markers for TNBC like B-crystallin and transcription factor FOXC1.
+Furthermore, a few Wnt pathway associated genes (i.e. SFRP1, TCF7L1,
+TCF7L2, SOX10) occur in this list, which was validated in an independent
+dataset. While SFRP1 expression was not associated with relapse-free
+survival in TNBC, it was significantly correlated with a pCR.
+Importantly, no correlation to Ki67 expression could be demonstrated.
+mRNA knockdown of Wnt pathway inhibitor SFRP1 in two different TNBC cell
+lines (MDA-MB 468 and HCC 1806) resulted in an increased resistance to
+paclitaxel, doxorubicin and cisplatin. Treatment with Wnt inhibitor
+XAV939 resulted in TNBC cell lines MDA-MB 231, MDA-MB 468 and in luminal
+cell line MCF7 increased chemo sensitivity to paclitaxel and doxorubicin.
+Conclusion: We suggest Wnt Signaling and/or SFRP1 expression as a novel
+maker of chemotherapy sensitivity to taxane-, anthracycline and/or
+platinum-containing chemotherapy in TNBC in vitro that is independent of
+Ki67 expression.
+

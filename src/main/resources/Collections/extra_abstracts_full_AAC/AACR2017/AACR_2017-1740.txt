@@ -1,0 +1,61 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Phenotypic, genomic, and clinical associations of Circulating
+Tumor Cells (CTCs) lacking epithelial biomarkers in metastatic Castration
+Resistant Prostate Cancer (mCRPC).
+
+
+Background: Epithelial Plasticity (EP) is a proposed mechanism of immune
+escape, resistance to programmed cell death, resistance to specific
+drugs, and promotion of metastasis. EP has been extensively explored in
+mathematical, cell biological, and animal models, which predict the
+presence of these tumor cells in circulation. Most studies on CTCs in
+human subjects are based on enrichment of cells expressing EpCAM prior to
+enumeration or molecular interrogation, which precludes analysis of cells
+that might be EP. The non-enrichment Epic Sciences platform was utilized
+to identify CTCs in metastatic castration-resistant prostate cancer
+patient samples phenotypically consistent with EP: CTCs that do not
+express cytokeratins (CK), but do express malignant or EP biomarkers:
+Androgen Receptor (AR), AR splice variant 7 isoform (AR-V7) or
+N-cadherin. Phenotypic and genotypic analyses of individual CTCs were
+performed to assess the malignant origin of CK- CTCs and their prevalence
+associated with overall patient survival.
+
+Methods: 221 pre-therapy mCRPC blood samples were collected at Memorial
+Sloan-Kettering Cancer Center and shipped to Epic Sciences. Patients
+represent a diverse number of previous therapies and tumor burdens. All
+nucleated cells were plated to glass slides and subjected to DAPI and
+immunofluorescent (IF) staining of cytokeratin (CK), CD45 and another
+tumor marker (AR, AR-V7, or N-cadherin), followed by CTC identification
+by fluorescent scanners and malignant morphology. All samples were
+stained for AR, with a subset of samples stained for AR-V7 or N-Cadherin
+as well. Additionally, 83 AR(+)/CK(-) and 9 AR-V7(+)/CK(-) CTCs were
+analyzed for copy number variation (CNV) by low pass whole genome single
+CTC sequencing. Abnormal genomes were identified by amplifications and
+deletions of known oncogenes and tumor suppressors.
+
+Results: 3931 AR(+) CTCs were detected, of which 2996 (76%) expressed CK
+and 935 (24%) did not. The AR(+)/CK(-) CTCs had a lower median AR signal,
+less nucleoli, and more nuclear speckles by digital pathology vs. CK(+)
+CTCs. AR(+)/CK(-) and AR-V7(+)/CK(-) CTCs had gross genomic alterations
+consistent with malignant prostate origin (AR gain, PTEN loss, RB1 loss,
+8q gain, 8p loss, etc), often sharing the same genomic alterations with
+CK(+) CTCs in the same patients, with some having unique CNV profiles
+Presence of AR(+)/CK(-) CTCs was associated with worse overall survival
+(median 13.7 mo vs. 33.9 mo, p Results: 3931 AR(+) CTCs were detected, of
+which 2996 (76%) expressed CK and 935 (24%) did not. The AR(+)/CK(-) CTCs
+had a lower median AR signal, less nucleoli, and more nuclear speckles by
+digital pathology vs. CK(+) CTCs. AR(+)/CK(-) and AR-V7(+)/CK(-) CTCs had
+gross genomic alterations consistent with malignant prostate origin (AR
+gain, PTEN loss, RB1 loss, 8q gain, 8p loss, etc), often sharing the same
+genomic alterations with CK(+) CTCs in the same patients, with some
+having unique CNV profiles Presence of AR(+)/CK(-) CTCs was associated
+with worse overall survival (median 13.7 mo vs. 33.9 mo, p < 0.0001) and
+remained additive and independent to treatment Line, pre-therapy PSA, and
+therapy type in multivariate models.
+
+Conclusions: Similar to CTCs expressing epithelial markers, CK(-) CTCs
+have gross genomic aberrations consistent with metastatic prostate cancer
+and are a negative prognostic factor associated with worse overall
+survival in both iterative threshold and multivariable analyses.
+
+

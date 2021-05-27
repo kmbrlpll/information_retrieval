@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Quantitative image analysis of androgen receptor (AR) and tubulin
+biomarker profiles in circulating tumor cells (CTCs) from metastatic
+castration resistant prostate cancer (mCRPC) patients
+
+
+Background: CTCs represent a real-time, liquid biopsy for analyses of a
+variety of molecular biomarkers that offer clinically relevant
+information. In prostate cancer, the AR pathway controls tumor cell
+growth and survival and is an important therapeutic target. AR becomes
+biologically active upon translocation from the cytoplasm to the nucleus
+in a microtubule dependent fashion, resulting in the activation of
+numerous genes. Real-time analysis of AR and tubulin status in CTCs may
+provide insight to therapy response in mCRPC patients.Methods: Androgen
+sensitive human prostate cancer cells, LNCaP, were treated with and
+without a synthetic androgen (R1881; 10 nM, 1 hr) and docetaxel, spiked
+into healthy donor blood, and captured using a prostate specific
+microfluidic device (GEDI chip), following the same protocol that we use
+with patient samples. Cells were fixed and stained (N-terminal AR, CD45,
+CK, DAPI, and tyr-tubulin) directly on the device and imaged using high
+resolution multiplex confocal microscopy. AR and tubulin status were
+analyzed using a quantitative image analysis algorithm. Nuclear AR
+percentage was calculated by integrating fluorescence intensity within
+regions defining the entire cell and nucleus. H-Score was calculated by
+multiplying the nuclear AR percentage by the normalized total cell AR
+intensity. Tubulin status and microtubule bundling were assessed using a
+variety of quantitative parameters including measurements of tubulin
+fluorescence intensity and distribution within the cell.Results: LNCaP
+cells in the presence of synthetic androgen exhibited higher nuclear AR
+percentage (p = 0.0004) and H-score (p = 0.003). Docetaxel treatment led
+to lower nuclear AR percentage (p = 0.04) and lower H-Score (p = 0.03).
+Cells treated with docetaxel exhibited higher tubulin intensity range (p
+= 0.008) and standard deviation (p = 0.03), consistent with docetaxel's
+mechanism of action. We applied these methods of quantitative image
+analyses to CTCs isolated from a small cohort of mCRPC patients. Single
+CTC image analysis revealed heterogeneity in AR status. Quantitative
+evidence for microtubule bundling was observed in patients receiving
+docetaxel chemotherapy.Conclusions: We have developed a high throughput
+quantitative image analysis algorithm to interrogate mCRPC specific
+biomarkers, such as AR and tubulin status, in single CTCs. These methods
+of quantitative image analyses will be prospectively validated with CTCs
+from mCRPC patients followed longitudinally over the course of treatment
+with AR inhibitors and taxanes, yielding patient specific, clinically
+relevant information that can guide physicians strategies for the
+clinical management of cancer.
+

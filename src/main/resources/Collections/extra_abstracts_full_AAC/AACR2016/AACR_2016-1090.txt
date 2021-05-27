@@ -1,0 +1,108 @@
+Meeting: 2016 AACR Annual Meeting
+Title: microRNA regulation of Nrf2 and the antioxidant response in breast
+cancer cells following redox therapy
+
+
+Mitoquinone (MitoQ), a redox-active mitochondrially targeted
+chemotherapy, activates autophagy through the production of reactive
+oxygen species (ROS) in breast cancer cells. Studies have also shown a
+concomitant activation of Nrf2 and the antioxidant response with MitoQ
+treatment. Nrf2 (nuclear factor (erythroid-derived 2)-like 2) is a
+transcription factor that regulates the antioxidant response element.
+Drugs that stimulate Nrf2 are ideal for the treatment of diseases induced
+by oxidative stress; however, over-activation of Nrf2 may promote tumor
+growth and diminish the effects of redox active chemotherapies.
+Therefore, understanding the relationship between autophagy and oxidative
+stress is crucial for determining the fate of cancer cells exposed to
+redox-active oncology agents. The aim of this study was to evaluate
+microRNA (miRNA) as a link between oxidative stress and autophagy through
+modulation of Nrf2 activity. microRNA are endogenous small (18-22 base
+pairs long) double stranded RNA that bind to the 3 UTR of target mRNA.
+miRNA function through translational repression via mRNA recycling and
+degradation. To this aim we set out on finding miRNA that suppress the
+antioxidant response, modulated by Nrf2, in cancer cells after redox
+therapy with the goal of inducing a death response. After 24 hours of
+non-target pool or Nrf2 silencing, using small interfering RNAs,
+MDA-MB-231 cells were treated with DMSO or MitoQ for 18 hours. RNA was
+extracted and miRNAs were identified using Illumina RNA sequencing. DEseq
+revealed 97 miRNAs that were differentially expressed at Mitoquinone
+(MitoQ), a redox-active mitochondrially targeted chemotherapy, activates
+autophagy through the production of reactive oxygen species (ROS) in
+breast cancer cells. Studies have also shown a concomitant activation of
+Nrf2 and the antioxidant response with MitoQ treatment. Nrf2 (nuclear
+factor (erythroid-derived 2)-like 2) is a transcription factor that
+regulates the antioxidant response element. Drugs that stimulate Nrf2 are
+ideal for the treatment of diseases induced by oxidative stress; however,
+over-activation of Nrf2 may promote tumor growth and diminish the effects
+of redox active chemotherapies. Therefore, understanding the relationship
+between autophagy and oxidative stress is crucial for determining the
+fate of cancer cells exposed to redox-active oncology agents. The aim of
+this study was to evaluate microRNA (miRNA) as a link between oxidative
+stress and autophagy through modulation of Nrf2 activity. microRNA are
+endogenous small (18-22 base pairs long) double stranded RNA that bind to
+the 3 UTR of target mRNA. miRNA function through translational repression
+via mRNA recycling and degradation. To this aim we set out on finding
+miRNA that suppress the antioxidant response, modulated by Nrf2, in
+cancer cells after redox therapy with the goal of inducing a death
+response. After 24 hours of non-target pool or Nrf2 silencing, using
+small interfering RNAs, MDA-MB-231 cells were treated with DMSO or MitoQ
+for 18 hours. RNA was extracted and miRNAs were identified using Illumina
+RNA sequencing. DEseq revealed 97 miRNAs that were differentially
+expressed at < 0.05. Biologically significant miRNAs were then
+distinguished by using a Log2 fold change cut off of -1.0 Mitoquinone
+(MitoQ), a redox-active mitochondrially targeted chemotherapy, activates
+autophagy through the production of reactive oxygen species (ROS) in
+breast cancer cells. Studies have also shown a concomitant activation of
+Nrf2 and the antioxidant response with MitoQ treatment. Nrf2 (nuclear
+factor (erythroid-derived 2)-like 2) is a transcription factor that
+regulates the antioxidant response element. Drugs that stimulate Nrf2 are
+ideal for the treatment of diseases induced by oxidative stress; however,
+over-activation of Nrf2 may promote tumor growth and diminish the effects
+of redox active chemotherapies. Therefore, understanding the relationship
+between autophagy and oxidative stress is crucial for determining the
+fate of cancer cells exposed to redox-active oncology agents. The aim of
+this study was to evaluate microRNA (miRNA) as a link between oxidative
+stress and autophagy through modulation of Nrf2 activity. microRNA are
+endogenous small (18-22 base pairs long) double stranded RNA that bind to
+the 3 UTR of target mRNA. miRNA function through translational repression
+via mRNA recycling and degradation. To this aim we set out on finding
+miRNA that suppress the antioxidant response, modulated by Nrf2, in
+cancer cells after redox therapy with the goal of inducing a death
+response. After 24 hours of non-target pool or Nrf2 silencing, using
+small interfering RNAs, MDA-MB-231 cells were treated with DMSO or MitoQ
+for 18 hours. RNA was extracted and miRNAs were identified using Illumina
+RNA sequencing. DEseq revealed 97 miRNAs that were differentially
+expressed at < 0.05. Biologically significant miRNAs were then
+distinguished by using a Log2 fold change cut off of -1.0 < and
+Mitoquinone (MitoQ), a redox-active mitochondrially targeted
+chemotherapy, activates autophagy through the production of reactive
+oxygen species (ROS) in breast cancer cells. Studies have also shown a
+concomitant activation of Nrf2 and the antioxidant response with MitoQ
+treatment. Nrf2 (nuclear factor (erythroid-derived 2)-like 2) is a
+transcription factor that regulates the antioxidant response element.
+Drugs that stimulate Nrf2 are ideal for the treatment of diseases induced
+by oxidative stress; however, over-activation of Nrf2 may promote tumor
+growth and diminish the effects of redox active chemotherapies.
+Therefore, understanding the relationship between autophagy and oxidative
+stress is crucial for determining the fate of cancer cells exposed to
+redox-active oncology agents. The aim of this study was to evaluate
+microRNA (miRNA) as a link between oxidative stress and autophagy through
+modulation of Nrf2 activity. microRNA are endogenous small (18-22 base
+pairs long) double stranded RNA that bind to the 3 UTR of target mRNA.
+miRNA function through translational repression via mRNA recycling and
+degradation. To this aim we set out on finding miRNA that suppress the
+antioxidant response, modulated by Nrf2, in cancer cells after redox
+therapy with the goal of inducing a death response. After 24 hours of
+non-target pool or Nrf2 silencing, using small interfering RNAs,
+MDA-MB-231 cells were treated with DMSO or MitoQ for 18 hours. RNA was
+extracted and miRNAs were identified using Illumina RNA sequencing. DEseq
+revealed 97 miRNAs that were differentially expressed at < 0.05.
+Biologically significant miRNAs were then distinguished by using a Log2
+fold change cut off of -1.0 < and < 1.0, which identified 39 microRNAs.
+Since miRNA should be high when their target is low we were predominantly
+interested in the 15 miRNAs that were down-regulated (DMSO:MitoQ). 7 of
+the 15 down-regulated miRNAs were also down-regulated in the presence of
+Nrf2 silencing in both the DMSO and MitoQ treatments. We are currently
+investigating these 7 miRNAs in terms of the specific effect they have on
+the Nrf2 pathway during redox therapy.
+

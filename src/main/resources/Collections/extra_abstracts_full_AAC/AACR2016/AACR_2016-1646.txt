@@ -1,0 +1,50 @@
+Meeting: 2016 AACR Annual Meeting
+Title: A glioblastoma methylation assay (GaMA) developedfrom genomic
+analysis of glioma spheroid cultures predicts response toradiation
+therapy in patients with glioblastoma
+
+
+Radiation therapy (RT) remains one of the most effective treatments for
+patients with GBM and has been repeatedly demonstrated to improve
+survival; yet response to RT is variable. We explored the relationship
+between methylation status and radiation response to develop a predictor
+of RT response using the epigenetic data of glioma sphere-forming cells
+(GSCs). The DNA methylomes of 42 GSCs were profiled using Illumina
+Infinium 450K methylation bead arrays. 15 GSCs were irradiated with 2-,
+4-, and 6-Gy RT and response determined using clonogenic assays. We
+discovered 168 CpG probes capable of distinguishing sensitive from
+resistant GSCs. To validate, we analyzed 362 TCGA GBM samples, 272 that
+received standard 60Gy RT and 90 treated with low or no RT. Using the
+glioblastoma methylation assay (GaMA) signature, we classified the
+samples as either RT sensitive or resistant. Survival was significantly
+different between the predicted sensitive vs resistant patients for those
+treated with standard RT (median 21.0m vs 14.7m, pRadiation therapy (RT)
+remains one of the most effective treatments for patients with GBM and
+has been repeatedly demonstrated to improve survival; yet response to RT
+is variable. We explored the relationship between methylation status and
+radiation response to develop a predictor of RT response using the
+epigenetic data of glioma sphere-forming cells (GSCs). The DNA methylomes
+of 42 GSCs were profiled using Illumina Infinium 450K methylation bead
+arrays. 15 GSCs were irradiated with 2-, 4-, and 6-Gy RT and response
+determined using clonogenic assays. We discovered 168 CpG probes capable
+of distinguishing sensitive from resistant GSCs. To validate, we analyzed
+362 TCGA GBM samples, 272 that received standard 60Gy RT and 90 treated
+with low or no RT. Using the glioblastoma methylation assay (GaMA)
+signature, we classified the samples as either RT sensitive or resistant.
+Survival was significantly different between the predicted sensitive vs
+resistant patients for those treated with standard RT (median 21.0m vs
+14.7m, p<0.005). GaMA did not predict a survival difference among
+patients receiving no/low-dose RT, suggesting a predictive, but not
+prognostic, role for the signature. Using the ENCODE ChIP-Seq
+Significance Tool, we observed that the transcription factor EZH2 was
+significantly associated with the radiation resistant promoters in the
+GaMA signature. Among the hypermethylated genes with EZH2 binding sites,
+the NR2F2 promoter had the greatest number of hypermethylated CpG sites
+correlated to RT resistance. NR2F2 has previously been identified as
+negatively associated with activation of the wnt/-catenin, a pathway
+associated with RT resistance of mammary progenitor cells. Expression of
+WNT1 in TCGA GBM cohort was negatively associated with NR2F2 expression.
+Our GSC RT response-based methylome analysis corroborates this
+association and provides a rationale for the methylation signature as a
+predictive biomarker of radiation response.
+

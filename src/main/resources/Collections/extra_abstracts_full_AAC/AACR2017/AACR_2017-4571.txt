@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Advantage of dendritic cells for the therapeutic cancer vaccine.
+
+
+Background: To develop effective cancer vaccine, we examined CTLs induced
+by peptide vaccination (CTLpep) and DC vaccination (CTLDC) in terms of
+their antitumor effects.
+
+Methods: For preparation of peptide vaccine, 50 µg hgp100 peptide
+(KVPRNQDWL) and 20 µg CpG were emulsified with 50 µl CFA or IFA. Bone
+marrow-derived DCs were matured with LPS and pulsed with hgp100 peptide
+at 1 µg/ml and used as DC vaccine. To induce CTLpep and CTLDC, C57BL/6
+mice were first injected with 1 x 107 naive spleen cells from Pmel-1 TCR
+transgenic mice to increase hgp100-specific CTL precursors. Then mice
+were vaccinated twice with 2 weeks interval. The induction of CTLs were
+evaluated 2 weeks after the second vaccination. To evaluate their
+antitumor activity, 1 x 106 B16F10 were inoculated into vaccinated mice
+(prophylactic model). For therapeutic model, 1 x 106 B16F10 were
+inoculated into mice on day 0. Five days later 1 x 107 Pmel-1 splenocytes
+were transferred. Then, mice were vaccinated on days 5 and 12, followed
+by the measurement of tumor growth.
+
+Results: DC vaccine induced 5-times more CTLs than peptide vaccine. The
+numbers of CTLpep and CTLDC obtained in the spleen were 2.4±0.2x105 and
+1.2±0.4x106, respectively. CTLpep expressed PD-1 and Tim-3 at higher
+level than CTLDC. Most of CTLpep showed effector memory phenotype
+(CD44hiCD62L-), while CTLDC contained a considerable fraction of central
+memory cells (CD44hiCD62L+). Although both CTLpep and CTLDC produce
+IFN-γ and TNF-α at similar level, more CD107a were detected on CTLDC
+than CTLpep upon re-stimulation. CTLDC displayed better proliferation
+potential than CTLpep. These phenotypic differences were confirmed by the
+comprehensive gene expression analysis. Transcriptome analysis revealed
+that considerable portion of CTLpep and CTLDC were comparable and
+different from that of naïve CTLs. However, several genes were expressed
+differentially. CTLpep expressed higher amount of inhibitory receptors,
+such as Pdcd1, Lag3, Ctla4 and Tigit than CTLDC. CTLDC expressed Fbp1,
+which inhibits glycolysis, and Cpt1a, which is the rate-limiting enzyme
+of mitochondrial fatty acid oxidation, suggesting that their metabolic
+statuses were shifted from glycolysis to fatty acid oxidation. DC vaccine
+completely inhibited the tumor growth in prophylactic vaccine setting,
+while peptide vaccine delayed tumor growth compared to control mice. In
+therapeutic protocol, peptide vaccine showed no antitumor effect, while
+DC vaccine significantly suppressed tumor growth. The numbers of
+intratumoral CTLpep and CTLDC on day 19 were 5.2±2.8 x 104/g and
+5.0±1.4 x 105/g, respectively. Intratumoral CTLDC expressed lower levels
+of PD-1, Tim-3 and LAG-3 and more Ki67 than CTLpep. Furthermore,
+Intratumoral CTLDC produce more IFN-γ and TNF-α than CTLpep.
+
+Conclusion: DC vaccine induced intratumoral CTLs with multi-functionality
+and high proliferation potential. Therefore, DC vaccine is our choice for
+the therapeutic cancer vaccine.
+
+

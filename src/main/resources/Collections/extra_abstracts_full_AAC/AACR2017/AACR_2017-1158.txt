@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Modulation of splicing by inhibiting the kinase SRPK1 as a novel
+therapeutic strategy in myeloid leukemia.
+
+
+Acute myeloid leukemia (AML) is an aggressive cancer with a poor
+prognosis, for which the therapeutic landscape has changed little for
+decades. Aberrant mRNA splicing plays a key role in cancer development
+and genes coding for several of the major components of the spliceosome
+are targeted by somatic mutations in numerous cancers including
+myelodysplastic syndromes and AML. Recently, myeloid neoplasms bearing
+spliceosome gene mutations were shown to be preferentially susceptible to
+pharmacological disruption of the spliceosome. Here we report that
+targeting the spliceosome can also be an effective therapeutic strategy
+in other types of AML.
+
+Recently, we generated a comprehensive catalogue of genetic
+vulnerabilities in AML using CRISPR-Cas9 genome-wide recessive screens
+and reported several novel intuitive and non-intuitive therapeutic
+candidates. Amongst these we identify SRPK1, the gene coding for a
+serine-threonine kinase that phosphorylates the major spliceosome protein
+SRSF1. Here, we demonstrate that targeted genetic disruption of SRPK1 in
+AML driven by MLL-fusion genes, led to differentiation and apoptosis.
+Additionally, mice transplanted with human AML cell lines carrying the
+MLL-AF9 fusion gene, namely MOLM-13 and THP-1, presented a significant
+prolongation of survival when SRPK1 was genetically disrupted by
+CRISPR-Cas9 editing. Similar effects were seen with pharmacological
+inhibition of SRPK1 in vitro and in vivo. At the molecular level we show
+that genetic or pharmacological inhibition of SRPK1 was associated with
+profound changes in the splicing of multiple genes involved in the MLL
+leukemogenic program in association with significant changes in enzymatic
+modifications of core histone tails.
+
+We proceeded to perform a genome-wide CRISPR drop-out screen for
+sensitizers of MOLM13 cells to pharmacological inhibition of SRPK1 and
+identified, amongst other genes, BRD4 as a sensitizer. We go on to show
+that the BRD inhibitor iBET-151 synergizes with SRPK1 inhibition to kill
+MOLM-13 both in vitro and in vivo. Preliminary data indicates that SRPK1
+inhibition has overlapping molecular effects to BRD inhibition. We are
+currently investigating the molecular bases of this observation.
+
+Our work identifies SRPK1 as a novel therapeutic target in AML that can
+be used alone or in conjunctions with drugs targeting epigenetic
+modifications to improve their anti-leukemic effects.
+
+

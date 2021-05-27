@@ -1,0 +1,34 @@
+Meeting: 2015 AACR Annual Meeting
+Title: LIX1L, an EMT-correlated gene that behaves as if it inhibits the
+EMT
+
+
+Background: We previously reported that LIX1L (LIX1-like), a gene whose
+functions are unknown, has an expression pattern exhibiting strong
+negative correlation with the expression of genes of epithelial-specific
+functions in the NCI-60 human cancer cell line panel of the US National
+Cancer Institute (Kohn et al PLoS ONE 9:6, 2014). This observation
+suggested a possible role in the epithelial-to-mesenchymal transition
+(EMT) and led to the current investigation. Method]: We examined the
+correlation of LIX1L with gene expression in the data of the Broad
+Institute's CCLE cell lines and the cancer genome atlas (TCGA) tissues.
+We then investigated the functions of LIX1L in breast and colon cancer
+cell lines. We knocked down LIX1L expression by means of siRNA and
+overexpressed LIX1L by means of recombinant LIX1L-GFP plasmid. We also
+generated LIX1L knockout cell lines (LIX1L-KO) using the CRISPR/Cas
+system. We compared the expression levels of LIX1L with well-known
+EMT-related genes by Western blot and quantitative PCR. We examined the
+migration and invasion properties of these cell lines and constructs by
+means of wound healing assays, and migration and invasion assays.
+Results: LIX1L expression is correlated with non-epithelial or
+mesenchymal genes in analyses of the CCLE and TCGA gene expression data.
+Experiments suggested the surprising result that LIX1L-KO MDA-MB231 cell
+lines showed higher expression of ZEB1 and increased invasion ability.
+Conclusion: LIX1L gene expression is positively correlated with the
+expression of non-epithelial or mesenchymal genes in the NCI-60, CCLE and
+TCGA databases. Up- or down-regulation of LIX1L however seemed to produce
+the opposite of the expected phenotypic changes. Our findings suggest
+that LIX1L may be expressed coordinately with genes that favor
+epithelial-to-mesenchymal transitions in cancer cells while having a
+moderating effect on the transition.
+

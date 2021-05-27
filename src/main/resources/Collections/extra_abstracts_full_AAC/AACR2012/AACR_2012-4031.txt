@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: MGMT methylation based outcome prediction is associated with two
+CpG regions separated by a prediction minimum centred at the initiation
+start site
+
+
+Promoter methylation of the repair gene MGMT is a predictive factor for
+benefit from alkylating agent therapy in glioblastoma patients. High
+through-put platforms for genome wide DNA methylation analysis have
+allowed establishing the methylome of large series of patient samples
+that has identified a glioma CpG methylator phenotype (G-CIMP). However,
+classification of samples as being methylated or unmethylated for a given
+gene is not obvious, since the relationship between CpG-methylation at a
+given site and the extent of the overall CpG island methylation, and the
+effect on gene silencing is strongly dependent on the location. For the
+MGMT gene 176 CpGs are interrogated on the 450K chip of which 18 are
+located in the CpG island associated with the promoter region.
+Correlation of MGMT methylation at these 18 CpG sites in 63 glioblastoma
+and 5 non tumoral brain tissues and methylation prediction established
+previously by methylation specific PCR (MSP) indicated 2 regions with
+highest association. The two areas were separated by a prediction minimum
+centered at the initiation start site. The correlation of MGMT expression
+with the methylation status of CpGs followed the same pattern with the
+strongest negative correlation reaching 0.5 at the 2 peaks. Subsequently
+we tested the predictive value of the 18 CpGs for outcome in these
+patients treated within clinical trials with temozolomide containing
+chemo-radiotherapy. Most intriguingly, correlation with gene expression,
+survival analyses and association with MSP displayed almost superposable
+images of CpGs, at the previously identified CpG regions! A model for
+MGMT methylation classification based on stepwise logistic regression was
+constructed with a kappa value close to 0.85. The model was validated in
+a published external data set of homogeneously treated patient cohort
+with anaplastic glioma for which methylation data and survival
+information was available, and for which MGMT methylation was reported as
+prognostic factor. The model was subsequently applied to the methylation
+data available from the The Cancer Genome Atlas (TCGA) glioblastoma
+data-set comprising 241 samples. Classification of the samples for their
+MGMT methylation status based on the predictor revealed that MGMT is
+frequently methylated in glioblastoma with G-CIMP (simulated p=0.001
+chi-square, Monte-Carlo method), but is not a G-CIMP gene. Taken
+together, the location of methylated CpGs within the promoter is crucial
+for prediction of MGMT silencing and subsequent impact on outcome. Hence,
+for efficient mining of large scale methylation data we need models to
+identify regions of CpGs with a high impact on gene silencing or other
+features relevant for the understanding of tumor biology and effect on
+response to therapy.
+

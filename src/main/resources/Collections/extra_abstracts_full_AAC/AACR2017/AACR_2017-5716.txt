@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Tristetraprolin is a prognostic biomarker for biochemical
+recurrence in low Gleason score patients.
+
+
+PURPOSE: Most prostate cancer patients currently classified as having a
+low-risk of disease-specific death are overtreated in the United States,
+resulting in hundreds of thousands of men to have debilitating side
+effects from unnecessary treatment. However, ~30% of low-risk patients on
+active surveillance are later reclassified and require therapeutic
+intervention. Thus, there is a dire need for biomarkers that can
+discriminate which prostate tumors currently classified as low-risk will
+progress into aggressive disease.
+
+EXPERIMENTAL DESIGN: Retrospective analyses of two independent prostate
+cancer expression datasets were performed to determine the relationship
+between the expression levels of the tumor suppressor Tristetraprolin
+(TTP, ZFP36) and biochemical recurrence (BCR). Further, TTP expression
+levels were measured by quantitative real-time PCR (qRT-PCR) in a cohort
+of prostate tumors from Moffitt Cancer Center patients having long-term
+follow-up (n=382), and will be correlated to associated clinical data,
+including BCR. Finally, the Cancer of the Prostate Risk Assessment
+Postsurgical (CAPRA-S) scores, a clinical tool used to predict prostate
+cancer outcomes following radical prostatectomy, were calculated along
+with BCR for the patients in one of the prostate cancer datasets.
+
+RESULTS: Analysis of The Cancer Genome Atlas (TCGA) prostate
+adenocarcinoma dataset revealed that tumors with low TTP expression have
+an increased rate of BCR compared to those with high TTP levels
+(p=0.0096). Further, assessment of the GEO dataset GSE21034 (Taylor et
+al., Cancer Cell, 2010) established that prostate cancer patients with
+low Gleason scores (6 and 3+4) have an increased chance of BCR if their
+tumors express low levels of TTP compared to men with high TTP expressing
+tumors (p=0.0001). To validate these findings, patients with low Gleason
+score tumors and decreased levels of TTP in the Moffitt Cancer Center
+cohort are being analyzed to determine their rate of BCR. In contrast,
+CAPRA-S scores for low Gleason score tumors in the GSE20134 dataset
+failed to distinguish if a patient would have BCR (p=0.0511).
+
+CONCLUSIONS: Prostate cancer patients with Gleason score 6 or 3+4, which
+are currently classified as having a low-risk of dying from prostate
+cancer, have an increased risk of BCR if their tumor expresses low levels
+of the tumor suppressor TTP. Our data suggests that TTP may be a
+biomarker that clearly discriminates which low Gleason score tumors will
+progress into aggressive disease.
+
+

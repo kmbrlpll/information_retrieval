@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Dual antibody blockade of TIM3 and PD1 on NYESO1 redirected human
+T cells leads to augmented control of lung cancer tumors.
+
+
+Background: Immunotherapy using checkpoint blockade has demonstrated
+impressive, durable responses in select patients with solid malignancies.
+This is especially true for the blockade of programmed death 1 (PD1).
+Currently, efforts are focused on understanding non-response. One
+hypothesis is that multiple inhibitory receptors (IRs) are upregulated on
+hypofunctional tumor-infiltrating lymphocytes (TILs) and necessitates
+blocking multiple IRs to increase the response rate. We describe data
+from a unique xenograft model of human lung cancer where tumor-reactive
+human T cells become hypofunctional and upregulate multiple IRs including
+PD1 and TIM3 (T cell immunoglobulin and mucin-domain containing-3).
+Combining a single IV dose of tumor-reactive T cells with blockade of
+both PD1 and TIM3 led to greater control of tumor growth than combining
+it with blockade of either alone.
+
+Materials/Methods: The A549 human lung cancer cell line was transduced to
+stably express the cancer-testis antigen, NYESO1, expressed in the
+contact of HLA-A2 (A549-A2-ESO). 5x106 A549-A2-ESO cells were injected
+subcutaneously into the flanks NSG mice. Activated T cells from healthy
+donors were lentivirally transduced with a TCR targeting NYESO1 (Ly95).
+After two weeks when tumors were established and measured ~150mm3, the
+mice were randomly assigned to one of the following treatments: 1)
+untreated, 2) non-transduced (NTD) T cells plus anti-PD1 and anti-TIM3
+Ab, 3) Ly95 T cells, 4) Ly95 T cells + anti-PD1 Ab, 5) Ly95 T cells +
+anti-TIM3 Ab, 6) Ly95 T cells + anti-PD1 and anti-TIM3 Ab. T cells were
+injected IV at a single dose of 10x106/mouse. Abs were injected
+intraperitonealy (IP) at 10mg/kg every 5 days from the time of T cell
+injection. Tumor volumes were measured serially. At the end, the mice
+were sacrificed and the tumors were harvested, digested, and processed
+into single cell suspension. Flow cytometry was performed to look at
+degree of TIL infiltration and expression of surface markers. Ficoll
+gradient was used to isolate the T cells to conduct functional analyses.
+
+Results/Conclusion: By twenty days post T cell injection, the tumors in
+the Ly95 T cell group (3) were ~30% smaller than that of the untreated
+(1) and the NTD T cell + Ab group (2). Anti-PD1 Ab augmented Ly95 T cell
+control of tumor (4) (further decrease in size by ~30%) (4). Anti-TIM3 Ab
+had no effect on Ly95 T cell tumor control (5). Anti-PD1 plus anti-TIM3
+Abs had the greatest augmentation on Ly95 T cell control of tumor size
+(6) (greater than 50% reduction in tumor size compared Ly95 T cells
+alone) The greatest TIL infiltration and ex-vivo TIL function were seen
+in tumors that received Ly95 T cell + anti-PD1 and anti-TIM3 Abs. Flow
+cytometry analysis revealed dynamic, adaptive upregulation of one IR when
+another IR was blocked. This explained why augmentation of Ly95 T cell
+control of tumor was greatest with combinatorial Ab blockade.
+
+

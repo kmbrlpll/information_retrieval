@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: GCN5 regulates ATM mediated DNA repair responsible for onset of
+acquired resistance in leukemia.
+
+
+Abstract Introduction- Resistance to therapeutics targeting topoisomerase
+2 is a major problem in the treatment of leukemia. Cells which survive
+and give rise to relapsed leukemia are known to modulate different
+pathways like downregulation of drug target, reduced drug accumulation,
+and improved DNA repair; ultimately leading to survival of drug resistant
+cells. Here, we wanted to identify the earliest detectable changes
+occurring when cells become resistant to topoisomerase 2 inhibitors.
+
+Methodology- We generated early and late stage drug (doxorubicin)
+resistant leukemic sub cell line from K562 and THP-1 parent cells,
+HL-60/MX2 resistant sub cell line of HL60 was also used for this study.
+Molecular changes were analyzed by electron microscopy, quantitative PCR,
+western blotting, immunofluorescence, flow cytometry, molecular
+inhibitors and MTT assay. Results were further confirmed in blast cells
+of AML (n=44) patient samples collected for this study. Furthermore,
+meta-analysis for survival was done from microarray expression data of
+221 patient samples using PrognoScan.
+
+Results- We mapped molecular changes acquired by leukemic cells during
+evolution from Early Drug Resistant Population (EDRP) to Late Drug
+Resistant Population (LDRP). We found unlike LDRP, EDRP cells do not
+possess known bona fide drug-resistance mechanisms namely limited drug
+accumulation, reduced DNA damage or expression of drug target. Instead
+they survive by acquiring ‘poised epigenetic state’ that enhanced
+their DNA repair. Mechanistically, GCN5, a histone acetyl transferase get
+selectively upregulated in EDRP cells mediating higher H4K16 acetylation
+levels and consequent euchromatin state of EDRP. Upon Doxorubicin
+treatment, H4K16ac facilitate higher ATM recruitment and activation
+causing efficient activation of H2AX, NBS1, BRCA1, Chk2 and Mcl-1,
+accelerating DNA repair and survival of EDRP cells. Inhibition of GCN5
+with Doxorubicin treatment significantly reduces H4K16ac levels, ATM
+recruitment and cell survival of EDRP cells. Similarly, ATM inhibition
+along with Doxorubicin completely ablates EDRP but not LDRP. Furthermore,
+baseline AML patient samples (n=44) showed significantly higher GCN5
+expression in MRD positive compared to MRD negative samples.
+Additionally, meta-analysis of 221 AML patients showed increased GCN5
+expression associates with poor survival of AML patients.
+
+Conclusion- We identify GCN5 expression as marker that defines onset of
+resistance in leukemia and GCN5 mediated ATM activation via H4K16ac as a
+novel non-genetic route facilitating EDRP cell survival with enhanced DNA
+repair. These data also highlight the clinical relevance of targeting
+GCN5 and ATM during early resistance to prevent emergence of difficult to
+treat stable diverse resistance in leukemia.
+
+

@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Breast cancer whole genomes link homologous recombination
+deficiency (HRD) with therapeutic outcomes.
+
+
+Background: Homologous recombination deficiency (HRD) is common in cancer
+- germline BRCA1 & BRCA2 mutations account for 5-10% of breast cancers
+and confer 85% lifetime risk. HRD cancers exhibit genomic instability and
+sensitivity to platinum-based therapy and PARP inhibitors. While not all
+causes of HRD are known, recent sequencing efforts have revealed
+genome-wide somatic mutation signatures that characterize the HRD genomic
+instability phenotype, also known as “BRCA-ness”. This provides a
+promising new assay to predict sensitivity to platinum-based therapy.
+Here, we integrate two whole-genome sequencing metrics to assess their
+association with therapeutic outcomes in a breast cancer cohort.
+
+Methods: Whole-genome sequencing of 47 breast cancer tumors (100x
+coverage) and matched normals (60x) was performed on an Illumina HiSeq.
+Alignment, assembly, SNV calling, and loss of heterozygosity (LOH)
+detection were performed with BWA, ABySS, Strelka, and APOLLOH
+respectively. SNV signatures were deciphered by non-negative matrix
+factorization with Monte Carlo resampling. An HRD score comprised of LOH,
+telomeric allelic imbalance (TAI), and large scale transition (LST)
+counts was computed. Clinical endpoints were obtained by retrospective
+review of treatment and imaging reports. Analysis is ongoing in an
+independent validation cohort of 62 sequenced cases.
+
+Results: The HRD-linked SNV signature was significantly associated with
+radiographic clinical response (CR) to platinum-based therapy (p=0.015).
+Logistic regression demonstrated a 59% improved odds of CR to
+platinum-based therapy per 1000 somatic SNVs attributed to HRD (odds
+ratio 1.16-2.50). Tumors carried up to 10,246 such SNVs and all patients
+with CR were among the top quartile. The LOH-TAI-LST score was correlated
+with SNV signature (r=0.6, p=7×10-6) and associated with CR (p=0.025).
+Notably, elevated HRD signatures associated with CR were identified in
+tumors with wild-type BRCA1/BRCA2 or variants of unknown significance.
+Tumors with above median HRD signatures were associated with a 69-day
+longer time to treatment failure and an 18% daily decreased probability
+of treatment failure per 1000 HRD-attributed SNVs (hazard ratio
+0.71-0.95, p = 0.007).
+
+Discussion: We found that HRD mutation signatures are associated with
+clinical response and longer time to treatment failure with
+platinum-based therapy. While similar benefits were observed in patients
+with somatic bi-allelic loss of BRCA1/BRCA2, such cases are less common
+(8% of our cohort) compared to those with elevated HRD signature. Thus,
+mutation signature methods may identify patients who stand to benefit
+from platinum-based therapy missed by BRCA screening alone.
+
+

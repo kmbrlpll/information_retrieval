@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: The CXXC motifs in the metal binding domains are required for
+ATP7B to mediate resistance to cisplatin
+
+
+ATP7A and ATP7B are copper (Cu) efflux transporters that are up-regulated
+in many types of cancer that have acquired resistance to platinum
+(Pt)-containing drugs. Over-expression of ATP7A or ATP7B in cultured
+cells also leads to Pt drug resistance, but the mechanisms by which these
+proteins mediate resistance are unknown. The N-terminal domain of both
+ATP7A and ATP7B contains 6 metal binding domains (MBD) whose fold is
+similar to that of ATOX1, a protein with which cisplatin (cDDP) is known
+to bind. Each MBD contains a CXXC motif similar to that known to be the
+cDDP binding site in ATOX1. This study explored the role of the MBDs of
+ATP7B in mediating cDDP resistance. Gel filtration, gel electrophoresis
+and UV spectrometry was employed to determine whether the sixth MBD of
+ATP7B (MBD6), which is essential for Cu efflux, interacts with cDDP.
+Recombinant MBD6 was produced as a maltose binding protein (MBP) fusion
+protein in E. coli. Purified recombinant MBD6 interacted with cDDP very
+rapidly and became multimerized producing dimers, trimers, tetramers and
+pentamers. Purified wild type MBP-MBD6 bound 1.75 0.19 mol Pt/mol whereas
+the MBP tag alone bound only 0.57 0.012 mol Pt/mol (p = 0.0057). MBD6
+accumulated cDDP at a rate of 0.08 mol Pt/min/mol. Blocking the CXXC
+motif in MBD6 with a thiol reactive agent, or converting the motif to
+SXXS caused the loss of cDDP binding and multimerization. MBD6 in which
+the CXXC motif was converted to SXXS bound only 0.42 0.013 mol Pt/mol of
+protein. The reaction of cDDP with MBD6 was rapid as dimers and trimers
+were detected with just a 10 min exposure to a 20-fold molar excess of
+cDDP. cDDP reacted with MBS6 even after pre-loading of the protein with
+Cu, presumably dislodging Cu from the protein. The interaction of cDDP
+with MBD6 was strong and only very slowly reversible under extreme
+reducing conditions. Using the lentiviral vector pLVX-mCherry-C1, we
+constructed vectors capable of expressing mCherry-tagged wild type ATP7B,
+variants in which either the first 5 (mC-ATP7B 1-5) or all 6 (mC-ATP7B
+1-6) of the MBD were deleted, and a variant in which the CXXC motifs of
+all 6 MBDs were converted to SXXS (mC-ATP7B SXXS). These constructs were
+expressed in 2008 ovarian carcinoma and HEK293Tcell lines and their
+effects on the intracellular accumulation and cytotoxicity of cDDP as
+well as their traffic pattern following cDDP administration was
+investigated. The wild type ATP7B conferred resistance to 2008 cells,
+significantly reduced cDDP accumulation and exhibited cDDP- and
+Cu-induced trafficking from the TGN to superficially located vesicles;
+however, the other variants did not. We conclude that cDDP binds to ATP7B
+and that, in the case of MBD6, the site of interaction is the CXXC motif.
+Conversion of the CXXC motif in all 6 MBD rendered ATP7B unable to
+mediate cDDP resistance of traffic from the TGN indicating that cDDP
+binding to at least one of the MBD is essential to ATP7B-mediated
+detoxification of cDDP.
+

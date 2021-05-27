@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: NOTCH - HEY1 pathway induces EMT in head and neck squamous cell
+carcinoma.
+
+
+Background
+
+Head and neck squamous cell carcinoma (HNSCC) is noted to have a NOTCH
+mutation rate of 20% within the Cancer Genome Atlas (TCGA) dataset
+consistent with tumor suppressor gene status. However, NOTCH genes are
+also upregulated in wild type HNSCC and show signs of downstream
+activation in a substantial proportion of HNSCC. In this study, we aimed
+to further explore the potential for NOTCH pathways to be activated in
+HNSCC.
+
+Material and Methods
+
+mRNA sequence of TCGA data includes 520 HNSCC tumors and 46 normal
+tissues. We used 447 HNSCC excluding 73 tumors with NOTCH mutations. The
+activated groups of NOTCH downstream genes were defined as tumors with
+expression 1 standard deviation above the mean of normal tissue. We used
+four HNSCC cell lines (SKN3, Cal27, SCC61, SCC090) to ascertain the
+results of the TCGA analysis in vitro.
+
+Result
+
+In TCGA analysis, HEY1 activated HNSCC had significant more expression of
+NOTCH pathway genes. In particular NOTCH4 had the most significant
+correlation with HEY1 activation among NOTCH receptors. To confirm this
+result in vitro, HEY1 expression was compared between si-control and
+si-NOTCH4 of SKN3, Cal27, SCC61 and SCC090. As expected, HEY1 expression
+in all si-NOTCH4 treated cell lines were significant decreased. Next, we
+examined the relationship about NOTCH4 and an epithelial mesenchymal
+transition phenotype (EMT). Using TCGA data, we found that mesenchymal
+marker genes were significantly increased in high NOTCH4 group. In vitro
+experiments, si-NOTCH4 cells decreased mesenchymal marker gene expression
+such as Fibronectin and TWIST1. We also examined HEY1 function. Similar
+to NOTCH4, it was found that HEY1 is significantly related to EMT in
+silico and in vitro.
+
+Conclusion
+
+The NOTCH4-HEY1 pathway is significantly upregulated in HNSCC and induces
+EMT.
+
+

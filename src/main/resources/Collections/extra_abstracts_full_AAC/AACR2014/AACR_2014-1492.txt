@@ -1,0 +1,52 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Prediction of cancer progression in Barrett's esophagus patients
+using miRNA profiling
+
+
+Background: Barrett's esophagus (BE) is a metaplastic disease with risk
+to develop esophageal adenocarcinoma (EAC). Current screening method for
+BE patients (endoscopy and biopsy) is discomfort, expensive and
+relatively risky for patients. Moreover, the procedure is complicated by
+subjective histopathological examination. Approximately only 2% of BE
+patients annually progress to adenocarcinoma. The aim of our study was to
+identify miRNA profiles in order to predict cancer progression in
+high-risk BE patients.Methods and patients: FFPE samples were obtained
+from 68 patients (10 EAC, 4 high-grade and 21 low-grade dysplasia of
+esophagus, and 33 BE). There were 49 males and 19 females; median age was
+58 years, range 27 - 97 years. Total RNA was purified from FFPE biopsy
+samples using Proteinase K treatment followed by RNeasy kit (Qiagen).
+Microarray analysis was performed using the GeneChip miRNA 3.0 Array
+(Affymetrix). The data were analyzed using R software and the
+Bioconductor package.Results: In total, 68 GeneChip miRNA 3.0 Arrays were
+performed in 68 patients (8 poor quality arrays were excluded).
+Expression profiles of 1733 human miRNAs, 1658 human pre-miRNAs and 2216
+human sno-RNAs and sca-RNAs were analyzed. In supervised clustering
+analysis we found 29 differentially expressed miRNAs, 7 pre-miRNAs and 9
+sno-RNAs (pBackground: Barrett's esophagus (BE) is a metaplastic disease
+with risk to develop esophageal adenocarcinoma (EAC). Current screening
+method for BE patients (endoscopy and biopsy) is discomfort, expensive
+and relatively risky for patients. Moreover, the procedure is complicated
+by subjective histopathological examination. Approximately only 2% of BE
+patients annually progress to adenocarcinoma. The aim of our study was to
+identify miRNA profiles in order to predict cancer progression in
+high-risk BE patients.Methods and patients: FFPE samples were obtained
+from 68 patients (10 EAC, 4 high-grade and 21 low-grade dysplasia of
+esophagus, and 33 BE). There were 49 males and 19 females; median age was
+58 years, range 27 - 97 years. Total RNA was purified from FFPE biopsy
+samples using Proteinase K treatment followed by RNeasy kit (Qiagen).
+Microarray analysis was performed using the GeneChip miRNA 3.0 Array
+(Affymetrix). The data were analyzed using R software and the
+Bioconductor package.Results: In total, 68 GeneChip miRNA 3.0 Arrays were
+performed in 68 patients (8 poor quality arrays were excluded).
+Expression profiles of 1733 human miRNAs, 1658 human pre-miRNAs and 2216
+human sno-RNAs and sca-RNAs were analyzed. In supervised clustering
+analysis we found 29 differentially expressed miRNAs, 7 pre-miRNAs and 9
+sno-RNAs (p<0.001 or logFC 2) in EAC patients compared to BE patients.
+One of the dominant findings was decreased expression of miR-22 in EAC
+samples, which is known to function as a tumor suppressor and histone
+deacetylase 4 regulator.Conclusion: We have identified miRNA profiles
+allowing for better diagnostics of cancer progression in BE patients,
+which, however, will require further validation.Acknowledgment: This work
+was financially supported by IGA MZ CR NT13585-3/202, IGA UP LF 2013_015,
+CZ.1.05/2.1.00/01.0030 and CZ.1.07/2.3.00/30.0004.
+

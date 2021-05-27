@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Dynamic reprogramming of the chromatin landscape in cancer:
+Studies in real time.
+
+
+Reprogramming of the chromatin landscape by sequence-specific
+transcription factors (TF) can influence in the prevalence and
+progression of several diseases, including cancers. Steroid receptors are
+a class of hormone-regulated TF that have a major impact on the
+progression of cancers. The link between the androgen receptor (AR)
+action in prostate cancer and the glucocorticoid (GR) and estrogen
+receptor (ER) action in breast cancer is well-known. Furthermore, other
+TFs such as the pioneer factor FoxA1 has been extensively linked to AR
+and ER action in these cancers. Although the action of these TF have been
+widely studied, the knowledge is almost exclusively based on
+population-based assays such as ChIP-seq and DHS-seq. Hence, the dynamic
+binding behavior of these factors in living cell remains unclear. For
+example, the classical pioneer factor model suggests long term static
+binding events between pioneer TFs, such as FoxA1, and chromatin.
+However, little is known on the dynamic action of FoxA1 in living cells.
+
+We have examined the behavior of steroid receptors and cofactors,
+including FoxA1, at the single-molecule level in living cells. These
+factors were fused with HaloTag, and labeled with the bright and stable
+fluorophore JF549. Single-molecule tracking (SMT) of these proteins
+(using HILO microscopy) revealed a highly dynamic binding behavior of
+TFs. This supports transient rather than stable TF chromatin
+interactions. Specifically, two distinct binding populations have been
+observed for all factors tested; fast or slow stops. Fast stops represent
+genomic scanning of TF, while slow stops, with residence time of 6-14
+sec, represent functional binding events at specific response elements.
+The vast majority of molecules at any given time are either diffusing or
+exhibit fast stops, while only a small percentage exhibit slow stops.
+However, hormone activation of AR, GR or ER results in an increase in the
+percentage of molecules with slow stops compared to the unstimulated
+state. Thus, our results indicate that on a single-molecule level, only a
+small proportion TFs are functionally bound at any given time.
+
+In addition to affirming the general model that many TFs are highly
+dynamic in their chromatin binding activity, SMT experiments in live
+cells revealed a highly dynamic interaction of FoxA1 with chromatin in
+vivo. Unexpectedly, we also observed by ChIP-seq and DHS-seq analysis
+that at subset of genomic sites, the role of pioneer can be reversed,
+with the steroid receptors serving to enhance binding of FoxA1. We
+propose a general model, dynamic assisted loading, wherein interactions
+between TFs and pioneer factors are highly dynamic. Our findings show
+that the action of key TFs in cancer development are more complex and
+dynamic in real time than previously reported.
+
+

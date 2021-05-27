@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Local and systemic tumor-immune dynamics in metastatic cancer.
+
+
+Despite decades of effort, most disseminated cancers remain incurable,
+and progression from localized to metastatic disease is largely
+responsible for cancer-related mortality. In metastatic disease, an
+ongoing battle between tumor and host occurs at each site;
+tumor-associated antigens, stress proteins, and danger-associated
+molecular patterns can both initiate and continually stimulate an immune
+response against a tumor. Adding an additional layer of complexity,
+locally activated cytotoxic T cells traffic through the host circulatory
+system to also surveil metastasis elsewhere in the body. Thus, metastatic
+tumors are highly interdependent; changes in the nonlinear tumor-immune
+interactions in one tumor can perturb the systemic antitumor immune
+response, potentially facilitating spontaneous regression or aggressive
+outgrowth in distant sites. This can additionally influence the clinical
+outcome of therapeutic intervention, which depends on therapy-induced
+changes in tumor-immune dynamics both locally and systemically, as well
+as patient-specific initial conditions of the global disease.
+
+Using the tools of mathematical oncology we gain insights into this
+complex interconnectivity between metastatic sites. ODE models have been
+developed which incorporate both local tumor-immune interactions in each
+tumor site and the trafficking of activated T cells systemically, and can
+be parameterized by experimental and clinical investigations. Using four
+primary tumor sites (lung, liver, breast, kidney) we simulate the growth
+behavior of a primary site upon both seeding, growth, and treatment of a
+secondary (or several) metastatic site(s).
+
+In the presence of several metastatic sites, the dissemination of
+activated T cells is not necessarily intuitive and depends on many
+factors including the blood flow fraction to each organ and the tumor
+volume to organ size ratio. Certain sites may experience inhibition of
+growth, and other sites may be promoted upon seeding of an additional
+site. We computationally analyze all combinations of metastatic sites,
+and predict which sites are likely to benefit (tumor growth) and which to
+suffer (tumor shrinkage) in each combination based upon known properties
+of physiological blood flow and tumor volume at initial presentation.
+This allows the identification of which sites in each combination would
+be the optimal target for surgical therapy in order to induce the maximum
+reduction in overall tumor burden. Furthermore, we can simulate local
+radiation at each respective site, quantifying the difference in
+model-predicted decrease in overall tumor burden between individual
+targets.
+
+The results facilitate an improved understanding of general disease
+kinetics in the metastatic setting, emphasize that "local" therapy is
+highly likely to have systemic effects, and support the case for a
+paradigm shift in treatment target selection for metastatic disease.
+
+

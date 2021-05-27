@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: RNAseq analysis of infiltrating immune cells in liver cancer.
+
+
+Hepatocellular carcinoma (HCC) has emerged as second most common cause of
+cancer deaths worldwide. During the last 10 years, there has been a clear
+delineation of landscape of genetic alterations in HCC and deregulated
+pathways in HCC. However, the treatment for patients with advanced HCC is
+limited despite of great effort developing therapeutic targeting the
+deregulated pathways in HCC. Recent studies reveal a direct causal
+relationship between cancer & immune dysfunction, whereby tumor cells and
+their microenvironment are able to evade immune attack by exploiting
+various immunoregulatory mechanisms in a process termed cancer immune
+editing.
+
+Methods In this poster, the objective is to perform exploratory analysis
+of TCGA liver cancer data to see if immune infiltrates matter, and if
+they offer anti-tumor immunity to a cell. For this purpose, we analyzed
+RNA-seq data for a cohort of 75 liver cancer samples from TCGA
+collection. We obtained the gene expression data from a pre-selected
+group of specific markers for infiltrating lymphocytes (several
+subtypes), and explored the association of expression of these markers
+with clinical outcome.We downloaded raw RNA-seq data from the TCGA Liver
+cancer collection from 75 patients. These included 25 patients who had
+Hepatitis B virus (HBV), 25 patients who had Hepatitis C virus (HCV) and
+25 patients who had both viruses. After processing of raw data, we
+extracted isoform expression (TPM values) from specific markers for
+infiltrating lymphocytes. This data was stratified into ‘high’ and
+‘low’ expression based on median cutoff.We compared the ‘high’
+and ‘low’ expression groups of patients by performing differential
+expression & pathway analysis, to see if the differentially expressed
+results were linked to immune pathways. We then performed survival
+analysis tests (Log rank, Cox regression) and Kaplan Meier (KM) survival
+graphs to explore the association with overall survival outcome.
+
+Results We found 14 of 75 HCC cases expressed CD8B isoform, while 61 of
+75 HCC cases did not express CD8B isoform. The Log Rank survival test
+showed a significant association between the expression of CD8B isoform
+and overall survival (Chisq= 5.2 on 1 degrees of freedom, p= 0.0222). The
+survival test using a Cox model on the same CDBB isoform, showed that
+samples that expressed CD8B isoform were at higher risk of event compared
+to those that did not express the isoform. Other markers that showed good
+separation of survival curves included CD3 & CD8A.
+
+Conclusion Additional immune cell subtype specific transcripts are being
+tested. Based on our preliminary analysis, we saw that most of the
+affected pathways were highly relevant to lymphocyte signaling & immune
+response and infiltration. Hence, exploring infiltrating lymphocytes can
+give evidence of immune surveillance against HCC. Testing immune cell
+specific transcript in tumor samples may service as predictor to
+treatment targeting immune evasion in cancer patients.
+
+

@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Immunosignature technology detects stage I lung cancer from a drop
+of serum
+
+
+Early detection of lung cancer could have a tremendous impact as newly
+diagnosed patients suffer an overall 5-year survival rate of 16.8%,
+largely due to late detection. The use of computed tomography (CT) for
+earlier lung cancer detection in a high risk population was shown to
+reduce lung cancer mortality by 20% in a 2011 NLST study report. The US
+Preventative Services Task Force has recommended low dose CT be used for
+screening high risk populations despite a high false positive rate
+(23.5%) and 2-10 mSv of radiation exposure per scan. Our laboratories
+have developed a new concept for disease detection based on
+immunosignatures. The immunosignature (IS) technology uses arrays of
+hundreds of thousands of unique peptides designed to broadly survey an
+individual's antibody binding repertoire from a drop of blood. Arrayed
+library peptides that bind differentially between case and control
+samples are selected as input into classification algorithms. The
+technology holds promise for detecting the presence of virtually any
+disease that generates a significant B-cell response. For cancer, the
+technology has accurately distinguished patient samples representing
+several different cancers from each other as well as from non-cancer
+controls. To determine the feasibility of using IS technology to detect
+early stage lung cancer among high risk and/or symptomatic individuals, a
+cohort of samples representing 44 pathology-confirmed stage I lung cancer
+cases and 44 age, gender, and smoking-history/status matched controls
+were assayed on high density peptide arrays. All control samples were
+from individuals with benign lung diseases, such as chronic respiratory
+illnesses and/or benign lung nodules (55% of control samples), that could
+be interpreted as suspicious of cancer and require differential
+diagnosis. Peptides with statistically significant difference in binding
+signal between cases and controls were identified by Bonferroni adjusted
+t-test and standardized log odds ratios. A support vector machine
+classification algorithm was trained using the 100 most significant
+features. Feature selection and classifier model performance were
+evaluated by applying 100 iterations of a four-fold cross-validation
+routine. The cross-validated performance metrics of the 100-feature
+immunosignature classifier were sensitivity of 91.9% (95% confidence
+interval (CI) 78-3%-97.5), specificity of 94.3% (95%CI 81.3%-98.6%) and
+an overall accuracy of 93.1% (95% CI 85.7%-97.5%). These results need
+verification in larger cohorts and validation in blinded studies;
+however, they are deemed promising for the early detection of lung cancer.
+

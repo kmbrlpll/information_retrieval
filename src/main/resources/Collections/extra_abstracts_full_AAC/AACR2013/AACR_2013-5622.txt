@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: The tumor microenvironment modulates the delivery and activation
+of liposomal encapsulated irinotecan, MM-398.
+
+
+MM-398 is a stable nanotherapeutic encapsulation of the pro-drug
+irinotecan with an extended plasma half-life and higher intratumoral
+deposition in animal models compared with free-irinotecan. MM-398 is
+currently in multiple clinical trials, including a Phase 3 trial for
+patients with advanced gemcitabine-resistant pancreatic cancer
+(NAPOLI-1). By using a systems pharmacology approach, we have previously
+identified the important determinants for MM-398 activity differentiating
+it from free irinotecan.One of the critical parameters identified in the
+model is activity of the tumor carboxylesterase (CES) as an important
+correlate to the MM-398 preclinical response. Our data also shows that
+tumor associated macrophages (TAMs) are the dominant cell type for
+phagocytosis of MM-398 in the tumor microenvironment. To validate these
+findings we used a perturbation strategy involving manipulation of TAMs
+with the anti-CSF1 antibody 5A1. Depletion of macrophages with 5A1
+resulted in a strong size reduction of CD11b+F4/80+ mature macrophage
+populations in HT29, MC38 and LLC tumor models. Furthermore, other
+myeloid and non-myeloid cell populations showed tumor model and mouse
+strain-dependent changes in population size and liposome uptake. The
+overall impact of 5A1-mediated macrophage depletion was a reduction of
+the total cellular liposomal load within the tumors. Anti-CSF1 treatment
+also modulated the systemic clearance of MM-398 due to changes in the
+macrophage populations in the liver and spleen of the animals. To capture
+this complex interplay of systemic and local depletion events we have
+expanded our mechanistically-based PK model to include separate tumor
+macrophage and tumor cell compartments.The computational model also
+identified tumor permeability to MM-398 as a rate-limiting factor for
+drug deposition and in vivo activity. To assess the degree of variability
+in tumor permeability, we measured the levels of irinotecan and SN-38
+using HPLC in six different xenograft models. A high degree of
+variability in irinotecan and SN-38 levels was seen across these models
+and between tumors from different mice bearing xenografts of the same
+cell lines. We then investigated the inter-relationship between tumor
+permeability, macrophage content, CES enzyme activity and SN-38
+accumulation by assessing the levels of these markers in multiple
+human-derived primary xenograft models across different indications.In
+summary, we demonstrated the impact of TAM modulation on overall tumor
+levels of irinotecan and SN-38 following treatment with liposomally
+encapsulated irinotecan. We outline differences in permeability of
+xenografts to MM-398 and the capacity to convert irinotecan into SN-38.
+

@@ -1,0 +1,83 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Loss of methylation in a regulatory region of BCL2 in MDS/AML.
+
+
+Background:Myelodysplastic syndromes (MDS) are a heterogeneous group of
+clonal hematopoietic disorders characterized by ineffective hematopoiesis
+and increased risk of progression to acute myeloid leukemia (AML). A
+hallmark of MDS is increased apoptosis, while AML undergoes decreased
+apoptosis and increased proliferation. BCL2, an anti-apoptotic protein,
+is overexpressed in high grade MDS and AML and may confer poor prognosis
+and increased chemotherapy resistance. In this study we examined the DNA
+methylation status of BCL2 in MDS and AML.Methods:We conducted DNA
+methylation profiling on genomic DNA extracted from bone marrows of 22
+refractory anemia with ringed sideroblasts (RARS), 8 refractory anemia
+with excess blasts (RAEB), 21 de novo AML, 21 therapy related AML, and 7
+normal volunteers. We used both Illumina 27K BeadChip and 450K BeadChip
+methylation arrays to assess CpG methylation. Standard student T-test was
+used to screen differentially methylated MDS and AML CpG sites compared
+to normal samples. We validated the microarray data by combined bisulfite
+restriction analysis (COBRA) and bisulfite sequencing.Results:We
+identified a region in the BCL2 gene body that was among the most
+differentially methylated in MDS and AML versus normal bone marrow.
+Within that amplicon, BCL2 in both RARS, a low grade MDS, and RAEB, a
+high grade MDS, were hypermethylated compared to normal bone marrow (43%
+vs 18%, 48% vs 18%, respectively, pBackground:Myelodysplastic syndromes
+(MDS) are a heterogeneous group of clonal hematopoietic disorders
+characterized by ineffective hematopoiesis and increased risk of
+progression to acute myeloid leukemia (AML). A hallmark of MDS is
+increased apoptosis, while AML undergoes decreased apoptosis and
+increased proliferation. BCL2, an anti-apoptotic protein, is
+overexpressed in high grade MDS and AML and may confer poor prognosis and
+increased chemotherapy resistance. In this study we examined the DNA
+methylation status of BCL2 in MDS and AML.Methods:We conducted DNA
+methylation profiling on genomic DNA extracted from bone marrows of 22
+refractory anemia with ringed sideroblasts (RARS), 8 refractory anemia
+with excess blasts (RAEB), 21 de novo AML, 21 therapy related AML, and 7
+normal volunteers. We used both Illumina 27K BeadChip and 450K BeadChip
+methylation arrays to assess CpG methylation. Standard student T-test was
+used to screen differentially methylated MDS and AML CpG sites compared
+to normal samples. We validated the microarray data by combined bisulfite
+restriction analysis (COBRA) and bisulfite sequencing.Results:We
+identified a region in the BCL2 gene body that was among the most
+differentially methylated in MDS and AML versus normal bone marrow.
+Within that amplicon, BCL2 in both RARS, a low grade MDS, and RAEB, a
+high grade MDS, were hypermethylated compared to normal bone marrow (43%
+vs 18%, 48% vs 18%, respectively, p<0.05). BCL2 in de novo AML and
+therapy related AML were hypomethylated compared to normal bone marrow
+(12% vs 35%, 13% vs 35%, respectively, pBackground:Myelodysplastic
+syndromes (MDS) are a heterogeneous group of clonal hematopoietic
+disorders characterized by ineffective hematopoiesis and increased risk
+of progression to acute myeloid leukemia (AML). A hallmark of MDS is
+increased apoptosis, while AML undergoes decreased apoptosis and
+increased proliferation. BCL2, an anti-apoptotic protein, is
+overexpressed in high grade MDS and AML and may confer poor prognosis and
+increased chemotherapy resistance. In this study we examined the DNA
+methylation status of BCL2 in MDS and AML.Methods:We conducted DNA
+methylation profiling on genomic DNA extracted from bone marrows of 22
+refractory anemia with ringed sideroblasts (RARS), 8 refractory anemia
+with excess blasts (RAEB), 21 de novo AML, 21 therapy related AML, and 7
+normal volunteers. We used both Illumina 27K BeadChip and 450K BeadChip
+methylation arrays to assess CpG methylation. Standard student T-test was
+used to screen differentially methylated MDS and AML CpG sites compared
+to normal samples. We validated the microarray data by combined bisulfite
+restriction analysis (COBRA) and bisulfite sequencing.Results:We
+identified a region in the BCL2 gene body that was among the most
+differentially methylated in MDS and AML versus normal bone marrow.
+Within that amplicon, BCL2 in both RARS, a low grade MDS, and RAEB, a
+high grade MDS, were hypermethylated compared to normal bone marrow (43%
+vs 18%, 48% vs 18%, respectively, p<0.05). BCL2 in de novo AML and
+therapy related AML were hypomethylated compared to normal bone marrow
+(12% vs 35%, 13% vs 35%, respectively, p<0.05). We validated these
+results by COBRA and bisulfite sequencing. This region coincided with
+H3K27ac and H3K4m1 enhancer type marks in ENCODE data in normal
+cells.Conclusions:Our study identifies a region of BCL2 that is
+hypermethylated in both low and high risk MDS while hypomethylated in AML
+compared to normal bone marrows. We hypothesize aberrant epigenetic
+modification of BCL2 plays a key role in apoptosis and transformation
+from MDS to AML, and our data support the idea of combining demethylating
+drugs with BCL2 antagonists. We are currently investigating whether BCL2
+protein expression correlates with methylation, and plan to map the
+histone marks with CHIP-seq to correlate chromatin accessibility and DNA
+methylation in BCL2.
+

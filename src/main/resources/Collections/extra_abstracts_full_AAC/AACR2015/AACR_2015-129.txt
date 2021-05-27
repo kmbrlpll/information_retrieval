@@ -1,0 +1,28 @@
+Meeting: 2015 AACR Annual Meeting
+Title: RAD17 loss of function is synthetically lethal with the checkpoint
+kinase inhibitors AZD7762 or MK-1775
+
+
+Synthetic lethal interactions are a type of genetic interaction in which
+the simultaneous loss of function of two genes in combination results in
+cell death. Recently, there has been much interest in the discovery of
+drugs that are selectively toxic to cancer cells by targeting proteins
+that form synthetic lethal interactions with tumor specific mutations. He
+we have identified that RAD17 loss of function is synthetically lethal
+with AZD7762, an inhibitor of Chk1 and Chk2, and with MK-1775, an
+inhibitor of Wee1. HeLa or LN428 glioblastoma cells were selectively
+responsive to AZD7762 or MK-1775 following shRNA-mediated depletion of
+RAD17. Cells with dual knockdown of CHEK1 and CHEK2 or knockdown of WEE1
+were also sensitized to RAD17 knockdown. At baseline, cells with RAD17
+knockdown had greater expression of the DNA damage marker H2AX, an effect
+that was magnified by either chemical inhibition or siRNA-mediated
+knockdown of CHEK1/2 or WEE1. Accumulation of H2AX was observed primarily
+in S and G2 phases, RAD17 loss did not have a significant effect on cell
+cycle progression. The combination of AZD7762 and MK-1775 resulted in
+synergistic toxicity in RAD17 knockdown but not control cells.
+Collectively, these results demonstrate that RAD17 loss of function
+sensitizes cells to inhibition of S and G2/M checkpoint kinases,
+resulting in greater accumulation of DNA damage and ultimately cell
+death. We suggest that AZD7762 and MK-1775 may have greater clinical
+efficacy in tumors with RAD17 mutation or deletion.
+

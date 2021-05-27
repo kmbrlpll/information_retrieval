@@ -1,0 +1,120 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Integrated genomic analysis of cutaneous squamous cell carcinoma
+progression.
+
+
+Skin cancer is the most common class of malignancy in humans. In the
+United States, there are over 3 million cases of skin cancer a year with
+significant costs not only in morbidity and mortality, but an estimated
+$500 million in treatment-related costs and $2 billion in overall
+economic impact including lost productivity. The vast majority of these
+skin cancers arise in keratinocytes and within this group, cutaneous
+squamous cell carcinoma (cSCC) comprises 15-20% of cases. cSCC has the
+best-defined progression from a distinct precancerous lesion, the actinic
+keratosis (AK) to invasive cSCC which has appreciable metastatic
+potential particularly in high-risk scenarios. Beyond serial, disfiguring
+surgeries, there is no effective therapy.AKs are the most common
+precancerous lesion in humans, affecting upwards of 5.5% of women and
+13.9% of men in U.S. Our understanding of the molecular events that lead
+from normal skin to AK to cSCC is very poor and represents a fundamental
+gap in our understanding of this progression sequence. Such an
+understanding would be of enormous importance. While destructive
+modalities are the mainstay of treatment of AK, they must be repetitively
+used and there is no basis for identifying those most likely to progress.
+Therefore, there is a tremendous need for rationally designed targeted
+diagnostics and therapy for AKs, which presents an ideal opportunity for
+molecularly-informed skin cancer screening and secondary prevention.We
+have performed next generation sequencing (Illumina HiSeq) for microRNA
+and mRNA on matched samples from 10 patients. Each matched set is
+composed of clinically normal skin, AK, and cSCC from the same patient,
+minimizing background genetic heterogeneity. For miRNA-seq, 6.1 million
+reads with 720,000 mapped reads were obtained on average. RNA-seq
+analysis yielded over 64 million reads per sample with 92% mapped.
+Following unsupervised clustering, we found cSCCs clustered together, and
+AKs clustered with both normal skin and with cSCC confirming the
+clinico-pathologic characterization of these lesions as precursors to
+cSCC.Changes in expression of only two miRNA and 367 mRNA emerged as the
+most significant predictors of overall progression from normal skin to AK
+to cSCC. In pairwise comparisons between normal skin and cSCC, we
+identified 628 functional miRNA-mRNA pairs comprising a total of 59 miRNA
+and 179 predicted mRNA targets. Surprisingly, the number of miRNA and
+mRNA expression changes between AK and cSCC were very limited (Skin
+cancer is the most common class of malignancy in humans. In the United
+States, there are over 3 million cases of skin cancer a year with
+significant costs not only in morbidity and mortality, but an estimated
+$500 million in treatment-related costs and $2 billion in overall
+economic impact including lost productivity. The vast majority of these
+skin cancers arise in keratinocytes and within this group, cutaneous
+squamous cell carcinoma (cSCC) comprises 15-20% of cases. cSCC has the
+best-defined progression from a distinct precancerous lesion, the actinic
+keratosis (AK) to invasive cSCC which has appreciable metastatic
+potential particularly in high-risk scenarios. Beyond serial, disfiguring
+surgeries, there is no effective therapy.AKs are the most common
+precancerous lesion in humans, affecting upwards of 5.5% of women and
+13.9% of men in U.S. Our understanding of the molecular events that lead
+from normal skin to AK to cSCC is very poor and represents a fundamental
+gap in our understanding of this progression sequence. Such an
+understanding would be of enormous importance. While destructive
+modalities are the mainstay of treatment of AK, they must be repetitively
+used and there is no basis for identifying those most likely to progress.
+Therefore, there is a tremendous need for rationally designed targeted
+diagnostics and therapy for AKs, which presents an ideal opportunity for
+molecularly-informed skin cancer screening and secondary prevention.We
+have performed next generation sequencing (Illumina HiSeq) for microRNA
+and mRNA on matched samples from 10 patients. Each matched set is
+composed of clinically normal skin, AK, and cSCC from the same patient,
+minimizing background genetic heterogeneity. For miRNA-seq, 6.1 million
+reads with 720,000 mapped reads were obtained on average. RNA-seq
+analysis yielded over 64 million reads per sample with 92% mapped.
+Following unsupervised clustering, we found cSCCs clustered together, and
+AKs clustered with both normal skin and with cSCC confirming the
+clinico-pathologic characterization of these lesions as precursors to
+cSCC.Changes in expression of only two miRNA and 367 mRNA emerged as the
+most significant predictors of overall progression from normal skin to AK
+to cSCC. In pairwise comparisons between normal skin and cSCC, we
+identified 628 functional miRNA-mRNA pairs comprising a total of 59 miRNA
+and 179 predicted mRNA targets. Surprisingly, the number of miRNA and
+mRNA expression changes between AK and cSCC were very limited (<50 mRNA
+and Skin cancer is the most common class of malignancy in humans. In the
+United States, there are over 3 million cases of skin cancer a year with
+significant costs not only in morbidity and mortality, but an estimated
+$500 million in treatment-related costs and $2 billion in overall
+economic impact including lost productivity. The vast majority of these
+skin cancers arise in keratinocytes and within this group, cutaneous
+squamous cell carcinoma (cSCC) comprises 15-20% of cases. cSCC has the
+best-defined progression from a distinct precancerous lesion, the actinic
+keratosis (AK) to invasive cSCC which has appreciable metastatic
+potential particularly in high-risk scenarios. Beyond serial, disfiguring
+surgeries, there is no effective therapy.AKs are the most common
+precancerous lesion in humans, affecting upwards of 5.5% of women and
+13.9% of men in U.S. Our understanding of the molecular events that lead
+from normal skin to AK to cSCC is very poor and represents a fundamental
+gap in our understanding of this progression sequence. Such an
+understanding would be of enormous importance. While destructive
+modalities are the mainstay of treatment of AK, they must be repetitively
+used and there is no basis for identifying those most likely to progress.
+Therefore, there is a tremendous need for rationally designed targeted
+diagnostics and therapy for AKs, which presents an ideal opportunity for
+molecularly-informed skin cancer screening and secondary prevention.We
+have performed next generation sequencing (Illumina HiSeq) for microRNA
+and mRNA on matched samples from 10 patients. Each matched set is
+composed of clinically normal skin, AK, and cSCC from the same patient,
+minimizing background genetic heterogeneity. For miRNA-seq, 6.1 million
+reads with 720,000 mapped reads were obtained on average. RNA-seq
+analysis yielded over 64 million reads per sample with 92% mapped.
+Following unsupervised clustering, we found cSCCs clustered together, and
+AKs clustered with both normal skin and with cSCC confirming the
+clinico-pathologic characterization of these lesions as precursors to
+cSCC.Changes in expression of only two miRNA and 367 mRNA emerged as the
+most significant predictors of overall progression from normal skin to AK
+to cSCC. In pairwise comparisons between normal skin and cSCC, we
+identified 628 functional miRNA-mRNA pairs comprising a total of 59 miRNA
+and 179 predicted mRNA targets. Surprisingly, the number of miRNA and
+mRNA expression changes between AK and cSCC were very limited (<50 mRNA
+and <10 miRNA). These findings are in stark contrast to many previously
+reported studies on un-matched samples, which validates our novel
+approach. We are functionally validating our findings in cells and in our
+mouse model of UV-driven SCC, and we anticipate that we will identify key
+drivers of cSCC progression that will yield insights relevant for other
+cancers.
+

@@ -1,0 +1,139 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Improving breast cancer risk prediction models: the addition of a
+genetic risk score, mammographic density, and endogenous hormones
+
+
+Background: Risk prediction models have important public health
+implications for targeted disease prevention by identifying women at
+higher risk who would most likely benefit from screening,
+chemoprevention, or other risk-reducing regimens. Among such models, the
+Gail and Rosner-Colditz models have been well validated and used to
+identify high-risk women. Each of these models generally includes only
+traditional breast cancer risk factors (e.g., parity and family history
+of breast cancer). No prior study has examined the joint contribution of
+a genetic risk score (GRS), mammographic density (MD), and postmenopausal
+endogenous hormone levels to these models.Method: We conducted a
+nested-case control study within the Nurses Health Study (NHS, follow-up
+1990-2010) and NHS II (1997-2009). We created a breast cancer GRS based
+on 67 single-nucleotide polymorphism (SNPs). We measured percent MD as
+well as circulating testosterone, estrone sulfate, and prolactin levels
+in prediagnostic plasma samples. Using receiver-operating-characteristic
+curve analyses, we calculated the area under the curve (AUC), adjusting
+for age, as a measure of discrimination for the 5-year risk of invasive
+breast cancer and estrogen receptor (ER) and progesterone receptor (PR)
+positive disease (ER+PR+) by menopausal status, after adding GRS, MD,
+and/or circulating hormones to the modified Gail and Rosner-Colditz
+models.Results: We documented 11,880 women (4,006 cases/7,874 controls;
+age range: 34-80 yr) for Gail model and 8,210 women (2,665 cases/5,455
+controls) for Rosner-Colditz model analyses. In both models, about 45%
+women were premenopausal, 25% were postmenopausal women not using
+postmenopausal hormone (HT), and 30% were postmenopausal women using HT
+at blood draw. The AUC was statistically significantly improved by 7.0
+units in premenopausal women (Gail+GRS+MD), 11.8 units in postmenopausal
+women not using HT (Gail+GRS+MD+hormones), and 6.1 units in
+postmenopausal women using HT (Gail+GRS+MD+prolactin, all
+p-valueBackground: Risk prediction models have important public health
+implications for targeted disease prevention by identifying women at
+higher risk who would most likely benefit from screening,
+chemoprevention, or other risk-reducing regimens. Among such models, the
+Gail and Rosner-Colditz models have been well validated and used to
+identify high-risk women. Each of these models generally includes only
+traditional breast cancer risk factors (e.g., parity and family history
+of breast cancer). No prior study has examined the joint contribution of
+a genetic risk score (GRS), mammographic density (MD), and postmenopausal
+endogenous hormone levels to these models.Method: We conducted a
+nested-case control study within the Nurses Health Study (NHS, follow-up
+1990-2010) and NHS II (1997-2009). We created a breast cancer GRS based
+on 67 single-nucleotide polymorphism (SNPs). We measured percent MD as
+well as circulating testosterone, estrone sulfate, and prolactin levels
+in prediagnostic plasma samples. Using receiver-operating-characteristic
+curve analyses, we calculated the area under the curve (AUC), adjusting
+for age, as a measure of discrimination for the 5-year risk of invasive
+breast cancer and estrogen receptor (ER) and progesterone receptor (PR)
+positive disease (ER+PR+) by menopausal status, after adding GRS, MD,
+and/or circulating hormones to the modified Gail and Rosner-Colditz
+models.Results: We documented 11,880 women (4,006 cases/7,874 controls;
+age range: 34-80 yr) for Gail model and 8,210 women (2,665 cases/5,455
+controls) for Rosner-Colditz model analyses. In both models, about 45%
+women were premenopausal, 25% were postmenopausal women not using
+postmenopausal hormone (HT), and 30% were postmenopausal women using HT
+at blood draw. The AUC was statistically significantly improved by 7.0
+units in premenopausal women (Gail+GRS+MD), 11.8 units in postmenopausal
+women not using HT (Gail+GRS+MD+hormones), and 6.1 units in
+postmenopausal women using HT (Gail+GRS+MD+prolactin, all p-value<0.001).
+For the Rosner-Colditz model, the corresponding AUC improved by 5.4
+units, 7.9 units, and 5.4 units (all p-valueBackground: Risk prediction
+models have important public health implications for targeted disease
+prevention by identifying women at higher risk who would most likely
+benefit from screening, chemoprevention, or other risk-reducing regimens.
+Among such models, the Gail and Rosner-Colditz models have been well
+validated and used to identify high-risk women. Each of these models
+generally includes only traditional breast cancer risk factors (e.g.,
+parity and family history of breast cancer). No prior study has examined
+the joint contribution of a genetic risk score (GRS), mammographic
+density (MD), and postmenopausal endogenous hormone levels to these
+models.Method: We conducted a nested-case control study within the Nurses
+Health Study (NHS, follow-up 1990-2010) and NHS II (1997-2009). We
+created a breast cancer GRS based on 67 single-nucleotide polymorphism
+(SNPs). We measured percent MD as well as circulating testosterone,
+estrone sulfate, and prolactin levels in prediagnostic plasma samples.
+Using receiver-operating-characteristic curve analyses, we calculated the
+area under the curve (AUC), adjusting for age, as a measure of
+discrimination for the 5-year risk of invasive breast cancer and estrogen
+receptor (ER) and progesterone receptor (PR) positive disease (ER+PR+) by
+menopausal status, after adding GRS, MD, and/or circulating hormones to
+the modified Gail and Rosner-Colditz models.Results: We documented 11,880
+women (4,006 cases/7,874 controls; age range: 34-80 yr) for Gail model
+and 8,210 women (2,665 cases/5,455 controls) for Rosner-Colditz model
+analyses. In both models, about 45% women were premenopausal, 25% were
+postmenopausal women not using postmenopausal hormone (HT), and 30% were
+postmenopausal women using HT at blood draw. The AUC was statistically
+significantly improved by 7.0 units in premenopausal women (Gail+GRS+MD),
+11.8 units in postmenopausal women not using HT (Gail+GRS+MD+hormones),
+and 6.1 units in postmenopausal women using HT (Gail+GRS+MD+prolactin,
+all p-value<0.001). For the Rosner-Colditz model, the corresponding AUC
+improved by 5.4 units, 7.9 units, and 5.4 units (all p-value<0.001). For
+ER+PR+ tumors specifically, among postmenopausal women not using HT, the
+AUC was improved by 13.2 units for the Gail model and 9.9 units for the
+Rosner-Colditz model (all p-valuesBackground: Risk prediction models have
+important public health implications for targeted disease prevention by
+identifying women at higher risk who would most likely benefit from
+screening, chemoprevention, or other risk-reducing regimens. Among such
+models, the Gail and Rosner-Colditz models have been well validated and
+used to identify high-risk women. Each of these models generally includes
+only traditional breast cancer risk factors (e.g., parity and family
+history of breast cancer). No prior study has examined the joint
+contribution of a genetic risk score (GRS), mammographic density (MD),
+and postmenopausal endogenous hormone levels to these models.Method: We
+conducted a nested-case control study within the Nurses Health Study
+(NHS, follow-up 1990-2010) and NHS II (1997-2009). We created a breast
+cancer GRS based on 67 single-nucleotide polymorphism (SNPs). We measured
+percent MD as well as circulating testosterone, estrone sulfate, and
+prolactin levels in prediagnostic plasma samples. Using
+receiver-operating-characteristic curve analyses, we calculated the area
+under the curve (AUC), adjusting for age, as a measure of discrimination
+for the 5-year risk of invasive breast cancer and estrogen receptor (ER)
+and progesterone receptor (PR) positive disease (ER+PR+) by menopausal
+status, after adding GRS, MD, and/or circulating hormones to the modified
+Gail and Rosner-Colditz models.Results: We documented 11,880 women (4,006
+cases/7,874 controls; age range: 34-80 yr) for Gail model and 8,210 women
+(2,665 cases/5,455 controls) for Rosner-Colditz model analyses. In both
+models, about 45% women were premenopausal, 25% were postmenopausal women
+not using postmenopausal hormone (HT), and 30% were postmenopausal women
+using HT at blood draw. The AUC was statistically significantly improved
+by 7.0 units in premenopausal women (Gail+GRS+MD), 11.8 units in
+postmenopausal women not using HT (Gail+GRS+MD+hormones), and 6.1 units
+in postmenopausal women using HT (Gail+GRS+MD+prolactin, all
+p-value<0.001). For the Rosner-Colditz model, the corresponding AUC
+improved by 5.4 units, 7.9 units, and 5.4 units (all p-value<0.001). For
+ER+PR+ tumors specifically, among postmenopausal women not using HT, the
+AUC was improved by 13.2 units for the Gail model and 9.9 units for the
+Rosner-Colditz model (all p-values<0.001).Conclusion: While each of
+genetic markers, percent MD, and hormones independently improved risk
+prediction for invasive breast cancer and ER+PR+ disease, incorporating
+all of these factors simultaneously improved models the most, especially
+among postmenopausal women not using HT. If validated in independent
+populations, our findings could help identify women at a higher risk, who
+would most benefit from chemoprevention, other risk-reducing regimens or
+screening.
+

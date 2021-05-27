@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Dual-profiling of CTC and exosome from the cultured circulating
+tumor cells using stimuli-responsive degaradable hydrogels.
+
+
+Introduction: Liquid biopsy based on sub-micron or nanosized particles in
+human body fluid have been received vast attention due to their
+non-invasive characteristics and enabling multiple check-up. Circulating
+tumor cells (CTCs), as well as exosome are the most promising markers in
+liquid biopsy, however, dual isolation and profiling have been hampered
+due to their size difference and limited quantity for analysis. We
+proposed the novel and simple methods for both isolation and study their
+similarity between them. Using the label-free CTC filtration device and
+anti-CD63 antibody-conjugated degradable hydrogel, the CTCs and the
+CTCs-derived exosome are specifically isolated, and each samples were
+followed by molecular study after recovery. This versatile platform
+facilitates the comprehensive study of two biomarkers with reflecting
+their inherent characteristics, thus paving the way for revealing their
+roles in cancer progression and metastasis.
+
+Methods: In order to make stimuli-responsive degradable hydrogel, poly
+(vinyl alcohol) and alginate were mixed under constant stirring at 85
+°C. The mixture was poured into the mold and dried for 24 hours. Then,
+the dried sheet was immersed into 100 mM calcium chloride solution to
+achieve gelation through ionic interaction. Subsequently, the anti-CD63
+antibody was immobilized onto the prepared hydrogels via cross-linking.
+For the dual-profiling, the hydrogel and the filters containing the
+captured breast cancer cells by microfiltration were incubated with the
+exosome-depleted cell culture media for 6 hours. The captured cells were
+released from the device and the hydrogels were degraded by adding EDTA.
+The cell and exosome lysate were prepared using RIPA buffer at 4 °C. The
+supernatant was collected by centrifugation followed by western-blot
+assay. Four different markers, including exosome-specific marker (CD63),
+cancer-associated markers (EpCAM, vimentin), and a housekeeping marker
+(β-actin), were used.
+
+Results: All exosome and cell samples highly expressed the housekeeping
+marker. Especially, two exosome samples dissociated from the hydrogel
+showed CD63 predominantly, which support the secretion of exosome from
+the cancer cells. The samples from the released cancer cells from the
+device did not express CD63 remarkably. To verify the phenotypical
+similarity between cell and exosome, expressions of the epithelial marker
+(EpCAM) and mesenchymal marker (vimentin) were examined. The exosome and
+cell from MCF-7, epithelial cancer cell, showed higher expression of
+EpCAM then vimentin. On the contrary to this, the samples from
+MDA-MB-231, mesenchymal cell, showed higher vimentin expression then
+EpCAM.
+
+Discussion and conclusion: We showed that exosome follow the phenotypical
+characteristics of mother-cells. This dual profiling would be helpful for
+in-depth study of cancer with consideration of its heterogeneity and
+complexity.
+
+

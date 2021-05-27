@@ -1,0 +1,37 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Mechanism-based scheduling of triple therapy
+gemcitabine/CHK1i/WEE1i in pancreatic cancer at submaximal yet
+synergistic concentrations
+
+
+Sensitization of cancer cells to gemcitabine has been shown with
+checkpoint kinase CHK1 and WEE1 inhibitors. To rationalize and optimize
+the concomitant use of these three agents, we first performed growth
+inhibition assays on MIA PaCa-2 pancreatic cancer cells using gemcitabine
+in combination with either CHIR-124 (CHK1 inhibitor) or MK-1775 (WEE1
+inhibitor). In silico analysis with three mathematical models (Bliss
+Independence, Loewe and Highest Single Agent) identified synergistic
+growth inhibition at submaximal (i.e. 8000 individual cells undergoing
+extensive fork collapse (compared to 0-1% with single agents) as
+evidenced by co-staining of yH2AX and hyper-phosphorylated RPA32.
+Conversely, submaximal gemcitabine+MK-1775 induced clear reduction of
+inhibitory CDK1 Y15 level compared to single agents. Consistent with this
+G2/M abrogation, in a Fucci-based CDT1/geminin-expressing MIA PaCa-2
+stable cell line, gemcitabine+MK-1775 partially reversed the accumulation
+of the geminin-expressing (S/G2) population induced by gemcitabine alone.
+This was accompanied by an increase in the CDT1-expressing (G1)
+population, alongside aberrant mitotic cells with features of perturbed
+kinetochore-microtubule integrity. Based on these findings, we performed
+a series of long-term, kinetic live-cell imaging assays to determine the
+optimal scheduling for gemcitabine/CHK1i/WEE1i as a triplet at
+synergistic concentrations. In contrast to the widely proposed scheduling
+regimen, we found that delayed administration of CHK1i (at 24 hours),
+relative to gemcitabine, did not lead to synergy. However, concurrent
+administration yielded durable growth inhibition, even when the two
+agents were removed after 24 hours. This inhibition was further enhanced
+with the subsequent addition of WEE1i at 24 hours, but not continuation
+of a CHK1i. Together, our results illustrate differential mechanistic
+effects of CHK1 and WEE1 inhibitors with gemcitabine, when combined at
+sub-GI50 concentrations, and propose a novel triple agent schedule that
+will be evaluated in vivo.
+

@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: COSMIC: comprehensively exploring oncogenomics
+
+
+COSMIC (http://cancer.sanger.ac.uk) is an expert-curated database of
+somatic mutations causing human cancer. Broad and comprehensive in scope,
+its 75th release (Nov 2015) describes over 3.7 million coding mutations
+across all human cancer disease types. Mutations are annotated across the
+entire genome, but expert curation is focused on almost 200 key cancer
+genes. Now encompassing the majority of molecular mutation mechanisms in
+oncogenetics, COSMIC additionally describes 10 million non-coding
+mutations, 1 million copy number aberrations, 9 million gene expression
+variants and almost 8 million differentially methylated CpGs. This
+information combines a consistent interpretation of the data from the
+major cancer genome consortia and cancer genome literature, with
+hand-curation of over 22,000 gene-specific literature publications.With
+such a large volume of data, it is increasingly important to indicate
+which information is most significant. All mutations in COSMIC are now
+given a functional significance score, calculated using the FATHMM
+algorithm. In addition, a mutation can also be tagged as low-impact if
+they are described as a polymorphism in normal human genomes. All this
+information is available for selection and exploration in the COSMIC
+website (http://cancer.sanger.ac.uk), and for download via COSMIC
+Downloads (http://cancer.sanger.ac.uk/download). In addition to this
+broad database, the Cancer Gene Census
+(http://cancer.sanger.ac.uk/census) is a project within COSMIC aiming to
+identify and characterize all genes known to cause cancer, currently
+describing over 570 genes. This Census is now a priority focus of
+development, with a dedicated curator explicitly defining the range of
+genes driving cancer, including primary alleles and mechanisms and the
+diseases which are induced, with detailed supporting evidence.In addition
+to these analytical websites, expert-curated lists and now a GA4GH
+Beacon, COSMIC also hosts a full Oncology Genome Browser
+(http://cancer.sanger.ac.uk/genome). This fully-featured system allows
+the exploration of all cancer somatic mutation data collected in COSMIC
+alongside genomic annotations including coding genes, ncRNAs, SNPs and
+regulatory features. All data is vertically integrated, allowing
+exploration of how these many genetic mechanisms might promote
+oncogenesis, and how similar activating/inactivating mechanisms
+correlate. Amongst many interesting examples, there is a clear cluster of
+structural rearrangements immediately upstream of the BRD4 epigenetic
+modifier gene, affecting a region of multiple transcription control
+elements, and a substantial accumulation of abnormally hypermethylated
+CpG islands in the HOXA gene cluster on chromosome 7 coinciding with a
+group of HOTAIR and HOTTIP miRNAs. With multiple filters and selections
+available, these visualizations will increasingly support the exploration
+of how a variety of mutation mechanisms may act together to cause
+specific cancer diseases.
+

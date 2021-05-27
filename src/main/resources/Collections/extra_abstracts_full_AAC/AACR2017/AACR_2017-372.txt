@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Optimizing vertical MAPK pathway inhibition for RAS mutant
+non-small cell lung cancer.
+
+
+Introduction: Non-small cell lung tumors (NSCLC) with mutations in genes
+encoding for Ras proteins (H-, N-, K-Ras) exhibit activation of the MAPK
+signaling pathway. Mek inhibitors, however, have limited efficacy in
+patients affected by this genotype-defined tumor subtype and major
+resistance derives from insufficient suppression or reactivation of the
+extracellular signal-regulated kinase (Erk) as a result of dynamic kinome
+reprogramming. Erk inhibitors may overcome limitations of Mek inhibition
+due to the bottleneck function of Erk proteins in submitting mitogenic
+and anti-apoptotic signals. Combinations of both drug classes
+(”vertical pathway inhibition“) may further increase treatment
+efficacy but inevitably potentiate toxicity hence requiring alternative
+dosing schedules.
+
+Methods: We investigated the efficacy of vertical MAPK inhibition with
+selumetinib (Mek inhibitor) and SCH772984 (Erk inhibitor) in commercially
+available and patient-derived RAS mutant NSCLC models. A quantitative
+RT-PCR based 12-gene signature was used as a surrogate to assess
+Erk-dependent transcriptional output. Pulsatile drug regimens were
+investigated in xenograft models.
+
+Results: In a genetically simple, patient-derived NRAS-mutant lung cancer
+cell line (DFCI168), we observed strongest in vitro suppression of
+Erk-dependent transcriptional output and delay of feedback reactivation
+by vertical MAPK pathway inhibition with a selumetinib/SCH772984
+combination compared to either drug alone. Deeper MAPK pathway
+suppression in our model cell line was accompanied by higher
+anti-proliferative activity in a panel of RAS mutant cell lines in vitro
+(n=5 patient-derived, n=19 commercially available cell lines) and in vivo
+(n=2). The degree of transcriptional output suppression of cell lines
+(n=8) with different sensitivities towards Mek/Erk inhibition did not
+differ significantly at 24 hrs in vitro. Gastrointestinal toxicities
+(i.e. peritonitis-like symptoms) occurred when continuously administered
+SCH772984 was intermittently combined with selumetinib (4 days ON, 3 days
+OFF) but resolved when both drugs were given intermittently (4 days ON, 3
+days OFF). None of the drug treatments, however, could cure the mice.
+
+Conclusion: We have demonstrated that deeper and prolonged
+transcriptional output suppression by vertical MAPK pathway inhibition
+translates into superior efficacy in RAS mutant lung cancer models
+compared to single agent treatment. Other factors (e.g. signaling
+pathways) are likely to influence the overall outcome of vertical MAPK
+pathway inhibition. Toxicities observed in PDX models overlap with those
+reported from genetically engineered mouse models (GEMM) with loss of
+Mek1/2 or Erk1/2 and can be mitigated by pulsatile dosing schedules.
+
+

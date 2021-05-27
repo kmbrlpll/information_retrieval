@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A preclinical PKPD modeling & simulation strategy: building a
+predictive model of dose, schedule and therapeutic index for small
+molecule targeted anticancer agents
+
+
+All anti-cancer medicines must balance the benefits vs. the side effects
+in choosing the right dose and schedule to deliver to patients. Exploring
+dose and schedule options following an empirical approach in the clinic
+can be a costly, time-consuming process with high probability that
+cohorts of patients do not receive sufficient therapeutic benefit.
+Pre-clinical in vivo models and PKPD modelling can be used to explore
+therapeutic index (TI) and refine dose schedule options to prioritise in
+clinical testing. Experimental strategies to articulate the framework for
+a combination strategy are required to build a quantitative understanding
+of the extent and duration of compound-target suppression and the
+relationship to TI.These principals have been tailored to the small
+molecule Oncology drug discovery setting with a focus on maximising the
+knowledge and value derived from existing data packages typically
+delivered for drug projects during the lead identification, optimisation
+and candidate selection period. Datasets typically available include in
+vivo PK, biomarker (PD) and mouse/rat xenograft tumour growth inhibition
+(efficacy). Broad project analysis revealed a need to ensure that study
+designs are built to explore both dose-response and exposure-time
+(scheduling) relationships. This is because projects commonly need to
+answer the following three fundamental questions. (1) What is the extent
+and duration of target suppression required to deliver a biological
+effect? (2) How do effects on the pathway correlate with efficacy and
+effects on normal tissues and do these effects change with time? (3) How
+does therapeutic margin change with alternative target suppression
+profiles (scheduling)? Building this framework pre-clinically to answer
+these key questions is critical to defining the clinical dose and
+schedule in an effective way as differentiated dose and schedules are
+difficult to explore broadly in the clinic.This framework is exemplified
+with the following. (1) AKT inhibition has multiple MOA in both the
+tumour cells and normal tissues. Efficacy can be achieved by delivering
+the compound with different target inhibition profiles, which may
+maximise benefit for patients, and pre-clinical modelling can be used to
+prioritise the clinical intermittent schedules to be tested. (2)
+Targeting PI3Kalpha signalling can have a narrow TI, due to effects on
+glucose homeostasis, which can impair the combination potential.
+Pre-clinical modelling has shown that this can be improved by using an
+intermittent schedule for combination options. (3) DNA repair pathways
+are critical for many tumour cells and normal cells. While these
+inhibitors have significant impact on tumour cells they also impact
+normal cells, particularly bone marrow. It has been possible to build a
+scheduling model that retains efficacy but prevents neutropenia therefore
+increasing TI.
+

@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Comprehensive RNA-seq transcriptome interrogation of paired
+hepatocellular carcinoma and cirrhosis tissues revealed significant
+molecular features of disease evolution and modulation of tumor immunity
+
+
+First 2 authors contributed equallyHepatocellular carcinoma (HCC) is the
+second most common cause of death from cancer worldwide with extremely
+poor prognosis. HCC is known to be closely associated with liver
+injury-induced cirrhosis caused by various etiologies, including HBV
+infection. The prolonged timeline and heterogeneous nature of HCC adds
+complexity to dissecting the biology of this disease in humans. While
+Sorafenib is approved for the first-line treatment of metastatic HCC,
+most patients rapidly progress on treatment with Sorafenib. Consequently,
+alternative therapeutic options for HCC are much needed. The
+identification of molecular subtypes and reliable biomarkers associated
+with disease evolution is critical in facilitating development of new
+therapeutic agents in HCC.To understand the manifestation of early
+molecular events in HCC disease progression in human, we analyzed
+genome-wide RNA-seq data derived from 100 paired samples consisting of
+HCC tumors (most with 60-80% tumor content) and adjacent cirrhotic
+tissues from early stage patients (TNM system: T1N0M0, T2N0M0, and
+T3N0M0; similar to BCLC stage A and B). Differential expression analysis
+revealed a cluster of genes that significantly differentiated HCC from
+cirrhotic tissues and illustrated a widespread deregulation of cell cycle
+machinery modulated by probable molecular abnormalities represented by
+Polo-Like Kinase, Checkpoint kinases, G2/M DNA damage checkpoint
+regulation, DNA damage-induced 14-3-3 signaling, ATM signaling, and
+estrogen-mediated S-phase entry. Prominent down-regulation of FXR/LXR/RXR
+activation was also observed in HCC tumors. Strikingly, the unsupervised
+hierarchical clustering of both cirrhotic and HCC tissues revealed 3
+groups of genes with mRNA expression closely correlating with disease
+progression stage-wise from cirrhosis to T1, T2, and T3 stages.
+Specifically, we made a novel observation illustrating the stage-wise
+activation of Wnt signaling pathway, but de-activation of MAPK pathway.
+Upon in-depth analysis, our data also suggests that as HCC progresses,
+translation machinery and embryonic morphogenesis are stimulated, while
+angiogenesis, negative regulation of apoptosis, and mesenchymal cell
+differentiation are possibly impinged. In addition, we found that
+components of processes crucial for activating immune response appear to
+be impaired as disease progresses from cirrhosis to stage T3. To confirm
+the aforementioned finding through focused assessment of
+immune-microenvironment by gene expression, we utilized Fluidigm platform
+and corroborated the down-regulation of effector T cell signature.In
+conclusion, data presented provides a holistic depiction of evolution of
+HCC and the associated tumor immunity, thus paving a way for future
+detailed subtyping and therapeutics discovery.
+

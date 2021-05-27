@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Mass Spectrometry Imaging of therapeutic antibodies: Distribution
+of unlabeled trastuzumab in CB.17 SCID mice implanted with the human
+breast BT474 xenograft
+
+
+IntroductionMass Spectrometry Imaging (MSI) is an emerging technique in
+preclinical analysis that allows for analysis of the distribution and the
+quantification of target molecules in tissue sections. The main advantage
+of this imaging technology is the detection of the molecule of interest
+in tissues without labelling and with high specificity. MSI is now
+routinely used for small molecule distribution analysis in lead
+optimization process, and in PK/PD or toxicity studies. Due to the mass
+range limitation of the instrument analyzer one of the main challenges is
+the detection of administered large molecules such as therapeutic
+antibodies. . In this study, we describe the detection and the
+distribution of trastuzumab, a monoclonal antibody that recognizes the
+HER2/neu receptor, in a BT474 human breast xenograft model.Experimental
+proceduresBT474 tumor fragments are implanted in female CB.17 SCID mice.
+When the tumors reach 80-120 mm3, the trastuzumab treatment of 20mg/kg
+with eight bi-weekly intraperitoneal injections was initiated. The
+endpoint was fixed at day 30 post first administration. At 50 hours post
+1st, 5th and 8th doses vehicle and trastuzumab treated animals were
+sacrificed and tumor, plasma and carcass were collected.One section of
+each tumor tissue was first digested with a proteolytic enzyme deposited
+with a dedicated device onto the tissue. After the proteolytic digestion,
+the selected MALDI matrix is sprayed onto the tissue and then the
+distribution of the Trastuzumab is determined based on its specific
+peptide mass fingerprint (PMF) by high resolution mass spectrometry
+imaging with a MALDI-FTICR instrument (SolariX FTICR 7.0T from Bruker).
+The images are obtained with Quantinetix software dedicated to the MSI
+data set.Novel AspectWe describe a process which combines MSI and
+bottom-up proteomics approach directly on tissue to follow the
+distribution of a therapeutic antibody without any labelling. Until now,
+mass spectrometry imaging was used to study some biomarkers' (proteins)
+distribution on tissue. This work describes a novel MSI application for
+analysis of a dosed therapeutic antibody. Data collection is
+ongoing.ConclusionsWe have adapted the use of Mass Spectrometry Imaging
+to follow the distribution of a non-labeled therapeutic antibody based on
+its peptide mass fingerprint in dosed tissues. This opens the use of this
+technology to other large molecules, such as therapeutic proteins or
+Antibody-Drug Conjugates (ADCs) in a variety of therapeutic fields
+(Oncology, Immunology, CNS, etc.)In addition to the distribution of the
+target therapeutic antibody, Mass Spectrometry Imaging could also allow
+the detection of other important endogenous molecules in the same or
+adjacent tissue section, such as specific disease markers, thus allowing
+further understanding of PK/PD relationships.
+

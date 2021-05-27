@@ -1,0 +1,34 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Project Survival: Interrogative Biology platform mediated
+discovery of molecular markers for detection, stratification and outcomes
+in pancreatic cancer
+
+
+Pancreatic adenocarcinoma generally presents with a poor prognosis and an
+extremely low response rate to first line therapies. There is a critical
+unmet need to discover and implement effective diagnostic panels to
+stratify outcomes and tailor treatment strategies to improve survival.
+The BERG Interrogative Biology platform utilizes Artificial Intelligence
+to analyze and integrate multi-omic profiles with clinical annotation to
+define novel biomarkers and improve treatment interventions. Herein, we
+analyzed the serum proteome, signaling lipidome, structural lipidome, and
+metabolome of 163patients at multiple timepoints (pancreatic cancer: 115;
+pancreatitis: 15; and age-matched healthy controls: 33). Utilizing the
+power of the Bayesian Network learner, bAIcis (BERG Artificial
+Intelligence Clinical Information System), multi-omic profiles were
+aligned to the longitudinal clinical information and subjected to
+AI-algorithms to infer probabilistic cause-and-effect relationships among
+molecular and clinical variables explicitly explaining pancreatic cancer
+status, cancer progression, and survival, and defining the
+interconnectivity of molecular features with clinical phenotype. Network
+features linking into clinical endpoints and key network pressure points
+were identified as molecular drivers. The drivers of clinical endpoints
+were analyzed to rank potential biomarkers. Novel biomarkers were
+discovered that demonstrate diagnostic potential for pancreatic cancer
+detection, disease prognosis including metastatic disease progression,
+patient stratification associated with survival, and response to standard
+chemotherapy agents like Gemcitibine. A prospective study is underway to
+validate the biomarkers and discover additional diagnostic and
+therapeutic molecules to improve the outcomes for patients affected by
+adenocarcinoma of the pancreas.
+

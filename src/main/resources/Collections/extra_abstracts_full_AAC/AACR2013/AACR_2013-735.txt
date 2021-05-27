@@ -1,0 +1,42 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Photonic crystal microarray sensing of biomolecules: Detection of
+ZEB1 associated with the epithelial-mesenchymal transition in lung cancer
+cells.
+
+
+We experimentally demonstrate the ability of Photonic Crystal
+microcavity-based biosensors to specifically detect the EMT transcription
+factor, ZEB1, in minute volumes of sample. Two-dimensional Photonic
+Crystals manufactured from silicon-on-insulator (SOI) have recently
+demonstrated the ability to confine and guide slow light on length scales
+of the wavelength of light. This has led to high sensitivity as well as
+miniaturization into compact sensors for chemical and bio-sensing. The
+precise wavelength of infrared light trapped by the resonance cavity of a
+Photonic Crystal is influenced in a very sensitive fashion by binding
+interactions between biomolecules attached to the silicon surface. In
+essence, the binding interaction alters the refractive index of the
+resonance cavity and this is detected as a shift in the resonance
+wavelength trapped by the device. When the sensor surface is derivatized
+with a specific antibody, the binding of the corresponding antigen will
+generate a resonance shift, revealing the presence of the antigen even
+when the antigen is present as a minor component in a complex whole-cell
+lysate. The resonance shift is detected directly and does not require any
+secondary labeling. The sensor cavity used here is dimensionally
+comparable to a mitochondrion, having a surface area of 5-10 m2 which
+contacts approximately 13 nL of sample. The device was able to reliably
+detect ZEB1 binding in diluted samples of NCI-H358 non-small cell lung
+cancer cells containing 10 cells/L. Specificity was demonstrated using a
+sandwich assay in which a second antibody was introduced following the
+initial binding and washing steps. The resonance wavelength was then
+super-shifted, but only when the second reagent applied was a different
+ZEB1-specific antibody that recognized a distinct epitope. These Photonic
+Crystal waveguides can be multiplexed on a single chip yielding a useful
+platform for highly sensitive and rapid detection of several biomolecules
+simultaneously in minute samples. Moreover, the sandwich assay principle
+can be applied to interrogate post-translational modifications of the
+captured proteins, so long as site-specific antibodies are available. The
+Photonic Crystal biosensor should be applicable to biomarker detection in
+minute biopsies, monitoring of pathway activation states in small
+samples, and detection of fusion or mutant proteins in hematological
+malignancies and solid tumors.
+

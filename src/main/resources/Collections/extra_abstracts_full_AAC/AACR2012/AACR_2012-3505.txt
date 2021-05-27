@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Preclinical testing of mRNA engineered chimeric antigen receptor T
+cells: Comparison of a multi-infusion protocol to a single injection of
+stably expressed CARs in ALL xenograft models
+
+
+T cells engineered to express chimeric antigen receptors (CARs),
+consisting of an anti-tumor targeting domain fused to Signal 1 and 2
+activation domains, are a promising approach to cell therapy. We compared
+T cells engineered to stably express CARs using integrating viral vectors
+with T cells transiently expressing CARS via direct transduction with
+non-integrating mRNA. In early clinical testing, this CAR design using
+lentiviral transduction has been tested in 3 patients with advanced CLL.
+In these refractory patients with very high disease burdens, dramatic
+clinical responses have been observed, with two patients achieving CRs
+and one a PR, all sustained at >12 months. Transient expression has
+several advantages: short-term expression may allow initial clinical
+testing while limiting toxicity, and expediting manufacturing and scaling
+to GMP of CAR modifications, allowing rapid iterative improvements of CAR
+design. To evaluate the in vivo efficacy of mRNA CAR+T cells, we used
+xenograft models of human ALL (Nalm-6 and a primary patient leukemia,
+both CD19+) and high-level human T cell engraftment. NSG mice were
+injected with ALL at a dose producing 100% BM engraftment by 5d with 100%
+mortality by 25d (Nalm-6) or 36d (Primary). T cells were expanded ex vivo
+using CD3/CD28 beads and underwent lentiviral gene transfer or mRNA
+electroporation. mRNA transfection produced high but transient CAR
+surface expression, peaking at 4 hours and then declining over 8d. Using
+a novel method of simultaneous bioluminescent tracking of CARs and
+leukemia, we observed rapid migration of CAR T cells to all sites of
+disease and 100-fold reduction in ALL burden after only 24h. Using low
+dose cyclophosphamide (CTX; 60 mg/kg IP) 24h before the next infusion, we
+were able to deplete non-CAR expressing T cells and observe continued
+effects on leukemia from subsequent mRNA CAR infusions resulting in
+significantly prolonged survival in mice treated with mRNA CARs.
+Short-term efficacy of a single dose of mRNA vs. lentiviral CAR+ T cells
+was similar. Neither CTX nor untargeted repeat CAR T cells infusions
+alone had an effect on leukemia burden or survival. While lentiviral CAR+
+T cells persisted and were active longer, median overall survival was not
+different between repeat mRNA CARs (52d Nalm-6, 76d primary) and a single
+dose of lentiviral transduced CARs (54d Nalm-6, 87d primary). Only stably
+expressed CARs resulted in any long term cures in this model. Relapse
+patterns suggest that the efficacy of mRNA and lentivirus CAR T cells are
+similar, as peripheral disease can be repeatedly cleared with subsequent
+mRNA CAR infusions but immune privileged xenograft artifact sites such as
+the tooth root are more resistant. These pre-clinical results demonstrate
+an important advance in T cell engineering, and are leading directly to
+clinical trials testing mRNA CAR CTLs.
+

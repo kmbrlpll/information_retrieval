@@ -1,0 +1,37 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identification of downstream targets of polo-like kinase 1 in
+melanoma by large-scale label-free comparative proteomics profiling
+
+
+Polo-like kinase 1 (Plk1) is a serine-threonine kinase that plays a
+critical role in the cell cycle by regulating mitotic entry, progression
+and exit. In recent years, Plk1 has gained considerable attention as a
+promising mechanism-based therapeutic target in a variety of cancers.
+Pre-clinical studies have suggested that Plk1 inhibition is capable of
+reducing cancer cell growth both in vitro and in vivo with tremendous
+efficacy and with minimal detriment to normal cells. This evidence has
+spurred the development of many Plk1-specific inhibitors that has
+culminated in over 30 clinical trials, either completed or ongoing.
+However, the remarkable pre-clinical success of Plk1 inhibitors has yet
+to be validated at the clinical level, thus stressing on an urgent need
+for a better understanding of Plk1 signaling. In an effort to further
+elucidate the molecular function of Plk1 inhibitors, we performed a
+comparative quantitative proteomics strategy to compare the proteome of
+human melanoma cells (A375) following treatment with the Plk1-specific
+ATP competitive inhibitor BI 6727 (25 nM, 24 h). We employed label-free
+nano-LC/MS/MS technology on a Q-exactive followed by SIEVE processing to
+identify more than 1800 proteins, 1% false discover rate, 343 of which
+had significantly altered expression. Using ingenuity pathway analysis
+(IPA) to select for proteins with more than two unique peptides and
+greater than a two-fold change, our proteomic analysis resulted in the
+identification of more than twenty proteins that were significantly
+dysregulated following Plk1-inhibition, many of which have not been
+previously shown to be associated with Plk1 signaling. Interestingly, the
+metabolic and proteasome pathways harbor the greatest portion of
+differentially expressed proteins, including five subunits of the 20S
+proteasome core particle and five members of the glycolysis pathway.
+Given the importance of these two pathways in cancer cell survival, this
+study provides two potential mechanisms of Plk1 inhibition that have yet
+to be explored. Further studies are currently ongoing in our laboratory
+to validate our findings in additional experiments.
+

@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Integrative study of dysregulated genes in translocated
+ALK-positive non-small cell lung cancer and personalized targeted therapy
+resistance.
+
+
+Background: Recent studies revealed that ALK (anaplastic lymphoma kinase)
+2p23 translocation, most commonly fused with echinoderm
+microtubule-associated protein-like 4 (EML4), is a novel driver oncogene
+in about 5% of non-small cell lung cancer (NSCLC). ALK 2p23 fusion (ALK+)
+can be diagnosed by dual color break-part ALK FISH assay to inform
+personalized targeted therapy using the ALK inhibitor crizotinib.
+However, the underlying mechanisms of ALK oncogenic signaling and more
+importantly ALK inhibitor crizotinib resistance are not well
+understood.Materials and Methods: To understand the mechanism of
+oncogenic ALK signaling, an ALK+ NSCLC microarray dataset was retrieved
+from NCBI-GEO data repository (GSE31210) and analyzed using data-mining
+bioinformatics approaches. This dataset includes the gene expression
+profiles of 11 ALK+ NSCLC and 20 normal lung tissue samples. Statistical
+analysis was carried out to identify altered genes in ALK+ NSCLC and
+Ingenuity Pathway Analysis (IPA) software was deployed to uncover their
+network interactions. To study the resistance mechanism of the ALK+ H3122
+human NSCLC cell line against the specific ALK inhibitor TAE684,
+real-time polymerase chain reaction (qRT-PCR), cell viability assay and
+immunoblotting were performed using standard techniques.Results: We
+identified a set of 1,656 genes that were significantly altered in ALK+
+NSCLC, consisting of 662 upregulated and 994 downregulated. The principal
+component analysis (PCA) based on the top 51 of these dysregulated genes
+evidently separated ALK+ and normal lung tissue samples, implicating that
+these genes could represent potential genomic signature of ALK+ NSCLC.
+The IPA analysis revealed 35 canonical pathways linked to ALK signaling,
+including beta-adrenergic and angiopoietin signaling pathways. The
+results of qRT-PCR, cell viability assay and immunoblotting showed that
+in translocated ALK+ H3122 human NSCLC cell line, HGF (hepatocyte growth
+factor) overexpression could activate ALK downstream signaling via
+activation of MET receptor kinase pathway, thus potentially bypassing the
+oncogenic ALK signaling under ALK inhibitor TAE684 treatment. Hence,
+alternative direct activation of ALK downstream signaling molecules via
+MET/HGF axis activation may potentially contribute to ALK inhibitor drug
+resistance.Conclusion: Using bioinformatics data-mining, we have
+identified dysregulated genes and pathways in ALK+ NSCLC, many of which
+are novel biomarkers not previously reported. We also verified the
+relevance and potential key role of MET/HGF signaling axis in ALK
+inhibitor resistance. Taken together, our results highlighted the
+cross-talk between ALK and MET signaling in NSCLC and shed new insights
+into possible pitfalls of potential specific ALK targeting inhibitor
+drugs.
+

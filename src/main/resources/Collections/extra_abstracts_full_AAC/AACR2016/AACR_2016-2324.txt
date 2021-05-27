@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: FRA1 contributes to ERK-mediated increased PD-L1 expression in
+KRAS mutated premalignant human bronchial epithelial cells
+
+
+BACKGROUND: Activating KRAS mutations are common driver mutations in
+non-small cell lung carcinoma. Patients with mutated KRAS demonstrate
+less benefit from adjuvant chemotherapy and resistance to tyrosine kinase
+inhibitors. KRAS mutations are known to activate the RAF-MEK-ERK pathway.
+Fos-related antigen-1 (FRA1) is a MEK/ERK-dependent transcription factor
+and member of the AP-1 transcription factor superfamily. Immune
+checkpoint pathways including the PD-1/PD-L1 pathway are involved in
+immune-mediated tumor evasion. We hypothesize that KRAS mutation directly
+regulates the PD-1/PD-L1 pathway through ERK activation and FRA1 may be
+an important transcriptional mediator.METHODS: In order to assess the
+role of KRAS mutation independent of other somatic mutations and to begin
+to understand potential immune suppressive pathways operative in
+pulmonary premalignancy, premalignant human bronchial epithelial cell
+lines (HBEC) were used instead of human lung cancer cell lines. Four
+immortalized HBEC (2, 3, 7, and 11 cell lines) with KRAS v12-mutation
+(HBEC-KRAS) compared to control (HBEC-vector) were used to assess mRNA
+and protein expression levels of PD-L1 by RT-qPCR, flow cytometry, and
+western blot. Cell-lines were treated with MEK (ERK kinase) inhibitor
+(PD0325901) for 24 hours (h) up to 1M. FRA1 was silenced by transfection
+with siRNA at 100nM.RESULTS: In comparing HBEC-KRAS to HBEC-vector
+(wild-type) cells, PD-L1 mRNA (1.33.4 fold) and surface protein
+expressions (1.22.3 fold by flow cytometry) were increased in all 4 cell
+lines and confirmed by western blot analyses. PD-L1 mRNA and protein
+levels were highest in HBEC3-KRAS. MEK inhibition resulted in decreased
+PD-L1 expression by 10 fold (HBEC3-vector) and 11 fold (HBEC3-KRAS) in
+mRNA levels and 3 fold (HBEC3-vector and HBEC3-KRAS) in surface protein
+levels. In comparing HBEC3-KRAS to HBEC3-vector, FRA1 increased mRNA (2.7
+fold) and protein level expression (2.8 fold). In comparing HBEC3-KRAS to
+HBEC3-vector cells, FRA1 silencing (FRA1 siRNA) resulted in reduced PD-L1
+(53% at 48 h; 73% at 72 h) and FRA1 (94% at 48 h; 99% at 72 h) by western
+blot. In comparing HBEC3-KRAS to HBEC3-vector cells, ERK phosphorylation
+increased 7.9 fold and FRA1 silencing led to inhibition of ERK
+phosphorylation by 2.8 fold at 72 h by western blot.CONCLUSIONS: Here, we
+demonstrate that PD-L1 expression is elevated in premalignant KRAS
+mutated human bronchial epithelial cells, and ERK activation mediates
+KRAS mutation driven up regulation of PD-L1 and at least in part through
+FRA1 dependence. Our data suggest that KRAS mutation may directly
+regulate the PD-1/PD-L1 immune checkpoint pathway through FRA1 and
+MEK/ERK-dependent transcriptional regulation. Further understanding of
+KRAS driven molecular pathways that modulate immune checkpoints may
+elucidate therapeutic targets for potential new combination immune
+therapies.
+

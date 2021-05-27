@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Development and application of an immunohistochemistry-based assay
+for evaluating functional and accessible folate receptor expression in
+vivo.
+
+
+With the development of molecularly-targeted therapeutics, it is critical
+to have a reliable method for predicting response to therapy of patients
+with target-expressing diseases. Folate receptor (FR) is overexpressed in
+a number of disease states while it is low in most healthy individuals
+with the exception of the kidney. FR-targeted small molecule drug
+conjugates (SMDCs) are currently under development and have shown
+promising pre-clinical and clinical results. Two premises that a patient
+would respond to the folate-drug conjugates are: 1). FR protein expressed
+in diseased tissues is functionally competent for folate binding and 2).
+functional FR is accessible to intravenously-infused SMDCs. Although
+anti-FR antibody-based immunohistochemical (IHC) assays are being
+developed as companion diagnostic strategies for antibody-drug conjugate
+(ADC) therapies, it fails to address the functionality and accessibility
+of FR in an in vivo context.
+
+To circumvent these limitations, we have developed an FR-targeted,
+crosslinkable small molecule reporter conjugate (SMRC), FRRC, which
+contains three modules: 1. a high-affinity folate ligand that binds with
+FR on diseased cells; 2. a small hapten, FITC, which can be detected by
+anti-FITC antibodies; and 3. an amino acid spacer in between these two
+modules that can crosslink FRRC to FR in-situ during formalin fixation.
+After intravenous (i.v.) injection, FRRC would dock to the accessible and
+functional receptors in vivo. By processing biopsied tissues and
+performing anti-FITC IHC staining, we can evaluate the cellular
+localization and relative abundance of functional FR in heterogeneous
+tissues.
+
+To evaluate our design, we synthesized a compound we refer to as FRRC and
+examined its properties both in vitro and in vivo. By testing FRRC in
+cell lines, we found that it can bind to FR and is detected in
+formalin-fixed cells by anti-FITC immunostaining. To validate this assay
+in vivo, FRRC was injected via the tail vein into mice bearing
+FR-positive KB tumor xenografts and its specific accumulation and
+kinetics in tumor and other tissues were evaluated by performing
+anti-FITC IHC staining on formalin-fixed paraffin embedded tissues. Our
+results were shown to be in agreement with previous folate-based
+functional FR imaging and bio-distribution studies. In contrast, EC17,
+which lacks the crosslinkable spacer module, showed significantly reduced
+binding in in vitro and in vivo assays. Owing to its modular design,
+additional SMRCs with different ligands and small haptens (rhodamine,
+DNP) have also been designed to assess the functional binding of other
+receptor and membrane-expressed proteins.
+
+In conclusion, our assay is an effective tool for evaluating functional
+and accessible receptor expression in vitro and in vivo, and has the
+potential to be useful in patient or disease selection for our SMDC
+therapeutics.
+
+

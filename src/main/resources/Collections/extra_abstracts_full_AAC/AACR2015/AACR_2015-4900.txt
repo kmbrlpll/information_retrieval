@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A highly multiplexed control material to satisfy the complex needs
+of targeted next generation sequencing (NGS) oncology assays
+
+
+Introduction: Application of targeted NGS assays to comprehensively
+screen cancer genes has highlighted the need for a well-characterized
+control to ensure consistency in variant calls. CLIA and CAP guidelines
+mandate that labs utilize positive run controls which are currently
+limited to known patient samples or cell lines containing 10's of
+mutations. These materials do not cover the breadth of potential
+mutations that could be observed in current highly mutliplexed NGS
+tests.Materials and Methods: AcroMetrix Oncology Hotspot Control is a DNA
+control containing more than 500 COSMIC (Catalogue of Somatic Mutations
+in Cancer) variants in 53 genes. Covering SNP and indels, the control is
+designed to function on many platforms and technologies. Formulated as a
+mixture of synthetic and genomic DNA, the control mimics the complexity
+of patient samples. Variants were confirmed by Sanger sequencing and
+quantified by digital PCR. To benchmark product performance, two lots of
+the contro were tested in 19 labs worldwide. Testing was performed using
+the Ion AmpliSeq Cancer Hotspot Panel v2 (CHPv2) on the Ion Torrent
+Personal Genome Machine as well as with the Illumina TruSeq Amplicon
+Cancer Panel (TruSeq) and TruSight Tumor Panel (TruSight) on the MiSeq
+instrument. Each lab utilized an established assay and their in house
+bioinformatics pipeline.Results: In internal tests, good concordance was
+observed between expected and detected SNP's with greater than 90% being
+detected on the CHPv2 (382/385), TruSeq Amplicon Cancer Panel (TSCAP)
+(319/351) and TruSight Tumor Panel (TSTP) (209/230). For deletions,
+detection varied from 66.7%(12/18) for CHPv2 and TruSight to 76%(16/21)
+for TruSeq tests. For insertions, detection was 70%(7/10) for TruSight
+and 54% each for CHPv2(6/11) and TruSeq (7/13). Labs varied in their
+ability to detect variants; while some labs, running the TSTP, detected
+over 87% (241/277) of total variants, others detected less than half of
+expected variants (122/277). Similar variations in detections rates were
+observed in TSCAP (38%-86%) and CHPv2 (40%-90%). Refining the
+bioinformatics in variant calling allowed one lab to improve their
+variant detection by 130% (157 variants detected prior and 410 variants
+after improvement).Conclusions: AcroMetrix Oncology Hotspot Control
+provides a wide variety of variants, including many that are difficult to
+source. This control will enable laboratories to monitor variation
+between assay lots and operators, and will facilitate result comparison
+across laboratories. The control also ensures that bioinformatics
+pipelines are performing acceptably over time and through updates to
+ensure reliable variant calling. The availability of controls that target
+clinically-relevant mutations will significantly improve NGS adoption
+rates and confidence in NGS results.AcroMetrix Oncology Hotspot Control
+is For In Vitro Diagnostic Use.
+

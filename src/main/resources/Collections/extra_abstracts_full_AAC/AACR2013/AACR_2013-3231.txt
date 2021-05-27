@@ -1,0 +1,40 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Comprehensive profiling of actionab.
+
+
+Comprehensive characterization of genetic profiles in clinically
+actionable genes in each tumor promises to facilitate personalized
+approaches to cancer treatment. However, development of systematic
+genetic profiling of cancers in the clinical setting is facing unique
+technical challenges. More than 90% of tumor samples available for
+clinical sequencing are formalin-fixed and paraffin-embedded (FFPE).
+These samples are not only limited by quantities, the DNA quality in
+these samples is often compromised due to different degree of
+degradation, cross-links and chemical modifications. Targeted sequencing,
+in which genomic regions of interests are selectively enriched before
+sequencing to achieve high coverage and sensitivity, can potentially
+provide a cost-effective and efficient solution for clinical sequencing.
+However, very few studies have been reported on the development of
+methodology that is applicable and robust in analyzing real-world
+clinical FFPE samples. Here we report the development of a novel
+methodology that integrates microfluidic multiplex PCR-based target
+enrichment with massively parallel sequencing for high-throughput,
+high-content targeted sequencing of clinically actionable cancer genes in
+FFPE tumor tissues. This method enables amplifying 963 regions from 88
+common cancer genes in 48 samples and simultaneously sequencing 48 pooled
+barcoded samples in a single sequencing reaction. Using this method, we
+sequenced 40 cancer cell lines and a well-defined Latin square study with
+dilution series of 8 known somatic mutations, to comprehensively assess
+the sensitivity, specificity, reproducibility in both target enrichment
+and variant detection. Furthermore, using paired fresh frozen/FFPE
+tissues obtained from 16 cancer patients, we developed and optimized a
+FFPE protocol that yields high-quality genetic profiles highly concordant
+to those derived from parallel fresh frozen samples. To demonstrate the
+clinical utility of this method, we sequenced a cohort of 73 FFPE tumor
+samples from endometrial cancer patients. Many clinically actionable
+mutations were identified in these patients samples and confirmed using
+orthogonal validations. Our results demonstrated the feasibility and
+clinical utility of our method in clinical sequencing, setting the stage
+for ultimately translating this method in clinical setting to inform and
+guide cancer treatment.
+

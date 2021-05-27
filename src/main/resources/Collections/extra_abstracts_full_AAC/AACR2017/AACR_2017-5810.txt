@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: microRNAs targeting EMT transcription factors may be associated to
+lymph node metastasis in breast cancer tumors.
+
+
+Breast cancer is the leading cause of cancer-associated deaths in women.
+Lymph node near to the primary breast tumor have a high chance of
+developing a secondary tumor, representing one of the first signs of
+metastasis in breast cancer. Metastasis is promoted by
+epithelial-mesenchymal transition (EMT), process leaded by the
+transcription factors SNAIL, SLUG, ZEB and TWIST. MicroRNAs are small
+non-coding RNAs, whose expression has been demonstrated to be altered in
+different cancer types. Because of their ability to regulate large sets
+of genes involved in cancer growth and metastasis, microRNAs have emerged
+as candidate molecular biomarkers and novel therapeutic targets. The aim
+of this study is to identify microRNAs differentially expressed in breast
+tumors in relation to EMT-transcription factor expression and lymph node
+metastasis, and that are involved in epithelial-mesenchymal transition.
+For this purpose, we used microRNA microarray data from 50 fresh frozen
+breast tumors with different tumor grades (1 to 3), 28 from patients with
+lymph node metastasis. Microarray data analysis using RankProd (R
+package) revealed approximately 40 microRNAS down-regulated in breast
+tumors with expression of EMT-transcription factors (pBreast cancer is
+the leading cause of cancer-associated deaths in women. Lymph node near
+to the primary breast tumor have a high chance of developing a secondary
+tumor, representing one of the first signs of metastasis in breast
+cancer. Metastasis is promoted by epithelial-mesenchymal transition
+(EMT), process leaded by the transcription factors SNAIL, SLUG, ZEB and
+TWIST. MicroRNAs are small non-coding RNAs, whose expression has been
+demonstrated to be altered in different cancer types. Because of their
+ability to regulate large sets of genes involved in cancer growth and
+metastasis, microRNAs have emerged as candidate molecular biomarkers and
+novel therapeutic targets. The aim of this study is to identify microRNAs
+differentially expressed in breast tumors in relation to
+EMT-transcription factor expression and lymph node metastasis, and that
+are involved in epithelial-mesenchymal transition. For this purpose, we
+used microRNA microarray data from 50 fresh frozen breast tumors with
+different tumor grades (1 to 3), 28 from patients with lymph node
+metastasis. Microarray data analysis using RankProd (R package) revealed
+approximately 40 microRNAS down-regulated in breast tumors with
+expression of EMT-transcription factors (p<0.05). Several of the
+identified microRNAs have been previously described to regulate early
+steps of metastasis in different cancer types, like members of the
+miR-200 family (miR-200c and miR-141), miR-205 and miR-30a. In addition
+we found other microRNAs not previously associated to metastasis. Our
+results suggest that down regulation of specific microRNAs, and up
+regulation of their targets, may induce a metastatic behavior of tumor
+cells of the primary breast tumors, promoting invasion and colonization
+of the lymph nodes. In this sense, the changes in the expression of
+microRNAs may serve as biomarkers of breast cancer prognosis in patients.
+
+

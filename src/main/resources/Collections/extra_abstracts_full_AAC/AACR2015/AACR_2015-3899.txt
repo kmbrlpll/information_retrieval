@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Integrating RNA/DNA analysis with a comprehensive cancer panel to
+improve interpretations of stage four metastatic renal cell carcinoma
+
+
+Next-generation sequencing is now commonly applied to measure genomic
+modifications, providing the opportunity for a more accurate view of
+cancer progression. That being said, several challenges including tumor
+purity, heterogeneity and the broad set of cancer associated cellular
+functions, increase the difficulty of interpreting cancer genomes and
+make analyzing them distinct from analysis of germline diseases. The
+ability to detect low allelic mutations in the broad set of
+cancer-associated genes is critically important. To address these issues,
+we developed an extended cancer panel, a targeted enrichment sequencing
+platform that includes over 1,300 cancer genes and 200 miRNAs that
+improves coverage in traditionally difficult to sequence NGS regions. In
+this study, we apply an integrated RNA/DNA analysis approach as well as
+our extended cancer panel to explore mutations in metastatic renal cell
+carcinoma (RCC) tissue samples before and after treatment.Our goal with
+this study was to test the importance of integrating DNA and RNA
+analysis, which allows for detection of mutational events that cannot be
+observed by either method alone. With RNA analysis it is possible to
+detect gene fusion events, expression of small variants (SNVs/indels),
+and gene expression levels while DNA analysis allows for detection of
+loss of heterozygosity (LOH), copy number variants (CNVs), and small
+variants. By integrating both the RNA and DNA analysis, it is possible to
+identify unique variant classes, such as unexpressed variants, allele
+specific expression (ASE), effects of CNVs on gene expression levels, and
+how fusion gene integration sites affect CNVs. In our study, each variant
+class was interpreted pre- and post-treatment, allowing for optimal
+analysis of treatment effectiveness.By applying both our RNA/DNA
+integration approach and our extended cancer panel to investigate
+metastatic RCC samples, we were able to classify many genomic alterations
+that drive cancer progression. For example, we found that anywhere from
+5% to 30% of small variant mutations in driver genes called in the DNA
+reside in genes that are unexpressed in the RNA. Likewise, we noted
+multiple cases of ASE, where high profile variants observed in DNA were
+entirely absent in the RNA despite high expression levels. Strong
+correlations between CNVs observed in DNA and gene expression changes
+found in RNA were also detected. We also observed that about half of the
+RCC samples we tested were biallelic for VHL mutations, suggesting
+inherited predisposition combined with second hit somatic mutations,
+facilitating cancer progression.This analysis demonstrates how combining
+an integrated RNA/DNA approach with a cancer focused augmented enrichment
+panel allows for detection of both low allelic representation variants
+and unique variant classes, both of which are critical for accurate
+interpretation of cancer samples.
+

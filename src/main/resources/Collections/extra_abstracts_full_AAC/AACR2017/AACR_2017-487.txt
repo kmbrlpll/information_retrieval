@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A comprehensive target enrichment panel for fusion detection.
+
+
+Growing interest in cancer classification and progression has accelerated
+the rate of novel gene fusions discovery with increasing recognition of
+their roles as biomarkers. RNA-Seq is an attractive method for expressed
+fusion discovery and detection because of its ability to provide unbiased
+fusion sequencing information. The ability to detect low expressing
+fusion transcripts, however, require high sequencing depth and represents
+a significant financial barrier and identification of clinically relevant
+fusion sequences from a large data set can be a bioinformatics challenge.
+
+To address these challenges we have tested the Ovation® Fusion Panel
+Target Enrichment System V2, a targeted RNA sequencing method using the
+Single Primer Enrichment Technology (SPET), with a number of control and
+clinical samples. Initial studies were performed using a comprehensive
+target enrichment panel targeting 502 genes with three samples from
+Horizon DX containing known fusions. Target enriched libraries were
+constructed with 10 ng and 100 ng inputs and the data was analyzed using
+the NuFuseD pipeline (available as a point and click BaseSpace
+application or downloadable linux package) which has been optimized for
+fusion analysis from this data. Expected fusions were identified at both
+input levels, even when down sampled to 500K reads, with fewer fusion
+calls compared to other publically available fusion detection software
+(Chimerascan and SOAPFuse), suggesting a lower false positive rate.
+NuFuseD fusion calls are provided with a P-value to help prioritize the
+identified fusions for subsequent validation. Additionally, NuFuseD
+detected novel fusions in the control samples demonstrating the advantage
+of a comprehensive panel compared to more restricted panels. We further
+validated the target panel using control RNA (UHR and Human Brain) and
+fresh or FFPE cell lines (NCI-H2228, HCC1937) to further demonstrate our
+ability to identify known fusions.
+
+Finally, the system was evaluated at an external site using patient FFPE
+samples. These samples (N=8) were from a set of breast, liver and ovarian
+cancers, containing a unique fusion in 4 of the samples based on DNA
+based sequencing. Only 1 of the 4 expected fusions were identified using
+whole transcriptome data (100 million reads) while 3 of the 4 fusions
+were detected with this assay (10 million reads) demonstrating its
+ability to generate targeted RNA sequencing libraries with increased
+sensitivity of gene fusion detection and reduced sequencing costs
+compared to standard RNA-Seq methods.
+
+

@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A cross comparison of technologies for the detection of immune
+system related gene expression signatures in clinical FFPE samples of
+metastatic prostate cancer patients.
+
+
+The success of immunotherapy for the treatment of metastatic cancers
+relies on the prediction and identification of potential neo-antigens. In
+recent years expression levels of these neo-antigens along with other
+immune system related genes have been evaluated in an effort to better
+understand response rates for immunotherapy in various cancers. Gene
+expression levels can be assessed by numerous techniques including
+hybridization-based or direct sequencing technologies. Two platforms-HTG
+Molecular and NanoString nCounter have been utilized to profile changes
+in gene expression and offer unique advantages for analyzing challenging
+specimens such as formalin-fixed paraffin embedded (FFPE) tissues. The
+NanoString nCounter platform utilizes hybridized fluorescent probes
+targeted against genes of interest for a non-amplified measurement of
+gene expression. Several studies have been shown that the NanoString
+platform has good sensitivity, specificity, and reproducibility for the
+assessment of gene expression levels from FFPE samples. The HTG platform
+is relatively new and also uses a hybridization based method to enrich
+genes of interest without first isolating RNA. To determine the
+robustness of the HTG platform, we profiled a set of 30 metastatic
+prostate cancer samples using the HTG Molecular EdgeSeq Immuno-Oncology
+Assay. In these experiments, we found that expression data obtained by
+using both extracted RNA and lysate from FFPE slides was highly
+reproducible (Spearman coefficient > 0.85). In addition, the expression
+profile of targeted genes obtained by using different slides from the
+same blocks was also highly correlated (Spearman coefficient > 0.90). Our
+experiments also showed a high correlation between gene expressions
+profiles obtained by HTG, the NanoString PanCancer Immune Profiling panel
+and RNA-Seq from the same set of 30 metastatic prostate cancer samples.
+Further analysis to evaluate and compare the sensitivity of different
+platforms is being performed and results of these will be presented.
+
+

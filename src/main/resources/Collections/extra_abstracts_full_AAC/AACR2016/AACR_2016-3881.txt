@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Breast cancer proteogenomics landscape defines subtype specific
+protein level regulations and reveals proteins coded by pseudogenic loci
+
+
+The advancement of mass spectrometry (MS) based proteomics has been
+tremendous in recent years and is expected to continue due to the rapid
+developments in instrument technology and bioinformatic analysis. These
+methods have enabled us to discover predictive protein markers for
+anti-estrogen treatment of estrogen receptor positive breast cancer 1, 2.
+Recently proteogenomics has emerged as an exciting area, combining
+proteomics with genomics and transcriptomics. We have published a
+proteogenomics workflow which can be used to discover new protein coding
+loci via an unbiased 6 reading frame translation (6-FT) search even in
+well-annotated higher eukaryotes such as human and mouse3. Herein we
+present a quantitative proteomics and proteogenomics analysis, using our
+high resolution isoelectric focusing (HiRIEF) aided proteogenomics
+method3,4, on breast tumors obtained from five breast cancer subtypes.
+Protein products from 12645 genes are identified and roughly 10000
+proteins are quantified across the entire cohort of 45 breast cancer
+tissues. The resulting quantitative proteome landscape recapitulates the
+PAM50 subtypes. The breast cancer proteome defines clusters indicative of
+stroma, immune response, basal, adipocyte, proliferation, and steroid
+response related components. Additionally, a proteogenomics search of the
+6-FT of the entire human genome reveals novel pseudogenic protein coding
+regions (n = 150) as well as peptides derived from lncRNA (n = 79).
+Finally, customized databases including variant peptides derived from
+SNPs, mutations, and splice junction peptides are used to analyze protein
+level events related to variants. This proteogenomics analysis for both
+new open reading frames and sequence variants reveals novel proteins
+expressed in a tumor specific manner in several studied individuals, with
+some being related to known sub-types. Taken together, this study reveals
+the proteome profiles are related to transcriptomics, copy number, and
+metabolic activity in specific tumors, proving our proteogenomics
+workflow provides novel information on the breast cancer molecular
+landscape.1. Johansson, H.J. et al. Proteomics profiling identify CAPS as
+a potential predictive marker of tamoxifen resistance in estrogen
+receptor positive breast cancer. Clinical proteomics 12, 8 (2015).2.
+Johansson, H.J. et al. Retinoic acid receptor alpha is associated with
+tamoxifen resistance in breast cancer. Nat Commun 4, 2175 (2013).3.
+Branca, R.M. et al. HiRIEF LC-MS enables deep proteome coverage and
+unbiased proteogenomics. Nature methods 11, 59-62 (2014).4. Boekel J,
+et.al. Multi-omic data analysis using Galaxy. Nature Biotechnol. 2015 Feb
+6;33(2):137-9.
+

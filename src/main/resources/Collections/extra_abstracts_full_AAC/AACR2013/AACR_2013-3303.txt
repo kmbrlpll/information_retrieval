@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Selective eradication of cancer cells by adenovirus-based delivery
+of cytotoxic agents: an alternative method for targeting pancreatic
+cancer.
+
+
+Background: Most cases of pancreatic cancer (PC) are diagnosed at the
+metastatic stage and current therapies are inefficient. K-Ras mutations
+are present in 95% of the cases. Ras is a difficult target to inhibit
+thus, we propose an alternative strategy which does not inhibit the Ras
+pathway but exploits it. We have previously shown that recombinant
+adenovirus, which carries the pro-apoptotic PUMA gene under the control
+of Ets and AP1/Ras- responsive elements (RREs; Py2-SV40-PUMA), suppressed
+the growth of cancer cells expressing mutated Ras. We have constructed
+additional vectors; Py4-; Py5-SV40-PUMA containing several RREs repeats,
+which were proven effective in selectively targeting Ras-mutated tumor
+cells (Naumov et al., 2012; Lisiansky et al., 2012). In this study, we
+utilized a MazE-MazF (MazEF) unique toxin-antitoxin (TA) system encoded
+from the E. coli genome. Under silent conditions the antitoxin (antidote)
+inhibits the toxin and the toxin-antidote complex acts as a repressor for
+the TA operon, whereas in activation conditions, proteolytic degradation
+of the antidote outpaces its synthesis.Aim: Improve the therapeutic
+efficacy and specificity of the adenoviral vectors by substituting the
+lethal gene with more toxic agents that are highly regulated.Methods: To
+achieve efficient DNA delivery into mammalian cells; the ribonuclease
+MazF-mCherry fusion gene, truncated derivative of Pseudomonas exotoxin
+(PE38), the full regulated cassette encoding for the MazEF TA system, and
+the corresponding control vectors were cloned into a first generation
+E1/E3 human type-5 adenoviral-vector under the control of RRE or SV40
+minimal promoter. Virus particles were propagated in HEK293
+toxin-resistant packaging cells. Tumor cells harboring wild type (WT) and
+mutated K-Ras were used to test inhibition of cell proliferation,
+viability, and toxin-expression upon treatment. Apoptosis was detected by
+FACS using the RedDot 2 and Annexin V stains, measuring the fraction of
+dead cells.Results: Two modified helper cell lines and efficient vectors
+for targeted gene delivery were established. Virus particles were
+produced and their potency was tested. Specific massive cell death (>50%)
+at low MOIs was induced in cells exhibiting activated K-Ras upon
+treatment, compared to WT-K-Ras cells. Induction of cell death was
+measured qualitatively by fluorescent microscopy and quantified by the
+MTT assay. Viral infection induced a marked inhibition of cell growth and
+induction of apoptosis in cells expressing high levels of Ras activity
+whereas WT-K-Ras cells remained unaffected.Conclusions: These novel
+adenoviral vectors carrying either, PE38, MazF or MazEF genes targeting
+the K-Ras pathway can serve to selectively and efficiently kill PC cells
+harboring K-Ras mutations while sparing normal cells with WT Ras, thereby
+improving the outcome of this devastating disease.
+

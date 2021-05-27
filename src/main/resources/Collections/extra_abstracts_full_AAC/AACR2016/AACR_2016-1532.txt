@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The isolation of CTC from diagnostic leukapheresis
+
+
+IntroductionAt present, the CellSearch system is the only validated
+method for the detection of circulating tumor cells (CTC) that has been
+cleared by the U.S. Food and Drug Administration. This system, designed
+for the enumeration of CTC in 7.5 mL of blood, detects CTC based on their
+expression of EpCAM and cytokeratins and negativity for CD45. However,
+the number of CTC that are detected in patients with metastatic
+carcinomas is in most cases too small to reliably determine tumor
+heterogeneity and to be representative as a liquid biopsy. Our aim is to
+identify and isolate a sufficient number of circulating tumor cells in
+virtually all metastatic cancer patients to enable their characterization
+and to represent a real-time liquid biopsy. For this purpose we used
+Diagnostic LeukApheresis (DLA) to increase the blood volume to be
+analyzed. We developed several techniques to isolate CTC from DLA to
+enable a multicenter comparison of CTC detection in DLA
+products.MethodsDLAs were performed for 1 hour to obtain 40 mL of product
+containing 4 x109 mononuclear cells representing 1 liter of blood. Using
+CellSearch a maximum of 2 mL of DLA could be processed for EpCAM+ CTC
+(Fisher et al. doi: 10.1073/pnas.1313594110) and EpCAM- CTC (de Wit et al
+doi: 10.1038/srep12270). Using filtration through microsieves with 5 m
+pores a maximum of 1.0 mL of DLA could be processed. To process 18 mL DLA
+product protocols were developed for leukocyte depletion using RosetteSep
+(StemCell Technologies, USA) and for EpCAM selection using an anti-EpCAM
+coated column (Leukocare AG). All enriched cell fractions were stained
+using CD45 PerCP, Cytokeratins PE and the nuclear dye DAPI, followed by
+fluorescence microscopy scanning and analysis.ResultsLeukocyte depletion
+using the RosetteSep CTC Enrichment cocktail was first optimized using
+small sample volumes (1 mL) spiked with cells from cancer cell lines.
+Depletion of leukocytes ranged from 3.1 to 3.9 logs with an average
+recovery of spiked cancer cells of 50-60%. Isolation of CTC expressing
+EpCAM was pursued using anti-EpCAM coated columns and optimized for
+selection and release of EpCAM expressing cells by passage of cells from
+cancer cell lines through the column resulting in 34-100% recovery. Both
+procedures were scaled up to enable processing of 18 mL of DLA.
+Leukocytes were depleted using RosetteSepTM by 3.1 - 3.9 logs whereas
+with anti-EpCAM columns only 1.7 - 1.8 logs depletion were reached. Using
+RosetteSepTM 21% and with the anti-EpCAM coated columns 2% of the tumor
+cells spiked into 18ml DLA were recovered.ConclusionStandard operating
+procedures were developed to isolate CTC in DLA's from breast, prostate
+cancer and lung cancer patients for evaluation and comparison in the EU
+sponsored consortiums CTCTrap (www.utwente.nl/tnw/ctctrap/) and CANCER-ID
+(www.CANCER-ID.eu). Isolation of EpCAM expressing CTC using the
+anti-EpCAM coated columns will need further optimization before it can
+proceed to multicenter comparison.
+

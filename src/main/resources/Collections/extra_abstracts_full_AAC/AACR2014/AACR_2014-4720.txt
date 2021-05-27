@@ -1,0 +1,42 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Evaluation of a genomic classifier (Decipher) in subsets of
+primary tumors with common prostate cancer genomic alterations
+
+
+BackgroundETS gene fusions and PTEN loss are the most common genomic
+alteration events in prostate cancer that stratify patients into
+molecularly distinct subtypes. Recently, a commercially available genomic
+classifier (GC, DecipherTM) has been validated to predict metastasis in
+patients with high-risk prostate cancer. In this study we evaluated the
+robustness of the GC model in the light of prostate cancer molecular
+heterogeneity.Methods:Analysis of PTEN expression loss, ERG
+overexpression and GC scores were performed on a previously reported
+genome-wide microarray dataset (Karnes et al., 2013). Microarray
+probesets mapping to exons of PTEN were benchmarked to identify a
+representative exon whose loss of expression was highly correlated to
+FISH analysis for PTEN deletion (PTEN-loss) performed on an independent
+dataset. ERG overexpression (ERG+) was determined similarly and the
+microarray probesets that best correlate with the FISH status (in
+independent dataset) were used to annotate the ERG status of the samples
+in this study. Receiver operating characteristic area under the curve
+(AUC), and multivariable regression analysis were used to assess GC
+performance for predicting metastasis in subsets of patient tumors with
+genomic alterations.ResultsUsing the microarray method 42% of the tumors
+had ERG overexpression, 23% had PTEN-loss and 11% had both events. ERG+
+and PTEN-loss were not on their own predictive of metastasis with AUCs of
+0.52 (CI:0.44-0.6) and 0.47(CI 0.39-0.56), respectively. In ERG+ tumors
+GC had an AUC of 0.82 (p=4e-7) and high GC score ERG+ patients had a
+hazard ratio (HR) of 100 (p=6e-7) for metastasis. Similarly, in PTEN-loss
+tumors GC had an AUC of 0.83 (p=7.9e-5) and high GC score PTEN-loss
+patients had an HR of 62 (p=1.8e-4) for metastasis. When GC was evaluated
+in patient tumors with both ERG+ and PTEN-loss the AUC was 0.85 (p=2e-15)
+and high GC score patients had an HR of 95 (p=4e-4) for metastasis. In
+multivariable analysis, Decipher was the only significant risk factor
+with an HR of 55 (CI 12.2-249, p=1.8e-7) for metastasis after adjusting
+for ERG+, PTEN-loss, Gleason score, PSA, tumor stage, margins and
+adjuvant treatment.ConclusionThe Decipher genomic classifier is a
+powerful prognostic marker that retains its significance for predicting
+metastasis in subsets of patients with tumors that harbor common genomic
+alterations. Patients with high GC scores and these alterations may
+represent an extremely high-risk subset of prostate cancer.
+

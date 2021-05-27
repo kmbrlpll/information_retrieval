@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Cross-disciplinary methods for personalizing screening modalities
+for early gastric cancer intervention
+
+
+Background.Up to 80% of patients in the early stages of gastric cancer
+are asymptomatic, making early diagnosis and hence effective treatment
+challenging. The poor prognosis of patients with late diagnoses clearly
+necessitates the identification of markers for early detection and the
+development of streamlined screening protocols. This is particularly
+crucial in high-risk populations, for example regions in which
+Helicobacter Pylori infection and associated chronic inflammation,
+responsible for over 70% of gastric cancers worldwide, is prevalent. At
+present, an efficient and personalized program for early detection does
+not exist.Methods.Specific biomarkers for the progression of gastric
+cancer have been identified in preliminary studies, including CD44, Lgr5
+and CD133. In retrospective tissue samples incremental increases in
+expression of these markers was observed during the progression from
+normal gastric tissue to precancerous histologic lesions such as
+intestinal metaplasia and ultimately dysplasia and carcinoma. We
+developed a mechanistic mathematical model capable of simulating these
+marker-positive population dynamics, calibrated using the existing
+clinical data. The predictive capability of the model is validated by
+comparison of simulated to actual marker expression patterns in an
+independent test cohort of endoscopic gastric biopsies taken at
+sequential points during individual patients disease
+progression.Results.Based on clinically obtainable, patient-specific
+tissue conditions, the computational model can simulate the dynamics of
+marker-positive cells and, when calibrated and validated with clinical
+data from specific patient populations, may forecast disease progression
+and suggest optimal screening schedules for individual
+patients.Conclusions.The tools of mathematical oncology have the
+potential to directly inform clinical screening protocols. Verified
+prognostic factors for disease progression can be incorporated into
+mathematical models to improve diagnostic accuracy and allow
+clinically-actionable screening optimization. This can guide personalized
+screening schedules according to current marker expression on a
+case-by-case basis to achieve more efficient prognosis and reduced
+healthcare costs.
+

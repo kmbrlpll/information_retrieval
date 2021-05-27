@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Sub-classification of prostate cancer circulating tumor cells
+(CTCs) by nuclear size reveals very-small nuclear CTCs in patients with
+visceral metastases
+
+
+BackgroundCirculating tumor cells (CTCs) are an emerging biomarker in
+prostate cancer (PC). Most efforts have focused on enumeration, we and
+others have identified subsets within this pool of cells which may be
+clinically informative. Using the highly sensitive NanoVelcro technology
+for CTC isolation and fluorescence microscopy, our group sub-classified
+CTCs by nuclear size and focused on the correlation with sites of
+metastatic disease in advanced PC patients.MethodsBlood samples were
+obtained from PC patients across the spectrum of metastatic states, i.e.
+no metastasis, non-visceral (osseous/lymph node) metastasis, and visceral
+metastasis. The patients were divided into training and validation
+cohorts. CTCs were captured from the blood and enumerated on NanoVelcro
+Chips. These were then subjected to pathologic review for cellular
+morphology and nuclear size. The distribution of nuclear sizes was
+analyzed using a Gaussian Mixture Model to sub-classify the CTCs.
+Correlations were made between CTC subpopulations and metastatic status.
+Individual CTCs were isolated by laser-capture microdissection for
+subsequent characterization focusing on cellular markers and
+transcriptomic signatures in comparison between vsnCTC and other CTC
+subpopulations.ResultsStatistical analysis and modeling of nuclear size
+distribution revealed 3 distinct subpopulations in the training cohort:
+large-nuclear CTCs (lnCTC), small-nuclear CTCs (snCTC), and
+very-small-nuclear CTCs (vsnCTCs). While the lnCTC subpopulation alone
+failed to distinguish metastatic disease from non-metastatic disease,
+snCTC + vsnCTC counts could make that distinction. Furthermore, vsnCTC
+counts were elevated in PC patients with visceral metastases when
+compared to those without visceral metastases (0.5 0.5 versus 3.1 5.2
+cells/mL of blood, p = 0.005). This difference remained statistically
+significant in the validation cohort (0.6 1.0 versus 3.5 4.0 cells/mL of
+blood, p = 0.007). Serial enumerations for individual patients showed the
+emergence of vsnCTCs prior to detection of newly developed visceral
+lesions. The recurrence of vsnCTC in patients under treatment is also
+associated with radiographic progression of existing visceral lesions
+through therapy. Molecular characterization of vsnCTCs reveals
+differential expression of genes related to neuroendocrine, stem cell,
+and androgen biology.ConclusionsSubsets of CTCs contain information on PC
+disease status when analyzed with pathologic approaches, such as nuclear
+size measurement. In particular, the detection of vsnCTCs correlated with
+the presence of visceral metastatic lesions and should be explored as a
+potential biomarker to identify patients at risk for developing this more
+aggressive form of PC.
+

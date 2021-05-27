@@ -1,0 +1,39 @@
+Meeting: 2015 AACR Annual Meeting
+Title: LncRNA BC200 is induced by estradiol and regulates apoptosis in
+MCF-7 breast cancer cells
+
+
+LncRNA BC200 is a small functional RNA which has been implicated in the
+regulation of protein synthesis in neurons. It is dysregulated in
+invasive carcinomas of the breast. In this study, we reported that BC200
+is upregulated in breast cancer, as detected by RT-PCR analysis of breast
+cancer tissue scan, suggesting its possible role as an oncogene. We then
+demonstrated that BC200 is transcriptionally induced by estradiol (E2)
+treatment in ER positive breast cancer cell lines through multiple
+functional estrogen response elements (EREs), including the full ERE
+sequence 800bp from transcriptional start site. Luciferase reporter assay
+combined with mutation analysis indicated that the full ERE region is
+critical to the estradiol-induced promoter activity. Furthermore, BC200
+is crucial for cell growth and viability; its knockdown induces apoptosis
+in MCF-7 cells. This may explain in part why estrogen can promote cell
+proliferation in ER positive breast cancer cells. To better study its
+role in breast cancer development and progression, we generated BC200
+knockout MCF-7 cell cells using CRISPR/Cas9 technique. BC200 knockout
+leads to the release of cytochrome c from mitochondria and promotes the
+cleavage of PARP-1, both of which are an indicator of cell apoptosis.
+This was further confirmed by TUNEL assay. It has been reported that
+hnRNP A2/B1 alters the bcl-X pre-mRNA splicing in favor of anti-apoptotic
+bcl-XL. Of great interest, BC200 knockout enhances expression of
+pro-apoptotic bcl-XS form at both mRNA and protein level. RNA pulldown
+assays using biotin-labeled BC200 probe suggested that BC200 can bind to
+hnRNP Q and hnRNP A2/B1. On the other hand, RNA immunoprecipitation using
+hnRNP A2/B1 antibody in BC200 knockout MCF-7 cells showed a significant
+reduction in enrichment of bcl-X mRNA as compared to control cells. We
+propose that the regulation of bcl-X alternative splicing depends upon
+endogenous expression of BC200 that would help hnRNP A2/B1 to position
+itself on bcl-X mRNA and modulate splicing in favor of bcl-XL. Thus, loss
+of BC200 leads to generation of bcl-XS protein synthesis and to
+apoptosis. Together, these results suggest that BC200 functions as a
+negative regulator of apoptosis in breast cancer and thus, it may serve
+as a potential target for cancer therapies.
+

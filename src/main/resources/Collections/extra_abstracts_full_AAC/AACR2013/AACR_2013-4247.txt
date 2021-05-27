@@ -1,0 +1,69 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of new hypermethylated candidate genes in
+colorectal cancer using reduced representation bisulfite next generation
+sequencing.
+
+
+Background: The identification and validation of genes that are
+frequently methylated in CRC will have potential value for both
+diagnostic and therapeutic implications. However, the DNA methylation
+patterns in CRC especially in African Americans have not been well
+investigated. Here we aimed to determine the methylation status of CpG
+islands of candidate genes in critical pathways important in the
+initiation and development of CRC.Materials and Methods: Genomic DNA from
+7 individuals (1 normal, 2 adenomas, and 4 adenocarcinomas) was used for
+global methylation analysis using Reduced Representation Bisulfite
+Sequencing (RRBS). Based on literature review, differential methylation
+ratio, gene ontology, WNT, Notch, EGFR, RAS-MPK, PI3K, TGF-b, and P53
+pathways analysis, RGS3, EID3, GNAS, ATXN7L1, GAS7, HNRNPF, GPR7, SOX15,
+and TNFAIP2 genes were selected for methylation validation . Established
+methylation status of NDRG4, BMP3, Septin 9, Vimentin, and B-Actin were
+used as validation controls. Forty-four paired colorectal tumors and
+normal adjacent colonic tissue samples were used for validation. Samples
+were first bisulfite converted and then amplified at specific loci using
+48.48 Access Array (Fluidigm). Amplicon pools were barcoded and
+adapterized prior to 150-bp paired-end sequencing on the Illumina MiSeq
+Reads were de-multiplexed using the Fluidigm indexes and mapped back to
+the reference genome (Hg18). A paired t-test was used for p-value and
+meth-diff estimation.Results: We validated the methylation status of 355
+CpG sites located in 16 gene promoter regions associated with CpG
+islands. Fifty-nine CpG sites located on CpG islands of ATXN7L1 (2), BMP3
+(7), EID3 (15), GAS7 (1), GPR75 (24), NDRG4 (2), Sept9 (6), and TNFAIP2
+(1), were significantly methylated in tumor vs. normal (pBackground: The
+identification and validation of genes that are frequently methylated in
+CRC will have potential value for both diagnostic and therapeutic
+implications. However, the DNA methylation patterns in CRC especially in
+African Americans have not been well investigated. Here we aimed to
+determine the methylation status of CpG islands of candidate genes in
+critical pathways important in the initiation and development of
+CRC.Materials and Methods: Genomic DNA from 7 individuals (1 normal, 2
+adenomas, and 4 adenocarcinomas) was used for global methylation analysis
+using Reduced Representation Bisulfite Sequencing (RRBS). Based on
+literature review, differential methylation ratio, gene ontology, WNT,
+Notch, EGFR, RAS-MPK, PI3K, TGF-b, and P53 pathways analysis, RGS3, EID3,
+GNAS, ATXN7L1, GAS7, HNRNPF, GPR7, SOX15, and TNFAIP2 genes were selected
+for methylation validation . Established methylation status of NDRG4,
+BMP3, Septin 9, Vimentin, and B-Actin were used as validation controls.
+Forty-four paired colorectal tumors and normal adjacent colonic tissue
+samples were used for validation. Samples were first bisulfite converted
+and then amplified at specific loci using 48.48 Access Array (Fluidigm).
+Amplicon pools were barcoded and adapterized prior to 150-bp paired-end
+sequencing on the Illumina MiSeq Reads were de-multiplexed using the
+Fluidigm indexes and mapped back to the reference genome (Hg18). A paired
+t-test was used for p-value and meth-diff estimation.Results: We
+validated the methylation status of 355 CpG sites located in 16 gene
+promoter regions associated with CpG islands. Fifty-nine CpG sites
+located on CpG islands of ATXN7L1 (2), BMP3 (7), EID3 (15), GAS7 (1),
+GPR75 (24), NDRG4 (2), Sept9 (6), and TNFAIP2 (1), were significantly
+methylated in tumor vs. normal (p<0.05). Most of these genes showed
+significant hypermethylation in tumors compared to normal mucosa,
+According to gene ontology analysis, GAS7 methylation is associated with
+the cadherin signaling (WNT) pathway.Conclusion: Methylation profiling
+based on RRBS is an effective method for screening aberrantly methylated
+genes in CRC. We identified novel methylated genes that are potential
+biomarkers for CRC. In consistence with other reports, our study showed
+that GAS7 is also hypermethylated in African American CRC patients.
+Investigations into the possible roles of this gene as a potential
+biomarker in the context of early diagnosis and prognosis of CRC are
+underway.
+

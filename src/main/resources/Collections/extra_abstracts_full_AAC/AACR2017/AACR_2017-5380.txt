@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Inactivation of endogenous genes in cancer cells using targeted
+promoter DNA methylation via CRISPR-DNMT3a fusion protein.
+
+
+Background: Developing technologies for precise manipulation of
+individual DNA methylation loci is an attractive challenge in cancer and
+lung biology, because aberrant expression via hyper- or hypo-methylation
+is so common. Projects such as ENCODE and the Roadmap Epigenetics
+Project, have identified thousands of epigenetic marks from human genome.
+However, the functional evaluation of these marks has been largely
+limited to determining their associations with gene expression.
+Technologies for targeting manipulation of epigenetic marks would allow
+direct experimental testing of the impact of DNA methylation at specific
+residues, mechanisms of gene regulation, and potential use as
+interventions, for example to silence constitutively active oncogenes.
+
+Methods: Here, we developed a CRISPR Cas9-based tool for specific DNA
+methylation in which the catalytic domain of DNMT3a (DNMT3a-CD) is fused
+to the carboxy-terminus of Cas9 D10A-H840A mutant (dCas9). Both construct
+promoter strength and transfection strategies were optimized.
+
+Results: We demonstrated targeted and consistent CpG methylation in
+30~100bp regions downstream of the PAM (binding) site of the gRNA guided
+fusion protein in HEK293 cells. The multiple guide RNAs could target the
+dCas9-DNMT3A to multiple sites consistently. DNA methylation activity was
+specific for the targeted region and was heritable across cell divisions.
+We also found directed promoter DNA methylation of DAL1, GATA5 and C-MYC
+could decrease the corresponding mRNA expression by up to 80%; different
+DNA methylation positions had consequently different effects on gene
+expression. We have now performed C-MYC methylation-mediated knockdown in
+A549 lung cancer cells and are evaluating resulting cell cycle and
+apoptosis phenotypes.
+
+Conclusion: We believe this new targeted epigenetic technology can be
+directed to cancer cells for the purpose of reprogramming lung cancer,
+and unregulated stromal and microenvironment cells, for preventive and
+therapeutic uses.
+
+

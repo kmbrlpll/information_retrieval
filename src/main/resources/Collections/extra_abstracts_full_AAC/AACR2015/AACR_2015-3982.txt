@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Targeting of miRNA networks for prevention of basal-like breast
+cancers
+
+
+Introduction: Approximately 75% of women who develop sporadic breast
+cancer have no known epidemiological risk factors. This creates a
+significant challenge for identification of at risk patients for
+prevention. We hypothesized that detailing the molecular signature of the
+precancerous state by subtype will provide opportunities to identify
+biomarkers of subtype specific breast cancer risk and identify pathways
+that can be targeted for subtype specific prevention. Experimental
+procedures: Using cell lines that model breast cancer progression and The
+Cancer Genome Atlas (TCGA) genome-characterization datasets, we have
+identified common microRNA (miRNA)-gene signatures as potential
+biomarkers for early detection and targets for prevention of basal/
+triple negative breast cancer (TNBC). We have performed next generation
+RNA and small RNA seq of MCF10A cell line based TNBC progression model
+(10A P; parental, 10AT1; atypia, DCIS; ductal carcinoma in situ and Ca1d;
+invasive carcinoma) and used cell proliferation assay, western blotting,
+and miRNA analysis by QPCR to study the effects of target inhibition.
+Results: We have identified miRNA-29c as a lead candidate because it
+satisfied 3 key criteria necessary for subtype-tailored intervention.
+First, it found it to be expressed at high levels in MCF10A (immortalized
+normal line), and showed a steady decrease in the TNBC progression model.
+Second, it strongly inhibited migration of the metastatic TNBC cell line,
+MDA MB 231. Third, its downstream targets include druggable pathways such
+as src kinase, GSK-3, Pan-ErbB TK, EGFR, MEK1/2, PI3K, PI3K and c-met.
+One particularly interesting candidate is DNMT3A, the DNA methyl
+transferase, which we show to be inversely correlated to miRNA-29c and
+up-regulated in the progression from normal to cancer in the TNBC model.
+The miRNA-29c-DNMT3A connection that we uncovered strongly suggests an
+epigenetic component to tumorigenesis in basal like breast cancers and
+thus, we have tested natural occurring HDAC inhibitor and a small
+molecule drug, sulforaphane and sodium butyrate, for their ability to
+revert cellular phenotype of MCF 10A.AT1 and DCIS cells and found these
+compounds inhibit cell proliferation. We have also used small molecule
+synthetic inhibitors to target miRNA-29c regulated pathways and studied
+their effect on cell proliferation and target inhibition. In these
+analyses a small molecule inhibitor of PI3K/AKT, LY294002 effectively
+inhibited the AKT signaling and cell proliferation in MCF10A.AT1, and
+MCF10A.DCIS cells. Similarly, MEK inhibitors PD032590 and GSK1120212
+inhibited MEK signaling and cell proliferation in both hyperplastic and
+DCIS cells. Conclusions: Our study suggests that miRNA-29c-network, may
+play a key role in the development of triple negative of breast cancer
+and this networks may provide novel opportunities at several levels for
+prevention of TNBC/ basal like breast cancer.
+

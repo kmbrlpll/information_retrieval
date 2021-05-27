@@ -1,0 +1,63 @@
+Meeting: 2014 AACR Annual Meeting
+Title: ARID1A regulation of ATAD2 in gynecologic cancer
+
+
+ARID1A the DNA binding component of the SWI/SNF nucleosome and chromatin
+remodeling complex has recently been identified as a tumor suppressor and
+inactivating mutations have been reported in several tumor types
+including uterine and ovarian cancer. Approximately 30% of ovarian
+endometrioid cancers (OEC), 50% of clear cell ovarian cancers (OCCC) and
+40% of uterine endometrial cancers harbor ARID1A inactivating mutations.
+Little is known regarding the subunit composition of SWI/SNF complexes
+that contain ARID1A in ovarian and uterine cells and less is known
+regarding the transcriptional and functional consequences of ARID1A loss.
+In order to further explore the function of ARID1A in gynecologic cancers
+we restored ARID1A in ACI-98 (undifferentiated uterine cancer) an ARID1A
+negative and TP53 positive cell line using an inducible Tet-on system.
+Restoration of ARID1A induced apoptosis in ACI-98 cells after 48h
+doxycycline (Dox) treatment. We examined the proteome of these cells and
+catalogued the protein changes following ARID1A complementation using LC
+MS/MS. Specifically we identified 523 highly significantly differentially
+expressed proteins (z-score ARID1A the DNA binding component of the
+SWI/SNF nucleosome and chromatin remodeling complex has recently been
+identified as a tumor suppressor and inactivating mutations have been
+reported in several tumor types including uterine and ovarian cancer.
+Approximately 30% of ovarian endometrioid cancers (OEC), 50% of clear
+cell ovarian cancers (OCCC) and 40% of uterine endometrial cancers harbor
+ARID1A inactivating mutations. Little is known regarding the subunit
+composition of SWI/SNF complexes that contain ARID1A in ovarian and
+uterine cells and less is known regarding the transcriptional and
+functional consequences of ARID1A loss. In order to further explore the
+function of ARID1A in gynecologic cancers we restored ARID1A in ACI-98
+(undifferentiated uterine cancer) an ARID1A negative and TP53 positive
+cell line using an inducible Tet-on system. Restoration of ARID1A induced
+apoptosis in ACI-98 cells after 48h doxycycline (Dox) treatment. We
+examined the proteome of these cells and catalogued the protein changes
+following ARID1A complementation using LC MS/MS. Specifically we
+identified 523 highly significantly differentially expressed proteins
+(z-score <0.01) from this analysis. Among these was the AAA domain
+containing 2 (ATAD2) that was dramatically down-regulated in ARID1A
+restored cells. ATAD2 is a highly conserved protein normally expressed in
+germ cells but is also over-expressed in some cancers. Affymetrix gene
+expression results also showed that ATAD2 is over-expressed in some
+ovarian and uterine cancers compared to normal controls. We further
+examined the clinical consequence of ATAD2 expression in ovarian cancers
+using the Kaplan-Meier plots website (http://kmplot.com) and found that
+the high-expression group has a worse overall survival than those in the
+low-expression group. ATAD2 associates via its bromodomain with histone
+H3 and it is known to act as a co-factor for E2Fs, MYC, androgen and
+estrogen receptors and whose over-expression drives the expression of
+target genes that induce cell proliferation and resistance to apoptosis.
+qRT-PCR results indicated that transcription of ATAD2 was not changed by
+restoration of ARID1A, moreover, anti-ARID1A ChIP-sequence revealed that
+SWI/SNF-ARID1A is not binding to the promoter of ATAD2. From these
+results, we suspect that the down regulation of ATAD2 is through a
+non-transcriptional mechanism. In addition, ARID1A-IP-MS result suggested
+that ARID1A is itself making complexes with ATAD2. We performed ATAD2 and
+ARID1A immunohistochemistry on a set of OCCC and OEC primary cancers and
+found that all cases with ARID1A negative staining preferentially
+over-express ATAD2. In summary our data indicate that ARID1A decreases
+levels of ATAD2, that ARID1A-negative OCCC and OEC are a subset of ovary
+cancer that preferentially overexpress ATAD2, and that ATAD2
+over-expressing cancers have worse survival than weak expressers.
+

@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Comprehensive analysis of the complexity of HBV DNA integration
+sites in the circulation of patients with HBV-related liver disease
+
+
+HBV related liver disease ranges from hepatitis, cirrhosis, and
+hepatocellular carcinoma (HCC), which has a 5-year survival rate of 14%
+because it is difficult to diagnose at its curative stages. Chronic
+hepatitis B virus (HBV) infections is the major etiology of HCC,
+associated with over 50% of HCC cases worldwide and up to 70-80% in
+endemic areas. 85-90% of HBV related HCCs (HBV-HCC) contain integrated
+HBV DNA. During chronic HBV infection, HBV DNA has been shown to
+integrate at random sites in the host chromosome creating a unique
+genetic signature in each HBV infected hepatocytes. This makes the pool
+of HBV DNA integration sites highly complex in the liver. This genetic
+signature in HBV-infected liver along with the fundamental mechanism of
+carcinogenesis, which is clonal expansion, would result in HCC tissue
+containing only one to few clonally expanded integration sites, resulting
+in reduced complexity. Thus, we hypothesize the detection of reduced
+complexity of HBV DNA integration sites in the circulation can be a
+potential biomarker for HBV-HCC.In order to study the complexity of cell
+free circulating HBV DNA integration sites in the circulation, a targeted
+next generation sequencing (NGS) assay for urine DNA was developed. We
+chose to use urine in order to avoid detecting of HBV DNA from infectious
+viruses. Targeted enrichment was performed using an in-solution
+hybridization platform with biotinylated RNA baits covering the entire
+HBV genome. The assay was tested using library constructed DNA controls:
+Hep3B, which contains integrated DNA, and HepG2, which contains no HBV
+DNA to confirm targeted capture of HBV DNA. Next, matching tissue and
+urine DNA and DNA from urine collected after surgical removal of HCC
+tumor from seven HBV-HCC patients were collected and underwent library
+construction. The library DNA samples were subsequently enriched with HBV
+and HCC-specific RNA baits. Enriched library DNA was sequenced on
+Illumina's MiSeq platform. Although the analysis is still ongoing, we
+have successfully analyzed the complexity of cell-free circulating HBV
+DNA integration sites in urine. We detected 46 integration sites in the
+tissue and urine where the location of integrated HBV DNA mapped
+primarily (89%) to a known HBV integration breakpoint region, HBV DR1-2.
+Furthermore in 3 HBV-HCC patients, a pattern of reduced complexity of
+cell-free circulating HBV DNA integration sites was found in urine before
+the removal of HCC, as compared to urine collected after surgery
+suggesting reduced complexity of HBV DNA integration sites in HBV-HCC
+patients. A similar NGS analysis of the urine of hepatitis and cirrhosis
+patients is in progress. Overall, if successful this study will
+demonstrate the potential of detecting reduced complexity of HBV DNA
+integration sites as a biomarker for HBV-HCC screening and provide
+insight to the involvement of HBV DNA integration sites in HBV-HCC
+carcinogenesis.
+

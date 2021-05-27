@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Intestinal glutathione peroxidase (GPx2) promotes differentiation
+of colorectal cancer stem cells by modulating the rate of protein
+synthesis.
+
+
+Primary colorectal tumors and liver metastases can be established in
+vitro as colonosphere cultures. These 3D cultures are enriched in cancer
+stem cells (CSCs) and create phenocopies of the original patient tumor
+upon transplantation into mice. We have performed proteomics analysis of
+a series of colonosphere cultures and show high expression of the
+Wnt-target gene intestinal glutathione peroxidase (GPx2). GPx2 is a
+member of the GPx family of ROS scavenging enzymes but its function in
+colorectal cancer is not known. Excess oxidative damage in normal and
+cancer stem cell (SC) populations can lead to (C)SC exhaustion.
+Therefore, we tested whether GPx2 may play a role in colorectal CSC
+maintenance. We found that GPx2 is predominantly expressed by
+differentiated tumor cells in human colorectal tumors. A construct in
+which the GPx2-promoter drives GFP expression revealed that GPx2high
+cells express differentiation markers and proliferate rapidly, while
+GPx2low cells express stem cell markers (Oct4, Nanog, Sox2, OLFM4) and
+proliferate slowly. To study the function of GPX2 in CSC maintenance we
+generated GPx2 knockdown (kd) cultures. Depletion of GPX2 greatly
+increased the fraction of immature CSCs and inhibited cellular
+differentiation. GPx2-kd cells formed slowly growing tumors with high CSC
+content, while GPx2 overexpression resulted in the formation of rapidly
+proliferating well-differentiated tumors with low CSC content. Gene Set
+Enrichment Analysis (GSEA) using gene expression profiles of two
+independent series of colorectal tumors showed that GPx2 expression was
+inversely correlated with published gene signatures for immature cells
+(Nanog, Oct4 and Sox2 target genes) and for cell proliferation. Low
+expression of GPx2 also correlated with poor patient survival. To explore
+how GPX2 affects CSC maintenance we performed gene ontology analyses and
+found that GPx2 expression is most strongly correlated with genes
+governing protein synthesis. GPx2 knockdown resulted in strongly reduced
+ribosomal gene expression and reduced protein synthesis. Strikingly,
+chronic cycloheximide-mediated suppression of protein synthesis in
+colonosphere cultures also increased the pool of slow-cycling CSCs,
+similar to GPx2 knockdown. Taken together, our results identify the rate
+of protein synthesis as a critical new determinant of the CSC phenotype.
+By stimulating protein synthesis GPx2 drives the differentiation,
+proliferation and exhaustion of colorectal CSCs. Complete elucidation of
+this pathway may identify targets for differentiation-stimulating
+anti-cancer therapy.
+

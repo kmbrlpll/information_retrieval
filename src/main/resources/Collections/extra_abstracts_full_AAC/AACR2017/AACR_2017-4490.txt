@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Post-transcriptional regulation on PIAS3 expression in malignant
+mesothelioma.
+
+
+Protein Inhibitor of Activated STAT3 (PIAS3) was originally identified as
+an endogenous suppressor of STAT3 activity which can specifically
+interact with activated STAT3 and block its downstream oncogenic effects.
+Previous studies from our lab have shown that low PIAS3 protein
+expression in mesothelioma tumors was associated with poor patient
+survival. Furthermore, low PIAS3 expression in mesothelioma cell lines
+correlated with higher STAT3 activity. Over-expression of PIAS3 decreased
+STAT3 activity and cell growth. These findings suggest that low PIAS3
+expression may play an important role in mesothelioma tumorigenesis, thus
+understanding the regulatory mechanism(s) of PIAS3 expression may provide
+new therapeutic strategies in mesothelioma treatment. Initially, we
+examined PIAS3 expression by western blotting and RT-qPCR among six
+mesothelioma cell lines (H28, 211H, H2052, H2452, HAY, YOU) and found
+that while PIAS3 mRNA levels were relatively constant, PIAS3 protein
+expression was highly variable. This finding indicated a potential
+post-transcriptional regulation of PIAS3 expression in mesothelioma. To
+investigate this further, we first examined PIAS3 protein stability in
+the presence of proteasome inhibitors and cycloheximide (CHX). We
+observed no increase in PIAS3 protein levels during proteasome inhibition
+using either MG132 (10 μM) or bortezemib (1 μM) for up to 8 h in 211H,
+H2052 and H2452 cells, whereas TP53 protein expression was increased.
+Blocking translational protein synthesis with 50 or 100 μg/ml CHX for up
+to 24 h also produced little change in PIAS3 protein expression in
+mesothelioma cells, indicating that PIAS3 is a very stable protein. We
+next explored the PIAS3 3’UTR as a potential site for translational
+regulation. We initially utilized a miR microarray and computational
+analysis, followed by a PIAS3 3’UTR luciferase reporter assay, to
+screen miRNAs that are both increased in cells with low PIAS3 and have
+seed sequences targeting the PIAS3 3’UTR and identified miR-18a as our
+first candidate. Taken together, our study suggests that variable
+expression of PIAS3 protein in mesothelioma is regulated by translational
+control and not by protein stability.
+
+

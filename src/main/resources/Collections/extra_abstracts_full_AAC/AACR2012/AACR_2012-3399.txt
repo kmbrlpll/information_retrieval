@@ -1,0 +1,24 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Detection of rare mutations in plasma by droplet digital PCR
+
+
+Detection and quantitation of specific mutations in circulating plasma
+holds promise for earlier and less invasive diagnosis of disease. This
+presents significant analytical challenges, particularly as the biomarker
+may differ from its highly abundant wildtype by only a single nucleotide.
+Conventional methods have poor selectivity and fail to detect mutant
+sequence below 1 in 100 wildtype sequences. Compounding this, the amount
+of circulating nucleic acid in plasma is low. Here we present a simple
+strategy using droplet digital PCR (ddPCR) for the detection of somatic
+mutations with high selectivity and sensitivity. Based on the simple
+principle of sample partitioning into water-in-oil microdroplets, this
+ddPCR method increases the abundance of a mutant DNA sequence up to
+20,000 times compared to an equivalent bulk PCR reaction. Using
+conventional TaqMan chemistries and workflow, selectivities of up to
+1/100,000 can readily be achieved in any laboratory. We evaluated ddPCR
+for the detection and quantitation of several clinically important
+mutations in the EGFR and KRAS loci from clinical samples derived from
+normal and tumor plasma samples. We also demonstrate the feasibility of
+multiplexing of Kras and EGFR assays to improve sample processing
+efficiency.
+

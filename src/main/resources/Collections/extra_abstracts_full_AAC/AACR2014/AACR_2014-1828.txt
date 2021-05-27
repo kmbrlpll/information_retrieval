@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A genomic-transcriptomic-phosphoproteomic study to interrogate
+lapatinib resistance in an HER2 over expressing SKBR3 human breast cancer
+cell line model
+
+
+Background: Lapatinib is a tyrosine kinase inhibitor that inhibits EGFR
+and HER2 and is licensed to treat HER2-amplified breast cancer.
+Understanding mechanisms of acquired resistance is an unmet clinical
+need.Methods: SKBR3 cells were continuously exposed to increasing
+concentrations of lapatinib over a 12-month period. The parent cell line
+(SKBR3) and resulting lapatinib-resistant cell line (SKBR3LR) then
+underwent a set of studies including: a) western blot analysis for PGP,
+b) whole exome sequencing, c) whole genome expression microarray, d)
+quantification of 587 phosphoproteins. All data were integrated using
+Metacore software. Sensitivity of SKBR3 and SKBR3LR to a panel of drugs
+based on the findings was carried out by 96-hr sulforhodamine
+assays.Results: The GI50 values for lapatinib in SKBR3LR and SKBR3 cells
+were 3582 nM (SD 241.6) and 10.3 nM (SD 1.1). There was no induction of
+PGP protein or mRNA expression levels in SKBR3LR compared to SKBR3.
+Somatic mutations in KIT and MEK3 which were not present in SKBR3 were
+detected in SKBR3LR. There was a reduction in the levels of p-HER2 and
+p-EGFR in SKBR3LR; however, no differences in the levels of p-HER3,
+p-HER4, and p-KIT between the cell lines were observed. Analysis of
+proteins downstream in the RAS-RAF-MEK and PI3K-AKT-m-TOR showed
+increased levels of p-MEK but no significant changes in p38MAPK and no
+differences in p-AKT levels, but an increase in p-P70S6K in SKBR3LR
+compared to SKBR3. The phosphorylation network changes were integrated
+with transcription factors that showed significant enrichment for binding
+sites in the genes that were differentially expressed in SKBR3LR.
+Deregulation of the MAPK signalling network was one of the proposed
+mechanisms of resistance of SKBR3LR cells to lapatinib. Differential
+sensitivity to small-molecule agents was used to interrogate the
+mechanism of lapatinib resistance further. There was no significant
+differential sensitivity of SKBR3 and SKBR3LR to imatinib, GI50 values
+16.2 uM (SD 1.2) and 13.64 uM (SD1.1), respectively. SKBR3LR was more
+resistant than SKBR3 to an AKT inhibitor AKT1/2i; GI50 values 8 uM (SD
+0.45) vs 17.3 uM (SD 1.1) respectively. Interestingly, SKBR3LR was more
+sensitive to the HSP90 inhibitor, AUY922; GI50 values 3.2 nM (SD 1.1) and
+11.2 nM (SD 0.42) in SKBR3LR and SKBR3 cells, respectively. Experiments
+are ongoing using targeted agents to understand the mechanism of
+lapatinib resistance and suggest potential therapeutic strategies to
+overcome these, including novel combinations, particularly the use of
+HSP90 inhibitors.Conclusions: Integrating genomic-transcriptomic and
+phosphoproteomic data provides useful insights into the mechanism of
+resistance to lapatinib. The lapatinib-resistant cell line model was
+sensitive to the HSP90 inhibitor, AUY922, suggesting HSP90 inhibitors
+could be clinically effective in this setting.
+

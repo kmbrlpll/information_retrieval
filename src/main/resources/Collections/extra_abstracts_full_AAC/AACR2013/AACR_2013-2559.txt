@@ -1,0 +1,55 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Long non-coding RNAs as functional targets of germline genetic
+variation at ovarian cancer susceptibility loci.
+
+
+An emerging theme in genome-wide association studies (GWAS) is that the
+majority of common low-risk variants fall within non-protein coding DNA,
+with no immediately obvious functional role in disease initiation and
+development. As part of an international consortium (the ovarian cancer
+association consortium) we have identified eleven regions of the genome
+that harbor common single nucleotide polymorphisms (SNPs) that are
+associated with epithelial ovarian cancer (EOC) risk. We hypothesize that
+a proportion of risk SNPs identified by GWAS coincide with regulatory
+non-coding RNA species, such as long non-coding RNAs (lncRNAs). We used
+RNA sequencing (RNAseq) of five EOC cell lines and ten normal EOC
+precursor cell lines to identify lncRNAs that overlap EOC risk SNPs. Fine
+mapping of EOC susceptibility regions using 1000 Genome project data in
+18,000 invasive EOC cases and 20,000 controls identified suspected
+functional variants at each known risk locus. We then integrated RNAseq
+and genotyping data to identify SNPs mapping to ncRNAs.At the 2q31 risk
+locus a lncRNA gene (LOC401022) overlapped with 7 of 19 EOC risk
+variants, three of which were predicted to alter the sequence of the
+mature lncRNA transcript. RNAseq profiling showed that LOC401022 was
+overexpressed in EOC cell line compared to normal ovarian cancer
+precursor tissues; this was validated in a larger panel of 51 cancer and
+67 normal cell lines (P=9.8x10-12). Analysis of copy number variation in
+500 high-grade serous tumors profiled by The Cancer Genome Atlas (TCGA)
+project showed copy number gain in this region in over 40% of EOCs
+supporting the hypothesis that LOC401022 has oncogenic role during EOC
+development. Lentiviral delivery of a targeted shRNA was used to
+knockdown LOC401022 expression in OV90 EOC cells. LOC401022 knockdown was
+associated with reduced proliferation and a marked
+epithelial-to-mesenchymal transition compared to control cells transduced
+with a non-targeting shRNA. Cytokeratin expression was lost and vimentin
+expression upregulated following LOC401022 knockdown.LOC401022 contains
+145bp of sequence that has antisense similarity to the HOXD1 gene.
+However, in our EOC cell lines and in the cancer cell line encyclopedia,
+HOXD1 and LOC401022 expression are positively correlated (R2=0.48 and
+0.62 respectively), and LOC401022 knockdown did not influence HOXD1
+expression. This suggests that factors upstream of these two genes may
+regulate co-expression of both LOC401022 and HOXD1. We went on to perform
+genome wide expression profiling in OV90 cells after LOC401022 knockdown
+using RNAseq, to identify functional targets of this lncRNA and have
+identified several putative susceptibility genes which TCGA data suggest
+are involved EOC development. To our knowledge, this is the first
+instance in which a lncRNA has been implicated as a functional target of
+genetic variation at an ovarian cancer susceptibility locus.Citation
+Format: Kate Lawrenson, Honglin Song, Janet Lee, Jonathan Tyrer, Susan
+Ramus, Paul Pharoah, Simon Gayther. Long non-coding RNAs as functional
+targets of germline genetic variation at ovarian cancer susceptibility
+loci. [abstract]. In: Proceedings of the 104th Annual Meeting of the
+American Association for Cancer Research; 2013 Apr 6-10; Washington, DC.
+Philadelphia (PA): AACR; Cancer Res 2013;73(8 Suppl):Abstract nr 2559.
+doi:10.1158/1538-7445.AM2013-2559
+

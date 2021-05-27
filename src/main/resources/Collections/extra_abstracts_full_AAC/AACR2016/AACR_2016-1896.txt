@@ -1,0 +1,44 @@
+Meeting: 2016 AACR Annual Meeting
+Title: miR-500a is involved in breast cancer-related gene expression
+pathways and associated with patients survival
+
+
+MicroRNAs act as negative regulators of target genes by reducing their
+mRNA level. Despite numerous algorithms of target prediction, many
+microRNAs targets are still not known with enough confidence, making
+unclear their actual role in biological processes. In this study, we used
+an integrative approach combining bioinformatics and in vitro experiments
+to identify hsa-miR-500a as a key player in breast cancer survival.The
+Cancer Genome Atlas (TCGA, dataset release of 2012) data were analyzed
+using recently developed bioinformatics algorithm (Lee et al., 2015) that
+considers not only expression levels of microRNAs, but also its activity,
+determined by the relative changes of expression of potential target
+genes. High activity of miR-500a (hsa-miR-500a-5p, MIMAT0004773) was
+significantly correlated with poor survival of patients with ER-positive
+breast cancer. Noteworthy, in both TCGA and GEO (Gene Expression Omnibus)
+datasets, this form was typically expressed at very low levels (26th
+percentile in ranking among detectable microRNAs) while another strand,
+miR-500a* (hsa-miR-500a-3p, MIMAT0002871) was hundred times more abundant
+(81th percentile ranking), but did not correlate with the survival.We
+carried out functional validation of miR-500a in a set of breast cancer
+cell lines including estrogen receptor (ER)-positive MCF-7, ER-negative
+MDA-MB-231 and their derivatives. In order to define actual targets
+(direct and indirect), MCF-7 cells were transfected with miR-500a mimics
+or inhibitors (miRCURY LNA, Exiqon), followed by analysis of gene
+expression with Illumina Human HT-12 microarray. Genes that displayed the
+strongest suppression upon transfection with miR-500a mimics are involved
+in hormone signaling: members of aldo-keto reductase family known for
+steroid hormones processing and thioredoxin reductase that can regulate
+transcriptional activity of estrogen receptors. We found that expression
+of miR-500a is increased in highly tumorigenic derivative of MDA-MB-231
+cell line comparing to its low tumorigenic parental cell line. D3H2LN
+cell line (a MDA-MB-231-derived line by introducing luciferase construct)
+displayed higher proliferation rates and enhanced spheroids formation
+capacities comparing to the parental cell line; RNA-seq (by Illumina
+HiSeq) also revealed that this cell line has higher level of miR-500a
+expression and lower level of some genes detected as potential miR-500a
+targets.Our results indicate potential role of miR-500a in regulation of
+signaling pathways involved in breast cancer progression. Experimental
+data lend further support in its functional role in breast cancer
+survival, which may help develop future intervention strategies.
+

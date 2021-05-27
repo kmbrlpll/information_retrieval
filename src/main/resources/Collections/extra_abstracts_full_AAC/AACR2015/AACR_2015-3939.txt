@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: The genomic landscape of nasopharyngeal carcinoma
+
+
+Background Nasopharyngeal carcinoma (NPC) arises from the epithelial
+tissue of the nasopharynx. This cancer has remarkable ethnic and
+geographic distributions, with a particularly high prevalence in Southern
+China and Southeast Asia. Genetic susceptibility and Epstein-Barr virus
+infections have been implicated in the pathogenesis of NPC. However,
+genomic abnormalities of this neoplasm remain largely obscure, and no
+effective targeted therapy has been established. Therefore, a strong need
+exists to characterize the genetic alterations of this type of tumour for
+guiding the development of more effective and innovative therapeutic
+regimens.Methods Whole exomes sequencing (WES) was performed on 56 NPC
+germline/tumor pairs and 5 NPC cell lines. Transcriptome sequencing
+(RNA-seq) was conducted on 4 tumors from this cohort. An additional 61
+NPC germline/tumor pairs and 5 non-paired primary tumors were further
+subjected to targeted regional deep-sequencing (TS). The somatic copy
+number variations (SCNV) of 52 primary tumors were profiled by SNP-array
+hybridization (50 of them also had WES data). Finally, both in vitro and
+in vivo biological and biochemical experiments were performed to evaluate
+the newly-identified mutations in NPC cell lines.Results We identified a
+total of 1,577 non-silent somatic mutations affecting 1,413 genes from
+WES, revealing a relatively low mutational rate and wide mutational
+diversity. Integration of the results from WES, TS and RNA-seq revealed a
+distinct mutational signature and a number of significantly mutated genes
+(such as TP53, ARID1A, MLL2, BAP1, PIK3CA, etc.) in NPC. Pathway
+enrichment analysis of genetic lesions identified several important
+cellular processes and pathways in NPC including chromatin modification,
+ERBB-PI3K signaling and autophagy machinery. We further characterized the
+biological functions of both ARID1A and BAP1 proteins in NPC cell lines.
+Depletion of wild-type endogenous ARID1A expression with shRNAs resulted
+in increased anchorage-independent colony formation, cell migration and
+xenograft growth in vivo, whereas ectopically expressed ARID1A suppressed
+both cell proliferation and migration. Similarly, ectopic expression of
+wild-type BAP1 suppressed anchorage-independent colony formation of NPC
+cells.Conclusion We characterized the genomic landscape of 128 NPC cases,
+and identified a number of novel driver genes with statistical and
+biological evidence. Integrated analysis showed enrichment of genetic
+lesions affecting chromatin modification, ERBB-PI3K signaling and
+autophagy machinery, offering opportunities for developing novel
+treatments. These results in aggregate provide an important genetic
+foundation for further study of the molecular pathology and etiology of
+this fatal disease.
+

@@ -1,0 +1,28 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A prognostic model of head and neck cancer ties TP53 mutation to
+3p loss
+
+
+Head and neck squamous cell carcinoma (HNSCC) is frequently characterized
+by aggressive clinical behavior with a propensity for metastasis and
+recurrence. Current understanding of HNSCC pathogenesis remains limited,
+and there are few biomarkers that reliably predict patient outcomes such
+as survival or response to therapy. Here we report a comprehensive
+analysis of the molecular and clinical features of HNSCC that define
+patient survival. Building on data and infrastructure established by The
+Cancer Genome Atlas (TCGA), we develop an approach that integrates
+molecular events across multiple tiers of omics data to progressively
+factor patients into subgroups with the greatest survival differences. We
+show that in HPV negative patients, the detrimental impact of TP53
+mutation occurs only in combination with loss of chromosome 3p, leading
+to a marked decrease in median survival from >5 years for TP53 mutation
+only to 1.7 years for both events. Conditioned on TP53/3p, patients are
+stratified by a hierarchy of events incorporating MUC5B mutation,
+mir-548k expression, and mutation and expression of Abnormal Spindle
+Protein (ASPM), while in the absence of the TP53/3p event RAS signaling
+is an important driver. We also show in HPV positive patients that
+HPV-mediated inactivation of TP53 acts in synergy with 3p deletion. The
+major findings are replicated in an independent HNSCC cohort as well as a
+pan-cancer TCGA cohort of over 3000 patients. Together, the identified
+markers enable a new multi-tiered molecular classification of HNSCC.
+

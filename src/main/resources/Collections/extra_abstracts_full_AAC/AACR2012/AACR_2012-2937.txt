@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: An EGFR-STAT3 pathway promotes NF1 peripheral nerve tumorigenesis
+and transformation
+
+
+Neurofibromatosis type 1 (NF1) is a very common inherited disease,
+affecting 1:3500 individuals worldwide. Nearly all (95%) of NF1 patients
+develop benign neurofibromas and malignant peripheral nerve sheath
+tumors(MPNSTs). Currently, their prevention is not possible, partially
+because the molecular mechanisms of tumorigenesis and the molecules that
+mark benign neurofibroma formation are poorly understood. This study is
+to test the relevance of EGFR expression to neurofibroma formation, and
+to identify possible additional pathways and genes that might contribute
+to neurofibroma formation. We bred the Nf1 flox/flox;DhhCre mice, 100% of
+which form neurofibromas (Wu et al., 2008), to CNP-hEGFR mice and to Wa2
+mice, an EGFR hypomorphic allele. To test the role of EGFR in
+tumorigenesis, we also used sleeping beauty (SB) insertional mutagenesis
+to obtain quadruple transgenic mice (Rosa26-lsl-SB11;T2/Onc;
+Nf1flox/flox;DhhCre). To define neurofibroma initiation and progression
+genes, we used Pyrosequencing to identify common insertion sites (CISs)
+that had more SB insertions that are most likely to harbor
+disease-related genes. We used ingenuity pathway analysis to predict
+pathways and genes that might contribute to neurofibroma formation. We
+used a neurofibroma sphere culture system, a method used for detecting
+self-renewing stem/progenitor cells, to determine inhibitory effects of a
+STAT3 inhibitor (FLLL32). We immunostained human and mouse sections with
+anti-pSTAT3 (tyr705) to determine STAT3 activation status. We found that
+mouse neurofibroma number and size increased in Nf1flox/flox;DhhCre mice
+with hEGFR expressed in nerve Schwann cells. Diminished EGFR signaling in
+Nf1 flox/flox;DhhCre, Wa2/+ mice decreased neurofibroma number, not size.
+We used insertional mutagenesis to identify other modifiers of
+neurofibroma tumorigenesis. Analysis of CISs identified hubs involving
+GSK3B, TNF, and STAT3. STAT3 was the most significant changed pathway.
+Inhibition of STAT3 by shRNA or a specific STAT3 inhibitor FLLL32 blocked
+human neurofibroma-sphere formation. Immunohistochemistry identified
+STAT3(p705) in human and mouse neurofibromas and MPNSTs. FLLL32 inhibited
+cell proliferation and stimulated cell death as well as reduced
+neurofibroma growth in vivo in the Nf1flox/flox;DhhCre mouse
+neurofibromas. STAT3 knockdown by shRNA prevented MPNST formation in
+vivo. Finally, reducing EGFR activity strongly reduced pSTAT3 in vivo.
+Thus, an EGFR-STAT3 pathway regulates neurofibroma number and
+neurofibroma growth, and promotes transformation. STAT3 inhibitors may be
+useful in NF1 therapeutics. (*This work was supported by the National
+Institutes of Health (R01 NS28840 to N.R. and P50 NS057531 to N.R. and
+D.L.) and an Ohio State University Comprehensive Cancer Center pelotonia
+idea award to J.W.)
+

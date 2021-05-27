@@ -1,0 +1,39 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Assessing intra-tumor heterogeneity and tracking longitudinal and
+spatial clonal evolution by next-generation sequencing
+
+
+Cancer is a disease driven by genetic and epigenetic alterations that
+follows Darwinian evolution. Recently, there have been increasing efforts
+to sequence the tumor from the same patient at multiple time points
+and/or from multiple spatially separated resections. Different snapshots
+of the same tumor have proved invaluable for identifying subclonal
+populations and inferring the tumor's history.We propose a method,
+Canopy, for estimating the clonal history and for longitudinal and
+spatial comparison of mutation profiles from one or more samples derived
+from a single patient. Canopy accounts for normal cell contamination and
+reconstructs subclonal phylogeny utilizing both somatic copy number
+alterations (CNAs) and somatic single nucleotide alterations (SNAs).
+Canopy provides a general mathematical framework that enumerates all
+possible CNA-SNA phases and temporal orderings. Taking as input the
+mutant and reference allele frequencies for SNAs, and depth of coverage
+for CNAs, Canopy gives confidence assessments of all possible
+configurations of the cancer's clonal evolution.Canopy is applied to
+three cancer sequencing datasets of varying study design, as well as to
+an extensive simulation study. On a whole-exome study of a transplantable
+metastasis model derived from human breast cancer cell line MDA-MB-231,
+Canopy successfully deconvolutes the mixed cell sublines, using the
+single cell sublines as ground truth, and identifies DNA signatures that
+can be prognostic of distant metastasis. On a whole-genome sequencing
+dataset of the primary tumor and relapse genome of a leukemia patient,
+Canopy predicts phylogenetic histories in concordance with existing
+knowledge. On a whole-genome sequencing dataset of the breast cancer
+tumor and its subsequent metastatic xenograft, Canopy's inferred clonal
+phylogeny is concordant with genomic markers of major clonal genotype and
+is confirmed by single-cell sequencing. Finally, through simulations, we
+explore the effects of various parameters on deconvolution accuracy, and
+evaluate performance with comparison against existing methods.
+Collectively, Canopy provides a rigorous foundation for statistical
+inference on repeated sequencing experiments from evolving populations
+delineated temporally and spatially.
+

@@ -1,0 +1,60 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Pregnancy changes the DNA methylation profile of the breast in
+postmenopausal women
+
+
+Recently, we have described that the breast of parous postmenopausal
+women exhibits a specific gene expression profile induced by full term
+pregnancy (FTP) [Belitskaya-Levy, I. et al. 2011 and Peri, S. et al.
+2012], which is centered on chromatin remodeling [Russo, J. 2012]. In
+order to better understand the molecular mechanism of gene regulation
+induced by FTP, we have investigated the DNA methylation profile in
+breast core needle biopsies of five nulliparous (NP) and five parous (P)
+postmenopausal women between the ages of 50 and 69. DNA was extracted
+from core needle biopsies and highly methylated fragments of the DNA were
+separated from the un-methylated DNA using MBD-Capture. The
+hypermethylated DNA was then sequenced using the Illumina system. Image
+analysis and base calling were performed with the standard Illumina
+pipeline, and the reads were aligned to human reference genome (hg18).
+Differentially methylated regions (DMR) were identified by comparing the
+differences of averaged methylation values between P and NP samples using
+Student's t-test (PRecently, we have described that the breast of parous
+postmenopausal women exhibits a specific gene expression profile induced
+by full term pregnancy (FTP) [Belitskaya-Levy, I. et al. 2011 and Peri,
+S. et al. 2012], which is centered on chromatin remodeling [Russo, J.
+2012]. In order to better understand the molecular mechanism of gene
+regulation induced by FTP, we have investigated the DNA methylation
+profile in breast core needle biopsies of five nulliparous (NP) and five
+parous (P) postmenopausal women between the ages of 50 and 69. DNA was
+extracted from core needle biopsies and highly methylated fragments of
+the DNA were separated from the un-methylated DNA using MBD-Capture. The
+hypermethylated DNA was then sequenced using the Illumina system. Image
+analysis and base calling were performed with the standard Illumina
+pipeline, and the reads were aligned to human reference genome (hg18).
+Differentially methylated regions (DMR) were identified by comparing the
+differences of averaged methylation values between P and NP samples using
+Student's t-test (P<0.01). 583 genes were differently methylated between
+P and NP, of which, 455 genes were hypermethylated in the P breast and
+128 genes were hypermethylated in the NP. Additional visual analyses of
+the sequencing results were performed in these 583 genes using
+Integrative Genomics Viewer (IGV), of which, 53 genes with DMRs were
+identified. Analysis and research into the functions of these genes
+identified seven genes (DACT1, PPP2CA, GSK3B, ROBO1, INPP4B, IL6ST, FZD1)
+that have been described to interact with each other in either the Wnt
+signaling pathway or its controlling PI3K/AKT/mTOR pathways. The
+evaluation of these interactions suggests that beta-catenin, a downstream
+gene of the Wnt signaling pathway, is being inhibited in the P women. Wnt
+signaling plays different roles during the stages of the mammary gland
+development, and it is suggested that lowered beta-catenin expression is
+essential for proper mammary involution. This observed molecular
+machinery, leading to a decrease in beta-catenin production and
+accumulation, may be a leftover effect from mammary involution, last
+process that the parous mammary gland undergone and it may be, at least
+partially, responsible for their decreased risk of cancer. The pathways
+identified in this specific population are of the great importance and
+could represent a safeguard mechanism mediating the protection of the
+breast conferred by full term pregnancy. (The sample collection was
+supported by Avon Foundation for Women Breast Cancer Research Program
+grant 02-2010-117 and the methylation studies by NIH core grant CA06927
+to Fox Chase Cancer Center).
+

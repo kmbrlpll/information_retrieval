@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Nonsense-mediated decay regulates the expression of tumor
+suppressor transcripts and cancer pathways in non-small cell lung cancer
+cell lines
+
+
+Background: Nonsense-mediated decay (NMD) is an RNA surveillance pathway
+that selectively degrades mRNAs bearing premature translation termination
+codons (PTCs). In addition, NMD also regulates the expression of a subset
+of physiological mRNAs containing upstream open reading frames (uORFs),
+spliceable introns in the 3 untranslated region (3-UTR) and those that
+undergo aberrant alternative splicing. Cancer cells produce many mRNAs
+harboring PTCs because of high frequency of mutations either in the
+coding region or in the splice sites that result in aberrant splicing.
+Thus, cancer cells may depend on NMD for survival. Inhibiting NMD
+provides an attractive cancer therapeutic strategy as it rescues mRNAs
+bearing NMD features, some of which may produce functional proteins.
+Therefore, it is important to identify NMD targets and their NMD-inducing
+features in cancer cells. In the current study, by using NMD inhibition
+approach, we identified mRNA transcripts and pathways that are regulated
+by NMD in non-small cell lung cancer (NSCLC) cell lines.Methods: To
+identify NMD targets, UPF1, a key component of NMD pathway was depleted
+by RNAi in NSCLC cell lines. mRNAs regulated by NMD were identified by
+micro array and RNAseq approaches and selected NMD targets were confirmed
+by real-time PCR. Reverse phase protein array (RPPA) was performed to
+identify cancer pathways affected by NMD inhibition. Migration,
+proliferation and clonogenic assays were performed to assess the effect
+of NMD inhibition on cancer phenotype.Results: Our microarray and RNAseq
+analysis results indicated that in NSCLC cell lines, NMD regulates the
+expression of a number of physiological transcripts derived from
+non-mutant genes. These include transcripts involved in integrated stress
+response, apoptotic pathways and tumor suppressor activity. We showed
+that tumor suppressors DMTF1, and p53 undergo NMD-susceptible alternative
+splicing in NSCLC cell lines and that NMD-regulated p53 isoforms are
+partially functional. Our results also demonstrated that mRNA transcripts
+derived from TSC1 and GADD45A, tumor suppressors that negatively regulate
+mTOR pathway, are also upregulated upon NMD inhibition in NSCLC cell
+lines. Concomitantly, RPPA analysis revealed that NMD inhibition resulted
+in downregulation of components involved in mTOR pathway. NMD inhibition
+also resulted in reduced cell viability and migration.Conclusions: NMD
+regulates the expression of physiological transcripts involved in
+integrated stress response, apoptosis and tumor suppressor activity and
+impacts cancer phenotype in NSCLC cell line models. Our findings suggest
+that NMD could serve as an attractive therapeutic target.
+

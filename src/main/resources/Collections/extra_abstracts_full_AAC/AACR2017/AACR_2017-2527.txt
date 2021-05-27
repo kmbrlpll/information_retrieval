@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The role of miR-601 in prostate cancer progression.
+
+
+Prostate cancer (PCa) is the second most common cancer among men
+worldwide. In order to advance treatment options for these men, it is
+crucial to understand the molecular underpinnings behind this cancer.
+Previously, our group identified miR-601 as a biomarker of significance
+in PCa. Few studies to date have functionally validated molecular
+biomarkers and currently little is known about the function of miR-601 in
+PCa. Based on our previous publication, we hypothesized that miR-601
+plays a role in PCa progression and radiation response. To test this
+hypothesis, miR-601 was over-expressed and knocked down in DU145 and PC3
+cell lines and assays were performed evaluating cell proliferation,
+colony formation, apoptosis, and cell cycle progression. Additionally, to
+provide more information regarding miR-601-associated pathways, we
+identified putative gene targets of miR-601 using in silico prediction
+programs, microrna.org and TargetScan.org and evaluated top gene targets
+in vitro. To date, our data suggest that miR-601 may be playing a role as
+a tumor suppressor. Over-expression of miR-601 in cell lines resulted in
+a significant reduction in cell viability. This was confirmed both by MTS
+as well as colony formation assays. We looked into the mechanism behind
+the reduction in cell viability by testing the effect of miR-601 on
+apoptosis and cell cycle progression. We found that cells over-expressing
+miR-601 had slightly higher levels of apoptosis, however miR-601 did not
+induce a substantial effect on cell cycle progression. Additionally, we
+found that miR-601 enhances radiosensitization in DU145 and PC-3 cell
+lines. Similar results have been observed in breast cancer 1 as well as
+in a large miRNA screen performed in the LNCaP cell line2. Two putative
+gene targets of miR-601 were identified and investigated in vitro, SIRT1,
+a histone deacetylase known to be both an oncogene and tumor suppressor,
+and BCL2L2, an anti-apoptotic gene known to be an oncogene. SIRT1 and
+BCL2L2 had strong scores on both online prediction programs as likely
+targets of miR-601. Our in vitro results confirmed this. We saw reduced
+mRNA and protein expression of these targets in cells over-expressing
+miR-601. Our data thus far suggest that miR-601 is acting as a tumor
+suppressor in PCa. Targeted therapies for miR-601 and/or its targets may
+be promising in the treatment of PCa, however additional work is needed
+to validate this. Future work will focus on the role of miR-601 in cell
+migration and invasion as well on identifying the direct molecular
+mechanism(s) by which miR-601 is reducing cell viability and conveying
+radiation sensitivity.
+
+Funding: R01CA108633 (To AC), 1RC2CA148190 (To AC) U10CA180850-01 (To
+AC), 1R01CA169368 (To AC) from the NCI, Brain Tumor Funders Collaborative
+Grant (To AC), OSUCCC Award (To AC).
+
+1. Hu JY et al. (2016) Biomedicine and Pharmacotherapy. 79: 247-53
+
+2. Hatano K. et al. (2015) Nucleic Acids Research. 43: 4075-86
+
+

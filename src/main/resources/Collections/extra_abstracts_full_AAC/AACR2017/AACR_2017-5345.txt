@@ -1,0 +1,60 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Complementary NGS approaches on digitally sorted pure tumor cells
+reveal hidden molecular characteristics in low tumor content FFPE
+specimens.
+
+
+Introduction:
+
+Precise characterization of tumor cell populations is an essential
+requirement for guiding the cancer care, allowing patients to receive
+personalized therapies. Poor biopsies with low-tumor content represent a
+significant barrier for sample enrollment in clinical trials. Here we
+describe a multi-level approach for precisely characterizing the genetic
+mutation landscape of pure tumor cell populations sorted by the
+DEPArray™ technology from low-cellularity FFPE samples.
+
+Methods:
+
+50μm sections of FFPE from breast infiltrating ductal adenocarcinoma
+with 10% tumor content were processed by DEPArray sorting protocol.
+Illumina-compatible libraries were prepared from sorted stromal (n=497)
+and tumor (n=419) cell pools, and from the unsorted sample. An aliquot of
+these libraries was processed using SeqCap EZ MedExome enrichment kit
+(Roche) for whole-exome sequencing (WES) with a HiSeq 2500, reaching a
+mean coverage of 27x for tumor and 25x for stromal libraries. A second
+aliquot was used for low-pass (≈1M fragments per sample) whole-genome
+sequencing (WGS) on a MiSeq to analyze copy-number alterations (CNA).
+Other cell lysates from stromal (n=104, n=112) and pure tumor (n=75)
+populations were used in DEPArray OncoSeek amplicon-based assay for
+focused analysis of clinically relevant somatic variants and copy-number
+alterations.
+
+Results:
+
+In sorted pure tumor populations, WES analysis of B-allele frequencies of
+germline heterozygous SNPs clearly outlined an aberrant profile,
+precisely revealing several Loss-of-Heterozygosity (LOH) and copy-altered
+regions. Conversely, unsorted gDNA showed a flat profile
+non-distinguishable from sorted stromal cells, as expected for a
+low-cellularity tumor sample. Similar results were obtained by low-pass
+WGS, where the huge number of copy number aberrations (≈1.2 Gbp) in
+tumor is contrasted by lack of gains and losses in stromal cells and
+unsorted gDNA. Noteworthy, WES, low-pass and targeted sequencing by
+OncoSeek panel highlighted a focal amplification of ERBB2 gene (>13
+copies), which was just barely detectable as a 1-copy gain in bulk gDNA.
+Genetic analyses showed a high concordance between WES and targeted panel
+data, with two non-synonymous homozygous somatic mutations found in TP53
+(p.L111R) and ERBB2 (p.D769Y). In the unsorted sample, the TP53 mutation
+was missed because allelic frequency was below the limit of detection due
+to normal-cell dilution, while the ERBB2 mutation was still detectable
+only because of the high-level amplification.
+
+Conclusions:
+
+DEPArray sorting technology is an indispensable tool for accurately
+investigating cancer genomes, enabling multi-level applications for
+obtaining a fine-grain characterization of copy-numbers, LOH, and
+tumor-specific variants, independent of original tumor content.
+
+

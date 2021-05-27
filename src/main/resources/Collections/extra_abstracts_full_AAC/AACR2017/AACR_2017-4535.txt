@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Tumor cell division rate heterogeneity explains in vitro clonal
+dominance.
+
+
+The cells that make up a tumor exhibit large phenotypic and genotypic
+variation, which strongly influences the effectiveness of cancer therapy.
+A typical manifestation of intratumor heterogeneity is the presence of a
+few clones that represent most of the tumor population, i.e. clonal
+dominance. Such heterogeneity could potentially be caused by the
+occurrence of different ratios of cancer stem cells and differentiated
+cells per clone, or, alternatively, clonal dominance may be caused by
+heterogeneity of division rates between clones. Previously published
+work, applying lineage tracing with genetic barcodes to in vitro iterated
+growth and passage experiments demonstrated that clonal dominance was
+accompanied by clone loss and partial overlap in dominant clones between
+biological replicates [1]. To identify the source of these observations,
+we build a computational model that simulates the iterated growth and
+passage experiments. By varying the 'division rules' in the model, we can
+quantitatively predict the evolution of the clone distribution for the
+aforementioned hypotheses. In this manner, we show that clonal dominance
+does not appear in simulations where all cells divide at a uniform rate,
+even when the population is subdivided in cancer stem cells and
+differentiated cells. However, when the division rates vary between
+clones and are inherited from parent cells, dominant clones appear. These
+simulations also closely match the in vitro evolution of clone loss and
+clonal overlap between biological replicates. Altogether, our findings
+suggest that tumor cells exhibit a heritable variability in the division
+rates of individual cells.
+
+References
+
+[1] Porter, S. et al. (2014). Lentiviral and targeted cellular barcoding
+reveals ongoing clonal dynamics of cell lines in vitro and in vivo.
+Genome Biology, 15(5), R75.
+
+

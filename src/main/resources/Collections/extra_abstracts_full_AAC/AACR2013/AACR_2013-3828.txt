@@ -1,0 +1,142 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of prognostic markers in osteosarcoma using a
+systems biology approach.
+
+
+IntroductionOsteosarcoma (OS) is the most common malignant bone tumor in
+pediatrics. The survival rate of patients with metastatic disease remains
+very dismal. Nevertheless, metastasis is a complex process and a
+single-level analysis will not likely identify its key biological
+determinants. In this study, we used a systems biology approach to
+identify common metastatic pathways that are jointly supported by both
+mRNA and protein levels in two distinct human metastatic OS
+models.MethodsThe metastatic OS models used consist of a pair of isogenic
+OS cell lines (low metastatic parental cell line and highly metastatic
+subline), namely HOS/143B and SaOS-2/LM7. We obtained mRNA expression
+data by microarray analysis, and captured a specific subset of N-linked
+glycoproteins by lectin affinity chromatography. Subsequently, we
+identified the glycoproteins by mass spectrometry and quantified them by
+spectral counting. The genomic and glycoproteomic data were integrated by
+topological analysis, and validated by Western blotting and reverse phase
+protein arrays (RPPR).ResultsPathway analysis of the up-regulated genes
+and glycoproteins separately revealed pathways associated with metastasis
+including RAS-related G-proteins signaling and
+epithelial-to-mesenchymal-transition. Nonetheless, no common significant
+pathway was found between the two metastatic models. To address this
+issue, we used a topological analysis based on a shortest path algorithm
+to identify topological nodes that remained hidden from the
+transcriptomic and glycoproteomic analyses. Analysis of the topological
+nodes identified important common pathways, including Cytoskeleton
+remodeling/TGF/WNT," Development/WNT signaling," and Cell
+adhesion/Chemokines and adhesion. Up-regulation of proteins within these
+pathways was validated using RPPR. To determine if we could utilize the
+candidates identified as circulating prognostic biomarkers, we used
+Luminex bead assays to quantify a set of cytokine/chemokine candidates in
+the plasma samples from a cohort of OS patients. The analysis showed that
+expression of candidate molecules such as: TGFA (HR 14.3, p-value
+IntroductionOsteosarcoma (OS) is the most common malignant bone tumor in
+pediatrics. The survival rate of patients with metastatic disease remains
+very dismal. Nevertheless, metastasis is a complex process and a
+single-level analysis will not likely identify its key biological
+determinants. In this study, we used a systems biology approach to
+identify common metastatic pathways that are jointly supported by both
+mRNA and protein levels in two distinct human metastatic OS
+models.MethodsThe metastatic OS models used consist of a pair of isogenic
+OS cell lines (low metastatic parental cell line and highly metastatic
+subline), namely HOS/143B and SaOS-2/LM7. We obtained mRNA expression
+data by microarray analysis, and captured a specific subset of N-linked
+glycoproteins by lectin affinity chromatography. Subsequently, we
+identified the glycoproteins by mass spectrometry and quantified them by
+spectral counting. The genomic and glycoproteomic data were integrated by
+topological analysis, and validated by Western blotting and reverse phase
+protein arrays (RPPR).ResultsPathway analysis of the up-regulated genes
+and glycoproteins separately revealed pathways associated with metastasis
+including RAS-related G-proteins signaling and
+epithelial-to-mesenchymal-transition. Nonetheless, no common significant
+pathway was found between the two metastatic models. To address this
+issue, we used a topological analysis based on a shortest path algorithm
+to identify topological nodes that remained hidden from the
+transcriptomic and glycoproteomic analyses. Analysis of the topological
+nodes identified important common pathways, including Cytoskeleton
+remodeling/TGF/WNT," Development/WNT signaling," and Cell
+adhesion/Chemokines and adhesion. Up-regulation of proteins within these
+pathways was validated using RPPR. To determine if we could utilize the
+candidates identified as circulating prognostic biomarkers, we used
+Luminex bead assays to quantify a set of cytokine/chemokine candidates in
+the plasma samples from a cohort of OS patients. The analysis showed that
+expression of candidate molecules such as: TGFA (HR 14.3, p-value <0.05),
+EGF (HR 5.6, p-value IntroductionOsteosarcoma (OS) is the most common
+malignant bone tumor in pediatrics. The survival rate of patients with
+metastatic disease remains very dismal. Nevertheless, metastasis is a
+complex process and a single-level analysis will not likely identify its
+key biological determinants. In this study, we used a systems biology
+approach to identify common metastatic pathways that are jointly
+supported by both mRNA and protein levels in two distinct human
+metastatic OS models.MethodsThe metastatic OS models used consist of a
+pair of isogenic OS cell lines (low metastatic parental cell line and
+highly metastatic subline), namely HOS/143B and SaOS-2/LM7. We obtained
+mRNA expression data by microarray analysis, and captured a specific
+subset of N-linked glycoproteins by lectin affinity chromatography.
+Subsequently, we identified the glycoproteins by mass spectrometry and
+quantified them by spectral counting. The genomic and glycoproteomic data
+were integrated by topological analysis, and validated by Western
+blotting and reverse phase protein arrays (RPPR).ResultsPathway analysis
+of the up-regulated genes and glycoproteins separately revealed pathways
+associated with metastasis including RAS-related G-proteins signaling and
+epithelial-to-mesenchymal-transition. Nonetheless, no common significant
+pathway was found between the two metastatic models. To address this
+issue, we used a topological analysis based on a shortest path algorithm
+to identify topological nodes that remained hidden from the
+transcriptomic and glycoproteomic analyses. Analysis of the topological
+nodes identified important common pathways, including Cytoskeleton
+remodeling/TGF/WNT," Development/WNT signaling," and Cell
+adhesion/Chemokines and adhesion. Up-regulation of proteins within these
+pathways was validated using RPPR. To determine if we could utilize the
+candidates identified as circulating prognostic biomarkers, we used
+Luminex bead assays to quantify a set of cytokine/chemokine candidates in
+the plasma samples from a cohort of OS patients. The analysis showed that
+expression of candidate molecules such as: TGFA (HR 14.3, p-value <0.05),
+EGF (HR 5.6, p-value <0.05), and IL-10 (HR 5.0, p-value
+IntroductionOsteosarcoma (OS) is the most common malignant bone tumor in
+pediatrics. The survival rate of patients with metastatic disease remains
+very dismal. Nevertheless, metastasis is a complex process and a
+single-level analysis will not likely identify its key biological
+determinants. In this study, we used a systems biology approach to
+identify common metastatic pathways that are jointly supported by both
+mRNA and protein levels in two distinct human metastatic OS
+models.MethodsThe metastatic OS models used consist of a pair of isogenic
+OS cell lines (low metastatic parental cell line and highly metastatic
+subline), namely HOS/143B and SaOS-2/LM7. We obtained mRNA expression
+data by microarray analysis, and captured a specific subset of N-linked
+glycoproteins by lectin affinity chromatography. Subsequently, we
+identified the glycoproteins by mass spectrometry and quantified them by
+spectral counting. The genomic and glycoproteomic data were integrated by
+topological analysis, and validated by Western blotting and reverse phase
+protein arrays (RPPR).ResultsPathway analysis of the up-regulated genes
+and glycoproteins separately revealed pathways associated with metastasis
+including RAS-related G-proteins signaling and
+epithelial-to-mesenchymal-transition. Nonetheless, no common significant
+pathway was found between the two metastatic models. To address this
+issue, we used a topological analysis based on a shortest path algorithm
+to identify topological nodes that remained hidden from the
+transcriptomic and glycoproteomic analyses. Analysis of the topological
+nodes identified important common pathways, including Cytoskeleton
+remodeling/TGF/WNT," Development/WNT signaling," and Cell
+adhesion/Chemokines and adhesion. Up-regulation of proteins within these
+pathways was validated using RPPR. To determine if we could utilize the
+candidates identified as circulating prognostic biomarkers, we used
+Luminex bead assays to quantify a set of cytokine/chemokine candidates in
+the plasma samples from a cohort of OS patients. The analysis showed that
+expression of candidate molecules such as: TGFA (HR 14.3, p-value <0.05),
+EGF (HR 5.6, p-value <0.05), and IL-10 (HR 5.0, p-value <0.05) at initial
+diagnosis correlated with poor survival and were independent of
+metastasis at diagnosis. We will also use Multiple Reaction Monitoring to
+investigate the candidate biomarkers in other common pathways to
+correlate with tumor progression, metastases, and survival.ConclusionsIn
+this study, we used a systems biology approach by integrating genomic and
+proteomic data to identify key and common metastatic mechanisms in OS.
+Since WNT signaling and chemokines have been previously implicated in OS
+and other tumors, further characterization and validation in human
+samples of these common pathways may lead to novel prognostic biomarkers
+and therapeutic strategies for curing metastatic OS.
+

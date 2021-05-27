@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A method to identify copy number aberrations (CNAs) from whole
+exome sequence (WES) data and its application to multiple myeloma cell
+lines and patient samples
+
+
+Duplications and deletions of large-scale genomic regions, including
+whole chromosomes, are a hallmark of malignant tumors and represent an
+important predictor of outcome for many tumor types. In multiple myeloma,
+a core set of structural variants are regularly used for disease
+prognosis (e.g., del17p, t(4;14), t(14,16)). The presence of one or more
+of these lesions is predictive of a more aggressive disease and poorer
+outcomes for patients. The application of next-generation sequencing
+(NGS) to cancer samples has enhanced our ability to detect prognostic and
+predictive copy number aberrations (CNAs). However, most NGS-based
+methods for the identification of CNAs in tumors require whole genome
+sequencing (WGS). Relatively fewer methods exist for the detection of
+CNAs from exome sequencing and, to our knowledge, these methods all rely
+on having matched normal data. However, WES is still far more common than
+WGS and matched normal samples are frequently not available. Therefore,
+we have developed a novel method for the identification of CNAs from
+single-sample WES data. Our method combines LOWESS smoothing and
+discrete-wavelet-transformation to normalize the exome coverage data with
+an HMM for coverage segmentation. We have applied our new method to WES
+data from 40 myeloma cell-lines for which aCGH copy number calls were
+also available for training and validation. Our method shows a high
+correlation with the aCGH calls (mean = 95%). In addition we have
+currently analyzed 42 (of 102) tumor samples that were collected during
+screening of relapsed/refractory multiple myeloma patients on three
+Onyx-sponsored Phase 2 clinical trials of the proteasome inhibitor
+carfilzomib (PX-171-003,PX-171-004, PX-171-005). Based on analysis of the
+completed subset we find that the frequency of known and novel lesions
+within these samples is similar to what has previously been observed in
+other publically available myeloma CNA datasets. The most frequent event
+that we find is loss of chr13 followed by gains on chr1q and chr15 all at
+near 40% frequency. We also find gains of chr3, chr5, chr9 and chr11 in
+30% of patients. These results indicate that we can apply this new method
+to our larger set of clinical samples in order to discover new prognostic
+markers for patient outcomes and response to therapy in MM.
+

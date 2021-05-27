@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Identification of frequently gained genomic regions in breast
+circulating tumor cells
+
+
+Introduction: Cells disseminate from the primary tumor and enter the
+blood circulation early on. Circulating tumor cells (CTCs) might be the
+earliest detectable cells with metastatic abilities. Clinically, the
+presence of CTCs is indicative of a negative prognostic impact. Decreased
+numbers of CTCs are seen in response to chemotherapy, and persistent
+chemo-resistant CTCs have been shown to be HER2+ although they originated
+from HER2- primary tumors. Such discrepancies were also found with ER, PR
+and EGFR status and have important implications with respect to treatment
+alterations over the course of the disease. If the whole genome of CTCs
+can be profiled, we could identify genomic alterations which may be
+developed into CTC specific markers, to monitor and target them, to
+prevent their spread to distant sites. We could also investigate how
+these cells are represented in primary tumors and how they respond to
+chemotherapy. Methods: CTCs were enriched from blood by immunomagnetic
+CD45+ leukocyte depletion; fixed onto glass slides and stained for the
+epithelial cell marker, pancytokeratin. Positively stained CTCs were
+isolated by single-cell laser capture microdissection for whole genome
+amplification (WGA) and copy number (CN) analysis with the Affymetrix
+Genome wide SNP 6.0 array. CTCs were isolated from peripheral blood of
+21/39 patients (54%, range of 1-20 cells) with locally advanced breast
+cancer. Normal samples were obtained by performing WGA on the white blood
+cell fraction of blood. Results: CN gains and losses were detected by
+genomic segmentation, using a paired CTC-normal sample approach (Partek
+Genomic Suite). Overall, regions with gains were more prevalent than
+losses. The most frequent gains were on chromosome 1q21.3, 4q26, 6q16.3,
+9q34.1-34.3, 11p15.4-15.5, 17q21-25, and 19. Regions 17q21-25 and 9q34
+were associated with lymph node metastasis, tumor size, and higher CTC
+counts. Genes within these regions which could potentially be implicated
+in CTC dissemination are CCL5 (breast cancer progression), MMP28
+(invasion), and PTPN1 (migration). Notably, CTCs were more homogenous for
+gains on chromosome 19, which has been implicated in many types of
+cancers. It houses the entire family of kallikrein protease genes, a
+hallmark in prostate, ovarian and colorectal cancers; and was recently
+found to contain 5 SNPs which are associated with BRCA1 mutations and
+high risk breast cancer. We identified 5 peaks (0.3 - 9.5Mb) between
+19p13.3-13.1 and 19q13.32-13.4, with an average CN of 3, in 15/17
+patients. Conclusions: Whole genomic profiling of CTCs from breast cancer
+revealed regions of CN gain, as well as specific CN signatures associated
+with poor prognosis. Gains on chromosome 19 were most frequent,
+warranting further investigations of genes that confer CTC-like
+functionality to tumor cells. We will determine the heterogeneity of
+these regions in primary breast cancer, and how they respond to
+chemotherapy.
+

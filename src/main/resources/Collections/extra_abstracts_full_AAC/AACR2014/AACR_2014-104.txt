@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Preclinical microPET/CT imaging of 89Zr-Df-SGN-35 in mice bearing
+xenografted CD30 expressing and non-expressing tumors
+
+
+Introduction: Positron emission tomography (PET) imaging is a
+non-invasive tool to quantitatively describe the drug distribution in
+vivo. To answer the question whether radiolabeled antibody-drug
+conjugates (ADCs) can be utilized as PET imaging probes, and to explore
+PET imaging sensitivity for detecting antigen expression, we conducted
+preclinical microPET/CT imaging studies with radiolabeled SGN-35 in SCID
+mice bearing tumors with varying levels of CD30 expression.Methods:
+SGN-35 was either directly labeled with 124Iodine or conjugated with the
+chelator desferrioxamine (DFO) and subsequently labeled with 89Zirconium.
+Karpas 299, TF1-, and Daudi were selected as the representative high
+(CD30high), low (CD30low) and negative (CD30neg) CD30 expressing tumor
+cell lines, respectively. Expression of CD30 and receptor copy number on
+each cell line was confirmed by quantitative FACS assay. One mouse from
+each CD30 expression group was administered a single IV bolus dose of
+either 124I-SGN-35 (0.5 mg/kg) or 89Zr-Df-SGN-35 (1 mg/kg), and serially
+imaged 0 - 2 hours (dynamic scan), and at 4, 24, 48, 72, 96 and 144 hours
+(10 min static scans). An additional 3 mice with CD30high and CD30low
+tumors, and 2 mice with CD30neg tumors, were dosed and imaged at 72, 96
+and 144 hours (10 min static scans). Blood samples (10 L) were taken from
+mice at 0, 4, 24, 48, 72, 96 hours and by cardiac puncture at 144 hours
+for pharmacokinetic (PK) analysis. Additional mice (n=4 per group) were
+sacrificed at 72 and 144 hours to determine tissue biodistribution via
+gamma counting.Results: The elimination of 124I-SGN-35 and 89Zr-Df-SGN-35
+followed 2-compartment PK, and the calculated elimination T1/2 was
+3.6-3.9 days. In mice bearing CD30high tumors with 291,000 CD30 copies
+per cell, the tumor:blood ratio of 124I-radioactivity after a dose of
+124I-SGN-35 fell from 1.24 after 72 hours to 0.78 after 144 hours,
+whereas after a dose of 89Zr-Df-SGN-35, mean tumor:blood ratio of
+89Zr-radioactivity increased from 7.38 at 72 hours to 15.05 (157.5 %ID/g)
+at 144 hours. The 124I-radioactivity and 89Zr-radioactivity tumor:blood
+ratio in the CD30neg tumors was 0.2 and 0.5 after 144 hours,
+respectively. The tumor:blood ratio of 89Zr-radioactivity continued to
+increase from 0.57 after 72 hours to 0.90 (13.4 %ID/g) at 144 hours after
+a dose of 89Zr-Df-SGN-35 in TF1- (CD30low) tumor bearing
+mice.Conclusions: These results indicate that 89Zr-Df-SGN-35 retains the
+specific anti-CD30 immune-reactivity and PK of the parent SGN-35
+molecule. 89Zr labeling generated superior imaging results compared with
+124I labeling. With respect to specificity, a favorable tumor:blood ratio
+was observed in the CD30high tumor bearing mice in contrast to the lack
+of accumulation of 89Zr-radioactivity in the CD30 negative tumors. The
+accumulation of 89Zr-radioactivity in CD30low TF1- tumors suggests that
+89Zr-Df-SGN-35 is a very sensitive CD30 targeted PET/CT imaging agent.
+

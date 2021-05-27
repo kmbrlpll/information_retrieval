@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Mechanisms governing lung adenocarcinoma metastasis
+
+
+Lung cancer is the leading cause of cancer deaths in men and women in the
+United States. Most lung cancer patients are diagnosed at a stage when
+they already have inoperable metastases. Identifying the drivers of lung
+cancer metastatic potential and the underlying mechanisms by which this
+state is induced, reversed or maintained is a question of immense
+clinical importance.Understanding the metastatic process in humans is
+limited, as early tumors exist in undiagnosed patients. Genetically
+engineered mouse models of lung adenocarcinoma provide an opportunity to
+study lung tumor progression and metastasis in vivo. We have recently
+improved upon existing lung adenocarcinoma mouse models enabling us to
+alter genes in developing tumors in vivo using lentiviral vectors that
+co-deliver Cre-recombinase and a cDNA. Additionally, the introduction of
+a tdTomato Cre reporter allows us to identify and isolate cells from all
+stages of cancer progression including primary tumors, disseminating
+tumor cells, circulating tumor cells, and micro-and macro-metastases.We
+hypothesize that differential gene expression between primary tumors and
+their metastases will identify key determinants of lung cancer metastatic
+progression. To this end, we have used RNA-Seq to identify differentially
+expressed genes between tumors and their metastases and validated a
+subset of these genes by Fluidigm microfluidics qPCR. Our validated genes
+include the lysyl hydroxylase Plod2 (a collagen modifier) and the
+transcription factor Arntl2, both recapitulating gene expression
+correlations observed in human metastatic lung adenocarcinoma.Our data
+demonstrate that knockdown of Plod2 decreases the metastatic properties
+of mouse metastatic cell lines, specifically migration and the ability to
+give rise to metastases in transplantation assays. Migration and colony
+morphology defects upon knockdown of Plod2 could be rescued by the
+addition of normal collagen.Further in vitro experiments using soft agar
+assays demonstrated that an additional candidate gene, the transcription
+factor Arntl2, is required for anchorage independent growth of mouse
+metastatic cell lines. These findings were extended to in vivo transplant
+experiments, demonstrating that Arntl2 is critical for metastatic
+seeding. This in vivo phenotype was rescued by expression of a hairpin
+insensitive Arntl2 cDNA, demonstrating the specific role of Arntl2 in
+metastatic progression. Current efforts are focused on confirming the
+role of Arntl2 in human lung adenocarcinoma and determining the molecular
+mechanism of how Arntl2 modulates cancer progression and metastasis using
+RNA-Seq.Together, these studies will increase our knowledge of factors
+that mediate human lung adenocarcinoma progression with the potential to
+identify new targets for intervention at distinct steps of the metastatic
+cascade.
+

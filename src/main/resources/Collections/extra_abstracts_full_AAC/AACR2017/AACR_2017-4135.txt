@@ -1,0 +1,31 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Inactivation/loss of PTPRS promotes ERK activation that sensitizes
+colorectal cancer cells to ERK inhibitors.
+
+
+The RAS pathway is a driver of many cancers, and has been targeted for
+the development of a variety of therapeutic inhibitors of BRAF, MEK, and
+more recently ERK. One of challenging issues is to predict response to
+targeted therapies. Here we report identification of PTPRS, a
+receptor-type protein tyrosine phosphatase, as a regulator/biomarker of
+ERK activation and inhibitor response in colorectal cancer. To identify
+the genes with high frequency mutations that might be predictive of RAS
+pathway dependence (“addiction”), we used a gene expression signature
+score to stratify 468 colorectal cancer tumors that also underwent
+targeted exome sequencing for 1321 cancer-associated genes. We found
+that, when the masking effects caused by mutant KRAS, BRAF and NRAS was
+iteratively removed, mutant PTPRS was strongly correlated with RAS
+pathway activation, with a mutation rate of 10.4% (22 out of 211
+remaining tumors). This led us to inactivate PTPRS in vitro using a
+specific peptide inhibitor, siRNA or CRISPR approaches in various
+colorectal cancer cell lines. Inhibition/loss of PTPRS significantly
+elevated phosphorylation of ERK and AKT and substantially sensitized
+cancer cells to the treatment of ERK inhibitors, which was enhanced by an
+AKT inhibitor. Surprisingly, PTPRS did not modulate the activity of EGFR
+and the ERK kinase, MEK. Our data indicate that PTPRS negatively
+regulates ERK signaling downstream of the EGFR/RAS/RAF/MEK pathway in a
+mechanism independent of AKT and DUSP6. As a result, inactivation/loss of
+PTPRS promotes ERK activation and “addiction”, thereby contributing
+to increased sensitivity to ERK inhibitors.
+
+

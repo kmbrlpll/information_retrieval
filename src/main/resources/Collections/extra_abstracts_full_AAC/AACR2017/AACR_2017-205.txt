@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Underlying mechanisms of genome-proteome discordance in squamous
+cell lung cancer.
+
+
+Introduction: Genomic analyses have yielded a tremendous amount of data
+on the genetic changes in lung cancers, but translating these experiments
+into actionable information benefitting lung squamous cell carcinoma
+(SQLC) patients has proven more difficult. Studies by the NCI Clinical
+Proteomic Tumor Analysis Consortium (CPTAC), our group, and others have
+demonstrated that gene and protein expression show only moderate
+correlation, demonstrating limitations in explaining phenotypic changes
+from genomics alone. These findings indicate a clear need for integrative
+proteogenomics to better understand tumor biology, especially in a
+complex disease like SQLC.
+
+Experimental: We have assembled a comprehensive proteogenomic dataset
+including DNA copy number (Affymetrix CytoScan HD Assay), targeted exome
+sequencing (Agilent Comprehensive Cancer Panel), RNA-sequencing (Illumina
+NextSeq), and shotgun proteomics (Q Exactive LC-MS/MS) on 116 surgically
+resected SQLC tumor samples with extensive clinical and follow up data.
+
+Results: We have identified 6584 high confidence proteins from
+preliminary proteomic analysis. After quality control filtering, we
+utilized 5562 gene-protein pairs for further analysis. Clustering of
+patient RNA expression in this patient cohort has been unable to fully
+reproduce the molecular classification previously published for SQLC.
+Furthermore, proteomic results indicate yet another potential
+classification strategy selecting patient subgroups that differ at
+protein level. We observed a 0.29 median Spearman’s correlation of 5562
+gene-protein pairs. There were 2781 highly correlated gene-protein pairs
+(greater than median) and 2781 poorly correlated gene-protein pairs (less
+than median) including 773 anti-correlated gene-protein pairs (less than
+0). We hypothesized that poorly correlated gene-protein pairs could be
+functionally related in a pathway-dependent manner. Enrichment analysis
+of poorly correlated proteins identified pathways related to mRNA
+processing, growth factor signaling (EGFR, FGFR), and nonsense-mediated
+decay (NMD). Interestingly, there were 9 frequently mutated SQLC genes in
+the low correlation gene-protein pairs but only 3 in the highly
+correlated pairs. We found three distinct patient subgroups by clustering
+poorly correlated proteins. Analysis of these subgroups showed
+differentially expressed pathways related to mRNA processing,
+ubiquitination, and NMD.
+
+Conclusion: Differential modulation of the proteome outside of genomic
+regulation may suggest important regulatory mechanisms in cancer and give
+new insights into treating SQLC. Analysis of poorly correlated
+gene-protein pairs suggests certain pathways are dysregulated in cancer,
+and ongoing DNA analysis and future analyses involving miRNAs,
+RNA-binding proteins, and the ubiquitin proteome system will help
+elucidate our preliminary findings.
+
+

@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: LHX9 is a novel oncogene bypassing KRAS addiction.
+
+
+Background Oncogenic mutations of RAS are detected in approximately 30%
+of human cancers. KRAS is highly mutated in pancreatic, colorectal and
+lung cancers. Direct therapeutic targeting of Ras and its membrane
+association has been challenging due to high affinity of GTP to Ras and
+unexpected mechanism of alternative post-translational modification.
+While few inhibitors of downstream RAS effectors - MAPK and PI3K pathways
+- show some clinical efficacy, they are complicated by complex feedback
+loops, and as single agents are not effective in KRAS-mutant cancers.
+Combination therapies may be promising yet limited by narrow therapeutic
+window. Identification of alternative strategies to directly inhibiting
+RAS and MAPK/PI3K pathways is key to address this unmet need.
+
+Methods To this end, we performed a genome-scale open reading frames
+screen to identify genes capable of restoring viability to KRAS-dependent
+cells following KRAS suppression. We tested the top 5-standard-deviation
+hits in low-throughput manner. One of the top hits included LIM homeobox
+9 (LHX9), a homeobox family transcription factor essential for mouse
+gonad, limb, and brain development. While LHX9 is amplified in several
+cancers, little is known regarding its roles in cancers. We used
+hypothesis-driven as well as unbiased approaches including RNA-seq,
+ChIP-seq, and IP-mass spectrometry to investigate the basis of
+LHX9-mediated bypass of KRAS dependency.
+
+Results We showed that LHX9 rescued KRAS suppression in multiple cell
+lines as well as xenograft. LHX9 overexpression substituted for KRAS in
+KRAS-driven xenograft. Moreover, in activated-MEK-overexpressing HA1E
+cells, LHX9 formed tumors as robustly as myristoylated AKT. LHX9 rescued
+KRAS suppression by both restoring KRAS-dependent pathways and activating
+KRAS-independent pathways. First, LHX9 reactivated the main KRAS
+effectors - MAPK and PI3K pathways and conferred resistance to MEK
+inhibitor Trametinib. Second, using ChIP- and RNA-seq, we observed LHX9
+binding to promoters/enhancers of genes whose expression was regulated by
+KRAS, particularly YAP1. Third, LHX9 increased expression and activation
+of KRAS-independent genes, including STAT3.
+
+Conclusions Here, we identified LHX9 as a novel bypass of KRAS addiction.
+Multiple unbiased approaches revealed at least three mechanisms by which
+LHX9 rescued KRAS suppression. Our findings contribute to our
+understanding of KRAS biology. Further investigation of downstream
+effectors of LHX9 may highlight potentially novel therapeutic targets for
+KRAS-dependent cancers.
+
+

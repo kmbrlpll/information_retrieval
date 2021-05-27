@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Risk models for cancer screening cohorts assembled from electronic
+health records: Application to calculating risks that underlie current
+cervical cancer screening guidelines.
+
+
+Introduction: We developed risk models for cancer screening cohorts
+assembled from electronic health records. We applied them to a cohort of
+1.4 million women undergoing cervical cancer screening with human
+papillomavirus (HPV) and Pap “cotesting” at Kaiser Permanente
+Northern California (KPNC) to develop risk estimates to inform screening
+guidelines.
+
+Methods: Cohorts assembled using electronic health records present 3
+challenges that make it inappropriate to use Kaplan-Meier or Cox models.
+First, the time of disease onset for an individual is unobserved, and
+falls between screens (interval-censoring). Second, there is also
+prevalent disease (left-censoring). Third, prevalent disease is not
+always immediately diagnosed (e.g. in those with negative screening
+results), and thus some incident disease is actually missed prevalent
+disease. To address the challenges, we propose a “logistic-Weibull”
+model that is a logistic regression for prevalent disease and a Weibull
+survival regression for interval-censored incident disease. We also
+propose a non-parametric method (no covariates) to check the assumptions
+of the logistic-Weibull model. We calculate risks of cervical
+intraepithelial neoplasia grade 3 and cancer (CIN3+) for each possible
+abnormal cotesting result. As an illustrative example of the biases that
+can occur in real data, we present the Kaplan-Meier, logistic-Weibull,
+and non-parametric cumulative risk curves for 34,261 women at KPNC who
+test Pap negative and HPV positive at enrollment.
+
+Results: The non-parametric method estimates 1.99% prevalent risk of
+CIN3+ and 5.68% 7-year cumulative risk of CIN3+ among women who are
+Pap-negative/HPV-positive at enrollment. In contrast, the Kaplan-Meier
+method estimates merely 0.18% prevalent risk of CIN3+, primarily because
+of prevalent disease not diagnosed at baseline. Furthermore, the
+Kaplan-Meier method overestimates 7-year cumulative risk as 7.37% because
+it equates the time of onset with the time of diagnosis, and thus
+overestimates the hazards of disease onset at later times. In contrast,
+the logistic-Weibull estimates of 1.87% prevalent risk of CIN3+ and 5.84%
+7-year cumulative risk of CIN3+ are close to the risk estimates from the
+non-parametric method.
+
+Discussion: The Kaplan-Meier method provided poor risk estimates while
+logistic-Weibull model-based risks were close to the risk estimates from
+the non-parametric method. Our findings support use of the
+logistic-Weibull models over Kaplan-Meier methods for developing the risk
+estimates that underlie current U.S. cervical cancer screening guidelines.
+
+

@@ -1,0 +1,68 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Dual targeting of CDK4 and ARK5 using a novel kinase inhibitor
+ON123300 is effective in vitro and in vivo in Multiple Myeloma
+
+
+Multiple Myeloma (MM) is an incurable malignancy of plasma cells
+afflicting over 21,000 patients and accounting for over 10,000 deaths in
+the US each year. It is characterized by recurrent chromosomal
+translocations resulting in the dysregulation of cyclinD1, cyclinD3,
+c-Maf, MafB and MMSET. Despite cell cycle dysregulation being prominent
+in myeloma pathogenesis, clinical efficacy of CDK4/CDK6 inhibitors has
+been modest. We therefore developed ON123300, an orally available and
+potent small inhibitor of CDK4/CDK6 and ARK5. ARK5 is a member of the
+AMP-activated protein kinase (AMPK) catalytic subunit family and is
+associated with increased tumor cell invasiveness in MM [Suzuki et al.,
+Mol. Cell. Bio 2004] and transcriptionally regulated by oncogenes such as
+MMSET, c-Maf and MafB. In this study, we evaluated the in vitro and in
+vivo efficacy of ON123300 in MM cell lines.A panel of nine MM cell lines
+was treated with varying doses of ON123300 and cell viability assessed
+using the CellTitre Blue assay after 48 hours. ON123300 decreased cell
+viability by approximately 30 to 70% (IC50:50-200nM) in 9/9 MM cell lines
+examined. Based on IC50 of 50 nM, we could stratify the cell lines into
+two groups: 6 cell lines (MM.1R, MM.1S, KMS11, U266, RPMI-8226 and ARP1)
+had IC50 of 50-150 nm and three cell lines (EJM, JJN3 and NCI-H929) were
+very sensitive (IC50 Multiple Myeloma (MM) is an incurable malignancy of
+plasma cells afflicting over 21,000 patients and accounting for over
+10,000 deaths in the US each year. It is characterized by recurrent
+chromosomal translocations resulting in the dysregulation of cyclinD1,
+cyclinD3, c-Maf, MafB and MMSET. Despite cell cycle dysregulation being
+prominent in myeloma pathogenesis, clinical efficacy of CDK4/CDK6
+inhibitors has been modest. We therefore developed ON123300, an orally
+available and potent small inhibitor of CDK4/CDK6 and ARK5. ARK5 is a
+member of the AMP-activated protein kinase (AMPK) catalytic subunit
+family and is associated with increased tumor cell invasiveness in MM
+[Suzuki et al., Mol. Cell. Bio 2004] and transcriptionally regulated by
+oncogenes such as MMSET, c-Maf and MafB. In this study, we evaluated the
+in vitro and in vivo efficacy of ON123300 in MM cell lines.A panel of
+nine MM cell lines was treated with varying doses of ON123300 and cell
+viability assessed using the CellTitre Blue assay after 48 hours.
+ON123300 decreased cell viability by approximately 30 to 70%
+(IC50:50-200nM) in 9/9 MM cell lines examined. Based on IC50 of 50 nM, we
+could stratify the cell lines into two groups: 6 cell lines (MM.1R,
+MM.1S, KMS11, U266, RPMI-8226 and ARP1) had IC50 of 50-150 nm and three
+cell lines (EJM, JJN3 and NCI-H929) were very sensitive (IC50 <50nM).
+ARK5 protein expression was confirmed by western blot in MM.1R, MM.1S,
+RPMI-8226, ARP1, EJM and JJN3 and was significantly higher in the more
+sensitive cell lines EJM and JJN3. Transcriptomic differences between
+more sensitive cell lines EJM, JJN3, NCI-H929 as compared to the six less
+sensitive cell lines were culled from RNA-seq and analyzed in different
+databases Genego, IPA and DAVID. Cell cycle was the top KEGG pathway
+identified in this analysis and included CDK6, a key target of ON123300.
+Simultaneously a xenograft mouse model was used to evaluate the
+therapeutic potential of ON123300 in vivo. ARK5 positive MM.1S myeloma
+cells (with pcDNA-mCh-luc constitutively expressing luciferase) were
+injected subcutaneously into SCID mice. Following tumor growth the mice
+were grouped as- control/untreated (n=5) and ON123300 treated (n = 5).
+ON123300 (100mg/kg) was administered by IP injection on alternative days
+and tumor growth monitored using highly sensitive IVIS imaging system.
+Mice in the treated group responded with 100 fold decrease in
+bioluminescence intensity (Control- 3.7xE10p/sec/cm2/sr,
+Treated-3.5xE08p/sec/cm2/sr) in their tumors as compared to untreated
+control mice.Our results suggest that ON123300 to be a potent inhibitor
+of tumor growth in vitro and in vivo and could be an effective agent for
+myeloma treatment especially for patients with aggressive disease driven
+by cytogenetic changes involving the MAF/ MMSET transcription factors. We
+expect our studies to expand therapeutic options for patients with this
+challenging disease.
+

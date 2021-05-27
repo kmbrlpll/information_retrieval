@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: miRNA associated with distal metastasis and local recurrence after
+post-operative radiotherapy in high-risk head and neck cancer
+
+
+Distal metastasis and local-regional recurrence after radiation therapy
+is a major cause of treatment failure for patients with head and neck
+squamous cell carcinoma. miRNA have been proposed as biomarkers in cancer
+to predict therapeutic outcomes and has been associated with the cellular
+response to radiation. The advantages of miRNA as a biomarker lies in its
+stability in tissues as well as body fluids, hence the potential for
+non-invasive diagnosis and prognosis. In this study, we performed miRNA
+expression profiling using tumor samples from 114 head and neck cancer
+patients treated by post-operative radiotherapy (PORT) at M.D. Anderson
+Cancer Center from 1992 to 1999. All patients were considered to be at
+high-risk for recurrence having histologically proven advanced squamous
+cell carcinoma. Amongst these samples, 41 had distal metastasis (DM), 24
+recurred locally or local/regional (LR) and 49 responded to PORT (no
+evidence of disease (NED)). Total RNA was extracted using a modified
+protocol of the Qiagen RNeasy Plus kit which retains small RNA fractions.
+miRNA profiling was performed using miRCURY 7th gen LNA microRNA Array
+from Exiqon. Microarray data were background-subtracted using mis-match
+control probes and normalized with median scaling. An ANOVA model based
+on clinical outcome was used to compare of miRNA expression between DM
+vs. NED and LR vs NED. There are 94 miRNAs that differentially expressed
+in DM and 60 miRNAs differentially expressed in LR with statistical
+significance (p 1.4). Among them, miR-551a and miR-551b-3p are
+significantly associated with the DM group and have been validated using
+qPCR. By transfection of either mimic or an inhibitor of these miRNAs
+using the HN5 head and neck cancer cell line, we have confirmed that both
+miR-551a and miR-551b-3p promote cell proliferation, enhance cell
+migration and invasion. We have further discovered GLIPR2, an autophagy
+inhibitor, as a direct binding target of both miRNAs using luciferase
+assay. By over-expressing miR-551a/miR-551b-3p or suppressing GLIPR2
+expression, we detected higher level autophagy with increased LC3 foci
+and overexpression of lipidated LC3B. Base on the above data, we propose
+a model that miR-551a and miR-551b-3p enhance radio-resistance and
+metastasis by promoting autophagy via suppressing GLIPR2 expression. A
+panel of 49 head and neck cancer cell lines were used for aCGH study and
+miRNA profiling. Further analysis is underway to correlate the patterns
+of DNA copy number variation and miRNA expression with radio-sensitivity.
+The findings in these cell lines will also be validated in tumor tissue
+samples. In summary, our data demonstrated the potential of miRNAs as
+biomarkers that predict therapeutic outcomes and mechanistic studies of
+miRNA markers will lead to novel pathway discovery and further
+improvement of cancer treatment.
+

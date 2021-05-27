@@ -1,0 +1,69 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Integrated PDEF and Twist1 expression distinguishes lethal
+prostate cancer from an indolent disease
+
+
+Introduction: Prostate cancer (PCa) is the third most commonly diagnosed
+cancer in the world. Advanced genomic studies have characterized it as a
+molecularly heterogeneous disease with a multiple clinical spectrum
+ranging from indolent to highly aggressive. Conventional therapies
+produce a high rate of cure for patients with localized PCa, but there is
+no effective treatment for metastatic PCa. These facts underline the
+urgent, yet unmet, need for identification and characterization of new
+targets that can help distinguish metastatic PCa from an indolent
+disease, and pave a way for novel mechanism based anti-metastasis
+therapies against PCa. Our previous studies have shown that loss of PDEF,
+a putative tumor suppressor, could lead to more invasive phenotype in PCa
+cell lines through promoting Epithelial to Mesenchymal transition (EMT).
+In this study, we evaluate the role of PDEF and Twist1 in PCa through
+NCBI omnibus and The Cancer Genome Atlas. We also evaluated the mechanism
+by which PDEF is regulated epigenetically.Methods: PDEF expression was
+monitored by immunohistochemistry using tissue microarray. Western blot
+was employed to measure the PDEF level in PCa cell lines. PDEF and Twist1
+gene expression was measured by real time PCR. The PDEF promoter was
+cloned and methylation specific PCR was performed. PDEF methylation in
+clinical samples was extracted from TCGA database and PDEF/Twist1
+microarray data was extracted from GSE16560 in NCBI gene expression
+omnibus with R language. GraphPad prism was used to generate figure and
+statistical analysis. P Introduction: Prostate cancer (PCa) is the third
+most commonly diagnosed cancer in the world. Advanced genomic studies
+have characterized it as a molecularly heterogeneous disease with a
+multiple clinical spectrum ranging from indolent to highly aggressive.
+Conventional therapies produce a high rate of cure for patients with
+localized PCa, but there is no effective treatment for metastatic PCa.
+These facts underline the urgent, yet unmet, need for identification and
+characterization of new targets that can help distinguish metastatic PCa
+from an indolent disease, and pave a way for novel mechanism based
+anti-metastasis therapies against PCa. Our previous studies have shown
+that loss of PDEF, a putative tumor suppressor, could lead to more
+invasive phenotype in PCa cell lines through promoting Epithelial to
+Mesenchymal transition (EMT). In this study, we evaluate the role of PDEF
+and Twist1 in PCa through NCBI omnibus and The Cancer Genome Atlas. We
+also evaluated the mechanism by which PDEF is regulated
+epigenetically.Methods: PDEF expression was monitored by
+immunohistochemistry using tissue microarray. Western blot was employed
+to measure the PDEF level in PCa cell lines. PDEF and Twist1 gene
+expression was measured by real time PCR. The PDEF promoter was cloned
+and methylation specific PCR was performed. PDEF methylation in clinical
+samples was extracted from TCGA database and PDEF/Twist1 microarray data
+was extracted from GSE16560 in NCBI gene expression omnibus with R
+language. GraphPad prism was used to generate figure and statistical
+analysis. P < 0.05 is considered significantResults: IHC staining of PDEF
+on PCa patient samples and in commonly used PCa cell lines suggested an
+inverse correlation between the level of PDEF and Twist1. Over-expression
+of PDEF in PC3 cells inhibits Twist1 expression. DNA Methylation status
+near the promoter region of PDEF was negatively associated with the
+expression levels of PDEF in established PCa cells. These results suggest
+that PDEF levels are regulated in part by promoter methylation. Using
+TCGA data we identified 12 methylation site and the methylation level of
+multiple site correlates with the increased of Gleason Score (GS).
+Analysis of gene expression data from GSE16560 revealed that low
+expression of PDEF and high expression of Twist1 were independently
+associated with poor survival in PCa patients. Integrated PDEF and Twist1
+expression can distinguished a high-risk group of people for hormone
+refractory PCa along with short median survival time.Conclusions: Loss of
+PDEF combined with gain of Twist1 expression can serve as a potential
+biomarker set for distinguishing aggressive PCa from an indolent disease.
+PDEF expression is epigenetically regulated in part by promoter
+hyper-methylation.Acknowledgement: Carroll W. Feist Endowed Chair Funds.
+

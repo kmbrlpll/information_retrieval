@@ -1,0 +1,38 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Single cell cisplatin measurements by ICP-MS
+
+
+Cisplatin, carboplatin, and oxaliplatin are the most widely used class of
+cancer chemotherapy drugs in the Western world. Many cancers are
+initially sensitive to platinum treatment but drug resistance frequently
+occurs. Cellular uptake of cisplatin is related to tumor burden, thus
+lower intracellular cisplatin levels are associated with a decreased
+tumor response. Traditional methods to assess cisplatin uptake in cells
+involves digesting a cell population and measuring the total platinum
+content. This approach does not reflect the distribution and individual
+cellular variation of cisplatin uptake. Here, we present a new method,
+single cell inductively coupled plasma-mass spectrometry (SC-ICP-MS) to
+quantitate the platinum concentration within individual cells.
+Experiments were performed using the A2780 cisplatin-sensitive and the
+corresponding cisplatin-resistant A2780-CP70 ovarian cancer cell lines.
+Time course experiments were performed to measure the change of cisplatin
+uptake over time. Serum starvation experiments were also performed to
+examine if differences in cisplatin uptake were dependent on the cell
+cycle. SC-ICP-MS was performed by injecting cell suspensions and
+analyzing the platinum 195 isotope. Individual cellular cisplatin levels
+were collected and a histogram representing the cell population was
+generated using the instrument software (Syngistix Nano Application).
+Other metals, such as zinc, iron, and copper, were analyzed to measure
+the variation between cell lines after treatment. We observed a
+heterogeneous distribution of cisplatin concentrations within the sample
+reflecting that cisplatin uptake differs from cell to cell. Serum
+starvation affected the uptake of cisplatin within cells, changing the
+cisplatin distribution curve. SC-ICP-MS was also effective in measuring
+other metals within individual cells and differences were observed
+between the A2780 and A2780-CP70 cell lines. In conclusion, single cell
+ICP-MS analysis allows for the quantitation of cisplatin within
+individual cells. The heterogeneous distribution of cisplatin uptake more
+closely reflects what occurs within tumor cells. SC-ICP-MS allows for the
+development of strategies to increase cisplatin uptake, translating to
+better clinical responses.
+

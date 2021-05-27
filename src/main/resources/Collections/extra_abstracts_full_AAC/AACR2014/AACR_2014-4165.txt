@@ -1,0 +1,51 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Differential pathway activation associated with domain-specific
+PIK3CA mutations
+
+
+A recent study of the mutation landscape of >3000 cancers across 12 major
+cancer types from the Cancer Genome Atlas (TCGA) program revealed PIK3CA
+as the second most commonly mutated gene, occurring at >10% frequency in
+8 types of cancer. Limited preclinical evidence suggested that mutations
+affecting PIK3CA catalytic vs. non-catalytic domains can produce
+different phenotypic consequences; however, whether domain-specific
+PIK3CA mutations results in distinct pathway consequences across multiple
+cancer types remain unclear. Thus, we used the PARADIGM algorithm, which
+integrates gene expression and copy number data into a superimposed
+pathway structure, to infer the activities of 13K pathway features and
+compared the signaling consequences associated with different
+domain-specific PIK3CA mutations within the TCGA Pan-Cancer dataset.
+Restricting to tumors harboring missense mutations in the coding region
+of a single PIK3CA domain resulted in 447 unique cases. PIK3CA mutations
+are distributed across the domains as follows: adaptor binding domain
+(ABD) = 23, Ras-binding domain (RBD) = 1, C2 = 50, helical = 199, and
+kinase = 174. Interestingly, the distribution of PIK3CA mutations among
+the domains is significantly different across cancer types (chi-square
+test p 50% of breast cancer PIK3CA mutations, while mutations in the
+helical domain predominate in head-and-neck and lung squamous carcinomas.
+Employing logistic regression and adjusting for cancer type, we
+identified 711 pathway features associated with kinase domain mutations
+(p 50% of breast cancer PIK3CA mutations, while mutations in the helical
+domain predominate in head-and-neck and lung squamous carcinomas.
+Employing logistic regression and adjusting for cancer type, we
+identified 711 pathway features associated with kinase domain mutations
+(p < 0.05). As expected for gain-of-function mutations, the inferred
+activity of the PI3K catalytic subunit appeared elevated among kinase
+domain mutations; and pathway enrichment analysis identified G-alpha
+(12/13) signaling events as the top enriched pathway among all
+interconnected pathway features (FDR-corrected EASE score = 0.0001).
+Interestingly, although the PI3K complexes appeared more activated in the
+kinase domain mutants, other constituents of the G-alpha (12/13) pathway,
+such as RHO GTPase complexes, showed lower activity. Similarly, 1115
+pathway features were identified as associated with helical domain PIK3CA
+mutations. Pathway enrichment and sub-network analysis independently
+identified lower activation of proliferation-related (FOXM1, MYC and
+PLK1) pathways as a key characteristic of the helical domain relative to
+other PIK3CA mutants. Altogether, these findings demonstrate that somatic
+mutations in different PIK3CA domains across 12 different cancer types
+produce distinct patterns of pathway activation, suggesting that
+domain-specific mutants likely have different oncogenic consequences,
+perhaps even within the same tumor type, and that targeted PIK3CA
+inhibitors may show differential anticancer activity depending on the
+domain location of the PIK3CA mutation.
+

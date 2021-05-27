@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Circulating tumor DNA (ctDNA) variant allele frequencies are
+reduced in responders to durvalumab and low baseline variant allele
+frequencies are associated with improved overall survival in NSCLC
+patients.
+
+
+Mutations can influence patient responses to treatment in non-small cell
+lung cancer (NSCLC). Monitoring such mutations can be critical to guiding
+treatment decisions, however, accessing sufficient biopsy material for
+mutation analysis can be challenging. Circulating tumor DNA (ctDNA) in
+the plasma offers a robust and highly sensitive approach to identifying
+mutations. Further, variant allele frequencies (VAFs) in individual
+mutations represent the number of cancer clones harboring a mutation,
+thus providing an indicator of tumor burden. Here we evaluated baseline
+mutation spectrum in genes implicated in cancer for association with
+clinical outcomes to durvalumab, an anti-PDL1 molecule, and examined
+changes in VAFs, as a surrogate for tumor burden, after treatment with
+durvalumab in NSCLC patients.
+
+CP1108/NCT01693562 was a nonrandomized phase 1/2 trial evaluating
+durvalumab in patients with advanced NSCLC or other solid tumors. By
+29APR2016, 304 NSCLC pts received 10 mg/kg Q2W of D ≤12 months with
+median 18.8 months follow up. A panel of 70 genes was assayed for
+nonsynonymous mutations and copy number (CN) variants using the
+Guardant360 cancer panel in plasma ctDNA from 115 NSCLC patients
+pre-treatment and 28 patients pre and 8 weeks post-treatment with
+durvalumab (Q2W). The mean VAF of all mutations harbored by a patient was
+correlated with clinical outcomes. Objective response rate (ORR) was
+calculated according to RECIST v1.1 and a Cox proportional hazards model
+was calculated adjusting for baseline ECOG, gender, age, smoking status,
+therapy lines, histology, and number of metastases.
+
+Partial responders (PRs) showed a significant decrease (Δ= -2.7%,
+p=0.005) in ctDNA mean VAF post-treatment with durvalumab (i.e. reduction
+in tumor burden) compared to an increase in mean VAF (i.e. increase in
+tumor burden) in progressive disease (PD) patients (Δ=+1.7%, p=0.17).
+This correlation was also observed in total mutation count in PR
+(Δ=-5.3, p=0.037) compared to PD patients (Δ=+2.7, p=0.003). In a PD
+patient, the VAF of T790M EGFR mutation doubled after 6 weeks of
+durvalumab treatment. Patients with VAFs below the median VAF or no CN
+gains had longer median overall survival (15.7 months, 95% CI=[11.2,not
+reached] ) compared to those with VAFs above the median or CN gains (5.1
+months 95% CI=[3.8,9.4]; HR=0.29; p=0.0005), even after adjustment for
+clinical covariates.
+
+CtDNA VAFs were consistently reduced in responders but not non-responders
+after eight weeks of durvalumab. Below median pre-treatment VAFs or no CN
+gains in ctDNA correlated with longer overall survival in patients
+treated with durvalumab. Because we examined oncogenes and tumor
+suppressors, increased VAF in ctDNA of these genes may help to identify
+aggressive, and difficult to control tumors
+
+

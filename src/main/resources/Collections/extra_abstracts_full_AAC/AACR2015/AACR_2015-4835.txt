@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A new biomarker of response to 5-azacitidine therapy in MDS and
+AML patients: SIRPB1
+
+
+Introduction: Myelodysplastic syndromes (MDS) and acute myeloid leukemia
+(AML) are a group of diseases of the elderly that initiates in a
+hematopoietic stem cell and are characterized by clonal hematopoiesis and
+uncertain prognosis, mostly due to cytogenetic background. In both
+diseases, 5-azacitidine (5-Aza) has been successful, inducing prolonged
+survival and delayed AML evolution.Aim: To identify the genes mostly
+predictive of treatment response, we use high-throughput genomic analysis
+(SNP arrays and/or NGS-RNA-seq and/or NGS-WES) in azacitidine-sensitive
+and resistant MDS/AML patients.Materials and Methods: NGS-WES or RNA seq
+HiSeq 2000 (Illumina) was positively done in 35/214 AML samples (16%).
+SNPs arrays (CytoScan HD Array, Affymetrix Inc.) was done in 125/214 AML
+samples (58%) and 18/32 MDS samples (56%) at diagnosis, then analyzed by
+Chromosome Analysis Suite (ChAS) v1.2 (Affymetrix Inc.), Nexus Copy
+Number v7.5 (BioDiscovery) and GeneGo MetaCore software.Results: We
+treated 246 adult patients (pts) with MDS or AML: 214 pts were AML and 32
+were MDS with a median age of 59 and 70 years, respectively. Forty-five
+pts were treated with 5-Aza (32 MDS / 13 AML), while 201 AML were treated
+with conventional chemotherapy.Forty-five MDS/AML pts were treated with
+at least one complete cycle of 5-Aza (75 mg/sqm/daily). SNP arrays was
+done in 22/45 (49%), 13 pts were defined insensitive/resistant.
+Macroscopic CNAs affecting a complete chromosome or its arms were
+detected in 5 of 22 pts (23%), while classical cytogenetic was able to
+detect only two cases of trisomy 8 (9%), suggesting superiority of SNPs
+array for CNAs identifications. Chromosomic aberrations disease-related
+are more statistically frequent on pts insensitive versus pts. sensitive
+(64% vs. 35%) (p0.01).Moreover we found that from the median of
+chromosomic alterations lenghts (in kbp) the group of insensitive MDS/AML
+patients to 5-Aza therapy present more losses than sensitive ones.By
+Nexus Copy Number software, we identify 137 genes highly differentially
+gain (SIRPB1 and KIT with p 0.05) or loss (SIRPB1, LCE1C, BCAS1, EXD3
+with p 0.05) or LOH between insensitive versus sensitive to 5-Aza (p
+0.05). Among these genes, we focused on SIRPB1 (cytoband 20p13, 56Kbps),
+since it was loss on 14/22 (64%) insensitive pts (p = 0,023) and gain on
+7/22 (32%) sensitive ones (p = 0,0324), respectively. SIRPB1 common
+deletion region length is 27 kbps and the common amplified region length
+is 30 kbps.By NGS-WES we analyzed 35/214 (16%) AML samples at diagnosis.
+We found mutations in SF3B1, NPM1, CBL, RUNX1, BCOR, KIT, GATA2, IDH2,
+KDM6A, KIAA1324L, PRIM2, RRN3, APOBR and again in SIRPB1 an heterozygous
+missense variant (rs45545343; p. H/D).Conclusions:We conclude that SIRPB1
+is a promising marker of response to 5-Aza treatment in myelodysplastic
+syndromes and in acute myeloid leukemia.
+

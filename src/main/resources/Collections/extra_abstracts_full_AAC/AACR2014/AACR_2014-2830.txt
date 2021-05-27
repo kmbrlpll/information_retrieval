@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Predictive biomarker identification for response to vantictumab
+(OMP-18R5; anti-Frizzled) by mining gene expression data of human breast
+cancer xenografts
+
+
+The Wnt/-catenin signaling pathway has been shown to play key roles in
+both normal development and tumorigenesis (Polakis, 2007; MacDonald et
+al., 2009).We have developed a monoclonal antibody, vantictumab, that
+blocks canonical WNT/-catenin signaling through binding of five Fzd
+receptors (1, 2, 5, 7, 8) at a conserved epitope within the extracellular
+domain. This antibody inhibits the growth of several tumor types,
+including breast, pancreas, colon and lung. Furthermore, studies also
+showed that vantictumab reduces tumor-initiating cell frequency and
+exhibits synergistic activity with standard-of-care chemotherapeutic
+agents (Gurney et al., 2012).Predictive biomarkers are central to
+maximizing clinical benefit by targeting breast cancer patients most
+likely to respond to vantictumab. We analyzed microarray gene expression
+data from 8 minimally passaged breast cancer xenograft models (mostly
+triple-negative) with established in vivo responses to vantictumab
+combined with paclitaxel (4 responders, 4 non-responders). We utilized
+support vector machinerecursive feature elimination (SVM-RFE, Guyon et
+al., 2002) to identify genes that can distinguish between responder and
+non-responders and SVM for classification. Leave-one-out cross-validation
+was used to measure positive predictive value (PPV), negative predictive
+value (NPV), sensitivity and specificity of the models. The selected
+6-gene signature achieved the best performance with
+PPV=NPV=sensitivity=specificity=100% in the 8 breast cancer models. In
+addition, we observed a strong correlation between the gene signature
+biomarker and the ratio of tumor volume (RTV) observed in the breast
+xenograft experiments.The identified 6-gene biomarker was used to predict
+the response to vantictumab in combination with paclitaxel in 6
+additional, HER2-negative breast cancer xenograft models. The efficacy in
+all 6 models was predicted successfully by the biomarker. Prevalence data
+for the biomarker will be presented for both HER2-negative and
+triple-negative breast cancers. The 6-gene biomarker is currently being
+evaluated in a Phase 1b study of vantictumab in combination with
+paclitaxel in patients with locally recurrent or metastatic HER2-negative
+breast cancer.
+

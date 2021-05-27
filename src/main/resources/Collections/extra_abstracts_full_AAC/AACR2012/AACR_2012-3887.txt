@@ -1,0 +1,41 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A screen for new cancer specific drugs that target centrosome
+clustering
+
+
+Most normal cells have two centrosomes that form bipolar spindles during
+mitosis, while cancer cells often contain extra centrosomes. Such cancer
+cells then achieve bipolar division by clustering centrosomes into two
+functional poles. Our lab has previously shown that inhibition of
+Integrin-linked kinase, which is a signaling and scaffold protein in
+focal adhesion and is also a centrosomal protein, results in scattered
+centrosomes and multipolar spindles, which leads to cancer specific cell
+death (Fielding et al., 2011, 30:521-534, Oncogene). A major problem with
+clinically used anti-mitotic drugs, such as taxol, is their toxicity in
+normal cells. Our goal is to develop new drugs that act specifically on
+cancer cells through targeting extra centrosomes without affecting normal
+cells. To discover new drugs, we established a high-content screen that
+automatically detects cells with de-clustered centrosomes. BT-549, a
+breast cancer cell line, was used for the screen, since it is known to
+effectively cluster centrosomes. The Canadian Chemical Biology Network
+enabled us to test chemical libraries predicted to have drug-like
+properties. For screening, cells were grown in 96 well plates, treated
+with test compounds for 5 hours, and subjected to immunofluorescence to
+examine centrosome arrangement in mitotic cells. Images were taken and
+analyzed with an automated fluorescence imager, Cellomics Array Scan VTI.
+We have thus screened over 6000 compounds from which we identified 18
+hits. Fifteen of these were confirmed to inhibit centrosome clustering in
+the cells cultured under standard conditions, and induce an arrest in
+mitosis. Three compounds are structurally similar, suggesting a common
+structural motif as preventing centrosome clustering. To compare the
+effects of these drugs on normal and cancer cells, the viability of
+several breast and other cancer cell lines, an immortalized model of
+normal human mammary epithelial cells (MCF10A), and freshly isolated
+primary normal human mammary epithelial cells were examined after two
+days of drug treatment using the MTT assay. These comparisons identified
+some compounds that selectively reduced the viability of cancer cells,
+but not normal mammary epithelial cells suggesting their potential for
+cancer-specific therapy. These small molecules are currently being tested
+in orthotopic and xenograft models, and will be studied for target
+identification and mechanism of action for further drug development.
+

@@ -1,0 +1,80 @@
+Meeting: 2015 AACR Annual Meeting
+Title: The landscape of DNA allelic imbalance in the normal-appearing
+airway field of cancerization
+
+
+The phenomenon of field cancerization has been previously postulated and
+observed in various cancers, including those of the lung. We have
+recently demonstrated that normal-appearing airway cells carry expression
+profiles that are often characteristic of the adjacent tumor. A better
+understanding of the molecular mechanisms that drive these field changes
+may provide important biological insights into lung cancer pathogenesis.
+Loss-of-heterozygosity (LOH) and other forms of acquired chromosomal
+alterations (allelic imbalance; AI) have an established and profound role
+in oncogenesis. However, the relationship between AI and field
+cancerization has not been studied comprehensively across the genome.
+Here we address this void by interrogating a rich collection of
+normal-appearing airways from non-small cell lung cancer (NSCLC)
+patients. We applied Illumina 1M SNP arrays to characterize whole genome
+copy number alterations in 435 samples from 45 early-stage NSCLC patients
+[31 adenocarcinomas (ADCs), 14 squamous cell carcinomas (SCCs)]. Each
+patient set comprised samples from the primary tumor and adjacent
+normal-appearing airways paired with blood cells and/or uninvolved normal
+lung tissue. A subset of these included brushings from ipsilateral large
+airways (mainstem bronchi) and from the nasal cavities as well as
+multi-region tumor biopsies for intra-tumoral analysis (on 22, 27, and 20
+patients, respectively). To characterize the field in normal-appearing
+airways at a genome-wide scale, we applied a haplotype-based
+computational program, hapLOH, to profile AI events (loss, gain, copy
+neutral LOH) in a paired mode contrasting signals in the blood or normal
+lung. We detected 198 AI events in normal-appearing airways of 24 of 45
+patients; 92% of these events were represented in the paired tumor. Of
+the 24 patients, 23 had events in the adjacent airway, 3 had events in
+the large airway, and no events were observed in nasal brushings,
+indicating a pronounced AI field gradient. We detected AI in the airways
+of approximately 43% of ADCs regardless of smoking status (3 of 7
+smokers, 10 of 24 non-smokers), and 79% (11 of 14) of SCCs, clearly
+indicating squamous histology as a greater predictor of observing a
+genomic field effect (P The phenomenon of field cancerization has been
+previously postulated and observed in various cancers, including those of
+the lung. We have recently demonstrated that normal-appearing airway
+cells carry expression profiles that are often characteristic of the
+adjacent tumor. A better understanding of the molecular mechanisms that
+drive these field changes may provide important biological insights into
+lung cancer pathogenesis. Loss-of-heterozygosity (LOH) and other forms of
+acquired chromosomal alterations (allelic imbalance; AI) have an
+established and profound role in oncogenesis. However, the relationship
+between AI and field cancerization has not been studied comprehensively
+across the genome. Here we address this void by interrogating a rich
+collection of normal-appearing airways from non-small cell lung cancer
+(NSCLC) patients. We applied Illumina 1M SNP arrays to characterize whole
+genome copy number alterations in 435 samples from 45 early-stage NSCLC
+patients [31 adenocarcinomas (ADCs), 14 squamous cell carcinomas (SCCs)].
+Each patient set comprised samples from the primary tumor and adjacent
+normal-appearing airways paired with blood cells and/or uninvolved normal
+lung tissue. A subset of these included brushings from ipsilateral large
+airways (mainstem bronchi) and from the nasal cavities as well as
+multi-region tumor biopsies for intra-tumoral analysis (on 22, 27, and 20
+patients, respectively). To characterize the field in normal-appearing
+airways at a genome-wide scale, we applied a haplotype-based
+computational program, hapLOH, to profile AI events (loss, gain, copy
+neutral LOH) in a paired mode contrasting signals in the blood or normal
+lung. We detected 198 AI events in normal-appearing airways of 24 of 45
+patients; 92% of these events were represented in the paired tumor. Of
+the 24 patients, 23 had events in the adjacent airway, 3 had events in
+the large airway, and no events were observed in nasal brushings,
+indicating a pronounced AI field gradient. We detected AI in the airways
+of approximately 43% of ADCs regardless of smoking status (3 of 7
+smokers, 10 of 24 non-smokers), and 79% (11 of 14) of SCCs, clearly
+indicating squamous histology as a greater predictor of observing a
+genomic field effect (P < 0.03). The most frequently observed airway
+alterations were in 9p and 9q, affecting 13 smoker patients;
+interestingly, these were not observed in the non-smokers. Finally, we
+note that AI events were present in the adjacent airways of 4/5 (80%) of
+patients with recurrence and only in 20/40 patients without recurrence,
+signaling a profound prognostic value in studying the field of
+cancerization in NSCLC. Although preliminary, our findings suggest that
+chromosomal aberrations are common in the normal-appearing airway field
+of cancerization and can potentially provide insights into the biology of
+lung cancer pathogenesis and progression.
+

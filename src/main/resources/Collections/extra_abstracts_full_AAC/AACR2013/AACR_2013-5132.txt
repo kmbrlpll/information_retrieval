@@ -1,0 +1,33 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Interactively exploring patterns in TCGA data: a web-based
+compendium of next-generation clustered heat maps.
+
+
+Each of the 5 TCGA marker paper published in Nature to date has included
+at least one clustered heat map (CHM). We introduced CHMs in the early
+1990s for pharmacogenomic analysis (1) and later for integrated
+visualization of genomic, transcriptomic, proteomic, pharmacological, and
+functional data (1). As the ubiquitous first-order way of visualizing
+omic data, CHMs have appeared in many thousands of publications (39),
+including those from TCGA. We have elsewhere summarized their limitations
+(10).One such limitation is that CHMs are generally static images. We
+therefore initiated the next-generation CHM (NG-CHM) project, using an
+image-tiling technology similar to that in Google Maps for navigation and
+extreme drill-down without loss of resolution. Once the CHM has been
+zoomed sufficiently, labels (e.g., gene, protein, or drug names) appear
+on the image's axes. Clicking on a label produces a menu of link-outs
+(e.g., to GeneCards, Google, PubMed). For gene vs. gene maps, each pixel
+can represent a color-coded Pearson correlation coefficient. Clicking on
+the pixel pulls up the corresponding data scattergram, bootstrap
+statistics, literature references, or pathway relationships. Strong
+usability features include floating windows, flexible search tools,
+cluster selection tools, customizable re-coloring of the CHM, and
+high-quality PDF's suitable for publication. NG-CHMs are a major resource
+for exploratory analysis and visualization in multiple projects of TCGA
+and other large-scale molecular profiling programs. Explore interactive
+versions for TCGA breast, colorectal, lung squamous, and glioblastoma
+data at http://bioinformatics.mdanderson.org/main/TCGA/NGCHM.Supported in
+part by NCI Grant No. U24CA143883, by a gift from the Mary K. Chapman
+Foundation, and by a grant from the Michael and Susan Dell Foundation
+honoring Lorraine Dell.
+

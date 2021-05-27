@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identification of the anthrax toxin receptor (ANTXR1) as the high
+affinity cellular receptor for Seneca Valley Virus (SVV)
+
+
+Small cell lung cancer (SCLC) is an extremely aggressive and almost
+universally lethal form of lung cancer, which accounts for approximately
+15% of all lung cancer diagnoses annually. Novel and more effective
+therapies are desperately needed for SCLC, as the standard treatment has
+not improved in almost three decades. Recently, oncolytic viruses have
+shown strong anti-cancer efficacies in tumors with high levels of
+selectivity for cancer cells.The oncolytic picornavirus, Seneca Valley
+Virus (SVV), has previously been shown to infect and lyse cancer cells
+with neuroendocrine features, notably SCLC and pediatric brain tumors.
+Pre-clinical mouse models and early phase clinical trials have confirmed
+the ability of SVV to home directly to the tumor through the vasculature,
+specifically infect tumor cells without affecting normal cells, and
+replicate to high viral titers intratumorally even after the production
+of neutralizing antibodies. However, the clinical development of SVV has
+been hindered by the inability to identify patients who would benefit
+from SVV virotherapy because essential host proteins for viral entry,
+including the cellular receptor, have not been characterized.Using genome
+wide loss-of-function CRISPR screens in the SCLC cell line H446 and
+haploid cell line HAP1, we identified the anthrax toxin receptor 1
+(ANTXR1) as an essential host protein for SVV. Interestingly, ANTXR1 is
+also one of the receptors for the toxin of Bacillus anthracis and has
+been previously described as being upregulated in tumor endothelial
+cells. Secondary screens performed in both cell lines confirmed gene
+knockout of ANTXR1 conferred resistance to SVV. We established that in
+multiple permissive SCLC and pediatric cancer cell lines that loss of
+ANTXR1 protein expression using CRISPR gene knockout leads to a loss of
+SVV permissivity. Re-expression of ANTXR1 in ANTXR1 knockout cell lines
+was sufficient to rescue SVV permissivity. Furthermore, the expression of
+the ANTXR1 protein in two non-permissive SCLC cell lines led to a
+conversion in SVV permissivity. A direct and high affinity interaction
+was confirmed between SVV and ANTXR1 using co-immunoprecipitation assays.
+Additionally, we discovered that ANTXR1 is the major binding determinant
+for SVV on cells using a binding assay with fluorescently labeled SVV.
+Lastly we determined using previously published gene expression data from
+the Cancer Cell Line Encyclopedia (CCLE) that non-permissive lines which
+do express ANTXR1 can be explained by the presence of an intact and
+active innate immune response pathway. These findings identify ANTXR1 as
+the high-affinity cellular receptor for SVV. Furthermore, these data
+identify a predictive biomarker for SVV permissivity that could lead to
+defined selection criteria for subsequent clinical trials testing SVV in
+both SCLC and pediatric brain cancer patients.
+

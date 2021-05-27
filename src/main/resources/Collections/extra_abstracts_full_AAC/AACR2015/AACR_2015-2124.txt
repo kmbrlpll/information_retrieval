@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Analysis of the functional relevance of novel alternative splicing
+events in non-small cell lung cancer
+
+
+Lung cancer is the most common cause of death by cancer worldwide.
+Deregulation of alternative splicing (AS) is becoming increasingly
+relevant for the understanding of the molecular mechanisms of lung tumor
+progression. Genome-wide microarrays containing probes in exons and
+junctions can be used to identify differential AS events. We developed an
+algorithm, called ExonPointer, which was optimized to detect AS events
+using this kind of platforms. Using this technique, we successfully
+detected splicing events regulated by the oncogene serine/arginine-rich
+splicing factor 1 (SRSF1) in lung cancer cell lines. Moreover, four of
+these genes, ATP11C, IQCB1, TUBD1 and PRRC2C, showed a significantly
+different pattern of AS in primary non-small cell lung cancer (NSCLC)
+compared with normal lung tissue. In the case of PRRC2C, we also
+demonstrated that the deregulation of the splicing event was important
+for tumor progression. We next applied the same technique to target
+differential AS events in NSCLC primary tissues (13 lung squamous cell
+carcinomas and 9 lung adenocarcinomas). Their paired normal lung tissues
+were used as reference. The validation rate for the top 20 events
+identified by ExonPointer was 70%. Gene cluster analyses showed an
+enrichment of clusters implicated in cancer development such as Cellular
+Growth and Proliferation, or Cell Death and Survival. Among others, we
+observed accumulation of a tumor-specific splice variant in
+Mitogen-Activated Protein Kinase 9 (MAPK9 or JNK2). The tumor-specific
+variant for this gene contains an alternative exon 2 which causes a frame
+shift introducing a premature stop codon. Functional analyses using
+isoform-specific siRNAs showed that this variant did not affect tumor
+growth or progression. However, its expression significantly correlated
+with the expression of Regulator of Nonsense Transcripts 3A and B (UPF3A
+and UPF3B) in 42 lung cancer cell lines. These proteins belong to the
+Nonsense Mediated Decay (NMD) pathway, which eliminates aberrant mRNA
+transcripts, suggesting that the presence of some aberrant AS variants in
+lung cancer are caused by a malfunction of NMD. In conclusion, we have
+developed a reliable tool for the high throughput analysis of AS, and
+have identified new splicing events in lung cancer that can be studied as
+potential diagnostic markers and therapeutic targets.
+

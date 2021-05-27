@@ -1,0 +1,76 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Periostin expression in glioma correlates with genes related to
+mesenchymal transition and survival.
+
+
+Background: Gliomas are the most common primary brain tumors and their
+prognosis is related to WHO histopathological grade. Glioblastoma (grade
+IV astrocytoma or GBM) is characterized by microscopic invasion into
+surrounding brain and universally poor prognosis despite treatment with
+surgery, radiation and chemotherapy . Recently, the matricellular protein
+periostin (POSTN) has been shown to be associated with increased
+parenchymal invasion (measured by edema on MRI) and poor prognosis in
+GBM. The specific aim of the present analysis was to determine the
+mechanistic impact of POSTN on glioma outcome.Methods: We used the gene
+expression of POSTN from 559 GBM patients (pts) included in the Cancer
+Genome Atlas (TCGA) to build a gene expression model of the expression of
+12184 genes to predict POSTN expression using elastic net. This model was
+used to predict the POSTN expression in a testing set of 419 pts with
+gliomas included in Repository for Brain Neoplasia Data (REMBRANDT) (99
+grade II, 71 grade III and 125 grade IV and 124 with no grade).
+Receiver-operating characteristic (ROC) and survival analysis were
+performed to measure the performance of the model, and gene-set
+enrichment analysis (GSEA) was used to reveal network topology
+perturbations.Results: The gene expression model discovered 721 genes
+highly correlated to POSTN expression that predict POSTN in the testing
+set with an area under the curve (AUC) of 0.96 on ROC curve. GSEA reveals
+genes involved in mesenchymal transition, transition of invasive ductal
+carcinoma (IDC) from ductal carcinoma in situ (DCIS) in breast cancer and
+stem cell signatures. Survival analysis of the TCGA GBM pts showed that
+the cohort with high POSTN had worse survival (median 12 months versus 15
+months, log-rank p=0.0002). When applied to all pts in REMBRANDT, the
+model predicted classes also had significantly different survival (median
+13.4 versus 38 months, log-rank pBackground: Gliomas are the most common
+primary brain tumors and their prognosis is related to WHO
+histopathological grade. Glioblastoma (grade IV astrocytoma or GBM) is
+characterized by microscopic invasion into surrounding brain and
+universally poor prognosis despite treatment with surgery, radiation and
+chemotherapy . Recently, the matricellular protein periostin (POSTN) has
+been shown to be associated with increased parenchymal invasion (measured
+by edema on MRI) and poor prognosis in GBM. The specific aim of the
+present analysis was to determine the mechanistic impact of POSTN on
+glioma outcome.Methods: We used the gene expression of POSTN from 559 GBM
+patients (pts) included in the Cancer Genome Atlas (TCGA) to build a gene
+expression model of the expression of 12184 genes to predict POSTN
+expression using elastic net. This model was used to predict the POSTN
+expression in a testing set of 419 pts with gliomas included in
+Repository for Brain Neoplasia Data (REMBRANDT) (99 grade II, 71 grade
+III and 125 grade IV and 124 with no grade). Receiver-operating
+characteristic (ROC) and survival analysis were performed to measure the
+performance of the model, and gene-set enrichment analysis (GSEA) was
+used to reveal network topology perturbations.Results: The gene
+expression model discovered 721 genes highly correlated to POSTN
+expression that predict POSTN in the testing set with an area under the
+curve (AUC) of 0.96 on ROC curve. GSEA reveals genes involved in
+mesenchymal transition, transition of invasive ductal carcinoma (IDC)
+from ductal carcinoma in situ (DCIS) in breast cancer and stem cell
+signatures. Survival analysis of the TCGA GBM pts showed that the cohort
+with high POSTN had worse survival (median 12 months versus 15 months,
+log-rank p=0.0002). When applied to all pts in REMBRANDT, the model
+predicted classes also had significantly different survival (median 13.4
+versus 38 months, log-rank p<0.0001). Interestingly, this classification
+of survival persists in the subset of pts with grade III (n=71, median
+survival 17.7 versus 42.4 months, p=0.0125) and grade II (n=99, median
+survival 17.9 versus 50.8, p=0.02) gliomas.Conclusions: We have developed
+a gene expression model related to POSTN, a gene linked to poor prognosis
+in GBM, to investigate the role correlated genes may play in the
+aggressive phenotype. Some of the genes found to be highly correlated to
+POSTN are related to mesenchymal transition, invasive behavior in breast
+cancer and stemness. We verify that high POSTN expression is a strong
+prognostic indicator for poor outcome in GBM, and reveal for the first
+time that pts with grade II and III glioma with a high POSTN signature
+have significantly worse survival. Given that low grade glioma pts often
+have less aggressive treatment at time of diagnosis, we propose studying
+the role of early chemoradiation in the subset of pts with poor POSTN
+signature to potentially improve their outcome.
+

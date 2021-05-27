@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Discovery and characterization of novel antagonistic antibodies
+that bind with high affinity to human, cynomolgus, and murine TIGIT, an
+immune checkpoint receptor.
+
+
+TIGIT is a recently identified coinhibitory immune checkpoint receptor
+expressed on NK, effector T, and regulatory T cells. In the oncology
+setting, TIGIT is upregulated on tumor infiltrating immune cells and is
+co-expressed with exhaustion markers including PD-1, TIM-3 and LAG-3 on
+infiltrates. TIGIT binds at least two ligands, CD155 and CD112, which are
+expressed on antigen presenting cells and other tissues, including tumor
+cells. These ligands also bind the activating receptor CD226, often
+co-expressed with TIGIT, creating a network that modulates adaptive and
+innate immune response in a manner analogous to the CD28-CTLA4-CD80-CD86
+network. The absence of TIGIT signaling, resulting from genetic
+deficiency or blockade, enhances anti-tumor immunity in murine models,
+suggesting that disruption of TIGIT signaling may have clinical utility.
+To explore this concept, yeast antibody display was used to identify
+fully human, anti-TIGIT antibodies that block binding to ligands.
+Multiple rounds of selection with human and mouse TIGIT protein were
+performed to promote species cross-reactivity, diversity and affinity. A
+pool of 695 unique clones were screened for binding to TIGIT protein; 65
+clones were then selected for further evaluation. Of the 65, 63 competed
+with CD155 for binding to TIGIT in a ForteBio screen. Fifty-three clones
+bound cyno TIGIT and 25 bound TIGIT from all three species (human, cyno,
+mouse). Antibodies bound endogenous TIGIT on primary T cells and blocked
+binding of ligands to cell surface expressed TIGIT in a dose dependent
+manner. Twelve clones showed functional activity in a TIGIT blockade
+bioassay and showed synergy with anti-PD-1 antibody in a PD-1/TIGIT
+combination bioassay. Activity in the bioassays correlated with affinity
+for recombinant and cell surface expressed TIGIT. Based on species
+cross-reactivity, binding affinity and activity in the bioassays, a lead
+candidate antibody was selected and produced as mouse IgG1 and IgG2a
+chimeras for testing in mouse tumor models. The chimeric antibodies
+behaved similarly to the parent clone in vitro exhibiting high affinity
+for TIGIT, competition with ligand for binding to TIGIT, and functional
+blockade of CD155-TIGIT interaction. Evaluation of the chimeric
+anti-TIGIT candidates alone and in combination with anti-PD-1 antibody in
+mouse syngeneic tumor models is ongoing, and results will be reported at
+the meeting. Antibody mediated blockade of coinhibitory immunoreceptors
+has proven clinically efficacious and supports the development of
+antibodies that target TIGIT. The unique human, non-human primate, and
+murine cross-reactive TIGIT-specific antibodies described here offer a
+simplified preclinical development path and the functional activity of
+these molecules supports their consideration as candidates for
+therapeutic development.
+
+

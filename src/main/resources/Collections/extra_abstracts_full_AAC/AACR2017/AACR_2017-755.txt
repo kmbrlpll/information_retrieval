@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Supporting precision cancer treatment decision with functional
+evaluation of cancer gene mutations and variants.
+
+
+Precision oncology requires identifying and understanding of cancer
+genome changes in a patient tumor tissue and finding the best cancer
+therapy targeting the changes. Although many cancer gene targets have
+been validated so far, next-generation genomic profile analyses have
+uncovered much more cancer gene variants with unconfirmed functions.
+Developing methods to functionally evaluate mutations/variants and
+understand their roles in cancer development and drug responses, such as
+drug resistance or synthetic lethality, will be critical in cancer
+treatment decision support. In addition, in some clinical cases, multiple
+treatment choices such as multiple drug combinations exist. Developing
+cancer models which can test multiple treatments will provide direct
+comparison of those therapies and select the best options. At
+GenenDesign, we have performed drug tests on mouse “avatars”, which
+are also known as Patient-Derived Xenograft (PDX) models. They are
+personalized cancer models derived from patient tumor samples with cancer
+mutation profiles and drug responses very similar to the corresponding
+cancer patients. Drug screenings were carried out in avatars by testing
+chemotherapies or targeted drugs against specific cancer gene mutations
+and variants. Selected drugs or drug combinations from avatar studies
+have been applied to corresponding patients with highly consistent
+treatment outcome. From genomic profile analysis of our near 1500 PDX
+tumor models in cancer types such as lung, colorectal, gastric, liver,
+and esophageal, we are able to identify a large number of cancer gene
+mutations/variants, gene fusions, as well as gene copy number and RNA
+expression changes in major cancer signal pathways such as EGFR, Her2,
+c-Met/ALK, Ras/Raf, FGFRs, PI3K/Akt, Wnt, Notch, DNA repair, cell cycle
+regulation, angiogenesis. Many of these gene aberrations are potential
+drug targets and have been functionally tested in PDX models with
+approved drugs or clinical drug candidates. The mutation/variant
+information and drug response information generated from PDX models have
+been organized into our Precision Cancer Information Lab database.
+Patient tumor DNA test results have been used for searching genetically
+matched PDX models in our database. Once matched PDX models are
+identified, the available drug response information can be used as
+evidence for clinical treatment decision. In addition, the matched PDX
+models can also been used to test more treatment options such as
+different combinations and new clinical drug candidates.
+
+

@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Rational dose optimization for multi-drug cocktails
+
+
+The design of an optimal combination therapy can be thought of as a set
+of tradeoffs designed to maximize the efficacy of the combination for a
+given toxicity budget. As anticancer agents (even targeted ones) often
+have overlapping toxicities, an efficient approach to making
+efficacy-toxicity tradeoffs is critical. In this context, a major
+impediment is that the search space grows exponentially with each
+additional drug while in vivo studies have a fixed upper size limit.Here,
+we model the efficacy and toxicity landscapes of multidrug cocktails, and
+describe an approach to visualize and design efficient studies for
+three-drug combinations. We further demonstrate the application of our
+approach in a practical drug development context by showing its impact on
+actual study design, and validation with in vivo datasets. As our
+approach relies on equations from first principles, it is in theory
+extensible to an arbitrary number of drugs, subject to the practical
+constraints of drug dosing.First, we demonstrate an approach to visually
+determine the optimal dose combination for a three-drug combination with
+fully overlapping toxicity. Efficacy and toxicity isoboles visualized as
+surfaces in three-drug space demonstrate the optimal dose combination,
+which corresponds to the point of tangency between the MTD and efficacy
+isobole surfaces.Next, we derive an analytical method to efficiently
+estimate this point with a minimum of data, and without using graphical
+methods (important for extending the work beyond three dimensions). The
+combined efficacy and toxicity of a three-drug combination were modeled
+from first principles using isobolograms as a sum of the single-agent
+PK/Efficacy (PK/E) relationships and four combination terms (three binary
+and one ternary) to account for potential interactions between the drugs.
+Borrowing from Microeconomic Utility Theory, we found the point of
+greatest efficacy along the Maximum Tolerated Dose (MTD) toxicity
+contour, which corresponds to the efficacy isobole tangentially
+intersecting the MTD contour. Through both analytical and numerical
+approaches, we determined the the single- and double-agent efficacy
+parameters uniquely determine the dose escalation path which provides the
+best estimate of combination efficacy. Simulated experiments demonstrate
+the optimal observation path up to MTD performs acceptably compared to a
+uniformly-gridded exposure space.Finally, we demonstrate the application
+of this approach in a proposed experimental design for three-drug
+combinations, and validate it with experimental data.While developing
+multi-drug cocktails poses many scientific and operational challenges,
+the approach presented here provides a straightforward route to
+preclinical testing and validation through the design of parsimonious
+studies that can explicitly define the contribution of each individual
+drug (and each two drug combination) to the overall efficacy and toxicity
+landscape of the cocktail.
+

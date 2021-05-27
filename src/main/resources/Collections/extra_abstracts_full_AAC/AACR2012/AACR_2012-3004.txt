@@ -1,0 +1,46 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Biomarker identification through integrative bioinformatics
+analysis of serous epithelial ovarian cancer tumor samples
+
+
+Ovarian cancer is the leading cause of death from gynecological
+malignancies and the fifth major cancer in women in the world. Once
+diagnosed, ovarian cancer is usually treated by cytoreductive surgery
+followed by platinum and taxane-based chemotherapeutic drugs. However,
+resistance to chemotherapy is a major impediment in management of serous
+epithelial ovarian cancer (SEOC). We hypothesize that a multifaceted view
+of the alterations taking place at multiple cellular levels using
+molecular profiling technologies will offer insight into the mechanisms
+which play key roles in drug resistant ovarian carcinomas. Also, the
+application of appropriate bioinformatic and statistical data processing
+and analysis is of utmost importance in identification of key drug
+resistance pathways. Current study is performed on 25 high-grade serous
+epithelial ovarian tumor tissue samples from patients that demonstrated
+favorable, or unfavorable response to chemotherapy treatment. Four
+different microarray platforms were used for molecular profiling of the
+full sample cohort at different molecular levels, namely: Single
+Nucleotide Polymorphisms (SNP), mRNA expression, miRNA expression and
+promotor tiling arrays (methylation)., Integrative and systematic
+analyses using up-to-date statistical approaches, such as empirical
+Bayes, AUC, SAM, permuted t-test and lassoed PCA, among others, have been
+employed on these large datasets obtained through the various
+high-throughput platforms. Preliminary mRNA expression analysis
+identified an enrichment of upregulated genes involved in cellular growth
+and proliferation, cellular development as well as differential gene
+expression changes in the TGFB1, TNF, PI3K, IFNG networks, between the
+chemotherapy responsive and unresponsive groups. The major molecular and
+cellular functions associated were cell-to-cell signaling, molecular
+transport and cellular movement. Differences were also seen in the,
+CTNNB1, LH and FSH networks as analysed by Ingenuity Pathway Analysis.
+Additionally, genes involved in activation of NFB pathway showed
+differential expression in the two groups. Furthermore, our ongoing
+development of a streamlined database in which the multiple data types
+obtained from our statistical analyses are stored, will allow for
+localized or genome wide querying across the multiple levels of
+biological data. These approaches and software will potentially elucidate
+the synergistic roles that the various biological levels play in the
+deregulation of pathways involved in primary chemoresistance. Our
+research findings will lead to the determination of putative candidates
+for diagnostic and prognostic biomarkers that can be targeted for
+development of treatment regimens for the treatment of SEOC.
+

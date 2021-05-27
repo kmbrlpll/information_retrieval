@@ -1,0 +1,36 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Characterization of the gene expression network that underlies
+cancer cell-platelet interactions and cancer progression
+
+
+Understanding how cancer cells outgrow and escape from the primary site
+is important for development of novel therapeutic scheme. Our recent
+results from microarray-based gene expression profiling analysis
+demonstrate differential expression of a cohort of genes (220) in the
+circulating tumor cells, many of which play a role in haemostasis and
+thrombosis. To screen for putative transcription factors that might
+contribute to the metastasis-associated gene expression alterations (and
+possibly the upregulation of haemostatis-associated genes), we first
+undertook bioinformatics approach by analyzing differentially expressed
+genes using GeneGo. From the list of potential transcription factors that
+are identified from the bioinformatics approach, we selected two TFs
+(CREB and Sp1) for further studies. Consistent with the upregulation of
+selected genes, ChIP analyses demonstrated promoter occupancy by these
+two TFs, and further a greater degree of binding in the
+circulating/metastatic tumor cells. These results suggest their link to
+the transcriptional induction of the target genes in these cells.
+Interestingly, we also discovered that the levels of c-fos and Ser15
+phosphorylation on p53 underwent an increase in these cells. To dissect
+the signaling pathways that may underlie the observed transcriptomic
+alteration, we again applied gene ontology analysis to pinpoint possible
+signaling networks. Such profiling demonstrated an elevation of the
+TGF2/BMP pathway and a downregulation of EGFR/ErbB signaling in
+circulating cells compared with the parental line, possibly suggesting a
+role of the corresponding pathways in the transcriptomic as well
+phenotypic changes in the metastatic cells. In addition, changes in the
+expression of several signaling cascade intermediates - Akt, Erk, JNK -
+were also evident based on immunoblotting results. Our preliminary
+results have revealed the potential involvement of several transcription
+factors and signaling pathways in our metastasis experimental model.
+Discussion of their implications and future work is also included.
+

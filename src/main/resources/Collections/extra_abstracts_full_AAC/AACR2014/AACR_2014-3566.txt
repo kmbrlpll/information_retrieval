@@ -1,0 +1,41 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A robust and rapid targeted sequencing technology for iterative
+multiple genomic features in cancer
+
+
+Targeted resequencing has enabled researchers and clinicians to analyze
+specific genomic regions of interest from cancer. For example, deep
+sequencing of cancer genes has allowed for the sensitive detection of
+rare somatic variants as well as oncogenic rearrangements that are
+otherwise difficult to observe with shotgun resequencing. Deep targeted
+resequencing of these regions can potentially provide prognostic
+information as well as guide treatment regimens. Current targeted
+resequencing methods, however, suffer from poor on-target performance,
+slow capture rates on the order of days, and significant manual effort.
+Existing commercial kits are extremely restricted for targeting custom
+regions of interest. Furthermore, libraries prepared for targeted
+resequencing purposes generally cannot be reused, thus limiting the
+number of replicates and follow-up experiments that can be performed for
+cancer samples.We present APEX (attachment-based porous extension)
+capture, a platform that rapidly and robustly generates targeted DNA
+fragments for next-generation sequencing on the Illumina platform in as
+little as two hours. It is based on the principle that chemical reactions
+are rapidly enhanced in high surface-to-area ratio microenvironments when
+one reaction component is surface-bound. As a proof of concept, we
+covalently tethered next-generation sequencing compatible DNA libraries
+to a silica membrane found in conventional spin columns, performed
+target-specific primer extension, and eluted them for next-generation
+sequencing. Through serial dilutions of cytomegalovirus (CMV) and human
+DNA admixtures, we demonstrate CMV target enrichment down to single
+genome equivalents. In addition, using a tiling primer strategy we were
+able to robustly capture and resequence entire bacterial genomes.Because
+our targeted resequencing technology preserves the original sample
+library, we can sequentially target different regions of interest in a
+series of guided experiments. We performed multi-tiered analyses of colon
+biopsies, where we deep resequence cancer genes as well as survey fro
+cancer-related pathogens such as bacterial genomes that are co-purified
+in the sample. APEX capture therefore enables researchers to aggressively
+and rapidly characterize cancer genomic material, where large-scale
+targeting panels are followed by precise discriminatory ones that can
+guide diagnosis and treatment.
+

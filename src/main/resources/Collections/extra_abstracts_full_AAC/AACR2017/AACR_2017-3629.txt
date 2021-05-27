@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Engineering a novel asymmetric head-to-tail 2+1 T-cell bispecific
+(2+1 TCB) IgG antibody platform with superior T-cell killing compared to
+1+1 asymmetric TCBs.
+
+
+T cell bispecific antibodies that recruit and engage T cells for tumor
+cell killing through binding to the T cell receptor (TCR) upon binding to
+a tumor antigen (TA) and subsequent crosslinking have attracted broad
+interest. Here, we describe a novel asymmetric head-to-tail 2+1 T cell
+bispecific antibody (2+1 TCB) platform characterized by the fusion of a
+flexible Fab fragment to the N-terminus of the CD3e Fab of a
+heterodimeric asymmetric bispecific TA-CD3e IgG1 antibody in head-to-tail
+geometry via a flexible linker. The resulting TCB is monovalent for CD3e
+(KD 70-100 nM) and binds bivalently with avidity to the TA on the target
+cell. Correct heavy chain pairing is enabled by knob-into-holes
+technology, correct light chain pairing by CrossMAb technology or using a
+common light chain. This enables production with standard processes in
+CHO cells. To exclude FcgR-mediated unspecific TCR and FcgR co-activation
+resulting in unspecific cytokine release, Fc- effector functions (ADCC,
+ADCP, CDC) are abolished by introduction of P329G LALA mutations while
+FcRn binding and IgG-like pharmacokinetic properties are retained as
+shown in mouse and Cynomolgus. For comparative profiling, the following
+TCBs were generated with specificity for the tumor antigens MCSP/CSPG4,
+FOLR1/FRalpha, CD19 and CD20: 2+1 TCBCD3-inside, 2+1 TCBCD3-outside,
+one-armed 1+1 TCBCD3-inside and a classical asymmetric 1+1 IgG TCB. In
+vitro Jurkat-NFAT, T cell killing, activation and proliferation assays
+show that both 2+1 TCB formats mediate superior potency of killing (for
+CSPG4, FOLR1, CD19, CD20) and superior absolute killing (for CSPG4, CD19)
+compared to the respective classical asymmetric 1+1 IgG TCB.
+Surprisingly, the 2+1 TCBCD3-inside format was found to be superior in
+potency compared to the 2+1 TCBCD3-outside format, although its binding
+affinity for CD3e is reduced. These data confirm that TCBs mediate
+extremely potent T cell killing with fM-pM EC50 values based on CD3e
+antibodies with affinities of only 70-100 nM. Notably, for CD19 both, 2+1
+TCBCD3-inside and one-armed 1+1 TCBCD3-inside, mediate comparable potency
+and overall killing, and both were superior compared to the asymmetric
+1+1 IgG TCB. These data underline the importance of the head-to-tail
+geometry with two Fabs on one arm attached to each other via a flexible
+G4S-linker. Finally, using 2+1 and 1+1 FOLR1 TCBs we demonstrate that
+bivalent binding allows better differentiation in killing of cells with
+high vs. low FOLR1 expression as compared to monovalent binding. Taken
+together, we demonstrate that the 2+1 TCBCD3-inside is the most potent,
+efficacious and versatile TCB design. Due to its orientation with the
+CD3e Fab inside, it allows the conversion of existing antibodies into
+potent TCBs without format restriction. Based on this platform, CEA CD3
+TCB (RG7802, Phase I/Ib) and CD20 CD3 TCB (RG6026, Phase I) have entered
+clinical trials.
+
+

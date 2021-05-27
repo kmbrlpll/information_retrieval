@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Rapid drug target ranking system developed from a systematic
+analysis of cancer genomic data from the Oncomine knowledgebase
+identifies an oncogenic role for the NFE2L2 pathway in multiple cancer
+types
+
+
+Late stage drug attrition rates in oncology remain higher than other
+therapeutic areas. To reduce attrition, it is critical to identify
+appropriate drug targets and pre-clinical models. Next-generation
+sequencing (NGS) is poised to accelerate the discovery of new drug
+targets through identification of genomic markers of response and
+identification of models to characterize candidate drivers. To maximize
+the value of NGS, it is imperative to develop data
+analysis/interpretation solutions that accurately assess genomic
+aberrations, delineate driver alterations from passengers, annotate
+alterations for clinical relevance and integrate alterations by gene and
+pathway.Here, we present our framework for the systematic analysis of
+thousands of clinical NGS samples as well as expertly curated oncology
+data for the purpose of identifying candidate drug targets. Our
+methodology was developed through a systematic interrogation of genomic
+aberrations in a training set of gold standard oncogenes such as EGFR and
+PIK3CA, and tumor suppressors such as TP53 and PTEN. The resulting
+platform was used to rank genes through an assessment of driver genomic
+aberrations, associations with patient survival, and potential clinical
+actionability. Using this framework, we found supporting evidence
+implicating NFE2L2 as an oncogene.Recurrent NFE2L2 mutations were found
+in multiple cancer types and associated with poor outcome in head and
+neck squamous cell carcinoma. Recurrent mutations were identified in:
+14.0% of squamous cell lung carcinoma, 12.5% of hepatocellular carcinoma,
+11.1% of infiltrating bladder urothelial carcinoma, 7.7% of cervical
+squamous carcinoma, and 4% of head and neck squamous cell carcinoma. We
+also investigated KEAP1, a repressor of NFE2L2 activity. Mutations in
+KEAP1 tended to localize within the NFE2L2 binding domains and displayed
+evidence of mutual exclusivity with NFE2L2 recurrent mutations. KEAP1
+mutations were identified in 14% of lung adenocarcinoma, 13.5% of
+squamous cell lung carcinoma, 7.4% of infiltrating bladder urothelial
+carcinoma, and 4% of hepatocellular carcinoma. Genes up-regulated in
+patients with mutations in either NFE2L2 or KEAP1 in squamous cell lung
+carcinoma included many direct NFE2L2 target genes (e.g. GCLC, GCLM,
+NQO1). Genes up-regulated in NFE2L2 or KEAP1 mutant patients
+significantly associated with genes up-regulated in cell lines resistant
+to chemotherapy. Using Oncomine database curated data and cell line exome
+data we were able to identify cell lines that were representative of
+clinical populations containing these mutations.We have provided proof of
+concept identification of a potentially clinically relevant candidate
+driver gene using a novel systematic analysis of cancer genomic data.
+

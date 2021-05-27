@@ -1,0 +1,35 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Establishment, identification and treatment data of TCGA
+glioblatoma xenograft subtypes
+
+
+The Cancer Genome Atlas (TCGA) Network recently catalogued recurrent
+genomic abnormalities in glioblastoma (GBM). This genomic profiling lead
+to the molecular classification of GBMs into four subtypes: Proneural,
+Neural, Classical and Mesenchymal. The importance of identifying these
+subtypes helps researchers and clinicians to better understand GBMs with
+the potential to personalize treatment options and explore different
+therapeutic approaches that each subtype may require. In addition, the
+TCGA identified possible mechanisms that can cause some GBM tumors to
+become resistant to therapy, including the standard of care alkylating
+agent temozolomide (TMZ).For this project, we established xenografts
+using patient derived tissue and passaged these xenografts until reliable
+growth characteristics were obtained. Established GBM xenografts were
+classified into TCGA-defined subtypes first by obtaining global gene
+expression data using the GeneChip Human Genome U133A 2.0 array from
+Affymetrix. Microarray data was then quantile normalized and probes were
+summarized as gene expression levels using RMA. Then data was log2
+transformed and genes median centered. Xenografts were subsequently
+classified into one of four previously defined subtypes as described
+using Classification to the Nearest Centroid (ClaNC) with the TCGA GBM
+data as the training dataset.Using established xenografts from each
+subtype, a panel of standard of care treatment agents (including TMZ) was
+assessed by delay in tumor growth and by tumor regression. Statistical
+analysis was performed using a SAS statistical analysis program, the
+Wilcoxon rank order test for growth delay, and Fisher's exact test for
+tumor regression. Data regarding each xenografts BRAF, EGFR, EGFRvIII,
+IDH1, PIK3CA, PIK3R1, PTEN, RB1, TERT and TP53 status is reported
+within.The identification of these valid xenograft models represents an
+important contribution toward the ability of studying GBM subtypes, in
+particular for modeling and predicting therapeutic response.
+

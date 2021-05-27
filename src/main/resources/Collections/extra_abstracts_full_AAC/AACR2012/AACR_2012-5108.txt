@@ -1,0 +1,22 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A combined processing and assessment workflow for SNV and indel
+calling on exome sequencing of tumor samples
+
+
+A workflow for exome sequencing is established using multiple callers for
+SNV and indel. A spectrum of measures is looked at to understand the
+diversity and characteristics of the samples. Two common workflows for
+variant calling are used, namely GATK unified genotyper and Samtools
+mpileup. Illumina paired end 90 base reads are mapped to the human genome
+using BWA. Variants called by GATK and Samtools are compared and merged
+to give a unified set of calling in VCF format. This approach gives
+additional confidence in calls supported by both callers as there are
+technical differences in the two workflows. dbSNP rate and TI/TV ratio
+are used to assess the general quality (sensitivity and specificity) of
+the calls. It is observed that tumor samples with very low and high TI/TV
+novel ratio are largely lung and melanoma samples respectively. They are
+likely to be UV and smoking induced DNA mutation. This affects the
+overall TI/TV ratio. A handful of samples also exhibit high variant count
+that is uniquely found (private) in the sample alone. This correlates
+with lower than expected dbSNP rate.
+

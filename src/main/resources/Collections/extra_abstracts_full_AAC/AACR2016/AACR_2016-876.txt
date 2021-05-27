@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Genome-scale genetic knockout screen identifies modifiers of EGFR
+dependence in non-small cell lung cancer cells
+
+
+Non-small cell lung cancers with epidermal growth factor receptor (EGFR)
+gene mutations can exhibit a strong dependence on its signaling for
+growth and survival. They are also sensitive to EGFR tyrosine kinase
+inhibitors (TKIs), which provide superior clinical benefits to
+conventional chemotherapy. However, despite initial response, most
+patients experience relapse with resistant tumors within a year. This
+study aims to identify modifiers of dependence on mutant EGFR signaling
+and the mechanisms by which they do so in order to improve therapeutic
+strategies and outcomes.We first performed a genome-scale CRISPR-Cas9
+genetic knockout screen. In this system, gene silencing occurs by
+site-specific double-strand-breaks induced by the Cas9 nuclease that is
+localized to its target by a single-guide RNA (sgRNA). The error-prone
+repair pathway introduces insertion/deletion mutations leading to
+frameshifts or premature stop codons. We constructed a pooled sgRNA
+library targeting more than 18,000 protein-coding human genes with
+multiple sgRNA vectors. The cell line HCC827 was used in our screen as it
+is EGFR-mutant and sensitive to EGFR TKIs. We transduced HCC827 lung
+cancer cells with the pooled sgRNA library and cultured them in the
+presence of Erlotinib, an EGFR TKI, or DMSO control for 17 days. At the
+end of the treatment period we identified sgRNAs that were enriched in
+Erlotinib-treated groups over control groups, indicating genes whose
+loss-of-function confer TKI resistance. We applied the RNAi gene
+enrichment ranking (RIGER) algorithm to identify gene hits with
+enrichment of multiple sgRNAs.Top-ranked candidates include previously
+confirmed genes PTEN, NF1, NF2, TSC1, and TSC2, validating this system as
+a means to identify modifiers of EGFR dependence in HCC827 cells. A novel
+candidate gene is the E3 ubiquitin ligase HUWE1. We showed that
+suppression of HUWE1 by sgRNAs or inducible short hairpin RNA (shRNA) in
+HCC827 cells re-activated AKT and ERK1/2 signaling pathways and increased
+cell proliferation and survival in response to EGFR inhibition. These
+findings were confirmed in vivo by implanting mouse xenografts of HCC827
+cells expressing shHUWE1 and monitoring tumor development in response to
+EGFR-TKI therapy. Tumors expressing HUWE1 led to durable tumor regression
+throughout the treatment period but tumors with suppressed HUWE1
+continued to grow into large tumors. Immunohistochemistry analysis of
+excised tumors also revealed increased AKT and ERK1/2 signaling as well
+as increased proliferation and decreased apoptosis.We have shown that
+dependence on EGFR signaling can be decreased in EGFR-mutant lung cancer
+cells through mechanisms that involve the activation of AKT and ERK1/2
+signaling pathways. Ongoing studies involve identifying HUWE1
+substrates/interactions that participate in tumor cell response to EGFR
+inhibitors, revealing a novel mechanism of resistance to EGFR-targeted
+therapy.
+

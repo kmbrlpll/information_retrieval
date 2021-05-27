@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Bringing next generation sequencing (NGS) to the clinic:
+Analytical validation of a comprehensive NGS-based cancer gene test.
+
+
+Background: As the number of clinically relevant cancer genes grows and
+the amount of tissue available for analysis decreases, next-generation
+sequencing (NGS) becomes increasingly attractive as a diagnostic tool, as
+it can detect all classes of genomic alterations in all cancer genes in a
+single test. However, for NGS to demonstrate its full utility in the
+clinic, robust analytical validation approaches and performance
+benchmarks against gold standard methodologies are required.Methods: We
+have developed a comprehensive NGS-based diagnostic test to enable
+accurate detection of clinically-relevant genomic alterations across 4604
+exons of 289 cancer genes (1.5 Mb) in routine FFPE specimens, including
+needle biopsies. To validate the test, we created synthetic reference
+standards spanning key determinants of detection accuracy for somatic
+alterations, such as a range of stromal admixture, indel length, and
+amplitude of copy change: For base substitutions, we mixed 2 pools of 10
+normal cell-lines, thereby testing 1035 different variants in a broad
+10%-100% allele frequency range. For indels, 28 tumor cell lines with 44
+alterations (1-40bp) were mixed into 41 variably sized pools, creating a
+validation set of 163 events. For copy alterations, 7 matched
+tumor/normal cell-lines bearing a total of 12 amplifications (copy number
+8-15) and 7 homozygous deletions were mixed in 5 tumor content ratios
+20%-75%. The test was applied blinded to all pools and alteration calls
+compared to expectation based on constituents in each mix. We then
+verified that observed performance translated to FFPE by examining test
+concordance on 185 tumors characterized clinically for mutations in 8
+genes including KRAS, BRAF, and EGFR (Sanger, Sequenom, and PCR) and 131
+specimens characterized for CNAs in ERBB2, PTEN, AR and CCND1 (IHC and
+FISH).Results: On synthetic standards, performance reached >99%
+sensitivity for substitutions (1,035/1,035) and >98% for indels (161/163)
+at 10% allele-frequency with PPV>99%. Sensitivity for CNAs was >95% for
+focal amplifications (46/48) and >99% for homozygous deletions (28/28) at
+30% tumor fraction, with PPV>99%. Robust performance translated to FFPE:
+concordance was 98% for both substitutions and indels (164/168) and CNAs
+(41/42) relative to prior calls.Conclusions: We present a rigorous
+validation approach and performance benchmarks for a comprehensive
+NGS-based test for use in clinical oncology. Given the ability of NGS to
+detect a much broader range of genomic alterations than currently
+available technologies, particularly on limited tissue, we suggest that
+this type of testing can be a direct component of patient care and
+potentially expand targeted treatment options.
+

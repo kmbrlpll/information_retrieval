@@ -1,0 +1,35 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Uses and update for CellMiner, a tool for access to and comparison
+of molecular data and pharmacological response for the NCI-60
+
+
+Integration and understanding of genomic and proteomic data and their
+relationships with and influences on pharmacology have become key
+components of cancer research and its translation to therapeutics.
+Nonetheless, multiple significant obstacles need to be overcome for both
+their integration and understanding. The NCI-60 cancerous cell lines
+provide a premier opportunity in this area due to the scope and quality
+of the available data. CellMiner (http://discover.nci.nih.gov/cellminer)
+is a web-application that allows the user to rapidly access data for
+relative levels of transcript expression for 25,772 genes, genetic
+variants for 16,568 genes, transcript expression for 360 microRNAs,
+protein levels for 94 genes, and DNA copy number (from aCGH) for 23,413
+genes. In addition, it provides concentration-response activities for
+20,002 compounds including 114 Food and Drug Administration
+(FDA)-approved, 55 clinical trial, and 349 known mechanism-of-action
+drugs. Here we present our latest CellMiner update along with examples of
+data integration that provide enhanced understanding in the systems
+biological sense. Included in the tool updates are i) the upcoming
+Protein mean value cell line signature tool, ii) the recently introduced
+Gene DNA copy number tool, iii) introduction of the Cross-correlations of
+transcripts, microRNAs, and drugs tool, iv) the provision of additional
+forms of data in the standard output for the Pattern comparisons tool,
+and v) upgrades of the Genetic variant versus drug visualization tool
+allowing the user to query for all drugs significantly correlated to
+genomic variants for the whole human genome (or visa versa). Examples of
+data integration will include SLFN11 expression versus the activities of
+DNA-damaging drugs, RAS activation considering three forms of molecular
+data, and PTEN knockdown and pharmacological connection (also using three
+forms of molecular data). The data and tools are or shortly will be
+publicly available at CellMiner.
+

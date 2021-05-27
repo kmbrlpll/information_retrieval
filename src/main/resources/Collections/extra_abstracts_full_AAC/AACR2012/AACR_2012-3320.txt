@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Plasticity between the cancer stem-like and non cancer stem-like
+states is regulated by the PI3K/Akt/-catenin/CBP pathway
+
+
+Introduction: Cancer stem-like cells (CSC) - a subpopulation of
+self-renewing, tumorigenic, drug resistant tumor cells - are thought to
+promote cancer formation, therapy resistance and disease progression.
+Recently, we and others reported that the CSC phenotype may not represent
+a static pre-existing seed population; rather, CSC subpopulations can
+arise through direct conversion of non-CSC to the CSC phenotype. Here we
+show that PI3K/Akt/-catenin/CBP signaling plays a key role in mediating
+this important phenotypic plasticity. Methods: As previously reported,
+fluorescence activated cell sorting (FACS) and Hoechst dye exclusion were
+applied to cancer cell lines in order to isolate side populations (SP) of
+cells enriched for CSC properties (high tumorigenicity and drug
+resistance) versus non-side-populations (NSP) of cells lacking these
+properties. GFP+ NSP were re-combined with GFP SP to enable tracking of
+the two phenotypes in culture over time. The cells were treated with
+pharmacological and siRNA inhibitors targeting members of the
+PI3K/Akt/-catenin/CBP pathway, and their effects on SP size and NSP-to-SP
+conversion were measured. Results: NSP-to-SP conversion was significantly
+reduced by exposure to LY294002, a PI3K/Akt inhibitor, and the same
+effect was recapitulated by direct siRNA knockdown of Akt. Further
+downstream, BIO (6-bromoindirubin-3-oxime) was used to inhibit GSK-3, a
+protein that normally potentiates -catenin degradation. Exposure to BIO
+increased both the overall levels and the nuclear localization of
+-catenin and significantly increased SP size. Conversely, siRNA knockdown
+of -catenin signficantly decreased SP size. Still further downstream, two
+-catenin transcription co-factors, CBP and P300, exerted opposite effects
+on the CSC phenotype: Blocking -catenin-CBP interaction with the specific
+inhibitor ICG001 significantly decreased SP size and sphere formation,
+whereas blocking -catenin-P300 interaction with the specific inhibitor
+IQ-1 significantly increased SP size. Moreover, ICG001 inhibition of
+-catenin-CBP interaction abrogated the SP expansion caused by upstream
+BIO inhibition of GSK-3. ICG001 did not affect the nuclear localization
+of -catenin, suggesting that CBP indeed cooperates with -catenin further
+downstream to transcriptionally impact NSP-to-SP conversion. Conclusion:
+Cellular plasticity between the non-CSC and CSC phenotypes has
+considerable therapeutic ramifications because it implies that the
+drug-resistant, aggressive CSC subpopulation may be replenished from the
+larger non-CSC population. Our present studies identify
+PI3K/Akt/-catenin/CBP signaling as playing a key role in mediating this
+phenotypic plasticity. Therefore, therapeutic targeting of this pathway
+may be uniquely effective at overcoming the therapy resistance and
+disease progression attributed to the CSC phenotype.
+

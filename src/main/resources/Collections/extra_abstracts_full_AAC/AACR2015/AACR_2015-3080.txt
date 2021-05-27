@@ -1,0 +1,42 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Definition of the Ewing sarcoma specific oncomir-1 targetome
+
+
+MicroRNAs (miRNA) serve to fine-tune gene expression and thus play an
+important regulatory role in tissue specific gene networks. The
+identification and validation of miRNA target genes in a given tissue
+still poses a significant problem, since the presence of a seed sequence
+in the 3UTR of an mRNA and its expression modulation upon forced ectopic
+expression of the miRNA do not reliably predict regulation under
+physiological conditions. Here, we used a combination of AGO2 pull-down
+experiments by PAR-CLIP - to enrich and sequence RISC-associated RNAs -
+and of RNAseq upon miRNA depletion by ectopic sponge expression, to
+identify the targetome of miR17-92 in Ewing sarcoma (ES) cells. The
+chimeric oncoprotein EWS-FLI1 is the driving pathogenic force in ES. As
+an aberrant ETS transcription factor it directly deregulates a multitude
+of genes related to proliferation control and differentiation. Recently,
+we reported on the EWS-FLI1 microRNA (miRNA) signature based on knockdown
+experiments in ES cell lines and on differential expression in primary
+tumors versus mesenchymal stem cells. Comparison of both datasets
+revealed miR20a-3p to be the top EWS-FLI1 activated miRNA. MiR-20a
+belongs to the miR17-92 cluster, also known as oncomir-1, which is one of
+the most potent oncogenic miRNAs. The whole cluster is among the small
+number of miRNAs down-regulated upon knockdown of EWS-FLI1 in multiple ES
+cell lines. Since feedback loops exists between the E2F transcription
+factor family and miR-17-92 and between EWS-FLI1 and E2F3, we sought to
+investigate the role of this miRNA cluster in ES.We found a significant
+enrichment of PAR-CLIP hits for members of the miR-17-92 cluster, in the
+3UTRs of genes up-regulated in response to mir-17-92 specific sponge
+expression. Among them we consistently identified known (i.e. CTGF, MXD1,
+CYLD1) and a multitude of so far unknown targets of the oncomir-1 cluster
+in ES in three PAR-CLIP experiments. Preliminary experiments using 3UTRs
+of select novel candidate genes in gene reporter assays showed
+up-regulation of luciferase activity upon transfection of a sponge
+specific to miR-17-92 and 20a, but not to unrelated miR-9 and 10b. Site
+directed mutagenesis of seed sequences in the 3UTR of these candidate
+genes will be used for further validation.This study provides an example
+for the comprehensive definition of the targetome for a defined group of
+miRNAs under physiological conditions.This study was supported by the 7th
+framework program of the European Commission (FP7-259348, ASSET) and the
+Austrian Science Fund FWF (24708-B21)
+

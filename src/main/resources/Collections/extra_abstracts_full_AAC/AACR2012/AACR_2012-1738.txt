@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Assay development for detecting cMET expression in circulating
+tumor cells (CTC), a potential patient tailoring marker for evaluation of
+cMET inhibitors
+
+
+Hepatocyte growth factor and its receptor c-MET have been implicated in
+tumor formation and progression as well as drug treatment resistance to
+targeted agents such as EGFR inhibitors. cMET over-expression or gene
+amplification has been reported in a wide variety of human malignancies
+correlating with poor patient prognosis. A reasonable hypothesis for
+experimental agents targeting the cMET receptor is that patients with
+tumors expressing high levels of cMET may respond better. CTC counts are
+prognostic of survival in metastatic breast, colorectal, and prostate
+cancers (NEJM 2004;351:781-91; J Clin Oncol 2008;26:3213-21; Clin Can Res
+2008;14:6302-9). CTCs are shed from tumors and are believed to be
+representative of cells migrating to form distal metastasis. The presence
+of these cells in blood provides an attractive and easy source for serial
+monitoring of tumors without the limitations of traditional solid tumor
+biopsy. We describe here the development of an assay that measures cMET
+expression in CTCs. The CTC assay was developed using the Veridex
+CellSearch System, and RUO reagents for enumeration of CTCs and a Lilly
+proprietary cMET antibody (Ab) optD11. For assay development, cultured
+tumor cell lines with differing cMET expression levels representing solid
+epithelial tumor types were spiked into whole blood drawn into a CellSave
+tube. For initial assay development, mouse whole blood was used and
+results reproduced subsequently with human whole blood from healthy
+subjects. The spiked tumor cells in blood samples were recovered using
+the CellCapture Mouse/Rat CTC kit (for mouse blood) or CellSearch CXC kit
+(for human blood), supplemented with the fluorescent dye (R-
+phycoerythrin) conjugated anti-cMET Ab. cMET in the recovered tumor cells
+was detected in the open/fourth channel on the CellTrack Analyzer II.
+Several proprietary and commercial cMET antibodies were screened for
+specificity and sensitivity. A commonly used commercially available cMET
+Ab (Santa Cruz Biotechnology C28) was not able to discriminate between
+cMET negative and positive cell lines. Results were confirmed by flow
+cytometry and by western blot analyses. optD11 was selected for CTC cMET
+expression assay development for the following reasons: a) ability to
+detect different cMET levels among positive cell lines (H441, MKN45,
+SNU5, SKOV3) while identifying SKBR3 as cMET negative; b) high affinity
+for cMET to allow for an image acquisition time of 0.02-0.04 second in
+the open channel; c) tolerance to the presence of LY2875358 (LA480), an
+experimental therapeutic anti-cMET Ab, allowing evaluation of cMET levels
+in CTCs post-treatment. The CTC assay for cMET expression, as well as a
+CTC assay measuring cMET gene amplification are currently being
+implemented in the early phase clinical studies for Lilly cMET inhibitors
+(JSBA, NCT01285037 & JTBA, NCT01287546).
+

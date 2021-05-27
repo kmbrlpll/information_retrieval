@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Analysis of the cancer gene targeting of clinical kinase inhibitor
+drugs by combining cellular and biochemical profiling
+
+
+[Purpose] Kinase inhibitors are a prime example of the success of
+targeted therapy. Crucial to the development of targeted therapies is the
+ability to couple drug response to genetic markers, such as mutations in
+oncogenes and/or tumor suppressors, chromosomal rearrangements, and/or
+gene amplifications. The efficacy of response to such markers is linked
+with the biochemical characteristics of kinase inhibitors. However, it is
+poorly understood what profiles are required to achieve the best
+targeting. We have systematically compared the biochemical potency and
+selectivity profiles of all kinase inhibitor drugs in clinical use with
+their ability to inhibit cell proliferation in a panel of forty-four
+human cancer cell lines from diverse tumor tissue origins.[Experimental
+procedures] Proliferation assays were established for a panel of
+forty-four human cancer cell lines licensed from the American Type
+Culture Collection. The panel represents twenty-three of the most
+frequently identified genetic changes in the COSMIC Cell Lines (CCL)
+project in at least two cell lines. We profiled all twenty-five kinase
+inhibitors in clinical use on the cancer cell line panel, together with a
+number of classic cytotoxic agents for comparison. The proliferation
+assay data were linked to genetic data from the CCL database by Anova and
+volcano plot analysis. In parallel the biochemical profiles of all
+twenty-five kinase inhibitor drugs were determined on a panel of 313
+protein kinase enzyme activity assays. The biochemical profiling data
+were used to interpret the cellular targeting compounds in terms of
+biochemical potency, selectivity and kinase poly-pharmacology.[Results]
+The suitability of the cell line panel was validated by confirming the
+known sensitivity of mutant B-RAF to vemurafenib, of BCR-ABL to imatinib,
+and EGFR overexpression to erlotinib. Mutation in SMAD4 was identified as
+a novel drug sensitivity marker for EGFR inhibitors, while mutation in
+the gene for -catenin was identified as a sensitivity marker for MEK
+inhibitors, such as trametinib. When comparing compounds with similar
+mechanisms, dabrafenib is more efficient at selectively inhibiting
+BRAF-mutant transformed cells than vemurafenib. Of all ABL inhibitors,
+imatinib has the best targeting efficacy. The compound that most
+selectively inhibits growth of EGFR-overexpressing cell lines, is
+gefitinib.[Conclusions] Cancer cell line profiling can be used to
+identify novel sensitivity markers of drug response. Cancer cell line
+profiling in combination with biochemical kinase profiling revealed
+biochemical selectivity and potencies as prime determinants of on target
+efficacy of kinase inhibitor drugs, the extent of which is
+target-dependent. The combination of cell panel profiling and kinome
+profiling is an important tool for the development of optimal targeted
+therapies for kinases.
+

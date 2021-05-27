@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: TET1-mediated epigenetic reprogramming switches metabolism and
+promotes malignant phenotypes of ovarian cancer
+
+
+Epigenetic dysregulation is one of the mechanisms involved in ovarian
+cancer carcinogenesis. Recently identified a new epigenetic modulator
+ten-eleven translocation protein 1 (TET1), a DNA dioxygenase which is
+believed in DNA demethylation through a 5-methylcytosine to
+5-hydroxymethylcytosine (5hmC) conversion, plays an important role in
+regulating self-renewal and specification in embryonic stem cells. In
+addition, it works as a tumor suppressor gene by inhibition of cell
+invasion, migration and tumor growth in breast and prostate cancer.
+However, the role of TET1 in ovarian cancer remains unknown. Thus we
+examed the expression level of TET1 in ovarian cancer tissues. We found
+that TET1 expression level correlated with cancer staging (p = 0.03) in
+88 ovarian cancer from our biobank and poor survival (p = 0.012) in TCGA
+database. High expression of TET1 was observed in advanced stage,
+high-grade primary tumor specimens in comparison with normal ovarian
+surface epithelium (OSE) brushings (p = 0.0005) by NCBI database
+(GSE18520). These results suggested that TET1 may play some roles in
+ovarian cancer development, which is different from those previously
+published in other cancers. To study the function of TET1 in ovarian
+cancer, we generated TET1 over-expressing and knockdown cell lines model,
+the expression level and enzymatic activities of TET1 were confirmed by
+real time PCR, western and 5hmC stain. Here we found that TET1 increases
+the abilities of cell migration, anchorage-independent growth and
+promotes tumor growth. In addition, TET1 actives cancer stem markers and
+enhances the abilities of spheroid formation. Ovarian cancer stem cells
+(OCSCs) from cell line express high level of TET1 while the
+differentiated progenies suppress TET1 expression. Moreover, seven of
+eight patient-derived OCSCs revealed high expressing of TET1 in
+comparison with its parental cancer cells by quantitative PCR. To further
+examine the TET1 regulation network, we combined the expression array and
+MethCap-seq to analyze the epigomic changes. We found that a cluster of
+target genes which were up-regulated through DNA demethylation were
+enzymes responsible for oxidative phosphorylation. We investigated
+metabolic status by Extracellular Flux Analyzer (seahourse) on the
+TET1-overexpressing cells. Compared with control cells,
+TET1-overexpressing cells revealed 1.7 fold (p = 0.011) increase of
+oxygen consumption rate (OCR); while the extracellular acidification rate
+(ECAR) showed no difference (p = 0.856). This bioenergetic metabolism
+shift may be due to demethylation of subunits of mitochondria complexs.
+Taken together, TET1 reprograms the epigenome, shifts the metabolism,
+increases the malignant phenotypes and confers a poor prognosis of
+ovarian cancer. Targeting mitochondria on TET1-expressing ovarian cancer
+patients may provide a new way of personalized therapy.
+

@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Absolute quantification of circulating tumor cell RNA enables high
+specificity detection of hepatocellular carcinoma.
+
+
+Background: Although liver cancer has the second-highest mortality rate
+among cancers internationally, accurate and scalable assays for the early
+detection and longitudinal monitoring of hepatocellular carcinoma are
+lacking. Circulating tumor cells are released from invasive cancers into
+the blood stream, but the difficulty inherent in isolating, identifying,
+and characterizing these ultra-rare cells has precluded their widespread
+implementation as a biomarker. By combining a high-throughput
+microfluidic negative depletion CTC isolation strategy with the absolute
+quantification of lineage-specific RNAs, we report the highly specific
+detection of hepatocellular carcinoma CTCs from patient blood draws.
+
+Methods: Blood draws from 48 hepatocellular carcinoma patients, 31
+chronic liver disease patients, 25 healthy donors, and 44 patients with
+primary cancers other than hepatocellular carcinoma were processed
+through the microfluidic device (CTC-iChip). RNA was extracted,
+whole-transcriptome amplified, and quantified using droplet digital PCR.
+Transcript counts were used to fit a logistic regression model to
+integrate distinct transcript levels into a single CTC-score. The
+technical feasibility of utilizing RNA sequencing for identification of
+novel CTC transcripts of interest was also demonstrated with a liver
+cancer cell line spike-in study.
+
+Results: 9 of the 16 untreated HCC patients were successfully detected,
+while only 1/31 chronic liver disease patients were incorrectly
+classified. HCC patients undergoing treatment showed a significant
+decrease in their CTC-score; only 9/32 patients actively receiving
+treatment were positive. The CTC-score was not correlated with the HCC
+serum biomarker alpha-fetoprotein, and combining these two orthogonal
+measures led to estimated positive and negative predictive values of 80%
+and 86%, respectively, in a high-risk cohort. RNAseq analysis of cell
+line spike-in data revealed the potential of RNA sequencing for
+uncovering novel transcripts of interest.
+
+Conclusion: Coupling microfluidic depletion with droplet digital PCR
+allows for the highly specific detection of hepatocellular carcinoma. The
+CTC-score generated from these data tracks with clinical intervention and
+is orthogonal to the existing biomarker AFP; combining these two assays
+has the potential to provide superior detection compared to either
+individual approach.
+
+

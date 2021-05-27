@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Whole-exome sequencing of gastric cancer identifies germline
+PIK3R1 variant as a novel genetic biomarker for a PI3K beta-isoform
+selective inhibitor, GSK2636771
+
+
+BACKGROUND: PI3K signaling is one of the most frequently altered pathways
+in gastric cancer (GC), and PI3K beta-isoform selective inhibitors have
+anti-tumor effects with tolerable toxicities in PTEN loss driven tumors.
+This study aimed to identify novel genetic predictive factors for a PI3K
+beta-isoform selective inhibitor through a whole-exome analysis of GC
+cell lines.METHODS: We comprehensively analyzed the genetic alterations
+in 40 GC cell lines using whole-exome sequencing (WES) and identified
+specific genetic alterations with sensitivity to GSK2636771, a PI3K
+beta-isoform selective inhibitor.RESULTS: We identified frequent genetic
+alterations in PI3K family genes (PIK3CA: 20%, PIK3C2B: 15%, PIK3CD 13%,
+PIK3CG: 25%, PIK3R1: 30%, PIK3R2: 100%). While no deletion or mutation of
+PTEN was detected, 40% exhibited a loss of PTEN protein expression.
+Intriguingly, we noticed germline PIK3R1 variant, M326I (rs3730089), was
+significantly related to the increased sensitivity to GSK2636771 (IC50:
+20.69.0 vs 43.526.8 M, p = 0.001), with a stronger association than that
+of PTEN loss (IC50: 27.513.9 vs. 41.728.0 M, p = 0.047). GC cell lines
+with higher variant allele frequency of PIK3R1 tended to be more
+sensitive to GSK2636771. Moreover, PIK3R1 M326I was associated with
+increased p85 expression (p = 0.0198) and decreased PTEN expression in GC
+cell lines (p = 0.008); same findings were also confirmed in human GC
+tissues. Furthermore, a correlation analysis of PIK3R1 and PTEN
+expressions in GC tissues revealed the reciprocal association between
+these two proteins (R2 = 0.223, p = 0.002), suggesting the possible
+mechanistic role of PIK3R1 as a negative regulator of PTEN, or vice versa
+in GC. Next, among various cytotoxics, oxaliplatin was significantly more
+effective in PIK3R1 M326I variant GC cells (p = 0.028), supporting the
+combination of GSK2636771 and oxaliplatin for further clinical
+development in GC. Finally, by using both the PIK3R1 M326I and PTEN loss
+in combination, we were able to predict the response to GSK2636771 more
+accurately in GC cells.CONCLUSION: Through WES analysis of GC cell
+panels, we identified a germline PIK3R1 variant, M326I, as a novel
+genetic biomarker that provides a more accurate prediction of response to
+GSK2636771 when used in combination with PTEN loss.
+

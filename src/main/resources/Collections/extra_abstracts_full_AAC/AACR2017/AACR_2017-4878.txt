@@ -1,0 +1,61 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Sensitive and specific DNA and RNA sequencing techniques for
+detecting minimal residual disease.
+
+
+The goal of this study was to assess the clinical applicability of
+molecular genetic techniques in the study of minimal residual disease
+(MRD) in pediatric acute myeloid leukemia (AML) via DNA and RNA-based
+methods. Currently, multi-parametric flow cytometry (MPFC) for surface
+immunophenotypes is the gold standard for MRD with a limit of detection
+between 0.001-0.002. However, approximately one-third of children with no
+detectable MRD by MPFC after first induction still relapse and suffer
+inferior outcomes. One potential reason is that a majority of refractory
+or recurrent AML clones will present with altered immunophenotypes
+compared to diagnostic specimens. In contrast, DNA mutations present at
+diagnosis will remain in refractory disease and therefore, a gene-based
+MRD platform surveying many genes could enable targeted, gene-specific
+therapy.
+
+Recently, the heterogeneous and unique genomic landscape of pediatric AML
+was characterized in the TARGET project and highlights the potential for
+leveraging companion molecular screens in the analysis of AML MRD.
+Contrary to adult AML, pediatric AML is not primarily characterized by
+single nucleotide variants (SNVs), but rather by complex structural
+variants (SV) that are difficult to detect using standard next generation
+sequencing techniques and analysis pipelines. The need to detect these
+complex SV and SNVs, all of which are at low allelic ratios (AR) at the
+remission state, demands assays that are capable of analyzing both DNA
+and RNA molecules at levels of detection comparable to MPFC.
+
+As proof of principal, we leveraged a unique capture technique (ArcherDx;
+CoreAML) to detect an important SV in pediatric AML, the internal tandem
+duplication in Fms related tyrosine Kinase (FLT3-ITD). Via a serial
+dilution of cells with known FLT3-ITD allelic ratio (MV4-11 cells), to
+determine a limit of detection, we were able to detect the mutation as
+low as 0.001. Next, we bench-marked the technique using diagnostic and
+relapse samples, and successfully detected FLT3-ITD at AR As proof of
+principal, we leveraged a unique capture technique (ArcherDx; CoreAML) to
+detect an important SV in pediatric AML, the internal tandem duplication
+in Fms related tyrosine Kinase (FLT3-ITD). Via a serial dilution of cells
+with known FLT3-ITD allelic ratio (MV4-11 cells), to determine a limit of
+detection, we were able to detect the mutation as low as 0.001. Next, we
+bench-marked the technique using diagnostic and relapse samples, and
+successfully detected FLT3-ITD at AR <0.01.
+
+To complement the DNA-based approach, we compared two error-corrected
+(EC) RNA assays (a Druley lab developed protocol and the ArcherDx; HemeV2
+panel) to further assay SVs that cause novel gene fusions and aberrant
+exon usage, which are not detectable via DNA assays. Compared to existing
+cytogenetic and RNA-seq data, this new platform was capable of detecting
+known and novel cryptic translocations.
+
+Finally, we integrated the results from the FLT3-ITD assay and the RNA
+assay with our custom error-corrected sequencing data to create a novel
+bioinformatics workflow for assessing the biological implications of MRD
+clones detected. Collectively, our data support that EC sequencing, at
+both the DNA and RNA level, enable accurate detection of low allelic
+variants that could be used for improved clinical MRD diagnostics,
+prognostication and therapeutic selection.
+
+

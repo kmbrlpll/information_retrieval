@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identifying novel recurrent mutations reveals candidate actionable
+mutations
+
+
+Mutational hotspots indicate selective pressure across a population of
+tumor samples and drive the dysregulation of proliferation, invasion, and
+apoptosis in many human tumors. We recently performed a comprehensive
+analysis of hotspot mutations in 11,000 retrospectively characterized
+primary untreated cancers, revealing widespread lineage diversity and
+mutational specificity. Yet, as broad-based clinical sequencing has begun
+to guide the routine care of patients, most clinically sequenced cancer
+patients present with recurrent or metastatic solid tumors. Furthermore,
+such tumors likely possess distinct mutational patterns driven by prior
+treatment exposure or treatment-associated evolution after diagnosis that
+are undetectable in primary untreated samples. We therefore sought to
+expand our analysis to incorporate such prospectively characterized
+active cancer patients as part of an ongoing initiative at Memorial Sloan
+Kettering Cancer Center. With nearly 10,000 patients profiled thus far,
+this growing prospective dataset with extensive clinical and treatment
+history is a transformative resource and the largest of its kind. Here,
+we combined these prospective data with retrospective studies to analyze
+the somatic mutational landscape of 21,000 cancer patients across 74
+cancer types representing the broadest range of human malignancies
+characterized to date. We developed and applied a biologically and
+statistically principled computational model to identify hotspots mutated
+more frequently than would be expected in the absence of selection. This
+analysis uncovered hundreds of new biologically and therapeutically
+relevant candidate driver mutations for which targeted agents are
+currently being investigated in early phase trials. Indeed, we identify
+several hotspots in key effectors of PI3K and MAPK signaling with
+differential response in vitro to current investigational therapies
+suggesting mutant allele-specific therapeutic decisions may be warranted.
+In total, over half of all hotspot mutations identified were novel,
+including several novel hotspots in small GTPase RAC1 that are lineage
+specific and functionally distinct. Understanding the distinct molecular
+function of these mutations, and the specific mutant alleles at
+individual codons, is a necessary translational prerequisite for enabling
+precision oncology through clinical decision support for patients
+sequenced at the point of care.
+

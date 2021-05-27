@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A novel Trop-2/CD3 trivalent bispecific antibody effectively
+redirects T cells to kill target human pancreatic and gastric cancer cells
+
+
+Background: Trop-2 is a type I transmembrane protein that is highly
+expressed in diverse epithelial cancers, including lung, gastric,
+colorectal, pancreatic, bladder, mammary, ovarian, uterine, and prostate
+carcinomas, with limited presence on normal human tissues. Whereas
+various formats of bispecific antibodies (bsAbs) for redirecting T cells
+to cancers have shown promise in both pre-clinical and clinical studies,
+efforts to prolong the circulating half-life of the scFv-based platforms
+and to prevent the commonly observed cytokine release syndrome are
+continuing. Herein, we describe a novel T-cell redirecting trivalent
+bsAb, designated (E1)-3s, which comprises an anti-CD3 scFv covalently
+conjugated to a stabilized dimer of a Trop-2-targeting Fab. Potential
+advantages of (E1)-3s include high-level surface expression of Trop-2 on
+various solid cancers, bivalent binding to tumor cells, a larger size
+(130 kDa) to preclude rapid renal clearance, and potent T-cell mediated
+cytotoxicity. Methods: DOCK-AND-LOCKTM was employed to site-specifically
+link an anti-CD3 (Okt3) scFv to a stabilized Fab dimer of the humanized
+anti-Trop-2 mAb, hRS7. LC-MS confirmed the mass of the conjugate, which
+resolved as >90% of the desired monomeric peak by size-exclusion HPLC.
+Purity was demonstrated by reducing SDS-PAGE, which resolved only the
+three constituent polypeptide bands comprising (E1)-3s. Results:
+Fluorescence microscopy showed that (E1)-3s, but not a control conjugate
+[(19)-3s, anti-CD19/CD3], induced synapse formation between Jurkat (T)
+and Capan-1 (human pancreatic cancer) cells. Using a 3-fold excess of
+stimulated T cells in vitro, (E1)-3s induced a potent and specific
+T-cell-mediated lysis in Capan-1 (115,000 Trop-2 copies/cell) pancreatic
+cancer (IC50 = 29 pM, Lysismax = 60%), and NCI-N87 (383,000 Trop-2
+copies/cell) human gastric cancer cells (IC50 = 0.85 pM, Lysismax> 90%).
+In vivo efficacy was demonstrated with Capan-1 and NCI-N87 xenografts in
+NOD-SCID mice by co-injection of purified human T cells and tumor cells
+at an effector-to-target ratio of 2, followed by five daily injections of
+(E1)-3s. With Capan-1, the control group reached the endpoint of disease
+progression (tumors exceeding 1 cm3) on day 24, at which time, the
+(E1)-3s group had significantly smaller tumors (0.257 0.102 cm3 versus
+1.011 0.532 cm3; P=0.0092). For NCI-N87, the (E1)-3s group had
+significantly smaller tumors than the control group (0.147 0.062 cm3
+versus 0.824 0.342 cm3, respectively; P=0.0017) when the latter reached
+the disease-progression endpoint on day 31. Conclusions: (E1)-3s
+effectively induced T-cell-mediated killing of Trop-2-expressing
+pancreatic and gastric cancer cells in vitro and in vivo. Additional cell
+lines of different solid cancer types, and ones with higher and lower
+Trop-2 antigen density, are under evaluation.
+

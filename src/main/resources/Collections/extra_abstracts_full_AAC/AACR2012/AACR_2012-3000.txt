@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Molecular profiling of residual tumor cells after various
+chemotherapies shows distinct gene expression patterns in patient-derived
+breast cancer xenografts
+
+
+Introduction: Triple negative breast cancer (TNBC) is an aggressive
+disease associated with a high risk of distant recurrence, rapid
+progression to death and poor overall survival. Systemic treatments of
+TNBC patients are limited to cytotoxic chemotherapy due to the lack of
+identified molecular targets. Therefore, the characterization of tumor
+cells that are responsible for recurrences after such treatments is of
+high therapeutic relevance. Using patient-derived TNBC xenografts that
+reproduce tumor relapse, we have analyzed the gene expression profile of
+residual cancer cells (RCC) after various chemotherapeutic treatments.
+Experimental design: Sixteen human breast cancer xenografts (HBCx) were
+treated with adriamycin-cyclophosphamide (AC), docetaxel, cisplatin, or
+capecitabine. Xenografts showing complete tumor remission followed by
+local relapse in at least 75% of mice were considered as tumor recurrence
+models. Gene expression profiles were obtained from tumor samples before
+treatment (untreated group) and after treatment (tumor remission and
+tumor recurrence groups) using Affymetrix U133 Gene Arrays. Results: Two
+xenograft models showed complete tumor remission after chemotherapy, i.e.
+the HBCx-10 xenograft (AC) and the HBCx-33 xenograft (cisplatin and
+capecitabine). An exploratory analysis on expression datasets of these
+xenografts tumors showed two distinct groups: one consisted of untreated
+and relapsed tumors and the other of RCC. The differential analysis
+showed no difference in gene expression between the untreated and
+relapsed tumors in the 2 models analyzed, whatever the cytotoxic agent
+administered. In contrast, when gene expression was analyzed in RCC
+compared to untreated or relapsed tumors, we found 2405 genes
+differentially expressed in the HBCx-10 xenograft (fold change greater
+than 2 or less than 2), and 2886 and 945 genes in the HBCx-33 one treated
+with capecitabine and cisplatin, respectively. By comparing the 3 lists
+of differentially expressed genes, we found 227 common genes, 137 being
+up-regulated and 90 down-regulated. Gene Ontology analysis of these genes
+revealed enrichment in several biological processes related to immune
+response, response to wounding, inflammatory response, cell
+proliferation, cell adhesion, and apoptosis. Validation studies with
+additional RNA and protein studies are currently ongoing on selected
+deregulated genes. Conclusions This study supports the existence of a
+distinct molecular profile of residual tumor cells after chemotherapy in
+TNBC, with a subset of deregulated genes common to the different tumors
+analyzed and the different administered treatments. Further elucidation
+of the signaling pathways associated to these deregulated genes may
+provide key insights into the molecular mechanism driving breast cancer
+recurrence.
+

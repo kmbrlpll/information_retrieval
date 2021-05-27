@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: A prototype device for quality control of cancer specimens.
+
+
+Objective: Molecular degradation in cancer specimens may lead to
+misinterpretation of patients biological information. We have recently
+shown that utilization of the quantitative ratio between Tissue
+Degradation Indicators (TDIs) intact form and their breakdown form(s)
+accurately reveals the stage of degradation in cancer specimens. We here
+propose to develop an enzymatic device built on one of the TDIs - alpha
+II spectrin (SPTAN1) - to monitor the degradation of cancer specimens,
+starting at the time of surgical resection. The device will allow
+specimen-users to assess the degradation stage of individual specimens
+prior to laboratory analyses. Approach: Proteolytic enzyme screening was
+conducted to identify the enzyme responsible for degradation-induced
+SPTAN1 breakdown. An in vitro enzymatic reaction was set up using the
+identified enzyme to catalyze overexpressed SPTAN1. The cleavage speed
+was monitored under various ambient temperatures at assigned time points.
+Correlation was studied between in vitro SPTAN1 breakdown and respective
+ambient conditions. A Fluorescence Resonance Energy Transfer (FRET)-based
+SPTAN1 peptide containing the proteolytic site was synthesized to replace
+the overexpressed SPTAN1 in above reaction. The enzymatic device was
+attached to experimental specimens and underwent assigned ambient
+exposures. SPTAN1 cleavage was measured by spectrophotometry. Correlation
+was studied among the SPTAN1 breakdown-induced fluorescence, the ambient
+impact, and the intrinsic TDI status. Further, FRET- SPTAN1 was injected
+into specimens in situ and the breakdown-induced fluorescent changes
+(catalyzed by local enzymes) were examined by fluorescence microscopy.
+Results: Calpain I was identified to be responsible for
+degradation-induced spectrin proteolysis. The in vitro enzymatic reaction
+can accurately reveal (following certain mathematic algorithm) the
+ambient temperature alteration and the exposure length via displaying a
+dynamic ratio between the breakdown and the intact SPTAN1. The
+introduction of FRET technology greatly facilitates the detection of
+spectrin breakdown reflected by breakdown-induced fluorescent signals.
+The FRET-device can properly reveal the ambient impact and the
+corresponding degradation inside the attached specimens. Local
+proteolytic enzymes in specimens are able to catalyze injected FRET-
+SPTAN1 and thereby the in situ approach imitates the in vitro enzymatic
+reaction and detects the ambient impact in specimens microenvironment.
+Conclusions: The prototype device yields a potentially transformative
+platform dedicated to specimen quality control. This foundational device
+may be attractive for commercialization and widely used throughout the
+basic and clinical cancer research communities. This effort also
+addresses critical, yet unmet needs for developing a universal standard
+for specimen degradation measurement.
+

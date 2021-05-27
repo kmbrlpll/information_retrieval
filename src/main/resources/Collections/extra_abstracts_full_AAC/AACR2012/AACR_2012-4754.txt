@@ -1,0 +1,46 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Quantitative characterization of calmodulin and Fas death domain
+interactions
+
+
+The Fas death receptor-activated death inducing signaling complex (DISC)
+regulates apoptosis in a variety of cells, including cholangiocarcinoma
+and other cancer cells. Qualitative immunoprecipitation experiments
+demonstrate that calmodulin (CaM) binds to Fas in a calcium-dependent
+manner and the CaM binding site in Fas has been localized in the Fas
+death domain (Fas DD) (J Biol Chem 279: 5661-5666, 2004). The interaction
+of CaM and Fas regulates DISC formation, and the CaM antagonist,
+trifluoperazine modulates the binding of Ca2+-bound CaM to Fas thus
+affecting Fas-mediated DISC formation (J Cell Biochem 103(3): 788-799,
+2008). Fas mutations that cause an alteration of the structure and/or
+function of Fas have been detected in many cancers (J Pathol 193(2),
+162-169, 2001; Cancer Res 61(4): 1382-5, 2001). The valine 254 to
+asparagine (V254N) mutation of Fas DD is analogous to the identified
+mutant allele of Fas in lpr-autoimmune mice that have a deficiency in
+Fas-mediated apoptosis (Nature 356(6367):314-317, 1992). This mutation
+also results in the decreased binding with CaM based on
+immunoprecipitation experiments (J Biol Chem 279: 5661-5666, 2004).
+Quantitative characterization of CaM and Fas interaction is important for
+designing optimized antagonists to modulate Fas-mediated DISC formation
+and thus apoptosis. In this study, we quantitatively characterize the
+interactions of CaM with wild type Fas and with the Fas V254N mutant
+using isothermal titration calorimetry (ITC). Recombinant CaM, Fas DD
+wild type (WT), and a FasV254N mutant were expressed in Escherichia coli,
+purified by ion affinity chromatography followed by size exclusion
+chromatography and dialyzed into the buffer for ITC experiments. ITC
+results illustrate an endothermic binding characteristic between CaM and
+WT Fas DD and an entropy-driven interaction between CaM and WT Fas DD
+with binding entropy of 46.7 5.3 cal/mol/deg and a binding constant of
+1.6 x105 1.6 x104 M1 at 37oC. The binding of CaM and Fas DD was
+significantly decreased by the V254N mutation of Fas DD, showing a
+significantly decreased binding entropy (33.2 0.001cal/mol/deg) and a
+threefold decrease in binding affinity (5.01 x104 3.4 x103 M1) at 37oC.
+The significantly decreased binding affinity of CaM with Fas by the V254N
+mutation of Fas DD could result from the change of electrostatic
+interactions and van der Waals interactions between CaM and Fas DD and
+from the conformational change of Fas DD caused by the V254N mutation,
+which was demonstrated in our computational study (Biophys J.
+95(12):5913-5921, 2008). Results from this study provide the
+thermodynamic basis for further identification of novel strategies
+capable of effectively regulating Fas-mediated apoptosis.
+

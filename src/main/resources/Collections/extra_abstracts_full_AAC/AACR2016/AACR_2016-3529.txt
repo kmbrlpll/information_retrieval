@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Immunotherapy targeting folate receptor induces autophagy in
+ovarian cancer
+
+
+Cancer cells are highly dependent on folate metabolism mediated by the
+folate receptor (FRa). Gene encoding FRa (FOLR1) is overexpressed in
+endometrial and ovarian cancers. We aim to investigate the functional
+mechanisms of blocking FRa with MORAb-003 antibody, a humanized
+monoclonal antibody directly against FRa. We first analyzed clinical data
+from the Cancer Genome Atlas (TCGA) for correlation between copy numbers
+of FOLR1 gene and disease-free survival in patients with high-grade
+serous ovarian carcinoma (HGSC). Next, we determined the
+surfaceexpression of FRa on HGSC cells using flow cytometry (FACS). We
+then used xenograft mouse models to test tumor inhibition by MORAb-003
+antibody-induced FRa blockade. We performed reverse-phase protein array
+(RPPA) analysis in FRa-positive and FRa-negative HGSC tumors to compare
+their responses to MORAb-003 treatment. To recapitulate the in vivo
+environment, we cultured FRa-positive and -negative epithelial ovarian
+cancer cells in three-dimensional (3D) condition and targeted the
+specific factors identified by RPPA using shRNAs knockdown. MORAb-003
+monotherapy significantly reduced tumor weights and numbers of tumor
+nodules in both FRa-positive IGROV1 and SKOV3 models; combination of
+MORAb-003 and docetaxel significantly reduced both tumor weights and
+numbers of tumor nodules compared to docetaxel monotherapy. As expected,
+we did not observe these effects in the A2780 model, which has low FRa
+expression. Immunohistochemistry using PCNA and TUNEL staining in
+resulting tumors revealed that MORAb-003 reduced proliferation, but had
+no significant effect on apoptosis. Systematic analysis from RPPA
+identified a number of autophagy factors and cell-death initiators as
+being significantly upregulated by MORAb-003 treatment in FRa-positive
+tumors including Beclin-1 and PEA-15 (a factor involved in activation of
+autophagic cell death). cDNA microarrays further showed that MORAb-003
+treatment up-regulated the expression of BECN1, ATG8, ATG3 and LC3B in
+FRa-positive tumors. Using FACS analysis with acridine orange (AO)
+staining, we observed significantly more AO positive population in 3D
+cultured SKOV3 cells treated with MORAb-003 alone (16.9%) or
+MORAb-003+docetaxel (21.2%) than in cells treated with control IgG
+(5.24%). Such differences were not observed in A2780 cells. We also
+observed significant increase of autophagy flux in SKOV3 cells but not in
+A2780 cells. We also found that blocking autophagy with
+hydroxychloroquine or bafilomycin A1, or knockdown Beclin-1 or PEA-15
+with shRNAs reversed the growth inhibition induced by MORAB-003 in 3D
+cultured SKOV3 cells. We reported autophagy-associated cell death is a
+previously unrecognized mechanism for targeting of FRa in addition to the
+known mechanisms including antibody-dependent cellular cytotoxicity. Our
+studies also suggested that Beclin-1 and PEA-15 could be further explored
+as prognostic markers for FRa-targeted therapy.
+

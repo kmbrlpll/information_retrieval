@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Accelerating pediatric brain tumor research through team science
+solutions.
+
+
+Introduction: The Children’s Brain Tumor Tissue Consortium (CBTTC), an
+international repository of genomic and phenotypic data, has partnered
+with Blackfynn, Inc., to create a cloud-based data management platform to
+facilitate team-science across disciplines.
+
+Background: The CBTTC through the CHOP Department of Biomedical and
+Health Informatics (DBHi) has developed a network of informatics and data
+applications for researchers across the globe to work together and
+perform real-time analyses on existing clinical, phenotypic, and genomic
+data. Historically, rare disease datasets are siloed, locked in
+proprietary formats, segregated by data types, and hidden from the view
+of experts in the field. This has been a significant barrier to finding
+effective therapeutics for children with pediatric brain tumors.
+Blackfynn was founded by a group of multidisciplinary experts in
+neuroscience, neurology, medicine, software development, engineering,
+computer science and business with the goal to empower researchers to
+cure neurologic disease and provide solutions to these challenges.
+
+Description of Methods: The CBTTC and Blackfynn teamed up to provide a
+cloud-based, team-focused data management and analytics platform. The
+platform provides a commercial grade, scalable approach to upload, view,
+and integrate digital pathology images with relevant subject data such as
+MRIs, pathology reports and genomic information. Stakeholders can search
+integrated data without requiring users to change their current workflow
+or conform to imposed data standards. This platform is a simple,
+intuitive, end-to-end software platform for teams of scientists and
+pathologists to review, annotate and discuss cases, enabling rapid
+diagnostic consensus, quality control, and empowered discovery.
+
+Summary of Unpublished Results: The CBTTC/Blackfynn data platform enabled
+CBTTC members to engage in a cross-institutional collaboration to reach
+consensus on digital pathology data in ways that were previously not
+possible. We demonstrated that this solution removes existing barriers to
+collaborative efforts and provides a rich analytic and discovery platform
+bridging imaging with genomics and other data formats. The platform
+provides a new model for the scientific community to facilitate
+translation towards improved treatments for children diagnosed with brain
+tumors.
+
+Discussion and Future Direction: This pilot project will be scaled to
+other CBTTC sites for centralized review of pathology images to enable
+the research community to collaborative on specific projects. The next
+phase of platform development will include further integration CBTTC
+platforms fully integrating genomics data, and side-by-side viewing and
+analyses of MRI, pathology and clincal data to facilitate specific
+project work around large and complex research data types in a cloud
+environment.
+
+

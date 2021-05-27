@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Microsatellite instability status in endometrioid endometrial
+carcinomas is associated with distinct types and patterns of PI3K pathway
+mutations
+
+
+Background: Endometrioid endometrial carcinomas (EECs) frequently harbor
+mutations in the PI3K pathway. In contrast with other cancer types (e.g.
+breast cancer) where PIK3CA mutations are generally mutually exclusive
+with PTEN mutations, in EECs mutations affecting these genes often
+co-occur. Here we sought to determine whether the type and pattern of
+mutations targeting different components of the PI3K pathway are distinct
+between microsatellite stable (MSS) and high-level microsatellite
+instable (MSI-H) EECs, and to define the mutational signatures in MSI-H
+and MSS EECs.Methods: Whole exome massively parallel sequencing-based
+mutation data from EECs of The Cancer Genome Atlas (TCGA) project were
+used to define the number, type and pattern of mutations affecting PI3K
+pathway-related genes (i.e., AKT1, INPP4B, MTOR, PIK3CA, PIK3R1 and
+PTEN). Based on seven MSI markers assessed by TCGA, EECs were classified
+as MSI-H (n = 70) and MSS (n = 109). POLE ultramutated cases were
+excluded. Mutational signatures were defined using EMu, a method based
+upon the expectation-maximization algorithm.Results: Although the
+mutation rates of MSS and MSI-H EECs were significantly different, the
+prevalence of mutations affecting PI3K pathway genes was similar between
+these two groups (all p>0.05), with the exception of PTEN mutations,
+which were more prevalent in MSI-H (87%) than in MSS EECs (72%; p =
+0.017). The PIK3CA hotspot mutations E542K, E545K, and H1047R were found
+to be significantly more prevalent in PIK3CA-mutant MSS EECs (36%) than
+in PIK3CA-mutant MSI-H EECs (13.5%; p = 0.019). In both MSI-H and MSS
+EECs a mutational signature related to age was identified, characterized
+by C>T transitions at NpCpG trinucleotides; in MSS tumors a C>T and C>G
+at TpCpN trinucleotides mutational signature, attributed to the APOBEC
+family of cytidine deaminases, was identified, whereas in MSI-H tumors, a
+DNA-MMR deficiency-like signature was found.Conclusion: Although the
+prevalence of mutations targeting different components of the PI3K
+pathway is similar between MSS and MSI-H EECs, PIK3CA hotspot mutations,
+which result in constitutive kinase activation, are significantly more
+prevalent in MSS than in MSI-H EECs. We have observed that the mutational
+processes operating in MSI-H and MSS EECs are distinct, and that the
+landscape of mutations affecting PI3K pathway-related genes might be
+shaped by multiple mutational processes in these cancers. Our findings
+warrant further investigation of the role of different types of PIK3CA
+mutations in and their predictive impact on distinct subtypes of EECs.
+

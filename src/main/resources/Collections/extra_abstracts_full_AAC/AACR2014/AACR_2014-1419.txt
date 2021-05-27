@@ -1,0 +1,43 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Oncogenic Myc disrupts NAMPT circadian oscillation in mouse
+hepatocellular carcinoma cell line
+
+
+MYC, which is overexpressed in a variety of human cancers, drives aerobic
+glycolysis, also called the Warburg effect. The Warburg effect results in
+regeneration of NAD+ from increased conversion of pyruvate to lactate,
+such that decreased lactate dehydrogenase A (LDHA) activity results in
+NAD+ depletion and can result in cell death. Nicotinamide
+phosphoribosyltransferase (NAMPT), a rate-limiting enzyme that is
+involved in the NAD+ salvage pathway, was reported to be directly
+upregulated by Myc. Increased NAD+ synthesis thus helps to replenish NAD+
+along with LDHA. In this regard, we have previously reported the synergy
+of inhibiting LDHA and NAMPT in causing lymphoma xenograft regression.
+Targeting NAMPT by its inhibitor FK866 has been tested in clinical
+trials. However, the toxicity of FK866 in normal cells is not negligible,
+with thrombocytopenia being reported. Toxicity, however, could be
+diminished if therapy is administered at specific times of the day
+(termed chronotherapy) when normal cells are least dependent on NAMPT,
+whose levels oscillate every 24 hours. We have previously found that Myc
+upregulates Rev-erb, which inhibits and disrupts oscillation of the
+circadian rhythm gene ARNTL (protein name Bmal1) in the osteosarcoma cell
+line U2OS. However, although NAMPT was shown oscillating in normal mouse
+liver and other tissues, how the oscillation of NAMPT is affected in
+cancer especially under Myc overexpression is still poorly
+understood.Here we show Myc induces Nampt mRNA and protein in mouse
+hepatocellular carcinoma (mHCC) cell line that has been engineered
+tetracycline inducible Myc transgene expression vector. Inhibition of
+NAMPT by FK866 induces perturbation of circadian gene expression in mHCC
+cells, including Rev-erb, Per1 and Cry1. The alteration of circadian gene
+expression can be rescued by nicotinamide, suggesting that the circadian
+clock is affected by NAD+/NADH ratio. Interestingly, Nampt mRNA
+oscillates in mHCC cell lines in the absence of Myc and the oscillation
+was lost when Myc is induced, suggesting a therapeutic opportunity could
+exist in the window between circadian regulation of the ebb-and-flow of
+normal cell NAMPT level and the sustained, non-circadian cancer cell
+NAMPT level. Our observation that Myc disrupts the oscillation its target
+gene NAMPT provides a conceptual framework for metabolic chronotherapy
+that could potentially lead to better cancer treatment strategies that
+reduce side effects.We thank the following founding sources: NIH
+R01CA57341, LLS 6106-14.
+

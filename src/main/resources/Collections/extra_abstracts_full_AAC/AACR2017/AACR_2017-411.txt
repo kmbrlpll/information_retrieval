@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: In vivo pooled shRNA library identifies KPNB1 as a new drug target
+for epithelial ovarian cancer.
+
+
+Objective
+
+Epithelial ovarian cancer (EOC) is a most lethal cancer in gynecology, of
+which cure rate is 30%. To seek its new therapeutic targets, we performed
+in vivo loss of function screen.
+
+Method
+
+Human EOC cell line, SKOV3, was transduced with pooled druggable shRNA
+library containing 42450 shRNAs targeting 7490 genes. Transduced cells
+were intraperitoneally injected into 12 female nude mice and monitored
+for PC tumor formation. Genomic DNA of 12 biggest PC tumors were
+sequenced to identify shRNAs depleted in these tumors.
+
+Results
+
+Ten potential drug targets were identified, including 2 known oncogenes,
+ERBB2 and RAF1. Second highest ranked gene, KPNB1, is known as a nuclear
+transporter. KPNB1 inhibition significantly decreased and overexpression
+increased in vitro cell proliferation in multiple EOC cell lines. KPNB1
+inhibition caused multi-phase cell cycle delay at both of G1/S and G2/M
+transition via elevation of p21 and p27 and induced apoptosis. KPNB1
+inhibition significantly decreased in vivo tumor formation through the
+same mechanism as in vitro, because more cleaved PARP and less Ki67
+positive cells were found in KPNB1 knockdown tumors via immunochemical
+staining. We found a positive correlation between KPNB1 mRNA levels and
+poor survival of EOC patients, suggesting the oncogenic role of KPNB1 in
+human EOC. Comprehensive mass spectrometric study identified that KPNB1
+positively regulated several members of anaphase promoting
+complex/cyclosome. Lastly, we found that ivermectin, a well-known
+anti-parasitic drug, exerted an anti-proliferative effect on EOC cell
+lines via KPNB1 inhibition, and its combination with paclitaxel
+synergistically suppressed cell proliferation in vitro and inhibited
+tumor formation in vivo.
+
+Conclusion
+
+In vivo pooled shRNA library screen identified KPNB1 as a new drug target
+for EOC. Ivermectin can be a new therapeutics for EOC especially combined
+with paclitaxel.
+
+

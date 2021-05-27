@@ -1,0 +1,43 @@
+Meeting: 2014 AACR Annual Meeting
+Title: DNA methylation patterns in peripheral blood and the relationship
+with cancer susceptibility loci at chromosome 8q24
+
+
+Chromosome 8q24 has emerged as an important region for genetic
+susceptibility to several cancers, but little is known about the
+contribution of DNA methylation in this region. To explore the extent of
+variation in DNA methylation at 8q24 in peripheral blood and its
+relationship with genetic variation in the region, we conducted a
+cross-sectional study using blood samples from 80 non-Hispanic Caucasian
+males in the Prostate, Lung, Colorectal, and Ovarian Cancer Screening
+Trial. Specifically, we aimed to evaluate between-individual variation in
+DNA methylation levels at specific CpG sites at 8q24 and to investigate
+the underlying genetic structure in the region by examining correlations
+for DNA methylation levels with each other and with the established
+cancer susceptibility SNPs at 8q24. We quantified DNA methylation levels
+at 145 CpG sites nearby cancer susceptibility single nucleotide
+polymorphisms (SNPs) at 8q24 or the MYC oncogene using pyrosequencing of
+bisulfite-treated DNA, which is considered a highly sensitive method to
+detect differences in DNA methylation levels between individuals. We
+calculated pairwise Spearman correlations (rho), adjusting for multiple
+testing using the False Discovery Rate (FDR) method. We identified a
+large number of CpG sites that were reproducible and demonstrated
+moderate to high between-individual variation in our study population.
+Among these CpG sites, some sites within or nearby MYC and POU5F1B were
+strongly correlated with one another (highest rho=0.74), suggesting a
+coordination of DNA methylation levels in gene regions. Moreover, we
+observed strong correlations between several CpG sites and some of the
+known cancer susceptibility SNPs at 8q24. Some of the correlations
+remained statistically significant after adjustment for multiple
+comparisons, including a CpG site and an established prostate cancer SNP
+in the long non-coding RNA PRNCR1 (Chr8:128167809 and rs1456315,
+rho=0.52; p-value=1.4x10-6; FDR-adjusted p-value=0.002) and a CpG site
+(Chr8:128498051) in POU5F1B and the known prostate/colorectal cancer SNP
+rs6983267 (rho=0.46; p-value=2.0x10-5; FDR-adjusted p-value=0.01). This
+is the first study to report associations between DNA methylation levels
+at 8q24 in peripheral blood and 8q24 cancer susceptibility SNPs,
+suggesting that DNA methylation at this important susceptibility locus
+may contribute to risk. Additional studies are needed to clarify the
+relationship between genetic and epigenetic variation at 8q24 and cancer
+risk.
+

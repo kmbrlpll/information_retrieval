@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Analytical performance of TruSight® Tumor 170 on small nucleotide
+variations and gene amplifications using DNA from formalin-fixed,
+paraffin-embedded (FFPE) solid tumor samples.
+
+
+Expanding the paradigm of solid tumor profiling from single-gene testing
+to comprehensive panels presents many challenges. One such challenges is
+the ability of these panels to detect genetic alterations from FFPE
+samples, where the DNA is of low abundance and often heavily compromised.
+Despite these challenges, next-generation sequencing (NGS) offers the
+ability to assess multiple variants simultaneously in an ever-expanding
+list of relevant tumor genes. To that end, Illumina developed a
+comprehensive, hybrid capture-based NGS assay targeting 170 key cancer
+genes that is FFPE optimized. The assay consists of a DNA workflow for
+the identification of single and multiple nucleotide variants (SNVs,
+MNVs), small insertions and deletions (indels), gene amplifications, as
+well as a RNA workflow for the identification of splice variants and gene
+fusions. Following sequencing on the NextSeq® or HiSeq® instruments,
+the analytical pipeline initiates variant calling. The DNA aligner and
+variant callers were first optimized against the simulated read data from
+>40,000 COSMIC[1] mutations reported in the exons of the 170 genes. To
+reduce false positive variant calling due to systematic errors, each
+variant call was evaluated against its locus specific background error
+distribution. This distribution was compiled from a panel of FFPE normal
+samples and was also used to normalize against systematic bias in read
+coverage to increase the accuracy of amplification calling. Furthermore,
+gene amplification calling was improved by the addition of enhancer
+probes to the hybrid capture pool. The analytical sensitivity and
+specificity of TruSight® Tumor 170* was assessed on a large collection
+of FFPE samples and reference material. A panel of 72 cancer samples,
+including multiple tissue types, reference standards, and cell line and
+FFPE mixes were used to evaluate the limit of detection. The samples
+contained 533 SNVs, 80 indels including deletions up to 30 base pairs and
+insertions up to 31 base pairs, 4 MNVs, and 31 gene amplifications,
+characterized by orthogonal testing methods. Using 40 ng DNA input,
+detection sensitivity of the >1000 variants (including replicates) tested
+at variant allele frequencies down to ~5% was at 99.6%, while detection
+sensitivity of gene amplifications as low as 1.45x to 2.2x was at 98%.
+For limit of blank samples, a panel of 24 normal samples was used. Again
+using 40 ng DNA input, we show >99% specificity for small variant calling
+and >95% specificity for gene amplification calling. These data
+demonstrates the TruSight® Tumor 170 is able to detect multiple variant
+types within a single sample at low nucleic acid input, while exhibiting
+high analytical sensitivity and specificity for low allele fraction
+detection.
+
+[1] Forbes, et al. (2015) *For Research Use Only. Not for use in
+diagnostic procedures.
+
+

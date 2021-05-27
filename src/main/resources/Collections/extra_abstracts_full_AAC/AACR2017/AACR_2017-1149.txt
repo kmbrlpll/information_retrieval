@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Targeting Rad6B suppresses melanomagenesis.
+
+
+Active β-catenin signaling in melanoma is associated with aggressive
+disease. We have previously shown that Rad6B, an ubiquitin conjugating
+enzyme, is a positive regulator of β-catenin stability and
+transcriptional activity, and is itself a transcriptional target of
+β-catenin. This stabilization is mediated by Rad6B-induced K63-linked
+polyubiquitination of β-catenin that renders it insensitive to 26S
+proteasomal degradation. Immunohistochemical analysis of human cutaneous
+melanoma samples showed the first detectable expression of Rad6B in
+melanocyte hyperplasia and continued Rad6B and β-catenin overexpression
+in primary and metastatic melanomas. These data implicate a critical role
+for Rad6B in melanocyte transformation and a continuing role in melanoma
+progression. To analyze the role of Rad6B in melanomagenesis, we targeted
+Rad6B expression/activity in human M14 metastatic melanoma cells by using
+a Rad6-selective small molecule inhibitor SMI#9 and the CrispR/Cas9 gene
+editing system. Immunoblot analysis showed that compared to controls, M14
+cells treated with SMI#9 showed decreased levels of β-catenin, and
+β-catenin driven transcriptional targets Rad6, vimentin, Mitf-M, and
+Melan A. Although Snail levels were not altered, SMI#9 treated cells
+showed increase in phosphorylated Snail. Immunocytochemical staining
+verified the western blot data and showed cytoplasmic relocalization of
+PCNA and Snail in SMI#9 treated cells which is consistent with increase
+in phosphorylated Snail. Concordant with the decrease in vimentin and
+unphosphorylated Snail levels, Rad6B-inhibited cells display poor
+capacity to migrate as compared to controls. Whereas Rad6B knockout cells
+were severely growth impaired, Rad6B edited clones showing partial
+expression (potentially from only one allele) similarly showed decreased
+levels of β-catenin, vimentin, and Mitf-M. Similar to Rad6B-inhibited
+cells, Rad6B edited cells were migration- and invasion-impaired. Whereas
+control cells produced robust tumors and overt lung metastases, the Rad6B
+gene edited cells were poorly tumorigenic. Rad6B gene edited clones
+showed complete loss of Melan A. Since Mitf-M is a transcriptional
+regulator of Melan A and a key player in melanocyte lineage
+specification, our data suggest that targeting Rad6B could potentially
+inhibit melanomagenesis by reprogramming melanoma cells. Supported by NIH
+CA178117 and 3Balls Racing.
+
+

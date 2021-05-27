@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Adaptive feedback reactivates MAPK signaling in KRAS-mutant
+cancers with inhibition of MEK, but not ERK.
+
+
+Activating mutations in the KRAS oncogene occur in about 40% of
+colorectal cancers (CRCs) and over 90% of pancreatic ductal
+adenocarcinomas (PDACs). Since development of small molecules capable of
+inhibiting KRAS directly has proven difficult, alternative strategies
+have instead focused on inhibiting downstream effector pathways, such as
+the MAPK pathway. However, inhibition of the MAPK pathway alone with MEK
+inhibitors, such as selumetinib and trametinib, produces only cytostatic
+effects and is insufficient to kill KRAS-mutant cancer cells.
+
+We hypothesized that inhibition of an additional kinase during MEK
+inhibitor treatment could improve response. We performed a
+kinase-targeting shRNA screen to find kinases whose knockdown would
+cooperate with trametinib in KRAS-mutant CRC and PDAC cell lines. The
+kinases found in this screen represent potential therapeutic targets to
+inhibit in combination with MEK.
+
+Interestingly, despite using a very high concentration of trametinib in
+the screen to enrich for hits outside of the MAPK pathway, the most
+highly ranked kinases in the screen were members of the MAPK pathway,
+including ARAF, BRAF, CRAF, and MEK1. This suggests that even at high
+concentration, trametinib produces suboptimal MAPK inhibition. Indeed, we
+found that while MEK inhibitors produce robust inhibition of MAPK
+signaling initially, pathway reactivation was observed by 48-96 hours
+despite regular replenishment of drug. This feedback reactivation was
+accompanied by marked increases in active CRAF and phosphorylated MEK. In
+fact, experimental approaches that artificially increased upstream
+signaling flux through the MAPK pathway led to a >10-fold reduction in
+the ability of MEK inhibitors to inhibit the MAPK pathway.
+
+Remarkably, despite triggering the same degree of adaptive upstream MAPK
+signaling as seen with MEK inhibitor, we found that ERK inhibitors were
+able to maintain MAPK pathway suppression. Importantly, these differences
+in MAPK pathway suppression amount to differences in cell viability. Over
+four weeks, ERK inhibitor treatment reduces the outgrowth of KRAS-mutant
+cell lines compared to those treated with MEK inhibitors. Additionally,
+as these inhibitors are not used as monotherapies, replacement of
+trametinib with an ERK inhibitor in therapeutically relevant combination
+treatments improved cell responses over four weeks.
+
+Despite the feedback reactivation of the MAPK pathway, we find that ERK
+inhibitors are less sensitive to this signaling than MEK inhibitors, and
+can effectively maintain suppression of MAPK signaling. The findings of
+our screen demonstrate that MAPK pathway targeting is key to successful
+treatment of KRAS-mutant cancers, and that ERK inhibition provides
+greater opportunity for inactivating MAPK. Further exploration into the
+mechanisms of pathway feedback will be necessary to developing valuable
+clinical combinations for KRAS-mutant cancers.
+
+

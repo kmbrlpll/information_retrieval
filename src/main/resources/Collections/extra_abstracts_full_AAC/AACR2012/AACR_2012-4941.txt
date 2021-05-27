@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A microRNA activity map of human mesenchymal tumors: An
+integrative transcriptomic study
+
+
+Background MicroRNAs (miRNAs) are nucleic acid regulators of many human
+mRNAs, and are associated with biological processes including cell
+proliferation, differentiation, and apoptosis. miRNA expression levels
+have been used in cancer profiling studies, but some evidence suggests
+that they do not fully capture miRNA regulatory activity. In this study
+we have integrated multiple mRNA and miRNA expression datasets to use
+gene expression as a surrogate for determining miRNA regulatory activity.
+We discovered (and validated using a paraffin-based cohort) patterns
+associated with cancer phenotypes and oncogenic pathways in mesenchymal
+tumors - a very heterogeneous class of malignancies - and we investigated
+possible causes for miRNA activity changes. Results Using a recently
+developed computational method which determines miRNA activity from
+changes in gene expression profiles, we identified differentially
+activated miRNAs between 77 normal and 135 sarcoma specimens and we
+validated many of these findings with microarray interrogation of an
+independent, paraffin-based tumor cohort of 18 samples. Among these
+differentially activated miRNAs are 17 with a histological
+subtype-specific activity pattern in comparison to normal mesenchymal
+tissue. We also found 81 miRNAs which exhibit a pattern common to all
+histological subtypes, and we identified 12 miRNAs with unique activity
+in osteosarcomas. In addition, we have shown that miRNA activity is
+imperfectly correlated with miRNA expression levels. Using
+next-generation miRNA sequencing we identified a specific sequence
+alteration which may contribute to differential activity by changing
+mRNA/miRNA complementarity. We then analyzed miRNA activity changes
+related to the RAS-pathway and found 21 miRNAs that switch from silenced
+to activated status in parallel with RAS activation. Importantly, nearly
+half of these miRNAs were predicted to regulate integral parts of the
+miRNA processing machinery, and our gene expression analysis revealed
+significant reductions of these transcripts in RAS-active tumors. This
+suggests an association between RAS signaling and miRNA processing in
+which miRNAs may attenuate their own biogenesis. Conclusions Our study
+represents the first gene expression-based investigation of miRNA
+regulatory activity in human sarcomas, and our findings indicate that
+miRNA activity patterns derived from integrated transcriptomic data are
+reproducible and biologically informative in cancer. We identified an
+association between RAS signaling and miRNA processing, and demonstrated
+a sequence alteration as a plausible cause for differential miRNA
+activity. Finally, our study highlights the value of systems level
+integrative miRNA/mRNA assessment with high-throughput genomic data, and
+the applicability of paraffin-tissue-derived RNA for validation of novel
+findings.
+

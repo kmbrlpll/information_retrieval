@@ -1,0 +1,36 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Computer-assisted Gleason grading of prostate cancer: Two novel
+approaches using nuclear shape and texture feature to classify pathologic
+Gleason grade patterns 3 and 4
+
+
+Introduction: We used two novel computer-assisted imaging applications
+that incorporate nuclear shape and texture analysis to differentiate
+Gleason grade patterns 3 and 4 of H&Ein a tissue microarray (TMA). The
+two approaches utilized a variational adaptive segmentation scheme
+(AdACM) (Rutgers) and the cardinal multiridgelet transform (CMRT) based
+texture analysis (University of Pittsburgh). Methods: The TMA include 0.6
+mm cores from blocks that included Gleason patterns of CaP radical
+prostatectomy cases from 40 patients. The TMA comprised 13 Gleason
+patterns 6 (3+3), 8 pattern 7 (3+4), 7 pattern 8 (4+4) and 5 pattern 9
+(4+5) Gleason grade (GG) patterns. The AdACM uses 200 200 pixel images
+extracted for nuclear & architectural textural features. All features
+were based on mathematical energy terms with a shape prior in a
+multi-level set formulation. The CMRT is an image transform that is
+translation- and rotation-invariant, and provides a means of displaying
+texture contents for selection of discriminative features. With a 3-scale
+decomposition, it gives 8 ridgelet packets and 16 statistical texture
+features in a 256 x 256 pixel image patch that are averaged over 9
+non-overlapping patches in a given image for separation of GG patterns 3
+and 4. Results: The CMRT study utilized 3 of 16 texture features
+extracted from images and trained a Gaussian kernel support vector
+machine (SVM), a leave-one-out cross-validation showed an accuracy of 94%
+and AUC of 0.97. For AdACM, nuclear features and architectural features
+were extracted. Linear Discriminant Analysis (LDA) was employed for
+feature selection and best features from all three classes could
+discriminate Gleason grade 3 vs. 4 with an accuracy of 86% via a SVM
+classifier. Conclusions: Unique quantitative imaging of tissue nuclear
+shape and texture features can accurately differentiate Gleason patterns
+3 and 4. Our research will next evaluate CaP outcomes.
+
+

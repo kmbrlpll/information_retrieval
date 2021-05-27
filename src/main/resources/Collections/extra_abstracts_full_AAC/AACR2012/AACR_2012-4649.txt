@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Nbk/Bik induced by flavopiridol switches GX15-070-induced
+autophagy to apoptosis in human multiple myeloma cells
+
+
+Combining the BH3 mimetic GX15-070 (GX, Obatoclax) with the CDK inhibitor
+flavopiridol (FP, Alvocidib) leads to striking in vitro and in vivo
+activity against human multiple myeloma (MM) cells, including those
+resistant to conventional or novel agents. Synergism is associated with
+both down-regulation of anti-apoptotic proteins (e.g., Mcl-1 and Bcl-xL)
+and induction of BH3-only proteins e.g., Bim and Bik (Bcl-2-interacting
+killer). While Mcl-1, Bcl-2, or Bcl-xL over-expression partially
+attenuates FP/GX lethality, knock-down of either Bim or Bik almost
+completely blocks apoptosis, suggesting a critical role for BH3-only
+proteins in this setting. Here, we demonstrate that in contrast to Bim,
+which directly triggers apoptosis, Bik promotes apoptosis by regulating
+autophagy. Prevention of Bik induction by shRNA failed to block release
+of Bak from Mcl-1, arguing against its direct action in apoptosis.
+Sub-toxic concentrations (500-750 nM) of GX released beclin 1 from Bcl-2
+and induced autophagy (e.g., LC3 conversion and autophagosome formation),
+events occurring as early as 6 hr and sustained for 48 hr, but
+unaccompanied by marked apoptosis. Confocal microscopy revealed that in
+both drug-nave and bortezomib-resistant MM cells, co-exposure to GX/FP
+strikingly increased autophagosomes extensively packed in the cytoplasm,
+accompanied by robust apoptosis. This phenomenon was associated with
+marked Bik up-regulation induced by FP +/ GX. Whereas Bim was
+up-regulated and predominantly localized to the mitochondria, Bik was
+induced and exclusively localized to the ER after FP/GX treatment.
+Autophagy includes initiation, elongation, autophagosome formation, and
+maturation to autolysosomes for cargo degradation. Interestingly, Bik
+expression occurred subsequent to autophagy induction and was diminished
+by beclin 1 or ATG5 shRNA, suggesting that Bik is induced during
+autophagy and negatively regulates later stages responsible for cargo
+clearance. Notably, whereas Bim shRNA diminished apoptosis but not
+autophagy induced by FP/GX, Bik shRNA blocked both processes. Moreover,
+beclin 1 or ATG5 shRNA significantly reduced apoptosis induced by FP/GX,
+whereas dominant-negative caspase-9 failed to prevent autophagy. Finally,
+overexpression of Bcl-xL, but not Bcl-2 or Mcl-1, largely attenuated Bik
+expression and autophagy induced by FP/GX. Co-immunoprecipitation showed
+that FP/GX-induced Bik bound to Bcl-xL, rather than to Bcl-2 or Mcl-1.
+Together, these findings suggest a model where in the presence of FP, Bik
+is expressed after autophagy induction by GX, and in turn interrupts
+later stages of autophagy, thus interfering with the ability of cells to
+remove cargo-loaded autophagosomes. Consequently, autophagosomes
+accumulate in cells co-exposed to FP/GX, leading to robust apoptosis.
+Thus, in this setting, Bik, acts as a switch that transforms autophagy
+into apoptosis.
+

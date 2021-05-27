@@ -1,0 +1,37 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Amplicon-targeted ultra-deep sequencing for the detection of KRAS,
+BRAF, and PIK3CA actionable mutations
+
+
+Background: Next-generation deep sequencing techniques have the potential
+to revolutionize clinical testing, especially in the arena of mutation
+detection. Molecular diagnostic testing for KRAS, BRAF, and PIK3CA
+mutations has become an integral part of clinical practice for the
+determination of treatment eligibility for anti-EGFR therapy. Purpose:
+Here we investigate the feasibility of ultra-deep advanced sequencing
+with the 454 GS Junior instrument (454 Life Sciences/Roche, Branford CT)
+for the simultaneous detection of actionable mutations in KRAS, BRAF, and
+PIK3CA in formalin-fixed paraffin-embedded (FFPE) colorectal cancer
+tissue. Methods: Advanced sequencing with a 4-amplicon panel was
+performed on 17 de-identified residual FFPE colorectal cancer biopsy
+specimens originally submitted for mutation analysis of one or more genes
+by standard sequencing. The 4-amplicon panel was multiplexed for up to 4
+samples through barcoding with molecular identifier (MID) sequences, for
+a total of 16 amplicons per run. Results: Sequence analysis with
+ultra-deep coverage of 3000-5000 reads detected KRAS mutations in 5 (29%)
+tumor specimens, BRAF mutations in 3 (18%), and PIK3CA mutations in 4
+(24%). Ten cases had a single mutation and one had two: PIK3CA E545K and
+BRAF D594G. Coverage was equivalent for each of the four amplicons, and
+in both the forward and reverse directions, providing a high level of
+confidence for each mutation detected. Sequencing data was obtained for
+each sample tested. When sample quantity allowed, Sanger sequencing
+and/or castPCR (Life Technologies, Grand Island, NY) were performed as
+method comparisons, and results were concordant. Conclusions: The use of
+MIDs with ultra-deep advanced sequencing allowed the simultaneous
+detection of mutations in multiple amplicons from multiple patients in a
+single sequencing run. This proof-of-concept study confirmed that using
+advanced sequencing to simultaneously test for multiple biomarkers in one
+FFPE sample is feasible, and that amplicon-based advanced sequencing is a
+robust and high-throughput platform for the detection of clinically
+actionable mutations.
+

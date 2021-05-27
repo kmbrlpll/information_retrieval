@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Epigenome landscape of human normal purified hepatocytes: analysis
+by the International Human Epigenome Consortium (IHEC)
+
+
+As a research group participating in the International Human Epigenome
+Consortium, we have performed whole-genome bisulfite sequencing (WGBS)
+using post-bisulfite adaptor tagging, chromatin immunoprecipitation
+(ChIP)-sequencing (seq), RNA-seq and whole-genome sequencing (WGS) using
+normal hepatocytes purified from partial hepatectomy specimens of 6
+Japanese patients without hepatitis virus infection, chronic liver
+disease or hepatocellular carcinoma.DNA methylation profiles such as low
+CpG methylation levels in the region 200 bp upstream from the
+transcription start site (TSS200), the first coding exon and CpG island
+were obtained. CHH methylation was observed more frequently on the
+anti-sense strands than on the sense strands in the 5 untranslated region
+(UTR), first intron, gene body and 3 UTR. non-CpG methylation was
+inversely correlated with gene expression levels.Personal differentially
+methylated regions (pDMRs) were observed less frequently in TSS200, the
+first coding exon, TSS1500, and CpG island where CpG methylation levels
+were low, indicating that the regions important for expression regulation
+may be protected from personal variations of CpG methylation. Histone
+modification profiles of pDMRs differed considerably among samples. pDMRs
+were observed around the TSSs of genes whose expression levels are
+reportedly regulated by CpG methylation, such as LRP1B, RASGRF2 and TFF1.
+pDMRs were located more frequently in the vicinity of loci showing
+genetic variation (single-nucleotide variations [SNVs] and/or
+insertions/deletions [indels]) than on all autosomes. Although further
+study is needed to clarify the molecular background of such
+genome-epigenome interaction, we speculate that SNVs and indels may
+affect the binding of non-coding RNAs and/or protein complexes that
+induce histone modification or CpG methylation alterations around the SNV
+and indel loci. MetaCore pathway analysis revealed that genes showing
+both genetic (SNVs and indels) and epigenetic (pDMRs) variations in
+multiple samples were significantly accumulated in signaling pathways
+participating in hepatocyte function and disease susceptibility.Our data
+suggest that genetic variations may induce epigenetic variations and
+generate individual differences in the phenotypes of normal hepatocytes
+and/or determine disease susceptibility through variations in expression.
+After accumulation of numerous reference epigenome profile data in the
+IHEC database, comparison between IHEC data for normal cells and cancer
+cells may facilitate the accurate identification of cancer-specific
+epigenome profiles, which would be indispensable to the development of
+biomarkers and molecular targeted therapies.
+

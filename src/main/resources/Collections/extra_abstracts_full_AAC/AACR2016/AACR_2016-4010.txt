@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identification of novel targeted and immunotherapy combinations by
+a high throughput assay of T cell-mediated cytotoxicity
+
+
+Melanoma is the major cause of skin cancer-related deaths. However, the
+recent emergence of immune checkpoint inhibitors such as Ipilimumab
+(anti-CTLA-4) and Nivolumab (anti-PD-1), and adoptive cell therapy, using
+tumor infiltrating lymphocytes (TILs), has improved clinical outcomes and
+produced response rates of approximately 50%. Despite the progress made
+in melanoma immunotherapy, there is a large cohort of patients for which
+these treatments are currently not applicable. They are either inherently
+resistant to or acquire resistance to immunotherapy. As such,
+understanding mechanisms of resistance to immune response and
+ascertaining efficacious therapy combinations is important in overcoming
+immunoresistance and developing novel treatment regimens.As proof of
+principle, preliminary work using a unique protocol for an in vitro
+T-cell mediated cytotoxicity screen was established. In this assay,
+intracellular staining of active caspase-3 in tumor cells, a marker of
+apoptosis, is measured by flow cytometry in a 96-well format. Using
+patient-derived tumor and TIL pairs, a screen of 850 compounds was
+performed to find candidate drugs that could modulate the sensitivity of
+tumor cells to T- cell mediated killing. Initial screens identified
+classes of compounds that inhibit Heat shock protein 90 (Hsp90), Aurora
+Kinase and Topoisomerase I, and studies to understand their mechanisms of
+action are currently underway.However, as this screening process is very
+time-intensive, we are currently increasing the efficiency and
+feasibility of this screen by miniaturizing this workflow. This work
+presents the development of a screening method that is performed in a
+384-well format, with a greater drug concentration range, and utilizing
+robotics to streamline and increase output. With this, we can
+specifically identify novel targeted and immunotherapy combinations that
+may be used in the clinic to treat melanoma. Additionally, by
+understanding the signaling pathways and molecular factors that regulate
+tumor response to T cell mediated killing, we can translate these
+findings into making immune-based cancer therapies applicable to other
+tumor types. This project aims to discover novel compounds that work
+synergistically with T-cell mediated tumor cell cytotoxicity, understand
+their mechanism of action and how they contribute to resistance and as a
+result identify innovative immune-based therapies that can be translated
+into clinical use.
+

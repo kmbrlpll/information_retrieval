@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Integrative analysis of multi-omics tumor profiles identifies
+pathways associated with resistance to anti-HER2 therapy in early stage
+breast cancer.
+
+
+Background: HER2 positive breast cancers are heterogeneous at both the
+clinical and molecular levels, with the HER2-enriched subtype exhibiting
+increased levels of immune infiltration signatures and the highest rate
+of pathologic complete response (pCR), while the HER2-Basal subtype is
+resistant to anti-HER2 therapy (Varadan et al, CCR 2016). Here we aim to
+characterize the molecular underpinnings of response and their
+interaction with increased immune infiltration across these HER2-subtypes
+using integrative analyses of genomic and transcriptomic data from two
+multicenter trials (DFCI 03-311 and BrUOG 211B).
+
+Methods: Fresh tumor core biopsies were taken at baseline and a 2-week
+time point after a single dose of trastuzumab. 80 HER2+ early breast
+cancer (EBC) patients were enrolled in the 03-311 trial, and 60 patients
+in the 211B trial. Biopsy samples were profiled for gene expression
+(Microrrays:03-311; RNAseq:211B), somatic mutations (Whole-exome
+sequencing: 211B; Targeted Sequencing: 03-311) and somatic copy-number
+aberrations (SNP-arrays: 03-311; Whole-exome Sequencing: 211B). Subtyping
+was performed using gene expression data and tumors were classified into
+HER2-Enriched, HER2-Luminal and HER2-Basal subtypes. Integrative analysis
+of gene expression and copy-number data to infer signaling network
+activities per sample, was performed using the recently developed InFlo
+framework (Dimitrova et al, Oncogene 2016).
+
+Results: HER2-Basal tumors exhibited lower average copy number for HER2
+and were less likely to have high-level amplifications of co-amplicons
+(e.g. 11q13, 20q13). In the 211B and 03-311 trials, respectively, 62% and
+63% of somatic mutations persisted after one dose of therapy, while 21%
+and 19% of mutations were undetectable after one dose of therapy. Tumors
+harboring amplifications in the 8p11 (FGFR1) genomic locus exhibited
+higher indices immune signatures associated with macrophages (P=0.0073)
+and T-cells (P = 0.0493) in 211B, but this association did not achieve
+significance in the 03-311 trial. Integrative InFlo-based analysis of
+tumor gene expression and copy-number profiles after one dose of
+trastuzumab in the 211B trial revealed significantly higher activity of
+signaling pathways associated with CD4+ T-cells in the responders
+(P=0.008), while higher activity of mTOR pathway was observed in
+non-responders (P=0.0014).
+
+Conclusions: Changes in mutational profiles over time may either be
+related to therapy-induced alterations of clonal architecture or the
+consequence of intra-tumor heterogeneity, thus warranting further
+exploration. Integrative analysis of gene expression and copy-number
+profiles reveal signaling pathways associated with response and
+resistance, enabling the discovery of biomarkers of response to anti-HER2
+therapy.
+
+

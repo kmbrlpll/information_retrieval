@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Mapping matrix mechanics in 3D to study the role of stiffness in
+breast tumor progression.
+
+
+IntroductionEvidence suggests that the Extra Cellular Matrix (ECM)
+stiffness may be a driving factor in tumor progression and may sensitize
+epithelial cells towards the invasive phenotype. In fact, high
+mammographic density is linked to a higher risk of tumor. In vitro,
+stiffness in naturally derived ECMs is commonly increased via changing
+concentration or cross-linking. Either process will change ligand
+density, porosity, architecture, and diffusivity. Therefore, it is
+difficult to determine whether the resulting tumor phenotype is due to
+stiffness changes or other factors. ECM stiffness is conventionally
+measured via parallel plate rheology or AFM. But, while one only provides
+an average ensemble of the entire sample, the other lacks the axial
+resolution required to measure deep within the gels.We use our stiffness
+gradient device (SGD) to tune stiffness independent of concentration or
+crosslinking. In the SGD, the ECM is polymerized around a post, which is
+rotated to induce strain, and a stiffness gradient is established.
+Stiffness can be tuned from 100 - 1000 Pa within one dish, the range of
+normal and malignant breast tissue. We have combined SGD with active
+microrheology (AMR) to investigate the role of ECM stiffness in
+sensitizing epithelial cells towards an invasive phenotype. AMR allows
+deep measurements within the sample to map ECM stiffness in 3D and around
+cells. We can correlate these maps with the function and signaling of
+mechanoreceptors such as integrins.Materials and MethodsCells were
+cultured inside hydrogels (Collagen or Matrigel) containing 2 um silica
+beads to be used as probes for AMR. AMR was conducted to calculate the
+complex shear modulus (G*). G* is a measure of material stiffness (G) and
+loss (G).MCF10A.ErbB2 cells (courtesy of the Muthuswamy lab) were
+cultured inside 3D hydrogels within the SGD. These cells can be driven
+towards malignancy with the addition of a synthetic dimerizer that
+activates the ErbB2/Her2 pathway. The cells were allowed to reach their
+growth arrested acini phase, at which time the appropriate matrices were
+stiffened. After an additional 2 weeks, dimerizer was added to the
+culture. Non-linear imaging in regions of high stiffness and low
+stiffness reveals acini morphology and molecular distributions.Results
+and DiscussionIn dimerizer-free culture, we observed an organized tubule
+network connecting acini, which lost their growth control only in
+stiffened regions. In the non-stiffened regions we saw growth arrested
+hollow acini. With the addition of dimerizer, in soft regions we
+observed, consistent with published results, thin disorganized tubules.
+Interestingly, in the stiffened region, we saw a partial rescue of the
+organized morphology suggesting that stiffness may play an orthogonal
+role to Her2 signaling. Further observations suggested that a stiff ECM
+sensitizes mammary epithelial cells to the actions of the Her2 pathway.
+

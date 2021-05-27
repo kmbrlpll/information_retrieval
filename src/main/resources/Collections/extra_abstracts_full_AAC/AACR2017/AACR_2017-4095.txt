@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: c-Met activation mediates resistance to polo-like kinase 1
+inhibitor-induced apoptosis in non-small cell lung cancer.
+
+
+Background: Inhibiting polo-like kinase 1 PLK1 may be an effective
+treatment for non-small cell lung cancer (NSCLC). PLK1 is a key regulator
+of mitosis and DNA damage checkpoints. PLK1 inhibitors are well
+tolerated, but only a few unselected patients with NSCLC respond to
+single-agent therapy. However, predictive biomarkers have not been used
+to select patients who are likely to experience a response to PLK1
+inhibitors, and the mechanisms of resistance to PLK1 inhibitors have not
+been elucidated, making these unknowns a major gap in knowledge. To
+address this gap, we compared basal gene and protein expression in 63
+NSCLC cell lines and discovered that mesenchymal NSCLC cell lines were
+more sensitive to PLK1 inhibitors than epithelial cell lines in vitro and
+in vivo. The induction of apoptosis in some NSCLC cell lines at very low
+drug concentrations and the need to find better therapy for mesenchymal
+NSCLC motivated us to further study PLK1 inhibition.
+
+Methods: To identify the pathways involved in PLK1 inhibitor-induced
+apoptosis, we used 3 pairs of isogenic NSCLC cell lines in which we had
+induced a mesenchymal phenotype using TGF-β. These isogenic lines were
+treated with the PLK1 inhibitor (volasertib) for 24 hours and levels of
+301 proteins and phosphoproteins were simultaneously measured before and
+after treatment with volasertib using reverse phase protein array (RPPA).
+
+Results: The induction of a mesenchymal phenotype using TGF-β increased
+PLK1 inhibition-induced DNA damage and apoptosis in 3 NSCLC cell lines.
+To further elucidate mechanisms of resistance to PLK1 inhibition, we
+compared gene and protein expression in these isogenic cell lines, before
+and after PLK1 inhibition. There were 35, 12 and 43 proteins
+differentially regulated following PLK1 inhibition in epithelial vs.
+mesenchymal lines in HCC366, H1975, and HCC4006 cell lines, respectively
+at False Discovery rate 0.1. Phosphorylated FAK (Y397) and c-Met
+(Y1234/1235) were consistently inhibited following PLK1 inhibition in the
+mesenchymal lines but activated in the epithelial lines. These changes
+were confirmed by Western blotting. Total FAK and c-Met protein and mRNA
+levels were not affected, demonstrating post-translational changes. The
+inhibition of c-Met using EMD 1214063 led to FAK inhibition but FAK
+inhibition did not affect c-Met activation. The combination of c-Met
+inhibitor and volasertib increases sensitivity in NSCLC cell lines
+tested. The combinations led to more apoptosis than the single-agent
+inhibitors.
+
+Conclusions: NSCLC cell lines have diverse sensitivities to PLK1
+inhibition, which is consistent with the results of clinical trials of
+PLK1 inhibitors in solid tumors, but no studies to date explain these
+diverse responses to PLK1 inhibition. We have identified c-Met activation
+as a previously unknown pathway of resistance to PLK1 inhibition in
+epithelial NSCLC.
+
+

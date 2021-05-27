@@ -1,0 +1,42 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Genomic alterations in biopsy samples predict the chemosensitivity
+of pediatric osteosarcoma
+
+
+PURPOSE: Sensitivity of preoperative chemotherapy, evaluated by a
+histological analysis using resected tumor tissue, is the most important
+prognostic factor for osteosarcoma (OS). Methotrexate, doxorubicin,
+cisplatin (MAP regimen), and ifosfamide (IFO) are recognized as key drugs
+for OS, although it is still debatable whether addition of IFO for all OS
+patient is beneficial or not. In this study, to construct a prediction
+system of chemosensitivity of preoperative chemotherapy for pediatric OS
+patients, array CGH and NGS technologies were applied.METHODS:
+Pre-therapeutic biopsy tumor samples of 30 pediatric conventional OS
+patients treated in our institute who had homogeneous
+clinicopathological- and therapeutic- background were analyzed. The
+patients were divided into three groups (A:MAP-sensitive, B:IFO-sensitive
+and C:resistant to both) according to the histological response to
+chemotherapy including MAP and/or IFO. Twenty-two tumor samples were used
+as a learning set for searching candidate markers. Additionally, 8 tumor
+samples were used for independent analysis as a validation set. Genomic
+DNAs were prepared from frozen biopsy samples and used for CGH analysis
+with Agilent 44k DNA microarray. Target-sequencing by using the Ion
+Torrent AmpliSeq Comprehensive Cancer Panel containing 409 cancer-related
+genes were also conducted for 10 tumor/non-tumor pairs.RESULTS: Survival
+analysis of this cohort assured that response levels to chemotherapy were
+significantly correlated to the patient outcomes. Differential aberration
+analyses of the copy number data resulted in selection of 8 putative
+genomic markers for classifying into A, B and C groups with differential
+chemosensitivity. Scoring system to predict chemosensitivity of each
+tumor was developed with these genomic markers and subsequent validation
+analysis indicated that the scoring system was remarkably consistent to
+the patient properties. Target re-sequencing of 409 cancer-related genes
+by using Ion Proton sequencer identified 98 candidate non-synonymous
+single nucleotide variations (SNVs) (average 10 SNVs per tumor), however,
+significantly recurrent mutations in C group have not been observed so
+far.CONCLUSION: Our results indicated that copy number changes in OS
+biopsy samples could be good predictors of response to preoperative
+chemotherapy. These signatures as well as global mutation information may
+be useful for the future genomics-based personalized chemotherapy for OS
+patients.
+

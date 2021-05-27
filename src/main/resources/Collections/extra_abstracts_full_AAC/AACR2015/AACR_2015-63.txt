@@ -1,0 +1,27 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Alview (ALignment VIEWer): A software tool to visualize next
+generation sequencing (NGS) data
+
+
+Widespread use of NGS has led to the increasing sizes of high throughput
+sequencing data of various types from different platforms. Review of
+alignment data by experienced genomics researchers is an important
+quality control element in this process. Key to this activity is visual
+inspection of the sequencing data in order to eliminate false positives
+and document the likelihood of true positives. Furthermore, such manual,
+or visual, examination of data must occur at extremely rapid
+speeds.Alview (for ALignment VIEWer) is a compiled to native architecture
+software tool for visualizing the alignment of sequencing data. The
+inputs data are in the SAM/BAM format short read sequences that are
+aligned to a reference genome sequence. Outputs are images representing
+these short reads aligned to the reference genome. Alview is written in
+portable C with optional Graphical User Interface (GUI) code written in
+C,C++ or Objective C. Alview can be compiled to run in three different
+ways: (1) as a webserver, (2) as a command line tool, or (3) Alview is
+executable as a native graphical user interface. Alview is compatible
+with Microsoft Windows, Linux, and Apple OS X. Our new tool saves time
+and addresses specific regions of interest (for example, regions
+containing known or novel mutations or SNPS) and peruses these regions in
+the manner of a slideshow, enabling the scanning of a large number of
+samples in a short time
+

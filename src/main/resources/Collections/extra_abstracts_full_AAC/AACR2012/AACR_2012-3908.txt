@@ -1,0 +1,41 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Norton-Simon modeling for the optimization of dose and schedule of
+palifosfamide in breast cancer
+
+
+Palifosfamide (P), the stabilized active metabolite of ifosfamide, is a
+bifunctional DNA alkylating agent with broad anticancer activity,
+including against cells with ALDH over-expression resistant to
+cyclophosphamide. In contrast to other agents of its class, P's favorable
+safety profile, rapid onset of action, and comparable activity by IV and
+PO routes permits optimization of dose-schedule. To this end we used
+Norton-Simon Modeling to analyze the growth curves of the MX-1 breast
+cancer xenograft model, unperturbed and perturbed by various
+dose-schedules of P. This method fits an equation N(t)/t=F(N)G(t) to
+experimental data on tumor size N as a function of time t to define the
+magnitude and shape of the curve of growth perturbation G as a function
+of time t before, during, and after the administration of anticancer
+therapy. In general (as in this case), growth perturbation peaks at a
+number of days after administration and declines thereafter. This is
+largely due to the induction of spontaneously reversible resistance
+(tachyphylaxis) as evidenced by the cancers reversion to drug sensitivity
+after a period of drug absence. Hence, repeated cycles of intermittent
+therapy allows for further growth perturbation, providing for sustained
+anticancer effect. The solution of the Norton-Massague equation
+N(t)/t=aN^b-cN^d fit unperturbed growth exactly (r^2=0.99973). 180 mg/kg
+as a single dose caused tumor volume regression with a peak growth
+perturbation at 7 days after administration. The effect of lower dose
+levels in (growth perturbation as a % of that of 180 mg/kg as a single
+dose; peak at days after start of administration) were 120 mg/kg (75%;
+7), 80 mg/kg (34%; 5), and 53 mg/kg (16%; 3). When P was given in divided
+doses over 5 days, 180 mg/kg cumulative dose resulted in (94%; 10), 120
+mg/kg (55%; 6), and 80 mg/kg (16%; 3). Hence, the administration of P
+over 5 days preserved almost full efficacy but delayed the time of
+emergence of drug resistance by 43% (from 7 days to 10 days). Moreover,
+analysis of the effects of P alone, docetaxel alone, and the simultaneous
+combination indicates that the shapes and magnitudes of the single-agent
+curves add to perfectly predict that of the combination, with minimal
+loss of single-agent activity. Hence, the daily x 5 schedule (9 days off)
+at highest tolerated dose level is proposed for clinical study, both as a
+single agent and in combination with other anticancer medications.
+

@@ -1,0 +1,42 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Comprehensive integrated genomic analysis
+
+
+Despite recent advances in the understanding of the biology and genetics
+of lung cancer, and despite the introduction of multiplex somatic
+mutation testing in the clinic, the long-term survival for all lung
+cancer patients, particularly for those with advanced disease, remains
+low. Lung cancer is the leading cause of cancer death globally, resulting
+in 1.4 million deaths annually, including 165,000 patients in the United
+States per year. In order to address the critical need for comprehensive
+profiling of these patients, we developed a novel, CLIA-certified, whole
+exome and low-coverage whole genome sequencing assay that applies a
+disease-focused, integrated approach to identify therapeutically
+actionable drivers of disease. A panel (12) of surgically resected NSCLC
+specimens along with corresponding adjacent normal tissue underwent DNA
+extraction in a clinical (CLIA) environment. Tumor and normal genomic DNA
+was prepared for whole exome sequencing using the using the Agilent
+SureSelectXT Human All Exon V5 kit according to the manufacturer's
+instructions, and libraries were sequenced on the Illumina HiSeq2500 at
+an average depth of 500X. Genomic DNA was then prepared for whole genome
+sequencing using Illumina's Nextera system and run on the Illumina
+HiSeq2500 platform at an average depth of 1-2X. Somatic variants were
+detected using Strelka and somatic copy number alterations (SCNAs) were
+identified using a novel algorithm comparing normalized read counts
+within genomic segments as well as genes in the tumor to a panel of
+normal tissues. In parallel, the same tumor/normal specimens were
+analyzed by two separate CLIA laboratories via 1) a clinically validated
+Ion Torrent AmpliSeq Cancer Panel assay, and 2) a clinically validated
+cancer-focused, high-resolution comparative genome hybridization (CGH)
+array. In addition, a well-characterized panel of 10 germline samples
+obtained from the 1000 Genomes Project were pooled to simulate a broad
+spectrum of somatic single nucleotide variant and indel allele
+frequencies. Sequencing, data analysis and clinical reporting were
+completed for all 12 cases with an average turnaround time of less than 3
+weeks. Single nucleotide variants and indels were identified with an
+accuracy of greater than 99%, with a limit of detection of 5-10% mutant
+allele frequency. Somatic copy number alterations were observed with an
+overall accuracy of greater than 95%. Actionable variants were identified
+by cross-referencing individual results with our internally developed,
+lung-cancer focused therapeutic association database.
+

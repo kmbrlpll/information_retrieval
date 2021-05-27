@@ -1,0 +1,58 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Correlation of immune co-stimulatory molecule OX40 and outcome in
+trastuzumab treated HER2-positive breast cancer patients in the
+NCCTG-N9831.
+
+
+Background: Trastuzumab (H), a monoclonal antibody against HER2, has
+revolutionized the treatment for HER2-positive breast cancer. Besides
+inhibiting downstream signaling of HER2, several studies showed that H
+also exerts its anti-tumor activity via immune-related mechanisms. While
+H is quite effective in preventing recurrence, significant numbers of
+patients still develop recurrence despite adjuvant H-based chemotherapy.
+In this study, we analyzed immune-related genes that were associated with
+poor outcome in N9831.
+
+Methods: NanoStringTM technology was used to quantify mRNA of
+immune-related genes in baseline samples from 1,280 patients in N9831. In
+N9831, patients in arm A were treated with chemotherapy alone (AC-T), arm
+B received chemotherapy followed by sequential H (AC-T-H), and arm C
+received H concurrently with chemotherapy (AC-TH). Cox proportional
+hazard ratio (HR) was used to determine the association of each
+immune-related gene with recurrence free survival (RFS). Different immune
+subset signatures, including CD45, CD8, cytotoxic-cells, and T-cells were
+analyzed using algorithms developed by NanoString.
+
+Results: With the median follow up of 10.6 years, we identified a total
+77 genes that were associated with improved outcome in arm C. Among these
+77 genes, there were 20 tumor necrosis factor (TNF)-related genes. Of
+those, only OX40 (TNFRSF4) and its ligand TNFSF4 have interaction p
+Results: With the median follow up of 10.6 years, we identified a total
+77 genes that were associated with improved outcome in arm C. Among these
+77 genes, there were 20 tumor necrosis factor (TNF)-related genes. Of
+those, only OX40 (TNFRSF4) and its ligand TNFSF4 have interaction p <
+0.10. Interestingly, we found uneven distribution of OX40 expression in
+the N9831 specimens. Approximately, 9.5% of HER2-positive breast cancer
+expressed OX40 at distinctly low level. Low expression of OX40 was
+significantly associated with HR positivity (OX40 low 61% vs. OX40 high
+51%, p 0.003) and larger tumor size but not patients’ age, tumor grade,
+and lymph node status. Low expression of OX40 was significantly
+associated with low mTIL-CD45, CD8, cytotoxic-cells, and T-cells immune
+signature scores. Tumors with low OX40 expression had significantly lower
+levels of CTLA4 (p 9.11e-71) and PD-L1 expressions (p 2.49e-92). Low
+expression of OX40 is associated with poorer outcome among patients
+treated with H in both sequential (HR 0.88, 95% CI 0.79-0.98, p 0.022)
+and concurrent arms (HR 0.86, 95%CI 0.76-0.98, p 0.027) but not in
+chemotherapy only arm (HR 0.9, 95%CI 0.90-1.09, p 0.8). Similar findings
+were observed with its ligand TNFSF4 in arm A (HR 1.02, 95%CI 0.92-1.15,
+p 0.68), arm B (HR 0.87, 95%CI 0.76-0.99, p 0.04), and arm C (HR 0.81,
+95%CI 0.68-0.95, p 0.01).
+
+Conclusion: Our study suggests that pre-existing expression of OX40 and
+its ligand TNFSF4 are prognostic and may also be predictive of adjuvant H
+benefit. Patients with distinctly low level of OX40 had poor outcome
+despite adjuvant H-based adjuvant chemotherapy. Our study provides a
+rationale to further evaluate the strategy to increase immune activation
+to improve outcome in this group of patients.
+
+

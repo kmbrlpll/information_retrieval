@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: UCART22: allogenic adoptive immunotherapy of leukemia by targeting
+CD22 with CAR T-cells.
+
+
+Adoptive immunotherapy using autologous T-cells endowed with chimeric
+antigen receptors (CARs) has given rise to long-term durable remissions
+and remarkable objective response rates in patients with refractory
+leukemia, raising hopes that a wider application of CAR technology may
+lead to a new paradigm in cancer treatment. However, a limitation of the
+current autologous approach is that CAR T-cells must be manufactured on a
+"per patient basis". To overcome this limitation, we have developed a
+standardized platform for manufacturing T-cells from third-party healthy
+donors to generate allogeneic "off-the-shelf" engineered CAR+
+T-cell-based frozen products.
+
+Our allogenic platform utilizes the Transcription Activator-Like Effector
+Nuclease (TALEN) gene editing technology to inactivate the TCRα constant
+(TRAC) gene, significantly reducing the potential for T-cells bearing
+alloreactive TCR’s to mediate Graft-versus-Host Disease (GvHD). We have
+previously demonstrated the precise and efficient disruption of the the
+TRAC gene by gene editing, yielding up to 85% of TCRαβ-negative cells.
+This allows the production of TCRαβ-deficient T-cells that no longer
+mediate alloreactivity in a xeno-GvHD mouse model. In the clinic, the
+proof of concept of the applicability of our allogeneic platform was
+achieved with early compassionate use for patients treated with UCART19,
+an allogeneic engineered CAR T-cell product directed against CD19.
+UCART19 clinical trials are currently ongoing.
+
+Here, we have developed T-cells targeting CD22 which is expressed on
+tumor cells from the majority of patients with B-cells leukemia. In a
+first step, we have screened multiple antigen recognition domains in the
+context of different CAR architectures to identify effective CAR
+candidates displaying activity against cells expressing variable levels
+of the CD22 antigen. As a safety feature, T-cells are engineered to
+co-express a depletion gene, rendering them sensitive to the monoclonal
+antibody rituximab. Several constructs of depletion genes have been
+evaluated in the context of the CD22 CAR. In addition, experiments in an
+orthotopic ALL mouse model using UCART22 cells demonstrated important
+anti-tumor activity in vivo.
+
+The ability to carry out large scale manufacturing of allogeneic,
+non-alloreactive CD22 specific T-cells from a single healthy donor can
+offer the possibility of an off-the-shelf treatment that would be
+immediately available for administration to a large number of leukemic
+patients. UCART22 could also offer an alternative to patients who may
+relapse with CD19-negative tumors after CD19 CAR T-cell treatment.
+
+

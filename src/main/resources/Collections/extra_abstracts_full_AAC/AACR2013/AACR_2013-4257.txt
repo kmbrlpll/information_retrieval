@@ -1,0 +1,38 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Genome-wide CpG island methylation analysis identifies tumor
+specifically methylated genes in non-small cell lung cancer patients.
+
+
+DNA methylation is part of the epigenetic gene regulation complex and it
+has been shown that methylation of certain genes occurs frequently in
+non-small cell lung cancers (NSCLC). We performed a genome-wide search
+for methylated CpG islands in primary tumors and corresponding
+non-malignant lung tissue samples of 101 stage I-III NSCLC patients by
+combining methylated DNA immunoprecipitation and microarray analysis
+using NimbleGen's 385K Human CpG Island plus Promoter arrays
+(MeDIP-chip). To test for differences in methylation between tumors and
+corresponding non-malignant lung tissues, we calculated paired
+t-statistics with permutation adjusted p-values for step down multiple
+testing. Overall, we identified 2.414 genomic positions differentially
+methylated between tumor and corresponding non-malignant lung tissue
+samples by MeDIP-chip analyses. Ninety-seven % of them were found to be
+tumor-specifically methylated. Annotation of these genomic positions
+resulted in the identification of 477 tumor-specifically methylated
+genes. These genes were classified according to Gene Ontology (GO)
+categories and over-representation of certain GO terms was calculated.
+Interestingly, we found that a large number of tumor-specifically
+methylated genes act as regulators of gene expression or mediate
+homophilic cell adhesion. Tumor-specific methylation of selected genes
+was confirmed by methylation-sensitive high-resolution melting analysis
+and ROC curve analyses revealed that primary tumors may be distinguished
+from non-malignant lung tissue samples by methylation of certain genes.
+In addition, in the majority of tumors methylation of certain genes was
+associated with loss of their protein expression determined by
+immunohistochemistry. Moreover, treatment of NSCLC cells with
+epigenetically active drugs resulted in upregulated expression of many
+tumor-specifically methylated genes analysed by gene expression
+microarrays. In conclusion, we identified a large number of
+tumor-specifically methylated genes in NSCLC patients. Expression of many
+of them is regulated by methylation. Overall, our findings emphasize the
+impact of methylation on the pathogenesis of NSCLCs.
+

@@ -1,0 +1,34 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Ion AmpliSeq Panel for the DNA sequencing of BRCA1 and BRCA2 genes
+on Ion Torrent PGM.
+
+
+The development of massive parallel sequencing (MPS) has revolutionized
+the field of genomics and created new avenues for basic research. The
+introduction of the benchtop sequencers enables the development of
+methodologies for genetic screening that are faster, more comprehensive
+and more cost-effective than conventional Sanger sequencing. In this
+study we describe a collaborative effort for the validation of a strategy
+for the screening of the breast cancer susceptibility genes- BRCA1 and
+BRCA2, making use of the most recent advances on Ion AmpliSeq multiplex
+PCR technology combined with Ion PGM System.Strict criteria were set to
+the design of the amplification primers: 1) 100% coverage of all coding
+exons and exon-intron boundaries; 2) amplicons covering exons must be
+overlapping; 3) primers must not overlap; 4) no SNPs in the last five
+nucleotides of primer; and 5) maximum of three non-validated SNPs per
+primer. Constitutional genomic DNA of 50 BRCA1 or BRCA2 mutated cases are
+used. The cases are divided in two groups. The first 20 cases are used to
+test and optimize the methodology and are selected based on the presence
+of mutations in or within close proximity to homopolymer regions. The
+additional 30 cases are used for an independent and blind evaluation and
+power estimation of the new methodology. All samples are studied using
+both gold standard Sanger sequencing and Ion PGM System. For
+data-analysis various software packages are evaluated.In the first 19
+cases all SNPs and mutations, identified by Sanger sequencing were
+detected with our Ion AmpliSeq based approach. The disease-causing
+mutations identified included missense, nonsense and indel mutations. The
+number false positive results were always less than five per sample and
+reproducible. This work demonstrates the potential for mutational
+screening of BRCA1 and BRCA2 using the Ion AmpliSeq technology combined
+with the Ion Torrent PGM.
+

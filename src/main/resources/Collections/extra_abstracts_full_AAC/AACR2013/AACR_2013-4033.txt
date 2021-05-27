@@ -1,0 +1,34 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Gene expression of EdU proliferating cells made possible with
+improved click chemistry.
+
+
+Gene expression profiling of cancer cells has become increasingly common
+over the past five years. Especially important is identifying changes in
+gene expression caused by drug treatment leading to side populations with
+altered pathways. These populations can escape drug treatment and lead to
+recurrence. Characterizing gene expression of proliferating cells
+requires a method of identifying proliferation while simultaneously
+maintaining high quality RNA. Typically, cells are screened in a drug
+panel in the presence of tritiated thymidine or BrdU to identify the drug
+resistance in the proliferating population. Proliferation detection with
+these methods is neither rapid nor does it yield high quality RNA for
+profiling. A new proliferation method based on click chemistry using an
+alkyne modified thymidine analog (EdU), which can be used to rapidly
+identify replicating cells appears ideally suited for this application;
+however, copper used for the catalysis of the click reaction causes
+undesired degradation of RNA. Recent improvements to the copper based
+click reaction are presented here whereby the copper is tightly
+controlled, resulting in higher quality RNA useful for sequencing.In this
+study we demonstrate gene expression changes in the proliferating
+population of a drug resistant cancer cell line compared to the parental
+cell lines. Proliferating cells were identified using an improved click
+reaction comprising of a copper(I) ligand combined with a picolyl
+modified dye azide detection reagent. Total RNA from these cells was
+isolated and gene expression was assessed by targeted RNA sequencing
+using an RNA Apoptosis panel and an RNA Cancer panel using proton based
+sequencing technology.Use of an improved copper safe click reaction for
+detection of nascent DNA, allows for detection of incorporated click
+analog for measuring proliferation and subsequent isolation of high
+quality RNA for use in sequence analysis.
+

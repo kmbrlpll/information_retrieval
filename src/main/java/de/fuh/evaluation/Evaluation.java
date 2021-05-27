@@ -19,6 +19,13 @@ public class Evaluation {
     //Load properties from main/resources folder
     private static Properties prop = null;
 
+    /**
+     *
+     * @param args
+     * @throws IOException
+     * @throws ParseException
+     * @throws InterruptedException
+     */
     public static void main(String args[]) throws IOException, ParseException, InterruptedException {
         Search search = new Search();
         Evaluation eval = new Evaluation();
@@ -35,13 +42,14 @@ public class Evaluation {
         String[] queries = prop.get("cds18topics").toString().split(", ");
 
         for (String query : queries) {
+
             // Choose a query in the configuration file
             ScoreDoc[] result = search.searchFiles(new File(prop.get("index").toString()), prop.get("field1").toString(), query, new StandardAnalyzer());
 
             runs.add(result);
         }
 
-        tu.createQrelFile(runs, prop.get("trec").toString() + date, "test");
+        tu.createQrelFile(runs, prop.get("trec").toString() + date, prop.get("runid").toString());
 
         String trecParams = tu.buildTrecParameters(prop.get("trecparams").toString(),
                 new File(prop.get("qrel").toString()).getAbsolutePath() ,

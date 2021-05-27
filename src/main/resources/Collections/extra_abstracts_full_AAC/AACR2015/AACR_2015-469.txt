@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: mPGES1 deletion and the mechanisms of tumor growth suppression
+
+
+The pro-tumor contributions of prostaglandin (PG) E2 are established, as
+is the clinical efficacy of pharmacological inhibition of COX-2, the
+rate-limiting enzyme in PGE2 synthesis. In addition to the desired
+suppression of tumor PGE2, collateral loss of endothelial COX-2-derived
+PGI2 imposes a cardiovascular hazard that limits clinical use of COX-2
+inhibitors. mPGES1, the terminal enzyme in the PGE2 synthesis pathway, is
+an alternative target to interrupt COX-2-driven events in tumors without
+elevating cardiovascular risk. We engineered mice transgenic for an
+activated HER2/neu oncogene to lack mPGES1 globally (mPGES1 KOgl) or only
+in mammary epithelial cells (mPGES1 KOepi). Abdominal mammary glands from
+wild type (WT), heterozygous (het), mPGES1 KOgl, and mPGES1 KOepi mice
+were harvested at 22 weeks of age, paraffin embedded, H&E stained and
+scanned for whole slide imaging (WSI). Tumor multiplicity was calculated
+based on the number of lesions on WSI. Adjacent sections were
+immunostained for Ki67, caspase 3, Factor VIII, CD3, and F4/80, to assess
+proliferation, apoptosis, angiogenesis, and tumor lymphocyte and
+macrophage infiltration. Tumor multiplicity was significantly higher in
+WT compared to either mPGES1 KOgl or mPGES1 KOepi mice. Concordantly,
+shRNA knock down (KD) of mPGES1 in mammary tumor cells dramatically
+suppressed their growth as orthotopic tumors in syngeneic immune
+competent WT hosts: 4 weeks after the injections, 6 out of 6 non-target
+shRNA control tumors grew successfully while 6 out of 10 mPGES1 KD cells
+failed to grow. In separate experiments, 14 of 14 non-target shRNA cells
+formed tumors after 2 weeks while 12 out of 18 mPGES1 KD tumors failed.
+By immunohistochemistry, no difference was observed in proliferation and
+apoptosis markers, as well as in the number of tumor infiltrating
+macrophages and lymphocytes, between WT, mPGES1 KOgl, and mPGES1 KOepi
+tumors. In contrast to our previous study in mice lacking epithelial
+COX-2 (COX-2 KOepi), vascularization was not different between mPEGS-1
+KOepi and WT tumors suggesting divergence in the anti-tumorigenic
+mechanisms in mPEGS-1 KOepi and COX-2 KOepi tumors. By flow cytometry
+there was no difference in infiltrating macrophage and lymphocyte density
+or functional phenotypes, between WT, mPGES1 KOepi, and mPGES1 KD
+orthotopic tumors. Similarly, no difference was observed in the number of
+macrophages and myeloid derived suppressor cells in spleens from mPGES1
+sufficient and mPGES1 KD orthotopic tumor bearing mice. In contrast,
+decreased co-inhibitory molecule PD-1 expressing CD4+ and CD8+ lymphocyte
+numbers were evident in draining lymph nodes in mice injected with mPGES1
+KD cells compared to WT. This finding indicates that the absence of
+mPGES1-derived PGE2 renders tumor cells less efficient in creating and
+maintaining an immunosuppressive tumor microenvironment and that
+targeting mPGES1 may enhance anti-tumor immune mechanisms.
+

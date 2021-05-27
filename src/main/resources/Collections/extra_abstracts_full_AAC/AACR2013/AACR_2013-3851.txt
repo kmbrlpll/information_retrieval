@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: NUP98-PHF23 (NP23) binds H3K4me3 and causes a wide spectrum of
+leukemias, including AML, T-ALL, and pre-B1 ALL.
+
+
+Nucleoporin 98 (NUP98) fusions have been associated with acute myeloid
+leukemia (AML), chronic myeloid leukemia, myelodysplastic syndrome, and
+T-cell acute lymphoblastic leukemia (T-ALL). An AML patient with a
+t(11;17)(p15;p13) chromosome translocation was found to have a novel gene
+fusion between NUP98 and plant homeodomain (PHD) finger 23 (PHF23). PHF23
+has been reported to act as a reader of tri-methylated histone 3 lysine 4
+(H3K4me3) marks, suggesting that PHF23 may function in chromatin
+regulation and that the NP23 fusion protein may play a role in aberrant
+chromatin modification. To determine the oncogenic potential of NP23, we
+generated mice that expressed the NP23 fusion in hematopoietic tissues.We
+characterized two founder lines (C10 and B10) that expressed the NP23
+fusion. The C10 line principally developed AML that closely resembled the
+human disease, with increased blasts in the blood and bone marrow,
+widespread organ infiltration, and myeloid immunophenotype. Onset of
+disease was as early as 4.5 months, and 70 percent of the NP23 mice
+succumbed to leukemia by 12 months of age. The B10 line developed a wider
+spectrum of leukemias with similar age of onset and penetrance. The B10
+mice predominantly developed T-ALL and AML. Interestingly, four B10 mice
+developed a previously unreported form of ALL that was of pre-B1
+(B220/CD19+/AA4.1+) origin, indicating that the NP23 protein is oncogenic
+in multiple hematopoietic lineages. Gene expression arrays and RQ-PCR
+revealed Hoxa5, a7, a9 and a10 to be overexpressed from 10-1000 fold in
+both AML and T-ALL, as well as in hematopoietic tissues from clinically
+healthy NP23 transgenic mice. Premalignant, clinically healthy mice
+showed aberrant hematopoietic stem and progenitor cell (HSPC)
+populations. Bone marrow lineage negative (Linneg) cells were decreased
+by half that of WT littermates, and LSK (Linneg/Sca1+/cKit+) cells were
+further reduced by 3-fold. NP23 thymi were dramatically smaller in size
+with an average 5-fold reduction in thymocytes, which was associated with
+a partial differentiation block of thymocytes at the DN2 stage. B2
+pre-B-cells were significantly reduced, by 50%, compared to WT controls.
+B1-progenitor B-cells (Linneg/CD19+/AA4.1+) in the bone marrow were
+reduced by 30% in the bone marrow and mature B1 B-cells (B220/CD19+/IgM+)
+of the peritoneal cavity were further decreased to half that of WT. We
+also performed genome wide NP23 and H3K4me3 ChIP-seq which identified a
+core set of H3K4me3 marked genes bound by the NP23 fusion protein that
+were overexpressed in both myeloid and T-cell lineages. The NP23 oncogene
+is capable of promoting cell lineage-independent leukemic transformation,
+and will be useful in identifying oncoproteins and transformation
+pathways that involve chromatin deregulation and HSPC gene signatures
+such as those of the HOXA cluster.
+

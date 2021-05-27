@@ -1,0 +1,60 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Characterizing intratumoral cellular heterogeneity in human
+glioblastoma xenografts by 30+ parameter single-cell mass cytometry
+
+
+Introduction: Glioblastoma tumors contain dramatic intratumoral
+heterogeneity at the level of cellular phenotypes. High-parameter
+single-cell platforms such as mass cytometry offer an opportunity to
+simultaneously measure tumor subpopulations with unexpected combinations
+of differentiation markers, as well as stromal cells, vasculature, and
+infiltrating immune cells.Methods: A subcutaneous patient-derived
+xenograft from an adult with glioblastoma was enzymatically digested into
+a single-cell suspension. Half of the cells were treated with epidermal
+growth factor (EGF) at 20 ng/mL for 15 minutes. Both samples were then
+stained with a 32-marker antibody panel and measured by single-cell mass
+cytometry. The antibody panel included surface-expressed markers of
+stemness and differentiation, as well as intracellular markers to monitor
+cell cycle, apoptosis, and growth factor signaling. Unsupervised spectral
+clustering was used to segregate >200,000 tumor cells into 13 tumor cell
+subsets. Inducible signaling phenotypes were quantified in these subsets
+by comparing binding of phospho-specific antibodies in the stimulated
+sample, relative to the unstimulated control.Results: Many previously
+reported markers of cancer stem cells were detectable, but they did not
+agree on a single population of cells. Although the CD133+ fraction was
+rare (Introduction: Glioblastoma tumors contain dramatic intratumoral
+heterogeneity at the level of cellular phenotypes. High-parameter
+single-cell platforms such as mass cytometry offer an opportunity to
+simultaneously measure tumor subpopulations with unexpected combinations
+of differentiation markers, as well as stromal cells, vasculature, and
+infiltrating immune cells.Methods: A subcutaneous patient-derived
+xenograft from an adult with glioblastoma was enzymatically digested into
+a single-cell suspension. Half of the cells were treated with epidermal
+growth factor (EGF) at 20 ng/mL for 15 minutes. Both samples were then
+stained with a 32-marker antibody panel and measured by single-cell mass
+cytometry. The antibody panel included surface-expressed markers of
+stemness and differentiation, as well as intracellular markers to monitor
+cell cycle, apoptosis, and growth factor signaling. Unsupervised spectral
+clustering was used to segregate >200,000 tumor cells into 13 tumor cell
+subsets. Inducible signaling phenotypes were quantified in these subsets
+by comparing binding of phospho-specific antibodies in the stimulated
+sample, relative to the unstimulated control.Results: Many previously
+reported markers of cancer stem cells were detectable, but they did not
+agree on a single population of cells. Although the CD133+ fraction was
+rare (<5% of cells), it contained three distinct subpopulations of
+phenotypically distinct cells. The most informative markers for
+discriminating the tumor subsets were markers of stemness (i.e. CD133,
+CD44, Sox2) or integrin expression (i.e. CD49e, CD49f, CD51). The
+primitive cells (i.e. Sox2+) exhibited higher basal kinase activity
+across multiple pathways, including markers of cell division (i.e.
+Histone H3 pSer28). Short-term stimulation with EGF induced distinct
+responses in each of the different CD133+ subsets.Conclusions:
+Single-cell phenotyping by mass cytometry produced rich developmental and
+functional profiles of glioblastoma cell subsets. Subpopulations of
+primitive (CD133+) cells can exist in a single glioblastoma tumor and
+exhibit distinct signaling responses to external stimulation. Altogether,
+these results validate the use of this platform for investigation of the
+intratumoral cellular heterogeneity of solid neural tumors with this
+platform. Work is underway to identify correlations between intratumoral
+cellular phenotypes and upstream driver mutations in a larger cohort.
+

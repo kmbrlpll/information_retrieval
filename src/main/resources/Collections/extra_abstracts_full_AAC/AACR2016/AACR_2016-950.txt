@@ -1,0 +1,84 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Bistable switching of c-KIT by estrogen-mediated ceRNA and
+epigenetic silencing of miR-193a predicts survival in ovarian cancer
+
+
+Ovarian cancer is one of the most lethal cancers in the female
+reproductive system. Our previous study has shown that ovarian cancer may
+be initiated by ovarian cancer initiating cells (OCIC) characterized by
+the surface antigen CD44 and c-KIT (CD117). Previous study also suggested
+that long term treatment of estrogen such as hormonal replacement therapy
+(HRT) may increase the risk of ovarian cancer, however the role of
+estrogen in ovarian carcinogenesis is still controversial. To unravel
+this complexity, we propose a mathematical model to explore how the ER
+signaling pathway contribute to c-KIT expression during ovarian
+carcinogenesis: one through a ceRNA competition of an ER target,E2F6 and
+c-KIT for their targeted miRNA, miR-193a; second by binding of E2F6
+protein, in association with the polycomb complex, to the promoter of
+miR-193a to downregulate miR-193a transcription by epigenetic
+modifications. Our model found that epigenetic silencing of miR-193a
+generates a bistable switching of c-KIT during ovarian carcinogenesis
+based on the level of EZH2. To confirm our results, we performed ectopic
+expression of miR-193a and 3UTR luciferase in ovarian cancer cell lines
+and confirmed that E2F6 and c-KIT are the targets of miR-193a.
+Importantly, treatment of E2 or bisphenol A (BPA) resulted in the
+up-regulation of E2F6 and c-kit mRNA in IOSE cells in which no or low
+methylation at the promoter CpG island of miR-193a was found. On the
+contrary, promoter hypermethylation of miR193a could be observed in
+miR-193a-underexpressed CP70 ovarian cancer cells but not in HeyC2 cells
+which showed similar expression level of miR-193a as in IOSE cells.
+Treatment of demethylating agent (5azaDC) or EZH2 inhibitor (GSK343)
+resulted in a reexpression of miR-193a in CP70 ovarian cancer cells.
+Overexpression of miR-193a inhibited tumor growth in vitro and in an
+animal model. Further ChIP-PCR assay also found that open chromatin mark
+H3K4me3 was enriched in the promoter region of miR-193a in HeyC2 but not
+in CP70 cells. On the contrary, repressive chromatin marks H3K9me3 and
+H3K27me3 were only enriched in CP70 cells. Clinically, ovarian cancer
+patients (n = 109) with higher promoter methylation of miR-193a were
+associated with poor survival (p>0.05). Additional analysis of the TCGA
+ovarian cancer dataset demonstrated that ovarian cancer patients with low
+expression of EZH2, a polycomb-group protein, showed positive correlation
+(p Ovarian cancer is one of the most lethal cancers in the female
+reproductive system. Our previous study has shown that ovarian cancer may
+be initiated by ovarian cancer initiating cells (OCIC) characterized by
+the surface antigen CD44 and c-KIT (CD117). Previous study also suggested
+that long term treatment of estrogen such as hormonal replacement therapy
+(HRT) may increase the risk of ovarian cancer, however the role of
+estrogen in ovarian carcinogenesis is still controversial. To unravel
+this complexity, we propose a mathematical model to explore how the ER
+signaling pathway contribute to c-KIT expression during ovarian
+carcinogenesis: one through a ceRNA competition of an ER target,E2F6 and
+c-KIT for their targeted miRNA, miR-193a; second by binding of E2F6
+protein, in association with the polycomb complex, to the promoter of
+miR-193a to downregulate miR-193a transcription by epigenetic
+modifications. Our model found that epigenetic silencing of miR-193a
+generates a bistable switching of c-KIT during ovarian carcinogenesis
+based on the level of EZH2. To confirm our results, we performed ectopic
+expression of miR-193a and 3UTR luciferase in ovarian cancer cell lines
+and confirmed that E2F6 and c-KIT are the targets of miR-193a.
+Importantly, treatment of E2 or bisphenol A (BPA) resulted in the
+up-regulation of E2F6 and c-kit mRNA in IOSE cells in which no or low
+methylation at the promoter CpG island of miR-193a was found. On the
+contrary, promoter hypermethylation of miR193a could be observed in
+miR-193a-underexpressed CP70 ovarian cancer cells but not in HeyC2 cells
+which showed similar expression level of miR-193a as in IOSE cells.
+Treatment of demethylating agent (5azaDC) or EZH2 inhibitor (GSK343)
+resulted in a reexpression of miR-193a in CP70 ovarian cancer cells.
+Overexpression of miR-193a inhibited tumor growth in vitro and in an
+animal model. Further ChIP-PCR assay also found that open chromatin mark
+H3K4me3 was enriched in the promoter region of miR-193a in HeyC2 but not
+in CP70 cells. On the contrary, repressive chromatin marks H3K9me3 and
+H3K27me3 were only enriched in CP70 cells. Clinically, ovarian cancer
+patients (n = 109) with higher promoter methylation of miR-193a were
+associated with poor survival (p>0.05). Additional analysis of the TCGA
+ovarian cancer dataset demonstrated that ovarian cancer patients with low
+expression of EZH2, a polycomb-group protein, showed positive correlation
+(p<0.05) between E2F6 and c-KIT which resembles the ceRNA phenomenon
+between these two mRNAs. Importantly, ovarian cancer patients with low
+expression of EZH2 tended to have lower expression of c-KIT. In
+conclusion, our mathematical model and experimental data suggests that
+miR-193a can be epigenetically regulated by both ceRNA and promoter
+methylation. Simultaneous EZH2 inhibition and anti-estrogen therapy can
+constitute an effective combined therapeutic strategy against ovarian
+cancer.
+

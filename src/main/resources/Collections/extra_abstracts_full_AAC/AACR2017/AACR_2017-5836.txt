@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Activation of Wnt/beta-catenin alters the Ewing sarcoma secretome
+- Implications for tumor:tumor microenvironment crosstalk.
+
+
+Ewing sarcoma is the second most common bone cancer in children and
+adolescents. Patients with metastatic disease have less than a 25% chance
+of survival making it imperative to understand the mechanisms that drive
+metastasis. We previously showed that activation of Wnt/β-catenin
+signaling in Ewing sarcoma cells alters the tumor cell transcriptome,
+promoting transition to a more metastatic cellular phenotype. In
+addition, primary tumors with high-level Wnt activation were associated
+with worse clinical outcomes, supporting a role for canonical Wnt
+signaling in metastatic progression. Significantly, extracellular matrix
+(ECM) protein genes were among the most affected by Wnt/β-catenin,
+suggesting that activation of the pathway might lead to alterations in
+the local tumor microenvironment (TME). Crosstalk between the TME and
+tumor cells regulates fundamental aspects of the metastatic cascade
+including invasion, migration, and angiogenesis. It is our goal to define
+the impact of Wnt/β-catenin signaling on the TME and elucidate how these
+changes contribute to metastasis. Our specific hypothesis is that
+activation of Wnt/β-catenin in Ewing sarcoma cells leads to changes in
+the tumor secretome that result in altered TME composition and tumor:TME
+crosstalk. To address this hypothesis, conditioned media from Ewing
+sarcoma cell lines cultured in the presence and absence of Wnt3a was
+collected for proteomic analysis. We used label-free mass spectrometry
+with spectral counting to quantify proteins that passed a ≤1% FDR
+threshold. Significance was defined as greater than 4.5 or less than 0.2
+fold difference in counts between Wnt3a and control conditions. Western
+blot of conditioned media was used to validate identified proteins.
+Preliminary analysis of the TC32 cell line identified 49 proteins up
+regulated in Wnt3a treated media in comparison to control. Significantly,
+Tenascin C (TNC), was among the most significantly up regulated proteins,
+validating our prior data that TNC is a transcriptional target of
+Wnt/β-catenin and a promoter of the metastatic phenotype in vivo. Gene
+ontology analysis of the significantly differentially expressed proteins
+revealed enrichment of proteins involved in ECM-receptor signaling, ECM
+organization, cell adhesion, and collagen catabolism. These biologic
+processes all play critical roles in tumor:TME interactions and together
+contribute to the early steps of adhesion, migration and invasion that
+are responsible for initiation of metastasis. These preliminary studies
+confirm that Wnt/β-catenin-dependent changes in the Ewing sarcoma
+transcriptome are associated with changes in tumor cell secretome. We are
+now validating these findings in additional cell lines and updated
+results will be presented. These studies will elucidate how changes in
+tumor cells can lead to changes in the local TME and in tumor:TME
+crosstalk that promote metastatic progression of Ewing sarcoma.
+
+

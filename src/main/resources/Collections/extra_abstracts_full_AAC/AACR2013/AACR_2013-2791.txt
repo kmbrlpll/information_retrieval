@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Just how noisy is xenograft data? Using growth rate modeling and
+bootstrapping to optimize xenograft study design.
+
+
+The evaluation of tumor growth inhibition in xenograft models, generated
+by subcutaneous implantation of human cancer cell lines, is an integral
+component of the drug discovery and development process. While xenograft
+data is ubiquitous, and opinions on its utility are just as common,
+systematic examinations of signal-to-noise ratio, overall precision of
+xenograft data and the best metric to report tumor growth inhibition are,
+remarkably, absent from the literature.To this end, we present a thorough
+retrospective analysis of xenograft studies from a large in-house
+database of 225 human xenograft efficacy studies performed from 2006 to
+present, using a wide range of anti-neoplastic drugs. Individual
+xenograft tumor growth curves were fit to an exponential model, and a
+novel measure for data analysis was developed (the model-fitted T/C ratio
+on Day 21). This novel measure possesses several advantages over a
+traditional (raw) T/C ratio, notably the use of all available data (not
+just Day 21), the absence of bias due to informative right-censoring
+(nonrandom removal of mice in the control group whose tumor volume
+reached a pre-defined humane endpoint), and the absence of bias due to
+the inherent slowing of growth kinetics in the control group.The
+model-fitted T/C ratio on Day 21 was then compared to the raw T/C ratio.
+For each pair of comparisons between treatment group and control,
+bootstrapping was used to determine the mean () and standard deviation ()
+of the T/C ratio (either model-fitted or raw). A Z-score measure, (1-)/,
+was computed as a measure of the signal-to-noise ratio of the xenograft
+studies, for 1167 comparisons. For xenograft studies conducted with 10
+mice per group over 21 days, the model-fitted T/C ratio outperformed the
+raw T/C ratio in terms of median Z-score (7.1 and 5.4 respectively). When
+the number of mice in each group was reduced to 6, and the study length
+was decreased from 21 to 14 days, a high Z-score (5.1) was still achieved
+for the model-fitted T/C ratio. The power of xenograft study comparisons
+for T/C in the range of 0.35 to 0.45 was examined and found to be 0.95
+for studies with 6 animals per group using the model-fitted T/C measure.
+Finally, the misclassification frequency (fraction of comparisons where
+the treatment was misclassified using a binary cutoff of efficacious vs.
+non-efficacious) was calculated, and found to be 0.04 using the
+model-fitted T/C.Our calculations demonstrate that switching to a
+model-fitted T/C makes more efficient use of the data, yielding
+considerable cost savings while maintaining a high power and low
+misclassification rate. The exact degree of benefit from this novel
+measure and alternative design may vary for other animal facilities,
+since the noise levels could vary. However, the methods developed here to
+evaluate potential designs should still be widely applicable, and
+represent a general approach for the optimization of xenograft studies.
+

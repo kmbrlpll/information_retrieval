@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Gene expression in clinically normal oral mucosa of oral cancer
+patients facilitates identification of markers predictive of OSCC outcomes
+
+
+Oral and oropharyngeal squamous cell carcinomas (OSCC) are among the most
+common cancers worldwide. The overall 5-yr survival rate of OSCC patients
+is approximately 50% but is higher than 80% in early-stage patients. The
+high mortality of OSCC is due in part to late diagnosis and high
+recurrence rates. Thus, early detection of OSCC and identification of a
+good predictor of disease progression are important in improving OSCC
+outcomes. To identify potential markers for early diagnosis and disease
+progression, we used Affymetrix U133 plus 2.0 arrays to examine the gene
+expression profiles of 167 primary OSCC from newly diagnosed patients, 58
+normal oral mucosa from oral cancer patients (NCA) and 45 normal oral
+mucosa from patients without cancer (controls), all of whom were enrolled
+at three University of Washington-affiliated medical centers from 2003 to
+2008. We first compared gene expression in the 45 controls to the 167
+tumors using ANOVA implemented in Partek Genomics Suite software,
+adjusting for age, sex, cigarette-smoking, alcohol use and HPV status. We
+found 2,596 probe sets differentially expressed between tumors and
+controls, using the criteria of a FDR of 0.05 and at least a two-fold
+difference in the expression level. We then used linear regression to
+compare the gene expression level of these 2,596 probe sets between
+controls and NCA, and between NCA and tumors. Among 2,596 probe sets, 60
+were significantly up-regulated and 11 were significantly down-regulated
+in both comparisons using the Bonferroni correction with a p-value of
+1.93x10-5 and a difference in gene expression greater than 1 standard
+deviation of the expression in NCA. A cluster analysis on gene expression
+of the 71 probe sets identified a subgroup of 45 OSCC patients with
+highest/lowest expression of these probe sets. These 45 OSCC patients had
+a higher risk of disease progression after treatment (defined by
+persistence or recurrence of OSCC) and higher OSCC-specific mortality
+when compared with the remaining 122 OSCC patients; the respective Cox
+regression hazard ratio (HR) and 95% CI, adjusted for age, sex, and stage
+for disease progression and OSCC-specific mortality were 2.7 (1.5-4.6)
+and 3.8 (2.1-7.0). The top gene associated with both outcomes was
+dermatan sulfate epimerase (DSE). A high level of DSE expression in tumor
+(higher than mean expression among tumors) was associated with a higher
+risk of disease progression (HR 2.8, 95% CI: 1.5-5.1) and of
+OSCC-specific mortality (HR 6.0, 95% CI: 2.9-12.2) after adjusting for
+age, sex and stage. DSE encodes a tumor-rejection antigen that could
+potentially serve as a target for cancer immunotherapy. In conclusion, we
+identified 71 probe sets in which dysregulation occurred in both NCA and
+cancer samples. Some of these genes could potentially serve as early
+diagnostic markers, markers to predict disease progression, or as
+potential targets for new therapy.
+

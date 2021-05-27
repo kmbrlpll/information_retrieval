@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Molecular profiling of protein methyltransferases in prostate
+cancer and their clinical significance.
+
+
+Prostate cancer is one of the most commonly diagnosed cancers among men
+worldwide. Most deaths of prostate cancer patients occur after the
+disease has progressed to castration-resistant prostate cancer,
+accompanied by metastatic dissemination and resistance to
+androgen-deprivation therapy. Therefore, an urgent need exists to
+identify druggable targets that will improve the treatment of this deadly
+and devastating disease. Epigenetic alteration has been identified as one
+the major causes of prostate cancer. Protein methyltransferases (PMTs), a
+large class of epigenetic enzymes that add one or more methyl groups to
+lysine (K) and arginine (R) residues on histones and non-histone
+proteins, play critical roles in chromatin function, transcriptional
+regulation, genomic stability, DNA repair and RNA metabolism. Although
+dysregulation of several PMTs has been reported in prostate cancers,
+there has been no systematic analysis of genomic anomalies and expression
+of PMTs in prostate cancer. In addition, the clinical relevance of
+alterations of each PMT in prostate cancer has yet to be fully explored.
+Here, we performed an integrated genomic and transcriptomic analysis of
+68 PMT genes in prostate cancer (TCGA dataset) and identified
+associations among recurrent copy number alterations, gene expressions,
+clinicopathological features, and survival of patients. In addition to
+well-known EZH2 and WHSC1, we identified several additional PTMs,
+including SETDB1, SETD5 and PRDM12, which were significantly
+overexpressed in high-grade and high-stage prostate cancer. We also found
+that SETDB1 overexpression was significantly associated with biochemical
+recurrence of prostate cancer patients. To assess the contribution of
+endogenous SETDB1 overexpression to prostate cancer growth and
+progression, we examined the effects of knocking down SETDB1 in two
+prostate cancer cell lines CWR22Rv1 and DU-145. SETDB1 knockdown
+dramatically reduced CWR22Rv1 and DU-145 cell growth compared with the
+non-silencing control. We also identified all SETDB1 binding sites across
+the human genome in DU-145 prostate cancer cells by using an unbiased
+ChIP-seq approach. In summary, our integrated genomic and transcriptomic
+analysis identified a broad spectrum of genetic alterations in PMT genes
+involved in prostate cancer progression. Our findings suggest a promising
+avenue for future research—to focus on a subset of PMTs to better
+understand the molecular mechanisms and to identify therapeutic targets
+in prostate cancer.
+
+

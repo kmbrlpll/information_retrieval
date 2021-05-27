@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: onTARGET: a new computational strategy to predict in vivo relevant
+targets against neuroblastoma.
+
+
+One of the main bottlenecks of anticancer drug development is the
+assessment of the in vivo relevance of emerging therapies. Previously,
+drugs that suppress the in vivo progression of neuroblastoma have been
+hard to identify. To address this problem, we propose a new computational
+technique, onTARGET, that enables researchers to select, with good
+accuracy, compounds that are likely to induce changes in cellular
+pathways that are consistent with specific clinical outcomes and
+subgroups.
+
+onTARGET prediction is based on an integration of massive expression and
+other data resources, including the NIH LINCS dataset (with 1,300,000
+expression profiles), the NIH TARGET and R2-AMC neuroblastoma cohorts,
+and our own in-house databases. In a first step, the datasets are
+preprocessed by factor analysis to remove systematic bias in these large
+data sets. In a second step, Bayesian statistics are applied to
+prioritize compounds whose cellular responses match clinically relevant
+differences between patient subsets, such as MYCN status, survival hazard
+ratio, or histopathological assessment.
+
+To evaluate the method, we used onTARGET prediction to identify compounds
+and gene targets relevant for clinical outcomes in the NIH-TARGET (n=249)
+and R2-AMC (n=98) neuroblastoma cohorts. The algorithm confirmed existing
+targets and made interesting predictions. Of 50 the top-ranking compounds
+associated with a survival outcome, agents targeting the mTOR/PI3K axis
+are highly prevalent. The algorithm correctly predicts targeting of the
+MYC pathway, and predicts possible modulators of MYC signaling, such as
+TRRAP, AURKA and BMP2. In addition to nominating agents with a favorable
+outcome, the algorithm can also flag compounds that might worsen
+prognosis, further facilitating the prioritization of targets for
+evaluation.
+
+In summary, onTARGET may guide target selection for neuroblastoma studies
+and can be adapted for other cancers as well. The many targets that were
+identified immediately suggest an opportunity for continued evaluation in
+cells and in vivo models. This work has been initiated in collaboration
+with researchers at Lund University.
+
+

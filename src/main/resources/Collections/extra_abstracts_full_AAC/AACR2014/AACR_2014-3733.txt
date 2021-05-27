@@ -1,0 +1,29 @@
+Meeting: 2014 AACR Annual Meeting
+Title: SilenciX, novel stable knock-down cellular models to screen new
+molecular targets through the synthetic lethality approach
+
+
+PARP inhibitors are promising therapeutic drugs for cancers harboring
+BRCA1 and BRCA2 mutations. PARP is involved in the Base Excision Repair
+(BER) DNA repair pathway. Tumors with BRCA mutations are deficient in
+Homologous Recombination (HR), another DNA repair pathway. To maintain
+DNA integrity and prevent cell death, at least one one of the BER or HE
+pathways must be functional, while the other may be inhibited or silenced
+(eg. mutation, drug).In drug discovery, Synthethic Lethality (SL) used a
+cancer mutation and a drug in combination to cause the tumor cell's
+death. SL is thus a promising approach to find new druggable targets by
+controlling the HR and BER DNA repair pathways in order to selectively
+kill mutated cancer cells. However, the main technical hurdle in SL
+approaches is to easily identify cancer-specific molecular interaction in
+various cancer types, while using robust and validated experimental
+cellular models.In this presentation we demonstrate how the SilenciX
+technology meets SL experimental requirements. BRCA1 and BRCA2 Silencix
+cells were treated with PARP1 inhibitors (Olaparib, Veliparib, Rucaparib)
+and with Gemcitabine.All inhibitors except Gemcitabine were synthetic
+lethal in BRCA1 SilenciX cell lines.To mimic the cancer
+micro-environement, the model was tested under hypoxic conditions.We
+conclude that SilenciX cell lines are ingenious gene-specific Knock Down
+engineered cell lines using a new pEBV derived plasmid, avoiding
+integration and off-target effects, suitable for a broad range of
+synthetic lethality studies.
+

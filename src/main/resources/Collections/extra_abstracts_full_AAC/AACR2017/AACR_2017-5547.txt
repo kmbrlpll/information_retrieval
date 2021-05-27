@@ -1,0 +1,31 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A computational approach to predict tissue level cell cycle
+regulatory network for normal proliferating and cancer cells.
+
+
+Cell cycle control and regulation has been widely studied in terms of
+cyclin-dependent kinases (CDKs) activities, while only limited
+information are available on tissue contexts and signaling. In this
+study, we adopted a systems biology approach aiming to comprehensively
+capture how tissue level signaling events orchestrate cell cycle phases
+in a CDKs activities independent manner in both of normal and tumor
+tissues. We have applied our in house gene co-expression and
+bi-clustering analysis on a collection of 8 single cell transcriptomic
+sequencing datasets of normal proliferating human embryonic cells, 17
+RNA-seq transcriptomic datasets of inflammatory tissues and 30 microarray
+data sets of chronic inflammatory diseases as normal proliferating
+reference and TCGA RNA-seq data for 20 cancer types aiming to identify
+cell cycle associated gene co-expression modules. Our results suggest
+that the tissue level signaling events are generally show distinct
+regulatory structures between tumor and normal tissues: 1) the Rho GTPase
+signaling pathways that control cell polarity, activate in G2/M
+transition phase in normal tissue, while mainly in G1 and S phases in
+tumor. 2) Focal adhesion kinases (FAK) drives G1/S transition in normal
+tissues, while activated in multiple phases in tumor. 3) Hippo signaling
+for cell size control activates at G2/M transition phase in normal tissue
+while in multiple phases in tumor. In addition, we have also generated
+tissue level regulatory networks for cell cycle controls by predicting
+possible collective effects of extra- and intra-cellular signaling for
+both normal proliferating and cancer cells.
+
+

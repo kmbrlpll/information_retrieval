@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Detection of aurora kinase A (AURKA) focal amplification in plasma
+samples of patients with recurrent ovarian cancer
+
+
+Purpose: Aurora kinases are associated with acquired resistance to
+therapy in human cancers. We hypothesized that AURKA amplification is a
+late event in ovarian cancer (OC) progression and that frequency of
+amplification might be underestimated if assessed in tumor samples
+collected at the time of initial diagnosis. To test this hypothesis, we
+determined AURKA amplification levels in patients with recurrent OC
+andcompared those to AURKA amplification levels in the same patients at
+the time of diagnosis.Methods: Samples were collected from 33 patients
+with taxane- and platinum-resistant OC enrolled in a first-in-human (FIH)
+study that evaluated monotherapy with AMG 900, an orally administered
+pan-aurora kinase inhibitor (NCT00858377). We performed a targeted
+analysis ofthe AURKA locus and surrounding regions using next-generation
+paired-end sequencing (Illumina HiSeq2500 and 100 bp paired-end reads).
+By using extremely high sequence coverage (average coverage of >
+2,000-fold), we were able to detect and quantify circulating tumor DNA
+(ctDNA) in plasma and to identify chromosomal alterations characteristic
+of tumor DNA. Sequencing was performed at Personal Genome Diagnostics
+(PGDx, Baltimore, MD). In addition, we performed AURKA (20q13) / 20q11
+FISH in archival FFPE sections from the same patients. The AURKA (20q13)
+/ 20q11 dual color FISH probe kit was purchased from Kreatech (now Leica
+Biosystems, Buffalo Grove, IL). Amplification states were defined as
+follows: amplified: AURKA (20q13) / 20q11 signal > 2.0; borderline: AURKA
+(20q13) / 20q11 signal 1.5; non-amplified: AURKA (20q13) / 20q11 signal
+1.5; non-amplified: AURKA (20q13) / 20q11 signal < 1.5. FISH analyses
+were performed at Mosaic Laboratories (Lake Forest, CA). Survival
+analysis was performed using the Kaplan-Meier method.Results: Plasma
+samples were available from all patients. Analysis of rearrangements
+surrounding the AURKA locus in plasma samples identified 11 of the 33
+patients as AURKA amplified. Archival FFPEsections were available from 27
+of the 33 patients, and 21 of these 27 patients were evaluable by FISH
+for AURKA amplification. FISH only identified 1 patient as AURKA
+amplified and 1 additional patient as borderline amplified. Patients with
+AURKA amplification in plasma had received a median (min, max) of 6
+(2,18) prior lines of chemotherapy, while patients without AURKA
+amplification had received a median (min, max) of 3 (1, 14) lines of
+prior chemotherapy. AURKA amplification as determined in plasma ctDNA at
+the time of AMG 900 study entry was an indicator of shorter PFS (median
+9.4 vs 19.9 weeks; P = 0.04) and OS (median 9.4 vs 27.6 weeks; P =
+0.013).Conclusions: Our results suggest that AURKA amplification is a
+late event in ovarian cancer progression,and that monitoring AURKA focal
+amplification in plasma ctDNA allows the non-invasive assessment of
+acquired resistance to cancer therapy.
+

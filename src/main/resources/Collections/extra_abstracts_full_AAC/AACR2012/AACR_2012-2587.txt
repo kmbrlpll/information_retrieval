@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Proteomic and transcriptomic profiling of effects of Angelica
+gigas ethanol extract on prostate neuroendocrine carcinomas of TRAMP mice
+
+
+Angelica gigas Nakai (AGN) ethanol extract and its major component
+decursin have been reported to exert anti-cancer activities. Recently,
+our team reported that AGN was able to significantly suppress prostate
+neuroendocrine (NE) carcinogenesis in the TRAMP mice (Proc AACR, 2011,
+#5581). To gain insights into the in vivo mechanism(s) and potential
+targets, we used a systems-biology approach with a combination of
+proteomics and transcriptomics to analyze banked NE carcinoma tissues
+from vehicle- and AGN-treated groups (from 8 to 24 weeks of age). Global
+profiling of the proteome was performed by LC-MS/MS with iTRAQ labeling
+whereas the transcriptome was profiled by Illumina Mouse WG-6 BeadChip
+whole genome expression array. Angiogenesis Antibody Arrays (RayBiotech)
+were used to analyze angiogenesis-related proteins as a focused approach.
+Differentially expressed mRNA and proteins were subjected to
+bioinformatics analysis with Ingenuity Pathway Analysis (IPA). Antibody
+array analyses revealed that FGF2, a crucial stimulator of angiogenesis
+and promoter of tumor growth, was substantially decreased by AGN
+treatment. Other FGF family member such as FGF10, an oncogenic protein
+expressed in stromal cells, was also decreased by AGN at the mRNA level
+by more than 50%. In addition, mining of the microarray and proteomics
+data indicated that the changes of genes upstream and downstream of FGF2
+were functionally consistent with AGN inhibiting FGF2/FGFR1 signaling at
+different levels of the transduction cascade. For example, FGFR1 mRNA
+level was decreased by AGN; FGFBP3, a binding protein which can protect
+FGFs from degradation, was decreased at the mRNA level; Dipeptidyl
+peptidase IV, which can block FGF2 signaling pathway in prostate cancer
+cells, was increased by AGN; Good stromal markers Myh11 and Myh4 which
+could be suppressed in FGF2 signaling pathway through Ras and ERK were
+substantially increased by AGN at both mRNA and protein levels. Some
+changes in mRNA levels suggested an anti-invasion potential of AGN. For
+example, the mRNA levels for urokinase plasminogen activator, Col1a1,
+Col1a2, MMP2, MMP3 and MMP12 were all decreased by AGN; Tropomyosin 2,
+reported to reduce the motility and invasion of cancer cells, was induced
+by AGN. Moreover, AGN up-regulated E-cadherin and down-regulated vimentin
+at both mRNA and protein levels, suggesting an anti-EMT action. IPA
+identified Akt, PI3K, p38MAPK, and ERK1/2 as distinct inferred network
+nodes after analyzing all AGN-responding genes. Furthermore, a number of
+genes down-regulated during TRAMP carcinogenesis such as Msmb, Actc1,
+Csrp1 and GSTM1 were increased by AGN treatment at protein and/or mRNA
+levels. Given the anti-angiogenesis, anti-invasion and anti-EMT effects
+of AGN observed, its anti-cancer activities may in part be mediated by
+affecting the tumor micro-environment in addition to cancer cells.
+

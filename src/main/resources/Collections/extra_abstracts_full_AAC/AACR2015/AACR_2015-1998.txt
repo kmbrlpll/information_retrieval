@@ -1,0 +1,27 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A novel luminescent system for monitoring intracellular
+protein:protein interactions
+
+
+Protein:protein interactions (PPIs) are essential to the cellular signal
+transduction pathways that contribute to cancer. Although numerous
+approaches exist to monitor protein:protein interactions in vitro,
+methods for intracellular detection have been more limited. We developed
+a system for the detection of PPIs based on NanoLuc luciferase. Proteins
+are fused to either an 18 kDa or 1 kDa subunit. PPI facilitates
+interaction of the subunits, leading to increased luminescence.
+Intracellular PPIs are measured using a non-lytic assay protocol by
+providing a cell permeable substrate. The interaction status can be
+monitored at a single time point or followed continuously over 1-2 hours.
+Unlike related approaches where a luciferase enzyme is simply split, the
+subunits of this system were optimized for structural stability and
+minimal binding affinity. The result is a luminescence signal that is
+orders of magnitude brighter than approaches using split luciferase,
+allowing use of fusion protein expression levels at or near physiological
+levels. The low affinity interaction between subunits (Kd 200 M)
+minimizes assay background by preventing non-specific association, and
+the system shows rapid reversibility using model systems such as protein
+kinase A catalytic and regulatory subunits. We have successfully applied
+this system to several PPIs related to cancer research, including
+TP53:MDM2, MYC:MAX, and members of the RAS-RAF signaling pathway.
+

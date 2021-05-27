@@ -1,0 +1,38 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Gene expression profiling after radiation in human breast cancer
+specimens and breast cancer cell lines
+
+
+Background: Breast radiotherapy is currently one size fits all regardless
+of breast cancer subtype (eg. luminal, basal). Emerging clinical data
+suggests that these distinct subtypes of breast cancer have unique
+patterns of response to radiation. There is a clinical need to identify
+radiation response biomarkers in order to provide individualized and
+optimal radiotherapy. Here we report on gene expression profiles
+associated with radiation response from: i) a rare clinico-genomic data
+in women treated with preoperative breast radiation and, ii) data from a
+pilot study of 16 biologically diverse breast tumor cell lines. Methods:
+Microarray analysis was done using the Affymetrix GeneChip Human
+Transcriptome Array 2.0 (HTA 2.0) and the Affymetrix HU133A2.0 arrays.
+RNA was harvested from paired pre- and post-radiation formalin-fixed
+paraffin-embedded breast cancer tissue in 26 patients treated with
+radiation prior to surgical resection. In addition, RNA was obtained from
+16 biologically diverse breast cancer cell lines exposed to radiation
+treatment (5Gy and 0Gy). The genes with the highest coefficient of
+variation were selected and a paired sample t-test was used to evaluate
+the significance of these changes. We compared the top 100 significantly
+induced human genes with genes identified as differentially expressed in
+the 16 breast cancer cell lines. Findings of interest were validated
+using qPCR, IHC and wWestern blotting assays. Results: Fourteen genes had
+significant adjusted p-values for differential expression in the human
+data and were differentially expressed among the radiation responsive
+versus non-responsive cell lines. Differential expression of genes
+involved in: apoptosis, cell cycle and MAPK signaling pathways were
+observed in both the luminal human tumors and the largely luminal
+radiation responsive cell lines. Differential expression of FAS, a
+critical modulator of programmed cell death, was highly significant.
+Conclusion: The known function of FAS suggests a biologically plausible
+role in breast subtype specific radiation response. Induction of FAS is
+seen in human tissue, and preferentially in luminal breast cancer cell
+lines.
+

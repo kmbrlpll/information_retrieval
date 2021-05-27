@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Detecting cancer mutations at the resolution of individual DNA
+molecules for longitudinal monitoring
+
+
+We have developed a new molecular assay that utilizes digital PCR to
+detect and quantify cancer mutations within poor quality and limited
+quantity samples such as archival tissue DNA and circulating tumor DNA
+(ctDNA). This digital PCR assay is highly sensitive and is capable of
+detecting the targeted mutant fraction at an individual DNA molecule
+resolution. Thus, this assay is ideal for applications where DNA is in
+low abundance. An example is where DNA is shed from tumors that can be
+extracted from the plasma fraction of routine blood draws. The resulting
+circulating DNA (ctDNA) is extremely low in concentration, which makes it
+a prime candidate for our highly sensitive molecular assay.Our assay
+incorporates small amplicon PCR primers and can be configured for nearly
+any coding mutation; practically, this means that any cancer or DNA
+sample can be tested efficiently. Mutation quantitation relies on two DNA
+primer sets that are identical with the exception of the mutant or wild
+type specific base at the 3 end of the detecting primer sets, to amplify
+the genomic region of interest. Through the addition of artificial 5
+non-complementary tails to our mutant and wild type specific detection
+primers, we are able to consistently differentiate between droplets that
+contain the mutant or wild type alleles based upon their differential
+amplicon lengths. The synthetic amplicon extension tails minimize bias
+within the PCR reaction by allowing our primers to target an identical
+region of genomic DNA, with the exception of the single nucleotide
+variant specific base at the 3 end of the detecting primer. The dPCR
+technology allows the standard PCR reaction to be partitioned into 20,000
+independent wells; we can then assay each individual droplet to assess
+whether the individual DNA molecule partitioned into the droplet is
+wild-type or the target mutant. The resulting data provides an absolute
+count of mutant and wild-type templates in a given patient sample.We have
+optimized this new molecular assay technology for quantitatively
+measuring clinically actionable mutations including BRAF V600E, KRAS G12D
+among others. We have successfully validated the sensitivity, specificity
+and reproducibility of our assays through controlled cell line DNA mixed
+dilution samples ranging from 66% mutant to 0.1% mutant in each of our
+optimized primer sets. Our assay improves the limit of detection to seven
+DNA molecules containing a mutation among a total number of 7,000 genome
+equivalents. Because our assay is sensitive down to the single DNA
+molecule resolution, we have also been able to reduce the amount of
+clinical sample DNA required to determine the presence of clinically
+actionable mutations such as those occurring in KRAS or BRAF. We are
+testing this extremely low cost, highly sensitive diagnostic technology
+for detecting nearly any cancer mutation from longitudinal samples of
+ctDNA.
+

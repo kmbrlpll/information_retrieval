@@ -1,0 +1,44 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Impact of various immune escape mechanisms on redirected lysis by
+T cells engaged via EpCAM/CD3 bispecific BiTE antibody AMG 110 .
+
+
+BiTE antibodies are single-chain bispecific antibody constructs with dual
+specificity for CD3 on T cells and a surface antigen on target cells.
+They are capable of temporarily mounting a polyclonal T cell response
+that is not restricted by T cell receptor specificity, presence of MHC
+class I, generation and presentation of peptide antigen, or the addition
+of T cell co-stimuli. Examples are the CD19/CD3-bispecific BiTE antibody
+blinatumomab, which has been reported to show high response rates in
+leukemia and lymphoma patients, and EpCAM/CD3-bispecific BiTE antibody
+solitomab (AMG 110), which is in a dose-escalating phase 1 study in
+patients with solid tumors. Because specific T cell responses against
+cancer cells are frequently hampered by a variety of immune escape
+mechanisms, we have here assessed to what extent surface expression of
+PD-L1 (B7-H1) and CD73, cytoplasmic expression of IDO and serpin PI-9,
+and secretion of TGF- and IL-10 can protect target cells from redirected
+lysis by AMG 110-engaged T cells.The six human proteins, which are all
+known to be associated with immune escape of cancer cells by inhibition
+of T cell function, were stably expressed in human EpCAM-expressing
+Chinese hamster ovary (CHO) cells. In all cases, expression levels of the
+six proteins in stable CHO cell lines exceeded those found in human
+cancer cell lines. Characterized CHO cell lines and the parental EpCAM+
+CHO line were used in co-culture assays as target cells for analysis of
+EC50 values for redirected lysis, and induction of proliferation of
+resting human peripheral T cells in the presence of various AMG 110
+concentrations.High level cytosolic expression of the tryptophan
+metabolizing enzyme IDO had no effect on redirected lysis but reduced AMG
+110-induced T cell proliferation, while expression of the granzyme
+inhibitor PI-9 increased the EC50 value for redirected lysis but had no
+effect on T cell proliferation. High level expression of the
+membrane-bound ligand for PD-1, PD-L1, and of secreted IL-10 and TGF- all
+had no impact on AMG 110-induced T cell proliferation. The EC50 value for
+redirected lysis was however impacted by expression of TGF- and PD-L1 as
+determined by a FACS-based cytotoxicity assays. In no case, transfected
+CHO cell lines became completely resistant to BiTE-induced lysis despite
+expressing the immune escape proteins at higher levels than observed in
+tumor cell lines. Our data suggest that BiTE-engaged T cells are
+relatively insensitive to proteins expressed by cancer cells to fend off
+T cells, and that inhibitory effects can be compensated by higher
+concentrations of the BiTE antibody.
+

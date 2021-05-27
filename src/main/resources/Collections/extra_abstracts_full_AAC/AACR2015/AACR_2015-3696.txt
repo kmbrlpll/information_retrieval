@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Molecular dynamics simulations of C7/C7-linked
+pyrrolobenzodiazepine (PBD) dimers
+
+
+The pyrrolo[2,1-c][1,4]benzodiazepines (PBDs) are a group of naturally
+occurring and synthetic DNA minor-groove binding agents (MGBAs)
+characterised by their ability to covalently bind to the C2-amino groups
+of guanine bases. Although natural PBD monomers have low micromolar
+cytotoxicity, synthetic PBD dimers have garnered significant attention
+due to their potent cytotoxicity and use in antibody-drug conjugates
+(ADCs). The cytotoxic nature of PBD dimers is thought to relate to their
+ability to form inter- and intrastrand cross-links in DNA. The first
+known PBD dimer had its two PBD units linked through their
+C7/C7-positions, and was reported by Suggs and co-workers. This molecule
+was shown to reversibly cross-link DNA, a feature that may account for
+its poor cytotoxicity relative to C8-linked dimers which are used as ADC
+payloads. To investigate this, we have undertaken Molecular Dynamics (MD)
+studies on the interaction of C7-dimers with DNA and compared results to
+those for C8-linked PBD dimers. This has led us to propose an alternative
+mechanism to explain the discrepancy in potencies as described below.MD
+simulations were conducted over 10ns in explicit solvent. In this study,
+Suggs published C7/C7-linked dimer and an equivalent C8/C8 linked
+structure were first compared, and this was followed by comparison of the
+known C8-linked PBD dimer SG-2202 and an equivalent C7/C7-linked version.
+SG-2202 is known to preferentially bind to the sequence
+5-pu-G-A-A/T-A/T-C-py-3. As each of the PBD dimers analysed have an
+equivalent central linker (i.e., five methylenes), each of the structures
+were simulated in the sequence 5-GCGATTCTCGC-3. The results suggested
+that C8-linked dimers interact with DNA to a far greater extent than
+C7-linked dimers, a feature attributable to the level of curvature
+(isohelicity) of C8-linked dimers, and this was supported by free energy
+of binding calculations. Crucially, the simulations showed that the
+C7-linked dimer family does not form stabilising non-covalent
+interactions with the DNA minor-groove as previously thought.
+Furthermore, due to its poor isohelicity, simulations predict that only a
+single alkylation event takes place initially, and this is followed by
+the second alkylation which is dependent on DNA breathing to align the
+second PBD unit with an appropriate guanine. Simulations suggested that
+the C7-position of any PBD has two potential orientations: (1) bulky
+groups such as a sugar (i.e., as in sibiromycin) point out of the minor
+groove, and (2) smaller substituents (e.g., a methylene linker) point
+along the minor groove floor. The latter explains why it is possible for
+C7-methylene-linked PBD dimers to cross-link DNA albeit with less
+efficiency compared to C8-linked dimers. Studies are now underway to
+analyse the curvature of PBD-type molecules to develop tools (e.g., QSAR)
+for the correlation of shape and cytotoxicity to facilitate the discovery
+of MGBAs with more potent cytotoxicity.
+

@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Development of a Quantitative Immunofluorescence imaging assay to
+assess -catenin translocation and multiplex biomarkers for
+Epithelial-Mesenchymal Transition (EMT) in tumor tissues.
+
+
+Background: Wnt/-catenin signaling and cadherin-mediated cell adhesion
+are two processes that promote cell proliferation and
+epithelial-mesenchymal transition (EMT) of carcinomas. Therapeutic
+inhibitors of Wnt-induced tumor activation prevent stabilization and
+nuclear translocation of -catenin and putatively lead to inhibition of
+tumor metastasis by upregulation of E-Cadherin and downregulation of
+N-Cadherin and Vimentin.Methods: A multiplex quantitative
+immunofluorescence (qIFA) assay was developed to assess changes in levels
+of EMT biomarkers (E-Cadherin, N-Cadherin, Vimentin/Pancytokeratin) as
+well as monitor intracellular localization of -catenin in tumor tissues.
+A panel of highly specific antibodies against EMT targets,
+directly-conjugated to various fluorophores, were optimized for multiplex
+staining of FFPE tissues using colorectal (CRC) and triple-negative
+breast (TNBC) cancer cell lines and xenograft tissues as tumor controls
+for target expression. Rat kidney was used as positive control for
+endogenous biomarker expression in tissues. Image acquisition was
+performed with Confocal and Epifluorescence microscopy. Image
+segmentation and quantitative multiplex analysis were performed using NIS
+Elements and Definiens Tissue Studio software to obtain total mean
+integrated signal per biomarker within a tissue region of
+interest.Results: Fitness for purpose evaluation of the biomarkers was
+performed in vitro with several cell lines and compounds to demonstrate
+nuclear translocation of -catenin as well as EMT-mediated changes in E-
+to N-Cadherin ratio. A431 squamous epithelial cell lines treated with
+Lysophosphatidic acid (LPA) induced Adherens Junction (AJ) dissociation
+of membrane E-Cadherin and -catenin while co-treatment with specific
+inhibitors to glycogen synthase kinase-3 (GSK-3) induced a 5-fold
+increase in the nuclear to cytoplasmic mean intensity ratio of -catenin
+after 24h. TGF-treatment of the NMuMG mouse epithelial cell line induced
+a significant decrease in E- to N-Cadherin membrane intensity ratio after
+48 and 72h in vitro. Studies with human TNBC or APC-mutated CRC mouse
+xenograft models using HDAC or Src/Abl kinase inhibitors to compare pre-
+and post-treatment effects on EMT biomarker staining will be
+presented.Conclusion: We have developed a quantitative imaging assay that
+integrates multiplex changes in EMT biomarkers to assay pharmacodynamic
+activities of potential targeted agents currently in development at the
+National Cancer Institute (NCI). This assay could also be applied for
+retrospective analysis of clinical samples to document drug-induced
+changes in tumor phenotypes. Funded by NCI Contract No. HHSN261200800001E.
+

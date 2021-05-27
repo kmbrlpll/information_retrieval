@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A SRM/MRM based targeted proteomics strategy for absolute
+quantification of potential biomarkers of TKI sensitivity in EGFR mutated
+lung adenocarcinoma.
+
+
+Lung cancer remains the leading cause of cancer-related deaths worldwide.
+Epidermal growth factor receptor(EGFR) is the primary driver oncogene in
+10-30% lung adenocarcinoma. Kinase domain mutations in EGFR (L858R and
+E746-A750 deletion) provide sensitivity to EGFR-specific tyrosine kinase
+inhibitors (TKIs). Despite good tumor inhibitory effects, after
+approximately a year, patients acquire resistance to EGFR TKIs. We have
+carried out a stable isotope labeling with amino acids in cell culture
+(SILAC)-based quantitative mass spectrometry (MS) on a Thermo Orbitrap
+Elite to identify and characterize the dynamics of tyrosine
+phosphorylation upon TKI treatment of human lung adenocarcinoma cell
+lines. The degree of inhibition of phosphorylation of several
+phospho-sites correlated with the extent of TKI-sensitivity. Several
+kinases and adaptor proteins that were significantly differentially
+phosphorylated include AHNAK-Y160, -Y715, STAT5A-Y694, DAPP1-Y139,
+ERRFI1-Y394, NEDD9-Y164, NF1-Y2579, INNPL1-Y1135, suggesting that these
+are a subset of potential biomarkers of TKI response. To corroborate our
+results, the next logical step is to carry out clinical validation of
+these phospho-sites in human lung adenocarcinoma patients, however no
+absolute quantification assay is currently available for these tyrosine
+phosphorylated peptides in human samples. The MS method most often used
+to complement shotgun methods is selected/multiple reaction monitoring
+(SRM/MRM) because of its high sensitivity, speed and dynamic range. We
+have performed SRM/MRM-MS using a nano-flow high performance liquid
+chromatography instrument coupled to a nano-electrospray ionization
+source attached to a Triple Quadrupole MS (Agilent 6495). In this method,
+digested proteins are chromatographically separated and ionized. The
+resulting precursor ions are m/z filtered in the first quadrupole(Q1) and
+collision induced dissociation is carried out in Q2 and the resultant
+product ions are m/z filtered in Q3. Each precursor-product pair is
+termed as a transition. For absolute quantification, heavy isotope
+labelled versions of the target peptides are spiked in biological samples
+to build a calibration curve. For the robust assay development, we have
+carried out the initial empirical refinement process using the heavy
+labelled versions of the target peptides, including selection of optimal
+transitions, normalizing retention times of peptides, running peptide
+stability assays and digestion time course experiments. We are currently
+validating these assays in human lung adenocarcinoma cell lines with
+known EGFR mutations with or without treatment with 1st and 3rd
+generation EGFR TKIs. The overall goal of these targeted studies is to
+develop absolute quantitation assays to precisely and accurately quantify
+these potential biomarkers in clinical samples.
+
+

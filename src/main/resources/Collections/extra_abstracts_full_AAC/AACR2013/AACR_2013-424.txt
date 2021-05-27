@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Depletion of serum levels of miRNA-150 indicates bone marrow
+damage following total body irradiation.
+
+
+Total body irradiation (TBI) is part of the preparative regimen for bone
+marrow transplantation in lymphoma and leukemia patients. Depending on
+the aggressiveness of the disease, patients receive a dose between 2 -12
+Gray, in 2 Gray fractions over three days. Fast and accurate estimation
+of the absorbed dose is critical for evaluation of the depletion of
+cancer cells prior to transplantation. Physical dosimeters and the
+available biologics have limitations to accurately evaluate the effect of
+radiation because the normal tissue toxicity as well as the radiation
+response in cancer cells varies depending on individual's genetics,
+immune status and other confounding factors. We sought to identify and
+validate robust and fast responding biomarkers of radiation response,
+which are repeatedly assayable from body fluids. We have utilized an
+amplification-free, hybridization based quantitative assay utilizing the
+nCounter multiplex platform developed by nanoString Technologies to
+compare the relative abundance of over 600 miRNAs in body fluids. Our
+studies have identified several evolutionarily and functionally conserved
+miRNAs in serum and urine collected from two different strains of mice.
+Development of a novel normalization strategy using multiple spike-in
+oligonucleotides allowed the accurate measurement of changes in serum and
+urine miRNAs after TBI. miRNAs with good dose response were further
+investigated for their potential for development as radiation
+biodosimeters. Hierarchical clustering followed by comparison of changes
+in individual miRNAs with varying dose (1 - 12 Gray) and time points (1 -
+7 days) has identified miRNA-150 as a very promising biomarker for
+radiation biodosimetry. miRNA-150 is expressed at high level in mature
+lymphocytes and the abundance of circulating miRNA-150 seems correlating
+with that of lymphocyte counts. With acute single doses of 1, 2, 4, 6 and
+8 Gray, a 30%, 38%, 48% 70% and 72% statistically significant reduction
+in serum miRNA-150 was observed at 24 hrs, which was further reduced at
+later time points. Consistent with this data, a time and dose dependent
+reduction of miRNA-150 was observed after fractionation, with a near
+complete depletion by 24 hrs after completion of 12 Gray. The kinetics of
+depletion of serum miRNA-150 following radiation indicate its potential
+as an alternative to complete blood count (CBC) to evaluate lymphocyte
+depletion, and hence evaluating damage to the hematopoietic system. The
+effect of relevant acute single doses and fractionated radiation
+treatment at various time points will be presented. The utilization of
+these readouts for understanding the effects and mechanism of action of
+radioprotectors will also be discussed.
+

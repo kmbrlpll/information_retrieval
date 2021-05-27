@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Proteomic approaches in the discovery of novel drug targets or
+potential biomarkers in breast cancer.
+
+
+The aim of this study is the detection, identification and quantification
+of known and new candidate cell membrane receptors that are overexpressed
+in Breast Cancer (BC) cells. In order to achieve this goal we have
+developed State-of-the-Art Proteomic approaches. These novel membrane
+target receptors can be used either as biomarkers or for the design of
+targeted drugs against aggressive disease subtypes with poor prognosis
+and therapeutic outcomes, such as Triple Negative BC (TNBC) and HER2
+overexpressing BC.
+
+For our study, four well characterized BC epithelial cell lines were
+selected: HCC-1954 and SKBR3 (HER2 overexpressing), MDA-MB-231 (TNBC) and
+MCF-10A (benign control). We employed a combination of subcellular
+fractionation and membrane enrichment protocols and combined those with
+quantitative, tandem Mass-Spectrometry (MS) based Proteomics. The
+discovery phase of our approach included: the GeLC-MS/MS technique, where
+protein fractions were first separated by 1D-gel electrophoresis followed
+by In-Gel enzymatic digestion prior to identification by a high
+resolution Orbitrap mass analyser. A complementary approach for known
+proteins associated with BC that cannot be readily detected in the
+discovery phase, such as GPCR receptors, was based on nano LC-MRM
+analysis. Proof of Concept experiments, with the use of a Triple
+Quadrupole (QqQ) instrument, were based on the detection of standard
+peptides derived from the protein of interest after following an in
+solution tryptic digestion protocol.
+
+Using GeLC-MS/MS approach we identified the well-known BC involved
+receptors, EGFR and HER2, as well as other potential protein targets in
+concordance with the literature (e.g. TFR1, EPHA2, GPCR5A). We further
+confirmed these results by Western blot analysis. Certain GPCRs expected
+to be present in the cell lines tested were not detected in the studies
+used on the GeLC-MS/MS analysis, thus we proceeded to the more sensitive
+and quantitative nanoLC-MRM approach. As a paradigm target we chose the
+GnRH receptor, an established target for personalized therapy known to be
+expressed in BC. The quantitative nanoLC-MRM approach revealed GnRHR
+significant expression in the MDA-MB-231 BC line and in the WPE-NB26-3
+Prostate cancer cell line (used as an overexpressing GNRHR positive
+control).
+
+Our results indicate that the strategy of combining and applying various
+Proteomic approaches into selected cell lines for the identification of
+new protein targets will add more information to the genetic and
+histological classification of the tumor in order to achieve our goal,
+which is a holistic view of a patient’s molecular profiling that can
+ultimately lead to treatment in the most effective way.
+
+

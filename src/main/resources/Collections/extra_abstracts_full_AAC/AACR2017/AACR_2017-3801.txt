@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A novel sensitive flow-cytometry based platform for isolation and
+molecular characterization of circulating tumor single cells and clusters.
+
+
+Circulating tumor cells (CTCs) are shed from solid tumors and found at
+extremely low frequencies in the blood of patients in most cancers. A
+subset of these cells can seed and give rise to metastases, which is the
+primary cause of cancer-related mortality. Isolation and characterization
+of these cells from blood as a ‘liquid biopsy’ can be a sensitive,
+non-invasive method for early detection, disease monitoring and therapy
+selection. CTCs can be found even at early disease stages in preclinical
+models and patients. There is increasing evidence that clusters of CTCs
+in blood are associated with higher metastatic potential; however,
+efficient isolation and interrogation of these rare clusters is
+challenging. In this study, we utilize an in-line rare cell enrichment
+platform developed by Becton Dickinson (BD), coupled with the BD FACSTM
+Influx cell sorter to rapidly isolate both single cells and clusters from
+blood. This platform utilizes magnetic particle-based depletion of
+unwanted leukocytes and combines acoustic focusing to remove red blood
+cells and debris while enriching for rare cells of interest. We achieved
+30-fold enrichment of tumor cells spiked into blood along with >6-fold
+improvement in sort efficiency with the enrichment process as compared to
+without. Importantly, the large 200μm nozzle and low sheath pressure
+(3.5 psi) on the Influx minimizes shear forces and maintains cell
+viability and integrity of clusters during sorting, thereby enabling
+discrimination of single cells and clusters based on side scatter. Using
+this strategy, we could sort enriched populations of viable cell clusters
+(range 2-10 cells). Finally, this workflow can be seamlessly integrated
+with downstream molecular analysis such as next-generation sequencing. We
+successfully performed whole-transcriptome single-cell sequencing
+(sc-RNAseq) on cells isolated with this streamlined platform where pooled
+cells and bulk RNA were used as comparisons. As proof of principle, we
+used this optimized workflow to isolate and characterize CTCs from a
+pancreatic cancer mouse model (KPCY) in which all tumor cells are labeled
+with Yellow Fluorescent Protein (YFP). We sorted YFP+ CTCs and CD45+
+white blood cells (WBCs) from the blood of 7 KPCY mice along with YFP+
+cells from the matched tumor. We recovered an average of 88 CTCs/ml of
+blood (range 5–258). RNA sequencing was completed on pooled and single
+cells from all samples. Epithelial genes including Krt18 and Krt19 as
+well as lineage specific genes such as Sox9 were significantly
+overexpressed in CTCs and tumors compared to WBCs, suggesting the utility
+of this approach. This integrated CTC workflow provides a sensitive
+approach to identify pancreatic cancer-specific markers, which will be
+evaluated for their ability to improve sensitivity of positive-selection
+of CTCs in patient blood and for development of a clinically relevant
+diagnostic assay.
+
+

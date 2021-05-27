@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: High throughput screen to evaluate combinations with ibrutinib in
+various B-cell malignancies
+
+
+The primary objective of this study was to discover synergies leading to
+mechanistic insights and novel combinations for ibrutinib, a
+small-molecule inhibitor of Bruton's tyrosine kinase (BTK). Ibrutinib has
+been approved for relapsed/refractory (R/R) and del(17p) chronic
+lymphocytic leukemia, and R/R mantle-cell lymphoma (MCL). BTK is part of
+the B-cell receptor (BCR) signaling pathway, so it is of interest to
+examine synergy between ibrutinib and agents that target other aspects of
+the BCR pathway. These include PI3K and IRAK inhibitors and apoptosis
+inhibitors. Combinations were evaluated in a high-throughput, tumor
+microenvironment-directed format.Ibrutinib was combined with inhibitors
+of the BCR pathway and apoptosis, whose targets included MCL-1, BCL2,
+XPO1, and isoforms of PI3K, IRAK, and BRD. Histologies examined included
+follicular lymphoma (FL), diffuse large B-cell lymphoma (DLBCL), MCL,
+acute myeloid leukemia (AML), acute B-lymphoblastic leukemia, and
+Burkitt's lymphoma. Cell lines were screened in the presence of human
+marrow stromal-cell-conditioned media and B-cell receptor stimulation via
+anti-IgG/anti-IgM antibodies in a 72-hour cell viability ATP lite assay
+(384-well plate, 99 optimized matrix, 4 replicates). Dose response matrix
+screening was used to measure combination effects, which manifest as
+potency shifts or efficacy boosts. Combination effects can be
+characterized by comparing each data point to a combination reference
+model derived from single-agent curves using the Loewe additivity
+model.Ibrutinib demonstrated varying activity across cell lines.
+Combination activity was classified based on synergy score raw values.
+The best combination among tested compounds was with ABT-199, a BCL2i.
+This combination showed high or medium synergy in 2/5 DLBCL, 3/4 FL, and
+2/5 MCL cell lines; this was also the only agent to show good synergy in
+AML (3/5 lines). Interestingly, ABT-737, a BCL2i that also targets
+BCL-XL, has previously been shown to be synergistic with ibrutinib in
+DLBCL lines. Synergy was also seen with other apoptotic agents such as
+MCL-1i and the epigenetic BETi JQ-1 across B-NHL, but in fewer lines.
+Among the PI3Ki, PI3K/i did not show much activity, but the PI3K/i
+IPI-145 was synergistic in 2/5 DLBCL, 3/4 FL cell lines, and 1/5 MCL cell
+lines, a pattern very similar to the PI3Ki CAL-101 (idelalisib).
+Ibrutinib also combined well with IRAK1/4i and XPO1i selinexor, with high
+activity in 1/5 DLBCL cell lines each, and medium activity in 1/5 DLBCL,
+1/4 FL, and 2/5 MCL (XPO1i) and 1/5 DLBCL, 2/4 FL, and 1/5 MCL cell lines
+(IRAK1/4i).Synergy was mostly observed in B-cell malignancies, but
+interesting synergy was observed with ABT-199 in AML. In B-NHL, ibrutinib
+combined with BCL2i and PI3Ki showed the best combination activity.
+Ibrutinib was also synergistic with other agents in selected B-NHL lines
+with no observed antagonism, suggesting that further study in specific
+histologies is warranted.
+

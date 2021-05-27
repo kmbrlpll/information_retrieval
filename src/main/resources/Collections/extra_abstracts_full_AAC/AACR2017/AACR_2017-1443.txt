@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification of enhancer elements at kidney cancer
+susceptibility loci using MPRA.
+
+
+GWAS is an important tool for discovering regions in the genome
+associated with cancer susceptibility. For renal cell carcinoma (RCC),
+only two loci have had their functional basis explained (11q13 and
+12p12). Here, we used a massively parallel reporter assay (MPRA) to
+investigate enhancer activity in 20 GWAS regions that had an RCC
+association p-value of at least 10-7. We selected 784 SNPs with an r2>0.4
+or D’>0.5 and MAFGWAS is an important tool for discovering regions in
+the genome associated with cancer susceptibility. For renal cell
+carcinoma (RCC), only two loci have had their functional basis explained
+(11q13 and 12p12). Here, we used a massively parallel reporter assay
+(MPRA) to investigate enhancer activity in 20 GWAS regions that had an
+RCC association p-value of at least 10-7. We selected 784 SNPs with an
+r2>0.4 or D’>0.5 and MAF<0.05 that had evidence for enhancer activity
+based on available ENCODE transcription factor or histone ChIP-seq,
+FAIRE, and DNase I hypersensitive data. The MPRA library was composed of
+47461 oligonucleotides 201 bp in length, compelled of 145 bps contained
+the SNP in the forward or reverse orientation followed by 10 bp of
+barcode sequence to allow for identification. Each of the 784 SNPs tested
+were tagged 10 separate times for both orientations. Controls were
+constructed by randomizing the 10 nucleotides centered on the SNP. The
+MPRA library was the cloned into a luciferase reporter vector that was
+transfected into HEK293T and ACHN cell lines. NGS was performed on 5
+replicates using the the Illumina HiSeq 2500. After correcting for
+multiple comparisons, 50 SNPs from 16 regions showed significant
+p-values. From these 50 SNPs, 29 showed enhancer activity that was
+independent of the forward/reverse orientation and had the same effect in
+both cell lines. This analysis has identified possible functional
+variants at RCC risk loci and opens opportunities to discover new
+molecular mechanisms of genetic susceptibility of RCC.
+
+

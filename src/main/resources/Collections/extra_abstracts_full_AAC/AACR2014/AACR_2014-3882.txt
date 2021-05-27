@@ -1,0 +1,77 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Downregulation of PRRX1 confers cancer stem cell-like properties
+and poor prognosis in hepatocellular carcinoma
+
+
+Background:Recent studies have been focused on the relationship between
+cancer stem cells (CSCs) and epithelial-mesenchymal transition (EMT).
+Unlike classical EMT inducers, PRRX1 is involved in the acquisition of
+CSC-like properties when its down-regulation induces
+mesenchymal-epithelial transition in breast cancer. Meanwhile,
+hepatocellular carcinoma (HCC) is one of the most intractable
+malignancies, and it is required to identify a bona-fide molecular target
+to regulate tumor progression and the treatment resistance. The purpose
+of this study is to investigate the role of PRRX1 expression on clinical
+significance and CSC-like properties in HCC.Methods:(1) PRRX1 expression
+was analyzed in 62 resected primary HCC cases by quantitative RT-PCR
+(qRT-PCR). Clinicopathological factors and overall survival (OS)
+according to PRRX1 expression were analyzed. (2) The gene set enrichment
+analysis (GSEA) on the published clinical data set of 242 HCC samples
+(GSE14520) was applied to investigate the association of PRRX1 expression
+levels and the stem cell-like properties. (3) PRRX1 stably expressing HCC
+cell lines (HuH7) were established using a lentiviral vector. The
+expression levels of the hepatic CSC surface markers (CD13, CD133 and
+EpCAM) were analyzed by flowcytometry and qRT-PCR. Furthermore, the
+ability of sphere formation and in vitro chemosensitivity to 5-FU were
+evaluated to assess the CSC-like properties.Results:(1) Univariate
+analysis showed that 5-year OS of the low PRRX1 expression group was
+significantly shorter than that of the high PRRX1 expression group (49.8%
+vs. 80.3%, P=0.014). On multivariate analysis, low PRRX1 expression was
+an independent prognostic factor for HCC (P=0.026). (2) GSEA analysis on
+the 247 HCC data set indicated that the down-regulation of PRRX1 was
+significantly correlated with the stem cell signature (P=0.039).
+Furthermore, using gene sets of polycomb repressive complex 2 (PCR2)
+targets and H3 lysine-27 trimethylation mediated by PCR2, HCC with low
+PRRX1 expression showed parallel enrichment patterns with human embryonic
+stem cells (P=0.002 and PBackground:Recent studies have been focused on
+the relationship between cancer stem cells (CSCs) and
+epithelial-mesenchymal transition (EMT). Unlike classical EMT inducers,
+PRRX1 is involved in the acquisition of CSC-like properties when its
+down-regulation induces mesenchymal-epithelial transition in breast
+cancer. Meanwhile, hepatocellular carcinoma (HCC) is one of the most
+intractable malignancies, and it is required to identify a bona-fide
+molecular target to regulate tumor progression and the treatment
+resistance. The purpose of this study is to investigate the role of PRRX1
+expression on clinical significance and CSC-like properties in
+HCC.Methods:(1) PRRX1 expression was analyzed in 62 resected primary HCC
+cases by quantitative RT-PCR (qRT-PCR). Clinicopathological factors and
+overall survival (OS) according to PRRX1 expression were analyzed. (2)
+The gene set enrichment analysis (GSEA) on the published clinical data
+set of 242 HCC samples (GSE14520) was applied to investigate the
+association of PRRX1 expression levels and the stem cell-like properties.
+(3) PRRX1 stably expressing HCC cell lines (HuH7) were established using
+a lentiviral vector. The expression levels of the hepatic CSC surface
+markers (CD13, CD133 and EpCAM) were analyzed by flowcytometry and
+qRT-PCR. Furthermore, the ability of sphere formation and in vitro
+chemosensitivity to 5-FU were evaluated to assess the CSC-like
+properties.Results:(1) Univariate analysis showed that 5-year OS of the
+low PRRX1 expression group was significantly shorter than that of the
+high PRRX1 expression group (49.8% vs. 80.3%, P=0.014). On multivariate
+analysis, low PRRX1 expression was an independent prognostic factor for
+HCC (P=0.026). (2) GSEA analysis on the 247 HCC data set indicated that
+the down-regulation of PRRX1 was significantly correlated with the stem
+cell signature (P=0.039). Furthermore, using gene sets of polycomb
+repressive complex 2 (PCR2) targets and H3 lysine-27 trimethylation
+mediated by PCR2, HCC with low PRRX1 expression showed parallel
+enrichment patterns with human embryonic stem cells (P=0.002 and P<0.001,
+respectively). These results suggested that down-regulation of PRRX1 in
+HCC induces the acquisition of CSC-like properties through modification
+of chromatin structure. (3) The level of CSC markers (CD13, CD133 and
+EpCAM) and the number of spheres were significantly decreased in
+PRRX1-expressing HuH7 cells compared with the controls. Moreover, PRRX1
+impaired resistance to 5-FU in HCC cells.Conclusions:The down-regulation
+of PRRX1 expression contributes to the poor prognosis through the
+acquisition of CSC-like properties in HCC patients. We might apply the
+aberrant expression of PRRX1 as a novel clinical biomarker for prediction
+of the malignant potential in HCC cases.
+

@@ -1,0 +1,30 @@
+Meeting: 2016 AACR Annual Meeting
+Title: An ultra-sensitive cell free DNA liquid biopsy assay for cancer
+treatment monitoring
+
+
+In order to take advantage of the narrow time window for optimal
+treatment efficacy, highly sensitive disease monitoring is critical in
+the successful management of cancer. Currently, treatment efficacy is
+assessed by using a combination of protein cancer biomarkers and imaging.
+However, both methods present limitations with regard to specificity or
+sensitivity due to their dependency on tumor size. Recently, a number of
+studies have suggested that monitoring cell free DNA (cfDNA) may provide
+a more specific alternative for tracking cancer treatment with greatly
+improved sensitivity. Here we introduce a novel next-generation
+sequencing based mutation detection system aimed at improving the
+sensitivity, reliability, and clinical utility of cancer treatment
+monitoring. Our system, comprised of Nebula, a whole genome amplification
+technology that is capable of amplifying nanogram quantities of cfDNA
+>1000-fold, and Firefly, a proprietary technology combining molecular
+biology and computational algorithm for error-suppression, has reduced
+the rate of random sequencing errors to 10-6. As a result, we are able to
+detect 1.5 variant copies from 10ng of input cfDNA with a detection rate
+of 46%. We have validated the Nebula-Firefly assay on a patient cohort
+with either colorectal (CRC) or lung cancer. Here we report the
+successful detection of drug resistant mutations and various genomic
+alterations associated with minimal residual detection (MRD) in sample
+cfDNA. These initial findings have led to the exploration of
+Nebula-Firefly as the technological backbone for a noninvasive, scalable
+approach for the early detection, treatment, and monitoring of cancer.
+

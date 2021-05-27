@@ -1,0 +1,49 @@
+Meeting: 2013 AACR Annual Meeting
+Title: COSMIC: Exploring the world's knowledge of somatic mutations in
+cancer.
+
+
+COSMIC, the Catalogue Of Somatic Mutations in Cancer
+(http://cancer.sanger.ac.uk/), is the world's largest database of curated
+somatic mutations. The current version (v62, Nov 2012) has over a million
+mutations across 800000 samples from 15327 peer-reviewd publications,
+online data portals such as TCGA, ICGC, the IARC p53 database and the
+Cancer Genome Project (CGP) at the Sanger Institute, UK. The project aims
+to build a comprehensive catalogue of somatic mutations prioritized by
+the Cancer Gene Census
+(http://cancer.sanger.ac.uk/cancergenome/projects/census/), allowing
+users to explore correlations between cancer phenotypes and mutant
+genotypes. At present, a full distribution of somatic mutations have been
+curated across 116 known cancer genes and 169 gene fusion pairs. A focus
+on cancer genomes has recently emerged from the rapid expansion of whole
+genome/exome resequencing, as shown by our "COSMIC Genomes" website
+(http://cancer.sanger.ac.uk/cancergenome/projects/studies/), already
+comprising over 4500 tumours across a variety of cancer types.There are a
+number of ways to examine the data within COSMIC. A newly released
+website provides an intuitive interface for users to scrutinize the data
+through numerous filters, including mutation types, histology and tissue
+types. This is supplimented with statistical summaries presented in many
+graphs and charts. The website includes a COSMIC genome browser for views
+across combined cancer genomes, including all mutation types in one
+graphical window. Many other resources are designed for bioinformatic
+access including a Biomart, and FTP downloads in a variety of formats
+(ftp://ftp.sanger.ac.uk/pub/CGP/cosmic/). We actively seek to integrate
+with the wider bioinformatics community and are integrated within the
+UCSC and Ensembl genome browsers.COSMIC both documents mutation trends in
+known cancer genes, and combines distributed information to allow
+substantial mining of these data for discovery of novel correlations.
+COSMIC can aid discovery of novel recurrence patterns between variants,
+genes and tissues in different mutant genotypes and cancer phenotypes.
+The most frequently mutated gene in COSMIC (v62, Nov 2012), is JAK2 with
+the p.V617F mutation observed in 36% of all blood cancers examined. This
+is followed by TP53 with a variety of truncating mutations observed at a
+total frequency of 29.7%, and KRAS, found mutated in 21% of cancers, most
+frequently p.G12D in pancreatic tumours. Focusing particularly on the
+4571 whole genomes, the most mutated gene is unsurprisingly TP53 at
+27.57% (followed by TTN, MUC16, PIK3CA, CSMD3). Many techniques may
+identify putative novel cancer genes outside the cancer gene census. For
+instance, in Lung cancer the most mutated genes (correcting for CDS
+length) are TPTE, FAM5C, CDH10 and KEAP1. The rapid combination of
+increasingly large datasets in COSMIC ensure its future relevance in
+discovery of new trends in cancer genetics.
+

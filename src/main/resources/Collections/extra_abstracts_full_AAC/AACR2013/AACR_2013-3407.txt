@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: A novel CENP-E-selective inhibitor exhibits potent anti-tumor
+efficacy by two distinct mechanisms of action dependent on spindle
+assembly checkpoint activity.
+
+
+Centromere-associated protein-E (CENP-E) is a mitotic spindle motor
+protein belonging to the kinesin superfamily and controls chromosome
+alignment during metaphase by capturing the microtubule plus end at the
+kinetochore. Loss of CENP-E function has been reported to result in
+misaligned chromosomes at metaphase leading to spindle assembly
+checkpoint (SAC) activation. Here, we developed a novel small-molecule
+inhibitor of CENP-E (Compound-A), which targets an ATPase domain at the
+CENP-E N-terminal motor region. Enzymatic kinetics reveals that
+Compound-A is a slow-off rate type of ATP-competitive CENP-E inhibitor.
+Treatment of Hela cells with Compound-A induced chromosome misalignment
+during the SAC-dependent mitotic arrest, resulting in potent growth
+suppression by apoptosis. Furthermore, intraperitoneal administration of
+Compound-A displayed potent anti-tumor efficacy in colo205-xenograft
+mouse models (T/C=11 % at day 8).Given that SAC activation by CENP-E
+inhibition induced mitotic death, we next investigated whether SAC
+attenuation by BubR1 knockdown recovers cell viability in these cells.
+However, CENP-E inhibition was able to cause apoptosis after mitotic
+slippage in the BubR1-knockdown Hela cells, while inhibition of another
+mitotic kinesin Eg5, which controls centrosome separation during mitosis,
+induced polyploidy instead of apoptosis in these cells. Our data suggest
+that asymmetric chromosome segregation accelerated by CENP-E inhibition,
+but not polyploidy by Eg5 inhibition, is responsible for apoptosis after
+mitotic slippage. A comprehensive gene expression analysis of microarray
+comparisons revealed that p53 pathways are activated by CENP-E inhibition
+after mitotic slippage, and p53 knockdown suppressed post-mitotic
+caspase-3/7 activation by CENP-E inhibition. Furthermore, we found that
+both phosphorylation of at Ser-15 by ATM and ATR kinases and accumulation
+of p53 protein by unfolding protein response (UPR) were involved in
+post-mitotic p53 activation after mitotic slippage.In conclusion, we
+developed the novel CENP-E inhibitor, Compound-A, and CENP-E inhibition
+by Compound-A induced potent growth inhibition in both SAC-intact and
+SAC-defective cancer cells. In the latter case, p53 pathways play
+important roles in the induction of apoptosis. Our data demonstrate that
+SAC and p53 pathways complementally function to eliminate aberrant
+chromosome segregation accelerated by CENP-E inhibition. Thus, SAC
+activation and p53 protein accumulation are available for complementary
+PD biomarkers of the CENP-E inhibitors, and several molecules in the SAC
+and p53 pathways could be potential biomarkers to select sensitive tumors
+to the CENP-E inhibitors.
+

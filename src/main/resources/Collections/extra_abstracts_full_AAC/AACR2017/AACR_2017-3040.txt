@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Functional genomic screening identifies USP11 as a novel regulator
+of ERα transcription in breast cancer.
+
+
+Approximately 70% of breast cancers overexpress the estrogen receptor α
+(ERα) and depend on this key transcriptional regulator for growth and
+differentiation. The discovery of novel mechanisms controlling ERα
+function represent major advances in our understanding of breast cancer
+progression and potentially offer attractive new therapeutic
+opportunities. Here, we investigated the role of deubiquitinating enzymes
+(DUBs), which act to remove ubiquitin moieties from proteins, in
+regulating transcriptional activity of ERα in breast cancer.
+
+To identify DUBs involved in the regulation of ERα transcriptional
+activity, we performed an RNAi loss-of-function screen using a library of
+shRNA vectors targeting all human DUB genes. The DUB library consisted of
+pools of four non-overlapping shRNAs targeting all 108 known or putative
+DUBs (432 shRNAs in total). We found that suppression of a number of DUBs
+markedly repressed or enhanced the activity of an
+estrogen-response-element (ERE) luciferase reporter following estradiol
+(E2) stimulation. Of particular interest, suppression of the
+BRCA2-associated DUB, USP11, was found to down-regulate ERα
+transcriptional activity.
+
+Subsequent validation using two individual siRNAs targeted to USP11
+revealed a notable reduction in expression of endogenous ERα target
+genes in the ZR-75-1 cell line, as quantified using qRT-PCR.
+Immunoprecipitation of ERα revealed no physical interaction with USP11,
+however E2 stimulation resulted in translocation of USP11 to the nucleus,
+suggesting a potential role in E2-induced transcription. Furthermore,
+USP11 expression was found to be upregulated in the estrogen-independent
+cell line LCC1 when compared to their parental MCF7 cells. Knockdown of
+USP11 in LCC1 cells resulted in decreased mRNA expression of a panel of
+ERα target genes, suggesting a role for USP11 in an estrogen independent
+setting.
+
+To support the prognostic relevance of USP11, immunohistochemical
+staining of a breast cancer tissue microarray (n=144) was performed.
+Kaplan-Meier analysis of this cohort revealed a highly significant
+association between poor overall survival (OS) (p=0.030) and breast
+cancer-specific survival (BCSS) (p=0.041). In silico analysis of
+publically available breast cancer gene expression datasets further
+supported an association between high USP11 mRNA levels and poor
+prognosis. We observed a significant correlation between high expression
+of USP11 mRNA in ER-positive patients and poor distant metastasis-free
+survival (DMFS) (HR 2, CI 1.37-2.91, p=0.00023). This correlation was
+also significant in ER-positive patients who had received endocrine
+therapy only (HR 2.9, CI 1.63-5.15, p=0.00015).
+
+These results suggest a role for USP11 in driving cellular growth and
+identify USP11 as novel therapeutic target in breast cancer.
+
+

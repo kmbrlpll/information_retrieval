@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: The effect of height, BMI and serum lipid levels on ovarian cancer
+prognosis in over 12,000 women: a Mendelian randomization study
+
+
+IntroductionPrevious observational studies investigating height, body
+mass index and serum lipid levels as prognostic factors in ovarian cancer
+have been inconclusive. In addition to possible influences of reverse
+causation, it is possible that factors such as diet, socio-economic
+status and other lifestyle factors are confounding true associations.
+Mendelian Randomization (MR) utilises genotype data for variants
+associated with phenotypes of interest to create genetic risk scores for
+these modifiable exposures. One advantage of using genetic markers as
+proxies is that they are determined from birth and are therefore
+unaffected by confounding variables. We aim to use MR to investigate the
+association between height, BMI and serum lipid levels (high-density
+lipoprotein (HDL), low-density lipoprotein (LDL) and triglycerides) and
+ovarian cancer prognosis in the absence of confounding
+variables.MethodsWe used data from 12,908 invasive ovarian cancer cases
+with 5,813 events from 26 studies in the Ovarian Cancer Association
+Consortium. All individuals were of European ancestry. We calculated
+genetic risk scores for each individual for height, BMI and serum lipids
+by taking the sum of the alleles associated with the trait, weighted by
+the size of their effect on the trait. The genetic risk scores were then
+included in a Cox proportional hazards model adjusted for study and two
+principal components to test for association with prognosis. For the
+analysis of height, we included 422 uncorrelated single nucleotide
+polymorphisms identified by the Genetic Investigation of Anthropometric
+Traits (GIANT) consortium as associated with height at genome-wide
+significance. In the analysis of BMI, we included 32 SNPs associated with
+BMI in analyses by the GIANT consortium. In order to account for the
+pleiotropy between the three lipid types we included the genetic risk
+scores for each of the three traits in a joint analysis. SNPs identified
+by the Global Lipids Genetics Consortium as associated with lipid levels
+were included: 95 with HDL, 82 with LDL and 64 with
+triglycerides.ResultsWe found no evidence of association between the five
+genetic risk scores and ovarian cancer prognosis. The genetic risk score
+for height had an estimated hazard ratio of 1.01, 95% confidence interval
+0.94 - 1.08, p-value = 0.82. The hazard ratio for BMI was 1.00, 95% CI
+0.95 - 1.05, p-value = 0.99. The hazard ratios for HDL, LDL and
+triglycerides were 1.03(0.94-1.13), 1.02(0.94-1.12) and 1.08(0.96-1.21)
+respectively with p-values = 0.53, 0.58 and 0.19.ConclusionOur study does
+not provide any evidence of association between height, BMI and serum
+lipid levels and ovarian cancer prognosis.
+

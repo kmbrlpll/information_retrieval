@@ -1,0 +1,118 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Identification of biomarker genes associated with endocrine
+therapy responsiveness in patients with estrogen receptor positive IBC
+and nIBC
+
+
+Introduction: Endocrine therapy is a cornerstone in the treatment of
+patients with Estrogen Receptor (ER) positive (+) breast cancer.
+Nevertheless, resistance to endocrine treatment, either de novo or
+acquired, irreversably develops. In this study, we build upon the
+endocrine therapy resistant phenotype of patients with ER+ Inflammatory
+Breast Cancer (IBC) to identify and validate predictive biomarkers of
+endocrine therapy responsiveness. Materials and methods: Expression
+profiles of 21 ER+ IBC and 42 non-stage matched ER+ nIBC samples were
+compared using Prediction Analysis of Microarrays. The resulting gene
+signature was applied onto expression datasets from ER+ nIBC patients
+with documented intervals of relapse-free survival (RFS) for adjuvant
+endocrine treatment (GSE17705; N=298) or of progression-free survival
+(PFS) for first-line endocrine treatment (Jansen dataset (JCO, 2005),
+N=101). The gene signature classified samples as IBC-like or nIBC-like
+and Kaplan Meier and Cox regression analyses were performed. Robust
+biomarkers for endocrine resistance were selected using permutation
+analysis and validated using qRT-PCR on a series of samples from 225 ER+
+nIBC patients with metastatic disease receiving first-line tamoxifen.
+Results: We identified a gene signature of 139 unique genes able to
+discriminate ER+ IBC from ER+ nIBC samples (sensitivity: 100%;
+specificity: 87.5%). Application of this signature onto data sets of
+patients with ER+ nIBC revealed significant associations with RFS
+(HR=1.87, P=0.001) and PFS (HR=2.04, PIntroduction: Endocrine therapy is
+a cornerstone in the treatment of patients with Estrogen Receptor (ER)
+positive (+) breast cancer. Nevertheless, resistance to endocrine
+treatment, either de novo or acquired, irreversably develops. In this
+study, we build upon the endocrine therapy resistant phenotype of
+patients with ER+ Inflammatory Breast Cancer (IBC) to identify and
+validate predictive biomarkers of endocrine therapy responsiveness.
+Materials and methods: Expression profiles of 21 ER+ IBC and 42 non-stage
+matched ER+ nIBC samples were compared using Prediction Analysis of
+Microarrays. The resulting gene signature was applied onto expression
+datasets from ER+ nIBC patients with documented intervals of relapse-free
+survival (RFS) for adjuvant endocrine treatment (GSE17705; N=298) or of
+progression-free survival (PFS) for first-line endocrine treatment
+(Jansen dataset (JCO, 2005), N=101). The gene signature classified
+samples as IBC-like or nIBC-like and Kaplan Meier and Cox regression
+analyses were performed. Robust biomarkers for endocrine resistance were
+selected using permutation analysis and validated using qRT-PCR on a
+series of samples from 225 ER+ nIBC patients with metastatic disease
+receiving first-line tamoxifen. Results: We identified a gene signature
+of 139 unique genes able to discriminate ER+ IBC from ER+ nIBC samples
+(sensitivity: 100%; specificity: 87.5%). Application of this signature
+onto data sets of patients with ER+ nIBC revealed significant
+associations with RFS (HR=1.87, P=0.001) and PFS (HR=2.04, P<0.001) under
+endocrine therapy. Permutation analysis selected 6 genes robustly
+discriminating ER+ IBC from ER+ nIBC samples: ABAT, ADAMDEC1, CLEC7A,
+ETS1, ITK1 and STC2. Expression analysis with qRT-PCR confirmed the
+predictive value of ADAMDEC1 (HR=1.127, P=0.020), ABAT (HR=0.779,
+PIntroduction: Endocrine therapy is a cornerstone in the treatment of
+patients with Estrogen Receptor (ER) positive (+) breast cancer.
+Nevertheless, resistance to endocrine treatment, either de novo or
+acquired, irreversably develops. In this study, we build upon the
+endocrine therapy resistant phenotype of patients with ER+ Inflammatory
+Breast Cancer (IBC) to identify and validate predictive biomarkers of
+endocrine therapy responsiveness. Materials and methods: Expression
+profiles of 21 ER+ IBC and 42 non-stage matched ER+ nIBC samples were
+compared using Prediction Analysis of Microarrays. The resulting gene
+signature was applied onto expression datasets from ER+ nIBC patients
+with documented intervals of relapse-free survival (RFS) for adjuvant
+endocrine treatment (GSE17705; N=298) or of progression-free survival
+(PFS) for first-line endocrine treatment (Jansen dataset (JCO, 2005),
+N=101). The gene signature classified samples as IBC-like or nIBC-like
+and Kaplan Meier and Cox regression analyses were performed. Robust
+biomarkers for endocrine resistance were selected using permutation
+analysis and validated using qRT-PCR on a series of samples from 225 ER+
+nIBC patients with metastatic disease receiving first-line tamoxifen.
+Results: We identified a gene signature of 139 unique genes able to
+discriminate ER+ IBC from ER+ nIBC samples (sensitivity: 100%;
+specificity: 87.5%). Application of this signature onto data sets of
+patients with ER+ nIBC revealed significant associations with RFS
+(HR=1.87, P=0.001) and PFS (HR=2.04, P<0.001) under endocrine therapy.
+Permutation analysis selected 6 genes robustly discriminating ER+ IBC
+from ER+ nIBC samples: ABAT, ADAMDEC1, CLEC7A, ETS1, ITK1 and STC2.
+Expression analysis with qRT-PCR confirmed the predictive value of
+ADAMDEC1 (HR=1.127, P=0.020), ABAT (HR=0.779, P<0.001) and STC2
+(HR=0.866, PIntroduction: Endocrine therapy is a cornerstone in the
+treatment of patients with Estrogen Receptor (ER) positive (+) breast
+cancer. Nevertheless, resistance to endocrine treatment, either de novo
+or acquired, irreversably develops. In this study, we build upon the
+endocrine therapy resistant phenotype of patients with ER+ Inflammatory
+Breast Cancer (IBC) to identify and validate predictive biomarkers of
+endocrine therapy responsiveness. Materials and methods: Expression
+profiles of 21 ER+ IBC and 42 non-stage matched ER+ nIBC samples were
+compared using Prediction Analysis of Microarrays. The resulting gene
+signature was applied onto expression datasets from ER+ nIBC patients
+with documented intervals of relapse-free survival (RFS) for adjuvant
+endocrine treatment (GSE17705; N=298) or of progression-free survival
+(PFS) for first-line endocrine treatment (Jansen dataset (JCO, 2005),
+N=101). The gene signature classified samples as IBC-like or nIBC-like
+and Kaplan Meier and Cox regression analyses were performed. Robust
+biomarkers for endocrine resistance were selected using permutation
+analysis and validated using qRT-PCR on a series of samples from 225 ER+
+nIBC patients with metastatic disease receiving first-line tamoxifen.
+Results: We identified a gene signature of 139 unique genes able to
+discriminate ER+ IBC from ER+ nIBC samples (sensitivity: 100%;
+specificity: 87.5%). Application of this signature onto data sets of
+patients with ER+ nIBC revealed significant associations with RFS
+(HR=1.87, P=0.001) and PFS (HR=2.04, P<0.001) under endocrine therapy.
+Permutation analysis selected 6 genes robustly discriminating ER+ IBC
+from ER+ nIBC samples: ABAT, ADAMDEC1, CLEC7A, ETS1, ITK1 and STC2.
+Expression analysis with qRT-PCR confirmed the predictive value of
+ADAMDEC1 (HR=1.127, P=0.020), ABAT (HR=0.779, P<0.001) and STC2
+(HR=0.866, P<0.001) in 225 patients with ER+ breast cancer treated with
+Tamoxifen. Ingenuity Pathway Analysis revealed an intricate network
+linking each of the core genes with ER-, NFkB- and TGF-signalling.
+Conclusion: In this study we identified and validated a gene signature
+predictive of response to endocrine therapy in patients with breast
+cancer by comparing ER+ IBC samples to ER+ nIBC samples. Within this gene
+signature, ADAMDEC1, ABAT and STC2 were identified as robust markers for
+endocrine therapy responsiveness.
+

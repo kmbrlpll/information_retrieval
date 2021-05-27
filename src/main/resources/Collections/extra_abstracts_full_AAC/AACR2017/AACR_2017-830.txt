@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: MiRNA-106a and LITAF are novel modulators of prostate cancer
+radioresistance.
+
+
+Prostate cancer (PCa) is the second most prevalent cancer affecting men
+worldwide, with radiotherapy being a primary treatment modality. PCa
+recurrence is a major clinical problem with up to a 40% biochemical
+recurrence rate at five years after external beam radiotherapy (ionizing
+radiation, IR). Therefore, there is an unmet need to characterize
+radioresistance in order to improve therapy and patient outcomes.
+MicroRNAs (miRNAs) are small non-coding RNAs that regulate gene
+expression. MiRNAs are aberrantly expressed in cancer, specifically,
+miR-106a has been found to be overexpressed in various cancer types. The
+purpose of this study is to determine whether miR-106a confers IR
+resistance and tumor aggression in PCa.
+
+Utilizing The Cancer Genome Atlas Data Portal, bioinformatics analysis
+discovered that miR-106a was significantly overexpressed in PCa samples
+relative to normal prostate. This suggests that miR-106a is involved in
+prostate carcinogenesis. Clonogenic survival assays revealed that cells
+overexpressing miR-106a had increased survival after IR treatment
+compared to control cells. Proliferation assays showed that miR-106a
+cells had a higher proliferation rate than control cells in both
+unirradiated and IR-treated cells. Affymetrix gene array analysis was
+used to identify possible targets of miR-106a. Combining results from the
+gene array, in silico prediction algorithms, and in vitro analyses, we
+identified lipopolysaccharide-induced TNFα factor (LITAF) as a target of
+miR-106a. In addition, LITAF knockdown lead to increased proliferation
+and clonogenic survival following IR, recapitulating the phenotype of
+miR-106a overexpression. Cells were stained for β-galactosidase
+expression following IR to assess senescence, as a mode of cell death. We
+found that both miR-106a overexpression and LITAF knockdown resulted in
+significantly fewer senescent cells post-IR. Upon examination of critical
+DNA damage response genes, we found that miR-106a overexpression and
+LITAF knockdown increased expression of ATM mRNA and protein.
+Upregulation of ATM is associated with IR resistance, elucidating the
+mechanism by which miR-106a overexpression and LITAF knockdown are
+involved in radioresistance. Tumor xenograft experiments, using a PCa
+cell line stably overexpressing miR-106a, confirmed that miR-106a
+increases proliferation compared to control tumors before and after IR.
+
+Thus, our results strongly suggest that miR-106a is involved in PCa
+aggression and confers a radiation-resistant phenotype, by targeting the
+novel radiation response gene LITAF.
+
+

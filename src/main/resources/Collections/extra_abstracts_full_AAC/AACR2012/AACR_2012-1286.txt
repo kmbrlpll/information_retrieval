@@ -1,0 +1,43 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Elucidating the role of E2F2 in mediating human breast cancer
+metastasis
+
+
+In human breast cancer it is not the primary tumor that is the cause of
+mortality but tumor metastasis to distant sites. Therefore, it is
+important to elucidate the biological mechanisms that underlie the
+metastatic processes. To address this, we utilized bioinformatic methods
+in combination with biochemical assays and genetic studies. Specifically,
+we crossed MMTV-Myc transgenic mice with various activator E2Fs mutants.
+We found that the tumor incidence decreased in MMTV-Myc mice interbred
+with E2F2 and E2F3 mutant backgrounds. Surprisingly, we also found that
+the loss of E2F2 sharply increased the percentage of lung metastasis in
+MMTV-Myc mice. Here, we test whether these observations in mice translate
+to human breast cancer and identify the genes under the control of E2F2
+transcription factor that are responsible for mediating breast cancer
+metastasis. To achieve these aims, we examined the probability of
+activation of the E2F2 transcription factors in human breast cancer. We
+calculated the probability of E2F2 activation and used this data to
+stratify the human breast cancer samples and their associated metastatic
+clinical data. Examining this data we found that a low probability of
+E2F2 pathway activation led to decreased time to distant metastasis. To
+account for this discrepancy, we performed hierarchical clustering of
+human and mouse gene expression datasets. We found two clusters of human
+breast tumors in which E2F2 played distinctly different roles in
+mediating metastasis. One particular cluster clustered with our mouse
+gene expression data and exhibited the same role for E2F2 where it
+increased time to distant metastasis. In addition, we examined the
+ontology of the genes in this cluster and found that the majority of
+these genes had putative E2F binding sites. To further identify genes
+that are involved in metastasis, we stratified human breast cancer
+metastasis clinical annotation using gene expression values from these
+genes. We found that there were seven genes that are uniquely
+differentially regulated in this cluster. Interestingly, we observed that
+this group of seven genes included genes that were implicated in the
+metastatic process such as MMP16. Taken together, our results showed that
+there is an important role for E2F2 in mediating breast cancer metastasis
+and using our bioinformatic methods, we have begun to elucidate this role
+of E2F2 in mediating breast cancer metastasis. Our future directions
+include further validation of these target genes in vitro and in vivo to
+establish the mechanism by which E2F2 mediates breast cancer metastasis.
+

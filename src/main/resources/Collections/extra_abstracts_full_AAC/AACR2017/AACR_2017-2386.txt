@@ -1,0 +1,38 @@
+Meeting: 2017 AACR Annual Meeting
+Title: HDAC6 regulates ERK1’s kinase activity via deacetylation.
+
+
+Extracellular signal-regulated kinases 1/2 (ERK1/2) are important kinases
+regulating cell proliferation and cell migration, and have been
+established as therapeutic targets for cancer treatment. Previously, we
+found that ERK1 phosphorylates histone deacetylase 6 (HDAC6), a class IIb
+HDAC, to regulate its enzymatic activity. HDAC6 plays an important role
+in several types of cancers. HDAC6 governs cancer cells’ migration by
+cooperating with cytoskeleton proteins and their associated proteins, and
+HDAC6 is arising as a determinant for cisplatin-resistance in non-small
+cell lung cancer (NSCLC) and ovarian cancer. Here, we have shown that
+HDAC6 manipulates ERK1’s kinase activity via deacetylation. We
+demonstrated that both ERK1 and ERK2 interact with HDAC6 physically via
+GST pull-down assays. To examine whether ERK1/2 are acetylated, we
+transfected GST-ERK1 or GST-ERK2 into HEK293T cells, and treated the
+cells with a pan-HDAC inhibitor, Trichostatin A. We showed that the level
+of acetylated GST-ERK1/2 increased in a dose- and time-dependent manner.
+Furthermore, when GST-ERK1 or GST-ERK2-expressed cells were treated with
+an HDAC6-specific inhibitor, ACY-1215, the level of acetylated GST-ERK1/2
+increased. These results suggest that HDAC6 is a deacetylase for ERK1/2.
+In addition, we determined that acetyltransferases CBP and p300 acetylate
+ERK1/2. We found a novel acetylation site located in ERK1 N-terminus by
+mass-spectrometry analysis. We then mutated this lysine (K) site with
+either Glutamic acid (Q) or Arginine (R) to mimic the acetylation or
+deacetylation status, and performed kinase assays using ELK1 as a
+substrate. The acetylation mimicking mutant exhibits a decreased kinase
+activity toward ELK1, while the deacetylation mimicking mutant exhibits a
+similar level of kinase activity as the wild-type ERK1 does, suggesting
+that acetylation/deacetylation alters ERK1 enzymatic activities.
+Therefore, HDAC6 may regulate ERK1’s kinase activity via deacetylation
+of this site. Furthermore, we have shown that HDAC6 is overexpressed in
+lung cancer tissue samples and plays an important role in
+chemo-sensitivity in lung cancer. We predict that inhibition of the
+HDAC6-ERK1 pathway may provide clinical benefit for lung cancer patients.
+
+

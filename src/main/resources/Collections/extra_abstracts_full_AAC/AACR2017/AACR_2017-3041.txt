@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Duplex Sequencing detects cancer-associated mutations arising
+during normal aging: Clonal evolution over a century of human lifetime.
+
+
+High-throughput DNA sequencing has fundamentally changed practice
+standards in clinical oncology. We can now systematically examine the
+dysfunctional genes and pathways of individual tumors and can often pair
+these with targeted therapies. Moreover, NGS has improved our ability to
+resolve molecular heterogeneity, such as results from evolving subclones
+within a tumor or admixtures of cancer-derived and normal DNA in liquid
+biopsies. However, this remains imperfect. With standard NGS, sequencing
+errors create a background that obscures variants present at less than
+1-2%. Methods of tag-based error correction improve accuracy, but most
+rely on hemimolecular tagging and are thus still limited by certain types
+of errors caused by DNA damage. Our group pioneered Duplex Sequencing, an
+error correction technology that independently genotypes and compares
+both single-stranded halves of individual DNA duplexes. This approach
+improves sequencing accuracy by >100,000-fold and allows detection of a
+single mutation among ten million unmutated nucleotides. We carried out
+Duplex Sequencing on uterine lavages from women with and without
+high-grade serous ovarian cancer to determine the sensitivity for
+identifying tumor-derived TP53 mutations as a screening test. Under
+blinded conditions we detected tumor-derived mutations in 80% of cancer
+cases. However, in addition, we found that nearly all women, including
+those without cancer, carried very low frequency TP53 mutations that did
+not originate from a tumor. These could not be explained by technical
+errors, as they exhibited a strong signature of positive selection,
+indicated by higher-than-random non-synonymous fraction, substantial
+clustering in cancer-associated hotspots and a spectrum, exonic
+distribution and predicted pathogenicity closely mirroring TP53 mutations
+in cancer databases. Furthermore, abundance of these “biological
+background” mutations increased with age. To more broadly investigate
+the extent of clonal evolution in normal aging, we used Duplex Sequencing
+to examine tissue specimens from two individuals without cancer,
+differing in age by 101 years. We assessed relative mutation load in 22
+cancer-associated genes and one non-cancer associated gene in 19
+different tissues. Initial results indicate that the extent of
+age-associated mutation accumulation varies by organ and the pattern of
+apparent clonal selection is influenced by both tissue type and genetic
+context. Our findings illustrate the near-universal presence of
+cancer-like mutations arising from age-associated processes in multiple
+non-neoplastic tissues. Somatic clonal evolution appears to be a
+ubiquitous part of human life. Beyond many biological implications, this
+highlights an important specificity challenge that must be accounted for
+when using ultra-accurate sequencing technologies for cancer screening
+and other sensitive diagnostics.
+
+

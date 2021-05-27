@@ -1,0 +1,71 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Using pharmacokinetic/efficacy modeling to identify the optimal
+schedule for MLN0264, an anti- guanylyl cyclase C (GCC) antibody-drug
+conjugate, in a range of xenograft models
+
+
+MLN0264 is an investigational antibody-drug conjugate (ADC) that consists
+of the human anti-guanylyl cyclase C (GCC) antibody linked to a
+microtubule-disrupting agent (monomethyl auristatin). As ADCs have a very
+long clearance half-life, the potential exists for a highly infrequent
+dosing schedule. A quantitative understanding of the relationship between
+exposure and preclinical antitumor biological activity is thus applied to
+support dose schedule selection in the clinic.In this study, we develop a
+pharmacokinetic/efficacy (PK/E) relationship in xenograft models to
+evaluate the predictive contributions of exposure and xenograft
+characteristics to MLN0264 biological activity. Single dose
+pharmacokinetic (PK) data were obtained for a range of time points, and a
+linear two-compartment PK model was built. Xenograft biological activity
+studies were conducted in which MLN0264 was administered at various dose
+levels and dosing schedules to mice bearing one of six different
+xenograft models. We used multiple linear regression and tumor dynamic
+modeling to understand the factors contributing to the biological
+activity.First, the growth rate of each tumor under control and treatment
+conditions was established by fitting the biological activity data within
+the dosing period to an exponential growth function. Then, we assessed
+the relationship of AUC to antitumor biological activity. Within each
+xenograft model, AUC was strongly correlated with biological activity
+across a range of schedules (R2>0.9, pMLN0264 is an investigational
+antibody-drug conjugate (ADC) that consists of the human anti-guanylyl
+cyclase C (GCC) antibody linked to a microtubule-disrupting agent
+(monomethyl auristatin). As ADCs have a very long clearance half-life,
+the potential exists for a highly infrequent dosing schedule. A
+quantitative understanding of the relationship between exposure and
+preclinical antitumor biological activity is thus applied to support dose
+schedule selection in the clinic.In this study, we develop a
+pharmacokinetic/efficacy (PK/E) relationship in xenograft models to
+evaluate the predictive contributions of exposure and xenograft
+characteristics to MLN0264 biological activity. Single dose
+pharmacokinetic (PK) data were obtained for a range of time points, and a
+linear two-compartment PK model was built. Xenograft biological activity
+studies were conducted in which MLN0264 was administered at various dose
+levels and dosing schedules to mice bearing one of six different
+xenograft models. We used multiple linear regression and tumor dynamic
+modeling to understand the factors contributing to the biological
+activity.First, the growth rate of each tumor under control and treatment
+conditions was established by fitting the biological activity data within
+the dosing period to an exponential growth function. Then, we assessed
+the relationship of AUC to antitumor biological activity. Within each
+xenograft model, AUC was strongly correlated with biological activity
+across a range of schedules (R2>0.9, p<0.03, for all models).
+AUC-proportional biological activity was confirmed using dynamic modeling
+with direct drug effect to simulate the tumor dynamics for different
+dosing schedules.Although biological activity within a xenograft model
+was strongly correlated with exposure, when the data from different
+xenograft models were pooled together, the correlation was weaker (R2=
+0.30, p= 0.0004). This result suggests that, although schedule is not a
+major determinant of biological activity, other xenograft-specific
+factors may be contributing to biological activity. To test the
+contribution of some possible factors, we used multiple linear regression
+to determine which covariates (such as GCC expression level and baseline
+growth rate of xenograft models) are predictive of biological activity.
+The results suggest baseline growth rate does not correlate with
+biological activity while GCC expression is weakly correlated. This
+finding formed the basis for the development of a mechanistic model of
+GCC expression and biological activity.Taken together, this work
+demonstrates the use of a PK/E framework to identify the scheduling
+effect for a first-in-man protocol for an ADC. We have also demonstrated
+that this PK/E framework can be further leveraged to assess the
+contribution of other potential predictors of ADC biological activity in
+xenograft models.
+

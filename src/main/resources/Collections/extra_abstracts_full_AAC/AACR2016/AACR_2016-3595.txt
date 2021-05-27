@@ -1,0 +1,39 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Improved therapeutics for hepatocellular carcinoma
+
+
+Eighty percent of hepatocellular carcinoma (HCC) within the USA is
+diagnosed late when chemotherapy provides only 2 months increased
+survival. We fortuitously found that treatment with an alkylating agent,
+methylnitrosurea (MNU), prior to tumorigenesis reduced tumor prevalence
+later in life by 50% in C3HeB/FeJ male mice, a model of spontaneous HCC.
+A similar effect was observed with temozolomide (TMZ), a glioblastoma
+therapy that induces the same DNA damage at similar proportions to MNU.
+O6-methylguanine-DNA methyltransferase (MGMT) repairs the highly
+mutagenic and cytotoxic O6-methylguanine lesions induced by TMZ, and MGMT
+abundance influences therapy response in glioblastoma. MGMT is reduced in
+1/3 of human HCC, leading us to hypothesize that TMZ could be effective
+in treating HCC. We proposed to combine TMZ with suberoylanilide
+hydroxamic acid (SAHA), a histone deacetylase inhibitor, to maximize
+efficacy, reasoning that SAHA would allow TMZ greater access to DNA to
+induce greater levels of damage. We tested this drug combination in two
+human HCC cell lines, Huh7, with reduced MGMT expression, and SNU398,
+with higher expression. TMZ and SAHA synergistically reduced cell
+viability in both cell lines with multiple dose combinations. Based on
+this outcome, we tested the drugs in tumor-bearing C3HeB/FeJ mice.
+Surprisingly, DMSO treated solvent control mice showed reduced tumor
+burden. The DMSO treatment was repeated adding a sham control group and
+confirmed that DMSO significantly reduces tumor burden. The TMZ cohort
+also displayed a significantly lower tumor burden compared to the sham
+cohort, but no significant difference was found with SAHA alone or
+SAHA+TMZ. We previously showed that a hMGMT transgene protects from
+hepatocarcinogenesis in C3HeB/FeJ mice, but surprisingly, there is not
+additional protection when transgenic mice are treated with MNU. These
+results suggest that the more prevalent cytotoxic lesions induced by MNU
+and TMZ, e.g. N7-methylguanine, may be more important in HCC than
+O6-methylguanine. These lesions are recognized by methylpurine-DNA
+glycosylase (MPG) and repaired through base excision repair. Therefore,
+we directly tested the role of MPG in TMZ therapy through altered
+expression of MPG in Huh7 and SNU398 cell lines and showed that it does
+affect sensitivity to TMZ.
+

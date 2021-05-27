@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: ETV6 represses Pax5 in early B-cell development
+
+
+The goal of this project is to determine the role of ETV6 in early B cell
+development and define how germline ETV6 mutations result in
+predisposition to leukemia.Methods: B cell fractions- B cell progenitors
+from wild type mice were purified using flow cytometry. Gene Expression-
+RNA was collected and reverse transcriptase quantitative PCR was
+performed to quantitate Pax5, Etv6, Ebf1 and actin transcripts. Chromatin
+Immunoprecipitation- Cells were collected; proteins were cross-linked to
+DNA with formaldehyde, cell lysates were sonicated and
+immunoprecipitation was performed using 5g indicated antibody or
+species-matched IgG as a negative control. DNA was recovered and assayed
+by quantitative PCR.Results: Recent studies have revealed a role for ETV6
+germline mutations (P214L amino acid change) in the predisposition to
+Acute Lymphoblastic Leukemia (ALL). These mutations impair the
+transcriptional activity of ETV6 in a dominant negative fashion. Here, we
+demonstrate that Etv6 expression is inversely correlated to Pax5 and Ebf1
+expression during B cell development (r2 = .9993; P = 0.0167). In a
+murine lymphoid progenitor line (Ba/F3), ETV6, but not ETV6 P214L
+overexpression significantly decreased Pax5 expression (P0.05). In
+addition, Pax5 expression was increased by overexpression of EBF1, a
+known Pax5 transcriptional activator, in cells expressing the ETV6 P214L
+mutant (P0.05). This data suggests that loss of functional ETV6 is
+necessary for EBF1 to induce Pax5 expression. To further interrogate the
+role of ETV6 in regulating Pax5 transcription we measured the association
+of ETV6 with putative ETS factor binding sites (GGAA sequence) within the
+Pax5 transcription start site (TSS) using ChIP-PCR. ETV6 is associated
+with the proximal GGAA site 72 base pairs upstream of the Pax5 TSS, but
+not GGAA sites further from the TSS. In addition, the transcriptional
+repressors SIN3A and HDAC3 were detected on the same regions of the Pax5
+locus. We next determined the consequences of ETV6 mutation on the
+recruitment of ETV6, SIN3A, and HDAC3 to the Pax5 locus by performing
+ChIP-PCR in Ba/F3 cells that express a FLAG-tagged WT ETV6 or ETV6 P214L.
+We detected association of ETV6, SIN3A and HDAC3 with the proximal GGAA
+site upon expression of WT ETV6, but not ETV6 P214L. We conclude that
+ETV6, SIN3A and HDAC3 are responsible for the repression of Pax5
+transcription. Moreover, mutant ETV6 inhibits the ability of normal ETV6
+to bind and recruit SIN3A and HDAC3 to the Pax5 locus. Aberrant
+expression of Pax5 leads to myeloid lineage skewing and an increase in
+biphenotypic and myeloid leukemias. Patients with ETV6 germline mutations
+have a higher percentage of monocytes compared to unaffected family
+members, which we hypothesize, is due to aberrant PAX5 expression (P =
+0.008).Conclusions: ETV6 regulates Pax5 expression through the
+recruitment of SIN3A and HDAC3 to the Pax5 locus. These findings are
+significant because Pax5 misregulation results in a B cell development
+halt, lineage infidelity and leukemogenesis.
+

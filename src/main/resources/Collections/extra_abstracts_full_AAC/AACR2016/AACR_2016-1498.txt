@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Development of an IL13Ralpha2 x CD3 bispecific DART protein for
+redirected T-cell killing of solid tumors
+
+
+Introduction. IL13R2 is a membrane-bound protein expressed on a number of
+malignant tumors, but not at significant levels in most normal tissues.
+Clinically tested therapies to treat cancer by targeting IL13R2 to date
+have included a ligand toxin conjugate (IL13-PE) and IL13R2 directed
+CAR-T cells. Both strategies appear to be well tolerated, although with
+mixed results in tumor eradication. An alternative strategy for targeting
+IL13R2 is an IL13R2 x CD3 Dual-Affinity Re-Targeting (DART) bispecific
+molecule designed to co-engage IL13R2 on tumor cells and cytotoxic T
+cells through CD3, resulting in killing of tumor cells.Methods. Mouse
+monoclonal antibodies (mAbs) were generated using standard immunization
+protocols followed by binding and epitope binning analyses. Cell binding
+was performed by flow cytometry and frozen normal and tumor tissues
+analyses by immunohistochemistry (IHC). In vitro studies were performed
+with cancer cell lines and primary human T cells or peripheral blood
+mononuclear cells (PBMCs). In vivo studies were performed in
+immune-deficient tumor-bearing mice co-implanted with activated human T
+cells or reconstituted with human PBMCs.Results. A panel of mAbs that
+bind human and cynomolgus monkey IL13R2 proteins were selected,
+representing a range of binding characteristics and epitope diversity.
+IHC showed favorable normal vs tumor tissue reactivity, with high levels
+of IL13R2 expression in glioblastoma and melanoma. The mAb panel was
+converted to DART molecules with an anti-CD3 arm, assessed for the
+ability to mediate cytotoxic T lymphocyte (CTL) activity and cytokine
+release and a lead selected for humanization and engineering into an
+IL13R2 x CD3 DART molecule incorporating an Fc domain to prolong
+circulating half-life. The IL13R2 x CD3 DART protein bound human and
+cynomolgus IL13R2 (KD = 0.64 nM and 0.5 nM, respectively) and mediated
+CTL activity against LOX-IMVI (melanoma) and SK-MES-1 (lung
+adenocarcinoma) target cells. Cytokines (IFN-, IL-10, and TNF-) were
+released in the presence of IL13R2-expressing target cells and human
+PBMC, but not with PBMCs alone. Administration of the IL13R2 x CD3 DART
+molecule (50 g/kg IV for 4 consecutive days) prevented tumor growth when
+tumor cells (A375 and LOX-IMVI melanoma, U87 glioblastoma, or DAOY
+medulloblastoma cell lines) were co-mixed with activated human T cells
+and implanted subcutaneously in NOD/SCID/IL2gamma-chain null mice. Tumor
+eradication was also observed in NOD/SCID/IL2gamma-chain/MHCI KO mice
+reconstituted with human PBMCs and bearing established LOX-IMVI melanoma
+tumors following 2 weekly IV doses of 50 g/kg IL13R2 x CD3 DART
+molecule.Conclusions: Robust in vitro and in vivo antitumor activity for
+an IL13R2 x CD3 DART protein was demonstrated. Additional studies are
+underway to further characterize the molecule as a development candidate
+for treatment of IL13R2-positive cancers.
+

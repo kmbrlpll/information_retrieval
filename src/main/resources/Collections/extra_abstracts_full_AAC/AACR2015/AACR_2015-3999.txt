@@ -1,0 +1,29 @@
+Meeting: 2015 AACR Annual Meeting
+Title: MicroRNA expression links obesity and recurrence in renal cell
+carcinoma
+
+
+Obesity is an established risk factor for clear cell renal cell carcinoma
+(ccRCC) development and prognosis; however, the mechanisms underlying
+this link remain unclear. In the present study, we set to assess whether
+microRNAs (miRNAs) can serve as a molecular link between obesity and
+recurrence in ccRCC. Through bioinformatics tools and literature search,
+we identified 126 obesity-related miRNAs. Supplemented with 25 miRNAs
+which were differentially expressed between ccRCC from normal kidney, we
+tested the association of these miRNAs with ccRCC recurrence.
+Significantly decreased levels of hsa-miR-204-5p were found in recurrent
+ccRCC patients with an over 2-fold increased risk of recurrence (HR =
+2.15, p = 0.028, MST = 25.6 vs. 47.2 months). Correlations between miRNA
+expression and the predicted target genes were tested using gene
+profiling data generated from these same patients. We found strong
+inverse correlations between miR-204 expression and several
+obesity-related genes, including IGF2BP2 (r = -0.40, p = 4.14104), a
+member of the insulin growth receptor signaling pathway. This correlation
+was further validated in TCGA data (r = -0.58, p = 1.401022). We also
+found that low level of hsa-miR-139-5p was significantly associated with
+increased recurrence risk (HR = 2.37, p = 0.026, MST = 32.2 vs. 51.3
+months). In conclusion, we found a set of obesity-related miRNAs that are
+dysregulated in ccRCC tissues, and some of these miRNAs, such as
+hsa-miR-204-5p, were associated with the recurrence of RCC, potentially
+through regulating obesity-related gene expression.
+

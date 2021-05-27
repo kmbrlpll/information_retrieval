@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Understanding PARP inhibitor sensitivity: Analyses of the genetic
+interactions between specific PARP inhibitor targets and DNA
+double-strand repair pathways
+
+
+Poly (ADP-ribosyl)ation (PARylation) of histones and DNA repair factors
+is necessary to maintain genomic integrity in mammalian cells. In
+response to DNA damage, PARylation is primarily catalyzed by two Poly
+(ADP-ribose) polymerases (PARPs), PARP1 and PARP2. Ablation of PARP1 in
+the mouse results in embryonic lethality when combined with deficiencies
+for the DNA repair factors that mediate homologous recombination (HR;
+such as ATM or H2AX) or Nonhomologous End-joining (NHEJ; such as Ku80).
+In contrast, the interaction between PARP2 and DNA double-strand break
+(DSB) repair pathways has not been investigated in detail. In this
+context, all PARP inhibitors (PARPi) in clinical use block the catalytic
+domain of both PARP1 and PARP2. Since the two factors clearly play
+unique, non-overlapping roles in DNA repair and other cellular processes,
+we sought to further define their specific contribution to the
+therapeutic effect of PARPi. We find that combined loss of either PARP1
+or PARP2 and histone H2AX results in embryonic lethality in the mouse,
+similar to previous observations with mice deficient for PARP1 or PARP2
+and the ATM kinase. Because H2AX and ATM promote double-strand break
+(DSB) repair throughout the cell cycle, we next investigated whether this
+synthetic lethal interaction reflected on their functions in NHEJ and/or
+HR. Treatment of H2AX or ATM-deficient fibroblasts or lymphocytes with
+PARPi resulted in a marked increase in the frequency of chromatid-type
+aberrations relative to wild-type controls, suggesting that PARPi
+hypersensitivity in H2AX or ATM-deficient cells results primarily from
+defective HR. To further assess an interaction between PARP2 and NHEJ, we
+generated mice lacking PARP2 and either Ku80, a core NHEJ factor, or
+DNA-PKcs, a kinase required for a subset of NHEJ reactions. We find that,
+unlike the early embryonic lethality previously observed in
+PARP1/Ku80-deficient mice, loss of PARP2 does not result in additional
+phenotypes in growth and development in Ku80-deficient mice. Likewise,
+loss of PARP2 has no major effect on growth, development or lymphoma
+latency in DNA-PKcs-deficient mice, in marked contrast to the severe
+segmental progeroid syndrome and early-onset tumorigenesis observed in
+PARP1/DNA-PKcs-deficient mice. Furthermore, PARP1/DNA-PKcs-deficient
+lymphomas, but not PARP2/DNA-PKcs-deficient lymphomas, harbor marked
+aneuploidy and oncogenic p53 mutations. Altogether, these genetic
+analyses suggest that inhibition of both PARP1 and PARP2 contributes to
+PARPi-induced killing of HR-deficient human tumor cells. This hypothesis
+is currently being tested in our lab using 11q23-deleted neuroblastoma
+cells with monoallelic expression of H2AX and breast cancer cells lacking
+BRCA1 or BRCA2, and may provide a rationale for the design of
+PARP-specific inhibitors in the future.
+

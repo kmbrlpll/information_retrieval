@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Selective tumor targeting with 5-substituted
+pyrrolo[2,3-d]pyrimidines with heteroatom bridge substitution.
+
+
+Three specialized systems exist for membrane transport of folates and
+antifolates across biological membranes. The reduced folate carrier (RFC)
+is ubiquitously expressed in tumors and normal tissues. Folate receptors
+(FR) α and β, and the proton-coupled folate receptor (PCFT) exhibit
+narrow patterns of tissue expression and serve specialized physiologic
+roles. FRs are expressed in a number of cancer cells (e.g., FRα in
+ovarian cancer and non-small cell lung cancer; FRβ in acute myelogenous
+leukemia), whereas PCFT is expressed in a large number of human solid
+tumors but not leukemias. FRs are either inaccessible to the circulation
+(FRα) or are nonfunctional (FRβ) in normal tissues. PCFT transport is
+limited in most normal tissues, given the requirement of acidic pH for
+optimal activity. These properties facilitate tumor targeting of
+cytotoxic compounds with specificities for PCFT or/and FR transport.
+Clinically used antifolates such as methotrexate and pemetrexed are
+substrates for RFC and their uptake by both normal tissues and tumors
+confers dose-limiting toxicity due to limited tumor selectivity. We
+previously reported a 5-substituted pyrrolo[2,3-d]pyrimidine antifolate
+with a 4-carbon bridge and a phenyl glutamate side chain (AGF127).
+Previous studies of related 6-substituted pyrrolo[2,3-d]pyrimidines
+established that the nature and length of the bridge region plays an
+important role in determining tumor cell potency and transport
+selectivity. Thus, it was of interest to vary the length and insert
+heteroatoms into the side chain -(CH2)4- of AGF127, including -(CH2)n-S-
+(compound 1, n= 3 and compound 2, n = 4) and -(CH2)n-O- (compound 3, n= 3
+and compound 4, n = 4), to determine the impact on drug potency and
+transport selectivity. The novel analogs were tested as growth inhibitors
+against engineered Chinese hamster ovary (CHO) cells expressing human
+FRα (RT16), RFC (PC43-10), and PCFT (R2/PCFT4). AGF127 showed potent
+inhibition of CHO cells expressing FRα (IC50 = 8.6 nM), and reduced
+activity toward CHO cells expressing RFC (57 nM) or PCFT (840 nM).
+Compounds 1, 2, and 3, showed reduced inhibitions toward FRα-expressing
+RT16 cells (4-35-fold) compared to AGF127; however, compound 4 was
+equipotent to AGF127. Like AGF127, none of the series were effective PCFT
+substrates. Compound 3, like AGF127, inhibited RFC-expressing PC43-10
+cells (IC50 = 37 nM); RFC activity was reduced 6- to >20-fold for
+compounds 1, 2, and 4. Toward FRα-, RFC-, and PCFT-expressing KB human
+tumor cells, the order of potency was 4 = AGF127 > 2 = 3 = 1. Compound 4
+was also more active (15-fold) than pemetrexed with KB cells.
+Collectively, the potent and selective activity of compound 4 toward
+FRα-expressing tumor cells and limited activity toward RFC-expressing
+cells offers significant advantages over AGF127 and clinically used
+non-targeted antifolates, suggesting that further preclinical evaluation
+is warranted.
+
+

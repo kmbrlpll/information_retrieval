@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Information-driven approaches to predicting familial risk for
+prostate cancer
+
+
+Given the known genetic heterogeneity of prostate cancer, risk assessment
+for this disease is a field that is likely to be positively impacted by
+improved interpretation of genetic variants identified through exome
+sequencing. At present, there is insufficient evidence to base decisions
+regarding screening, diagnosis and management of prostate cancer on
+genetic tests. While a few genes (such as BRCA2 and HOXB13) are
+definitively linked to prostate cancer risk, they are not found in
+sizeable patient populations. However, a growing number of candidates for
+prostate cancer risk have been proposed. As information resources
+including the TCGA and other consortium databases expand, clinicians and
+patients will face issues with how to interpret genetic data variant
+regarding cancer risk. The goal of the present work is to develop a
+paradigm that addresses the plausible scenario of a clinician seeking to
+provide prostate cancer genetic risk assessment for patients with
+personal and/or a family history of one or more types of cancer, but for
+whom access to relative specimens for sequencing analysis is highly
+limited. In particular, we focus on the development of an operational
+framework through which to select and evaluate germ-line variants which
+may contribute to familial cancer risk.Our study evaluates the current
+potential of integrated informatics resources to help identify clinically
+informative variants following exome sequencing of germ-line DNA from 12
+prostate cancer patients with elevated risk of prostate or other cancers
+based on family history. We explored variants in genes meeting specific
+criteria: 1) genes thought to be relevant to hereditary prostate cancer,
+or experimentally validated as regulating the growth of prostate tumors
+in cell or animal models; 2) genes affected by somatic changes in cancer;
+3) genes involved in DNA damage repair (DDR) including recently described
+androgen-regulated DDR genes; and 4) genes involved in disorders of
+glycosylation. We first filtered exome data based on the observed
+frequency of gene variants in the general population. We then utilized
+five independent in silico predictors and expert analysis of protein
+structure and interactions to identify function-disrupting rare variants.
+We described an average of 4 potentially disruptive variants in each
+individual and annotated them in the context of the human variation data
+accumulated over the last few years and represented in various public
+databases. Novel variants were found in PALB2, RAD54L2, HSD3B1, NRIP1,
+SCN11A, CYPBP1, SULT1E1 and UBE2D3. Molecular modeling of a p.(S221N)
+mutation in the steroid binding site of the aldo-keto reductase AKR1C1
+showed it would be predicted to disrupt the active site, influencing
+androgen metabolism. Our study highlights the need and potential for
+well-curated databases of variants with clinical relevance that will
+ultimately facilitate germ-line exome testing in the clinical setting.
+

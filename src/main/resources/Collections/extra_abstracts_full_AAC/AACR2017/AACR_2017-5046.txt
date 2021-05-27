@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Exposure-efficacy (OS) analysis of tremelimumab in unresectable
+malignant mesothelioma.
+
+
+Purpose: Tremelimumab is a fully human anti-CTLA-4 IgG2 monoclonal
+antibody that enhances human T-cell activation. Tremelimumab was
+evaluated in a Phase IIb (DETERMINE), randomised, double-blind,
+placebo-controlled study in patients with unresectable pleural or
+peritoneal malignant mesothelioma, randomised (2:1) to receive either
+tremelimumab (10 mg/kg, seven doses Q4W followed by Q12W) or placebo. The
+study demonstrated no clinically meaningful differences in overall
+survival (OS). The primary objectives of this analysis were to evaluate
+the relationship of exposure with OS, and the impact of potential
+confounders.
+
+Methods: A population PK model was developed to estimate and derive PK
+exposure metrics (area under the curve at steady state [AUCss] or
+clearance [CL]) for exposure-OS analysis. Impact of potential confounders
+was evaluated using graphical and exploratory approaches. Factors
+including body weight, age, gender, race, ECOG status, anatomical site
+(pleural or peritoneal), line of therapy, EORTC status, tumour histology,
+baseline tumour size, LDH, and CRP were evaluated. The analyses were
+performed using NONMEM 7.2 and R software.
+
+Results: The population PK included 376 patients and 1328 post-first dose
+PK concentrations. PK was consistent with previous knowledge and low
+incidence of anti-drug antibodies was observed. A 2-compartment linear PK
+model adequately described the data. Tremelimumab CL and volume of
+distribution (V1) were 310 mL/day and 3.85 L, with moderate variability
+of ~38% and ~32%, respectively. There was an apparent exposure-OS
+relation when stratified by AUCss. However, at least 3 factors (gender,
+CRP, and baseline tumour size) were statistically significant PK
+predictors (pResults: The population PK included 376 patients and 1328
+post-first dose PK concentrations. PK was consistent with previous
+knowledge and low incidence of anti-drug antibodies was observed. A
+2-compartment linear PK model adequately described the data. Tremelimumab
+CL and volume of distribution (V1) were 310 mL/day and 3.85 L, with
+moderate variability of ~38% and ~32%, respectively. There was an
+apparent exposure-OS relation when stratified by AUCss. However, at least
+3 factors (gender, CRP, and baseline tumour size) were statistically
+significant PK predictors (p<0.05 on CL) indicating multi-dimensional
+confounding effect. Higher baseline tumor size, higher CRP levels and
+males were associated with lower PK exposure of tremelimumab.
+
+Conclusions: The observed apparent exposure-OS relationship is the result
+of imbalance in prognostic factors impacting OS rather than a true
+association of exposure with efficacy.
+
+

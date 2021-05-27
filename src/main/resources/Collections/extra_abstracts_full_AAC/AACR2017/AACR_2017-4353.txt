@@ -1,0 +1,69 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Polyphenol-mediated epigenetic reactivation of tumor suppressor
+gene SEMA3A in breast cancer cells.
+
+
+Alterations in DNA methylation occur in cancer, and may underlie
+silencing of genes with tumor suppressor functions. Reversing DNA
+methylation, thus potentially reactivating genes that combat cancer,
+constitutes a promising anti-cancer strategy. Interestingly, studies have
+indicated that certain dietary polyphenols, such as resveratrol present
+in grapes, exert anti-cancer effects through epigenetic regulation of
+gene expression. However, studies have been limited to candidate genes,
+and comprehensive and mechanistic insights are missing. In the present
+study, following genome-wide DNA methylation analysis with Illumina 450K
+BeadChip array, we identified CpG sites within regulatory regions of
+tumor suppressor genes that are hypomethylated upon treatment of breast
+cancer cells with resveratrol. Non-invasive MCF10CA1h and invasive
+MCF10CA1a human breast cancer cell lines were used as an experimental
+model. Pyrosequencing and QPCR were performed to assess respectively
+methylation and expression of selected genes. Chromatin
+immunoprecipitation (ChIP) was applied to assess binding events. We
+identified 990 hypomethylated CpG sites in MCF10CA1h and 1,146
+hypomethylated CpG sites in MCF10CA1a cells upon 9-day treatment with
+15µM resveratrol as compared with control untreated cells (differential
+methylation ≤-0.05, nominal pAlterations in DNA methylation occur in
+cancer, and may underlie silencing of genes with tumor suppressor
+functions. Reversing DNA methylation, thus potentially reactivating genes
+that combat cancer, constitutes a promising anti-cancer strategy.
+Interestingly, studies have indicated that certain dietary polyphenols,
+such as resveratrol present in grapes, exert anti-cancer effects through
+epigenetic regulation of gene expression. However, studies have been
+limited to candidate genes, and comprehensive and mechanistic insights
+are missing. In the present study, following genome-wide DNA methylation
+analysis with Illumina 450K BeadChip array, we identified CpG sites
+within regulatory regions of tumor suppressor genes that are
+hypomethylated upon treatment of breast cancer cells with resveratrol.
+Non-invasive MCF10CA1h and invasive MCF10CA1a human breast cancer cell
+lines were used as an experimental model. Pyrosequencing and QPCR were
+performed to assess respectively methylation and expression of selected
+genes. Chromatin immunoprecipitation (ChIP) was applied to assess binding
+events. We identified 990 hypomethylated CpG sites in MCF10CA1h and 1,146
+hypomethylated CpG sites in MCF10CA1a cells upon 9-day treatment with
+15µM resveratrol as compared with control untreated cells (differential
+methylation ≤-0.05, nominal p<0.05, limma t-test). Those CpG sites
+corresponded to approximately 650 genes that were predominantly
+associated with tumor suppressor function in cancer. We selected tumor
+suppressor gene SEMA3A as resveratrol target for further investigation.
+As array data indicated, resveratrol led to reduction in methylation of
+SEMA3A promoter region. The 18% decrease in methylation of SEMA3A was
+confirmed by pyrosequencing in MCF10CA1a breast cancer cells. This
+coincided with 23% up-regulation of SEMA3A expression. In addition,
+analysis of the effects on DNA methyltransferases (DNMTs) demonstrated
+that resveratrol decreases expression of DNMT3A. Furthermore, ChIP
+indicated decreased occupancy of DNMT3A at the SEMA3A promoter,
+suggesting that down-regulation and lower affinity of this de novo DNA
+methylating enzyme to DNA may mediate decrease in methylation within
+tumor suppressor genes upon resveratrol exposure. In support of
+reactivation of SEMA3A, active histone mark, H3K9ac, was significantly
+increased and repressive histone mark, H3K27me3, was significantly
+decreased after resveratrol treatment, indicating an open, more
+transcriptionally active chromatin state. These results demonstrate a
+role for polyphenol-mediated epigenetic modifications in reactivation of
+tumor suppressor genes in breast cancer and pave the way for further
+studies on the mechanism driving these changes. This study was supported
+by the PCCR, Indiana CTSI (UL1TR001108), Women’s Global Health
+Institute, and USDA National Institute of Food and Agriculture (Hatch
+project 1005656) granted to BS.
+
+

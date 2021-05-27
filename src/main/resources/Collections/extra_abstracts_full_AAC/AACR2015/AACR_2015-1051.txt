@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: An assay to detect hypomethylation in circulating cell free DNA
+and monitor cancer burden
+
+
+Circulating, cell free DNA (cfDNA) is a non-invasive sample source that
+contains tumor associated DNA. Next generation sequencing (NGS) of cfDNA
+has shown that tumor specific mutations can be detected, providing an
+effective means to monitor disease, treatment efficacy, and characterize
+the genome wide methylation state of cfDNA. While hypermethylation is
+observed for specific gene promoters, on a genome wide perspective,
+hypomethylation of cfDNA is observed in cancer, making cfDNA an
+attractive target to assess cancer burden. The challenges in deep
+sequencing of cfDNA include: mandatory fast turnaround times due to
+sample degradation, limited sample material, short DNA fragments, and
+limit of detection issues caused by the presence of both normal and tumor
+DNA. This study describes a novel library preparation for the Illumina
+platforms that is cost-effective, sensitive, and specific to assess the
+methylation status of cfDNA.To characterize the methylation status of
+cfDNA, NGS libraries were generated utilizing a chemistry that
+sequentially ligates the adapters to each end of the DNA molecules. Since
+the library is generated after bisulfite treatment, a high recovery of
+DNA library molecules is observed, thus enabling high complexity library
+preparation from 5 ng of cfDNA. Upon establishment of this technique, we
+obtained cfDNA from healthy subjects as well as from subjects with a
+spectrum of cancers. Following bisulfite-conversion and library
+preparation of these samples, we sequenced each sample on the Illumina
+MiSeq to a depth of 10 million reads. A minimum threshold of 1.1% was
+used to determine significant hypomethylation.Upon analysis, preliminary
+analysis of the hypomethylation status of the cfDNA from 4 of the 5
+cancer subjects ranged from 3% to 9% when compared to the healthy
+controls. The cfDNA sample which was negative for hypomethylation
+originated from the plasma of a subject with a high grade serous
+adenocarconima in the fallopian tube. The most hypomethylated cfDNA came
+from the plasma of subject with metastatic adenocarcinoma of the colon
+which had metastasized to the liver. Other tumor types which resulted in
+cfDNA hypomethylation between these two extremes included invasive breast
+carcinoma as well as pancreatic ductal carcinoma.This method provides the
+basis for a technique to reliably prepare and characterize cfDNA via NGS
+deep sequencing. We obtained results 5 days after resection and reliably
+made high complexity library using only 5 ng of cfDNA. We have
+demonstrated reproducibility and sensitivity for genome wide methylation
+status, while also observing that the utility of this assay may vary with
+cancer type. To further define biologically significant thresholds for
+methylation status, we will present a longitudinal study examining the
+cfDNA methylation status of individuals before, during, and after
+treatment, thereby generating a methylation gradient as a function of
+time and treatment.
+

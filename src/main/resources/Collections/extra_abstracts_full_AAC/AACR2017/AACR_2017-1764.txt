@@ -1,0 +1,58 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Accurate and reproducible detection of fusions and exon skipping
+events in NSCLC-derived samples using a comprehensive, targeted RNA-Seq
+system across multiple laboratories.
+
+
+Introduction: Reliable assessment of cancer-associated RNA markers in
+lung cancer produced by gene-fusions or exon skipping events by
+next-generation sequencing requires integrated reagents, protocols, and
+interpretive software that can harmonize procedures and ensure consistent
+results across laboratories. We evaluated a comprehensive system for
+targeted RNA-Seq that includes reagents for nucleic acid quantification,
+library prep, run controls, and companion bioinformatics software. The
+reproducibility of this system was evaluated in a multi-phase study
+design at 5 independent laboratories.
+
+Methods: Total nucleic acid (TNA) was isolated from formalin-fixed,
+paraffin-embedded (FFPE) residual non-small cell lung cancer (NSCLC)
+tumor biopsies and cell-lines (RT-112, H596, HCC78). These TNA isolates
+were used to prepare a set of 30 test samples, including a dilution
+series to assess assay sensitivity. A non-template control and kit
+positive control were also included. The sample set was evaluated using
+the QuantideX® NGS RNA Lung Cancer Kit RUO (Asuragen) and sequenced on
+the MiSeq® system (Illumina) at Asuragen and 4 independent laboratories.
+Analyses were conducted using QuantideX® NGS Reporter RUO (Asuragen), a
+software suite that includes a FASTQ processing pipeline and incorporates
+pre-analytical QC information into the fusion-caller algorithm and
+reporting tool.
+
+Results: Laboratories were trained on the assay workflow and companion
+bioinformatics software in less than two days followed by independent
+library preparation and sequencing workflows. A total of 266 sample
+libraries were evaluated from inputs down to Results: Laboratories were
+trained on the assay workflow and companion bioinformatics software in
+less than two days followed by independent library preparation and
+sequencing workflows. A total of 266 sample libraries were evaluated from
+inputs down to <10 ng. A single library was excluded from sequencing due
+to a failed QC status. Specific targeted fusions (ALK, ROS1, FGFR3) and
+splice variants (MET exon 14 skipping) were detected in 132 libraries and
+were concordant at all sites. Designs to detect 3’/5’ expression
+imbalances reported the presence of gene fusions for ALK and ROS1 in a
+total of 96 libraries with one aberrant call and one missed call, which
+occurred in libraries flagged as “at risk” by the interpretive
+software.
+
+Conclusions: The accuracy of this novel targeted NGS assay for RNA
+fusions and splice variants in NSCLC was demonstrated in a multi-site
+laboratory evaluation using clinically-relevant specimens and low inputs
+of TNA. The ability of the panel to detect both common and rare gene
+fusion transcripts and exon skipping events within an integrated wet- and
+dry-bench workflow provides a foundation for the reliable detection of
+oncogenic RNA fusions and aberrant splicing events that can respond to
+current and emerging targeted therapies. This study highlighted the ease
+of implementation and consistent performance that can be achieved in
+different laboratories when the process from sample-to-report is highly
+integrated.
+
+

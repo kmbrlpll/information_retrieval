@@ -1,0 +1,68 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Integrating diverse transcriptomic alterations to identify
+cancer-relevant genes.
+
+
+Introduction:
+
+We present a novel method to identify cancer driver genes that jointly
+examines any number of diverse transcriptomic alterations with the goal
+to uncover highly recurrent and heterogeneous patterns in 1190 samples
+across 26 cancer types as part of the PanCancer Analysis of Whole Genomes
+(PCAWG) of the International Cancer Genome Consortium (ICGC).
+
+Motivation:
+
+Previous pan-cancer genomic studies have focused on the analysis of
+somatic mutations as the driver of phenotypic changes. Here, we propose a
+method to integrate a wide variety of RNA and DNA changes to redefine the
+concept of driver events and account for the transcriptome’s role in
+tumorigenesis. PTK2 provides a motivating example, since it has many RNA
+alterations that correlate with patient survival, such as overexpression,
+exon-skips, and alternative promoter usage.
+
+In our analysis, we integrate an unprecedented amount of various
+alterations including gene fusions, RNA editing, alternative splicing,
+expression outliers, alternative promoters, allele specific expression,
+and somatic mutations. This enables us to also identify mutually
+exclusive (MutE) and co-occurring (CoO) patterns between different types
+of alterations within a gene.
+
+Methods:
+
+Our method has 3 main strengths: flexibility to handle any number or type
+of alteration, sensitivity to different frequencies of alterations so
+rare events are not lost in the recurrence analysis, and diversity of
+ranking such that genes with multiple alterations are prioritized. Our
+method is summarized in two steps:
+
+1) Identify genes that are both recurrently and heterogeneously altered
+across many samples by calculating a rank-based score for each gene.
+
+2) Identify MutE and CoO patterns between alteration types for the genes
+identified in the previous step.
+
+To ensure that alterations were comparable, we applied a thresholding
+model to binarize all alterations for gene-sample pairs, allowing us to
+account for the properties of the different modalities involved.
+
+Step 1 of our method calculates a score for each gene that takes into
+account: 1) the number of alterations to a gene across all samples, 2)
+the rarity of each alteration, and 3) how many types of alterations are
+observed per gene. The score is then used to rank the genes and top genes
+are considered for MutE and CoO analyses.
+
+Results:
+
+Our top 100 ranked genes were highly enriched for cancer census genes
+(adjusted p-value: 2.06e-9), indicating that we identify cancer relevant
+genes. Our top five ranked cancer census genes were IGF2, ERBB2, RARA,
+CREBBP, and ARID1A; all of which had at least 4 of 7 possible
+alterations, showing our scoring method prioritizes genes with diverse
+alterations. We also found that alternative promoter usage and
+alternative splicing were highly co-occurring alterations, with PTK2
+having the highest co-occurrence between them. In summary, we propose a
+new method to analyze various RNA disruptions and show it can yield new
+insights beyond genomic variation.
+
+

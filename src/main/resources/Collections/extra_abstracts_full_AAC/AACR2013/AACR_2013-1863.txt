@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Differing sensitivity to stage-specific autophagy inhibition.
+
+
+Background: Autophagy is an intracellular process that involves the
+sequestration of cytosolic proteins and organelles into double-membraned
+vesicles called autophagosomes and their subsequent degradation in the
+lysosome. This process is induced during cellular stress and is crucial
+for maintaining proper homeostasis. Recently, autophagy has been
+identified as a potential mechanism of chemoresistance. Thus, autophagy
+inhibition has become an attractive anti-cancer therapy. However,
+autophagy is a multi-step process and it is still unclear if blocking
+autophagy at one particular stage is more advantageous than another.
+Therefore, we inhibited autophagy at various points in the pathway using
+genetic and pharmacologic means in multiple cancer models.Material and
+Methods: Murine cell lines used were 4T1, mammary carcinoma, B16-F10,
+melanoma, DLM8, osteosarcoma, and A20, lymphoma. Autophagy was inhibited
+by multiple methods. The first method was pharmacologic inhibition using
+10uM chloroquine (CQ) or 1nM bafilomycin A1 (Baf A1), doses sufficient to
+inhibit autophagy. The second method was genetic knockdown by decreasing
+expression of critical autophagy proteins Beclin-1 (Bcn-1) or Atg7 by
+shRNA lentiviral delivery. Cells were assessed for protein knockdown by
+western blot and qPCR analysis. Proliferation of cells in the presence or
+absence of active autophagy was assessed using an Alamar Blue assay. For
+cell cycle analysis, cells were grown for 48h, stained with propidium
+iodine and analyzed by flow cytometry.Results and Conclusions: A
+significant decrease in expression of Bcn-1 and Atg7 was observed after
+lentiviral transduction. Autophagy was also successfully inhibited as
+indicated by a failure to induce elevations in autophagy marker LC3 after
+serum starvation, a positive autophagy control. CQ and Baf A1, which
+inhibit late stage autophagy, had little effect on the 4T1 cells, but CQ
+did inhibit the other three lines. Bcn-1 knockdown, preventing nucleation
+of the autophagosome, was able to inhibit proliferation in all lines at a
+level that was even more pronounced than CQ inhibition. In addition, the
+percentage of cells in G1 significantly increased in the Bcn-1 knockdown
+cells. Continued study with the Atg7 cells and Baf A1 will reveal if the
+effects of CQ and Bcn-1 knockdown are merely off target effects or truly
+autophagy inhibition. The inclusion of Vps 34 inhibitors and late stage
+mediator knockdown lines will also be useful in determining if the early,
+nucleation stage of autophagy is the critical step(s) to target. Lastly,
+it will be important to determine if these effects differ when cells
+experience stress, such as the presence of chemotherapy. These studies
+suggest that the sensitivity toward autophagy inhibition may depend on
+the stage of the pathway that is targeted and cancer
+type.Acknowledgements:Role of Autophagy in Tumor Cell DeathNational
+Cancer Institute 1R01CA150925
+

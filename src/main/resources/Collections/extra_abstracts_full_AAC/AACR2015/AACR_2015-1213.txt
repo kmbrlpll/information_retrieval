@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Endogenous p53 affinity tagging with CRISPR
+
+
+Several antimetabolites used for cancer treatment, including hydroxyurea
+(HU) and pemetrexed (PTX), stabilize tumor suppressor protein p53, but
+fail to induce the transcription of p53 downstream target genes. To
+understand the underlying mechanism for the deficiency of stabilized p53,
+we are quantitatively characterizing p53 posttranslational modification
+and its interaction partners with mass spectrometry (MS). To facilitate
+the purification of endogenous p53, we established an HCT116 human colon
+carcinoma cell line, in which one allele of endogenous p53 was tagged
+with a classic Tandem Affinity Tag (TAP) at the C-terminus, using
+adenovirus associated virus (AAV) mediated homologous recombination (HR).
+The purification of p53 from this cell exhibited severe losses at each
+step, compromising analysis by MS. Because of this limited yield from TAP
+purification, we performed a systematic tagging of p53 with 3xFLAG,
+Strep-II, and HALO tags, and their combinations, at both N- and
+C-termini. The latest CRISPR (clustered regularly interspaced short
+palindromic repeats)/cas9 nuclease system provides major advantages for
+endogenous gene modification through HR. Efficient site-specific protein
+tagging (or mutation) requires a DNA break point in the immediate
+vicinity, limiting the choice of guide DNA (gDNA) positions possible. By
+extending the complementary sequence between CRISPR targeting RNA (crRNA)
+and trans-activating crRNA (tracrRNA) in the chimeric single guide RNA
+(sgRNA), we expanded the essential Protospacer Adjacent Motif (PAM)
+sequence of the S. pyogenes CRISPR II system from NGG to NAG with equal
+targeting efficiency. Cas9 nickase (both D10A, and H840A-N854A-N863A)
+generated more favorable HR rates compared to non-homologous end joining
+(NHEJ), while mitigating off-target effects, in comparison to wild type
+cas9. Utilizing our conditions, we achieved 2-8% (for different tags)
+endogenous p53 tagging in the background of 10-60% NHEJ from wild type
+cas9 and single sgRNA. With cas9 nickase and two sgRNA, we consistently
+achieved 0.2-2% specific p53 tagging in the background of 0.01-8% NHEJ,
+with higher efficiency for 5 than 3 single strand overhangs generated. We
+are currently generating single cell clones, selecting those tags most
+faithful to natural p53 expression levels, and testing p53 purification
+efficiencies with different tags. In conclusion, we optimized the CRISPR
+system, extensively characterized the individual steps in generating
+single cell clones for endogenous gene tagging, and will apply the
+optimal tag to purify p53 and its co-eluted binding partners for
+quantitative MS analysis.
+

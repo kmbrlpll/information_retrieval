@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Functional characterization of novel transcription-regulating
+cancer drug targets, CDK8 and CDK19, using CRISPR/Cas9 knockout and a
+highly selective CDK8/19 kinase inhibitor.
+
+
+The Mediator complex-associated cyclin-dependent kinase CDK8 is an
+oncogenic transcription-regulating serine/threonine kinase that mediates
+multiple cancer-associated transcriptional pathways. Despite recent
+high-profile attention to CDK8 as a novel cancer drug target, very little
+is known about the function of CDK8’s closely related paralog CDK19.
+Using CRISPR/Cas9n system we generated CDK8/CDK19 single-knockout
+(CDK8-KO and CDK19-KO) and double-knockout (CDK8/19-dKO) derivatives of
+HEK293 cells. RNA-Seq was used to characterize the effects of a highly
+selective small-molecule CDK8/19 kinase inhibitor Senexin B on gene
+expression in the parental, single-knockout and double-knockout cell
+lines. This analysis was conducted in the absence or in the presence of
+TNF-alpha, an inducer of transcription factor NF-kappa-B that we have
+previously shown to be potentiated by CDK8. The following results were
+obtained. (1) CDK8 and CDK19 have complementary functions in
+stabilization of their partner Cyclin C (independent of their kinase
+activity) and phosphorylation of transcription factor STAT1 at S727
+(dependent on the kinase activity). (2) Senexin B treatment affected gene
+expression in wild-type 293 cells but had almost no effect in CDK8/19-dKO
+cells, indicating a very high degree of target selectivity. (3) In
+contrast to the results with CDK8/19-dKO, most of the genes affected by
+Senexin B in the wild-type cells were also affected in CDK8-KO and
+CDK19-KO cells, indicating complementary functions of CDK8 and CDK19. (4)
+Re-expression of either CDK8 or CDK19, but not of a CDK8 kinase-dead
+(D173A) mutant, in CDK8/19-dKO cells restored CDK8/19 kinase-dependent
+gene expression as well as the regulatory effects of Senexin B. (5) Many
+more genes were inhibited rather than induced by Senexin B, indicating
+that CDK8/19 act primarily as positive regulators of transcription. (6)
+The total number of genes affected by Senexin B was greatly increased in
+cells treated with TNF-alpha, suggesting that cooperation with other
+transcription factors (such as NF-kappa-B) is the primary role of
+CDK8/19. Our results indicate that complete suppression of
+cancer-relevant activities of CDK8 requires simultaneous inhibition of
+both CDK8 and CDK19.
+
+

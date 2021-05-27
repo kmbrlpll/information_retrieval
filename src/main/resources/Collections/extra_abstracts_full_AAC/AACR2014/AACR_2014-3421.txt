@@ -1,0 +1,36 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Serial whole exome sequencing showed the genetic aggravation of
+refractory osteosarcoma
+
+
+Osteosarcoma is the most common malignant bone tumor in children and
+adolescents with frequent lung metastasis. As the survival has not been
+improved with chemotherapy for the last two decades, novel therapeutic
+approaches are required to efficiently treat osteosarcoma. Genomic
+analyses have revealed biologically useful information and genetically
+altered therapeutic targets. The subject of this study was a 25 year old
+patient with conventional high-grade osteosarcoma with multiple
+metastasis of lung, lymph nodes and chest wall, who had failed from
+several palliative systemic chemotherapies and radiotherapy. We performed
+whole exome sequencing of the gDNA from peripheral blood mononucleated
+cells (PBMC) and formalin fixed paraffin embedded (FFPE) tissues of
+primary tumor, secondary (recurrence 1) and tertiary (recurrence 2)
+metastatic tumors. Samples were sequenced using one lane of paired-end,
+100 bp reads on Illumina Hiseq for each sample. Here, we present an
+analysis result using VarScan and custom-made programs for the detection
+of somatic mutations and loss of heterozygosity (LOHs) in exome data from
+changes of genetic variations throughout the disease progression compared
+to blood germ-line sequencing data. As a result, we observed the 36
+common somatic mutated genes, including p73 and TSHR, in three tumor
+types. And we indentified the somatic mutations affecting the functions
+of known cancer genes, RBM15, SYNE1, GNAQ and XPA, which were only
+present in the secondary and/or tertiary metastatic tumors but not in the
+primary tumor. Especially, GNAQ mutations which is found in the
+metastatic tumors, is known to be mutated in 50% of melanoma and driven
+constitutive activity of the MAPK pathway. Therefore, GNAQ mutation in
+recurrent osteosarcoma patient might be a potential marker for new
+therapeutic strategies of inhibiting MAPK pathway. In conclusion, the
+ability to track clonal evolution in cancers may provide new strategies
+and opportunities for drug development, especially in refractory and rare
+diseases.
+

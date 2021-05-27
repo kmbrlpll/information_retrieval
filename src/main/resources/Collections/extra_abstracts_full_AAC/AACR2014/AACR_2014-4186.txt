@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: An integrative genomic pipeline to target the NCOR1 cistrome with
+precision
+
+
+NCOR1 is a co-regulator of multiple transcription factors (TFs) and is
+mutated in major cancers. We mined publically available data-sets to
+reveal the diversity, function and druggability of the NCOR1
+cistrome.From ENCODE, in K562 chronic myelogenous leukemia cells, NCOR1
+ChIP-Seq data were integrated with H3K9me3 (a functional consequence),
+CpG methylation levels and open and closed chromatin states in a matrix
+of 45 interactions that were combined with RNA-Seq data. Boot-strapping
+approaches then revealed significantly affected gene networks.
+Surprisingly, only the combination of NCOR1, H3K9me3 and an intermediate
+level of CpG methylation, in open chromatin, significantly associated
+with a network of 212 repressed genes (lo_gene). By contrast, 15
+different NCOR1 combinatorial binding patterns associated with
+significantly elevated gene expression. For example, NCOR1 and low CpG
+methylation associated with a network of 908 significantly elevated genes
+(hi_gene). A simple linear regression model was built on the correlation
+of NCOR1 and 11 different histone modifications with RNA-seq values,
+across 81 bins spanning gene loci, to reveal the optimal bin predictor of
+gene expression. NCOR1 binding at the TSS significantly and positively
+correlated with gene expression, and mirrored the patterns of the
+activating histone mark H3K4me3.Transcription factor and GO enrichment in
+the lo_gene and hi_gene networks revealed these significant associations
+with different TFs and GO terms. In the lo_genes network the most
+significantly associated TF was regulatory factor X (RFX1), (FDR=1e-4),
+whereas in the hi_gene network it was Nuclear factor (erythroid-derived
+2)-like 2 (NFE2L2), (FDR=2.7e-23). GO analyses revealed these cohorts
+were most associated with skeletal development (FDR, 2e-3) and
+transcription regulation (FDR 1.8e-2) terms respectively, underscoring
+their diverse functions.Mining the NCI60 database, combined with
+bootstrap approaches, identified that the NCOR1 hi_gene (upregulated)
+network was most significantly enriched for genes associated with
+sensitivity towards HDAC inhibitors, including vorinostat, compared to
+other drug classes including RTKi. Finally, mining a GEO microarray data
+set of 59 CML patients revealed that significantly up-regulated genes in
+Imatinib resistant patients were significantly enriched for targets
+associated with vorinostat sensitivity in the NCI60. Together this
+integration pipeline in R, from ENCODE, GEO and NCI60, forms a highly
+flexible pipeline that can be applied to any DNA binding protein or
+epigenetic state as a prelude to drug redeployment and/or precision
+medicine approaches. Specifically, these data suggest that cancer related
+functions of NCOR1 are surprisingly most associated with sustained gene
+expression, and these targets, both in CML cell lines and patients,
+associate with sensitivity to clinically approved HDAC inhibitors.
+

@@ -1,0 +1,57 @@
+Meeting: 2017 AACR Annual Meeting
+Title: SRC1-driven network of transcription factors mediates hormone
+treatment resistance.
+
+
+Despite the clinical benefit in treating ER positive breast cancer,
+hormone therapy resistance occurs in 40% patients leading to disease
+progression. Steroid receptor co-activator 1 (SRC1) enhances target gene
+transcription and has a critical role in breast cancer cell
+tumorigenicity. There is now key evidence that SRC1 is vital to the
+capacity of hormone-dependent tumors to adapt and overcome targeted
+therapy.
+
+Utilizing a genome wide multi omics sequencing of breast cancer patients
+and models, this study aimed to define the programs of SRC1 controlled
+transcriptional networks, identifying both interacting partners and
+downstream transcription factor (TF) targets that mediate the treatment
+resistant phenotype.
+
+RIME uncovered novel SRC1 interacting partners (including STAT1, PRMT1,
+and HDAC2) and associated TF partner networks in the hormone treatment
+resistant LY2 cells. In parallel, RNA-seq of LY2s with SRC1 stable
+knockdown revealed SRC1 regulated transcriptome networks identifying 1731
+up regulated genes, including 153 TFs. SRC1 cistrome, characterized by
+ChIP-seq analyses was combined with motif binding analysis, to further
+validate 40 TFs directly regulated by SRC-1 and its interaction network.
+Dependence on SRC1 was confirmed through SRC-1 siRNA and CRISPR
+validation.
+
+Upon this discovery, validation and functional interrogation studies we
+identified a cadre of 4 TFs including E2F7, DEK, TRPS1 and SMARCA1 that
+execute SRC1 role in hormone treatment resistance. Functional analysis of
+this 4 gene TF network found it to be co-operating as a driver of hormone
+resistant cell by coupling activation of motility with stemness. TFs can
+reprogram resistant cells by reversing differentiation as demonstrated in
+the mammosphere, 3D acinar assays and CD24/44 flow cytometry analysis.
+
+This TF gene set is a significant predictor of poor recurrence free
+survival in hormone treated patients, supporting its role in increased
+metastatic risk in breast cancer and the clinical relevance of our
+findings. Furthermore, in an ER+ve PDX, established from resistant and
+treatment naïve patient, protein expression of the TF network members
+co-expressed with SRC1 and were only found in the hormone treatment
+resistant PDX models.
+
+This study highlights SRC1 regulated disease progression program in
+hormone treatment-resistant disease. Identified SRC1 interactome and its
+regulated transcriptome are active independent of its ER co-activator
+role. The SRC1 mediated TF network is involved in reprogramming of
+resistant cells, whose concerted activity is responsible for driving
+dedifferentiation of cells and enhancing their stem like and highly
+migratory tumor initiation population. This work provides key evidence on
+the mechanism of resistance in ER+ve hormone resistant cancer and has
+substantial implications both for the treatment of hormone dependent
+breast cancer and for identifying the mediators of metastatic potential.
+
+

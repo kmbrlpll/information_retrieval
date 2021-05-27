@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identifying cancer susceptibility variants and genes using whole
+exome and genome sequencing: a literature review.
+
+
+The application of Next Generation Sequencing (NGS) technologies in
+cancer research enabled the discovery of novel somatic mutations at an
+unprecedented speed through efficient high-throughput profiling of DNA
+variation in tumor samples. In contrast, the identification through NGS
+studies of germline variation associated with cancer has been more
+difficult and with limited consensus around best practices for study
+design and analytical techniques. We performed a review of the 2005-2016
+PubMed English literature for genome-wide germline sequencing studies
+that were aimed at identifying new cancer susceptibility genes or
+variants. We extracted and summarized the experimental and analytical
+designs, methods and tools implemented in the selected literature
+together with their degree of success and limitations in identifying
+cancer susceptibility variants. About 80 in-scope publications were
+identified and examined in depth. The most studied cancer types were
+colorectal, breast, blood and lung and were investigated predominantly
+via whole exome sequencing (primarily using Illumina HiSeq) in familial
+cases of Caucasian ethnicity. Only 10 studies used whole genome
+sequencing and 15 adopted a case control study design. A large fraction
+of the familial studies was limited to 1 or 2 families and sequenced 2 or
+less cases per family. Reporting of key data quality information (e.g.,
+human sequence coverage) was inconsistent throughout the publications.
+While the methods for sequence alignment and variant calling converged
+towards those implemented in established bioinformatic tools (e.g., BWA,
+GATK), there were no standard approaches for filtering or prioritizing of
+variants. Most studies included some degree of technical validation,
+often restricted to the top few variants or genes. About 60% of the
+studies included replication in an independent group of cancer patients
+and 55% functionally validated their findings to some extent. Our work
+provides valuable data and insights to inform future sequencing studies
+of cancer genetic susceptibility, and points to the need for improving
+standardization and completeness in reporting of quality control metrics,
+study design rationale and interpretation of findings.
+
+

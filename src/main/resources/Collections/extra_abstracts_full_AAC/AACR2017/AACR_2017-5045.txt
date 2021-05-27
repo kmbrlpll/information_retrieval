@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Pharmacokinetics and pharmacodynamics of MEDI0680, a fully human
+anti-PD1 monoclonal antibody, in patients with advanced malignancies.
+
+
+Background: MEDI0680 (AMP-514) is a humanized immunoglobulin gamma 4,
+kappa (IgG4κ) monoclonal antibody (mAb) specific for human programmed
+cell death-1 (PD-1), developed for the treatment of cancer. The primary
+objectives of this analysis were to (a) describe the pharmacokinetics
+(PK) of MEDI0680 and quantitate the impact of patient/disease
+characteristics on PK variability (b) to compare body weight (WT)-based
+and fixed dosing regimens of MEDI0680 and (c) to characterize
+PK-pharmacodynamic (receptor occupancy) relationship.
+
+Methods: A total of 905 serum concentration records from 58 patients in
+Phase 1 study (D6020C00002) designed to evaluate safety, tolerability and
+PK following 0.1, 0.5, 2.5, 10, and 20 mg/kg every 3 weeks (Q3W), every 2
+weeks (Q2W) or weekly doses (QW) as intravenous (IV) infusion of MEDI0680
+were included in this analysis. The population PK analysis was performed
+using a non-linear mixed effects modeling approach in NONMEM (version
+7.2) software. Impact of patient demographics, clinical indices and
+biomarkers on PK parameters were explored. The appropriateness of the
+final model was tested using visual predictive check (VPC). A sequential
+PK-PD analysis was performed using receptor occupancy (RO) data from 35
+subjects.
+
+Results: MEDI0680 PK profiles were best described using a 2-compartment
+model with linear clearance. The clearance (CL), volume of distribution
+(Vc) were 0.27 L/day, 5.07 L with a modest between-subject variability of
+30% and 19%, respectively. None of the evaluated covariates showed any
+impact on PK parameters except a minor (not clinically relevant) impact
+of body weight on volume of distribution. VPC results demonstrated good
+predictability of the final population PK model. A direct Emax model
+described the PK-PD relationship of MEDI0680. The estimate of EC50 was
+approximately 9.3 µg/mL. PK/PD simulations indicate that following 20
+mg/kg Q2W dose, >90% receptor occupancy can be maintained in all
+subjects. Based on preclinical/clinical PK, PD, and safety data, a dose
+of 20 mg/kg Q2W was selected for phase 2 studies.
+
+Conclusions: A population PK model of MEDI0680 was developed and
+validated. Modeling results indicate no need for dose adjustment based on
+patient/disease characteristics. Similar PK is expected following both
+WT-based and fixed dosing regimens. PK/PD findings support the dose of 20
+mg/kg Q2W. Clinical studies are ongoing in various tumor types.
+
+

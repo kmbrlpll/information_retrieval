@@ -1,0 +1,72 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Transcriptional regulation of SPAG6 by DNA methylation in NSCLCs
+
+
+Epigenetic abnormalities, especially DNA methylation, are involved in the
+pathogenesis of non-small cell lung cancers (NSCLC). By using a
+genome-wide approach, we recently identified 500 tumor-specifically
+methylated genes in a large number of NSCLC patients and from most of
+them tumor-specific methylation in NSCLCs was unknown so far.One of these
+genes is the Sperm Associated Antigen 6 (SPAG6) gene. By analysing
+publically available IlluminaHiSeq RNA-seq data from The Cancer Genome
+Atlas database, we observed that SPAG6 mRNA expression is frequently lost
+in tumor samples compared to corresponding non-malignant lung tissue
+samples of NSCLC patients (http://cancergenome.nih.gov/). To further
+investigate the mechanism of SPAG6 downregulation, we studied SPAG6
+expression in 5 NSCLC cell lines. We observed loss of SPAG6 expression in
+all of these cell lines compared to normal human bronchial epithelial
+cells (NHBECs). Subsequently, we treated cells of NSCLC cell lines which
+do not express SPAG6 with the epigenetically active drugs
+5-aza-2-deoxycytidine and Trichostatin A and observed SPAG6 reexpression.
+These results suggest that transcriptional regulation of SPAG6 is
+epigenetically regulated. Bisulfite genomic sequencing of parts of the 5
+region of SPAG6 revealed that the vast majority of CpG sites indeed are
+methylated in cells of NSCLC cell lines which do not express SPAG6 while
+no methylation was found in NHBECs. Moroever, we analysed SPAG6
+methylation in tumor and corresponding non-malignant tissue samples of
+147 stage I-III NSCLC patients using methylation-sensitive
+high-resolution melting (MS-HRM) assays. Differences in SPAG6 methylation
+between tumor and corresponding non-malignant lung tissue samples were
+statistically significant (p Epigenetic abnormalities, especially DNA
+methylation, are involved in the pathogenesis of non-small cell lung
+cancers (NSCLC). By using a genome-wide approach, we recently identified
+500 tumor-specifically methylated genes in a large number of NSCLC
+patients and from most of them tumor-specific methylation in NSCLCs was
+unknown so far.One of these genes is the Sperm Associated Antigen 6
+(SPAG6) gene. By analysing publically available IlluminaHiSeq RNA-seq
+data from The Cancer Genome Atlas database, we observed that SPAG6 mRNA
+expression is frequently lost in tumor samples compared to corresponding
+non-malignant lung tissue samples of NSCLC patients
+(http://cancergenome.nih.gov/). To further investigate the mechanism of
+SPAG6 downregulation, we studied SPAG6 expression in 5 NSCLC cell lines.
+We observed loss of SPAG6 expression in all of these cell lines compared
+to normal human bronchial epithelial cells (NHBECs). Subsequently, we
+treated cells of NSCLC cell lines which do not express SPAG6 with the
+epigenetically active drugs 5-aza-2-deoxycytidine and Trichostatin A and
+observed SPAG6 reexpression. These results suggest that transcriptional
+regulation of SPAG6 is epigenetically regulated. Bisulfite genomic
+sequencing of parts of the 5 region of SPAG6 revealed that the vast
+majority of CpG sites indeed are methylated in cells of NSCLC cell lines
+which do not express SPAG6 while no methylation was found in NHBECs.
+Moroever, we analysed SPAG6 methylation in tumor and corresponding
+non-malignant tissue samples of 147 stage I-III NSCLC patients using
+methylation-sensitive high-resolution melting (MS-HRM) assays.
+Differences in SPAG6 methylation between tumor and corresponding
+non-malignant lung tissue samples were statistically significant (p <
+0.0001) demonstrating that SPAG6 is tumor-specifically methylated.
+Furthermore, ROC curve analyses of methylation results revealed that
+methylation of SPAG6 is able to distinguish tumor samples from
+corresponding non-malignant lung tissue samples of NSCLC patients. We
+additionally investigated SPAG6 protein expression in tumor and
+corresponding non-malignant tissue samples of 35 NSCLC patients by
+immunohistochemistry. In the vast majority of tumor samples which were
+found to be SPAG6 methylated, SPAG6 protein expression was lost in tumor
+cells while SPAG6 protein expression was observed in bronchial and
+bronchiolar epithelial cells of non-malignant lung tissue samples.
+Comparison of SPAG6 methylation results with clinico-pathological data of
+NSCLC patients suggests a potential negative prognostic relevance of
+SPAG6 methylation for NSCLC patients. Currently, we determine the
+biological function of SPAG6 in NSCLC cell lines. Overall, our results
+demonstrate that DNA methylation is the major mechanism for frequent loss
+of SPAG6 expression in NSCLCs.
+

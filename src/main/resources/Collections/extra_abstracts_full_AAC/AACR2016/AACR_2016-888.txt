@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Inactivation of the DLC1 RhoGAP tumor suppressor by point mutation
+occurs commonly in human cancer and can result from Rho-dependent or
+Rho-independent mechanisms
+
+
+The Rho GTPases, which are frequently activated in advanced cancer,
+stimulate their downstream effectors to regulate a variety of fundamental
+cellular process, e.g., cell cycle, cell migration, cell-cell adhesion,
+and cytoskeleton organization. The down-regulation of RhoGAPs is one
+mechanism of increased Rho activity, and members of the tumor suppressor
+DLC Rho-GAP family (DLC1-3) are frequently down-regulated by gene
+deletion or DNA methylation in human cancers. Here we report that, in
+addition, point mutations in the DLC1-3 coding regions occur frequently
+in certain cancers, most of the mutants we have analyzed have reduced
+tumor suppressor activity, at least two distinct mechanisms can account
+for this reduction, and one mechanism appears to be Rho-independent. In
+the TCGA database, DLC1 was mutated in 11% of gastric cancer (GAC), 10%
+colorectal cancer (CRC), 7% of melanomas (MEL), and 6% of lung
+adenocarcinoma (LAD). Most alterations were point mutations encoding a
+single amino acid change. Mutation of DLC2 and DLC3 also occurred in
+these tumor types, but were less frequent. The mutation frequency of
+p190-A, which is a Rho-GAP from a different gene family, was even less
+frequent, ranging from 4% in LAD to zero in GAC. Taken together, mutation
+of at least one DLC gene or p190-A was found in about 20% of LAD, CRC,
+and MEL, and 15% of GAC. In LAD, the DLC1 expression levels from the
+patients with DLC1 mutations were lower than the patients with DLC1 wild
+type, suggesting selection for decreased DLC1 expression in tumors
+harboring mutant DLC1. We constructed expression vectors for many of the
+DLC1 mutants and analyzed their phenotypes in human tumor cell lines.
+Most were found to be loss of tumor suppressor function mutants, as they
+were deficient for reducing growth in soft agar, cell migration, and
+focal adhesion turnover. One class of deficient mutants had lesions in
+the RhoGAP domain, which directly inactivated its RhoGAP activity and
+increased the activity of Rho downstream effectors. A second class had
+lesions in the DLC1 START (StAR-related lipid-transfer) domain, which is
+known to bind caveolin. although the RhoGAP activity was normal, complex
+formation with caveolin was much lower than with wild type DLC1. We
+conclude that, in addition to the frequent down-regulation of DLC1
+expression via gene deletion or DNA methylation in tumors, point mutation
+of its coding sequence commonly inactivates the tumor suppressor activity
+of DLC1 at the protein level by at least two alternate mechanisms:
+attenuation of it binding to caveolin or of its RhoGAP activity, which
+up-regulates RhoA and its downstream effectors. (# Contributed equally)
+

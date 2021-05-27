@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Rescue of exhausted CD8 T cells by PD-1 targeted therapies is
+CD28-dependent
+
+
+T cell exhaustion was first described in mice during chronic lymphocytic
+choriomeningitis virus (LCMV) infection and later shown to occur in
+humans during persistent infections and cancer. Sustained expression of
+the inhibitory receptor programmed cell death-1 (PD-1) is a hallmark of T
+cell exhaustion. Therapeutic blockade of PD-1 rescues proliferation,
+cytokine production and cytotoxicity of exhausted T cells. PD-1 targeted
+therapies have shown efficacy for multiple cancer types and changed the
+landscape of cancer treatment, but the requirements for T cell rescue by
+blockade of the PD-1 pathway remain elusive. T cell activation ensues
+when positive signals overcome negative signals. CD28 is the most
+prominent positive co-receptor for T cell activation, and human CD8 T
+cells become CD28neg upon continuous stimulation. We analyzed tumor
+specimens from non-small cell lung cancer (NSCLC) patients by flow
+cytometry and found heterogeneous CD28 expression on tumor-infiltrating
+CD8 T cells. In most NSCLC patients, CD28neg cells were prevalent among
+CD8 T cells co-expressing inhibitory receptors (such as PD-1 and Tim-3).
+To address the role of the CD28/B7 pathway on CD8 T cell rescue by PD-1
+targeted therapies, we used the LCMV chronic infection model. When B7
+signals were impeded by CTLA-4-Ig or B7 blocking antibodies, blockade of
+the PD-1 pathway failed to rescue virus-specific CD8 T cells. To
+investigate a cell intrinsic requirement of CD28 on exhausted CD8 T
+cells, we used an adoptive transfer strategy of cells genetically
+deficient in CD28. We found that CD28-deficient LCMV-specific CD8 T cells
+do not expand after blockade of the PD-1 pathway. Furthermore, to ensure
+appropriate development and differentiation of CD8 T cells, we used mice
+in which the CD28 gene can be conditionally deleted. We confirmed that
+CD28neg exhausted CD8 T cells failed to proliferate after blockade of the
+PD-1 pathway even when CD28 gene deletion was induced on already
+exhausted T cells. These data demonstrate that CD28 engagement is
+required for CD8 T cell rescue, and CD28 status may constitute a
+predictive biomarker for PD-1 targeted therapies.
+

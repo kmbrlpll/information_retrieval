@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: FOXO proteins mediate adaptive resistance to PI3K inhibition in
+mucinous colorectal cancers.
+
+
+Purpose: Mucinous colon adenocarcinomas (MCAs) comprise a substantial
+fraction (10-15%) of sporadic colorectal cancers (CRCs). MCAs show a
+distinct range of genetic modifications compared to nonmucinous CRCs and
+are more prone to peritoneal dissemination and distant metastasis. These
+aggressive cancers show a poorer response to chemotherapy and are often
+difficult to treat. A higher mutation rate in effectors of the
+KRAS-RAF-MEK (80% vs 42%) and PI3K-AKT-mTOR (60% vs 22%) pathways in MCAs
+over nonmucinous CRCs suggested potential targets for therapy. Our
+previous results showed that, MCAs, though initially sensitive to PI3K
+inhibition (PI3Ki), later develop adaptive resistance. The purpose of
+this study was to test whether FOXO transcription factors mediate this
+adaptive resistance to PI3Ki single agent treatment.
+
+Methods: PI3K was inactivated in MCA cell lines, LS174T (KRAS G12D, PI3K
+H1047R) and RW7213 (KRAS G12C, PI3K WT), by treatment with GDC0941
+(Pictilisib), a small molecule inhibitor of class I PI3K. Alterations in
+phosphorylation of effectors in the PI3K-AKT or MEK-ERK pathways were
+determined using western blots. FOXO nuclear localization was assessed by
+immunocytochemistry, confocal microscopy and nuclear fractionation
+studies. Expression of FOXO proteins (FOXO1, FOXO3 and FOXO4) was reduced
+by short inhibitory RNAs (siRNAs). FOXO1 was also inhibited in MCA cells
+using AS1842856, a small molecule inhibitor.
+
+Results: Immunohistochemical analysis and nuclear fractionation studies
+showed significant nuclear enrichment of FOXO1 and FOXO3 in MCA cell
+lines in response to PI3K inhibitor treatment. Upon siRNA-mediated
+knockdown of FOXOs, rebound ERK phosphorylation seen in response to PI3Ki
+treatment was substantially reduced. Concomitant with this decrease was a
+reduction in expression of receptor tyrosine kinases (RTKs) IR, IGFR,
+HER2 and HER3. Combinatorial treatment of PI3K and FOXO1 inhibitors
+resulted in a more pronounced loss of cell viability compared to single
+agent treatment.
+
+Conclusions: Our results suggest that resistance to PI3K single agent
+inhibition seen in MCA cells is mediated, at least in part, by nuclear
+translocation of FOXO proteins, particularly FOXO1. Our results support a
+model where PI3K inhibition results in increased FOXO nuclear
+localization which in turn, leads to transcriptional upregulation and
+activation of RTKs which then lead to rebound activation of the MEK-ERK
+pathway and increased survival and resistance. A role for FOXO proteins
+in mediating PI3Ki resistance in KRAS-mutant MCA cells has not been
+described before. Our results suggest that PI3Ki single agent therapy is
+unlikely to be successful in KRAS-mutant MCAs due to FOXO-mediated
+resistance thus providing a rationale for combination treatment
+strategies.
+
+

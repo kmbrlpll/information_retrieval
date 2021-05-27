@@ -1,0 +1,32 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Characterization of the near-infrared fluorescent protein iRFP for
+plate-based assays and animal imaging
+
+
+Fluorescence imaging has been extensively used in biological research
+because of its high sensitivity, signal stability, and simplicity of
+multiplexing. Compared to fluorophores in the visible spectral region,
+fluorophores with excitation (Ex) and emission (Em) maxima in the
+near-infrared (NIR) region (700-900 nm) are desirable in many
+applications. Cells, buffers and plastic materials generate less
+background fluorescence in the NIR region. As a result, NIR fluorescence
+imaging offers higher sensitivity and better signal-to-background ratio
+(SBR) compared to visible fluorescence. In addition, due to the reduced
+light absorption and scattering in animal tissues, NIR fluorescence is
+particularly suitable for in vivo imaging studies. In this study, we
+characterized the NIR fluorescent protein iRFP for plate-based assays and
+animal imaging. HEK293 cells stably expressing iRFP were established and
+designated as HEK293-iRFP. Serial dilutions of HEK293-iRFP cells were
+seeded in 96-well plate and scanned on the Odyssey CLx Imaging System. A
+good linear relationship between fluorescence signal intensity and cell
+number was obtained. The lower limit-of-detection was determined as 763
+cells. To evaluate the performance of iRFP for animal imaging, the
+iRFP-expressing plasmid was delivered into mouse liver cells using a
+hydrodynamic injection method. A dose- and time-dependent pattern of
+fluorescence signal was observed after plasmid injection. At 8 h
+post-injection of 10 g of iRFP plasmid, a SBR of 41 was observed by live
+animal imaging. Analysis of liver tissue lysates revealed a SBR of 148.
+Other tissues, including kidney, spleen, heart and lung, showed very
+little fluorescence signal. Our results demonstrate that iRFP is a good
+reporter for both plate-based assays and animal imaging studies.
+

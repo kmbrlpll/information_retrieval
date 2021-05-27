@@ -1,0 +1,66 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A high-throughput cellular genetics approach to identifying genes
+associated with sorafenib response and toxicity
+
+
+Background: Sorafenib is an oral multikinase inhibitor, approved for
+hepatocellular, renal and thyroid carcinomas, which decreases tumor
+angiogenesis and proliferation. The antitumor efficacy and toxicity
+profiles of sorafenib vary among patients. No predictive biomarkers of
+sorafenib activity exist to help guide clinicians. Novel pathways and
+targets of sorafenib activity remain to be identified. We aimed to
+identify novel genes associated with sorafenib activity by using an in
+vitro methodology based upon mouse genomics.Methods: We profiled primary
+mouse embryonic fibroblasts (MEFs) from 32 inbred strains for sorafenib
+cytotoxicity utilizing high content imaging and simultaneous evaluation
+of cell health parameters. The 32 strains have been genomically
+characterized previously (PMID: 21623374). MEF cells were treated with
+varying concentrations (0-300 M) of sorafenib, incubated for 24 h or 72
+h, and then fixed and stained. Nuclear staining was used to assess
+sorafenib cytotoxicity and establish our cell viability phenotype. Dose
+response curves were generated from data, and EC50 values for each strain
+were identified using a Brain-Cousens model. Genome-wide association
+mapping, using the SNPster algorithm, was performed on cell viability
+EC50 values to identify quantitative trait loci (QTLs) associated with
+sorafenib cytotoxicity. Approximately 277,000 single nucleotide
+polymorphisms were tested, and genomic loci with p-values Background:
+Sorafenib is an oral multikinase inhibitor, approved for hepatocellular,
+renal and thyroid carcinomas, which decreases tumor angiogenesis and
+proliferation. The antitumor efficacy and toxicity profiles of sorafenib
+vary among patients. No predictive biomarkers of sorafenib activity exist
+to help guide clinicians. Novel pathways and targets of sorafenib
+activity remain to be identified. We aimed to identify novel genes
+associated with sorafenib activity by using an in vitro methodology based
+upon mouse genomics.Methods: We profiled primary mouse embryonic
+fibroblasts (MEFs) from 32 inbred strains for sorafenib cytotoxicity
+utilizing high content imaging and simultaneous evaluation of cell health
+parameters. The 32 strains have been genomically characterized previously
+(PMID: 21623374). MEF cells were treated with varying concentrations
+(0-300 M) of sorafenib, incubated for 24 h or 72 h, and then fixed and
+stained. Nuclear staining was used to assess sorafenib cytotoxicity and
+establish our cell viability phenotype. Dose response curves were
+generated from data, and EC50 values for each strain were identified
+using a Brain-Cousens model. Genome-wide association mapping, using the
+SNPster algorithm, was performed on cell viability EC50 values to
+identify quantitative trait loci (QTLs) associated with sorafenib
+cytotoxicity. Approximately 277,000 single nucleotide polymorphisms were
+tested, and genomic loci with p-values < 3.5x10-5 were selected for
+additional analyses.Results: Interstrain EC50 variability among the 32
+MEF strains was observed after 24 h (21-121 M) and 72 h (17-32 M)
+sorafenib incubations. We identified three total peaks associated with
+cell viability: two on chromosome 13 (23 Mb apart; p = 3.4x10-5 and =
+1.6x10-5, respectively), and one on chromosome 4 (p = 2.2x10-5). From
+these three peaks, we have identified candidate genes that may underlie
+variability in sorafenib cytotoxicity. A total of 16 genes expressed in
+MEF cells at mRNA level are present in these QTLs. Of particular
+interest, we identified one locus that contains Nfyc, a gene that encodes
+the C subunit of the NF-Y transcription factor. This transcription factor
+complex is conserved between humans and mice. In humans, NF-Y regulates
+MYC signaling and DNA-dependent transcription of PDGFR- (a primary target
+of sorafenib) (PMID: 12167641).Conclusions: Our innovative
+high-throughput cellular genetics approach has identified three regions
+with genetic loci potentially associated with sorafenib cytotoxicity.
+This approach is capable of identifying robust interstrain cellular
+differences in sorafenib activity. Functional validation of Nyfc and
+other promising candidates should be conducted.
+

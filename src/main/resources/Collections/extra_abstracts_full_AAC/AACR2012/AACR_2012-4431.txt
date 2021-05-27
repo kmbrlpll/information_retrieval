@@ -1,0 +1,40 @@
+Meeting: 2012 AACR Annual Meeting
+Title: NFATc1 silencing increases sensitivity of pancreatic cancer cells
+to phosphosulindac
+
+
+Pancreatic cancer is the fourth leading cause of cancer-related deaths in
+the U.S. Current chemotherapeutic agents have limited efficacy and play a
+minor role in its treatment. We previously determined that the novel
+agent phosphosulindac (P-S) significantly prevents colon cancer and have
+now extended our studies into pancreatic cancer. Microarray data
+demonstrated a 5-fold increase in the gene expression of Nuclear Factor
+of Activated T-cells (NFAT) in MIA PaCa-2 cells after 2 h of treatment
+with P-S. NFATc1 and NFATc2 isoforms have been shown to be up-regulated
+in pancreatic cancer. To determine the role NFATc1 played in response to
+treatment with our compound, we developed a NFATc1 shRNA model in BxPC-3
+and GFP positive MIA PaCa-2 cells, and a NFATc1 overexpression model in
+GFP labeled MIA PaCa-2 cells. Knockdown of NFATc1 expression by shRNA was
+confirmed by western blot and qRT-PCR. A 2-fold decrease in IC50 of P-S
+was observed in NFATc1 shRNA cells. In contrast, overexpression of NFATc1
+increased the IC50 of P-S by 1.2-fold. The ability of our compound to
+reduce cell viability more potently in NFATc1 shRNA cells prompted us to
+assess the effect of the protein on tumor growth in a MIA PaCa-2
+xenograft. 5-6 week old female BALB/c nude mice were subcutaneously
+injected with NFATc1 wt, knock-down, and overexpression GFP labeled MIA
+PaCa-2 cells. Animals were treated for 5 weeks, euthanized and tumor
+volume assessed. We observed a 50% reduction in tumor volume in NFATc1
+wt, 63% reduction in NFATC1 knock-down, and a 26% reduction in NFATc1
+overexpression xenograft. NFATc1 localization is indicative of its
+activity, with nuclear localization being the active form. We assessed
+OCT-embedded sections of our xenograft tissue to determine the
+localization of NFATc1 in GFP labeled tumor cells. Confocal microscopy
+data showed that in comparison to control, P-S treated tissue
+demonstrated decreased nuclear localization of the protein, indicating
+that P-S may suppress the activation of NFATc1. We observed a similar
+trend in NFATc1 knock-down and overexpression tissue, though our compound
+demonstrated a greater effect on tumor reduction in NFATc1 knock-down
+mice. We conclude that P-S is a potentially important agent for the
+treatment of pancreatic cancer and that our compound may play a role in
+NFATc1 localization and activation.
+

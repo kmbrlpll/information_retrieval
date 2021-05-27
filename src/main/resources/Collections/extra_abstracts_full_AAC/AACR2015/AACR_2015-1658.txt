@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Proteolytic processing pathways for topoisomerase covalent
+complexes
+
+
+DNA topoisomerase II (Top2) is the target of several important
+anti-cancer agents, including doxorubicin and etoposide. Clinically
+active Top2 agents, termed Top2 poisons, act by blocking the enzyme
+reaction at a step where the protein is covalently bound to DNA. This
+leads to the accumulation of Top2/DNA complexes that act as DNA damaging
+agents that can trigger cell death. Surviving Top2-induced damage likely
+requires the repair of the enzyme induced damage and has been
+hypothesized to include pathways that proteolyze the protein bound to DNA
+followed by nucleolytic removal of the remaining peptide that is bound to
+DNA by a phosphotyrosyl linkage. This model of repair suggests that
+inhibition of proteolysis would lead to elevated levels of intact
+Top2/DNA complexes, and increased sensitivity to Top2 poisons such as
+etoposide. We have tested this model using the proteasome inhibitor
+carfilzomib in a pediatric rhabdomyosarcoma cell line (Rh30). We found
+that carfilzomib enhanced cell killing by etoposide, and that
+co-treatment of Rh30 cells with carfilzomib led to increases in both Top2
+alpha and Top2 beta covalent complexes. These results suggest that
+proteasomal degradation of both Top2 isoforms is important for repairing
+DNA damage arising from etoposide. We are also interested in identifying
+the determinants of Top2 degradation following treatment with etoposide,
+especially proteins that recognize the trapped enzyme as DNA damage. We
+used a yeast genetic model system to address this question. We showed
+that the proteasome inhibitor MG132 greatly enhanced the sensitivity of
+yeast cells to etoposide, and that co-treatment of MG132 and etoposide
+led to elevated levels of Top2/DNA complexes compared to etoposide alone.
+We found that deletion of the human RNF4 homolog Slx5/Slx8 (a SUMO
+dependent ubiquitin ligase) also leads to an increase in Top2 covalent
+complexes induced by etoposide. We found that deletion of the genes
+encoding either Slx5 or Slx8 along with the repair protein Tdp1 led to
+much higher levels of cell killing compared to single deletions. These
+results suggest that there are at least two independent pathways for
+repairing Top2 damage, one dependent on Slx5/Slx8 dependent protein
+degradation and a second pathway dependent on nucleolytic removal of
+Top2. We suggest that Slx5/Slx8 plays a role in targeting Top2 for
+degradation following etoposide treatment. Our results also provide a
+rationale for the combination of a proteasome inhibitor with etoposide as
+an approach of increasing the efficacy of etoposide.
+

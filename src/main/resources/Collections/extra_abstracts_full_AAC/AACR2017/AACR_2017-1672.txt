@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Workflow automation and parallelization improves the isolation and
+analysis of tumor-infiltrating immune subpopulations.
+
+
+Immunotherapy against cancer has proven clinical efficacy and tremendous
+potential in multiple tumor entities. Syngeneic mouse tumor models
+represent the gold standard to analyze effects of immunotherapy due to
+their fully competent immune-repertoire. However, the amount and
+composition of tumor infiltrating leukocytes (TIL) is highly variable,
+complicating the targeted analysis of subpopulations. In particular,
+small subpopulations cannot be analyzed properly but may be lost in the
+background noise. When working with large cohort sizes, even the
+immune-phenotyping of TIL by flow cytometry is time consuming and data
+processing highly work intensive making pre-enrichment methods for sample
+debulking attractive.
+
+We have established an automated workflow combining tissue dissociation
+with TIL specific isolation to improve and accelerate downstream
+analysis. Tumor dissociation was automated using the gentleMACS™Octo
+Dissociator and optimized for epitope conservation to overcome bias in
+immune-phenotyping caused by dissociation with aggressive of impure
+enzymes. Next, isolation of TIL was improved by developing a new
+CD45-specific enrichment reagent for the magnetic cell sorting (MACS)
+based isolation directly from dissociated tumor tissue. The whole
+workflow takes only about 90 min. To validate this method on starting
+material showing variable frequencies of TIL infiltration, we used
+syngeneic mouse tumors derived by injection three independent tumor cell
+lines. Tumors derived from injection of B16.F10 melanoma showed TIL
+frequencies of 2-4%, CT26.WT colon carcinoma tumors 15-21%, and 4T1
+breast carcinoma tumors 32-37% among total viable cells after
+dissociation. Using a manual separation system, TIL were enriched to
+purities above 90% at yields above 70% for CT26.WT and 4T1 tumors, and
+purities above 80% at high yields above 95% for B16.F10 tumors. To
+address the need of parallelization and automation for sample processing
+in large cohort sizes used in in vivo studies, a fully automated version
+of the MultiMACS™ Cell24 Separator was developed by integrating the
+instrument in a liquid handling robotic platform. This new system, the
+MultiMACS™ X, can process 24 cell separations in parallel with minimal
+hands-on time. When compared to the manual system, equal purities were
+achieved whereas the overall yield of target cells was increased from 70%
+to 90% as shown in the case of CT26.WT tumors. Importantly, while the TIL
+enrichment significantly reduced the time and reagent costs in immune
+subset analysis, the composition of infiltrating immune cells was not
+affected, excluding the risk of introducing a bias by this method.
+
+Taken together, we have developed an automated workflow for the isolation
+of TIL from mouse tumors reducing time and costs of downstream analysis
+while standardizing and enhancing the detection and quantification of
+immune cell subpopulations.
+
+

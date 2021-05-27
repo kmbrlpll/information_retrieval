@@ -1,0 +1,71 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Metabolic vulnerability of breast cancer based on shifts in the
+expression of metabolic enzyme isoforms.
+
+
+Background & Purpose: Isoforms of metabolic enzymes share similar
+catalytic activities. Most cells express several isoforms that likely
+represent redundancy and contribute robustness to biochemical processes.
+The distribution of isoforms varies by tissue and differentiation stage
+and may be altered during neoplastic transformation. Our hypothesis is
+iosenzyme expression changes in neoplastic cells, particularly the loss
+of isoenzyme diversity, can render cancer cells more vulnerable to
+metabolism targeted therapies. Our goal was to identify isoenzyme
+expression shifts in breast cancer compared to normal breast tissue to
+define metabolic processes in the cancer that rely on the expression of
+only one or a few enzyme isoforms due to loss of isoenzyme diversity.
+Methods: Metabolic enzymes (n=1,267) were identified in the KEGG database
+and we established pair-wise isoform expression distributions in breast
+cancer gene expression data sets (n=1,081 cancers) and in 40 normal
+breast samples. We looked for isoenzyme pairs that showed loss of
+expression in one isoform in cancer compared to normal while the other
+isoform was preserved or overexpressed. We assessed the isoform
+expression relationships in breast cancer cell lines (n=18) to identify
+experimental models for functional studies and used siRNAs to knock down
+the preserved isoform in cell lines that showed loss of the other
+isoform. Results: We identified 98 pairs of isoenzymes that showed
+reduced expression in one isoform in at least 20% of cancer patients
+compared to normal tissue (Background & Purpose: Isoforms of metabolic
+enzymes share similar catalytic activities. Most cells express several
+isoforms that likely represent redundancy and contribute robustness to
+biochemical processes. The distribution of isoforms varies by tissue and
+differentiation stage and may be altered during neoplastic
+transformation. Our hypothesis is iosenzyme expression changes in
+neoplastic cells, particularly the loss of isoenzyme diversity, can
+render cancer cells more vulnerable to metabolism targeted therapies. Our
+goal was to identify isoenzyme expression shifts in breast cancer
+compared to normal breast tissue to define metabolic processes in the
+cancer that rely on the expression of only one or a few enzyme isoforms
+due to loss of isoenzyme diversity. Methods: Metabolic enzymes (n=1,267)
+were identified in the KEGG database and we established pair-wise isoform
+expression distributions in breast cancer gene expression data sets
+(n=1,081 cancers) and in 40 normal breast samples. We looked for
+isoenzyme pairs that showed loss of expression in one isoform in cancer
+compared to normal while the other isoform was preserved or
+overexpressed. We assessed the isoform expression relationships in breast
+cancer cell lines (n=18) to identify experimental models for functional
+studies and used siRNAs to knock down the preserved isoform in cell lines
+that showed loss of the other isoform. Results: We identified 98 pairs of
+isoenzymes that showed reduced expression in one isoform in at least 20%
+of cancer patients compared to normal tissue (< 3 standard deviations
+below the mean of normal expression, the lower boundary of the same gene
+in normal tissues), while the expression of the second, larger than its
+lower boundary in normal tissues. These included PAPP2B/PAPP2C,
+COX7A1/COX7A2, ALDOC/ALDOA, LDHB/LDHA, and ME3/ME2 where the first member
+of the pair showed reduced expression in 83.7%, 48.2%, 33.0%, 49.4%, and
+46.9% of cancers, respectively. Overall cancers shifted towards
+expressing isoforms that are normally high in muscle for many energy
+metabolism related enzymes. We tested the functional implication of
+knocking down ME2 (malic enzyme 2) expression in MDA435 cells that showed
+reduced ME3 expression but high ME2 levels. We observed a 54.0%, growth
+inhibition compared to scrambled siRNA control. In the control cell
+lines, MDA231 and MDA 468 that have preserved ME3 and ME2 expression, ME2
+knockdown had no significant growth inhibitory effect. Conclusions: We
+demonstrate shifts in isoenzyme expression in breast cancers compare to
+normal breast. These shifts suggest adaptation to hypoxic environment,
+rapid metabolism and potential metabolic vulnerabilities. Our siRNA
+experiments with anti ME2 siRNA provide proof of concept that loss of
+isoenzyme diversity and primary reliance on a single or few isoenzymes to
+provide a metabolic function in neoplastic cells may be exploited
+therapeutically.
+

@@ -1,0 +1,34 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Overcoming drug resistance by targeting melanoma dedifferentiation
+through information-theoretic analysis and single cell proteomics.
+
+
+Despite impressive initial response of BRAF targeted therapy in mestastic
+melanoma patients, acquired drug resistance, often times derived from
+tumor heterogeneity, always limit its clinical outcome. A
+dedifferentiation process named melanocyte to neural crest transition
+(MNT) has shown to be critical in the early stage resistance development.
+The dedifferentiation could induce a whole cell state change resulting a
+drug tolerant state of melanoma cells, which will lead to initial drug
+resistance. Mathematic modeling indicates the nature of the transition as
+results of both stochastic phenotypic transition and non-genetic drug
+selection, which indicates and further proved that the whole cell state
+transition should be reversible during drug removal. Information
+theoretic analysis reduced the dimensional of thousands of gene
+expression level changes as results of only two unbalanced processes onto
+a cellular steady state. Reversible transition trajectory defined through
+two processes indicates it to resemble a critical transition in physical
+systems. Refined single cell proteomic analysis of those proteins that
+associate with major unbalanced processes identify the critical points of
+the transition as early as day6, which cannot be resolved from bulk
+proteomic measurement. By co-targeting the drivers at the critical points
+in combination with original brafi targeted drug successfully arrested
+the transition and induced a sustained tumor growth inhibition in
+multiple patient-derived melanoma cell lines. This study provides us a
+noval methodology of mining whole transcriptomic transition with
+information theoretic analysis to reduce the dimensionality and then
+using single cell proteomic analysis for refining critical points and
+driver proteins which eventually rationalized a effective combination
+therapy to stop the drug resistance development early on.
+
+

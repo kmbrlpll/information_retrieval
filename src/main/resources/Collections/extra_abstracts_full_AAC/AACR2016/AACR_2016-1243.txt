@@ -1,0 +1,73 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Inside of multiple mechanism of adaption towards the proteasome
+inhibitors in multiple myeloma
+
+
+Malignant plasma cells drive massive overproduction of monoclonal
+immunoglobulin in multiple myeloma (MM). Hence MM cells critically rely
+on a proper balance between protein biosynthesis and folding, and
+degradation of unfolded/ misfolded protein orchestrated by the unfolded
+protein response (UPR). Inhibitors of the proteasome, the terminal
+protease along the UPR pathway, are highly effective against MM. Adaptive
+resistance to current proteasome inhibitors (PI) (Bortezomib-Btz,
+Carfilzomib-Cfz) is a major cause of treatment failure. Btz is a peptide
+boronate-type reversible inhibitor, whereas Cfz is of epoxyketone-type
+and binds irreversibly to the same proteasomal B5 active site target.
+Next generation PI are likewise B5-directed and either of the peptide
+boronate (ixazomib, dalanzomib), or the epoxyketone type (oprozomib). PI
+resistance is currently understood via two alternative concepts, the
+load/capacity concept characterized by proteasome upregulation in
+conjunction with downregulation of the UPR via reduced IRE/XBP-1
+signaling, and the mutation concept basing on B5 active site mutations
+that prevent PI binding. Only IRE1/XBP1 downregulation have been
+confirmed in patient-derived material. We generated an in vitro model
+where AMO-1 myeloma cells (IC50: 3.1nM for Btz, 4.9nM Cfz) were adapted
+to Btz (AMOaBtz; IC50: 298.7nM Btz, 43.2nM Cfz) or to Cfz, (AMOaCfz;
+IC50: 27.9nM Btz, 411.5nM Cfz). AMOaBtz cells showed preferential
+resistance against ixazomib and dalanzomib, while AMOaCfz cells were
+preferentially resistant to oprozomib and other epoxyketone-type
+experimental inhibitors. AMOaBtz and AMOaCfz likewise downregulated
+IRE/XBP-1, but only AMOaBtz contained an acquired proteasome mutation
+(A310G in PSMB5), however this had only a modest influence on Btz binding
+and proteasome inhibition. Global gene expression analysis revealed 1430
+differentially expressed genes in AMOaBtz/ AMOaCfz (FC>2, pMalignant
+plasma cells drive massive overproduction of monoclonal immunoglobulin in
+multiple myeloma (MM). Hence MM cells critically rely on a proper balance
+between protein biosynthesis and folding, and degradation of unfolded/
+misfolded protein orchestrated by the unfolded protein response (UPR).
+Inhibitors of the proteasome, the terminal protease along the UPR
+pathway, are highly effective against MM. Adaptive resistance to current
+proteasome inhibitors (PI) (Bortezomib-Btz, Carfilzomib-Cfz) is a major
+cause of treatment failure. Btz is a peptide boronate-type reversible
+inhibitor, whereas Cfz is of epoxyketone-type and binds irreversibly to
+the same proteasomal B5 active site target. Next generation PI are
+likewise B5-directed and either of the peptide boronate (ixazomib,
+dalanzomib), or the epoxyketone type (oprozomib). PI resistance is
+currently understood via two alternative concepts, the load/capacity
+concept characterized by proteasome upregulation in conjunction with
+downregulation of the UPR via reduced IRE/XBP-1 signaling, and the
+mutation concept basing on B5 active site mutations that prevent PI
+binding. Only IRE1/XBP1 downregulation have been confirmed in
+patient-derived material. We generated an in vitro model where AMO-1
+myeloma cells (IC50: 3.1nM for Btz, 4.9nM Cfz) were adapted to Btz
+(AMOaBtz; IC50: 298.7nM Btz, 43.2nM Cfz) or to Cfz, (AMOaCfz; IC50:
+27.9nM Btz, 411.5nM Cfz). AMOaBtz cells showed preferential resistance
+against ixazomib and dalanzomib, while AMOaCfz cells were preferentially
+resistant to oprozomib and other epoxyketone-type experimental
+inhibitors. AMOaBtz and AMOaCfz likewise downregulated IRE/XBP-1, but
+only AMOaBtz contained an acquired proteasome mutation (A310G in PSMB5),
+however this had only a modest influence on Btz binding and proteasome
+inhibition. Global gene expression analysis revealed 1430 differentially
+expressed genes in AMOaBtz/ AMOaCfz (FC>2, p<0.05). Analysis of uniquely
+upregulated genes in AMOaCfz identified the multi-drug resistance gene
+ABCB1 (MDR1) that was found 120-fold upregulated by qPCR. Inhibition of
+ABCB1 with Verapamil or Reserpin strongly increased Cfz sensitivity,
+confirming functional significance. Genes responsible for immunoglobulin
+production were selectively downregulated in AMOaBtz, and paraprotein
+production (IgA) was abolished as measured by ELISA. In conclusion,
+AMOaCfz is the first model combining the key features found in
+PI-resistant patient cells (lack of PSMB5 mutation and low IRE1/XBP1
+activity). The comparison of AMOaCfz and AMOaBtz suggests the presence of
+class-preferential adaptation mechanisms, which may be overcome by using
+alternative type proteasome inhibitors or mMDR1 inhibitors.
+

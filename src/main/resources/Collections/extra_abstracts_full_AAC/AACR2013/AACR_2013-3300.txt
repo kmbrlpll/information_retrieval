@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Heat-induced expression of cytosine deaminase for enzyme-prodrug
+therapy.
+
+
+Introduction: Bacterial cytosine deaminase (CD) mediates the de novo
+conversion of the non-toxic prodrug, 5-fluorocytosine (5-FC) to its
+cytotoxic form, 5-fluorouracil (5-FU). Enzyme localization at the tumor
+site reduces systemic toxicity while increasing local drug availability.
+The in situ cellular expression of enzymes provides greater stability and
+control of enzyme activity as compared to isolated enzymes, and their
+on-demand expression can be achieved through transcriptional factors
+activated by stimuli such as heat. Bacterial PR promoter in conjunction
+with the cI857 repressor gene imparts thermoselectivity to enzyme
+expression - cloned vectors containing CD gene under the transcriptional
+control of this expression system preferentially produce CD at elevated
+temperatures, providing a thermal switch to trigger enzyme synthesis.
+Such enzyme-prodrug therapy, when timed to perform as an adjuvant to
+other treatment modalities such as magnetic nanoparticle hyperthermia,
+has the potential to enhance therapeutic index as a combination
+therapy.Methods: CD gene was PCR amplified from pbCD540FT vector and
+cloned into pLDR20 vector. The CD gene was placed under the
+transcriptional control of PR promoter and cI857 thermosensitive
+repressor cassette. The cloned vector was transformed into NM522
+competent cells. Positive colonies selected from LB-Agar-Ampicillin
+plates were cultured in LB-Ampicillin medium. CD gene was characterized
+by PCR amplification and cycle sequencing of the isolated plasmid DNA.
+Protein expression in cells grown at 30 C and 42 C was analyzed by
+SDS-PAGE followed by Coomassie blue staining. Enzyme activity in cells
+grown at 30 C and 42 C was compared by incubating engineered cells with
+5-FC and spectrophotometrically measuring its conversion to 5-FU.Results
+summary: The presence of CD gene in competent cells was verified by PCR
+amplification and cycle sequencing. We observed an enhanced expression of
+CD gene in the transformed cells at 42 C as compared to 30 C, from
+SDS-PAGE. Spectrophotometric analysis of enzyme activity showed an
+enhancement in cells grown at 42 C. We are extending our work to combine
+enzyme-prodrug therapy with magnetic nanoparticle hyperthermia. We will
+coencapsulate our engineered cells with magnetic iron oxide nanoparticles
+(IONP) in immunoisolative sodium alginate microspheres. Localized heating
+during IONP hyperthermia can be a source of thermal stress for triggering
+enzyme expression resulting in the in situ synthesis of 5-FU. This
+combined therapy should enhance therapeutic index as compared to each of
+the therapies alone.Acknowledgement: pbCD540FT was a kind gift from Prof.
+J. M. Brown, Stanford University School of Medicine. This work is
+supported by the Dartmouth Center of Cancer Nanotechnology Excellence
+pilot project grant, NIH U54 CA151662 (BG, NVK).
+

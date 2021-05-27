@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Genome-wide siRNA screens identify potent p53 inhibitors in NSCLC
+cells.
+
+
+Background: Non Small Cell Lung Cancer (NSCLC) remains the number one
+cause of cancer death worldwide. For a number of cancers, restoration of
+tumor suppressor p53 activity is being studied as a possible treatment
+strategy. Approximately 50% of NSCLCs harbor wild type p53. The p53
+inhibitor RCHY1 was previously shown to be highly expressed in lung
+cancer and suggested to play a critical role in lung tumor progression by
+degrading p53 (Duan et al., J Natl Cancer Inst 96: 1718-1721). We
+hypothesized that more molecules could be inhibiting p53 in NSCLC. Here
+we set out to identify these inhibitors as potential therapeutic targets
+in NSCLC.Methods: Three siRNA screens were done with the Dharmacon
+siGENOME whole human genome siRNA library on a derivative of the A549
+NSCLC cell line harboring the p53 dependent firefly luciferase reporter
+PG13Luc. Luciferase activity was measured three days after siRNA
+transfection using an in-house developed assay (Siebring-van Olst et al,
+J Biomol Screen, PMID: 23112084).Results: The screens showed excellent
+assay metrics (Z factors >0.5 and Spearman Rank Correlations >0.89). Hit
+selection threshold for stratification was set at a robust Z-score 3,
+which selected 54 genes. Silencing these candidates increased luciferase
+activity more than 5-fold in the primary screen, which exceeded commonly
+known p53 inhibitors such as MDM2 and MDM4 (2.5 and 3.2-fold,
+respectively). For 37 hits, the phenotype was confirmed with two or more
+individual siRNAs targeting that gene, as well as in a different
+A549-PG13Luc cell clone. In A549 cells carrying a shRNA construct
+suppressing p53, a reduction in p53 activity was seen for all 37
+candidates, thus showing that the effects of gene silencing on luciferase
+activity were indeed p53 dependent. A second reporter system with a
+different p53 response element, the Cignal assay, confirmed p53
+dependency for 14 hits. Silencing these 14 inhibitors in a second NSCLC
+cell line (NCI-H292), also resulted in p53 activation. Western blot
+analysis on siRNA-transfected A549 cells confirmed p53 activation by
+showing increased levels of p53 and/or increased levels of p21 (12 and 8
+candidate genes, respectively). Interestingly, silencing 9 putative p53
+inhibitors was accompanied with a subsequent loss of cell viability.
+Protein interaction analysis using STRING showed that six of these genes,
+i.e., CWC22, SF3A3, SF3B1, SF3B14, HNRPL and SNRPD3, cluster together in
+a network involved in RNA processing, while the other candidates appeared
+unrelated.Conclusion: We identified a number of potent inhibitors of p53
+in NSCLC cells that have not previously been associated with p53
+function. Some of these proteins could be potential therapeutic targets
+in cancers harboring wild type p53.
+

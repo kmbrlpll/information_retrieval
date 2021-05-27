@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: PBRM1 regulates the transcription of cell adhesion genes in ccRCC.
+
+
+Advances in parallel sequencing have facilitated the recent
+identification of Polybromo-1 (PBRM1), a component of the PBAF
+(Polybromo-associated-BRG1- or BRM-associated factors) chromatin
+remodeling complex, as the second most frequently mutated gene in
+clear-cell renal cell Carcinoma (ccRCC). While several studies have
+described the diversity of PBRM1 mutations in ccRCC and established the
+mutation of PBRM1 as a “driver” of ccRCC carcinogenesis, little is
+known about the biological significance of PBRM1. With the intent of
+shedding light on the mechanistic roles of PBRM1, we have employed Next
+Generation Sequencing to delineate the transcriptional profile of
+cellular models of ccRCC with or without PBRM1 expression and identified
+genes associated with cell adhesion to be regulated by PBRM1 in 2D
+monolayer cultures. Since 2D cultures lack the architectural complexities
+to support studies pertaining to cellular adhesion, we evaluated the role
+of PBRM1 in 3D culture on Basement Membrane Matrix to provide a
+physiologically relevant analysis of gene expression and the resulting
+cellular phenotype. The results showed that of the 97 cell adhesion genes
+identified to be upregulated by PBRM1 in 2D cultures, 45 were also
+upregulated in 3D cultures and a subset of 32/45 genes underwent
+increased gene expression in 3D with respect to 2D cultures. The gene
+expression profile of candidate genes were verified by qPCR and Western
+Blotting. Mining The Cancer Genome Atlas (TCGA) publicly available data,
+we were able to correlate the gene expression profiles of cell adhesion
+genes identified in 3D cultures with those of ccRCC patients bearing at
+least 1 copy of the PBRM1 gene. Furthermore, we performed a
+PBRM1-ChIP-seq to map the genome-wide targets of PBRM1 and revealed the
+association of PBRM1 occupancy at proximal regulatory regions of 8/45
+cell adhesion genes. All of these taken together, indicate a role for
+PBRM1 in regulating the gene expression of cell adhesion genes which act
+as important players in cellular morphogenesis and responsiveness to
+changes in the external environment. Disruption of cell adhesion is
+believed to affect signal transduction and pave the way facilitating
+metastasis in neoplastic cells. Currently we are investigating the effect
+of loss-of-PBRM1 on Epithelial to Mesenchymal Transition (EMT) and
+metastasis in ccRCC.
+
+

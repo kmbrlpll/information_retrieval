@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Predictive simulation-driven personalization methodology for
+refractory multiple myeloma
+
+
+Background: Given the genomic variability observed across multiple
+myeloma patients, treatment personalization becomes imperative.
+Personalization (N = 1) driven by actionable mutations alone is a step
+forward but has limitations. Holistically incorporating genomic profiling
+information to create a patient simulation avatar provides a
+personalization paradigm beyond the one-drug one-mutation method of
+individualization.Methods: A bone marrow sample from the patient was
+analyzed for chromosome alterations and molecular aberrations by NYU and
+Gen Path Diagnostics. Using this genomic profiling information, a
+predictive simulation avatar of the patient was created that
+comprehensively models signal transduction, epigenetic regulation,
+protein homeostasis, autophagy, and metabolic pathways. The simulation
+highlights the patient's dominant driver characteristics and enables
+personalized therapy design. Here, a library of FDA-approved, molecularly
+targeted drugs from across indications were simulated individually and in
+combination on the patient simulation avatar.Results: The patient had
+high risk IgA multiple myeloma and refractory to following treatment
+regimens: Thalidomide/Dexamethasone (DEX), Velcade/DEX, Revlimid
+(REV)/DEX, REV/DEX/Elotuzumab, stem cell collection with high dose
+Cytoxan, stem cell transplant with high dose Melphalan,
+Velcade/Bendamustine, Pomalidomide, Carfilzomib (CAR), Doxil,
+CAR/Cytoxan, CAR/Pomalidomide.The patient's cytogenetic information
+revealed tetrasomy of chromosomes (Ch) 9 and 15; trisomy of Ch 2, 3, 5,
+7, 11, 14, 19, 20, and 22; monosomy of Ch 16. Also, additional material
+was attached to the short (p) arms of Ch 1 and 21 and the long (q) arms
+of Ch 6, 14 (involving the IGH locus), and 16. The amplified and deleted
+genes were used to create the patient simulation avatar definition. The
+resulting patient avatar demonstrated increased expression of the
+following key growth factor receptors and signaling intermediates: EGFR,
+HGF, MET, IGF1R, SHC, and SRC. Additionally, increased PI3K and AKT copy
+number was noted, resulting in a dominant AKT/PI3K signaling axis. IL6,
+IL6R, and JAK2 amplification was observed, resulting in increased
+JAK/STAT signaling.Nelfinavir and Ruxolitinib was administered to impact
+the PI3K/AKT and JAK/STAT signaling axis predicted by simulation. This
+treatment exhibited a clinical response in the highly refractory patient
+indicated by a significant drop in the IgA from 3610 to 2650 mg/dl, the M
+spike from 3.9 to 2.7 g/dl and the total protein from 10.6 to 8.2 gm/dl.
+The response lasted 2.5 months with minimal toxicity.Conclusions: This
+study demonstrates and provides validation of technology to holistically
+incorporate big data from genomics for actionable insights for treatment
+personalization.
+

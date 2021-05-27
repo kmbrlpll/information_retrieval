@@ -1,0 +1,82 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Dissecting the clonal hierarchy of cancer-driving genomic lesions.
+
+
+Characterizing the genomic evolution of cancer is critical to
+understanding disease progression and identifying potential therapeutic
+targets. By examining the clonal hierarchy of genomic lesions in common
+tumors, it would be possible to reconstruct the path of oncogenic events
+that drive carcinogenesis. Reliable assessment of such paths from
+high-throughput genome sequencing data is complicated by the admixture of
+normal DNA in tumor samples and by reduced data signal for highly
+subclonal events. We introduce an approach that exploits individuals
+genetic background by using the abundant germline SNP genotype data
+provided by whole genome sequence coverage to assess the clonality of
+genomic alterations, including copy number changes, rearrangements, and
+point mutations.We developed a novel algorithm, CLONET (CLONality
+Estimate in Tumors), which analyzes patient-specific heterozygous SNP
+loci (informative SNPs) and mono-allelic somatic deletions to assess
+levels of stromal DNA admixture and infer the clonal status of each
+aberration. For every mono allelic deletion, CLONET assesses the allelic
+fractions of informative SNPs to determine the apparent proportion of
+normal cells DNA. Next, through a conservative use of simulation-based
+error estimates, deletions with the lowest proportions of normal DNA
+reads are considered clonal. For point mutations, the tumor allelic
+fraction is corrected for stromal DNA admixture level and subclonality is
+inferred when it differs significantly from the expected value for clonal
+lesions. Similarly, the proportions of reads that span each side of a
+putative breakpoint involved in a rearrangement are matched against the
+expected values. CLONET also addresses tumor aneuploidy by searching for
+chromosomes with coverage and allelic fractions of informative SNPs not
+consistent with a diploid genome.CLONET was tested on 55 whole genome
+sequences from prostate cancers, a highly heterogeneous tumor type, to
+catalogue the accumulation of somatic alterations during oncogenesis and
+progression. In 98% of the cases CLONET made confident assessment of
+admixture and clonality. We observed consistent clonal lesions involving
+NKX3-1, the 3Mb region between TMPRSS2 and ERG and FOXP1, as well as
+early point mutations in SPOP and FOXA1. Overall, we observed a higher
+rate of subclonal protein-coding point mutation versus deletions (p-value
+Characterizing the genomic evolution of cancer is critical to
+understanding disease progression and identifying potential therapeutic
+targets. By examining the clonal hierarchy of genomic lesions in common
+tumors, it would be possible to reconstruct the path of oncogenic events
+that drive carcinogenesis. Reliable assessment of such paths from
+high-throughput genome sequencing data is complicated by the admixture of
+normal DNA in tumor samples and by reduced data signal for highly
+subclonal events. We introduce an approach that exploits individuals
+genetic background by using the abundant germline SNP genotype data
+provided by whole genome sequence coverage to assess the clonality of
+genomic alterations, including copy number changes, rearrangements, and
+point mutations.We developed a novel algorithm, CLONET (CLONality
+Estimate in Tumors), which analyzes patient-specific heterozygous SNP
+loci (informative SNPs) and mono-allelic somatic deletions to assess
+levels of stromal DNA admixture and infer the clonal status of each
+aberration. For every mono allelic deletion, CLONET assesses the allelic
+fractions of informative SNPs to determine the apparent proportion of
+normal cells DNA. Next, through a conservative use of simulation-based
+error estimates, deletions with the lowest proportions of normal DNA
+reads are considered clonal. For point mutations, the tumor allelic
+fraction is corrected for stromal DNA admixture level and subclonality is
+inferred when it differs significantly from the expected value for clonal
+lesions. Similarly, the proportions of reads that span each side of a
+putative breakpoint involved in a rearrangement are matched against the
+expected values. CLONET also addresses tumor aneuploidy by searching for
+chromosomes with coverage and allelic fractions of informative SNPs not
+consistent with a diploid genome.CLONET was tested on 55 whole genome
+sequences from prostate cancers, a highly heterogeneous tumor type, to
+catalogue the accumulation of somatic alterations during oncogenesis and
+progression. In 98% of the cases CLONET made confident assessment of
+admixture and clonality. We observed consistent clonal lesions involving
+NKX3-1, the 3Mb region between TMPRSS2 and ERG and FOXP1, as well as
+early point mutations in SPOP and FOXA1. Overall, we observed a higher
+rate of subclonal protein-coding point mutation versus deletions (p-value
+< 107). We validated this approach by IHC and FISH for predicted clonal
+and sub-clonal events. A predicted subclonal homozygous deletion of CHD1
+was confirmed by FISH that demonstrated the presence of both nuclei with
+homozygous and with hemizygous deletion of CHD1. Finally, to assess the
+general validity of CLONET, we analyzed data from 53 additional tumor
+genomes, including 25 melanomas and 28 lung adenocarcinomas.In summary,
+our results imply the existence of consensus paths of tumor
+carcinogenesis that favor dysregulation of cancer genes in a defined
+sequence.
+

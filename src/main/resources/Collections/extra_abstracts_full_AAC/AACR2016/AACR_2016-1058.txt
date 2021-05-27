@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Targeting pentose phosphate pathway (PPP) represents a novel
+therapeutic strategy for hepatocellular carcinoma (HCC) treatment
+
+
+Background and objectives: Hepatocellular carcinoma (HCC) is the primary
+liver malignancy with an extremely low survival rate. HCC progression is
+frequently associated with accelerated glucose consumption that confers
+growth advantage to tumor cell through two essential metabolic pathways -
+glycolysis and the pentose phosphate pathway (PPP). Glycolysis utilizes
+glucose for ATP production, while the PPP converts glycolytic
+intermediates to generate NADPH, the cellular antioxidant, and
+ribose-5-phophate, the nucleotide precursor. Although glycolysis has been
+extensively studied in HCC, how PPP supports HCC growth remains largely
+unknown. Our study aims at delineating the clinical significance,
+regulation and functions of PPP in HCC development and explore the
+therapeutic potential of PPP inhibitors for HCC therapy.Methods: The
+expression and abundance of the the PPP genes were examined in 16 pairs
+of human HCC tumors and adjacent non-tumors by transcriptome sequencing.
+Level of reactive oxygen species (ROS) and glucose uptake were measured
+by CM-H2DCFDA and 2-NBDG stainings, respectively. Metabolomics study was
+performed with CE-TOF-MS analysis. Metabolic flux analysis was conducted
+using UPLC-MS/MS.Results: Transcriptome sequencing data showed that
+enzymes in the PPP were frequently upregulated in HCC. Transketolase
+(TKT), the gene encodes the reversible enzyme connecting PPP and
+glycolysis, is the most abundant and most overexpressed PPP gene in HCC.
+Overexpression of TKT was confirmed in an expanded sample cohort at the
+mRNA and protein level. Meanwhile, TKT overexpression was significantly
+correlated with venous invasion, microsatellite formation, tumor size and
+absence of tumor encapsulation. Notably, TKT expression was controlled by
+NRF2/KEAP1/BACH1 pathway, which is a major transcription regulator for
+redox homeostasis. CHIP assay revealed that NRF2 and BACH1 competitively
+bound to the same antioxidant responsive elements (ARE) in TKT.
+Functionally, knockdown of TKT in HCC cells retarded cell growth,
+attenuated glucose uptake and NADPH production, increased intracellular
+ROS, and induced oxidative stress-associated cell cycle delay. In line
+with these findings, knockdown of TKT greatly suppressed tumor growth in
+vivo. Metabolomics and metabolic flux analysis revealed that loss of TKT
+disrupted the PPP and subsequently reduced NADPH production.
+Intriguingly, genetic knockdown and pharmacological inhibition of TKT
+enhanced the efficacy of Sorafenib, the only FDA-approved drug for HCC
+treatment, both in vitro and in vivo.Conclusion: Our study suggested the
+clinical significance of TKT in HCC and illustrated the anti-oxidative
+role of TKT in HCC progression. We also proposed that disrupting the
+metabolic machinery by TKT inhibition might be a novel therapeutic
+strategy for HCC treatment.
+

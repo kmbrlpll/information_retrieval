@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Network-driven discovery of cancer drivers and pathways using
+2,500 whole cancer genomes.
+
+
+Cancer driver genes exhibit unexpectedly high mutation rates in large
+cancer genomic datasets. We hypothesize that driver mutations
+specifically alter molecular interaction networks by disrupting “active
+sites” - interaction interfaces in proteins and DNA. We present
+ActiveDriverWGS, a novel computational method to discover cancer drivers
+in whole-genome sequencing (WGS) data. ActiveDriverWGS finds genome
+regions that are significantly enriched in somatic single nucleotide
+variants (SNVs) and indels and ascertains whether these associate to
+known active sites. Analysis of active sites allows us to predict the
+mechanisms of mutation on three layers of the central dogma: regulatory
+DNA with transcription factor (TF) binding sites (TFBS), mRNA with
+microRNA binding sites in untranslated regions (UTRs), and
+post-translational modification (PTM) sites in proteins. To discover
+cancer driver genes and pathways, we analysed the WGS dataset of >2,500
+samples from the International Cancer Genome Consortium (ICGC) Pan-Cancer
+Analysis Working Group (PCAWG). We found 61 protein-coding candidates
+with 34 known drivers (P=10-40), validating the high accuracy of our
+method. 40 genes have significant mutations of PTM sites, suggesting that
+rewiring of PTM signalling networks is a common oncogenic mechanism. For
+example, the BRAF V600E SNV flanks two phosphorylation sites and one
+ubiquitination site (FDR P=10-44), a novel interpretation and potential
+avenue for precision therapies targeting the kinase and ubiquitin network
+of BRAF. In the non-coding genome, we detected known lncRNAs (NEAT1,
+MALAT1), promoters (TERT, WDR74) and novel candidates with mutation
+enrichment. For example, an enhancer on chr6 has a mutation hotspot in 33
+patients (FDR P=10-19), with 20 SNVs affecting binding motifs of
+cancer-associated TFs FOXO3, SOX2, HMGA2 (FDR P=10-10). Thus our method
+discovers non-coding drivers and their candidate mechanisms in a single
+analysis. Our ActiveDriverPW method extends coding and non-coding
+mutations to biological pathways. We found >600 mutation-enriched
+pathways in the PCAWG pan-cancer dataset. Of these ~200 are also
+significant when only non-coding mutations are analysed, showing that the
+non-coding genome includes previously unstudied mutations in pathways.
+The DNA double-strand break response pathway (FDR p=10-10) includes
+non-coding SNVs in ~20 histones and chromatin modifiers, such as the
+demethylase KDM4B with 46 SNVs in its promoter and enhancers.
+ActiveDriverPW maps mutations of the long tail that affect genes in
+hallmark cancer processes yet remain undiscovered in gene-focused
+analyses. Our methods accurately capture known drivers in the ICGC-PCAWG
+dataset and suggest specific mechanistic details. Our benchmarks also
+emphasize the robust performance of our methods. ActiveDriverWGS and
+ActiveDriverPW are valuable additions to the toolbox for cancer genome
+analysis.
+
+

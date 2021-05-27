@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Efficiency in recovery of pure tumor cell populations from limited
+tumor tissue specimens intended for clinical application
+
+
+Introduction: We have previously shown reliability in isolating pure
+populations of rare cells from complex tissues using the DEPArray system.
+Several molecular techniques can be applied to a variety of histological
+samples, for example Macrodissection is the gross manual dissection of
+FFPE samples used to isolate areas of interest within a specimen for
+optimal downstream analysis, while Fine Needle Aspiration (FNA) is a safe
+procedure routinely used to examine a lesion helping to make a diagnosis.
+These techniques are also used to assess the effect of treatment. Here we
+demonstrate preliminary results showing 100% efficiency in recovering
+pure tumor cell populations from different samples using the DEPArray
+platform to overcome the issue of tumor heterogeneity. Method: FFPE
+macrodissected sections (n = 9;) and FNA (n = 5;) originating from
+prostate, breast, pancreatic and lung tumors were evaluated. Each was
+processed using a tissue disassociation and staining procedure followed
+by DEPArray sorting based on cytokeratin (Ker), vimentin (Vim) and
+nuclear staining. The recovered cell populations were lysed in the
+collection tube prior to PCR-based target enrichment for next generation
+sequencing using IonTorrent AmpliSeq CHPv2. Results: DEPArray analysis
+allowed identification of well separated cell populations, including
+Tumor (Vim-/Ker+) and Stromal (Vim+/Ker-) cells in all the samples
+analyzed. In the Macrodissection samples we were able to estimate the% of
+tumor cells (mean 23% range 4-54%), demonstrating an unexpected low
+frequency of tumor cells remaining following macrodissection. In FNA
+specimens analyzed only 21% (4.3% to 42.7% range) of the total (mean of
+6335) cells analyzed were of tumor (KER+) origin. For subsequent NGS
+analysis, groups of pure cells (mean 174 cells, range from 37 to 280) for
+each population were recovered. Among the tumor cells isolated from the
+macrodissected and FNA specimens, we observed non-synonymous somatic
+variants and LOH events for different genes. This situation can not be
+highlighted in unsorted population. Conclusions: DEPArray technology can
+be used to isolate pure tumor cells from heterogeneous FFPE samples used
+in diagnostic application, such as Macrodissection or FNA specimens.
+Thus, the DEPArray platform brings digital precision to detection,
+quantification and recovery of pure target cells for subsequent
+downstream molecular analysis that can improve cancer diagnosis and
+treatment decisions.
+

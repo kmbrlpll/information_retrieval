@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Characterization of the anti-angiogenic properties of merestinib
+(LY2801653), an oncokinase inhibitor.
+
+
+Merestinib (LY2801653) is an orally bioavailable small molecule inhibitor
+of several oncokinases, including MET, AXL, DDR1/2, MERTK, ROS1, Tie2
+(aka TEK), and MKNK1/2. Merestinib has been extensively characterized in
+a wide range of preclinical tumor xenograft models and shown to potently
+inhibit MET driven and non-MET driven tumor growth. In addition to its
+direct antitumor activity, merestinib inhibits angiogenesis and induces a
+tumor vessel normalization phenotype in xenograft tumors1. While MET
+signaling is important for angiogenesis, the effect of merestinib on
+angiogenesis is likely not exclusively driven by MET inhibition. In
+co-culture angiogenesis assays, merestinib inhibited VEGF-dependent and
+VEGF-independent endothelial cell cord formation2,3 and sprouting4 with
+potencies in the low nM range (3-30 nM). In contrast, the MET-specific
+kinase inhibitor, PF04217903, only weakly inhibited cord formation and
+endothelial sprouting. In an established in vivo matrigel co-implant
+vasculogenesis model where VEGFR2 or MET selective inhibition had minimal
+effect, merestinib decreased vascular density by 69%. In addition, while
+MET antibody emibetuzumab (human anti-MET antibody) plus ramucirumab
+(human anti-VEGFR2 antibody) decreased vascular density by 64%,
+merestinib plus ramucirumab decreased it by 92%. In a mouse
+adenovirus-driven VEGF-A ear angiogenesis model5, treatment with DC101, a
+mouse anti-VEGFR2 antibody, or merestinib inhibited angiogenesis; however
+the combination of DC101 and merestinib appeared to inhibit it even more.
+Finally, in the MKN45 gastric tumor xenograft model, merestinib (T/C =
+4.8%) and DC101 (T/C = 15.3%) each significantly inhibited tumor growth
+alone and the combination resulted in 27.6% tumor regression and was
+significantly better than either single agent alone. Together, these
+studies indicate that merestinib has greater effects on angiogenesis than
+selective MET inhibition and its actions are not dependent on VEGFR2. In
+addition, while in vitro studies show reductions in VEGFR2
+phosphorylation with high concentration of merestinib, treatment with
+merestinib did not inhibit VEGF dependent phosphorylation of VEGFR2 in
+mouse lung tissue at clinically relevant exposures. These data suggest
+that the anti-angiogenic activity of merestinib includes activities of
+other kinases targeted by merestinib. These data provide rationale and
+support for the clinical evaluation of combination of merestinib with
+ramucirumab (NCT02745769). 1-Yan et. al. Invest New Drugs.
+2013;31:833-844, 2- Falcon et. al. J Hematol Oncol. 2013;6:31, 3- Falcon
+et. al. PLoS ONE. 2014;9:e106901, 4- Nakatsu et. al. Methods Enzymol.
+2008;433:65-82, 5- Nagy et. al. Methods Enzymol. 2008;444:43-64.
+
+

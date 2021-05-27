@@ -1,0 +1,38 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identification of a small molecule inhibitor of aldolase A for the
+targeting of hypoxic cancer cells
+
+
+Cancer cells are critically dependent on glycolysis. Currently, there is
+no effective pharmacotherapy that exploits this metabolic vulnerability.
+We have uncovered a feed forward cycle of anaerobic glycolysis and
+hypoxia-inducible factor-1 (HIF-1). Glycolysis under hypoxic conditions
+normally maintains high ATP levels, which is driven by transcriptional
+activity of HIF-1. Glycolysis inhibition results in a cellular energy
+crisis, i.e. an increased AMP:ATP ratio, leading to AMPK-mediated
+phosphorylation of the HIF-1 co-activator p300/CBP. This prevents HIF-1
+activity, although HIF-1 protein levels are unchanged, abrogating the
+feed forward cycle. We identified fructose-1,6-bisphosphate aldolase A
+(ALDOA) as a top glycolytic enzyme target for inhibiting hypoxic cancer
+cell glycolysis and HIF-1 activity. Our aim was to identify small
+molecule inhibitors for ALDOA that may yield compounds for further
+preclinical development. To this end, a primary high-throughput screen
+(HTS) was performed with 65,936 compounds using a fluorescence-based NADH
+oxidation aldolase (cell-free) assay. 640 compounds were further tested
+in a cherry-pick confirmation screen, from which 112 hits underwent
+concentration-response curve validation in cell-free assays. From these,
+4 hits were further tested in cell-based assays by using colorectal,
+breast and pancreatic cancer cell lines. A lead compound that showed
+micromolar potency in inhibiting ALDOA, induced cell death under hypoxic
+conditions with IC50 values ranging between 2 - 8 M in the cancer cell
+lines tested. It also inhibited extracellular flux in a real-time
+glycolysis assay, inhibited extracellular lactate production under
+hypoxic conditions as a measure of glycolysis, and blocked hypoxia
+responsive element (HRE) HIF-1 reporter activity but not HIF-1 protein
+levels. No effect of the lead compound was observed on mitochondrial
+respiration. Thus, this compound provides a valuable chemical probe for
+inhibiting glycolysis in cancer cells. Furthermore, the work provides
+proof-of-concept that targeting glycolysis with a small molecule
+inhibitor exerts potent antitumor effects in vitro and is currently being
+tested in preclinical models as a first-in-class oncological agent.
+

@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identification of pathways relevant for metastatic site prediction
+in prostate cancer
+
+
+Background and Significance: We address the problem of metastatic site
+prediction in prostate adenocarcinoma (PRAD), with a specific focus on
+identifying molecular pathways that are activated in association with the
+homing to a particular metastatic site. The approach can reveal the
+molecular mechanisms in metastatic cancer while also providing clues
+about potential drug targets. Further experimental validation of our
+findings may lead to the discovery of novel therapies for patients who
+are in the advanced stages of disease.Methods: We downloaded four PRAD
+datasets that contained met-site information from the Gene Expression
+Omnibus (GEO) and trained multi-class predictors on this set. The
+predictors were then evaluated on patient samples collected as part of
+the Stand Up To Cancer (SU2C) initiative. Standard normalization
+techniques were used to remove batch effects associated with
+non-biological factors such as the institution from which the materials
+were collected and/or assays conducted.We focused our attention on linear
+models due to their straightforward interpretation: higher weights
+indicate stronger association of the corresponding genomic features with
+a particular metastatic site. To identify pathways implicated by the
+relevant genomic features, we employed model regularization via group
+LASSO. This technique groups genes according to their pathway membership
+using the PathwayCommons database. The regularizer (penalty trading
+accurate classification with model complexity) sets the weights of an
+entire group to zero if those groups were uninformative for met-site
+prediction and non-zero otherwise.Results: We trained a multi-class
+linear predictor to recognize lymphatic node, liver and bone metastatic
+sites from gene expression data. The resulting model gave rise to two
+linear signatures: one that distinguished liver mets from the rest, and
+another that distinguished lymph node mets from the rest. The signatures
+were enriched for pathways commonly associated with liver development and
+liver progenitor cells, as well as pathways involved in integrin
+interactions on the cell surface. Based on the latter, we hypothesize
+that the up-regulation of particular integrin-signaling pathways may be
+responsible for driving the tendency of metastatic PRAD cells to prefer
+one site over another. We are currently in the process of investigating
+whether there is further evidence of this hypothesis in the SU2C data, as
+well as comparing group LASSO to other regularization techniques that
+also incorporate prior pathway information.Conclusion: We used linear
+methods to identify several pathways that may be responsible for
+localization of metastatic prostate adenocarcinoma cells to specific
+tissues. Our empirical results provide evidence that integrin-signaling
+may play a key role in this process. We are working on robustness
+evaluation of these findings, as well as experimental validation with our
+SU2C collaborators.
+

@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: MicroRNA isoforms come of age: Going beyond the
+one-locus-one-microRNA paradigm in cancer biology
+
+
+Background: MicroRNAs (miRNAs) are short noncoding RNAs that are key
+posttranscriptional regulators of transcript abundance. During the last
+decade, their dysregulation has been linked to many human cancers and
+other human conditions. Similarly to messenger RNAs miRNAs have isoforms
+(isomiRs). In terms of abundance, one of the isomiRs from a given locus
+typically dominates. In terms of sequence, any two isomiRs from the same
+locus typically differ by 2-3 nucleotides (nts) at either the 5 end, the
+3 end, or both. We recently reported on the isomiR profiles (isomiR-omes)
+of lymphoblastoid cell lines (LCLs) derived from 500 healthy individuals.
+We found that each miRNA locus gives rise to multiple isomiRs; often, the
+most abundant isoform was not the one listed in the miRBase database.
+Importantly, we demonstrated that many isomiRs exhibited gender-dependent
+expression whereas other isomiRs exhibited population-dependent or
+race-dependent expression. Are isomiRs prevalent in the cancer context?
+And if so, are they relevant? Methods: We analyzed deep sequencing data
+obtained from healthy and diseased tissues seeking to characterize in
+each case the respective isomiR-ome by studying all transcribed miRNA
+loci. The datasets were obtained from The Cancer Genome Atlas (TCGA)
+repository and included short RNA profiles from breast cancer (BRCA) and
+other cancers. To investigate isomiR-ome differences between various
+subsets among the samples we used multivariate statistical analyses.
+Results: The isomiR-ome differences that we observed in our analyses of
+LCLs prompted us to extend the analyses to the disease context. Indeed,
+such isomiR differences can potentially lead to posttranscriptional
+regulation differences by altering the set of targeted transcripts,
+especially since isomiRs can differ in their 5 end. We first analyzed the
+BRCA TCGA datasets and identified hundreds of distinct and abundant
+isomiRs. In several instances, a miRNA locus generated between five and
+ten significantly expressed isomiRs the most abundant of which generally
+did not match the representative miRBase sequence. Notably, we found that
+isomiR abundance profiles could distinguish among BRCA subtypes. Also
+importantly, several isomiRs showed differential expression across racial
+boundaries. Preliminary analyses of other TCGA cancer datasets led to
+similar results. Conclusions: Our findings reveal that miRNA isoforms are
+present and abundant in cancer tissues and differentially expressed among
+cancer sub-types. This suggests that isomiRs likely play significant
+roles in the cancer context. Their omni-presence and characteristic
+expression profiles also suggest that they should be taken into account
+when studying the miRNA-mediated post-transcriptional regulation layer of
+cancers. Lastly, our findings also suggest possible uses for isomiRs as
+molecules for cancer therapeutic and diagnostic purposes.
+

@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Quorum-sensing salmonella selectively trigger protein expression
+within tumor models
+
+
+Engineered salmonella possess unique capabilities that make them ideal
+drug delivery vectors for tumors. Current cancer chemotherapeutic regimes
+have limited efficacy due to therapeutic resistance, which decreases the
+success rate for treatment of late-stage cancer and metastases. This
+therapeutic resistance can be explained by a number of factors including
+1) intra-tumoral transport limitations, 2) reduced susceptibility of
+quiescent cancer cells, and 3) protein pumps that expel therapeutics from
+cells. Bacteria are capable of overcoming these therapeutic limitations
+because they preferentially accumulate in tumors, actively penetrate
+tumor tissue, and can be engineered to produce anti-cancer drugs in situ.
+Due to systemic toxicity, however, bacteria that constitutively express
+an anti-cancer drug would not be an ideal alternative to standard
+chemotherapy. Therefore, we have engineered salmonella to secrete
+anti-cancer drugs after tumoral colonization has occurred through the use
+of the lux quorum sensing system. Quorum sensing is the ability for
+bacteria to change their gene expression based on changes in population
+density. Because salmonella preferentially accumulate in tumors, a quorum
+sensing genetic circuit, coupled with an anti-cancer agent, creates a
+robust expression switch that only turns on in bacterial tumor colonies.
+This unique bacterial drug delivery vector will allow for targeted
+delivery of a powerful anti-cancer drug to therapeutically resistant
+tumors and metastases while minimizing the risk of systemic toxicity.
+Salmonella transformed with the quorum-sensing system induce expression
+upon reaching a threshold bacterial density of 108 cfu/mL (OD = 0.5).
+Furthermore, in a tumor-on-a-chip device, quorum-sensing bacteria induce
+expression once colonies have formed within the tissue. These colonies
+have formed deep within the therapeutically resistant regions of tumors
+where most standard chemotherapeutic drugs cannot reach due to diffusion
+limitations. Finally, 4T1 murine tumor models injected with the
+quorum-sensing system show co-localization of GFP and salmonella within
+tumor tissue while healthy tissue shows low-counts of salmonella without
+any GFP expression. The culmination of this data demonstrates that
+salmonella integrated with a quorum-sensing expression vector can sense
+colonization within tumors and induce expression of a reporter protein
+once a critical density has been reached. Bacteria transformed with a
+quorum-sensing system will also form colonies deeper into the
+therapeutically resistant regions of tumors allowing for treatment of
+tumor tissue previously unreachable by standard chemotherapeutic
+regiments. Overall, this system creates a robust on/off switch that will
+allow for targeted bacterial drug delivery to tumors and metastases while
+minimizing the risk of potentially harmful drugs reaching healthy tissue.
+

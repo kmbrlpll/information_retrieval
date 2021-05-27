@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Integrated genomic cfDNA/cfRNA profiling for AR-V7 liquid biopsy
+test in prostate cancer.
+
+
+The growth and survival of prostate cancer tumors relies primarily on the
+functioning of the androgen receptor (AR) signaling pathway. Recent
+studies suggested that the presence of AR-V7, a c-terminal truncated form
+of AR, in circulating tumor cells (CTCs) of patients with
+castration-resistant prostate cancer (CRPC) is associated with inherent
+and/or acquired resistance to enzalutamide and abiraterone, the stand of
+care androgen deprivation therapies in prostate cancer. A series of data
+also indicate that AR-Vs (eg, including AR-V7, ARv567es, AR-T878A,
+AR-F876L etc) may drive resistance in CRPC. Expression of AR-V7 has been
+shown to correlate with disease progression and shortened survival.
+Considering that truncated AR splicing variants with C-terminal loss lack
+a functional ligand-bingding domain (LBD) and are constitutively active,
+C-terminal AR-directed therapies may not be effective for patients with
+AR splicing variants. Circulating tumor cell (CTC)-based AR-V7 tests are
+currently being tested in the clinic. However, nearly half of the CRPC
+patients do not have enough CTCs for AR-V7 test, raising the request for
+a complementary, non-CTC platform to detect AR variants as well as other
+resistance markers in circulation.
+
+Here we report the development, validation and clinical application of
+PrediSeq-Prostate, a non-invasive next generation sequencing-based
+diagnostics platform that offers integrated genomic cell-free DNA (cfDNA)
+and cell-free RNA (cfRNA) profiling of prostate cancer, identifying known
+(such as AR-V7, AR-V9, AR-V2, etc) and novel AR splicing variants, point
+mutation, copy number, and translocation (such as TMPRSS2-ERG) using a
+single tube of blood. Using plasma samples from mCRPC patients that
+developed resistance to enzalutamide and/or abiraterone,
+PrediSeq-Prostate NGS test identified AR-V7, AR-V2, AR-V3, AR-V4 and
+other splicing variants that impact diagnosis and therapeutic selection.
+We also developed a Bio-Rad digital PCR assay measuring AR-V7 and AR-FL
+(full length) simultaneously. Collectively, PrediSeq NGS and ddPCR assays
+offer comprehensive genomic profiling of both cfDNA and cfRNA in all
+patients with prostate cancer, regardless of their status of CTC
+enumeration. The successful development and clinical validation of these
+tests has potential to enable precision medicine in prostate cancer.
+
+

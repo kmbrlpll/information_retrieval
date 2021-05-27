@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Computational modeling to suggest patient-specific screening
+schedules for early detection of gastric cancer.
+
+
+Gastric cancer (GC) is often diagnosed at an advanced stage and
+consequently remains the third most common cause of cancer-related death
+worldwide. Early detection and surgical intervention has been found to
+reduce GC-associated mortality, yet an efficient and cost-effective
+screening program still does not exist.
+
+Several proteins including Lgr5, CD44 and CD133 have been found to be
+upregulated during the H. pylori-associated Correa pathway of
+carcinogenesis, and have the potential to act as biomarkers for early
+detection. The tools of mathematical oncology facilitate the development
+of models capable of both reproducing and predicting the increase in
+expression of these markers, and thus the patient-specific progression of
+disease. These predictions can allow the identification of optimal
+screening times to minimize the risk of undetected malignant
+transformation. Here, we present a combined mathematical-statistical
+approach to identifying such optimal screening times in a manner which is
+both biomarker-independent and H.pylori status-independent, thus allowing
+improved generalizability and the potential for broader application in
+the clinical setting. Logistic regression models are developed for each
+biomarker of interest (Lgr5, CD133, CD44) to determine the likelihood of
+a patient being either early in the Correa pathway (gastritis or
+metaplasia) or late in the pathway (dysplasia or carcinoma) based on
+current age, sex and biomarker-positive cell fraction obtained from
+immunohistochemical staining of biopsy tissue samples. Calibrated models
+for all three biomarkers were able to accurately classify disease stage
+as determined by pathology report in more than 85% of an initial cohort
+of 59 patients.
+
+Mathematical models describing the temporal evolution of the expression
+of each marker of interest are then defined based on clinical data.
+Coupled with the statistical tool for identifying the likelihood of being
+at each stage of disease for all combination of input parameters, this
+framework can forecast time to a clinically-significant endpoint such as
+the development of dysplasia or adenocarcinoma for future patients,
+allowing the suggestion of screening times at which the likelihood of
+progression reaches a certain threshold. The results suggest that for 13
+out of 16 patients in our initial test cohort (81%), models independently
+developed using three different markers all recommend similar follow-up
+screening times, showing promise for the general applicability and
+robustness of such a tool.
+
+

@@ -1,0 +1,59 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A machine learning approach to predict platform specific gene
+essentiality in cancer.
+
+
+Loss-of-function (LOF) screenings across a set of diverse cancer cell
+lines has the potential to reveal novel synthetic lethal interactions,
+cancer-specific vulnerabilities, and guide treatment options. These were
+traditionally done using shRNAs, but with the recent emergence of CRISPR
+technology there has been a shift in methodology. The Achilles project is
+to date the largest cancer LOF screening effort undertaken, however we
+found a large amount of inconsistency between their shRNA and CRISPR-Cas9
+essentiality results for the same set of cell lines. Here we characterize
+the differences between genes found to be essential in either CRISPR or
+shRNA screens. We found that certain features such as gene expression,
+network connectivity and conservation could accurately separate out
+essential genes that were found exclusively in either one of these
+screens. This information could be tremendously useful in understanding
+the differences in the CRISPR and shRNA screening results. Furthermore,
+one limitation with Project Achilles was that they conducted shRNA
+screens on 216 cell lines, but only 33 cell lines in CRISPR. Therefore we
+developed a model that integrates these genetic, network, and population
+features to predict CRISPR results from shRNA screenings, and found that
+our model can accurately identify CRISPR essential genes better than
+approaches just based on the shRNA results (p-value Loss-of-function
+(LOF) screenings across a set of diverse cancer cell lines has the
+potential to reveal novel synthetic lethal interactions, cancer-specific
+vulnerabilities, and guide treatment options. These were traditionally
+done using shRNAs, but with the recent emergence of CRISPR technology
+there has been a shift in methodology. The Achilles project is to date
+the largest cancer LOF screening effort undertaken, however we found a
+large amount of inconsistency between their shRNA and CRISPR-Cas9
+essentiality results for the same set of cell lines. Here we characterize
+the differences between genes found to be essential in either CRISPR or
+shRNA screens. We found that certain features such as gene expression,
+network connectivity and conservation could accurately separate out
+essential genes that were found exclusively in either one of these
+screens. This information could be tremendously useful in understanding
+the differences in the CRISPR and shRNA screening results. Furthermore,
+one limitation with Project Achilles was that they conducted shRNA
+screens on 216 cell lines, but only 33 cell lines in CRISPR. Therefore we
+developed a model that integrates these genetic, network, and population
+features to predict CRISPR results from shRNA screenings, and found that
+our model can accurately identify CRISPR essential genes better than
+approaches just based on the shRNA results (p-value < 10-5, d-statistic
+=~0.5 ). This potentially eliminates the need for a costly CRISPR screen,
+predicts essential genes that would be missed in the shRNA screen, and
+provides new data on thousands of genes in almost 200 cell lines.
+Additionally we integrated prior screening results to build a second set
+of models to predict gene essentiality for untested genes with no LOF
+screening needed. We found this accurately predicted whether a gene would
+be marked as essential as well as what type of platform (CRISPR or shRNA)
+was more likely to accurately identify essentiality. When predicting
+genes which were exclusively essential in CRISPR we observed an area
+under the receiver operating characteristic curve (AUC) of 0.82. Overall,
+these methods allow for a more comprehensive essentiality analysis of
+genes; which is not possible by single screening platforms.
+
+

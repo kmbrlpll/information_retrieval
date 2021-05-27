@@ -1,0 +1,41 @@
+Meeting: 2014 AACR Annual Meeting
+Title: WNT5a/ROR1 axis in triple-negative breast cancer progression and
+potential therapy
+
+
+Triple negative breast cancer (TNBC) accounts for 15-20% of total
+invasive breast cancer. These tumors are more aggressive and have a worse
+prognosis relative to other types of breast cancer, partially due to the
+lack of FDA-approved targeted therapy. Utilizing the RNA-seq data for
+invasive breast cancer specimens deposited in the Cancer Genome Atlas
+(TCGA), we found that the mRNA expression of receptor tyrosine
+kinase-like orphan receptor 1 (ROR1) decreased in the luminal A (n=231),
+luminal B (n=128) and Her2+ (n=58) subtypes relative to their
+corresponding normal controls. In contrast, ROR1 expression increased in
+all the pathologic stages of TNBC samples relative to normal specimens
+and ROR1 expression correlates positively with progression of TNBC
+(n=78). ROR1 is a receptor tyrosine kinase that is involved in embryonic
+patterning, but lacks expression in adult tissues. We undertook a series
+of mechanistic studies to understand the role of ROR1 in TNBC and
+evaluate ROR1 as a potential target for TNBC therapy. Using complex
+bioinformatics analysis, we found that ROR1 expression correlates with
+signature genes of TNBC, cancer stem cells, and TGF/SMAD pathways, which,
+in addition to recent observation of potential crosstalk between
+WNT5A/ROR1 signaling with TGF/SMAD, prompted us to examine if this
+crosstalk contributes to TNBC. Indeed, we found that WNT5a promotes
+SMAD2/3 activation in a ROR1- and TGFR1-dependent manner. Inhibiting ROR1
+by neutralizing antibody shifted cancer stem cells of TNBC to a more
+luminal-type, indicating a critical of ROR1 in self-renewal of cancer
+stem cells. SNAI1/2, master regulators of epithelial to mesenchymal
+transition (EMT), are potentially involved in the WNT5a/ROR1-mediated
+self-renewal of cancer stem cells. In agreement with these findings, TNBC
+cell lines with the highest surface expression of ROR1 had a greater
+cancer stem cell (CSC) population (CD24-CD44high). In collaboration with
+Speed Biosystems LLC, we developed an anti-ROR1 immunotoxin that
+specifically kills ROR1-high TNBC cells but not ROR1-low breast cancer
+cells or normal epithelial cells. Our findings suggest a role of
+WNT5a/ROR1 signaling in the progression of TNBC, through its role in
+potentiating TGF/SMAD/SNAI1/2 pathway thus promoting EMT and stem-like
+phenotype. ROR1 represents a novel therapeutic target for TNBC,
+especially for late-stage diseases.
+

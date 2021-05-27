@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: The combination of the PARP inhibitor talazoparib (BMN 673) with
+the ATR inhibitor VE-821 overcomes the drug resistance of Schlafen
+11-deficient cells
+
+
+Poly(ADP-ribose)polymerases (PARP) inhibitors work as catalytic
+inhibitors as well as PARP poisons by trapping PARP-DNA complexes (Murai
+et al., Cancer Res. 2012: 72:5588-99), and talazoparib is the most potent
+PARP inhibitor to date in terms of cytotoxicity and PARP trapping (Murai
+et al., Mol. Cancer Ther. 2014:13:433-43). Nevertheless, mining the NCI60
+data shows that half of the 60 cell lines are tolerant to talazoparib. To
+elucidate the mechanisms of such tolerance, we searched for genes with
+expression levels correlated to talazoparib sensitivity using CellMiner
+(http://discover.nci.nih.gov/cellminer/). Schlafen 11 (SLFN11) turned out
+to be one of the most positively correlated genes whose expression is
+correlated with cellular sensitivity to talazoparib. Using genetically
+altered cells, we established that SLFN11 inactivation confers high
+resistance to talazoparib, revealing that SLFN11 inactivation, which is
+common in cancer cells (Zoppoli et al. PNAS 2014: 109:15030-5), is a
+novel mechanism of resistance for PARP inhibitors. Based on genetically
+engineered CRISPR/casp9 SLFN11-knockout cell lines and cell cycle
+analyses, we found that the parent SLFN11-proficient cells arrest in S
+phase without DNA replication, while SLFN11-knock out cells maintain
+their replication until entering G2 phase in the presence of talazoparib.
+Although ATR is the key regulator of intra-S phase check point, the
+addition of the ATR inhibitor (VE-821) (Josse et al., Cancer Res. 2014)
+does not rescue the replication arrest in SLFN11-proficient cells,
+suggesting the existence of a SLFN11-dependent replication arrest
+mechanism independently of ATR. On the other hand, the addition of the
+ATR inhibitor in SLFN11-knock out cells alters the arresting point from
+G2 to S phase, and eventually increases dead cells. This is probably
+because the prolonged replication block leads to the collapse of
+replication forks, resulting in DNA double-strand breaks. Consistent to
+these findings, the combination of the ATR inhibitor with talazoparib
+synergistically sensitizes SLFN11-knock out cells more efficiently than
+the parent SLFN11-proficient cells. Together, these results demonstrate
+that the combination of the ATR inhibitor with talazoparib can overcome
+the resistance of SLFN11-deficient cells to talazoparib.
+

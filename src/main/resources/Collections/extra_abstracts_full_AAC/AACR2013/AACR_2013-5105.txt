@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Molecular characterization of captured circulating tumor cells
+with a novel cell sorting system.
+
+
+Background: The number of circulating tumor cells (CTCs) has the
+prognostic significance in solid tumor patients. Because of recent
+progress in targeted therapies, there is an increasing need to obtain
+tumor tissues for companion diagnostics. In some tumor types such as lung
+cancer, it is relatively difficult to obtain tumor tissues due to the
+tumor location and capturing CTCs could be an alternative approach. The
+CellSearch system, the only FDA-approved CTCs enumeration system has an
+advantage in detection of CTCs with high reproducibility, but it is not
+optimized for capturing tumor cells for subsequent molecular analyses.
+Thus we have developed a novel benchtop cell sorting system equipped with
+a disposable microfluidic chip (On-Chip Sort, On-Chip Biotechnologies,
+Tokyo, JAPAN), which may allow better recovery of CTCs than conventional
+cell sorting systems for further characterization.Materials and Methods:
+The On-Chip Sort is a disposable microfluidic-chip-based cell sorter. The
+sorting is performed by Push-Pull pulse flow in a micro channel, and this
+novel cell sorting technique is free of cell damage caused by high
+pressure, ultrasonic and electrical charge. To evaluate the performance
+of the On-Chip Sort, various numbers of NCI-H1975 human non-small cell
+lung cancer cells harboring EGFR mutations (L858R and T790M) were spiked
+into 5 x 105 K562 human leukemia cells serving as surrogate cells for
+white blood cells. Spiked samples were fixed, stained with
+cytokeratin-FITC and CD45-Alexa700, and purified using the On-Chip Sort
+cell sorter. Captured tumor cells (defined as CK+/CD45 cells) were
+subjected to molecular analyses by pyrosequencing for EGFR mutation after
+whole genome amplification.Results: EGFR gene mutations (L858R and T790M)
+were successfully detected from formalin-fixed and immunofluorescently
+stained single H1975 cell, suggesting captured tumor cells after sorting
+process can be used for mutational analyses. Results of in vitro dilution
+model revealed that the detection limit for pyrosequencing of 10% to 20%
+EGFR mutant allele following whole genome amplification, suggesting
+mutations can be detected with a certain amount of normal blood cell
+carryover after sorting process. In spike-in experiment using H1975 cells
+(10 to 102 H1975 cells spiked into 5 x 105 K562 cells), we observed
+recovery and purity rates of 30.4% to 45.0% and 8.6% to 45.0%,
+respectively, which was sufficient for mutational analysis by
+pyrosequencing. The detection limit for EGFR gene mutations (L858R and
+T790M) was observed when twenty-five H1975 cells were spiked into 5 x 105
+K562 cells, which was thought to be feasible in the clinical
+setting.Conclusions: The novel cell sorting system allowed efficient and
+convenient isolation of circulating tumor cells. These data demonstrated
+the potential of our capture system and evaluation using clinical samples
+should be conducted.
+

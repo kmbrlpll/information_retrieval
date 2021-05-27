@@ -1,0 +1,33 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Accurate variant detection using molecular barcodes
+
+
+HaloPlex is an amplicon based method for targeted sequencing. The
+protocol utilizes specificity gained from restriction enzyme recognition,
+hybridization and DNA ligation to capture molecules originating from the
+target region to be sequenced. The target region is fully customizable
+from a single gene up to several thousand discrete regions. Amplicon
+based methods for multiplex target enrichment are, in general, convenient
+methods for capturing a wide range of target region sizes. However, in
+contrast to hybridization capture methods where random shearing is
+deployed, it is not possible for Haloplex or other amplicon based
+techniques to use the start point of paired end reads to identify
+duplicate reads. Duplicate read information can be useful for improving
+base calling accuracy and to monitor sampling to determine the degree of
+confidence to assign calls at different presumed allelic fractions. For
+somatic variants, which are generally present at a lower than 50% allelic
+fraction, it is even more advantageous to know how many molecules have
+been sampled when calling a particular base. To enable identification of
+duplicate reads from libraries prepared with Haloplex, we have added a
+molecular barcode to the introduced primer cassette. The molecular
+barcode consists of ten degenerate bases allowing for over one million
+unique sequences to be present for tagging of molecules. Using
+information derived from the molecular barcode sequences we demonstrate
+observation of variants down to 5% allelic fraction in multiple molecules
+tagged with different molecular barcodes. The new protocol has, besides
+the introduction of molecular barcodes, been optimized in a few
+additional aspects. Due to improved reagent formulations and streamlining
+of workflow, complete target enrichment can now be completed in less than
+5 hours. Using 50 ng input we demonstrate >85% specificity and above 90%
+of target regions being covered at >10% of average depth.
+

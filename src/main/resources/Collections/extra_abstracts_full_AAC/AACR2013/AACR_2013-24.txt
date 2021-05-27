@@ -1,0 +1,78 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Diagnosing small round cell tumors using whole transcriptome
+expression profiling.
+
+
+INTRODUCTION: Differential diagnosis of malignant small round cell tumors
+(SRCTs) can be challenging due to their undifferentiated character. Their
+primitive histopathological features often render the identification of
+morphological features difficult and therefore, no definitive diagnosis
+may be possible. This is crucial in pediatric SRCTs as disparate
+approaches to therapy are used for distinct tumor types based on a
+patient's risk. This study sought to discover and implement diagnostic
+signatures for a variety of SRCTs using whole transcriptome profiling.
+METHODS: RNAs from 115 prospectively-obtained pediatric SRCTs were
+profiled on Affymetrix Human Exon microarrays. These comprised of Ewing
+sarcoma (n=10), neuroblastoma (n=10), PAX-FKHR fusion-negative
+rhabdomyosarcoma (F-RMS, n=20), PAX-FKHR fusion-positive rhabdomyosarcoma
+(F+RMS, n=19), lymphoma (n=10), Wilms tumor (n=10), clear cell sarcoma
+(n=7), rhabdoid tumor (n=9), medulloblastoma (n=10), and osteosarcoma
+(n=10). Expressions of 1,393,765 probe selection regions (PSRs) were
+analyzed. Binary screens were performed for each tumor type to identify
+diagnostic PSRs. Selected PSRs were combined as a signature, and its
+diagnostic potential was assessed by k-nearest neighbor algorithms.
+Primers designed to interrogate loci corresponding to the diagnostic PSRs
+were tested on cell lines and cases representing the various tumor types
+using the WaferGen SmartChip MyDesign platform. RESULTS: Binary screens
+identified hundreds of diagnostic PSRs corresponding to annotated and
+unannotated transcripts for each tumor type. To limit signature size, the
+top 6 PSRs were chosen for each tumor type. 17%-83% of features in each
+signature represented non-exonic content. Hierarchical clustering
+demonstrated the ability of each signature to diagnose the corresponding
+tumor by binary and multiplex analyses. Discrimination analysis showed
+that signatures for Ewing sarcoma, neuroblastoma, F+RMS, lymphoma and
+osteosarcoma were the best performing and most exclusive. Overall, each
+tumor signature had robust diagnostic potential (binary discrimination,
+all pINTRODUCTION: Differential diagnosis of malignant small round cell
+tumors (SRCTs) can be challenging due to their undifferentiated
+character. Their primitive histopathological features often render the
+identification of morphological features difficult and therefore, no
+definitive diagnosis may be possible. This is crucial in pediatric SRCTs
+as disparate approaches to therapy are used for distinct tumor types
+based on a patient's risk. This study sought to discover and implement
+diagnostic signatures for a variety of SRCTs using whole transcriptome
+profiling. METHODS: RNAs from 115 prospectively-obtained pediatric SRCTs
+were profiled on Affymetrix Human Exon microarrays. These comprised of
+Ewing sarcoma (n=10), neuroblastoma (n=10), PAX-FKHR fusion-negative
+rhabdomyosarcoma (F-RMS, n=20), PAX-FKHR fusion-positive rhabdomyosarcoma
+(F+RMS, n=19), lymphoma (n=10), Wilms tumor (n=10), clear cell sarcoma
+(n=7), rhabdoid tumor (n=9), medulloblastoma (n=10), and osteosarcoma
+(n=10). Expressions of 1,393,765 probe selection regions (PSRs) were
+analyzed. Binary screens were performed for each tumor type to identify
+diagnostic PSRs. Selected PSRs were combined as a signature, and its
+diagnostic potential was assessed by k-nearest neighbor algorithms.
+Primers designed to interrogate loci corresponding to the diagnostic PSRs
+were tested on cell lines and cases representing the various tumor types
+using the WaferGen SmartChip MyDesign platform. RESULTS: Binary screens
+identified hundreds of diagnostic PSRs corresponding to annotated and
+unannotated transcripts for each tumor type. To limit signature size, the
+top 6 PSRs were chosen for each tumor type. 17%-83% of features in each
+signature represented non-exonic content. Hierarchical clustering
+demonstrated the ability of each signature to diagnose the corresponding
+tumor by binary and multiplex analyses. Discrimination analysis showed
+that signatures for Ewing sarcoma, neuroblastoma, F+RMS, lymphoma and
+osteosarcoma were the best performing and most exclusive. Overall, each
+tumor signature had robust diagnostic potential (binary discrimination,
+all p<0.0001). To explore the possibility of translating the signatures
+to a quantitative PCR platform, RNA from 8 cell lines corresponding to 5
+tumor types were used: TC32, CHLA10, TC252 (Ewing sarcoma); RD (F-RMS);
+Rh30, JR (F+RMS); REH (surrogate for lymphoma); and Saos-2
+(osteosarcoma). Diagnostic primers sets showed substantial efficacy in
+distinguishing cell lines and cases corresponding to the tumor type of
+interest when compared with other samples. CONCLUSIONS: Using pediatric
+SRCTs as an example, this study illustrates that whole transcriptome
+analysis can reveal potential transcripts that can robustly diagnose
+malignancies that pose a histological challenge. Such concise genomic
+signatures can be translated to quantitative PCR-based assays for routine
+clinical implementation.
+

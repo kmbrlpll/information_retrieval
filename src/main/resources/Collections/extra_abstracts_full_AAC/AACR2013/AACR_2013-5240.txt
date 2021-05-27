@@ -1,0 +1,44 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Differential anticancer drug response by high-dimensional protein
+monitoring.
+
+
+Cellular signal transduction responses to drugs are not always identical;
+rather, they depend on concentration, administration method, and time
+after administration. To monitor drug-induced signaling, we produced
+reverse-phase protein arrays (RPPAs) using cell lysates from three
+anticancer drugs (5FU, CIS, CPT), two administration methods (sustained,
+Sus; temporal, Tem), and three concentrations (High, Medium, Low) of drug
+administration over a 24-hour period. The combination of drug types,
+concentrations, and administration methods collectively yielded 18 unique
+drug administration conditions. Each RPPA was individually probed with 37
+primary antibodies from our antibody panel; these antibodies recognize
+the proteins involved in genotoxic stress response. The quantitative
+readout was then analyzed to see if there was: (i) a general trend in
+protein dynamics in response to each drug condition; and (ii)
+significance in those proteins that exhibited similar dynamics. We first
+classified 666 time-course protein dynamics. About 38% of the protein
+dynamics showed an increasing trend, whereas about 32% showed a
+decreasing trend. Proteins exhibited earlier peaks when stimulated by Low
+or Medium concentrations for all drugs, while proteins exhibited later
+peaks when stimulated by High concentrations. Clustering analysis of
+protein dynamics induced by drugs revealed that each dynamic class
+included proteins of diverse functions. Hence, it is unlikely for cells
+to respond to particular drugs in a defined pattern. Subsequently, to
+clarify whether any functional associations are prioritized in drug
+responses, we evaluated the similarities between the protein dynamics by
+distance correlation (DC, which is known to have a higher value the
+tighter the association), to see if any pair of protein dynamics
+demonstrated a geometric similarity associated with its known
+interaction. It appeared that apoptosis-related proteins tended to show
+high DC to other proteins when anticancer drugs were administrated at
+high enough concentrations to induce apoptosis. We also found that
+structural cell proteins, such as keratins, showed high DC to
+apoptosis-related proteins, and confirmed that when these two functional
+protein groups interact, what results is degradation in the progression
+of drug-induced apoptosis.These observations indicate that
+high-dimensional drug response protein dynamic monitoring by RPPAs may
+offer a unique opportunity to find drug-specific general dynamic trends
+and potentially novel protein interactions unique to drug administrative
+conditions such as dose.
+

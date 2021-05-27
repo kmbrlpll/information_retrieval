@@ -1,0 +1,59 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Nucleosome occupancy at unmethylated promoter CpG islands
+represents a novel mechanism of epigenetic gene silencing in cancer
+
+
+Promoter CpG island (CGI) hypermethylation is an established mechanism of
+silencing gene expression in cancer. Although the silenced state is
+thought to be consolidated by the recruitment of nucleosomes across the
+promoter, this has been observed in only a limited number of genes. Here
+we performed genome-wide MBD-Seq, MNase-Seq and RNA-Seq to investigate
+the relationship between CGI methylation, nucleosome occupancy around the
+transcription start site (TSS) and gene expression in a premalignant
+colorectal adenoma and matched normal mucosa. Analysis of RNA-seq data
+identified 1987 silent genes that were not expressed in the normal or
+adenoma tissues. Of these 1987 genes, 1401 (70.51%) showed either
+methylation in both the normal and adenoma tissues or nucleosome
+occupancy across the TSS, with 524 (26.37%) of genes showing both,
+suggestive of a consolidated silenced state. Our RNA-Seq data also
+revealed that 2010 genes were downregulated >2-fold in the adenoma when
+compared to paired normal mucosa. Of these 2010 genes, only 67 (3.33%)
+genes showed aberrant CGI hypermethylation, and of these 67 genes, only
+six (8.96%) showed nucleosome occupancy across the TSS. Therefore, the
+presence of both CGI hypermethylation and nucleosome occupancy across the
+TSS of downregulated genes is significantly lower than at silent genes
+(pPromoter CpG island (CGI) hypermethylation is an established mechanism
+of silencing gene expression in cancer. Although the silenced state is
+thought to be consolidated by the recruitment of nucleosomes across the
+promoter, this has been observed in only a limited number of genes. Here
+we performed genome-wide MBD-Seq, MNase-Seq and RNA-Seq to investigate
+the relationship between CGI methylation, nucleosome occupancy around the
+transcription start site (TSS) and gene expression in a premalignant
+colorectal adenoma and matched normal mucosa. Analysis of RNA-seq data
+identified 1987 silent genes that were not expressed in the normal or
+adenoma tissues. Of these 1987 genes, 1401 (70.51%) showed either
+methylation in both the normal and adenoma tissues or nucleosome
+occupancy across the TSS, with 524 (26.37%) of genes showing both,
+suggestive of a consolidated silenced state. Our RNA-Seq data also
+revealed that 2010 genes were downregulated >2-fold in the adenoma when
+compared to paired normal mucosa. Of these 2010 genes, only 67 (3.33%)
+genes showed aberrant CGI hypermethylation, and of these 67 genes, only
+six (8.96%) showed nucleosome occupancy across the TSS. Therefore, the
+presence of both CGI hypermethylation and nucleosome occupancy across the
+TSS of downregulated genes is significantly lower than at silent genes
+(p<0.0001). Interestingly, 272 of the remaining 1966 (13.84%) genes that
+were downregulated in the absence of aberrant CGI hypermethylation showed
+clear evidence of nucleosome occupancy across the TSS, including the
+important cancer-related genes CDH1 and CDKN2B. Only seven of these 272
+genes (2.57%) have previously been described as frequent targets of
+hypermethylation in cancer, suggesting nucleosome recruitment represents
+an alternative mechanism of inactivation of these genes. In summary, we
+identified some of the earliest epigenetic events in colorectal neoplasia
+by profiling the transcriptome and epigenetic landscape of a premalignant
+colorectal adenoma. Our data show that for the majority of genes showing
+adenoma-specific downregulation and aberrant CGI hypermethylation,
+nucleosomes are not recruited to the promoter. Moreover, our data reveals
+a potential novel mechanism of epigenetic gene inactivation in the
+absence of promoter hypermethylation, through physical occlusion of
+transcription by nucleosome occupancy at the TSS.
+

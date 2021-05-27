@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Linking the molecular profile of colorectal tumors to germline
+genetic and environmental risk factors
+
+
+The completion of The Cancer Genome Atlas (TCGA) project for colorectal
+cancer (CRC) has enabled a new, focused phase of sequencing tumor samples
+for which genome-wide genetic, epidemiological, clinical and lifestyle
+data have been collected. By combining somatic mutational profiles with
+these aforementioned data, we may identify and report effective
+prevention and treatment approaches for a broader population of
+individuals. The advent of targeted deep sequencing approaches using DNA
+obtained from formalin fixed paraffin embedded tissues has made possible
+the genetic characterization of the large numbers of patients needed to
+make such an effort relevant.As a first step, we describe a custom gene
+panel designed from large-scale studies for targeted deep sequencing, and
+its application to over 4,200 CR tumors, collected by the Genetics and
+Epidemiology of Colorectal Cancer Consortium (GECCO). This study is
+designed to identify recurrent somatic mutations and copy number
+alterations (CNAs) for association testing with germline genetic and
+lifestyle and environmental risk factors for CRC, and thereby identify
+relevant approaches to impact cancer prevention.The targeted CRC panel
+includes 205 genes. Genes were primarily selected as significantly
+mutated genes identified from the Nurses Health Study and Health
+Professional's Follow-up Study (n = 700), and TCGA (n = 525). We also
+included 15 genes associated with high penetrance germline mutations and
+augmented the list to include genes in pathways of somatically altered
+genes, identified by literature review, from public databases and known
+to be associated with loss of heterozygosity. For these 205 genes,
+amplification primers were designed to include all coding regions of
+transcripts that are listed in the UCSC Genome Browser.For regions with
+CNAs, the TCGA dataset was analyzed to include regions with greater than
+or equal to 2 copy focal gains or losses that were found in more than 4
+or 3 tumors, respectively. Candidate genes in regions with significant
+CNAs from the TCGA CRC publication (Nature 2012) were also included. For
+CNAs, 6 to 12 amplicons were designed for each of the 56 selected regions
+(32 gains and 24 losses).Additional target regions include: 1) 25
+microsatellite loci previously used to identify defective DNA mismatch
+repair and 212 homoploymer repeats. These include microsatellite loci
+recommended by the NCI Consensus Panel for identifying MSI; 2) amelogenin
+(for gender); and 3) Fusobacterium to detect a putative CRC-associated
+pathogen in tumor biopsies.At the AACR annual meeting, we expect to
+present results for deep sequencing (1,000X) of the first 1,000 CR
+tumors, including any preliminarily identified pathways and subtypes that
+may provide the basis for association testing with germline genetic and
+lifestyle and environmental risk factors needed for inferring better
+approaches to prevention and treatment of CRC.
+

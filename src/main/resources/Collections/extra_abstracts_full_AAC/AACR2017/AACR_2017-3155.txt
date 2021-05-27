@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Harnessing synthetic rescues to evaluate and mitigate resistance
+to cancer therapy.
+
+
+Significance: The emergence of resistance to cancer therapy remains a
+pressing challenge, as evident from numerous recent investigations
+identifying molecular events conferring resistance to cancer drugs. Here
+we demonstrate that many of these molecular events can be attributed to
+synthetic rescue (SR) genetic interactions, where altered activity of a
+specific (termed rescuer) gene restores cell viability caused by the
+inactivation (including through gene deletion or targeted pharmacological
+repression) of another gene.
+
+Methods: We present a computational approach termed INCISOR, which
+analyzes molecular, survival, and phylogenetic cancer data to predict SR
+genes pairs that are under positive selection and their presence
+decreases patient survival. It further screens for causal SR pairs that
+show in vitro evidence of rescue.
+
+Results: We applied INCISOR to mine 8000 patients’ omics and clinical
+data in TCGA to identify the first genome-wide SR network, composed of SR
+interactions common to many cancer types. The predicted SRs match
+drug-specific molecular resistance signatures that have been recently
+published in arduous clinical studies (with accuracy of 0.8 AUC). They
+chart pathways of resistance on a genome scale and as we show, can
+predict response and resistance to the majority of current cancer drugs
+in patients. We conducted new experiments to test new predicted SR-based
+combination therapies. Each combination consisted of a primary cancer
+drug and a second adjuvant therapy inhibiting a predicted key rescuer of
+the primary drug. Five of the 7 predicted combinations tested
+synergistically sensitized all the five head and neck cell lines to the
+original primary therapies. These results were further substantiated via
+siRNA knockdowns of the predicted rescuers in combination with the
+original treatment, confirming the effects observed with pharmacological
+inhibition. Focusing on mTOR, a major cancer driver gene, we combined
+drug treatment and pooled-shRNA to validate the rescue effect of 8 out of
+10 predicted rescue interactions involving mTOR in a head and neck cancer
+cell-line. Finally, we analyzed patient-derived mouse 960 xenografts
+(PDX) treated with 25 different drug combinations. Mice exhibit much
+better progression-free survival when treated with a drug combination
+predicted by INCISOR compared with the mice treated with the primary drug
+alone, testifying to the in-vivo benefits of SR-based synergistic
+treatments.
+
+Conclusions: This work presents a new paradigm harnessing synthetic
+rescue gene-gene interactions to counteract resistance to cancer
+treatment. Future implementations of this approach will have two broad
+implications in the precision medicine era, first for determining the
+most effective treatment regimen based on the molecular characteristics
+of individual patient’s tumor; second for identifying supplemental
+drugs to counteract resistance to existing primary therapies.
+
+

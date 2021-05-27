@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Multiple drug resistance-associated protein 4 (MRP4) may
+contribute to breast cancer metastasis by exporting the COX-2 product PGE2
+
+
+Cyclooxygenase-2 (COX-2) and its enzymatic product, prostaglandin E2
+(PGE2), are elevated in breast cancer and are associated with a poor
+prognosis and increased metastatic potential. PGE2 initiates various
+signaling pathways upon binding to each of four cognate EP receptors. We
+have previously shown that PGE2 signaling through the EP4 receptor
+increases metastatic potential and supports the survival of breast cancer
+stem-like cells. Multiple drug resistance-associated protein 4 (MRP4) is
+responsible for the active export of PGE2 from cells, while the
+prostaglandin transporter (PGT) imports PGE2 for 15-hydroxyprostaglandin
+dehydrogenase (15-PGDH)-mediated degradation. The role of neither MRP4
+nor PGT has been investigated in breast cancer progression. The purpose
+of this study is to elucidate the role of MRP4 in PGE2 signaling in
+breast cancer progression. We hypothesize that elevated expression of
+MRP4 would cause increased PGE2 export and receptor-mediated signaling
+and, therefore, enhance metastatic potential, tumor progression, and
+support breast cancer stem-like cells. We examined MRP4 gene expression
+data from multiple breast cancer datasets using Oncomine. We found higher
+expression of ABCC4 in breast cancer versus normal breast. MRP4 was
+elevated in invasive (IDC) versus localized (DCIS) lesions and elevated
+in the majority of basal-type breast cancer. To investigate the role of
+MRP4 further, we examined MRP4 mRNA and protein expression in cell lines
+representing several molecular subtypes and metastatic capacities. Normal
+mammary epithelium (MCF10A), luminal (MCF7, T47D), basal (MDA-MB-231,
+MDA-MB-468, MDA-MB-436, BT549), and Her2-enriched (SKBR3) cell lines were
+evaluated. As in the primary sample data, MRP4 mRNA and protein
+expression are elevated in basal and Her2 enriched cell lines (231, 436,
+BT549, SKBR3) while expression of PGT mRNA and protein is decreased in
+these cells when compared to cells with lower metastatic potential. This
+inverse relationship between MRP4 and PGT should lead to higher
+concentrations of extracellular PGE2 in the tumor microenvironment. We
+evaluated MRP4 activity by measuring PGE2 export from cells via enzyme
+immunoassay or resistance to the cytotoxic compound 6-mercaptopurine
+(6-MP), two substrates of MRP4. Pharmacologic inhibition of MRP4 with
+MK571 (MRP antagonist) results in decreased efflux of PGE2 and increased
+sensitivity to 6-MP as expected. Likewise, genetic suppression by RNAi
+results in lower levels of PGE2 exported from cells and increased
+sensitivity to 6-MP, confirming altered MRP4 activity. Conversely,
+ectopic MRP4 overexpression increases PGE2 export. These data support the
+hypothesis that MRP4 is a critical member of the PGE2 signaling pathway
+that leads to high extracellular PGE2 and increased PGE2 signaling,
+implicating MRP4 as a possible therapeutic target in this oncogenic
+pathway.
+

@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The long non-coding RNA CAI2 is a tumor suppressor gene
+
+
+We have recently reported on the discovery of a long non-coding RNA
+imbedded in intron 2 of the p16/ARF (CDKN2A) locus at 9p21. CAI2 is a
+non-conserved, RNA pol II regulated gene with whose expression is highly
+correlated with parent genes p16 and ARF. However, CAI2 is expressed in
+cell lines deleted for p16, ARF and even p15, and is expressed cell lines
+epigenetically silenced for p16 and/or ARF. Furthermore, treatment of p16
+and/or ARF epigenetically silenced cell lines with 5-aza-2-deoxycytidin
+allows p16 and/or ARF re-expression while having no influence on CAI2,
+confirming independent regulation. Speculating, therefore, that the
+regulatory region of CAI2 lies imbedded in the non-transcribed portion of
+intron 2, we created expression constructs of the immediate 5 region of
+CAI2. However, consistent with a bioinformatical analysis, no regulatory
+activity was detected. This suggests that this non-coding RNA is
+non-traditionally controlled by remote but yet to be identified
+regulatory element(s) and/or mechanisms. By colony formation assay, CAI2
+overexpression can inhibit cell growth in the p16 intact HEK293T and
+SK-BR-3 breast cancer cell lines. RNA Immunoprecipitation has revealed
+that CAI2 interacts with H3K27me3, a recruiter of Polycomb Repressive
+Complex 1 (PRC1) that modulates chromatin structure and gene expression,
+and BMI1, a PRC1 complex protein that is a negative regulator of p16.
+Consistent with this effect, CAI2 can induce p16 expression in HEK293T
+cells, and this was hypothesized to be the mechanism by which CAI2
+inhibits cell growth. However, we now show that CAI2 can also inhibit
+colony formation in the p16/ARF deleted MCF7 and MDA-MB-231 breast cancer
+cell lines. Interestingly however, CAI2 overexpression had little to no
+effect on 2D cultures of HEK293T or MCF7 cells including DNA synthesis,
+XTT metabolic activity or cell count.As CAI2 is imbedded in the p16/ARF
+gene, standard siRNAs may inadvertently influence p16 and/or ARF
+expression due to actions on their pre-mRNAs. Therefore, we created a
+series of partial CAI2 knockouts using CRISPR technology and compared
+their growth by colony formation assay. Notably, clones containing a
+partial knockout of the 5 region of CAI2 proliferated faster than mock
+transfected clones, consistent with the growth suppressive properties
+observed with CAI2 overexpression. In 2D cultures, a small increase in
+DNA synthesis was also observed in the partial deletions. The HEK293T
+clones containing partial deletions of CAI2 also exhibited small
+increases in expression of the remaining intact portions of the gene with
+a concomitant decrease in p16 expression, all consistent with an
+influence of CAI2 on p16 expression and cell growth; no influence on ARF
+expression was observed.Taken together, the data demonstrate that CAI2 is
+capable of influencing p16 expression, but this influence is insufficient
+to fully account for the ability of CAI2 to regulate growth, and we
+conclude that CAI2 is a bona fide tumor suppressor gene in its own right.
+

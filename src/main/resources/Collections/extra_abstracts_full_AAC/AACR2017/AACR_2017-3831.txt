@@ -1,0 +1,59 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The development of an immunohistochemical digoxigenin-labeled
+mouse on mouse single and double stain methodology.
+
+
+Introduction
+
+When a mouse or monoclonal antibody is desired for immunohistochemical
+detection on mouse tissues, the anti-mouse secondary antibody will also
+bind to endogenous mouse IgG in the tissue and may produce unwanted
+background staining. In the past, mouse-on-mouse (MM) detection utilized
+a biotinylated primary antibody or biotinylation kit. Tissues rich in
+endogenous biotin such as kidney or liver made it difficult to use, as
+streptavidin-horseradish peroxidase is required for detection. Attempts
+to completely negate endogenous biotin are ineffective as avidin-biotin
+blocking steps are unlikely to work acceptably in problematic tissues.
+Therefore, the design of a digoxigenin-labeled detection system is
+advantageous for MM detection as it would eliminate these issues. This
+technology has broad application as it allows the use of a variety of
+monoclonal antibodies reactive on mouse tissues.
+
+Materials and Methods
+
+Mouse tissues were formalin-fixed for 24 hours and embedded in paraffin
+(FFPE). Sections were cut and dried on slides before deparaffinizing and
+peroxidase blocking in the usual manner. Slides were then HIER in a
+citrate-based buffer prior to application of antibody. Mouse antibody
+concentrates were selected and mixed with a Digoxigenin Anti-Mouse Linker
+and incubated at room temperature (RT) for 1 hour. An Absorption Reagent
+is then added to the mixture, and further incubated for 30 minutes. The
+mixture is then diluted in antibody diluent to the desired concentration
+and applied to the mouse tissue for 60 minutes at RT, followed by a
+rabbit anti-digoxigenin antibody for 15 minutes. Detection of
+anti-digoxigenin is performed with an incubation in either a goat
+anti-rabbit HRP or AP Polymer for 30 minutes. Visualization is
+accomplished by using a DAB or Fast Red chromogen. For double stains, a
+sequential DS method using two monoclonal antibodies was employed using a
+heating step in retrieval solution after the first chromogenic reaction
+followed by a second monoclonal antibody and detection with either a
+rabbit-AP or HRP polymer. Visualization of the second antibody target is
+accomplished by using Fast Red or a blue chromogen. Slides were
+coverslipped with a permanent mounting medium and evaluated using
+brightfield microscopy.
+
+Results
+
+MM single stains with a variety of antibodies were easily achieved with
+specific, clean and biotin-free staining. Sequential DS techniques using
+monoclonal antibodies were also achieved and visualized with DAB, Fast
+Red or blue chromogens. Both manual and automated procedures were used.
+
+Conclusion
+
+The replacement of biotin-labeled MM technology with a digoxigenin MM
+technology is a superior method that not only eliminates endogenous
+biotin, but allows utilization of HRP and AP polymers for double stain
+technology.
+
+

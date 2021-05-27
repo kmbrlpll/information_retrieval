@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Single-cell analysis reveals an adaptive, transiently heritable,
+slowly-dividing, drug-resistant state inhibitable by drug combinations.
+
+
+Adaptation and fractional response of tumor cells to targeted inhibitors
+of oncogenic pathways creates a population of viable tumor cells from
+which fully resistant clones can ultimately arise. Thus, understanding
+transient drug adaptation is key for both improving the effectiveness of
+treatment and delaying/controlling acquired resistance. Despite the
+wealth of information available about feedback mechanisms associated with
+adaptive resistance, most of our knowledge in this area comes from
+studying drug response in bulk tumor cell populations. Furthermore, the
+phenotypic consequences of drug adaptation have been often studied at a
+few fixed time-points, when drug-adapted cells exhibit a high
+population-average activity in multiple pro-growth signaling cascades. It
+therefore remains unclear how the initial responses to drug relate to
+subsequent phenotypes such as cell death or adaptation. This is likely a
+key point for designing novel approaches to overcome fractional drug
+response in tumor cells and to achieve durable therapy.
+
+We use real-time live-cell imaging, single-cell analysis and molecular
+profiling to show that exposure of BRAFV600E melanoma cells to RAF/MEK
+inhibitors elicits a time-variable and heterogeneous response in which
+some cells die, some arrest and the remainder adapt to drug. Drug-adapted
+cells up-regulate markers of the neural crest (e.g. NGFR), a melanocyte
+precursor, and grow slowly. The drug-induced slowly-cycling NFGRHigh
+state is only transiently stable, reverting to the drug-naïve state
+within two weeks of drug withdrawal as measured by the restoration of
+RAF/MEK inhibitor sensitivity, accelerated rate of cell division and
+reduced expression of NGFR. Transcriptional and biochemical profiling of
+cell lines and human tumors implicates a role for the c-Jun/ECM/FAK/Src
+cascade in driving the de-differentiated resistance program. We identify
+multiple drugs targeting this cascade as well as BET bromodomain
+inhibitors that block this resistance program in cell lines and in a
+BRAFV600E melanoma xenograft model and increase sensitivity and maximal
+effect (Emax) of RAF/MEK inhibitors. Our study reveals directly how drug
+adaptation happens in individual tumor cells leading to emergence of
+heterogeneous cell sub-populations with reduced drug-sensitivity that may
+be targeted by drug combinations.
+
+

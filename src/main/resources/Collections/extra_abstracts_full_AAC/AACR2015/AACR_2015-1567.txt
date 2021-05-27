@@ -1,0 +1,54 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A mass spectrometry based serum test for the detection of
+hepatocellular carcinoma (HCC) in high risk patients
+
+
+Improved screening protocols (SP) for patients at high risk of developing
+HCC could lead to improved patient outcome and possibly cure if detected
+early. The current SPs, ultrasound with the possible addition of
+alphafetoprotein (AFP) measurement, suffer from insufficient sensitivity
+and specificity, and less than 30% of patients are diagnosed early enough
+to be suitable candidates for resection or transplantation. An easy to
+use biomarker for the early detection of HCC is clearly needed.We used
+mass spectrometry analysis of serum samples combined with specialized
+deep learning techniques to train and validate such a test. The
+development cohort consisted of patients undergoing transplant or
+resection for HCC (N = 52; median MELD = 14), and patients with advanced
+cirrhosis undergoing liver transplant (N = 53; median MELD = 25).
+Underlying cause of liver disease was 51% hepatitis C infection. The
+validation cohort consisted of patients with advanced HCC (N = 103;
+70/26/7 Child-Pugh A/B/C) and liver disease but no HCC (N = 77; 68/7/2
+Child-Pugh A/B/C), with 68% of patients having hepatitis B infection
+(HBV). The classifier was trained especially to avoid confounding by
+liver function.The resulting test showed a sensitivity/specificity of
+73%/95% in cross validation in the development set overall. In the subset
+of T1 patients (or lesion size Improved screening protocols (SP) for
+patients at high risk of developing HCC could lead to improved patient
+outcome and possibly cure if detected early. The current SPs, ultrasound
+with the possible addition of alphafetoprotein (AFP) measurement, suffer
+from insufficient sensitivity and specificity, and less than 30% of
+patients are diagnosed early enough to be suitable candidates for
+resection or transplantation. An easy to use biomarker for the early
+detection of HCC is clearly needed.We used mass spectrometry analysis of
+serum samples combined with specialized deep learning techniques to train
+and validate such a test. The development cohort consisted of patients
+undergoing transplant or resection for HCC (N = 52; median MELD = 14),
+and patients with advanced cirrhosis undergoing liver transplant (N = 53;
+median MELD = 25). Underlying cause of liver disease was 51% hepatitis C
+infection. The validation cohort consisted of patients with advanced HCC
+(N = 103; 70/26/7 Child-Pugh A/B/C) and liver disease but no HCC (N = 77;
+68/7/2 Child-Pugh A/B/C), with 68% of patients having hepatitis B
+infection (HBV). The classifier was trained especially to avoid
+confounding by liver function.The resulting test showed a
+sensitivity/specificity of 73%/95% in cross validation in the development
+set overall. In the subset of T1 patients (or lesion size <2 cm) accuracy
+was 72% (75%). Performance was good across all represented causes of
+liver disease. The test was shown not to be confounded by liver function
+by classifying healthy patients (N = 17) as no cancer. In the validation
+set the performance was 89%/73%, with 91%/78% in the HBV subgroup and
+90%/75% in the Child-Pugh A subgroup.The developed test shows promise in
+the early detection of HCC as a screening tool in high risk patients
+independent of the cause of underlying liver disease. While further
+validation will be necessary to conclusively prove its clinical validity,
+we believe such a test could substantially improve early detection of HCC.
+

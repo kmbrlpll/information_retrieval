@@ -1,0 +1,35 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Mutation and gene expression analysis of circulating tumor cells
+(CTCs) enriched and retrieved by a sensitive microfluidic device
+
+
+Molecular characterization of CTCs is hindered by low sensitivity and
+high level of background leukocytes of currently available CTC enrichment
+devices and assays. We have developed a novel technology to enrich and
+retrieve CTCs from blood samples using a microfluidic chip. The Celsee
+PREP100 device captures CTCs with high sensitivity and then allows the
+captured CTCs to be retrieved for subsequent molecular analysis. The
+Celsee PREP100 system uses the microfluidic chip which has approximately
+56,320 capture chambers. Based on differences in cell size and
+deformability, each chamber ensures that small blood cells such as red
+blood cells and most leukocytes escape while larger CTCs are trapped and
+isolated in the chambers. In the work we used the Celsee PREP100 to
+capture breast and lung cancer cells spiked into normal donor blood
+samples, including SKBR3 and NCI-H1975. We were able to show that the
+device can capture 20 cells with high reproducibility. The captured CTCs
+were retrieved from the microfluidic chip and further purified with
+anti-CD45 magnetic beads. Our results suggest that the cell recovery rate
+of this back-flow procedure is greater than 80% and the level of
+remaining background leukocytes is very low (about 100 cells). Work in
+progress to extract DNA and RNA. The resulting DNA samples are subjected
+to mutation analysis of a panel of cancer markers by using PCR and
+sequencing. The resulting RNA samples are converted to cDNAs, and gene
+expression analysis of selected cancer markers are carried out by using
+RT-QPCR. Specific DNA mutations such as EGFR exon 21 (L585R) in NCI-H1975
+and mRNA expression markers including CK-19, TTF1 are tested in the
+retrieved cells. The sensitive and easy-to-use Celsee PREP100 system
+represents a promising technology for CTC capturing and molecular
+characterization. Clinical blood samples from patients with metastatic
+cancer are being tested on the Celsee PREP100 device and the results will
+be discussed.
+

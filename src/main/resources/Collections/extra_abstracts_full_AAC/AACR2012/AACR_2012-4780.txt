@@ -1,0 +1,28 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Discovery of novel checkpoint kinase 1 inhibitors by virtual
+screening based on multiple crystal structures
+
+
+Checkpoint kinase 1 (Chk1) is activated in response to DNA damage through
+the ATM/ATR pathway, and plays an essential role in the regulation of the
+G2/M checkpoint. Inhibition of Chk1 should abrogate this checkpoint in a
+manner relevant to the treatment of cancer, and may induce apoptosis.
+Currently about 50 crystal structures of Chk1 are available in RCSB
+Protein Data Bank. The abundance of Chk1 structures offers the
+opportunity not only to discover new inhibitors with receptor-based drug
+design but also to explore the impact of receptor flexibility in ligand
+docking. Here we describe a successful application of the docking of
+multiple structures to discover novel and potent Chk1 inhibitors.
+Forty-six Chk1 structures were first compared in single structure docking
+by predicting the binding mode and recovering known ligands. Combinations
+of different protein structures were then compared by recovery of known
+ligands and an optimal ensemble of Chk1 structures were selected. The
+chosen structures were used in the virtual screening of over 60,000
+diverse compounds for Chk1 inhibitors. Six compounds ranked at the top of
+the hits list were tested experimentally and two of these compounds
+inhibited Chk1 activity-the best with an IC50 value of 9.6 M. Further
+study indicated that achieving a better enrichment and identifying more
+diverse compounds was more likely using multiple structures than using
+only a single structure even when protein structures were randomly
+selected.
+

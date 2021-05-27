@@ -1,0 +1,38 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Broad Genomics and Cancer Program development of comprehensive
+blood biopsy sequencing capabilities to support direct-to-patient cancer
+research initiatives.
+
+
+Genomic profiling of cell free tumor DNA (Blood Biopsy) offers the
+potential to revolutionize cancer precision medicine. As a proxy for
+tumor tissue profiling, successful blood biopsy analysis can help select
+appropriate patients for clinical trials, provide useful data for
+treatment monitoring, and discover genomic mechanisms of disease
+resistance. Recognizing these potential benefits, we aim to enable
+large-scale genomic data generation and analysis of cfDNA samples to
+support the patient driven Metastatic Breast Cancer Project
+(mbcproject.org) and many other such efforts. The widespread adoption of
+cfDNA sequencing technology in clinical research will require low cost,
+efficient, and in some cases clinically-validated processes. Commercial
+offerings in this field are focused on analysis of small targeted hotspot
+panels due to the challenges of more complete sequencing approaches for
+cfDNA (e.g. variability in the fraction of tumor present and high false
+positive rates). Working in collaboration with the Broad Institute Cancer
+Program, we have developed a process to overcome these challenges and
+provide high quality comprehensive exome analysis of cfDNA. Our process
+includes screening samples using ultra low pass, UMI-enabled whole genome
+sequencing to quantify the % of tumor DNA available for sequencing.
+Qualified samples are then moved into automated processes for exome
+sequencing and somatic mutation detection. In our initial validation
+study of 23 breast and prostate cancer patients with matched cfDNA and
+tumor tissue sequencing, we are able to identify 90% of clonal and 45% of
+subclonal mutations found in the matched tumor biopsy. In our effort to
+scale this process, and fully characterize the benefits and limitations
+of this technology we will present additional validation analysis. We
+will evaluate the relative importance of using paired sample analysis
+(tumors and matched normals) with analysis of tumor sequencing alone and
+assess sensitivity and specificity of somatic alterations as a function
+of tumor fraction and sequencing depth.
+
+

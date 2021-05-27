@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Utilization of Sleeping Beauty mutagenesis for the identification
+of potential driver genes of ovarian cancer.
+
+
+Background: The goal of this project is to increase our understanding of
+the molecular aetiology of ovarian cancer by developing a mouse model of
+this tumor. Inherited mutation of BRCA1 is the best known risk factor for
+the most common subtype of ovarian cancer, i.e. serous epithelial ovarian
+cancer (SEOC); however, loss of Brca1 alone is insufficient for SEOC
+development in the mouse. Somatic mutation of TP53 is the most common
+molecular change in SEOC, but does not result in SEOC in the mouse,
+either alone or in combination with loss of Brca1. These findings suggest
+that additional currently unknown genetic factors are required for
+ovarian carcinogenesis. We hypothesized that random mutagenesis would
+activate these genetic factors and utilized Sleeping Beauty (SB)
+insertional mutagenesis to initiate ovarian tumors in mice that we have
+sequenced to determine potential genetic drivers of these tumors.Methods:
+Breeding colonies of the following genetically engineered mice were
+established and cross bred: homozygous floxed SB (STOCK
+Rosa26-LsL-D-SB11;T2/Onc2,TG6113), homozygous floxed Brca1 knock-out
+(C57BL/6.Brca1tm2Brn) and Tp53 mutant (C57BL/6-Trp53tm1Tyj/J). CRE
+recombinase packaged into an adenoviral vector (AdCreM2, MicroBix
+Biosystems Inc, CA) was surgically injected under the ovarian bursal
+membrane of mature female mice to delete Brca1 and activate SB
+mutagenesis in the ovarian surface epithelium. Mice were monitored and
+sacrificed at ethically defined endpoints or a maximum of 15 months
+post-surgery. Tumors were assessed for SB transposase activity by
+immunohistochemical staining. DNA was extracted from paraffin embedded
+sections of ovarian tumors and underwent high-throughput sequencing for
+T2/Onc2 insertion sites (Illumina, University of Iowa).Results: Ovarian
+tumors were observed at low penetrance starting at 30 weeks post-surgery
+in SBflox/+Tp53mut/+ mice (6%, 3/48) and SBflox/+Brca1flox/flox p53mut/+
+mice (8%, 4/50). No ovarian tumors were observed in
+SBflox/+Brca1flox/flox mice (n=38) or in SBflox/+Brca1flox/+ mice (n=26).
+Sequencing of the insertion sites identified a number of genes of
+interest including kinases and tumor suppressors.Conclusions: While
+ovarian cancer had low penetrance in these models, a number of potential
+driver genes were identified which may provide insights into the
+pathogenesis of these tumors. The low penetrance of tumor from targeted
+epithelial cells with SB T2/Onc2 is similar to that seen for pancreatic
+cancer. For this reason, mice with SB T2/Onc3 which is reported to
+preferentially induce epithelial tumors are currently being monitored for
+the development of ovarian tumors.This work was supported by Cancer
+Institute NSW, Cancer Council NSW and The Northern Translational Cancer
+Research Unit, NSW, Australia.
+

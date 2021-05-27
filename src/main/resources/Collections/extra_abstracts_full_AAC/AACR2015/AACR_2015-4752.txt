@@ -1,0 +1,31 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Genomic cytometry: Single cell mutation analysis combining PCR
+with flow cytometry
+
+
+Genomic cytometry is a new technology field combining the high-throughput
+capabilities of flow cytometry and cell sorting with single-cell
+multiplex genomic analysis in microfluidic drops. The genomic cytometry
+method we will describe is PCR-activated cell sorting (PACS). PACS is
+analogous to Fluorescence-Activated Cell Sorting (FACS) in throughput and
+the ability to analyze single cells; however, unlike conventional flow
+cytometric immunophenotyping, PACS uses extremely sensitive microdroplet
+TaqMan PCR reactions to identify and, if needed, sort cells of interest
+for additional downstream molecular characterization. This unique
+approach enables PACS to identify cells based on the presence of
+transcripts, genomic DNA sequences, mRNA splice variants, SNPs,
+non-coding RNAs, and other biomarkers not amenable to antibody-based
+probe detection. PACS can be used to sort and enrich cells targeting
+single-copy genomic DNA for the analysis of circulating tumor cells
+(CTCs), intra-tumor heterogeneity, rare stem cells, viral or pathogen
+infections and genomic characterization of cancer immune system response
+and disorder. By analyzing individual cells within a population, it is
+possible to identify rare CTC populations or transient cell states,
+critical to human health and cancer progression, that are otherwise
+unobservable by ensemble measurements. With PACS, we identified and
+sorted prostate cancer cells from a heterogeneous population by
+performing >132,000 simultaneous single-cell TaqMan RT-PCR reactions
+targeting vimentin mRNA. Following vimentin-positive droplet sorting and
+downstream analysis of recovered nucleic acids, we found that
+cancer-specific genomes and transcripts were significantly enriched.
+

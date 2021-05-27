@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Regulation of epidermal growth factor receptor signaling in
+triple-negative breast cancer
+
+
+Although the basal-like 1 (BL1) and BL2 subtypes of triple negative
+breast cancer (TNBC) share similar genetic and biological
+characteristics, patients with BL2 type tumors have markedly poorer
+prognosis. In addition, despite the overexpression of epidermal growth
+factor receptor (EGFR) characteristically observed in basal-like TNBC,
+EGFR inhibitors have performed poorly in clinical trials. In order to
+understand the mechanism of resistance to EGFR inhibition in these
+tumors, our laboratory utilized cell line models of BL2 (SUM-149 and
+SUM-229) and BL1 (MDA-MB-468; MM468) TNBC, all of which overexpress EGFR,
+are PTEN null and exhibit elevated AKT phosphorylation (p-AKT). Compared
+to MCF10A and MM-468 cells, AKT phosphorylation in the SUM-149 and
+SUM-229 cell lines was resistant to treatment with the EGFR inhibitor
+gefitinib, as well as to the PI3K inhibitor BKM120 (BKM) and the mTOR
+inhibitor KU-0063794 (KU). Even treatment with the allosteric AKT
+inhibitor MK2206 (MK) only partially reduced p-AKT. RT-PCR and immunoblot
+analysis of AKT isoform expression showed that in SUM-149 and SUM-229
+cells, AKT3 is expressed at higher levels than AKT1 or AKT2 at both the
+protein and message level. Because AKT3 has a higher IC50 for MK than
+AKT1 or AKT2, increasing doses of MK were used in an effort to abrogate
+AKT phosphorylation. The results showed that MK treatment at higher
+concentrations (5 M) decreased p-AKT. In addition, shRNA-mediated
+knock-down of AKT3 sensitized the cells to inhibition of AKT by BKM, KU
+and MK. Interestingly, MK treatment alone had little effect on colony
+forming efficiency, even at higher doses, but when added in combination
+with gefitinib, MK dramatically reduced colony formation. We then
+investigated the effect of PTEN re-expression on signaling in these cell
+lines. PTEN re-expression alone had little effect on p-AKT in SUM-149 and
+SUM-229 cells, but resulted in a dramatic reduction in p-AKT in MM-468
+cells. Although PTEN expression alone had little effect on p-AKT in
+SUM-149 and 229 cells, these cells exhibited decreased p-AKT following
+treatment with gefitinib and were sensitive to inhibition of AKT by MK.
+In addition, treatment of SUM-149/PTEN cells with gefitinib markedly
+reduced colony-forming efficiency. Our laboratory has previously
+demonstrated that in SUM-149 cells, a set of genes that are essential for
+survival, including PLK1, are uncoupled from regulation by EGFR. Thus, we
+examined the effect of AKT inhibition on expression of PLK1 and found
+that inhibition of AKT or re-expression of PTEN was able to recouple
+EGFR-mediated regulation of PLK1 expression. Our results demonstrate that
+PI-3 kinase and mTORC2 drive phosphorylation of AKT1 but not AKT3 in
+SUM-149 cells, which explains their relative resistance to these targeted
+drugs.
+

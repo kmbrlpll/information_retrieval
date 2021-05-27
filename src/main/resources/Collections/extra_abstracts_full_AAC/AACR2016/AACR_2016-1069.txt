@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: MiR-21 may serve as a predictive biomarker of response in the
+assessment of efficacy of HSP-90 inhibition in gastrointestinal (GI)
+cancers
+
+
+Background and Aims: MicroRNAs mediate drug resistance and are often
+deregulated in cancer with miR-21 upregulation being shared across
+different gastrointestinal (GI) cancers. In this study we aim to identify
+small drugs for which miR-21 may be considered a biomarker of
+sensitivity.Methods: High throughput screening technologies (HST) was
+applied in RKO colorectal cancer (CRC) cells engineered to knock out
+miR-21 locus (miR-21KO) and parental isogenic wild type (WT) cells, as
+well as 6 Biliary Tract Cancer (BTC) cell lines that were NGSed for a
+panel of 64 genes. Library included 484 small molecules that were
+screened at 3 doses against each cell line in triplicate. Transient
+miR-21 inhibition was achieved by reverse transfection. Stable
+doxycycline-activated miR-21 expressing clones of BTC and CRC cells were
+generated with doxycycline-inducible TRIPZ lentiviral vectors.Results:
+Twenty four drugs reduced cell viability compared to DMSO at a greater
+extent in miR-21KO RKO in comparison to WT cells. Enrichment in HSP-90
+inhibitors (including 17-DMAG, 17-AAG and AUY-922) was noticed,
+suggesting that miR-21 may be involved in resistance to HSP-90
+inhibition. HST in BTC cells showed enrichment of HSP-90 inhibitors
+independently on mutational status. However IC50 to AUY-922 was
+correlated to baseline miR-21 expression in BTC cells. Transient
+inhibition of miR-21 enhanced sensitivity to AUY-922 in BTC cells.
+AUY-922 IC50 was 35nM for WT and 17nM for miR-21KO RKO cells. Knock-out
+of miR-21 in DLD-1 cells did not change sensitivity to AUY-922 in line
+with the lower baseline levels of miR-21 in DLD-1 wild type cells.
+However, the reduced levels of baseline miR-21 made them more sensitive
+to AUY-922 than RKO. Doxycycline-activated overexpression of miR-21 in
+miR-21KO DLD-1 cells conferred resistance to AUY-922. When co-cultured
+with non-infected miR-21KO DLD-1 cells, miR-21 overexpressing miR-21KO
+DLD-1 cells were able to drive cell growth in presence of AUY-922. To
+similar extent CCLP with enforced expression of miR-21 were more
+resistant compared to control cells; inactivation of the induction of
+miR-21 overexpression recovered sensitivity to the drug. HSP Array blot
+of AUY-922-treated cells with induced expression of miR-21 showed
+reduction of the co-chaperone HSP-40 protein expression compared to
+control cells.Conclusions: Our data suggest the development of studies
+looking at the biomarker potential of miR-21 to guide treatment with
+HSP-90 inhibitors in GI cancers, as well as pursuing the combination with
+miR-21 inhibitors that may enhance the effect of the drug and avoid
+toxicity by enabling dose reduction.
+

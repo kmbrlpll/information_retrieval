@@ -1,0 +1,35 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A computational method for somatic versus germline variant status
+determination from targeted next-generation sequencing of clinical cancer
+specimens without a matched normal control
+
+
+Background: A key constraint in genomic testing in oncology is that
+matched normal specimens are not commonly obtained in clinical practice.
+Thus, while most clinically relevant genomic alterations have been
+previously characterized and do not require normal tissue for
+interpretation, interpretation of novel variants whose somatic status is
+unknown is limited. We describe our approach to predicting somatic status
+of genomic alterations from tumor tissue alone in a CLIA-certified,
+NGS-based test that interrogates 236 cancer-related genes.Methods: For
+each sample, we obtain a genome-wide CGH profile based on coverage and
+allele frequencies (AF) at >3,500 SNPs, which is segmented and modeled to
+estimate the tumor purity (p), copy number (C), and minor allele count
+(M) at each segment. A variant's measured AF is compared to expectation:
+AFgermline = (pM+1-p)/(pC+2(1-p)) versus AFsomatic = pM/(pC+2(1-p)) and
+prediction is made with statistical confidence based on read depth and
+local variability of SNP AF.Results: For validation, we examined samples
+from 30 lung & colon cancer patients, where we sequenced tumors and
+matched-normal tissue. More broadly, we examined predictions for 17
+somatic hotspot mutations and 20 common germline SNPs in 2,578 clinical
+cancer specimens. Finally, to assess the impact of stromal admixture, we
+examined 3 cell lines, which were titrated with their matched normal to 6
+levels (10% to 75%). Overall, predictions were made in up to 85% of
+cases, with 95%-99% of variants predicted correctly:
+Conclusions: This method leverages deep NGS to predict variant somatic
+status without a matched-normal control. It supports functional
+prioritization and interpretation of alterations discovered on routine
+testing and can indicate additional work-up if germline risk variants are
+found. When optimized and fully validated, it may inform clinical
+decision making and expand treatment choices for cancer patients.
+

@@ -1,0 +1,66 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Unique metabolic profile of Vemurafenib-resistant melanoma cells:
+a quantitative proteomics approach
+
+
+Malignant melanoma is noted for its aggressive clinical behavior and
+propensity for lethal metastasis. Despite the remarkable success of BRAF
+inhibitor Vemurafenib in clinics, emergence of resistance remains a
+limiting factor in increasing overall survival. Thus, comprehensive
+studies are needed to increase the biological understanding of
+BRAF-resistant tumors in order to develop effective therapeutic regimens.
+To study the molecular mechanism(s) involved in acquired resistance, we
+generated a Vemurafenib-resistant cell line in the BRAFV600E mutated
+SK-Mel28 melanoma cell background. Incubation of SK-Mel28 cells with
+Vemurafenib (0.1 M) resulted in an initial loss of cell viability after
+which majority of cells resumed proliferation. Thereafter, cells were
+exposed to gradually increasing Vemurafenib concentrations and allowed to
+proliferate in the presence of 5 M Vemurafenib, to generate the A2-1b
+resistant cell line. Viability assays established the IC50 of parental
+SK-Mel28 cells as 0.2 M, while IC50 > than 12 M was noted for the
+Vemurafenib-resistant A2-1b population. We utilized a quantitative
+proteomics strategy, employing label-free nano-LC-MS/MS technology on a
+Q-exactive, to compare the proteome of A2-1b with SK-Mel28 cells. The
+data searched against the human proteome using the Sequest search engine
+and further analyzed with SIEVE software resulted in the positive
+identification of 1720 proteins (1% FDR). This data set containing
+proteins with only uniquely identified peptides with a high level of
+confidence (pMalignant melanoma is noted for its aggressive clinical
+behavior and propensity for lethal metastasis. Despite the remarkable
+success of BRAF inhibitor Vemurafenib in clinics, emergence of resistance
+remains a limiting factor in increasing overall survival. Thus,
+comprehensive studies are needed to increase the biological understanding
+of BRAF-resistant tumors in order to develop effective therapeutic
+regimens. To study the molecular mechanism(s) involved in acquired
+resistance, we generated a Vemurafenib-resistant cell line in the
+BRAFV600E mutated SK-Mel28 melanoma cell background. Incubation of
+SK-Mel28 cells with Vemurafenib (0.1 M) resulted in an initial loss of
+cell viability after which majority of cells resumed proliferation.
+Thereafter, cells were exposed to gradually increasing Vemurafenib
+concentrations and allowed to proliferate in the presence of 5 M
+Vemurafenib, to generate the A2-1b resistant cell line. Viability assays
+established the IC50 of parental SK-Mel28 cells as 0.2 M, while IC50 >
+than 12 M was noted for the Vemurafenib-resistant A2-1b population. We
+utilized a quantitative proteomics strategy, employing label-free
+nano-LC-MS/MS technology on a Q-exactive, to compare the proteome of
+A2-1b with SK-Mel28 cells. The data searched against the human proteome
+using the Sequest search engine and further analyzed with SIEVE software
+resulted in the positive identification of 1720 proteins (1% FDR). This
+data set containing proteins with only uniquely identified peptides with
+a high level of confidence (p<0.05) was uploaded into Ingenuity Pathway
+Analysis and Panther softwares, with number of peptides and corresponding
+ratio between the two groups, set as observational parameters. Notably,
+the largest fraction (49%) of identified proteins belonged to cellular
+metabolic processes. Glycolysis, gluconeogenesis and NADH repair were the
+major pathways modulated in Vemurafenib-resistant A2-1b cells. In
+addition, TCA cycle and unfolded protein response was significantly
+affected. A subset of 13 proteins, linked to these pathways and not
+previously associated with acquired resistance was identified. The
+upregulated proteins included CALD1, OR4A15, PTPRK, CALU, IDH3A, RNH1,
+CLIC4, SPAG17, SND1 and VCP while ENO2, TPI1 and GAPDH were significantly
+downregulated. In summary, the proteomic approach applied for the first
+time to study acquired resistance to BRAF inhibition identified novel
+targets which upon further validation in appropriate models has the
+potential to provide valuable therapeutic strategies against
+Vemurafenib-resistant melanomas.
+

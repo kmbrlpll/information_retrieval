@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Benzofuran derivatives as a novel class of mTOR signaling
+inhibitors
+
+
+Background: Current clinical development of rapalogues is impaired by
+toxicity when combined with chemotherapy or targeted therapies.
+Furthermore, the antiproliferative activity of rapalogues appears to be
+limited by various molecular mechanisms of resistance in cancer cells..
+Experimental evidences have suggested that specific mTORC1 inhibition
+using rapalogues may be hampered by a negative feedback loop that results
+in PI3K activation due to a lack of mTORC2 inhibition. Thus, new
+generations of drugs targeting either PI3K or PI3K and mTOR kinases may
+avoid the intrinsic weakness of rapalogues. The aim of our study was to
+evaluate the antiproliferative activity of a set of 70 new benzofuran
+derivatives (BFD) in a panel of cancer cell lines and to characterise
+their molecular mechanism of action.Materials and Methods: Cytotoxic
+effects of 70 benzofuran derivatives were determined in the HNSCC cell
+line SQ20B using MTT assay after 72 hours of drug exposure. Activity of
+the best candidates was assessed on a panel of 10 cancer cell lines of
+different origins. Protein expression and phoshorylation after exposure
+to BFD were assessed by western blot. Target identification was realised
+by pull-down assay.Results: Cytotoxicity of BFD1, the first benzofuran
+derivative compound, was assessed on a panel of human colon (HT29,
+HCT116, Colo205, HCC2998), ovarian (OVCAR3, IGROV1), lung (HOP62, HOP92),
+breast (MCF7 and MDA-MB-231), prostate (DU145) and head and neck (SQ20B)
+cancer cell lines; SQ20B cells were the most sensitive with an IC50 of
+40M. Structure Activity Relationship (SAR) studies led to the synthesis
+of 69 derivatives with stepwise increased cytotoxicity against SQ20B
+cells. Early lead compounds BFD22 and BFD27 were shown to inhibit the
+phosphorylation of S6 ribosomal protein, target of mTORC1, in a dose
+dependent manner. In addition, phosphorylation of AKT (Ser473) was
+increased after exposure to high doses of BFD27, suggesting a specific
+inhibition of mTORC1 but not mTORC2. In contrast, the derivatives BFD56
+and BFD62 were more cytotoxic and displayed potent inhibition of mTOR
+targets p-S6, p-4EBP1 and p-AKT, suggesting that those compounds also
+targeted mTORC2 activity. IC50s of 5 best compounds were compared with
+commercially available mTOR inhibitors everolimus and OZI-027. Compound
+BFD27 was then selected for the design of an affinity ligand to identify
+the molecular target of this class of compounds by pull-down assays.
+Western blot analysis showed that BFD27 interacted with mTOR but not
+other proteins that belong to the same signaling pathway, such as Akt,
+Rictor, Raptor, PI3K and PDK1 suggesting that mTOR is the target of this
+class of compounds.Conclusion: We identified a new class of benzofurane
+derivative compounds that interacts with the complex mTORC1 to inhibit
+its activity. SAR studies led to the optimization of mTOR inhibition and
+increased cytotoxicities.
+

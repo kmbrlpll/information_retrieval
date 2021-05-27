@@ -1,0 +1,73 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Characterizing human melanoma treatment response in vivo using
+single-cell mass cytometry analysis of longitudinal tumor biopsies.
+
+
+Introduction: Metastatic melanoma that harbor BRAFV600E mutations are
+treated with inhibitors that inhibit MAPK signaling downstream of BRAF.
+Although these treatments improve patient survival, the majority of
+tumors develop resistance. It is increasingly clear that the presence and
+emergence of cell subsets in the tumor microenvironment shapes treatment
+responses. Mass cytometry is a single cell platform capable of measuring
+>35 proteins on millions of tumor cells. Here, mass cytometry was used to
+characterize matched tumor samples obtained before, during, and after
+therapy in order to quantify the impact of therapy on tumor cell
+populations.
+
+Methods: Melanoma tumors from adults with metastases were biopsied or
+surgically resected from 12 patients with consent. Patients received two
+weeks of BRAFV600E inhibitor dabrafenib followed by two weeks of
+dabrafenib and MEK inhibitor trametinib. Tumors were enzymatically
+digested and cryopreserved with protocols for mass cytometry (Leelatian
+and Doxie et al., Cytometry B 2016). Samples were stained with a 30+
+antibody panel focused on melanoma identity and markers of lineage and
+trafficking for leukocytes, fibroblast, and endothelial cells. Viable
+nucleated cells were identified by total histone H3 and rhodium dye
+exclusion. Expert biaxial gating and viSNE analysis were used to
+identify, computationally map, and track populations and their subsets
+over time. Tissue microarrays were also analyzed by histology to confirm
+findings observed by mass cytometry.
+
+Results: More than 99% of cells were characterized and fell into one of
+the four major populations. Melanoma phenotypes included loss of MHC
+class I and/or expression of one or more markers of identity including
+SOX10, SOX2, nestin, S100β, and MCAM. Significant decreases in nestin,
+MCAM, MHC I and S100β (p Results: More than 99% of cells were
+characterized and fell into one of the four major populations. Melanoma
+phenotypes included loss of MHC class I and/or expression of one or more
+markers of identity including SOX10, SOX2, nestin, S100β, and MCAM.
+Significant decreases in nestin, MCAM, MHC I and S100β (p < 0.01, p
+Results: More than 99% of cells were characterized and fell into one of
+the four major populations. Melanoma phenotypes included loss of MHC
+class I and/or expression of one or more markers of identity including
+SOX10, SOX2, nestin, S100β, and MCAM. Significant decreases in nestin,
+MCAM, MHC I and S100β (p < 0.01, p < 0.05, p Results: More than 99% of
+cells were characterized and fell into one of the four major populations.
+Melanoma phenotypes included loss of MHC class I and/or expression of one
+or more markers of identity including SOX10, SOX2, nestin, S100β, and
+MCAM. Significant decreases in nestin, MCAM, MHC I and S100β (p < 0.01,
+p < 0.05, p < 0.05, and pResults: More than 99% of cells were
+characterized and fell into one of the four major populations. Melanoma
+phenotypes included loss of MHC class I and/or expression of one or more
+markers of identity including SOX10, SOX2, nestin, S100β, and MCAM.
+Significant decreases in nestin, MCAM, MHC I and S100β (p < 0.01, p <
+0.05, p < 0.05, and p<0.05, respectively) were observed in cells after
+treatment. Decreases in nestin and S100β populations identified by mass
+cytometry were observed in histology analysis of TMAs from matched
+tumors. Analysis of pre- and post-therapy melanoma cells and BRAF mutated
+cell lines indicated pre-therapy tumor cells had phenotypes most similar
+to cell lines. Strikingly, 6hrs or 1 day of treatment of cell lines with
+dabrafenib and trametinib did not result in decrease in nestin
+expression. The nestin low post-therapy phenotype of melanoma tumor cells
+was present in all melanoma cell lines at a low abundance (average of
+7.0% +/- 3.9% in cell lines, N = 7).
+
+Conclusions: Single cell analysis and longitudinal monitoring of
+patient’s revealed tumor ecosystems experience rapid changes in
+cellular diversity during targeted therapy. Lower nestin expression
+distinguished treated melanoma tumor cells. The in vitro results suggest
+that in vivo remodeling of the tumor microenvironment results from a
+shift in host-tumor cellular interactions and not a direct response to
+inhibitors.
+
+

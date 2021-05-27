@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Bioluminescent pharmacokinetics of luciferin in preclinical brain
+metastases of breast cancer models.
+
+
+Background: Approximately 20% of breast cancer patients with disseminated
+disease will develop brain metastases. Preclinical models of brain
+metastases of breast cancer rely on ex-vivo histology to evaluate drug
+efficacy. However, bioluminescence imaging allows more precise
+quantification of tumor burden and progression through counting photons
+per second without requiring animal sacrifice. This methodology has not
+readily been applied to hematogenously derived brain metastases models
+given the heterogeneity of tumor burden and growth. Herein we demonstrate
+repeatable methodology to quantify brain metastases of breast cancer
+progression which is verified with histology.
+
+Methods: Approximately 1.75 x 105 JIMT-1 (n=3) and 231-BrLuc (n=4) brain
+seeking subclones were injected intracardially to produce metastatic
+brain lesions. Mice were given 150 mg/kg of luciferin IP and luminescence
+was captured every 2-minutes for 60 minutes starting 24 hours after cell
+implantation. Radiance (photons per second per square centimeter per
+steridian) was plotted to observe peak luminescence. Imaging was repeated
+twice weekly to evaluate progression until euthanasia.
+
+Results: Following intracardiac injection, both brain seeking metastatic
+models produced a maximum luminescence signal between 14-20 minutes after
+luciferin injection. For all subsequent imaging, 5 minute imaging between
+15-20 minutes after luciferin injection was used. Longitudinally, both
+tumor cell lines produce bioluminescence 24 hours after cell injection,
+which is used to ensure tumor implantation and randomization. The BLI
+signal decreases to undetectable limits in both models between 3-7 days
+after cell implantation. Re-emergence of signal occurs on day 14 for the
+JIMT-1 line and day 21 for 231-Br line. JIMT-1 bioluminescence on day 14
+begins at ~105 photons/sec/cm2/sr and then over time signal increases
+with an ~slope of 5.6x105 until reaching a maximum of 107 units on day
+28. 231-Br bioluminescence on day 21 begins at ~104 photons/sec/cm2/sr
+and then over time signal increases with an ~ slope of 1.1x106 until
+reaching a maximum of ~107 on day 53.
+
+Conclusion: To accurately measure bioluminescence as a surrogate for
+tumor burden in hematogenously implanted metastases, the optimal
+circulation time is approximately 15 minutes with a 5 minute imaging
+period. Bioluminescence of the 231Br line initially starts at a lower
+magnitude and later in time than the JIMT-1 line, but slopes of both
+intracardiac models are similar and result in similar bioluminescent
+curves.
+
+

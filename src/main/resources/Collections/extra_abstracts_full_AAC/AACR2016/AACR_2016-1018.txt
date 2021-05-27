@@ -1,0 +1,55 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Structural features of novel dimeric quinacrines that have
+single-agent antitumor activity determine the mechanism of action:
+destabilization of mTORC1/lysosomal interaction versus DNA damage
+
+
+The safety and preliminary activity of hydroxychloroquine in phase I
+cancer clinical trials have established the feasibility and rationale for
+targeting the lysosome in cancer. We previously reported a more potent
+lysosomal inhibitor Lys05, which is a dimeric chloroquine (CQ) linked
+with a triamine linker. Here we report that high throughput screening of
+>100 Lys05 derivatives (72-hour viability assay) revealed extending
+linker length between the CQ motifs markedly enhanced anti-proliferative
+potency (IC50 The safety and preliminary activity of hydroxychloroquine
+in phase I cancer clinical trials have established the feasibility and
+rationale for targeting the lysosome in cancer. We previously reported a
+more potent lysosomal inhibitor Lys05, which is a dimeric chloroquine
+(CQ) linked with a triamine linker. Here we report that high throughput
+screening of >100 Lys05 derivatives (72-hour viability assay) revealed
+extending linker length between the CQ motifs markedly enhanced
+anti-proliferative potency (IC50 <500 nM v. 5 M Lys05). Longer linker
+dimeric CQs produced significantly greater autophagy inhibition (2-5 fold
+improved v. Lys05; mCherry-eGFP-LC3 reporter) and apoptosis (2-8 fold
+improved v. Lys05) in human pancreatic cancer, melanoma and in KRAS
+mutant P53-/- mouse pancreatic cells. We then substituted the CQ
+heterocycle of Lys05 with other antimalarial heterocycles including those
+found in mefloquine, primaquine and quinacrine. Dimeric quinacrines (DQs)
+were exquisitely cytotoxic to cancer cell lines (IC50 9 - 90nM; 40 fold
+improvement v. quinacrine). These agents were renamed DQ221-661, where
+the first and second digit of each compound indicates the number of
+carbons flanking the central nitrogen and the third digit reflects
+whether the central nitrogen in the dimeric molecule is methylated (1) or
+not (0). Inherent fluorescence of the DQs uncovered a striking pattern of
+subcellular localization dependent on central nitrogen methylation. All
+of the methylated DQs localized to the lysosome and inhibited autophagic
+flux (bafilomycin clamp assay), while all of the unmethylated DQ's
+localized to the nucleus, produced pH2AX-positive DNA damage, and induced
+autophagy. Methylated DQs produced lysosomal membrane permeabilization
+(LMP; galectin-3 puncta), and equal cytotoxicity in ATG5 WT and ATG5-null
+MEFs, indicating their cytotoxicity is not dependent on functional
+upstream canonical autophagy. Reverse phase protein array analysis of
+dimeric CQs Lys05, Lys75 and DQ661 revealed a signature associated with
+inactivation of mTORC1 (decreased phosphorylation of S6K, 4E-BP1,
+PRAS40). DQ661 disrupted mTOR/LAMP2 co-localization and induced greater
+levels of apoptosis compared to BRAF/MEK inhibition in BRAF-MT melanoma
+cells, gemcitabine in pancreatic cancer cells, or early stage autophagy
+inhibitors Spautin-1 and SBI-0206965. Unlike quinacrine, which had no
+effect, or DQ660, which produced a modest but significant growth
+impairment, DQ661 produced significant tumor regression in a melanoma
+xenograft model, establishing the therapeutic potential of this compound
+in cancer. Our data identifies a new class of lysosomal inhibitors, the
+centrally methylated dimeric quinacrines, devoid of DNA damaging
+properties, that are capable of concurrently inhibiting
+autophagy-lysosome function and mTORC1 through LMP.
+

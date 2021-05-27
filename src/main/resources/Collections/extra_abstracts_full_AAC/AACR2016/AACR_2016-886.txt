@@ -1,0 +1,60 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Notch signaling activates B-cell specific enhancers to drive
+oncogene targets in B-cell lymphoma
+
+
+Recurrent gain-of-function mutations in genes encoding Notch receptors
+are associated with poor clinical outcome in chronic lymphocytic leukemia
+(CLL) and mantle cell lymphoma (MCL), but genome-wide functional targets
+of Notch signaling in B cells have not been characterized.We identified
+genome-wide binding sites for Notch transcription factor (TF) complexes,
+using antibodies specific for intracellular NOTCH1 and its binding
+partner RBPJ, in CLL and MCL lymph node biopsies, and lymphoma cell
+lines. We employed a gamma-secretase inhibitor washout strategy to
+rapidly modulate mutant NOTCH1 protein activation in complementary
+lymphoma cell line models of ligand-dependent and ligand-independent
+Notch signaling, and performed RNA-sequencing and genome-wide enhancer
+acetylation profiling in both the notch on and notch off states. These
+data identify a common set of functional Notch target genes in B-cell
+lymphoma that includes both canonical Notch targets as well as
+B-cell-specific target genes. The latter are frequently associated with
+adjacent B-cell-specific enhancers that show direct Notch TF binding and
+Notch-signaling-dependent histone acetylation. Notch-activated target
+genes include MYC and other TFs implicated in B-cell lymphoma, and are
+significantly enriched for mediators of targetable oncogenic lymphoma
+signaling pathways, (B-cell receptor, toll-like receptor, JAK-STAT, MAP
+kinase, and G-protein signaling pathways, all FDR q-value Recurrent
+gain-of-function mutations in genes encoding Notch receptors are
+associated with poor clinical outcome in chronic lymphocytic leukemia
+(CLL) and mantle cell lymphoma (MCL), but genome-wide functional targets
+of Notch signaling in B cells have not been characterized.We identified
+genome-wide binding sites for Notch transcription factor (TF) complexes,
+using antibodies specific for intracellular NOTCH1 and its binding
+partner RBPJ, in CLL and MCL lymph node biopsies, and lymphoma cell
+lines. We employed a gamma-secretase inhibitor washout strategy to
+rapidly modulate mutant NOTCH1 protein activation in complementary
+lymphoma cell line models of ligand-dependent and ligand-independent
+Notch signaling, and performed RNA-sequencing and genome-wide enhancer
+acetylation profiling in both the notch on and notch off states. These
+data identify a common set of functional Notch target genes in B-cell
+lymphoma that includes both canonical Notch targets as well as
+B-cell-specific target genes. The latter are frequently associated with
+adjacent B-cell-specific enhancers that show direct Notch TF binding and
+Notch-signaling-dependent histone acetylation. Notch-activated target
+genes include MYC and other TFs implicated in B-cell lymphoma, and are
+significantly enriched for mediators of targetable oncogenic lymphoma
+signaling pathways, (B-cell receptor, toll-like receptor, JAK-STAT, MAP
+kinase, and G-protein signaling pathways, all FDR q-value < 1e-3 in KEGG
+and / or Reactome analyses). Many B-cell Notch target genes show
+significantly increased expression in lymph nodes from patients with
+NOTCH1 mutant vs. wild-type CLL. Notch target genes are also up-regulated
+in lymph node- versus peripheral blood-derived CLL cells, consistent with
+immunohistochemical evidence for microenvironment-dependent Notch
+signaling activation in the CLL lymph node. Combined small-molecule
+inhibition of Notch and B-cell receptor signaling showed a synergistic
+anti-proliferative effect in Notch-dependent lymphoma cells.Our data
+reveal the functional regulome of Notch signaling in small B-cell
+lymphoma, and may have implications for the role of Notch signaling in
+normal B-cell development. These findings suggest novel strategies for
+rational combination therapy in CLL and MCL.
+

@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Gene expression profiling for cancer classification in circulating
+tumor cells
+
+
+Background: Enumeration and molecular characterization of circulating
+tumor cells (CTCs) offer a non-invasive method for tumor analysis,
+particularly in cases where the biopsy is difficult to obtain or has been
+exhausted by conventional diagnostic methods. The 92-gene assay
+(CancerTYPE ID, bioTheranostics, Inc.) is a clinically-validated cancer
+classifier based on the collective expression of 87 informative genes,
+many of which are involved in lineage commitment and signal transduction.
+The objective of this study was to determine the feasibility of a
+blood-based application using differential gene expression.Methods:
+Technical feasibility studies for cancer cell enrichment and RNA
+viability were conducted by purifying cancer cell lines that were spiked
+into donor blood using a microfluidic chip (Celsee PREP100 system, Celsee
+Diagnostics) followed by immunodepletion of leukocytes. Quantitative
+RT-PCR and immunoflourescence were performed on cells harvested at
+different steps of the purification workflow. Quantitative RT-PCR on
+individual genes specific to each lineage compartment was used to
+estimate cell types and cell numbers that were co-purified by the
+workflow. Gene expression was evaluated by the 92-gene assay.Results: An
+integrated workflow was established that allows for the molecular
+characterization of cancer cells purified from blood. Cell enrichment on
+the microfluidic chip followed by purification using immunodepletion
+resulted in efficient recovery (> 80% of input cells) and viable RNA from
+cancer cells spiked into whole blood. A key result of this study was the
+demonstration that the level of cancer-specific gene expression in
+purified samples was similar to the level of expression from an
+equivalent number of unspiked cancer cells suggests that significant cell
+loss does not occur during the purification workflow. A comparison of
+gene expression profiles from purified and mixed cell populations allowed
+for the identification of subsets of genes that are differentially
+expressed in cancer cells compared with leukocytes.Conclusion: A
+functional workflow with viable RNA and efficient recovery of cancer
+cells that are within the technical specifications of the 92-gene assay
+was established. Findings from this feasibility study are fundamental to
+the potential for CTC-based cancer classification.
+

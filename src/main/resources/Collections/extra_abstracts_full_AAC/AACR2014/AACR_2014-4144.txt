@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Genetic and epidemiology characterization of head and neck cancers
+by targeted sequencing
+
+
+Oral and pharyngeal cancer, grouped together, is the sixth most common
+cancer in the world. The annual estimated incidence is around 275,000 for
+oral and 130,300 for pharyngeal cancers excluding nasopharynx, two-thirds
+of these cases occurring in developing countries.The principal objective
+of this work was to investigate the somatic genetic changes that
+influence the risk of head and neck cancer occurrence and outcome, and
+how they interact with environmental and host factors: HPV infection,
+alcohol and Smoking.We selected 205 paired samples diagnosed as head and
+neck SCC included in two multicenter studies in Europe and Brazil:
+ARCAGE, a multi center case- control study, conducted between 2002-2005
+involving 10 countries across Europe and the Gencapo case- control study
+in the state of Sao Paulo from 2001 to 2010.Targeted sequencing was
+performed independently on both germline DNA and the tumor material using
+the PGM System at an average depth of 250X.Sequencing included the entire
+coding region of 5 of the most frequently mutated genes in Head and Neck
+cancer: TP53, NOTCH1, CDKN2A, CASP8, and PTEN. HPV status was achieved by
+capsid protein serology and DNA genotyping. Statistical tests were
+carried out in the R statistical programming environment or using STATA
+statistic software. Kaplan-Meier analysis was used to determine overall
+survival.Statistically significant differences in exposure status were
+found between both series of patients with more prevalent cases of former
+and current both smokers and alcohol drinkers in Brazil(p=0.001). 76% and
+63% of the patients in each series had at least 1 mutation and there were
+no significant differences in the percentage of mutations found. Most of
+the mutations were found in TP53 (60%) and NOTCH1 (18%). Smoking status
+was significantly associated to TP53 mutations (p=0.015). Positive
+serology for HPV16 E6 oncoprotein was associated to Oropharyngeal tumors
+all of which lack TP53 mutations.When comparing the survival of patients
+according to the mutational profile we found a reduction in overall
+survival for those patients carrying mutations in TP53 (p=0.002) and
+CDKN2A (p=0.001).Combined molecular profiling and exposure data can be a
+resource to assess the role of lifestyle habits on prognosis, and will
+help to identify early markers of survival for head and neck cancer
+patients.
+

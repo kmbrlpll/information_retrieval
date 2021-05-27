@@ -1,0 +1,181 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Mechanistic and functional implications of FABP4 in ovarian cancer
+metastasis
+
+
+Purpose:The purpose of this study was to identify molecular predictors of
+residual disease (RD) in high grade serous ovarian cancer (HGSC) and
+further understand their role in promoting cancer metastasis.Method:The
+current study analyzed Affymetrix gene expression data of 504 HGSC cases
+from The Cancer Genome Atlas (TCGA) data to identify differentially
+expressed genes in tumors from patients with no gross residual disease
+after surgery (NRD) or presence of RD following initial debulking
+surgery. It was followed by qRT-PCR analysis of tumor samples for
+validation purposes. RPPA data of 354 patients from TCGA were analyzed.
+Immunohistochemical analysis was performed on the patient samples to
+determine the expression at the protein level (cancer versus stromal
+cells). Gene array was carried out after overexpressing the selected gene
+in ovarian cancer cells and the data was analyzed by Ingenuity Pathway
+Analysis (IPA). In vitro (migration and invasion) and in vivo (orthotopic
+mouse models) assays were used to determine the biological roles of
+gene(s) identified from the above analyses.Results: In TCGA data set,
+97/107 (90.6%) of the patients with high expression of FABP4 gene had
+residual disease. In the validation cohort, among the 35 patients
+predicted to be at high risk for residual disease, 30 (86%) did have
+residual disease. In contrast, only 54 of the 104 patients with FABP4
+values below the decision threshold (52%) had incomplete resection (p =
+0.0002). RPPA analysis indicated that expression of FABP4 was positively
+correlated (Spearman correlation analysis) with expression of several
+other proteins known to increase tumor cell infiltration and metastasis
+such as JNK2 (p = 0.194), transglutaminase (p = 0.199), c-kit (p =
+0.173), fibronectin (p = 0.364), PKC-A (p = 0.178), collagen-6 (p =
+0.197) and paxillin (p = 0.239). It was negatively correlated with
+E-cadherin (p = -0.246) and claudin-7 (p = -0.201) expression.
+Immunohistochemical analysis confirmed that apart from endothelial cells
+and adipocytes, cancer cells also express significant amount of FABP4. In
+vitro assays showed significant reduction in invasion and migration after
+silencing FABP4 in HGSC cell lines (pPurpose:The purpose of this study
+was to identify molecular predictors of residual disease (RD) in high
+grade serous ovarian cancer (HGSC) and further understand their role in
+promoting cancer metastasis.Method:The current study analyzed Affymetrix
+gene expression data of 504 HGSC cases from The Cancer Genome Atlas
+(TCGA) data to identify differentially expressed genes in tumors from
+patients with no gross residual disease after surgery (NRD) or presence
+of RD following initial debulking surgery. It was followed by qRT-PCR
+analysis of tumor samples for validation purposes. RPPA data of 354
+patients from TCGA were analyzed. Immunohistochemical analysis was
+performed on the patient samples to determine the expression at the
+protein level (cancer versus stromal cells). Gene array was carried out
+after overexpressing the selected gene in ovarian cancer cells and the
+data was analyzed by Ingenuity Pathway Analysis (IPA). In vitro
+(migration and invasion) and in vivo (orthotopic mouse models) assays
+were used to determine the biological roles of gene(s) identified from
+the above analyses.Results: In TCGA data set, 97/107 (90.6%) of the
+patients with high expression of FABP4 gene had residual disease. In the
+validation cohort, among the 35 patients predicted to be at high risk for
+residual disease, 30 (86%) did have residual disease. In contrast, only
+54 of the 104 patients with FABP4 values below the decision threshold
+(52%) had incomplete resection (p = 0.0002). RPPA analysis indicated that
+expression of FABP4 was positively correlated (Spearman correlation
+analysis) with expression of several other proteins known to increase
+tumor cell infiltration and metastasis such as JNK2 (p = 0.194),
+transglutaminase (p = 0.199), c-kit (p = 0.173), fibronectin (p = 0.364),
+PKC-A (p = 0.178), collagen-6 (p = 0.197) and paxillin (p = 0.239). It
+was negatively correlated with E-cadherin (p = -0.246) and claudin-7 (p =
+-0.201) expression. Immunohistochemical analysis confirmed that apart
+from endothelial cells and adipocytes, cancer cells also express
+significant amount of FABP4. In vitro assays showed significant reduction
+in invasion and migration after silencing FABP4 in HGSC cell lines
+(p<0.0001). On the other hand, overexpression of FABP4 led to increased
+invasion and migration (pPurpose:The purpose of this study was to
+identify molecular predictors of residual disease (RD) in high grade
+serous ovarian cancer (HGSC) and further understand their role in
+promoting cancer metastasis.Method:The current study analyzed Affymetrix
+gene expression data of 504 HGSC cases from The Cancer Genome Atlas
+(TCGA) data to identify differentially expressed genes in tumors from
+patients with no gross residual disease after surgery (NRD) or presence
+of RD following initial debulking surgery. It was followed by qRT-PCR
+analysis of tumor samples for validation purposes. RPPA data of 354
+patients from TCGA were analyzed. Immunohistochemical analysis was
+performed on the patient samples to determine the expression at the
+protein level (cancer versus stromal cells). Gene array was carried out
+after overexpressing the selected gene in ovarian cancer cells and the
+data was analyzed by Ingenuity Pathway Analysis (IPA). In vitro
+(migration and invasion) and in vivo (orthotopic mouse models) assays
+were used to determine the biological roles of gene(s) identified from
+the above analyses.Results: In TCGA data set, 97/107 (90.6%) of the
+patients with high expression of FABP4 gene had residual disease. In the
+validation cohort, among the 35 patients predicted to be at high risk for
+residual disease, 30 (86%) did have residual disease. In contrast, only
+54 of the 104 patients with FABP4 values below the decision threshold
+(52%) had incomplete resection (p = 0.0002). RPPA analysis indicated that
+expression of FABP4 was positively correlated (Spearman correlation
+analysis) with expression of several other proteins known to increase
+tumor cell infiltration and metastasis such as JNK2 (p = 0.194),
+transglutaminase (p = 0.199), c-kit (p = 0.173), fibronectin (p = 0.364),
+PKC-A (p = 0.178), collagen-6 (p = 0.197) and paxillin (p = 0.239). It
+was negatively correlated with E-cadherin (p = -0.246) and claudin-7 (p =
+-0.201) expression. Immunohistochemical analysis confirmed that apart
+from endothelial cells and adipocytes, cancer cells also express
+significant amount of FABP4. In vitro assays showed significant reduction
+in invasion and migration after silencing FABP4 in HGSC cell lines
+(p<0.0001). On the other hand, overexpression of FABP4 led to increased
+invasion and migration (p<0.01). In vivo stable overexpression of FABP4
+increased the tumor weight by 3.5 fold (pPurpose:The purpose of this
+study was to identify molecular predictors of residual disease (RD) in
+high grade serous ovarian cancer (HGSC) and further understand their role
+in promoting cancer metastasis.Method:The current study analyzed
+Affymetrix gene expression data of 504 HGSC cases from The Cancer Genome
+Atlas (TCGA) data to identify differentially expressed genes in tumors
+from patients with no gross residual disease after surgery (NRD) or
+presence of RD following initial debulking surgery. It was followed by
+qRT-PCR analysis of tumor samples for validation purposes. RPPA data of
+354 patients from TCGA were analyzed. Immunohistochemical analysis was
+performed on the patient samples to determine the expression at the
+protein level (cancer versus stromal cells). Gene array was carried out
+after overexpressing the selected gene in ovarian cancer cells and the
+data was analyzed by Ingenuity Pathway Analysis (IPA). In vitro
+(migration and invasion) and in vivo (orthotopic mouse models) assays
+were used to determine the biological roles of gene(s) identified from
+the above analyses.Results: In TCGA data set, 97/107 (90.6%) of the
+patients with high expression of FABP4 gene had residual disease. In the
+validation cohort, among the 35 patients predicted to be at high risk for
+residual disease, 30 (86%) did have residual disease. In contrast, only
+54 of the 104 patients with FABP4 values below the decision threshold
+(52%) had incomplete resection (p = 0.0002). RPPA analysis indicated that
+expression of FABP4 was positively correlated (Spearman correlation
+analysis) with expression of several other proteins known to increase
+tumor cell infiltration and metastasis such as JNK2 (p = 0.194),
+transglutaminase (p = 0.199), c-kit (p = 0.173), fibronectin (p = 0.364),
+PKC-A (p = 0.178), collagen-6 (p = 0.197) and paxillin (p = 0.239). It
+was negatively correlated with E-cadherin (p = -0.246) and claudin-7 (p =
+-0.201) expression. Immunohistochemical analysis confirmed that apart
+from endothelial cells and adipocytes, cancer cells also express
+significant amount of FABP4. In vitro assays showed significant reduction
+in invasion and migration after silencing FABP4 in HGSC cell lines
+(p<0.0001). On the other hand, overexpression of FABP4 led to increased
+invasion and migration (p<0.01). In vivo stable overexpression of FABP4
+increased the tumor weight by 3.5 fold (p<0.05). It also increased the
+number of nodules by 2.5 fold (pPurpose:The purpose of this study was to
+identify molecular predictors of residual disease (RD) in high grade
+serous ovarian cancer (HGSC) and further understand their role in
+promoting cancer metastasis.Method:The current study analyzed Affymetrix
+gene expression data of 504 HGSC cases from The Cancer Genome Atlas
+(TCGA) data to identify differentially expressed genes in tumors from
+patients with no gross residual disease after surgery (NRD) or presence
+of RD following initial debulking surgery. It was followed by qRT-PCR
+analysis of tumor samples for validation purposes. RPPA data of 354
+patients from TCGA were analyzed. Immunohistochemical analysis was
+performed on the patient samples to determine the expression at the
+protein level (cancer versus stromal cells). Gene array was carried out
+after overexpressing the selected gene in ovarian cancer cells and the
+data was analyzed by Ingenuity Pathway Analysis (IPA). In vitro
+(migration and invasion) and in vivo (orthotopic mouse models) assays
+were used to determine the biological roles of gene(s) identified from
+the above analyses.Results: In TCGA data set, 97/107 (90.6%) of the
+patients with high expression of FABP4 gene had residual disease. In the
+validation cohort, among the 35 patients predicted to be at high risk for
+residual disease, 30 (86%) did have residual disease. In contrast, only
+54 of the 104 patients with FABP4 values below the decision threshold
+(52%) had incomplete resection (p = 0.0002). RPPA analysis indicated that
+expression of FABP4 was positively correlated (Spearman correlation
+analysis) with expression of several other proteins known to increase
+tumor cell infiltration and metastasis such as JNK2 (p = 0.194),
+transglutaminase (p = 0.199), c-kit (p = 0.173), fibronectin (p = 0.364),
+PKC-A (p = 0.178), collagen-6 (p = 0.197) and paxillin (p = 0.239). It
+was negatively correlated with E-cadherin (p = -0.246) and claudin-7 (p =
+-0.201) expression. Immunohistochemical analysis confirmed that apart
+from endothelial cells and adipocytes, cancer cells also express
+significant amount of FABP4. In vitro assays showed significant reduction
+in invasion and migration after silencing FABP4 in HGSC cell lines
+(p<0.0001). On the other hand, overexpression of FABP4 led to increased
+invasion and migration (p<0.01). In vivo stable overexpression of FABP4
+increased the tumor weight by 3.5 fold (p<0.05). It also increased the
+number of nodules by 2.5 fold (p<0.05). Overexpression also led to
+increase in metastasis sites including liver, spleen, diaphragm and
+omentum, while the tumor in the control group was confined to ovary and
+peritoneal cavity. Histological analysis of tumor tissues showed
+infiltrative phenotype after overexpression of FABP4.Conclusion:These
+findings provide a new understanding of ovarian cancer metastasis and
+identify a potentially important target for therapeutic intervention.
+

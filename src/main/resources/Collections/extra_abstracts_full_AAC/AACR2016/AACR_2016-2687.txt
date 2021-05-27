@@ -1,0 +1,39 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Rapid in vivo testing of tumor suppressors in ILC by CRISPR-Cas9
+mediated somatic gene editing of the mammary gland
+
+
+Invasive lobular carcinoma (ILC) is the second most common breast cancer
+subtype, accounting for 5% to 15% of breast tumors.The majority of ILCs
+are characterized by the complete loss of the cell adhesion protein
+E-cadherin encoded by the CDH1 gene. However, WAPcre;Cdh1F/F mice with
+mammary gland-specific E-cadherin loss do not develop ILC, unless coupled
+with the additional disruption of a tumor suppressor gene, like Pten or
+Trp53. Compound mutant mice develop lesions that closely resemble the
+human disease in terms of histology and invasivity. However, genome-wide
+sequencing projects and forward genetic screens identified a number of
+additional putative ILC-initiating loci. Hence, there is now an urgent
+need for validation and characterization of these candidate cancer genes.
+We sought to determine if it was possible to deploy CRISPR/Cas9
+technology to somatically inactivate candidate tumor suppressor genes in
+mammary gland tissue of adult mice. For this purpose we performed in
+Cdh1F/F mice intraductal injections of high-titer lentiviral vectors
+carrying different combinations of Cre, Cas9 and sgRNAs targeting several
+candidate genes, including Pten, Tgfbr2, Myh9, Nf1 and Fbxw7. We found
+that Cas9-bearing vectors elicited strong immune responses against
+transduced cells, which resulted in small ILC lesions surrounded by
+immune cells. However, when Cas9 was expressed endogenously in the
+mammary tissue from a knock-in allele, intraductal injection of
+lentiviral vectors encoding the sgRNA moiety of the CRISPR system was
+sufficient to induce penetrant and multifocal ILC formation in
+WAPcre;Cdh1F/F;Cas9 female mice. Sequencing revealed specific mutations
+clustered in the CRISPR targeted gene, and positive selection for
+loss-of-function indels. Indeed, immunohistochemistry and
+immunofluorescence analysis confirmed that tumors were largely deficient
+for E-cadherin and the targeted gene. In sum, we have successfully
+established a new platform for in vivo CRISPR-Cas9 mediated somatic gene
+editing in the mouse mammary gland. This rapid and versatile platform can
+be used to identify novel tumor drivers (e.g.by employing forward genetic
+screens) and validate candidate cancer genes in ILC and other breast
+cancer types.
+

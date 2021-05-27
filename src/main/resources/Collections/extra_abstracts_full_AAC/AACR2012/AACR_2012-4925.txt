@@ -1,0 +1,43 @@
+Meeting: 2012 AACR Annual Meeting
+Title: The natural enzyme sequestration in signaling cascades provides
+inherent opportunities for off-target effects induced by kinase inhibitors
+
+
+Off-target effects from targeted therapies are often attributed to
+cross-talk, which usually refers to inter-pathway molecular interactions
+that occur because of explicit regulatory feedback connections between
+two pathways. Recent experimental and theoretical studies have
+demonstrated, however, that covalently modified cascades naturally
+exhibit bidirectional signal propagation via a phenomenon termed
+retroactivity. This phenomenon arises due to enzyme sequestration where
+each cycle is coupled, not only to the next cycle, but also to the
+previous cycle. While retroactivity occurs naturally in covalently
+modified cascades, signaling pathways likely evolved to propagate
+information in a downstream manner. An important consequence of
+retroactivity, however, is that a downstream perturbation can induce an
+upstream response without the presence of regulatory feedback
+connections. We hypothesize that kinase inhibitors can produce off-target
+effects as a consequence of retroactivity alone via the following
+mechanism: a signal travels upstream from the site of a downstream
+perturbation through retroactivity and, upon reaching a shared upstream
+component, is delivered to an independent parallel pathway. To test the
+hypothesis we used a computational model to simulate the targeted
+inhibition of a specific kinase in a series signaling networks using
+physiologically and therapeutically relevant ranges for all parameters.
+Surprisingly, our results suggest that an off-target effect due to
+retroactive signaling is more likely when the first cycle in a
+non-inhibited cascade is off and not consuming large amounts of a shared
+up-stream activator. Our results also suggest that the kinetics governing
+covalently modified cycles in a cascade are more important for
+propagating an upstream off-target effect than the binding affinity of
+the drug to the targeted protein, which is a commonly optimized property
+in drug development. Finally, our results suggest that a single mutation
+has the capacity to produce a large spontaneous off-target effect without
+any direct regulatory connections between the targeted protein and the
+effected protein. Together, our results suggest that retroactivity may
+play an important role in the dysregulated signaling networks of cancer
+cells as well as the cellular response to targeted therapies. These
+findings have important implications for somatic evolution in cancer and
+the onset of therapeutic resistance, which has been widely reported for
+many targeted cancer therapeutics, including kinase inhibitors.
+

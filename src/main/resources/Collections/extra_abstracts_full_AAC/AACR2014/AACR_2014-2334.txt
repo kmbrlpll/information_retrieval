@@ -1,0 +1,29 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identification of differentially expressed genes and somatic
+mutations in esophageal adenocarinoma cancer patients
+
+
+High throughput sequencing technologies are currently revolutionizing the
+cancer research area with rapid improvements in sequencing capacity and
+time consumption. As a result the most time consuming step has moved from
+being the sequencing process itself to being the bioinformatic data
+analysis.RNA sequencing (RNA-Seq) is used in an increasing number of
+transcriptomic studies. The great advantage of using RNA-Seq is its
+ability to precisely quantify transcript levels and identify novel
+transcripts, isoforms, and splice junctions, while further providing
+information of the mutational landscape down to single base resolution.
+To ease the hurdles associated with RNA-Seq data analysis there is an
+increasing demand for tools that are specifically tailored to RNA-Seq
+data.Here we describe how the newly developed CLC Cancer Research
+Workbench can be used to analyze and visualize RNA-Seq data with
+ready-to-use workflows that automatically map, quantify, and annotate
+transcriptomes. We identify differentially expressed genes and
+transcripts in Illumina HiSeq transcriptomic data from matched tumor and
+normal samples from four esophageal adenocarinoma cancer patients, and
+compare the mutational patterns in the samples with the expression values
+of the corresponding genes.Results are visualized in a track based genome
+browser view, which provides the means for quick and easy navigation as
+well as allowing the user to simultaneously view and annotate multiple
+samples and different data types (e.g. genes, transcript expression
+levels, and detected variants).
+

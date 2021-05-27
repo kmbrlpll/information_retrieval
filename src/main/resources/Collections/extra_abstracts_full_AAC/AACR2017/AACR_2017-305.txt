@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: TET blocks cell cycle progression in pancreatic cancer cells at
+G1-S boundary by decreasing cyclin D1 and increasing CDK inhibitors
+(CKIs), p21 (WAF1, Cip1) and p27 (Kip1).
+
+
+Introduction: Pancreatic cancer (PaCa) is the fourth leading cause of
+cancer related deaths in the United States with an overall five-year
+survival rate of less than five percent. The current standard treatment/s
+for PaCa are largely ineffective thus there is an urgent need for
+development of therapeutic agents for the treatment of PaCa. Owing to its
+mutational landscape, which involves mutated KRAS and p53 genes these
+cancer cells have a deregulated G1 checkpoint of cell cycle control and
+therefore confer high rate of proliferation and therapeutic resistance.
+Recently we observed that Tetrandrine derivative (TET), a
+bis-benzylisoquinoline alkaloid halts cell cycle progression at G0/G1
+boundary in vitro and in vivo. In the present study we evaluated
+potential mechanism of TET induced cell cycle arrest in two pancreatic
+cancer cells with either wild type KRAS or mutant KRAS, and mutant p53 by
+evaluating critical cell cycle regulatory proteins involved in G0/G1 to S
+transition.
+
+Methods: Pancreatic Cancer cell lines: BxPC3 (Pancreatic Ductal
+Adeno-Carcinoma) and MiaPaCa2 (pancreatic carcinoma) were used in the
+study. Cells were treated with various concentrations of TET for
+different time points. Cell proliferation was evaluated using the MTT
+survival assay. Cell cycle was analyzed following PI staining via Flow
+cytometry. Changes in protein expression were analyzed by Western Blot
+analysis in cells. Changes in mRNA were evaluated by real time PCR.
+
+Results: Treatment of pancreatic cancer cells with TET resulted in
+decreased levels cyclin D1 and phospho-Rb, two critical proteins required
+for G0/G1 to S transition. Pretreatment of the cells with proteasomal
+inhibitor MG132 was able to increase the levels of cyclin D1 in control
+cells but was unable to prevent its loss upon TET treatment. Our results
+also show that levels of CKIs, p21WAF1/Cip1 and p27Kip1 were increased at
+the protein level. Gene expression analysis revealed that cyclin D1 mRNA
+was decreased and p21WAF1/Cip1 mRNA was increased while there was no
+significant change in p27 mRNA levels. The cycloheximide chase revealed
+that TET stabilizes p27Kip1 and to some extent p21WAF1/Cip1 as well,
+suggesting that TET increased p27Kip1 and also p21WAF1/Cip1 levels in
+part by increasing protein stability. These data suggest a complex
+mechanism by which TET regulates expression of critical cell cycle
+regulatory molecules at both transcriptional, translational and
+post-translational level. Such a mechanism would provide for cell cycle
+arrest in pancreatic cancer cells following TET treatment.
+
+Conclusion: These results show that TET halts cell cycle at G0/G1
+boundary in PaCa cells by modulating the cell cycle regulatory proteins
+and stabilizing the CKIs by altering their protein stability, suggesting
+that TET can not only halt deregulated cell cycle but also overcome the
+therapeutic resistance in pancreatic cancer cells.
+
+

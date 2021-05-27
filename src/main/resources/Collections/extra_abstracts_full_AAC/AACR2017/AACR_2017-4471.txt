@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Novel SF3B1 deletion mutations result in aberrant RNA splicing in
+CLL patients.
+
+
+Recurrent heterozygous mutations in SF3B1, a component of the U2snRNP
+complex involved in branchsite recognition during the first step of
+splicing catalysis, are found in various solid tumors and hematologic
+cancers including myelodysplastic syndromes (MDS) and chronic lymphocytic
+leukemia (CLL). To provide broader insight into the effects of SF3B1
+mutations on RNA splicing in CLL, RNAseq was performed on 215 CLL patient
+samples with unknown SF3B1 mutation status. 37 patients (17%)
+demonstrated cryptic 3’ splice site usage we and others have previously
+reported in patients with known SF3B1 hotspot mutations. Interestingly, 3
+patient samples harbored previously unreported in-frame deletions in
+SF3B1 around K700, the most common amino acid mutated in hematologic
+cancers with SF3B1 mutations. In particular, 2 patient sequences
+contained 6 nucleotide (nt) deletions (c.2186 to c.2191) resulting in
+replacement of Q698, Q699 and K700 with Q (p.Q698_K700delinsQ:
+“p.Q698del”) and 1 patient sequence had a 3 nt deletion (c.2192 to
+c.2194) resulting in replacement of K700 and V701 with N
+(p.K700_V701delinsN: “p.K700del”) in SF3B1. The variant allele
+fraction (VAF) of these deletions was 20-40%. Targeted resequencing of
+DNA confirmed presence of these mutations at similar VAFs. Differential
+splicing analysis across patients with wild-type SF3B1, mutant SF3B1 and
+our novel deletions revealed similar alternative 3’ splice site
+patterns. To study the mechanism of alternative 3’ splice site
+selection induced by these novel p.Q698del and p.K700del in-frame
+deletions we used our ZDHHC16 minigene system with modifications in the
+canonical and cryptic 3’ splice sites and respective branchsites. After
+confirming expression of these deletion mutants and their incorporation
+in the SF3b complex by qPCR and co-immunoprecipitation, we demonstrated
+that recognition of both canonical 3’ splice site and alternate
+branchsite are important for aberrant splicing. This observation is
+identical to the intronic features required for aberrant splicing that we
+previously reported for the p.K700E SF3B1 hotspot mutation in CLL and
+MDS. By comparing the recent cryo-electron microscopy and X-ray crystal
+structures of SF3b complexes (PDB: 5GM6 and 5IFE, respectively), it is
+evident that the K700 present at the edge of heat repeat domain 6 is
+important for pre-mRNA interactions. Both the in-frame deletions and
+substitution mutations at K700 perturb SF3B1 charge, likely affecting a
+side-chain interaction with pre-mRNA, thus altering splice-site
+recognition through a mechanism that is still not well understood.
+Together, these data indicate that small in-frame deletions in SF3B1
+around K700 offer a novel mechanism to induce aberrant splicing in
+patients with CLL. The common mechanism of action of these mutations and
+deletions suggest that they should also be sensitive to splicing
+modulators.
+
+

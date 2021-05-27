@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: GWAS identifies risk variants for mucinous ovarian carcinoma
+
+
+Background Genome-wide association studies (GWAS) previously identified 8
+new risk loci for all subtypes of epithelial ovarian carcinoma (EOC) and
+one specific to invasive serous EOC. One locus, at 2q31, was also
+associated with invasive mucinous EOC (mEOC) at P=7.3 x 10-7 (Nat Genet
+2010:874). Here, we report new risk loci for mEOC, which is thought to
+develop from a borderline mucinous tumor. These loci may provide clues to
+the molecular basis of the disease.Methods We used genotype data from 4
+GWAS of EOC and from multiple case-control studies in the Ovarian Cancer
+Association Consortium that had been genotyped using the iCOGS custom SNP
+panel (210k SNPs) developed for the Collaborative Oncological
+Gene-environment Study. We imputed genotypes of common variation across
+the genome using the 1000 Genomes Project reference panel and tested for
+association using log-additive unconditional regression models.Results
+Genotypes were available for 1,643 combined invasive and borderline mEOC
+and for 1,002 invasive-only mEOC of European ancestry. Three loci in new
+regions, and one locus in a previously published region, with minor
+allele frequency (MAF) > 1% and P 10-7 were found. The imputed SNP
+rs72831838 (imputation r2=0.67, MAF=0.15) is located at 2q13 in an intron
+of the PAX8 (paired box 8) gene (all mEOC OR=1.35, P=4.2 x 10-8 and
+invasive-only OR=1.43, P=9.6 x 10-8). PAX8 is a transcription factor and
+may be a Mllerian lineage marker that distinguishes carcinomas of
+gynecologic origin from other sites. The imputed variant at
+chr19:39745695 (imputation r2=0.61, MAF=0.32) is an insertion/deletion
+polymorphism located at 19q13.2 and falls within the MSRB1P1 (methionine
+sulfoxide reductase B1 pseudogene 1). This locus was associated with
+decreased risk (all mEOC OR=0.74, P = 2.1 x 10-9 and invasive-only
+OR=0.79, P = 8.1 x 10-5) and is enriched with the H3K27Ac histone mark
+that identifies active enhancers of gene expression. The imputed SNP
+rs6425050 (imputation r2=0.45, MAF=0.19) is located at 1q25 (all mEOC
+OR=1.38, P=4.7 x 10-8 and invasive-only OR=1.41, P=1.6x10-6). This SNP is
+intronic to PLA2G4A (phospholipase A2, group IVA), which encodes an
+enzyme that hydrolyzes membrane phospholipids for eicosanoid metabolism
+and signaling. None of these loci were associated with other EOC
+histological subtypes at P 10-7. The genotyped SNP, rs711830 (MAF=0.32),
+is located at 2q31.1 in the 3 region of the HOXD3 homeobox gene (all mEOC
+OR=1.30, P=7.5 x 10-12 and invasive-only OR=1.26, P=7.8 x 10-7). This SNP
+is highly correlated (r2=0.99) with rs2072590, which is located 5.3kb
+upstream and previously reported by us to be associated with mEOC and
+invasive serous EOC (Nat Genet 2010:874). The HOXD3 locus is highly
+conserved and may also be a marker of Mllerian cell type
+origin.Conclusions The 3 new loci for mEOC require confirmation by
+genotyping. Fine mapping and functional analysis of all loci is needed in
+order to determine their likely target genes.
+

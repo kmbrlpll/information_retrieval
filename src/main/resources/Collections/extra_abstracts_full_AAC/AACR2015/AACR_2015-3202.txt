@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Single cell analysis of ascites macrophages in ovarian cancer
+
+
+Macrophages compose a major part of the tumor microenvironment (TME) in
+several types of cancer, including ovarian cancer [1]. Studies have shown
+that a high percentage of tumor associated macrophages (TAMs) correlates
+with a poor prognosis in ovarian cancer [2], due to the crucial role of
+TAMs in promoting tumor growth and angiogenesis [3,4]. Yet not much
+investigation has been executed to reveal the function of macrophages in
+ovarian cancer ascites, a hallmark of ovarian cancer.Previous gene
+expression analysis in TAMs often used bulk samples [5,6]. However, due
+to the complexity of the peritoneal environment, this approach had the
+effect of dampening rare and potentially informative signals from a
+heterogeneous population such as ascites macrophages. Therefore, we
+resorted to single-cell expression analysis to dissect the heterogeneity
+of ascites macrophages.Recent breakthroughs in single cell RNA-seq
+techniques have made it more cost effective to process a large number of
+samples at single cell resolutions. Here we used Fluidigm's Single-Cell
+Auto Prep System, a state-of-art technology for automate single cell cDNA
+synthesis [7]. We sequenced single ascites macrophages from ID8 murine
+ovarian cancer model and single alternatively activated bone marrow
+derived macrophages (BMDM-M2). When comparing the single cell expression
+profiles of ascites macrophages to BMDM using principle component
+analysis (PCA), we observed that the ascites macrophages scattered
+broadly and could be further divided into two groups, whereas BMDM were
+tightly clustered into one group. Furthermore, gene oncology (GO)
+analysis of highly expressed genes in each group revealed that ascites
+macrophages had a distinct gene expression profile from BMDM,
+highlighting the metabolic pathways, especially catabolic process. We are
+currently working on validating these findings in human patients with
+ovarian carcinoma. In summary, this work sheds light on the understanding
+of the role of ascites macrophages in ovarian cancer.1. Qian BZ, Pollard
+JW. Cell. 2010;141:39-51.2. He YF, Zhang MY, Wu X, et al. PLoS One.
+2013;8:e79769.3. Mantovani A, Germano G, Marchesi F, et al. Eur J Immunol
+2011;41:2522-25.4. Murray PJ, Wynn TA. Nat Rev Immunol, 2011;11:723-37.5.
+The Cancer Genome Atlas Research Network. Nature. 2014;511:543-50.6. The
+Cancer Genome Atlas Research Network. Nature. 2014;513:202-9.7. Wu AR,
+Neff NF, Kalisky T, et al. Nat Methods. 2014;11:41-6.
+

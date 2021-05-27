@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Epigenetic modulators show differential activity on lung
+adenocarcinoma cells with loss-of-function mutations of SWI/SNF protein
+SMARCA4.
+
+
+SWI/SNF is a multiprotein chromatin remodeler with ATP-dependent
+activities leading to selective gene expression, DNA repair,
+recombination and replication. Various sequencing efforts indicated that
+nearly 20% of cancers bear mutations in at least one subunit of the
+complex. One of the crucial regulators of the complex is SMARCA4, a
+member of SWI/SNF family of helicases with ATPase activities, which are
+thought to regulate transcription of certain genes by altering the
+chromatin structure. SMARCA4 is mutated in virtually all cases of small
+cell carcinoma of the ovary and SMARCA4 is fourth the most frequently
+mutated gene in lung adenocarcinoma. High occurrence of inactivating
+mutations prompted several screenings projects focused on synthetic
+lethality interactions with other proteins, which led to the
+identification of SMARCA2 as an essential gene in SMARCA4 mutated
+cancers. This vulnerability could be potentially exploited
+therapeutically and several groups managed to identify potent ligands of
+SMARCA2 bromodomain. Surprisingly these molecules were inactive in
+SMARCA4 mutant cells, however additional studies indicated that ATPase
+rather than bromodomain is a target for novel compounds with anticancer
+activities. Overall, these results revealed functional complexity of
+SMARCA2 and SMARCA4 in cancer cells. In order to characterize molecular
+consequences of SMARCA2 silencing in SMARCA4 mutant lung adenocarcinoma
+cells, we have carried out a series of gene knockdown experiments,
+followed by transcriptional profiling by RNAseq and analysis of
+posttranslational histone modifications. These studies indicated rapid
+and irreversible loss of viability in SMARCA4 mutant cells after SMARCA2
+gene silencing. Interestingly double SMARCA2/SMARCA4 knockdown in SMARCA4
+WT cells has not resulted in lowered viability. Transcriptional profiling
+of SMARCA2 knockdown in SMARCA4 mutated cells revealed broad,
+predominantly repressory effects on gene expression levels. Gene set
+enrichment analysis showed significant inhibitory effects of SMARCA2
+knockdown, particularly on transcripts which could be induced after
+reintroduction of SMARCA4. Furthermore MS/MS analysis indicated global
+rearrangements in histone epigenetic marks. These results prompted us to
+test activity of small-molecule epigenetic modulators, including DNA
+Methyltransferases (DNMTs), Histone Acetyltransferases (HATs), Histone
+Deacetylases (HDACs), Histone Methyltransferases (HMTs), Histone
+Demethylases (HDMs) and a distinct set of chromatin readers,
+bromodomains. Differential activity of these compounds provides a strong
+basis for novel strategies for the treatment of cancers with
+loss-of-function mutations of SMARCA4.
+
+

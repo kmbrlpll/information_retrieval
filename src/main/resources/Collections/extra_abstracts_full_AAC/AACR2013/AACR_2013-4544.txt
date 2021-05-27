@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Novel TDA technology and high content imaging as complementary
+assay platforms to identify VEGFR-2 inhibitors.
+
+
+Vascular endothelial growth factor (VEGF) is potent mitogen for
+endothelial cells that signals through VEGF Receptor-type2
+(VEGFR-2)/Flk-1/KDR. Binding of VEGF to VEGFR-2, a membrane bound
+receptor tyrosine kinase of the VEGF-receptor family, leads to receptor
+dimerization, protein kinase activation, trans-autophosphorylation, and
+initiation of signaling pathways stimulating angiogenesis. In adults,
+angiogenesis normally occurs during wound healing to restore blood flow
+post injury and during menstruation and pregnancy. Angiogenesis is also
+involved in several pathological disease states such as rheumatoid
+arthritis, psoriasis, diabetic retinopathy and cancer. While
+physiological angiogenesis involves interplay between pro- and
+anti-angiogenic factors, the ability to inhibit pathological angiogenesis
+has therapeutic potential. Inhibitors of VEGFR-2 provide targeted
+treatments for tumor growth as well as abnormal neovascularization
+related diseases. The caveat of traditional biochemical VEGFR-2 assays is
+that only the catalytic domain of the receptor is used to identify hits.
+One strategy to identify true novel inhibitors against membrane
+associated proteins is to screen these targets in a more physiological
+environment, where lipid-protein and protein-protein interactions are
+included in the assay. We achieved this goal by docking the entire
+cytoplasmic domain of the receptor on a liposome. Template Directed
+Assembly (TDA) is a screening technology designed to accomplish this
+objective. TDA technology utilizes recombinant VEGFR-2 cytoplasmic domain
+tagged with polyhistidine at the juxtamembrane position and docked to the
+liposome via the nickel residues. The lipids in TDA are able to diffuse
+within the surface of the liposome and, therefore, proteins can diffuse
+to form oligomeric complexes such as homo- or hetero-dimers formation. To
+compliment the TDA biochemical screen, we are implementing an image based
+high content screen (HCS) utilizing human umbilical vein endothelial
+cells (HUVECs) that express native VEGFR-2. The HCS screen is designed to
+identify potent and specific inhibitors of VEGFR-2 as assessed by a
+reduction in the proliferation marker Ki67. We are currently (1)
+validating the TDA assay with known VEGFR-2 inhibitors (2) screening a
+focus small molecule library to identify novel hits (3) testing the
+primary hits against a kinase selectivity panel and (4) designing and
+developing a VEGFR2 cell-based HCS assay to confirm the primary hits. The
+hit to lead program will be guided by using both physiologically relevant
+biochemical-based and cell-based assays. The combination of our novel TDA
+screening platform and the HCS assay technology permits us to identify
+unique VEGFR-2 inhibitors.
+

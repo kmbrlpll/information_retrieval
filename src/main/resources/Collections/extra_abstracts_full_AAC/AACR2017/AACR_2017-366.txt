@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Disruption of TCF7L1 mediated transcriptional repression promotes
+pancreatic tumorigenesis.
+
+
+While phenotypic studies demonstrate Wnt/β-catenin signaling is critical
+for the initiation and progression of pancreatic adenocarcinoma (PDA),
+the downstream transcriptional effectors tied to its effects are largely
+unknown. Previous work from our group has identified differential
+patterns of LEF/TCF expression linked to variations in Wnt activation and
+function in PDA, including reduced TCF7L1 (aka TCF3) message and protein
+levels in pancreatic tumors with elevated Wnt pathway activity.
+Consistent with this observation, we found TCF7L1 protein levels rapidly
+diminished in PDA lines after Wnt pathway activation mediated by either
+Wnt3A ligand or GSK3β inhibitor. RNAi-mediated knockdown of TCF7L1 in
+PDA lines phenocopied most of the pro-tumorigenic effects seen with Wnt3A
+ligand treatment. Because TCF7L1 commonly represses transcription and is
+rapidly downregulated in PDA upon Wnt activation, we explored its
+transcriptional derepression as a potentially important mechanism through
+which Wnt signaling promotes pancreatic tumorigenesis. Candidate genes
+linked to TCF7L1-mediated transcriptional repression in PDA were
+identified by RNA-sequencing of MiaPaCa-2 and PANC1 lines following
+RNAi-mediated knockdown of TCF7L1. A total of 196 genes upregulated at
+least 1.5-fold in both cell lines were identified, representing potential
+direct targets of TCF7L1-mediated transcriptional repression. Gene
+ontology analysis among these 196 upregulated genes revealed enrichment
+of categories including small GTPase-mediated signal transduction, RAS
+protein signal transduction, regulation of axon extension, and regulation
+of synaptic plasticity. Among top upregulated genes was prostaglandin E
+synthase (PTGES), an enzyme catalyzing the isomerization of prostaglandin
+H2 to prostaglandin E2 (PGE2) as the final step in PGE2 synthesis from
+arachidonic acid. Notably, PGE2 stimulates pancreatic cancer
+proliferation, invasion, angiogenesis and metastasis. Validation
+experiments in TCF7L1-expressing PDA lines confirmed PTGES message and
+protein levels rapidly increased in response to TCF7L1 depletion and were
+associated with a corresponding increase in PGE2 production as measured
+by ELISA. PGE2 increased Wnt reporter activity in PDA cell lines, a
+potentially important feedforward mechanism whereby Wnt signaling may be
+reinforced upon its activation. In conclusion, TCF7L1 represses target
+genes with known roles in PDA, while reduction in TCF7L1 through Wnt
+pathway activation or alternative means is apparently tied to a program
+of transcriptional derepression linked to the promotion of pancreatic
+tumorigenesis.
+
+

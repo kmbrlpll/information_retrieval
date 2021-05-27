@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Development and validation of an NGS-based assay to detect all
+classes of genomic alterations in circulating tumor cells (CTCs) from
+patients with solid tumors
+
+
+PurposeWith increased use of targeted therapeutics, the ability to
+perform a liquid biopsy on circulating tumor cells (CTCs) holds potential
+to address the need for a more representative and longitudinal means to
+monitor tumor burden in patients. However, the analytic and clinical
+validity of such an assay has proved difficult to establish, as the cell
+population in circulation is complex, and the CTC portion is
+heterogeneous, evolving, and highly dependent on clinical factors as well
+as CTC isolation methods. No studies to date have characterized CTCs for
+the full range of relevant genomic alterations in the context of
+patient-matched primary and metastatic tissue biopsies. We set out to
+develop a method to perform comprehensive NGS-based genomic profiling on
+phenotypically-isolated CTCs, and to compare CTC analysis with a
+comprehensive tissue-based assessment of paired primary and metastatic
+tissue in patients.MethodsAn integrated platform (VERSA) was employed for
+capture of EpCAM CTCs, enumeration and DNA extraction. Extracted DNA was
+amplified using a modified version of MDA-based whole genome
+amplification (WGA), followed by standard adaptor-ligated library
+construction and solution hybridization using a custom DNA baitset before
+sequencing on Illumina HiSeq. Data was analyzed using a computational
+workflow developed to detect base substitutions, indels, high-level copy
+number alterations, and select gene rearrangements. We performed
+extensive analytic validation of the assay using over 65 cell line
+mixtures, constructed to contain all classes of known variants across all
+allele frequencies (0-100%). We used the assay to analyze CTC DNA from 20
+lung cancer patients, paired with analysis of temporally-matched primary
+and/or metastatic FFPE samples analyzed by FoundationOne, an FFPE
+tissue-based assay.ResultsValidation experiments showed that for samples
+meeting minimum acceptance criteria (50 cells at 50% purity), assay
+sensitivity exceeded 95% for detections of base substitutions, 85% for
+indels and rearrangements, and 80% for high-level copy number
+alterations, while maintaining tight specificity control. WGA-induced
+coverage bias limited sensitivity to low-level copy number alterations.
+Comparison of driver alterations across CTC samples and paired
+primary/metastatic tissue for 20 patients with lung cancer is
+ongoing.ConclusionsA comprehensive NGS-based approach to genomic
+profiling is feasible on CTCs isolated from lung cancer patients, and
+demonstrated accuracy sufficient to characterize actionable targets for
+clinical decision-making. However, more extensive tumor-type specific
+studies with a similar matched-tissue approach must be performed in order
+to establish full analytic and clinical validation, and assay
+specifications will need to be optimized to enable use on broader patient
+populations.
+

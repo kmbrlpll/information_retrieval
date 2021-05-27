@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The covalent CDK7 inhibitor THZ1 can counteract apoptotic
+resistance and suppress the transcription of genes attributed to chronic
+lymphocytic leukemia malignancy
+
+
+Chronic lymphocytic leukemia (CLL) is a malignancy characterized by the
+progressive accumulation of CD19+ B-cells capable of overcoming their
+regulated life cycle. Because this disease is highly heterogeneous and
+utilizes several mechanisms to resist apoptotic death, CLL currently
+remains incurable. Based on the ongoing efforts to interpret the
+transcriptional dynamics of CLL pathogenicity as well as prior reports
+demonstrating the efficacy of cyclin-dependent kinase (CDK)
+transcriptional inhibitors, we sought to characterize the molecular
+response of CLL cells treated with the covalent CDK7 inhibitor THZ1 and
+determine the therapeutic potential of CDK7 inhibition in CLL. We first
+observed that THZ1 was able to inhibit growth in malignant B-cell lines
+MEC1 and MEC2 in both a dose dependent (IC50: .045uM & .030uM,
+respectively) and time dependent manner. The inhibition in cell growth
+corresponded with both G1-mediated cell cycle arrest as well as apoptosis
+in the respective cell lines. We also observed dose-dependent reduction
+in cell viability through apoptosis in patient-derived CLL B-cells after
+24 hours. Because of the observed outcomes of THZ1-treated CLL cells, we
+then wanted to determine the specific transcriptional targets
+significantly suppressed by THZ1 treatment. To identify the
+THZ1-sensitive transcripts, we performed a time course RNAseq expression
+analysis in both MEC1 and MEC2 treated with 50nM THZ1. Based on the
+incremental reduction of covered reads over a 12-hour period, we
+determined that the top 50 transcripts greatly diminished in both MEC1
+and MEC2 contain significant enrichment in genes attributed to glycolytic
+metabolism (ex: ALDOC, SLC2A1, TPI1, GAPDH, ENO2). Along with the
+overlapping comparison between the two cell lines, we next compared the
+downregulated transcripts from the treated cell lines against the RNAseq
+expression profile of 47 CLL patients and 5 healthy donors. We observed
+that THZ1 was able to suppress transcripts upregulated in CLL patient
+samples including ENO2, FGR, WNT10A, and CBX7 in MEC1 and ENO2, MALAT1,
+CCR7, and PLCG1 in MEC2. Finally, we performed H3K27Ac ChIPseq in MEC1 to
+identify super enhancers that may overlap with THZ1-sensitive
+transcripts. From this comparison, we determined that super enhancers
+exist within reported oncogenic drivers CBX7, WNT10A, and FGR. Overall,
+we observe that THZ1 can effectively overcome the anti-apoptotic
+phenotype of CLL B-cells as well as directly suppress transcription of
+genes that can drive CLL malignancy. With the addition of CDK7 ChIPseq,
+our ultimate goal is to provide clarity regarding CDK7-mediated
+transcriptional regulation in CLL and demonstrate the molecular
+consequences of therapeutic CDK7 inhibition in CLL.
+

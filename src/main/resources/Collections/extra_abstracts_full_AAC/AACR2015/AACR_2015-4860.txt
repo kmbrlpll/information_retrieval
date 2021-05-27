@@ -1,0 +1,20 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Detection of genetically distinct subclones in cancer: a novel NGS
+algorithm with high spatial and genetic resolution
+
+
+Despite the large number of genome data banks, reference sequences are
+not always the best match for high-throughput analysis. This is
+especially true in studies of intratumor heterogeneity where increased
+mutation rates are observed; the use of a reference genome can complicate
+the interpretation of the results. Current techniques attempt to
+circumvent this obstacle by applying de novo assembly algorithms, but the
+process is slow and often without viable results. Here, we introduce a
+new technique to decrease the dependency of these pipelines on reference
+sequences. Our clone discovery algorithm takes advantage of existing
+alignment data and correlates distant mutations, reported by an alignment
+algorithm. The algorithm makes no statistical assumption; it extracts
+information from the overlapping alignments in a step-wise fashion, using
+reference coordinates of aligned reads. Due to the randomness of noise,
+the algorithm can be very sensitive and identify clones of low frequency.
+

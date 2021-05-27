@@ -1,0 +1,104 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Functional validation of microRNA activity inferred by ActMiR in
+bladder cancer
+
+
+Background: MicroRNAs (miRs) play a key role in cancer, both in
+tumorigenesis and tumor progression. In the past years, miR expression
+signatures have been reported as prognostic biomarkers in different tumor
+types including bladder cancer (BC). However, miR's expression does not
+always correlate with activity. We recently developed a novel
+computational method, named ActMiR, for explicitly inferring the activity
+of miRs based on the changes in expression levels of target genes. The
+main objective of this study was to validate the inferred miRs activity
+using BC as a model.Design: We applied ActMiR in 405 BC cases from The
+Cancer Genome Atlas (TCGA) database for which information from both mRNA
+and miR expression was available. Different BC cell lines (5637 and
+HT1376 for basal BC, SW780 and HT1197 for p53-like BC, and RT4 and RT112
+for luminal BC) as well as the immortalized urothelial cell line [Human
+Urothelium cell (HUC)] were used to perform the in vitro functional
+validation. RNA was extracted from these cells basally and after
+inhibition of miR106-5p with specific anti-miR inhibitor (Taqman, Life
+Technologies); miR and target genes expression was assessed by
+qRT-PCR.Results: ActMir analyses revealed that a subset of 306 out of
+1044 miRNAs were differentially expressed between tumor and normal
+samples at p-valueBackground: MicroRNAs (miRs) play a key role in cancer,
+both in tumorigenesis and tumor progression. In the past years, miR
+expression signatures have been reported as prognostic biomarkers in
+different tumor types including bladder cancer (BC). However, miR's
+expression does not always correlate with activity. We recently developed
+a novel computational method, named ActMiR, for explicitly inferring the
+activity of miRs based on the changes in expression levels of target
+genes. The main objective of this study was to validate the inferred miRs
+activity using BC as a model.Design: We applied ActMiR in 405 BC cases
+from The Cancer Genome Atlas (TCGA) database for which information from
+both mRNA and miR expression was available. Different BC cell lines (5637
+and HT1376 for basal BC, SW780 and HT1197 for p53-like BC, and RT4 and
+RT112 for luminal BC) as well as the immortalized urothelial cell line
+[Human Urothelium cell (HUC)] were used to perform the in vitro
+functional validation. RNA was extracted from these cells basally and
+after inhibition of miR106-5p with specific anti-miR inhibitor (Taqman,
+Life Technologies); miR and target genes expression was assessed by
+qRT-PCR.Results: ActMir analyses revealed that a subset of 306 out of
+1044 miRNAs were differentially expressed between tumor and normal
+samples at p-value<10-4. More importantly, at p-valueBackground:
+MicroRNAs (miRs) play a key role in cancer, both in tumorigenesis and
+tumor progression. In the past years, miR expression signatures have been
+reported as prognostic biomarkers in different tumor types including
+bladder cancer (BC). However, miR's expression does not always correlate
+with activity. We recently developed a novel computational method, named
+ActMiR, for explicitly inferring the activity of miRs based on the
+changes in expression levels of target genes. The main objective of this
+study was to validate the inferred miRs activity using BC as a
+model.Design: We applied ActMiR in 405 BC cases from The Cancer Genome
+Atlas (TCGA) database for which information from both mRNA and miR
+expression was available. Different BC cell lines (5637 and HT1376 for
+basal BC, SW780 and HT1197 for p53-like BC, and RT4 and RT112 for luminal
+BC) as well as the immortalized urothelial cell line [Human Urothelium
+cell (HUC)] were used to perform the in vitro functional validation. RNA
+was extracted from these cells basally and after inhibition of miR106-5p
+with specific anti-miR inhibitor (Taqman, Life Technologies); miR and
+target genes expression was assessed by qRT-PCR.Results: ActMir analyses
+revealed that a subset of 306 out of 1044 miRNAs were differentially
+expressed between tumor and normal samples at p-value<10-4. More
+importantly, at p-value<10-4, 155 out of 556 miRNAs were functionally
+active. From these, only four (miR106b, miR532, mir556, and mir134) were
+significantly differentially expressed, functionally active and showed
+prognostic significance. We chose to further analyze mir106b because it
+showed the biggest and most significant difference in activity between
+normal and cancer cells (p-valueBackground: MicroRNAs (miRs) play a key
+role in cancer, both in tumorigenesis and tumor progression. In the past
+years, miR expression signatures have been reported as prognostic
+biomarkers in different tumor types including bladder cancer (BC).
+However, miR's expression does not always correlate with activity. We
+recently developed a novel computational method, named ActMiR, for
+explicitly inferring the activity of miRs based on the changes in
+expression levels of target genes. The main objective of this study was
+to validate the inferred miRs activity using BC as a model.Design: We
+applied ActMiR in 405 BC cases from The Cancer Genome Atlas (TCGA)
+database for which information from both mRNA and miR expression was
+available. Different BC cell lines (5637 and HT1376 for basal BC, SW780
+and HT1197 for p53-like BC, and RT4 and RT112 for luminal BC) as well as
+the immortalized urothelial cell line [Human Urothelium cell (HUC)] were
+used to perform the in vitro functional validation. RNA was extracted
+from these cells basally and after inhibition of miR106-5p with specific
+anti-miR inhibitor (Taqman, Life Technologies); miR and target genes
+expression was assessed by qRT-PCR.Results: ActMir analyses revealed that
+a subset of 306 out of 1044 miRNAs were differentially expressed between
+tumor and normal samples at p-value<10-4. More importantly, at
+p-value<10-4, 155 out of 556 miRNAs were functionally active. From these,
+only four (miR106b, miR532, mir556, and mir134) were significantly
+differentially expressed, functionally active and showed prognostic
+significance. We chose to further analyze mir106b because it showed the
+biggest and most significant difference in activity between normal and
+cancer cells (p-value<2*10-11). As inferred by ActMir, mir106-5p was
+significantly overexpressed in all cancer cells when compared to HUC.
+Basal cells showed the highest fold increase (mean of 39; range: 31-47),
+followed by luminal (mean of 19; range: 5-32) and p53-like cells (mean of
+8; range: 3-13). Inhibition of mir106b-5p was performed to assess whether
+the predicted target genes were consequently upregulated.Conclusion: Our
+results underscore the value of ActMir for inferring miR activity in BC
+from a systems biology perspective. It endorses ActMir as a promising
+tool for studying casual effects of miR activity on target genes, and
+ultimately for determining survival outcomes of BC patients.
+

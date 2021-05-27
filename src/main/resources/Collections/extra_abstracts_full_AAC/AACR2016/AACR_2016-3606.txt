@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identification of oncogenic mutation hotspots via
+three-dimensional proximity
+
+
+One of the greatest challenges in studying the genomic basis of human
+cancer is distinguishing the few mutations that directly contribute to
+tumorigenesis (drivers) from the many biologically neutral mutations
+(passengers). Existing methods can identify highly recurrent individual
+mutations or mutated genes, but capturing functional yet infrequent
+long-tail mutations remains challenging. While individually uncommon,
+these long-tail mutations are present in as many as one-third of cancer
+patients, and for many of them targeted therapies currently exist.
+Therefore, improved approaches to identify individual driver mutations in
+the long tail will facilitate our understanding of their potentially
+diverse biological and clinical significance. Some of these mutations can
+be identified as hotspots based on their recurrence on or around the same
+residue. Others may occur in different regions but are actually close in
+protein three-dimensional structures. We have developed a novel method
+that identifies mutations that significantly cluster together within
+three-dimensional proximity in protein structures, or 3D hotspots. We
+applied this method to a combined collection of mutation data of 21,000
+sequenced tumor samples in 74 cancers.Our analysis confirmed many
+well-studied 3D hotspots of functional mutations in cancer genes such as
+KRAS, BRAF, IDH2, SMAD4, FBXW7, SPOP, RHOA, and PTPN11. Most of these
+genes have well known individual hotspots, but our analysis suggests that
+additional mutations in other residues of the protein are adjacent in the
+folded protein structure and may also be oncogenic. We also identified
+novel 3D hotspots in known cancer genes such as EP300, MAP2K1, and KDR,
+as well as several other genes of unknown significance that harbor 3D
+hotspots (e.g., DCC). Most of these hotspots are present in multiple
+cancers.To explore the functional consequences and potential
+translational significance of long-tail low-incidence mutations
+identified by our method, we assessed several MAP2K1 mutations in vitro.
+MAP2K1 (MEK1) is a critical effector of MAPK signaling, harbors
+conventional single-codon hotspots in several cancer types, and a number
+of selective MAPK pathway inhibitors are either FDA-approved or are being
+investigated in early-phase clinical trials. Our experiments confirmed
+that these mutations activate MAP2K1 and confer sensitivity to MAP2K1
+inhibition.We have provided an implementation of the algorithm via an
+interactive web resource connecting to cBioPortal for Cancer Genomics
+(http://cbioportal.org/) for easy interpretation of cancer genomics data
+in the context of three-dimensional structures. By adding to cBioPortal's
+already powerful capacity of clinical decision support, our method and
+analysis provide a useful approach of interpretation, prioritization and
+extension of biologically significant and clinically actionable mutations
+in cancer.
+

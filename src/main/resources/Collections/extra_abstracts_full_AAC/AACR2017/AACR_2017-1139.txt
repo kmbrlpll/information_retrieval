@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: G protein-coupled receptors (GPCRs): unrecognized potential
+therapeutic targets in cancer.
+
+
+G protein-coupled receptors (GPCRs) are the largest class of signaling
+receptors in humans and other species and in addition, the most widely
+targeted class for FDA-approved therapeutics. However, GPCRs are not
+commonly targeted in cancers other than endocrine tumors. We hypothesize
+that GPCRs may have been “missed” as targets in cancer, perhaps in
+part because they have not been frequently identified as driver
+mutations; however, GPCRs may have unappreciated utility as therapeutic
+targets in a variety of tumors. To test this hypothesis, we have used
+unbiased approaches (Taqman GPCR arrays and RNA-seq), mining of publicly
+available datasets (e.g., The Cancer Genome Atlas, TCGA), and validation
+studies (e.g., protein and functional analyses) to assess GPCRs in a
+variety of human tumors, cancer cells and stromal cells
+(cancer-associated fibroblasts, CAFs). A major focus of our efforts has
+been on pancreatic ductal adenocarcinoma (PDAC) cells/tumors and
+pancreatic CAFs (PCAFs). We find that PDAC cells and PCAFs express >70
+different GPCRs, including many orphan GPCRs (receptors without known
+physiologic agonists) and that numerous GPCRs are expressed at much
+higher levels than in normal precursor cells (pancreatic ductal
+epithelial cells for PDAC cells and pancreatic stellate cells and
+pancreatic fibroblasts for PCAFs). We find that a cluster of GPCRs is
+overexpressed in PDAC tumors. Two such receptors are orphan GPCRs, Orphan
+1 and Orphan A, neither of which is mutated but each has high expression,
+respectively, in PCAFs and PDAC cells. Orphan 1 and Orphan A have at
+least 2-fold higher expression in >90% of PDAC tumors in TCGA compared to
+that in normal pancreatic tissue (compiled from the GTEX database).
+Higher expression of orphan A is associated with decreased survival and
+remission, while Orphan 1 expression correlates with that of numerous
+fibrotic genes. Importantly, both Orphan 1 and Orphan A are functional
+and appear to contribute to the malignant phenotype. For example, siRNA
+knockdown of Orphan 1 in PCAFs blunts production of profibrotic markers
+and decreases ability of conditioned media from PCAFs to enhance
+proliferation of PDAC cells while transfection of Orphan A increases DNA
+synthesis of normal pancreatic ductal epithelial cells. Taken together,
+these and other results suggest that in addition to their role in
+endocrine tumors, GPCRs represent previously unrecognized contributors to
+cancer through actions on tumor cells and stromal cells. These data
+suggest the possibility that highly expressed GPCRs (such as Orphan A)
+may function as oncogenes. Thus, GPCRs may be druggable, novel targets
+for the treatment of cancer, including pancreatic cancer, a tumor for
+which new therapeutics are an important, unmet need.
+
+

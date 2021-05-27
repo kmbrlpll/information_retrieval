@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Digital sorting and single-cell genomic profile comparison of lung
+adenocarcinoma CTCs between EpCAM and size-based enrichment methods
+
+
+IntroductionSeveral methods are currently available for Circulating Tumor
+Cells (CTCs) enrichment. Many studies compared CTC counts between
+FDA-approved CellSearch system (based on EpCAM enrichment) and size-based
+selection methods. However, little is known about genomic differences
+across CTCs obtained from different platforms. For the first time, we
+report here a genomic characterization of copy-number and sequence
+variants in single CTCs enriched with different methods from the same
+patient.MethodsPeripheral blood (PB) and FFPE tissue from a pelvis bone
+metastasis were collected from an advanced lung adenocarcinoma patient,
+treated with cisplatin-pemetrexed-necitumumab as first line therapy and
+with carboplatin-gentamicin as second-line. Two PB samples were collected
+at the same time: one was enriched with CellSearch System, and one with
+Parsortix PR1 (size-based selection), followed by Cytokeratin-APC,
+CD45-PerCp and DAPI staining.Both samples were analyzed with DEPArray
+system and single CTCs along with single WBCs as controls, were
+isolated.Collected cells were whole genome amplified with Ampli1 WGA kit
+and their Genome Integrity Index (GII) was assessed. On IonTorrent PGM
+Platform, we profiled Genome-wide copy-number alterations (CNA) by
+low-pass whole-genome sequencing with Ampli1 LowPass Kit, and analyzed
+cancer-gene sequence variants with Ampli1 CHP Custom Beta targeted
+panel.FFPE tissue was disaggregated down to single-cell suspension and
+labelled with Keratin and Vimentin to distinguish tumor from stromal
+cells. Aliquots of pure cells were recovered with DEPArray system; the
+analysis of CNVs and mutations on tissue-derived samples is in
+progress.ResultsSingle CTCs (CK+, CD45-,DAPI), showing GII3, either
+isolated from CellSearch-enriched or PR1-enriched blood, along with WBC,
+were selected for NGS.Ampli1 LowPass Kit data showed several aberrations
+confirming tumor origin of all CTCs, while WBCs (n = 6) produced balanced
+profiles. Unsupervised hierarchical clustering segregated PR1-derived (n
+= 6) from CellSearch-derived (n = 4) single CTCs in two separate
+branches. PR1-derived CTCs were very similar to each other, whereas
+CellSearch-derived CTCs were more heterogeneous, although certain
+aberrations were common to all CTCs across platforms. At the sequence
+level, the targeted panel revealed somatic mutations shared by all CTCs
+(FLT3), a PTPN11 subclonal mutation (in 3/6 PR1 and 1/4 CellSearch), and
+other private mutations in single CTCs.DiscussionThe combination of
+low-pass whole-genome sequencing and targeted sequencing on single-CTCs
+sorted from PB enriched with different platforms reveals genetic
+similarities and diversities.Integration of results with genetic analysis
+of pure tumor cells isolated from the tumor tissue, will provide further
+insight of tumor diversity in different compartments.
+

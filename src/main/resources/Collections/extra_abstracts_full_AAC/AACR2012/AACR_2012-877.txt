@@ -1,0 +1,38 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Identification of novel genes critical to survival of MPNST cells
+via medium throughput screening using lentiviral shRNA
+
+
+Malignant peripheral nerve sheath tumor (MPNST) is a soft tissue sarcoma
+that is highly invasive and eventually lethal. About 50% of MPNSTs have
+mutation and/or loss of the NF1 gene, while the rest are spontaneous.
+Many MPNST also show mutations in p53 and/or homozygous deletion of
+CDKN2. In an effort to identify novel genes that play key roles n MPNST
+tumorigenesis, we performed a genome wide micro-array analysis using
+human neurofibroma and MPNST (Miller et al., 2009). This analysis
+identified 130 genes that are up-regulated >3 fold in MPNSTs as compared
+to normal human Schwann cells. Over expression of these genes in tumors
+as compared to normal cells suggested that some might be critical for
+survival of MPNST cells. This hypothesis was directly tested by studying
+effects on survival of MPNST cells in vitro post down regulation of the
+130 genes using lentiviral short hairpin (sh) RNA. For each shRNA
+experiment a sh non-targeting lentivirus was used as a negative control
+and shSOX9, a construct previously shown to kill MPNST cells in vitro,
+was used as a positive control for an effect on cell survival. Screening
+was performed sequentially allowing for selection of genes with
+significant effects on survival. In screen I, T265 MPNST cells were
+exposed to each shRNA virus. In screen II, shRNAs were tested for effects
+on adenocarcinoma cells (A549) vs T265 cells. These two round of screens
+identified 10/130 genes specific for survival of T265 cells. Screen III
+was performed on four different MPNST cell lines, including T265
+(NF1-/-), 8814 (NF1-/-), S462TY (NF1-/-) and SSTS26T (sporadic MPNST
+wild-type for NF1), to identify shRNA's with similar or different effects
+on cell survival in the presence or absence of wild-type NF1 gene. No
+significant difference in survival was observed for NF null MPNST cells
+vs sporadic MPNST cell line for any gene. This approach facilitates a
+streamlined pathway from genome wide gene expression analysis to
+identification of novel genes critical to survival of cancer cells in
+vitro. Future studies will be directed toward testing the identified
+genes for roles in tumor formation and growth, and as potential MPNST
+therapeutic targets.
+

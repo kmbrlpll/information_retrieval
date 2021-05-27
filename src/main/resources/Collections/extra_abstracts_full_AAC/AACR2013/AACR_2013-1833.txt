@@ -1,0 +1,67 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of abnormally expressed lincRNAs in breast cancer
+using high-density SNP arrays.
+
+
+Background: The intergenic portion of the human genome is pervasively
+transcribed to produce large numbers of long intergenic non-coding RNAs
+(lincRNAs), which are tentatively defined as RNA molecules of more than
+200 nucleotides. LincRNAs participate in and regulate a wide array of
+transcriptional and posttranscriptional processes in both physiological
+and disease conditions. While dysregulation of lincRNAs expression has
+been observed in some cancers, their expression signatures in breast
+cancer are poorly characterized. Here, we established a novel genome-wide
+approach, employing high-density SNP arrays, to globally identify lincRNA
+genes whose expression is altered in breast cancers.Methods: Both genomic
+DNA (gDNA) and double-stranded cDNA (ds-cDNA) samples from primary breast
+tumor and matched adjacent normal cells were hybridized onto Illumina
+HumanOmni5 BeadChips. This platform includes a total of 2,435,915 SNP
+loci dispersed at an average interval of 700 nt through the intergenic
+region of the human genome. We mapped annotated lincRNA genes or the
+linc-transcriptome to a subset of 332,539 or 8,661 SNP loci, which were
+included in our analysis for five tumor-normal paired primary human
+mammary epithelial cells (HMECs). Using gDNA intensity signals as a
+reference, differential expression of lincRNAs between tumor and normal
+samples were obtained through normalization, filtering and statistical
+analysis using paired t-tests.Results: We found 47 lincRNA transcripts
+that were dysregulated in tumors (PBackground: The intergenic portion of
+the human genome is pervasively transcribed to produce large numbers of
+long intergenic non-coding RNAs (lincRNAs), which are tentatively defined
+as RNA molecules of more than 200 nucleotides. LincRNAs participate in
+and regulate a wide array of transcriptional and posttranscriptional
+processes in both physiological and disease conditions. While
+dysregulation of lincRNAs expression has been observed in some cancers,
+their expression signatures in breast cancer are poorly characterized.
+Here, we established a novel genome-wide approach, employing high-density
+SNP arrays, to globally identify lincRNA genes whose expression is
+altered in breast cancers.Methods: Both genomic DNA (gDNA) and
+double-stranded cDNA (ds-cDNA) samples from primary breast tumor and
+matched adjacent normal cells were hybridized onto Illumina HumanOmni5
+BeadChips. This platform includes a total of 2,435,915 SNP loci dispersed
+at an average interval of 700 nt through the intergenic region of the
+human genome. We mapped annotated lincRNA genes or the linc-transcriptome
+to a subset of 332,539 or 8,661 SNP loci, which were included in our
+analysis for five tumor-normal paired primary human mammary epithelial
+cells (HMECs). Using gDNA intensity signals as a reference, differential
+expression of lincRNAs between tumor and normal samples were obtained
+through normalization, filtering and statistical analysis using paired
+t-tests.Results: We found 47 lincRNA transcripts that were dysregulated
+in tumors (P<0.01, FDR2-fold change), including 28 lincRNA transcripts
+being up-regulated, and 19 lincRNA transcripts being down-regulated.
+RT-qPCR was used to validate the top 14 gene hits (P2-fold change),
+including 28 lincRNA transcripts being up-regulated, and 19 lincRNA
+transcripts being down-regulated. RT-qPCR was used to validate the top 14
+gene hits (P<0.005, FDR4-fold change). Expression profiling for these
+candidate lincRNAs were also extended to 12 established breast cancer and
+4 non-cancerous cell lines. The up- and down- regulation patterns of
+these lincRNAs among different cell lines showed great variability in
+both their direction and magnitude of changes, indicating differential
+regulation of lincRNA levels and the roles they play in breast cancer
+cell lines.Conclusions: This study established a novel high-resolution
+SNP array-based approach to identify specific lincRNAs. These breast
+cancer-susceptible lincRNAs could be putative regulators that contribute
+to breast tumorigenesis and offer tremendous potential for future
+investigations of their functional roles.This work was kindly supported
+by the FCCC Personalized Risk and Prevention Keystone, the Susan G. Komen
+for the Cure (KG100274), and Eileen Stein Jacoby Fund.
+

@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Target mutation comparasion of WGA circulating tumor cell and
+primary tumor in epithelial ovarian cancer cell line using NGS
+
+
+IntroductionEpithelial ovarian cancer is the third most common
+gynecologic cancer in the United States but a leading cause of
+gynecologic cancer deaths. Previous finding that numbers of circulating
+tumor cells (CTCs) in the blood of ovarian cancer patients are
+prognostically significant. Moreover, comprehensive analyses of ovarian
+cancer genomes may provide more information for precise cancer
+treatments. Genomic analysis of circulating tumor cells (CTC) can provide
+possible approach for EOC patients who lack primary tumor tissue or
+present with un-resectable metastatic diseases. The discordance between
+whole genome amplification of circulating tumors and primary tumor should
+be validated firstly and so we conducted a pilot analysis of CTC capture
+and targeted NGS in EOC cell lines.Methods and materialsUnder IRB
+approval, EOC cell lines, different numbers of SKOV-3 (serous
+adenocarcinoma) and ES-2 (clear cell carcinoma) were spiked in fresh
+blood samples (20 ml) of healthy donor and captured by CytoQuestTM CR
+system or negative enrichment method (Abnova, Taipei, Taiwan). CTCs were
+identified by pan-CK, CD45 and DAPI expression and stained with CEP8 FISH
+for aneuploidy. Spiked CTCs of two cell lines were captured and underwent
+whole genome amplification by PicoPLEX WGA kit (Rubicon Genomic, MI,
+USA). The WGA DNA product and DNA of two primary cell lines were prepared
+libraries for TruSight(TM) Tumor sequencing panel (Illumina Inc.MI,USA)
+according to manufacturer's instruction. Sequencing procedure were
+performed on MiSEQ system(Illumina Inc.) by a local service
+provider.ResultsSKOV-3 and ES-2 can be stained and captured with these
+antibodies. Mean recovery of these cells were more than 80% by both
+systems. However, ES-2 is less Pan-CK stained but still could be captured
+by this system. WGA products of each one, three and five ES-2 cells and
+one SKOV3 cell were prepared well for library. We choose one cell WGA
+product and DNA extracted from primary SKOV-3 and ES2 were subjected to
+targeted 26 genes mutational analysis composed in TruSight Tumor panel.
+Average coverage depth for each amplicon is minimum 1000x with 7000x
+means. We would like to show if any discordance appear due to the
+acquisition of DNA WGA in the single cells, of which the analysis is
+currently ongoing.DISCUSSIONOur study would like to demonstrate the
+condition of variants calls of single tumor cells isolated from whole
+blood samples and primary tumor in a targeted mutation analysis using NGS
+after a highly automated isolation workflow. This approach provides a
+pilot workflow for studying the heterogeneity within the CTC population
+in blood samples of patients with tumor and their primary tumor and the
+results can also document the possibility of WGA-induced bias of a
+recently commercialized WGA kit.
+

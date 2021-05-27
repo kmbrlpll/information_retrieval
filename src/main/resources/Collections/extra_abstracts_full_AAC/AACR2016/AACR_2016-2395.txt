@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Direct assessment of sequence heterogeneity in human cancers by
+Duplex Sequencing
+
+
+The extent of heterogeneity in DNA sequence within human cancers has been
+difficult to fully assess, due to the absence of methods with sufficient
+sensitivity to detect minority variants. For example, next-generation
+sequencing could in principle detect sub-clonal mutations at any genomic
+position; however due to amplification errors and inaccuracies in the
+sequencing platform itself, such approaches are limited to detection of
+mutations present in >1% of cells. We have overcome this limitation by
+developing an approach, Duplex Sequencing, which improves the accuracy of
+next-generation sequencing by >100,000 fold. Duplex Sequencing is based
+upon separately tagging and sequencing the two strands of single
+molecules of duplex DNA. True mutations are present at the same position
+in both DNA strands and are complementary, whereas artifacts arising from
+amplification or sequencing errors are seen in only one strand. The
+calculated error rate of our approach is less than one artifactual
+mutation per billion nucleotides sequenced (ref. 1). We have also
+developed an enrichment approach based on sequential rounds of
+hybridization to biotinylated probes which enables efficient sequencing
+of targeted regions of the genome (ref. 2). Duplex Sequencing thereby
+enables exceptionally sensitive detection of sequence heterogeneity
+within any set of genes. We have now applied Duplex Sequencing to study
+of sequence heterogeneity in both normal and malignant samples. In acute
+myeloid leukemia (AML), we find multiple sub-clonal mutations which fall
+below the detection limit of conventional approaches, some of which
+encode mutations that can drive chemotherapy resistance and cancer
+progression. Our results indicate that prior studies have under-estimated
+the burden of sub-clonal mutations in AML by more than 1,000-fold. We
+have additionally studied chronic myeloid leukemia (CML); treatment of
+CML with inhibitors directed against the Abl kinase represents the
+prototypical targeted cancer therapy. With Duplex Sequencing, we find
+that Abl mutations are extremely uncommon at the time of CML diagnosis.
+In contrast, refractory patients who fail therapy frequently possess
+multiple sub-clonal mutations within the Abl kinase, most of which are
+below the resolution of conventional approaches but are readily detected
+with our method. In ongoing work, we have found multiple sub-clonal
+mutations within human prostate cancer and colon cancer, suggestive of
+widespread intratumor heterogeneity that may limit the efficacy of
+single-agent therapy in these diseases.References:1. Schmitt MW, Kennedy
+SR, Salk JJ, Fox EJ, Hiatt JB, Loeb LA (2012). Detection of ultra-rare
+mutations by next-generation sequencing. Proceedings of the National
+Academy of Sciences USA. 109(36):14508-13.2. Schmitt MW, Fox EJ, Prindle
+MJ, Reid-Bayliss KS, True LD, Radich JP, Loeb LA (2015). Sequencing small
+genomic targets with high efficiency and extreme accuracy. Nature
+Methods. 12(5):423-5.
+

@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Anti-proliferative and cytotoxic effects of verteporfin in
+endometrial cancer cells.
+
+
+Endometrial cancer (EMCA) is the most prevalent gynecologic cancer in
+women in the United States. The relatively poor prognosis and limited
+therapeutic options in advanced endometrial cancer underscores the
+urgency in developing new and more effective treatment modalities. On the
+basis of clinical and histopathological features, EMCA is classified into
+type I and type II disease groups. Type 1 is estrogen potentiated,
+estrogen receptor (ER) and progesterone receptor (PR) positive, and
+generally carries a favorable prognosis. Type 2 is ER/PR negative and
+carries a much poorer prognosis. We investigated the therapeutic efficacy
+and mechanism of action of Verteporfin (VP), a benzoporphyrin derivative
+in EMCA. Treatment with VP resulted in a decrease in cell viability,
+invasion and an increase in cytotoxicity of EMCA cells. Similarly, VP
+treatment increased apoptosis in organoids, developed from
+patient-derived xenografts. Since the half-life of verteporfin is very
+short, we evaluated the longer duration efficacy of VP, encapsulated in
+mPEG-PLGA polymers. Our results demonstrated that VP nanoparticles (NP)
+decreased cell viability in both Type 1 (HEC-1-B) and Type 2 (ARK-1) EMCA
+cell lines over a period of 4 days. We did not observe any lethal effects
+of blank NP to the EMCA cells. In order to determine the efficacy of VP
+in changing cellular transcriptome, we performed RNASeq of EMCA cells
+after treatment with VP. RNASeq data analysis was carried out using
+latest version of Kallisto and Sleuth software. Based on the global gene
+expression whole transcriptome analysis, we observed that HEC-1-A VP
+treated cells show 225 differentially expressed transcripts (out of 204
+genes); whereas HEC-1-B VP treated cells show 12315 differentially
+expressed transcripts (out of 7870 genes). There were 114 differentially
+expressed transcripts (out of 105 genes) common to both the cell lines.
+We observed that ATM, ATR, BRCA2, CDK4, ERBB2, JAK2, NF1, NOTCH and TET2
+are some of the differentially expressed genes after VP treatment. To
+test the efficacy of VP under in vivo conditions, we developed a
+subcutaneous mouse model of EMCA using HEC-1-B-GFP cells. IP
+administration of VP in this model achieved 21% tumor regression. To more
+accurately simulate the results in vivo in a clinically relevant model,
+we have developed an orthotopic tumor model with IV injection of VP.
+Taken together, our results suggest that VP is a promising
+chemotherapeutic agent for the treatment of endometrial cancer.
+
+

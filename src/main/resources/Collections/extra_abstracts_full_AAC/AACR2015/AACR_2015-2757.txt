@@ -1,0 +1,52 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Evaluation of EYA4 as a candidate risk locus in familial lung
+cancer families linked to 6q
+
+
+Recently, Wilson et al. (doi:10.1038/onc.2013.396) found that EYA4 was
+frequently inactivated biallelically in sporadic lung cancer, displays
+tumor suppressor gene-like properties and affects DNA repair, and that 5
+of 17 common SNPs in this 0.3Mb region showed nominal association to
+familial lung cancer (FLC, pRecently, Wilson et al.
+(doi:10.1038/onc.2013.396) found that EYA4 was frequently inactivated
+biallelically in sporadic lung cancer, displays tumor suppressor
+gene-like properties and affects DNA repair, and that 5 of 17 common SNPs
+in this 0.3Mb region showed nominal association to familial lung cancer
+(FLC, p<0.05) although these associations are not genome-wide significant
+after correction for multiple testing.. However, this is an interesting
+candidate gene for FLC risk because it is located on chromosome 6q in a
+region where we previously showed evidence of linkage to FLC (PMID:
+15272417, 20215501). Here, we sequenced 75 individuals from our 9 most
+strongly 6q-linked families, using Illumina technology and a custom
+Agilent kit to capture 37Mb of chromosome 6 from 130Mb to 167Mb. We
+closely examined a region around EYA4, between 133Mb and 135Mb. This
+region contains a number of other genes in addition to EYA4, including
+the Vanin cluster; ribosomal protein S12; the tumor suppressor gene TCF21
+and its antisense RNA TARID which directs methylation and activation of
+TCF21; solute carriers SLC18B1 and SLC2A12 and the serum/glucocorticoid
+regulated kinase SGK1. To detect sharing of variants among affecteds in
+each family while allowing for phenocopies, singlepoint affected-only
+linkage analysis was performed on lung cancer affection status for all
+sequence variants using the Elston-Stewart algorithm implemented in the R
+package paramlink assuming penetrance of 0.01, 0.1 and 0.1 for dd/Dd/DD
+and a disease allele (D) frequency of 0.01, at a recombination fraction
+(theta) of 0.The highest total LOD score (summed over all 9 families) in
+the entire 37Mb targeted region was not near EYA4. In only one family was
+there any variant in EYA4 that appeared on the linked haplotype with
+close to the highest family-specific LOD score: Family 30 had a LOD of
+0.6514 at several EYA4 variants (max LOD across region 0.6519). However,
+many variants across the region had similar LODs. In the remaining
+families, all EYA4 variants had LODs much lower than the maximum
+family-specific LOD score in the region. Thus, EYA4 variants are unlikely
+to explain our 6q linkage peak in these 6q-linked families.The second
+highest total LOD score for the entire 37Mb targeted region was found
+near EYA4 at 133.9Mb (LOD = 3.82), in the middle of the TARID antisense
+RNA gene. This variant appears to be entirely novel, as it is not present
+in any of the online variant databases, such as NHLBI's ESP or 1000
+Genomes. In two families, the family LOD score at this locus was at or
+close to the highest in the region: in Family 44 the LOD score was 1.206
+(max LOD across entire region 1.207) and in Family 35 the LOD score was
+0.3958 (max LOD across region 0.3959). Therefore this variant in the
+TARID antisense RNA is a candidate in some of our families most strongly
+linked to chromosome 6q.
+

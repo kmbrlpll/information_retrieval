@@ -1,0 +1,130 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The dual PI3K/MTOR inhibitor PQR309 is active in mature B cell
+lymphoma cell lines bearing resistance to the PI3K-delta inhibitor
+idelalisib and specific gene expression features
+
+
+Introduction The PI3K-delta idelalisib is among the most promising novel
+agents for lymphomas, but certain patients present a primary resistant
+disease or relapse after an initial response. Here, we studied the dual
+PI3K/MTOR inhibitor PQR309 in lymphoma cell lines that were resistant to
+idelalisib.Methods IC50 values were calculated with the MTT assay (72h)
+for 40 lymphoma cell lines. Gene expression profiling was done with
+Illumina HumanHT12 Expression BeadChips, data mining with Limma, GSEA and
+LINCSCLOUD.Results PQR309 and idelalisib showed only a partially
+overlapping pattern of activity (R = 0.6). While no cell line was
+sensitive to idelalisib and not to PQR309, 10 cell lines were sensitive
+to both compounds and 7 were sensitive only to PQR309. Idelalisib median
+IC50 was 28 nM (95%CI; 13-147) in the PQR309/idelalisib group and 13.4 M
+(7.2-16.7 M) in the PQR309-only (P 0.0006). PQR309 median IC50 was 113 nM
+(33-166 nM) in PQR309/idelalisib sensitive and 193 nM (111-372 nM) in the
+PQR309-only sensitive cells (P 0.03). No differences between the two
+groups were observed in terms of histology, diffuse large B cell lymphoma
+cell of origin, MYC deregulation, TP53 inactivation, BCL6 or BCL2
+translocations. The gene expression signature of the PQR309/idelalisib
+sensitive cell lines was enriched of genes involved in IFN signaling,
+IL6/Jak/Stat3 signaling, oxidative phosphorylation, PI3K/MTOR signaling,
+chemokines signaling and proteasome (GSEA FDR Introduction The PI3K-delta
+idelalisib is among the most promising novel agents for lymphomas, but
+certain patients present a primary resistant disease or relapse after an
+initial response. Here, we studied the dual PI3K/MTOR inhibitor PQR309 in
+lymphoma cell lines that were resistant to idelalisib.Methods IC50 values
+were calculated with the MTT assay (72h) for 40 lymphoma cell lines. Gene
+expression profiling was done with Illumina HumanHT12 Expression
+BeadChips, data mining with Limma, GSEA and LINCSCLOUD.Results PQR309 and
+idelalisib showed only a partially overlapping pattern of activity (R =
+0.6). While no cell line was sensitive to idelalisib and not to PQR309,
+10 cell lines were sensitive to both compounds and 7 were sensitive only
+to PQR309. Idelalisib median IC50 was 28 nM (95%CI; 13-147) in the
+PQR309/idelalisib group and 13.4 M (7.2-16.7 M) in the PQR309-only (P
+0.0006). PQR309 median IC50 was 113 nM (33-166 nM) in PQR309/idelalisib
+sensitive and 193 nM (111-372 nM) in the PQR309-only sensitive cells (P
+0.03). No differences between the two groups were observed in terms of
+histology, diffuse large B cell lymphoma cell of origin, MYC
+deregulation, TP53 inactivation, BCL6 or BCL2 translocations. The gene
+expression signature of the PQR309/idelalisib sensitive cell lines was
+enriched of genes involved in IFN signaling, IL6/Jak/Stat3 signaling,
+oxidative phosphorylation, PI3K/MTOR signaling, chemokines signaling and
+proteasome (GSEA FDR <0.05; core enrichment genes including among others:
+PIK3CD, PTPN6, CCL3, CXCR4, CXCL10, JAK2, MYD88, STAT3, BAX, CDKN1A,
+AKT1, CDK2, PRKCB, PSMC4, PSMC2, MX1, MX2). Conversely, gene expression
+profiles of the PQR309-only sensitive cell lines were enriched of genes
+involved in hypoxia, IL2/STAT5 and glycolysis (GSEA FDR Introduction The
+PI3K-delta idelalisib is among the most promising novel agents for
+lymphomas, but certain patients present a primary resistant disease or
+relapse after an initial response. Here, we studied the dual PI3K/MTOR
+inhibitor PQR309 in lymphoma cell lines that were resistant to
+idelalisib.Methods IC50 values were calculated with the MTT assay (72h)
+for 40 lymphoma cell lines. Gene expression profiling was done with
+Illumina HumanHT12 Expression BeadChips, data mining with Limma, GSEA and
+LINCSCLOUD.Results PQR309 and idelalisib showed only a partially
+overlapping pattern of activity (R = 0.6). While no cell line was
+sensitive to idelalisib and not to PQR309, 10 cell lines were sensitive
+to both compounds and 7 were sensitive only to PQR309. Idelalisib median
+IC50 was 28 nM (95%CI; 13-147) in the PQR309/idelalisib group and 13.4 M
+(7.2-16.7 M) in the PQR309-only (P 0.0006). PQR309 median IC50 was 113 nM
+(33-166 nM) in PQR309/idelalisib sensitive and 193 nM (111-372 nM) in the
+PQR309-only sensitive cells (P 0.03). No differences between the two
+groups were observed in terms of histology, diffuse large B cell lymphoma
+cell of origin, MYC deregulation, TP53 inactivation, BCL6 or BCL2
+translocations. The gene expression signature of the PQR309/idelalisib
+sensitive cell lines was enriched of genes involved in IFN signaling,
+IL6/Jak/Stat3 signaling, oxidative phosphorylation, PI3K/MTOR signaling,
+chemokines signaling and proteasome (GSEA FDR <0.05; core enrichment
+genes including among others: PIK3CD, PTPN6, CCL3, CXCR4, CXCL10, JAK2,
+MYD88, STAT3, BAX, CDKN1A, AKT1, CDK2, PRKCB, PSMC4, PSMC2, MX1, MX2).
+Conversely, gene expression profiles of the PQR309-only sensitive cell
+lines were enriched of genes involved in hypoxia, IL2/STAT5 and
+glycolysis (GSEA FDR <0.05; core enrichment genes including, among
+others, ENO2, AKAP12, PRKCA, VEGFA, XBP1). The gene expression signature
+derived from genetic silencing of SOX4 in different cancer cells
+overlapped with the differences observed between our groups (connectivity
+score = -0.5) and the transcription factor itself, a positive-regulator
+of the PI3K/AKT pathway, was more expressed in the PQR309-only cells (log
+ratio 0.99 P 0.036). The cell surface marker CD24, involved in PI3K
+signaling, was the most up-regulated gene in the PQR309/idelalisib
+sensitive group (log ratio -2.1 P 0.02). Transcripts more expressed in
+the PQR309-only sensitive cells overlapped with genes down-regulated by
+PI3K and MTOR inhibitors in cancer cell lines (connectivity scores
+Introduction The PI3K-delta idelalisib is among the most promising novel
+agents for lymphomas, but certain patients present a primary resistant
+disease or relapse after an initial response. Here, we studied the dual
+PI3K/MTOR inhibitor PQR309 in lymphoma cell lines that were resistant to
+idelalisib.Methods IC50 values were calculated with the MTT assay (72h)
+for 40 lymphoma cell lines. Gene expression profiling was done with
+Illumina HumanHT12 Expression BeadChips, data mining with Limma, GSEA and
+LINCSCLOUD.Results PQR309 and idelalisib showed only a partially
+overlapping pattern of activity (R = 0.6). While no cell line was
+sensitive to idelalisib and not to PQR309, 10 cell lines were sensitive
+to both compounds and 7 were sensitive only to PQR309. Idelalisib median
+IC50 was 28 nM (95%CI; 13-147) in the PQR309/idelalisib group and 13.4 M
+(7.2-16.7 M) in the PQR309-only (P 0.0006). PQR309 median IC50 was 113 nM
+(33-166 nM) in PQR309/idelalisib sensitive and 193 nM (111-372 nM) in the
+PQR309-only sensitive cells (P 0.03). No differences between the two
+groups were observed in terms of histology, diffuse large B cell lymphoma
+cell of origin, MYC deregulation, TP53 inactivation, BCL6 or BCL2
+translocations. The gene expression signature of the PQR309/idelalisib
+sensitive cell lines was enriched of genes involved in IFN signaling,
+IL6/Jak/Stat3 signaling, oxidative phosphorylation, PI3K/MTOR signaling,
+chemokines signaling and proteasome (GSEA FDR <0.05; core enrichment
+genes including among others: PIK3CD, PTPN6, CCL3, CXCR4, CXCL10, JAK2,
+MYD88, STAT3, BAX, CDKN1A, AKT1, CDK2, PRKCB, PSMC4, PSMC2, MX1, MX2).
+Conversely, gene expression profiles of the PQR309-only sensitive cell
+lines were enriched of genes involved in hypoxia, IL2/STAT5 and
+glycolysis (GSEA FDR <0.05; core enrichment genes including, among
+others, ENO2, AKAP12, PRKCA, VEGFA, XBP1). The gene expression signature
+derived from genetic silencing of SOX4 in different cancer cells
+overlapped with the differences observed between our groups (connectivity
+score = -0.5) and the transcription factor itself, a positive-regulator
+of the PI3K/AKT pathway, was more expressed in the PQR309-only cells (log
+ratio 0.99 P 0.036). The cell surface marker CD24, involved in PI3K
+signaling, was the most up-regulated gene in the PQR309/idelalisib
+sensitive group (log ratio -2.1 P 0.02). Transcripts more expressed in
+the PQR309-only sensitive cells overlapped with genes down-regulated by
+PI3K and MTOR inhibitors in cancer cell lines (connectivity scores <
+-0.55).Conclusions. The dual PI3K/MTOR inhibitor PQR309 was active in a
+subset of mature B cell lymphoma cell lines bearing a primary resistance
+to the PI3K-delta inhibitor idelalisib and specific gene expression
+features. Expression of SOX4 and CD24 appear worth of validation on
+clinical specimens derived from prospectively treated patients.
+

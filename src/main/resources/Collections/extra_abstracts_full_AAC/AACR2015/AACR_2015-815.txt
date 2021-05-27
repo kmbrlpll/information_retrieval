@@ -1,0 +1,30 @@
+Meeting: 2015 AACR Annual Meeting
+Title: DTX1 is an epigenetically regulated tumor suppressor gene
+discovered by integrative analysis of epigenetic and transcriptional
+alterations in HNSCC
+
+
+Half a million new cases of Head and Neck Squamous Cell Carcinoma (HNSCC)
+are diagnosed annually worldwide. Given the advanced stage at diagnosis,
+5 year survival after initial diagnosis is only 50% for HNSCC patients
+despite the current therapeutic strategies.Recently, high throughput
+technologies have accelerated the genome-wide characterization of HNSCC,
+but given the high sensitivity of this methodology, these data require
+careful evaluation. To improve the detection of cancer-related changes in
+HNSCC we applied outlier statistics to high throughput DNA methylation
+and gene expression data, and identified 76 top-scoring candidate
+proto-oncogenes and tumor suppressor genes with significantly changed
+expression in tumors compared to normal tissues. We identified
+epigenetically regulated candidates with potential role in HNSCC by
+selecting genes with strong negative correlation between gene expression
+and DNA methylation of their promoters. Differential expression and
+methylation of selected candidates were confirmed with assays on an
+independent HNSCC cohort and on public domain high throughput data on
+TCGA-HNSCC cohort (The Cancer Genome Atlas). We further performed
+functional evaluation of a lead candidate - DTX1 and demonstrated that
+DTX1 is a negative regulator of cell migration. We confirmed that
+epigenetic-dependent downregulation of DTX1 enhanced invasiveness of head
+and neck cancer cells.Outlier analysis integrated with high throughput
+expression and methylation can be used to identify an epigenetically-
+regulated tumor suppressor genes, including DTX1.
+

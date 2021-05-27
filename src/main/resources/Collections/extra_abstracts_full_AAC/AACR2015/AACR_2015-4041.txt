@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: IQGAP1 in human acutae myelogenous leukemia
+
+
+Background: AML is phenotypically diverse. However, genome-wide
+sequencing studies indicate that median number of non-synonymous
+mutations in AML is 8 (B Vogelstein Science 2013) and that the same
+pathways are affected in tumors with distinct genetic alterations. These
+insights provided the impetus to confirm and extend the previously
+published observation that immunization with normal human white blood
+cells (WBC) whose surface charge had been modified in vitro by incubation
+with fluorodinitrobenzene (FDNB) elicited an antibody response that
+cross-reacted against a broad range of leukemias (Nature
+232:197-198,1971).Specific Aims: 1) Isolation and molecular
+characterization of a shared antigenic moiety from human AML, 2) Examine
+the prevalence- and role in AML of IQGAP1, which was identified as a
+shared antigenic moiety.Methods: WBCs from healthy donors were incubated
+with FDNB at 104 molecules/cell for 12-15 minutes in PBS. Three rabbits
+were immunized with FDNB-treated cells (experimental rabbits). A control
+rabbit was immunized with sham-treated cells. After complement
+inactivation, immune sera were absorbed against WBCs from healthy donors.
+Absorbed immune sera were tested for their ability to stain AML cell
+lines by flow cytometry and clinical AML samples by Western blotting.
+Immunoprecipitation of antigens from whole cell lysates of clinical AML
+samples was done using IgG adsorbed on protein A/G Agarose beads. Liquid
+chromatography and mass spectrometry of the immuneprecipitated material
+was performed. Fold change in IQGAP1 expression in normal vs AML bone
+marrow was determined from raw data from Gene Expression Omnibus at the
+NCBI using Partek Genomic Suite. IQGAP1 expression was knocked down by
+shRNA and the effect on proliferation and colony formation was
+measured.Results: Sera from experimental rabbits stained AML cell lines
+with greater intensity by flow cytometry compared to serum from the
+control rabbit. Western blotting of whole cell lysates of clinical AML
+samples revealed bands that were recognized by immune serum from
+experimental rabbits but not the control rabbit. Immunoprecipitation of
+antigens from whole cell lysates of clinical AML samples revealed IQGAP1
+as being differentially recognized in independent experiments. Western
+blots of human AML samples probed with anti-IQGAP1 antibody revealed the
+predicted 190 kDa band. The fold change in IQGAP1 expression in normal
+bone marrow versus AML was -3.22636, p-value 2.62 10e-7. Knocking down
+expression of IQGAP1 in K562, MV4-11 and THP1 cell lines resulted in
+significant decrease in proliferation and colony formation.Conclusion and
+Future Directions: IQGAP1 was identified as a shared antigenic moiety in.
+IQGAP1 is over-expressed in AML compared to normal bone marrow. Knocking
+down IQGAP1 expression in AML cell lines decreased proliferation and
+colony formation. Experiments to determine the mechanistic basis of the
+effect of FDNB on cells and if IQGAP1 is druggable are underway.
+

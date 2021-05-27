@@ -1,0 +1,39 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Identification and functional characterization of p130Cas as a
+substrate of protein tyrosine phosphatase non-receptor type 14
+
+
+Protein tyrosine phosphatases (PTPs) are thought to be potentially
+important regulators in tumorigenesis as antagonists of protein tyrosine
+kinases (PTKs). Among them, Protein tyrosine non-receptor type 14
+(PTPN14) has been shown to be mutated in both colorectal and breast
+cancers. However, little is known about the cellular signaling pathways
+it regulates. In order to determine whether PTPN14 has causative roles in
+tumorigenesis, we set out to identify substrates of PTPN14 and shed light
+on the mechanism why it is mutated in different tumor types. In this
+study, we report the identification of p130Cas, a scaffolding molecule,
+as a substrate of PTPN14 through a proteomic approach. We show that
+PTPN14 specifically dephosphorylates p130Cas at tyrosine 128 by shRNA
+knockdown and overexpression. We also demonstrate p130Cas is a direct
+substrate of PTPN14 by substrate trapping and in vitro phosphatase
+assays. We then mutate tyrosine 128 residue to phenylalanine in DLD1 and
+RKO, two different colorectal cell lines, to study the biological
+functions of this phosphosite. The mutant cells show reduced
+tumorigenicity based on colony formation and soft agar assays. However,
+the phenotypes diverge between the mutant cells from the two cell lines
+when we test the effect of the mutation on tumor growth in xenograft
+model. RKO Y128F mutant cells display significantly reduced tumor volumes
+while DLD1 Y128F mutant cells do not. In addition, RKO Y128F mutant cells
+are less invasive than parental cells in Matrigel but DLD1 Y128F mutant
+cells are surprisingly more invasive. We find that AKT is not fully
+activated in both mutant cells, which is likely the cause of the common
+phenotypes. However, phospho-ERK is up-regulated in DLD1 mutant cells
+possibly due to a compensatory mechanism but not in RKO mutant cells
+since ERK is already constitutively active in RKO cells, which explains
+the discrepancies in phenotypes mentioned above. Last, Src is shown to be
+the kinase of p130Cas Y128. When the phosphorylation of p130Cas Y128 is
+surveyed in six commonly used colorectal cancer cell lines, the
+phosphorylation levels are found to be correlated with the sensitivities
+to Src inhibitor. Thus, p130Cas Y128 phosphorylation can be utilized as a
+prognostic marker for Src inhibitors that are already in clinical trials.
+

@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Interaction of Microsatellite Instability (MSI) and tumor for
+Differential DNA Methylation in Colorectal carcinoma
+
+
+Introduction: Colorectal Cancer (CRC) is one of the most common
+malignancies worldwide. The role of MSI and KRAS somatic mutation in
+tumor tissue is well known in CRC. In genome-wide scale, we explored
+whether differential methylation is associated with MSI status.Methods:
+We carried out a genome-wide methylation assay (Illumina 450K) for a
+total of 250 paired samples from 125 CRC patients (m = 72, f = 53) at
+different stages (stage1:25, stage II: 33 and stageIII: 67). Of them 101
+had left-sided (descending colon to rectum) CRC and 30 had MSI, and 34
+had somatic mutation in KRAS (rs112445441).Results: MSI was more frequent
+in the right-sided tumor (54% vs. 17%, p = 0.003). Frequency of KRAS
+mutation was not different between right and left-sided CRC (29% vs.
+27%). Among the patients with microsatellite stable (MSS) CRC (n = 95),
+paired comparison of methylation data between tumor and corresponding
+normal tissue revealed a total of 1641 tumor-specific differentially
+methylated loci (DML) covering 686 genes that were significant at FDR
+0.001 and the magnitude of difference (delta beta) was at least 20%;
+Similar analysis in patients with MSI (n = 30) revealed 6209
+tumor-specific DML covering 2316 genes. This suggested that MSI is
+associated with methylation change in much larger number of genes.We
+could not find any methylation signature from normal colon tissue that
+could predict MSI or KRAS mutation in the corresponding tumor tissue.
+However, we identified 413 genes to be differentially methylated in tumor
+tissue compared to corresponding normal tissue only in presence of MSI,
+irrespective of KRAS mutation status, tumor staging, and location of
+tumor. These are MSI-associated tumor-specific genes. Among these, 19 DML
+covering17 genes showed delta-beta >30%. The list was enriched in genes
+associated with biologically relevant GO-terms like, negative regulation
+of cell proliferation, regulation of MAP kinase activity, regulation of
+biological process etc.We also identified 240 genes differentially
+methylated in tumor tissue compared to corresponding normal tissue
+irrespective of MSI status, KRAS mutation, tumor staging, and location of
+tumor. These are general tumor-specific genes. Among these loci, 87 DML
+(49 genes) showed delta-beta >30%.Conclusions: Our study shows evidence
+of association between MSI and DNA methylation in the pathogenesis of CRC.
+

@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Systematic evaluation of transcriptome sequencing shows comparable
+profiles for an exome-capture method for formalin-fixed,
+paraffin-embedded (FFPE) breast cancer tissues and the standard poly-A
+method for matched fresh frozen (FF) tissues.
+
+
+Background: Tissue samples are routinely preserved as FFPE blocks. This
+abundant sample reservoir holds promises in clinical omics for disease
+diagnosis and precision cancer medicine. However, due to extensive
+cross-linking, nucleic acids are not efficiently extracted from FFPE
+samples and are heavily degraded, posing challenges for molecular assays
+including next generation sequencing. Our study aims to identify the RNA
+sequencing (RNA-seq) library prep method for FFPE samples that provides
+comparable data to the established poly-A enrichment method for FF tissue.
+
+Methods: RNA-seq data were collected on matched FF and FFPE samples from
+triple negative breast cancer (TNBC; n=7) and normal breast tissues
+(n=2). Tissues were sourced from a commercial vendor. Three library
+preparation protocols from Illumina were tested: poly(A) enrichment
+protocol (Poly-A; FF only), ribosomal RNA deletion protocol (Ribo-Zero
+Gold), and exome-capture based protocol (RNA-Access). Data were compared
+on absolute and differential gene expression, as well as molecular
+subtyping for breast cancer (PAM50; Parker 2009).
+
+Results: Both absolute expression values and log fold changes between
+tumor and normal samples correlate strongly across different tissue
+preservation and library preparation methods. Among tested methods,
+RNA-Access had the highest yield of mappable reads on coding region and
+provided uniform transcript coverage with less rRNA contamination.
+Regardless of the protocol, all TNBC samples were classified as PAM50
+basal-like subtype. As expected, FF with either Ribo-Zero or RNA-Access
+had the strongest correlation with FF PolyA on the distance to subtype
+centroids (r=0.99). For FFPE methods, RNA-Access (r=0.94) had the
+strongest correlation with FF PolyA, followed by Ribo-Zero (r=0.85).
+Principal component analysis showed that samples were primarily
+segregated by technical differences (library preparation or tissue
+preservation method) rather than biological differences (tumor/normal
+status or patient identification), suggesting strong technical bias in
+the data. Gene families and biological processes underlying the
+differentially expressed genes due to technical variations included
+ribosomal, histone and metabolic pathways proteins. The aforementioned
+technical bias can be largely eliminated by a batch effect adjustment
+method (COMBAT; Johnson 2007).
+
+Conclusion: As expected, RNA-seq data is primarily impacted by technical
+differences. RNA-Access based transcriptome sequencing on breast FFPE
+samples generated highly concordant gene expression profiles when
+compared to data derived from FF samples. Our study supports the use of
+RNA-Access based transcriptome sequencing on FFPE samples when FF samples
+are not available.
+
+

@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: RNA-Seq in the NYGC GBM Clinical Outcomes Pilot Study
+
+
+Whole genome and targeted sequencing data have just started to
+revolutionize clinical care for cancer patients. Based on genetic
+variants in each tumor, clinicians can tailor treatment options for
+patients. While genomic sequencing data provide the landscapes of genetic
+variants, RNA-seq data can provide complementary information and allow us
+to interpret the functional effects of discovered variants. However,
+N-of-1 analysis with RNA-seq data poses several challenges, including
+integration with DNA data and normalization of gene expression. To tackle
+these challenges, we developed RNA analytics for integrative analysis for
+tumor samples in a clinical setting.For variant analysis, we use RNA to
+validate somatic variants (both SNVs and indels) and to elucidate
+potential functional effects of the variants. Because RNA-seq has
+different coverage patterns from WGS, we developed tools to calculate and
+compare variant allele frequency in both DNA and RNA data, which allows
+us to validate variants and evaluate allelic expression. Additionally,
+leveraging on RNA-seq, our tools look for evidence of aberrant splicing
+events, such as exon skipping and intron retention that are caused by
+genetic variants. These analyses not only provide an integrative view of
+the data, but also prioritize variants and potentially reveal variant
+effects.Because many cancers are driven by fusion genes and some fusion
+genes are recurrent in GBM, we use our data to detect gene fusion
+supported by RNA-Seq, and if possible by WGS. We use FusionCatcher and
+STAR-Fusion, coupled with OncoFuse to discover and annotate fusions in
+RNA-Seq. We subsequently look for supporting evidence by any of the
+structural variant callers we use.Gene expression quantification is most
+valuable as a comparative measurement. However, this is challenging for
+N-of-1 analysis, since such assessment requires proper normalization and
+comparison to a proper cohort. Batch-effects due to library preparation
+and other covariates exacerbate the issue of normalization. We tackle
+this issue with various normalization and correction strategies.
+Utilizing GC-bias correction, batch-effect adjustment, and public
+datasets, our analytic provides gene expression measurement that allows
+researcher to interpret whether the gene is up- or down-regulated
+compared to a cohort (such as TCGA).Our RNA analytics comprehensively
+utilize transcriptomic data and provides solutions to integrative
+analysis. We have applied our tools to sequence data from five
+glioblastoma patients and showed how RNA-seq can compliment WGS. Our
+integrative analysis helps identify an exon-skipping event in MET in one
+patient, which was validated with Sanger sequencing. The expression
+analysis also helps identify potential aberrant activity of the SMO
+pathway, possibly driven by a SMO missense mutation and loss of SUFU.
+

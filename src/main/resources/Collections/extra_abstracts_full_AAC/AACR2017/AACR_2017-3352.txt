@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genome-wide enhancer identify signature predictive of metastatic
+phenotypes in bladder cancers.
+
+
+In urothelial bladder cancer accurate identification of grade and stage
+is critical for optimal treatment to achieve robust disease control and
+long-term survival. However, among the initially superficial tumors,
+which are non-invasive and highly treatable, 20 to 25 % recur, progress
+to invasive tumors, and metastasize during the patients’ lifetime.
+Thus, the challenge is to provide risk stratification during the initial
+diagnosis in order to identify those patients who are unlikely to
+progress while offering radical therapy to those who are at risk. To
+address this issue, the field has heavily focused on the discovery of few
+mutations in potential driver genes. However, recent findings indicate
+that deregulation of enhancers can play a major role in cancer
+progression. In this study, we employed DNase-Seq to detect enhancer
+activities genome-wide in 16 bladder cancer cell lines (BLCs) that
+included three lineages (T24, UMUC3, 253J lineages) with different
+tumorigenic and metastatic potentials, and thus represent models of
+cancer progression and metastasis development. We analyzed the gain and
+loss of enhancer activity in each BLC lineages as well as in metastatic
+cell lines relative to non-metastatic cell lines. Our analysis in the T24
+lineage revealed a striking feature, a dramatic loss of intronic and
+distal DHSs (DNase I Hypersensitive sites), during the initial transition
+to tumorigenic type. During metastatic progression, new enhancer classes
+emerged and there was an enrichment for association with target
+organ-specific genes. The analysis of differential DHSs between
+metastatic and non-metastatic BLCs identified an enhancer signature
+enriched with lost DHSs in metastatic BLCs where nearby genes were
+associated with cellular movement/invasion functions. Lost DHSs were also
+present near key factors such as PPARG, RXRA, FOXA1, TP63, and GATA3,
+which play a role in urothelial development and differentiation, and the
+transcription activity of those genes were correlated with the change of
+enhancer activity. This study identified a set of DHSs that are
+associated with cancer progression in bladder cancer, and provides a
+potential clinical application for developing prognostic markers to
+predict the risk of developing aggressive disease.
+
+

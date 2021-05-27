@@ -1,0 +1,30 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Targeting the tri-snRNP complex for triple-negative breast cancer
+therapy.
+
+
+Triple negative breast cancers (TNBC) account for ~15% of all breast
+cancers and the majority of breast cancers in women carrying a BRCA1
+germline mutation. Due to the inadequacy of existing treatment, here we
+sought to identify shared genetic dependencies across different TNBC cell
+lines with the ultimate goal of uncovering novel therapeutic targets. To
+this end, we performed a targeted siRNA lethality screen across 11 human
+breast cell lines focusing on 154 genes, which we previously identified
+as selectively essential to a genetically-defined TNBC progenitor cell
+line (BPLER) relative to a myoepithelial-like isogenic cell line (HMLER).
+Thirty genes scored as recurrently and selectively required for survival
+of progenitor-like (or basal-A) TNBC lines compared to differentiated
+cell lines. Genes for proteins involved in RNA splicing were prominent
+shared dependencies among basal-A TNBC cell lines. Of particular note
+were those associated with the U4/U6.U5 tri-snRNP complex, including
+PRPF8 and PRPF38A. Transcriptome-wide RNA-seq analysis of the knockdown
+of either led to widespread intronic retention, expression of immune
+system genes and aberrant splicing of transcripts involved in protein
+translation, proteasome function, mitosis and apoptosis, including the
+TNBC dependency gene MCL1. As the proteasome and mitosis are also
+established TNBC vulnerabilities, we have identified specific classes of
+transcripts that are both particularly susceptible to perturbation of
+tri-snRNP activity and selectively essential for TNBC, making the
+tri-snRNP complex an attractive target for downstream drug development.
+
+

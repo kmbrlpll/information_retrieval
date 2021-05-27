@@ -1,0 +1,50 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Label-free separation and concentration of cancer cells by
+acoustophoresis
+
+
+Introduction: Circulating tumor cells (CTCs) is a promising tool for
+disease monitoring and for better-targeted therapies for patients with
+disseminating tumors. However, isolation of CTCs is challenging due to
+their scarcity, variation in size, morphology, and expression profile.
+The lack of a universal marker impairs reliable detection and
+characterization of CTCs. We are using acoustophoresis, ultrasound
+standing wave radiation forces to enable label free separation of cancer
+cells from white blood cells (WBC). The cell separation is based on
+intrinsic cells properties such as size, density and
+compressibility.Materials and Methods: The acoustic setup is a
+glass/silicon microchip connected to a pressure driven system. The system
+is temperature controlled and has a pre-alignment step for optimal
+separation performance. The separation system can process samples up to
+10 mL, with a processing speed of 1 mL in 13 minutes without compromising
+the cell separation capacity. If required the separation step can be
+complemented with a subsequent concentration channel, which allows at
+least 20x concentration of the sample, by extracting the cells in a
+smaller liquid volume compared to the input sample. The prostate cancer
+cell line DU145 and the breast cancer cell line MCF7 spiked in red blood
+cell (RBC) lysed blood from healthy donors, are used to evaluate the
+model system performance for cancer cell separation.Results and
+Discussion: The acoustic separation model system is flexible and can be
+amended to suit different requirements and conditions. The cancer cell
+recovery after acoustic separation of blood samples spiked with 50 DU145
+cells per mL is approximately 80% with a WBC contamination level of less
+than 0.3%. At this performance level there is a 100x cancer cell
+enrichment in the collected cancer cell fraction compared to input.
+However, by changing parameters such as the voltage setting and sample
+flow rate it is possible to regulate the cancer cell recovery and WBC
+contamination levels after acoustophoresis. Cancer cell recovery well
+above 90% is possible with slightly higher WBC contamination levels. If
+high cancer cell purity is of importance, a 1000x cancer cell enrichment
+can be achieved at the cost of slightly lower cancer cell recovery. RBC
+lysing is required before acoustic separation, due to cell crowding in
+the separation channel when the cell concentration is too high. We have
+identified eosinophils as the major contaminant in our enriched cancer
+cell fraction. They constitute 85% of the contaminating WBCs. The
+eosinophils have similar acoustic properties as the smaller cancer cells,
+and can therefore not be completely isolated from the cancer cells by
+acoustophoresis.This work demonstrates the flexibility with
+acoustophoresis that allows for integration of three previously
+established units: pre-alignment, sorting and concentrating, onto the
+same chip. It also serves as a proof of concept for in line rare cell
+label free sorting and isolation.
+

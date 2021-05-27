@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Validation of novel continuous live-cell assays for immune cell
+activation and killing of blood cell cancers.
+
+
+The blood cancers leukaemia, lymphoma and myeloma are expected to cause
+the deaths of > 55,000 people in the US in 2016. New immunological
+approaches afford great promise for improved therapies. Here, we describe
+novel high throughput live-cell image-based assays for immune cell
+activation and killing of target cells that are geared toward screening
+for new treatments for these malignancies. Myeloid and lymphoid cells
+(Jurkats, Raji, Ramos, WIL2-NS, THP-1, PBMCs) were plated on
+poly-L-ornithine (PLO) or fibronectin coated 96-well flat plates and
+monitored over time (h to days) using non-invasive live-cell analysis
+(IncuCyte). The dynamics of proliferation were quantified via
+phase-contrast image analysis (% confluence), and validated as a robust
+measure of cell number by correlating to direct cell counts (Scepter,
+Millipore) and ATP assays (PerkinElmer). Anti-CD3/IL-2 (0.1-100/10 ng/mL)
+or anti-CD28 activation (1-100 ng/mL) of PBMCs evoked time-dependent
+proliferation (0-5d) that was sensitive to the initial cell density and
+concentration of stimulus. L-Kynurenine (4.69 - 300 µM), a metabolite of
+the amino acid L-tryptophan caused concentration and time-dependent
+inhibition of proliferation of PBMCs. To quantify immune-cell killing in
+co-cultures, WIL2Ns and Ramos B-cell myelomas were first transduced with
+nuclear-targeted RFP (NucLight Red) to enable direct cell counting.
+PBMCs, either pre-activated or activated in situ (IL-2/CD3), were then
+added and the time-course of killing quantified through live (RFP) and
+dead/apoptotic (annexin-V) cell counting. Together, these protocol
+developments and validation data illustrate non-invasive continuous
+measurement of proliferation, activation, clustering and immune-cell
+killing of non-adherent tumour cells at industrial scale. Unlike flow
+cytometry, this approach follows the full time-course of the biology
+without perturbing the cells and allows cell-cell interactions to be
+visualised. These assays are amenable to testing new therapeutic
+antibodies, small molecules and genetic T-cell modulation such as CAR-T.
+
+

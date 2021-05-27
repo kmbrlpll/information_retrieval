@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Molecular targeted photoimmunotherapy as a treatment for bladder
+cancer
+
+
+Introduction: Bladder cancer (BCa) is a common cancer and is the most
+expensive malignancy to treat from diagnosis to death. Although no new
+therapies have been introduced in the past two decades, data from The
+Cancer Genome Atlas (TCGA) confirms that Epidermal Growth Factor Receptor
+(EGFR) family and its downstream signaling molecules are altered in
+almost 72% of muscle invasive bladder cancer (MIBC) cases. However,
+anti-EGFRs to date have failed to demonstrate any benefit over standard
+of care chemotherapy. We have applied a technique of employing monoclonal
+antibodies (mAbs) conjugated with photo-activatable compounds (IRDye
+700Dx, a phthalocyanine dye) that are activated by near-infrared light
+(NIR). When incubated with the conjugate, exposure to NIR destroys only
+targeted cells. We explored photoimmunotherapy (PIT) in a panel of BCa
+cell lines. The purpose of this study was to study the efficacy and
+mechanism of action of PIT using the anti-EGFR panitumumab (Pan)-IR700
+immunoconjugate as a selective therapeutic strategy for bladder
+cancer.Methods: Using flow cytometry, the surface expression of EGFR was
+profiled in several BCa cell lines. The cytotoxicity of Pan-IR700 was
+analyzed using LIVE/DEAD and IC50 was measured using the MTS assay. The
+type of cell death was examined by fluorometric caspase assay, Annexin
+V-PI staining, and TEM. The mechanism of cell death was elucidated using
+fluorometric measurement of reactive and singlet oxygen species.Results:
+Using flow cytometry, the surface expression of EGFR was profiled in
+several BCa cell lines and cell lines with increasing amounts of surface
+EGFR (RT4, TCCSUP, 5637 and UMUC-5) were selected for further studies.
+Pan-IR700 rapidly killed UMUC-5 cells (high EGFR expressions) with an
+IC50 of 4 nM at 4 J/cm2 NIR. In TCCSUP cells (low surface EGFR), the same
+IC50 of Pan-IR700 could be achieved at 64 J/cm2 of NIR. No significant
+cytotoxicity was observed in the presence of IR700 or NIR alone, or in
+cell lines without any EGFR expression. Absence of any caspases and
+presence of most cells in the late apoptosis/necrosis quadrant of Annexin
+V-PI staining suggested that PIT kills cells by necrosis. In TEM, these
+cells showed classic features of necrotic cell death such as swollen
+organelles, disintegrated plasma membrane and depleted cytoplasm and
+nucleoplasm. Cells undergoing PIT showed production of ROS and singlet
+oxygen species in large amounts immediately after exposure to NIR.
+However, only the singlet oxygen quencher (NaN3) and not the ROS quencher
+(Trolox) was able to protect the cells from PIT induced cell death
+indicating partial involvement of singlet oxygen in PIT-induced necrosis
+of cells.Conclusions: PIT is a new targeted treatment for bladder cancer.
+Our data demonstrate that Pan-IR700-induced PIT selectively and
+efficiently kills EGFR-expressing bladder cancer cells in vitro and
+therefore warrants further preclinical therapeutic studies in in vivo
+bladder cancer models.
+

@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Development of fluorescent probes for detection of DNA base
+excision repair in human cancer cells
+
+
+Many cancer chemotherapeutics target DNA, which makes them vulnerable to
+repair by innate mechanisms the cell has evolved to ward off endogenous
+and exogenous DNA damage. In the course of chemotherapy, these repair
+pathways lead to drug resistance and reduced efficacy of cancer
+treatment. To address these issues, our goal was to develop imaging
+agents to visualize and quantify DNA repair in cancer. Thus, we have
+developed small molecule, fluorescent probes that bind to the abasic (or
+AP for apurinic/apyrimidinic) site in DNA, a key intermediate in the base
+excision repair (BER) pathway.Taking advantage of the biochemistry of
+BER, we have developed an assay based on a fluorescently tagged DNA
+oligomer to evaluate the ability of these probes to bind to AP sites and
+stall further repair. This assay relies on blocking the DNA single strand
+breaking activity of the enzyme, AP endonuclease (APE), when its natural
+substrate, the AP site, is obstructed by probe binding. Using this assay,
+we have screened our novel probes for their AP site binding potential.
+Our cyanine-(Cy7) based probe outperformed other, commercially available
+AP site binding probes including methoxyamine (MX) and aldehyde reactive
+probe (ARP).In addition, we have developed a method for analyzing a
+genomic DNA sample that demonstrates the potential to evaluate
+physiologically relevant quantities of AP sites. 5-Fluoro-2-deoxyuridine
+(FUDR) is indicated for treatment of many types of cancer; however,
+uracil DNA glycosylase (UDG) can repair the lesions in DNA introduced by
+FUDR. Therefore, we prepared a UDG knockdown of the DLD1 colon cancer
+cell line and treated both wild type and knockdown cells with FUDR for
+24, 48, and 72 h. Following extraction of the DNA and in vitro treatment
+with purified UDG, we observed a nearly 9-fold increase in fluorescence
+in treated versus untreated cells. This confirmed that our probe could
+report of AP site quantity in cancer cells in vitro.Our cyanine-based
+probes have several benefits over existing probes including red and NIR
+fluorescence for application in animal imaging. Our studies indicate that
+these probes bind to AP sites more efficiently than existing probes.
+Further, these fluorescent AP site-binding agents could have application
+in drug development and discovery or be used in assays to monitor patient
+response to therapy.
+

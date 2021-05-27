@@ -1,0 +1,37 @@
+Meeting: 2015 AACR Annual Meeting
+Title: The frequency of gene amplifications in cancer revealed by a
+droplet digital PCR (ddPCR) based pan-cancer gene panel test
+
+
+The development of molecular assays designed to detect gene
+amplifications has largely been hampered by technical challenges such as
+limited DNA quantity and tumor heterogeneity, which demand methods of
+very high precision and sensitivity. The recent introduction of
+affordable digital PCR platforms, such as droplet digital PCR (ddPCR),
+that are capable of providing single molecule resolution of target
+abundances thus provides a unique opportunity to address this gap in
+molecular diagnostics. A ddPCR-based test was therefore developed under
+CLIA-CAP guidelines to determine the amplification status of 12 commonly
+amplified genes targeted by FDA approved drugs. Termed the Amplinome
+Test, this test was applied to 49 clinical samples received over a period
+of 6 months and compared to the results obtained from a commercially
+available clinical sequencing test applied that also reports copy number
+alterations (CNAs). An overall concordance rate of 90% (532/588 calls)
+was observed between the two tests across the entire gene set, 5 of which
+were identified as amplified. There were 56 discordant copy number
+amplifications between the two testing modalities. The vast majority
+(55/56) of discordant calls arose from gene amplifications identified by
+the Amplinome test, but not detected by sequencing, indicating an 11-fold
+increase in sensitivity in detecting amplifications. One discordant call
+(HER3) was identified as amplified via sequencing, but confirmed to be
+unamplified via FISH. At the patient level, the Amplinome test identified
+5-fold more patients as having actionable amplifications in at least one
+of the 12 assayed genes versus clinical sequencing (29 vs. 6). Clinical
+management was altered in 14 of the 29 patients with an actionable CNA
+identified on the Amplinome test; those patients received targeted
+therapy directed against the amplified gene. The ddPCR-based Amplinome
+test thus provides a highly sensitive method for measuring gene
+amplifications in cancer that alters patient management, and suggests
+that the prevalence of actionable amplifications may be significantly
+underestimated by standard clinical next-generation sequencing tests.
+

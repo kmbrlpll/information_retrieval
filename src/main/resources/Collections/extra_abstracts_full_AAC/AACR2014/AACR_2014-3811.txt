@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: G-quadruplex-forming genomic sequences homologous to Pu27 interact
+with c-Myc promoter and regulate c-Myc transcription
+
+
+Introduction: The transcription factor c-Myc regulates a large array of
+genes, plays an important role in cell growth/differentiation, cell cycle
+progression and apoptosis hence is tightly regulated both at the
+transcriptional and protein level. The NHEIII1 upstream of P1 promoter
+regulates up to 80% of c-Myc transcription, and comprises a C/G rich
+region able to form G-quadruplex structure (Pu27). G-quadruplex forming
+motifs seem to be abundant in the genome, located in the promoter region
+of oncogenes. We identify 13 new potential G-quadruplex forming motifs
+with more than 90% identity with Pu27, located in different chromosomes
+of the human genome and none near gene promoter regions.Methods: BLAT
+search was used to identify the homologous sequences of Pu27. The
+G-quadruplex formation was evaluated by Circular Dichroism Spectrometry
+(CD), the specific interaction of each of the homologous sequences with
+the double strand DNA containing NHEIII1/Pu27 was documented by
+electrophoretic mobility shift assay (EMSA). We investigate 3 members of
+the Pu27 oligonucleotides family: Pu5- (42nu), Pu9- (20nu) and Pu27
+(27nu) in: 1) a dose response (1, 3, 5 or 10M)-time course (24, 48, 72 ,
+96 hrs) study on cell growth inhibition in 4 leukemia cell lines measured
+by MTT. 2) the effect on c-Myc expression in U937 measured by QRT-PCR,
+Flow-cytometry and Western Blot. 3) global gene expression evaluated in a
+gene array study in U937 exposed for 24h, 48h and 72h.Results: Thirteen
+oligonucleotide sequences almost identical to Pu27 were identified
+spread-out in 12 different chromosomes. Except for Pu27 (c-Myc promoter)
+none of the sequences were within a promoter region. All Pu27 homologous
+sequences contain the 5 runs of 3 to 4 Guanines, form G-quadruplex, and
+specifically bind to the dsDNA containing Pu27 sequence. The evaluation
+of a dose response/time course for Pu27 (Chr8), Pu5- (Chr5) and Pu9-
+(Chr9) on growth inhibition of U937, K562, HL-60 and Raji show a
+difference in sensitivity of the cell lines to the oligonucleotide
+sequences (Raji (more sensitive than)>U937>K562>HL-60), and a difference
+in efficiency of the oligonucleotide sequences (Pu27>Pu5->Pu9-). Gene and
+protein expression of c-Myc were similarly down regulated by the 3
+sequences in U937 exposed to Pu27, Pu5- or Pu9- for 3 days. The analysis
+of the global gene expression reveal an early effect (24h) of Pu27
+followed by Pu5- (48h), by 72h exposure all three Pu oligonucleotides
+will have affected genes involved in cell cycle progression/regulation,
+DNA damage repair and histone modification . Conclusion: We identify the
+presence of numerous sequences homologous to Pu27 located in different
+chromosomes sharing Pu27 structure and function. The addition of
+exogenous Pu27, Pu5- or Pu9- down regulate c-Myc expression and inhibit
+leukemia cells growth making this G-quadruplex structure a key regulator
+in NHEIII1 and a potential target for cancer therapy.
+

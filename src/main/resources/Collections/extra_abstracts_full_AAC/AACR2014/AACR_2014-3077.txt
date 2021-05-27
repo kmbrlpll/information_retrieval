@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Label free prostate cancer cell isolation from blood by acoustic
+standing wave technology - acoustophoresis
+
+
+There is intense search for disease biomarkers that can reliably detect
+lethal prostate cancer (PCa) at early stage, monitor response to
+treatment, detect disease recurrence, and predict survival. Enrichment,
+enumeration, and transcriptional profiling of rare circulating tumor
+cells (CTCs) can predict survival of patients with disseminated tumors,
+and may provide clinical benefit in predicting treatment responses of
+targeted therapies.We exploit ultrasound radiation forces to enable label
+free diversion of cancer cells from nucleated blood cells in a
+temperature-controlled, microfluidic continuous flow system
+(acoustophoresis). A third generation, standing-wave ultrasound microchip
+(silicon/glass) incorporated a cell pre-alignment channel, and a
+microchannel with a trifurcated inlet and outlet. The system is driven by
+compressed air (500 mBar) to mitigate and minimize continuous
+flow-fluctuations and provide more reproducible and reliable
+discrimination of tumor cells from nucleated blood cells compared to
+previous syringe driven setups, and allow us to process clinically
+relevant sample volumes of blood (5-10 mL).We fixed, spiked, and
+processed 50 or more PCa cells per mL in undiluted white blood cells
+(WBC) in the acoustic microchip. The separation system is very flexible
+and the ratio between cancer cell recovery and cell contamination can be
+tuned by changing the sample flow rates or the acoustic energy. A
+consistent and reproducible recovery of cancer cells above 90% with less
+than 0.4% contamination of WBC was provided using flow rates of 100
+l/min. We also found that about 90% of the contaminating WBCs were
+granulocytes, whereas the vast majority of lymphocytes were reliably
+diverted. Our results were consistent using different PCa cell lines
+(DU145, LNCaP, PC3) along with the breast cancer cell line (MCF7).The
+isolation of cancer cells by acoustophoresis is a label free method that
+consistently enables high recovery of cancer cells independent of the
+expression of surface antigens. This allows for separation of EpCAM
+negative populations of CTCs, mesenchymal cells along with cancer stem
+cells, which can be identified with subsequent qRT-PCR analysis. In
+acoustophoresis, cells are separated according to size, density and
+compressibility (dV/dp), where size is the major factor. Using non-fixed
+samples, we can separate viable from dead cells, since dead cells display
+significantly different acoustic properties to their live counterpart.
+Acoustophoresis is a gentle separation method and does not affect cell
+viability, allowing post isolation ex vivo cultivation of CTCs. This
+allows functional assays to test CTCs ability to form metastasis. It is
+therefore a promising method for future non-invasive molecular
+interrogation of metastatic cancers and the characterization of CTCs will
+relate CTCs to disease outcome and predict for sensitivity to treatment
+and match patient to drug response.
+

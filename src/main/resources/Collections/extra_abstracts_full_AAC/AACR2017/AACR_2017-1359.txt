@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: How does RAC1 GTP-ase signal Wnt-beta-catenin pathway-mediated
+integrin-directed metastasis-associated tumor cell phenotypes in TNBC.
+
+
+Introduction: We reported that Wnt Pathway (WP) upregulation, one of the
+salient genetic features of metastatic TNBC, controls the acquisition of
+integrin-directed metastasis-associated (ID-MA) phenotypes of TNBC cells
+(Dey et al., 2013). RAC-GTPases, small G-proteins which transduce signals
+from cell surface proteins including integrins, have been implicated in
+tumorigenesis and metastasis by their role in essential cellular
+functions like motility. Aim: Here we tested the role of the mechanism of
+involvement of RAC1 in the regulation of WP-mediated ID-MA phenotypes in
+TNBC cells and examined how WP signals are transduced via RAC1 in the
+context of ID-MA phenotypes in TNBC.
+
+Method: Oncoprints showed that the major alterations of RAC1 gene in TNBC
+were constituted by the amplification/gain of the gene. The collective
+percentage of alteration(s) in RAC1 in ER+ve BC was 35% as compared to
+57% in ER-ve BC (brca/tcga/pub2015). Using pharmacological agents
+(sulindac sulfide), genetic tools (siRNA), WP modulators (Wnt-C59,
+XAV939), RAC1 inhibitors (NSC23766, W56) and WP stimulations (LWnt3ACM,
+Wnt3A recombinant) in a panel of 6-7 TNBC cell lines, we studied
+fibronectin-directed migration and various motility parameters (actin
+dynamics, filopodia and lamellipodia by confocal microscopy) in the
+context of fibronectin-directed RAC1 and Cdc42 activation.
+
+Result: Breaking down by molecular subtypes of BC, RAC1 gene alterations
+are observed in 20% in PAM50 Luminal A, 35% in PAM50 Luminal B, 37% in
+PAM50 HER2 enriched and 40% in PAM50 Basal-like. For the samples set of
+TCGA, Cell 2015, RAC1 gene was altered in 42% total while it was altered
+37% in PAM50 Luminal A, 57% in PAM50 Luminal B, 55% in PAM50 HER2
+enriched and 60% in PAM50 basal-like. An attenuation of WP, which (a)
+decreased cellular levels of beta-catenin, as well as its nuclear
+active-form, (b) decreased fibronectin-induced migration, (c) altered
+actin dynamics and (d) decreased podia-parameters was successful in
+blocking fibronectin-mediated RAC1/Cdc42 activity. Both Wnt-antagonists
+and RAC1 inhibitors blocked fibronectin-induced RAC1 activation and
+inhibited the fibronectin-induced ID-MA phenotypes following specific WP
+stimulation. To test a direct involvement of RAC1-activation in
+WP-mediated ID-MA phenotypes, we stimulated brain-metastasis specific
+MDA-MB231BR cells with LWnt3ACM. LWnt3ACM-stimulated fibronectin-directed
+migration was blocked by RAC1 inhibition in MDA-MB231BR cells. In the
+light of our previous report (De et al., 2016) that WP upregulation
+stimulates ID-MA phenotypes in TNBC tumor cells, here we provide the
+first mechanism based evidence to demonstrate that WP upregulation
+signals ID-MA tumor cell phenotypes in an RAC1-GTPase dependent manner
+involving exchange-factors like TIAM1 and VAV2.
+
+

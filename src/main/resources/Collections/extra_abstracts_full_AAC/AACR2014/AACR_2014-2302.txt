@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: CpG hypermethylation marks potentially curable acute myeloid
+leukemia
+
+
+Purpose: Acute myeloid leukemia (AML) is a heterogeneous blood
+malignancy. Genetic markers identify distinct subgroups. Epigenetics can
+refine the classification and prognostic stratification. Our pilot data
+on a small subset of genes suggested that DNA hypermethylation was an
+indicator of prolonged survival.Experimental Design: To expand the
+analysis, we used Digital Restriction Enzyme Analysis of Methylation
+(DREAM) for high resolution quantification of CpG methylation at CCCGGG
+sequences across the genome. We analyzed pretreatment bone marrow samples
+from 100 AML patients and 19 control samples of normal blood
+leukocytes.Results: We quantified methylation at 22,576 CpG sites and
+identified 3004 variable CpG sites with the standard deviation of
+methylation in AML greater than 20%. Hierarchical clustering of
+methylation values at these variable sites divided the patients into
+three clusters. Cluster 1 showed extensive hypomethylation when compared
+to the remaining AML patients and normal controls. Mutations of DNMT3A in
+the R882 codon were observed in 8/32 (25%) patients while 2 patients (6%)
+had an IDH mutation. Cluster 2 had the methylation pattern similar to
+normal controls. IDH mutations were found in 5/45 (11%) patients. DNMT3A
+R882 mutations were detected in 3 patients (7%); in two of them they were
+associated with an IDH mutation. Cluster 3 had the highest proportion of
+IDH mutations - 7/22 (32%) patients; two of these patients also harbored
+the DNMT3A R882 mutation. This cluster displayed the CpG Island
+Methylator Phenotype (CIMP) with hypermethylation at multiple CpG sites.
+We identified significant hypermethylation at 785 CpG sites (P20% when
+compared to Clusters 1 and 2). One third of the hypermethylated sites
+mapped within 1 kb of gene transcription start sites (TSS). We used DAVID
+Bioinformatics Resources 6.7 to characterize ontology of the genes
+associated with the hypermethylated sites. We found significant
+enrichment for negative regulators of transcription. Hypomethylation was
+rare in the CIMP Cluster 3. We did not find any significantly
+hypomethylated CpG sites when compared to Clusters 1 and 2. Kaplan-Meier
+survival analysis showed significant differences in the overall survival
+among the clusters of AML patients, all treated with standard ara-C +
+anthracycline chemotherapy. Median survival in Cluster 1 and 2 was
+similar, 1.5 and 1.0 years, respectively. The CIMP cluster of 29 patients
+showed a remarkably long median survival of 14 years
+(P=0.003).Conclusion: We propose that CIMP characterizes a subset of AML
+patients with a good response to chemotherapy and long survival.This work
+was supported by the NIH Leukemia SPORE grant CA100632 and by a Stand Up
+To Cancer-American Association for Cancer Research Dream Team
+Translational Cancer Research Grant, Grant Number SU2C-AACR-DT0109.
+

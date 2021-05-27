@@ -1,0 +1,35 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Whole exome sequencing reveals a distinct mutation pattern in
+metastatic small cell lung cancer compared to non-small cell lung cancer
+
+
+Purpose: Lung cancer is divided into two main groups, small cell lung
+cancer (SCLC) and non-small cell lung cancer (NSCLC), the latter
+subdivided in squamous, large cell and adenocarcinoma. Many studies have
+shown intra-tumor heterogeneity in lung cancer with multiple minor clones
+characterized by their own specific mutational landscape. These minor
+clones can become predominant under selective pressure caused by therapy.
+Aim of our study is to investigate the relation between primary lung
+cancer and multiple distant metastases using whole exome
+sequencing.Materials and methods: Normal tissue, primary lung tumor, and
+multiple metastases were obtained from 2 SCLC and 3 NSCLC patients
+resulting in a total of 29 samples (Table 1). DNA was isolated from
+total, macro-dissected, or laser micro-dissected tissue to obtain a
+purity of at least 80% tumor cells. Library preparation was based on the
+SureSelect All Exon V5 bait (Agilent) and paired-end sequencing was done
+using Illumina HiSeq2000. Genome analysis toolkit (GATK) was used to
+analyze data and the 1000-Genome database was used to remove single
+nucleotide polymorphisms.Results: In four patients more than 70% of the
+observed variants were true somatic mutations. In the adenocarcinoma
+patient, only 32% of the variants were called as true somatic mutations.
+After excluding personal variants, 79 to 446 true somatic mutations were
+observed in any of the tumor samples of the five lung cancer patients
+(Table 1). Comparison of the mutations observed in the primary and
+metastatic samples revealed that around 50% of the mutations were shared
+between all tumor samples of the three NSCLC patients, whereas more than
+95% of mutations were shared in all samples of the two SCLC
+patients.Conclusion: We found a high percentage of metastasis specific
+mutations in NSCLC patients. In contrast, SCLC patients show a limited
+number of metastasis specific mutations, consistent with the
+aggressiveness of these tumor and the very poor prognosis.
+

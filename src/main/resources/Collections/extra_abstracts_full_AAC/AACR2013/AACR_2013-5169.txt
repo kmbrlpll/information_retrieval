@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Flow-proteometric analysis of single signaling complex.
+
+
+Signal transductions are critical for cell physiology functions and
+signaling complexes play major roles in carrying and delivering signals.
+These processes occur mainly through protein-protein interaction (PPI)
+and protein-nucleic acid interaction (PNI). Conventional approaches are
+usually limited in identifying a specific cellular PPI, or PNI from large
+amount of a specific protein with limited relative quantification.
+However, multiple PPIs and PNIs actually occur within a single signaling
+complex in vivo in a dynamic manner and an effective methodology for
+accurately detecting these individual complexes for multiple targets are
+critical for further understanding the in depth mechanisms of cell
+signaling transduction. Herein we introduce a novel flow-proteometric
+technique named microchannel for Multi-parameters Analyzing Proteins in
+Single-complex (mMAPS), which integrates a microfluidics device into
+single-molecule spectroscopy with three different emission-wavelength
+detectors to directly detect and analyze each individual signaling
+complex. Briefly, proteins and/or nucleic acid were labeled by three
+separate wavelength fluorophores in individual complexes and each complex
+was examined when it flew through the detection spot in microchannel.
+Using this approach, we demonstrate various applications by analyzing
+multiple endogenous PPIs and PNIs in p53, EGFR, HER2, and NFB complexes
+from cancer cell lines with the resolution of single signaling complex.
+For instance, using 50,000 cancer cells (HeLa) we have detected and
+quantified the interaction between three proteins including EGF, EGFR and
+STAT3. We identified the single protein complexes which contain all three
+targets (EGF/EGFR/STAT3) after EGF treatment for 30min. EGF/EGFR and
+EGFR/STAT3 were also been identified as well but we didn't identified
+EGF/STAT3 interaction. Interestingly, although 20% of detected EGFR were
+interacted with STAT3 after EGF stimulation, only 3% of EGFR found to
+interact with EGF in the EGFR complex. In addition, we have also detected
+the protein complexes containing both proteins and nucleic acid including
+endogenous p53, TBP1, and genomic DNA fragment and successfully
+identified p53, TBP1, and genomic DNA in a complex. Quantification
+results revealed that p53 and TBP1 interaction only occurred in the
+complexes with genomic DNA. In conclusion, mMAPS provides a powerful
+platform for direct investigating the composition of individual target
+protein complexes and reveals the actual quantitative results of specific
+PTMs, PPIs, and PNIs involved in the signaling complexes, which is
+important to dissect the detailed dynamics of signal transduction in vivo.
+

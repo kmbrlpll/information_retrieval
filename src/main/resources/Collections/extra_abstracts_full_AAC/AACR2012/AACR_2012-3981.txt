@@ -1,0 +1,20 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Evaluation of mutation detection sensitivity in exome sequencing
+and other genotyping platforms
+
+
+An evaluation was performed to compare mutation calls from exome capture
+sequencing data to publicly available data sets derived from Sequenom
+MassARRAY and Sanger sequencing methods. We compared hot-spots KRAS and
+BRAF mutations using Sanger sequencing method in patient-derived tumor
+grafts. Mutation data of the tumor grafts were also generated with
+Sequenom MassARRAY using the OncoCarta panel. We also evaluated the
+sensitivity of mutation detection for a panel of cancer genes in >100
+cancer cell lines against the data from the Cancer Cell Line Encyclopedia
+Project (OncoMap mutation panel) as well as the Sanger's Cancer Genome
+Project. Overall, we observed high sensitivity and concordance of the
+mutation calls from the exome sequencing with the other platforms and
+technologies. The above comparisons support the use of exome sequencing
+as a sensitive mutation detection method for patient-derived tumor grafts
+and cancer cell lines.
+

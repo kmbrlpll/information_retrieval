@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Development of modified dosing approaches to achieve specific
+pharmacokinetic (PK) objectives in the first-in-human phase I clinical
+trial of IMGN853, a folate receptor -targeting antibody drug conjugate
+
+
+IMGN853 is an antibody-drug conjugate (ADC) that binds with high affinity
+to folate receptor (FR ). IMGN853 comprises a FR -binding antibody and
+the potent maytansinoid, DM4, attached via a disulfide-containing linker.
+In its first-in-human (FIH) Phase 1 study, 29 patients with epithelial
+ovarian cancer (n=16), endometrial cancer (n=8), clear cell renal cell
+carcinoma (n=4), or NSCLC (n=1) were enrolled across seven dose levels
+ranging from 0.15 to 7.0 mg/kg total body weight (TBW) administered once
+every three weeks (Q3W). The elimination half-life of IMGN853 was found
+to be 5 days at the higher doses with substantial variability in Cmax and
+volume of distribution. The occurrence of ocular toxicity was found to
+have a strong association with high Cmax values (p=0.0004 Fisher exact
+test) and with high early exposure levels, as measured by area under the
+curve in the first 24 hours (AUC0-24) (p=0.0001). Additionally, a
+moderate correlation between weight and Cmax (Pearson r=0.48, p=0.02) was
+observed.As a result of these findings, a number of dosing strategies
+were investigatedin an effort to achieve 3 objectives in the study going
+forward: (1) maximize IMGN853 exposure, (2) keep Cmax and AUC0-24
+levelsbelow those associated with ocular toxicity and (3) decrease
+inter-patient PK variability. Cmax and AUC0-24 values were simulated
+using alternative formulas for calculating dose using PK data from all
+patients treated in the 3.3 (n=9), 5.0 (n=10) and 7.0 mg/kg (n=5) FIH
+dose groups normalized to a 5 mg/kg dose level. These were then compared
+to Cmax and AUC values from TBW dosing. Four alternate formulas were
+evaluated: body surface area (BSA), ideal body weight (IBW), lean body
+weight (LBW) and adjusted ideal body weight (ADJ). Of these four
+alternate methods, dosing by ADJ resulted in the least total body weight
+dependence and PK variability compared to the other dosing
+methods.Concurrently, a 3-compartment population PK model was developed
+based on rich and sparse concentration-time profiles of IMGN853 with its
+Q3W dosing in the clinic. This was used to simulate steady-state exposure
+to IMGN853 with various dosing schedules, including weekly (QW), every 2
+weeks (Q2W), and weekly for 3 weeks in a 4 week cycle (modified weekly).
+Minimal accumulation between cycles (accumulation index of 1.06) was
+observed with the modified weekly regimen, while the QW dosing regimen
+resulted in the highest accumulation (accumulation index of 1.97).
+Comparing doses that resulted in equivalent Cmax levels, the modified
+weekly schedule achieved an almost 2-fold increase in overall exposure
+compared to QW3 dosing, while keeping Cmax levels below those associated
+with ocular toxicity. An evaluation of the potential benefit of ADJ
+dosing on a Q3W and a modified weekly schedule is currently ongoing in
+the Phase 1 clinical trial.
+

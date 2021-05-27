@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: High throughput single cell gene expression profiling by multiplex
+qPCR
+
+
+Single cell gene expression analysis is a powerful technique that
+provides a unique and insightful perspective on biological pathways and
+processes. Here we present a robust workflow that enables fast and
+accurate analysis of up to 100 genes in isolated single cells. Our
+workflow is highly sensitive, by assessing RNA reference standards we
+find that a single RNA transcript is detected with about 80% efficiency.
+We used this workflow to study differentiation in cultured NTera2 cells
+(NT2), a human embryonic stem cell model system. We analyzed untreated
+NT2 cells, and NT2 cells treated with low and high doses of retinoic acid
+(RA) for 10 days to initiate differentiation to a neuronal lineage. The
+expression levels of 16 genes were quantified in 164 single cells by
+multiplex real-time qPCR with two technical replicates. The entire
+experiment, from cultured cells to results, can be completed in 2-3 days
+and requires four 384-well qPCR plates for gene expression
+quantification. We find that control cells and cells treated with a high
+dose of RA (10 uM) are relatively homogeneous in the expression levels of
+the targeted genes. However cells treated with a low dose of RA (0.25 uM)
+exhibit significant heterogeneity with respect to gene expression; about
+half of the cells are similar to the high-dose RA cells, the other cells
+exhibit a wide range of partial differentiation. Interestingly, we find
+that LEFTY2 expression is almost exclusive to the low dose RA cells and
+strongly correlates with partial differentiation. A time-course study
+analyzing cell populations reveals that LEFTY2 is only transiently
+expressed in differentiating NT2 cells with peak expression at 3 days of
+high dose RA treatment. These findings imply that, in NT2 cells, LEFTY2
+is a potential biomarker of early differentiation. In summary, we present
+an accurate, sensitive and robust single cell analysis procedure that
+uses standard reagents and platforms. We envision that this workflow will
+enable researchers to investigate cell heterogeneity in biological
+pathways in a cost-effective way.
+

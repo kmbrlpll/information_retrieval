@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: CYC065, a novel CDK2/9 inhibitor, is an effective inducer of cell
+death and synergizes with BCL2 and BET inhibitors in B-cell lymphoma,
+including double-hit lymphomas
+
+
+Introduction: Double-hit lymphomas (DHL), defined by concurrent MYC and
+BCL2 rearrangements, have poor prognosis compared to standard-risk
+diffuse large B cell lymphomas (DLBCL). Current treatment regimens
+involve multiple chemotherapies, but do not specifically exploit these
+molecular features of the disease.Several studies have established that:
+(i) DLBCL show frequent overexpression of Mcl-1, an anti-apoptotic member
+of the Bcl-2 family (30% and 50% in the ABC and GCB subtypes,
+respectively), (ii) MYC-driven lymphomas are highly sensitive to
+depletion of Mcl-1, (iii) MYC overexpression and inhibition of CDK
+activity are synthetically lethal and (iv) resistance to BH3 mimetics
+targeting Bcl-2 can be conferred by upregulation of Mcl-1.CYC065 is a
+specific and potent CDK2/9 inhibitor, currently in a Phase 1 trial in
+patients with advanced cancer (NCT02552953). The mechanism of action of
+CYC065 involves rapid reduction of the levels of both Mcl-1 and MYC,
+suggesting a therapeutic rationale for investigating this agent in DLBCL.
+This preclinical study explored the single agent activity of CYC065 in B
+cell lymphoma, and its potential to combine with other molecularly
+targeted agents of interest, including venetoclax (ABT-199, a Bcl-2
+inhibitor), and BET inhibitors.Methods: Single agent activity of CYC065
+was explored using short pulse treatments (6-8 h) in B cell lymphoma cell
+lines. Viability and total cell number were assessed 24, 48 or 72 h
+following treatment. Levels of MYC, Bcl-2 and Mcl-1 were determined by
+Western blotting at baseline and following treatment with CYC065. Cell
+fate was examined by flow cytometry. CYC065 was combined with venetoclax
+or BET inhibitors ((+)-JQ-1, GSK525762 and OTX-015), which were
+administered concomitantly for a 6 h pulse or up to 72 h. Combination
+data were analyzed by the Chou & Talalay method.Results: The median IC50
+for CYC065 in 13 B cell lymphoma cell lines was 0.43 M. No obvious
+difference was observed between ABC and GCB subtypes of DLBCL, and DHL
+DLBCL lines had similar IC50 values to non-DHL DLBCL lines (median 0.47 M
+vs 0.29 M; p = 0.95). As expected from the target inhibitory profile,
+CYC065 caused a rapid decrease in the phosphorylation of S2 of the CTD of
+RNA polymerase II followed by downregulation of Mcl-1 and MYC, and rapid
+induction of apoptosis in sensitive cell lines. CYC065 had no impact on
+Bcl-2 levels. Combining CYC065 with venetoclax was highly synergistic in
+DHL lines (median CI values range from 0.1-0.8), and resulted in >90%
+cell death. The combination of CYC065 and BET inhibitors was also highly
+synergistic.Conclusions: CYC065 targets key oncogenic and survival
+pathways in DLBCL. CYC065 is a potent and effective inducer of cell death
+and combines synergistically with Bcl-2 or BET inhibitors in B cell
+lymphoma cell lines, including DHLs, which represent an unmet clinical
+need.
+

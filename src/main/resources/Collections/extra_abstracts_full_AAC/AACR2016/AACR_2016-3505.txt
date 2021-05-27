@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: A bioluminescent, homogeneous annexin V microplate-based method
+for assessment of apoptosis
+
+
+The selective elimination of malignant cells via the apoptotic process
+continues to be the cornerstone of modern anti-cancer therapy regimens.
+Therefore, in vitro screening approaches aimed at identifying clinically
+useful apoptosis inducers remain critically important. Recently,
+phenotypic screening methods have enjoyed a resurgence due to more
+biologically complex and relevant cell models as well as advances in
+chemical proteomics which have allowed for more successful target
+identification. As a consequence, novel probes and tools with enabling
+attributes are required to fully realize this discovery potential. In an
+effort to address this unmet need, we have developed a bioluminescent and
+homogeneous annexin V binding assay for the assessment of apoptosis.
+Unlike traditional fluorescent annexin V methodology, the no-wash reagent
+employed in this new assay utilizes binary components of a novel
+luciferase separately fused to annexin V. The annexin V-luciferase
+subunit fusion pairs have low intrinsic affinity for each other and thus
+produce no or low luminescence until phosphatidylserine (PtdSer) exposure
+drives annexin-fusion pair oligimerization. Ultimately, this
+protein:protein interaction on or near the cell surface reconstitutes
+full luciferase activity causing an increase in luminescence in the
+presence of a luciferase substrate. A separate, pro-fluorescent,
+multiplexed component of the reagent further delineates differences in
+annexin positivity based on maintenance or loss of membrane integrity
+corresponding to apoptosis or necrosis, respectively. We validated this
+method using a panel of diverse cancer cell lines (U2-OS, DLD-1, HeLa,
+Jurkat, K562, A549, and PC-3), representing both attachment-dependent and
+-independent morphologies after dose-dependent challenge with intrinsic
+(bortezomib, panobinostat, staurosporine, and paclitaxel) and extrinsic
+(rhTRAIL) inducers of apoptosis as well as agents known to produce
+primary necrosis (ionomycin and digitonin). Caspase activation data was
+also collected in parallel plates at endpoint as a well-validated and
+sensitive orthogonal comparator. The bioluminescent annexin V method
+proved sufficiently robust in 384 well microplate formats to routinely
+produce Z > 0.7 and rank-order potencies in good agreement with caspase
+activation values. In addition to this microplate functionality, the
+reagent allowed for sensitive, facile imaging of apoptotic induction in
+living cells using different imaging platforms. Taken together, the
+method and reagent should provide unparalleled flexibility with regard to
+live cell apoptosis detection in both conventional microplate and high
+content-like imaging formats and advance the pace of new chemical entity
+discovery.
+

@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Design of phenotype-driven flux analysis approach for personalized
+metabolic models of cancer patients
+
+
+It is well established that departure from healthy and tightly-controlled
+metabolism is a hallmark of cancer and hence, studying these metabolic
+changes can help us gain useful therapeutic insights. Several
+mathematical methodologies have been developed to quantify these changes
+to better understand metabolic adaptations in tumor cells. However, they
+(i) do not consider different genetic profiles and protein signatures
+leading to diversity among cancer patients and (ii) do not mimic
+biological interactions between metabolism and cancer phenotypes (such as
+chemo-resistance, infinite growth potential and invasive capacities). To
+successfully deconstruct metabolic and phenotypic links in tumorigenesis,
+we have developed a novel mathematical framework. First, to achieve
+patient-specificity we have devised a technique for reconstructing
+metabolic models that integrate high-throughput transcriptomic and
+proteomic data using a biased random-walk algorithm. The NetWalker
+software effectively implements this technique to score interactions
+between genes and proteins based on their expression levels and
+connectivity with each other and their metabolic targets. These scores
+are then used to identify contextually important sub-networks of the
+central carbon metabolism. Our reconstruction of the OVCAR-3 metabolic
+network independently identifies metabolic features in low-invasive
+ovarian cancers as highlighted in previously published literature and
+recent discoveries in our lab. These personalized models are then used to
+estimate phenotypically-consistent intracellular metabolic fluxes, with
+our novel metabolic flux analysis technique. Our approach is designed on
+the rationale that cancer cells regulate metabolism to maintain multiple
+phenotypic functions by optimally using the limited nutrients available
+in their environments. We quantitatively show via correlation studies and
+principal component analyses on NCI-60 and CCLE cell-lines
+gene-expression data that certain phenotypes are inherently competitive.
+This competition is manifested in metabolic functions, which is
+effectively modeled using our 13C-Multiobjective Metabolic Flux Analysis
+(13C-MOMFA) tool. It utilizes genome-scale metabolic models by
+integrating high-throughput omics data, along with measurements from
+metabolic assays and 13-Carbon (13C) stable isotope-labeled tracer
+studies, to quantify fluxes in cancer cells. Our approach is the first to
+connect cancer metabolism to their malignant phenotype - a crucial step
+to discover the metabolic underpinnings of cancer pathology. It also
+captures the heterogeneity in cancer cells and patients, hence providing
+a useful framework for targeted therapy.
+

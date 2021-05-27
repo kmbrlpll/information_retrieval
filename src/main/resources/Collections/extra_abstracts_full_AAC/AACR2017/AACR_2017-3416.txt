@@ -1,0 +1,33 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Clarifying the biological significance of the CHK2 K373E somatic
+mutation discovered in The Cancer Genome Atlas database.
+
+
+Identification of somatic mutations that contribute to cancer development
+leads not only to more precise understanding of cancer pathogenesis, but
+also development of novel molecular targeted therapies. Analyses of
+cancer genomes using high-throughput sequencing technology are currently
+conducted as international collaborative research projects, and the
+results of those analyses are deposited in public databases, allowing
+everyone in the world to access to these data.
+
+To identify a somatic mutation that plays an important role in cancer
+pathogenesis, we counted the occurrences of each somatic mutation found
+in the TCGA lung adenocarcinoma dataset and became interested in the CHK2
+K373E mutation (c1117A>G), which was present in 31 of 542 patients. The
+K373E mutation impaired CHK2 autophosphorylation at Thr383 and Ser516. In
+vitro kinase assay revealed that the K373E mutation markedly attenuates
+CHK2 kinase activity. Growth curves showed that wild-type CHK2
+substantially suppressed cell proliferation, but this effect was lost in
+the K373E mutant in HCT-15 harboring tetracycline-inducible CHK2.
+Clonogenic assays revealed that wild-type CHK2 promoted survival after
+ionizing radiation and this pro-survival function was impaired in K373E
+CHK2. The results of western blotting and RT-PCR suggested that the
+p53-independent induction of p21 by CHK2 might underlie these effects.
+
+Therefore, we identified a somatic mutation that contributes to cancer
+pathogenesis, using information in a public database. This kind of
+attempt is expected to lead to discovering new 'driver' mutations in the
+future.
+
+

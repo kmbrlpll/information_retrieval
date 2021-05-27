@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identifying novel genes critical to invasion in head and neck
+squamous cell carcinoma
+
+
+Oral squamous cell carcinomas (OSCC) have a poor patient prognosis, which
+is attributed to their invasive nature. Our goal was to identify specific
+genes that are important in OSCC invasion utilizing genome-wide
+expression data generated from HNSCC patient tumor samples of varying
+degrees of invasiveness. Invasion was assessed using the histological
+parameter pattern of invasion (POI), which describes the manner in which
+tumor cells infiltrate the normal tissue at the tumor-host interface. POI
+was used to categorize tumor resections into five types (1-5), type 5
+being the most invasive with a widely dispersed pattern of tumor
+infiltrate and correlated significantly with the appearance of local
+recurrence and decreased overall survival of the patients after surgery.
+Global gene expression data was acquired from analysis of the surgical
+resections from 9 OSCC patient samples collected at Montefiore Medical
+Center between 2001 and 2008. Tumor cell-enriched cores from FFPE samples
+were used to generate global gene expression data using the Illumina
+WG-DASL array to compare gene expression in four tumors that were WPOI
+type 5 and five tumors that were WPOI type 3. RNA extracted from
+flash-frozen tumor samples following surgical resection from the same
+patients was used to obtain global gene expression data using the
+Illumina HumanHT-12 v4 Expression BeadChip. Candidate genes were assessed
+using in vitro invasion assays following siRNA knockdown of specific gene
+expression using siGENOME smart pools from Dharmacon. When both gene
+expression datasets were analyzed, we identified 104 genes that were
+overexpressed at least 1.5-fold in the WPOI type 5 tumors compared to the
+less invasive WPOI type 3 tumors. Fifty genes were initially tested based
+on functional criteria. In our initial screen, 16 of these genes showed a
+significant reduction in tumor cell invasion when expression was knocked
+down by siRNA in an OSCC cell line. The top gene from the screen, APOE,
+is now being further examined to determine a mechanistic explanation for
+its effect on invasion. Downstream signaling of APOE receptors and how
+this may interact with invasion are currently being assessed. This
+initial screen of global gene expression data in combination with pattern
+of invasion has revealed APOE as a novel gene that may play a critical
+role in OSCC invasion.
+

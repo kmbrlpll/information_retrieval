@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Targeted therapies to ERBB receptors downregulate expression of
+PD-L1: implications in combination therapies.
+
+
+Background: Inflammatory breast cancer (IBC) is the most aggressive and
+lethal form of primary breast cancer. Inflammatory signaling pathways are
+active in IBC, but the function of the immune response remains elusive.
+ErbB receptors play a role in IBC. ERBB2 is amplified in 50% of IBCs, and
+ERBB3 is also mutated in IBC. Currently, Lapatinib, a dual ErbB
+inhibitor, is used in IBC patients with ERBB2 amplification.
+
+Although immune cell inflammatory signaling may promote IBC tumor growth
+and metastasis, the presence of cytotoxic tumor-associated lymphocytes
+has also been associated with a more favorable breast cancer prognosis.
+The contradictory nature of the immune data highlights the need to
+elucidate the relationship between the immune response and subsequent
+treatments. Given the active IBC immune component and the recent clinical
+benefit of immune checkpoint inhibitors in cancer treatment, IBC’s may
+represent a clinically unique breast cancer population that may benefit
+from immunomodulating agents.
+
+Interestingly, Myc is a downstream effector of ErbB signaling, and Myc is
+thought to regulate the expression of immune checkpoint proteins CD47 and
+PD-L1. The presence of PD-L1-positive IBC immune infiltrate suggests that
+IBC’s may benefit from therapies that disrupt PD-L1 signaling together
+with ErbB inhibitors.
+
+METHODS: IHC was used to examine immune checkpoint signaling and
+characterize the tumor-immune infiltrate. Tumor tissues were also
+characterized using an RNA-seq panel that examined the expression of 377
+immune-related genes. Cell lines (BT474, SKR3, AU565, and SUM225) were
+treated with Lapatinib and Neratinib to examine the relationship between
+growth factor receptors and downstream immune signaling pathways.
+
+RESULTS: RNA-seq revealed the expression of specific immunosuppressive
+signaling pathways in tumors. Treatment of breast cancer cells with ErbB
+inhibitors resulted in a decrease in the levels of PD-L1. Treatment with
+Lapatinib and Neratinib diminished PD-L1 in all cell lines. Levels of
+Phospho-Stat3 decreased in BT474 and Sum225 but not in SKBR3 and AU565,
+implying that PD-L1 is regulated by another mechanism (ERK-MYC).
+
+CONCLUSION: Our results provide mechanistic insight into ErbB receptor
+activation and the expression of downstream signaling molecules (Stat3,
+Myc, PD-L1, and others). In addition, our unique RNA-seq immune signature
+reveals the expression of several genes that may serve as biomarkers of
+inhibitory immune signaling pathways. Our laboratory is currently
+examining the correlation between PD-L1 expression and the activation of
+ErbB2 in model systems and clinical trials using ErbB inhibitors in
+combination with PD-L1 inhibitors. Our immune panel gene signature may
+serve as a useful diagnostic test that, in conjunction with traditional
+ErbB testing, can identify patients that will benefit from combination
+therapy of an ErbB inhibitor and an immune checkpoint inhibitor.
+
+

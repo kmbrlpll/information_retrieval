@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The amino acid transporter SNAT4: Potential role as a tumor
+suppressor in melanoma
+
+
+Cancer cells utilize amino acids to satisfy their need for nutrients and
+fuel their accelerated growth. The amino acid glutamine has been
+identified as one of the key building blocks in cancer cells, utilized
+for macromolecular synthesis and energy production. Due to the increased
+requirement for glutamine and other amino acids, cancer cells commonly
+increase expression of amino acid transporters, such as SLC1A5 (ASCT2).
+Amino acid transporters are membrane transport proteins that are used by
+cells to move important amino acids in and out of the cell.
+Interestingly, most amino acid transporters are upregulated in cancer to
+ensure continued access to nutrients.We have recently shown that ASCT2
+plays a critical role in regulating glutamine uptake in melanoma,
+prostate and breast cancer. Many other glutamine transporters are
+upregulated in different cancers, including SLC38 family members SNAT1,
+SNAT2 and SNAT3. The role of SLC38A4 (SNAT4) in amino acid uptake and
+cancer growth, however, has not been examined. Like the other SNATs,
+SNAT4 is a sodium-dependent amino acid transporter that transports
+neutral amino acids, such as alanine, across the plasma membrane,
+although it has low affinity for glutamine. Interestingly, unlike the
+other SNAT family members, our analysis showed that SNAT4 expression is
+downregulated in 879/917 cancer cell lines in Oncomine. Analysis of SNAT4
+mutations in patient samples using cBioPortal showed infrequent mutations
+in the majority of cancers. However, the TCGA melanoma data (cBioPortal)
+showed that 32 of 278 melanoma cases (11.5%) have a point mutation in
+SNAT4 suggesting an important role in melanoma. These mutations included
+9 SNAT4 hotspot mutations, present in 2-4 patients each. Using a SNAT4
+homology model to predict loss-of-function mutants, we selected five of
+these mutations to assess in a SNAT4 transport assay in Xenopus oocytes.
+Two of the five hotspot mutations (G31E, S76F, G78E, G150E and S371F)
+were able to completely inactivate SNAT4 alanine transport in oocytes.
+Further analysis of 52 melanoma patient samples in Oncomine showed SNAT4
+downregulation in all patients, suggesting that, in contrast to most
+amino acid transporters, SNAT4 plays a tumor suppressor role in
+melanoma.We are currently examining these mutations in melanoma cell
+lines to determine their effects on cell growth. We are also examining
+how SNAT4 is involved in either the import or export of amino acids and
+the downstream metabolic consequences that may directly inhibit melanoma
+cell growth. Through this research we will gain a better understanding of
+the role of SNAT4- mediated amino acid metabolism in preventing melanoma
+cell growth.
+

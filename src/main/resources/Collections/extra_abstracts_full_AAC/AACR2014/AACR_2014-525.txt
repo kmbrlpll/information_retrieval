@@ -1,0 +1,36 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Automated microRNA detection in formalin-fixed, paraffin-embedded
+tissue samples
+
+
+The human genome encodes more than one thousand short (17-24 base)
+non-coding microRNA molecules which regulate diverse cellular functions.
+Several of these functions are also involved in tumorigenesis including
+cell growth, motility, and immune surveillance. Not surprisingly,
+numerous clinical studies suggest that microRNAs could serve as potent
+prognostic and/or predictive biomarkers for a variety of diseases
+including breast, colorectal, lung, and prostate cancers. However, due to
+their short sequence length, technical obstacles exist for detection of
+these potential biomarker targets particularly in FFPE tissue samples:
+(i) limited target sequence limits probe length and subsequent target
+specificity as well as (ii) detection sensitivity since short probes
+require significant amplification technologies to generate a visible
+signal; lastly, (iii) short microRNA targets may be less stable in tissue
+(increased ribonuclease sensitivity and/or limited crosslinking to
+cellular components). In the current study, new RNA detection
+technologies, which include hapten-labeled oligonucleotide probes and
+sensitive tyramide-hapten/Silver detection designed for detection of
+longer RNA targets, were adopted for automated detection of microRNA
+targets in formalin-fixed, paraffin-embedded (FFPE) tissue.DNP-labeled
+oligonucleotide probes, directed against four microRNA targets (miR-21,
+miR-200c, miR-25, and miR-200b) plus sequence-scrambled negative control
+were synthesized and combined with a modified VENTANA OptiView
+amplification kit and silver detection. The probes and new detection
+system catalyzed sensitive and specific detection of each microRNA target
+in MCF-7 xenograft FFPE tissues, which correlates well with microarray
+profiling data from MCF-7 cells by Fix et. al. (2010)*.In summary, this
+study demonstrates a robust and fully automated ISH assay for microRNA
+targets in FFPE tissue and enables potential microRNA biomarkers being
+analyzed within tissue context.* Fix et. al. Cancer Genomics & Proteomics
+(2010) 7:261-278.
+

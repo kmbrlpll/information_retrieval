@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: TNFRSF10B polymorphisms and haplotypes predicts survival in
+non-small cell lung cancer patients
+
+
+Introduction: Inflammation is regulated through a balance between
+pro-inflammatory and anti-inflammatory cytokines. Tumor necrosis factor
+(TNF), a pro-inflammatory cytokine, is a central mediator of inflammation
+and is involved in both cancer development and progression. The TNF
+family inhibits tumorigenesis via apoptosis, but deregulation of TNFs
+promotes tumor cell tissue invasion, migration, and metastasis. Germline
+variations in TNF-related genes may influence expression levels and thus
+influence lung cancer prognosis. We tested this hypothesis in a large
+series of non-small cell lung cancer patients (NSCLC) treated at the
+Moffitt Cancer Center. Methods: Using the Illumina GoldenGate Assay we
+genotyped 305 SNPs from 53 different inflammation-related genes in 651
+NSCLC patients. Using multivariable Cox proportional hazard regression
+all SNPs were analyzed by an additive model for overall survival and were
+ranked by P-value. Correction for multiple comparisons, haplotype, and
+stratified analyses were also performed. Results: The overall median
+survival time was 25 months. Fourteen of the inflammation-related SNPs
+were significantly associated with NSCLC survival and 4 of the fourteen
+were located in the TNF-receptor superfamily member 10b gene. The linkage
+disequilibrium map for the 4 loci revealed r^2 values ranging from 0.36
+to 0.66. When compared to the C/C genotype, the T-allele genotypes of the
+top ranked SNP (TNFRSF10B:rs11785599) were associated with a 41%
+increased risk of death (95% CI 1.16-1.70) after adjusting for age,
+gender, smoking, histology, stage, and first course treatment. The risk
+genotypes for the other three statistically significant TNF loci
+(rs1047275, rs4460370, and rs883429) exhibited a 35% (95% CI 1.11-1.65),
+29% (95% CI 1.06-1.57), and 23% (95% CI 1.00-1.53) increased risk of
+death, respectively. Haplotype analyses of all four loci revealed that
+the risk haplotype (TCTT) was associated with a 77% increased risk of
+death (95% CI 1.25-2.52) when compared to the referent wildtype haplotype
+(CGCC). Stratified analyses demonstrated that the top ranked SNP
+(rs11785599) remained significantly associated with survival for both:
+men and women, early (I + II) and late stage patients (III + IV), and
+adenocarcinoma and squamous cell carcinoma tumors. When the data were
+analyzed by chemotherapy regimen, the risk genotypes of rs11785599 were
+consistently associated with an increased risk of death but the only
+significant finding was among patients treated with platinum agents plus
+taxanes (HR = 1.81; 95% CI 1.29-2.52). Conclusions: Although the
+functional significance of this SNP needs to be elucidated, these data
+suggest a possible role of TNFRSF10B:rs11785599 in the prognosis of
+NSCLC. If validated, these data have potential translational implications
+by optimizing patient-specific therapy based on germline genetics.
+

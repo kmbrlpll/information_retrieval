@@ -1,0 +1,87 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Novel putative diagnostic methylation biomarkers for prostate
+cancer identified by whole genome DNA methylation profiling
+
+
+BACKGROUNDAberrant patterns of DNA methylation is a typical hallmark of
+cancer. Several studies have reported DNA hypermethylation of a
+significant number of genes in various malignancies. This suggests a role
+of hypermethylation in the initiation and progression of cancer. In this
+study, we investigated genome-wide alterations in DNA methylation in
+prostate cancer (PCa). We compared alterations between tumor (Tu) and
+adjacent epithelial (Ep) tissues in order to identify hypermethylated
+genes in promoter regions associated with initiation and progression of
+prostate cancer.METHODSThe study included 33 tumor samples including 21
+paired Tu and Ep samples from 21 radical prostatectomy patients. Genomic
+DNA was isolated from FFPE tissue blocks. Genome-wide DNA methylation
+profiling was performed using the Infinium Illumina 450K array. A mixed
+linear model, with a random effect for patient, main effect of tissue,
+and covariate of array batch, was employed to identify probes that
+differed in methylation between tissue types. Multiple comparison
+adjustment was performed using the FDR (false discovery rate)
+method.RESULTSIn total, 8791 hypermethylated CpG sites in the promoter
+regions were identified in Tu versus Ep tissue with FDR adjusted P
+BACKGROUNDAberrant patterns of DNA methylation is a typical hallmark of
+cancer. Several studies have reported DNA hypermethylation of a
+significant number of genes in various malignancies. This suggests a role
+of hypermethylation in the initiation and progression of cancer. In this
+study, we investigated genome-wide alterations in DNA methylation in
+prostate cancer (PCa). We compared alterations between tumor (Tu) and
+adjacent epithelial (Ep) tissues in order to identify hypermethylated
+genes in promoter regions associated with initiation and progression of
+prostate cancer.METHODSThe study included 33 tumor samples including 21
+paired Tu and Ep samples from 21 radical prostatectomy patients. Genomic
+DNA was isolated from FFPE tissue blocks. Genome-wide DNA methylation
+profiling was performed using the Infinium Illumina 450K array. A mixed
+linear model, with a random effect for patient, main effect of tissue,
+and covariate of array batch, was employed to identify probes that
+differed in methylation between tissue types. Multiple comparison
+adjustment was performed using the FDR (false discovery rate)
+method.RESULTSIn total, 8791 hypermethylated CpG sites in the promoter
+regions were identified in Tu versus Ep tissue with FDR adjusted P <0.05.
+Hypermethylation status of our top-ranked hypermethylated genes (with an
+estimated mean absolute difference 0.3 or greater) between tumor and
+epithelial tissue was also observed in publicly available methylation
+data in PCa. To find out if promoter hypermethylation was associated with
+the regulation of gene expression, we analyzed gene expression of the 20
+top-ranked hypermethylated genes using publicly available mRNA expression
+data in PCa. Several genes exhibited reduced expression in PCa samples.
+Similar observation was also noted in in vitro studies as significant (P
+BACKGROUNDAberrant patterns of DNA methylation is a typical hallmark of
+cancer. Several studies have reported DNA hypermethylation of a
+significant number of genes in various malignancies. This suggests a role
+of hypermethylation in the initiation and progression of cancer. In this
+study, we investigated genome-wide alterations in DNA methylation in
+prostate cancer (PCa). We compared alterations between tumor (Tu) and
+adjacent epithelial (Ep) tissues in order to identify hypermethylated
+genes in promoter regions associated with initiation and progression of
+prostate cancer.METHODSThe study included 33 tumor samples including 21
+paired Tu and Ep samples from 21 radical prostatectomy patients. Genomic
+DNA was isolated from FFPE tissue blocks. Genome-wide DNA methylation
+profiling was performed using the Infinium Illumina 450K array. A mixed
+linear model, with a random effect for patient, main effect of tissue,
+and covariate of array batch, was employed to identify probes that
+differed in methylation between tissue types. Multiple comparison
+adjustment was performed using the FDR (false discovery rate)
+method.RESULTSIn total, 8791 hypermethylated CpG sites in the promoter
+regions were identified in Tu versus Ep tissue with FDR adjusted P <0.05.
+Hypermethylation status of our top-ranked hypermethylated genes (with an
+estimated mean absolute difference 0.3 or greater) between tumor and
+epithelial tissue was also observed in publicly available methylation
+data in PCa. To find out if promoter hypermethylation was associated with
+the regulation of gene expression, we analyzed gene expression of the 20
+top-ranked hypermethylated genes using publicly available mRNA expression
+data in PCa. Several genes exhibited reduced expression in PCa samples.
+Similar observation was also noted in in vitro studies as significant (P
+<0.05) increase in gene expression following 5-Azacytidine treatment was
+detected only in PCa cell lines but not in normal prostate cell
+line.CONCLUSIONSThis study identified promoter hypermethylation of
+several genes in PCa. These newly identified hypermethylated genes are
+potential biomarker candidates for PCa diagnosis. Currently we are
+evaluating the functional significance of these hypermethylated genes in
+prostate cancer.This work was supported by R01CA108633 (To AC),
+1RC2CA148190 (To AC) U10CA180850-01 (To AC), 1R01CA169368 (To AC) from
+the National Cancer Institute (NCI), Brain Tumor Funders Collaborative
+Grant (To AC), Ohio State University Comprehensive Cancer Center Award
+(To AC).
+

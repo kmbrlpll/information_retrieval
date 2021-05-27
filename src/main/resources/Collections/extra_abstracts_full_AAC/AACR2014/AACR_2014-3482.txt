@@ -1,0 +1,26 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A robust TALENs system for highly efficient mammalian genome
+editing
+
+
+Recently, transcription activator-like effector nucleases (TALENs) have
+emerged as a highly effective tool for genomic editing. A pair of TALENs
+binds to two DNA recognition sites separated by a spacer sequence, and
+the dimerized FokI nucleases at the C terminal then cleave DNA in the
+spacer. Because of its modular design and capacity to precisely target
+almost any desired genomic locus, TALENs is a technology that can
+revolutionize the entire biomedical research field. Currently, for
+genomic editing in cultured cells, two plasmids encoding a pair of TALENs
+are co-transfected, followed by limited dilution to isolate cell colonies
+with the intended genomic manipulation. However, uncertain transfection
+efficiency becomes a bottleneck, especially in hard-to-transfect cells,
+reducing the overall efficiency of genome editing. We have developed a
+robust TALENs system in which each TALEN plasmid also encodes a
+fluorescence protein. Thus, cells transfected with both TALEN plasmids, a
+prerequisite for genomic editing, can be isolated by
+fluorescence-activated cell sorting. Our improved TALENs system can be
+applied to all cultured cells to achieve highly efficient genomic
+editing. Furthermore, an optimized procedure for genomic editing using
+TALENs is also presented. We expect our system to be widely adapted by
+the scientific community.
+

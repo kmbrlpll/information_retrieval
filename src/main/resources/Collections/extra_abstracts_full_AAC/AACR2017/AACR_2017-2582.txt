@@ -1,0 +1,31 @@
+Meeting: 2017 AACR Annual Meeting
+Title: KIRnome: KIR genotyping for whole genome/exome sequencing data.
+
+
+In this study, we tried to develop valid KIR calling algorithm from
+WES/WGS data. As a consequence, here we suggest KIRnome (KIR typing for
+whole genome and exome sequencing) which is a KIR typing method for
+applying sequencing data such as WES/WGS. A total of 71 sequencing data
+(18 WES and 53 WGS data, respectively) and matched experimentally
+validated KIR genotype data are used to train and validate. Before
+developing this method, two types of allele references (genomic and
+coding, here after called gSeq and cSeq) are constructed by allele
+sequence of IPD/KIR. KIRnome consists of two part, first part is
+calculating normalized depth (here after called depth) of 16 KIR genes
+and considering allele reference length and second is estimating KIR type
+based on depth. In general, we get higher normalized depth when using
+genomic references for WGS data and using coding references for WES data.
+This coincides with scheme KIRnome and the characteristics of WGS and WES
+data. Given 71 samples of 3 data sets, we evaluated KIR genotyping
+performance of KIRnome per each KIR gene. For all 16 KIR genes, KIRnome
+shows >=98.5% accuracy. When KIRnome performance was tested only in 13
+WES samples, the accuracy slightly drops to 94%. We assume this is
+attributable to relatively small number of the samples. In conclusion, we
+developed a novel and unique method named KIRnome for KIR typing from NGS
+data. KIRnome could determine KIR genotype accurately from WES and WGS
+data respectively. We expect KIRnome would facilitate revealation of
+immunogenetic facts in various disease. Moreover, future generation of
+KIR specific NGS data and improved reference sequence information of KIR
+would enable KIRnome to type KIR at allele level in a near future.
+
+

@@ -1,0 +1,33 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Mutation analysis of cancer drivers and DNA repair genes in
+chemosensitive versus resistant ovarian cancers
+
+
+Background: The mechanisms underlying resistance to chemotherapy in
+ovarian cancer are incompletely understood. Identifying genetic
+alterations associated with treatment response is decisive in the
+determination of which patients may benefit from adjuvant
+chemotherapy.Methods: Biopsies were collected from twenty patients
+diagnosed with ovarian cancer who were subjected to post-operative
+taxane- and platinum-containing chemotherapy. Patients were selected for
+genetic analyses based on response to chemotherapy, determined as time to
+relapse (10 sensitive and 10 resistant patients). A panel of 620 genes,
+including known cancer driver genes, as well as genes involved in DNA
+repair were analysed by massively parallel sequencing. Alignment and
+mutation calling was performed using MiSeq Reporter, with further manual
+filtering of variants to exclude common SNPs. Validation of low quality
+mutation calls was done by Sanger sequencing.Results: A median of 6 genes
+(range: 3 - 45) per patient was found to harbour non-synonymous
+mutations. Among previously identified driver genes in ovarian cancer, we
+found mutations in TP53, BRCA1, CDK12, NF1 and CSMD3. These mutations
+were more common among patients with more advanced disease and higher
+grade. For example, TP53 mutations were found in 10 out of 12 patients
+with high grade, stage 3c or 4 disease, and in 2 out of 5 with lower
+stage and/or grade. One patient was found to have a tumor potentially of
+a hyper-mutator phenotype with 49 mutations in 45 genes identified within
+our gene panel. With respect to treatment efficacy, 73 and 40 genes were
+found to be mutated exclusively in patients with a good and poor response
+to treatment, respectively.Conclusion: We describe the profile of
+mutations in cancer driver genes and DNA repair genes among patients
+suffering from ovarian cancer according to treatment response.
+

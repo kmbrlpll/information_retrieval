@@ -1,0 +1,29 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Exploration of genome-wide two-locus SNP-SNP interactions relate
+to nasopharyngeal carcinoma susceptibility.
+
+
+Most of the genome-wide association studies (GWAS) are concentrated on
+the detection main effects and can only explain only a small fraction of
+the genetic risk. One possible explanation might be the existence of
+interactions between loci. This effect might be missed in traditional
+GWAS analysis. Testing for SNP-SNP interaction within a single GWAS study
+can identify the stronger results that are revealed when genes interact.
+Here, we have completed the genome-wide two-locus SNP-SNP interaction
+analysis in nasopharyngeal carcinoma (NPC). We started with the NPC GWAS
+dataset as our Discovery dataset, then we performed an exhaustive
+genome-wide two-locus search by pairing each SNP sets according to
+chromosome positions for PLINK epistasis analysis. The analysises were
+also performed within each SNP sets to ensure every SNP has performed
+epistasis analysis with all the other SNPs in the dataset. In total,
+there were 4,244,943 unique interactions after the genome-wide two-locus
+epistasis analysis. The top 10,000 interaction pairs from the Discovery
+dataset were selected for validation test in a subset of independent
+samples. Finally, 67 SNP pairs remain significant in Validation and
+Combined analysis and can successfully passed permutation tests for
+10,000 times. The 67 significant interaction pairs can be clustered into
+39 interaction groups which 12 (32%) of the 39 clusters were with at
+least two nearby SNPs from one of the interaction chromosome. This study
+represents one of the first attempts to explore the high-dimensional
+genetic architecture of NPC on a genome-wide scale.
+

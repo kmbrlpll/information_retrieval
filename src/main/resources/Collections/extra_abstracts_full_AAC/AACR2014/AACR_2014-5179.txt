@@ -1,0 +1,44 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Context-specific dependence of ovarian cancer on IKK and CHEK1
+
+
+Background: The IB kinase, IKK, was previously identified as an oncogene
+in breast cancer and was associated with poor clinical outcome in ovarian
+cancer. Recently, we demonstrated that IKK is a key regulator of invasion
+and metastasis in ovarian cancer. A highly specific inhibitor of IKK is
+not readily available for use as a tool compound to study pathway
+interactions in the preclinical setting. Therefore, we utilized dual
+shRNA technique to create IKK-matched cell line pairs and performed
+sensitization screens to identify the key molecular targets influenced by
+the loss of IKK expression.Results: We screened a previously established
+shRNA library targeting the human kinome, and identified 65 genes that
+further inhibited the survival of ovarian cancer cells in combination
+with IKK depletion. In order to evaluate potential clinical significance
+associated with their overexpression, we examined the expression levels
+of these 65 genes in TCGA ovarian serous cystadenocarcinoma dataset.
+Strikingly, CHEK1 was overexpressed in 100% of TCGA ovarian cancers with
+a cut-off of 1.5 fold change compared to normal ovarian surface
+epithelium. Interestingly, CHEK1 loss also sensitized IKK depleted A2780,
+a wild-type p53 containing ovarian cancer cell line.Next, we investigated
+whether chemical inhibitors could recapitulate the effects of shRNAs,
+although they are less specific than RNAi and are unable to interrogate
+kinase-independent functions of cellular proteins. Consistent with the
+initial screening methodology, inhibition of IKK and CHEK1 activities by
+BX795 and PF00477736, respectively, in 6 ovarian cancer cell lines was
+critical to the cooperative decrease in cell viability. Thus, the
+co-inhibition of IKK and CHEK1 activities, regardless of p53 status, was
+more effective in killing ovarian cancer cells than single treatment. The
+inhibition of IKK activity alone induced dramatic G2/M arrest in all 6
+cell lines without inducing a DNA damage response, while CHEK1 inhibition
+resulted in significant DNA damage response with abnormal S phase profile
+in cell cycle analysis and an increase in gamma-H2A.X level. This
+combined inhibition dramatically decreased CHEK1 level and further
+increased apoptosis compared to CHEK1 inhibitor alone.Conclusion: Our
+dual shRNA technique efficiently identified CHEK1 as an IKK synthetic
+lethal gene in ovarian cancer. CHEK1 inhibitor as a single agent has not
+been successful in clinic, and this may be due to increased pro-survival
+signaling mediated by IKK, which may contribute to resistance and
+subsequent relapse. Identification of IKK dependent signaling will lead
+to development of context-specific therapeutics in the poor prognostic
+group of patients with a high level of IKK expression.
+

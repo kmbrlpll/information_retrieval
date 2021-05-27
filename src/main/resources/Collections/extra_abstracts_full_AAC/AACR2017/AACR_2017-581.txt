@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Discovery and development of COM701, a therapeutic antibody
+targeting the novel immune checkpoint PVRIG.
+
+
+Background: While blockade of the CTLA4 and PD1 pathways has emerged as
+an effective treatment of cancer, the majority of patients do not derive
+long term benefit. This provides a rationale for identifying and
+targeting additional checkpoints. Employing our unique computational
+algorithms, we identified PVRIG, a new member of the B7/CD28 family. We
+report here the expression pattern, functional characterization, and
+anti-tumor activity of blocking antibodies targeting PVRIG as well as
+characterization of PVRIG KO mice.
+
+Materials and Methods: PVRIG is expressed by T and NK cells within the
+tumor microenvironment. We identified PVRL2 as its counterpart and
+characterized the PVRIG-PVRL2 interaction. Antibody discovery was carried
+out with phage display and hybridoma platforms and antibodies against the
+human protein were screened for their ability to enhance T-cell activity
+in vitro, while surrogate antibodies targeting the mouse protein were
+assessed in syngeneic models for effects on tumor growth. PVRIG -/- KO
+mice were generated and characterized including phenotyping and
+anti-tumor immune response.
+
+Results: PVRIG is expressed on different T cell subsets and on NK, NKT
+and γδ T-cells. Within T cells, memory subsets possess the highest
+level of PVRIG and its expression is induced upon long term activation
+with different stimuli. Within tumor microenvironment, PVRIG was found to
+be expressed on NK and CD8+ T cells in multiple cancers. A high affinity
+lead Ab was selected, COM701, for further clinical development and
+demonstrated blockade of the interaction of PVRIG with PVRL2 as well as
+enhancement of activation of both primary and tumor-derived effector
+immune cells through a PVRL2-dependent mechanism. Moreover, COM-701
+showed notable enhancement of T cell function in-vitro when combined with
+PD1 or TIGIT Ab blockade. The lead antibody, COM-701, is currently in
+preclinical development. A surrogate antibody, that blocks PVRIG-PVRL2
+interaction, was shown to inhibit growth of colon carcinoma and melanoma
+in syngeneic models upon combined treatment with anti-PDL1 antibody.
+Comparative analysis of PVRIG KO versus WT derived T cells revealed
+enhanced reactivity of PVRIG null T cells upon polyclonal activation in
+presence of PVRL2-Ig. Accordingly, MC38 tumors grew slower in PVRIG KO
+than in WT mice and ex vivo analysis pointed to the quantitative and
+functional differences in anticancer immunity developed in these mice.
+
+Conclusion: We describe the identification of PVRIG as a novel T cell
+immune checkpoint. We further demonstrate that antibody blockade of the
+PVRIG-PVRL2 interaction has the potential to be efficiently combined with
+PD1 or TIGIT blockade for enhancing anti-tumor immunity. COM-701 is a
+high affinity antagonistic antibody that is currently in preclinical
+development. Taken together, these data demonstrate the utility of
+targeting PVRIG in addition to other B7 family checkpoints for the
+treatment of cancer.
+
+

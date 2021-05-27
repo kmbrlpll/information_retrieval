@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: MicroRNA-155 In chronic lymphocytic leukemia influences B-cell
+receptor signaling
+
+
+MicroRNAs (miRNAs) can influence the expression levels of genes that can
+affect the clinical outcome of patients with chronic lymphocytic leukemia
+(CLL). In a well-defined cohort of 86 patients, we observed heterogeneity
+in the relative leukemia-cell expression of miR-155. Cases that expressed
+high-levels of miR-155 more frequently expressed zeta-associated protein
+of 70 kD (ZAP-70), used unmutated Ig heavy-chain-variable-region genes
+(IGHV), and had shorter treatment-free survival (TFS) and overall
+survival (OS) than cases with low-level expression of miR-155. Recursive
+partitioning allowed us to define a threshold for high-level expression
+of miR-155 (in copy numbers per CLL cell) that best associates with
+adverse clinical outcome.We examined the potential basis for this
+association. One of the genes targeted by miR-155 encodes the
+phosphatidylinositol polyphosphate 5-phosphatase SHIP-1, which can
+dephosphorylate proteins that had been activated in response to B-cell
+receptor (BCR) ligation. We found that CLL cells with high-level miR-155
+expressed significantly lower levels of SHIP-1 protein and were more
+sensitive to ligation of surface- than CLL cells with low-levels of
+miR-155. Transfecting CLL cells with miR-155 reduced their expression of
+SHIP-1 and enhanced the stimulatory-response to surface- ligation.
+Conversely, transfection of CLL cells with a miR-155 inhibitor had the
+opposite effects. The enhanced sensitivity to BCR-ligation of cells
+expressing high-level miR-155 may account for its association with
+adverse clinical outcome in patients with CLL.However, within any one
+patient we also find heterogeneity in the expression levels of miR-155.
+By GEO data analysis (GSE21029) we found that CLL cells in blood
+expressed lower levels of miR-155 than did CLL cells in lymphoid tissues,
+where they interact with supportive cells, such as Nurselike cells or
+activated T cells, which can provide survival- or growth-promoting
+signals via expression of BAFF/APRIL or CD40L, respectively. We found
+that stimulation of CLL cells in vitro via CD40 ligation or exogenous
+BAFF could induce higher expression of miR-155, leading to reduced
+leukemia-cell expression of SHIP-1 and enhanced sensitivity to surface-
+ligation. Moreover, we found that the proliferative subgroup of blood
+CD5brightCXCR4dim CLL cells, which represent CLL cells newly released
+from the tissue microenvironment, expressed higher level of miR-155 and
+lower levels of SHIP-1 protein, and were more sensitive to surface-
+ligation than the resting subgroup of blood CD5dimCXCR4bright CLL cells,
+which represent cells that may be due to enter the tissue
+microenvironment. As such, this study also demonstrates that miR-155
+could be upregulated by signals in the CLL microenvironment, leading to
+lower-level expression of SHIP-1, and enhanced stimulation in response to
+BCR ligation.
+

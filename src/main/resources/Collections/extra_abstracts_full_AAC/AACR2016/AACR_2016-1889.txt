@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: AXL and EGFR signaling mediate resistance to Crizotinib in
+non-small cell lung cancer cells harboring the ROS1 fusion gene
+
+
+Background: The multi-tyrosine kinase inhibitor (TKI) crizotinib elicits
+a dramatic response in patients with non-small cell lung cancer (NSCLC)
+harboring the c-ros oncogene 1 (ROS1) fusion gene (Shaw et al. NEJM
+2014); however, these patients inevitably develop resistance to
+crizotinib within a year, which limits the efficacy of crizotinib.
+Although reported molecular changes include ROS1 tyrosine kinase
+mutations, epidermal growth factor receptor (EGFR) activation, and
+epithelial-to mesenchymal transition, the detailed mechanism of
+crizotinib resistance has not been elucidated.Methods: To explore the
+molecular mechanisms of acquired crizotinib resistance in detail, we used
+a cell line model. HCC78 cells harboring the SLC34A2-ROS1 fusion gene,
+which are sensitive to crizotinib, were exposed continuously to
+increasing concentrations of crizotinib in a step-wise manner. A
+crizotinib-resistant cell line designated HCC78R was established and
+assessed by MTT assay, Western blotting, a receptor tyrosine kinase (RTK)
+array, quantitative PCR (RT-PCR), ELISA, and an RNA kinome targeted
+kinome panel (612 genes) with next-generation sequencing.Results:
+Crizotinib-resistant HCC78R (50% inhibitory concentration [IC50] 4085.9
+nmol/L) was 47-fold more resistant to crizotinib than was parental HCC78
+(IC50 85.8 nmol/L) (p = 0.0145) according to MTT assay. The RTK array
+revealed that EGFR phosphorylation was upregulated in HCC78R cells.
+Western blotting confirmed the activation of EGFR and its downstream
+signaling pathways. RT-PCR screening of EGFR ligand family member
+expression showed increased heparin-binding EGF-like growth factor
+(HB-EGF) in HCC78R compared with HCC78 cells. Consistently, addition of
+the HB-EGF or conditioned medium from HCC78R cells rendered the HCC78
+parental cells moderately resistant to crizotinib. EGFR overexpression or
+activating mutations were not detected. Furthermore, RNA kinome
+sequencing revealed 16-fold higher AXL mRNA expression and 1.68-fold
+lower ROS1 fusion gene expression in HCC78R compared with HCC78.
+Overexpression of the AXL protein and downregulation of the ROS1 protein
+were confirmed by Western blotting. Monotherapy with gefitinib (EGFR-TKI)
+or R428 (AXL inhibitor) or cabozantinib (AXL inhibitor) moderately
+inhibited the growth of HCC78R cells, while combined therapy suppressed
+proliferation more significantly compared with each
+monotherapy.Conclusions: AXL and EGFR signaling mediate resistance to
+crizotinib, and combination treatment of an EGFR-TKI and AXL inhibitor
+may be an alternative strategy in ROS1 fusion gene-driven lung cancer
+cells.
+

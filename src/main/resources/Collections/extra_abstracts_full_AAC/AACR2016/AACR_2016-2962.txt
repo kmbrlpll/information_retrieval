@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Development of the LCMS bioanalysis for clinical pharmacokinetics
+of antibody drugs using Fab-selective limited proteolysis (nSMOL)
+
+
+Monoclonal antibody drugs (mAbs) have become a major therapeutic strategy
+in cancer care. The approved mAbs have been about 40 items, and a lot of
+clinical trials have been now performing in the world. For precise cancer
+therapy, overall pharmacokinetic (PK) information in blood or tumor
+tissue will become the mainstream indicators for many clinicians.
+Therefore, versatile and robust analytical technologies for the direct
+detection of antibody will be important outcome in clinical applications.
+The bioanalysis of mAbs using LCMS is a significant platform for the
+selective quantitation or the feasibility of the multiplex assays for
+combination therapy. For regulated LCMS bioanalysis independent of a
+variety of mAbs or biological taxonomy sources, we have focused on the
+two features: antibody structure-indicated analysis, and
+complementarity-determining region (CDR)-targeting quantitation.Using the
+previous LCMS bioanalysis by general proteomic method, the signature
+proteolytic peptides of the mAb should be quantified from the massive
+analyte and residual protease because immunoglobulin molecules are second
+major protein in plasma proteome. The excess peptides will be cause to
+decrease the selectivity and sensitivity. To address this issues, we have
+recently reported the novel method for the selective proteolysis on the
+Fab by limiting protease access to antibodies, which have named
+nano-surface and molecular-orientation limited (nSMOL) proteolysis. nSMOL
+chemistry is designed based on the unique features: (1) protease reaction
+on nanoparticle surface; (2) Fc immobilization onto the resin, such that
+the Fab is oriented outward to the solution; and (3) Fab-selective
+limited proteolysis by making use the difference of the protease
+nanoparticle diameter (200 nm) and the Ab resin pore size (100 nm). nSMOL
+has made it possible to minimize the sample complexity while the
+maintaining the sequence specificity in CDR.We are now performing the
+bioanalytical validation for several mAbs in accordance with the
+Guideline on Bioanalytical Method Validation in Pharmaceutical
+Development. The results of validation study show that nSMOL is possible
+to cover the clinical dose, and more accurate and sensitive than ELISA
+and conventional proteomic approaches. For clinical feasibility test, we
+measured the plasma concentration of Bevacizumab in patients with
+recurrent non-small cell lung cancer according to nSMOL protocols.nSMOL
+proteolysis coupled with LCMS bioanalysis is a novel method for the
+clinical PK independent of a variety of monoclonal antibodies, and have
+confirmed the clinical usability by the fully validated bioanalysis. This
+analytical approach will be applicable for many new mAbs and biosimilar
+drugs. Furthermore, the clinical trials based on LCMS may be expected to
+aid acceleration of the development of many biopharmaceuticals.
+

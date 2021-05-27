@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The transcription factor BCL6 is a rational target in non-small
+cell lung cancer (NSCLC)
+
+
+BCL6 is a transcription factor that promotes lymphomagenesis by
+repressing target genes involved in DNA damage sensing and response. In
+NSCLC patients, BCL6 is amplified in 40% of Squamous Cell Carcinomas
+(197/501, TCGA) and in 2.2% of Adenocarcinomas (5/230, TCGA), suggesting
+a potential oncogenic role for BCL6 in lung cancer.To determine whether
+BCL6 plays a role in sustaining NSCLC, we first measured the expression
+of BCL6 in a panel of 15 NSCLC cell lines and found BCL6 expression in
+15/15 cell lines. Furthermore, in 7/15 cells lines (46%) we found BCL6
+gene amplification. To gain insight into BCL6 function, we engineered two
+NSCLC cell lines with BCL6 amplification (H1299 and H838) to stably
+express BCL6-shRNA. BCL6 silencing resulted in 3-5 fold mRNA increase of
+key DNA damage response genes such as ATR, Chek1, p21 and p53.
+BCL6-mediated repression of DNA damage response genes has functional
+effects as BCL6 silencing resulted into i) G1 cell-cycle arrest as
+determine by flow cytometry analysis, ii) 1.5-2 fold increase in cell
+doubling time, iii) 40-60% reduction in colony formation. These results
+suggest that a major role of BCL6 in lung cancer could be to enable
+proliferation under genotoxic stress, a function that BCL6 exerts
+physiologically in B-cells during antibody generation. Under these
+premises, BCL6 inhibition should preferentially affect the proliferation
+of cells with elevated genomic instability. Thus, we measured the amount
+of chromosomal aberration harbored by the proliferating fractions of
+BCL6-shRNA cells compared to the isogenic parental cells using
+micronuclei assay. BCL6 silencing resulted in 30-40% reduction of
+micronuclei amount in the proliferating fraction of cells, supporting our
+hypothesis. Moreover, exposing NSCLC cells to DNA damaging agents leads
+to 2-3 fold increase in BCL6 expression regardless the presence of BCL6
+amplification.In lymphomas, BCL6 represses genes by recruiting
+co-repressors to form repressosome complexes in gene promoters and
+enhancers. In particular, repression of DNA damage response genes is
+achieved by the recruitment of three co-repressors (SMRT, N-CoR, and
+BCOR) to the BTB-domain of BCL6. To determine whether the BTB-domain of
+BCL6 is mediating the repression of DNA damage genes in NSCLC, we
+employed FX1085, a small molecule that specifically interacts with the
+BCL6 BTB domain and prevents the formation of the repressosome complex.
+Exposure to FX1085 resulted in 3-10 fold increase in ATR, Chek1, p21 and
+p53 mRNA levels and prevented the proliferation of NSCLC cells with
+elevated genomic instability. Moreover, FX1085 affected the survival of
+6/15 NSCLC cell lines (40%) at GI50 doses comparable to those effective
+in lymphoma cells, indicating that BCL6 maybe a suitable therapeutic
+target in NSCLC.Overall, our data indicate a role for BCL6 in sustaining
+NSCLC genomic instability and suggest that this protein may be a
+potential therapeutic target in this disease.
+

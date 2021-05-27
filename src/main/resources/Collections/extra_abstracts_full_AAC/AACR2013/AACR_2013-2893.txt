@@ -1,0 +1,34 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Integrated genomic meta-analysis of colorectal cancer by
+elastic-net.
+
+
+To identify combinatorial sets of known, putative and new cancer drivers
+responsible for colorectal cancer (CRC) development and other associated
+specific clinical outcomes, we have developed an integrative analysis
+method for cancer genome data. This approach is based on the elastic-net
+algorithm that we have applied to genomic data from the Cancer Genome
+Atlas (TCGA) Project. Our supervised analysis simultaneously assesses the
+contribution of i) copy number variation (CNV), ii) gene expression, iii)
+miRNA, iv) methylation and v) cancer mutations to clinical features. The
+ongoing TCGA project is generating genomic and clinical data sets from
+different tumor types including CRC. These detailed catalogues of genetic
+changes in cancer genomes will continue to provide us with new insights
+about cancer development. However, extracting biologically/clinically
+relevant information from TCGA's diverse and large cancer genome data
+remains a challenge. In attempt to overcome this challenge, we use
+regularized regression method: elastic-net that improves on the least
+absolute shrinkage and selection operator (Lasso). To demonstrate the
+performance and validity of this approach, we showed that elastic-net
+successfully identified i) synthetic genes that have their CNVs perfectly
+associated with stages from a simulated data ii) TGFBR2 and other driver
+genes that have mutations associated with CRCs that demonstrate
+microsatellite instability CRC from TCGA data, and iii) IDH1 that
+obtained mutations associated with survival according to glioblastoma
+(GBM) data. In the next phase of the study, we identified the top ranked
+genes that delineate key clinical features such as TNM stages of CRC. We
+have identified a series of candidate genes that may indicate clinical
+stages including novel candidates on chromosome 8. Overall, we have
+successfully demonstrated that our approach allows for an integrative and
+highly robust supervised analysis of TCGA data.
+

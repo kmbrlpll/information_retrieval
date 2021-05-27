@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The contribution of rare and low-frequency variants to colorectal
+cancer heritability.
+
+
+Studies that estimate complex disease heritability based on genome-wide
+common SNP array data have shown that a large fraction of heritability is
+contributed from variants that do not reach genome-wide significance at
+current genome-wide association study (GWAS) sample sizes. The
+contribution of rare variants to heritability has yet to be explored for
+many complex diseases. Despite the decreasing cost of sequencing, it
+still remains prohibitively expensive to sequence sufficient samples for
+well-powered genetic association studies of rare variants. However, with
+increasingly large and denser imputation reference panels it has become
+feasible to accurately impute variants with minor allele frequencies
+(MAFs) as low as 0.1%, enabling study of a subset of rare risk variants.
+In previous work, we used restricted maximum likelihood (REML) to
+estimate the total additive heritability of colorectal cancer (CRC) based
+on common SNP array genotypes. Here, we expand this work using imputed
+genotype data and a larger sample size. We performed whole-genome
+sequencing of 1,961 CRC cases and 981 controls, and subsequently imputed
+these haplotypes into 11,895 unrelated CRC cases and 14,659 unrelated
+controls that are part of the Colorectal Cancer Family Registry (CCFR)
+and the Genetics and Epidemiology of Colorectal Cancer Consortium
+(GECCO). We estimated heritability from individual-level imputed genotype
+data using LD- and MAF-stratified GREML, as implemented in GCTA. In
+total, we analyzed 17,649,167 imputed genetic variants with minor allele
+count >3. Published heritability estimates for CRC from family-based
+studies vary from 12% to 35%. Based on common genotyped SNPs, we
+previously estimated heritability to be 7.42% (95% CI: 4.71-10.12%) on
+the underlying liability scale, assuming a population prevalence of
+0.004. For imputed genotypes, we estimate the total heritability to be
+12.0% (95% CI: 9.65-14.35). Using a likelihood ratio test, we demonstrate
+a significant contribution of variants with MAF ≤1% to CRC genetic risk
+(P=0.003). Because of the imperfect imputation accuracy for very rare
+variants, their contribution is likely higher. These results suggest that
+with additional sequencing, improved imputation accuracy, and larger
+GWAS, we should expect to start discovering rare variant associations for
+CRC risk.
+
+

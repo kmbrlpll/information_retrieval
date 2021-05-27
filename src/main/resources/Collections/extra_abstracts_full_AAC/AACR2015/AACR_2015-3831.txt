@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Ash2L and p300 mediate histone H3 modifications at EGFR during its
+developmental silencing and re-expression in gliomas
+
+
+Gliomas are the most frequent and aggressive primary brain tumors, and
+are universally fatal once they progress to glioblastomas. Glioma cells
+commonly share abnormalities in pathways that normally control
+proliferation, migration and differentiation of glial progenitors; one
+such example is signaling through the epidermal growth factor receptor
+(EGFR). We show that EGFR is highly expressed in neural progenitors
+during fetal brain development, and that it becomes silenced during
+adulthood in most glia, except for those in the subventricular zone (SVZ)
+where adult neural progenitors are thought to reside. Interestingly, most
+low- and high-grade diffuse gliomas show strong re-expression of EGFR.
+The mechanism of this pathological overexpression is not clearly
+understood and cannot be accounted for by genomic abnormalities alone,
+since less than half of primary glioblastomas and almost no low-grade
+gliomas contain EGFR-activating gene amplification or mutations. We
+hypothesized that EGFR silencing during normal glial differentiation and
+its aberrant re-expression in gliomas is at least partly mediated via
+local epigenetic mechanisms at its promoter. To test this hypothesis, we
+have performed targeted epigenetic analyses at the EGFR promoter,
+measuring both DNA methylation levels via bisulfite sequencing and
+histone H3 methylation (me) and acetylation (ac) levels via chromatin
+immunoprecipitation (ChIP) using primary human samples. Surprisingly, we
+find that DNA methylation patterns at EGFR are conserved regardless of
+the EGFR expression status in non-neoplastic glia and in gliomas. In
+contrast, ChIP analysis reveals enrichment of the activating
+modifications H3K27ac and H3K4me3 during fetal brain development when
+EGFR is highly expressed, and their loss in adult white matter where EGFR
+is silenced. In the SVZ, where some glial cells continue to express EGFR
+at lower levels, these modifications are moderately enriched. The
+repressing modification H3K27me3, in contrast, is low during fetal
+development but becomes highly enriched in adult white matter.
+Interestingly, we also observe robust enrichment of H3K27ac and H3K4me3
+in adult glioma specimens. Furthermore, we find significant binding of
+the histone methyltransferase complex Ash2L at EGFR only in fetal and
+glioma samples that show high levels of H3K4me3, and of the histone
+acetyltransferase p300 only in samples showing enrichment of H3K27ac,
+implicating these two histone modifying enzymes in the dynamic epigenetic
+regulation of EGFR expression during glial differentiation and glioma
+formation.Our studies use endogenous human material and point to an
+important, region-specific role for chromatin remodeling in EGFR
+expression during gliomagenesis, which will undoubtedly open a broad
+range of new potential therapeutic tumor targets.
+

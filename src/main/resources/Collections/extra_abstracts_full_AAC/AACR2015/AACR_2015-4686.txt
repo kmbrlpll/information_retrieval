@@ -1,0 +1,106 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identifying obesity-linked gene expression changes in prostate
+cancer
+
+
+Background: Obese men are at higher risk of advanced prostate cancer and
+have higher rates of cancer-specific mortality after diagnosis. The
+biological mechanisms explaining this association are unknown. Using mRNA
+expression profiles of tissue from prostate cancer patients, we aim to
+identify pathways that are differentially altered in tumor and adjacent
+normal tissue of overweight/obese men compared to healthy weight
+men.Methods: The study includes men with prostate cancer in the Health
+Professionals Follow-up Study (HPFS) and the Physicians Health Study
+(PHS), for whom archival tissue and long-term follow-up is available.
+Whole genome mRNA expression profiling was performed on tumor tissue (N =
+402) and adjacent normal tissue (N = 200) using the Affymetrix 1.0 ST
+array. Body mass index (BMI) was taken from questionnaires before
+diagnosis. Among 402 men in the study, 111 lethal events (metastasis or
+death) were recorded. We identified top Gene Ontology biological
+processes differentially expressed by obesity status using Gene Set
+Enrichment Analysis (GSEA). Single sample GSEA was used to generate
+pathway scores. Odds ratios for lethal disease were estimated using
+logistic regression.Results: 48% of men were healthy weight (BMI 18.5 to
+Background: Obese men are at higher risk of advanced prostate cancer and
+have higher rates of cancer-specific mortality after diagnosis. The
+biological mechanisms explaining this association are unknown. Using mRNA
+expression profiles of tissue from prostate cancer patients, we aim to
+identify pathways that are differentially altered in tumor and adjacent
+normal tissue of overweight/obese men compared to healthy weight
+men.Methods: The study includes men with prostate cancer in the Health
+Professionals Follow-up Study (HPFS) and the Physicians Health Study
+(PHS), for whom archival tissue and long-term follow-up is available.
+Whole genome mRNA expression profiling was performed on tumor tissue (N =
+402) and adjacent normal tissue (N = 200) using the Affymetrix 1.0 ST
+array. Body mass index (BMI) was taken from questionnaires before
+diagnosis. Among 402 men in the study, 111 lethal events (metastasis or
+death) were recorded. We identified top Gene Ontology biological
+processes differentially expressed by obesity status using Gene Set
+Enrichment Analysis (GSEA). Single sample GSEA was used to generate
+pathway scores. Odds ratios for lethal disease were estimated using
+logistic regression.Results: 48% of men were healthy weight (BMI 18.5 to
+<25 kg/m2), 31% were overweight (BMI 25 to Background: Obese men are at
+higher risk of advanced prostate cancer and have higher rates of
+cancer-specific mortality after diagnosis. The biological mechanisms
+explaining this association are unknown. Using mRNA expression profiles
+of tissue from prostate cancer patients, we aim to identify pathways that
+are differentially altered in tumor and adjacent normal tissue of
+overweight/obese men compared to healthy weight men.Methods: The study
+includes men with prostate cancer in the Health Professionals Follow-up
+Study (HPFS) and the Physicians Health Study (PHS), for whom archival
+tissue and long-term follow-up is available. Whole genome mRNA expression
+profiling was performed on tumor tissue (N = 402) and adjacent normal
+tissue (N = 200) using the Affymetrix 1.0 ST array. Body mass index (BMI)
+was taken from questionnaires before diagnosis. Among 402 men in the
+study, 111 lethal events (metastasis or death) were recorded. We
+identified top Gene Ontology biological processes differentially
+expressed by obesity status using Gene Set Enrichment Analysis (GSEA).
+Single sample GSEA was used to generate pathway scores. Odds ratios for
+lethal disease were estimated using logistic regression.Results: 48% of
+men were healthy weight (BMI 18.5 to <25 kg/m2), 31% were overweight (BMI
+25 to <27.5 kg/m2), and 21% were very overweight/obese (BMI 27.5 kg/m2)
+at diagnosis. GSEA identified 15 gene sets enriched in the tumor tissue
+of very overweight/obese vs healthy weight men (FDR Background: Obese men
+are at higher risk of advanced prostate cancer and have higher rates of
+cancer-specific mortality after diagnosis. The biological mechanisms
+explaining this association are unknown. Using mRNA expression profiles
+of tissue from prostate cancer patients, we aim to identify pathways that
+are differentially altered in tumor and adjacent normal tissue of
+overweight/obese men compared to healthy weight men.Methods: The study
+includes men with prostate cancer in the Health Professionals Follow-up
+Study (HPFS) and the Physicians Health Study (PHS), for whom archival
+tissue and long-term follow-up is available. Whole genome mRNA expression
+profiling was performed on tumor tissue (N = 402) and adjacent normal
+tissue (N = 200) using the Affymetrix 1.0 ST array. Body mass index (BMI)
+was taken from questionnaires before diagnosis. Among 402 men in the
+study, 111 lethal events (metastasis or death) were recorded. We
+identified top Gene Ontology biological processes differentially
+expressed by obesity status using Gene Set Enrichment Analysis (GSEA).
+Single sample GSEA was used to generate pathway scores. Odds ratios for
+lethal disease were estimated using logistic regression.Results: 48% of
+men were healthy weight (BMI 18.5 to <25 kg/m2), 31% were overweight (BMI
+25 to <27.5 kg/m2), and 21% were very overweight/obese (BMI 27.5 kg/m2)
+at diagnosis. GSEA identified 15 gene sets enriched in the tumor tissue
+of very overweight/obese vs healthy weight men (FDR < 0.25).
+Interestingly, 9 of the 15 gene sets were epigenetic processes related to
+chromatin remodeling and RNA processing. Other biological processes
+identified were macromolecular complex disassembly, Golgi vesicle
+transport, and ribonucleotide metabolic process. Results from an analysis
+on the adjacent normal tissue indicate that these results are
+tumor-specific.To look further into the role of chromatin remodeling, we
+calculated a pathway score based on 35 chromatin-related leading edge
+genes from the obesity GSEA. As expected, the score was significantly
+associated with BMI. In addition, the score was positively associated
+with PSA at diagnosis, pathologic stage, and Gleason grade. After
+adjustment for age and year at diagnosis, the score was associated with
+lethal progression, with an odds ratio of 5.11 (95% CI: 2.60, 10.52) for
+lethal outcome comparing extreme quartiles. After further adjusting for
+pathologic stage and Gleason grade the odds ratio decreased slightly but
+remained significant. In a mediation analysis, we found that 57% of the
+BMI effect on lethal outcome was mediated by the score.Conclusion: Genes
+involved in chromatin regulation were enriched in tumor tissue of obese
+men. Tumors with high expression of these genes were found to have worse
+clinical characteristics and to be associated with worse outcomes. Our
+findings support a role for epigenetic regulation in the obesity-lethal
+prostate cancer relationship.
+

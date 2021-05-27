@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Deciphering the impact of tumor genetics on immune cell
+infiltration in major solid cancer types.
+
+
+With the advent of immune therapies including inhibition of the
+PD-1/PD-L1 axis there is an urgent need to identify cancer patients that
+benefit from these therapies and to overcome mechanisms of resistance.
+Here, we analyzed the impact of tumor genetics on the composition of
+tumor microenvironment across 21 solid cancer types from the TCGA
+project. Using specific mRNA markers of 10 cell populations (MCPcounter),
+we estimated the content of T cells, CD8+ T cells, cytotoxic lymphocytes,
+B lineage cells, NK cells, monocytic lineage cells, myeloid dendritic
+cells, neutrophils, fibroblasts and endothelial cells in tumor tissues.
+Immune cell compositions were correlated with mutational load, the
+activity of 27 mutational signatures (MutSigs) and PD-L1 mRNA expression.
+Correlation strength was assessed using Spearman’s rho statistics.
+Multiple testing was addressed using the Benjamini-Hochberg method and
+FDR control at 5%. MutSig 1 (clock-like, age-related) showed significant
+positive correlations with immune cell infiltrations in low-grade
+gliomas, negative correlations in breast cancer, melanoma, stomach
+cancer, lung and prostate adenocarcinoma, but no significant correlations
+in the remaining 15 cancer types. Of the two APOBEC-related signatures,
+MutSig 2 showed positive significant correlations with immune cell
+infiltrates in cervical cancer, bladder cancer, lung adenocarcinoma, head
+and neck cancer and thyroid cancer, MutSig 13 in breast and cervical
+cancer. In particular, correlation of MutSig 2 with cytotoxic lymphocytes
+was significant in cervical cancer, bladder cancer and lung
+adenocarcinoma (R = 0.29, R= 0.17 and R = 0.17), the corresponding
+correlation of MutSig 13 in breast cancer (R = 0.17). MutSig 4 (tobacco
+smoke-related) showed a positive significant correlation with CD8+ T
+cells and NK cells in lung adenocarcinoma (R = 0.15 and R = 0.14). In
+contrast, correlation of MutSig 4 with immune cell infiltrates was
+non-significant or negative in head and neck cancer. In colorectal
+cancer, MutSig 6 (defective mismatch repair) showed significant positive
+correlations with NK cells, cytotoxic lymphocytes, monocytic lineage
+cells and neutrophils infiltration (R = 0.45, R = 0.37, R = 0.23 and R =
+0.19). PD-L1 mRNA expression and immune cell infiltrates correlated
+positively in all 21 cancer types. In particular, correlation with
+monocytic lineage cells was positive and significant in all cancer types
+and strong (R > 0.50) in 12 cancer types. Correlation with T cells was
+positive and significant in 18 cancer types and strong in 10 cancer
+types. In summary, pan-cancer analysis of DNA and RNAseq data showed that
+specific mutational signatures contribute to cancer cell immunogenicity,
+while the ubiquitous clock-like mutational process did not positively
+correlate with immune cell infiltrates in 20 of 21 cancer types.
+Moreover, PD-L1 mRNA expression strongly correlated with infiltrates of
+immune cells in the majority of cancer types.
+
+

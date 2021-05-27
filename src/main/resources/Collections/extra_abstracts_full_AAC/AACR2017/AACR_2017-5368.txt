@@ -1,0 +1,38 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Comparative analysis of multiple copy number alteration tools in
+the detection of amplifications and deletions on both whole-exome and
+targeted NGS panel platforms.
+
+
+Somatic copy number alterations, or CNAs, are frequent occurrences in the
+tumor landscape and can present in the form of focal alterations or as
+chromosome level events. Reliable detection of CNAs is crucial to
+understanding the impact of these events on a wide range of factors
+including tumor progression and treatment outcomes. The clinical use of
+NGS panels, and more recently exomes, continues to expand in cancer but
+the reliable detection of CNAs remains a challenge. A major factor
+contributing to the challenge is the availability of reliable tools that
+have been well tested and validated.
+
+We sought to characterize the sensitivity and specificity of multiple CNA
+detection tools with a focus on clinically relevant genes in NGS panel
+and whole-exome. Our approach utilized a variety of publicly available
+CNA tools to identify whole gene amplifications and deletions in a set
+clinically relevant genes identified in the Catalogue of Somatic
+Mutations in Cancer (COSMIC) database. The tested CNA tools included two
+that supported both whole exome and panel NGS data, allowing cross
+platform in addition to cross tool comparisons. This work involved more
+than 20 well characterized cell lines derived from a broad spectrum of
+tumor types, including breast, lung, melanoma, and prostate cancers. The
+cell lines were analyzed in both tumor/normal and tumor only (which
+utilizes a proxy normal) modes. Analyses of patient-matched and
+proxy-normal data were performed with both assays.
+
+Using our approach, we were able to identify clinically relevant CNAs on
+both platforms. The performance of the tools tested varied, with some
+tools performing best on either amplification or deletion events. These
+results represent a comprehensive comparison of recent copy number
+alteration tools and provides data that can be utilized to make the tools
+even more robust and reliable.
+
+

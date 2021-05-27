@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Model-based phase II dose selection of c-Met inhibitor MSC2156119J
+
+
+Objectives: To evaluate the dose/exposure/target inhibition/tumor growth
+relationship of MSC2156119J, an orally administered, reversible,
+ATP-competitive, highly potent and selective c-Met receptor tyrosine
+kinase inhibitor, in order to determine the recommended phase II dose
+(RP2D) for the program.Methods: Interim pharmacokinetic (PK) and
+biomarker (PD) data, i.e. plasma concentrations and c-Met inhibition in
+tumor biopsies from an ongoing first-in-human (FIM) solid tumor trial of
+MSC2156119J, were analyzed using the population modeling approach. The
+exposure/target inhibition relationship established in rich sampled KP-4
+xenografted mice was utilized as prior information to develop the human
+model. Model-based simulations of the c-Met inhibition profiles in
+humans, aiming for a level that achieved tumor regression in mice, helped
+to determine the biologically active dose of MSC2156119J.Results: During
+the FIM study, the maximum tolerated dose of MSC2156119J was not reached
+at a dose of 1,400 mg/day. Instead, a biologically active dose was
+selected as the RP2D, based on a translational modeling approach that
+integrated the quantitative relationship between dose, exposure, and
+target as well as tumor inhibition in humans and in a preclinical model.
+In KP-4 xenografted mice, tumor c-Met inhibition (quantified as
+normalized phosphorylated c-Met expression [pMET]) was described by a
+turnover full inhibitory Imax model, and tumor growth inhibition was best
+described by the Simeoni model. Simulations demonstrated that nearly
+complete pMET inhibition (95%) is required for tumor stasis or even
+regression. In the FIM study, a one-compartment linear model with an
+absorption transit compartment best described the PK of MSC2156119J at
+doses of 30-700 mg. The turnover model developed from mice data was
+applied to evaluate the level of c-Met inhibition in paired human tumor
+biopsies (taken pre- and on-treatment). System turnover parameters for
+pMET were set equal to those estimated in mice, while the treatment
+potency (1/IC50 of the inhibition of build-up) of MSC2156119J in humans
+was found to be 1.7-fold higher than that in mice. Assuming a 30%
+inter-individual variability in IC50, human simulations suggested that a
+500-mg once-daily dose regimen of MSC2156119J could achieve continuous
+pMET inhibition of 95% in 90% of the population. The model and simulation
+will be confirmed using additional PK data and further tumor
+biopsies.Conclusions: c-Met inhibition in human tumor lesions was
+described by a turnover model developed in KP-4 xenografted mice. Using
+this translational modeling and simulation approach and human PK and
+target inhibition data from paired tumor biopsies, a biologically active
+dose of 500 mg was proposed as the RP2D for MSC2156119J. This dose
+achieves continuous pMET inhibition of 95% in 90% of the population and
+has been adopted for the current development program for MSC2156119J.
+

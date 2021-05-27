@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Allogeneic EGFRvIII chimeric antigen receptor T cells for
+treatment of glioblastoma.
+
+
+Glioblastoma multiforme (GBM) is a highly aggressive form of brain tumors
+with a 5-year survival rate of less than 10%. Standard-of-care combining
+radiation therapy with temozolomide only yields a median survival of 14.6
+months and more effective therapeutic options to extend patient lives are
+urgently needed. EGFR variant III (EGFRvIII) is a tumor specific mutant
+of EGFR found in 25-30% of GBM but not expressed in healthy tissues.
+EGFRvIII is formed by an in-frame deletion of exons 2-7 of the wild-type
+EGFR which leads to removal of 267 amino acids in the extracellular
+domain of the receptor. The truncated receptor loses its ability to bind
+ligands but acquires constitutive kinase activity. The lack of normal
+tissue expression makes EGFRvIII an ideal target for developing CAR T
+therapy. Most CAR T therapies in clinical development use the patients’
+own T cells for CAR T manufacturing. Our approach is to develop an
+“off-the-shelf” CAR-T treatment for GBM using healthy donor T cells
+with the TCR (T-cell receptor) disrupted to prevent graft-versus-host
+disease. This allogeneic approach could circumvent challenges faced by
+some patients due to limited availability and quality of their own T
+cells and rapid progress of their diseases, and has the potential to
+reduce the high cost associated with autologous CART therapy. Using phage
+panning and hybridoma approaches, we generated a series of humanized and
+fully human EGFRvIII antibodies with a wide range of affinities.
+Recombinant EGFRvIII protein binding by Biacore and FACS assays using
+EGFRvIII and EGFR wild-type expressing cells demonstrated that these
+antibodies are highly specific for EGFRvIII. The antibodies were
+converted to ScFvs and cloned into a CAR vector. Subsequently, EGFRvIII
+CARs were transduced into primary human T cells for functional studies.
+We developed a series of assays to evaluate CAR expression, degranulation
+activity and target dependent cytotoxicity. Our goal is to select CAR
+candidate that is safe, persistent and has potent target dependent
+cytotoxicity.
+
+

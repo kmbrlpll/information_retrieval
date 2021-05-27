@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Genome-wide analysis of somatic mutations shared by co-occurring
+ovarian high-grade serous carcinomas and serous tubal intraepithelial
+carcinomas
+
+
+INTRODUCTION Serous tubal intra-epithelial carcinoma (STIC) in the
+fallopian tube has been proposed as a putative precursor of ovarian
+high-grade serous carcinoma (HGSC)[1,2]. Association of STIC and HGSCs is
+seen in 50% of cases, and in 15% of women undergoing prophylactic removal
+of fallopian tubes. Clonal STIC-HGSC relationship is suggested by shared
+TP53 mutations and overexpression[3]. To further investigate the
+relationship, we applied genome-wide sequencing of same-patient STIC,
+HGSC and normal tube DNAs isolated from FFPE tumor specimens of 4 ovarian
+cancer patients. Here we report extended patterns of somatic alterations
+shared between STIC and HGSC and identify the affected homeostatic
+pathways.METHODS We established the STIC-HGSC co-occurrence by
+pathological evaluation and immunohistochemistry for TP53 and MKI67
+positivity. Overlapping TP53 mutations were determined by Sanger
+sequencing. DNA was isolated from STIC, HGSC and normal tissue areas of
+paraffin sections, with laser-capture microdissection and whole-genome
+DNA amplification employed for STICs due to the small cellular content.
+250 ng of DNA was converted to sequencing libraries (Kapa Biosystems kit)
+and exome enrichment done by SeqCap EZ System, Nimblegen, Roche. Exomes
+were sequenced on Illumina HiSeq2500 at 100x coverage in 100-bp
+paired-end run. Somatic mutations were analyzed by MuTect and FreeBayes
+callers to determine unique as well as overlapping STIC and HGSC
+alterations.RESULTS Deep sequencing expanded the number of shared
+STIC-HGSC mutations to 20-55 per patient. ETV5, LPAR4, MTOR, and PAK3
+genes harbored recurrent mutations in HGSCs, and the shared STIC-HGSC
+mutations involved genes acting in the pathways of response to stress,
+regulation of apoptosis, autophagy, RAS and small GTPase-mediated
+signaling, and actin cytoskeleton organization (e.g. MTOR, NF1, BECN1,
+ARHGEF18, RASA1, PREX2, TTN). Our findings were corroborated for 80
+STIC-HGSC-shared gene mutants by the cBioportal/The Cancer Genome Atlas
+data on ovarian serous carcinoma.CONCLUSIONS The broad patterns of
+somatic alterations shared by STIC and HGSC document a clonal
+relationship of these neoplastic lesions and possible origins of ovarian
+carcinomas in the tubal epithelium. We propose that our genome-wide
+strategy, once reproduced in a higher patient number, may facilitate
+future development of approaches to HGSC screening, treatment and
+prevention.ACKNOWLEDGMENTS IARC Regular Budget; IARC Postdoctoral
+Fellowship Program (supported by the European Commission FP7 Marie Curie
+Actions COFUND). NYU Genome Technology Center (supported in part by
+NIH/NCI P30CA016087). We thank Dr E. Kuhn for assistance with pathology
+evaluations.REFERENCES1. Li HX, et al. Int J Clin Exp Pathol. 2014 Feb
+15;7(3):848-57.2. Kurman RJ. Ann Oncol. 2013 Dec;24 Suppl 10:x16-21.3.
+Kuhn E, et al. J Pathol. 2012 Feb;226(3):421-6.
+

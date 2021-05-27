@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Development of a RAD51-based assay for determining homologous
+recombination proficiency and PARP inhibitor sensitivity.
+
+
+Homologous recombination (HR) repair deficiency confers sensitivity to
+inhibitors of poly(ADP-ribose) polymerase (PARP). To date, the
+identification of tumors with impaired HR has relied on genomic features,
+including mutational signature, LOH-based HRD assays or gene expression
+analyses defining ‘BRCAness’. These tests analyze history of the
+tumor rather than providing a functional assessment of HR status at the
+time of diagnosis. Therefore, development of a functional assay for HR
+status in tumors is essential to make accurate treatment decisions. Here,
+we describe a RAD51-based immunohistochemical (IHC) assay that identifies
+HR status. We first screened commercial anti-RAD51 antibodies and
+identified a monoclonal antibody that detects RAD51 foci in HR-competent
+normal fibroblasts and shows no evidence of foci in HR-deficient
+(BRCA2-/-) VU423 fibroblasts after γ-irradiation. Conditions for
+detecting RAD51 foci in FFPE samples were identified using HR-deficient
+and HR-proficient triple-negative breast cancer cell lines. HR-deficient,
+PARP inhibitor-sensitive cell lines exhibited high levels of nuclear
+RAD51 and no evidence of foci, whereas HR-proficient, PARP
+inhibitor-resistant cells had low levels of nuclear RAD51 and foci. This
+result was confirmed in a BRCA1-mutated, PARP inhibitor-sensitive PDX
+model, where there was no evidence of foci although RAD51 levels were
+high. We further evaluated the pattern of RAD51 staining in 13 high-grade
+serous ovarian cancer (HGSOC) PDX models, for which sensitivity to
+olaparib had been characterized. The only olaparib-sensitive model
+demonstrated complete absence of RAD51 staining. Among the other 12
+olaparib-resistant models, RAD51 foci were detectable, both before and
+after irradiation. The presence or absence of RAD51 foci correlated with
+olaparib sensitivity and not with BRCA mutation status. Therefore, tumors
+that are HR-deficient and PARP inhibitor-sensitive are characterized by
+either high RAD51 nuclear staining without foci, or absence of RAD51
+staining. To validate these findings, we analyzed RAD51 staining patterns
+in a cohort of 50 primary HGSOCs from patients subsequently treated with
+platinum-based chemotherapy. Among these 50 samples, 45 demonstrated
+either RAD51 nuclear staining without foci or an absence of RAD51
+staining. Five samples demonstrated RAD51 staining with foci. The median
+survivals of these groups were 6.1 and 1.5 years, respectively. In
+conclusion, we have developed a robust IHC assay for determining the
+functional HR-status in tumor samples. Further work will be required to
+determine if the staining patterns observed predict PARP inhibitor
+sensitivity among primary patient samples. Funded by a Biomarker
+Supplement to UM1 CA186709, NIH Grant P50 CA168504, SU2C Ovarian Cancer
+Dream Team and BCRF grant.
+
+

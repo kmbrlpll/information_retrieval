@@ -1,0 +1,39 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Cancer-specific genomic rearrangements used to quantify disease
+burden in plasma from patients with colorectal cancer.
+
+
+Tumor-specific chromosomal rearrangements have the potential to serve as
+highly sensitive biomarkers for tumor detection. Such alterations are not
+present in normal cells and should be exquisitely specific. It is well
+recognized that some colorectal cancers (CRC) release small amounts of
+DNA into plasma. Accordingly, sensitive and specific assays targeting
+these tumor-specific rearrangements should enable quantification of
+changes in disease burden if applied to serial plasma samples. Here we
+report the establishment of efficient procedures for 1) identification of
+tumor-specific genomic rearrangements, 2) development of sensitive and
+specific assays to these, 3) quantification of these rearrangements in
+plasma, and 4) results from applying these procedures to quantify disease
+burden in serial plasma samples from CRC patients. The tumor-specific
+genomic rearrangements were identified using a combination of next
+generation paired-end sequencing of large-insert libraries and SNP array
+based DNA copy number analysis. Nested real-time PCR assays targeting the
+rearrangements were applied to plasma samples in order to quantify
+disease burden. Initially the approach was tested using the CRC cell line
+SW620 as a tumor model, and serial dilutions of SW620 DNA and normal
+human plasma DNA as models of patient plasma. Multiple cell line specific
+rearrangements were identified and nested real-time PCR analysis of these
+in the serial dilutions revealed an excellent linearity, recovery across
+three log scales. Also the sensitivity was very good. As little as 6.4 pg
+cell line DNA could be detected in a background 20 ng of normal plasma
+DNA, corresponding to DNA from 1-2 tumor cells circulating in 2 ml
+plasma. We are currently in the process of analyzing 25 CRC patients from
+which we have more than three years of follow-up and serial plasma
+samples collected every third month, starting the day before surgery and
+until month 36. The results from these analyses will be presented. In
+conclusion: We have shown that the combination of large insert paired end
+sequencing and copy number analysis readily identifies multiple
+tumor-specific rearrangements that can be targeted by sensitive and
+specific nested real-time PCR assays to quantify disease burden in plasma
+samples.
+

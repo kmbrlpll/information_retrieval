@@ -1,0 +1,97 @@
+Meeting: 2016 AACR Annual Meeting
+Title: A unified and streamlined targeted sequencing system for the
+quantification of DNA mutations and RNA expression markers in lung cancer
+
+
+Introduction: The promise of precision medicine relies on the
+identification of DNA and RNA markers that can individualize patient
+management. Methods such as next-generation sequencing (NGS) can deduce
+DNA or RNA sequences, but both types of nucleic acid have not been
+efficiently and effectively combined into a single NGS workflow. We
+describe a comprehensive methodology for targeted clinical NGS that
+reports DNA and RNA variants, provides a streamlined workflow, and
+accommodates low-input total nucleic acid (TNA) from challenging clinical
+specimens.Methods: Sample QC was performed using a novel qPCR assay that
+quantifies discrete populations of amplifiable DNA and RNA from TNA
+material. PCR-based target enrichment was performed using QuantideX NGS
+reagents (Asuragen) and sequenced on the MiSeq System (Illumina).
+Bioinformatic analyses were conducted using QuantideX Reporter
+(Asuragen), a software suite that directly incorporates pre-analytical QC
+information into the variant calling.Results: Targeted DNA- and RNA-seq
+panels were developed that query 54 lung cancer DNA targets and 135 RNA
+targets, including >100 gene fusions and mRNA expression markers
+associated with clinical actionability. Gene-specific primers were
+formulated as multiplex PCR or RT-PCR reactions to independently
+interrogate DNA or RNA variants, respectively, from TNA or combined into
+a 189-plex RT-PCR to report multi-categorical nucleic acid variants.
+Integration of the bioinformatics pipeline and variant caller with
+wet-lab QC results enhanced mutation call sensitivity at Introduction:
+The promise of precision medicine relies on the identification of DNA and
+RNA markers that can individualize patient management. Methods such as
+next-generation sequencing (NGS) can deduce DNA or RNA sequences, but
+both types of nucleic acid have not been efficiently and effectively
+combined into a single NGS workflow. We describe a comprehensive
+methodology for targeted clinical NGS that reports DNA and RNA variants,
+provides a streamlined workflow, and accommodates low-input total nucleic
+acid (TNA) from challenging clinical specimens.Methods: Sample QC was
+performed using a novel qPCR assay that quantifies discrete populations
+of amplifiable DNA and RNA from TNA material. PCR-based target enrichment
+was performed using QuantideX NGS reagents (Asuragen) and sequenced on
+the MiSeq System (Illumina). Bioinformatic analyses were conducted using
+QuantideX Reporter (Asuragen), a software suite that directly
+incorporates pre-analytical QC information into the variant
+calling.Results: Targeted DNA- and RNA-seq panels were developed that
+query 54 lung cancer DNA targets and 135 RNA targets, including >100 gene
+fusions and mRNA expression markers associated with clinical
+actionability. Gene-specific primers were formulated as multiplex PCR or
+RT-PCR reactions to independently interrogate DNA or RNA variants,
+respectively, from TNA or combined into a 189-plex RT-PCR to report
+multi-categorical nucleic acid variants. Integration of the
+bioinformatics pipeline and variant caller with wet-lab QC results
+enhanced mutation call sensitivity at <10% abundance, improved PPV for
+low-input specimens, and achieved absolute quantification of RNA.The NGS
+panels were assessed with cell-line and synthetic controls and a residual
+clinical cohort of 97 NSCLC FFPE specimens. Mutations were accurately
+detected from as few as 5-10 DNA templates and down to Introduction: The
+promise of precision medicine relies on the identification of DNA and RNA
+markers that can individualize patient management. Methods such as
+next-generation sequencing (NGS) can deduce DNA or RNA sequences, but
+both types of nucleic acid have not been efficiently and effectively
+combined into a single NGS workflow. We describe a comprehensive
+methodology for targeted clinical NGS that reports DNA and RNA variants,
+provides a streamlined workflow, and accommodates low-input total nucleic
+acid (TNA) from challenging clinical specimens.Methods: Sample QC was
+performed using a novel qPCR assay that quantifies discrete populations
+of amplifiable DNA and RNA from TNA material. PCR-based target enrichment
+was performed using QuantideX NGS reagents (Asuragen) and sequenced on
+the MiSeq System (Illumina). Bioinformatic analyses were conducted using
+QuantideX Reporter (Asuragen), a software suite that directly
+incorporates pre-analytical QC information into the variant
+calling.Results: Targeted DNA- and RNA-seq panels were developed that
+query 54 lung cancer DNA targets and 135 RNA targets, including >100 gene
+fusions and mRNA expression markers associated with clinical
+actionability. Gene-specific primers were formulated as multiplex PCR or
+RT-PCR reactions to independently interrogate DNA or RNA variants,
+respectively, from TNA or combined into a 189-plex RT-PCR to report
+multi-categorical nucleic acid variants. Integration of the
+bioinformatics pipeline and variant caller with wet-lab QC results
+enhanced mutation call sensitivity at <10% abundance, improved PPV for
+low-input specimens, and achieved absolute quantification of RNA.The NGS
+panels were assessed with cell-line and synthetic controls and a residual
+clinical cohort of 97 NSCLC FFPE specimens. Mutations were accurately
+detected from as few as 5-10 DNA templates and down to <5% abundance, and
+RNA translocations could be observed in sub-nanogram quantities of
+fusion-positive FFPE TNA. The unified DNA/RNA panel identified
+clinically-relevant DNA and RNA variants and maintained similar coverage
+uniformity to the separate DNA and RNA panels. Analysis of 61 lung
+adenocarcinoma and 36 squamous cell carcinoma specimens revealed mutation
+distributions in driver genes and RNA fusions consistent with the known
+spectrum of variants from each tumor type as previously reported by TCGA
+and other groups.Conclusions: QuantideX targeted NGS chemistries can
+unify the analysis of DNA and RNA markers associated with lung cancer and
+report SNVs, indels, fusions, and aberrantly expressed mRNA transcripts
+from a single NGS run. This novel technology offers reliable, accurate
+and comprehensive molecular characterizations of challenging tumor
+specimens by integrating wet-bench and dry-bench methods and improving
+the efficacy of routine laboratory testing.
+

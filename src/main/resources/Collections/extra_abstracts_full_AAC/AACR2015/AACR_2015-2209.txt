@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Deregulation of the Ras-Erk signaling axis modulates the enhancer
+landscape
+
+
+Unrestrained activation of receptor tyrosine kinase (RTK) pathways drives
+tumorigenesis through the persistent activation of critical signaling
+pathways, including the Ras-ERK axis. This aberrant signaling is
+unleashed by mutations in signaling effectors such as Ras, as well as
+through disruption of feedback control by regulatory proteins such as the
+Sprouty family. Mutations in epigenetic regulators also commonly occur
+during cancer progression, modulating chromatin architecture and gene
+expression. While unrestrained signaling and epigenetic deregulation are
+root causes of tumorigenesis, the relationship between aberrant RTK
+signaling and chromatin modifications at cis-regulatory elements remains
+to be fully elucidated. We establish linkage between these processes by
+examining the effects of oncogenic HRasG12V or loss of feedback
+regulation by Sprouty on global changes in gene expression and
+enhancer-associated chromatin modifications. Using RNA-sequencing and
+ChIP-sequencing, we demonstrate that aberrant RTK signaling unleashed by
+oncogenic HRasG12V or Sprouty gene deletion disrupts gene expression
+programs and remodels histone modifications associated with active
+enhancers, including histone 3 lysine 27 acetylation (H3K27ac).
+Abolishing persistent Ras-Erk signaling through chemical inhibition of
+MEK activity reverses the aberrant transcriptional program and H3K27ac
+remodeling at deregulated enhancers. While both lesions disrupt the
+Ras-Erk axis, the specific target genes and enhancers modulated upon
+HRasG12V-transformation or Sprouty deletion are largely distinct.
+Specifically, oncogenic HRasG12V significantly elevates the expression
+and H3K27ac levels near key target genes encoding the transcription
+factor Gata4 and the kinase Prkcb. Gata4 is necessary for the HRasG12V
+expression program and coordinates H3K27ac marking at enhancers of
+deregulated target genes. We further show that HRasG12V-driven cells are
+sensitive to chemical inhibition of Prkcb, which reduces the viability
+and clonogenicity of HRasG12V-transformed cells. These oncogenic effects
+upon HRasG12V-transformation are also reduced by chemical inhibition of
+the chromatin regulators BET bromodomain proteins and p300/CBP, which
+recognize and deposit H3K27ac, respectively. Taken together, our data
+support a model in which dynamic reprogramming of the cellular enhancer
+landscape is a key effect of oncogenic RTK signaling. Furthermore, our
+study shows that identification of enhancers regulated by oncogenic Ras
+yields insight into targeting key epigenetic regulators and downstream
+factors that promote Ras-driven malignancies.
+

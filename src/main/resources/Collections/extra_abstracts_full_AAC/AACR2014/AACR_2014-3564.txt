@@ -1,0 +1,30 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A new method for preparation of low-input, PCR-free next
+generation sequencing libraries
+
+
+Sequence analysis of PCR-free Next Generation Sequencing (NGS) libraries
+demonstrates improved evenness of coverage relative to NGS libraries that
+have undergone PCR amplification. However, existing PCR-free methods
+require 1ug or more of input DNA quantity in order to obtain sufficient
+library yield which restricts such analysis when DNA sample quantity is
+insufficient. To expand the applicability of PCR-free sequencing, Swift
+Biosciences has developed a novel adapter attachment chemistry that is
+more efficient than existing methods. This new technology, Accel-NGS,
+results in libraries that capture a higher complexity of each sample
+which enables a lower input DNA requirement. For Illumina systems,
+PCR-free Accel-NGS libraries can be prepared from 100ng of input DNA for
+direct sequencing. PCR-free Accel-NGS libraries demonstrate even coverage
+across a broad GC content as well as when analyzing whole genome sequence
+coverage. To enable library preparation from even less DNA, Accel-NGS
+libraries can also be prepared with a low number of PCR cycles for direct
+sequencing. The Accel-NGS method with PCR results in more even coverage
+and less PCR duplicates when compared to existing methods that use PCR.
+For exome hybridization capture, comparable coverage was achieved for
+Accel-NGS libraries from 100ng DNA input when compared to an existing
+method that requires 1ug of DNA input. The Accel-NGS method is fast and
+automatable; additional advantages when applied to clinical samples are
+under investigation. PCR-free Accel-NGS libraries can also be prepared
+for Ion Torrent systems from 5ng of input DNA with comparable sequence
+quality to existing methods.
+

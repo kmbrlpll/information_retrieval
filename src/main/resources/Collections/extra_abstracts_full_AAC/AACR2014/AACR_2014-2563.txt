@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Development of clinical assay to mitigate daratumumab, an IgG1
+monoclonal antibody, interference with serum immunofixation (IFE) and
+clinical assessment of M-protein response in multiple myeloma
+
+
+Daratumumab is a fully human anti-CD38 IgG1 monoclonal antibody currently
+in clinical development for the treatment of multiple myeloma (MM)
+(PMID:21187443). Novel agents like daratumumab can potentially result in
+partial or complete clearance of the M-protein or monoclonal
+immunoglobulin produced by multiple myeloma cells. Monoclonal paraprotein
+clearance by serum electrophoresis and immunofixation (IFE) is part of
+the International Multiple Myeloma Working Group (IMWG) criteria for
+complete response and followed routinely in clinical practice to assess
+treatment response. The current limit of detection of many serum IFE
+assays is approximately 150 g/ml M-protein, which is below the serum
+concentration of most monoclonal antibodies dosed in the therapeutic
+range. Indeed, recent studies demonstrated that therapeutic monoclonal
+antibodies in clinical development for treatment of MM are readily
+detected on serum IFE and can interfere with the detection and monitoring
+of endogenous M-protein (PMID: 20940329, 21521182). Therefore, mitigation
+strategies will need to be put in place to remove this interference to
+ensure valid clinical response calls that meet IMWG criteria for complete
+response and stringent complete response (negative serum IFE). We first
+confirmed daratumumab's interference on serum IFE by spiking various
+concentrations of antibody into PBS and normal healthy serum. We were
+able to detect daratumumab in PBS and serum at 50 g/ml. We then utilized
+commercially-sourced MM serum samples to determine the M-protein profiles
+that may be observed in patients undergoing treatment with daratumumab
+and project the percentage of subjects that may demonstrate interference
+by serum IFE. Daratumumab was spiked into MM sera at clinically relevant
+doses (200 g/ml) and the interference was noted in approximately 50% of
+IgG kappa samples where daratumumab and endogenous M-protein co-migrated.
+In remaining IgG kappa samples, the endogenous M-protein migrated in a
+different position than daratumumab and was easily identifiable. To
+mitigate interference, we utilized a mouse anti-daratumumab antibody to
+bind daratumumab and shift the complex migration on IFE. In addition,
+labeling the anti-idiotype antibody with either biotin or Alexa-fluor
+tags provided further shift of the daratumumab-complex allowing for
+additional distinction between the therapeutic antibody and endogenous
+M-protein. Patients with suspected daratumumab interference can be
+monitored with this additional reflex serum IFE utilizing the mitigation
+strategy described above. After clinically validating this assay, we
+intend to incorporate this mitigation strategy in clinical trials with
+daratumumab to ensure accurate assessment of clinical M-protein response,
+a critical evaluation for clinical trial endpoints and disease assessment.
+

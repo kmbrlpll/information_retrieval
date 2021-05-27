@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Therapeutic index prediction of the agonistic aglycosylated TWEAK
+receptor binding antibody BAY-356
+
+
+BAY-356 is a novel aglycosylated anti-TWEAK receptor antibody with potent
+agonistic activity evaluated for cancer therapy. In order to predict an
+efficacious therapeutic dose of BAY-356 in man, we sought to determine a
+therapeutic index where the exposure related to therapeutic efficacy was
+compared with the exposure obtained following doses tested in toxicology
+studies.BAY-356 (1 mg/kg) was administered intravenously to healthy
+Cynomolgus monkeys and plasma concentrations measured in order to
+determine pharmacokinetic (PK) parameters. Using allometric scaling, the
+PK in humans was predicted. Efficacy data of BAY-356 in WiDr, HN10321,
+A253 and SCaBER xenograft models representing colorectal, head and neck
+squamous cell carcinoma and bladder cancer, were used to derive
+exposure-response models for each tumor model where the plasma exposure
+of BAY-356 is assumed to have an effect on the tumor size in a tumor
+growth model. NONMEM 7.3 was used in the estimations.The tolerability of
+BAY-356 was tested in monkeys at doses of 10, 20 and 40 mg/kg by weekly
+intravenous injections over 4 weeks. Treatment resulted in slight to
+moderate toxicity in liver, kidneys and pancreas and 10 mg/kg was set to
+be an exposure dose well tolerated and not to be exceeded by therapeutic
+exposure. A dosing strategy in humans predicted to result in the same
+exposure as 10 mg/kg weekly in monkey is 18 mg/kg every third weeks
+(Q3W).Using the estimated exposure-response in xenograft models, human
+tumor doubling times of 8 weeks (A253 and HN10321), 24 weeks (WiDr) and
+12 and 24 weeks (SCaBER) in combination with human predicted PK
+parameters, tumor reduction over time in humans was predicted based on a
+human dosing strategy of 18 mg/kg BAY-356 Q3W. For the A253 tumor model,
+stable disease in humans was predicted while the results from HN10321 and
+SCaBER models predicted a 13-60% decrease in tumor size in humans
+following 12 weeks treatment. For WiDr, this dosing strategy was
+predicted to not be efficacious in humans.The results based on modelling
+of xenograft data indicate that 18 mg/kg BAY-356 dosed Q3W is predicted
+to be efficacious in humans for certain tumor cells.
+

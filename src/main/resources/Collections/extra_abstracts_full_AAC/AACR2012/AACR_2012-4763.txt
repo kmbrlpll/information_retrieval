@@ -1,0 +1,42 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Targeting p300 for inhibiting triple negative breast cancer
+
+
+Breast cancer (BC) can be classified into four main subtypes:
+normal-like, HER2 overexpressing, luminal A and B, and basal-like BC.
+Normal-like BC cells exhibit gene expression pattern resembling basal
+epithelial cells. Erb-B-2/HER2-positive BC cells display high levels of
+Her2 expression. Luminal tumors show heightened expression of luminal
+cytokeratins and genes specific to the luminal epithelial cells, and are
+generally ER positive. Basal-like BC is characterized by the lack of
+expression of ER, progesterone receptor (PgR), and HER2. Triple-negative
+BC (TNBC) is defined by the lack of expression of ER, PgR and HER2 with
+distinct molecular, histological and clinical characteristics. Among the
+four BC subtypes, TNBC shares many of the molecular features of
+basal-like BC. Patients with TNBC have worse prognosis than those with
+other types of BC due to residual diseases that are resistant to
+chemotherapy and display heightened tendency to disseminate to distant
+organs. Available targeted therapies are ineffective for TNBC.
+Interestingly, cells derived from TNBC contain an elevated proportion of
+tumor cells with stem cell traits. These cells, known as cancer stem
+cells (CSCs), can self renew, differentiate into other types of cells in
+the tumor bulks, and efficiently promote tumor regrowth. CSCs are highly
+resistant to chemotherapy due to the expression of antiapoptotic genes.
+Several highly active signaling pathways, including cytokine-JAK-STAT3,
+Wnt--catenin, and Hippo-TAZ cascades, support the survival and sustained
+self-renewal of CSCs. One remarkable feature of these diverse signaling
+pathways is the reliance on the functions of the coactivators and
+acetyltransferases p300 and its paralog CBP for the expression of the
+effector genes that underlie the CSC phenotypes. We therefore hypothesize
+that inhibition of p300/CBP is an effective strategy for treating TNBC.
+Using an unbiased ultra high-throughput screening, we have identified
+small chemical compounds that were highly toxic to TNBC cell line
+MDA-MB-231 and potently inhibited the enzymatic activity of p300.
+Validation experiments revealed that a specific compound, L002, with the
+IC50 of 1.98 M against p300 in vitro suppressed histone acetylation at
+several known sites of p300 acetylation in cell-based assay. L002 was
+highly toxic to MDA-MB-231 cells but much less so to MCF7 derived from a
+luminal BC. Experiments are underway to examine the effects of L002 on
+the survival of breast CSCs. (This work was supported by Bankhead-Coley
+Cancer Research Program of the Florida Department of Health.)
+

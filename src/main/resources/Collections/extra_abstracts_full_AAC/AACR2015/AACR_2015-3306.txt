@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: The RNA-binding protein HuR radiosensitizes human TNBC cells by
+modulating the cellular response to DNA damage and oxidative stress
+
+
+The RNA-binding protein human antigen R (HuR) associates with U-/AU-rich
+mRNAs encoding proteins that control cell proliferation, metabolism and
+the stress response. HuR is overexpressed in several human cancers and
+its overexpression is associated with poor prognosis and resistance to
+therapy. While the role of HuR in drug resistance has been studied, its
+contribution to radiation resistance has not been examined. Therefore, we
+investigated the role of HuR in radiation resistance of triple negative
+breast cancer (TNBC) cells: MDA-MB-231, MDA-MB-468 and Hs578t. Reduction
+of HuR expression using small interfering (si) RNA decreased cell
+proliferation and sensitized TNBC cells to ionizing radiation. Clonogenic
+assays indicated that silencing HuR suppressed the clonogenic survival of
+all three TNBC cell lines with survival at 2 Gy (SF2) reduced from 59%,
+49%, 65% in control cells to 40%, 33%, and 46% in siHuR-treated
+MDA-MB-231, MDA-MB-468 and Hs578t cells, respectively. To delineate the
+underlying mechanism of radiosensitization and to identify candidate
+mRNAs showing altered levels after silencing HuR, we undertook a
+ribonomic approach. First, since ionizing radiation enhances the
+production of reactive oxygen species (ROS), causing DNA damage, we
+investigated the possible involvement of ROS in siHuR-mediated
+radiosensitization. ROS production in control or HuR-silenced cells
+treated with or without radiation was measured using the fluorescent dye
+2-7-Dichlorodihydrofluorescein diacetate (DCFDA). Radiation significantly
+increased ROS generation in HuR knockdown cells compared to control
+cells. To further test the involvement of ROS in radiosensitivity,
+control and HuR-silenced cells were pre-treated with N-Acetyl-L- cysteine
+(NAC), an ROS scavenger, prior to radiation. The presence of NAC
+completely prevented radiation sensitivity and ROS production, indicating
+the involvement of ROS in HuR-mediated radiation sensitivity. Second, we
+directly tested the involvement of the DNA damage response (DDR) pathway
+in radiosensitivity after silencing HuR by evaluating the number of -H2AX
+foci (a common indicator of DNA damage) in control and HuR-silenced cells
+following irradiation. Our results showed that the number of -H2AX foci
+was significantly greater in HuR-silenced cells than in control cells at
+1 h, 2 h and 24 h after irradiation. The persistence of -H2AX foci
+suggests that radiosensitization by HuR silencing involves inhibition of
+the repair of damaged DNA. This hypothesis was supported by the comet
+assay, which showed that HuR-silenced cells had larger and longer-lasting
+tails than control cells, in keeping with the higher levels of DNA damage
+seen after silencing HuR. Our studies indicate that radiosensitization
+upon HuR knockdown is linked to suppression of the cellular response to
+genotoxic and oxidative damage.
+

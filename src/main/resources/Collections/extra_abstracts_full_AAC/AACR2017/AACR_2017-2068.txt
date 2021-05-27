@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Development of a rational triple combination therapy for
+castration-resistant prostate cancer.
+
+
+Background The androgen receptor (AR) signaling pathway drives prostate
+cancer development and progression, making it a major target for drug
+development. However, resistance to AR targeted therapies invariably
+develops and eventually leads to an aggressive, castrate-resistant
+prostate cancer (CRPC). Although CRPC often remains dependent on AR
+signaling, anti-androgen therapies can lead to the development of AR
+independent disease and metastatic CRPC. Understanding the molecular
+basis of this transition and resistance to current anti-androgen therapy
+will provide important insight and reveal novel therapeutic strategies
+for both AR-positive and -negative disease pathways.
+
+Methods and Results We analyzed in silico data of AR (signaling)-positive
+or -negative human CRPC tissue samples and discovered that MET expression
+is specifically increased only in AR-negative CRPC samples. When
+AR-positive CRPC models are subjected to AR signaling inhibition (by the
+AR antagonist enzalutamide or androgen deprivation), MET is increased and
+susceptible to activation by its ligand HGF. Therefore, we postulate that
+dual targeting of AR and MET signaling pathways may be a better approach
+to prevent and overcome resistance-related disease progression. Our
+preliminary AR ChIP-seq data suggested that MET transcription is not
+affected by AR directly rather, MET protein is modulated by AR signaling
+at the post-translational level. Therefore, we hypothesize that a
+combination therapy of a proteasome inhibitor and MET inhibitor may have
+potential therapeutic benefit for some CRPC patients. By using in vitro
+and in vivo models of AR-dependent CRPC, we have showed that combination
+of the dual MET/VEGFR2 inhibitor cabozantinib and enzalutamide treatment
+is more efficacious than either inhibitor alone. In addition, Bortezomib,
+an FDA-approved proteasome inhibitor, showed significant synergistic
+effect when paired with cabozantinib in our preliminary data using in
+vitro and in vivo CRPC models. In vitro results suggest that triple
+combination of anti-androgen, MET inhibitor and proteasome inhibitor
+therapies will maximize inhibition in CRPC.
+
+Conclusion MET is a compensatory survival pathway in AR+ CRPC upon
+anti-androgen therapy. The rational for triple combination of
+anti-androgen, MET inhibitor and proteasome inhibitor therapies is a
+feasible approach to maximize inhibition in CRPC while minimizing
+development of drug resistance to any single agent.
+
+

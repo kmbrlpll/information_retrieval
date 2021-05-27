@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Towards a screening blood test for esophageal adenocarcinoma
+
+
+BACKGROUND: The incidence of esophageal adenocarcinoma (EAC) has been
+rapidly increasing globally. The majority of EAC cases are diagnosed at
+late stages leading to poor 5-year survival of BACKGROUND: The incidence
+of esophageal adenocarcinoma (EAC) has been rapidly increasing globally.
+The majority of EAC cases are diagnosed at late stages leading to poor
+5-year survival of <20%. Monitoring programs for patients with the
+metaplastic condition, Barrett's esophagus (BE) involves endoscopy with
+biopsy. However, the cost-effectiveness is limited by the low rate of
+progression to cancer and expense of the method. Our research program
+aims to improve the cost-effectiveness of screening by developing a blood
+test to select patients for endoscopy/biopsy. Using our integrated lectin
+magnetic bead array (LeMBA) glycoprotein biomarker pipeline [1, 2] with
+Australian cohorts for the discovery and qualification phases, we
+identified serum lectin-glycoprotein biomarker candidates which can
+distinguish EAC from BE and healthy controls [3]. Here, we report the
+performance of these biomarker candidates in an independent patient
+cohort from the Ochsner Health System, New Orleans, USA.APPROACH &
+METHODOLOGY: Serum samples were collected from consenting patients
+undergoing endoscopy (Control - 16, BE - 13, and EAC - 10). The control
+group consisted of all patients not classified as BE with or without
+dysplasia, or EAC. LeMBA-MRM-MS was performed using 4 different lectins
+with different glycan specificities; AAL (Fucose1-2, -3, -6 linked
+glycan), EPHA (bisecting GlcNAc), JAC (Gal1-6GalNAc and Gal1-3GalNAc),
+NPL (Man1-6Man). Statistical analysis was performed using Shiny MixOmics
+as previously described [3].RESULTS & DISCUSSION: Several lectin-protein
+candidate biomarkers cross-validated in the USA cohort. Most notably,
+differentially glycosylated complement component C9 is highly diagnostic
+in both cohorts, achieving area under the receiver operating curve
+(AUROC) of 0.74 (AAL-C9) to 0.90 (JAC-C9) as a single marker. Complement
+C9 binding to all four monitored lectins were increased 1.4 to 1.8 fold
+in EAC, compared to either BE or controls. Another consistent biomarker
+is gelsolin, with its binding to EPHA and NPL lectin significantly
+decreased in EAC, compared to either BE or controls. Hence, glycosylated
+C9 and gelsolin show promise as potential serum biomarkers for EAC
+screening, and will be further evaluated in prospective
+cohorts.REFERENCES: [1] Loo et al., J Proteome Res 9, 5496-5500 (2010);
+[2] Choi et al., Electrophoresis 32, 3564-3575 (2011); [3] Shah et al.,
+Molecular & Cellular Proteomics 14:3023-39 (2015).
+

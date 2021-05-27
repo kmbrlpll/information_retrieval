@@ -1,0 +1,38 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Label-free imaging identification of white blood cells using
+quantitative phase microscopy for negative selection of circulating tumor
+cells
+
+
+Background: Circulating tumor cells (CTCs) are cancer cells which are
+shed from primary tumors and circulating in the bloodstream, and thought
+to play a key role in metastasis. Existing CTC capture methods are
+largely based on surface markers such as cytokeratins. However, invasive
+tumor cells tend to lose their epithelial markers and change into
+mesenchymal phenotype by the epithelial mesenchymal transition (EMT). It
+seems that conventional CTC capture methods miss the mesenchymal CTCs
+which are supposed to have highly malignant potentials. Because the
+features of CTCs are not fully understood, it is difficult to retrieve
+all CTCs by positive selection using CTC-surface markers. Considering the
+fact that vast majority of nucleated cells circulating in the blood
+stream are WBCs, eliminating WBCs from circulation is an efficient way to
+purify CTCs. In this study, we attempted to develop a novel method for
+the identification of WBCs in the blood using Quantitative Phase Imaging
+Microscopy (QPM).Methods: We analyzed WBCs and cancer cell lines using
+QPM that can image optical path-length of living cells with a high
+resolution of 1nm without staining in non-cytotoxic way. Obtained images,
+quantitative phase images (QPIs), were analyzed by a computer vision
+application which automatically identifies an object in digital images
+based on features extracted from the dataset we had developed by machine
+learning.Results: We imaged 325 WBCs obtained from healthy donors and 325
+cell-line cells (including 5 different cell lines) with QPM. Then, we
+extracted certain features from the QPIs and used them as training images
+for machine learning. We employed 5-fold cross validation to create an
+algorithm to detect WBCs circulating in the blood. The algorithm
+successfully recognized WBCs among QPIs mixed in with WBCs and cancer
+cell lines. The ROC AUC value was 0.98, indicating that the algorithm was
+not random selection.Conclusions: We successfully differentiated WBCs
+from cancer cell lines based on the features of QPIs. The object
+recognition method applying to QPIs of the cell is expected as a useful,
+non-cytotoxic, marker free isolation of CTCs.
+

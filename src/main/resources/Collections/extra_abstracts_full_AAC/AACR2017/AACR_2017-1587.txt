@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Disruption of nuclear export with selinexor or KPT-8602 reduces
+androgen receptor expression and leads to potent anti-tumor activity in
+preclinical models of androgen-independent prostate cancer.
+
+
+Metastatic castration resistant prostate cancer (mCRPC) is an advanced
+form of prostate cancer (PC) associated with poor prognosis.
+Approximately 20 - 40% of mCRPCs are androgen-independent and do not
+respond to treatment with abiraterone or enzalutamide, drugs that
+suppress androgen synthesis or directly target androgen ligand binding
+domains (LBD) respectively. Patients initially responding to these drugs
+eventually relapse, highlighting the need for alternative therapies.
+Resistance is attributed to the emergence of constitutively active AR
+splice variants lacking C-terminal LBDs such as AR variant 7. Although
+ARv7 activity cannot be mitigated by current therapeutic approaches, it
+is known that AR mRNA is exported from the nucleus by eIF4E and
+exportin-1 (XPO1). Selinexor and KPT-8602 are orally bioavailable SINE
+(Selective Inhibitor of Nuclear Export) compounds that specifically
+target XPO1. The purpose of this study is to provide mechanistic evidence
+for using SINE compounds as novel therapies for androgen-independent
+mCRPC.
+
+Methods: In vitro, selinexor or KPT-8602 were tested on
+androgen-independent PC cell line 22Rv1. RNA and protein were analyzed by
+qPCR and immunoblot. Cell viability was examined using the Celltiter-Glo
+assay. In vivo, immune deficient SCID mice were injected subcutaneously
+with 22Rv1 cells. Tumors were grown to ~150 mm3 before treatment with
+selinexor (10 mg/kg qodx3) or KPT-8602 (15 mg/kg reduce to 10 mg/kg
+qdx5). Tumor growth and animal weights were monitored to determine tumor
+growth inhibition (TGI) and tolerability to treatment. Tumors were
+analyzed using immunohistochemistry (IHC).
+
+Results: We found that expression of AR, ARv7 and prostate specific
+antigen (PSA; transcriptionally regulated by AR) proteins are reduced
+following 24-hour treatment with SINE compounds. Nuclear vs. cytoplasmic
+fractionation of RNA revealed that ARv7 and PSA mRNA localization was
+increased in the nucleus (4-fold and 3-fold, respectively) and reduced in
+the cytoplasm (5-fold and 3-fold, respectively). Moreover, KPT-8602
+potently inhibited cell viability (IC50: 100 nM), while enzalutamide and
+abiraterone had no effect. Finally, mice bearing 22Rv1 xenografts,
+treated with selinexor or KPT-8602 exhibited a complete reduction in
+tumor volume (95% and 94% TGI, respectively), which coincided with
+prolonged overall survival. IHC analysis showed a reduction of
+proliferation markers and a concomitant increase in cell death makers in
+selinexor and KPT-8602 treated tumors.
+
+Conclusion: SINE compounds show strong anti-tumor activity in
+androgen-independent prostate cancer models in vitro and in vivo by
+reducing AR, ARv7, and PSA expression. These findings highlight the
+promise of SINE compounds as treatment options for androgen-independent
+mCRPCs resistant to first line therapies.
+
+

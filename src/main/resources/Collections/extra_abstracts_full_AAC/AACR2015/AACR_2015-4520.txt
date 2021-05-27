@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Biological coupling: Drug synergy, cross-resistance, and schedule
+effects in combination therapy
+
+
+IntroductionCombination therapy promises to enhance and extend benefit to
+oncology patients, but development of drug combinations engenders
+challenges beyond those of single agents. In this work, we use
+theoretical models of combination efficacy to demonstrate a potential
+link between drug interactions, cross-resistance, and dosing schedule
+effects.MethodsFirst, we investigated the relationship between efficacy
+interaction and schedule effects by building a dynamic pharmacokinetic
+(PK)/efficacy (E) model to generate theoretical tumor volume trajectories
+in response to exposure to two drugs. We used a single compartment PK
+model to simulate the plasma exposure to each drug following various
+dosing schedules, and exponential tumor growth was inhibited by a drug
+effect model consisting of the sum of single agent effects and their
+product with an interaction coefficient. Simulations of this PK/E model
+for 1000 pairs of drugs with randomized properties and interaction
+strengths were compared for dosing schedules with high or low
+concomitance, respectively. Next, we used a Moran simulation to study the
+effect of interaction strength on sensitivity loss in a heterogeneous
+population. For a tumor initially comprising 1000 subclones (either
+doubly sensitive, singly resistant to either drug, or doubly resistant),
+we simulate based on relative subclone fitnesses the time steps until
+fixation of a resistant population. We then apply the PK/E model assuming
+a multi-clone tumor to elucidate the relationship between synergy, dosing
+schedule, and the rise of cross-resistance by comparing response to
+in-phase and off-phase combination dosing and across a range of
+interaction strengths.ResultsSimulation of the PK/E model demonstrates
+that tumor growth inhibition of in-phase and off-phase dosing schedules
+diverges in a linear relationship with the interaction strength. Moran
+simulations show synergistic compounds are more likely to lead to
+fixation of a doubly resistant subclone within a population of tumor
+cells, and that it will happen faster than with nonsynergistic
+combinations. Comparing the tumor volume and sensitive fraction
+trajectories in response to either in-phase or off-phase dosing of a
+synergistic combination revealed prolonged sensitivity and reduced tumor
+load when dosing out of phase to avoid the synergistic interaction.
+Sweeping the interaction strength shows a minimum in long-term tumor
+growth rate when the combination exerts its effect
+additively.ConclusionsWhile synergistic drug combinations may provide
+increased efficacy beyond additive effects of the drugs, this theoretical
+framework predicts that positive interactions will lead to scheduling
+challenges and faster resistance emergence. Counter-intuitively, it
+suggests the best strategy for long-term patient benefit is to use drugs
+with additive efficacy or non-concomitant dosing to avoid synergistic
+interactions.
+

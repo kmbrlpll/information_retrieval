@@ -1,0 +1,32 @@
+Meeting: 2013 AACR Annual Meeting
+Title: AID/APOBEC cytidine deaminases can mimic the phenomenon of
+localized hypermutation in cancer or kataegis.
+
+
+Recently, using whole-genome sequencing data of breast cancer genomes we
+revealed localized regions of dense somatic hypermutation, called
+kataegis, in which substitutions at C:G base pairs occurring within a
+distinctive sequence context were found associated with clusters of
+genomic rearrangements. The mechanism of kataegis is unknown. On the
+basis of similarities in mutation class and sequence context in
+experimental systems, members of the AID/APOBEC family of cytidine
+deaminases were implicated.Here we expressed members of this gene family
+in yeast and demonstrate that mutation clusters mimicking many of the
+features of kataegis in cancer, can be generated. Because the genomic
+location of each stretch of kataegis is different between individual
+human cancer genomes, it was reasoned that kataegis is triggered by a
+local stochastic event, such as a DNA double strand break. Here, we have
+introduced double strand breaks into the yeast genome and shown that
+kataegis is elicited in its vicinity. Furthermore, kataegis is
+substantially diminished in the absence of uracil-DNA glycosylase,
+indicating that base excision DNA repair is implicated in its genesis.
+Additionally, the mutation sequence context preferences revealed by these
+yeast experiments suggest that APOBEC3B and APOBEC3A are the deaminases
+most likely responsible for the kataegis observed in human cancer. The
+results therefore provide insights into the mechanism of kataegis and
+indicate a contribution of APOBEC3B/A-catalyzed DNA deamination to genome
+mutation in cancer. Finally, we show using an algorithm developed to
+allow efficient detection of kataegis in other publicly available
+whole-genome sequenced datasests that this phenomenon is not restricted
+to breast cancer.
+

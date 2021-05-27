@@ -1,0 +1,28 @@
+Meeting: 2017 AACR Annual Meeting
+Title: GATK ACNV: allelic copy-number variation discovery from SNPs and
+coverage data.
+
+
+The presence of somatic copy-number alterations in tumor genomes can be
+used to predict both patient sensitivity to treatments as well as
+outcomes. The inclusion of allelic data improves statistical power to
+detect copy-number events and allows for discovery of copy-neutral
+events. We present GATK ACNV, an allelic copy-number variation method
+built on the Genome Analysis Toolkit. ACNV is a tool for detecting
+somatic copy-number activity from whole exome and whole genome sequencing
+data by segmenting the genome into regions of constant copy number and
+estimating copy ratio and minor-allele fraction in those regions.
+
+ACNV uses a novel probabilistic model to account for reference bias
+(optionally using a panel of normals), which improves the estimation of
+minor-allele fraction. We combine this with the coverage model from GATK
+CNV by segmenting with a unified hidden Markov model, improving the
+statistical power to detect copy-number variation.
+
+We validate ACNV using a purity series of the cell line HCC1143 and
+cancer samples from The Cancer Genome Atlas. Our results show that ACNV
+is able to discover regions of somatic copy-number activity accurately
+and with high resolution in both whole exome and whole genome sequencing
+data.
+
+

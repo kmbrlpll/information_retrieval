@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Finding determinants of PARP inhibitor sensitivity using
+genome-wide and focused CRISPR screens
+
+
+We are using genomic approaches to study the mechanism of action of
+targeted cancer drugs, particularly poly(ADP-ribose) polymerase (PARP)
+inhibitors. One of these drugs, olaparib was recently approved for use in
+ovarian cancers with germline BRCA1/2 mutations and many other clinical
+trials with this and other PARP inhibitors are underway. Experimental
+study of potential resistance mechanisms can inform the ongoing clinical
+development of these drugs.We previously carried out a loss of function
+mutagenesis screen in haploid cells, which showed that PARP1 was required
+for cellular toxicity of olaparib and other PARP inhibitors. This
+supported the hypothesis that PARP inhibitor toxicity occurs via a
+poisoning mechanism where inhibited PARP is tightly bound to DNA, forming
+a toxic lesion.Recently we carried out a similar screen using genome-wide
+lentiviral CRISPR-Cas9 mutagenesis in diploid cells. Many PARP inhibitor
+resistant clones had loss of function Parp1 mutations as expected.
+However, we also isolated a point mutation affecting a single amino acid
+in the Parp1 DNA binding domain. This mutant encodes a stable Parp1
+protein that cannot bind DNA and does not become trapped in the presence
+of inhibitors. Thus the CRISPR screen implicated PARP1 DNA binding
+directly in determination of PARP inhibitor toxicity and was extremely
+informative about the mechanism of action compared to conventional
+loss-of-function mutagenesis.We extended this approach by synthesising a
+high-density focused sgRNA library targeting only PARP1. We developed a
+reporter cell line that allows us to selectively isolate in-frame
+mutations that preserve PARP1 protein expression. By deep sequencing
+mutagenised and appropriately selected cells we identified a series of
+subtle mutations in PARP1 that result in PARP inhibitor resistance,
+giving us a detailed insight into structure-function relationships in
+PARP1. The approach is applicable to other drug targets, providing a
+framework for understanding drug action and predicting clinical
+resistance.
+

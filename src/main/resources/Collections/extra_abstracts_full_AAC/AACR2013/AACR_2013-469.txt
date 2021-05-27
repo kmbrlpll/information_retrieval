@@ -1,0 +1,49 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Progress towards developing a universal, prophylactic cancer
+vaccine.
+
+
+Background: Our goal is to create a vaccine that would be administered to
+prevent cancer. Such a vaccine would overcome many of the problems and
+limitations in current cancer treatments by eradicating the tumor at the
+earliest stages, before evasion strategies or metastasis could evolve. We
+have chosen to compose the vaccine of frameshift (FS) peptides, which can
+be produced by various mutations and abnormal splicings in tumors. These
+peptides would be novel to the immune system and produce strong immune
+responses. We have conducted bioinformatics and genetics analyses to
+identify a list of aberrant RNA that encode FS peptides and their
+frequency in different tumors. Previous studies showed a mis-splicing FS
+RNA of SMC1A is common in different human and mouse tumors. Vaccination
+with the SMCA1 FS peptide protected against tumor progression in the B16
+mouse melanoma model and several mouse mammary gland tumor models, both
+injectable and transgenic. A key aspect of this strategy is the ability
+to pool FS components to provide broad protection against any tumor that
+could arise. Here we test the ability to pool antigens using mouse tumor
+models.Results: Besides SMC1A FS, we identified potential FS peptides
+encoded in human and mouse tumors for SLAIN2 FS, RBM14 FS and THAP2 FS
+RNA. These were tested individually in the BALB-NeuT transgenic mouse
+mammary tumor model. Each demonstrated the ability to delay tumor
+progression. However, when all four antigens were pooled into a vaccine,
+the protection was no better than each individual component. ELISA
+analysis of each FS peptide indicated that the humoral immune responses
+to SMC1AFS, SLAIN2FS, and RBM14FS in the pooled vaccine were reduced
+while the THAP2FS humoral immune was low in both the individual and
+pooled response. This suggested that THAP2FS could suppress the immune
+response to the other components. To test this, a composite vaccine
+excluding THAP2FS was tested. This vaccine produced robust, additive
+protection.Discussion: We conclude that though THAP2FS was itself
+protective, it suppressed the response to the other antigens in a pooled
+vaccine. As we administered the gene vaccine, each cell received all four
+components. Therefore, we speculate that THAP2 dominates antigen
+presentation in a cell. This implies that each component of the
+prophylactic vaccine will need to be tested for its ability to be pooled.
+This screen has now been added to the process.Future Plans: The ability
+to pool antigens was the last hurdle in the pre-clinical development of
+the prophylactic vaccine. 30% of the possible human vaccine components
+also are in mouse tumors, so these can be directly tested for the ability
+to be pooled. We are also developing a chip to test for human immune
+response to these tumor antigens in cancer patients. With these advances
+we should be able to propose a vaccine for a Phase I safety trial. (This
+research is supported by an Innovation Award from the DoD and The Keck
+Foundation to SAJ.)
+

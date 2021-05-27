@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Validation techniques for PCA-based gene expression signatures.
+
+
+Background: Many gene expression signatures exist for measuring the
+biological state of a profiled tumor. One way to derive a gene-signature
+of a biological event is to perturb cell lines to mimic the event. The
+signature is applied to tumor data to predict the magnitude of the
+biological effect in tumors. Examples include pathway activation,
+metastasis scores, and chemo-resistance. Principal Component Analysis
+(PCA) summarizes a gene signature into a score, however many published
+gene signatures capture proliferation, rather than the intended process,
+as the first PCA component (PC) when applied to tumor datasets Venet et
+al. (Venet, 2011, PLoS Comput. Biol.). Determining why this happens and
+how this effect can be detected is an important for utilizing these
+signatures.Aim: To develop a set of tools to determine if a derived gene
+signature works as intended and is robustly represented when applied to a
+tumor dataset.Results: Differences observed between a cell line
+experiment and tumor data set is a problem of calibration transfer. The
+signature is derived on data with controlled variation and then applied
+to data often exhibiting much larger variation. PCA is a powerful tool
+for summarizing a gene signature into a score, but there are several
+pitfalls, particularly when the variation is larger than expected. We
+have developed a visual tool for evaluating the application of a
+signature, PCA characteristics are measured against thousands of random
+gene signatures to determine the significance of the findings. Four key
+concepts are measured using this tool. Coherence: Elements of a signature
+should be correlated beyond chance; if a common mechanism is measured,
+there should be coherence to the gene signature. This is the amount of
+variance explained in the first PC. Uniqueness: The general direction of
+the data can drive most of the observed signal. A gene signature
+possessing a unique direction (relative to the entire dataset) provides
+confidence that it is measuring a true effect. Robustness: If a signature
+is designed to measure a single biological effect, then this signal
+should be sufficiently strong and distinct compared to other signals
+within the signature. This is measured by calculating the ratio between
+the explained variance of the first and second PCA components.
+Transferability. The derived PCA gene signature score should describe the
+same biology in the tumor data set as it does in the cell line data. This
+can be verified by comparing the cell-line based PCA model with the
+tumor-based PCA model. If the sign and relative importance (loadings) of
+individual genes are similar between the two PCA models, this is an
+indication that the calibration transfer was successful.Conclusions: We
+have developed a technique for validating PCA-based gene signatures work
+as intended when applied to tumor data. Application of this technique can
+identify instances in which signature scores do not represent the desired
+biological effect.
+

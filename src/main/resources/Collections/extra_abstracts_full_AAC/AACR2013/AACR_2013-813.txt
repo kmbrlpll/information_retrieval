@@ -1,0 +1,44 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Diagnostic yield of targeted next-generation sequencing for
+personalized cancer therapeutics.
+
+
+We have implemented a clinical assay to perform next-generation
+sequencing (NGS) of twenty-five genes relevant to multiple cancer types.
+We report findings from 210 consecutive malignancies submitted to
+Genomics and Pathology Services at Washington University in St. Louis
+(GPS@WUSTL). DNA was extracted from formalin-fixed, paraffin-embedded
+tumor selected by histopathologic review. Up to 1 g of DNA (minimum, 0.2
+g) was used for library preparation using liquid-phase cRNA capture
+probes targeting all exons of BRAF, CTNNB1, CHIC2, CSF1R, DNMT3A, EGFR,
+FLT3, IDH1, IDH2, JAK2, KIT, KRAS, MAPK1, MAP2K2, MET, NPM1, NRAS,
+PDGFRA, PIK3CA, PTEN, PTPN11, RET, RUNX1, TP53, and WT1 (302 kb).
+Libraries were sequenced by Illumina technology to obtain 101bp or 150bp
+paired-end reads. Mean coverage was 1596; 50x depth was achieved at >95%
+of positions. The analysis pipeline was validated for variant allele
+frequency >10%. Variants were called and interpreted using the Clinical
+Genomicist Workstation. A list of clinically actionable variants (hot
+spots) was curated by literature review. Of 210 cases, 94 (45%) were
+non-small cell lung cancer (NSCLC), 20 (9.5%) were pancreatic cancer
+(PCA), and 17 (8.1%) were colorectal cancer (CRC), the balance
+representing 38 diverse other malignancies. FFPE tissue cores yielded a
+median of 2.4 g DNA (interquartile range 1.0-4.9 g). Sequencing
+identified a mean of 5.4 non-synonymous coding and/or splice site
+variants per case (single-nucleotide variants and indels). Of these, a
+mean of 2.8/case were not known polymorphisms and likely represented
+somatic mutations. Somatic variants most commonly occurred in TP53 (233
+variants in 107 cases), KRAS (52 variants in 51 cases), and EGFR (40
+variants in 33 cases). Sequencing identified 74 clinically actionable
+(i.e., predictive or prognostic) mutations in 61/210 = 29% of cases. In
+NSCLC, actionable mutations were present in KRAS codon 12 (29/94 cases),
+EGFR exons 19 (5 cases), 20 (1 case) and 21 (5 cases), and the PIK3CA
+helical domain (4 cases). In PCA, there were no variants currently
+recognized as actionable, but one potentially targetable MET T1010I
+variant was found. In CRC, actionable mutations were present in KRAS
+codon 12 or 13 (6/17 cases), PIK3CA (3 cases) and KIT (1 case). Average
+turnaround time was 29 days. In conclusion, NGS-based diagnostics can
+provide clinically relevant information using readily available FFPE
+tissue. Actionable variants were identified in 29% of cases. The
+existence of targeted therapies suggests that such diagnostics have the
+potential to improve patient outcomes.
+

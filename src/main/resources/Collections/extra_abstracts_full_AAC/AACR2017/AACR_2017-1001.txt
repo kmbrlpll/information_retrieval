@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: ESR1 mutations confer novel metastatic functions in genome-edited
+breast cancer models.
+
+
+Background: Estrogen receptor alpha (ERα), encoded by the ESR1 gene, is
+expressed in approximately 70% of breast cancers. Recent studies
+conducted by us and others have shown that somatic mutations in ESR1 gene
+play a key role in conferring endocrine resistance in ER+ breast cancer.
+These hotspot mutations mainly occur on the ligand binding domain of
+ERα, leading to poor outcomes in 25-30% of patients with ER+ metastatic
+breast cancer in clinic. The mechanisms behind the potential enhanced
+metastasis of these mutations have become an urgent issue to be
+addressed, but they are not well understood due to a lack of ESR1 mutant
+models.
+
+Methods: We generated and characterized genome-edited T47D and MCF7
+breast cancer cell lines with the two most common ESR1 mutations (Y537S
+and D538G), using CRIPSR/Cas9 and rAAV systems respectively. Multiple
+clones for each mutant were sorted and the mutation frequencies were
+detected using digital droplet PCR (ddPCR). We subsequently performed an
+RNA-sequencing to deeply differentiate the gene expression patterns in
+these mutants. The growth of these pooled mutant-cells was determined in
+both 2D and 3D plates. The cell-matrix adhesions were measured based on
+ECM array, and 84-ECM adhesion related genes were further tested by qPCR
+array. IncuCyte real-time image system was used to monitor the cell
+migration based on the wound-scratching assay.
+
+Results: We first identified the robust mutation frequencies at both RNA
+and DNA levels in our cell models. The RNA-seq exhibits multiple
+ligand-independent genes overlapping between either cell lines or
+mutants, which were further conformed by qPCR. We also found that both
+Y537S and D538G mutants present ligand-independent growth in 2D and 3D
+ultra-low attachment plates. Using wound-scratching assay, we observed
+significant higher migration rate in D538G mutant of T47D cell lines on
+both matrigel and type I collagen, indicating a cell-line and
+mutant-specific phenotype. We also detected lower attachment of both
+mutants on type I collagen in both cell lines, and our qPCR array
+revealed that alterations in the MMP pathways could be one of the major
+mechanism causing this phenotype.
+
+Conclusion: In sum, our study presents the first in-depth metastatic
+functional analysis of the biology of ESR1 mutations in genomic knock-in
+cell models, pointing out the enhanced migration and decreased
+cell-matrix adhesion as a potential novel gain-of-function of the Y537S
+and D538G mutant-cells. These findings suggest the potential role of
+enhanced metastasis of these ESR1 mutations through remodeling of
+transcriptional profiles, shedding lights towards the development of
+efficient therapies of ESR1 mutant breast cancer.
+
+

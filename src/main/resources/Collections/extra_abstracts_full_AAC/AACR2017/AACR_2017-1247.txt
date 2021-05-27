@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identifying novel regulators of the Unfolded Protein Response
+(UPR) by genome-scale CRISPR-Cas9 knockout screens.
+
+
+Development and growth of a tumor as well as its ability to metastasize
+involves a complex relationship with its tissue microenvironment. A
+proliferating tumor encounters several microenvironmental stress
+conditions such as hypoxia, lack of nutrients and acidosis. To cope with
+these conditions, cancer cells have developed elaborate cytoprotective
+mechanisms which provide them with distinct advantages to thrive. Thus,
+deciphering the signaling pathways which get activated in the tumor
+microenvironment has been paramount to develop new therapeutic strategies
+for treatment. The Unfolded Protein Response (UPR) is an adaptive
+prosurvival pathway elicited by stresses in the tumor microenvironment
+(e.g., hypoxia, low glucose) and involves translational and
+transcriptional activation of effector genes which act to relieve
+cellular stress and block cancer cell death. We developed a strategy to
+comprehensively analyze critical mediators of cell fate in response to
+UPR activation. We have delivered a lentiviral genome-scale CRISPR Cas9
+knockout (GeCKOv2) library to Sq20B cells (human squamous head and neck
+carcinoma) and A375 (human melanoma) cells. The library is targeting
+19,050 genes with 123,411 unique guide sequences and enables both
+negative and positive selection screening. We used the GeCKO v2 library
+to identify genes essential for triggering the UPR in response to
+thapsigargin and tunicamycin, known specific activators of ER stress. Our
+highest-ranking candidates include BIRC5/Survivin, a well-studied
+molecule that acts as an inhibitor of apoptosis and is highly expressed
+in cancer cells and eukaryotic translation initiation factor eIF6, whose
+overexpression increases motility and invasiveness of cancer cells. Our
+preliminary results indicate that loss of Survivin and eIF6 dramatically
+enhance sensitization of cells to various ER stress conditions. Moreover,
+this synergistic outcome is observed when cells are treated with YM155, a
+small molecule that selectively suppresses Survivin and is used in phase
+I/II clinical trials. Lastly, morphological changes like
+endoreduplication are observed after long term absence of Survivin
+indicating its endogenous ER stress inducing role. Taken together,
+Survivin and eIF6 are important mediators of survival following ER stress
+and characterizing the pathways involved can lead to the development of
+novel targeted agents and therapeutic approaches.
+
+

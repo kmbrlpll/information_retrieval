@@ -1,0 +1,44 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Validation of the Ion AmpliSeq Comprehensive Cancer Panel (CCP)
+using castPCR technologies.
+
+
+Somatic mutation has been implicated in many aspects of cancer such as
+susceptibility, diagnosis, prognosis, drug response and tumor progress.
+Detection of somatic mutation is of wide interest in cancer research. The
+rapid advances in next generation sequencing (NGS) technologies have
+transformed cancer research. For example, the Ion AmpliSeq technology
+enables the selective amplification of 10s to 1000s of target sequences
+in a single multiplexed PCR and meshes seamlessly with the Ion
+semiconductor sequencing platform. The Ion Ampliseq Comprehensive Cancer
+Panel (CCP) provides ready-access to hundreds of genes, making it ideal
+for broad targeted re-sequencing studies. Alternative technologies are in
+demand to validate the NGS data orthogonally and screen hundreds or more
+cancer samples to evaluate mutation patterns, prevalence and frequencies
+in population. Here, we have demonstrated the utility of TaqMan Mutation
+Detection Assays using our competitive allele specific TaqMan PCR
+(castPCR) technology in validation of Ion Torrent sequencing data. In
+this study, we applied the Ion Ampliseq Comprehensive Cancer Panel (CCP)
+panel to NCI-60 cell lines (MCF-7, MDA-MB-231, DU-145, PC-3, SK-MEL- 28)
+derived from breast, prostate, and skin cancers on Ion Torrent PGM
+sequencer. We confirmed previously reported mutations in these cell lines
+and identified the mutations that were not reported before, including
+missense and non-coding mutations. We then selected a subset of mutation
+targets from the cancer panel for castPCR validation including the genes
+of KRAS. EGFR, BRAF, NRAS, PIK3CA, PTEN, KIT, TP53, and more. Since
+limited sample quantity has been a challenging issue for most cancer
+researchers, especially for those who are interested in testing
+multi-targets by qPCR, we developed a preamplification method to enrich
+the targets of interest prior to running castPCR assays. We compared the
+Cq values of on-targets and off-targets from preamplified samples and
+non-preamplified samples, and the data indicates that our
+preamplification strategy not only provides roughly100 fold target
+enrichment but also maintains specificity during the preamplification
+process. For mutation detection, we showed that the mutation data from
+castPCR and from Ion Torrent PGM sequencer share high concordance for any
+given mutations. The detailed comparison and analysis will be presented
+and discussed. Our results demonstrate that castPCR technology is a
+valuable validation tool for next generation sequencing. The combination
+of Ion Torrent sequencing and castPCR validation empowers cancer
+researchers to understand the roles that somatic mutation plays in cancer.
+

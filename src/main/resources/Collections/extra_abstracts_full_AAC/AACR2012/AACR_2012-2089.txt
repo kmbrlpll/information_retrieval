@@ -1,0 +1,44 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Fully automated SNP detection from whole blood and mutation
+detection from plasma-free DNA
+
+
+Purpose Gene polymorphism and genetic mutation are related to the
+therapeutic effect of many drugs, and a simple genetic test method is
+preferred. To meet this demand, we have developed a platform for genetic
+testing called i-densy, which can complete fully automated gene
+polymorphism analysis from whole blood in approximately 90 minutes, and
+compared it with the existing test method. Also, recent reports indicate
+that DNA derived from cancer cells are liberated in blood (it is called
+circulating cell-free DNA). Using the i-densy, we here tested EGFR gene
+T790M mutation in circulating cell-free DNA from a sample derived from
+advanced lung cancer patient with EGFR-TKI aquired resistance, and then
+compared with the existing test method. Methods The i-densy newly
+developed can perform fully automated gene polymorphism testing from 70L
+of whole blood and allows typing of 3 polymorphisms or mutations in a
+single reaction. Four samples can be tested at once with this instrument,
+and testing is also possible using oral mucosa or purified nucleic acid
+instead of whole blood. In addition to the i-densy, circulating cell-free
+DNA was also tested using Mutation Biased PCR (MBP) method that can
+preferentially amplify mutation sequence. Results As a result of using
+the i-densy with whole blood for gene testing on 1236C>T, 3435C>T and
+2677 G>(T/A) polymorphism of ABCB1 gene related to toxicity and
+pharmacokinetics of EGFR-TKI erlotinib, results of 1236C>T and 3435C>T
+matched with that of Taqman assay method and 2677 G>(T/A) matched with
+Direct sequencing method for all 20 samples. We also extracted free DNA
+from peripheral blood plasma of a patient, and tested EGFR T790M mutation
+using Mutation Biased PCR (MBP) method, PNA-LNA PCR clamp method and
+Cycleave method. Among 19 patients with acquired resistance to EGFR-TKI,
+number of patients tested positive for T790M were 10 (53%) using MBP
+method, 3 (16%) using PNA-LNA PCR method and 5 (26%) using Cycleave
+method. Also, when using MBP method, there was not a single case with
+T790M mutation detected among cases with continued therapeutic effect or
+which EGFR-TKI is not used. Conclusion The i-densy newly developed has
+been identified to be simple and fast that allows accurate gene
+polymorphism from whole blood, and also confirmed to be useful in
+clinical practice. As a result of EGFR gene T790M mutation testing from
+circulating cell-free DNA using the i-densy and MBP method, appearance
+ratios of acquired resistance mutation were very close to each other
+(approximately 50%), indicating the high detection performance compared
+to other methods.
+

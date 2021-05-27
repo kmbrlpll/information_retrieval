@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Cancer immunotherapy biomarker profiling assay
+
+
+Selecting patients predisposed to respond to existing and novel
+immunotherapy treatments requires the development of novel prognostic and
+predictive biomarkers. Recent reports have identified several gene
+expression signatures specific for immunity status and immune contexture
+in solid tumor microenvironments, and these enable predictions of
+efficacy of a number of chemo- and immunotherapeutics. Robust methods for
+molecular characterizations of the immune mechanism in the tumor
+microenvironment are essential to meet the imminent need for diagnostic
+approaches that identify patient populations responsive to the growing
+number of immunotherapeutic treatments. Toward this goal, we developed
+the Cancer ImmuneNet 2500 (CIN2500) assay for profiling cellular
+composition in the tumor microenvironment and discovery of novel
+prognostic and predictive immune response biomarkers.The CIN2500 panel
+provides signatures for approximately 400 immunity-related genes from 16
+predictive and prognostic core genes that have been validated in recent
+chemo- and immunotherapy clinical trials across several tumor types,
+including melanoma, colorectal, breast, and lung cancers. In addition,
+using computational analysis of an immunotherapy network model, we
+predicted and included in the assay approximately 300 key nodes in
+pathways specific for antigen presentation and recognition, inhibition,
+activation and motility of immune cells, and adhesion and apoptosis of
+cancer cells. The CIN2500 panel also includes a comprehensive set of
+1,700 genes specific for detection and quantitative profiling in the
+tumor microenvironment of different types of activated immune cells of
+adaptive and innate immunity, and stromal, fibroblast, cancer,
+endothelial and adipose cell types.The CIN2500 assay quantitatively
+profiles the expression levels of approximately 2,500 key cancer genes
+from 10-100ng of total RNA using multiplex RT-PCR amplification followed
+by Next-Generation Sequencing (NGS). Built-in standards for each gene
+target enable sample-to-sample calibration of the NGS data and provide a
+reference to adjust for background noise that often depends on the
+quality of samples. Control studies have shown that the CIN2500 assay
+quantifiably measures 4 orders of magnitude variation in the expression
+levels of 2,500 immune-related genes from as few as 100 cells in whole
+lysate, and profiles from frozen biopsies, surgically-removed tumor
+samples, PBMCs, and FFPE clinical samples show a comparable range and
+sensitivity. We will present profiling data from infiltrating immune
+cells and key intact and deficient immune mechanisms in the tumor
+microenvironment of breast cancer samples to demonstrate the performance
+and utility of the CIN2500 assay.
+

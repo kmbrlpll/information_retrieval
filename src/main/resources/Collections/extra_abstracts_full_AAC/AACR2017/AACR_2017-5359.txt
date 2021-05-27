@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: An ultrasensitive and highly reproducible hybridization
+capture-based Next-Generation Sequencing clinical assay to enable
+precision oncology in patients with solid tumors.
+
+
+Sequencing whole cancer exome and whole genome provides useful
+information to study cancer evolution. However, cost and amount of data
+may become overwhelming. Enrichment capture-based methods to design
+custom targeted gene panel have rapidly evolved recently in cancer
+genomics arena. Custom targeted gene sequencing entails several
+advantages (i.e., better quality, ethical, affordable, technically
+suitable, personalized and reimbursable) for cancer patients over whole
+exome and whole genome sequencing. With this in mind, and to enable
+precision oncology in patients with solid tumors, we developed ICG100 2.0
+panel, a hybridization capture-based next-generation sequencing assay for
+targeted sequencing of all exons and flanking introns of 162 commonly
+mutated cancer genes in formalin-fixed, paraffin-embedded (FFPE) tumors.
+To establish ICG100 2.0 panel, we compared three commercially available
+capture based technologies and evaluated reproducibility, sensitivity,
+specificity and the detection limit for low-frequency variants using
+internally developed bioinformatics pipeline. Cell lines, reference
+standards/synthetic DNA and solid tumor samples with the known genetic
+information was utilized in this analysis. Results were derived from
+MiSeq and NextSeq platforms and cross-compared on other platforms,
+including MassArray and ddPCR for establishing concordance and
+uniformity. Intra and interrun replicates were utilized to assess the
+quality, precision and reproducibility of variant calling. Mean depth of
+coverage was observed at >300X with >99% sensitivity and specificity.
+These findings and observations will guide other clinical laboratories to
+establish new assay that require less DNA input, enzyme based
+fragmentation and reduced preparation time. While we show that the three
+capture based methods (after comparison) had an overall accuracy in SNP
+and CNV detection similar to each other with minor differences, we
+describe an approach to assess and establish the best assay from the
+clinical standpoint to guide treatment decisions and match cancer
+patients to the most appropriate clinical trials.
+
+

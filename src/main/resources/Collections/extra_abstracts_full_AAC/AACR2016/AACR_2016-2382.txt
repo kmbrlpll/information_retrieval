@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Novel integration of genomic and morphological information reveals
+tumor tissue heterogeneity
+
+
+Cancer treatment decisions today are predominantly based upon decades-old
+histological methods, which more recently have been combined with simple
+phenotypic or molecular tests. To advance this paradigm, we have
+developed a digital molecular morphology platform that integrates
+histological images with next-generation sequencing (NGS) or PCR data.
+This allows us to visualize DNA mutations and RNA expression levels
+across a histological image, and to correlate mutational or expression
+status to cell morphological features. Thus, providing a novel approach
+to mapping tumor heterogeneity. The basic approach is to overlay a
+microstructure on top of H&E-stained FFPE slides to create a large number
+of tissue-bottomed micro-wells, which can be as small as a single cell or
+contain clusters of cells. Reagents are added to the micro-wells and
+biochemical reactions are carried out and analyzed in place (PCR) or
+partially offline (NGS). In the case of NGS, barcodes are used to
+reference the resulting sequence back to the tissue image. Software is
+then used to analyze and visualize the resulting genetic information in
+the context of the original histological image. Our initial work has
+focused on FFPE cancer biopsies using targeted cancer genes and gene
+panels. Here we demonstrate the use of this approach to measure and
+visualize KRAS G12V mutational status in colorectal cancer tissues, using
+both PCR and NGS detection modalities. We show that with this method we
+are able to efficiently extract DNA from the tissue while maintaining a
+leak-proof physical integrity from one micro-well to another. Further, we
+are able to PCR-amplify DNA in the micro-wells for direct fluorescence
+detection, or to create libraries for sequencing. Detection of KRAS G12V
+correlates well with malignant morphological features in the H&E stained
+tissue, and appears to present a more sensitive way to detect mutations
+than PCR or NGS from bulk FFPE tissue alone. We are currently applying
+this technology to a variety of research and clinical applications,
+ranging from assessment of tumor heterogeneity and evolution, to
+prediction of patient outcome, to post-operative NGS-based
+characterization of surgical margins. This integration of cellular and
+molecular data promises to more fully enable precision medicine to guide
+the course of treatment and improve individual patient outcomes.
+

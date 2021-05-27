@@ -1,0 +1,40 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Systems biology identification of processes/pathways facilitating
+the development of high-grade serous ovarian cancer
+
+
+Previously, based on well-known stem cell phenotypes (sphere formation,
+potent tumorigenicity, embryonic gene expression, and chemoresistance),
+we used patient tumors to isolate high-grade serous (HGS) ovarian
+cancer-initiating cells (OCICs) that express the cell surface markers
+CD44 (a hyaluronate receptor) and CD117 (c-kit) (Zhang et al., 2008,
+Cancer Res 68:4311). Here, to identify biological pathways that underlie
+HGS ovarian tumorigenesis, including the specific role of OCICs in that
+process, we performed integrated analyses of global gene expression, DNA
+copy number, and DNA methylation patterns. To that end, OCICs and bulk
+(i.e., disaggregated but unsorted) tumor cells were compared to primary
+human normal ovarian surface epithelial (nOSE) cells that, along with
+fallopian tube epithelial (FTE) cells, represent hypothesized
+cells-of-origin for HGS pelvic cancers. Principle components analysis and
+unsupervised hierarchical clustering revealed distinct DNA methylation
+and gene expression profiles for replicate (n=3) samples of each cell
+type (i.e., OCIC, bulk tumor, and nOSE). Gene ontology and additional
+unsupervised analyses of gene expression signatures corresponding to the
+epithelial-to-mesenchymal transition (82 of 159 signature genes),
+TGF-beta (47 of 86 genes), and Wnt (75 of 151 genes) pathways
+demonstrated well-defined segregation of the three cell types, with
+mesenchymal and Wnt signaling hierarchies being nOSE > OCIC > bulk tumor
+cells. To examine early events in HGS ovarian tumorigenesis, previously
+published (Tone et al., 2008, Clin Cancer Res 14:4067) gene expression
+datasets were employed to show that nOSE, OCIC, and bulk ovarian tumor
+cell transcriptomes distinctly segregate from normal (FTE) and malignant
+fallopian epithelial transcriptomes. Interestingly, the largest
+divergence was between the nOSE and FTE gene expression profiles.
+Finally, DNA methylation and gene expression patterns were integrated,
+implicating specific networks/circuits in ovarian carcinogenesis. Taken
+together, these results support a mesenchymal-to-epithelial transition
+during ovarian tumorigenesis, reveal legitimate therapeutic targets (at
+the pathway level), and raise uncertainty that surface epithelial cells
+of the fallopian tube and ovary are reciprocal cells-of-origin for HGS
+pelvic carcinomas.
+

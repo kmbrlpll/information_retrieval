@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: CDD: functional insights into orphan GPCRs via subfamily domain
+architectures.
+
+
+NCBI’s Conserved Domain Database (CDD,
+https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml) is a resource that
+aims at classifying ancient conserved domain families and capturing what
+is known about their functional diversity. It is a collection of multiple
+sequence alignments (MSAs) and derived position-specific score matrices
+(PSSMs). RPS-BLAST allows for the rapid identification of conserved
+protein domain footprints in protein sequences along with the location of
+annotated functional sites. CDD is a redundant collection, it imports
+external domain model collections (Pfam, COGs etc.) and supplement these
+with manually-curated domain models that are organized into hierarchical
+classifications, which facilitate annotation of functionally distinct
+protein families and subfamilies. More recently CDD has been curating
+information on conserved domain architectures to support functional
+labeling of proteins that fall into characterized families: SPARCLE
+(Subfamily Protein ArCHitecture Labeling Engine) is both a curation tool
+and a public service available at https://www.ncbi.nlm.nih.gov/sparcle.
+Architecture summaries provide interactive interfaces to lists of
+proteins that share the same characteristic domain architecture, and to
+their assigned names, functional labels, and supporting evidence. Here we
+present the functionally annotated, evolutionary hierarchical
+classification of the seven-transmembrane G-protein coupled receptors
+(7TM GPCRs), which includes the largest family of promising therapeutic
+targets, with more than 140 human orphan GPCRs of unknown function.
+Across the three kingdoms of life, GPCRs are involved in a wide array of
+critical physiological processes, and have been implicated in tumor
+initiation, tumor progression, angiogenesis and metastasis. Orphan
+subfamilies with unknown endogenous ligand/function are often found to
+have poor sequence similarity to canonical GPCRs. They have been assigned
+putative functions with predicted ligand-binding sites, downstream
+interacting partners, and/or the location of 7TM helices annotated by
+inference from the molecular and physiological functions of known related
+GPCR proteins, utilizing more than 25 available 3D-structures,
+phylogenetic relationships, and the published literature. We hope that
+this updated classification, together with NCBI’s software tools
+(Cn3D/CDTree and SPARCLE), will aid researchers in the discovery of
+molecular therapeutic targets for cancer treatment by providing insights
+regarding as-yet-unidentified intra-and intermolecular interactions as
+well as functional mechanisms of GPCR signaling.
+
+Acknowledgement: This research was supported by the Intramural Research
+Program of the National Library of Medicine, NIH.
+
+

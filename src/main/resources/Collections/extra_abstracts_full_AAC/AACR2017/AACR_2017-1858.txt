@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Theranostic nanoparticles for detection and treatment of
+pancreatic cancer.
+
+
+Background: Despite continued efforts to improve early detection and
+treatment of pancreatic adenocarcinoma, the disease still carries a poor
+prognosis. The combination of multispectral optoacoustic tomography
+(MSOT) and theranostic nanoparticles offers a possible solution by
+providing tumor targeting using fluorescent dyes and treatment through
+drug delivery. We describe a 40 nm colloidal mesoporous silica
+nanoparticle (CMS) with vermiform pores and a chitosan coating and tagged
+with the V7 peptide to provide pH-specific dual targeting to deliver a
+contrast agent in a tumor-specific fashion.
+
+Methods: CMSs were synthesized using a modified Stober method, coated
+with chitosan, and conjugated with a V7 peptide, resulting in a dual
+acidic pH targeting system. Particle characterization was performed using
+transmission electron microscopy (TEM), UV-vis spectrophotometry, Zeta
+potential, and dynamic light scattering . To determine acidic pH
+specificity of V7-CMS, Panc1 and S2VP10 cell lines were incubated in cell
+culture medium at either pH 7.4 or 6.6 followed by treatment with V7-CMS.
+Particle uptake was determined using near infrared (NIR) fluorescence and
+tissue phantoms. Finally, for in vivo testing, the same CMSNs were
+injected into mice bearing S2VP10 pancreatic tumors. MSOT imaging was
+performed 8 hours after CMS injection.
+
+Results: TEM images demonstrated successful synthesis of approximately 40
+nm V7-CMSs with vermiform pores. On NIR imaging, V7-CMS demonstrated
+acidic pH specificity in both S2VP10 and Panc 1 cells at pH 6.6, with
+particle localization and signal intensity 8-fold and 5-fold higher,
+respectively, than that observed at pH 7.4. In tissue phantoms, increased
+pH specificity was also observed in both S2VP10 and Panc 1 cells at pH
+6.6. Particle location and signal intensity on MSOT was 20-fold and
+4-fold higher, respectively, than that observed at pH 7.4. In the murine
+orthotopic S2VP10 pancreatic tumor model, MSOT imaging 8 hours after IV
+CMS injection demonstrated V7-CMS accumulation specifically within
+pancreatic tumors.
+
+Conclusion: The acidic pH specific dual targeting system using
+chitosan-coated and pHLIP V7-tagged CMSs results in tumor specificity.
+Preferential binding and dye release was increased as much as 20-fold at
+pH 6.6 as compared to pH 7.4 in tissue phantoms. MSOT was able to detect
+tumor specific accumulation of V7-CMS in vivo. These small, pH specific
+particles hold significant promise for effectively identifying pancreatic
+tumors with high sensitivity and specificity and for targeted drug
+delivery.
+
+

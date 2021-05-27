@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Rare deleterious germline mutations of candidate genes associated
+with risk of familial esophageal squamous cell carcinoma (ESCC) by
+targeted sequencing
+
+
+Background and aims:Esophageal cancer (EC) is a deadly disease with poor
+survival rates of only 10%. The EC incidence remains highest in the
+Shanxi and Henan regions near the Tang Hang Mountain area in Northern
+China. In endemic esophageal squamous cell carcinoma (ESCC) regions,
+common familial clustering and historical migration patterns suggest an
+inherited ESCC genetic susceptibility. We hypothesize that cancer
+predisposition gene(s) (CPGs) carrying rare deleterious variants play a
+crucial role in ESCC genetic susceptibility and aim to identify the
+underlying CPGs of familial ESCC from Henan by applying the targeted
+sequencing approach.Methods:Our discovery set utilized NGS technology to
+capture a comprehensive gene panel critical for ESCC by targeted
+re-sequencing of 1271 selected genes (11 Mb) and sequenced for the
+germline variants in the blood DNA from 222 familial ESCC individuals and
+124 Henan non-cancer controls. Familial ESCC was defined as at least two
+family members developed ESCC. The custom designed panel contains a
+cancer panel of 578 gene list (4Mb) and a custom list of 693 (7Mb)
+ESCC-specific genes derived from various approaches including microarray
+profiling in FH+ ESCC primary tissues, homozygosity-by-descent (HBD), SNP
+array-based analysis by both GWAS and candidate gene approaches of our
+own set of MassArray SNP association data. The data from 346 individuals
+were processed using the analysis pipeline following the GATK guideline.
+Briefly, raw fastq reads were mapped using the Burrows-Wheeler Aligner
+(BWA). PCR duplicates are marked using Picard. The raw variants are
+called by GATK HaplotypeCaller using a joint genotyping of all
+samples.Results:Preliminary data analysis for the 346 samples resulted in
+the final call set comprised of 52328 rare variants. There are 26486 rare
+variants present in the 222 FH+ ESCC cases, but absent in the 124
+controls. The average sequencing coverage was 88X. Principal component
+analysis (PCA) and multidimensional scaling (MDS) indicated a homogenous
+population structure between the case and the control populations.
+Targeted re-sequencing results of the 1271 selected genes in 222 familial
+ESCC individuals identified a recurrent missense variant in AIM1L (Absent
+in Melanoma 1-like) in 14/222 (6.3%) of FH+ ESCC patients but absence in
+the 124 non-cancer control. Data obtained by a melting curve-based
+genotyping platform by LC480 and LightSNiP assay for high throughput
+validation of this recurrent SNP in larger sample cohort are underway and
+will be presented.Conclusions:A SNP in AIM1L may be associated with
+higher risk for ESCC in Henan and validation in larger cohort is
+required. The data may provide valuable insight for understanding genetic
+susceptibility to this deadly cancer.Acknowledgements:We acknowledge the
+Asian Fund for Cancer Research for grant support.
+

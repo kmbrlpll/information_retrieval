@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Lysyl oxidase is required for chemotaxis.
+
+
+Purpose: Lysyl oxidase (LOX) increases extracellular matrix stiffness by
+cross-linking collagen. A stiffer matrix drives integrin activation, and
+therefore LOX is believed to promote cancer cell invasion through
+enhanced integrin signaling. However increased matrix stiffness does not
+necessarily lead to a more permissive environment for invasion. Fibrillar
+collagen matrix orientation, density and porosity also determine how well
+cells can invade. Assays based on collagen gel-covered transwell systems
+have previously been used to show that LOX is required for invasion.
+These systems are driven by a chemoattractant gradient, and thus a role
+for LOX in chemotaxis could not be excluded. In this study we aimed to
+clarify whether LOX was required for matrix invasion or chemotaxis.
+
+Experimental procedures: To set up a 3D invasion assay that was not
+driven by a chemoattractant gradient, spheroids from multiple LOX
+expressing cancer cell lines were embedded into a thick 3D collagen gel.
+Cells were then allowed to randomly invade into the surrounding collagen.
+Alternatively, cancer cells were allowed to invade a fibroblast-modified
+3D collagen gel in an organotypic assay. In this assay the invasion was
+driven by a strong chemoattractant gradient through a dense collagen gel,
+with cancer cells cultured atop the collagen gel at the air-medium
+interface. A Dunn chemotaxis chamber or a transwell tissue culture insert
+was used to investigate chemotaxis towards serum or EGF. Small
+interfering RNA (siRNA) or short hairpin RNA (shRNA) specific to human
+LOX was used to deplete LOX expression in the cancer cells, to test
+potential LOX functions in the above assays.
+
+Results: LOX depletion in parental MDA-MB-231 cells, MDA-MB-231 brain or
+bone metastatic sub-population cells, U87 and U118 cells did not impact
+3D collagen gel invasion. LOX inhibition by BAPN also did not impact
+collagen gel invasion in MDA-MB-231, LN229, U87, U118 and U138 cells. The
+data indicated that LOX was not required for invasion through a thick 3D
+collagen gel in vitro. However, in the chemotactic-driven organotypic
+assay, loss of LOX in MDA-MB-231 cells completely abolished invasion.
+When the chemotactic potential towards serum and EGF of LOX depleted
+MDA-MB-231 and U87 cells was tested using Dunn chemotaxis chambers, we
+observed strong chemotactic defects in both cell lines. The chemotactic
+defects of these cells were also observed when a transwell based
+chemotaxis assay was used. Random cell migration of MDA-MB-231 and U87
+cells were otherwise not affected by LOX depletion.
+
+Conclusions: LOX is not required for collagen matrix invasion per se.
+Instead LOX is important for cells to sense chemoattractants and to
+maintain directional cell migration. The molecular mechanisms underlying
+these observations are now the subject of further investigation.
+
+

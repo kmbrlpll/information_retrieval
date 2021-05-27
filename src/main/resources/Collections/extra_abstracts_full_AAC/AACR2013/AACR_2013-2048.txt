@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: PTEN deficient lung cancer cells are sensitive to the combination
+of olaparib with cisplatin through suppressing DNA damage signaling.
+
+
+PARP inhibition in combination with DNA-damaging agents is one of the
+most promising new therapeutic approaches to cancer. PTEN is a
+tumor-suppressor gene deactivating PI3K downstream of EGFR signaling. In
+H1650 cells harboring EGFR deletion mutation in exon 19 with PTEN loss,
+we reported that synergistic effects of a PARP inhibitor (olaparib) and a
+DNA-damaging agent (cisplatin) were observed in vitro and in vivo (#4686,
+AACR 2012).We further clarified how PTEN loss affected DNA damage
+signaling. H1299 and A549 are lung cancer cells harboring wild type PTEN.
+Antagonistic effects of olaparib with cisplatin were shown in H1299 and
+A549 cells according to combination index (CI). Sensitivity to a PARP
+inhibitor was reported to be associated with a defect in Mre11
+expression. H1650 cells exhibited lower levels of Mre11 compared with
+PTEN-transfected H1650 cells (designated H1650PTEN+ cells). To address
+how lower expression levels of Mre11 affects the synergism between
+cisplatin and olaparib, Mre11 expression vector was transfected into
+H1650 cells (designated H1650Mre11+ cells). CIs were 0.23, 0.20, 0.57 and
+0.29 when concentration ratios of cisplatin and olaparib were designed to
+be molar ratios of 1:1, 1:2, 1:3 and 1:5, respectively, in H1650 cells,
+while CIs were 0.76, 0.91, 0.97 and 0.77 in H1650Mre11+ cells. Although
+these CIs in H1650Mre11+ were somewhat elevated compared with those
+observed in original H1650 cells, these results indicated that lower
+levels of Mre11 alone could not be the sole reason for the synergism. On
+the other hand, PTEN has other nuclear functions, including
+transcriptional regulation of the RAD51 gene, whose product is essential
+for homologous recombination (HR) repair of DNA breaks. RPA is displaced
+from single stranded DNA by RAD51 to initiate HR. There were no
+significant differences of RAD51 and RPA levels by Western blotting.
+Meanwhile, PTEN deficiency resulted in significant reduction in RAD51 and
+RPA focus formation after drug-exposure or irradiation compared to
+H1650PTEN+ cells although H2AX was similarly increased in both cells. As
+RPA binds to single stranded DNA, the RPA focus could be a marker for end
+resection at the double stranded DNA ends. Thus, inactivation of PTEN
+might lead to suppression of DNA damage signaling, leading to the lower
+levels of end resection and, hence, less RPA focus formation. As shown
+above, reduced levels of Mre11 alone could not provide a sufficient
+explanation for this, though Mre11 is involved in the molecular
+mechanisms of the end resection.The combination of cisplatin with
+olaparib in PTEN deficient lung tumors might be pursued in clinical
+trials although further investigations should be required to clarify
+whether and to what extent the molecular events including Mre11, RAD51
+and RPA are responsible for the synergic effect.
+

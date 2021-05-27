@@ -1,0 +1,39 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Targeted TET oxidase activity through methyl-CpG binding domain
+extensively suppresses cancer cell proliferation
+
+
+DNA demethylating agents are useful therapeutic drugs for human cancer;
+5-aza-2-deoxycytidine and 5-azacytidine for myelodysplastic syndrome are
+good examples. They not only induce DNA demethylation but also have
+significant cytostatic and cytotoxic effects. However, precise mechanisms
+for anticancer activity of these demethylating reagents have yet to be
+established, mainly due to the lack of method to induce only DNA
+demethylation. Here we show that a fusion protein comprising the
+methyl-CpG binding domain (MBD) and the catalytic domain of Ten-eleven
+translocation protein 1 (TET1-CD) globally demethylates and upregulates a
+number of methylated genes. Gene expression microarray analyses using
+human embryonic kidney cell line 293T indicate that cells expressing
+wild-type (wt) TET1 catalytic domain with MBD (MBD-TET1-CDwt) upregulates
+more genes than ones expressing TET1-CDwt without MBD (TET1-CDwt) or
+catalytically inactive TET1-CD mutant (mut) with MBD (MBD-TET1-CDmut) and
+their upregulated genes frequently contained CpG islands (CGIs) within
+1,000-bp of the transcription start site (TSS). Interestingly, 65% of
+genes upregulated 5-fold or more by MBD-TET1-CDwt were also reactivated
+after treatment with 5-azacytidine, DNA demethylating agent. These
+results suggested a fact that gene reactivation by both methods was
+primarily based on DNA demethylation. In order to examine growth
+inhibitory effects of DNA demethylation to cancer cells, we utilized a
+tetracycline inducible system to regulate the expression of MBD-TET1-CDwt
+using a prostate cancer cell line. Induction of MBD-TET1-CDwt
+demethylated and upregulated the glutathione S-transferase pi 1 (GSTP1),
+one of the hypermethylated genes in prostate cancer. In accordance with
+reactivation of methylated genes, induction of MBD-TET1-CDwt extensively
+suppressed the growth of LNCaP cells. Flow cytometry analysis showed
+decreased cells in S phase and increased cells in G1 phase by
+MBD-TET1-CDwt expression. Our present results clearly indicate that TET
+oxidase activity recruited at methyl-CpG sites through MBD induces
+reactivation of hypermethylated genes by DNA demethylation, and that our
+methods allow us to analyze the effects of global DNA demethylation in a
+wide variety of cancer cells.
+

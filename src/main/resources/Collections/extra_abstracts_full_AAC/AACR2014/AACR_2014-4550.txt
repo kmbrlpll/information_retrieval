@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Differential PARP inhibitors' effects on cell cycle and
+consequently homologous DNA damage repair
+
+
+Background: Poly (ADP)-ribose polymerase (PARP) inhibition has been
+explored in pre-clinical and clinical studies with greatest successes
+demonstrated in homologous DNA damage repair (HDR) pathway-deficient
+cancer patients. PARP inhibitor's (PARPis) potency to inhibit PARP's
+catalytic activity is well established; however non-catalytic effects
+that may add to their therapeutic properties are not fully understood.
+Our objective was to comparatively evaluate non-catalytic effects of
+olaparib and veliparib, the two most widely used PARPis in clinical
+trials, with a particular focus on cell cycle effects and HDR.Methods: To
+measure DNA damage repair activity upon PARPi treatment, we used a
+well-established DR-GFP reporter assay in two model cell lines,
+U2OSDR-GFP and H1299DR-GFP. Cell cycle progression was assessed by
+propidium iodide and monitored by flow cytometry. Depletion of targeted
+mRNAs was performed by standard siRNA knock-down technique using
+electroporation for transfection. Immunoblotting was used to confirm cell
+cycle results and demonstrate replicative stress on the protein
+expression levels.Results: We found a dramatic decrease in DNA damage
+repair activity in olaparib- versus veliparib-treated U2OSDR-GFP p53 wild
+type cells, regardless of inhibitory potency. This decrease in HDR
+activity was a result of olaparib triggering a cell cycle arrest-like
+effect as a response to strong replicative stress. Lack of the same
+effect in p53-null cells suggests that olaparib's effect is
+p53-dependent, which was confirmed in U2OSDR-GFP cells depleted of p53.
+Finally, CHK1 is strongly phosphorylated in cells treated with olaparib
+but not veliparib, confirming cells differential response to these two
+PARPis.Conclusion: These data demonstrate that olaparib and veliparib
+differ in their non-catalytic inhibitory effects, with olaparib but not
+veliparib mitigating DNA damage repair activity via cell cycle
+arrest-like effects in a p53-WT background. Moreover, olaparib but not
+veliparib triggers CHK1 phosphorylation, which suggests differential
+levels of replicative stress. This new insight into olaparib's and
+veliparib's mechanism of action should be considered when developing
+inclusion criteria for treatment of cancer patients with these PARP
+inhibitors.
+

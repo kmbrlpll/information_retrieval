@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Comparison of whole genome amplification methods on single and
+pooled cells for comparative genomic hybridization array analysis
+
+
+Background: Because blood can be easily sampled repeatedly over the
+course of disease, circulating tumor cells (CTCs) offer an opportunity to
+measure phenotypic changes during treatment permitting adjustments to
+therapy as cancer evolves and/or develops resistance. Since cancer
+therapeutics are often selected based upon molecular information,
+reliable, high quality methods for whole genome amplification (WGA) are
+required for single and small pools of CTCs. Here we compared REPLI-g
+(QIAGEN) and PicoPLEX (Rubicon) WGA methods using picked model CTCs
+(SKBR3 cells) employing the AccuCyte-CyteFinder-CytePicker system
+(RareCyte) and subsequent molecular analysis by array comparative genomic
+hybridization (aCGH).Methods: We compared aCGH performed on WGA products
+from single and pooled SKBR3 cells processed with the typical AccuCyte
+protocol, or an alternative protocol using live cells in suspension. For
+the typical AccuCyte protocol, isolated buffy coat was spread and dried
+onto microscope slides, fixed and antibody stained (EpCAM, cytokeratin,
+CD45) on an automated instrument. Alternatively, pure, live SKBR3 cells
+were stained in suspension for EpCAM and Her2, and then placed into well
+slides. Slides were imaged using the CyteFinder digital fluorescence
+scanning microscope. Fixed SKBR cells were identified by positive
+nuclear, EpCAM, and CK staining, and negative CD45 staining. Live cells
+were identified by positive EpCAM/Her2 staining. Cells were picked into
+PCR tubes using the CytePicker module. DNA from individual or pools of
+cells (2, 3, 5, or 10) was amplified using either the REPLI-g or PicoPLEX
+WGA kits and processed for aCGH using Genetisure arrays (Agilent). WGA
+products were hybridized against matched WGA controls from normal male
+genomic DNA.Results: aCGH profiles for pools of 10 cells using both WGA
+methods were very similar to unamplified SKBR3 genomic DNA. Signal to
+noise (S:N) was significantly higher with the REPLI-g amplified DNA
+compared to PicoPLEX, but single cells did not show similar profiles of
+genomic aberrations to unamplified genomic DNA until at least 3 cells
+were pooled before amplification. In contrast, single cells amplified
+using PicoPLEX demonstrated genomic aberrations consistent with
+unamplified genomic DNA. Fixation did not appear to adversely affect
+PicoPLEX WGA performance, but DNA from fixed cells could not be amplified
+with REPLI-g.Conclusions: Diagnostic decisions can potentially be made
+from molecular data derived from small numbers of CTCs requiring WGA
+methods that provide accurate results in downstream analysis. WGA methods
+should be selected based upon the molecular data required. In this study,
+higher S:N indicate that REPLI-g may be more sensitive for finding
+smaller genomic changes than PicoPLEX, however PicoPLEX generates more
+consistent data with single fixed cells.
+

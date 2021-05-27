@@ -1,0 +1,35 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Tyr-phosphorylation of PDP1 toggles recruitment between ACAT1 and
+SIRT3 to regulate pyruvate dehydrogenase complex and promote the Warburg
+effect
+
+
+Mitochondrial pyruvate dehydrogenase complex (PDC) is crucial for glucose
+homoeostasis in mammalian cells. The current understanding of PDC
+regulation involves serine phosphorylation of pyruvate dehydrogenase
+(PDH) by PDH kinase (PDHK), which inhibits PDH and subsequently PDC,
+whereas dephosphorylation of PDH by PDH phosphatase (PDP) activates PDC.
+Here we report that lysine acetylation of PDHA1 and PDP1 is induced by
+EGF-stimulation in human cells, and is common in diverse human cancer
+cells. We found that K321 acetylation inhibits PDHA1 by recruiting PDHK1
+and K202 acetylation inhibits PDP1 by dissociating its substrate PDHA1,
+both of which are important for the metabolic switch to glycolysis in
+cancer cells and promote tumor growth. Moreover, we identified
+mitochondrial acetyl-CoA acetyltransferase 1 (ACAT1) as the upstream
+acetyltransferase of PDHA1 and PDP1 using a novel shRNA library that
+targets the majority of acetyltransferases in the human genome, and SIRT3
+as the deacetylase. Knockdown of ACAT1 results in decreased cancer cell
+proliferation and tumor growth. Furthermore, we found that EGFR and other
+tyrosine kinases including FGFR1 that are frequently dysregulated in
+human cancers phosphorylate PDP1 at Y381, which dissociates SIRT3 and
+recruits ACAT1 to PDC.Our findings suggest a novel mechanism where lysine
+acetylation of PDHA1 and PDP occurs in both normal and cancer cells, and
+contributes to inhibitory regulation of PDC, providing complementary
+insight into the current understanding of PDHA1 regulation. We also
+demonstrate that hierarchical, distinct post-translational modifications
+crosstalk to regulate PDC by controlling its molecular composition.
+Moreover, our findings for the first time link a mitochondrial
+acetyltransferase, ACAT1, to the Warburg effect and tumor growth,
+suggesting that the ACAT1-PDP1-PDHA axis represents a promising
+anti-cancer target.
+

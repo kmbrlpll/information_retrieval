@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The impact of monocarboxylate transporter expression on metabolic
+function in prostate cancer cells
+
+
+INTRODUCTIONThe tumor microenvironment is subjected to variations in
+oxygen tension which results in hypoxic regions. Hypoxia in tumors is
+associated with radioresistance and a metastatic phenotype. Hypoxic
+conditions cause tumor cells to favor anaerobic metabolism, however this
+switch to glycolysis is also found in tumor cells under aerobic
+conditions, known as the Warburg effect. An increased reliance on
+glycolysis results in large quantities of lactate, which needs to be
+transported out of tumor cells to maintain the intracellular pH. The
+monocarboxylate transporters, MCT1 and MCT4, regulate the transport of
+lactate in tumor cells and here we report the effect of overexpression or
+knockdown of these transporters on metabolism, growth and response to
+therapy in prostate cancer cell lines.METHODSHuman prostate cancer cell
+lines were stably transfected, using lentiviral vectors, to show
+overexpression of MCT1 (DU145, LNCaP and PC3), overexpression of MCT4
+(LNCaP), or knockdown of MCT4 (DU145 and PC3). Using these stable cell
+lines, the effect of overexpression or silencing of MCT1 or MCT4 was
+assessed in vitro. A lactate assay was used to investigate the effect on
+intra- and extracellular lactate under varying oxygen tensions. Effect on
+cell cycle progression was assessed using flow cytometry and toxicity of
+docetaxel was determined using MTT and SRB assays. Finally, a metabolome
+siRNA screen was carried out to determine if MCT4 expression was related
+to sensitivity to toxicity resulting from knockdown of a range of
+metabolic proteins.RESULTSExpression levels of MCT1 and MCT4 were
+confirmed by western blot and immunofluorescence. Silencing of MCT4 in
+DU145 and PC3 cell lines increased intracellular lactate under hypoxic
+conditions. No effect on intra- or extracellular lactate was observed in
+cell lines with overexpression of MCT1. Changes in expression of MCT1 or
+MCT4 did not appear to result in sensitization or resistance to docetaxel
+treatment under either normoxic or hypoxic conditions. Overexpression of
+MCT1 in PC3 cells caused cell cycle arrest in the G2/M phase in both
+normoxia and hypoxia. The metabolome screen indicated that, in wild type
+LNCaP cells, down-regulation of the protein product of the genes encoding
+2,4-Dehydrocholesterol Reductase or Pyruvate Dehydrogenase Phosphatase
+Catalytic Subunit 2 was synthetically lethal. Overexpression of MCT4
+resulted in protection against these lethal effects.CONCLUSIONSAltering
+the expression of MCT1 and MCT4 in human prostate cancer cells had a
+variety of effects on cell function. Overexpression of MCT1 caused cell
+cycle arrest in PC3 cells which may impact on radiosensitivity as cells
+are most vulnerable to radiation treatment when in the G2/M phase. The
+identification of two proteins that cause toxicity when silenced in LNCaP
+wild-type cells, but not LNCaP cells showing overexpression of MCT4, is
+an interesting lead for further investigation.
+

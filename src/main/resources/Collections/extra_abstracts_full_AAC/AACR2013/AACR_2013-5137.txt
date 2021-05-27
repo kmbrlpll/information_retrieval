@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Implementing an automated clinical next generation sequencing
+analysis pipeline - assuring accurate and robust results.
+
+
+Introduction: There is unmet clinical need for automated data processing
+of deep sequencing in heterogeneous sample populations in molecular
+oncology specimens. We have developed clinical assays using Next
+Generation Sequencing (NGS) for deep sequencing in both solid tumor and
+hematological indications. We have targeted five genes (ASXL1, RUNX1,
+EZH2, ETV6, and TP53) involved in myelodysplastic syndrome (MDS) and
+three genes (BRAF, c-KIT, NRAS) in late stage melanoma. We designed and
+implemented a data processing pipeline that integrates novel and
+commercial analysis software to provide automated rules-based filtering
+and annotation of variants.Methods: We used a targeted resequencing
+approach with the Fluidigm Access Array system for library creation and
+molecular barcoding for sample multiplexing. Samples were processed in
+duplicate to filter out potential false positives. Libraries were
+sequenced using the Ion Torrent Personal Genome Machine (PGM) (Life
+Technologies, Carlsbad, CA) and the Illumina MiSeq (Illumina Inc., San
+Diego, CA) systems. Raw data in FastQ format was preprocessed using
+Windows batch commands and Perl programs that were integrated with
+NextGENe (SoftGenetics, State College, PA) analysis software for quality
+trimming, alignment and variant calling against NCBI curated references.
+Variant calls were compared between duplicate samples and annotated using
+a separate Perl program that queried databases containing known germline
+and somatic variants.Results: Quality control was implemented by trimming
+all downstream reads that contained specified Q-scores (Phred, Q16 or
+above) as well as requiring a minimum coverage depth of 500X per exon.
+Only variant calls confirmed at greater than 5% in both duplicate samples
+and with a balanced ratio of forward and reverse reads were considered
+reportable in a clinical setting. Variants appearing in only one of the
+duplicates were consistent with systematic errors. Variant calls were
+annotated with existing database information or were saved in a database
+of novel mutations by the annotation pipeline. The pipeline removes all
+systematic errors in known cell line samples by filtering
+metrics.Conclusions: We have developed a robust and automated pipeline
+for NGS data analysis in the clinical lab that is independent of
+sequencing platform. The implementation of an automated processing
+pipeline increases the efficiency and consistency of analysis. Hands-on
+time for data analysis has been decreased from 30 minutes per sample to
+less than 5 minutes per sample. Carrying duplicates through the entire
+multiplexing and sequencing process also helps reduce test based
+false-positive errors (e.g. PCR errors) while robust analytical metrics
+remove other sources of error (e.g. strand bias). We have found an
+average of 6-10 false positive calls in both sample types, all of which
+were filtered out by the pipeline presented here.
+

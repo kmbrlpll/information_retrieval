@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: MK-1775, a selective wee1 kinase inhibitor, overcomes cisplatin
+resistance associated with high risk TP53 mutations in squamous cell
+carcinoma of the head and neck.
+
+
+Head and neck squamous cell carcinoma (HNSCC) affects over 500,000
+patients worldwide annually and over half this number of patients dies
+from the disease each year. Platinum-based chemotherapy is currently
+employed in the treatment of advanced HNSCC to decrease distant
+metastasis and to improve local-regional control through sensitization of
+external beam radiation. Platinum based agents have been shown to be less
+effective in the context of specific genomic events such as mutation of
+TP53 tumor suppressor gene. Recent data from whole-exome sequencing of
+HNSCC reveals that this gene is mutated in 60-80% of HNSCC. It is unclear
+whether all mutations in TP53 equally trigger an aggressive HNSCC
+phenotype which is resistant to platinum based agents. Therefore, we have
+developed an algorithm termed Evolutionary Gradient and Structure (EGS)
+which stratifies HNSCC patients based on the type of TP53 mutation and
+correlates the score (high risk vs. low risk) with clinical outcomes.
+Based on this system, twelve isogenic cell lines harboring different p53
+mutants were created in a p53 null HNSCC cell line background. Cells
+expressing high risk TP53 mutations were highly resistant to cisplatin
+relative to wildtype TP53. Decreased cisplatin sensitivity associated
+with these mutations was found to be driven by their inability to undergo
+cellular senescence, the primary mechanism of death for cells with
+wildtype TP53. It has been previously shown that tumors expressing mutant
+TP53 rely more heavily on activation of the S- and G2-phase checkpoints
+for mediating the growth arrest needed to repair DNA damage and survive
+genotoxic stress, making these cells potentially sensitive to G2
+checkpoint inhibitors. Wee1 is a tyrosine kinase that has been linked to
+DNA damage induced G2 arrest, owing to its ability to inactivate cyclin
+dependent kinase 1 (CDK1)) through phosphorylation of the Tyr15 residue.
+Recent studies have shown that inhibitors of Wee1 sensitize TP53 mutant
+colon cancer tumors to cisplatin in preclinical models by abrogating a G2
+arrest. Therefore, we assessed the ability of the wee1 kinase inhibitor,
+MK-1775, to sensitize the HNSCC cells to cisplatin. Treatment of HNSCC
+cell lines expressing high risk TP53 mutations with MK-1775 and cisplatin
+resulted in strong synergism with a combination index of 0.07.
+Furthermore, the addition of MK-1775 to cisplatin did not restore
+induction of senescence, but rather resulted in increased cell death
+through mitotic catastrophe. This study demonstrates the potential for a
+therapeutic strategy aimed at tumors expressing high risk TP53 mutations.
+Through the use of synthetic lethality it appears possible to restore
+cell death pathways and improve treatment outcomes in pre-clinical models
+of aggressive HNSCC.
+

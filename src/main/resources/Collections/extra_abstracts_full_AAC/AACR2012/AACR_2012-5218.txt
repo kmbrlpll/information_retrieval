@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A c-Myc driven threshold model of tumor initiating in glioblastoma
+
+
+Recent evidence suggests that glioblastoma is driven by a subset of Tumor
+Initiating (TI) cells characterized by their capacity to form tumors in
+xenograft models and self-renew in vitro. These TI cells share many
+properties of neural stem/progenitor cells, including the expression of
+certain cell surface markers. With serial passage, many cells lose their
+capacity to TI. The transition between TI proficient and deficient states
+remains poorly understood. There are two theoretic models for the
+maintenance of TI states. In the elite model, TI activity is restricted
+to a predetermined subpopulation of cells. The alternative stochastic
+model suggests that any tumor cell has a finite chance of acquiring TI
+capacity through random fluctuations in cell physiology. To distinguish
+between these two models, we established culturing conditions capable of
+sustaining a single cell line in both low and high TI states. For both
+primary and long-term passaged glioblastoma lines, culturing under sphere
+forming conditions lead to increased in vivo tumorigenicity relative to
+serum based conditions. Further, cells cultured under sphere forming
+conditions exhibited increased expression of neural stem cell markers,
+including Nestin, Musashi, Olig2, and Sox2. Moreover, the ability of
+individual subclones to form xenografts closely correlated with their
+ability to grow under sphere forming conditions. In this context, the
+elite model predicts that only a subset of subclones (derived from a
+single line) cultured under serum conditions would possess high TI
+capacity and grow under sphere forming conditions. Moreover, individual
+cells derived from the same subclone would exhibit similar capacity for
+growth under sphere forming conditions. Surprisingly, single cells
+derived from a single glioblastoma subclone exhibited a wide range of
+growth capacity under sphere forming conditions, suggesting the TI state
+is in part driven by a stochastic process. On the other hand, only a
+subset of subclones from a single glioblastoma line displayed capacity
+for growth under sphere forming conditions, as predicted by the elite
+model. Transcriptome profiling of the different subclones revealed a gene
+signature associated with TI capacity. Analysis of this signature showed
+enrichment for genes regulated by c-Myc. Indeed, clones with increased TI
+capacity tend to harbor increased c-Myc expression. Additionally,
+over-expression of c-myc increased the TI capacity of glioblastoma cells
+in xenograft models and led to the formation of malignant brain tumor in
+an Ink4a/ARF null transgenic murine model. Finally, analysis of The
+Cancer Genome Atlas Project (TCGA) glioblastoma database revealed c-Myc
+over-expression in glioblastoma cells, particularly in the pro-neural and
+mesenchymal subtypes. Our results are most consistent with a threshold
+model in which TI states in glioblastomas are driven by expression levels
+of critical factors such as c-Myc.
+

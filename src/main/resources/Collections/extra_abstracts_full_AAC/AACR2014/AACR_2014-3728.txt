@@ -1,0 +1,41 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A discovery platform for allosteric modulators of c-Abl kinase
+function
+
+
+The c-Abl protein-tyrosine kinase regulates intracellular signaling
+pathways controlling cell growth, adhesion, and responses to genotoxic
+stress. The kinase activity of c-Abl is repressed by intramolecular
+interactions involving its non-catalytic SH3 and SH2 domains. The SH3
+domain interacts with a polyproline type II helix formed by the
+SH2-kinase linker, while the SH2 domain interacts with the C-lobe of
+kinase domain away from the active site. In addition, the myristoylated
+N-terminal cap region (Ncap) binds a hydrophobic pocket in the C-lobe of
+the kinase domain, clamping the SH3 and SH2 domains against the back of
+the kinase domain. Small molecules that allosterically regulate c-Abl
+kinase activity through its non-catalytic domains may represent selective
+probes of c-Abl function in diverse tumor types. In this study, we
+developed a chemical library screening assay designed to identify
+chemical modulators of c-Abl kinase activity that either disrupt or
+stabilize the regulatory interaction of the SH3 domain with the
+SH2-kinase linker. This fluorescence polarization (FP) assay is based on
+a recombinant purified protein consisting of the c-Abl Ncap, SH3 and SH2
+domains plus the linker (N32L protein) and a short fluorescein-labeled
+probe peptide that binds to the SH3 domain. In assay development
+experiments, we found that the probe peptide binds to the recombinant
+c-Abl N32L protein in vitro, producing a robust FP signal that can be
+competed with an excess of unlabeled peptide. The FP signal is not
+observed with control N32L proteins bearing either an inactivating
+mutation in the SH3 domain or enhanced SH3:linker interaction. The assay
+was optimized with respect to probe peptide sequence, probe and N32L
+protein concentrations, DMSO tolerance, and FP signal stability over
+time. Pilot library screens were then performed with the NCI Diversity
+Set III and an FDA-approved drug library (2800 compounds total). Seven
+compounds were identified that specifically reduced the FP signal by at
+least three standard deviations from the untreated controls. Secondary
+assays showed that one of these hit compounds enhances c-Abl kinase
+activity in vitro, suggesting that it disrupts regulation of kinase
+activity through the non-catalytic region. These results show that
+screening assays based on the non-catalytic domains of c-Abl can identify
+small molecule regulators of kinase function.
+

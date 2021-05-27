@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Dynamic visualization of cancer cell engraftment into immune
+compromised zebrafish
+
+
+Cell transplantation into immune compromised mice has transformed our
+understanding of cancer and is now the gold standard for assessing
+therapeutic responses in vivo. However, mouse models are expensive and
+engraftment is often difficult to visualize directly. To overcome these
+challenges, we have developed immune compromised zebrafish (ICZ) in the
+transparent casper background using genome editing techniques. We have
+successfully targeted genes required for immune cell function and are
+well known to cause immune deficiency in human and mice. To date, we have
+developed homozygous viable mutants for recombination-activating gene 2
+(rag2), DNA-dependent protein kinase (prkdc), janus kinase 3 (jak3),
+interleukin 2 receptor gamma (Il2rg), zeta-chain (TCR) associated protein
+kinase 70 (zap70), and forkhead box N1 (foxn1/nude). Gene expression
+analysis of marrow cells using RNAseq has identified novel transcript
+changes correlated with loss of specific cell types, and in conjunction
+with large-scale single cell transcriptional profiling, has identified
+specific cellular defects associated with T, B, and NK cell loss. For
+example, homozygous prkdc (SCID) mutant fish lack mature T and B cells,
+but have intact NK cell signaling. By contrast, il2rg-deficient zebrafish
+lack T and NK cells. Importantly, these ICZ models accurately
+recapitulate known human severe combined immune deficiencies and
+established mouse models that are commonly used for cell transplantation.
+Thus, it is not unexpected that a subset of zebrafish mutants have
+reduced immune cell function, permitting engraftment of normal
+hematopoietic and muscle satellite cells from allogeneic donors.
+Additionally, we have demonstrated robust and persistent engraftment of
+fluorescently labeled leukemia, rhabdomyosarcoma, neuroblastoma, and
+melanoma from a wide range of zebrafish strains. Because mutations have
+been created in optically-clear, casper-strain zebrafish and cancers are
+fluorescently labeled, we now have unprecedented access to directly
+visualize tumor cells at single cell resolution in live animals. To date,
+we have optimized our models to visualize neovascularization,
+intratumoral cell heterogeneity, clonal evolution and metastisis. The
+ability to transplant non-immune matched cell types will likely
+revolutionize the types and scale of cell transplantation experiments
+performed in the zebrafish and will likely permit engraftment of mouse
+and human cells into compound mutant ICZ models in the near future.
+

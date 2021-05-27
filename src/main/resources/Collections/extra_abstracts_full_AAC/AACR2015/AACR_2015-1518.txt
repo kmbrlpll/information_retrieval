@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Multiethnic triple negative breast cancer comparisons of gene
+expression shows enrichment of distinct pathways in ALDH1+ subpopulations
+compared to CD44+/CD24-/EpCAM+
+
+
+Triple negative breast cancers are a heterogeneous group with diverse,
+usually poorer survival outcomes and are more prevalent in individuals of
+African descent. Given the 8-12% higher mortality in breast cancers in
+individuals of African descent, we set out to identify differences in
+pathway enrichment in patients with TNBC of Caucasian, African American,
+and African (Ghanaian) ethnicity. Moreover, we analyzed subpopulations of
+cells previously found to exhibit stem-like characteristics of
+self-renewal, within each tumor in order delineate the heterogeneity of
+gene expression patterns also in different subpopulations of cells within
+tumors of patients of diverse ethnicities. Based on previous work, we
+hypothesized that there are distinct sub populations of rare cells, which
+exhibit distinct signaling pathway enrichment that may confer to TNBCs
+their highly metastatic and drug resistant characteristics. We developed
+PDX models from TNBC of 5 Ghanaian, 5 African American and 5 Caucasian
+patients. We collected bulk cells from the PDXs and used
+fluorescence-activated cell sorting (FACS) to select and collect ALDH+
+cells and CD24-CD44+EpCAM+ (CD44+) cells. We extracted RNA from the
+sorted cell populations and performed RNA-sequencing using the Illumina
+Next Generation Sequencing platform. Our results showed that the bulk,
+ALDH1+ and CD44+ populations within each tumor segregate closely
+together, and we noted no distinct ethnic separation when we performed
+the analyses either of the bulk or special subpopulations. Upon centering
+on the mean for each sample in each tumor, thereby abrogating differences
+between individual tumors, we observe a significant separation between
+the ALDH1+ and the CD44+/CD24- sub populations. In particular, the
+following pathways are most differentially enriched in these
+subpopulations. The numbers between parentheses indicate the numbers of
+genes significantly altered that contribute to each pathway.ALDH1+ : Wnt
+(10), MAPK (13), axon guidance (6), GnRH signaling (7), TGFbeta (9),
+endocytosis(5) CD44+/CD24-/EpCAM+: tRNA synthesis (5), N-glycan
+biosynthesis (7), RNA degradation (6) We are focusing our experiments on
+verifying whether the above pathways are indeed active in these
+subpopulations and we are exploring their biological significance with
+regards to tumor growth and metastases. Although we did not detect any
+specific clustering of tumors by ethnicity, our work suggests the
+presence of an ALDH1+ subpopulation of cells that exhibit characteristic
+enrichment of pathways distinct from those enriched in CD44+/CD24-/EpCAM+
+cells.
+

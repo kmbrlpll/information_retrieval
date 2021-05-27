@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Pharmacodynamic biomarkers for anti-TIGIT treatment and prevalence
+of TIGIT expression in multiple solid tumor types.
+
+
+TIGIT (T cell immunoreceptor with Ig ITIM domain) is a co-inhibitory
+receptor and its signaling axis inhibits T cell and Natural Killer (NK)
+cell activity in the healthy immune system. In tumors TIGIT is highly
+expressed on a subset of dysfunctional T and NK cells and of highly
+suppressive regulatory T cells (Treg). Loss of TIGIT signaling enhances
+NK cell activity, CD4+ T cell priming and CD8+ T cell effector functions,
+suggesting a role in anti-tumor immunity. We have developed an anti-TIGIT
+blocking antibody that shows potent antitumor efficacy in in multiple
+syngeneic mouse models, including CT26WT colon, B16F10 melanoma and 4T1
+breast cancer. Dose-dependent (12.5-0.1 mg/Kg) single agent efficacy was
+demonstrated in established tumors, and pharmacodynamic (PD) biomarkers
+in blood and in tumors were identified.
+
+Consistent with TIGIT’s role as a co-inhibitory receptor, anti-TIGIT
+promoted a dose-dependent increase in activation of CD8+ and CD4+ tumor
+infiltrating leukocytes (TIL) and NK cells, as shown by increased
+staining of IFN-γ and CD69 by flow cytometry, when compared to controls.
+Anti-TIGIT also increased CD4 and CD8 T cell frequency in the tumor,
+measured by immunohistochemistry (IHC). Furthermore, anti-TIGIT caused an
+increase in splenic NK cell cytotoxicity, which correlated with dose and
+efficacy.
+
+To identify gene expression biomarkers in tumor and in blood, we used
+microarray analysis, and found similar immune gene changes between the
+two tissues. As expected, anti-TIGIT increased the expression of genes
+associated with CD8+ T cells, CD4+ T cells, and NK cells. Markers
+indicative of cytotoxic activity and Th1 response were also induced by
+anti-TIGIT. The microarray data were validated by qRT-PCR and results
+were consistent with flow cytometry and cytotoxicity results, and
+underlie the mechanism of action of anti-TIGIT.
+
+We have developed an IHC assay to evaluate TIGIT expression patterns in
+tumor and the associated stroma and TILs. Using this assay, we profiled
+17 tumor types to evaluate patterns of TIGIT expression. Expression was
+high on immune cells in the stroma and on TILs in 8 tumor types, while it
+was generally low on tumor cells. TIGIT expression was also low on tumor
+cells in a panel of 27 PDX models. Consistent with the IHC results,
+analysis of 33 tumor types in the TCGA by RNA-Seq showed a good
+correlation of the expression levels of TIGIT and T cell markers,
+suggesting that TIGIT is mostly expressed on immune cells in tumors.
+
+In conclusion, we have identified PD biomarkers for anti-TIGIT in tumors
+and in surrogate tissues in syngeneic mouse models. Analysis of the
+biomarkers demonstrates activation of T cells and NK cells upon
+inhibition of TIGIT signaling. These biomarkers can be used in the clinic
+to demonstrate target engagement. In addition, we have profiled the
+expression of TIGIT in multiple solid tumor types and characterized
+prevalence of TIGIT-positive cells.
+
+

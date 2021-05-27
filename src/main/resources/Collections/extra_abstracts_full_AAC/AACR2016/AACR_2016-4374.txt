@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Activation mechanism of oncogenic C-helix shifting mutations in
+BRAF, EGFR, and HER2
+
+
+Kinase domain mutations are frequent drivers of many different types of
+cancer. While the effect of hotspot point mutations (such as BRAF V600E
+or EGFR L858R) is well described, the mechanism of deletion mutations,
+such as the recurrent EGFR exon 19 deletions is not fully understood. In
+this work, we have discovered and characterized analogous deletions in
+BRAF mutant patient samples of varying tumor types, with the highest
+frequency (15 patients) in pancreatic cancer representing 5% of KRAS
+wildtype patients in this data set. In addition, we have identified
+additional patients (3) with similar deletions in HER2 that have been
+previously reported at low frequency in breast cancer. The crystal
+structure of the most frequent BRAF deletion, molecular modeling of lower
+frequency BRAF deletions, and extensive molecular modeling in conjunction
+with molecular dynamic simulations of the most frequent EGFR deletion
+highlight the commonality of the mechanism of activation of this class of
+oncogenic alterations. These deletions truncate the loop between the 3
+strand and C-helix (3-C loop) of the kinase domain, forcing C into the
+active (in) conformation, and constitutively activating these kinases.
+Similar to BRAF V600E mutations, constitutive activity of these BRAF 3-C
+deletions is CRAF-independent and dimer-independent. Because these
+deletions genetically restrict the flexibility of this region of the
+kinase domain, they render these kinases resistant to inhibitors such as
+vemurafenib (for BRAF) or lapatinib (for EGFR and HER2) that bind in the
+C out conformation. Functional characterization of the full spectrum of
+deletion lengths explains the high prevalence of 5 amino acid deletions
+in BRAF, EGFR, and HER2 in various cancers, with deletions of this length
+resulting in the strongest activation of kinase activity likely due to
+the optimal positioning of C. This work exploits the selective power of
+oncogenic mutations to highlight a conserved mechanism of kinase
+activation and underscores the importance of conformation-specific kinase
+inhibitors to target mutationally activated kinases in cancer.
+

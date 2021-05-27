@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification of proteosome pathway and a novel serine threonine
+kinase DCLK3: Potential therapeutic targets for innately radiation
+resistant glioblastoma cells.
+
+
+INTRODUCTION Glioblastoma resistance and recurrence is attributed to the
+presence of innately Radiation Resistant (RR) cells present in the
+heterogeneous parent tumour. However, targeting these cells has been
+impossible due to inaccessibility of these cells.
+
+METHODOLOGY We therefore recapitulated clinical scenario of resistance in
+a cellular model developed from fresh primary GBM patient samples and
+cell lines. The model allowed us to capture 1) Parent cells 2) innately
+Radiation Resistant cells - less than 10% of the parent population and 3)
+Relapse (R) cells. To identify the targetable proteins governing the
+survival of RR cells, we performed iTRAQ based quantitative proteomic
+analysis on all the three populations from GBM cell line (SF 268).
+
+RESULTS The proteomic data analysis identified 34 proteins as
+differentially present in RR population of which 22 were upregulated and
+12 were downregulated. A GENE STRING analysis of all the differential
+proteins in RR population revealed putative interaction of a novel serine
+threonine kinase DCLK3 with 14-3-3 zeta. The increased expression of
+DCLK3 and 14-3-3 zeta was confirmed by western blot in RR cells of two
+GBM cell lines and 8 patient samples. Meta-analysis of 242 tumor samples
+from COSMIC database showed DCLK3 overexpression in 232 tumors.
+Furthermore, it harbours 8 missense deleterious mutations, 6 of which
+were in the kinase domain, indicating towards an important kinase
+function of this protein. We hypothesized that DCLK3 mediated interaction
+and phosphorylation of 14-3-3 zeta modulated 14-3-3 zeta functions
+facilitating RR cell survival. For this, first we wanted to see if DCLK3
+and 14-3-3 zeta can interact together. In silico docking of DCLK3 with
+14-3-3 zeta did show interaction of 14-3-3 zeta and the kinase domain of
+DCLK3 kinase. This interaction was confirmed by in vitro
+immunoprecipitation studies. Further studies are ongoing to understand
+the importance of these proteins and their interaction in GBM recurrence.
+Additionally, pathway analysis of differentially upregulated proteins in
+RR cells revealed deregulation of the proteins involved in
+Ubiquitin-Proteasome System. Indeed, proteasome activity assay showed
+increased proteosome activity in the RR population of GBM cell lines and
+Patient samples. Accordingly, Bortezomib, a proteosome inhibitor induced
+significant apoptosis in the RR population at a concentration
+significantly lower than that required for inducing apoptosis in the
+parent cells.
+
+SIGNIFICANCE In conclusion this is the first study to identify a proteome
+signature of innately radiation resistant cells of GBM and identify
+proteosome pathway and a novel serine-threonine kinase DCLK3 in RR cells
+as a potential therapeutic target to inhibit GBM radioresistance and
+recurrence.
+
+

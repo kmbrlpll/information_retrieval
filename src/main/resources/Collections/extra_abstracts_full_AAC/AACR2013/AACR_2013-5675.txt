@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Optimization of a Seneca Valley Virus (SVV) 3C protease substrate
+for virus-directed enzyme prodrug therapy.
+
+
+Lung cancer is the leading cause of death among cancer patients, killing
+more than prostate, breast, and colon cancers combined. Extensive stage
+small cell lung cancer (ES-SCLC) has a median survival time of less than
+12 months with current cytotoxic therapies. Therefore, new and more
+effective therapies are desperately needed. Recently, a novel cancer
+therapeutic has emerged using oncolytic viruses to selectively kill
+cancer cells.Seneca Valley Virus (SVV), a newly discovered picornavirus,
+was found to selectively infect cancers with neuroendocrine features,
+such as SCLC and pediatric brain tumors. Although its method of tropism
+is still unknown, SVV has been shown to be highly effective in the
+eradication of both solid tumors and pre-formed metastases in multiple in
+vivo models. SVV is being tested as a therapy in SCLC and pediatric brain
+tumors in clinical trials currently. Neutralizing antibodies are
+generated against the virus one to three weeks after initial treatment,
+yet the virus has been shown to persist intratumorally for at least a
+month after administration. To further increase the eradication of tumor
+cells by SVV infection, we are designing and studying a prodrug which
+will be activated selectively by the virus own protease.Once SVV infects
+a tumor cell, the viral genome is replicated, transcribed, and translated
+into a single polyprotein. The SVV 3C protease, one of the mature viral
+proteins which cleaves the viral polyprotein, is generated in large
+amounts within and around the infected tumor during the virus life cycle.
+Using fluorogenic FRET proteins separated by both endogenous and
+exogenous protease substrates, we have identified the optimal peptide
+substrate specific for the SVV 3C protease. We determined that two of the
+ten proposed endogenous 3C substrates were efficiently cleaved in vitro
+by a recombinant SVV 3C protease. Surprisingly, the fastest native
+substrate, L/VP4, did not contain the picornavirus consensus QGP motif.
+We substituted proline for the P2 asparagine in L/VP4, based on the
+hypothesis that more closely mimicking the consensus sequence could
+further augment efficiency. In fact, this new substrate, L/VP4.1,
+demonstrated a 9 fold increase of kcat/KM over the endogenous substrate,
+L/VP4. Truncation analysis of L/VP4.1 determined that although the P6
+amino acid is not essential for efficient cleavage, additional truncation
+significantly decreases or even abolishes proteolysis. This peptide
+substrate will be tested in cellular assays to characterize the kinetics
+of proteolysis during an SVV infection. The L/VP4.1 optimized substrate
+will be used as the basis for generating candidate peptide prodrugs for
+use in combination with SVV.
+

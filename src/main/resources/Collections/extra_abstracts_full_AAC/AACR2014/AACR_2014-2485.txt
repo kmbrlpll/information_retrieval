@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Secretome signature associated with TITF1/NKX2-1-negative
+non-small cell lung cancer
+
+
+Background: TITF1/NKX2-1 is a master transcription factor of peripheral
+airway cells and a known lineage-specific oncogene in lung cancer cells,
+whereas it also suppresses tumor progression and is associated with
+favorable prognosis of lung adenocarcinoma. In our previous study, a
+protein signature for TITF1 was found in plasmas of mouse models of lung
+adenocarcinoma, leading to the identification of concordant circulating
+protein signatures in human non-small cell lung cancer (NSCLC). Following
+study demonstrated one of TITF1 signature proteins, pro-SFTPB, as a
+predictive biomarker for NSCLC. To identify additional biomarkers which
+would complement the performance of pro-SFTPB, we studied secretome from
+forty NSCLC cell lines in terms of TITF1 expression.Materials and
+Methods: Forty NSCLC cell lines were cultured according to the standard
+SILAC protocol. The same batch of cells was used for analysis of whole
+cell extract and conditioned media. Samples were fractionated and
+subjected to mass spectrometric analysis. Gene expression data for the
+same set of NSCLC cell lines were obtained using the Illumina Human WG-6
+v3.0 Expression BeadChips.Results: NSCLC cell lines were divided into two
+groups by median of TITF1 gene expression (TITF1-positive and negative).
+In secretome analysis, overall 10,399 proteins were identified and
+semi-quantified with using total number of spectral counts.
+Interestingly, top abundant secretome proteins in TITF1-negative NSCLC
+cell lines contain many cytokine/chemokines (IL6, CXCL1, CXCL2 and CXCL5)
+and growth factors (CTGF, PDGFA, PDGFC, and VEGFC). Among top abundant
+secretome proteins, gene expression of SRGN was most significantly and
+inversely correlated with TITF1 gene expression. SRGN is a proteoglycan
+and physiologically associated with some proteases and cytokine secretion
+in hematopoietic cells. In addition recent studies have indicated that
+SRGN is also associated with aggressive phenotype in some cancers, thus
+considered as a promising biomarker candidate for TITF1-negative NSCLC.
+Then we determined whether SRGN would be directly regulated by TITF1.
+Suppression of TITF1 by siRNA or TNF alpha treatment increased SRGN
+expression, suggesting potential transcriptional regulation of SRGN by
+TITF1. Finally we studied functional roles of SRGN in TITF1-negative cell
+lines. Knockdown of SRGN by siRNA did not affect cell proliferation.
+However two chemokines, CXCL1 and CXCL5, which are abundant in secretome
+of TITF1-negative cell lines, were decreased by SRGN knockdown. In
+addition, macrophage migration was also decreased in the conditioned
+media of SRGN knockdown cells compared with control cells.Conclusion: Our
+findings suggest functional relevance of SRGN in tumor microenvironment
+and tumor aggressiveness in TITF1/NKX2-1-negative NSCLC. Validation study
+for plasma levels of CXCL1 and CXCL5 in NSCLC subjects is now on-going.
+

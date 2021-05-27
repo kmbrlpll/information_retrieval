@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: TRIB3 regulates cell cycle progression and programmed cell death
+in non-small cell lung cancer.
+
+
+Introduction: The pseudokinase Tribbles pseudokinase 3 (TRIB3) is known
+as a regulator in cellular responses to a variety of stresses such as
+glucose insufficiency and (ER) stress. TRIB3 has been described in some
+studies as a tumor suppressor due to its effect on inactivating PI3K/Akt
+pathway, but other studies suggest TRIB3 as a stimulator of tumor
+progression. In this study, we aimed to define the functions of TRIB3 in
+in non-small cell lung cancer.
+
+Methods: TRIB3 expression was altered using a lentiviral vector to
+overexpress TRIB3 in non-small cell lung cancer. A CRISPR-CAS9 construct
+with guiding sequence matching to TRIB3 gene was used to knock out its
+expression. Cell proliferation was evaluated using MTS and trypan blue
+assays. Boyden chamber assay was used to assess the cell migration while
+cell cycle phases were determined using flow cytometry. Heatmap analysis
+was performed to assess the changes in the expressions of genes in cell
+cycle progression and apoptosis.
+
+Results: TRIB3 overexpression led to reduced cell proliferation and
+migration. Moreover, it contributed to the increased of cell cycle arrest
+at G0/G1 phase. QPCR analyses of cell cycle related genes showed an
+upregulation of CDK inhibitors in (NCI-H358) TRIB3 overexpression cells,
+while depletion of TRIB3 led to the down-regulation of CDK inhibitors.
+TRIB3 overexpression led to downregulation of LC3B and other autophagy
+markers while increasing the expression of apoptotic genes.
+
+Conclusion: Increased TRIB3 expression in non-small cell lung cancer
+cells inhibited proliferation by blocking cell cycle progression through
+the upregulation of CDK inhibitors, led to activation of cell death
+through apoptosis. Our study reveals a significant role of TRIB3 in
+regulating cell cycle progression, apoptosis and autophagy.
+
+

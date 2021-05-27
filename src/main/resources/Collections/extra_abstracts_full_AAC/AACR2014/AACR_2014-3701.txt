@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: BRAF inhibitor (vemurafenib) resistance confers sensitivity to
+arginine deprivation in melanoma
+
+
+The BRAF inhibitor, vemurafenib, has been proven to be efficacious for
+the treatment of melanomas harboring (V600E) mutation. While the response
+rate is high, resistance is inevitable. The response to salvage therapy
+is poor. While the MEK inhibitor may be able to enhance anti-tumor
+efficacy of vemurafenib, but patients eventually relapse. Hence, there is
+an urgent need for second line treatment for melanoma patients who fail
+vemurafenib treatment.In this study, we discovered that BRAF
+inhibitor-resistant (BR) melanoma cells are exquisitely sensitive to
+arginine deprivation. Arginine deprivation was achieved using arginine
+degrading enzyme (pegylated arginine deiminase, ADI-PEG20, kindly
+provided by Polaris). ADI-PEG20 has been shown to induce autophagy in
+primary melanoma culture derived from patients whose tumors do not
+express argininosuccinate synthetase (ASS). Apoptosis does occur when
+these cells are exposed longer (5-7 days) and at higher doses. Inducible
+ASS expression upon arginine deprivation also impedes the antitumor
+effect of ADI-PEG20. We have found that BR cells from MEL-1220 (derived
+from patient with V600E and ASS (-)), A375, and A2058 cells (inducible
+ASS) cultured in the presence of vemurafenib at IC50 over 20 weeks had
+non-inducible ASS expression. MTT and Annexin V/PI analyses showed that
+ADI-PEG20 induced 3-6 fold increase in apoptosis and growth inhibition in
+BR cells compared to parental cells following 3-day incubation. These
+results were further confirmed by increased active (cleaved) form of
+caspase-3 as detected by western blotting after the addition of
+ADI-PEG20. The mouse xenograft model also verified that ADI-PEG20
+abolished tumor growth of A2058BR cells while only retardation of growth
+seen in A2058 cells (the reduction rate of tumor volume is 92% vs. 63%).
+We found that two vital autophagic proteins (Beclin1 and ATG5) decreased
+in resistant cells after treatment with ADI-PEG20, which might explain
+the inability to undergo autophagy upon arginine deprivation as a
+survival mechanism and re-directing the cells toward apoptosis. The other
+mechanism leading to non-inducible ASS expression is c-Myc degradation.
+It has been proven that c-myc is a positive regulator in ASS
+transcription, and c-Myc stability is governed by ubiquitination. By
+immunoprecipitation assay, we found that BR cells had lower levels of
+deubiquitinating enzyme USP28, and hence cannot prevent c-Myc from
+ubiquitin-dependent prosteasomal degradation. Therefore, our results
+demonstrated that BRAF inhibitor resistance suppresses c-Myc-mediated ASS
+transcription and in turn increases sensitivity to ADI-PEG20.In
+conclusion, ADI-PEG20 appears to be a good candidate for targeted therapy
+for melanoma patients who have tumor recurrence or disease progression
+after vemurafenib treatment. Supported by R01CA152197
+

@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Proteomic differentiation of pulmonary cancer with squamous cell
+histology.
+
+
+Histologic classification of pulmonary cancer with squamous cell
+histology is challenging as reliable immunohistochemical biomarkers are
+lacking. In particular smokers with head and neck cancer can develop both
+lung metastases and primary lung cancer. However, their differentiation
+is clinically important for therapy and risk stratification. Moreover,
+molecular targeted therapies for squamous cell carcinoma of the lung are
+largely lacking. To identify proteomic diagnostic biomarkers, signaling
+patterns and potential novel drug targets we characterized a broad panel
+of primary patient-derived formalin-fixed squamous cell carcinomas from
+lung and head and neck cancer by quantitative mass spectrometry
+
+Proteins were isolated from formalin-fixed paraffin-embedded (FFPE)
+patient-derived genetically characterized cancer tissues by using a
+“filter-aided sample preparation (FASP)” method. The resulting
+proteins were analyzed by a Super-SILAC-based mass spectrometry approach
+and data was analyzed using the software suites MaxQuant and Perseus to
+determine the tumor-type-specific protein expression and signaling
+patterns.
+
+In this study we quantitatively analyzed the protein-expression-profiles
+of 50 primary patient-derived non-small cell lung cancer specimens with
+squamous cell histology and 30 squamous cell carcinomas from the
+head-neck-region derived from patients that developed lung tumors with
+similar histology in the course of their disease. Using the mass
+spectrometric approach we were able to quantify in average around 2500
+proteins per sample. Unsupervised clustering- and principal component
+analyses revealed that the detected protein expression patterns show a
+strong correlation with the cellular origin of the analyzed carcinomas.
+Furthermore, secondary lesions with similar histological morphology in
+the lung in patients with squamous cell carcinoma of the head-neck-region
+could be classified as primary or metastatic cancer according to their
+protein expression profiles.
+
+Collectively, this study provides a large set of potential proteomic
+biomarkers that might be useful to improve diagnostics in the context of
+lung tumors with squamous cell histology in the future. In particular the
+differentiation of squamous cell carcinoma and head and neck
+cancer-derived metastases in the lung - that is still a challenge for
+diagnostics - will be improved by the presented biomarker panel.
+Moreover, the expression of kinases and activation patterns of signaling
+pathways discovered in our study are of interest regarding potential
+novel lung cancer therapies as overexpression or hyperactivation of
+certain kinases can potentially contribute to the malignant phenotype of
+lung cancer cells.
+
+

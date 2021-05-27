@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Dynamic contrast-enhanced ultrasound monitoring of tumor perfusion
+in a murine pancreatic tumor model to assess the effect of
+(ziv)-aflibercept and sorafenib, two anti-angiogenic drugs.
+
+
+Background: anti-angiogenic drug combinations provide a promising new
+therapeutic approach. Noninvasive monitoring techniques would help to
+choose drug based on patient response. The effects on tumor perfusion by
+combining Ziv-aflibercept (VEGF-Trap is being developed as a part of a
+collaboration between Sanofi and Regeneron Pharmaceuticals, Inc.) and
+Sorafenib (NexavarTM, Bayer Schering Pharma) was tested. Methods:
+pancreatic adenocarcinomas were induced by subcutaneous injection of 100
+l containing 1 x 106 MIA PaCa2 cells in the left flank of 50 female, 2-4
+week-old, nude mice (Naval Medical Research Institute [NMRI] Elevage
+Janvier, Le Genest-St-Isle, France). Dynamic contrast-enhanced ultrasound
+(DCE-US) was performed using an Aplio 50 ultrasound imaging system with a
+12-MHz probe (PLT 1202 S, TOSHIBA, Tokyo, Japan). DCE-US data sequences
+were acquired after intravenous injection of a 100 l bolus of Luminity
+contrast agent. Data were acquired from each mouse on days 15, 16 and 24
+after tumor cell injection. Treatment was started on day 15 just after
+DCE-US baseline scan. Fifty mice were included in this study: 15 controls
+received placebo, 11 mice were treated with sorafenib (60 mg/kg/day by
+gavage), 12 mice were treated with ziv-aflibercept (40 mg/kg2 twice a
+week by injection) and 12 mice were treated with the combination of the
+two anti-angiogenic drugs. Image sequences were recorded in raw data
+format and extracted with TOSHIBA software (CHIQ) allowing calculation of
+the linear time-intensity curve in regions of interest within the tumor.
+Using in-house software, the time-intensity bolus curve was fit to a
+lognormal model from which the Area Under the Curve (AUC) was calculated
+to assess microvascular perfusion in the tumor. Statistical analysis was
+performed using Wilcoxon Signed-Rank tests. Results: the AUC decreased
+significantly from day 15 to day 16 for the group receiving
+ziv-aflibercept (p=0,020) and for the group receiving the combination of
+ziv-aflibercept and sorafenib (p=0,005), while no significant differences
+were found for the placebo or sorafenib monotherapy groups. From day 15
+to day 24, the AUC obtained from the fit to the bolus curve decreased
+significantly for the group receiving the combination of ziv-aflibercept
+and sorafenib (p=0,031), while no significant differences were found for
+the three other groups. Conclusions: the DCE-US functional evaluation
+used in this study demonstrated that the association of the combination
+of ziv-aflibercept and sorafenib and ziv-aflibercept alone reduced
+functional perfusion in the tumor 24 hours after therapy onset. The long
+term (9 days) perfusion reduction was maintained for combined therapy but
+was not significant for placebo, ziv-aflibercept or sorafenib
+mono-therapy.
+

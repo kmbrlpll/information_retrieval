@@ -1,0 +1,33 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identifying long noncoding RNAs in breast cancer microarrays.
+
+
+Long noncoding RNAs (lncRNA) are powerful regulators of gene expression.
+The emerging role of long noncoding RNAs (lncRNA) is facilitated by the
+development of new technologies such as tilling array and next generation
+sequencing. In this study, our research focused on lncRNA's regulatory
+mechanisms in breast cancer.Methods: The Gencode v7 lncRNA and FANTOM5
+lncRNA datasets were integrated as our lncRNA transcriptome. The
+expression profile was from four publications of microarray analysis in
+breast cancer. First, we checked the Affymetrix probe dataset U133 plus
+with our lncRNA transcriptome. If a probe was on the same strand and 100%
+fell into the exonic region of one lncRNA transcript, then the probe
+could this lncRNA. We integrated all lncRNAs from our transcriptome which
+matched the probes from the supplementary data of four papers and
+selected those occurred more than once.Results: There were 23
+nonredundant lncRNA candidates identified. Among those 23 candidates,
+PTENP1 was identified. PTENP1 is the pseudogene of tumor suppressor gene
+PTEN. The 3UTR can bind the same miRNAs as the related protein-coding
+gene, PTEN. This suggests that pseudogenes may have a biological function
+as decoys, sequestering miRNAs and thereby affecting their regulation of
+expressed genes. Another candidate identified was ENST00000415285.1,
+which is the antisense gene of FGF14. FGF14 is a member of the fibroblast
+growth factor (FGF) family. FGF family members possess broad mitogenic
+and cell survival activities, and are involved in a variety of biological
+processes, including tumor growth and invasion.ENST00000415285.1 is
+up-regulated in breast cancer, while the expression level of FGF14 is
+unknown, so further research is necessary to predict the possible
+mechanism of regulation to FGF14.Conclusion: LncRNAs are identified in
+datasets for breast cancer that may elucidate further regulatory
+mechanisms driving the pathogenesis of breast cancer.
+

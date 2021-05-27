@@ -1,0 +1,30 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identification of FGFR3 as a potential therapeutic target gene for
+human clear cell ovarian cancer by global genomic analysis
+
+
+Clear cell ovarian cancer (CCOC) is the second most common subtype of
+ovarian cancer after serous ovarian cancer. CCOC is more resistant to
+standard chemotherapy and has a poorer prognosis than serous and
+endometrioid histotypes. We attempted to identify genes that are
+responsible for the aggressive behavior of CCOC and could be potential
+therapeutic targets using genomic and expression profilings. To identify
+gene amplification, genome-wide DNA copy number alterations were measured
+in 13 CCOC cell lines using high-resolution oligonucleotide array CGH
+(Agilent 105k Human Genome CGH Microarray). GISTIC analysis identified 16
+amplified regions containing 391 genes. After comparison to our database
+of differentially expressed genes between human CCOC specimens and normal
+ovarian surface epithelium specimen (Affymetrix U133 Plus 2.0
+microarrays), 45 of the amplified genes showed mRNA overexpression in
+CCOC specimens. Among the 45 genes, fibroblast growth factor receptor 3
+(FGFR3) was amplified in 9/13 CCOC cell lines and was overexpressed (12.9
+folds) in CCOC specimens. Analysis using PathwayStudio software
+identified FGFR3 mediated pathways for cell migration and cell
+proliferation. Knockdown of FGFR3 by transfection with FGFR3 specific
+shRNAs suppressed cell migration in KOC-7c and HAC-2 cells. Moreover,
+knockdown of FGFR3 also suppressed anchorage-dependent cell proliferation
+of KOC-7c and HAC-2 cells. The results from the present study therefore
+suggested that FGFR3 may promote metastasis and growth of cancer cells
+and may serve as a potential target gene for treatment of human clear
+cell ovarian cancer.
+

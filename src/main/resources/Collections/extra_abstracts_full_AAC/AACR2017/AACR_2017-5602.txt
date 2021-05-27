@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Regulation of immune checkpoint genes revealed by a melanoma tumor
+cancer genome atlas (TCGA) analysis - potential implications for
+improving immunotherapy.
+
+
+Introduction: The interface between T lymphocytes and cancer or antigen
+presenting cells (C/APCs) is multi-faceted and complex. This interface,
+now designated 'the immunological synapse', comprises of both
+co-inhibitory and co-stimulatory transmembrane protein pairs ('checkpoint
+proteins') that all serve to modulate the signal transmitted to the T
+lymphocyte, leading to either activation, anergy or exhaustion. Immune
+checkpoint inhibitors have anti-neoplastic activity in a wide range of
+malignancies, but not all cancers and not all patients with a given
+cancer respond to the currently available checkpoint inhibitors.
+Micro-RNAs (miRNAs) are short intracellular RNA molecules known to be
+master regulators of gene expression. Our aim was to study the
+associations between a miRNA that was previously implicated in cancer and
+immune checkpoint genes.
+
+Methods: Bioinformatic analyses of the expression of mRNAs and miRNAs
+from 451 samples was performed using the melanoma TCGA database.
+Correlation coefficients between the expression of mRNAs or mRNAs/miRNAs
+were calculated using the Spearman rho method. Survival analysis was
+performed using the Kaplan-Meier method. Potential 3'UTR binding sites of
+miRNAs were found using the web-based tool www.targetscan.org.
+
+Results: Of 22 mRNAs of checkpoint genes assessed, the expression of 19
+was highly positively correlated to each other. These mRNAs code for both
+co-inhibitory and co-stimulatory proteins at the T cell and the C/APC
+sides of the immunological synapse, suggesting that there is joint
+transcriptional regulation on the expression of these checkpoint genes.
+The expression of one specific miRNA was also significantly positively
+correlated with the expression of eight of these checkpoint mRNAs (PD1L,
+PD1L, B7.1, ICOS, BTLA, LAG3, CTLA4, TNFRSF9). The significant positive
+correlation between this miRNA and B7.1 and PD1L was verified in 18 cell
+lines in vitro, with rho correlation coefficients of 0.72 and 0.61,
+respectively (p=0.001 and 0.01, respectively). This possibly indicates a
+joint transcriptional regulation on this miRNA and the mRNAs.
+Bioinformatic analyses suggest that this miRNA may potentially target the
+3'UTR of 6 of these mRNAs (PD1, PD1L, B7.1, ICOS, BTLA, TNFRSF9). Data
+from 163 stage III melanoma patients with documented survival data show
+that a high expression level of this miRNA and a low expression level of
+either B7.1, B7.2, CD28, ICOS, ICOSL, OX40, OX40L, TNFRSF18 or PD1L was
+each significantly associated with poor prognosis relative to all other
+expression groups. Eight of these nine mRNAs are co-stimulatory.
+
+Conclusions: It is tempting to speculate that aberrant co-regulation of
+the miRNA-mRNAs, leading to high levels of the miRNA and low levels of
+co-stimulatory checkpoint genes is associated with worse outcome,
+potentially as a result of 'immune evasion' due to decreased
+co-stimulation at the synapse.
+
+

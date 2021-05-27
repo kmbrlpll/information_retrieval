@@ -1,0 +1,60 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The metabolic secretome of cachexia inducing pancreatic ductal
+adenocarcinoma.
+
+
+Cachexia is an underexplored and yet devastating consequence of cancer
+that is the cause of 20% of all cancer related deaths1. Cachexia inducing
+tumors cause a ‘wasting away’ of the body. The condition is
+associated with poor treatment outcome2, fatigue, and extremely poor
+quality of life2,3. Because of the multi-factorial characteristics of
+this condition, it has been difficult to understand the mechanisms
+driving the impact of the tumor on body organs and the sequence of events
+that leads to this lethal condition. Here we have used 1H MRS to
+characterize the metabolic profile of tumor interstitial fluid (TIF)
+obtained from noncachexia (Panc1) and cachexia inducing (Pa04C) tumors to
+further understand the impact of the deranged metabolism of
+cachexia-inducing tumors on the tumor metabolic secretome.
+
+The human pancreatic cancer cell line, Panc1, was obtained from ATCC. The
+human pancreatic cancer cell line, Pa04C, was provided by Dr. Maitra4.
+Six to 8 week old male SCID mice were inoculated in both the right and
+left flank with cancer cells (5×106, Panc1 N=2, Pa04C N=2). We created a
+collection chamber to collect TIF. The chamber was implanted together
+with small tumor pieces harvested from the subcutaneous flank tumors,
+into the subcutaneous flank space of SCID mice (Panc1 N=8 and Pa04C N=6)
+until the tumor encompassed the chamber (4-5 weeks). The tumor was then
+removed and the tumor tissue and TIF were collected. To obtain control
+TIF, an empty chamber was implanted in the subcutaneous flank space of
+healthy mice. Dual phase solvent extraction was performed on tumor
+tissue. The water phase was separated, freeze dried, reconstituted in D2O
+PBS for spectral acquisition. All 1H MR spectra were acquired on an
+Avance III 750 MHz (17.6T) Bruker NMR spectrometer equipped with a 5 mm
+broad band inverse (BBI) probe. Spectral acquisition, processing and
+quantification were performed using TOPSPIN 2.1 software.
+
+Notable differences between Pa04C compared to Panc1 TIF or normal
+interstitial fluid were a significant decrease of polyunsaturated fatty
+acids (PUFA) and lipids, and formate, pyruvate, glutamine, and glucose.
+Lactate, glutamate, succinate, glycine and acetone significantly
+increased in Pa04C TIF compared to Panc1 TIF or normal interstitial
+fluid. These differences in TIF cannot be explained solely by the
+differences in the tumor metabolic profile. Our data provide new insights
+into changes in the metabolic secretome with induction of cachexia that
+may shed new light on the cachexia cascade, and identify metabolic
+strategies to reverse the syndrome.
+
+References:
+
+(1) Argiles, J. M., et al. Nature reviews. Cancer 2014, 14, 754-762.
+
+(2) Ozola Zalite, I., et al. Pancreatology 2015, 15, 19-24.
+
+(3) Fearon, K. C., et al. HPB (Oxford) 2010, 12, 323-324.
+
+(4) Penet, M. F., et al. Clinical Cancer Research 2015, 21, 386-395.
+
+Acknowledgment: This work was supported by NIH R01 CA193365, NIH
+P50CA013175 and NIH P30CA06973.
+
+

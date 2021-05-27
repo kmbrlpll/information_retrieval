@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Ligand-directed and transcription-based molecular imaging and
+treatment of cancer
+
+
+Inflammatory breast cancer (IBC) is a rare and aggressive disease that
+progresses rapidly, often in a matter of weeks or months. In the United
+States, IBC accounts for 1 to 5 percent of all breast cancers diagnosed
+per year. Due to the lack of reliable and effective detection methods,
+IBC can be difficult to diagnose and thus, it is more likely to have
+metastasized by the time it is identified. Specific delivery of drugs
+and/or imaging agents to tumors takes advantage of dynamic molecular
+addresses on the surface of tumor cells and the tumor vasculature through
+inherent receptor/ligand interactions. By using a combinatorial phage
+display library in vivo (consisting of more than 1109unique CX(7/8)C
+amino acid residues) we identified an unique peptide sequence - WIFPWIQL
+- that mediates targeting to breast cancer metastasis. We further
+validated that the WIFPWIQL peptide specifically binds to the
+stress-response 78 kDa glucose-regulated protein (GRP78), expressed at
+the cell surface of IBC tumors. GRP78 expression is elevated with breast
+cancer progression, and correlates with metastatic disease in IBC. Using
+near infrared (NIR) fluorescent-tagged phage variants and/or antibody
+fragments, we demonstrate WIFPIWIQL specifically targets breast tumors in
+vivo. As a therapeutic approach, we coupled a toxic apoptotic moiety
+D(KLAKLAK)2 - to the WIFPWIQL peptide to create BMTP-78. BMTP-78 is
+cytotoxic to cultured IBC cells in vitro. Furthermore, BMTP-78 prevents
+the growth of IBC tumor xenografts, reduces tumor burden and mitigates
+metastasis in breast cancer pre-clinical models. Taking into
+consideration that phage particles can be adapted to transduce mammalian
+cells by targeting a specific receptor, we developed a unique phage-based
+targeted vector by combining genomic elements from adeno-associated virus
+(AAV) and an M13-derived phage (P) - termed AAVP. AAVP chimeras are able
+to deliver reporter genes that can be used to image, diagnose and treat
+pre-clinical breast cancer. In our initial in vivo assessment, AAVP
+particles harboring the tumor targeting peptide, WIFPWIQL, delivered the
+Herpes Simplex Virus thymidine kinase gene (HSVtk) driven by the CMV
+promoter, to EF43.fgf-4 mouse mammary tumors after a single intravenous
+injection. Positron emission tomography (PET) studies demonstrated
+WIFPIWIQL-targeted AAVP-HSKtk tumors could be non-invasively imaged. More
+importantly, transcriptional targeting of AAVP vectors was achieved by
+replacing the CMV promoter with a human GRP78 promoter that selectively
+controls transgene expression and allows molecular imaging of breast
+tumors in real time. Taken together, our data presents a GRP78
+receptor/ligand system that can be used to specifically image and target
+breast tumors. Our findings infer potential clinical applications of AAVP
+for targeted detection and eradication of IBC tumors via a GRP78-targeted
+mechanism in a disease for which no effective treatment currently exists.
+

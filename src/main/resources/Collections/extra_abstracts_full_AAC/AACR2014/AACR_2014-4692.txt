@@ -1,0 +1,56 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Relationships between somatic genomic alterations, tumor stage and
+progression-free survival in cervical cancer
+
+
+Background:Cervical cancer is a major public health problem worldwide. We
+have recently identified novel significantly recurrent somatic mutations
+in HLA-B, ERBB2 and MAPK1 in cervical squamous cell carcinomas. However,
+the significance of somatic mutations and copy number alterations for
+clinical phenotype in cervical cancer is not well understood. This study
+seeks to identify relationships between somatic genomic alterations,
+epidemiological exposures, tumor stage (FIGO) and progression-free
+survival in cervical carcinomas.Methods:Cervical tumors were surgically
+resected or biopsied from 100 Norwegian women with tumor stages I - IV.
+Patients were subsequently followed for 0-109 months (mean=25 months).
+Whole exome sequencing (WES) was performed on DNA extracted from tumors
+and corresponding normal blood. Somatic single nucleotide variants and
+small insertion/deletions were identified by the MuTect and Indelocator
+algorithms respectively. The ABSOLUTE algorithm was used to classify
+mutations as clonal or subclonal. Somatic copy number (CN) data were
+derived from WES data using the CapSeg algorithm, and significantly
+recurrent CN alterations were identified by GISTIC2.0 analysis
+(qBackground:Cervical cancer is a major public health problem worldwide.
+We have recently identified novel significantly recurrent somatic
+mutations in HLA-B, ERBB2 and MAPK1 in cervical squamous cell carcinomas.
+However, the significance of somatic mutations and copy number
+alterations for clinical phenotype in cervical cancer is not well
+understood. This study seeks to identify relationships between somatic
+genomic alterations, epidemiological exposures, tumor stage (FIGO) and
+progression-free survival in cervical carcinomas.Methods:Cervical tumors
+were surgically resected or biopsied from 100 Norwegian women with tumor
+stages I - IV. Patients were subsequently followed for 0-109 months
+(mean=25 months). Whole exome sequencing (WES) was performed on DNA
+extracted from tumors and corresponding normal blood. Somatic single
+nucleotide variants and small insertion/deletions were identified by the
+MuTect and Indelocator algorithms respectively. The ABSOLUTE algorithm
+was used to classify mutations as clonal or subclonal. Somatic copy
+number (CN) data were derived from WES data using the CapSeg algorithm,
+and significantly recurrent CN alterations were identified by GISTIC2.0
+analysis (q<0.25). HPV typing was done by the multiplex fluorescent f-HPV
+DNA and MassARRAY assays. The log-rank test was used to compare survival
+curves.Results:Non-localized tumors (FIGO stages II) were associated with
+focal amplification of the FGFR2 gene on chromosomal cytoband 10q26
+(GISTIC q = 0.18531). Indeed, 6 of 8 (75%) tumors with FGFR2
+amplification were non-localized, in contrast to 16 of 92 (17%) tumors
+without FGFR2 amplification (p = 0.001). In addition, patients with
+somatic ERBB2 mutations and/or amplifications (p = 0.04), somatic TP53
+mutations and/or deletions (p = 0.04), or infection with multiple HPV
+types (p = 0.02) had poorer prognosis (progression-free survival). We
+also observed a trend for higher frequency of subclonal driver events in
+patients with poorer survival (p = 0.07).Conclusion:We have identified
+novel relationships between somatic genomic alterations, tumor stage and
+patient prognosis in cervical cancer. Our data suggest a potential for
+exploring FGFR2 inhibition in non-localized cervical carcinomas with
+FGFR2 alterations in a clinical trial context.
+

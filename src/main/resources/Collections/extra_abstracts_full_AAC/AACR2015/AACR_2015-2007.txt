@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Phosphoproteomics scaled-down to tumor biopsies for future TKI
+treatment selection
+
+
+IntroductionMass spectrometry-based phosphoproteomics of cancer cell- and
+tissue lysates provides a unique approach to evaluate the cell signaling
+network, revealing information on aberrantly activated signaling pathways
+and potential drug targets. To enable phosphoproteomics-based treatment
+selection for improved efficacy of tyrosine kinase inhibitors (TKIs) in
+patients with advanced solid tumors, needle biopsies should provide
+reproducible profiles, representative of the individual tumor
+phospho-proteome. We have assessed reproducibility and intra- and
+inter-tumor heterogeneity by downscaling an antibody-based pTyr
+phosphopeptide enrichment protocol to 1 mg protein input using colorectal
+cancer (CRC) cell line and tissue as model, including needle biopsies
+from patients.MethodsPhosphopeptide immunoprecipitation (IP) using
+P-Tyr-1000 anti-phosphotyrosine-agarose beads (PTMScan, CST) was
+performed using triplicates of 1, 5 and 10 mg protein from HCT116 CRC
+cell line lysate and 1, 5 and 10 mg protein from 3 patient-derived
+tumors. In addition, multiple 14-gauge core needle biopsies were obtained
+from 7 CRC resection specimen for analysis at 1 mg protein input in
+biopsies with 50% tumor cells. After measurement by LC-MS/MS, database
+searching was performed for phosphopeptide identification (ID),
+ion-intensity-based quantification and phosphosite
+localization.ResultsPhosphoproteomics of the cell line triplicates of 1,
+5 and 10 mg protein input yielded a total of 474, 574 and 689 unique
+phosphopeptides, and a median number of 362 (range: 272-393), 443
+(237-470) and 526 (496-653) per input level, respectively. The
+ID-reproducibility was 43% for 1 mg and 60% for 10 mg protein replicates.
+In tissue, a median total of 909 (481-928) unique phosphopeptides were
+identified per tumor, with 361 (175-536), 629 (284-796) and 896 (398-909)
+phosphopeptides for the 1, 5 and 10 mg levels, respectively. For the 2-4
+needle biopsies that were analyzed per tumor, a median of 208
+phosphopeptides (range 140-279) were identified at a median ID
+reproducibility of 58% for duplo and 39% for triplo biopsies.
+Unsupervised clustering based on phosphopeptide intensities showed that
+multiple tumor biopsies from individual patients cluster
+together.ConclusionThis scale-down study demonstrates the feasibility of
+label-free pTyr-phosphoproteomics at the biopsy level. Unsupervised
+analysis shows that tumor needle biopsies from individual patients
+cluster together indicating that this analysis can identify patient
+specific phosphoproteomic profiles. Therefore, down-scaled pTyr-based
+phosphoproteomics of patient tumor biopsies may enable future
+phosphoproteomics-based TKI treatment selection.
+

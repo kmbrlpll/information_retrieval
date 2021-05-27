@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The prognostic relevance of inflammatory cytokines and growth
+factors elaborated from adipose-derived stem cells in breast cancer.
+
+
+Introduction: Given the high rates of obesity and aggressive breast
+cancers, it is paramount to understand how adipose tissue supports the
+tumor microenvironment. We previously found that adipose-derived stem
+cells cultured with triple-negative tumor cells enhanced the expression
+of numerous pro-inflammatory cytokines. This finding is significant as it
+could explain, in part, how obesity contributes to worse outcomes in
+breast cancer. To further expand this study, we probed the Cancer Genome
+Atlas (TCGA) breast invasive carcinoma dataset for the expression
+profiles of the inflammatory cytokines we found to be highly up-regulated
+in vitro. We predicted TCGA data would demonstrate a correlation between
+cytokine overexpression and worse clinical scenarios.
+
+Methods: Cytokines and growth factors were measured in the media of
+adipose stromal cells and MDA-MB-231 tumor cells via membrane-based
+antibody array. To validate clinical significance, we compared each
+cytokine’s mRNA expression profile, available from primary tumor
+samples of TCGA breast invasive carcinoma dataset (n = 1,005), to indices
+of tumor progression and survival status. For survival analysis, samples
+were dichotomized as high or low expression by individual cytokines (z
+score ≥ 1.5). Cytokine and growth factor expression was further
+stratified according to molecular subtype of breast cancer (luminal A,
+luminal B, HER2, triple negative) and receptor status. Ingenuity pathway
+analysis (IPA) was performed to identify candidate markers related to
+obesity or inflammation.
+
+Results: High levels of FGF7 and CCL5 protein were found in the
+conditioned media of tumor and adipose stem cell co-cultures and together
+they showed a significant impact on breast cancer survival within TCGA
+data. FGF7, CCL5, together with CCL2, IL6, and IL6R were further analyzed
+for expression across molecular subtypes of breast cancer. IL6R, CCL5,
+and CCL2 expression varied significantly between breast cancer subtypes,
+with mean expression highest in triple-negative tumors. After
+dichotomizing the samples for estrogen receptor status, IL6R, CCL5, and
+CCL2 showed significantly higher mean expression in ER negative tumors.
+Greater expression of these cytokines in tumors was correlated with
+reduced patient survival in triple-negative tumors and ER negative
+subtypes. IPA analysis indicated IL6, IL6R, CCL5, and CCL2, but not FGF7,
+cooperate through inflammatory pathways to promote tumor progression.
+
+Conclusions: Genomic data analysis supports in vitro findings that IL6R,
+CCL5, and CCL2 overexpression, either independently or synergistically,
+predict a worse prognosis in breast cancer. For adipose-driven, hormone
+receptor negative breast tumors, these cytokines and growth factors could
+serve as novel therapeutic targets. (Supported by NIH P20GM103434 and
+NIGMS U54GM104942)
+
+

@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Mutation and function of PIK3CA and HRAS in human oral squamous
+cell carcinoma cells
+
+
+Whole-exome sequencing studies showed the mutational landscape of head
+and neck squamous cell carcinoma including oral cavity. Recent several
+reports also demonstrated the somatic mutations of oncogenes and tumor
+suppressor genes in oral squamous cell carcinoma (OSCC), and identified
+the mutations of HRAS, BRAF, FGFR3, SMAD4, KIT, PTEN, NOTCH1, AKT1,
+CTNNB1, and PTPN11 to predict disease-free survival of OSCC patients. In
+this study, we have attempted to elucidate somatic mutations of these
+genes and their functions in human OSCC cells. We isolated and cultured
+tumor cells from the resected primary tumor (KT-T), metastatic lymph node
+(KT-N), and cancerous pleural effusion (KT-M) in the same patient with
+OSCC. KT-T cells showed epithelial-like shape, whereas both KT-N and KT-M
+cells indicated the morphological changes to fibroblast-like spindle
+shape. Genomic DNA was extracted from these cells, and then we performed
+the mutational analysis by ultra-deep targeted sequencing using Haloplex
+Cancer Research Panel. All types of KT cells had the mutation of TP53
+(R141P, C135S, and E182*) and PIK3CA (H1047R), and an additional active
+mutation of HRAS (Q61R) was detected in only metastatic KT-N and KT-M
+cells. Subsequently, we transfected all KT cells with synthetic small
+interfering RNA (siRNA) specific for PIK3CA (siPIK3CA) and/or HRAS
+(siHRAS) at the concentration of 10 nM complexed with Lipofectamine
+RNAiMAX. We confirmed the knockdown effects of these siRNAs in KT cells
+by quantitative RT-PCR. After transfection of these siRNAs for 72 hours,
+the growth of KT cells was evaluated by WST-8 assay. Knockdown of PIK3CA
+or HRAS expression significantly suppressed the growth of KT-T cells
+only, whereas double knockdown of PIK3CA and HRAS inhibited the growth of
+KT-N and KT-M cells as well. Next, we investigated the function of mutant
+HRAS (Q61R) in KT-T cells. Overexpression of mutant HRAS did not change
+the growth rate and morphology of KT-T cells. Finally, we examined the
+effects of BEZ-235 (dual PI3K/mTOR inhibitor) and trametinib (MEK1/2
+inhibitor) on the growth of KT-T, KT-N, and KT-M cells. BEZ-235 (100 nM)
+almost completely suppressed the growth of these cells. Trametinib (2 M)
+also reduced the growth rate by 16.9% in KT-T, 13.5% in KT-N, and 45.7%
+in KT-M cells. Furthermore, BEZ-235 combined with trametinib inhibited
+the cell growth more effectively even at low concentrations. These
+results suggest that constitutive active mutations of HRAS and PIK3CA
+support the growth of human OSCC cells and these signaling pathways may
+be useful therapeutic targets for the patients with OSCC.
+

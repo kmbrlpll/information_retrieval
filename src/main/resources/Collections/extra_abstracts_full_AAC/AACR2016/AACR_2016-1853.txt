@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Single-cell multiplexed profiling of protein-level changes induced
+by EGFR inhibitor gefitinib
+
+
+Single-cell molecular analysis has become increasingly important in
+biomedical research, especially in the field of cancer research, where
+cell heterogeneity is a characteristic feature. We developed a
+multiplexed single-cell protein detection assay for the C1 system that
+can isolate and process 96 individual cells in parallel. The assay uses
+oligonucleotide-conjugated antibodies, which produce a detectable DNA
+amplicon only when they bind to the target protein. The resulting DNA
+amplicons are quantified by qPCR on the Biomark HD system. Data are
+analyzed using the Singular Analysis Toolset. A total of 50 antibody
+binders were developed for this assay to target proteins related to
+apoptosis, cell cycle, cell proliferation, tumor suppressors, biomarkers,
+stem cells, growth factors and proteins associated with specific cancers,
+such as breast and prostate cancers. The assay can be performed in a
+48-plex format, which yields over 4,600 datapoints in two days. Assay
+sensitivity and specificity were assessed using recombinant proteins and
+various cell lysates. To demonstrate the usefulness of this assay, we
+used it to profile the protein level changes in A431 cells treated with
+epidermal growth factor receptor (EGFR) inhibitor gefitinib. EGFR is a
+member of ErbB family of type I tyrosine kinases, whose overexpression
+and mutations are involved in a variety of cancers. While much effort has
+been made to investigate the consequences of EGFR activation or
+inhibition, hardly any information is available regarding how EGFR
+regulation changes protein expression in single cells. Using a
+multiplexed protein assay, we discovered some interesting co-expression
+patterns of proteins in single cells. We also demonstrated that TNFRSF10B
+was upregulated, while MET, GATA3, BRCA1, CCNB1, Ki-67 and CCNA2 were
+downregulated by gefitinib treatment. Notably, the reduction of the cell
+cycle-related proteins CCNB1 and CCNA2 and the cell proliferation marker
+Ki-67 was consistent with the inhibited cell growth by gefitinib. In
+addition, we measured mRNA expression to investigate the association
+between protein and mRNA levels in single cells. Single-cell
+analysisdetermining protein changes and analyzing the correlation between
+different proteins at the single-cell levelyields valuable information
+that is not achievable using bulk-cell analysis.
+

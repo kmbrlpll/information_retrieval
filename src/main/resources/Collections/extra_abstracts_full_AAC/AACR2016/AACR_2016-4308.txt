@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Multiplicative interaction between HIV infection status and FIB-4
+in prediction of hepatocellular carcinoma risk
+
+
+Purpose: FIB-4 is an established marker of liver fibrosis and cirrhosis,
+calculated from platelet count, alanine transaminase, aspartate
+transaminase, and age. We previously found baseline FIB-4 to be strongly
+associated with hepatocellular carcinoma (HCC) risk among HIV-infected
+(HIV+) patients in the US; a similar finding was reported among persons
+who consume alcohol or are chronic hepatitis B virus (HBV) carriers in
+South Korea. Longitudinal associations between FIB-4 and HCC risk have
+not yet been explored. We aimed to expand our prior investigation by
+including uninfected patients, using time-updated FIB-4, and testing for
+multiplicative interaction between HIV status and FIB-4 in the prediction
+of HCC risk. We hypothesized that the relationship between FIB-4 and HCC
+risk would differ by HIV status.Methods: We tested this hypothesis in the
+Veterans Aging Cohort Study, an open cohort that enrolls HIV+ veterans
+when they begin HIV care in the Veterans Health Administration and
+matches two uninfected patients by age, sex, race/ethnicity, and clinical
+site. We used proportional hazards regression models with time-varying
+covariates to calculate hazard ratios (HR) and 95% confidence intervals
+(CI) for FIB-4, adjusted for HCC risk factors (age, sex, race, hepatitis
+C virus (HCV) infection, HBV infection, smoking, alcohol, BMI, and
+diabetes). We used the counting process to create time-updated FIB-4
+intervals and examined one-, three-, and five-year lagged FIB-4. We
+identified incident HCC cases from the VA Central Cancer Registry and
+determined hepatitis C virus and hepatitis B virus status from laboratory
+results. We defined low (3.25) as previously established.Results: Between
+2000 and 2012, among 37,158 HIV+ subjects, 202 developed HCC. Among
+78,339 uninfected subjects, 207 developed HCC. There was a significant
+multiplicative interaction between HIV status and one-year lagged FIB-4
+(interaction p = 0.0015). High FIB-4 was a stronger predictor of HCC in
+the uninfected than in HIV+. Among uninfected, the adjusted HR was 6.9
+(95% CI: 3.4, 12.5) for intermediate FIB-4 and 40.0 (95% CI: 22.3, 71.8)
+for high FIB-4 compared to uninfected with low FIB-4. Among HIV+, with
+the same reference group (uninfected with low FIB-4), the adjusted HR was
+2.1 (95% CI: 1.0, 4.4) for low FIB-4, 6.4 (95% CI: 3.5, 11.7) for
+intermediate FIB-4, and 23.7 (95% CI: 13.1, 42.9) for high FIB-4. There
+was no interaction between FIB-4 and HCV status (p = 0.92). Results were
+qualitatively similar using a three- or five-year lag.Conclusions:
+Calculated from routine, non-invasive laboratory tests, FIB-4 is a
+strong, independent HCC risk factor in both HIV+ and uninfected subjects
+after adjustment for other HCC risk factors. FiB-4 appears to be a
+stronger risk factor in uninfected than in HIV+.
+

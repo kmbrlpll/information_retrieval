@@ -1,0 +1,102 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A molecular docking strategy for identifying fragment inhibitors
+of indoleamine 2,3-dioxygenase 1 (IDO1)
+
+
+As part of our studies to identify novel inhibitors for the
+immunosuppressive enzyme indoleamine 2,3-dioxygenase 1 (IDO1) for
+restoring tumor immunity, we investigated the ability of the enzyme's
+x-ray crystal structure to predict active molecules when used in
+molecular docking based virtual screening of fragment libraries.The 352
+compound Zenobia Therapeutics fragment library was screened by
+differential scanning fluorimetry and 74 compounds were identified that
+altered the thermal stability of the protein. Of these, biochemical
+analysis showed that only 14 inhibited the enzyme activity by >50% at 1
+mM, and hydrazine containing fragments were the most potent inhibitors of
+recombinant human IDO1 (rhIDO1), with the best being a benzothiazole
+compound retrieving an IC50 of 8 M. We recently showed that
+phenylhydrazine is a more potent inhibitor (IC50 0.3 M), which provided a
+dataset for testing various docking strategies to discover fragment
+inhibitors.The fragment library was docked into the IDO1 active site (PDB
+code 2D0T) using GOLD driven by the scoring functions ChemPLP, Goldscore,
+ASP or Chemscore. The three top scoring poses for each compound were kept
+then rescored by each scoring function. The combination of docking by
+Goldscore and rescoring by Chemscore to identify the top scoring pose
+gave the best outcome, an 8.3 fold enrichment of active compounds within
+the top 5% of the ranked library compared to random selection.Based on
+this docking and scoring strategy we performed a virtual screening
+campaign on a 14,000 compound library containing commercially available
+phenylhydrazine derivatives. Our characterization of phenylhydrazine
+binding indicated that the hydrazine moiety interacts with the heme iron.
+Based on this, a set of compounds was selected from the top 30% of poses
+kept from the docked library for biochemical testing that had predicted
+hydrazine to heme iron interactions. Of 21 compounds chosen, 10 were
+tested and 9 inhibited IDO1 with IC50 of As part of our studies to
+identify novel inhibitors for the immunosuppressive enzyme indoleamine
+2,3-dioxygenase 1 (IDO1) for restoring tumor immunity, we investigated
+the ability of the enzyme's x-ray crystal structure to predict active
+molecules when used in molecular docking based virtual screening of
+fragment libraries.The 352 compound Zenobia Therapeutics fragment library
+was screened by differential scanning fluorimetry and 74 compounds were
+identified that altered the thermal stability of the protein. Of these,
+biochemical analysis showed that only 14 inhibited the enzyme activity by
+>50% at 1 mM, and hydrazine containing fragments were the most potent
+inhibitors of recombinant human IDO1 (rhIDO1), with the best being a
+benzothiazole compound retrieving an IC50 of 8 M. We recently showed that
+phenylhydrazine is a more potent inhibitor (IC50 0.3 M), which provided a
+dataset for testing various docking strategies to discover fragment
+inhibitors.The fragment library was docked into the IDO1 active site (PDB
+code 2D0T) using GOLD driven by the scoring functions ChemPLP, Goldscore,
+ASP or Chemscore. The three top scoring poses for each compound were kept
+then rescored by each scoring function. The combination of docking by
+Goldscore and rescoring by Chemscore to identify the top scoring pose
+gave the best outcome, an 8.3 fold enrichment of active compounds within
+the top 5% of the ranked library compared to random selection.Based on
+this docking and scoring strategy we performed a virtual screening
+campaign on a 14,000 compound library containing commercially available
+phenylhydrazine derivatives. Our characterization of phenylhydrazine
+binding indicated that the hydrazine moiety interacts with the heme iron.
+Based on this, a set of compounds was selected from the top 30% of poses
+kept from the docked library for biochemical testing that had predicted
+hydrazine to heme iron interactions. Of 21 compounds chosen, 10 were
+tested and 9 inhibited IDO1 with IC50 of < 10 M. Also, compounds
+predicted to make a hydrogen bond acceptor to heme iron interaction were
+selected and an additional 9 compounds chosen of which 6 were tested and
+only 1 inhibited rhIDO1 with IC50 of As part of our studies to identify
+novel inhibitors for the immunosuppressive enzyme indoleamine
+2,3-dioxygenase 1 (IDO1) for restoring tumor immunity, we investigated
+the ability of the enzyme's x-ray crystal structure to predict active
+molecules when used in molecular docking based virtual screening of
+fragment libraries.The 352 compound Zenobia Therapeutics fragment library
+was screened by differential scanning fluorimetry and 74 compounds were
+identified that altered the thermal stability of the protein. Of these,
+biochemical analysis showed that only 14 inhibited the enzyme activity by
+>50% at 1 mM, and hydrazine containing fragments were the most potent
+inhibitors of recombinant human IDO1 (rhIDO1), with the best being a
+benzothiazole compound retrieving an IC50 of 8 M. We recently showed that
+phenylhydrazine is a more potent inhibitor (IC50 0.3 M), which provided a
+dataset for testing various docking strategies to discover fragment
+inhibitors.The fragment library was docked into the IDO1 active site (PDB
+code 2D0T) using GOLD driven by the scoring functions ChemPLP, Goldscore,
+ASP or Chemscore. The three top scoring poses for each compound were kept
+then rescored by each scoring function. The combination of docking by
+Goldscore and rescoring by Chemscore to identify the top scoring pose
+gave the best outcome, an 8.3 fold enrichment of active compounds within
+the top 5% of the ranked library compared to random selection.Based on
+this docking and scoring strategy we performed a virtual screening
+campaign on a 14,000 compound library containing commercially available
+phenylhydrazine derivatives. Our characterization of phenylhydrazine
+binding indicated that the hydrazine moiety interacts with the heme iron.
+Based on this, a set of compounds was selected from the top 30% of poses
+kept from the docked library for biochemical testing that had predicted
+hydrazine to heme iron interactions. Of 21 compounds chosen, 10 were
+tested and 9 inhibited IDO1 with IC50 of < 10 M. Also, compounds
+predicted to make a hydrogen bond acceptor to heme iron interaction were
+selected and an additional 9 compounds chosen of which 6 were tested and
+only 1 inhibited rhIDO1 with IC50 of < 10 M. For these latter ones the
+hydrazine was not predicted to interact with the heme iron.This study
+indicates that the rhIDO1 structure would be useful for discovering
+inhibitors in a diverse fragment library, and an additional hydrazine to
+heme iron binding descriptor is useful for finding actives in a library
+of compounds containing the phenylhydrazine core.
+

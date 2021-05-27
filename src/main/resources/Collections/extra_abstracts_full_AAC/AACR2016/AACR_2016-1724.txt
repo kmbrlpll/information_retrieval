@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Pancreatic cancer stem cell metastasis and mitochondrial
+respiration is dependent on the the ISG15-mediated ubiquitin-like
+modification process known as ISGylation
+
+
+We recently discovered that CSCs of distinct solid tumors (e.g.
+pancreatic, colon, and liver) contain intracellular vesicles coated in
+the ATP-dependent transporter ABCG2, which act as a sink for the
+accumulation of riboflavin (vitamin B2). Using autofluorescence and other
+CSC markers, such as CD133, we have begun to dissect CSCs at the genetic
+and protein level. Using RNAseq to transcriptionally distinguish CSCs
+from non-CSCs, we observed that pancreatic CSCs of different primary PDAC
+tumors exhibit a transcriptional gene activation signature belonging to
+the Type I interferon (IFN) signaling pathway. In particular, CSCs
+up-regulate the interferon-stimulated gene 15, a 165 amino acid (17kDa)
+protein that is induced by Type I IFN treatment and functions to ISGylate
+proteins, a ubiquitin-like modification process whereby ISG15 can be
+covalently linked to cytoplasmic and nuclear proteins. We have discovered
+that CSCs not only upregulate the expression of monomeric ISG15, but
+numerous proteins within CSCs are ISGylated, the level of ISGylation
+correlates with their metastatic capacity and knockdown of ISG15 ablates
+pancreatic CSCs functions, such as self-renewal, migration and invasion
+in vivo and mitochondrial respiration. Thus, our data indicate that the
+ISGylayion pathway is active in CSCs and plays an important role in the
+stem-like properties of these cells. We have also elucidated the
+mechanism underlying the differential regulation of ISG15 in CSCs versus
+non-CSCs. Specifically, using over expression lentiviral vector systems
+and pharmacological inhibitors (i.e. BRD4 inhibitor JQ-1), we show that
+MYC controls the expression of miR22, a micro-RNA that targets, among
+others transcripts, a number of Interferon Regulatory Factors (IRFs) that
+are essential for intracellular IFN signaling, including ISG15
+expression. CSCs express low levels of MYC and miR-22, relieving the
+inhibitory block on IRFs and subsequent ISG15 signaling. As expected,
+over expression of MYC increases miR-22 levels and blocks IRF-mediated
+ISG15 expression. While the intricacies of these complex and distinct
+pathways still need to be unraveled at the CSC level, our data suggest
+that MYC may be a key universal player in these pathways, and targeting
+ISG15 in CSCs may represent a unique approach to altering the biology of
+CSCs.
+

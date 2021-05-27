@@ -1,0 +1,37 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Application of tyramide signal amplification technology to high
+content analysis of cellular kinase translocation assays
+
+
+Deregulation of cellular kinase signaling pathways plays a key role in
+the ability of cancer cells to sustain uncontrolled proliferation, resist
+apoptosis, and undergo metastasis. The activation of kinase transduction
+pathways commonly involves the translocation of various molecular
+components of the pathway from one subcellular compartment to another.
+For example, growth factor stimulation of cells activates signaling
+pathways that are regulated by the level of phosphorylation of protein
+kinases such as protein kinase C (PKC) and protein kinase B (PKB/Akt);
+PKC and Akt are first recruited from the cytosol to the cell membrane
+where the phosphorylation event occurs. High Content Analysis (HCA)
+assays have become important tools in screening for potential new drugs
+to modulate aberrant signaling pathways. Confocal imaging provides the
+highest degree of spatial resolution, and can also yield lower background
+signals than wide-field imaging. The downside of confocal imaging is that
+it requires longer signal acquisition times, and it may be difficult to
+detect targets present in low abundance. The longer acquisition time can
+also result in decreased throughput when HCA is used as the detection
+mode for high throughput screening. Tyramide signal amplification (TSA)
+is an enzyme-based technology that has previous been used to enhance
+signal sensitivity in immunochemical staining procedures. We have applied
+TSA technology to the HCA of cellular kinase translocation assays using
+the Operetta High Content Imaging System in confocal fluorescence mode.
+HeLa cells were treated with compounds that induced kinase cytosol to
+plasma membrane translocation. Kinase localization was measured using a
+texture-based image analysis algorithm. We compared the signal intensity
+with and without TSA amplification. We will present data showing that TSA
+enhanced the signal intensity by at least an order of magnitude without a
+loss of resolution. As a result, the detection antibody can be reduced
+5-fold, and the exposure time reduced 10-fold. In conclusion, TSA
+amplification of HCA kinase translocation assays can significantly
+increase sample throughput when screening compound libraries.
+

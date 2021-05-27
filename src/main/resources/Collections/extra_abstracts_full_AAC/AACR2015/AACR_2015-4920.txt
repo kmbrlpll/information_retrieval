@@ -1,0 +1,41 @@
+Meeting: 2015 AACR Annual Meeting
+Title: The detection of circulating tumor DNA using Quantstudio 3D
+digital PCR
+
+
+Purpose: The purpose of this study is to employ the Quantstudio 3D (Q3D)
+system to detect circulating tumor DNA in cancer patients
+plasma.Background: Circulating tumor DNA (ctDNA) as a non-invasive
+biomarker plays roles in monitoring solid tumor progression, metastasis,
+and therapeutic effects. The identification of ctDNA depends on mutant
+determination. The digital PCR technology is a powerful tool to identify
+ctDNA. The Q3D platform is a relatively new digital PCR systemwhcih has
+not been extensively tested in the detection of ctDNA. In this study, we
+tested the capacity of Q3D in detecting ctDNA.Methods: Genomic DNA was
+extracted from tumor tissue of patients. Variants were identified in
+tumor tissue DNA by Illumina's TruSeq Amplicon Cancer Panel. To detect
+the circulating tumor DNA, DNA was extracted from the plasma of the
+patient with known variants identified by targeted-sequencing. The
+circulating DNA was isolated from 400l of plasma from 12 patients using
+QIAamp DNA Blood kit. The DNA concentration was measured using the Qubit
+2.0. The quality and size of the circulating DNA was determined using the
+Agilent 2100. The circulating DNA size was approximately 170-180
+nucleotides in length, as reported in literatures. The variant
+determination by Q3D was tested with custom TagMan SNP Genotyping Assays.
+The absolute copy number of variant was determined with QuantStudio 3D
+AnalysisSuite Software.Results: We first tested several assays with
+known-variant tumor tissue DNA samples in Q3D. The mutants identified by
+assays are BRAF V600E, KRAS G12D, KRAS G12V, and PIK3CA E542K. The
+results showed that data points of mutant call, wild type call were well
+separated from non-signal data points. We examined the sensitivity of
+these assays using serial dilution of tumor DNA sample in non-tumor human
+tissue DNA. 0.1% to 1% of mutants were detectable depending specific
+assays. We collected circulating DNA from XX Patients plasma. The DNA
+concentrations ranged from 5 ng/ml to 30 ng/ml of plasma. KRAS G12D and
+G12V was detected with circulating DNA from patients carrying KRAS
+mutant. The mutant frequency of KRAS G12D and G12V determined by Q3D is
+3.2% and 3.7%, respectively. The absolute mutant copy number for KRAS
+G12D is 9 and for KRAS G12V is 8.Conclusions: Q3D with validated custom
+TagMan SNP Genotyping Assays is applicable in detecting ctDNA. We will
+expect to utilize the technique to evaluate ctDNA.
+

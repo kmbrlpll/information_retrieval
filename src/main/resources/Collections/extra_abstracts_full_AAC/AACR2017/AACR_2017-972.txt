@@ -1,0 +1,38 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Improving pre-clinical cancer pharmacogenomics with novel drug
+sensitivity metrics based on growth rate inhibition.
+
+
+Drug sensitivity in growing cells is conventionally quantified by IC50,
+AUC, or Emax values, but these metrics suffer from a fundamental flaw:
+they highly depend on the division rate of cell lines. This dependency
+creates artefactual correlations between genetic alterations and drug
+sensitivity which impede biomarker discovery. To address this issue, we
+recently developed novel drug response metrics insensitive to the number
+of divisions occurring during the assay. These are based on estimating
+growth rate inhibition (GR) under treatment using fixed assays.
+
+Here, we illustrate the flaws of using IC50 values for pharmacogenomic
+studies by reanalyzing a recently published large dataset of drug
+sensitivity and showing cases in which differences in division rates
+drive associations between IC50 values and tissue type or genetic
+alterations. Using GR50 values prevents these artificial correlations and
+restores known associations between drug resistance and genomic markers
+such as PTEN loss driving lapatinib resistance in breast cancer cell
+lines. We also show how use of GRmax values, a measure of drug efficacy,
+allows quantifying differences in the phenotypes and distinguishing
+cytostatic from cytotoxic response. For drugs that have a narrow range of
+GR50 values like taxanes, efficacy is the most relevant metric: in many
+ovarian BCL2-deleted cell lines, docetaxel induces a cytotoxic response
+(negative GRmax values), whereas wild-type lines elicit a cytostatic
+response (positive GRmax values). Because efficacy (GRmax) varies
+independently of potency (GR50), we conclude that both metrics are
+complementary for pharmacogenomics and should be studied jointly.
+
+Adopting GR metrics requires only modest changes in experimental
+protocols and analysis is facilitated by our interactive website:
+GRcalculator.org. We expect GR metrics to improve the identification of
+reliable drug response biomarkers and enhance the reproducibility of
+large-scale sensitivity studies.
+
+

@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Effect of anticoagulant and sample storage conditions on
+circulating tumor cells enrichment by vortex
+
+
+BackgroundCirculating tumor cells (CTC) have recently emerged as powerful
+biomarkers for non-invasive diagnosis and prognosis of cancer [1]. The
+rarity and fragility of these cells has proven to be a significant
+impediment to their clinical use. Delay between phlebotomy and sample
+processing, together with blood sample storage, can impact the integrity
+of these cells and hamper their subsequent isolation. Addressing these
+issues could allow shipping between clinical facilities and significantly
+increase the use of CTCs. Here, we assessed the effects of various blood
+anticoagulants on the isolation of CTCs using Vortex technology. Vortex
+is a label-free, size-based technology that relies on the generation of
+laminar flow microvortices where CTCs can be trapped [2], and released
+off-chip, into a small volume compatible with various downstream
+assays.MethodsTo evaluate the effects of delayed processing on capture
+performances, samples from healthy donors were drawn into 4 different
+blood collection tubes (BCT): K3EDTA, ACD-B, CellSave and cell-free DNA
+Streck. Each BCT was spiked with MCF7 breast cancer cells and stored at
+room temperature for up to 3 days (72H). On days 0, 1, 2 and 3, aliquots
+of blood (0.5 ml; n = 3) from each BCT were diluted 10X and processed
+through Vortex chip. Captured cells were stained (CK, CD45, DAPI) and
+enumerated. Capture efficiency and purity were determined for each time
+point and BCT. To simulate over-sea shipping and processing of patient
+samples, larger blood volumes (6mL in EDTA, CellSave and Streck BCT) were
+also tested after 48H. Capture performances and device clogging were
+evaluated.ResultsSignificant differences were observed for capture
+performances between the BCTs. Best results were obtained for CellSave
+tube, with an efficiency of 19.8 2.5%, stable for up to 3 days, and a
+purity ranging from 40.6 to 52.8%. In comparison, performances for
+standard K3EDTA were maximal at 24H, with 19.1% efficiency decreasing to
+10% at 72H. ACD-B and Streck showed lower efficiencies, reaching 4.6 and
+9.7% respectively. Purity for EDTA, CellSave and Streck BCT was in a
+similar range (48.4, 46.5 and 34.9% respectively). No significant device
+clogging was observed between EDTA, CellSave and Streck BCT when larger
+blood volumes were processed.ConclusionHere we demonstrate the ability to
+isolate cancer cells spiked in blood for up to 48H post-phlebotomy, with
+higher overall performances obtained with CellSave tube. Standard EDTA
+BCT gives optimal performances up to 24H and would be the option to
+select whenever viable cells are required. This suggests that Vortex
+technology is compatible with various anticoagulants and preservatives
+containing blood collection tube; the election would depend on the assay
+performed downstream. Future work will include shipping blood samples
+from remote sites and effect on CTC enrichment by Vortex technology.[1]
+Ignatiadis et al. Clin Cancer Res 2015.[2] Sollier et al. Lab Chip 2014.
+

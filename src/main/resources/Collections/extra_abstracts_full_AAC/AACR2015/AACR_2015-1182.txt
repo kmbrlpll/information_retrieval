@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Metformin affects breast cancer cell growth and disturbs an
+IGF1/insulin related gene network that correlates with breast cancer
+progression
+
+
+BackgroundObesity and the insulin resistance syndrome are risk factors
+for breast cancer and might also affect breast cancer progression. The
+anti-diabetic drug Metformin (METF) reduces the breast cancer risk in
+diabetic women. Insulin like growth factor 1 (IGF1) and insulin are
+involved in breast cancer tumorigenesis and progression.We tested the
+effect of METF on the IGF1/insulin pathway and its involvement in breast
+cancer progression.MethodsWe developed a prognostic signature based on
+IGF1/insulin pathway genes using the Stockholm breast cancer microarray
+dataset of 149 cases for training and primary validation and the Uppsala
+dataset of 249 for external validation. The effect of METF on the
+prognostic gene set identified was tested in vitro on a panel of breast
+cancer cell lines. METF effects on proliferation and glucose metabolism
+were analyzed in vitro and in vivo. The insulin receptor substrate 2
+(IRS2) was silenced by transfection with shRNA-lentiviral vectors.
+Xenograft growth, in the presence and absence of METF, was studied and
+18FDG-uptake was measured in vitro and in vivo.ResultsA 15-gene signature
+(Insulin sensitivity score, ISS) was developed and predicted breast
+cancer metastasis with an accuracy similar to the Recurrence Score. ISS
+genes were expressed at variable levels in a breast cancer cell line
+panel and showed variable responsiveness to METF. The high expression
+correlation among the ISS genes observed in untreated breast cancer cell
+lines was lost upon treatment with METF. METF reduced breast cancer cell
+growth in vitro with IC50 values ranging from 1mM to 25mM. Growth of
+MDA-MB-231 cells and hyper-invasive subpopulations derived therefrom was
+reduced in vivo by oral administration of METF to xenografted nude mice.
+Response to METF in terms of IC50 values correlated with basal expression
+of the 15 ISS genes with the strongest inverse correlation observed for
+IRS2. Stable silencing of IRS2 reduced the MDA-231 cell responsiveness to
+METF in vitro.DiscussionMETF acts on the insulin/IGF1 axis by disturbing
+a network of breast cancer progression related genes and appears to
+depend in its action on the expression of IRS2 that inversely correlates
+with the sensitivity of cell lines to the drug. The disruption of the ISS
+gene network is expected to correlate with an effect on breast cancer
+growth and progression and in fact, mouse xenografts show reduced growth
+upon treatment with METF. IRS2 appears to be a major mediator of METF
+effects.
+

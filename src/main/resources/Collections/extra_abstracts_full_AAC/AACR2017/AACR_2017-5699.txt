@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Detection of genetic and epigenetic DNA markers in urine for the
+early detection of liver cancer.
+
+
+The purpose of this study was to explore the potential of urine DNA
+biomarkers for the early detection of primary hepatocellular carcinoma
+(HCC). HCC is an aggressive disease with a 5-year survival rate of 26% in
+early-stage cancers, and a mere 2% in later stages. The most commonly
+used screening biomarker for HCC is serum alpha-fetoprotein (AFP), which
+detects only 40-60% of cases. We have previously shown that urine
+contains fragmented, circulation-derived, cell-free DNA that can be used
+for detection of cancer-related DNA markers, if a tumor is present. Given
+the molecular heterogeneity of HCC, we assembled a panel of frequently
+reported early detection DNA biomarkers for HCC that included genetic
+mutations (TERT -124 G to A, TP53 249 G to T and CTNNB1 hotspot at codon
+32-45) and methylation markers (GSTP1, RASSF1A, CDKN2A, SFRP1, TFPI and
+MGMT). In this present study, we developed specialized short amplicon PCR
+assays optimized to detect these biomarkers from the urine of patients
+with cancer and tested the panel of biomarkers in urine of hepatitis,
+cirrhosis and HCC patients to demonstrate the feasibility of a
+breakthrough urine DNA test for HCC screening and early detection. Our
+evaluation indicated that the TP53 mutation, methylation of RASSF1A and
+GSTP1 urine DNA biomarkers were significantly higher in HCC than in
+non-HCC population. A correlation analysis indicated that these three
+markers do not correlate with each other and are suitable to be combined
+in a panel of biomarkers for the early detection of HCC. The 3-marker HCC
+urine DNA panel had an AUROC of 0.880 for distinguishing HCC from
+cirrhosis and hepatitis. By logistic regression, the sensitivity of the
+3-DNA marker urine panel alone or in combination with AFP is 84.5% or
+89.5% respectively, with a specificity of 90% for detecting HCC with
+AUROC of 0.951. Furthermore, these 3-DNA markers scored 43 of the 49
+(87.8%) AFP-negative (less than 20 ng/mL) HCC urine samples "positive" in
+this study population. A novel statistic model was built by using Random
+Forest machine learning method as compared to full logistic regression in
+both open labeled urine samples and 242 blinded urine validation samples.
+A sensitivity of 92.3 % at a specificity of 87% was obtained by applying
+the random forest algorithm generated from the open labeled data (at 90%
+specificity cutoff) to the validation study, where as a sensitivity of
+76.9% at a specificity of 84.7% was obtained from the full logistic
+regression derived from the open labeled data set. In conclusion, HCC DNA
+markers can be detected in urine of patients with HCC by short-amplicon,
+PCR-based assays and this urine test has the potential to become the
+first line of screening for HCC in high risk populations.
+
+

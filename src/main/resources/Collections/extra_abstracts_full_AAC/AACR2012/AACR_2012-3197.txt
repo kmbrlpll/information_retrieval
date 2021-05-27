@@ -1,0 +1,45 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Functional microscale cell-based systems for studying hematologic
+cancers in complex microenvironments
+
+
+Our ability to improve treatments for blood-related cancers such as
+multiple myeloma (MM) is currently hindered by limitations in lab
+procedures for studying cell signaling mechanisms in drug resistance.
+Conventional assays for studying signal transduction (gel shift assays)
+require large quantities of cell sample (> 100,000 cells per condition)
+that often cannot be acquired safely and reliably from primary bone
+marrow aspirations of different patients. Furthermore, in vitro assays
+often do not adequately represent key aspects of the complex bone marrow
+microenvironment, including spatial organization of stromal cell types.
+The objective of this study was to develop a new functional assay using
+microfluidics technology to examine signal transduction events,
+specifically in improved in vitro microenvironments, for non-adherent
+cells such as those associated with hematologic cancers, and for low cell
+number applications (1000 cells per condition) including patient samples.
+Successful development of this assay would provide an alternative to gel
+shift assays and streamline experiments. We developed microscale cell
+culture chambers that used a surface tension-based passive pumping method
+for fluidic delivery, obviating the need for external pumps and tubing
+commonly used in microfluidic systems, thus reducing dead volume and cell
+loss. To validate the platform, non-adherent RPMI8226 cells (human MM
+cell line) were cultured, treated with cytokines/drugs, fixed, and
+immunostained to determine cytoplasmic versus nuclear localization of
+NF-B subunit RelA as a measure of canonical NF-B activation. Fluorescent
+images of RelA were analyzed using custom image analysis for calculating
+ratio of nuclear to cytoplasmic signals (intensity ratio, IR) at single
+cell resolution. IR values of cells in a population were calculated to
+determine overall nuclear translocation and NF-B activation. Results
+showed fluorescence immunostaining coupled with custom image analysis was
+able to detect dose-dependent TNF- activation of NF-B, and dose-dependent
+inhibition of NF-B activity by bortezomib treatment. Ongoing work
+involves applying the platform to study effects of various drug
+treatments on NF-B signaling in primary patient MM cells in monoculture
+and in coculture with bone marrow stromal cells. Our results demonstrate
+the platform is a functional, enabling tool for studying single-cell NF-B
+signal transduction with low numbers of non-adherent cells. The platform
+is extensible to other hematologic cancers, applicable for other
+transcription factors (e.g., STAT3), amenable to coculture studies, and
+has potential to enable novel experiments with limited primary samples
+that may have significant impact in translational research.
+

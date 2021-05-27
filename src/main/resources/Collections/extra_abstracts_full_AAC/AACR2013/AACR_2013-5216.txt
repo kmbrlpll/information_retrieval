@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Gene co-expression network analysis of small cell lung cancer
+(SCLC) identifies new subclasses and novel therapeutic targets including
+Src family kinase Fyn and Spleen Tyrosine Kinase Syk.
+
+
+Oncogenic mechanisms in SCLC remain poorly understood leaving this tumor
+with the worst prognosis among all lung cancers. Unlike other cancer
+types, traditional genomic approaches have been of limited success in
+SCLC. For instance, no patterns of prevalent mutations associated with
+SCLC progression or targeted therapeutics have emerged. Gene expression
+profiling based on differential expression have yielded potentially
+useful signatures in SCLC, but they have proven to be independent of each
+other and with minimal overlap, reducing translational potential.
+Nonetheless, since integrative systems biology studies of SCLC are
+warranted, we hypothesized that gene co-expression analyses can unveil
+key signaling hubs of specific networks that regulate SCLC proliferation
+and survival. We applied weighted gene co-expression network analysis
+(WGCNA) to a lung cancer patient gene expression dataset comprising of
+normal lung (NL), SCLC and Non-SCLC (NSCLC) such as squamous cell
+carcinoma and adenocarcinoma, and identified hierarchical gene networks
+highly specific to SCLC. The hubs of these SCLC-specific networks formed
+a SCLC-specific hub network (SSHN) signature that: 1) classified SCLC
+from NSCLC and NL on 3 independent patient and 1 cell line datasets; 2)
+was validated in independent RNAseq and shotgun proteomic patient
+datasets; 3) identified 2 SCLC subtypes with high and low SSHN expression
+in patients and cell lines. Three top SSHN hubs, Fyn, Syk and BRCA1, are
+involved in oxidative stress (OSR) and DNA damage response (DDR),
+respectively. At the protein level, Fyn, Syk and BRCA1 were significantly
+co-expressed in tissue microarrays and classified SCLC patients into 2
+subtypes: High and Low Fyn/Syk/BRCA1 (F/S/B). High F/S/B staining
+significantly correlated with longer recurrence-free survival of patients
+treated with standard chemotherapy, suggesting that efficient OSR and DDR
+may enhance chemo response. This possibility was tested in established
+SCLC cell lines, which also could be separated into high vs low F/S/B
+groups corresponding to the clinical subtypes. High F/S/B cell lines
+exhibited lower proliferative rates, suggesting that OSR and DDR may
+still exert influence over cell cycle. Syk knockdown in these cell lines
+caused significant reduction in cellular viability and proliferation, as
+well as increased levels of Reactive Oxygen Species (ROS). Induction of
+oxidative stress in High F/S/B cell lines resulted in early activation of
+Fyn, Syk, p38, Erk and Akt. Thus, OSR may be overactive in SCLC and play
+a role in its natural history and response to treatment. In summary, our
+WGCNA combinatorial approach yielded novel insights into SCLC
+pathogenesis, separated two novel SCLC molecular subtypes with distinct
+functional OSR and DDR properties, and pointed to unsuspected potential
+therapeutic targets.
+

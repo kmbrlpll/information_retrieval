@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Tracking the genetic relationship between first and late-onset
+second urothelial cancers by mutational signature analysis.
+
+
+Exposure to aristolochic acid (AA, IARC Group 1 carcinogen) present in
+some traditional herbal medicines leads to aristolochic acid nephropathy
+(AAN), often complicated by development of multiple urothelial carcinomas
+of sequential onset. We used genome-scale mutational signature analysis
+of multiple urinary tract tumors of AAN cases from a unique patient group
+to determine the relationships of the patients’ late-onset second
+cancers to the AA exposure as well as to the first cancers.
+
+Aristolactam-DNA adduct-positive AAN patients (n=4) who developed cancer
+within 8 years following the initial exposure to AA were chosen for
+analysis of their first cancers (upper tract urothelial carcinomas, UTUC)
+and second cancers of delayed onset (1-9 years after first-cancer
+diagnosis, involving the bladder or ureteral meatus). All patients had
+received a kidney transplant before developing the second cancers and had
+a functional renal graft prior to prophylactic nephroureterectomy.
+Genomic DNAs were isolated from FFPE sections of the renal cortex and
+from the upper and lower tract tumors of each patient using laser capture
+micro-dissection or macro-dissection of the tumor areas. Low-coverage
+(~15x) exome 100-bp paired-end sequencing was performed using Illumina
+HiSeq2500. Customized variant calling identified somatic variants absent
+in non-tumor tissues. Non-negative matrix factorization was applied to
+extract mutational signatures in the tumor tissues.
+
+In all cases, we established the mutational signature of AA (the COSMIC
+signature 22) in the first UTUC as well as second cancers involving the
+bladder or lower ureter (meatus). Additionally, the first and second
+cancers harbored considerable overlaps in exposure-specific (A>T) somatic
+mutations. This finding provides evidence that the delayed onset of
+bladder urothelial carcinomas in AAN patients is likely due to distal
+seeding of cancer cells originating from the primary UTUC tumors.
+
+Our first-of-its-kind study addresses the risk as well as mechanistic
+factors leading to the second, late-onset bladder urothelial carcinomas
+following kidney transplantation and primary UTUC development. Our
+results underline the importance of long-term bladder follow-up in
+high-risk populations with established or suspected AA exposure.
+
+Funding: IARC; NYU Genome Technology Center is partially supported by the
+NIH/NCI (P30CA016087) grant.
+
+

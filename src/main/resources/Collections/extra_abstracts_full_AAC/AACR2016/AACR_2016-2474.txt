@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: DFMO targets cancer stem cells in neuroblastoma
+
+
+Background: Difluoromethylornithine (DFMO) has shown promise in recent
+clinical trials as a therapeutic agent in treating neuroblastoma (NB).
+High-risk NB patients have an approximately 50% relapse rate, after which
+survival rate drops to lower than 10%. By targeting the cancer stem cells
+(CSC) we could decrease relapse rate in high-risk patients and improve
+long-term survival. DFMO is known to inhibit ornithine decarboxylase
+(ODC) impeding key polyamine biosynthesis as well as the LIN28/Let7
+pathway and disrupting the glycolytic metabolism pathways both of which
+have been shown to be important in CSC models. We propose that DFMO may
+be an effective treatment against neuroblastoma CSCs.Methods: BE(2)C and
+SMS-KCNR NB cell lines were studied. Limiting dilution assays of
+xenograft studies were performed. Untreated, 10-day 5mM DFMO-pretreated,
+or 20-day 5mM DFMO-pretreated cells were injected into mice between
+10-5000 cells/mouse and followed for tumor formation. Xenograft Be2C mice
+were treated with either vehicle or 2%DFMO in drinking water and
+harvested at 7-14 days for tumor analysis. Tumors and cell cultures of
+untreated and DFMO-treated cells were analyzed by RT-qPCR, Western Blot
+analysis, and GeneChip gene expression analysis measuring levels of ODC1,
+LIN28B, mirLet7, MYCN, SLC2A4 (a glucose transporter), and CSC markers
+such as CXCR4, POU5F1, NANOG, SOX2, and KLF4. Riboflavin induced
+autofluorescence (AF) was used to identify CSC. This method detected
+cells after a 24-hour bath in 30M riboflavin and excitement at 488nm in a
+MoFlo cell sorter at the University of Michigan Flow Core, after which
+cells are sorted into AF- and AF+ sub-populations for imaging,
+neurosphere assays with or without DFMO, RT-qPCR and Western Blot
+analysis. Knock-down of ODC1 is achieved by siRNA transfection via
+Lipofectamine in cells and analyzed by RT-qPCR, Western Blot, and
+neurosphere assays with or without DFMO.Results: Pretreatment with DFMO
+in BE(2)C and SMS-KCNR cells in vitro and in vivo inhibits tumor
+formation in neurosphere assays and in limiting dilution xenograft models
+respectively. Tumors harvested from xenografts show a decrease in
+expression of CSC biomarkers and neurosphere formation capability in
+those treated with DFMO. AF+ cells showed an increase in stem cell marker
+expression and increase neurosphere formation relative to AF- cells,
+identifying them as cancer stem cells. In addition, AF+ cells are more
+sensitive to DFMO treatment with a greater decrease in neurosphere
+formation. Cells transfected with ODC siRNA or subjected to DFMO show a
+reduction in CSC biomarker RNA and protein and a decrease in neurospheres
+formation.Conclusion: These results suggest that DFMO targets the CSC
+subpopulation in neuroblastoma, disrupting cell growth pathways and
+inhibiting tumor formation. This concept is under further investigation
+in a Phase II clinical trial to prevent relapse in high risk
+neuroblastoma patients.
+

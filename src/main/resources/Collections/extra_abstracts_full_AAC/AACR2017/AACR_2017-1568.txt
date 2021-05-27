@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Predicting stochastic proliferation and death in response to drugs
+with mechanistic models tailored to genomic, transcriptomic, and
+proteomic data.
+
+
+Over the past decade we have seen a shift in cancer therapy from broadly
+cytotoxic drugs to molecular therapies targeting “driver” mutations.
+Although targeted therapy has seen great success for some cancers (e.g.
+imatinib for leukemia), it has struggled with poor efficacy in treating
+other cancers that can sometimes possess multiple “driver” mutations.
+This highlights the complex, and at times non-intuitive, interplay
+between multiple players in a signaling cascade, which can be highly
+dependent on the biological context – that is, gene expression levels
+and mutational architecture – of a tumor or cell line. A quantitative,
+mechanistic, biologically-tailored understanding of how these signaling
+dynamics drive proliferation and death could improve precision
+pharmacology approaches to treat cancer.
+
+Here, we constructed the first highly detailed, large-scale ordinary
+differential equation (ODE) mechanistic mathematical model depicting the
+most commonly mutated cancer signaling pathways across human cancers, as
+indicated by a pan-cancer analysis by The Cancer Genome Atlas (TCGA). The
+model includes the RTK/Ras/MAPK, PI3K/AKT/mTOR, CDK/RB cell cycle,
+p53/MDM2 DNA damage response, and BCL/Caspases apoptosis pathways. The
+adjustable parameters of the model can be informed by measurements from
+patients or cell lines, including copy number alterations, mutations, and
+gene expression levels. This single-cell model links stochastic gene
+expression processes to quantitative signaling dynamics, and once
+tailored to a biological context can be used to simulate the effect of
+various anti-cancer therapies on cell fate behavior such as proliferation
+and death for a population of cells.
+
+The first instance of the model integrated genomic, transcriptomic, and
+proteomic data from the MCF10A cell line, a non-transformed cell line
+with predictable phenotypic behaviors. We trained the model using western
+blot and flow cytometry experiments to refine various biochemical
+parameters and phenotypic outcomes. Many fundamental questions in signal
+transduction arose during this process, such as how EGF and insulin
+synergize to drive S-phase entry or how a specific biological context
+confers sensitivity or resistance to inhibitors of the ERK and AKT
+pathways. Simultaneously, we are tailoring the model to patient-derived
+genetic information from primary glioblastoma tumors and screening
+brain-penetrable compounds in a patient-specific manner.
+
+In conclusion, a quantitative, mechanistic, biologically-tailored
+mathematical model depicting the major cancer pathways allows us to probe
+the mechanisms that underlie how signaling dynamics drive proliferation
+and death in response to various perturbations, and gain insight into
+their dependence on the biological context of cell lines and patient
+tumors.
+
+

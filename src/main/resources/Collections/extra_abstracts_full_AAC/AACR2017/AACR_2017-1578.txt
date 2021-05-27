@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Distinct expression and biological functions of PMEPA1 isoforms in
+prostate cancer.
+
+
+Introduction and Objectives: The androgen receptor (AR) and TGF-β
+dysfunctions contribute to prostate cancer (CaP) development and
+progression. Our laboratory since the discovery of PMEPA1, has
+established PMEPA1/NEDD4 and AR negative feedback loop and its role in AR
+regulation in prostate cancer. PMEPA1 gene has also identified as a
+TGF-β responsive gene and inhibits TGF-β signaling via a negative
+feedback loop. Five isoforms are transcribed from distinct promoters
+within the PMEPA1 locus. PMEPA1 isoforms were shown to have variations at
+the N-terminus of the protein. Our previous study has shown the
+differential correlations of 2 PMEPA isoforms (PMEPA1 and STAG1) in
+context of AR expression in CaP. This study focuses on understanding of
+the expression and biological functions of PMEPA1 isoforms in CaP.
+
+Methods: RNA-Seq data from LNCaP and VCaP cells, and from The Cancer
+Genome Atlas (TCGA) dataset, were used to evaluate the expression levels
+of PMEPA1 isoforms. LNCaP cells were treated with R1881 (0, 0.1, 1.0 nM)
+and DU-145 and PC-3 cells were treated with TGF-β (0, 5 and 25 ng/ml)
+for 24 hours. PMEPA1 isoform specific plasmids and siRNAs were
+transfected into LNCaP, DU-145 and PC-3 cells individually. Cell growth
+was analyzed by cell counting and BrdU incorporation assay. The protein
+levels of PMEPA1 isoforms and AR were detected by immunoblotting, and the
+transcript levels were evaluated by QRT-PCR.
+
+Results: Since the annotation of PMEPA1/TMEPA1 isoforms has been
+empirical in the literature, here we propose a new structure/expression
+based nomenclature: PMEPA1 (reading frame of 252 amino acids (aa));
+PMEPA2 (344aa); PMEPA3 (287aa; STAG1); PMEPA4 (259aa); and PMEPA5
+(237aa). Expression of PMEPA1 and PMEPA2 was restricted to androgen
+responsive prostate cancer cells in comparison to broader expression
+pattern of other isoforms (PMEPA3-5). The expression of PMEPA1-2 was
+androgen regulated, whereas expression of PMEPA 3-5 was regulated by
+TGF-β. Only PMEPA1 inhibited cell growth of LNCaP, DU-145 and PC-3
+cells. In contrast, PMEPA2-4 promoted cell growth of DU-145 and PC-3
+cells. Of all the isoforms only PMEPA1 mediated AR protein degradation in
+CaP.
+
+Conclusions: The PMEPA isforms appear to underscore distinct biological
+functions in the context of androgen and TGF-β signaling. Widely studied
+PMEPA1 was specific for AR degradation in prostate cancer cells and was
+consistent with previous observations of association of AR upregulation
+with loss of PMEPA1 in prostate cancer. The roles of PMEPA isoforms need
+to be better defined in prostate cancer and other cancers.
+
+Funding: This study was supported by CPDR, USUHS, HU0001-10-2-0002 to DGM.
+
+

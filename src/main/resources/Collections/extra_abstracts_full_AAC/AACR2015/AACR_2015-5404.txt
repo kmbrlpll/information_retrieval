@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: PAK4 allosteric modulators (PAMs) repress the Wnt/-catenin
+signaling pathway and tumor growth
+
+
+Wnt/-catenin signaling is a ubiquitous pathway conserved throughout
+evolution and plays a role in embryonic and cancer development. This
+pathway has proven to be difficult to target therapeutically. Another
+intractable target is oncogenic Ras which is highly mutated in many
+cancer types, including pancreatic, colon and lung. An available target
+at the intersection of both of these genes is p21-Activated Kinase 4
+(PAK4). PAK4 (1 of 6 PAK proteins) that is downstream of the Ras oncogene
+and a direct kinase that stabilizes transcriptional activity of -catenin.
+Therefore therapeutically targeting PAK4 in cancer could be beneficial in
+a broad range of cancer types. PAK4 Allosteric Modulator (PAM) represents
+a novel and selective class of compounds that inhibit PAK4
+allosterically.Methods: Flow cytometry and CellTiter AQueous One assay
+(MTS) were used to determine compound effects on cell cycle distribution
+and proliferation. CCLE, COSMIC and other databases were used for
+bioinformatics analysis of mutations in cancer genes. Deep sequencing and
+qPCR were used to analyze mRNA expression profiles. Proteomic platforms -
+KinomeScan, PTScan (Cell Signaling) and immunoblots were used to study
+phosphorylation signature of whole cell proteins and total protein steady
+state levels.Results: We identified a selective, orally bioavailable
+small molecule PAM, KPT-9274, which demonstrated anti-tumor activity in a
+variety of cancer cell lines (IC50 values from 0.005 - 1 M).
+Bioinformatics revealed that sensitivity to KPT-9274 was directly
+correlated with mutations in APC or N-ras and inversely correlated with
+mutations in -catenin, K-ras, or PI3K. KPT-9274 and other PAMs reduced
+phosphorylation and steady state levels of PAK4 protein while reducing
+Phospho-S675 and total -catenin, Wnt5, Phospho- and total LRP6, Dvl2,
+Phospho-Akt, and Phospho-ERK. PAMs also reduced -catenin transcriptional
+activity (i.e. cyclin D1, MM7, and S100A4). PAMs arrested cancer cell
+cycle at the G1 and G2 phases and induced apoptosis through Caspase and
+PARP cleavage. KPT-9274 (100 mg/kg BIDx5 orally) has demonstrated potent
+anti-tumor activity against hematological (Z-138, Molt-4, MM1S) and solid
+(MDA-MB-468 and Colo-205) xenograft models in mice. PAM-treated
+xenografts showed reduction of PAK4, -catenin and cyclin D1
+proteins.Conclusions: PAK4 represents a novel anti-cancer target at the
+crossroads of Ras and Wnt/-catenin signaling. We have identified
+selective small molecule PAMs with anti-tumor activity both in vitro and
+in vivo. These allosteric modulators induce tumor cell growth arrest and
+apoptosis. Bioinformatics helped identify potential predictive markers in
+the Wnt signaling pathway while deep sequencing and proteiomics revealed
+possible PDn markers. Based on the in vitro and in vivo activity,
+KPT-9274 may be beneficial for the treatment of a wide variety of cancers
+and preclinical toxicology studies are ongoing.
+

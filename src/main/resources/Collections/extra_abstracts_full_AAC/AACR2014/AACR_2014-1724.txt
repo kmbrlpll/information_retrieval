@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Genomic mechanisms of exquisite sensitivity and acquired
+resistance to everolimus in a patient with anaplastic thyroid carcinoma
+
+
+Understanding genetic mechanisms of sensitivity and resistance to
+targeted anticancer therapies may improve patient selection and rational
+treatment designs. One approach to increase this understanding involves
+the study of exceptional responders: rare patients with unexpected
+exquisite sensitivity or durable responses to therapy. We identified an
+exceptional responder on a study of the allosteric mTOR inhibitor
+everolimus in thyroid cancer: a 57-yr-old woman with refractory
+metastatic anaplastic thyroid carcinoma (ATC), a highly aggressive
+neoplasm with no adequate therapies and a median survival of 5 months.
+After beginning treatment with everolimus, the patient experienced a near
+complete response that lasted for 18 months, followed by progressive
+disease, which was then re-biopsied. To date, mechanisms of clinical
+resistance to mTOR inhibition have not been described.We performed whole
+exome sequencing (WES) of both pre-treatment and drug resistant tumor
+tissue to look for the underlying mechanisms of exquisite sensitivity and
+acquired resistance to everolimus. WES of the pre-treatment tumor
+revealed a somatic nonsense mutation in TSC2, a tumor suppressor gene
+whose inactivation is known to activate the mTOR pathway and result in
+sensitivity to mTOR inhibition in some cancers. WES of the drug resistant
+tumor additionally revealed a mutation in mTOR (mTOR-F2108L) not detected
+in the pre-treatment tumor. Structural modeling demonstrated that this
+mutation occurs in the FKBP12-rapamycin binding domain of mTOR and is
+predicted to prevent binding of the drug to the protein. Overexpressing
+mTOR-F2108L in HEK-293T cells resulted in significant resistance to
+rapamycin compared to cells expressing wild type (wt) mTOR. In cells
+expressing the mutant mTOR, rapamycin did not decrease phosphorylation of
+S6K1, a downstream target of mTOR, compared with cells expressing wt
+mTOR. Notably, cells expressing mTOR-F2108L remained sensitive to the
+direct TOR inhibitor torin, suggesting a therapeutic approach to overcome
+resistance in this patient.In summary, we add ATC to the growing list of
+cancers found to be exquisitely sensitive to everolimus when activating
+mTOR pathway mutations are present. Moreover, we present the first
+reported, to our knowledge, mechanism of acquired resistance to
+everolimus identified in patients. The fact that this occurs via a
+binding domain mutation that blocks allosteric mTOR inhibition suggests
+that followup therapy with direct TOR inhibitors may still have benefit
+in some patients who develop resistance to everolimus. The use of
+precision medicine approaches in ATC to screen for alterations in the
+mTOR pathway may help identify subsets of patients who would benefit from
+targeted therapies directed against mTOR. Moreover, the use of serial
+biopsies to profile patients who develop resistance to everolimus could
+dictate optimal followup treatment in ATC and other cancers.
+

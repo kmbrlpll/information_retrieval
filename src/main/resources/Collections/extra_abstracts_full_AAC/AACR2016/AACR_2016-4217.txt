@@ -1,0 +1,56 @@
+Meeting: 2016 AACR Annual Meeting
+Title: First pre-clinical validation of radiogenomics in glioblastoma
+
+
+A plethora of Magnetic Resonance Imaging (MRI) features have been
+correlated to cancer genomics to date, however, none have established
+causality. Here, we present an in vivo xenograft RNA interference
+validated, potentially clinically applicable test method termed Magnetic
+Resonance Radiomic Sequencing (MRRS) for the noninvasive detection of
+cancer genomics in Glioblastoma. MRRS comprehensively assesses the entire
+tumor mass using imaging texture-based algorithms that generate thousands
+of variables (features) inherent to the tumor. Two independent
+glioblastoma stem cells (GSC1 and GSC3) harboring doxycycline inducible
+short hairpin RNA against Periostin (POSTN), a gene previously identified
+in our radiogenomic screen, were implanted at orthotopic location in nude
+mouse brain. In vivo knockdown of >90% and 40% POSTN gene was achieved in
+GSC3 and GSC1 respectively. The T2 and T1 post MRI texture features, in
+edema and contrast enhancement phenotype features were compared between
+doxycycline (POSTN knockdown) and sucrose (control) group of mice using T
+test statistics. The significant features were included in a Stepwise
+Forward Logistic Regression analysis to build the final predictive model.
+The accuracy of the model was tested using ROC cure analysis. Among 3600
+features in GSC3 mice cohort, 117 features were significantly (p valueA
+plethora of Magnetic Resonance Imaging (MRI) features have been
+correlated to cancer genomics to date, however, none have established
+causality. Here, we present an in vivo xenograft RNA interference
+validated, potentially clinically applicable test method termed Magnetic
+Resonance Radiomic Sequencing (MRRS) for the noninvasive detection of
+cancer genomics in Glioblastoma. MRRS comprehensively assesses the entire
+tumor mass using imaging texture-based algorithms that generate thousands
+of variables (features) inherent to the tumor. Two independent
+glioblastoma stem cells (GSC1 and GSC3) harboring doxycycline inducible
+short hairpin RNA against Periostin (POSTN), a gene previously identified
+in our radiogenomic screen, were implanted at orthotopic location in nude
+mouse brain. In vivo knockdown of >90% and 40% POSTN gene was achieved in
+GSC3 and GSC1 respectively. The T2 and T1 post MRI texture features, in
+edema and contrast enhancement phenotype features were compared between
+doxycycline (POSTN knockdown) and sucrose (control) group of mice using T
+test statistics. The significant features were included in a Stepwise
+Forward Logistic Regression analysis to build the final predictive model.
+The accuracy of the model was tested using ROC cure analysis. Among 3600
+features in GSC3 mice cohort, 117 features were significantly (p
+value<0.05) different between the two groups. The significant features
+were included in a Stepwise Forward Logistic Regression analysis, 2
+textures features (feature 234 of edema T1 and feature 251 of edema T2)
+were selected to be included in the final predictive model. The AUC of
+the model with leave one out cross validation method was 100%. The
+similar analyses were done in the GSC1 mice. The final predictive model
+in the GSC1 group was statistically insignificant (p value = 0.15) with
+AUC (95% CI) = 73% (46%-98%), suggesting that MRRS is reflective of
+underlying gene expression levels. Our results therefore describe the
+first mouse model derived MRRS signature to describe a causal link of
+gene alteration to MRRS. This novel test method may open an avenue for
+human-mouse matched co-clinical trials and noninvasive Radiogenomic
+diagnostics.
+

@@ -1,0 +1,32 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Development of an individualized 3D transport model of topotecan
+for a patient-derived orthotopic xenograft model of pediatric
+neuroblastoma
+
+
+Resistance to chemotherapeutics and targeted therapies in pediatric solid
+tumors including neuroblastoma is a common cause of poor clinical
+outcome. These failures in part stem from shortcomings in understanding
+inter- and intra-tumor heterogeneities of drug penetration due to
+heterogeneities in blood perfusion. Herein we propose to develop an
+individualized 3D transport model of topotecan (TPT) for a
+patient-derived orthotopic xenograft model of pediatric NB5 neuroblastoma
+to account for inter- and intra-tumor heterogeneities in blood perfusion.
+The transport model uses a 3D reaction-diffusion equation to simulate
+diffusion of TPT from blood vessels into the tumor tissue and its flux in
+and out of intracellular space. Our transport model takes three types of
+inputs to predict TPT exposure maps defined over the volume of an
+individual tumor: a) plasma concentration-time profiles from an
+individualized physiologically-based pharmacokinetic (PBPK) model of TPT
+(separate cohort), b) 3D blood perfusion map of the individual tumor from
+contrast enhanced ultrasound (CEUS) using VisualSonics VEVO 2100 imaging
+system, and c) in vitro TPT cellular uptake and efflux kinetics from
+two-photon imaging. We use in vitro pharmacodynamics (PD) experiments
+with NB5 cells exposed to TPT to derive probabilistic PD-rules for drug
+effects (e.g., -H2AX response). Based on these rules and the exposure
+maps, we then compute probabilities of effects for the entire tumor
+volume. We will validate the predicted drug effect maps by comparing them
+to the observed effects measured by immunohistochemistry marker for -H2AX
+from the same tumor (location matched) using spatial correlation
+techniques.
+

@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Theory and methodology for the design and analysis of PDX mouse
+clinical trials.
+
+
+Patient-derived xenograft (PDX) is a well-accepted experimental cancer
+model mimicking original patients in histo- & molecular pathology, as
+well as drug response. Mouse clinical trials (MCT) using PDX becomes
+increasingly prevalent in oncology research, yet the theory and
+methodology for trial design and analysis is underdeveloped. By analyzing
+tumor growths of 34081 PDX mice, we showed that majority of them can be
+satisfactorily modeled by exponential growth kinetics, based on which we
+derived a new drug response readout called the AUC ratio that is superior
+to the tumor growth inhibition (TGI) and its variants. We outlined a
+bootstrap algorithm to calculate its confidence interval, and showed that
+a 4:4 (4 mice in both treatment groups) or up design sharply increases
+measurement accuracy over the lesser design. Next, we introduce three
+approaches for drug evaluation and biomarker discovery in MCTs. In the
+end-point based analysis, we used a cohort of gastric PDXs to show a
+positive correlation between EGFR mRNA expression and cetuximab efficacy,
+in agreement with clinical trial results. We then used linear mixed
+models (LMMs) to describe MCTs as clustered longitudinal studies that
+capture the growth and drug response heterogeneities across PDXs and
+among mice within a PDX. Further, LMMs can separate prognostic and
+predictive biomarker effects, quantify response difference to a drug for
+multiple cancers, or efficacy difference of multiple drugs to a cohort of
+PDXs. Thirdly, we used additive frailty models to perform survival
+analysis on MCTs. We defined survival endpoints of PFS and OS in PDXs,
+and showed that hazard ratios can be more accurately estimated. We
+revealed an inherent connection between frailty and growth rate for PDXs.
+We performed computational simulations for the last two methods to show
+that statistical power improves tremendously with a 3:3 or up design.
+This work lays the foundation for rational design and analysis of PDX
+mouse clinical trials.
+
+

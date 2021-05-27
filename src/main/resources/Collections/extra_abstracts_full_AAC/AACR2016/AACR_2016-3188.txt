@@ -1,0 +1,38 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Targeted semiconductor sequencing of 409 cancer-related genes for
+somatic mutations and copy number variations in multiple myeloma
+
+
+Background:2016's NCCN guideline recommended that induction therapy used
+conventional chemotherapy such as proteasome inhibitors and Imids in MM.
+Overall survival is improving by these Novel agents. However, we don't
+know how to choose these new agents. In the future, we can use next
+generation sequencer as a tool of drug choosing system. So we reviewed
+newly diagnosed 11 patients with MM who had received novel agents in our
+institution.The comprehensive analysis of genetic alterations in tumor by
+next generation sequencing can allow for the prediction of drug
+resistance and facilitate improvements in the treatment of MM
+patients.Method:DNA was extracted from magnetic bead-enriched bone marrow
+CD138-positive malignant plasma cells from 11 cases of MM, and
+CD138-negative cells were used as matched non-tumor cells. Forty
+nanograms of DNA were used for multiplex PCR amplification with an Ion
+Ampliseq Comprehensive Cancer Panel that offers targeted coverage of all
+exons in 409 tumor suppressor genes and oncogenes frequently cited and
+frequently mutated in human cancers. (covered regions: 95.4% of total).
+We sequenced 15,992 regions which obtained more than 1.5 megabases of
+target sequence.Result:Each sample underwent on average 8.3 million
+sequencing reads after quality filtering. The mean read depths were 539x,
+and >95% of targeted bases were represented by at least 20 reads. The
+average number of non-synonymous mutations detected per patient was 5.8
+(range 0-11). We also detected copy number variations in which segments
+of the genome can be duplicated or deleted from sequencing data. We found
+several genetic alterations that may have been associated with the poor
+prognosis and poor response to chemotherapy of MM patients. Pathway
+assessment has shown that somatic aberrations within MM genomes are
+mainly involved in several important pathways, including cell cycle
+regulation, RTK-MAPK-PI3K and NF-kB.Conclusion:We performed targeted
+next-generation sequencing for rapid (2 days), standardized, and
+cost-effective gene analysis of malignant plasma cells from patients with
+MM. We can use targeted next-generation sequencing as tool of drug
+choosing system.
+

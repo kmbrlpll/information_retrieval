@@ -1,0 +1,37 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Survival in glioblastoma cancer patients is predicted by miR-340,
+that regulates key cancer hallmarks by inhibiting NRAS
+
+
+Glioblastoma is the most frequent brain tumor in adults and is the most
+lethal form of human cancer. Despite the improvements in treatments,
+patients survival remains poor. Nevertheless, a subset of patients
+survives longer than 3 years and they are classified as long-term
+survivors (LTS). The molecular and cellular mechanisms underlying the
+rare phenomenon of LTS are not well known. MicroRNAs (miRNAs or miRs) are
+a class of endogenous non-coding RNA of 19-24 nucleotides in length that
+have an important role in the negative regulation of gene expression.
+Deregulation of miRNAs is linked to the pathogenesis of many types of
+cancer. We performed a nanostring miRNA analysis on long and short
+glioblastoma survivors patients to individuate miRs potentially involved
+in LTS phenotype. Using this approach, we identified miR-340 as a novel
+tumor-suppressor-miR in glioblastoma. miR-340 expression was increased in
+LTS compared to short term survivors. Moreover, a log-rank test analysis
+on both the data collected from TCGA database and from a cohort of
+glioblastoma patients present in our lab revealed that low levels of
+miR-340 were a risk indicator for glioblastoma patients survival. miR-340
+overexpression decreased cell proliferation, anchorage independent cell
+growth, cell cycle and response to temozolomide in different glioblastoma
+cell lines. We identified NRAS as a direct target of miR-340. Rescue
+experiments showed its essential role in mediating the onco-suppressive
+activity of miR-340. The overexpression of miR-340 decreased the
+activation of ERKs and AKT, the main pathways downstream NRAS.
+Furthermore, glioblastoma cells stably infected with a lentivirus
+encoding miR-340 exhibited a drastic reduction of tumor growth in nude
+mice. In conclusion, our findings reveal miR-340 as a new
+tumor-suppressor miRNA up-regulated in LTS in glioblastoma. Its
+expression inversely correlates with survival of glioblastoma patients.
+miR-340 is able to regulate multiple tumorigenic features of glioblastoma
+cells, offering a novel potential prognostic and therapeutical target for
+glioblastoma.
+

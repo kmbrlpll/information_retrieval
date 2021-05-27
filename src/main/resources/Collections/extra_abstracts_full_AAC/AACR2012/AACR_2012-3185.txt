@@ -1,0 +1,51 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Rapid and efficient methods for preparing rRNA-depleted and
+directional RNA-Seq libraries from low-input and FFPE RNA samples
+
+
+Massively parallel sequencing of cDNA libraries (RNA-Seq) is rapidly
+becoming the preferred method for transcript profiling, and analysis of
+novel transcripts, novel isoforms, alternative splice sites, rare
+transcripts and cSNPs, compared to microarrays. Preparing NGS RNA-Seq
+libraries typically require first isolating rRNA-depleted RNA or
+enriching for poly(A)+ mRNA. However, total RNA isolated from
+formalin-fixed, paraffin-embedded (FFPE) patient tissue samples is
+normally fragmented, making it not suitable for rRNA-depletion using some
+commercially available kits or poly(A)+ enrichment, which results in a 3
+sequence bias. Here, we present an efficient single-pass rRNA-depletion
+method (Ribo-Zero technology) for use with as little as 100 ng total RNA
+input from either intact or fragmented (e.g., FFPE) RNA samples.
+Additionally, an improved, more user-friendly version of the ScriptSeq
+RNA-Seq method (ScriptSeq v2) is used to rapidly prepare directional (99%
+strandedness) RNA-Seq libraries in about 2.5 hours, in a single-tube
+workflow, from either the intact or fragmented Ribo-Zero treated RNA
+samples. The ScriptSeq method does not require end-polishing,
+adaptor-ligation, cDNA fragmentation, or gel-size selection. The combined
+Ribo-Zero and ScriptSeq workflow is completed in about 5 hours,
+generating cluster-ready NGS libraries that contain Massively parallel
+sequencing of cDNA libraries (RNA-Seq) is rapidly becoming the preferred
+method for transcript profiling, and analysis of novel transcripts, novel
+isoforms, alternative splice sites, rare transcripts and cSNPs, compared
+to microarrays. Preparing NGS RNA-Seq libraries typically require first
+isolating rRNA-depleted RNA or enriching for poly(A)+ mRNA. However,
+total RNA isolated from formalin-fixed, paraffin-embedded (FFPE) patient
+tissue samples is normally fragmented, making it not suitable for
+rRNA-depletion using some commercially available kits or poly(A)+
+enrichment, which results in a 3 sequence bias. Here, we present an
+efficient single-pass rRNA-depletion method (Ribo-Zero technology) for
+use with as little as 100 ng total RNA input from either intact or
+fragmented (e.g., FFPE) RNA samples. Additionally, an improved, more
+user-friendly version of the ScriptSeq RNA-Seq method (ScriptSeq v2) is
+used to rapidly prepare directional (99% strandedness) RNA-Seq libraries
+in about 2.5 hours, in a single-tube workflow, from either the intact or
+fragmented Ribo-Zero treated RNA samples. The ScriptSeq method does not
+require end-polishing, adaptor-ligation, cDNA fragmentation, or gel-size
+selection. The combined Ribo-Zero and ScriptSeq workflow is completed in
+about 5 hours, generating cluster-ready NGS libraries that contain <2 %
+of reads that map to rRNA sequences (nuclear- and mitochondrial-encoded)
+and 98% of reads that map to the genome, while maintaining the
+representation of coding and non-coding transcripts, independent of
+polyadenylation. This reduction in rRNA sequence reads improves sequence
+depth and coverage of mRNA, and increases the percentage of uniquely
+mapped reads required for transcriptome analysis.
+

@@ -1,0 +1,37 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Integrated cistromic and expression analysis of amplified NKX2-1
+in lung adenocarcinoma identifies LMO3 as a functional transcriptional
+target.
+
+
+The NKX2-1 transcription factor, a regulator of normal lung development,
+is the most significantly amplified gene in human lung adenocarcinoma. To
+better understand how genomic alterations of NKX2-1 drive tumorigenesis,
+we generated an expression signature associated with NKX2-1 amplification
+in human lung adenocarcinoma, and analyzed DNA binding sites of NKX2-1 by
+genome-wide chromatin immunoprecipitation (ChIP-seq) from three
+NKX2-1-amplified human lung adenocarcinoma cell lines. Integration of
+these expression and cistromic analyses suggested that aberrant
+over-expression of NKX2-1 primarily activates the expression of
+transcriptional target genes whose expression is not trans-activated by
+NKX2-1 at physiological expression levels, and identified LMO3, itself
+encoding a transcription regulator, as a candidate direct transcriptional
+target of NKX2-1. NKX2-1 amplification is most significantly associated
+with over-expression of the LMO3 gene, a member of the LMO family of
+oncogenes that are translocated in T-ALL, the same disorder in which
+NKX2-1 translocation has been observed. We further show that NKX2-1
+interacts physically with the LMO3 locus, and activates its expression.
+RNA interference analysis of NKX2-1-amplified cells compared to
+non-amplified cells demonstrated that LMO3 mediates cell proliferation
+downstream of NKX2-1. Further cistromic analyses found that consensus
+binding motifs including a nuclear hormone receptor signature and a
+Forkhead box motif, indicating that NKX2-1 might cooperate with Forkhead
+box FOXA1 and nuclear hormones to regulate gene expression. Genome-wide
+analysis of FOXA1 occupancy by ChIP-seq in the NCI-H3122 cell line
+revealed that FOXA1 binds not only to the LMO3 locus upstream of NKX2-1
+binding site but also to many NKX2-1 occupied regions (47% of total
+NKX2-1-bound sites). Our findings provide new insight into the
+transcriptional regulatory network of NKX2-1 and suggest that LMO3 is a
+transducer of lineage specific cell survival of NKX2-1-amplified lung
+adenocarcinomas.
+

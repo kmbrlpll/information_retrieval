@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Tailoring approaches for global epigenome analysis from archival
+formalin-fixed paraffin-embedded tissue samples
+
+
+Novel DNA extraction methodologies allow the use of archival material
+from formalin fixed paraffin embedded (FFPE) tissue samples in genomic
+studies. A major limitation of this source of DNA is the fragmented
+nature and low overall yield generally obtained from clinical materials,
+making downstream applications such as epigenetic analysis challenging.
+Previous published attempts have focussed on smaller regions of CpG
+islands, such as the use of Illumina's 450k arrays (which measure
+methylation at approximately 485,000 sites). The objective of this study
+was to optimize experimental and analytical workflows that allow
+effective interrogation of global DNA methylation profiles from FFPE
+samples.Methylation capture was conducted on DNA from matched FFPE and
+fresh frozen samples from the same metastatic colorectal cancer patient
+as well as two colorectal cancer cell lines, using the SeqCap Epi (Roche)
+methyl capture system. The custom capture designed includes 5.5 million
+CpG sites across the genome, a greater than 10-fold increase compared to
+previously published studies. The wet-lab protocol was robustly optimized
+for several parameters, such as overall yield and bisulphite conversion
+efficiency (measured by shallow-read next generation sequencing). A data
+analysis pipeline composed of the bisulfite-converted DNA aligner
+BWA-meth, as well as in-house Perl and R scripts, was used to generate
+detailed methylation maps for individual sample types in order to
+identify differentially methylated regions (DMRs), which were further
+validated using targeted bisulphite sequencing for selected
+loci.Preliminary analysis of the data revealed 98% bisulphite conversion
+efficiency and low PCR duplicate rate (4-5%) across both sample types.
+Intriguingly, we observe an 80% concordance between the overall DNA
+methylation profiles between FFPE and fresh frozen samples, with a 60%
+overlap between the FFPE and fresh frozen samples in terms of direction
+of methylation i.e. hyper or hypomethylation. Mapping overall methylation
+levels to CpG resorts (+/- 4kb of CpG islands) indicated 10% of
+methylation occurred in these regions totalling 245MB. Known genomic
+features, including exons, promoters of coding/non-coding genes and
+enhancers, contained 30% (1.5 million) of the methylated positions. In
+addition, this methodology also allowed us to identify C to T transitions
+across all samples, a common artefact of formalin fixed samples. The
+analysis revealed that a significantly low proportion of C to T
+transitions were detected across all samples, the levels of the
+transitions being consistent between the two sample types. Taken
+together, these results demonstrate a robust and novel approach to
+generate DNA methylation profiles from difficult-to-handle, but
+frequently available material, thus establishing a suitable platform for
+a whole methylome profiling from archival samples.
+

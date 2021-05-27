@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Functional studies of HLA SNPs associated with risk of follicular
+lymphoma.
+
+
+Background: GWAS suggest an important role of genetic variation in the
+etiology of follicular lymphoma (FL). We previously identified multiple
+FL risk loci in the human leukocyte antigen (HLA) Class II region on
+chromosome 6p21.33-32, including rs10484561 (OR=1.95, P=1.12x10-29) and
+rs2647012 SNP (OR=0.64, P=2x10-21) (Conde et al., Nat Gen, 2010; Smedby
+et al. Plos Gen, 2011). HLA typing revealed that the rs10484561 and
+rs2647012 SNPs are in complete LD (D=1) with the extended HLA haplotypes
+DRB1*01:01-DQA1*01:01-DQB1*05:01 and DRB1*15-DQA1*01-DQB1*06,
+respectively (Skibola et al., Tiss Antigens, 2012). HLA gene variants may
+alter immune responses to specific antigens and influence tumor
+development through effects on gene expression or protein structure. By
+comparing GWAS data with RNA sequencing data, we identified expression
+quantitative trait loci (eQTL) in LD with rs2647012 that influence gene
+expression (Conde et al, in press). To gain a further understanding of
+the mechanisms involved, here we explored the effects of FL-associated
+HLA SNPs and alleles on expression at both the transcriptional and
+protein level.Methods: Thirty-eight lymphoblastoid cell lines (Coriell
+Institute) and monocyte-derived dendritic cells from 28 individuals with
+HLA typing information were cultured, and RNA and DNA were extracted.
+Genotype data for rs10484561, rs2647012 and recently identified eQTLs
+were obtained from HapMap or by Taqman genotyping. mRNA expression levels
+of HLA Class II genes were measured by RT-qPCR and protein levels were
+measured by flow cytometry, ELISA and Western blotting. Correlation
+between genotype and expression data was tested using the Spearman's rank
+correlation test.Results: The variant (protective) alleles of
+rs2647012-linked SNPs were significantly associated with higher HLA-DQB1
+transcript levels, confirming our previous eQTL analysis. Flow cytometry
+and ELISA with HLA-specific antibodies also confirmed that these
+FL-protective alleles were associated with higher HLA-DQB1 (but not
+HLA-DQA1 or -DRB1) protein levels. No significant changes were observed
+in HLA-DRB1, -DQB1 or -DQA1 transcript or protein levels when analyzing
+the correlation of rs10484561-linked SNPs and HLA gene expression.
+Similar results were found in lymphoblastoid cell lines, and in immature
+and mature monocyte-derived dendritic cells.Conclusions: eQTL SNPs in LD
+with the protective rs2647012 variant were associated with higher
+HLA-DQB1 mRNA and protein expression, suggesting that rs2647012 or a SNP
+in LD influences FL risk through effects on HLA-DQB1 gene expression. No
+significant differences were found in transcript or surface protein
+levels based on rs10484561 genotypes. These findings suggest that the
+increased risk of FL associated with rs10484561 that is in high LD with
+the HLA-DRB1*0101_DQA1*0101_DQB1*0501 extended haplotype is not due to
+transcriptional modulation, but may be due to effects on protein
+

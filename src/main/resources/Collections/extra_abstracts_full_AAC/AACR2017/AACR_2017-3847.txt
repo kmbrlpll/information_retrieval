@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Oral cavity squamous cell carcinoma xenografts display
+conservation of primary tumor genomic heterogeneity.
+
+
+Purpose: Patient derived xenograft (PDX) models represent a platform for
+defining therapeutic opportunities based on their ability to maintain the
+genomic and molecular features of their respective tumors. We used a
+comprehensive genomics approach to analyze PDXs for oral squamous cell
+carcinoma (OSCC), which had not been previously described. This involved
+confirming that the PDXs conserve the heterogeneous somatic landscape of
+the primary tumors from which they were derived.
+
+Methods: We established a large panel of OSCC PDX models by engrafting
+fresh, primary tumor samples into NOD scid gamma (NSG) mice. We performed
+whole genome sequencing (WGS; n=10), whole exome sequencing (WES; n=15),
+and transcriptome sequencing (RNAseq; n=15) on matched primary and first
+passage xenografts. Somatic events, including mutations, copy number
+alterations (CNAs), loss-of-heterozygosity (LOH) regions, and structural
+variation (SV), were detected independently in tumors and PDXs.
+Conservation was defined by the correlation of variant allele frequency
+(VAF) distributions and gene expression patterns, presence of larger
+somatic events, and predictions made about the subclonal architecture of
+the tumor and xenograft.
+
+Results: PDXs were established with an overall success rate of 47%
+(56/118). The somatic landscape of primary tumors was representative of
+the published genomic data on OSCC, including amplifications of CCND1 and
+EGFR family members, inactivating mutations and loss of TP53 and CDKN2A,
+and chromosome 3q amplification. These somatic events were also strongly
+conserved in matched xenograft samples. Mutations that were detected in
+either the xenograft or primary tumor, but not its matched sample,
+consisted primarily of low-frequency mutations. The predicted clonal
+architecture, however, revealed correlative subclonal heterogeneity
+between matched xenograft and primary tumor. This includes maintenance of
+founding clone mutations and consistent VAF distributions, indicating
+that a heterogeneous tumor population engrafted.
+
+Conclusions: This comprehensive approach establishes early-passage PDXs
+as high fidelity models for OSCC. Their ability to maintain the genomic
+heterogeneity detected in primary OSCC tumors presents a clinically
+relevant platform for understanding tumor biology and identifying novel
+therapeutic strategies.
+
+

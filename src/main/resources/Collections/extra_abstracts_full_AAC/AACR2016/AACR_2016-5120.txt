@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The novel claudin-low molecular subtype of high-grade urothelial
+bladder cancer is highly immunogenic yet immunosuppressed
+
+
+Rationale: High-grade urothelial carcinoma of the bladder is a
+heterogeneous disease, with molecular subtypes characterized by distinct
+tumor biologies and prognoses. Our group and others have described the
+basal and luminal subtypes, and we now report on the discovery of the
+claudin-low subtype, all of which resemble analogous subtypes in breast
+cancer.Methods: We analyzed mRNA sequencing and whole exome sequencing
+data for The Cancer Genome Atlas (TCGA) bladder tumors and tumors
+collected at UNC. We performed unsupervised hierarchical clustering on
+relative gene expression values with significance testing using SigClust
+to identify the claudin-low subtype. Basal, luminal, and claudin-low
+bladder tumors were compared for enrichment of genetic features (single
+nucleotide and copy number variation), gene set expression, immune gene
+signature expression, T cell receptor (TCR) and B cell receptor (BCR)
+gene segment expression, and number of predicted MHC Class I and Class II
+neoantigens. We further report on the first use of our VDJician software
+to reconstruct full-length rearranged BCR sequences from short-read RNA
+sequencing data in bladder cancer.Results: Claudin-low bladder tumors
+were defined by low expression of tight junction claudin-proteins, high
+expression of epithelial-to-mesenchymal transition genes and immune gene
+signatures, and were associated with reduced overall survival compared to
+luminal tumors. A minimal gene set classifier to identify claudin-low
+tumors showed some but not complete overlap with an optimal classifier
+derived in breast cancer. Claudin-low bladder tumors were enriched for
+multiple genetic features: increased rates of RB1, EP300, and NCOR1
+mutations, increased frequency of EGFR amplification, decreased rates of
+FGFR3, ELF3, and KDM6A mutations, and decreased frequency of PPARG
+amplification. Claudin-low tumors showed the highest expression of immune
+gene signatures (including an immunosuppression signature), however in
+contrast to basal tumors, increased immune gene signature expression was
+not associated with prolonged survival. Claudin-low tumors also showed
+the highest overall expression of rearranged BCR sequences but lowest BCR
+repertoire diversity. Predicted neoantigen burden did not vary
+significantly by subtype, however broad cytokine and chemokine expression
+levels were elevated in claudin-low tumors, potentially related to low
+PPARG activity driving increased NFKB activity.Conclusions: Claudin-low
+bladder cancer is a novel molecular subtype with distinct molecular and
+immunologic features and prognostic significance. Given the presence of
+dense immune infiltrates, BCR repertoire characteristics consistent with
+an antigen-driven response, and high expression of immunosuppression
+genes, claudin-low bladder tumors may be primed to respond to immune
+checkpoint inhibitor therapy.
+

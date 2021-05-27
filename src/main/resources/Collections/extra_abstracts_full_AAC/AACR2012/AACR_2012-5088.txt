@@ -1,0 +1,27 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Identification of effective genotype-selective drug combinations
+in melanoma
+
+
+Resistance and partial responses to individual therapeutic agents are
+major obstacles in cancer treatment. In certain cases, combination
+therapies are clearly more effective, but systematic approaches to the
+identification of synergistic combinations of drugs are not well
+established. Here we present a bioinformatics-guided, high-throughput
+combinatorial screening platform that tests an array of small molecule
+drug combinations. A panel of over one hundred fifty agents was curated
+for compounds that inhibit receptors and signaling pathways active in
+melanoma, and broader groups of conventional cell cycle-active and
+genotoxic agents. Sixteen-point dose-effect curves were determined. Forty
+of the compounds exhibiting activity and representing the major classes
+tested were further analyzed. Three doses each were chosen, set up in all
+pair-wise combinations using a hit-picking robot, and analyzed against
+cell lines with activated BRAF, activated RAS, or neither mutation.
+Several combinations were selectively effective for melanomas containing
+activating mutations in BRAF, but were ineffective for mutant RAS
+melanomas, which were most susceptible to a small group of other drug
+combinations. Work is underway to validate the effective combinations in
+animal models, and to mine transcriptome and phosphoproteomic data
+associated with the cell lines to better predict sensitivity and
+resistance.
+

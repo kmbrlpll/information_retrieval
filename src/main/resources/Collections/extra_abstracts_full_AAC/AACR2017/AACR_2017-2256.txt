@@ -1,0 +1,34 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Semaphorin 3C has a possibility of a new prognostic marker in
+colorectal cancer.
+
+
+Background: Generally, Semaphorins are secretary or transmembrane-bound
+molecules that act as axon guidance cues in the nervous system. Recent
+research showed increased expression of semaphorin 3C correlates with
+cancers that possess higher invasive and metastatic characteristics. For
+example, in breast cancer, inhibition of semaphorin 3C reduces adhesion
+and invasion. The aim of this study was to evaluate a possibility that
+semaphorin 3C might be a new prognostic marker in colorectal cancer.
+
+Material and methods: We used two cohorts. Cohort 1 was the 192 patients
+with colorectal cancer resected surgically between 2009 and 2010. We used
+GSE 14333 dataset as Cohort 2 which included 226 patients with the
+colorectal cancer. In each cohorts, we divided the patients in to the two
+groups i.e., high or low semaphorin 3C expression group using receiver
+operating characteristic (ROC) curve based on the information of the
+recurrence of colorectal cancer. Disease-free-survival (DFS) rates were
+calculated using Kaplan-Meier methods. Differences between curves were
+evaluated with the log-rank test.
+
+Results: In the cohort 1, the DFS in the patients with higher expression
+was worse than that in the patients with lower expression (P = 0.0467).
+Semaphorin 3C has two probes (203788_s_at and 203789_s_at) in GSE14333.
+In the cohort 2, using each two probe of semaphorin 3C, the DFS in the
+patients with higher expression was worse than that of those patients
+with lower expression (P = 0.0015 and P = 0.0003).
+
+Conclusions: This study suggested that Semaphorin 3C might be a new
+prognostic marker in colorectal cancer.
+
+

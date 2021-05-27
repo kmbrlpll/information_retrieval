@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: ELTD1/ADGRL4, a novel adhesion GPCR regulator of tumour
+angiogenesis, suppresses lipid metabolism in endothelial cells, and is
+upregulated in breast cancer endothelium and epithelium.
+
+
+Background: We identified ELTD1/ADGRL4, an orphan GPCR belonging to the
+adhesion GPCR family (aGPCR), as a novel regulator of angiogenesis and a
+potential anti-cancer therapeutic target. ELTD1 is normally expressed in
+both endothelial cells & vascular smooth muscle cells. Expression in the
+tumour vasculature is significantly increased. Our aims were to analyse
+ELTD1’s function in endothelial cells & its role in breast cancer.
+
+Method: After ELTD1 silencing, mRNA array profiling was performed on
+primary human umbilical vein endothelial cells (HUVECs) & validated with
+qPCR & confocal microscopy. We investigated ELTD1 signalling by applying
+the aGPCR ‘Stinger/tethered-agonist Hypothesis’. For this, truncated
+forms of ELTD1 & peptides analogous to the proposed tethered agonist
+region were designed. FRET-based 2nd messenger (Cisbio IP-1; cAMP) &
+luciferase-reporter assays (NFAT; NFKB; SRE; SRF-RE; CREB) were performed
+to establish canonical GPCR activation. To investigate ELTD1 in breast
+cancer, a panel of cell lines representative of all molecular subtypes
+were qPCR screened. Furthermore, primary human breast cancers (n=245) &
+matched primary & nodal secondary breast cancers (n=79) were stained for
+ELTD1 expression. Staining intensity was then scored & compared with
+survival.
+
+Results: HUVEC mRNA expression profiling after ELTD1 silencing showed
+upregulation of SLC24A1, which transports citrate from the mitochondria
+to the cytoplasm & ACLY, which converts cytoplasmic citrate to Acetyl
+CoA, feeding fatty acid and cholesterol synthesis, and acetylation. We
+validated this at RNA & protein expression level & showed that ELTD1
+inhibited lipid droplet formation. Signalling experiments revealed that
+unlike other aGPCRs, ELTD1 does not couple to any canonical GPCR pathways
+(Gαi; Gαs; Gαq; Gα12/13). In breast cancer, we found that no
+representative cell line screened expressed ELTD1. Breast cancer
+immunohistochemistry revealed higher intensity vascular ELTD1 staining
+within the tumour stroma contrasted to normal stroma & expression within
+tumour epithelial cells (15%). Higher ELTD1 expression in both the tumour
+stroma vasculature (n=241; HR=0.68; p=0.04) & within the subset of tumour
+positive cases (n=24; HR=0.3; p=0.02) correlated with improved relapse
+free survival (RFS).
+
+Conclusion: ELTD1’s regulation of lipid synthesis through suppression
+of ACLY & SLC25A1 highlights ELTD1’s role as a novel regulator of
+endothelial metabolism. Unlike other aGPCRs, ELTD1 does not signal
+through canonical G protein pathways. The good prognosis of ELTD1
+expression may be related to inducing a quiescent endothelial population.
+It will be of interest to relate this to activity of anti-angiogenic
+therapy. Nevertheless, a relevant fraction of patients expressing ELTD1
+still relapsed & this may be a suitable target for this population.
+
+

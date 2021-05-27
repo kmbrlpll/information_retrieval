@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Role of PALB2-BRCA1 interaction in tumor suppression.
+
+
+Homologous recombination (HR) is the only error-free pathway for the
+repair of DNA double strand breaks (DSBs). BRCA1 and BRCA2, the two major
+breast cancer suppressor proteins, play essential roles in HR-mediated
+repair of DSBs by promoting the recruitment of RAD51, the recombination
+enzyme, to DNA damage sites for the initiation of HR. PALB2 (partner and
+localizer of BRCA2) plays a key role in this pathway by acting as a
+chromatin adaptor for BRCA2 and a linker between BRCA1 and BRCA2. Like
+BRCA1 and BRCA2, PALB2 is a tumor suppressor gene itself. Germline,
+heterozygous mutations in the gene increase the risk of breast, ovarian
+and pancreatic cancers. However, its mechanism is not fully understood.
+To investigate the in vivo role of the PALB2-BRCA1 interaction, we
+previously generated a Palb2 knockin mouse strain which contains a
+mutation that disrupts BRCA1 binding. This mouse model also allows us to
+bypass the embryonic lethality of the Palb2 KO mice. In this study, we
+hypothesized that the direct communication between the two proteins is
+critical for proper DNA damage repair and response in vivo and for
+suppression of tumorigenesis. Indeed, both immunohistochemistry (IHC) and
+immunofluorescence (IF) demonstrated that different tissues of the mutant
+mice have higher levels of endogenous DSBs (γH2AX foci) and slower DSB
+repair kinetics after ionizing radiation (IR). Yet, mutant cells were
+more resistant to cell death. When aged under normal conditions, mutant
+mice showed increased tumor incidence in multiple tissues, particularly
+in the liver. When challenged by IR, mutant mice quickly developed thymic
+lymphoma and later in other tissues including liver and ovary, etc.
+Interestingly, when crossed with Trp53 mutant mice, the resulting
+Palb2m/m;Trp53+/- mice showed greatly accelerated development of thymic
+lymphoma and osteosarcoma, which are typically associated with Trp53 but
+not Palb2 mutations. Exome sequencing revealed focal deletion of the
+wild-type allele of Trp53 in the majority of the tumors, suggesting that
+disruption of BRCA1-PALB2/BRCA2 axis promotes regional genomic deletions
+that may lead to loss of other tumor suppressors such as p53. Our results
+underscore the importance of the BRCA1-PALB2/BRCA2 pathway for tumor
+suppression and suggest a potentially novel mechanism for
+BRCA1/PALB2-mediated tumor suppression, which is by preventing Trp53/TP53
+loss of heterozygosity (LOH), which allows for tumor development.
+
+

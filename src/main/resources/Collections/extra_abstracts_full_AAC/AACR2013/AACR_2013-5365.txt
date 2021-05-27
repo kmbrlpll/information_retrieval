@@ -1,0 +1,86 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Genome-wide DNA methylation analysis in subsets of precursor
+B-cells isolated from umbilical cord blood.
+
+
+Tissue specific DNA methylation is accountable for regulating gene
+expression and cellular differentiation during normal human development.
+Aberrant tissue specific gene regulation may lead to the development of
+many disease states including cancer. Genome-wide analysis of DNA
+methylation (methylome) in both healthy and diseased tissue is essential
+to understand the functional consequence of altered DNA methylation.
+Acute lymphoblastic leukemia (ALL) is a malignancy associated with
+precursor B-cells. In order to gain a better understanding of the role of
+altered DNA methylation in the pathogenesis of ALL, it is essential that
+we characterize the DNA methylation present in healthy precursor B-cells.
+Umbilical cord blood is enriched for precursor B-cells and is used as a
+source of hematopoietic stem cells in the treatment of blood related
+disorders and malignancies. To study the methylome in healthy precursor
+B-cells, we have optimized a protocol to isolate 4 subsets of precursor
+B-cells from umbilical cord blood, and to then generate MBD-seq libraries
+from the small amount of genomic DNA (Tissue specific DNA methylation is
+accountable for regulating gene expression and cellular differentiation
+during normal human development. Aberrant tissue specific gene regulation
+may lead to the development of many disease states including cancer.
+Genome-wide analysis of DNA methylation (methylome) in both healthy and
+diseased tissue is essential to understand the functional consequence of
+altered DNA methylation. Acute lymphoblastic leukemia (ALL) is a
+malignancy associated with precursor B-cells. In order to gain a better
+understanding of the role of altered DNA methylation in the pathogenesis
+of ALL, it is essential that we characterize the DNA methylation present
+in healthy precursor B-cells. Umbilical cord blood is enriched for
+precursor B-cells and is used as a source of hematopoietic stem cells in
+the treatment of blood related disorders and malignancies. To study the
+methylome in healthy precursor B-cells, we have optimized a protocol to
+isolate 4 subsets of precursor B-cells from umbilical cord blood, and to
+then generate MBD-seq libraries from the small amount of genomic DNA (<
+100ng) isolated from those subsets of precursor B-cells.Subsets of
+precursor B-cells were isolated from cord blood based on the level of
+expression of cell surface antigen. Initially mononuclear cells were
+isolated by Ficoll-plaque followed by magnetic labeling and depletion of
+non B-cells. B-cells were labeled with antibodies against CD19, CD34 and
+CD45 surface antigens and sorted by flow cytometry. Based on expression
+level of surface antigen, four different subsets of precursor B-cells
+were sorted (CD19+/CD34+; CD19+/CD34-/CD45low; CD19+/CD34-/CD45med; and
+CD19+/CD34-/CD45high). Immediately after cell sorting, DNA was isolated
+by using a commercially available kit. The entire amount of DNA from
+CD19+/CD34+ and CD19+/CD34-/CD45low (Tissue specific DNA methylation is
+accountable for regulating gene expression and cellular differentiation
+during normal human development. Aberrant tissue specific gene regulation
+may lead to the development of many disease states including cancer.
+Genome-wide analysis of DNA methylation (methylome) in both healthy and
+diseased tissue is essential to understand the functional consequence of
+altered DNA methylation. Acute lymphoblastic leukemia (ALL) is a
+malignancy associated with precursor B-cells. In order to gain a better
+understanding of the role of altered DNA methylation in the pathogenesis
+of ALL, it is essential that we characterize the DNA methylation present
+in healthy precursor B-cells. Umbilical cord blood is enriched for
+precursor B-cells and is used as a source of hematopoietic stem cells in
+the treatment of blood related disorders and malignancies. To study the
+methylome in healthy precursor B-cells, we have optimized a protocol to
+isolate 4 subsets of precursor B-cells from umbilical cord blood, and to
+then generate MBD-seq libraries from the small amount of genomic DNA (<
+100ng) isolated from those subsets of precursor B-cells.Subsets of
+precursor B-cells were isolated from cord blood based on the level of
+expression of cell surface antigen. Initially mononuclear cells were
+isolated by Ficoll-plaque followed by magnetic labeling and depletion of
+non B-cells. B-cells were labeled with antibodies against CD19, CD34 and
+CD45 surface antigens and sorted by flow cytometry. Based on expression
+level of surface antigen, four different subsets of precursor B-cells
+were sorted (CD19+/CD34+; CD19+/CD34-/CD45low; CD19+/CD34-/CD45med; and
+CD19+/CD34-/CD45high). Immediately after cell sorting, DNA was isolated
+by using a commercially available kit. The entire amount of DNA from
+CD19+/CD34+ and CD19+/CD34-/CD45low (<100ng) subsets, and 100ng of DNA
+from CD19+/CD34-/CD45med and CD19+/CD34-/CD45high subsets were fragmented
+by sonication using Diagenode Bioruptor. Sequencing libraries were
+generated using the Illumina Chip-seq protocol with modifications.
+Enrichment of methylated DNA was validated by PCR amplification of
+methylated (SLC25A37) and unmethylated (APC) regions. MBD-seq libraries
+were sequenced using Illumina next-generation sequencing technology and
+then sequenced data were analyzed by NextGENe software. We found 45
+million uniquely matched reads covering 700 million bases in the human
+genome for each precursor B-cell subset. Methylated peaks were identified
+using the Peak Identification tool in NextGENe. The results demonstrated
+a differential pattern of DNA methylation in the subsets of healthy
+precursor B-cells.
+

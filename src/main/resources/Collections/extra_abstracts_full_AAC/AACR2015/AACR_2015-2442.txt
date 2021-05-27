@@ -1,0 +1,33 @@
+Meeting: 2015 AACR Annual Meeting
+Title: XPO1 is selinexor prime target: validation by mutating cysteine
+528 on both XPO1 alleles using CRISPR/Cas9 genome editing
+
+
+Human Exportin-1 (XPO1) is the key nuclear-cytoplasmic transport protein
+that exports a variety of different cargo proteins out of the cell's
+nucleus. Inhibition of XPO1-mediated protein export results in nuclear
+retention of cargo proteins including tumour suppressor proteins and is a
+novel therapeutic strategy for cancer. Selinexor, an orally bioavailable
+XPO1 inhibitor, effectively demonstrates potent activity against multiple
+types of cancer. Here we directly demonstrate the high selectivity of
+selinexor for XPO1 inside living cells.Selinexor binds to the
+cargo-binding pocket of XPO1 and inhibits the formation of XPO1-cargo
+complex. The binding of selinexor to XPO1 involves a slowly reversible
+Michael addition type interaction of its acrylate moiety with cysteine
+528 residue of XPO1. Using CRISPR/Cas9 genome editing we have now created
+a homozygous Jurkat T-ALL cell line carrying a Cys528Ser mutation in
+XPO1. This cell line was used to study the specificity of selinexor for
+XPO1 inside the cancer cell. Selinexor was highly toxic to wild-type
+Jurkat cells in the low nanomolar range while the mutant cells were
+resistant up to micromolar concentrations. These results were confirmed
+by resistance to induction of caspase dependent apoptosis as well as cell
+cycle arrest in mutant cells. The single Cys528Ser mutation thus confers
+resistance to selinexor. In addition, selinexor failed to accumulate
+cargo proteins in the nucleus of mutant cells. Moreover, the Cys528Ser
+substitution conferred resistance to the direct interaction of this drug
+to XPO1 in cells.In conclusion, these results validate XPO1 as the
+selinexor's prime target and pinpoint its unique selectivity to the
+Cys528 residue of XPO1. Our findings also demonstrate the general utility
+of CRISPR/Cas9 genome editing for introducing point mutations in the
+genome of cancer cells for drug-target specificity validation.
+

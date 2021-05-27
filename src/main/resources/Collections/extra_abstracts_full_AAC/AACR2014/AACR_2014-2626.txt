@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Novel naphtoquinone PIC21 targets PI3K in triple negative breast
+cancer cell line
+
+
+Background: Triple negative breast cancer (TNBC) is a heterogeneous
+subgroup (ER-, PR-, and HER2-) of aggressive breast cancer, which poor
+prognosis is partially due to chemoresistance to available drugs. We have
+synthesized and screened 43 novel naphtoquinone-derived drugs
+(patent-protected), rationally designed to act through multiple pathways
+to avoid tumor chemoresistance, in MDA-MB231 by cellular metabolic
+viability and IC50 calculation. Of these, the most promising drugs PIC20
+and PIC21 showed significantly higher AE than cisplatin, doxorubicin and
+paclitaxel in the lineage.Methods: Based on the crystalline structure of
+protein deposited on Protein Data Bank ( 1E7U, PI3K), and PIC20 and PIC21
+tridimensional structures, computational molecular dock studies were
+conducted to investigate the molecules PIC20 e PIC21 tridimensional
+conformation and bounding energy to PI3K (Autodock Vina software). In
+vitro PI3K inhibition by PIC21 in MDA-MB231 was assessed using the
+Flowcellect PI3K/Mapk Dual Pathway Activation and Cancer Marker
+Detection. For PI3K/Akt and MAPK signaling pathways, cells were pre
+treated with PIC21 (0,1mM, 2h) or Wortmannin (Wort) (0,1M, 30 min). Cells
+were then treated with insulin (0,6M, 5 min) for stimulation of PI3K/Akt
+and MAPK pathways and incubated with Anti-phospho-Akt1/PKB Alexa Fluor
+488 Conjugated Antibody and Anti-phospho-Erk1/2- R- Phycoerythrin
+conjugated antibody. A FACSCanto II cytometer was used for the flow
+cytometric analysis. FSC and SSC were used to establish size gates and
+exclude cellular debris from the analysis. In each measurement, a minimum
+of 30000 events were analyzed. Data were acquired and analyzed using BD
+FACSDiva and DeNovo FCS software.Findings: PIC21 targeting of PI3K was
+confirmed by docking studies, which data demonstrated that the
+interaction energy (E) for PI3K and PIC21, and PI3K inhibitors, LY294002
+and Wort, was: PIC20 (E=-8.9), PIC21(E=-8.2), LY294002 (E=-9.5), Wort
+(E=-8.8). Cell treatment with PIC21 and Wort decreased the pAkt+ cell
+population (control=23.02%, PIC21 treated=6.63%, Wort treated=4.20%),
+whereas the pERK+ cell population increased (control=0,58%, PIC21
+treated=6,41%, Wort treated=10,14%. This is due to the pathways
+crosstalk, by which pAkt inhibits the MAPK/ERK pathway.Conclusions: Our
+data strongly points to PIC21 as a novel PI3K inhibitor. A high
+prevalence of PI3K mutation, leading to its constitutive activation, has
+been described in TNBC, favoring tumor cells growth, proliferation,
+metabolism, and survival. Therefore, PIC21 opens a new avenue to overcome
+TNBC dramatic epidemiological scenario, bringing hope to improve patients
+overall outcome and quality of life.
+

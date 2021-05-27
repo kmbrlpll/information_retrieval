@@ -1,0 +1,20 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A quantitative model to study cell-type-specific transcriptional
+regulation between MCF-7 and LNCaP
+
+
+Transcriptional regulation lies at the heart of biological processes. To
+further understand the regulatory mechanism, we are studying the
+transcriptional networks of nuclear receptors in breast cancer cell line
+MCF-7 and prostate cancer cell line LNCaP. Based on whole-genome gene
+expression microarray data, we observed very different transcriptional
+programs induced by ligands of nuclear receptors between these two cell
+lines. In order to systematically explain cell-type-specific
+transcriptional regulation, we are trying to build a quantitative model
+to predict gene expression in different cellular contexts under different
+ligand stimulations. The model will be trained using data including
+genomic binding sites of nuclear receptors (ChIP-Seq), and time-series
+expression of nuclear receptors, cofactors and their target genes
+(Nanostring). The output of the model will be gene expression
+trajectories after ligand treatments in the two cell lines.
+

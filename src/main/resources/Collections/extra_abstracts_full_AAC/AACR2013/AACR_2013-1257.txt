@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Investigating the protective role of HLA-B35 in pancreatic cancer.
+
+
+HLA-B35 has recently been reported as a protective marker for pancreatic
+cancer development. The goal of the current study was to investigate
+whether this link between B35 and cancer protection was related to
+cellular immunity and correlated with the presence of HLA-B35-restricted
+cytotoxic T cell activity. As a model antigen we chose mesothelin (MSLN),
+a tumor antigen expressed by >90% of pancreatic tumors and known to be
+immunogenic to T cells. To activate MSLN-specific T cells we generated
+autologous DCs from 15 HLA-B35 positive and 12 HLA-B35 negative donors
+and loaded them with a pepmix (15mers overlapping by 11aas) spanning MSLN
+in order to use an HLA unbiased approach for antigen stimulation. These
+were used to stimulate PBMCs in the presence of a cytokine cocktail (IL7,
+12, 15, 6), which we have optimized for activating tumor-directed T cells
+in vitro. We were successfully able to amplify an immune response against
+MSLN in 12 of 15 (80%) B35+ donors based on IFNg ELIspot analysis (range
+23-10108 SFC/2x10e5). In contrast we were successful in only 1 of 12 (8%)
+B35-ve donors. Since the CTL lines were polyclonal (CD8+, median 69%,
+range 38-97%; CD4+, median 30%, range 2-55%) we next investigated, using
+ICS, whether this anti-tumor activity was in the helper or cytotoxic T
+cell compartments. Eight of 13 MSLN responders had activity exclusively
+in CD8+ T cells (range 3-64% IFNg+ cells) and 2 had activity in both CD8
+and CD4 T cells, while in the only non-B35 responder activity was
+detected exclusively in the CD4+ T cell compartment. We next performed
+epitope mapping studies using peptide minipools and detected activity
+against 3 published CD8+ epitopes [HLA-24 FYP (aa435-443) and LYP
+(aa475-483); HLA-A2 VLP (aa530-538)] as well as 5 novel B35-restricted
+epitopes, one of which was detected in 7 of our 12 B35 responders.
+Finally, to assess whether these novel epitopes were recognized in the
+context of HLA-B35 we loaded autologous and partially HLA-matched APCs
+with the individual peptides and assessed cytolytic activity. Autologous
+peptide-loaded targets were killed (range 52-98% killing, E:T 40:1) as
+were allogeneic targets exclusively matched at HLA-B35 (range 32-92%
+killing), confirming that all epitopes were presented by the HLA-B35
+allele. These B35-restricted CTLs were also able to kill HLA-matched
+tumors expressing MSLN - we saw specific lysis of CFPAC-1 (B35+MSLN+)
+(36% killing E:T 40:1) with no recognition of CAPAN-1 (B35-MSLN+) (3%
+killing). Thus, our results support a contribution of HLA-B35-restricted
+T cells and anti-tumor activity in pancreatic cancer and highlight the
+importance of cellular immunity in protection against cancer.
+

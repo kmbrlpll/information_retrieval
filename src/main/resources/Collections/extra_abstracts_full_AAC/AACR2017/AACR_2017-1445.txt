@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Understanding the 8q24 colorectal cancer risk locus via
+CRISPR/Cas9 scarless genome editing.
+
+
+Colorectal Cancer (CRC) is one of the leading causes of mortality in the
+US, being the third most common cancer among both men and women. While an
+exact cause of CRC has not yet been elucidated, the existence of a clear
+heritable genetic component has been established. With the recent surge
+of data from Genome-Wide Association Studies, a handful of CRC-associated
+loci have been identified, each containing numerous Single Nucleotide
+Polymorphisms (SNPs). We hypothesize that among the ~25 loci associated
+with increased risk for CRC, there are driver SNPs functioning to
+contribute to initiation or progression of CRC development. It is
+crucial, in order to enhance our understanding CRC tumorigenesis, to
+extract these functional variants from the pool of associated SNPs and
+validate their causative significance within the cell. To model these
+functional SNPs, we have developed a novel “scarless” isolation
+pipeline for selecting isogenic clones with the desired single-base edit
+without selection markers following CRISPR-Cas9 mediated HDR. With this
+pipeline, we have successfully modeled our first selected SNP, rs6983267,
+from the 8q24 risk locus in HCT-116 cells, producing the heterozygous
+genotype (G/T) from the parental homozygous risk (G/G) genotype.
+Rs6983267 is located within a known c-Myc enhancer and has been shown to
+exert risk-allele specific increase in enhancer activity. Oncogenic c-Myc
+is known to play a significant role in CRC pathogenesis. In line with
+previous studies, we observe a slight decrease in c-Myc expression in our
+heterozygous clones compared to wildtype homozygous risk. Moreover, we
+observe a preferential binding of the transcription factor in control of
+c-Myc transcriptional regulation, TCF7L2, to the risk allele over the
+reference allele while binding of proximal factors such as CTCF show no
+allelic preference. Interestingly, we also see significant changes in
+expression of target genes of the WNT signaling pathway. Dysregulation of
+WNT is a hallmark characteristic of CRC. These changes indicate there is
+indeed an effect of the risk allele of rs6983267 on overall WNT activity
+in CRC cells due to increased binding of transcription factor TCF7L2.
+This novel SNP editing pipeline provides a method to study precise
+effects of single base changes located anywhere in the genome. Utilizing
+it to model other risk SNPs will enable the enhancement of our current
+understanding of GWAS-identified risk loci in CRC pathogenesis at the
+molecular level.
+
+

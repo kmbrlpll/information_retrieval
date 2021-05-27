@@ -1,0 +1,36 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A genome-wide shRNA screen for suppressors of prostate cancer cell
+invasion
+
+
+Metastasis in prostate cancer is caused by genetic reprogramming leading
+to increased cell motility and the formation of invasive structures which
+allow cells to invade out of the primary tumour in a process known as
+intravasation. In order to search for novel genes inhibiting invasive
+phenotypes responsible for intravasation, a genome-wide high throughput
+short hairpin RNA screen was used to identify genes which suppress
+aggressive phenotypes in BPH (Benign Prostatic Hyperplasia) prostate
+epithelial cells when grown in 3D matrigel culture conditions. Using the
+The RNAi Consortium (TRC) lentiviral shRNA library that covers the entire
+human transcriptome (80,000 unique constructs), BPH cells were infected
+such that each cell would integrate a single shRNA construct that will
+target mRNA expression of a known human gene. Cells were plated at 4500
+cells per cm2 until a 2.5X genome-wide coverage was achieved. In 3D
+matrigel culture conditions, BPH colonies exhibit normal epithelial
+(round) colony morphology. Hence, we screened for clonogenic BPH colonies
+that appeared fibroblastic and spindle-shaped. Collection of these hits
+yield gene identities that suppress intravasation. In this ongoing study,
+we have achieved 2.5x coverage of the TRC shRNA library in BPH cells.
+After 11 days of growth, 7 hits from the BPH screen that exhibit an
+invasive phenotype were isolated, and were validated again in 3D matrigel
+culture. These hits have revealed 12 potential invasion suppressors
+involved in pathways including ER stress, cortactin phosphorylation
+signalling, cell differentiation and genome stability. These hits are
+currently being re-validated with other shRNAs specific for each gene.
+Overall, we provide a high-throughput and high-content screen for
+discovering novel genes that inhibit prostate cancer progression. These
+functional genomics screens which focus on altered prostate cell colony
+phenotypes may open new doors for potential drug treatments and a greater
+understanding of prostate cancer and BPH.
+
+

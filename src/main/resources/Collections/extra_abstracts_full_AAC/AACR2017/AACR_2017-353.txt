@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: ROR1 inhibits ASK1-mediated pro-apoptotic signaling in lung
+adenocarcinoma.
+
+
+We previously reported that the receptor tyrosine kinase-like orphan
+receptor 1 (ROR1) is transcriptionally activated by TTF-1/NKX2-1
+lineage-survival oncogene in lung adenocarcinoma and maintains a
+favorable balance between pro-survival PI3K-AKT and pro-apoptotic
+ASK1-p38 signaling. Although in-depth mechanistic insight into how ROR1
+sustains EGFR-mediated PI3K-AKT signaling in both kinase-dependent and
+-independent manners has been obtained, it remains elusive how ROR1
+inhibits pro-apoptotic signaling. In the present study, we investigated
+the underlying mechanism of ROR1-mediated inhibition of the ASK1-p38MAPK
+signaling pathway. Co-treatment with siASK1 resulted in partial but
+significant alleviation of siROR1-mediated growth inhibition in the lung
+adenocarcinoma cell lines PC-9 and NCI-H1975, which readily express both
+ROR1 and ASK1. Significant decreases in auto-phosphorylation of ASK1 at
+threonine 845 and p38 phosphorylation at threonine 180 and tyrosine 182
+were observed in ROR1-transfected MSTO-211H cells in both steady state
+and oxidative stress-elicited conditions, suggesting ROR1-mediated
+negative regulation of the ASK1-p38 axis. ROR1 was shown to interact
+physically with ASK1 through the C-terminal serine/threonine-rich domain
+of ROR1. An in vitro kinase assay using cellular ASK1 prepared from
+ASK1-transfected 293T cells as well as recombinant MBP-tagged
+kinase-deficient MKK6 revealed that co-incubation of ASK1 with
+recombinant GST-tagged ROR1 clearly diminished ASK1 auto-phosphorylation
+and MKK6 phosphorylation. We further examined whether the kinase activity
+of ROR1 is required for inhibition of ASK1 activity using MSTO-211H cells
+stably transfected with either a wild-type or a kinase-dead mutant of
+ROR1. In contrast to wild-type ROR1, kinase-dead ROR1 failed to
+significantly repress hydrogen peroxide-induced ASK1 phosphorylation as
+well as consequential p38 phosphorylation and increase in sub-G1 cells.
+Since we previously found that ROR1 activates SRC, we also examined
+whether SRC is involved in the ROR1-sustained ASK1 inhibition.
+Introduction of constitutively active SRC significantly reduced
+siROR1-induced ASK1activity in PC-9 cells, while co-transfection of SRC
+and ASK1 resulted in tyrosine phosphorylation of ASK1, which was
+accompanied with diminished ASK1 phosphorylation at threonine 845.
+Finally, the interaction between SRC and ASK1 was found to be enhanced by
+the presence of ROR1 by an in vitro pull-down assay. Taken together, the
+present findings support our notion that ROR1 sustains lung
+adenocarcinoma survival, at least in part, through direct physical
+interaction with both ASK1 and SRC, which consequently results in
+repression of the pro-apoptotic ASK1-p38 axis in a ROR1 kinase
+activity-dependent manner.
+
+

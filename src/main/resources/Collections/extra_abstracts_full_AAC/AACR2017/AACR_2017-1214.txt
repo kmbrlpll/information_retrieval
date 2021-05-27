@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The polymeric fluoropyrimidine F10 is effective towards cell and
+organoid models of 5-FU-resistant colorectal cancer.
+
+
+Background: Fluoropyrimidine drugs (FPs, e.g. 5-fluorouracil (5-FU))
+constitute the backbone of most chemotherapy regimens for treating
+locally-advanced and metastatic colon cancer (e.g. FOLFOX, FOLFIRI,
+FOLFOXIRI). While current FPs improve survival and are the preferred
+drugs for most colorectal (CRC) cases, drug resistance is a serious
+problem. One of the most prevalent causes of 5-FU resistance is mutation
+in TP53 which occur in more than one-third of stage III CRC tumors. 5-FU
+requires wtp53 for initiation of apoptosis and CRC cells with mtp53 are
+markedly less sensitive to 5-FU.
+
+Methods: To test if F10 induced p53-independent apoptosis in CRC cells,
+we obtained p53-/- and p53+/+ HCT-116 cells from Professor Vogelstein
+(Johns Hopkins) and evaluated drug-response in cell-based, organoid, and
+xenograft models. Cell viability and apoptosis were assessed using
+Cell-Titer Glo and Caspase Glo assays (Promega). Cell-cycle distribution
+was evaluated by flow cytometry analysis of propidium iodide stained
+cells. Thymidylate synthase (TS) activity was assessed using a 3H-release
+assay and Topoisomerase 1 cleavage complex (Top1cc) formation was
+assessed using an in vivo complex of enzyme (ICE) bioassay. Cell division
+was quantified by time-lapse video microscopy. Organoids were developed
+by bioprinting cells on a biogel matrix to produce a center comprised of
+tumor cells encompassed by stromal cells. Drug effects in each cell type
+were evaluated using a “Live-Dead” assay. Drug effects in vivo were
+evaluated using xenograft models.
+
+Results: p53-/- HCT-116 cells were resistant to 5-FU, but sensitive to
+F10 and underwent p53-independent apoptosis. While F10 is more efficient
+than 5-FU at inhibiting TS, it uniquely supported continued DNA
+synthesis, mitosis, and cell division in p53-null cells while
+5-FU-treated cells underwent S-phase arrest under thymineless conditions.
+Following cell division, F10 induced high levels of Top1cc in daughter
+cells causing massive DNA damage. Using a DT40 knockout system we
+determined that Tdp1 and PARP-1 were important for F10-induced DNA
+damage. Organoid models demonstrated selective killing of malignant cells
+relative to stroma by F10, but not 5-FU. Xenograft models are in progress.
+
+Conclusions: F10 is much more potent than 5-FU and induces
+p53-independent apoptosis. F10 differs from 5-FU in supporting continued
+DNA synthesis under thymineless conditions leading to Top1-mediated DNA
+damage, Top1 depletion, genomic instability and activation of the
+extrinsic apoptotic pathway.
+
+

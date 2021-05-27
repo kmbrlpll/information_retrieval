@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Properties of the immune microenvironment associated with clonal
+diversity in high-grade serous ovarian cancer
+
+
+High-grade serous ovarian cancer (HGSC) is a challenging disease
+characterized by poor survival and relapse. Our group has revealed
+extensive clonal diversity of malignant cells in HGSC, which is thought
+to facilitate the emergence of resistance and recurrence in response to
+chemotherapy. Moreover, we have shown that the presence of tumor
+infiltrating lymphocytes (TILs) is associated with longer patient
+survival in HGSC, suggesting that the immune system can contend with the
+clonal diversity of tumors in some patients. We sought to determine how
+TIL abundance and repertoire diversity relates to the degree of tumor
+clone diversity in HGSC.We performed whole-genome sequencing, targeted
+amplicon deep sequencing, gene expression profiling, and T-cell receptor
+sequencing on 34 spatially separated HGSC tumor samples (8 patients)
+including ovarian masses and peritoneal foci. In addition, tissue
+sections were immunohistochemically stained for CD3, CD8, CD20, CD79a,
+and CD138 to detect major TIL subsets. Using PyClone, we decomposed each
+tumor sample into its constituent malignant clones and inferred clonal
+genotypes.We discovered profound intra- and inter-patient variation in
+the degree of tumor clone diversity from phylogenetic analysis.
+Widespread inter-patient variation was also observed in TIL counts and
+T-cell receptor repertoires. Intraepithelial CD3+ cell counts ranged from
+2.2-173.2 per HPF and the number of unique T-cell receptor clonotypes
+varied from 422 to 3164 per sample. Remarkably, quantitative metrics of
+tumor clone diversityas defined by phylogenetic divergence and entropy in
+the malignant composition of each tumorwas associated with the
+proliferative molecular subtype and, accordingly, low TIL density. Tumor
+clone diversity showed no correlation with the number of unique T-cell
+receptor species. Moreover, preliminary analyses reveal no association
+between tumor clone diversity and the expression of several ligands and
+receptors involved in inhibitory immune signaling (CTLA-4, PD-1, PD-L1,
+PD-L2).Our results reveal an association between low TIL abundance and
+high diversity of malignant clones. This suggests that immune
+infiltration may inhibit tumor proliferation and clonal diversification,
+or vice versa. Collectively, our findings expose a relationship of the
+immune microenvironment with the clonal dynamics of malignant cells that
+could be exploited to overcome therapeutic resistance associated with
+clonal evolution in HGSC.
+

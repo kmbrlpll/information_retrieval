@@ -1,0 +1,29 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Cell type-specific deconvolution of heterogeneous tumor samples
+with immune infiltration using expression data
+
+
+Tumor tissue samples comprise a mixture of cancerous and surrounding
+stromal cells. Understanding tumor heterogeneity is crucial to analyzing
+gene signatures associated with cancer prognosis and treatment decisions.
+Compared with the experimental approach of using laser micro-dissection
+to isolate different tissue components, in silico dissection of mixed
+cell samples is faster and cheaper. Numerous computational approaches
+previously developed have limited ability to deconvolute heterogeneous
+tumor samples. We have developed a deconvolution model, DeMix-T, that can
+explicitly account for a third component such as infiltrating immune
+cells, and address this challenging problem when the observed signals are
+assumed to come from a mixture of three cell compartments, infiltrating
+immune cells, the tumor microenvironment and cancerous tissues. The
+optimization-based algorithm for DeMix-T finds a local optimum for our
+estimation problem and is computationally feasible when it needs to
+compute high-dimensional integrals. DeMix-T therefore involves a novel
+two-stage filtering method that yields accurate estimates of cell
+purities and compartment-specific expression profiles. Simulations and
+real data analyses have demonstrated the good performance of our method.
+Compared with other deconvolution tools, DeMix-T can be applied more
+widely and provides deeper insight for cancer biomarker studies. It
+allows for a further understanding of immune cell infiltration in cancer
+and assists in the development of novel prognostic markers and
+therapeutic strategies.
+

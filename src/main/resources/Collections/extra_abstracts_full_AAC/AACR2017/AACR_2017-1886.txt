@@ -1,0 +1,35 @@
+Meeting: 2017 AACR Annual Meeting
+Title: mGluR1 drives invasion of proneural subtype of glioblastoma cells.
+
+
+A major cause for the therapeutic failure and subsequent morbidity and
+mortality of glioblastoma (GBM) is the aggressive invasion of malignant
+cells into the surrounding normal brain that effectively renders complete
+surgical resection impossible and virtually assures recurrent tumor
+growth. Multi-omic profiling of GBM led to their molecular
+sub-classification into two distinct molecular subtypes: proneural (PN)
+and mesenchymal (MES). However, very little is known about shared or
+distinct invasion processes of cells in these genomically different
+subtypes. Using Microarray gene expression profiles of microdissected
+paired stationary core and invasive rim samples from 19 patients, we
+demonstrated that invasive gene signature of MES subtypes differs from
+PN. Specifically, using three orthogonal but intersecting bioinformatic
+approaches, i.e. gene set variation analysis, causal network analysis,
+and iRegulon analysis; we discovered that genes differentially expressed
+between PN core and rim could, to a meaningful degree, be accounted for
+based on their annotation as “regulated by the transcription factor
+REST”. REST functions as a repressor of gene expression. Of the genes
+repressed by REST, mGluR1 (Metabotropic Glutamate Receptor 1) was
+significantly overexpressed at the rim of PN glioma cells as compared to
+the core. Finally, we also investigated the role of mGluR1 in glutamate
+induced glioma cell migration; our results show that glutamate stimulates
+migration of proneural-like glioma cells (A172) as compare to
+non-proneural-like glioma cell (T98G). mGluR1 activation by glutamate has
+shown to induce activation of Pyk2 and Src in astrocytes; knockout of
+mGluR1 is not embryonic lethal. In summary, our data demonstrate that
+glutamate-induced glioma cell migration of PN subtype of GBM is dependent
+on mGluR1 and thus raises the prospect that therapeutic targeting of
+mGluR1 may be a novel approach to controlling the invasion of this deadly
+disease.
+
+

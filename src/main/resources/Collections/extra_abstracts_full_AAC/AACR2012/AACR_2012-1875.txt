@@ -1,0 +1,35 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Identifying genetic variants contributing to cellular
+susceptibility to tamoxifen using a genome-wide cell-based model
+
+
+Tamoxifen is one of the most commonly used agents in the treatment and
+prevention of estrogen receptor positive breast cancers. Beyond the
+presence of hormone receptors, there are no validated predictors of
+tamoxifen efficacy and toxicity. Therefore, we utilized a genome-wide
+cell-based model to comprehensively evaluate genetic variants for their
+contribution to cellular susceptibility to tamoxifen. Our model
+incorporates multi-dimensional datasets including genome-wide genotype,
+gene expression, and cellular growth inhibition following treatment in
+lymphoblastoid cell lines from the International HapMap project. Growth
+inhibition was measured using AlamarBlue Assay in 60 unrelated CEU
+(individuals of northern and western European decedent) and 60 unrelated
+YRI (individuals from Ibadan, Nigeria) samples. All cell lines were
+treated with increasing concentrations of endoxifen, an active metabolite
+of tamoxifen, for 72 hours. Log2 transformed percent survival at each
+concentration and IC50 were used as cellular susceptibility to drug
+phenotypes. A step-wise genome-wide association studies were performed
+among SNPs, mRNA expression, and endoxifen sensitivity phenotypes. We
+identified 10 and 74 SNPs associated with endoxifen sensitivity through
+the expression of 13 and 92 genes in the separate CEU and YRI population.
+Interestingly 3 genes (STS, TES and SMARCA2) identified through this
+method are known to play a role in hormone biosynthesis pathway.
+Furthermore, a large portion of identified genes was found to play a role
+in tamoxifen sensitivity in the NCI60 cancer cell lines including CHPT1,
+a known tumor progression marker. This approach has made possible the
+identification of genetic variants/genes that have not been previously
+associated with tamoxifen response. Further validation of these
+cell-based model findings may significantly improve our ability to
+predict tamoxifen treatment efficacy and toxicity in breast cancer
+patients.
+

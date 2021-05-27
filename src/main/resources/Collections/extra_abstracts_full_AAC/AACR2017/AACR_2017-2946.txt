@@ -1,0 +1,64 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Prognostic effect of tumor-infiltrating immune cell composition in
+non-small cell lung cancer by histology.
+
+
+Introduction: The immune system plays an important role in tumor
+progression and treatment response, for example with the new immune
+modulating therapies. In lung cancer the effect of the individual immune
+cell types is unclear. In our study, we used publicly available
+expression data to find evidence whether there are differences in the
+composition of immune cell fractions within the microenvironment between
+squamous cell carcinoma and adenocarcinoma of the lung.
+
+Methods: We searched the Gene Expression Omnibus (GEO) for human NSCLC
+samples. Analysis was confined to samples hybridized to the Affymetrix
+HG-U133 Plus 2.0 (GEO accession number GPL570) platforms. Expression
+profiles were downloaded and curated for duplicates and corrupt files.
+Different immune cell fractions were estimated using CIBERSORT and the
+LM22 leukocyte signature matrix. We combined this information with
+available clinical data. We used Cox regression analyses to evaluate the
+prognostic impact of the different immune fractions and Mann-Whitney U
+tests to test significant differences.
+
+Results: Comparing the immune cell composition of adenocarcinoma (n=587)
+and squamous cell carcinoma (n=254), we observed in adenocarcinoma
+increased percentages of naïve and memory B-cells, resting and active
+CD4+ T-cells, regulatory T-cells, active NK cells, monocytes, M2
+macrophages, resting dendritic cells and resting mast cells, and
+decreased percentages of plasma cells , CD8+ T-cells, follicular helper
+cells, resting NK cells, gamma delta T-cells, M0 and M1 macrophages and
+active mast cells. In adenocarcinoma, a higher percentage of memory
+B-cells in the immune infiltrate was associated with increased survival
+(HR 0.97, 95% CI 0.95-0.99, p=0.02), while higher percentages of
+neutrophils (HR of 1.07, 95% CI 1.01-1.13, p=0.02), M0 macrophages (1.02,
+95% CI 1.01-1.04, p=0.01) and follicular helper cells (1.07, 95% CI
+1.02-1.13, p=0.01) were associated with a worse survival. In both
+histologies, the resting mast cell immune fraction showed a positive
+association with survival (adenocarcinoma HR 0.96, 95% CI 0.93-0.99,
+squamous cell carcinoma HR 0.93, 95% CI 0.89-0.98, pResults: Comparing
+the immune cell composition of adenocarcinoma (n=587) and squamous cell
+carcinoma (n=254), we observed in adenocarcinoma increased percentages of
+naïve and memory B-cells, resting and active CD4+ T-cells, regulatory
+T-cells, active NK cells, monocytes, M2 macrophages, resting dendritic
+cells and resting mast cells, and decreased percentages of plasma cells ,
+CD8+ T-cells, follicular helper cells, resting NK cells, gamma delta
+T-cells, M0 and M1 macrophages and active mast cells. In adenocarcinoma,
+a higher percentage of memory B-cells in the immune infiltrate was
+associated with increased survival (HR 0.97, 95% CI 0.95-0.99, p=0.02),
+while higher percentages of neutrophils (HR of 1.07, 95% CI 1.01-1.13,
+p=0.02), M0 macrophages (1.02, 95% CI 1.01-1.04, p=0.01) and follicular
+helper cells (1.07, 95% CI 1.02-1.13, p=0.01) were associated with a
+worse survival. In both histologies, the resting mast cell immune
+fraction showed a positive association with survival (adenocarcinoma HR
+0.96, 95% CI 0.93-0.99, squamous cell carcinoma HR 0.93, 95% CI
+0.89-0.98, p<0.01 in both histologies).In squamous cell carcinoma, a
+borderline association with a worse prognosis was observed with the
+naïve CD4+ T-cell fraction (HR of 1.1, 95% CI 1.00-1.22, p=0.053) and
+the regulatory T-cell fraction (HR of 1.11, 95% CI 0.99-1.24, p=0.067).
+
+Conclusion: In NSCLC significant differences in intratumoral immune cell
+composition were observed between adenocarcinoma and squamous cell
+carcinoma.
+
+

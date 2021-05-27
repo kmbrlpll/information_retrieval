@@ -1,0 +1,61 @@
+Meeting: 2017 AACR Annual Meeting
+Title: MicroRNA regulation of radiation sensitivity in colorectal cancer.
+
+
+Background Patients with locally advanced rectal cancer receive
+neoadjuvant chemoradiation therapy (CRT) and subsequent surgery. While
+10-25% of patients have complete response to CRT, the remaining patients
+undergo extensive tumor excision resulting in significant quality of life
+issues. Response to CRT is an independent predictor of overall survival
+highlighting the importance of improving CRT response rates. Several
+tumor intrinsic factors govern responses to CRT including specific gene
+expression programs. Emerging evidence suggests that microRNAs (miRs)
+modulate gene expression programs in response to radiation and have been
+implicated in several pathological processes associated with colorectal
+cancer progression. In this context, we hypothesized that differential
+expression of miRs regulates colorectal cancer radiation sensitivity and
+can be used as a biomarker to predict radiation efficacy.
+
+Methods To investigate the differences in miR profiles between rectal
+cancer patients that had either a pathological partial response (PR) or
+no response (NR), we isolated RNA from FFPE biopsies using the miRvana
+microRNA isolation kit (Life Technologies). We used the Nanostring miR
+profiling platform and obtained absolute counts for >700 human miRs. We
+performed in vitro gain and loss of studies with candidate miR
+transfections in human CRC cell lines and used a luminescence-based assay
+for proliferation (Cell titer glo, Promega). Surviving fraction assays
+were performed by seeding cells and counting colonies stained with
+Crystal Violet. Eight distinct miR bioinformatic target prediction
+algorithms initiated miR target identification, and a RISC-Trap assay was
+implemented to confirm miR-target interactions. The Cancer Genome Atlas
+(TCGA) datasets were accessed to acquire provisional survival data on 639
+colorectal adenocarcinoma patients.
+
+Results We identified 17 miRs that were differentially expressed, and
+miR-451a, among the most upregulated miRs, inhibited proliferation and
+colony formation in 2D and 3D assays in the presence of radiation. Target
+prediction algorithms highlighted CAB39, EMSY, EREG, and MEX3C as
+prominent miR-451a targets in colorectal cancer and/or radiation. TCGA
+subset anaylsis found CAB39 and EMSY protein levels were found to be
+upregulated in 14% and 6% of cases, respectively, and upregulated
+co-expression of these genes significantly reduced 3 year overall
+survival (69% vs 78%, p Results We identified 17 miRs that were
+differentially expressed, and miR-451a, among the most upregulated miRs,
+inhibited proliferation and colony formation in 2D and 3D assays in the
+presence of radiation. Target prediction algorithms highlighted CAB39,
+EMSY, EREG, and MEX3C as prominent miR-451a targets in colorectal cancer
+and/or radiation. TCGA subset anaylsis found CAB39 and EMSY protein
+levels were found to be upregulated in 14% and 6% of cases, respectively,
+and upregulated co-expression of these genes significantly reduced 3 year
+overall survival (69% vs 78%, p < 0.05). miR-target interaction was
+confirmed via the RISC-Trap assay with miR-451a mimic transfection
+resulting in robust 2.4-, 1.2-, and 2.8-fold enrichment of EREG, CAB39,
+and EMSY, respectively. In our partial responders patient cohort
+possessing upregulated miR-451a, there was significant downregulation of
+CAB39 and EMSY mRNA and protein compared to non-responders.
+
+Conclusions miRs alter cell survival networks affecting radiation
+sensitivity and serve to identify pathways amenable to alternative
+therapeutic modulation
+
+

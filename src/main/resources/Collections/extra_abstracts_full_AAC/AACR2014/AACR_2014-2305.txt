@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Acute depletion reveals novel co-regulation of DNA methylation at
+conserved loci by DNMT1 and DNMT3B
+
+
+DNA methyltransferases (DNMTs) are responsible for establishing (DNMT3A,
+3B, 3L) and maintaining (DNMT1) DNA methylation genome-wide. Aberrant DNA
+methylation is frequently observed in cancer; however, little is known
+about how regulation of this modification goes awry. In this study, we
+aim to understand how DNA methylation is regulated by the DNMTs
+throughout the genome by identifying specific and broad changes in
+methylation patterning upon depletion of the DNMTs. We utilize siRNA
+technology to acutely deplete NCCIT embryonal carcinoma cells of DNMT
+mRNA (individually and in combination), and then assay the impact on
+genome-wide DNA methylation patterns using the HumanMethylation450 Bead
+Chip (450K array). Depletion of DNMT1 (individual/combination) resulted
+in widespread hypomethylation, most notably in gene bodies, 3UTRs, and
+intergenic sequences. DNMT3 knockdown resulted in more specific changes
+in DNA methylation, but surprisingly, more hypermethylation
+(predominately in gene bodies) than hypomethylation events occurred.
+These specific hypermethylation events, particularly in samples with
+DNMT3B KD, significantly overlapped with sites hypomethylated in DNMT1 KD
+conditions, indicating a potential cross-regulatory role for DNMT1 and
+DNMT3B in regulating DNA methylation across gene bodies. To gain a more
+comprehensive genome-wide view of DNA methylation in the absence of
+DNMT3B, we performed Methyl-CpG-Binding-Domain(MBD)-seq on DNMT3B KD
+cells. MBD-seq revealed dynamic changes in methylation with minor
+hypermethylation in promoters and subtle hypomethylation across gene
+bodies; however, analysis of only the most significant methylation
+changes (> 4-fold) revealed that more hypermethylation events occur in
+intronic sequences, consistent with results obtained using the 450K
+array. To further investigate the overlap between DNMT1 hypomethylated
+and DNMT3B hypermethylated sites, we examined DNA methylation in HCT116
+colorectal carcinoma cells lacking (KO) or over-expressing (KI)
+DNMT1/DNMT3B. Interestingly, a marked number of CpG sites that gained
+methylation in the DNMT3B KO overlapped significantly with sites that
+became hypermethylated in DNMT1 and DNMT3B KI, and hypomethylated in
+DNMT1 KO. Additionally, these HCT116 hypermethylated CpG sites gained
+methylation in NCCIT DNMT3B KD (individual/combination) and lost
+methylation in DNMT1 KD. Taken together, these results suggest that DNMT1
+and DNMT3B co-regulate DNA methylation at conserved loci across cell
+types in an opposing fashion, providing novel insight into a potential
+regulatory mechanism for DNA methylation patterning. Further elucidation
+of this DNMT1 and DNMT3B co-regulation holds the potential to yield novel
+therapeutic strategies for correcting aberrant methylation events in
+cancer.
+

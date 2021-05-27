@@ -1,0 +1,73 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Liver and blood miRNA alterations as putative biomarkers of
+hepatotoxic response to short-term furan exposure in mice
+
+
+Epigenetic miRNA-based changes measured in accessible matrices may serve
+as useful biomarkers of environmental exposures and human health effects.
+We investigated miRNA profiles following short-term exposure to a known
+cytotoxic hepatocarcinogen, furan. We measured global liver and blood
+miRNA changes in female B3C6F1 mice exposed to furan for 3 weeks p.o. at
+daily doses of 0, 1, 2, 4, and 8 mg/kg. Small RNA was extracted from
+frozen samples using Exiqon miRCURY RNA Isolation kit and quantified by
+Qubit. RNA quality was checked by Nanodrop and Bioanalyzer, and liver
+miRNA were measured by miRNA-seq on the Illumina HiScanSQ platform. Blood
+miRNA were measured from pooled RNA samples by Affymetrix GeneChip v3
+microarrays. In the liver, the 1, 2, 4, and 8 mg/kg doses resulted in 0,
+10, 17 and 14 differentially altered miRNAs, respectively (>1.5-fold; B-H
+corrected p-valueEpigenetic miRNA-based changes measured in accessible
+matrices may serve as useful biomarkers of environmental exposures and
+human health effects. We investigated miRNA profiles following short-term
+exposure to a known cytotoxic hepatocarcinogen, furan. We measured global
+liver and blood miRNA changes in female B3C6F1 mice exposed to furan for
+3 weeks p.o. at daily doses of 0, 1, 2, 4, and 8 mg/kg. Small RNA was
+extracted from frozen samples using Exiqon miRCURY RNA Isolation kit and
+quantified by Qubit. RNA quality was checked by Nanodrop and Bioanalyzer,
+and liver miRNA were measured by miRNA-seq on the Illumina HiScanSQ
+platform. Blood miRNA were measured from pooled RNA samples by Affymetrix
+GeneChip v3 microarrays. In the liver, the 1, 2, 4, and 8 mg/kg doses
+resulted in 0, 10, 17 and 14 differentially altered miRNAs, respectively
+(>1.5-fold; B-H corrected p-value<0.05). The majority of miRNA changes in
+the low-dose exposure group (2mg/kg) were not seen with other treatments
+(7 of 10 miRNA). Conversely, most altered miRNA observed with high-dose
+(4 or 8 mg/kg) exposures were shared (10 miRNA), indicating different
+miRNA-mediated pathways for non-carcinogenic and carcinogenic furan
+exposures. Using Ingenuity Pathway Analysis (IPA), liver miRNAs altered
+by the carcinogenic doses of furan (4 and 8 mg/kg) significantly enriched
+(B-H corrected p-valueEpigenetic miRNA-based changes measured in
+accessible matrices may serve as useful biomarkers of environmental
+exposures and human health effects. We investigated miRNA profiles
+following short-term exposure to a known cytotoxic hepatocarcinogen,
+furan. We measured global liver and blood miRNA changes in female B3C6F1
+mice exposed to furan for 3 weeks p.o. at daily doses of 0, 1, 2, 4, and
+8 mg/kg. Small RNA was extracted from frozen samples using Exiqon miRCURY
+RNA Isolation kit and quantified by Qubit. RNA quality was checked by
+Nanodrop and Bioanalyzer, and liver miRNA were measured by miRNA-seq on
+the Illumina HiScanSQ platform. Blood miRNA were measured from pooled RNA
+samples by Affymetrix GeneChip v3 microarrays. In the liver, the 1, 2, 4,
+and 8 mg/kg doses resulted in 0, 10, 17 and 14 differentially altered
+miRNAs, respectively (>1.5-fold; B-H corrected p-value<0.05). The
+majority of miRNA changes in the low-dose exposure group (2mg/kg) were
+not seen with other treatments (7 of 10 miRNA). Conversely, most altered
+miRNA observed with high-dose (4 or 8 mg/kg) exposures were shared (10
+miRNA), indicating different miRNA-mediated pathways for non-carcinogenic
+and carcinogenic furan exposures. Using Ingenuity Pathway Analysis (IPA),
+liver miRNAs altered by the carcinogenic doses of furan (4 and 8 mg/kg)
+significantly enriched (B-H corrected p-value<0.05) functions related to
+cellular development, growth and proliferation, movement, cell cycle,
+death and survival; other categories identified by IPA were related to
+hepatotoxicity, liver inflammation, and cancer. Using predicted
+miRNA-mRNA interactions, 68 mRNAs were expressed in a contrasting pattern
+to miRNA expression (upregulated miRNA/downregulated mRNAs and vice
+versa). Associated mRNAs showed enrichment of pathways similar to miRNAs.
+Measurements in whole blood samples indicated that 6 out of the 21 miRNAs
+altered by the carcinogenic doses of furan were also altered in the blood
+(4 in the same direction). Blood miRNAs included mmu-miR-34a, -146b,
+-183, -5099 (upregulated), and -10a, -99b (downregulated). Results
+demonstrate distinctive miRNA profiles in rodent liver for carcinogenic
+doses of furan with corresponding changes for a subset of liver miRNAs in
+blood. Our findings support ongoing efforts to identify novel miRNA
+biomarkers in accessible matrices related to environmental health
+effects. This abstract does not necessarily reflect the policy of the US
+EPA.
+

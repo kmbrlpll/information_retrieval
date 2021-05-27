@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: TET suppresses protein translation, differentially effects
+polysome loading of cell cycle regulatory proteins and inhibits cell
+growth and proliferation of prostate cancer cells.
+
+
+Introduction: Translational control is a critical component in
+development and progression of cancer and could be explored to develop
+antineoplastic therapies. Results from our laboratory have shown that TET
+(a derivative of Tetrandrine) inhibits cell growth and promotes apoptosis
+of prostate cancer (PCa) cells. However, the underlying molecular
+mechanisms are not clearly understood. We observed that TET inhibited
+4EBP phosphorylation, suggesting that it might inhibit translational
+initiation. In the present study we evaluated the effects of TET on
+Translation in general and cell cycle related proteins in particular.
+
+Methods: Androgen dependent PCa cells LNCaP and Enz resistant CRPCa cells
+22Rv1 were maintained in supplemented RPMI as recommended. Where
+indicated cells were treated with TET (0 or 20µM) for various time
+points (2h, 8h, 18h and 24h). At the end of the experimental periods
+cells were pulsed with cycloheximide for 10 minutes in RPMI media.
+Cytoplasmic RNA was collected by lysing cells in polysome lysis buffer.
+Cell lysates were centrifuged and the resulting cytosolic supernatant was
+separated by density (a 10% to 50% sucrose) gradient and centrifugation.
+Fractions were collected using a TELEDYNE ISCO Density Gradient
+Fractionation System with continuous monitoring of untranslated mRNAs.
+Polysome (P)/Monosome (M) ratio were measured. The total RNA in each
+fraction was extracted using TRIzol LS (Invitrogen) and qRT PCR was done
+for p21, p27, Cyclin D1 and c-Myc gene for each fraction. Cell viability
+was measured by MTT assay at various time points.
+
+Results: TET treatment resulted in decreased protein synthesis. TET
+treatment resulted in decrease of RNA associated with Polysomes. There
+were a significant shift in P/M ratio from 0.82 (control) to 0.48 (24 h.
+TET) [TET 2hrs (0.75), 8h (0.69) and 18hrs (0.52)] in LNCaP and P/M ratio
+form 0.91 (control) to 0.32 (8 h TET) [TET 2h (0.78) and 4h (0.53)] in
+22Rv1 cells. The decrease of the P/M ratio suggests that TET inhibits
+translation initiation in prostate cancer cells independent of the
+androgen dependence. While there was generalized decrease in translation
+and specific decrease in mRNA for Cyclin D1, c-Myc associated with
+polysomes following TET treatment. In quite contrast to these findings,
+we observed an increase in mRNA for p21 and p27 in polysomal fractions of
+TET treated cells as compare to control at 24 h in LNCaP cells. These
+data suggest differential effects of TET treatment on polysome loading of
+cell cycle regulatory proteins. Moreover, TET inhibited growth and
+proliferation of LNCaP and 22Rv1 cells in dose as well as in time
+dependent fashion.
+
+Conclusions: TET targets translational machinery and differentially
+effects translation of cell cycle regulatory genes by effecting their
+polysome loading and effects cell growth and proliferation of androgen
+dependent and castrate resistant PCa cells.
+
+

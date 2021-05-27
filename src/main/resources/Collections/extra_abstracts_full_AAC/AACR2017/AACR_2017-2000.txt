@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Targeted characterization of tumor heterogeneity through RNA-Seq
+analysis of phenotypically defined subpopulations.
+
+
+Cancer progression and metastases have been linked to the complex
+heterogeneity found within many solid tumors. In order to understand the
+complexities within solid tumors there is a need for in-depth
+characterization of the tumor and the surrounding microenvironment,
+including the identification and measurement of the subpopulations found
+within the diseased tissue.
+
+Here we describe a method to interrogate the heterogeneity within patient
+derived xenograft (PDX) derived solid tumors through tissue dissociation,
+single cell flow sorting, and expression analysis of the resulting
+subpopulations. Cell sorting enables the identification and capture of
+phenotypically defined subpopulations within the tumor microenvironment
+for additional downstream analysis. Whole transcriptome RNA-Seq was
+performed on samples collected throughout the workflow to characterize
+the expression changes in cells during the different steps of the
+process. Expression differences were measured before and after tissue
+dissociation, before and after incubation, and before and after cell
+sorting. Expression differences were also measured between phenotypically
+defined subpopulations sorted by the CD133 and CD49f surface markers.
+
+Several significant differentially expressed gene combinations between
+samples were observed. These differences involved unique pathway
+characteristics between the different subpopulations sorted based on
+expression of CD133 and CD49f markers. In contrast, changes induced by
+the workflow process alone were restricted to a small and well-defined
+gene subset of immediate early genes (IEGs). Within the workflow, these
+changes were restricted to the tumor dissociation step and no changes
+were detected after incubating and/or cell sorting the dissociated cells.
+
+Our results indicate that solid tumor dissociation followed by flow
+cytometric analysis and sorting enables the interrogation of
+phenotypically defined subpopulations found within solid tumors. Since
+workflow induced changes are minimal and defined, these methods reveal
+biological differences between subpopulations within and between cancers.
+Differential expression of numerous surface marker genes were identified
+by our method allowing discovery of other candidate surface markers that
+may extend the subpopulation structure. Once verified these additional
+surface markers could serve to elucidate the dynamic changes cancer
+tissue undergoes during progression as well as in response to selective
+pressures such as drug therapy.
+
+

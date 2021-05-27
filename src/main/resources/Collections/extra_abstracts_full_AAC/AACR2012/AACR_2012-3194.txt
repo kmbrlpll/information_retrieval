@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Reverse engineering the interplay between multiple myeloma and
+microenvironment
+
+
+We propose an innovative approach to build predictive computational
+models of chemotherapy response for multiple myeloma (MM) patients. The
+innovation of this work resides in the use of microfluidics to establish
+gradients to mimic the heterogeneity of the tumor microenvironment (bone
+marrow, BM) and detailed computational models to map the cancer cells
+response into the geometry of the BM. MM is a complex hematologic
+malignancy, where a phenotypically heterogeneous population of malignant
+plasma cells proliferates uncontrollably throughout the environmentally
+heterogeneous microenvironment of the BM. It is known that the BM
+microenvironment confers opportunities for MM cells to survive treatment
+by soluble factors or adhesion and that these are among the main causes
+of minimal residual disease and patient relapse. In this work we explore
+a combination of microfluidics and computational models to characterize
+the response of chemo-sensitive and chemoresistant human MM cell lines
+(HMCL) to different drug combinations and protocols in the
+microenvironment of the BM. First we cultured fluorescent HMCLs in
+microfluidics under stable gradients of chemotherapy, oxygen, glucose and
+pH, in single cell suspension or in co-culture with stromal cell lines.
+Using live imaging we quantified replication and death in two dimensions
+(time of exposure and drug concentration). We built cell-line specific
+computational models of dose response based on the extracellular cues,
+and integrated these models into a previously published spatial
+computational model of the BM. We used these models to simulate the
+growth and response to different drug combinations in hypothetical
+patients. To our knowledge, this is the first time that a high-throughput
+model of assessment of drug response in a controlled reconstruction of
+the tumor microenvironment is proposed for MM. Our in vitro experiments
+allowed the quantization of cell death, quiescence and proliferation
+across time, which is not possible in regular dose response assays. The
+use of a stable drug gradient also allowed us to observe migration of
+live cells from areas of low to high drug concentration, being a putative
+mechanism for evolution of drug resistance. The computational model built
+from the in vitro multi-dimensional data was capable of reproducing
+different levels of therapy response, ranging from complete to
+refractory, with a complex signature of minimum residual disease
+combining phenotypic and environmental resistance. Our simulations also
+proposed optimum regimens of drug combination which will be explored in
+pre-clinical models. This proof of principle, that such approach may be
+used to build models of therapy in complex microenvironments with
+unprecedented levels of details, has the potential of becoming a
+translational tool for individual patient response. Each experimental
+assay required 18K cells, making this approach feasible for MM patient
+cell aspirates.
+

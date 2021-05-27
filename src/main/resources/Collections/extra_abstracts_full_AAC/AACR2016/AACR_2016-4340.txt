@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: DNA repair genes aberrations in germline DNA in metastatic
+castration-resistant prostate cancer patients
+
+
+INTRODUCTION: DNA repair defects are found in mCRPC and are
+therapeutically actionable; germline BRCA mutation-associated (gBRCA)
+prostate cancer has a poor prognosis. We hypothesized that metastatic
+castration resistant prostate cancer (mCRPC) is enriched for germline DNA
+repair mutations and that these may be relevant to patient
+outcome.METHODS: Targeted-sequencing for DNA repair genes was conducted
+in germline DNA from patients consenting to 3 clinical trials between
+2013-2015. Germline DNA was extracted from saliva or buccal swabs using
+the Oragene kit; libraries were constructed using a customized Qiagen
+panel and sequenced using the Illumina MiSeq. Family history and clinical
+data were prospectively collected. For time to event analyses unadjusted
+Cox regression models were used and comparisons were made using log-rank
+tests.RESULTS: Germline samples from 154 mCRPC patients were available.
+Median age at diagnosis was 61years (y), median time to
+castration-resistance was 14.5 months (m) and median overall survival
+(OS) from initial diagnosis of prostate cancer was 106.8m; 69% (91/131;
+24 N/A) of patients were initially diagnosed with Gleason8 tumors.
+130/154 (84.4%) and 131/154 (85.0%) received Docetaxel and Abiraterone
+respectively. Of 154 patients, 4 were previously known to be gBRCA2
+mutation carriers and were removed from the prevalence analysis but
+included in the clinical analyses; 22/150 (14.7%, 95%CI 9.4-21.4%)
+harboured a truncating or frameshift mutation in a DNA repair gene (9
+BRCA2, 6%; 4 ATM, 2.7%; 2 PALB2, 1.3%, 1 each for CHEK2, FANCI, MRE11A,
+NBN, RAD51C, RAD51D and MSH6). Overall, patients with any germline DNA
+repair aberrations had a worse median OS (75.8 vs 106.8 m; log-rank p =
+0.04). Time to resistance to primary hormonal ablation was shorter
+specifically for gBRCA2 mutations carriers (11.0 vs 14.8 m; log-rank p =
+0.01) but not for non-BRCA2 repair aberrations. Age at diagnosis was
+similar in patients with or without DNA repair germline mutations (median
+61.3 vs 61.7y, Mann-Whitney p = 0.41) as well as frequency of Gleason8
+tumors (16/21 [76%] vs 75/109 [68%]; Mann-Whitney p = 0.23) Response
+rates to Docetaxel (14/18 [77.8%] vs 64/94 [68.1%]; Fisher exact p =
+0.67) and Abiraterone (10/21 [47.6%] vs 44/94 [46.8%]; Fisher exact p =
+0.73) were similar among individuals with and without mutations. Family
+cancer history was collected in 125/154 cases (81%). While having cases
+of ovarian/prostate/breast/pancreas cancers in these patients families
+associated with a higher likelihood of finding a germline mutation (Odds
+Ratio 3.36, p = 0.03), 5 of 68 (7.4%) men with no cases of
+ovarian/prostate/breast/pancreas cancers registered in their families
+carried a germline mutation in a DNA repair gene.CONCLUSIONS: mCRPC is
+enriched for patients with germline mutations in DNA repair genes (15%),
+with 6% having gBRCA2 mutation. Germline DNA repair aberrations are
+associated with a worse prognosis from mCRPC.
+

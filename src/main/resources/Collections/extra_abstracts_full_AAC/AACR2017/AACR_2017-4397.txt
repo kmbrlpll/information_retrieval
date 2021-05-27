@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Deciphering the diversity of somatic alterations and Salmonella
+infection in gallbladder cancer by whole exome sequencing.
+
+
+Background: Gallbladder cancer is fifth most common cancers among the
+gastrointestinal cancers with the majority of patients presented at an
+advanced state of the disease. In India, gallbladder cancer is a major
+problem in the northern part of the country with its highest incidence of
+22/1,00,000 women and risk factors ranging from gallstones, female
+gender, ethnicity, Salmonella infections and genetic alterations. Despite
+its high incidence in our country, there is only few candidate gene based
+studies and systematic genome-wide studies are far in dismal. Hence there
+is an unmet need to understand the genomic landscape of Indian
+gallbladder cancer genome.
+
+Materials and methods: We interrogated the coding region of gallbladder
+cancer genome of 27 samples (10 paired and 7 unpaired tumors) using whole
+exome sequencing at an average coverage of 100X and above. Further, we
+validated our findings from whole exome sequencing in an extended cohort
+of 27 FFPE (Formalin fixed paraffin embedded) samples using other
+sequencing technologies. In addition we used a computational subtraction
+tool to identify Salmonella DNA sequences in the whole exome sequencing
+data.
+
+Results: We identified 383 somatic alterations across 17 tumors, which
+includes an average 112 synonymous, 245 missense, 8 nonsense, 8 indels
+and 8 splice site changes. The average mutation rate considering the
+paired tumors is about 14 mutations/Mb. We found recurrent alterations in
+TP53, CTNNB1, SF3B1, ATM, AKAP11 and other genes by exome sequencing
+analysis. In addition, we examined our exome sequencing data for
+identifying Salmonella sequences as well as presence of 143 HPV types
+using computational subtraction based on HPVDetector. In our analysis we
+found association of typhoidal Salmonella strains in 11 of 26 gall
+bladder cancer samples and non-typhoidal Salmonella species in 12 of 26
+sample, 6 samples were co-infected with both. Moreover, we observed
+co-occurrence of TP53 alterations in 4 of 16 Salmonella positive samples
+while we did not observe TP53 alterations in Salmonella negative samples.
+
+Conclusion: Taken together, we present the landscape of somatic
+alterations in Indian gallbladder cancer genome and identification of
+non-typhoidal Salmonella species along with co- occurrence of TP53
+alterations could aid in the treatment of gallbladder cancer.
+
+

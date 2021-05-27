@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification and characterization of survival-associated genomic
+features across tumor types.
+
+
+The basic biology that differentiates a primary cell from a transformed
+cell has been elucidated over the past several decades. Mutations in a
+limited number of oncogenes and tumor suppressors free the cell from
+growth-inhibitory checkpoints and allow proliferation in the absence of
+external stimuli, leading to tumor formation. Yet, primary tumors
+themselves are rarely deadly: greater than 90% of cancer mortality
+results from metastasis. What drives metastasis, and, more broadly, what
+distinguishes a lethal cancer from one with a favorable prognosis, is
+poorly understood.
+
+To address this question, we have performed a comprehensive meta-analysis
+on genomic data from primary tumors that are linked to patients’
+clinical outcomes. Utiliizing data from >20,000 patients, we have
+identified protein-coding genes, lncRNAs, miRNAs, methylation sites, and
+CNVs in primary tumors that are significantly associated with patient
+prognosis across cancer types. Multivariate analysis reveals a hierarchy
+of survival determinants: the strongest mortality-associated factors are
+enriched for components of the mitotic cell cycle, while secondary
+clusters of genes are involved in extracellular matrix remodeling, cell
+motility, and angiogenesis. Survival-associated genomic features are
+indicative of immune infiltration into primary tumors and oxidative
+phosphorylation activity.
+
+In vitro and in vivo analyses reveal that mortality-associated genes
+rarely promote the direct transformation of primary cells. Instead,
+CRISPR mutagenesis reveals that these genes largely represent tumor
+dependencies, and in their absence cancer cells fail to proliferate.
+Through this analysis, we have identified new genetic dependencies common
+across cancer cells, including C16ORF59 and C5ORF46. In total, our
+results represent the largest assessment of genomic features linked to
+cancer prognosis completed to date, and offer several lines of insight
+into the biological differences between fatal and benign cancers.
+
+

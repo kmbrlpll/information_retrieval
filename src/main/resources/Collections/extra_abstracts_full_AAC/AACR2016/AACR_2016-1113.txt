@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Mir-194-3p suppresses tumorigenic potential of glioblastoma stem
+cells by targeting the canonical NF-kB pathway
+
+
+Glioblastoma (GBM) is the most common tumor of the central nervous
+system, with its deadly nature owing to high rates of invasion and
+angiogenesis. A key element in its pathogenesis is a small subpopulation
+of neoplastic cells called glioma stem cells (GSCs) that are responsible
+for tumor initiation, maintenance and relapse. Approaches to target GSCs
+have mostly proved futile due to their chemo- and radio-resistance
+potential. Given that microRNAs carry a potential to affect both normal
+and stem cells, we employed a microRNA-based targeted approach to
+identify the subset of microRNAs that could distinctively affect the
+stemness of GSCs. Our study tests the hypothesis that GSCs will show an
+altered miRNA expression upon their differentiation, and their profiling
+may lead to identification of specific microRNAs that regulate the
+process. Our initial efforts resulted in identification of hsa-miR-194-3p
+as one of the potential candidates, which was consistently downregulated
+in multiple GSCs that we investigated. Stable cell lines overexpressing
+hsa-miR-194-3p showed a decreased proliferation rate and reduced
+sphere-forming ability. In silico analysis revealed TAB2, an upstream
+activator of NF-B pathway to be the potential target of hsa-miR-194-3p,
+which was confirmed by luciferase assay and knockdown approaches. The
+regulatory role of hsa-miR-194-3p was substantiated by its ability to
+inhibit the NF-B pathway and the corresponding downstream targets
+including IL-6 and STAT3. In vivo studies revealed a reduced tumor
+forming ability when the cell lines overexpressing hsa-miR-194-3p were
+injected intracranially in NOD/SCID mice, compared with the non-target
+control. Our results indicate that hsa-miR-194-3p blocked the canonical
+NF-B signaling and negatively affected tumor formation. We have carried
+out this study this in a unique model system expecting it to uncover
+another layer of complexity that may add a new facet to meet the
+challenge imposed by the cancer stem cell paradigm. In conclusion, we
+accentuate the anti-tumorigenic role of hsa-miR-194-3p as a connecting
+link to both stemness and NF-B signaling.Funding sources: This work was
+supported by R01CA108633 (To AC), 1RC2CA148190 (To AC) U10CA180850-01 (To
+AC), 1R01CA169368 (To AC) from the National Cancer Institute (NCI), Brain
+Tumor Funders Collaborative Grant (To AC), Ohio State University
+Comprehensive Cancer Center Award (To AC).
+

@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Unraveling the genetic basis of nasopharyngeal carcinoma using
+next-generation sequencing approaches
+
+
+Background: Nasopharyngeal carcinoma (NPC) is an epithelial malignancy
+that originates in the nasopharynx. This cancer is highly prevalent in
+Asia, especially southern China. Familiar genetic predisposition is
+observed in 5-10% of NPC patients. It is well-accepted that host
+genetics, EBV infection, and environmental factors together contribute to
+NPC development.Purpose: The genetic basis of NPC has not been fully
+elucidated. Therefore, we aim to use next-generation sequencing
+approaches to identify genes or pathways associated with NPC risk and to
+understand the genetic basis of NPC.Methods: In the discovery cohort, 67
+family history-positive (FH+) NPC cases from 56 families, 39 early-age
+onset cases, and 51 sporadic cases were subjected to whole-exome
+sequencing (WES). WES data of additional 415 non-cancer controls were
+obtained from non-cancer studies. Two strategies, mixed model association
+analysis and systematic filtering methods, were used for the analysis.
+The LightSNiP assay, which detects variants by melting curve analysis,
+and targeted sequencing approach were applied in an independent
+validation cohort.Results: Association analysis identified a 3 UTR
+variant in G protein-coupled receptor 114 (GPR114) with genome-wide
+significance (p-value 1.110-8). The risk allele was observed in 10 cases
+from 5 FH+ families and 1 sporadic case, but was not found in controls
+and public databases. In the validation study, LightSNiP assay identified
+the variant in 4 out of 210 FH+ cases, 25 out of 1725 sporadic cases, and
+11 out of 1849 controls. The odds ratios are 3.1 and 2.35 for FH+ and
+sporadic cases, respectively. All the variants identified were validated
+by Sanger sequencing. GPR114 is expressed in both NPC and normal
+nasopharyngeal tissues. Further functional studies are now underway for
+GPR114.Using the systematic filtering analysis strategy, we identified
+the genes with rare damaging variants (minor allele frequency0.01) in at
+least four FH+ families and excluded the genes which are likely to be
+false positive signals in WES or not expressed in NPC or normal
+nasopharyngeal tissues. In total 455 genes were identified. Gene ontology
+analysis identified enriched terms including chromatin modification (FDR
+= 0.02) and extracellular matrix (FDR = 0.006). Targeted sequencing of
+candidate genes in about 300 additional FH+ cases and 300 age- and
+gender-matched controls is underway.Conclusions: In our study, a GPR114 3
+UTR variant was found to be associated with increased risk of NPC in both
+familiar and sporadic cases. We also identified rare damaging variants
+enriched in chromatin modification and extracellular matrix. Our study
+provides an enhanced road map for comprehensive understanding of the
+genetic basis of NPC.Acknowledgements: NPC AoE funding provided by the
+Hong Kong Research Grants Council (AoE/M-06/08 to MLL).
+

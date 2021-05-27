@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: MicroRNA expression in childhood germ cell tumors (GCT).
+
+
+Introduction: Childhood germ cell tumors (GCTs) are a rare, heterogeneous
+group of malignancies classified together due to a common origin in the
+primordial germ cell. Studies in adults and a mouse stem cell model
+suggest microRNA (miRNA) expression may be involved in GCT etiology. We
+evaluated whether miRNA expression differed in pediatric GCTs with
+respect to tumor histology as well as by patient age at diagnosis and
+sex.Methods: MiRNA expression was measured in 44 samples from 38
+individuals (38 GCT and 6 normal adjacent) using the NCounter platform
+(NanoString Technologies, Seattle, WA) which precisely quantifies
+discrete counts up to 800 miRNAs by imaging color-coded molecular
+barcodes. We compared miRNA expression across the main histologic
+subtypes of GCT (8 yolk sac tumor (YST), 8 dysgerminoma, 8 immature
+teratoma, and 10 mature teratoma) using NanoStride software, which
+analyzes raw count data from NCounter to perform differential expression
+analysis by employing the appropriate negative binomial distributional
+assumption and Benjamini-Hochberg correction (BH) for multiple
+testing.Results: Assessing all samples together, three miRNA species were
+found to significantly differ across the five categories (four tumor
+histologies and normal samples) (hsa-miR-371-5p, BH q-value 0.006;
+hsa-miR-122, BH q-value 0.03; and hsa-miR-302d, BH q-value 0.03). YSTs
+showed substantially higher expression of both hsa-miR-302d and
+hsa-miR-122 compared to all other histologies, while dysgerminomas
+exhibited considerably higher levels of hsa-miR-371-5. Upon pairwise
+analysis, YSTs differed from dysgerminomas with respect to four miRNA
+species (hsa-miR-375, BH q-value 0.009; hsa-miR-122, BH q-value 0.01;
+hsa-miR-296-5p, BH q-value 0.04; hsa-miR-1247, BH q-value 0.04) and from
+mature teratomas with respect to three miRNAs (hsa-miR-302d BH q-value
+0.005; hsa-miR-122 BH q-value 0.008; hsa-miR-302a, BH q-value 0.01). No
+differences were found with respect to patient age at diagnosis or sex.
+When grouping all tumor samples together and comparing them to normal
+samples, no differences were found.Discussion: These results indicate
+differential expression of miRNA species by tumor histology in GCT. These
+could be reflective of malignancy or simply cell type as the most
+persistent differences were across histologic subtype not between
+malignant and normal samples. While differences were not found between
+malignant and normal samples after correction, the most significantly
+different species from that analysisthe miRNA 371-73 and miRNA-302
+clusterhave been previously identified as differential in adult GCTs.
+Further study is needed to identify the RNA targets of these miRNAs and
+to determine their functional significance in GCTs. If confirmed in
+larger studies, these results suggest that miRNAs may play a significant
+role in childhood GCT.
+

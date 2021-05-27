@@ -1,0 +1,32 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Discovery of a phospho-signature predicting response to dasatinib
+in non-small cell lung cancer
+
+
+Since targeted drugs selectively block molecular pathways that are
+typically over-activated in tumour cells, they are more precise and show
+fewer adverse effects than traditional chemotherapeutic agents. At the
+same time the proportion of patients that benefit from targeted drugs is
+smaller. Therefore, predictive molecular markers are needed to
+confidently predict the patient's response to a specific therapy. Such
+markers would facilitate therapy personalization, where the selected
+therapy is based on the molecular profile of the patient. We sought to
+identify a signature of protein phosphorylations that predicts the
+response to dasatinb in non-small cell lung cancer cell lines. A panel of
+cell lines were profiled in a global, unbiased, phosphoproteomics study
+yielding quantitative information for roughly 25,000 phosphorylation
+sites. The identical cell lines were tested for their response to
+dasatinib. From the phosphoproteome profiles, we identified a signature
+of twelve phosphorylation sites that can accurately predict dasatinib
+sensitivity. Four of the phosphorylation sites belong to integrin 4, a
+protein that mediates cell-matrix or cell-cell adhesion. We evaluated the
+performance of this signature in a cross-validation set-up and
+investigated the robustness of the selected predictive features. Finally,
+we confirmed the predictive power of the signature in an independent set
+of breast cancer cell lines. We showed that the phosphorylations of
+integrin 4 as well as eight further proteins are candidate biomarkers for
+predicting response to dasatinib in solid tumours. Furthermore, we
+demonstrated that identifying predictive phosphorylation signatures from
+global, quantitative phosphoproteomic data is possible, and opens a new
+path to discovering molecular markers for response prediction.
+

@@ -1,0 +1,41 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Pan-cancer identification of mutated pathways and protein complexes
+
+
+Large-scale cancer sequencing efforts such as The Cancer Genome Atlas
+(TCGA) and others have shown that tumors exhibit extensive mutational
+heterogeneity with relatively few genes mutated at significant frequency
+and many genes mutated in only a small number of individuals. This long
+tail phenomenon complicates the identification of driver mutations by
+their observed frequency. The long tail is explained in part by the fact
+that driver mutations target genes in signaling and regulatory pathways,
+and these pathways may be perturbed by different mutations in different
+tumors.We developed two complementary algorithms, HotNet2 and Dendrix++,
+to analyze combinations of mutations in known or novel pathways. HotNet2
+uses prior knowledge of pathways and protein complexes represented in a
+genome-scale protein-protein interaction network, and identifies
+significantly mutated subnetworks using a heat diffusion model. HotNet2
+simultaneously assesses both the significance of mutations in individual
+proteins and the local topology of protein interactions. Dendrix++
+identifies combinations of mutations de novo, without prior knowledge of
+pathways or protein interactions, by finding sets of mutations that are
+mutually exclusive across the tumor cohort. There are numerous examples
+of mutually exclusive mutations between interacting proteins; e.g. BRAF
+and KRAS in colorectal cancer. Dendrix++ generalizes this idea to find
+larger groups of mutually exclusive mutations.We applied HotNet2 and
+Dendrix++ to whole-exome sequencing and copy number aberration data from
+3299 samples of twelve tumor types from TCGA Pan-Cancer project. Both
+algorithms identified gene sets that overlap well-known cancer pathways
+(e.g. TP53, MAPK, and RAS signaling pathways), as well as genes and
+complexes with less characterized roles in cancer (e.g. the cohesin and
+condensin complexes). HotNet2 subnetworks also contained novel candidate
+cancer genes that were rarely mutated in this cohort and thus not
+reported by single-gene tests of significance, including KDM5A, SHPRH,
+and ARID4A, each of which interacts with well-known cancer genes. Many of
+these gene sets have biological functions often perturbed in cancer, such
+as chromatin modification (e.g. the SWI/SNF and BAP1 complexes) and DNA
+damage repair (e.g. SHPRH). These results demonstrate the ability of
+HotNet2 and Dendrix++ to identify novel combinations of mutations in
+thousands of tumors, prioritizing genes and mutations in the long tail
+for further experimental studies.
+

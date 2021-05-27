@@ -1,0 +1,49 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Assessment of early antimitotic treatment response in ovarian
+cancer using temporal diffusion spectroscopy
+
+
+A quantitative MRI method, namely, temporal diffusion spectroscopy (TDS),
+has been used to measure tumor microstructural changes in response to a
+well-established antimitotic drug treatment (protein-bound paclitaxel)
+and evaluated as an early indicator of tumor responsiveness. Current
+radiological methods of monitoring treatment response in solid tumors
+rely on measuring changes in tumor size as measured by CT or MRI, and it
+is well recognized this approach suffers from major limitations. In
+recent years, tumor size measurements have been supplemented by a number
+of imaging techniques that aim for in vivo characterization and
+measurement of biologic processes at the cellular and molecular level,
+but to date none has proven robustly successful in practice. For example,
+diffusion MRI has shown a high sensitivity to tumor response, but a
+relatively lower specificity e.g. sometimes unable to distinguish real
+response of responder tumors from the progression of some
+non-responders.Temporal diffusion spectroscopy measures a series of
+apparent diffusion coefficients (ADC) over a wide range of effective
+diffusion times, corresponding to diffusion distances ranging from
+subcellular to cellular levels ( 3-20 m). By fitting the measured ADC
+spectra to a simplified tissue model, parameters reflecting structural
+properties (such as cell size) in tissues can be extracted. Abraxane, one
+of the most successful microtubule-targeted chemotherapeutic drugs, has
+been reported to induce aberrant mitosis in tumor cells leads to mitotic
+arrest, the consequence of which is a cell size increase. In the current
+study, we implemented TDS in Abraxane/PBS-treated two types of human
+ovarian xenografts and cultured cells (OVCAR-8 as a responder to
+Abraxane, and NCI/ADR-RES as a resistant type). Abraxane-induced cell
+size increases were confirmed by flow cytometry and light microscopy in
+cell culture. The efficacy of Abraxane in treating tumors in vivo was
+examined histologically by calculating percentages of Caspase-3-activated
+area within Caspase-3 stained slides. Most excitingly, the fitted
+restricted size, one of the spectral parameters obtained from TDS, was
+able to quantify cell size increases which were not detected by
+conventional diffusion-MRI. All the MR results had a high degree of
+consistency with other flow, microscopy, and histological data. Moreover,
+with an appropriate analysis, the Abraxane-responsive tumors in vivo
+could be easily distinguished from all the other drug-vehicle-treated
+tumors and Abraxane-resistant tumors. In conclusion, temporal diffusion
+spectroscopy detects antimitotic-therapy-induced microstructural
+variations (notably, increases in cell sizes) in tumors in vivo which
+occur before changes in tumor volume or conventional diffusion MRI
+metrics. A combination of restricted size and zero-frequency diffusion
+coefficient can potentially be used as an early indicator of tumor
+responsiveness.
+

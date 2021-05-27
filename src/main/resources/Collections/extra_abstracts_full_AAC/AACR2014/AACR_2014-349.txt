@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: mTOR complex 2 (mTORC2) positively regulates Mcl-1 stability by
+suppressing GSK3-dependent and FBXW7-mediated proteasomal degradation of
+Mcl-1
+
+
+The mammalian target of rapamycin (mTOR) positively regulates cell growth
+and survival, primarily through forming a complex either with raptor
+(mTORC1) or with rictor (mTORC2). While mTORC1 is well known to exert its
+biological functions primarily via inhibition of cap-dependent protein
+translation, little is known about the mechanisms by which mTORC2
+regulates cell survival and growth. Mcl-1 is an anti-apoptotic Bcl-2
+family protein and functions as an oncogenic protein. It is a short-lived
+protein that undergoes GSK3/FBXW7-dependent ubiquitination and
+proteasomal degradation. mTORC1 positively regulates Mcl-1 translation
+while mTORC2 regulation of Mcl-1 stability has not been reported and thus
+is the focus of this study. We found that inhibition of mTORCs with mTOR
+kinase inhibitors (mTORKinibs) including INK128, AZD8805, Torin1 and
+PP242 decreased Mcl-1 levels in cancer cells, particularly those
+sensitive to mTORKinibs. mTORKinibs did not alter Mcl-1 mRNA levels, but
+decreased its protein stability. Moreover, mTORKinib-induced Mcl-1
+reduction could be rescued by proteasome inhibition (e.g.,with MG132).
+Hence, it is clear that mTORKinibs enhance Mcl-1 degradation, resulting
+in Mcl-1 reduction. Suppression of GSK3 using GSK3 chemical inhibitors
+(e.g.,SB216763 and CHIR99021) or gene silencing approaches prevented
+Mcl-1 reduction or degradation. This indicated that a GSK3-dependent
+mechanism is involved in mTORKinib-induced Mcl-1 reduction. Although both
+the F-box E3 ubiquitin ligases, FBXW7 and -TrCP, have been suggested to
+mediate GSK3-dependent degradation of Mcl-1, we observed that FBXW7
+knockdown but not -TrCP attenuated or abolished the ability of mTORKinibs
+to reduce Mcl-1 levels, demonstrating a critical role of FBXW7 in
+mediating mTORKinib-induced Mcl-1 degradation. These results demonstrate
+that mTORKinibs reduces Mcl-1 levels by promoting GSK3-dependent and
+FBXW7-mediated proteasomal degradation of Mcl-1. Through genetic
+approaches, we further showed that knockdown of rictor, but not raptor
+expression reduced Mcl-1 levels and promoted Mcl-1 degradation. In
+agreement, enforced expression of an ectopic rictor, but not raptor,
+elevated Mcl-1 levels and enhanced Mcl-1 stability. Furthermore, Mcl-1
+reduction induced by rictor knockdown could be rescued by inhibition of
+GSK3 or FBXW7. Thus, it is apparent that genetic inhibition of rictor,
+but not raptor, can replicate the effects of mTORKinibs on inducing
+GSK3-dependent and FBXW7-mediated Mcl-1 degradation. Collectively, we
+conclude that mTORC2 may positively regulate Mcl-1 stability by
+suppressing GSK3-dependent and FBXW7-mediated proteasomal degradation of
+Mcl-1. Our current study highlights a novel biological function of mTORC2
+in regulating protein degradation. Further investigation of the detailed
+mechanism by which mTORC2 stabilizes Mcl-1 protein is warranted.
+

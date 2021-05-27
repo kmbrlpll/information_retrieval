@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Evidence for modulation of FoxM1 by p21 in ovarian cancer
+
+
+The oncogenic transcription factor forkhead box M1 (FoxM1) is
+overexpressed in many cancers, including 84% of ovarian cancer and plays
+a role in DNA repair, mitotic checkpoint, cell proliferation, and cancer
+drug resistance. Similar to Her2 in breast cancer, the constitutive
+expression of FoxM1 makes it a plausible gene target for novel
+anti-cancer therapies, but the regulation of FoxM1 has yet to be
+elucidated. Evidence suggests FoxM1 up-regulation is a result of TP53
+mutations, however, no TP53 response element has been found within the
+FoxM1 promoter, thus there is likely another molecule mediating
+p53-induced FoxM1 overexpression. We hypothesize that cyclin-dependent
+kinase inhibitor 1a, p21, is involved in the regulation of FoxM1 by p53
+in ovarian cancer. To test this hypothesis, we knocked down p21
+expression with siRNA and shRNA in two wild-type p53 cancer cell lines,
+NCI-H23 and A2780. Knock down of p21 resulted in a mirrored increase in
+FoxM1 protein level in both cell lines as detected by Western blot. The
+addition of nutlin-3 (10 M), a p53 stabilizer, to these p21 knocked down
+cell lines restored some p21 expression 24 hour post-treatment, which led
+to a subsequent decrease in FoxM1 levels compared to the corresponding
+DMSO-treated p21 knock down. These results suggest p21 is a negative
+regulator of FoxM1 in cancer cell lines. To further investigate this
+pathway, the same two cancer cell lines were treated with the FoxM1
+inhibitor thiostrepton (10 M) and protein levels were measured over a
+time course of 48 hours. FoxM1 protein levels were reduced following 8
+hours, a time point where p21 protein levels peaked. This finding was
+further support by qRT-PCR analysis of A2780 ovarian cancer cell mRNA
+collected 0, 6, 8, 9, 10, 11, and 12 hours following thiostrepton (10 M)
+treatment. In this experiment, p21 mRNA levels peaked 6 hours
+post-treatment, with FoxM1 mRNA levels reduced at 8 hours post-treatment,
+relative to control. Although thiostrepton has been shown to directly
+bind and inhibit the transcription of FoxM1, these results suggest that
+thiostrepton may also induce p21, potentiating FoxM1 inhibition.
+Thiostrepton has previously been shown to induce cancer cell death and
+reduce tumor burden, therefore further supporting FoxM1 as a potential
+drug target as well as encouraging the need to understand regulators
+involved in this pathway.
+

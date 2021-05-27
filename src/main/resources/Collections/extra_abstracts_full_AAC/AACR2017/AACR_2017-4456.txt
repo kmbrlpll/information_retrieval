@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Novel oncogenic function of Notch4 in Hispanic lung cancer.
+
+
+Background: Molecular drivers of ~40% of lung adenocarcinomas are still
+unknown. We reasoned that since the frequencies of driver mutations have
+been shown to be different between ethnic groups, comparison of targeted
+exome sequencing data would identify genes with significant alteration
+frequencies between White Non-Hispanics (WNH) and other racial/ethnic
+groups. Notch signaling in cancer is context- and tissue-specific and may
+be both oncogenic and tumor suppressive. The mechanisms of action and
+genetic alterations involved in Notch oncogenesis have been studied for
+Notch1 and Notch3; specifically in Non-Small Cell Carcinoma (NSCLC),
+translocations in Notch3, and gain of function Notch1 mutations have been
+found in 1 in 10 patients. Notch4 is a mammary oncogene, but little is
+known about its role in NSCLC tumorigenesis. Truncations in Notch4 have
+been reported in lung cancer cell lines, and in public databases the
+frequency of Notch4 alterations in WNH adenocarcinoma is ~5.5%. However,
+little is known about the mechanisms by which Notch4 acts in lung
+oncogenesis.
+
+Methods: Using data from the TCCTM protocol, we analyzed targeted
+sequencing of 1,321 genes of interest to determine the mutations driving
+lung cancer in Hispanic (H/L) patients. The functional relevance of the
+Notch4 mutations was tested by cloning the intracellular domain (ICD) of
+Notch4 containing one of the mutations identified in the ANK domain
+(P1663Q) into pcDNA3.1. Plasmids expressing either the WT or a mutated
+Notch 4 (P1663Q) were transfected into A549 cells and the effect of this
+mutation tested on the ability to induce the expression of Notch4
+expression genes.
+
+Results: In our H/L cohort we see Notch4 altered in about 20% of our
+samples, and 7/12 of the Notch4 single amino acid substitutions are in
+the Negative Regulatory Region (NRR). PROVEAN protein analysis of the
+Notch4 mutations shows that more than half of the mutations would disrupt
+the NRR. Introduction of the P1663Q mutation in the ANK repeats of the
+Notch4 ICD, which mediates binding to CSL and is essential for Notch
+transcriptional activity, resulted in a shift in the amount of transcript
+of known Notch4 target genes, such as Hes1 and Snai1. This effect is
+specific, as it is not observed with other genes, previously reported to
+be targets for other Notch paralogs such as Smad3 and Zeb1. A similar
+effect of the P1663Q Notch4 mutation on Hes1 transcript levels was
+observed in breast cancer cells, suggesting that this is not lung cancer
+specific. Transcriptional activity of the Notch-responsive luciferase
+construct (pHESLuc) was increased in the presence of Wt Notch4, and
+reduced in the presence of the P1663Q Notch4 Mu.
+
+Conclusion: The nature and high number of genetic alterations in Notch4
+in H/L lung cancer patients, suggests that Notch4 may play a critical
+role in NSCLC tumorigenesis. Our data suggests that mutations in the ANK
+domain of Notch4 can interfere with its transcriptional activity and
+function, and should be further characterized.
+
+

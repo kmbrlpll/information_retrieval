@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Splice expression variation analysis (SEVA) for differential gene
+isoform usage in cancer.
+
+
+Alternative splicing events (ASE) are a significant component of
+expression alterations in cancer, and have been demonstrated to be
+critically important in the development of malignant phenotypes in a
+variety of tumors. These alternative gene isoforms alter cell-signaling
+networks and serve as a hidden source of tumor-driving alterations not
+identified in multi-omics analyses. Recent studies have demonstrated that
+reads from RNA-seq data can infer gene isoforms expressed in a single
+sample. Therefore, RNA-seq data of tumors offers the opportunity to
+systematically evaluate expressed gene isoforms and identify splicing
+events in cancer samples.
+
+To characterize a cancer specific ASEs landscape, it is essential to
+perform differential splice variant expression analysis to identify
+isoform variants that are unique to tumor samples compared to normal
+tissue. In spite of the breadth of ASE algorithms, few have been
+validated in primary tumor samples. Current methods for differential
+splice variant analysis compare mean expression of gene isoforms in
+sample groups. Because these variants are tumor-specific, ASEs are
+expected to have more variable exon junction expression than normal
+samples. Therefore, current differential ASE analysis algorithms from
+RNA-seq may not account for heterogeneous gene isoform usage in tumors.
+To address this, we introduce Splice Expression Variability Analysis
+(SEVA) to detect differential splice variation usage in tumor and normal
+samples and accounts for tumor heterogeneity. This algorithm compares the
+degree of variability of junction expression profiles within a population
+of normal samples relative to that in tumor samples.
+
+The performance of SEVA was compared with two existing algorithms, EBSeq
+and DiffSplice, in simulated and real RNA-seq data. Simulated data
+suggest that SEVA is robust and computationally efficient relative to
+EBSeq and DiffSplice. In contrast to EBSeq and DiffSplice, SEVA was able
+to identify alternative splicing events independent of overall gene
+expression differences. Finally, additional validation was performed
+using RNA-seq data for primary tumor data from HPV-positive oropharynx
+squamous cell carcinoma (OPSCC) tumors and normal samples from both TCGA
+and an independent tumor cohort of 46 OPSCC tumors and 25 normal samples.
+In these tumor samples, SEVA finds cancer-specific ASEs in genes that are
+independent of their differential expression status. Moreover, SEVA finds
+approximately hundreds of splice variant candidates, manageable for
+experimental validation in contrast to the thousands of candidates found
+with EBSeq or DiffSplice. These candidates include experimentally
+validated splice variants in HNSCC from a previous microarray study.
+Based on performance in both simulated and real data, SEVA represents a
+robust algorithm that is well suited for differential ASE analysis,
+particularly in RNA-sequencing data from heterogeneous primary tumor
+samples.
+
+

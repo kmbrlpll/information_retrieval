@@ -1,0 +1,26 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Targeted enrichment and next generation sequencing of non-small
+cell lung carcinoma FFPE samples
+
+
+Targeted enrichment is a powerful tool used for identifying genetic
+variations that underlie cancer and complex diseases. Current
+methodologies utilize hybridization probes or PCR to enrich for protein
+coding regions of a genome followed by deep sequencing. Most of these
+targeting methods fail to achieve the specificity, coverage and
+uniformity that are critical for accurate detection and analysis of
+genetic variability. Nested Patch PCR was developed to overcome these
+pitfalls with highly specific on-target sequence interrogation across
+hundreds of genomic regions in a single-tube format. This novel
+technology enables rapid detection of various genetic variations (i.e.
+SNPs, indels) across a large number of samples, including FFPE
+(formalin-fixed paraffin embedded) samples which are typically difficult
+to analyze due to low yield and quality of DNA. To show the utility of
+TargetRich technology, an enrichment panel was designed targeting NRAS,
+PTEN, KRAS, ALK, PIK3CA, KIT, BRAF and EGFR to interrogate 250 non-small
+cell lung carcinoma FFPE samples. The panel was designed against 19.8kb,
+134 exons, with 99.9% coverage. A minimum of 50ng FFPE DNA were run for
+each sample on an Illumina Miseq and the resulting data was comparable to
+high molecular weight DNA in uniformity and performance; supporting
+TargetRich as a sensitive and robust platform to analyze FFPE samples.
+

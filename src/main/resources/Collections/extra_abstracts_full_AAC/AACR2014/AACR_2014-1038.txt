@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: ZEB1 plays a pivotal role in hypoxia-mediated increase of in vitro
+invasion of glioblastoma-derived cell cultures and represents a novel
+neural stem cell marker in early development
+
+
+ObjectiveHypoxia is thought to induce migration in many neoplasms, often
+by promoting epithelial-to-mesenchymal transition (EMT), but the
+mechanisms by which it affects brain tumor invasion is less well
+understood. In particular, little is known about the possible role of
+EMT-associated factors in hypoxia-mediated induction of migratory
+phenotype in gliomas.MethodsMigration and invasion of GBM-derived cell
+lines (n=3) cultivated as spheres in serum-free media under atmospheric
+oxygen (21% O2) and hypoxia (1% O2) were assessed in Boyden Chamber-based
+in vitro assays. Digoxin was used to inhibit the HIF-1-mediated hypoxic
+response. The importance of the EMT-factor ZEB1 in our model was
+investigated by inhibiting its expression using sh-RNA delivered by
+lentivirus.ResultsHypoxia led to a significant increase of in vitro
+invasion in all three neurosphere lines tested (GBM1 up to 6fold, 622 up
+to 3fold and over 10fold for 821; p=0.001). This was accompanied by
+induction of EMT effectors including ZEB1, SNAI1 and TWIST1 as compared
+to normoxic cultures. Digoxin-mediated inhibition of HIF1a transcription
+resulted in abolition of this phenomenon. Additionally, histological
+analysis of patient-derived GBM samples revealed an abundance of ZEB1
+positive cells in hypoxic, peri-necrotic tumor areas. Strikingly,
+ZEB1-knockdown significantly reduced the invasive behavior of the cells.
+Interestingly, we also identified numerous ZEB1-postive cells in fetal
+neurogenic regions and migrating neuroblasts in both human and rodent
+brains. Furthermore, analyses of human fetal neural progenitors showed
+that ZEB1 expression is correlated with stem cell phenotype and
+established neural stem- and progenitor markers including SOX2 and
+NESTIN. Finally, analysis of TCGA and Rembrandt datasets identified
+up-regulation of EMT factors such as TWIST1, SNAI1 and SNAI2 was found in
+the aggressive, mesenchymal subgroup of GBM.ConclusionWhile malignant
+gliomas are not epithelial tumors, hypoxia increases the invasion
+capacity of GBM cells at least in part by inducing expression of EMT
+markers such as ZEB1. ZEB1 is also most highly expressed in the
+developing fetal brain in migrating stem and progenitor cells, suggesting
+it may play a similar role in normal development.
+

@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: LTB and LTBR mediates alternative Nf-kB activation through NIk and
+RELB/NF-kB2 to promote cell migration of HNSCC.
+
+
+Nuclear factor-κB (NF-κB) includes a family of NF-κB/REL transcription
+factors that regulate key inflammatory and cancer genes, and which are
+aberrantly activated in head and neck squamous cell carcinomas (HNSCC).
+Lymphotoxin beta/Lymphotoxin beta receptor (LTβ/LTβR) can mediate
+activation of the “alternative” NF-κB pathway that includes
+NF-κB-inducing kinase (NIK), Inhibitor-κB kinase α (IKKα), and
+transcription factors RELB/NF-κB2. While LTβ is expressed in lymph
+nodes where HNSCC spread, the role of this pathway in pathogenesis of
+HNSCC is not well studied. Analysis of The Cancer Genome Atlas (TCGA)
+data reveals that LTβR is amplified or overexpressed in larynx or oral
+cavity HNSCC, while LTα/β, NIK, (MAP3K14) and RELB are overexpressed in
+oropharynx and tonsil cancers. Similarly, we observed overexpression of
+LTβR, NIK, and RELB proteins in subsets of HNSCC cell lines. In
+UM-SCC46, LTβ enhanced nuclear translocation of RELB/NF-κB2 (p52)
+subunit proteins, while LTβR siRNA knockdown decreased the expression of
+its target kinase NIK and RELB/NF-κB2 (p52). NIK knockdown also
+decreased RELB/NF-κB2 (p52) protein expression, whereas LTβ treatment
+stabilized NIK, and RELB/NF-κB2 (p52). Functional LTβ-mediated NF-κB
+activation was examined using a stably transfected NF-κB reporter cell
+line for β-lactamase/Fret activity. Knockdown of LTβR and NIK decreased
+NF-κB activity, whereas treatment with LTβ partially restored it.
+Treatment with a NIK inhibitor (1, 3[2H, 4H]-Iso-Quinoline Dione) reduced
+the protein expression of NIK, IKKα, and RELB/NF-κB2 (p52) in the
+cytoplasm and/or in the nucleus, and blocked LTβ induced translocation
+of RELB to nucleus. NIK and RELB knockdown by siRNA or using NIK
+inhibitor slowed HNSCC migration. Knockdown of NIK inhibited the
+LTβ-induced expression of MET, and SERPINE1 genes involved in migration,
+and knockdown of MET by siRNA inhibited the migration of HNSCC cell
+lines. Our findings show that LTβ/LTβ receptor promotes activation of
+the alternative NIK-IKKa-RELB/NF-κB2 pathway, to enhance MET-mediated
+cell migration in HNSCC. This may help explain why HNSCC exhibit
+migration and metastasis to local lymph nodes, where LTβ is expressed.
+The constitutive and LTβ induced activation of NIK and downstream NF-κB
+alternate pathway proteins, RELB and NF-κB2/p52 could be therapeutic
+targets in HNSCC.
+
+(Supported by NIDCD intramural projects ZIA-DC-000016, 74)
+
+

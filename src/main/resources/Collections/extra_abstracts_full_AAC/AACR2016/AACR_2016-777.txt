@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The CoGAPS matrix factorization algorithm infers feedback
+mechanisms from therapeutic inhibition of EGFR that increases expression
+of growth factor receptors
+
+
+Next generation sequencing technologies enable precise personalized
+medicine. Thus, patients with oncogene driven tumors are currently
+treated with targeted therapeutics such as EGFR inhibitors. However, drug
+interactions with other activated signaling pathways in treated tumors
+often alter predicted therapeutic response. Therefore, bioinformatics
+algorithms are needed to infer unanticipated molecular interactions from
+anticipated molecular response to targeted therapeutics in diverse
+genetic backgrounds. To model heterogeneous genetic backgrounds in HNSCC,
+we use HaCaT cells with forced overexpression of EGFR, HRAS, and PIK3CA.
+Previously, the CoGAPS matrix factorization algorithm was shown to infer
+the specific signaling pathways that were activated in these HaCaT
+knock-in constructs from gene expression data. In this study, we
+evaluated whether CoGAPS could also delineate unanticipated signaling
+changes from anticipated cellular signaling response caused by targeted
+therapeutic in diverse genetic backgrounds. To delineate these signaling
+responses, we measured gene expression after treating the modified HaCaT
+cells with three EGFR targeted agents (gefitinib, cetuximab and afatinib)
+for 24 hours. The CoGAPS matrix factorization algorithm distinguished a
+gene expression signature associated with the anticipated silencing of
+the EGFR network and a signature associated with unanticipated
+transcriptional feedback in HaCaT constructs that were sensitive to EGFR
+inhibitors. Notably, the feedback signature showed that EGFR gene
+expression itself increased in cells that were responsive to EGFR
+inhibitors. The CoGAPS algorithm further associated such feedback with
+increased expression of several growth factor receptors by the AP-2
+family of transcription factors. Once transcribed, these growth factor
+receptors may ultimately compensate for EGFR inhibition in these
+sensitive cells. Our data suggest, that CoGAPS gene expression signatures
+delineate on target and feedback effects of drugs related to therapeutic
+sensitivity in diverse genetic backgrounds.
+

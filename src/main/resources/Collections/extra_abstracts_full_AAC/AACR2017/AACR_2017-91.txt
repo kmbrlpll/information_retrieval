@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Molecular insight into drug resistance in acute myeloid leukemia:
+An in-silico and in-vitro approach.
+
+
+INTRODUCTION:
+
+Drug resistance of leukemic stem cells is a surmountable obstacle to
+effective chemotherapy in acute myeloid leukemia (AML). P-glycoprotein
+(Pgp) and FLT3 undoubtedly contribute to worse prognosis and mechanisms
+of these proteins lead to shorter survival and chemotherapy resistance.
+Due to heterogeneity of stem cells in AML, outcome of patients with a
+normal karyotype is highly challenging and changes in drug resistance
+genes likely to be identified which will contribute to a better
+understanding of the disease biology, eventually leading to the
+development of alternative therapeutic approaches regarding drug
+resistance in AML.
+
+METHODOLOGY:
+
+Blood and Bone-marrow samples were collected from newly diagnosed adult
+AML patients with normal karyotype. Gene expression analysis of MDR genes
+like Pgp, MRP1, BCRP and LRP was done by qRT-PCR in FLT3-ITD+/- and
+CD34+/- subgroups. Higher expression of Pgp amongst all MDR genes
+instigated to undertake in-silico analysis of Pgp with natural compound
+library using YASARA. MTT assay was used to find out IC50 value of
+natural compounds shortlisted from in-silico analysis and used alone or
+with cytarabine on THP-1 cell line and in primary AML stem cells. Pgp
+inhibitory activity of natural compounds was assessed by fluorimetric MDR
+assay.
+
+RESULTS:
+
+A significant upregulation of Pgp expression was observed in FLT3-ITD+,
+CD34+ group after cytarabine exposure during their induction (7+3)
+therapy. Docking analysis revealed curcumin, hesperidin and silymarin
+having better binding affinity with Pgp as compared to its known
+inhibitor Verapamil. Furthermore, these selected compounds were used
+in-vitro, and results of MTT assay suggested 6.1µM, 40.73µM, 63.09µM
+and 54.95µM IC50 values of cytarabine, curcumin, hesperidin and
+silymarin respectively in THP-1 cell line. Combination index (CI)
+analysis revealed that curcumin (25µM), hesperidin (30µM) and silymarin
+(35µM) having synergistic effect with cytarabine and decreased IC50
+value of cytarabine (1µM). In addition to this, Silymarin at 250nM and
+500nM concentration showed equivalent inhibition of Pgp as compared to
+control Verapamil.
+
+CONCLUSION:
+
+A combination of in-silico and in-vitro screening revealed Curcumin,
+Hesperidin and Silibinin can be used as MDR modulators as well as
+chemosensitizer to reduce the cytotoxicity profile and drug resistance in
+AML.
+
+

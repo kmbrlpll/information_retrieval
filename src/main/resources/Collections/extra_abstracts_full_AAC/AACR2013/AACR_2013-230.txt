@@ -1,0 +1,34 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Connectivity-map analyses identify FDA-approved drugs targeting
+breast cancer stem cells.
+
+
+Recently developed genomics-based tools are allowing repositioning of
+established drugs as cancer treatments. This approach has not been
+employed extensively to identify drugs that may target cancer stem cells
+(CSCs) of solid tumors. CD44+/CD24- cancer cells are the first described
+CSCs for breast cancer, which are enriched in mesenchymal stem-like (MSL)
+and mesenchymal-like (ML) subtypes of triple negative (TNBCs) and in
+anti-estrogen resistant breast cancers. We subjected gene expression
+array datasets containing list of genes differentially expressed in
+CD44+/CD24- CSCs compared to non-CSCs as well as in cells enriched for
+other markers of CSCs including CD271 and GD3S (six datasets in total) to
+connectivity map (CMAP) to identify drugs that may reverse gene
+expression patterns unique to CSCs. All trans retinoic acid (ATRA) was
+negatively connected with gene expression in CD44+/CD24-, CD271+, and
+GD3S+ CSCs as well as in ML and MSL subtypes of TNBCs. Independently,
+ATRA was found to modulate the expression of several genes in the
+recently described CSC-enriched Yes-Associated Protein (YAP) signature.
+ATRA-inducible genes of the YAP signature were associated with good
+prognosis, whereas ATRA-repressible genes were associated with poor
+prognosis, depending on the subtype of breast cancer. ATRA reduced
+mammosphere forming ability of breast cancer cells including acquired
+anti-estrogen resistant cells, which correlated with ATRA-mediated
+reduction of the critical stemness-associated gene SOX2 and induction of
+SOX21, which functions as a differentiation factor depending on the cell
+type. CD44+/CD24- breast cancer cell line with K-ras mutation was
+resistant to ATRA, which was reversed by MAP kinase inhibitors. From
+these results, we propose ATRA as a potential therapy for specific
+subtypes of breast cancers enriched for CSCs. A biomarker-driven patient
+selection may help to identify patients who may benefit from ATRA therapy.
+

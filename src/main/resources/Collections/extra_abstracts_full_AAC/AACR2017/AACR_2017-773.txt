@@ -1,0 +1,73 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Optimizing drug regimens in oncology by clinical trial
+simulations: Why and how.
+
+
+Introduction: In therapeutic research, the safety and efficacy of
+pharmaceutical products are necessarily tested on humans via clinical
+trials after a very long and expensive development period. Alternative
+methodologies such as computer modeling and Clinical Trial Simulation
+(CTS) are a valuable option to reduce animal and human assays. The
+relevance of these methods is well recognized in pharmacokinetics and
+pharmacodynamics from the pre-clinical phase to post-marketing. However,
+they are seldom used and are poorly regarded for drug approval, despite
+FDA and EMA recommendations. We propose to discuss the principle behind,
+and the interest of, CTS approaches in drug development in oncology. Our
+work is based on a systematic review using two electronic literature
+databases (Medline and Web of Science).
+
+Key components of CTS: We will explain why and how to successfully
+develop CTS.
+
+Why developing CTS?
+
+To obtain a better knowledge of pharmacology and/or better prediction of
+safety and efficacy
+
+To evaluate disease progression dynamics and to test the potential impact
+of biomarkers
+
+To analyze subpopulations and extend the post-marketing authorization to
+help in the choice of the best outcome
+
+To optimize experimental designs in order to better anticipate the
+progress of the study
+
+How to develop CTS?
+
+CTS project must follow three steps:
+
+1/The constitution of pharmacometricians team who elaborates clinical
+model and simulation plan that must contain three components:
+
+Input/output model: How do covariates impact outcomes?
+
+Covariate distribution Model: How can we generate virtual patients?
+
+Execution model: What can happen during the clinical trial?
+
+2/Obtaining data for simulations. We will present the contribution of
+machine learning for CTS
+
+3/The use of specialized software to realize simulations
+
+Limitations of CTS: We will present the features that can slow down or
+accelerate the development of CTS. The generalization of CTS could be
+greatly facilitated by the availability of software for modeling
+biological systems, by the clinical trials studies and hospital
+databases. Data-sharing and data-merging raise legal, policy and
+technical issues that will need to be addressed.
+
+CTS challenges and prospects: Development of future molecules will have
+to use CTS for faster development and thus enable better patient
+management. Drug activity modeling coupled with disease modeling, optimal
+use of medical data and increase of the computing speed should allow this
+leap forward. The realization of CTS requires not only the bioinformatics
+tools to allow interconnection and global integration of all clinical
+data, but also a universal legal framework to protect the privacy of
+every patient. CTS will have to be used to provide quantitative support
+for drug development decisions but will never replace real clinical
+trials. This in silico medicine opens the way to the 4P medicine:
+predictive, preventive, personalized and participatory.
+
+

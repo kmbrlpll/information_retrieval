@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Preclinical activity of dual PI3K/mTOR inhibitor SPR965 in
+multiple myeloma
+
+
+Introduction: Relapsed and refractory multiple myeloma (MM) remains a
+significant clinical challenge and drugs with new mechanisms of action to
+overcome resistance are needed. Constitutive activation of the
+PI3K/Akt/mTOR pathway in MM promotes tumorigenesis through propagation of
+the cell cycle, protein synthesis, and inhibition of apoptosis. Anti-MM
+effects of rapalogs are limited due to feedback activation of the
+PI3K/Akt signaling pathway. Agents capable of targeting PI3K and mTORC1
+or both mTORC1/C2 are able to partially overcome such resistance
+mechanisms. However, the mTORC2 mediated increase in pAkt (Ser473) after
+PI3K/mTORC1 inhibition and the activation of PI3K after mTORC1/C2
+inhibition could still contribute to resistance to such agents. We sought
+to investigate the effects of SPR965 (synthesized and provided by Sphaera
+Pharma, Singapore under an MTA), an orally bioavailable novel small
+molecule with inhibition of class 1 PI3 kinase and mTORC1/C2 kinases on
+MM cell lines and patient cells.Results: SPR965 induced cytotoxicity and
+inhibited proliferation in all MM cell lines examined with IC50 values
+between 25-500nM. To understand if SPR965 induced apoptotic cell death,
+annexin/PI staining followed by flow cytometric assays were performed,
+which showed a clear increase in cells undergoing apoptosis. Western
+blots showed increase in caspase-3, -9, and PARP cleavage confirming
+apoptotic induction by SPR965. Importantly, SPR965 caused potent increase
+in apoptosis in cytogenetically distinct MM patient cells. Next, we
+examined the mechanism of action of SPR965. SPR965 caused potent mTORC1
+inhibition evidenced by decreased p4E-BP1, p-p70S6K, and pS6 at doses as
+low as 25nM. SPR965 was able to inhibit PI3K activity as shown by
+decreased pPDK1 and pBTK at slightly higher concentrations of 75nM.
+Phosphorylation of Akt S473, a TORC2 substrate, increased at initial low
+concentrations of SPR965, but was attenuated at concentrations of 100 nM
+and above, demonstrating dose-dependent inhibition of mTORC2. Such
+effects were also observed when we performed western blots on MM patient
+derived primary plasma cells. Increased levels of p27 (KIP1) were
+observed suggestive of G1 growth arrest, which was confirmed on cell
+cycle analysis. Since SPR965 caused an increase in pAkt (both T308 and
+S473) at doses up to 75nM, we examined if SPR965 was able to synergize
+with an Akt inhibitor MK2206 at doses lower than 75nM. Our results showed
+potent synergy suggesting that the pAkt up regulation contributes to
+partial resistance, which is inhibited by SPR965 at doses of 100nM and
+higher, doses that are still clinically achievable.Conclusion: Our
+findings demonstrate SPR965 induces apoptosis of MM cells through the
+inhibition of PI3K and mTORC1/C2 activity. Further studies are underway
+to better characterize the mechanism of action of SPR965, all of which
+will be informative for the drug to be used as a single agent or in
+combination with other agents in relapsed MM.
+

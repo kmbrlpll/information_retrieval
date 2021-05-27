@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: MIR142 loss-of-function mutations promote leukemogenesis through
+derepression of ASH1L resulting in increased HOX gene expression.
+
+
+MIR142 mutations have been identified in acute myeloid leukemia (AML) and
+non-Hodgkins lymphoma. In AML, all MIR142 mutations localize to the
+miR-142-3p seed sequence. We show that mutated MIR142 is unable to
+suppress several well-known targets of miR-142-3p. Interestingly, the
+mutations of miR-142-3p result in their preferential loading into the
+RNA-induced silencing complex, leading to the degradation of miR-142-5p.
+Accordingly, miR-142-5p expression is decreased in MIR142 mutated AML.
+Hence, MIR142 mutations in AML disrupt both miR-142-3p/5p functions.
+Thus, we modeled the effect of MIR142 mutations on hematopoiesis using
+Mir142-/- mice. We show that loss of miR142 results in significant
+increases in myeloid hematopoietic stem/progenitor cells (HSPCs),
+including granulocyte-macrophage progenitors, myeloid-biased multipotent
+progenitors (CD150- CD48+ Flk2- Kit+ Sca+ lineage-) and CD229-
+myeloid-biased HSCs (CD150+ CD48- Kit+ Sca+ lineage-). In contrast, there
+are significant decreases of megakaryocyte-erythroid progenitors and
+erythroid precursors. Although the number of HSCs is normal in Mir142-/-
+mice, HSC transplantation suggest that they are myeloid-biased. In AML,
+MIR142 mutations are commonly found in conjunction with mutations of
+IDH1/2. To assess the importance of this association, we transduced
+wildtype or Mir142-/- HSPCs with retrovirus expressing IDH2 R172K and
+then transplanted into lethally irradiated recipients. Expression of IDH2
+R172K alone was sufficient to induce a lethal myeloproliferative neoplasm
+(MPN). In contrast, Mir142-/- alone did not result in MPN. However, loss
+of Mir142 cooperates with IDH2 R172K to produce a more severe MPN, with
+increased CD34+ blasts and more severe anemia. Moreover, secondary
+transplantation shows that Mir142-/- x IDH2 R172K cells but not IDH2
+R172K cells efficiently engraft and induce MPN, suggesting that loss of
+miR142 increases leukemia-initiating activity. We identify the histone
+methyltransferase ASH1L as a target gene of miR142 that contributes to
+altered hematopoiesis in Mir142-/- mice. The 3’-untranslated region of
+ASH1L has four miR-142-3p binding sites, and luciferase reporter assay
+shows that miR142 suppresses its translation by 80%. Consistent with this
+observation, Ashl1 protein expression is 3-fold higher in Mir142-/- bone
+marrow. ASH1L is a key positive regulator of HOX gene expression.
+Accordingly, we observed markedly (5-10 fold) increased HoxA9/A10
+expression in myeloid progenitors in Mir142-/- mice. Likewise, HoxA9/A10
+expression is increased in CD34+ blasts from Mir142-/- x IDH2 R172K
+transplanted mice. Of note, increased HoxA9 expression has been shown to
+cooperate with mutant IDH1 to induce AML in mice. Together, these
+findings support a model in which loss-of-function mutations of MIR142
+contribute to hematopoietic malignancies by derepressing ASH1L and
+inducing HOXA9/10 gene expression.
+
+

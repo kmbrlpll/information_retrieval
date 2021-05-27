@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Arginine deprivation-induced autophagy renders ASS1-deficient
+sarcomas dependent on serine metabolism.
+
+
+Objective: Argininosuccinate Synthetase 1 (ASS1) is silenced in ~90% of
+sarcomas. Upon arginine starvation, ASS1 (-) sarcoma cells undergo
+autophagy and growth arrest, but not cell death. In order to identify
+potential synthetic lethal targets arising from the arginine deprivation,
+mass spectroscopy was performed to determine the metabolic alterations
+caused by short and long term arginine deprivation resulting from
+treatment with pegylated arginine deiminase (ADI-PEG20). With recent
+studies showing the importance of serine biology in cancer, as well as
+recent generation of a small molecule inhibitor to the rate limiting
+enzyme in serine biosynthesis, this newly identified synthetic lethality
+proves to be an exploitable therapeutic option for ASS1 deficient
+sarcomas.
+
+Methods: The SKLMS1 cell line was cultured in normal culture conditions,
+as well as with ADI-PEG20 for three days and subjected to metabolite
+extraction and capillary electrophoresis mass spectrometry (CE-MS).
+Similarly, additional samples were cultured for 2 days, with or without
+ADI-PEG20, and subsequently treated with UC13 labeled glucose for an
+additional 24 hours before being subjected to metabolite extraction.
+CE-MS was performed on the samples to determine the abundance of 54
+metabolites, and all respective isotopomers. Cell death was measured by
+propidium iodide fluorescent activated cell sorting after inhibition of
+serine metabolism by the small molecule inhibitor of PHGDH (CBR-5884)
+with and without ADI-PEG20.
+
+Results: Upon treatment with ADI-PEG20, the stable isotope labeled
+glucose derived component of a vast majority of metabolites decreased
+significantly. The pathway with the largest increase in metabolic flux
+was serine biosynthesis, including subsequent conversion into glycine,
+rendering LTAT lines significantly more susceptible to antifolate
+metabolites. Significant changes in the enzyme responsible for the rate
+limiting step of serine biosynthesis, phosphoglycerate dehydrogenase
+(PHGDH) were observed upon short term arginine deprivation, with further
+upregulation observed upon long term treatment. Cell death levels were
+significantly higher in samples when inhibition of PHGDH was paired with
+ADI-PEG20 treatment, with LTAT lines having even further susceptibility
+to cell death induction upon PHGDH inhibition than short term ADI-PEG20
+treated samples.
+
+Conclusion: By determining the alterations in the fate of glucose in the
+SKLMS1 cell line upon short and long term treatment with ADI-PEG20, we
+were able to illustrate an increase in the level of serine biosynthesis.
+Inhibition of this escape pathway by inhibition of PHGDH induced cell
+death. LTAT lines were the most sensitive to treatment with the PHGDH
+inhibitor as well as the commonly used antifolate metabolite,
+methotrexate.
+
+

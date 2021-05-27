@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A network based analysis for the treatment of triple negative
+breast cancer.
+
+
+Background: Triple-negative breast cancer (TNBC) is a complex
+heterogeneous disease characterized by the absence of three hallmark
+receptors: human epidermal growth factor receptor 2 (HER2), estrogen
+receptor (ER), and progesterone receptor (PR). Compared to other breast
+cancer subtypes, TNBC is more aggressive, has a higher prevalence in
+African Americans, and more frequently affects younger patients.
+Currently, TNBC lacks clinically-accepted targets for tailored therapy,
+warranting the need for candidate biomarkers.
+
+Methods: BiomarkerBase, a biomarker knowledgebase developed by Amplion
+uses a comprehensive list of synonyms to identify biomarkers registered
+in the records of clinical trials via the government website
+clinicaltrials.gov. Under each of the registered breast cancer biomarkers
+(with the exceptions of HER2, ER, and PR), sub-searches were conducted
+for clinical trials that explicitly used TNBC (or the full name, triple
+negative breast cancer) in the title of the biomarkers’ studies. Of
+note, most trials in this review were completed phase II or III. The
+selected candidate biomarkers were classified into four FDA biomarker
+categories (surrogate, prognostic, predictive, or pharmacodynamic (PD))
+as well as by location (blood/plasma, cell surface, cytoplasm, or
+nucleus). Current literature about the biomarkers was further examined
+using PubMed. There, we sought to find papers that studied how the
+biomarkers may interact. These markers were further organized into a
+“cellular protein network” that demonstrates potential connectivity.
+
+Results: Blood biomarkers include VEGF/VEGFR and IL-8; cell surface
+biomarkers include EGFR, IGFBP, c-Kit, c-Met, and PD-L1; cytoplasm
+biomarkers include PIK3CA/AKT/mTOR-related metabolites (GPC, PCh,
+Lactate/ glucose), pPKM2, F1,6BP, SPHK1, STAT1/IRF2BP2, S6, p4E-BP1,
+SUV39H1, PTEN, and ALDH1; and nucleus biomarkers include BRCA1, the
+glucocorticoid receptor (GR), TP53, and Ki67. Table 1 provides an
+overview of the examined surrogate, prognostic, predictive, and PD
+biomarkers in TNBC in addition to current literature found in PubMed that
+provides support for their potential use.
+
+Conclusion: To date, there are no clinically-validated biomarkers for
+TNBC, which has hindered the development of tailored therapy for both
+chemosensitive and refractory TNBC. Before validation and use of these
+biomarkers occurs, stringent-clinical criteria must be met first. The
+list and cellular protein network provided is an inventory and reference
+point for promising biomarkers for breakthrough, targeted therapies in
+TNBC.
+
+

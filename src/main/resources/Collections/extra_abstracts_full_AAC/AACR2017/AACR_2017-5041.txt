@@ -1,0 +1,25 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Translational pharmacokinetic-pharmacodynamic xenograft model for
+TAK-931, a small molecule cell division cycle 7 (CDC7) kinase inhibitor.
+
+
+TAK-931 is a small molecule inhibitor of the cell division cycle 7 (CDC7)
+kinase. As a serine/threonine kinase that contributes to DNA replication
+and the DNA damage response, CDC7 is hypothesized to be a promising
+cancer drug target. CDC7 inhibition with TAK-931 has demonstrated
+antiproliferative activity with cancer cell lines and tumor growth
+inhibition (TGI) in murine ectopic xenograft models. Herein, the analysis
+of multiple models to characterize pharmacokinetic (PK) and
+pharmacodynamic (PD) relationships with xenograft TGI is described.
+TAK-931 treatment-induced TGI was dose schedule-independent and could be
+described using plasma drug concentrations or tumor PD inhibition.
+However, the efficacious doses were at least 10-fold higher for the
+PK-TGI relationship than for the PD-TGI relationship. This discrepancy
+was used to select a dynamic PK-PD-TGI modeling approach to project the
+minimal efficacious dose (MED) and minimal biological active dose (MBAD)
+for TAK-931 due to the large differences in time-concentration profiles
+predicted for humans versus mice. The Phase I human trial is on-going and
+will be used to verify the dynamic PK-PD-driven modeling approach for the
+CDC7 inhibitor.
+
+

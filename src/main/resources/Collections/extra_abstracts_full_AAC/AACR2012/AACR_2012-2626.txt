@@ -1,0 +1,42 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Apoptosis-related single nucleotide polymorphisms and the risk of
+non-small cell lung cancer in a case-control study of women
+
+
+Background: Often, lung cancer is diagnosed at later stages, resulting in
+a 15% 5-year survival rate. Improved survival is seen for those with
+early stage disease, thus it is crucial to identify genetic markers that
+can identify those at the highest risk for early disease. In this study,
+we focused on understanding the risk of developing non-small cell lung
+cancer (NSCLC) associated with germline single nucleotide polymorphisms
+(SNPs) in apoptosis related genes among women in the Detroit metropolitan
+area. Methods: 453 cases of NSCLC and 478 control subjects were examined
+in a population based case-control study. Since the allele frequency
+differed significantly in over 74% of the SNPs between whites and African
+Americans, analysis was stratified by race. Eight SNPs found not to be in
+HWE were excluded from the study, leaving 97 SNPs in 32 apoptosis related
+genes examined for association with risk of lung cancer. Odds ratios and
+95% confidence intervals were estimated from unconditional logistic
+regression models using a dominant model, stratified by race, and
+adjusted for age, pack years smoked, ever/never smoking status, family
+history of lung cancer, history of COPD, BMI and education. Results:
+Among whites, a polymorphism in APAF-1 (rs1007573) was associated with a
+2.86 fold increase in risk of lung cancer among smokers (95% CI:
+1.58-5.16). SNPS in CD40 rs3765459 and rs1535045 were associated with a
+reduced risk of lung cancer among white smokers. After carrying out a
+backwards elimination procedure, only APAF-1 rs1007573 and CD40 rs1535045
+remained as significant predictors of risk. Both of these SNPs were found
+to be noteworthy, as per the False Discovery Reporting Percentage (FDRP)
+method. In African Americans, 7 SNPs were found to be significantly
+associated with NSCLC. After the backwards elimination procedure, only
+SNPs in ATM rs1801516 (OR=24.15, 95% CI: 3.50-166.55), TNF rs1800629 (OR=
+0.42, 95% CI: 0.18-0.99) and p63 rs6790167 (OR: 2.85, 95% CI:1.33-6.09)
+were found to be significant. Testing these SNPs using the FDRP method
+revealed that only p63 (rs6790167) was noteworthy. Indeed, this locus may
+represent an important target in NSCLC, as previous SNPs in p63 have been
+reported to increase the risk of lung cancer in larger GWAS studies.
+Conclusions: We report two significant SNPs associated with NSCLC risk in
+whites (APAF-1 rs1007573 and CD40 rs1535045) and one significant SNP in
+African Americans (p63 rs6790167) as potentially important contributors
+to NSCLC.
+

@@ -1,0 +1,42 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A comparison of bulk versus single-cell whole-exome sequencing to
+study cancer genetic heterogeneity
+
+
+Cancer is a heterogeneous disease consisting of subclonal cell
+populations at the genetic level that possess a selective growth
+advantage over normal tissue. Furthermore, these subclones have
+differential responses to therapeutic interventions, particularly
+molecularly targeted approaches to treatment. Traditional cancer genomics
+techniques obtain sequence data at a single time point from bulk tumor
+tissue. This method provides a snapshot of somatic mutational profiles at
+the population level, but is limited in its sensitivity to detect rare
+and potentially important subclones by sample quality, sequencing depth,
+and subclonal population frequency. Current methods to map the clonal
+architecture of tumors use bulk sequencing coupled with bioinformatic
+approaches using read depths to determine allele frequencies and groups
+subclones based on these frequencies. However, this approach is unable to
+separate subclonal populations comprised of variants present at similar
+allele frequencies, thus hindering the ability to precisely determine the
+cellular distribution of somatic mutations. Recent technological advances
+in the field of single cell genomics now allow for the interrogation of
+genetic aberrations at a single cell resolution in a high throughput
+fashion, providing the means to more fully map the clonal architecture of
+a tumor. However, a single cell approach requires large amounts of
+amplification, prompting concerns regarding polymerase fidelity, allelic
+imbalances and dropout, and incomplete target coverage. By comparing high
+depth bulk tumor to single cell exome sequencing results, we can assess
+the advantages and disadvantages of bulk sequencing vs. single cell
+methods to study genetic heterogeneity. To this end, we have performed
+single cell whole-exome sequencing (WES) on the K562 leukemia cell line
+and a muscle-invasive bladder cancer patient derived xenograft (PDX)
+using the Fluidigm C1 microfluidic system. We have captured over 300
+cells from both cancer lines, and obtained an average of >100ng amplified
+DNA per cell. We have performed WES of 43 individual K562 cells resulting
+in a mean coverage of 11X across covered regions and 90% of passed filter
+bases aligned to the targeted regions. Analysis of WES data from 40 PDX
+cells is currently underway, and a detailed comparison of the single cell
+to high-depth bulk WES in K562 and PDX samples will be carried out to
+characterize amplification biases, fidelity, coverage, and sensitivity of
+a single cell based approach.
+

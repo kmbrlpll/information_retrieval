@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A multiscale computational model for spatio-temporal tumor immune
+response.
+
+
+When the immune system responds to tumor development, patterns of immune
+infiltrates emerge, highlighted by expression of immune
+checkpoint-related molecules such as PD-L1 on cancer cells and its
+receptor PD-1 on cytotoxic T cells. Pre-treatment tumor spatial
+heterogeneity could bear information on intrinsic characteristics of the
+tumor lesion for individual patient, and thus has the potential to
+comprise biomarkers for anti-tumor therapeutics. We developed a systems
+biology computational multiscale agent-based model to capture the
+interactions between immune cells and cancer cells during tumor
+progression. Cytotoxic T cells and cancer cells are modeled as
+free-moving agents in a 3-dimensional grid, where each cell acts in
+response to its local microenvironment and carries out functions such as
+division, apoptosis, cytotoxic killing and switching between states with
+different PD-1 or PD-L1 expression levels. Subsequently, we analyzed the
+emergent behavior of tumor progression by looking at all these local
+interactions as a whole. Using this model, we are able to reproduce
+temporal dynamics of cytotoxic T cells and cancer cells during general
+tumor progression, as well as 3-dimensional spatial distributions of
+these cells over the time course of the simulation. By varying the
+characteristics of the neoantigen profile of individual patients, such as
+mutational burden and immunogenicity, a spectrum of pre-treatment spatial
+patterns of PD-1/PD-L1 expression is generated in our simulations,
+resembling immune-architectures obtained via immunohistochemistry from
+patient biopsies. We evaluate potential prognostic biomarkers by
+correlating these spatial characteristics with in silico treatment
+results with immune checkpoint inhibitors. Simulation results demonstrate
+that the percentage of PD-L1 positive cancer cells which are not in close
+proximity of the tumor boundary or vasculature is more indicative of
+successful anti-PD1/anti-PD-L1 treatment. Our findings suggest that tumor
+spatial heterogeneity, especially its immune-architecture, reflects the
+course of tumor progression as well as patient-specific properties, and
+is thus likely to carry important information about tumor susceptibility
+to treatment such as with immune checkpoint inhibitors. We demonstrated
+how prognostic biomarkers could be realistically simulated in a general
+cancer scenario. The model is further refined for use to predict
+treatment/biomarker combinations in specific cancer types.
+
+

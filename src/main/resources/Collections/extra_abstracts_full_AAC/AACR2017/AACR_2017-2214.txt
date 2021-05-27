@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Adaptive dynamic artificial polyligand targeting (ADAPT): a method
+to identify exosomal proteins from a prostate cancer cell line.
+
+
+In the recent years it was demonstrated that a multitude of body fluids
+contains substantial amounts of exosomes, extracellular vesicles with
+sizes ranging between 40 and 100 nm. Those vesicles have protein profiles
+characteristic of their cells of origin. It was shown that exosomes play
+a role in cell-to-cell communication making them attractive targets to
+identify early disease stage biomarkers. Cancer heterogeneity is known
+for a long time to be an important clinical determinant of patient
+outcome. We developed the highly multiplexed ADAPT platform to capture
+systems-based biological signatures that may reflect the molecular
+heterogeneity of various cancer types and help to improve diagnosis of
+the disease. Exosomes from two prostate cancer cell lines, VCaP and
+LNCaP, were used to train ssDNA libraries to discriminate them. A highly
+diverse library of 1012 oligonucleotides (ODNs) was subjected to five
+rounds of positive and negative selection against exosomes from VCaP and
+LNCaP prostate cancer cell lines. Individual ODNs that bound preferably
+to exosomes from VCaP cells were identified by NGS, resynthesized and
+binding of co-precipitated ODNs to VCaP exosomes was verified by qPCR.
+LC-MS/MS was used to identify binding partners of ODNs bound to VCaP
+exosomes. Several of those binding partners (CHMP1b/2a/4b, VPS28,
+Syntenin-1) were found to be part of the ESCRT machinery, which
+participates in exosomes biogenesis. It was found that those proteins are
+overexpressed in human cancers. In addition, we identified the chemokine
+I-TAC, which is overexpressed in blood and tissue of men with advanced
+prostate adenocarcinomas. Finally, we found hnRNP-1, a cancer associated
+splicing factor, and the cold shock proteins RNPL and A18 hnRNP.
+Knock-down of these cold shock proteins has been shown to enhance
+chemotherapeutic cell killing of prostate cells. ADAPT is an unbiased
+profiling platform that identifies cancer associated proteins expressed
+on exosomes. This platform can be deployed against multiple cancer types
+and offers broad potential applications in biomarker discovery.
+
+

@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Image-based microchip sorting of pure, immuno-phenotypically
+defined subpopulations of tumor cells from tiny formalin-fixed paraffin
+embedded (FFPE) samples reveals their distinct genetic features
+
+
+Background: We provide a solution of pressing needs in preparation of
+FFPE samples for genomic analysis: small sample size, unwanted admixture
+of normal cells, analysis of tumor rare-cell subpopulations present at
+low percentages in the tumor fraction.Methods: We disaggregated into cell
+suspensions archival FFPE samples from 12 ovarian, pancreatic and lung
+cancer patients, staining for Vimentin, Keratin and DNA. We sorted by
+DEPArray precise numbers (mean = 107, median 58, range = 5-600) of pure
+homogenous cells from the major population of tumor cells, the
+contaminant diploid stromal cells, and other minority tumor cell types
+indicative of epithelial-to-mesenchymal transition (EMT). Using
+IonTorrent AmpliSeq CHPv2, we generated sequencing libraries, after lysis
+of the pure cells recovered by DEPArray (n = 54), or unsorted samples
+(either QIAmp DNA columns or disaggregated cells). Libraries were
+sequenced with IonTorrent PGM (mean depth>2,000x), and analyzed using
+IonTorrent software.Results: On several loci, we detected somatic
+mutations with 100% variant frequency, only observable as heterozygous in
+the unsorted samples and as wild-type in stromal cells of same patient,
+confirming 100% purity of sorted cells. Moreover, in the EMT-phenotype
+subpopulations we identified clear somatic mutations, different from
+tumor cells majority and undetectable in unsorted samples. Frequently,
+for loci harboring germ-line heterozygous SNPs with variant frequency
+around 50% for pure stromal cells, we readily detected
+loss-of-heterozygosis in tumor cells subpopulations as binary (0%/100%)
+variants. Quantitative traits such as copy number gains and losses were
+also reproducibly identified in tumor cell replicates as deviations from
+the 50% variant frequency of germline SNPs of pure stromal cells.
+Furthermore, we observed an excellent coverage uniformity (mean = 96%)
+for recoveries (n = 27) in the range of 81-600 cells, even higher than
+the uniformity obtained with (n = 2) QIAmp-purified DNA (92%). Mean
+uniformity gradually decreased to 89% for cell recoveries (n = 13) in the
+range 21-80, and further decreased to 70% for lower cell numbers (n =
+14).Highlights: Sorting tumor rare-cell subpopulations reveals their
+genetic characteristics, undetectable in unsorted samples. Analyzing
+homogenous cell subpopulations boosts signal-to-noise ratio working
+around inherent sensitivity/specifitiy trade-offs of rare-variant calls.
+The proposed workflow further enables reliable detection of quantitative
+traits such as CNVs. Sorting pure stromal cells yields internal controls
+for archival samples.
+

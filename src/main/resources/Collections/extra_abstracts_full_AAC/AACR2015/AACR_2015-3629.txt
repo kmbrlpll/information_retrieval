@@ -1,0 +1,41 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Balance shift between error-free and error prone DNA double-strand
+break repair as a novel mechanism of radiosensitization by nucleoside
+analogs
+
+
+Nucleoside analogs (NAs) represent a large group of anticancer drugs,
+several members of which have been shown to sensitize cells to ionizing
+radiation (IR). Among the lesions induced in cells by IR, the DNA
+double-strand break (DSB) is considered to be the most detrimental.
+Therefore we focused on interactions between NAs and pathways of DSB
+repair.We opted for post-irradiation treatment with NAs to avoid
+complications arising from redistribution of cells throughout the cycle
+prior to IR exposure. We compared the effects of 4h treatments post-IR
+with vidarabine (ara-A), fludarabine (F-ara-A) or gemcitabine (dFdC) on
+the survival of A549 lung carcinoma cells. We found that post-irradiation
+treatment with ara-A and F-ara-A, but not dFdC, resulted in cell
+radiosensitization to killing. Radiosensitization by ara-A was superior
+to that by F-ara-A. We employed immunofluorescence detection of
+IR-induced foci and I-SceI-based reporter cell lines to identify the
+pathways of DSB repair that are inhibited by ara-A and cause the observed
+radiosensitization. We found that the formation of IR-induced Rad51-foci
+was compromised by ara-A suggesting inhibition of homologous
+recombination repair (HRR). Repair of I-SceI-induced DSBs by HRR was also
+suppressed by ara-A. Furthermore, A549 cells deprived of Rad51 by RNAi
+could not be efficiently radiosensitized by ara-A. On the other hand, we
+could not detect impairment by ara-A of non-homologous end-joining
+(NHEJ), as measured by pulsed-field gel electrophoresis (PFGE) at high
+doses of IR (20 Gy). Notably, we observed an increase in the frequency of
+mutagenic NHEJ events in several I-SceI-based repair reporter systems,
+indicative of processing by error-prone repair pathways such as
+alternative/backup NHEJ (B-NHEJ). In addition, we could show that
+treatment with ara-A induces a dramatic increase in B-NHEJ in plateau
+phase Lig4-/- MEFs. Treatment with F-ara-A also inhibited HRR, but was
+less proficient in promoting mutagenic NHEJ.We conclude that inhibition
+of HRR and promotion of B-NHEJ represent two important mechanisms of
+radiosensitization by NAs. The strong impact of ara-A on both of these
+repair pathways underpins its superior radiosensitizing potential.
+Targeting of both HRR and B-NHEJ may provide a promising new strategy for
+radiosensitization.
+

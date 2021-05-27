@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Correlation between modulation of RNA expression and the
+preventive and therapeutic efficacy of Tamoxifen in an ER+ model of
+breast cancer
+
+
+The SERMs, primarily Tamoxifen, have been employed in both the therapy
+and prevention of ER+ breast cancer for many decades. In the present
+study we examined the effects of the SERM tamoxifen as a preventive and
+therapeutic agent in an ER+ Methylnitrosourea (MNU) -induced model of
+mammary cancer in rats. Fifty day old female Sprague Dawley rats were
+administered MNU i.v. and tamoxifen was administered continually in diet
+beginning either 5 days post MNU (prevention) or when an animal developed
+its first palpable tumor (150mm2) [therapy]. The approximate ED50 (dose
+required to reduce tumor multiplicity 50%) and ED90 in the preventive
+assays were 0.66 and 3.3 ppm (mg of tamoxifen per g of diet) for
+Tamoxifen. Interestingly the 3.3 ppm dose was ineffective as a therapy at
+these doses although it slowed growth of palpable lesions. Rather one had
+to administer a dose of roughly 100 ppm achieve a strong therapeutic
+response. We also examined the short term effects (5 days of treatment)
+of 3.3 and 100 ppm on gene expression in palpable lesions. We compared
+each treatment group with the control to find the up or down regulated
+genes. The number of differentially expressed (DE) genes selected at FDR
+= 0.2 increased from 584 to 2267 when the dose increased from 3.3ppm to
+100ppm. The 3.3ppm treatment yielded fewer DE genes compared to the
+100ppm treatment, but the majority (60%) of the genes identified in the
+3.3 ppm group were identified in the high dose group. The higher dose
+profoundly decreased a variety of specific genes in the proliferative
+pathways, particularly in APC (Anaphase Prometaphase Condensation
+Complex), which includes Ccnb1 and Top2A. In contrast, the low dose
+failed to significantly change expression of these specific genes. The
+effects of the higher dose of tamoxifen were confirmed by the use of
+RT-PCR. Using the human Tamoxifen treatment dataset GSE6532 in GEO, we
+found 633 DE genes by comparing the treated (n = 277) and untreated (n =
+237) patients. We found 68 genes shared between human and rat derived
+from 100ppm treatment and 11 genes from 3.3ppm treatment. 9 of the 11
+genes regulated by the low dose were also regulated by the high dose.
+These genes included RAB5B, a member of the RAS oncogene family, and
+GDF9, the growth differentiation factor 9. By gene enrichment analysis
+(GSEA), we found several pathways, including RAS, TGF beta signaling, DNA
+damage signaling, and cell cycle pathways, which were affected by the
+tamoxifen treatment. Our study suggests that the rat gene expression was
+regulated by tamoxifen even at low dose, and the DE genes at the low dose
+are a subset of these DE genes altered at the high dose. These data
+provide a rationale for testing low dose tamoxifen as a chemo preventive
+agent for women at high risk of developing breast cancer and offer
+potential genomic biomarkers associated with efficacy at these lower
+doses.
+

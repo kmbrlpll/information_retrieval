@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: p53 dimers associate with a head-to-head element to repress cyclin
+B transcription
+
+
+DNA damage activates cell cycle checkpoints to promote cell cycle arrest.
+p53 is a major player in checkpoints by activating expression of the cdk
+inhibitor p21 and repressing expression of cyclin B. DNA damage-induced S
+and G2 arrest following treatment with the topoisomerase I inhibitor SN38
+is abrogated in p53-defective cells by treatment with the Chk1 inhibitor
+7-hydroxystaurosporine (UCN-01). Previously, we compared p53 wildtype
+MCF10A cells with derivatives whose p53 function is inhibited by
+overexpression of the tetramerization domain (MCF10A/OD) or
+overexpression of shRNA against p53 (MCF10A/p53) (Levesque et al,
+Oncogene 24, 3786, 2005). Treatment of MCF10A/OD with SN38 followed by
+UCN-01 results in abrogation of S, but not G2, arrest, while the
+MCF10A/p53 abrogated both S and G2 arrest. The S abrogation correlated
+with reduced p21, consistent with the requirement of p53 tetramerization
+for activation of p21 expression. Failure of G2 abrogation correlated
+with reduced cyclin B, suggesting that tetramerization of p53 is not
+required for repression of cyclin B expression. In the present study, we
+confirmed that the p53-dependent repression of cyclin B in response to
+DNA damage occurs at the transcriptional level by analyzing cyclin B mRNA
+levels. Treatment of MCF10A and MCF10A/OD with SN38 resulted in reduction
+of cyclin B mRNA levels whereas treatment of MCF10A/p53 with SN38 did
+not. This reflects the change in protein levels following SN38 treatment.
+We next analyzed p53 oligomerization using glutaraldehyde crosslinking.
+Following SN38 treatment, MCF10A contained oligomeric forms of p53 with
+molecular weights approximating monomers, dimers, trimers, and tetramers.
+MCF10A/OD, however, possessed monomers and dimers, but lacked trimers and
+tetramers. These results suggest that p53 monomers or dimers are involved
+in repression of cyclin B. One model to explain the p53-mediated
+repression of cyclin B in MCF10A/OD is that p53 dimers, rather than
+tetramers, bind to a p53 response element in the cyclin B promoter. While
+genes transcriptionally activated by p53 contain a consensus sequence
+with elements repeated in a head-to-tail orientation, the cyclin B
+promoter contains similar elements oriented head-to-head. We performed
+both chromatin immunoprecipitation (ChIP) assays and electrophoretic
+mobility shift assays (EMSA) to determine whether p53 binds to this
+head-to-head element. ChIP assays revealed that p53 associates with this
+element in MCF10A and MCF10A/OD but not in MCF10A/p53. We performed EMSA
+using a biotin-labeled probe containing the head-to-head element and
+observed shifts in mobility consistent with the molecular weight of
+tetramers and dimers using MCF10A nuclear extract (NE), but observed only
+the dimeric shift with MCF10A/OD NE, and no shift with MCF10A/p53 NE.
+Taken together, these results suggest p53 dimers associate with the
+head-to-head element to repress cyclin B transcription.
+

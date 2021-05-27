@@ -1,0 +1,35 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Methodology design for identifications of protein targets of
+chemopreventive isothiocyanates using click chemistry.
+
+
+Isothiocyanates (ITCs) derived from cruciferous vegetables are inhibitors
+of carcinogenesis in animal models and can induce cell cycle arrest and
+apoptosis in a variety of cancer cell lines. It is known that ITCs can
+conjugate with glutathione (GSH) and induce cellular oxidative stress;
+ITCs can also bind to intracellular proteins (e.g. tubulin) which may
+constitute a mechanism underlying their cancer preventive effects. To
+fully understand the cellular responses to ITCs, it is crucial to develop
+an unbiased method that can rapidly identify their protein targets. In
+this study, the direct protein targets of phenethyl isothiocyanate
+(PEITC) were investigated by using click chemistry. An alkyne-tagged ITC
+was used as an analog of PEITC, a known cancer prevention agent. The
+tagged ITC (N-(2-(4-methoxyalkyne)phenethyl)isothiocyanate (NPPEITC) was
+designed and synthesized with a moiety for copper-catalyzed Huisgen 1,3
+dipolar cycloaddition reaction (click chemistry), the tagged ITC,
+NPPEITC, was also found to show similar biological activities to PEITC;
+The click-chemistry reaction conditions of copper-catalyzed azide-alkyne
+cycloaddtion (CuAAC) for NPPEITC and
+N-(2-(4-methoxyalkyne)phenylethyl)acetamide (NPA, a negative control)
+with biotin azide were optimized and the reaction product was isolated
+and analyzed by mass spectrometry. A model click reaction between NPPEITC
+and tubulin was employed to validate this method. The western-blot showed
+that the tubulin protein is modified by biotin after NPPEITC treatment
+then followed by click reaction with biotin azide. In contrast, no biotin
+was found on NPA treated tubulin. Secondly, cancer cells exposed to the
+tagged ITC (NPPEITC or NPA) was lysed and exposed to click chemistry
+reagents to conjugate ITC-adducted proteins with biotin for subsequent
+affinity purification; the ITC conjugated proteins were identified and
+quantified using proteomic analysis by LC/MS/MS.(Supported by NCI grant
+CA100853)
+

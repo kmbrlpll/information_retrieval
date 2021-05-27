@@ -1,0 +1,72 @@
+Meeting: 2016 AACR Annual Meeting
+Title: CRISPR knockout of HuR in pancreatic cancer cells causes a
+xenograft lethal phenotype
+
+
+Pancreatic ductal adenocarcinoma (PDA) is the most prevalent type of
+pancreatic cancer and will soon become the second leading cause of cancer
+related deaths in the U.S. Studies show that the nuclear localized
+mRNA-binding protein HuR (ELAVL1) is activated in PDA cells, with
+cytoplasmic translocation associated with increased tumor size and poor
+prognosis. Previous in vitro and in vivo studies have established HuR's
+role as a PDA cell survival mechanism. Thus, we explored the phenotypic
+effect of completely eliminating HuR expression from PDA cells through
+the use of clustered, regularly interspaced, short palindromic repeat
+(CRISPR)/Cas9 technology to target and disrupt the HuR genomic sequence.
+Since INDELs are induced randomly, we designed 3 gRNAs to target HuR at
+different loci. Gene disruption was determined via sequencing and
+validated through protein and mRNA expression, where homozygous knockouts
+(HuR/) had undetectable HuR expression as compared to wild-type (HuR+/+),
+heterozygotes (HuR+/), and CRISPR/Cas9 negative control. Sanger
+sequencing confirmed homozygous knockouts with a frame shift mutation on
+both alleles. When HuR knockout cells were exposed to chemotherapeutic
+stress including mitomycin C, oxaliplatin, and gemcitabine, no HuR
+expression (nuclear or cytoplasmic) was detected via immunofluorescence.
+Phenotypically, HuR/ cells resulted in increased apoptosis and necrosis
+as measured via trypan blue assay, and accordingly, had increased caspase
+3 activity, a marker of a cell death. HuR/ cells, when treated with
+mitomycin C, oxaliplatin, gemcitabine, and glucose deprivation exhibited
+decreased long and short-term cell survival as compared to control cells.
+HuR/ cells, pulse-labeled with bromodeoxyurdine (BrdU), had a higher
+proportion of cells in S phase and fewer cells in G2/M phase. HuR
+deletion enhanced premature mitotic entry thereby preventing efficient
+repair of DNA damage, leading to cell death. Importantly, CRISPR knockout
+of HuR showed marked impairment in tumor growth in mouse xenografts. The
+differences in median tumor volume with HuR/- xenografts was significant
+as compared to xenografts in mice with HuR(+/+) cells (0.0 mm3 vs 378.0
+mm3, P Pancreatic ductal adenocarcinoma (PDA) is the most prevalent type
+of pancreatic cancer and will soon become the second leading cause of
+cancer related deaths in the U.S. Studies show that the nuclear localized
+mRNA-binding protein HuR (ELAVL1) is activated in PDA cells, with
+cytoplasmic translocation associated with increased tumor size and poor
+prognosis. Previous in vitro and in vivo studies have established HuR's
+role as a PDA cell survival mechanism. Thus, we explored the phenotypic
+effect of completely eliminating HuR expression from PDA cells through
+the use of clustered, regularly interspaced, short palindromic repeat
+(CRISPR)/Cas9 technology to target and disrupt the HuR genomic sequence.
+Since INDELs are induced randomly, we designed 3 gRNAs to target HuR at
+different loci. Gene disruption was determined via sequencing and
+validated through protein and mRNA expression, where homozygous knockouts
+(HuR/) had undetectable HuR expression as compared to wild-type (HuR+/+),
+heterozygotes (HuR+/), and CRISPR/Cas9 negative control. Sanger
+sequencing confirmed homozygous knockouts with a frame shift mutation on
+both alleles. When HuR knockout cells were exposed to chemotherapeutic
+stress including mitomycin C, oxaliplatin, and gemcitabine, no HuR
+expression (nuclear or cytoplasmic) was detected via immunofluorescence.
+Phenotypically, HuR/ cells resulted in increased apoptosis and necrosis
+as measured via trypan blue assay, and accordingly, had increased caspase
+3 activity, a marker of a cell death. HuR/ cells, when treated with
+mitomycin C, oxaliplatin, gemcitabine, and glucose deprivation exhibited
+decreased long and short-term cell survival as compared to control cells.
+HuR/ cells, pulse-labeled with bromodeoxyurdine (BrdU), had a higher
+proportion of cells in S phase and fewer cells in G2/M phase. HuR
+deletion enhanced premature mitotic entry thereby preventing efficient
+repair of DNA damage, leading to cell death. Importantly, CRISPR knockout
+of HuR showed marked impairment in tumor growth in mouse xenografts. The
+differences in median tumor volume with HuR/- xenografts was significant
+as compared to xenografts in mice with HuR(+/+) cells (0.0 mm3 vs 378.0
+mm3, P < 0.005). Taken together with our past work in patient samples,
+this pre-clinical model demonstrates that HuR is essential for PDA growth
+in vivo. Future work will develop strategies to target HuR either as a
+monotherapy or in combination with other chemotherapies.
+

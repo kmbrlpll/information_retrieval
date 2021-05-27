@@ -1,0 +1,30 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Multiple testing in a phase II trial design for the detection of
+tumor subtypes
+
+
+Tumor subtypes may be especially responsive to a particular treatment.
+Phase II designs that incorporate tumor subtypes typically require
+prospective tumor subtyping and stratified patient enrollment. These
+features are cumbersome, discourage patient and investigator
+participation, and select for patients with relatively indolent disease
+who can wait for subtyping results. Previously we described a two stage
+phase II design that permits tumor subtyping at the end of stage 1 and
+that does not require stratified enrollment (Clin Cancer Res
+2011;17:5538). In this design results from stage 1 are used to select an
+appropriate stage 2 objective. The stage 2 objective may be either to
+estimate the response rate of either the tumor or a subtype or a formal
+test of the hypothesis that the response rate for a subtype is greater
+than the overall response rate. Previously, although our design
+accommodated multiple subtypes in stage 1, it allowed further testing of
+only a single subtype in stage 2. Here we expand upon the previous design
+by describing a method to evaluate multiple tumor subtypes in stage 2
+with appropriate adjustments for multiple testing. As there are practical
+limits on sample size, these adjustments tend to reduce power. We
+identify strategies to limit loss of power by taking advantage of tumor
+biology. For example, when tumor subtypes are mutually exclusive or
+nested, some comparisons can be made without further alpha spending. We
+explore the promise of our approach for the efficient identification of
+clinically significant tumor subtypes more responsive to a specific
+targeted therapy.
+

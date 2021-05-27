@@ -1,0 +1,35 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Metabolic reprogramming in non-small cell lung cancer: a precision
+oncology approach.
+
+
+Lung cancers are among the most common invasive cancers worldwide and
+annually lead to high mortality and morbidity. Genomic alterations have
+been known to control the evolution of hallmarks of cancer in a dynamic
+way. These molecular alterations combined with epigenomic and
+post-genomic modifications contribute to formation of these neoplasms.
+Multiplicity of these changes has made development of personalized
+therapeutic regimens for these cancers a complex problem. Metabolic
+reprogramming is one of the main mechanisms in progression of cancers.
+There have been efforts to model the metabolic reprogramming in cancer
+using metabolic networks of cancer cells, but there has been no
+computational framework to model these metabolic transitions in cancer
+for precision and personalized medicine. We have combined computational,
+mathematical and experimental methodologies to develop a platform for
+precision oncology in non-small cell lung cancer (NSCLC) by in silico
+models of metabolic switches. Our integrative analysis of genomic data
+from NSCLC has led to discovery of genomic signatures controlling
+metabolic reprogramming in NSCLC with KRAS mutations. This discovery was
+proved in vivo and in vitro using drugs blocking different metabolic
+pathways. We have shown that NSCLC cells and tumors which carry KRAS
+mutations and have these genomic signatures are addicted to the pentose
+phosphate pathway (PPP). We have verified and proved the predictive value
+of these genomic signatures using Patient Derived Xenograft (PDX) tumor
+models of NSCLC. We are developing a mathematical and computational
+framework to model these metabolic switches. Our platform is capable of
+using genomic data from a cell line or tumor to determine the metabolic
+dependency of them quantitatively and predict the optimized personalized
+treatments for modulating metabolic pathways aiming to control cancer
+progression.
+
+

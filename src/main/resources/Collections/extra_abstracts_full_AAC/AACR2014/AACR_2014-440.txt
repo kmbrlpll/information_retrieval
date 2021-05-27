@@ -1,0 +1,105 @@
+Meeting: 2014 AACR Annual Meeting
+Title: The TRiC chaperonin in breast cancer cell growth, survival and
+response to taxane therapy
+
+
+Large-scale efforts such as The Cancer Genome Atlas (TCGA) have
+identified the landscape of genetic, epigenetic and proteomic alterations
+in breast cancer through analysis of 1000 primary breast tumors.
+Importantly, all of the samples analyzed by TCGA also come with long-term
+clinical follow-up data that allows for examination of how identified
+alterations affect patient outcomes. Although powerful, the sheer number
+of alterations identified by TCGA and similar efforts makes it difficult
+to separate alterations that drive cancer from those that are merely
+passengers. We have been combining data from TCGA with data from
+genome-wide, RNAi-based, functional genetic screens that we have been
+performing on a panel of breast cancer cell lines that were developed in
+our lab. This combination of functional genetic data with data from the
+TCGA has resulted in the identification of genes that are responsible for
+driving breast cancer cell growth and survival that also affect patient
+outcomes. Using this approach, we have identified the TRiC chaperonin
+protein complex as playing a critical role in driving breast cancer and
+affecting patient outcomes. In the SUM-52 breast cancer cell line, a
+member of the TRiC complex known as TCP-1 was a hit in the genome wide,
+RNAi-based screen and examination of TCP1 in the TCGA database revealed
+that it is altered in 9% (85 of 929 cases) of breast cancers and patients
+with TCP1 alterations have significantly reduced long-term survival
+(pvalLarge-scale efforts such as The Cancer Genome Atlas (TCGA) have
+identified the landscape of genetic, epigenetic and proteomic alterations
+in breast cancer through analysis of 1000 primary breast tumors.
+Importantly, all of the samples analyzed by TCGA also come with long-term
+clinical follow-up data that allows for examination of how identified
+alterations affect patient outcomes. Although powerful, the sheer number
+of alterations identified by TCGA and similar efforts makes it difficult
+to separate alterations that drive cancer from those that are merely
+passengers. We have been combining data from TCGA with data from
+genome-wide, RNAi-based, functional genetic screens that we have been
+performing on a panel of breast cancer cell lines that were developed in
+our lab. This combination of functional genetic data with data from the
+TCGA has resulted in the identification of genes that are responsible for
+driving breast cancer cell growth and survival that also affect patient
+outcomes. Using this approach, we have identified the TRiC chaperonin
+protein complex as playing a critical role in driving breast cancer and
+affecting patient outcomes. In the SUM-52 breast cancer cell line, a
+member of the TRiC complex known as TCP-1 was a hit in the genome wide,
+RNAi-based screen and examination of TCP1 in the TCGA database revealed
+that it is altered in 9% (85 of 929 cases) of breast cancers and patients
+with TCP1 alterations have significantly reduced long-term survival
+(pval<.0000001). Expression of this gene was found to be regulated by a
+known driver oncogene in this cell line, FGFR2, and we have identified
+the PI3K signaling pathway as the mediator of this regulation.
+Examination of additional cell lines in our panel showed that TCP-1
+expression is regulated by driver oncogene activity in multiple breast
+cancer cell lines e.g. HER2 in SUM-225 cells. Knocking down TCP-1
+resulted in a dramatic decrease in the colony forming ability of the
+SUM-52 cell line while a much weaker effect on colony forming is observed
+in MCF10A cells, suggesting differential dependency on TRiC activity
+between transformed and non-transformed cells. Interestingly, a second
+member of TRiC was also a hit in the genome-wide RNAi screen in SUM-52
+cells. Although not regulated by FGFR2, this gene is amplified and
+overexpressed in this cell line, and examination of TCGA data showed that
+12% (113/929) of all breast cancers overexpress CCT2 and, these patients
+display a survival disadvantage (pvalLarge-scale efforts such as The
+Cancer Genome Atlas (TCGA) have identified the landscape of genetic,
+epigenetic and proteomic alterations in breast cancer through analysis of
+1000 primary breast tumors. Importantly, all of the samples analyzed by
+TCGA also come with long-term clinical follow-up data that allows for
+examination of how identified alterations affect patient outcomes.
+Although powerful, the sheer number of alterations identified by TCGA and
+similar efforts makes it difficult to separate alterations that drive
+cancer from those that are merely passengers. We have been combining data
+from TCGA with data from genome-wide, RNAi-based, functional genetic
+screens that we have been performing on a panel of breast cancer cell
+lines that were developed in our lab. This combination of functional
+genetic data with data from the TCGA has resulted in the identification
+of genes that are responsible for driving breast cancer cell growth and
+survival that also affect patient outcomes. Using this approach, we have
+identified the TRiC chaperonin protein complex as playing a critical role
+in driving breast cancer and affecting patient outcomes. In the SUM-52
+breast cancer cell line, a member of the TRiC complex known as TCP-1 was
+a hit in the genome wide, RNAi-based screen and examination of TCP1 in
+the TCGA database revealed that it is altered in 9% (85 of 929 cases) of
+breast cancers and patients with TCP1 alterations have significantly
+reduced long-term survival (pval<.0000001). Expression of this gene was
+found to be regulated by a known driver oncogene in this cell line,
+FGFR2, and we have identified the PI3K signaling pathway as the mediator
+of this regulation. Examination of additional cell lines in our panel
+showed that TCP-1 expression is regulated by driver oncogene activity in
+multiple breast cancer cell lines e.g. HER2 in SUM-225 cells. Knocking
+down TCP-1 resulted in a dramatic decrease in the colony forming ability
+of the SUM-52 cell line while a much weaker effect on colony forming is
+observed in MCF10A cells, suggesting differential dependency on TRiC
+activity between transformed and non-transformed cells. Interestingly, a
+second member of TRiC was also a hit in the genome-wide RNAi screen in
+SUM-52 cells. Although not regulated by FGFR2, this gene is amplified and
+overexpressed in this cell line, and examination of TCGA data showed that
+12% (113/929) of all breast cancers overexpress CCT2 and, these patients
+display a survival disadvantage (pval<.005) the severity of which
+correlates with increased CCT2 expression levels. Similar to TCP-1,
+knocking down CCT2 significantly reduces the colony forming ability of
+the SUM-52 cell line. The identification of two genes that function as
+part of the same complex, both up-regulated by different mechanisms in
+breast cancer cells and both determinants of long term survival, points
+to a significant role for these genes and the TRiC complex in breast
+cancer.
+

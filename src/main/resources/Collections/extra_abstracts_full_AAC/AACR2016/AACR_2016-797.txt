@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: A splicing variant of TERT identified by GWAS interacts with
+menopausal estrogen therapy in risk of ovarian cancer
+
+
+Menopausal estrogen-alone therapy (ET) is a well-established risk factor
+for serous and endometrioid ovarian carcinoma. Genetics also plays an
+important role in ovarian carcinoma etiology, which is partly
+attributable to 18 confirmed susceptibility loci identified by
+genome-wide association studies (GWASs). Each of these common variants is
+associated with a modest relative risk estimate, but it is possible that
+interactions between non-genetic and genetic risk factors exist, thereby
+putting some women at higher risk. This interplay among the 18 loci, ET
+use, and ovarian carcinoma risk has yet to be evaluated.In our analysis,
+we used individual questionnaire data from 1,414 serous cases, 337
+endometrioid cases, and 4,051 controls across 10 case-control studies
+participating in the Ovarian Cancer Association Consortium (OCAC). The
+genotype data was based on information from three GWASs, their
+replication efforts, and two large-scale arrays. Conditional logistic
+regression was used to determine the association between the 18 confirmed
+variants and risk of serous and endometrioid ovarian carcinoma among ET
+users and non-users separately. A likelihood ratio test was used to test
+for statistical interaction (i.e., departure from a multiplicative
+model).After controlling for well-established ovarian carcinoma risk
+factors as well as genetic ancestry, a splicing variant in TERT,
+rs10069690, showed a significant interaction with ET use for risk of
+serous ovarian carcinoma (pint = 0.014). ET users carrying the T allele
+had a 50% increased risk of disease (OR = 1.50, 95% CI 1.16-1.93); the
+impact of this allele was even stronger for long-term ET users of 10+
+years (OR = 2.13, 95% CI 1.39-2.37, pint = 0.036). Non-ET users showed
+essentially no association with the disease (OR = 1.09, 95% CI
+0.97-1.22). In addition, two SNPS, rs7207826 (C allele) and rs56318008 (T
+allele), in other genomic regions had significant interactions with ET
+use for the endometrioid histotype (pint = 0.030 and pint = 0.042,
+respectively).Overall, we have shown evidence of statistical interactions
+between postmenopausal ET use and three confirmed ovarian cancer
+susceptibility alleles with risk of serous and endometrioid ovarian
+cancer. We observed four statistically significant interactions, which is
+twice as many as would be expected by chance at the p0.05 level, although
+none survived correction for multiple comparisons. This is the first
+study, to our knowledge, to suggest potential gene-environment
+interactions in ovarian carcinoma in the context of hormone therapy use
+with confirmed susceptibility alleles. It is also intriguing that the
+identified interactions include confirmed variants that are located in or
+adjacent to genes in which estrogen is biologically involved. These
+findings, if replicated, may be critical for future risk prediction
+modeling.
+

@@ -1,0 +1,36 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The TCA cycle transferase DLST is critical for MYC-mediated
+leukemogenesis
+
+
+The proto-oncogene MYC has been implicated in the pathogenesis of many
+human cancers, including hematological and solid malignancies1. In the
+majority of T-ALL cases, MYC is aberrantly expressed downstream of
+activated NOTCH1 mutations. Despite the pivotal role of MYC in the
+pathogenesis of T-cell acute lymphoblastic leukemia (T-ALL) and many
+other cancers, the mechanisms underlying MYC-mediated tumorigenesis
+remain inadequately understood2. Here we utilized a well-characterized
+zebrafish model of Myc-induced T-ALL for genetic studies to identify
+novel genes contributing to disease onset. We found that heterozygous
+inactivation of a tricarboxylic acid (TCA) cycle enzyme, dihydrolipoamide
+S-succinyltransferase (Dlst), significantly delayed tumor onset.
+Concordant with our zebrafish results, RNAi knockdown of DLST led to
+decreased cell viability and induction of apoptosis in human T-ALL cell
+lines. DLST is the E2 transferase of the -ketoglutarate dehydrogenase
+complex (KGDHC), which converts -ketoglutarate (-KG) to succinyl-CoA in
+the TCA cycle3. Polar metabolomics profiling revealed that the TCA cycle
+was disrupted by DLST knockdown in human T-ALL cells, as demonstrated by
+an accumulation of -KG and its precursor glutamine, as well as a loss of
+succinyl-CoA. Addition of succinate, the downstream TCA cycle
+intermediate, to human T-ALL cells was sufficient to rescue defects in
+cell viability caused by DLST inactivation. Taken together, our studies
+identify DLST as an important mediator of MYC-driven leukemogenesis and
+provide compelling evidence for the metabolic dependence of T-ALL cells
+on the TCA cycle.1. Nesbit CE, Tersak JM, Prochownik EV. MYC oncogenes
+and human neoplastic disease. Oncogene 1999 May 13; 18(19): 3004-3016.2.
+Sharma VM, Calvo JA, Draheim KM, Cunningham LA, Hermance N, Beverly L, et
+al. Notch1 contributes to mouse T-cell leukemia by directly inducing the
+expression of c-myc. Molecular and cellular biology 2006 Nov; 26(21):
+8022-8031.3. Sheu KF, Blass JP. The alpha-ketoglutarate dehydrogenase
+complex. Ann N Y Acad Sci 1999; 893: 61-78.
+

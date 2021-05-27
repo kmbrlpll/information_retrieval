@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: High-throughput size and deformability-based cancer cell separation
+
+
+Cancer cells are ultra-rare in the peripheral blood of cancer patients,
+with numbers as low as a few in 10^6-10^7 leukocytes. Separation and
+enrichment of these cancer cells has historically been extremely
+difficult, often akin to pinpointing a needle in a haystack. Microfluidic
+devices, which are capable of sorting and detecting cells by structural
+constraint and immuno-identity, have been working well in isolating
+subpopulations of the cells with desired physical characteristics and
+phenotype from blood. However, it is not a new matter that the use of
+microdevices is often subject to low throughput, and therefore, there has
+been an assumption for the trade-off between the sample processing time
+and the purity of the cells to be collected. Size exclusion-based
+microdevices, e.g., the microfilter and the microsieve chip, provide a
+significantly shorter processing time than other microdevices, but fail
+to enrich cancer cells at a higher purity. Adding a second enriching
+parameter by means of cell deformability, in addition to cell size, has
+improved the purity. The effort of this paper is to develop a new type of
+microfluidic device, the spiral flow microfilter (SFF), which
+incorporates a third parameter of differential migration for the
+clog-free processing of large volume of blood. A spiral microchannel was
+constructed as the main flow pathway for the whole blood with high flow
+speed. It employs inertial lift and drag forces within the channel due to
+the radius of the bend to force the whole blood toward the outer wall of
+the inner channel. This outer wall is composed of small slits which,
+while allowing the normal blood cells through, deflects the large cancer
+cells, leaving them in the inner section. The slits are spaced 5m apart,
+forming a comb. This comb is formed from millions of micro-scale pillars,
+with the assumption that a cancer cell is larger and stiffer than a
+normal blood cell, and will not pass between the pillars as normal cells
+do. To enhance the filtration process through slits, a minor vacuum is
+supplied through the outlet of the outer section of the spiral channel
+for the quick removal of normal cells. Simultaneously, cancer cells are
+retrieved from the outlet of the inner section. The SFF was made via soft
+lithography and Polydimethylsiloxane (PDMS) casting. Using
+photolithography, the master of the SFF geometry is made. The SFF is then
+cast using the master from PDMS. In testing, breast cancer cells
+(MDA-MB-231 and MDA-MB-453) or a mixture with human leukocytes were
+guided through the SFF. The flow rates and pressure drop were monitored.
+The deformation of the cells inside the channel was visualized using a
+high-speed camera. Our results concluded that cancer cells can be quickly
+separated from normal cells in minutes with purity and recovery greater
+than 90%. This device could be a useful tool for point-of-care analysis
+of circulating tumor cells in patients as a promise of personalized
+treatment planning and monitoring.
+

@@ -1,0 +1,33 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Concordance between mutations identified by bar-coded multiplexed
+sequencing of BRAF, NRAS, and KIT in formalin fixed (FFPE) tissue from
+melanoma patients using the Ion Torrent Personal Genome Machine (PGM) and
+a real-time PCR assay
+
+
+The standard chemotherapy for metastatic melanoma is dacarbazine,
+however, progression free survival with dacarbazine is a dismal two
+months. Efforts to improve the treatment of melanoma have focused on
+specific molecular defects following the discovery that the majority of
+patients have a mutation in one of three members of the BRAF-MAPK
+signaling pathway: KIT, BRAF, and RAS. Recent clinical trials have shown
+promise for drugs that target the molecular defects in melanoma,
+including the recently approved mutant BRAF inhibitor vemurafenib. As new
+drugs that target specific mutations move through clinical trials, the
+opportunity to perform precision medicine is becoming a reality. To
+deliver on the promise shown by the new generation of drugs it will be
+necessary to detect specific mutations in patients so they can be matched
+with the right drug. To this end, we have used an Ion Torrent Personal
+Genome Machine to sequence the six most commonly mutated codons in
+melanoma (BRAF 600, NRAS 12 and 13, NRAS 61, KIT 576, and KIT 642) from
+formalin fixed paraffin embedded tissue of late stage melanoma patients.
+All six codons of interest were sequenced in forty-six patients and
+mutations identified by comparison to normal controls. The A375 cell
+line, containing the known mutation V600E in BRAF was used as a positive
+control. Samples were sequenced in a multiplexed format using bar coding
+of the amplicons which allowed 14 patients and two controls to be
+sequenced simultaneously on each chip. Results were confirmed by real
+time RT-PCR assay specific for the BRAF V600E mutation. We demonstrate
+the feasibility of using rapid low cost next-generation sequencing to
+provide robust detection of mutations in fixed patient samples.
+

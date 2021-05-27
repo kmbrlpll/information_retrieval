@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The genomic landscape of Kras mutant genetically engineered mouse
+models of human cancers
+
+
+Genetically engineered mouse models (GEMM) of cancer are invaluable tools
+for oncology research. They recapitulate critical aspects of tumor
+etiology and allow for unique interrogation of tumor evolution and
+maintenance. In addition, these models are poised for assessing
+therapeutic drug efficacy and resistance mechanisms. Although these
+models are widely used, the mutational landscape and transcriptional
+profile of GEMMs have yet to be thoroughly characterized.In this study we
+sought to investigate the precise genomic landscape of three
+well-validated GEMMs representing two types of Kras mutant cancers,
+non-small cell lung cancer (NSCLC) and pancreatic ductal adenocarcinoma
+(PDAC). Using next generation sequencing techniques, we profiled an
+adenovirally-induced Kras mutant NSCLC model (KrasLSL.G12D/+;p53frt/frt)
+and two Kras mutant models of spontaneous PDAC: KPP
+(KrasLSL.G12D/+;p16/p19fl/fl;Pdx1.Cre) and KPR
+(KrasLSL.G12D/+;p16/p19fl/+;p53LSL.R270H/+;Pdx1.Cre). All three GEMMs
+incorporate genomic aberrations that are documented to occur in the human
+patient population. Additionally these models have been reported to
+approximate histological and phenotypic aspects of their human
+correlate.We carried out whole exome sequencing for each model (NSCLC n =
+115; PDAC n = 73 and n = 40, respectively) to comprehensively
+characterize the genomes. Interestingly, both intra and inter-tumoral
+genomic heterogeneity was evident both within and amongst Kras mutant
+tumor models. The models most significantly diverge with respect to copy
+number alterations. The NSCLC model demonstrated whole chromosome 6 gain
+and focal deletion on chromosome 9, in addition to other genomic
+alterations. However, the KPP PDAC model tumors exhibited significant
+focal amplification of mutant Kras in 75% (55/73) of cases. In
+combination with RNA-seq data, we can show that these genomic alterations
+correlate with divergent transcriptional signatures despite the shared
+Kras mutation, especially in MAPK pathway signatures. This data suggests
+tumors within these models have unique signaling pathway
+dependencies.Finally, we compared the tumors resulting in the murine
+models to that of Kras altered human tumors from TCGA at the genomic
+level. The genomic landscapes of Kras mutant GEMMs and corresponding Kras
+mutant patients share significant similarities. We identified mutations
+in oncogenes and tumor suppressors, in addition to alterations in gene
+copy number. Taken together, the results provide a clearer understanding
+of the genomic landscape of these GEMMs and their relationship with human
+patients. More importantly, these analyses will allow us to better
+interpret results from previous and future experiments using these Kras
+mutant GEMMs of cancer.
+

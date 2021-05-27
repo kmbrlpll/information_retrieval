@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Simultaneous visual assessment of RNA and protein expression in
+circulating tumor cells using the AccuCyte-Cytefinder system.
+
+
+Background. Circulating tumor cells (CTCs) provide real-time information
+regarding patient tumor phenotype, including RNA expression. This
+information may be valuable in guiding care of cancer patients.
+Simultaneous RNA and protein assessment has been reported previously in
+large populations of cells. Here, we describe methods to simultaneously
+evaluate RNA and protein expression on rare single CTCs using the
+AccuCyte – CyteFinder system (RareCyte).
+
+Methods. To establish RNA detection in model CTCs (mCTCs), we used SkBr3
+cells spiked into blood and the isolated buffy coat was processed by
+AccuCyte onto microscope slides. RNAscope® in-situ hybridization (ISH,
+Advanced Cell Diagnostics) was performed to detect Her2, UBC (positive
+control) and dapB (negative control) expression in mCTCs. A process to
+simultaneously stain for RNA and protein was then developed to allow
+identification of mCTCs by protein expression of cytokeratin (CK) and
+EpCAM and measurement of gene expression with RNAscope. Various blood
+collection tubes were tested to measure gene expression, protein
+expression, and cell recovery up to 48 hours after blood draw. Image
+analysis software was developed to automatically analyze and count RNA
+dot number from 40x z-stack images of mCTCs. Finally, clinical samples
+were stained with the combined RNA/protein assay.
+
+Results. Using RNAscope, Her2 and UBC expression could be detected in all
+SkBr3 cells and was negative in surrounding white blood cells (WBC).
+Using blood collected into EDTA tubes and processed immediately after
+spike-in, there were an average of 29 Her2 mRNA dots and 20 UBC
+dots/cell; negative control dapB gave 1 dot/cell. Using CK and EpCAM
+expression for mCTCs identification, recovery of mCTCs was over 95%. The
+RNA/protein assay was compared using blood collected and stored in EDTA,
+CellSave®, Cell-Free DNA®, Cell-Free RNA®, Cyto-Chex®, and RareCyte
+BCT tubes. At 48 hours, Cell-Free RNA tubes had the highest number of RNA
+dots/cell – about half as many dots/cell compared to fresh EDTA
+samples. Clinical samples were successfully stained with the RNA/protein
+assay.
+
+Conclusions. We have developed a protocol that identifies rare mCTCs
+using protein staining, and measures RNA expression by RNAscope ISH. This
+assay may be a useful clinical tool for the real-time investigation of
+CTC gene expression in cancer patients.
+
+

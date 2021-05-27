@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: MAX mutations in endometrial cancer are associated with poor
+patient outcome, altered E-box binding, and increased tumor vascularity
+
+
+In contrast to aberrant MYC-signaling, MYC associated factor X (MAX)
+mutation is not common in many cancers but occurs in a limited number of
+specific tissue types, where it may be important. We sequenced MAX in 540
+endometrioid endometrial cancer (EEC) DNAs. Mutations were seen 5.37% of
+samples with two hotspots, H28R (n = 12) and R60Q/W (n = 4 R60Q and n = 1
+R60W), which accounted for 60% of the mutations seen. MAX mutation was
+associated with reduced recurrence-free survival (RFS) (P = 0.03; HR [95%
+CI] = 3.798 [1.10-13.0]) and with advanced stage (P = 0.024) and high
+tumor grade (P = 0.048). The association with reduced RFS remained
+significant in multivariable analysis (P = 0.05 HR = 2.40 [1.00-5.74]),
+strongly suggesting MAX mutation contributes to clinical aggressiveness
+in EEC.Focusing on the H28R hotspot mutation, we performed whole
+transcriptome expression profiling using AN3CA endometrial cancer cell
+lines stably expressing exogenous long and short isoforms of flag-tagged
+MAX-WT and MAX-H28R. Unsupervised hierarchical clustering and principle
+component analysis proved that the expression profiles for the MAX-H28R
+long cells were strikingly different than the MAX-H28R short, MAX-WT and
+unmodified cells.The MAX:DNA interface contains a predicted hydrogen bond
+between his28 and a guanine residue in the E-box motif. We hypothesized
+that the his-arg mutation seen in EECs would alter DNA binding, and
+assessed altered binding via chromatin immunoprecipitation/qPCR (ChIP).
+MAX-H28R had higher affinity for the NPM1 and CDK4 promoter regions, both
+of which include E-boxes that are well-established MYC/MAX targets. EMSAs
+for the same regions confirmed ChIP results, and showed that the
+supershifted MAX-WT and MAX-H28R complexes had different motilities,
+consistent with altered confirmation. We showed that an anti-MYC antibody
+was not able to supershift the EMSA fragment, indicating MYC is not part
+of the MAX:DNA complex. Co-IP, however, showed MAX-H28R retains MYC
+binding ability. Based on these findings, we conclude the differences
+seen in EMSA were with MAX homodimers. RNA-seq revealed differential gene
+expression in MAX-H28R mutated tumors, and ChIP showed enhanced MAX-H28R
+affinity for E-boxes in several of the differentially expressed genes.In
+vivo, MAX-H28R AN3CA xenografts were markedly hemorrhagic compared to
+MAX-WT. MECA-32 (pan-endothelial marker) staining proved that the
+MAX-mutant tumors had significantly more vessels per field (2.4-fold
+increase, P = 0.002). Work is ongoing to test for paracrine factors
+elaborated by the H28R-mutant AN3CA cells that might contribute to the
+vascular phenotype.Taken together these data implicate MAX mutation as a
+novel driver of endometrial tumorigenesis, contributing to tumor
+aggressiveness through enhanced tumor vascularity and potentially other
+mechanisms.
+

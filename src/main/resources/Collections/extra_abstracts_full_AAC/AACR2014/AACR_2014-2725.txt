@@ -1,0 +1,46 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Kinase activity profiling combined with genotyping as a tool for
+predictive biomarker discovery for the treatment of gastroesophageal
+adenocarcinoma (GEC)
+
+
+Background: Molecularly targeted therapy holds promise for the treatment
+of GEC, but interpatient molecular heterogeneity has proven to be a
+hurdle towards their successful implementation. Here we describe a new
+approach towards patient selection where genotyping is combined with
+kinase activity profiling. Kinases are the main targets for the new
+precision drugs being developed currently. The possibility of ex vivo
+testing of these new kinase inhibiting drug is a useful feature of the
+PamChip kinase assay applied, which may be predictive for
+treatment.Methods: Nine explanted tumors were genotyped (cMET, kRAS,
+PI3K, HER2, FGFR2, EGFR) and evaluated for kinase activities by analyzing
+cell lysates using dynamic peptide microarrays (PamChip assay). This
+profiling was used to determine i) if there are discriminatory profiles
+that identify tumor cells with various known genomic drivers; ii) if
+specific inhibitors abrogated these activity profiles selectively; iii)
+if patient samples (ascites fluid, cultured patient cells and/or human
+tumor xenografts, and frozen samples directly from patients) were
+amenable to this analysis with reproducible results.Cells or tissue
+cryosections were lysed in buffer with phosphatase and protease
+inhibitors. Protein tyrosine kinase (PTK) activity profiles were
+generated on PamChip peptide microarrays comprising peptidic substrates
+derived from known human phosphorylation sites. The direct enzymatic
+effect of the kinase inhibitors crizotinib, affatinib and a dual cMET/RON
+kinase inhibitor was tested by directly spiking these compounds (at 0.3,
+3.0 and 30 uM) into the lysate just before analysis and comparing the
+results to DMSO control. Peptide phosphorylation was monitored using
+fluorescently labeled antibodies and quantified with Bionavigator
+software.Results: Kinase activity profiles were highly reproducible
+(r2=0.997) when repeated on GEC cell lysates. Baseline activity profiles
+differed between molecular categories within GEC, including HER2
+amplification (amp+), MET amp+, PI3K mutated, FGFR2 amp+ and KRAS
+amp+/mutated subsets. Specific inhibitors towards the cMET or EGFR driver
+events decreased substrate phosphorylation concentration dependently.
+Lysates from cell lysates with known MET amp+ were selectively sensitive
+to crizotinib and much less to affatinib.Conclusions: Kinase activity
+profiling with the multiplex PamChip kinase assay can categorize cell
+lines and tumors into different molecular subsets. Treatment of lysates
+with specific kinase inhibitors and combining this functional proteomics
+information with genomics data, is a new strategy we propose here to
+predict responses to pharmacotherapy.
+

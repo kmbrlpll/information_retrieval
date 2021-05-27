@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A novel panel of 325 biomarkers is part of a large interconnected
+network representing multiple cell signaling pathways and allowing
+development of predictive tests for oncology drugs.
+
+
+Background: We developed an algorithm based on the gene expression of
+tumor biopsies to identify the best combination of biomarkers to reliably
+predict a patient’s response to relevant cancer treatments. This
+algorithm is derived from 325 genes whose expression showed significant
+changes during differentiation of non-malignant human mammary epithelial
+cells cultured in laminin-rich extracellular matrix. Of these 325 genes,
+251 are novel and not present in 9 other cancer based gene expression
+panels such as FoundationOne or PAM50. These differentiated cells formed
+multicellular structures with defined lumens and tight junctions and with
+specific localizations of cadherin and integrins. In contrast, cells from
+breast cancers displayed a general loss of structure. Previous work
+showed that different sets of these 325 biomarkers accurately predicted
+overall breast cancer patients' survival or response to neoadjuvant
+therapy in multiple independent studies.
+
+Objective: Predict cell-signaling pathways, drug associations, and
+disease associations for the 325 biomarkers (BA325) in contrast to other
+cancer gene panels.
+
+Methods and Results: The Qiagen Ingenuity program was used to identify
+pathways and disease states containing significant overlap with BA325.
+Multiple cell signaling pathways including cell proliferation, migration,
+invasion, and metabolism were found in BA325, while most other cancer
+biomarker panels were highly concentrated in cell proliferation. Examples
+of significant pathway associations relevant for oncology drug discovery
+and targeted treatments include Cell Cycle Control of Chromosomal
+Replication (p=8.1E-14), Polo-like-kinase and HSP90 complex (p=6.3E-07),
+G2/M DNA Damage Checkpoint (p=6.4E-07), Integrin Signaling (p=3E-05),
+Integrin Linked Kinase Signaling (p=4.51E-05), BRCA1 DNA Damage Response
+(p=1.75E-04), Estrogen Mediated S-phase entry (p=4.24E-04), Regulation of
+Actin Based Motility by RHO (p=4.55E-04), Adherins Junction Remodeling
+(p=5.6E-04), Actin Cytoskeleton Signaling (p=7.25E-04), Mismatch Repair
+(p=1.6E-03), RAN Signaling (p=1.64E-03), Protein Ubiquitination
+(p=1.78E-03) and Cholesterol Biosynthesis (p=4.8E-03). This wide coverage
+of cellular signaling pathways provides an advantage in developing
+predictive tests for treatments targeting highly complex cell signaling
+networks. Surprisingly, even though the BA325 panel was obtained during
+non-malignant differentiation, the most significant disease state
+associated with these genes was mammary tumor, demonstrating the validity
+of this approach to probe breast cancer biology.
+
+Conclusion: This analysis demonstrates that the BA325 panel is useful
+both in understanding non-malignant mammary epithelial differentiation
+and breast cancer tumors.
+
+

@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: The role of EZH2 as an epigenetic switch of the TGF-/SMAD4 targets
+in regulating EMT in ovarian cancer
+
+
+The TGF- signaling regulates numerous cellular processes, including cell
+proliferation, cell differentiation, apoptosis, migration and cell fate.
+It was also demonstrated that TGF- functions as a tumor suppressor in
+normal ovarian surface epithelium (OSE) cells but promotes tumor
+proliferation and epithelial-mesenchymal transition (EMT) during ovarian
+cancer progression. Nevertheless, the molecular mechanisms leading to
+this divert role of TGF- signaling in ovarian cancer remains to be
+elucidated. Our previous studies demonstrated that several TGF-/SMAD4
+regulated targeted are epigenetically silenced by DNA methylation and
+histone modification including H3K27me3. We therefore hypothesized that
+the histone-lysine N-methyltransferase, EZH2 may act as an epigenetic
+switch to facilitate the TGF- mediated EMT in ovarian cancer. In this
+study, we utilized our previously identified TGF- responsive targets
+using combined ChIP-chip and expression arrays in an immortalized ovarian
+surface epithelial (IOSE) cell which showed TGF- growth inhibition.
+Bioinformatics analysis using ENCODE ChiP-Seq data identified that
+several of these TGF- targets are marked by EZH2. To investigate the
+effect of TGF- signaling on the methylome of ovarian cancer, we performed
+MBDcap-Seq in SMAD4 knockdown CP70 cells. Our result showed that there
+are 99 and 73 TGF- targets showing hyper- or hypo-methylation
+respectively after SMAD4 knockdown. Analysis of the gene functions on
+DAVID has uncovered that some of these hypermethylated genes are
+associated with EMT process and the TGF- signaling pathway. On the other
+hand, the hypomethylated genes are associated with transcription
+repressor activity. We selected one of the hypermethylated target, LTBP2
+which was previously found to be a tumor suppressor for further
+experiment. This gene was expressed in IOSE but down regulated in a panel
+of ovarian cancer cells showing overexpression of EZH2. Except for IOSE,
+promoter hypermethylation of LTBP2 was found in ovarian cancer cells as
+revealed by bisulphite pyrosequencing. In consistent with deep sequencing
+result, knock-down of SMAD4 further increased the promoter methylation in
+CP70 cells. Treatment of demethylation agent, 5azaDC partially restored
+its expression in these cancer cells. Interestingly, synergistic
+treatment of 5azaDC and EZH2 inhibitor, GSK343 resulted in a dramatic
+increase of LTBP2 expression in MCP3 and CP70 cells. Taken together, our
+result suggested that EZH2 may be involved in the epigenetic silencing of
+TGF-/SMAD4-regulated tumor suppressors in ovarian cancer. The
+differential occupancy of EZH2 into these SMAD4 loci may act as an
+epigenetic switch to turn the function of TGF- from a tumor suppressor
+into an EMT regulator. The therapeutic potential of targeting EZH2 in the
+inhibition of EMT in ovarian cancer deserves further investigation.
+

@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identification of novel cancer driver genes in hepatocellular
+carcinoma cells by RNAi screening method.
+
+
+Recent studies revealed that EpCAM is one of the molecular markers for
+hepatic cancer initiating cells. However, the mechanism how the EpCAM
+expression in the liver cancer cell is regulated still remains to be
+delineated. In this study, we identified candidate genes critical for the
+maintenance of EpCAM positive hepatocellular carcinoma (HCC) cells using
+a global RNAi screening method. HCC cells were infected with pools of
+~200,000 lentiviral shRNA library, then they were sorted to EpCAM
+positive or negative group. The abundance of shRNA in each group was
+analyzed using a microarray hybridization method. As a result, 76
+candidate shRNAs with significantly different expression between EpCAM
+positive and negative populations were identified by class comparison
+analysis. Unsupervised clustering analysis of these genes in 247 HCC
+samples clearly separated EpCAM positive HCC cases from negative cases.
+Furthermore, we found that the EpCAM-dependent gene signature can predict
+survival in epithelial-like HCC cases. We focused on shRNA for PMPCB
+gene, which has an important role for processing mitochondrial protein,
+since it ranks as the top differentially altered shRNA-targeted gene
+between EpCAM positive and negative cells. PMPCB shRNA efficiently
+reduced EpCAM positive population and effectively inhibited cell
+proliferation both in vitro and in vivo. Interestingly, PMPCB shRNA
+specifically induced cell death in EpCAM positive HCC cells, but not in
+EpCAM negative cells. These data suggest that EpCAM positive cells
+functionally depend on PMPCB expression. On the other hand, we confirmed
+that PMPCB shRNA induced physiological dysregulation of mitochondrial
+function, leading to the increase of reactive oxygen species (ROS)
+production. We found that PMPCB shRNA significantly reduced TCF4 activity
+as well as the expression level of c-myc and cyclin D1, which are the
+downstream molecules of Wnt/β-catenin pathway. Although total β-catenin
+levels in the cytosol and nuclei fractions were not affected by PMPCB
+knockdown, overexpression of constitutively activated mutant β-catenin
+partially rescued the cells from PMPCB-induced apoptosis. Forkhead box O
+(FOXO) is known to be induced by the ROS production, bind β-catenin and
+decrease TCF activity, leading to the induction of apoptosis. We found
+that the nuclear translocation of FOXO family molecules, such as FOXO1
+and FOXO3, were facilitated by PMPCB shRNA in EpCAM positive cells. These
+results suggest that the activation of FOXOs induced by PMPCB
+knockdown-mediated ROS production suppressed the activity of
+Wnt/β-catenin pathway, leading to the death of EpCAM positive HCC cells.
+In conclusion, we discovered a novel candidate target molecule of EpCAM
+positive HCC cells using a genome-wide RNAi screening method. Our study
+shed light on the mechanisms how EpCAM positive HCC cells are maintained
+and identified a new target molecule that has therapeutic vulnerability
+in EpCAM positive HCC cells.
+
+

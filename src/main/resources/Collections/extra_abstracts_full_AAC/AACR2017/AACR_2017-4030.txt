@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Celsee™ SingleCell Chip can retrieve rare single cells with 100%
+efficiency for genetic analysis.
+
+
+Tumors are comprised of heterogeneous cells. Only a specific or rare
+population of tumor cells is capable of metastasizing through blood.
+While mapping out the genome of cancer cells, gene expression variations
+indicative of more aggressive cancer cells might be missed among the
+noise. Therefore, single cell gene expression and mutation analysis
+provide a more comprehensive and most precise information about the
+heterogeneity of cancer progression and metastasis. Although there has
+been a surge in technologies used for selection and analysis of single
+cells, single cell analysis of rare cells such as circulating tumor cells
+(CTCs) is fraught with technical challenges. Among many used techniques
+to isolate single cells, the most common cell separation method is cell
+sorting by flow cytometry, which requires cell labeling. The numerous
+steps involved in cell labelling and centrifugation result in significant
+cell loss and changes in gene expression. In addition, centrifugation may
+also cause shear-induced gene expression changes in viable cells. For
+other single cell analysis platforms, there is a minimum input of cells
+ranging from 200 - 1000 cells. Rare cells like CTCs are found in the
+range of 1-10 per mL of blood. Another challenge is that the input volume
+required for these systems is very low usually in microliters. Here, we
+introduce a novel microfluidic chip with 250,000 microwells which
+captures cells at 100% efficiency down to one cell with a dynamic range
+over 5 logs. The underlying principle of this technology is that the
+geometric pattern of the microfluidic chip captures a single cell from an
+initial volume of up to 1 mL of fluid due to cell settling. The unique
+microwell structure promotes easy fluid exchange without perturbing the
+cells from their captured locations, thereby eliminating cell loss during
+multistep downstream processing. Preliminary tests have shown that single
+or cluster of spiked cancer cells in blood can be immunostained, both
+live or fixed and can also be retrieved very efficiently from this chip
+using a micro capillary. The retrieved single cells can further be used
+for several single cell genetic analysis. We will present data describing
+cancer gene expression and gene mutation analysis in isolated single
+cells.
+
+

@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The clonal composition of colorectal cancer cell lines is defined
+by the maintenance of specific genomic imbalances, not by ongoing
+chromosomal instability.
+
+
+Tumor type specific genomic imbalances are the defining feature of
+carcinomas. It remains elusive to which extent intratumor heterogeneity
+and the clonal composition of cancer cell populations influences the
+genetic makeup and the phenotype of tumors. Many studies aimed at
+understanding the idiosyncrasies of cancer rely on the analysis of cell
+lines derived from primary tumors. In an attempt to decipher patterns of
+chromosomal heterogeneity we analyzed the widely used colorectal cancer
+cell lines DLD-1, HCT116, H508, SW620, HT-29 and SW480 using FISH and
+gene expression profiling. First, we applied a four color probe set that
+targets the oncogenes EGFR, CCND1, CDX2 and TERC and enumerated 200
+metaphase spread, which included chromosome counts, and 5,000 interphase
+cells. Not surprisingly, the mismatch repair deficient cell lines DLD-1
+and HCT116 were the most stable, whereas the aneuploid cell lines
+displayed a higher degree of instability. These results prompted us to
+apply our recently developed multiplex interphase FISH approach that
+allows copy number analysis of 12 gene loci in individual cells to 11
+single cell derived clones from both HT-29 and SW480. SW480 was
+considerably more instable than HT-29. The parental lines consisted of
+major clones, which were propagated in the single cell derived lines.
+These analyses were complemented by gene expression profiling of the
+single cell derived clones and the parental cell lines using the
+Nanostring technology which measures expression levels of 770
+cancer-associated genes. The SW480 clones separated into two distinct
+clusters that reflect discrete ploidy levels that were also present in
+the parental line. We then explored whether mutations of the BRAF (HT-29)
+and KRAS (SW480) genes observed in the parental lines were maintained in
+the derived clones; this was the case in all instances. Finally, we
+reconstructed phylogenetic trees of tumor evolution using a specifically
+developed algorithm, termed FISHTrees.
+
+Our meticulous analysis of the clonal composition of these colorectal
+cancer models shows that, despite a certain degree of chromosomal
+instability, specific genomic imbalances are maintained. The results
+challenge the concept of ongoing chromosomal instability in cancer cell
+populations. This suggests a karyotype evolution that is driven by the
+necessity to arrive at a different plateau of chromosomal copy number as
+the driving force of carcinogenesis.
+
+

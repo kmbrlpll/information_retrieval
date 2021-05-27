@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Highly sensitive detection of EGFR T790M on Ion Torrent PGM.
+
+
+Introduction: EGFR T790M mutation leads to treatment resistance in 50% of
+NSCLC patient undergoing TKI treatment. Early detection of the emergence
+of this resistance mutation allows for tailoring of the treatment
+regimen. Detection of EGFR T790M requires higher sensitivity techniques
+than those needed to detect EGFR activating mutations, and quantitative
+measurement of T790M may also provide value in monitoring disease
+progression. Here we demonstrate that our proprietary amplicon
+next-generation sequencing (NGS) on Ion Torrent PGM provides an
+attractive solution for T790M detection with the advantage of high
+sensitivity, specificity, and quantification capability.Methods: We
+developed a proprietary library prep method for amplicon sequencing on
+the Ion Torrent PGM. Ion Torrent barcode sequences were refined in our
+validation to minimize barcode cross contamination. This optimization of
+barcodes allows for accurate mutation quantification, especially critical
+for variants with a frequency below 1%. This also added the benefit of
+higher throughput and lower cost. We employ this non-enrichment method to
+quantitatively measure T790M.DNA from the NCI-H1975 cell line was
+serially diluted into wild-type NA19240 DNA to determine the limit of
+detection (LOD), sensitivity, specificity, accuracy and reproducibility
+of the method. We also used reference FFPE DNA from HorizonDx to validate
+the accuracy and robustness of the assay. We further validated the test
+by comparing the performance of our NGS method with ddPCR using the same
+sample set (serially diluted H1975 into wild-type DNA controls).Results:
+Our data demonstrated that the LOD for T790M is 0.2%. And the method
+could reproducibly identify variants at these frequencies. With an input
+of 10ng of the HorizonDx FFPE DNA, we measured T790M frequency at 6.7%,
+which is concordant with the 6.5% mutation frequency reported by
+HorizonDx. We cross-validated our NGS assay with ddPCR, and the mutation
+frequencies detected by both platforms are nearly identical, and have a
+regression coefficient of 0.9995, with comparable LOD of 0.2%.
+Furthermore, our NGS assay allows us to detect other variants located in
+this amplicon, e.g. SNP Q787Q, with LOD at 1%. The phasing status of
+compound mutations can also be determined by this assay.To further
+improve the sensitivity, an enrichment method was developed, and the
+enriched T790M was sequenced by PGM. This method can semi-quantitatively
+measure T790M frequency with LOD of 0.03%.Conclusion: Our EGFR T790M NGS
+assay provides a unique option to reliably quantify T790M down to 0.2%
+with low DNA input. This highly sensitive and specific detection
+capability may enable earlier detection of emerging therapeutic
+resistance, particularly if FFPE results reported here extend to a more
+accessible specimen type, i.e. plasma circulating DNA, amenable to
+periodic patient monitoring.
+

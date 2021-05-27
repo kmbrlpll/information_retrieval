@@ -1,0 +1,131 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Cosegregating variants in chronic lymphocytic leukemia (CLL)
+families that are located in loci discovered by genome wide association
+studies (GWAS)
+
+
+IntroductionChronic lymphocytic leukemia (CLL) is a B-cell malignancy
+that is known to have a familial component to disease risk. Although 31
+loci have been found to be associated with CLL risk, the functional
+variant(s) driving these associations is mostly unknown. Here we set out
+to identify rare, highly-penetrant, cosegregating, susceptibility
+variants within the known GWAS discovered loci using whole exome
+sequencing (WES) data in CLL families from the Mayo Clinic family study
+of B-cell malignancies.MethodsWe performed WES on germ line DNA of 93 CLL
+families with two or more members with CLL, using Agilent capture kits
+and Illumina HiSeq2000. Bioinformatics analyses leveraged the following
+software packages: Novoalign, Picard, The Genome Analysis Toolkit (GATK),
+and the Biological Reference Repository (bioR). Quality control filters
+were implemented; subjects with mis-specified relationships were removed,
+as were variants with IntroductionChronic lymphocytic leukemia (CLL) is a
+B-cell malignancy that is known to have a familial component to disease
+risk. Although 31 loci have been found to be associated with CLL risk,
+the functional variant(s) driving these associations is mostly unknown.
+Here we set out to identify rare, highly-penetrant, cosegregating,
+susceptibility variants within the known GWAS discovered loci using whole
+exome sequencing (WES) data in CLL families from the Mayo Clinic family
+study of B-cell malignancies.MethodsWe performed WES on germ line DNA of
+93 CLL families with two or more members with CLL, using Agilent capture
+kits and Illumina HiSeq2000. Bioinformatics analyses leveraged the
+following software packages: Novoalign, Picard, The Genome Analysis
+Toolkit (GATK), and the Biological Reference Repository (bioR). Quality
+control filters were implemented; subjects with mis-specified
+relationships were removed, as were variants with <75% call rate,
+IntroductionChronic lymphocytic leukemia (CLL) is a B-cell malignancy
+that is known to have a familial component to disease risk. Although 31
+loci have been found to be associated with CLL risk, the functional
+variant(s) driving these associations is mostly unknown. Here we set out
+to identify rare, highly-penetrant, cosegregating, susceptibility
+variants within the known GWAS discovered loci using whole exome
+sequencing (WES) data in CLL families from the Mayo Clinic family study
+of B-cell malignancies.MethodsWe performed WES on germ line DNA of 93 CLL
+families with two or more members with CLL, using Agilent capture kits
+and Illumina HiSeq2000. Bioinformatics analyses leveraged the following
+software packages: Novoalign, Picard, The Genome Analysis Toolkit (GATK),
+and the Biological Reference Repository (bioR). Quality control filters
+were implemented; subjects with mis-specified relationships were removed,
+as were variants with <75% call rate, <8X coverage, and those identified
+as sequencing artifacts. Each GWAS locus was defined by +/- 1Mb of the
+top GWAS hit within the locus. Linkage disequilibrium (LD) was calculated
+among the single nucleotide variants (SNVs) located within each locus.
+Potentially functional SNVs were identified based on: a) uncommon in
+public databases (IntroductionChronic lymphocytic leukemia (CLL) is a
+B-cell malignancy that is known to have a familial component to disease
+risk. Although 31 loci have been found to be associated with CLL risk,
+the functional variant(s) driving these associations is mostly unknown.
+Here we set out to identify rare, highly-penetrant, cosegregating,
+susceptibility variants within the known GWAS discovered loci using whole
+exome sequencing (WES) data in CLL families from the Mayo Clinic family
+study of B-cell malignancies.MethodsWe performed WES on germ line DNA of
+93 CLL families with two or more members with CLL, using Agilent capture
+kits and Illumina HiSeq2000. Bioinformatics analyses leveraged the
+following software packages: Novoalign, Picard, The Genome Analysis
+Toolkit (GATK), and the Biological Reference Repository (bioR). Quality
+control filters were implemented; subjects with mis-specified
+relationships were removed, as were variants with <75% call rate, <8X
+coverage, and those identified as sequencing artifacts. Each GWAS locus
+was defined by +/- 1Mb of the top GWAS hit within the locus. Linkage
+disequilibrium (LD) was calculated among the single nucleotide variants
+(SNVs) located within each locus. Potentially functional SNVs were
+identified based on: a) uncommon in public databases (< 5%), b)
+cosegregating in at least two CLL families, c) being highly conserved and
+in coding regions, and d) functional prediction status of deleterious
+(SIFT Score), damaging (PolyPhen Score), and a moderate, or high variant
+impact (SNP Effect).ResultsIn our 93 CLL families, we sequenced 443
+individuals: 160 with CLL, 73 with monoclonal B cell lymphocytosis (MBL),
+and 210 relatives that were not diagnosed with CLL or MBL at the time of
+sequencing. Median age of CLL diagnosis was 59 years (range 34-87), and
+56% were male. Among the MBL individuals and relatives, the median age at
+recruitment was 55 years (range 18-93), and 40% were male. A total of
+317,666 SNVs passed our sequencing quality control filters of which
+10,731 were within +/- 1 Mb of known GWAS hits from 31 loci. Of these
+SNVs, 91% were in coding regions, 18% were reported to have high or
+moderate impact, 6% were estimated to be damaging and 6% were predicted
+to be deleterious.From these SNVs, we identified 76 putatively functional
+variants distributed across 25 GWAS loci that were cosegregating in the
+individuals with CLL or MBL in multiple CLL pedigrees. These SNVs were
+all located in coding regions with high or moderate impact and were
+predicted to be damaging and deleterious. Of these 76 variants, 56 had a
+frequency of IntroductionChronic lymphocytic leukemia (CLL) is a B-cell
+malignancy that is known to have a familial component to disease risk.
+Although 31 loci have been found to be associated with CLL risk, the
+functional variant(s) driving these associations is mostly unknown. Here
+we set out to identify rare, highly-penetrant, cosegregating,
+susceptibility variants within the known GWAS discovered loci using whole
+exome sequencing (WES) data in CLL families from the Mayo Clinic family
+study of B-cell malignancies.MethodsWe performed WES on germ line DNA of
+93 CLL families with two or more members with CLL, using Agilent capture
+kits and Illumina HiSeq2000. Bioinformatics analyses leveraged the
+following software packages: Novoalign, Picard, The Genome Analysis
+Toolkit (GATK), and the Biological Reference Repository (bioR). Quality
+control filters were implemented; subjects with mis-specified
+relationships were removed, as were variants with <75% call rate, <8X
+coverage, and those identified as sequencing artifacts. Each GWAS locus
+was defined by +/- 1Mb of the top GWAS hit within the locus. Linkage
+disequilibrium (LD) was calculated among the single nucleotide variants
+(SNVs) located within each locus. Potentially functional SNVs were
+identified based on: a) uncommon in public databases (< 5%), b)
+cosegregating in at least two CLL families, c) being highly conserved and
+in coding regions, and d) functional prediction status of deleterious
+(SIFT Score), damaging (PolyPhen Score), and a moderate, or high variant
+impact (SNP Effect).ResultsIn our 93 CLL families, we sequenced 443
+individuals: 160 with CLL, 73 with monoclonal B cell lymphocytosis (MBL),
+and 210 relatives that were not diagnosed with CLL or MBL at the time of
+sequencing. Median age of CLL diagnosis was 59 years (range 34-87), and
+56% were male. Among the MBL individuals and relatives, the median age at
+recruitment was 55 years (range 18-93), and 40% were male. A total of
+317,666 SNVs passed our sequencing quality control filters of which
+10,731 were within +/- 1 Mb of known GWAS hits from 31 loci. Of these
+SNVs, 91% were in coding regions, 18% were reported to have high or
+moderate impact, 6% were estimated to be damaging and 6% were predicted
+to be deleterious.From these SNVs, we identified 76 putatively functional
+variants distributed across 25 GWAS loci that were cosegregating in the
+individuals with CLL or MBL in multiple CLL pedigrees. These SNVs were
+all located in coding regions with high or moderate impact and were
+predicted to be damaging and deleterious. Of these 76 variants, 56 had a
+frequency of <0.005 in 1000 Genomes European population while the
+remaining 20 had a frequency of 1%.ConclusionsThrough WES, we identified
+a number of rare, penetrant and potentially predisposing SNVs located
+within 25 of the 31 CLL GWAS-discovered loci. These segregating variants
+provide a list for future validation and functional studies.
+

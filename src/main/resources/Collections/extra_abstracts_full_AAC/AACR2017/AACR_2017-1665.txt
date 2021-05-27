@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: MuScreenTM : A well-characterized syngeneic model platform for
+rapid in vivo screening.
+
+
+Background: Syngeneic tumor models, many shelved for decades, have been
+revived as effective models for immunotherapy, accompanying the clinical
+success of the immuno-checkpoint inhibitors (e.g. anti-CTLA4, anti-PD1,
+anti-PD-L1 antibodies). In vitro cell-based screens that are frequently
+used in oncology to quickly identify responsive cells and assess PD
+effects, often fail in immuno-oncology, due to immunotherapeutics
+targeting the complex host immune system. Alternatively, an in vivo
+screen with a panel of models addresses many of these questions, e.g. PD
+and efficacy, but may be cost prohibitive.
+
+Material and methods: Leveraging in-house detailed profiling data on our
+syngeneic models, including efficacy benchmarking with anti PD-1, PD-L1,
+CTLA-4, OX-40, GITR , LAG3 and TIM3 antibodies, RNAseq data on tumor
+samples, and FACS analysis on both baseline and post-treatment tumor
+samples, we created a new in vivo screening tool for immune-oncology:
+MuScreen. MuScreen includes up to 20 well-characterized syngeneic models
+in a 3 month screening run. Both PD and efficacy may be determined in the
+run, allowing researchers to make decisions based on results observed
+from a large dataset. To address the cost issue, test agents from
+multiple clients are pooled together for each run (sharing vehicle and
+other common groups) providing a significant reduction in the number of
+animals used and the associated costs.
+
+Results: CrownBio has established the largest collection of syngeneic
+models with well-characterized immunotherapy data. With the three
+MuScreen runs, we have generated new data on common IO agents (e.g. aPD-1
+antibody) and combinations treatments, with FACS analysis, IHC, and
+efficacy data. Based on these data, a bioinformatics
+
+analyses were further explored to identify the makers/pathways that could
+be correlated with the efficacy or PD effect of the tested IO treatment.
+
+Conclusions: MuScreen, the first in vivo screening tool for cancer
+immunotherapeutics, provides detailed response data on a panel of
+syngeneic models, and may help on biomarker discovery in a cost and time
+efficient manner.
+
+

@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Inhibition of heme oxygenase 1 decreases proliferation and
+resensitizes TKI-resistant Flt3-ITD-positive AML cells
+
+
+Acute myelogenous leukemia (AML) afflicts 12,330 new patients per year in
+the United States. Regrettably, only 25% of patients will survive five
+years past diagnosis. The most common mutation in AML is internal tandem
+duplication (ITD) of the juxtamembrane domain of the fms-like tyrosine
+kinase receptor-3 (Flt3), which renders it constitutively active. This
+mutation correlates with poor clinical prognosis and has been targeted
+therapeutically. Unfortunately, Flt3-directed tyrosine kinase inhibitors
+(TKI) have shown only modest benefit as single agents. Additionally,
+relapse and resistance are major factors in the treatment of
+Flt3-ITD+AML. In addition to its prominent role in regulating
+proliferative signaling, Flt3-ITD also increases production of reactive
+oxygen species (ROS) which act as secondary messengers, mediating
+oncogenesis and drug resistance. Heme oxygenase 1 (HO-1) is a
+ROS-responsive antioxidant that mediates proliferation and drug
+resistance in some cancer types. Initial analysis of patient samples from
+the AML TCGA cohort suggests that HO-1 is up-regulated in a subset of AML
+patients where its expression correlates with poor prognosis.
+Interestingly, HO-1 over-expression co-occurs with Flt3 receptor
+alterations. Thus, we hypothesized that Flt3-ITD-dependent signaling and
+ROS production increase HO-1, resulting in proliferation and drug
+resistance in AML. Constitutive expression of HO-1 protein and mRNA was
+elevated in murine (BaF3/Flt3-ITD) and human (MOLM13 and MV4.11) ITD+
+cell lines as compared to Flt3-WT cells. This expression was dependent on
+Flt3-kinase, as treatment with Flt3-directed TKIs (quizartinib or
+lestaurtinib) attenuated HO-1 expression. Further, oxygen consumption and
+respiration analyses, as well as chemical inhibitors revealed a role for
+non-mitochondrial ROS producing enzymes in HO-1 expression in ITD+ cells.
+To determine a functional role for HO-1, we inhibited HO-1 with zinc
+protoporphyrin (ZnPP) or utilized siRNA knockdown of HO-1, both of which
+resulted in decreased proliferation of ITD+ cells. To determine the
+contribution of HO-1 in resistance to Flt3-directed TKI, we created a
+model of acquired resistance to Flt3-directed TKI (ITDR). HO-1 expression
+was elevated in ITDR compared to parental cells. However, HO-1 was no
+longer under control of Flt3-kinase signaling, as treatment with
+Flt3-directed TKI had no effect on HO-1. Similar to parental cells,
+knockdown of HO-1 or treatment with ZnPP resulted in decreased
+proliferation of ITDR cells. Further, combined treatment with
+Flt3-directed TKIs and ZnPP or HO-1 knockdown resulted in increased
+induction of cell death of ITDR cells. These data provide impetus for
+direct targeting of HO-1 in TKI resistant ITD+ AML. Together, our data
+suggest HO-1 as a growth and resistance factor in Flt3-ITD+ AML;
+therefore, targeting HO-1, or the mechanisms that control its expression,
+may prove therapeutically valuable.
+

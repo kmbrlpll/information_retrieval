@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Taselisib enhances the potency of ERBB inhibitors in
+biomarker-defined subsets of head and neck squamous carcinoma cell lines
+
+
+The phosphoinositol-3-kinase (PI3K) signaling pathway is one of the most
+frequently activated pathways in oncogenesis, and controls critical
+cellular processes such as proliferation, transcription and survival.
+Taselisib (GDC 0032) is an orally bioavailable, potent, and selective
+inhibitor of Class I PI3K alpha, delta, and gamma isoforms, with 30 fold
+less inhibition of the PI3K beta isoform relative to the PI3K alpha
+isoform. The gene that encodes the p110 alpha isoform of PI3K, PIK3CA, is
+frequently mutated in breast, colorectal and endometrial cancers.
+Previously published data demonstrated that taselisib has increased
+activity against PIK3CA mutant cancer cell lines (Ndubaku CO et al, J Med
+Chem, 2013).To determine if there are additional predictive biomarkers
+outside of PIK3CA mutations for sensitivity to taselisib, we profiled
+over 550 cell lines, encompassing 13 of the main tissue types, to
+increasing concentrations of taselisib. As expected, a small percentage
+of all tumor types responded to taselisib and correlated strongly with
+PIK3CA mutations. Intriguingly, the majority of head and neck squamous
+cell cancer (HNSCC) cell lines showed an IC50 concentration of less than
+0.5uM, suggesting that HNSCC cell lines may be particularly susceptible
+to PI3K inhibition. Interestingly, the majority of HNSCC cell lines
+displayed an activated PI3K pathway as evidenced by phosphorylation of
+key proteins, such as AKT, S6 and PRAS40 implicating that downstream
+phospho-protein analysis of the PI3K pathway may not predict for
+sensitivity to taselisib. Mutational profiling identified that only 3 out
+of the tested 31 HNSCC cell lines harbored a mutation within PIK3CA,
+suggesting that additional genotypes may explain the sensitivity to
+taselisib. Additional molecular analysis assessing both gene expression
+and copy number levels of genes relevant to the PI3K pathway found that
+many of the taselisib sensitive cell lines had an activated ERBB
+signaling node through low level amplification of ERBB receptors (e.g.
+EGFR, FGFR1) or via a NRG1:ERBB3 autocrine mechanism. As many ERBB
+receptors heterodimerize with ERBB3, which contains p85 binding sites and
+potentially activates the PI3K pathway, we next tested whether taselisib
+would enhance the potency of ERBB receptor inhibitors in
+biomarker-defined subset of HNSCC cell lines. Combination screens were
+performed in cell lines with amplified EGFR, ERBB2, and NRG1:ERBB3
+autocrine signaling with taselisib + tarceva or lapatinib. We found that
+combination effects assessed using the BLISS excess method showed a
+synergistic interaction. These results suggest that taselisib may have
+therapeutic potential for the treatment of HNSCC.
+

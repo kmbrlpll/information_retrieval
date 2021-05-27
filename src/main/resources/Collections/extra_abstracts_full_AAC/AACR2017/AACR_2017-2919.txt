@@ -1,0 +1,39 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Quantitative mapping of epidermal growth factor receptor
+activation in single breast cancer cells treated with targeted therapies.
+
+
+Twenty percent of breast cancers are triple-negative, lacking estrogen
+receptor, progesterone receptor, and HER2. There is currently no specific
+FDA-approved targeted therapy for triple-negative breast cancer patients.
+Approximately half of triple-negative breast cancers overexpress
+epidermal growth factor receptor (EGFR), however phase II trials have
+only shown a 5% response rate with targeted inhibition. A quantitative
+analysis of EGFR signaling pathway dynamics of single cells at the single
+molecule level has the potential to shed light on the mechanism of lack
+of response to targeted therapy, as well as the cell-to-cell
+heterogeneity of response. Here, we combine single-molecule 3D imaging of
+EGFR using fluorescent quantum dots (QDs) with cell geometry
+normalization by micro-patterning to quantitatively map EGFR endocytosis
+in single cancer cells. Triple negative MDA-MB-231 cells conformed to
+defined geometries (rectangular with different aspect ratios) were grown
+on soft polyacrylamide gels after micro-contact printing islands of
+fibronectin. Two color QD conjugates of EGFR and its ligand, EGF, are
+used to track ligand binding and receptor internalization upon activation
+in the absence and presence of different families and dosages of
+pharmaceutical EGFR inhibitors. We demonstrated that
+microcontact-printing normalizes cell geometry while maintaining EGFR
+localization so that EGFR signaling response can be quantitatively
+assessed on a single-cell basis and that QD conjugates can specifically
+label EGFR and EGF. Quantitative single-molecule imaging at single-cell
+level revealed high level of heterogeneity in the amount and spatial
+localization of EGF binding and EGFR endocytosis among the cell
+population in the presence and absence of EGFR inhibitor, gefitinib.
+Using this platform, we will investigate if spatial organization of EGFR
+clusters within individual cells contribute to single-cell heterogeneous
+response to EGFR inhibitors. We anticipate quantitative mapping of EGFR
+activity with drug treatment will help to elucidate why EGFR drug
+treatments fail and provide a means to develop combination therapy to
+address heterogeneity in triple negative-breast cancer.
+
+

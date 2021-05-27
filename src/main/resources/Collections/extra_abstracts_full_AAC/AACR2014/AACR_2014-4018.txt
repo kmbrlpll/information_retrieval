@@ -1,0 +1,42 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Development and analytical validation of a novel real-time
+multiplex RT-qPCR assay for the simultaneous quantification of ER, PR,
+HER-2 and EGFR mRNA expression in circulating tumor cells of breast
+cancer patients
+
+
+Introduction: Circulating Tumor Cells (CTCs) represent an important
+biological link in the spread of breast cancer from primary to metastatic
+disease. CTCs have already been established as strong predictors of
+prognosis in patients with metastatic breast cancer. Triple-negative
+breast cancers have a more aggressive clinical outcome than other forms
+of breast cancer. The aim of our work was to develop a quantitative
+real-time multiplex RT-qPCR assay for studying the expression of ER, PR,
+HER-2 and EGFR in CTC of breast cancer patients.Materials and Methods: A
+quadruplex quantitative real time RT-qPCR assay for ER, PR, HER-2 and
+EGFR was developed based on the de novo in-silico design of eight primers
+and four dual hybridization probes. All primers and probes were designed
+to avoid cross-reactions and primer dimer formation and to match the
+assay conditions, such as amplicon sizes, and melting temperatures. The
+specificity of all primer and hybridization probe sequences was first
+tested by homology searches in the nucleotide database (NCBI, nucleotide
+BLAST). Each probe set included a 3-fluorescein (F) donor probe and a 5-
+LC acceptor probe that was different for each gene set: ER at 610nm, PR
+at 640nm, HER-2 at 670nm, EGFR at 705nm. A color compensation test was
+performed by using pure dye spectra so that spectral overlap between dyes
+was corrected. The LightCycler 2.0 platform, (Roche, Diagnostics) was
+used since it allows detection of six multiple reporter dyes in the same
+capillary. The assay was designed, so that only 1 L of cDNA is used and
+the total reaction volume is 10 L.Results: The assay sensitivity was
+evaluated by performing spiking experiments. For this reason known
+numbers of MCF7 and SKBR-3 cells, as well as external quantification
+calibrators ranging from 105 copies/L to 10 copies/L, were used. The
+specificity was evaluated by carefully designed cross reaction studies,
+performed for each gene target in the presence of all other targets. Our
+assay, under optimized conditions has shown a very high specificity for
+each analyte.Conclusions: We report for the first time a highly
+sensitive, specific and reproducible quantitative multiplex real-time
+RT-qPCR assay for the simultaneous quantification of ER, PR, HER-2 and
+EGFR. The assay is currently validated in CTC isolated from a large
+number of breast cancer patients.
+

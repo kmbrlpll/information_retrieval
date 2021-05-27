@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The effects of long-term storage on commonly-measured serum
+analyte levels.
+
+
+Introduction: Cohort studies typically bank biospecimens for many years
+prior to assay and the levels of analyte degradation is unknown. Long
+storage times could cause degradation and produce measurement errors that
+would bias estimation of the analyte effects on health outcomes. Such
+effects could also produce confounding with other factors under study.
+
+Methods: We collected control samples from 22 non-study participants
+using the same enrollment criteria and specimen collection, processing,
+and storage protocols as in The Sister Study, a large cohort study
+conducted by the National Institute of Environmental Health Sciences.
+Samples were assayed for 21 analytes at collection and then six years
+later. For each sample, the difference between the result at baseline and
+at six years was calculated for each analyte. The difference, Yij =
+result6 year - resultbaseline, was then modeled using a mixed-effects
+model, with random effects for batch (bi) and a fixed effect for the
+overall mean difference: Yij = u + bi + eij , where , bi ~ N(0, s2batch)
+, i=1,2,3,5,6.
+
+Results: Some of the analytes experienced a marked change in
+concentration after six years of frozen storage, compared to their
+baseline value. There were no significant changes in ten of the analytes.
+Two of the analytes, lactate dehydrogenase (LDH) and sex hormone binding
+globulin (SHBG), increased significantly in concentration over time. Two
+analytes, HDL cholesterol and luteinizing hormone (LH), decreased
+significantly but within the limits of the internal laboratory control
+variance. Significant reductions in excess of the laboratory control
+variance were found for 7 of the 21 analytes tested (aspartate
+transaminase (AST), total cholesterol, estradiol, glucose, protein,
+sodium, and triglycerides). Despite the evidence for systematic changes
+over long-term storage, correlations between baseline and later measures
+were high and there was little relation between the size of the
+correlation and the estimated mean difference across the two time points.
+
+Conclusion: We conclude there are differences in assay results after
+long-term storage, although for most analytes the correlation
+coefficients were high and percent change small. Biobanks or cohort
+studies that bank samples should consider building in QC experiments
+designed to assess the impact of long-term storage on anticipated
+analytes of interest, when possible. By doing so, degradation could be
+corrected for to control bias due to the associated measurement error.
+Since not all cohorts were able to conduct these QC experiments, those
+that have carried out such assessment should share their results so
+others can use the data to evaluate the potential impact of measurement
+error on their study findings.
+
+

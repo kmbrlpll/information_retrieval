@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identification of novel synthetic lethal interactions in small
+cell lung cancer with the proteasome inhibitor carfilzomib
+
+
+Proteasome inhibition (PI) has emerged as a valuable cancer treatment in
+hematological malignancies by causing a disruption of protein
+homeostasis. While proteasome inhibitors have been historically
+unsuccessful in the clinic for solid tumors, all cancer cell lines
+succumb to proteasome inhibition in vitro. Solid tumor cell lines have a
+higher threshold for disruption of protein homeostasis; as they require
+continuous exposure to achieve cytotoxicity similar to pulsatile exposure
+of PI in heme cell lines. The in-vivo half-life of proteasome inhibitors
+is short (1hr) making it challenging to mimic in vitro continuous
+treatment. Therefore we explored the option of sensitizing solid tumors
+to proteasome inhibitors through combination therapy.In order to identify
+novel synthetic lethal interactions with PI, we performed a screen
+utilizing a pooled siRNA library targeting 2240 genes of the druggable
+genome in combination with the proteasome inhibitor carfilzomib (CFZ) or
+DMSO. Cells were first transfected with the siRNA for 24 hours and then
+treated with CFZ or DMSO for an additional 72h to assess synergy. We
+performed the screen in small cell lung cancer (SCLC), an unmet medical
+need. Preliminary responses in SCLC patients were observed with CFZ in an
+all comers solid tumor trial (Papadopoulos, et al. Cancer Chemother
+Pharmacol, 2013).The screen was performed in NCI-H841 cells that are
+adherent, easy to culture, and have high transfection efficiency. The
+combined effect of siRNA and CFZ on viability was measured using a
+Sensitivity Index (SI), which ranges from -1 (antagonistic) to 1
+(synergistic). Using an SI threshold >0.2, we identified 33 synthetic
+lethal genes when H841 cells were treated with an IC9 of CFZ.To validate
+screen hits, we performed experiments using single siRNA reagents (4 - 6
+sequences per gene) in combination with CFZ in NCI-H841. Two hits were
+confirmed with two or more single siRNAs sensitizing cells to CFZ. These
+genes (TGFBR3 and GRK6) are of particular interest because of their
+involvement in proliferation signaling mechanisms. Subsequent screens
+have also uncovered two additional genes, involved in the protein
+degradation and trafficking pathway (CLPP and COG8), which meet the same
+validation criteria for synergy.The characterization of these hits is
+currently on-going in a panel of SCLC lines, and in cells engineered with
+CRISPR technology to achieve a near complete knockout. In parallel, we
+are testing commercially available reagents targeting our proteins of
+interest to validate our results. Preliminary data with a published GRK6
+inhibitor, GF109203x, demonstrates synergy with Bliss scores of 0.35 in
+H841 and 0.44 in DMS114 SCLC lines (Zhou et al. J Pharmacol Exp Ther,
+2001). In summary, we have identified druggable targets that would
+potentiate CFZ efficacy towards solid tumors and may elucidate the PI
+mechanism of action.
+

@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Molecular signatures of in vitro drug response in lung cancer.
+
+
+We are developing in vitro drug response signatures based on profiling of
+mRNA (Illumina WG6-V3 arrays), DNA mutation (COSMIC and deep sequencing),
+DNA copy number (Illumina Human1M-Duov3 SNP array) and DNA methylation
+(Illumina HumanMethylation450) from lung cancer cell lines to predict
+which drugs a patient's tumor is most likely to respond to. We have
+generated drug response phenotypes (MTS colorimetric assays) for 25
+standard, targeted, and new chemotherapy agents and combinations for 100
+non-small cell lung cancer (NSCLC) lines. All assays were done in
+triplicates or more and were very reproducible over time (r > 0.8). More
+than 10,000 MTS assays were generated and we designed a high-throughput
+database software named DIVISA (Database of In VItro Sensitivity Assays)
+for the purpose of storing and analyzing these assays. Some drugs showed
+a wide range of sensitivities (> 10,000-fold in IC50 values) and IC50
+clustering indicates that drug response phenotypes can be grouped
+according to drug types. As part of a joint NCI SPORE, NCI SPECS, and DOD
+PROSPECT effort we have collected 275 clinically annotated frozen tumors
+with drug response information including 94 that represent lung cancer
+resection followed by adjuvant treatment. These specimens have also been
+profiled on Illumina expression arrays to formally test the clinical
+relevance of the tumor cell line signatures, and to verify that the
+signatures predict for response only in the presence of treatment and
+thus are not prognostic of survival in the absence of treatment. In
+addition, we have 3 primary tumor datasets totaling 96 specimens with
+EGFR mutation information, thus providing a validation set for EGFR
+tyrosine kinase inhibitor signatures. Using a weighted voting
+classification, cell line signatures predicted drug response in primary
+tumors with accuracies of 65% for targeted therapy (EGFR) but with
+somewhat lower accuracies for platin/taxane therapies suggesting that
+cell line predictive signatures may be better suited for targeted drugs.
+To facilitate translation to clinical trials we are working with High
+Throughput Genomics (HTG) to develop quantitative mRNA profiles that are
+performed on formalin fixed paraffin embedded (FFPE) material on a
+platform that can be transferred to a CLIA certified environment. These
+studies thus provide a preclinical human tumor model platform for
+systematically testing new drugs and for developing signatures to guide
+their most efficient use in early clinical tests. Funded by University of
+Texas SPORE in Lung Cancer (P50CA70907) and NCI SPECS Lung Cancer
+(CA114771).
+

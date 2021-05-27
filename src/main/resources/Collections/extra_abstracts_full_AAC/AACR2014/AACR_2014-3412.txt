@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Distinct copy number alterations in genomes of oral cavity
+squamous cell carcinomas
+
+
+Oral cavity squamous cell carcinoma (OSCC) is one of the most common
+cancers in Taiwan and worldwide. Despite recent progress in the diagnosis
+and therapeutic modalities for OSCC, the 5-year survival rate has not
+been improved in recent two decades. In order to provide some clues for
+clinical management of OSCC, 72 advanced-stage OSCCs were analyzed using
+two microarray platforms (26 cases with Affymetrix 500K and 46 cases with
+Affymetrix SNP 6.0). Genomic copy number was derived from calculating the
+intensity ratio between the OSCC and a set of normal DNAs from HapMap
+project. Segmented copy numbers for each tumor were inferred with the
+hidden markov model using the Partek GS software and circular binary
+segmentation using GenePattern pipeline. Genomic Identification of
+Significant Targets in Cancer (GISTIC) analysis was used to identify
+significant copy number alterations (CNAs) using a Q-value cutoff of
+0.25. With this approach, 41 (2 gain and 39 loss) and 32 (4 gain and 28
+loss) significant regions were distinguished from 500K and SNP 6.0
+platform, respectively. Among them, 12 (2 gains (7p11.2 and 11q13.3) and
+10 losses (2q23.3-q24.2, 3p14.2-p12.1, 4q35.2, 7q33-q34, 9p21.3,
+11q22.3-q24.3, 16q23.1, 18q11.2-q22.3, 21q21.1 and 21q22.3)) CNAs were
+identical in these two platforms. Two gain regions contained the well
+known oncogene EGFR (7p11.2) and CCND1 (11q13.3) and 10 deletion regions
+resides several known cancer suppressor genes such as FHIT
+(3p14.2-p12.1), FAT1 (4q35.1), CDKN2A (9p21.3) and ATM (11q22.3-q24.3).
+Among them, gain of 11q13.3 was correlated significantly with lymph node
+metastasis and loss of 4q35.2 was significantly associated with lymph
+node extracapsular spread (LNECS) and poor disease-free survival. Copy
+number gains of EGFR and CCND1 were further confirmed by fluorescence in
+situ hybridization and TaqMan CN assay (Hs01818912_cn and Hs02353610_cn),
+respectively. We found that the concordance rate was 74.63% for EGFR and
+77.78% for CCND1. To further explore the clinical value of copy number
+gains of EGFR and CCND1 in OSCC, 257 OSCC cases were analyzed.
+Preliminary results indicated that gains of CCND1 were significantly
+associated with tumor differentiation, lymph node metastasis and LNECS;
+while amplification of EGFR gene was significantly associated with tumor
+stage and lymph node metastasis but not LNECS. Furthermore, gains of
+CCND1 were significantly associated with poor disease-free and overall
+survival. On the other hand, amplification of EGFR was not associated
+with either disease-free or overall survival. Taken together, we have
+revealed the significant CNAs of OSCCs in Taiwan and confirmed the
+amplification of two important genes (CCND1 and EGFR) in 257 OSCCs. Thus,
+current genome-wide CNAs analysis provides clues for future
+characterization of important oncogenes and tumor suppressor genes
+associated with the behaviors of the disease.
+

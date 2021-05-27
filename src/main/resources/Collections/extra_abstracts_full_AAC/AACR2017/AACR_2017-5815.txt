@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: The HBP1 tumor suppressor is a negative epigenetic regulator of
+MYCN driven neuroblastoma through interaction with the PRC2 complex.
+
+
+MYCN is a key driver in initiation and progression of neuroblastoma (NB)
+and represents a major target for novel drug strategies. We previously
+reported that the MYC repressor gene HBP1 was down regulated by mutant
+ALK via the PI3K-AKT-FOXO3 signaling axis1. Here, we further demonstrate
+that HBP1 upregulation suppresses proliferation of neuroblastoma cells by
+decreasing the MYCN signaling pathway. HBP1 levels were also shown to be
+repressed in neuroblastoma cells through MYC/MYCN driven upregulation of
+the miR-17~92 cluster, indicating that MYCN and mutant ALK both act to
+inhibit HBP1 expression in NB. Next, we tested the green tea polyphenol
+epigallocatechin gallate (EGCG), known to upregulate HBP1, and the BET
+inhibitor JQ1, which represses MYCN activity in neuroblastoma cells, and
+showed in vitro and in vivo synergistic effects on cell viability and
+tumor growth. Treatment with the PI3K/mTOR dual inhibitor BEZ-235
+together with JQ1 also showed very strong synergistic effects. Further
+dissection of the HBP1 regulome using Gene Set Enrichment Analysis (GSEA)
+and iRegulon analysis (http://iregulon.aertslab.org) allowed
+identification of the PRC2 component SUZ12 as a central node in HBP1
+regulated signaling, mainly through controlling the repression of MYCN
+regulated genes. In keeping with this finding, GSEA analysis of our HBP1
+overexpression data set revealed also strong enrichment for genes that
+are differentially expressed upon EZH2 inhibition in neuroblastoma cells.
+Because HBP1 has previously been shown to interact with HDAC, we tested
+the effects of the HDAC inhibitors vorinostat and panobinostat as single
+agents and in combination with BEZ-235. Both combinations showed a strong
+synergistic effect on cell viability. The molecular mechanism of this
+synergism will be explored through RNAseq expression analysis. We
+conclude that HBP1 is a crucial component in MYCN controlled repression
+of gene activity through PRC2 interaction and demonstrate novel
+opportunities for precision drugging of MYCN overexpressing NB cells.
+1Lambertz et al. Clin Cancer Res. (2015)
+
+

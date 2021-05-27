@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Aurora-A kinase is required for rapid establishment of the mitotic
+checkpoint
+
+
+Aurora-A (AurA) is a conserved Serine/Threonine kinase and is mainly
+involved in multiple key steps in cell division. A high level of AurA is
+frequently detected in different human cancer types and is used as a poor
+prognostic biomarker. AurA inhibitors as potential anti-cancer drugs are
+widely being tested in clinical trials. To explore the mechanism(s) of
+possible efficacy, the roles of AurA in mitosis should be fully
+elucidated. AurA is known to be required for centrosome separation,
+spindle formation and kinetochore-microtubule attachment. However, the
+mechanism by which AurA is involved in regulation of the mitotic
+checkpoint is unclear. Most studies have used RNA interference, which
+does not abolish AurA activity, or inhibitors, which often target both
+AurA and AurB. In this study, we sought to dissect the role of AurA in
+checkpoint regulation by using cells derived from genetically engineered
+mice conditionally null for AurA, as well as a new selective AurA
+inhibitor. Upon deletion of AurA in mouse embryonic fibroblast (MEFs),
+65% of cells formed monopolar spindles and exited mitosis without
+dividing. However, the average duration of mitosis in these cells was 88
+minutes, significantly shorter than the 192 minutes in cells with
+monopolar spindles induced by Eg5 kinesin inhibition, in which checkpoint
+is fully functional. Previous work in our lab showed AurA is dispensable
+for checkpoint signaling in APC/C inhibition. Hence, we tested whether
+the truncated arrest in AurA-/- cells was due to defective checkpoint
+engagement and/or because of attenuated AurB mediated error correction,
+which reactivates checkpoint. Using live cell imaging followed by
+immunofluorescence, we found the recruitment of Mad2 to kinetochores at
+the start of mitosis was markedly delayed in AurA-/- MEFs. Mad2 levels at
+kinetochores were reduced to 28% of that in wild-type cells in the
+absence of microtubules. In addition, without AurA, AurB was not able to
+accumulate at the centromere at early prometa-phase. This observation may
+indicate that error correction is compromised, resulting in the abnormal
+acceleration of checkpoint satisfaction. Similar results were obtained
+using human immortalized RPE cells treated with a selective AurA
+inhibitor-MLN8237. Thus, preliminary data suggest AurA disruption causes
+delays in rapid establishment of a robust checkpoint and an effective
+error correction pathway at early mitosis. These defects accelerate
+mitotic exit in the presence of an aberrant spindle, leading to aneuploid
+progeny. Currently, we are assessing the dynamics of the checkpoint
+signaling on kinetochores throughout mitosis. We are also investigating
+whether AurA function in checkpoint regulation is directly through
+activation of AurB at centromere. This study is expected to further
+elucidate basic mechanisms of mitotic regulation and will provide
+important implications for the application of AurA kinase inhibitors in
+clinical trials.
+

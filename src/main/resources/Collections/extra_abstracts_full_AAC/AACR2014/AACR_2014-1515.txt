@@ -1,0 +1,30 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Simultaneous detection of KRAS and TP53 mutations in human cancer
+cell lines using multiplex qPCR
+
+
+Genetic alterations in KRAS and TP53 genes are common in many cancers and
+the understanding of their role in progression of cancer is vital for the
+design of successful treatment approaches. Studies suggest that mutations
+in KRAS and TP53 genes independently hindered the use of EGFR inhibiting
+drugs like Cetuximab (Erbitux) for the treatment of colorectal cancer
+(1). The genetic alterations in these genes are now routinely checked
+before starting any expensive treatments. Here, we successfully
+demonstrated use of duplex mutli-color SNP genotyping assays to detect
+KRAS and TP53 mutation in human colon cancer cell lines. This method can
+be potentially used to analyze samples with limited quantity and get as
+much information as possible from a single sample. To study the impact of
+these mutations, we generated gene expression profiles of 672 genes
+related to signaling pathways by using the Human signal transduction
+medium-throughput OpenArray Panel. Selected cancer genes like BRAC1, BAX,
+CFLAR, MYC and others were evaluated using multiplexed single-tube PCR
+simultaneously detecting four different targets in the same sample. These
+results demonstrate that duplex SNP genotyping and multiplexed gene
+expression profiling from a single sample increases research capacity in
+situations when sample is limited.Reference:1. A Oden-Gangloff, F Di
+Fiore, F Bibeau, A Lamy, G Bougeard, F Charbonnier, F Blanchard, D
+Tougeron, M Ychou, F Boissire, F Le Pessot, J-C Sabourin, J-J Tuech, P
+Michel and T Frebourg.TP53 mutations predict disease control in
+metastatic colorectal cancer treated with cetuximab-based chemotherapy.
+British Journal of Cancer (2009) 100, 1330-1335
+

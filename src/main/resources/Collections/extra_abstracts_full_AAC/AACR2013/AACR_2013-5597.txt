@@ -1,0 +1,51 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Molecular classification of glioblastoma multiforme using
+isoform-level gene expression signatures.
+
+
+Glioblastomamultiforme (GBM) is one of the most deadly cancers in adult
+and even with aggressive therapy prognosis is poor with a median survival
+of about 15 months. Recent large scale genomic studies have shed light on
+the molecular mechanisms of cancer and shown the existence of distinct
+molecular sub-groups of GBM whose identification is the key to develop
+specific therapeutic regimen for each GBM group. Since transcriptome
+studies, by us and others, have discovered that majority of genes produce
+multiple protein isoforms, which could be involved in multiple functional
+pathways, we hypothesized that the isoform-level expression profiling
+will generate better classification to identify themolecular sub-groups
+of GBM. To test this hypothesis, we performed isoform-level analysis of
+the exon array expression data for GBM patient samples from the TCGA data
+portal, and discovered that isoform-level analysis identifies 2.5 fold
+more differentially expressed transcript variants than differentially
+expressed genes captured by gene-level analysis, indicating that
+isoform-level expression profiling is more sensitive in identifying
+molecular changes among GBM patients. Next, we applied consensus
+non-negative matrix factorization (NMF) clustering method, based on
+isoform-level expression ofmost variable isoforms and effectively grouped
+the GBM samples into 4 sub-groups with significant (p=0.0103) survival
+differences between the groups. In contrast, though clustering based on
+gene-level expression produced four homogenous groups there was no
+significant survival difference among the sub-groups. Based on the
+prognostic value of the molecular sub-groups, our goal was to build a
+classifier that can assign each GBM patient a molecular sub-group.We
+compared the prediction accuracy of a gene based vs an isoform based
+classifier to identify sub-group and found that isoform based classifier
+is a better predictor (85%vs90%). Using the Random forest feature
+selection we have build a classifier based on the expression of 147
+isoforms that is 91% accurate and have developed a high-throughput
+RT-qPCR assay to measure the expression of these discriminatory isoforms.
+We have successfully validated the classifier to identify the molecular
+sub-group in an independent cohort of GBM patient samples from the Human
+Brain Tumor Tissue bank at University of Pennsylvania.Our study has led
+to the development of a classification assay for GBM patient
+sub-grouping, which can be useful in developing targeted drug therapy for
+each sub-group, and suggests that isoform based expression analysis can
+lead to better molecular classification of cancer, a requirement for the
+quest of personalized therapy.Citation Format: Sharmistha Pal, Yingtao
+Bi, Lukasz Macyszyn, Louise C. Showe, Donald M. O'Rourke, Ramana V.
+Davuluri. Molecular classification of glioblastoma multiforme using
+isoform-level gene expression signatures. [abstract]. In: Proceedings of
+the 104th Annual Meeting of the American Association for Cancer Research;
+2013 Apr 6-10; Washington, DC. Philadelphia (PA): AACR; Cancer Res
+2013;73(8 Suppl):Abstract nr 5597. doi:10.1158/1538-7445.AM2013-5597
+

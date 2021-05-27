@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Orthogonal validation of oncomine cfDNA panel data with digital
+PCR using TaqMan Rare Mutation Assays.
+
+
+The discovery of circulating tumor DNA (ctDNA) in the blood, urine and
+other bodily fluids of cancer patients has led to a new type of
+non-invasive method of characterizing cancer-causing mutations, the
+liquid biopsy. With NGS technologies becoming increasingly sensitive,
+down to a 0.1% Limit of Detection (LOD), they are rapidly gaining
+traction as a valid assay for cancer genotyping and have potential to
+direct cancer treatment plans. The wide-angle view provided by NGS
+panels, combined with dPCR’s zoomed-in precision detection of DNA
+provide a comprehensive picture of a cancer’s genetic makeup. By
+applying these complementary techniques at the appropriate time based on
+the disease type and stage, cancer treatment will become quicker, more
+precise and more cost-effective in the future. NGS and digital PCR
+together provide a complete picture of the cancer genome. As part of our
+research, we wet-lab tested a subset of Rare Mutation Assays
+corresponding to the Oncomine cfDNA panel for next generation sequencing.
+Synthetic plasmid (GeneArt) carrying the mutation was spiked into
+wild-type genomic DNA to reflect a mutation rate of 0.1%. Wild-type
+genomic DNA was used as negative control. Thermal cycling was performed
+according to protocol for digital PCR using the QuantStudio 3D. In this
+study, we tested a pilot set of samples using AcroMetrix Oncology Hotspot
+Control and Horizon cfDNA Reference Standard with both NGS using Oncomine
+cfDNA panel and digital PCR with Rare Mutation Assays. Comparison of NGS
+and digital PCR results for the same sample showed excellent correlation
+in the low mutation range around 0.1%. This study confirms that digital
+PCR using QuantStudio 3D and Rare Mutation Assays is effective as a
+method for orthogonal validation of NGS data using the Oncomine cfDNA
+panel. Additionally, TaqMan Rare Mutation Assays offer a sensitive and
+precise solution for downstream mutation tracking over a time course. For
+Research Use Only. Not for use in diagnostic procedures.
+
+

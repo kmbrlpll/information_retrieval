@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of novel Mcl-1 inhibitors using integrated
+screening approach: combining high throughput and virtual screening.
+
+
+Myeloid cell leukemia-1 (Mcl-1) is a potent anti-apoptotic protein, a
+member of the prosurvival Bcl-2 family, and its role is emerging as a
+critical survival factor in a broad range of human cancers. Mcl-1
+represents a very attractive molecular target for development of a new
+class of cancer therapy and there is still need for developing BH3
+mimetics that can efficiently and selectively target Mcl-1 protein. We
+employed integrated screening approach through combining high throughput
+and virtual screening, to identify novel chemical classes as Mcl-1
+inhibitors. For this purpose we developed a dual-readout HTS assay that
+combines two assay technologies, FP and FRET, into one system using the
+Mcl-1 and labeled Noxa BH3 derived peptide and optimized in a 1,536-well
+ultra-HTS format. This assay was used for screening a library of 102,255
+compounds. As two assay platforms were utilized for the same target
+simultaneously, hit information was enriched identifying 1214 compounds.
+To further improve the output and the quality of the identified
+inhibitors, as well as to incorporate the structure-based knowledge of
+the interactions between Mcl-1 and number of BH3 peptides, we have
+integrated in silico target-based screening for selection of the most
+promising hits for further validation. The complex structure between
+Mcl-1 and Noxa BH3 peptide (PDB ID: 2NLA) was used for the induced fit
+docking of 1214 hits. Followed by the scoring and ranking of the
+identified hits, 62 compounds were selected for further evaluation in a
+series of complementary biochemical, biophysical and functional assays.
+Several in vitro binding assays with different platform, FP, SPR, and
+(HSQC) NMR spectroscopy, were used to determine the binding affinity of
+the compounds. The binding data revealed that we have identified
+inhibitors with different selectivity profiles against five members of
+the Bcl-2 family: Mcl-1, Bcl-2, Bcl-xL, Bcl-w and A1. 15N HSQC spectra
+conclusively showed that newly identified compounds interact with the BH3
+domain in Mcl-1 protein and affect many residues in the BH3 binding
+groove. Using pull down assay it was demonstrated that the identified
+compounds were able in a dose dependent manner to disrupt interactions
+between endogenous Mcl-1 protein and biotin labeled Noxa BH3 peptide.
+Functional studies showed that compounds can antagonize Mcl-1 function
+and induce cytochrome c and Smac release from the isolated mitochondria.
+By using murine embryonic fibroblasts (MEFs), wild type and deficient in
+both Bax and Bak (double knock out), it was further demonstrated that the
+cytotoxic activity and induction of apoptosis, depend on Bax and/or Bak,
+suggesting that the compounds function as BH3 mimetics. Collectively,
+these findings provide several different chemical classes for further
+chemical modifications and optimization toward developing a new class of
+anticancer drugs as Mcl-1 inhibitors.
+

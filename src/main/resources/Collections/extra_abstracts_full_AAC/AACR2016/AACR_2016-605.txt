@@ -1,0 +1,34 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Building better cell models for screening oncology compounds
+
+
+The NCI60 screen is a valuable compound screening service offered to
+researchers for 20+ years. The screen allows the submission of small
+molecules, biologics and natural products for testing in the NCI60 cell
+line panel (60 cell lines covering 9 major tumor types). Sophisticated
+tools such as COMPARE allow stratification of compounds based on pattern
+of cell line response and these tools elucidated several compounds with
+differential specificity for a disease type (e.g. breast cancer over
+melanoma).Since inception the NCI60 screen has been performed in 96-well
+plates on monolayer cultures of cells. SulfoRhodamine B was used to
+measure cell viability after a 48h exposure to the compounds at either a
+single concentration or 5 point concentration response assay. However,
+recent work has suggested that cells in 3D culture may respond
+differently to compounds than in 2D. 3D culture systems produce tumor
+cell spheroids that exhibit features seen in vivo including greater
+cell-cell contact, and gradients of nutrients and oxygen between the
+periphery and the center of the spheroid. We sought to optimize the NCI60
+cells for use in a 3D spheroid model that would be suitable for screening
+compounds. By varying NCI60 cell plating density and incubation times, we
+optimized the formation of spheroids of a given diameter (500um) in Ultra
+Low Attachment (ULA) plates. Spheroids were imaged using a high content
+imaging plate reader and classified into 4 categories based on their
+apparent morphologies. Comparisons were made in drug sensitivity between
+2D and 3D model systems using the NCI60 and cells derived from PDX
+samples. Data on the optimal cell densities of the NCI60 lines used for
+spheroid formation as well as concentration response effects of select
+agents compared in 2D and 3D models are presented. These data will allow
+others to rapidly utilize these 3D models to determine the differential
+drug sensitivity of select cell types. Funded by NCI Contract No.
+HHSN261200800001E.
+

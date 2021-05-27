@@ -1,0 +1,60 @@
+Meeting: 2017 AACR Annual Meeting
+Title: PKCα-induced Twist1 phosphorylation is a novel regulator of
+Twist1 stabilization.
+
+
+Background:
+
+Epithelial - mesenchymal transition (EMT) is a pre-requisite for cancer
+metastasis. Twist-1 is a transcription factor with a central role in the
+process of EMT and therefore metastasis formation. Using ovarian cancer
+models, our group has previously shown that although the stationary
+epithelial phenotype express Twist1 mRNA, this phenotype is enforced by
+mechanisms that constitutively ubiquitinates and degrades the Twist1
+protein. The objective of this study is to identify molecular mechanisms
+that promote Twist1 protein stabilization and therefore confer a
+mesenchymal and mobile phenotype.
+
+Materials and methods:
+
+Novel phosphorylation sites on Twist1 protein, which are adjacent to
+ubiquitination sites, were identified using NetPhosK and Ubpred. Further
+analysis demonstrates that most of these sites contain the consensus
+sequence for PKCα. Constitutively active PKCα (PKCαcat) was
+ectopically expressed in HEK293T cells and patient-derived epithelial
+ovarian cancer cell lines. Protein expression and phosphorylation status
+were determined using western blot analysis using either whole cell
+lysates or cellular fractions. Protein-protein interaction was determined
+by immunoprecipiation. The specific Twist1 domain required for PKCα
+interaction was determined by co-transfection with Twist1 deletion
+mutants.
+
+Results:
+
+Ectopic expression of PKC⍺cat in HEK293T cells and ovarian cancer cells
+resulted in increased levels of Twist1 protein compared to empty vector
+control. In ovarian cancer cells, PKCcat-induced upregulation of Twist1
+protein is not associated with an increase in Twist1 mRNA but instead is
+associated with Twist1 phosphorylation, decreased ubiquitination, and
+enhanced stabilization. We identify the twist box (WR) domain of Twist1
+as a pre-requisite for PKCα binding and PKCαcat-induced Twist1
+stabilization. Moreover, we identify TGFβ1 as a potent activator of
+endogenous PKCα in epithelial ovarian cancer cells. TGFβ1 (1 ng/ml) is
+able to: promote the activation and membranal translocation of PKCα;
+increase Twist1 protein levels; and induce spheroid formation and EMT in
+epithelial ovarian cancer cells. Interestingly, TGFβ1 had no effect on
+Twist1 mRNA suggesting that this mechanism is independent of the
+classical TGFβ-Smad pathway.
+
+Conclusions:
+
+We demonstrate for the first time a novel TGFβ-PKCα signaling pathway
+that specifically targets Twist1 protein for phosphorylation and
+stabilization resulting in EMT. This mechanism is independent of the
+classical TGFβ-Smad pathway that controls EMT via transcriptional
+regulation. Since TGFβ is a pleiotropic cytokine that can affect
+multiple cell types, the identification of PKCα as a novel target in
+ovarian cancer cells may aid in the development of better therapeutic
+modalities that can prevent EMT and curtail metastasis formation.
+
+

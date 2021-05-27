@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: One-carbon metabolism and colorectal cancer risk according to
+molecular subtypes: a Bayesian network learning approach
+
+
+Background: Colorectal cancer (CRC) is a heterogeneous disease caused by
+a number of distinct pathways defined by genetic and epigenetic events.
+These molecular subtypes differ in prognosis and treatment options, and
+recent studies also imply differences in etiology. One-carbon metabolism
+has been extensively studied in relation to incident CRC risk because of
+its involvement in nucleotide synthesis and methylation reactions, yet
+only a few studies have evaluated if associations differ over CRC
+subtypes. In this study, we investigated a targeted panel of circulating
+metabolites and a set of single nucleotide polymorphisms involved in
+one-carbon metabolism in relation to the risk of overall CRC and CRC
+subtypes approximated by mutations in the BRAF and KRAS oncogenes,
+microsatellite instability (MSI), or CpG island methylator phenotype
+(CIMP).Methods: This was a prospective population-based nested case
+control study of 613 CRC cases and 1190 matched controls. The data
+included plasma concentrations of 14 one-carbon metabolites, 17 related
+single nucleotide polymorphisms, and other lifestyle-related information
+for all subjects, and clinical and molecular information for the tumors.
+In order to account for interactions and dependencies between variables,
+we applied multivariate Bayesian network learning in combination with
+more traditional univariate multinomial logistic regression to
+investigate independent relations to subtype specific CRC risk.Results:
+Preliminary findings show that vitamin B6 (Pyridoxal 5-phosphate, PLP)
+and vitamin B2 (riboflavin) had the strongest independent relations to
+overall CRC risk in the multivariate analyses. Folate, glycine, vitamin
+B6, and the RFC1 80G>A polymorphism displayed signs of independent
+relations to CRC subtypes. In univariate multinomial logistic regression
+models, plasma folate expressed the strongest etiologic heterogeneity,
+and was more clearly related to the risk of CIMP low/high tumors, tumors
+with MSI, or tumors without KRAS mutation, respectively.Conclusions: This
+study investigated a large set of prediagnostic circulating metabolites
+and single nucleotide polymorphisms related to one-carbon metabolism
+using multivariate statistical learning. We found that some components
+showed signs of subtype specific relations, of which the association for
+folate was clearest. Our results suggest that the role of one-carbon
+metabolism in colorectal carcinogenesis may differ between specific
+molecular pathways.
+

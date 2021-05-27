@@ -1,0 +1,46 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Single cell mRNA quantification from 1000s of cells in healthy and
+malignant tumor samples using a high-throughput droplet-based system
+
+
+Advances in single cell RNA quantification techniques have enabled
+comprehensive study of subpopulations of cells within a heterogeneous
+population. The application of single cell quantification techniques to
+oncology is helping to elucidate the complex variability in genetic and
+epigenetic interactions that occur within tumor cells and their
+microenvironment. However, current single cell RNA-sequencing methods are
+limited by their reliance on costly infrastructure and laborious
+experimental protocols. We developed the GemCode Platform, which combines
+microfluidics with molecular barcoding and custom bioinformatics software
+to enable 3 mRNA counting from thousands of single cells. Here we
+utilized the GemCode Platform to profile primary cells from healthy
+donors and cancer patients.Cell lines and cancer samples were obtained
+from commercial sources. Single cells, reagents and a single gel bead
+containing barcoded oligonucleotides were encapsulated into
+picoliter-sized droplets using the 10X Genomics GemCode Platform. The
+platform achieved extremely high cell loading efficiency (> 50%),
+enabling the creation of libraries from precious samples. Lysis and
+barcoded reverse transcription of RNAs from single cells were performed
+inside each droplet. High quality next generation sequencing libraries
+were finished in a single bulk reaction. The GemCode software suite was
+utilized for processing, interactive analysis and visualization of single
+cell gene expression data.We demonstrated single cell behavior through
+mouse- and human cell mixing experiments with a low doublet rate of
+40,000 peripheral blood mononuclear cells from healthy donors and
+detected all major subpopulations (i.e., B cells, CD4+ T cells, CD8+ T
+cells, NK cells, dendritic cells, monocytes) in similar proportions to
+those previously reported in the literature. Notably, the high-throughput
+nature of the platform enabled resolution of finer sub-structures such as
+CD4+ effector memory cells and CD4+ central memory cells. Experiments
+comparing cells isolated from patients with hematologic malignancies
+(such as CLL, AML and CML) with whole bone marrow from healthy donors
+further demonstrate the power of single cell profiling for characterizing
+disease-associated changes in complex tissues.We demonstrate the ability
+to perform high-throughput gene expression profiling of mRNAs in single
+cells. The high-throughput platform enables detection of rare cells in a
+heterogeneous tumor population. Moreover, efficient cell loading enables
+analysis of clinically relevant sample types with limited cell input. An
+integrated single cell mRNA analysis will lead to novel insights into the
+molecular characteristics of individual cancer cells and provide targets
+for therapeutic intervention.
+

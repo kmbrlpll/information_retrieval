@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Creating and accurately interpreting clinical grade cancer exomes:
+Challenges and solutions
+
+
+Exome and genome sequencing are increasingly utilized to diagnose and
+direct treatment for cancer patients. However, there are many barriers to
+sequencing cancer exomes in an accurate and comprehensive way that
+assesses all crucial cancer mutations. Critical sequencing coverage gaps
+in cancer genes, challenges calling structural variants, difficulty
+isolating DNA from FFPE and small biopsy samples, tumor heterogeneity and
+cellularity, and accurate annotation of mutations remain significant
+hurdles to accurate clinical cancer interpretation. We have developed a
+comprehensive approach aimed at improving accuracy and completeness of
+sequencing, structural variant calling, and annotation of cancer
+samples.Whole exome sequencing in particular is susceptible to missing
+key parts of the cancer genome. We have designed a unique targeted assay
+and set of protocols to augment and improve the standard exome sequencing
+assay in order to assess all major cancer genome mutations, including
+important structural variations. We have optimized DNA isolation and
+library creation from FFPE tumor samples and small sample sizes. To
+improve sequencing coverage of 494 cancer related genes and over 7,000
+other genes of medical importance, we include additional optimized
+targeted enrichments on top of the standard exome. We also utilize
+altered sequencing protocols to fill in regions containing genomic
+elements that are typically hard to sequence by standard protocols. We
+compared coverage over 494 cancer genes with our augmented exome approach
+to two different standard exome capture kits, all at 12G of sequencing.
+In this comparison, we defined finishing a gene to mean greater than 99%
+of bases within the gene at greater than 20x average coverage. Our
+augmented exome approach finished 459 of 494 (93%) cancer genes. The
+standard exome platforms only finished 276 (56%) and 318 (64%) cancer
+genes at this level.While finishing cancer genes is paramount to
+detecting small mutations, structural variants (SVs) are also a very
+important class of mutations when assessing clinical cancer samples. In
+addition to our augmented exome, we also perform whole genome sequencing
+to facilitate detection of structural variants. We utilize a combined
+algorithm for structural variant calling which leverages multiple lines
+of genomic evidence to identify and score SVs. By combining orthogonal SV
+detection algorithms with local reassembly, we achieve greater
+sensitivity (96.27% compared to 55.6% average for each algorithm
+independently), and a lower false discovery rate (1.37% compared to
+27.55% average) on SV detection in genome sequence than any of the
+methods used independently.By comprehensively and accurately assessing
+cancer mutations and leveraging public and privately curated databases
+for annotation, we are able to sequence and interpret clinical grade
+cancer exomes to a much higher level than standard exome sequencing.
+

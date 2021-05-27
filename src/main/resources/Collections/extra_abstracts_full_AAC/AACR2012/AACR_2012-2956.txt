@@ -1,0 +1,46 @@
+Meeting: 2012 AACR Annual Meeting
+Title: High throughput RNAi screening of synthetic lethal genes
+interacting with the common TP53 mutation R175H
+
+
+The R175H mutation of p53 which account for approximately 6% of the
+missense mutations of identified in human cancer is one of the most
+common mutations, and cancer cells with this mutation stably express the
+R175H protein in the nucleus. Targeting R175H overexpressing cells by
+synthetic lethality is one of the extremely effective strategies for
+cancer therapy. To identify the synthetic lethal gene interacting with
+R175H, we conducted high throughput screening using a
+tetracycline-inducible R175H expression system in SF126 cells and
+comprehensive shRNA library carried by lentivirus. We identified 906
+candidate gene suppressions that may lead to accelerated cell growth
+inhibition in the presence of R175H (pThe R175H mutation of p53 which
+account for approximately 6% of the missense mutations of identified in
+human cancer is one of the most common mutations, and cancer cells with
+this mutation stably express the R175H protein in the nucleus. Targeting
+R175H overexpressing cells by synthetic lethality is one of the extremely
+effective strategies for cancer therapy. To identify the synthetic lethal
+gene interacting with R175H, we conducted high throughput screening using
+a tetracycline-inducible R175H expression system in SF126 cells and
+comprehensive shRNA library carried by lentivirus. We identified 906
+candidate gene suppressions that may lead to accelerated cell growth
+inhibition in the presence of R175H (p<0.05, n=3). Among these, we
+selected 50 genes (21 genes from the group with the smallest p-values, 20
+genes from the group with the largest fold change, and 9 genes reproduced
+by different siRNA sequences) for further validation testing. By
+transfection of siRNA of these candidate genes into five R175H expressing
+cell lines and four TP53-null cell lines, we selected five candidate
+genes that significantly lead R175H expressing cells to strong cell
+growth inhibition. Inhibitor of differentiation 1 (ID1) was one of the
+five candidate genes, and its suppression by siRNA resulted in the
+acceleration of growth inhibition in cell lines expressing endogenous
+R175H; however, this was not observed in TP53-null cell lines. The
+transient expression of R175H in TP53-null cell lines (PC3) and
+suppression of ID1 and/or TP53 R175H in cell lines with endogenous R175H
+revealed that cell growth inhibition by ID1 suppression depended on the
+expression of R175H, and not that of other common p53 mutants (e.g.,
+R273H). Flow cytometric analysis exhibited that ID1 suppression resulted
+in G1 arrest, and the arrest was accelerated by the expression of R175H.
+In conclusion, ID1 is a synthetic lethal gene that interacts with R175H
+and is considered to be a novel molecular target for cancer therapy in
+R175H expressing cells.
+

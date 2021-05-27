@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Exploiting replicative vulnerabilities to counter incomplete
+responses to PI3K/Akt/mTOR inhibition.
+
+
+While a broad range of cancers harbor mutations that dysregulate
+PI3K-Akt-mTOR signaling, most small molecule drugs targeting this pathway
+have failed to demonstrate efficacy for the treatment of solid tumors. In
+this study, we investigated the mechanisms that account for drug efficacy
+and failure in PI3K-pathway dysregulated triple negative breast cancer
+(TNBC) cell lines using a diverse collection of 25 PI3K-Akt-mTOR
+inhibitors. Drug response phenotypes and changes in signaling were
+quantified using time-lapse imaging and quantitative single cell
+immunofluorescence microscopy, respectively. We identified GSK2126458 and
+Torin2 as having superior potency and efficacy in PI3K-pathway
+dysregulated TNBC. Unlike other PI3K pathway inhibitors, whose
+ineffectiveness arises from insufficient induction of apoptosis and
+variable inhibition of cell cycle progression at G1/S, GSK2126458 and
+Torin2 each rapidly induce caspase 3/7 activity and durably inhibit the
+proliferation of surviving cells. While the effectiveness of GSK2126458
+in vitro appears to arise from near-complete suppression of PI3K-Akt-mTOR
+signaling, this approach has already proved unachievable in clinical
+trials. An alternative therapeutic strategy was identified by
+characterizing the mechanism of action of Torin2, a tool compound that
+inhibits both mTOR kinase and the DNA damage response kinases ATR, ATM,
+and DNA-PK. Unlike all other PI3K-Akt-mTOR inhibitors studied, Torin2
+counters incomplete drug block at G1/S by concomitant induction of
+intolerable replication stress in S phase cells. The unique cell cycle
+pharmacology of Torin2 is recreated by combining inhibitors of mTOR and
+ATR/Chk1 kinases presently undergoing evaluation in clinical trials. In
+the context of combination therapy, where cytotoxicity arises from
+targeting S phase vulnerabilities rather than from PI3K-Akt-mTOR
+inhibition in G1, submaximal doses of mTOR kinase inhibitors are
+sufficient and confer benefit by preventing the outgrowth of cells that
+survive fractional killing from ATR/Chk1 inhibition. These findings
+suggest a novel strategy for mitigating the failure of precision
+monotherapy and have implications for the treatment of tumors where
+genetic lesions in the PI3K pathway co-occur with replicative
+vulnerabilities.
+
+

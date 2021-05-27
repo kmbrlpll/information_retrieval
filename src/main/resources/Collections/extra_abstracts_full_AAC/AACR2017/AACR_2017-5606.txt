@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Fibrinogen-like protein 2 drives malignant tumor progression in
+glioma.
+
+
+Gliomas are the most common type of brain tumor in both children and
+adults. Several low-grade gliomas (LGG) have the ability to progress into
+more aggressive tumors -high-grade gliomas (HGG) including glioblastoma
+(GB). Although patients harboring a LGG may survive for years, after the
+tumor transforms to HGG, life expectancy rapidly declines to 12 to 15
+months in adults and 40 months in children. Thus, inhibiting this process
+of malignant transformation (MT) is an attractive therapeutic strategy
+because of the more indolent course associated with LGGs. Immune response
+plays a critical role in surveillance against malignant transformation.
+Our previous study shows that fibrinogen-like protein 2 (FGL2) is a key
+hub of tumor-mediated immune suppression. Hence, we investigated the role
+of FGL2 in promoting tumor progression from LGG to HGG in glioma.
+Analysis of TCGA expression data showed that increased FGL2 expression is
+associated with poorer survival in LGG and GB patients. And there is a
+positive correlation of expression level between FGL2 and mesenchymal
+glioma marker CD44, and a negative correlation between FGL2 and proneural
+glioma marker OLIG2. Engineered expression of FGL2 in a PDGFB-dependent
+mouse model of oligodendroglioma, a common glioma subtype, yielded a
+significantly higher rate of HGGs (72% vs 29%, p=0.034) and
+poorer-symptom free survival (63 vs 90 days, p=0.003) than PDGFB
+expression alone. And HGGs from FGL2 + PDGFB expressing mice
+exhibited a distinct mesenchymal phenotype validating TCGA data. Further,
+FGL2 induced high numbers of CD4+FoxP3+ cells from an early time point of
+tumor formation underscoring its role in tumor progression. And FGL2
+overexpression educated M2 skew in the tumors characterized by high
+expression of Iba1 and Arginase1 in macrophages. Finally, treatment with
+anti-FGL2 antibody significantly improves survival in mice, shifts the
+phenotype from mesenchymal HGG to proneural LGG, and rescues M2
+macrophage skewing. Our results show that FGL2 is critical for malignant
+progression of glioma by inducing immunosuppression in tumor
+microenvironment, and raise the potential of FGL2 to be a promising
+target to suppress/reverse glioma progression and provide survival
+benefit in clinical.
+
+

@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Neoantigen frequency as an independent prognostic factor in
+patients with clear cell ovarian carcinoma (CCOC).
+
+
+Aim: Neoantigens derived from tumor-specific somatic mutations are
+thought to be targets for antitumor immune responses. It has been
+reported that mutation/neoantigen burdens correlate with prognosis of
+certain cancers under checkpoint blockade immunotherapy. In clear cell
+ovarian carcinoma (CCOC), checkpoint inhibitors provided durable
+responses in a subset of patients. To test whether the same may apply in
+CCOC patients, who are not on immunomodulatory therapy, we investigated
+the number of mutations or neoantigens, and immune signature of CCOC by
+integrated molecular analysis.
+
+Methods: We performed exome sequencing and expression array for 74 CCOC
+patients. Candidate neoantigens derived from mutations were identified by
+MHC class I binding prediction algorism (NetMHCpan v 2.8). Immune
+signature was assessed by gene ontology and gene set enrichment analyses
+for immune cell lineage or molecule genes. We also analyzed their
+relationships with clinical outcomes.
+
+Results: Neither number of missense mutations nor neoantigens correlated
+with clinical outcomes in CCOC. However, we found neoantigen frequency
+defined here as the number of neoantigens per missense mutation
+correlated with clinical outcomes. A cox multivariate regression analysis
+demonstrated that high neoantigen frequency correlated with decreased
+progression free survival (PFS) and was an independent prognostic factor
+(p=0.032). Immune-related genes including those related to effector
+memory CD8 T cell were dominantly expressed in tumors with low neoantigen
+frequency. This may suggest that CD8 T cell-mediated immunity is
+constantly eliminating immunogenic subclones expressing neoantigens
+(immunoediting). In contrast, we observed increased ratio of CTLA-4 and
+PD-1 to CD8A expression in tumors with high neoantigen frequency. This
+may imply that restricted antitumor immunity by immunoinhibitory
+mechanism result in the limited immunoediting and poor prognosis
+
+Conclusions: Neoantigen frequency underlying immunoediting in CCOC is an
+independent prognostic factor for clinical outcome and may become a
+potential candidate biomarker for an immunomodulatory-based treatment.
+
+

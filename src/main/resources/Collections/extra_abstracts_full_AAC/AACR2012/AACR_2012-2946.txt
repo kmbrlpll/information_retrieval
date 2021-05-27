@@ -1,0 +1,38 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Post-transcriptional regulators of microRNA biogenesis regulate
+pathogenesis of cancer
+
+
+MicroRNAs (miRs) have emerged as key regulators of both normal and
+pathologic phenotypes, including cancer. Fine grained regulation of their
+biogenesis, however, is still poorly understood and only a few of their
+key regulators have been characterized. In order to understand the extent
+and specificity of miR-biogenesis control, as well as the role of
+miR-biogenesis regulators in tumorigenesis and cancer progression, we set
+out to identify these regulators and profile their targets. We developed
+a genome-wide computational screening method that leverages miR and gene
+expression profiles in hundreds of samples to identify potential
+biogenesis regulators in glioma and ovarian cancer. In total, miRage
+predicted thirty miR-biogenesis regulators that are common to glioma and
+ovarian cancer tumors, and hundreds of glioma-specific and
+ovarian-cancer-specific regulators. Predicted regulators include known
+biogenesis regulators DGCR8, HNRNPA1, DDX5, LIN28 and SMAD family
+proteins. We validated selected regulators that are predicted to regulate
+miRs in both cancers and are differentially expressed across glioma
+prognosis. Differential expression of (1) mature miRs, (2) their host
+genes, (3) co-transcribed miRs, (4) miR precursors, and (5) pri-miRs were
+measured upon ectopic expression or RNAi-mediated silencing of the
+predicted regulators in a glioma cell line. DDX10 was predicted to
+up-regulate miR-218 biogenesis, and we showed that its ectopic expression
+up-regulates miR-218 at the pri-miRNA stage; up-regulation of DDX10 may
+account for miR-218 over-expression in poor-prognosis tumors.
+High-throughput screening by nanostring nCounter and fluidigm systems
+suggest that DDX10 regulation is broader effect than regulation by the
+known biogenesis regulator, DDX17. In total, we report on nearly a dozen
+validated miR-biogenesis regulators that were predicted by our
+computational screens. Our results suggest that miR biogenesis is a
+complex, context specific, and finely-regulated process, and that miR
+biogenesis regulators may influence tumor initiation and progression by
+altering the expression of specific tumor-suppressor and oncomirs or by
+modifying large miR programs.
+

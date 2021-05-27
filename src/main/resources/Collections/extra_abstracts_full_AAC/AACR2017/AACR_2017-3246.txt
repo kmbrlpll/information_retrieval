@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Development of small-molecule STAT3 transcription factor
+inhibitors.
+
+
+Oncogenic transcription factors are an increasingly important target for
+anticancer therapies, as their inhibition could allow the
+“reprogramming” of tumour cells, leading to apoptosis or
+differentiation from the malignant phenotype. STAT3 induces the
+transcription of genes that control differentiation, inflammation,
+proliferation, and tumour cell invasion, and its over-expression has been
+implicated in many tumour types. Although cancer cells are often
+dependent upon activation of STAT3, non-tumour cells are fairly tolerant
+of loss of its function, most likely reflecting redundancies in normal
+signal transduction. Thus, STAT3 inhibitors have a high therapeutic
+potential. A combination of in silico design and pharmacophore-based
+approaches have been used to design a novel series of inhibitors capable
+of disrupting STAT3 dimerisation by interacting with the hexapeptide
+pocket of the SH2 domain of the STAT3 protein. Members of the initial
+medicinal chemistry optimised mature ligand library had significant
+STAT3-dimerization inhibition activity with potencies ranging from 33% to
+59% inhibition. They also had sub-micromolar to low micromolar
+cytotoxicity (IC50 0.6 µM to 2.6 µM) in the STAT3-dependent cell line
+MDA MB 231, with good selectivity ratios compared to STAT3-null cell
+lines. Three of the most potent library members were selected for
+molecular dynamics simulation studies of their interaction with the STAT3
+protein, and for their ability to down-regulate STAT3-dependent genes in
+cell lines using RT-PCR. In the molecular dynamics studies it was shown
+that the compounds interact with eight key amino acid residues (i.e.,
+Ala703, Pro704, Arg1317, Asn1442, Gln1355, Gln1357, Thr1354 and Thr1443)
+within the SH2 domain, and in the RT-PCR experiments they were found to
+down-regulate the STAT3-dependent genes survivin, cyclin D1, fascin and
+BCL-2 in comparison to the housekeeping gene GAPDH in the STAT3-dependent
+cell line MDA MB 231. The most active compound was also evaluated in a
+preliminary human tumour xenograft assay in immune-compromised mice
+bearing MDA MB 231 tumours, and was found to have significant tumour
+growth inhibition properties (at 0.5 mg/kg, two doses on day 1 and day
+3). Although further work is required to confirm the proposed mechanism
+of action, it may be possible to further develop this novel series of
+molecules toward clinical evaluation in man.
+
+

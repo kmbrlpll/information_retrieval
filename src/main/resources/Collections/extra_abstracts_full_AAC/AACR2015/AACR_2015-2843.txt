@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Resistance to ERK inhibitors as a result of an acquired novel
+P-loop mutation of ERK2
+
+
+Genomic aberrations frequently target and activate the MAPK and PI3K
+pathways in human cancers and combined inhibition of these pathways is
+being explored widely in the clinic. In a panel of 45 human colorectal
+cancer cell lines we found the presence of a KRAS mutation resulted in
+reduced sensitivity to PI3K and MEK inhibitors when used as single
+treatments. In addition, prolonged exposure to the individual PI3K
+(GDC-0941) or MEK (GDC-0973) inhibitors resulted in resistance that was
+associated with acquisition of mutations of the respective pathway being
+targeted. Resistance to individual targeted agents is challenge in clinic
+and can be overcome by combining treatments and in our colorectal cancer
+panel combined MEK/PI3K inhibition exhibited potent synergy in the KRAS
+mutant lines. However, as with the single treatments prolonged exposure
+to the combination regime also resulted in resistance through acquisition
+of a mutation of the allosteric drug-binding site of MEK2 that abrogates
+binding of the inhibitor. The clinical development of small-molecule ERK
+inhibitors is of considerable interest as ERK signaling represents a key
+downstream effector of RAS mutations and ERK inhibitors may retain
+activity in cells resistant to RAF and MEK inhibitors. Consistent with
+the latter, the combination resistant line retained sensitivity to an ERK
+inhibitor (VTX-11e) that also rescued the synergistic interaction when
+combined with PI3K inhibition. However, prolonged exposure of this
+MEK/PI3K resistant line to the combination of VTX-11e/GDC0941 resulted in
+the acquisition of additional resistance to the ERK inhibitor component
+of the combination. Resistance to VTX-11e was a result of an ERK2
+mutation, novel to protein kinases, in a conserved residue of the kinase
+domain P-loop. Recombinant wild-type and P-loop mutant ERK2 had similar
+Vmax and ATP Km values, but exhibited a 20-fold increase in IC50 for
+VTX-11e. Stable expression of the P-loop mutant ERK2 in parent cells
+resulted in resistance to VTX-11e. Development of an additional VTX-11e
+resistant line, in this case by prolonged exposure to a single treatment
+resulted in the acquisition of the same ERK2 mutation. The repeated
+development of resistance to the MEK/ERK inhibitor arm of the combination
+is intriguing as the parent cells were not particularly sensitive to
+treatment with MEK or ERK inhibitors alone, with a GI50 30-fold higher
+than BRAF mutant cell lines that are sensitive to these inhibitors. Our
+data show that dual combination of agents, at least for MEK and PI3K
+pathway inhibition, is insufficient to block the acquisition of
+resistance, an observation similar to that of clinical trials of BRAF and
+MEK inhibitors in melanoma. Finally we recommend sequencing of P-loop of
+the ERKs in clinical studies of ERK inhibitors to determine whether these
+mutations will occur in the clinic.
+

@@ -1,0 +1,99 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Gene expression profiling (GEP) reveals Epithelial Mesenchymal
+Transition (EMT) genes selectively differentiating eribulin sensitive
+breast cancer cell lines.
+
+
+Objectives: Eribulin mesylate (ERI) is a simplified synthetic macrocyclic
+ketone analog of the marine sponge natural product halichondrin B and an
+inhibitor of microtubule dynamics. In this study, we investigated whether
+selective signal pathways were associated with ERI activity compared to
+paclitaxel (PTX), which stabilize microtubules, based on GEP using 3
+cancer cell line panels in vitro.Methods: In vitro anti-proliferation
+activity (IC50) was determined in 27 breast, 19 endometrial and 21
+ovarian cancer cell lines treated with ERI and PTX. We performed GEP for
+the same cancer panels treated for 24 hours at conc. of 10 x IC50 using
+Affimetrix Human Genome U133 Plus 2.0 arrays. We applied paired t-test
+(p1.5) to identify genes significantly altered between treatments.
+Pathway enrichment was performed using Metacore and Ingenuity Pathway
+Analysis software. Cell lines were clustered by hierarchical clustering
+based on Pearson correlation.Results: We determined the sets of genes
+differentially altered between ERI and PTX treatments in 3 cancer panels.
+Regardless of cancer panels, several tubulins (TUBA1B, TUBA1C, TUBA3D,
+TUBA4A, TUBB2C, TUBBG1, TUBB3, TUBB2A, TUBB2C, TUBB and TUBB6) had
+significantly lower expression in cell lines treated with ERI, compared
+to PTX. Our analysis revealed that expression profiles of the gene sets
+correlated with drug sensitivity in cancer panels (p=0.004 for ERI in
+breast cancer, p=0.06 for PTX in endometrial cancer, p=0.05 for ERI in
+ovarian cancer). Pathway enrichment analysis of the gene revealed that
+the common pathways altered between 2 treatments in 3 cancer panels were
+related to cytoskeleton remodeling (p1.5) to identify genes significantly
+altered between treatments. Pathway enrichment was performed using
+Metacore and Ingenuity Pathway Analysis software. Cell lines were
+clustered by hierarchical clustering based on Pearson
+correlation.Results: We determined the sets of genes differentially
+altered between ERI and PTX treatments in 3 cancer panels. Regardless of
+cancer panels, several tubulins (TUBA1B, TUBA1C, TUBA3D, TUBA4A, TUBB2C,
+TUBBG1, TUBB3, TUBB2A, TUBB2C, TUBB and TUBB6) had significantly lower
+expression in cell lines treated with ERI, compared to PTX. Our analysis
+revealed that expression profiles of the gene sets correlated with drug
+sensitivity in cancer panels (p=0.004 for ERI in breast cancer, p=0.06
+for PTX in endometrial cancer, p=0.05 for ERI in ovarian cancer). Pathway
+enrichment analysis of the gene revealed that the common pathways altered
+between 2 treatments in 3 cancer panels were related to cytoskeleton
+remodeling (p<0.002) and role of NEK in cell cycle regulation (p1.5) to
+identify genes significantly altered between treatments. Pathway
+enrichment was performed using Metacore and Ingenuity Pathway Analysis
+software. Cell lines were clustered by hierarchical clustering based on
+Pearson correlation.Results: We determined the sets of genes
+differentially altered between ERI and PTX treatments in 3 cancer panels.
+Regardless of cancer panels, several tubulins (TUBA1B, TUBA1C, TUBA3D,
+TUBA4A, TUBB2C, TUBBG1, TUBB3, TUBB2A, TUBB2C, TUBB and TUBB6) had
+significantly lower expression in cell lines treated with ERI, compared
+to PTX. Our analysis revealed that expression profiles of the gene sets
+correlated with drug sensitivity in cancer panels (p=0.004 for ERI in
+breast cancer, p=0.06 for PTX in endometrial cancer, p=0.05 for ERI in
+ovarian cancer). Pathway enrichment analysis of the gene revealed that
+the common pathways altered between 2 treatments in 3 cancer panels were
+related to cytoskeleton remodeling (p<0.002) and role of NEK in cell
+cycle regulation (p<0.0005). We also identified pathways specific to
+cancer types. EMT was enriched in genes with significantly altered
+expression between the two drugs for breast (p=3.4e-07) and endometrial
+cancer (p=0.001), but not for ovarian cancer. Expression of genes from
+EMT pathway correlated with breast cancer ERI sensitivity (p=0.1) and
+endometrial cancer PTX sensitivity (p=0.07). In breast cancer most genes
+from the EMT signature were up-regulated in ERI resistant cluster,
+allowing us differentiate cell line sensitivity based on expression. In
+addition, we found selective signaling pathways were associated to drug
+sensitivity in breast cancer panels among clustered 394 pathways based on
+GEP (13 and 4 pathways for ERI and PTX respectively, p1.5) to identify
+genes significantly altered between treatments. Pathway enrichment was
+performed using Metacore and Ingenuity Pathway Analysis software. Cell
+lines were clustered by hierarchical clustering based on Pearson
+correlation.Results: We determined the sets of genes differentially
+altered between ERI and PTX treatments in 3 cancer panels. Regardless of
+cancer panels, several tubulins (TUBA1B, TUBA1C, TUBA3D, TUBA4A, TUBB2C,
+TUBBG1, TUBB3, TUBB2A, TUBB2C, TUBB and TUBB6) had significantly lower
+expression in cell lines treated with ERI, compared to PTX. Our analysis
+revealed that expression profiles of the gene sets correlated with drug
+sensitivity in cancer panels (p=0.004 for ERI in breast cancer, p=0.06
+for PTX in endometrial cancer, p=0.05 for ERI in ovarian cancer). Pathway
+enrichment analysis of the gene revealed that the common pathways altered
+between 2 treatments in 3 cancer panels were related to cytoskeleton
+remodeling (p<0.002) and role of NEK in cell cycle regulation (p<0.0005).
+We also identified pathways specific to cancer types. EMT was enriched in
+genes with significantly altered expression between the two drugs for
+breast (p=3.4e-07) and endometrial cancer (p=0.001), but not for ovarian
+cancer. Expression of genes from EMT pathway correlated with breast
+cancer ERI sensitivity (p=0.1) and endometrial cancer PTX sensitivity
+(p=0.07). In breast cancer most genes from the EMT signature were
+up-regulated in ERI resistant cluster, allowing us differentiate cell
+line sensitivity based on expression. In addition, we found selective
+signaling pathways were associated to drug sensitivity in breast cancer
+panels among clustered 394 pathways based on GEP (13 and 4 pathways for
+ERI and PTX respectively, p<0.01).Conclusion: GEP analysis showed that
+gene sets altered with ERI and PTX were correlated to drug sensitivity in
+vitro anti-proliferative activity among 3 cancer panels. Breast cancer is
+the best target to differentiate ERI sensitivity based on GEP compared to
+PTX and EMT genes are selectively related to ERI sensitivity.
+

@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Therapeutic relevance of the Rad6/translesion synthesis pathway in
+BRCA1-related triple-negative breast cancer cells
+
+
+Triple negative breast cancers (TNBCs) comprise 15-20% of all breast
+cancers (BrCas), and their treatment is challenging because they are not
+treatable with ER, PgR or Her2/neu-targeted therapies. Since TNBCs and
+BRCA-mutated BrCas share many histopathologic features including aberrant
+DNA repair pathways, the concept of targeting DNA repair defects with
+agents such as platinum (Pt) compounds is applied for treatment of TNBC
+patients. Pt drugs induce DNA replication stalling interstrand DNA
+crosslinks (ICLs), the repair of which require concerted activities of
+nucleotide excision repair, Fanconi anemia (FA)/BRCA homologous
+recombination repair (HRR) and translesion synthesis (TLS) pathways. The
+therapeutic efficacies of these drugs are often limited by the cancer
+cell's enhanced ability to repair/tolerate these toxic DNA lesions. The
+TLS pathway a.k.a DNA damage tolerance pathway is critical for cell
+survival in the face of DNA damage. TLS is a crucial initial step in ICL
+repair as it synthesizes DNA across the lesion thus preparing the damaged
+DNA template for repair by the FA network and HR pathway, processes
+critical for ICL repair. The Rad6 gene is a principal component of the
+TLS pathway and previous work in our lab has shown its important role in
+BrCa development/progression and acquisition of cisplatin (CDDP)
+resistance. To understand the involvements of Rad6/TLS and FA/BRCA in
+CDDP-induced DNA damage repair, we evaluated CDDP sensitivities,
+CDDP-induced DNA damage responses and stalled replication restarts in
+wt-BRCA1 (MDA-MB-231, MDA-MB-468) and mut-BRCA1 (HCC1937, SUM1315) TNBCs.
+Data from MTT assays showed no correlation between CDDP sensitivity and
+BRCA1 status; however, pretreatment with our recently developed Rad6
+small molecule inhibitor (SMI) enhanced CDDP sensitivity of all TNBC cell
+lines regardless of their BRCA1 status. Consistent with these data,
+immunoblot analysis showed that treatment with the Rad6 SMI attenuated
+the CDDP-induced PCNA ubiquitinations (a hall mark of Rad6/TLS activity),
+as well as the steady-state levels of FancD2 (a surrogate marker of FA
+pathway activation), pol eta (TLS polymerase), and Rad51 (critical for
+HRR) in both wt-BRCA1 and mut-BRCA1 TNBC cells. IdU/CldU labeling assays
+showed that Rad6 inhibition mitigated the restart of CDDP-induced stalled
+replication forks. Whereas Rad6 is expressed weakly in normal breast
+tissues and overexpressed in BrCas, immunohistochemical analysis showed
+strong nuclear staining for Rad6 in the normal ducts of mut-BRCA1
+clinical breast tissues implicating an important role for Rad6 in
+mut-BRCA1 BrCas. Our data suggest an important role for the Rad6/TLS
+pathway in processing Pt-induced ICLs in both wt-BRCA1 and mut-BRCA1
+TNBCs and the potential therapeutic value of inhibiting this pathway in
+TNBCs. Supported by NIH CA178117-01.Note: This abstract was not presented
+at the meeting.
+

@@ -1,0 +1,49 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Differential response of epithelial cells from colorectal adenomas
+and adjacent nonneoplastic colonic mucosa to aspirin and atorvastatin in
+Apc+/Min-FCCC mice.
+
+
+Although various agents have been identified that are efficacious in
+inhibiting colorectal adenomas in humans, the precise mechanisms
+responsible for their antitumor activity remain ill-defined. Significant
+insight into the use of agents for the prevention and treatment of
+colorectal cancer can be gained by examining the biological response of
+nonneoplastic colonic mucosa and colorectal adenomas to drug exposure.
+The present study compared the gene expression profile of neoplastic and
+nonneoplastic colonic epithelial cells following short-term
+administration of aspirin and atorvastatin to a strain of mice that
+uniquely develop multiple colorectal adenomas (Apc+/Min-FCCC).
+Tumor-bearing male Apc+/Min-FCCC mice (70 days of age) received either
+control Teklad 2018SX diet or diet supplemented with aspirin (300 ppm) or
+atorvastatin (100 ppm) for 7 days. At euthanasia, the colon was examined
+for gross lesions and matched pairs of colorectal adenomas and adjacent
+normal mucosa were frozen in OCT for gene expression analyses. Colonic
+epithelial cells were laser microdissected from pairs of
+pathologically-confirmed colorectal adenomas and nonneoplastic mucosa
+(4/treatment group). Amplified RNA was subjected to gene expression
+profiling using Agilent Mouse Whole Genome 4 X 44K microarrays. Genes
+differentially expressed in colon tissue from untreated vs. drug-treated
+mice were identified using LIMMA methodology and filtered (p = 0.01). The
+number of unique genes differentially expressed in neoplastic epithelial
+cells exposed to aspirin was 1052, while a much smaller set of genes
+(N=74) was altered in the nonneoplastic epithelium. Functional enrichment
+analyses revealed that the pathways modulated in nonneoplastic cells
+(i.e. protein folding, posttranscriptional regulation, DNA damage
+response, vascular permeability) were distinct from those altered in
+adenomas (i.e. cell adhesion, DNA repair, TOR signaling, apoptosis,
+glucose transport). In contrast, fewer genes were differentially
+expressed in neoplastic cells (N = 286) than in the adjacent
+nonneoplastic colonic mucosa (N = 749) following exposure to
+atorvastatin. The majority of the cellular processes modified in
+nonneoplastic cells by atorvastatin (i.e. DNA damage, cell death, immune
+function, cilium assembly) differed from those affected in neoplastic
+cells (i.e. lipid metabolism, apoptosis, cell cycle control, DNA repair).
+These data suggest that the mechanisms responsible for the protection
+conferred to nonneoplastic cells by aspirin or atorvastatin vary from
+those that lead to inhibition of tumor growth. Further mining of these
+expression data when combined with endoscopic monitoring of individual
+lesions during drug exposure should significantly enhance our
+understanding of the cellular processes responsible for their activity.
+(Supported by NIH N01 CN43309)
+

@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Short (S) isoform of cancer-stem-cell marker, DCLK1, is critically
+required to maintain proliferative/tumorigenic potential of colon cancer
+cells: identification of associated molecular pathways
+
+
+DCLK1 (doublecortin-like-kinase-1) was recently identified as a specific
+marker for intestinal cancer-stem-cells (CSC) (Sureban et al, 2013;
+Nakanishi et al, 2013). Importantly, DCLK1 expression is significantly
+increased during colon-carcinogenesis (Gagliardi et al, 2012). We
+recently reported that 2 isoforms of DCLK1 (DCLK1-L/DCLK1-S) are
+transcribed by two different promoters (5 and intron V), and that the L
+isoform (80KDa) is silenced by DNA methylation in human
+colon-adenocarcinomas, while the S-isoform (47KDa) is up-regulated by
+many fold in tumors; normal colonic cells mainly express the L-isoform
+(80KDa). Loss of DCLK1 expression in cancer cells/polyps was reported to
+result in loss of proliferation/polyp formation (Sureban et al 2011;
+Nakanishi et al, 2013). RNAi methods used so far, target both isoforms of
+DCLK1. In the current studies we used shRNA to specifically target
+S-isoform, in order to delineate biological role of cancer-specific
+S-isoform. Isogenic clones of colon cancer cells, expressing control
+shRNA (C-clones) or DCLK1-shRNA (KO clones), were generated. Western Blot
+analysis and RT-PCR analysis confirmed 80-90% knockdown compared to
+C-clones. Proliferation and Colonogenic/tumorigenic potential of KO
+clones was completely attenuated compared to C-clones, in vitro and in
+vivo. Our results confirmed that DCLK1-S is required for maintaining
+proliferative/tumorigenic potential of colon CSCs. Surprisingly, KO
+clones did not form spheroids in non-adherent cultures, while the
+C-clones formed spheroids within 4-6 days of seeding, suggesting DCLK1
+may maintain stemness of colon cancer cells. To evaluate molecular
+pathways mediating effects of DCLK1-S, isogenic C and KO clones were
+subjected to next generation sequencing (RNAseq). 12 genes were
+up-regulated and 14 genes were down-regulated in KO vs C clones by
+>3fold; several others were changed by >1fold. Key genes involved in
+mitosis, EMT, cell adhesion, caspase-independent apoptosis, metabolism,
+and toll-like receptor signaling, were significantly down/up-regulated
+confirming that the S-isoform plays a critical role in CSC biology, by
+either directly or indirectly regulating several molecular pathways which
+likely support CSC phenotype. Conclusion. Our results show DCLK1-S is
+critically required for maintaining invasive/tumorigenic potential of
+colon cancer cells by directly or indirectly regulating several molecular
+pathways involved in maintaining non-differentiated/tumorigenic phenotype
+of CSCs. Thus DCLK1-S may serve as a diagnostic/prognostic marker and
+provide a useful cancer-specific target for eradicating colon CSCs.This
+work was supported by NIH Grants to PS (R01CA09795909 and
+R01CA09795909-S1)
+

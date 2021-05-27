@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Abnormal VEGF-induced Ca2+ signaling in purified tumor endothelial
+cells
+
+
+Tumor growth requires angiogenesis, the development of new blood vessels
+from existing blood vessels. Cancer cells release proangiogenic growth
+factors such as vascular endothelial growth factor (VEGF) to drive
+angiogenesis. Current cancer therapy that incorporate targeting agents
+that inhibit the production of new blood vessels have been only
+marginally successful. We hypothesize that intracellular signaling
+mechanisms downstream of proangiogenic factor receptors may differ in
+tumor-derived endothelial cells compared to normal endothelial cells, and
+may account for the limited effectiveness of antiangiogenic therapies in
+vivo. VEGF activates VEGF receptor-2 (VEGFR2) leading to elevated
+cytosolic calcium (Ca2+). In endothelial cells (ECs), increased cytosolic
+Ca2+ is required for VEGF-induced EC proliferation and migration, and is
+dependent on activation of phospholipase C-gamma (PLCg). Treatment with a
+PLCg blocker prevents the VEGFR2-induced increase in cytosolic Ca2+, but
+does not alter baseline Ca2+ levels. Here, we compared VEGF-induced Ca2+
+influx in human umbilical vein endothelial cells (HUVECs) versus breast
+tumor ECs (TECs). TECs were purified from TG1-1 tumors grown in mammary
+fat pads of TIE2-GFP mice. To measure changes in cytosolic Ca2+,
+GFP-expressing TECs loaded with the Ca2+ indicator dye INDO-1 were imaged
+using two-photon laser scanning microscopy (TPLSM). For imaging, the
+cells were placed in a perfusion system that delivers reagents at a
+constant flow rate with constant aspiration for continuous fluid
+exchange. Changes in fluorescence intensity in response to VEGF were
+measured in individual GFP+ cells over time. In HUVECs, the VEGF-induced
+increase in intracellular Ca2+ is detected only after 18-hour serum
+deprivation (serum starved). In contrast, both serum starved and
+non-serum starved TECs respond to VEGF with increased intracellular Ca2+,
+but the magnitude of the response in both TEC groups is significantly
+lower than the serum-starved HUVECs. We hypothesized that changes in the
+VEGF receptor expression attenuated the response in TECs. By flow
+cytometry, VEGFR1 expression was elevated in TECs, while VEGFR2
+expression was decreased compared to HUVEC. This change in receptor
+expression may account for the attenuated VEGF response because VEGFR1
+has lower signaling capacity compared to VEGFR2. Furthermore, in
+nonstimulated, non-serum starved TECs the PLCg blocker U73122 altered
+baseline Ca2+, suggesting that constitutively active PLCg contributes to
+elevated baseline Ca2+ in TECs. These results demonstrate fundamental
+differences in VEGF signaling between HUVECs and TECs that may account
+for the limited success with antiangiogenic therapies that target VEGF or
+VEGFR2. With the powerful depth and resolution advantages of multiphoton
+microscopy, we will begin to determine if such abnormalities in
+intracellular signaling of TECs observed in vitro are also observed in
+vivo.
+

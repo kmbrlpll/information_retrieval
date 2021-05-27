@@ -1,0 +1,58 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Discovery of histone demethylase KDM5C inactivation as a novel
+mechanism for tumors resistant to VEGF RTKi via genome-wide in-vivo RNAi
+
+
+Acquired tumor resistance to vascular endothelial growth factor (VEGF)
+receptor tyrosine kinase inhibitors (RTKi) constitutes a major obstacle
+for sustained efficacy of antiangiogenic cancer therapy. We sought to
+decipher the molecular landscape of tumor resistance to continuous
+VEGF-RTKi sunitinib (SU11248, SU) treatment via serial transplantation of
+a syngeneic LLC/C57bl6 model and genome-wide mouse lentiviral shRNA
+library (150K complexity). The abundance of each single knock down (kd)
+was longitudinally traced via molecular barcodes. After three in-vivo
+panning rounds (p3-SU) tumor cells containing the kd of H3K4 histone
+demethylase (KDM5C) were 212-fold enriched compared to the in-vivo
+passaged library without the SU selection pressure (p3-ctrl).
+Interestingly, KDM5C is among the top 5 frequently mutated genes in clear
+cell renal cell carcinoma (RCC). SU constitutes a cornerstone in the
+therapy of metastatic RCC. We hypothesized that KDM5C mutation status
+might be prognostic for therapy refractoriness of RCC. Indeed, whole
+exome analysis of the cancer genome atlas (TCGA) RCC collective revealed
+a trend towards poor overall survival (OS) for patients with mutated
+KDM5C tumors. In LLC and RCC xenograft models, loss of KDM5C (shKDM5C)
+was attributed to SU resistance with significantly enhanced hypoxia
+tolerance, increased proliferation (Ki67, 13-fold, p = 0.04) and
+microvascular density (CD31, 23-fold increase, pAcquired tumor resistance
+to vascular endothelial growth factor (VEGF) receptor tyrosine kinase
+inhibitors (RTKi) constitutes a major obstacle for sustained efficacy of
+antiangiogenic cancer therapy. We sought to decipher the molecular
+landscape of tumor resistance to continuous VEGF-RTKi sunitinib (SU11248,
+SU) treatment via serial transplantation of a syngeneic LLC/C57bl6 model
+and genome-wide mouse lentiviral shRNA library (150K complexity). The
+abundance of each single knock down (kd) was longitudinally traced via
+molecular barcodes. After three in-vivo panning rounds (p3-SU) tumor
+cells containing the kd of H3K4 histone demethylase (KDM5C) were 212-fold
+enriched compared to the in-vivo passaged library without the SU
+selection pressure (p3-ctrl). Interestingly, KDM5C is among the top 5
+frequently mutated genes in clear cell renal cell carcinoma (RCC). SU
+constitutes a cornerstone in the therapy of metastatic RCC. We
+hypothesized that KDM5C mutation status might be prognostic for therapy
+refractoriness of RCC. Indeed, whole exome analysis of the cancer genome
+atlas (TCGA) RCC collective revealed a trend towards poor overall
+survival (OS) for patients with mutated KDM5C tumors. In LLC and RCC
+xenograft models, loss of KDM5C (shKDM5C) was attributed to SU resistance
+with significantly enhanced hypoxia tolerance, increased proliferation
+(Ki67, 13-fold, p = 0.04) and microvascular density (CD31, 23-fold
+increase, p<0.02) compared to SU treated shCtrl. We aimed to identify a
+consensus set of genes differentially expressed in tumors with KDM5C
+kd/mutation. Applying this KDM5C gene signature to RNAseq data of 533 RCC
+patients separated the cohort into a poor-prognosis KDM5Cmut-like (median
+OS 4.5 years) vs. good prognosis KDM5Cwt-like group (median OS not
+reached, p = 0.0001). Genes regulating cancer cell survival,
+redox-balance and angiogenesis were enriched in this signature. Together,
+these data indicate a critical role for the epigenetic modulator KDM5C in
+development of tumor resistance to VEGF-RTKi. The here-identified KDM5C
+dependent gene-signature might be instructive to prognosticate patients
+at risk for therapy refractoriness to RTKi.
+

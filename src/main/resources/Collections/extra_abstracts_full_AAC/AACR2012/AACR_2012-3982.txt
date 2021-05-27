@@ -1,0 +1,39 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Cancer genome sequencing analysis, storage, discovery and delivery
+
+
+Genome instability and structural rearrangement is a distinctive hallmark
+of the cancer genome. With next-gen sequencing technologies, our ability
+to measure structural rearrangements that occur throughout tumorigenesis
+and progression has improved significantly, while creating an urgent need
+for rearrangement discovery, analysis, and visualization methods to aid
+in our understanding of these events. We have developed a sequencing
+analysis pipeline that streamlines the discovery of an individual tumor's
+mutations, small indels, copy number alterations, allele-specific
+amplifications and deletions, and genomic rearrangements. Rearrangements
+are refined to base-pair precision using unmapped, putative split reads
+found in the vicinity of the breakpoint. Results are presented in an
+interactive, web-based genome browser that provides analysis and
+visualization of both high-level, processed results as well as the raw
+data from which they were derived. From the web-based interface, results
+from multiple samples can be aggregated into user-defined sample cohorts
+to help identify features that are shared among a significant number of
+the samples. Using this sequencing analysis pipeline, we discovered
+high-confident, small- and large-scale somatic events in 17 whole genome
+glioblastoma multiforme (GBM) tumor samples from The Cancer Genome Atlas
+(TCGA) project, using their matched normal sequences to filter out
+germline variants. Among many interesting structural aberrations
+identified in these samples, we find four samples exhibiting EGFR
+amplifications and the presence of the EGFRvIII mutant, characterized by
+the in-frame deletion of exons 2-7 to produce a constitutively active
+form of the receptor. Comparing the read support of the
+EGFRvIII-associated breakpoints to the number of normally-mapped reads in
+the neighborhood suggest that, in all cases, the EGFRvIII mutant emerges
+after the amplification of wild-type EGFR, existing as a small fraction
+of total number of EGFR copies. In other samples, evidence of high copy
+number amplicons containing both MDM2 and EGFR are discovered at
+detectable levels in the blood sequencing data, raising the possibility
+that patient-specific PCR-based assays could be developed to quantitate
+the presence of somatic rearrangements as a proxy to monitor the
+progression of brain tumors.
+

@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: An integrated genomics approach to identify novel drivers of
+oncogenic pathway activity in human cancer
+
+
+Human cancers are defined by molecular and clinical heterogeneity. The
+molecular diversity of human tumors is a significant contributing factor
+to the inefficiency of current therapeutic regimens and the high failure
+rate of developing new anti-cancer therapies. One of the major
+contributing factors to this variability is the enormous diversity and
+complexity of genome alterations. In order to understand the molecular
+complexity driving tumor development and to identify novel therapeutic
+targets to enhance treatment efficacy and overcome therapeutic
+resistance, we have developed an integrative genomics approach to
+identify novel drivers of oncogenic pathway activity and applied this
+strategy to investigate serous ovarian cancer. Since it has been
+demonstrated that mutations in many different genes can result in the
+activation of an oncogenic signaling pathway resulting in enhanced cell
+proliferation and transformation, our analysis focused on regulation of
+pathway activity rather than the mutation of a single gene. As such, we
+utilized 18 previously developed and validated gene expression signatures
+of oncogenic pathway activity as a framework to integrate multiple,
+disparate forms of genomic data. We first identified 1,020 high-grade,
+late stage serous ovarian tumors with Affymetrix U133 expression data
+from multiple published studies and the predicted oncogenic pathway
+activity was determined for each tumor. Of these tumors, >500 had matched
+aCGH data which were used to identify statistically significant
+chromosomal alterations directly and indirectly associated with each
+pathway. This strategy was validated by identifying associations between
+pathway activity and copy number alterations of known pathway drivers. We
+next compiled a dataset of ovarian cancer cell lines with U133 expression
+data and for which genome-wide shRNA proliferation data was available.
+These data were used to identify essential genes required for cell
+viability in pathway-dependent manner. The resulting genes were analyzed
+by DAVID and GATHER to validate that this strategy identified key pathway
+components. Finally, by integrating results obtained from the aCGH and
+shRNA analyses, we identified known and candidate genes associated with
+oncogenic pathway activity that are required for cell viability and are
+amplified in human tumors. These analyses have identified alterations of
+putative and known regulators of pathway activity that often exist
+independent of each other in human tumors suggesting that examining the
+mutational status of a single gene is an incomplete measure of pathway
+activity and that this strategy is able to identify novel regulators, and
+therefore potential therapeutic targets, of oncogenic signaling pathways
+required for tumor proliferation. Additional studies are underway to
+investigate the role identified candidate genes play in pathway activity
+and tumor proliferation.
+

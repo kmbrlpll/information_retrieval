@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: RPL18A as putative target of rigosertib
+
+
+Rigosertib (ON 01910.Na) is clinical stage anti-mitotic cancer inhibitor
+that causes spindle abnormalities in neoplastic cells. Rigosertib
+inhibits PI3K and PLK1 signaling pathways, down regulates cyclin D1
+expression and induces apoptosis. Previously we reported rigosertib led
+to hyperphosphorylation of RanGAP1SUMO1, regulator of RanGTP/RanGDP
+cycle, and hypothesized phosphatase inhibition [Cancer Res 2011; 71;
+4968-76]. Using biotin-conjugated rigosertib and avidin-conjugated
+agarose beads, we sought rigosertib molecular target from HeLa cell
+lysates by pull-down assay. Long-linker 1910-biotin showed an IC50 for
+cytotoxicity similar to unmodified rigosertib and efficient avidin
+binding. Asynchronously grown HeLa cell lysates were incubated with
+designated ligands and avidin beads. Bound lysate proteins were recovered
+from beads, resolved on SDS-PAGE and stained. Specific protein band of 20
+kDa was detected only with long-linker 1910-biotin. Identification of
+proteins from the gel was performed by LC-ESI-MS/MS. Four ribosomal
+proteins possessed Mascot score above cut-off level with RPL18A, score of
+367, and other proteins scored 153 or less. Specific dose-dependent
+binding of long-linker 1910-biotin to RPL18A was confirmed by Western
+blot analysis in replicate pull-down experiments using HeLa or MOLT-3
+cell lysates. Recombinant RPL18A possessed specific reactivity to
+1910-biotin in the pull-down assay. Knock-down of RPL18A with siRNA
+causes apoptosis in cancer cell lines [Sudo et al, Genomics 2010; 95;
+210-6; and our data]. We propose that nucleocytoplasmic transport of
+RPL18A is impaired when hyperphosphorylated RanGAP1SUMO1 fails to provide
+RanGTP/GDP gradient for nuclear pore complex. Importin-9 (IPO-9) is a
+major nucleocytoplasmic transporter for RPL18A. Among other cargos of
+IPO-9 are HSP27 (important anti-apoptotic player), scaffold subunit A of
+PP2A (major mitotic phosphatase), core histones and ribosomal proteins.
+Considering the essential role of nucleocytoplasmic transport in general
+and probable consequences of impeded transport of HSP27, PP2A and/or core
+histones, that actually match those observed with rigosertib, we
+hypothesize that binding with RPL18A in the presence of
+hyperphosphorylated RanGAP1SUMO1 interferes with normal function of
+IPO-9, resulting in a variety of malfunctions and apoptosis observed in
+rigosertib treated cancer cells.
+

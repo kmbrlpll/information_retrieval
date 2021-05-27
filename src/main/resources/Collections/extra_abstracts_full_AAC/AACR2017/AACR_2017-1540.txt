@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Creating faithful genetic zebrafish models of pediatric high grade
+gliomas and MPNSTs.
+
+
+Pediatric high-grade gliomas (HGGs) are the leading cause of
+cancer-related death in children. Despite a slight improvement of patient
+prognosis over the past decades pediatric HGGs remain largely incurable.
+Thus, new experimental models are needed to understand the mechanisms of
+the disease and find more effective treatment options. We previously
+reported a model of HGGs and malignant peripheral nerve sheath tumors
+(MPNSTs) which is based on the combined deficiencies in the tumor
+suppressor genes tp53 and nf1. However, HGG penetrance is very low in
+this line and most fish develop MPNSTs starting at about 3 months of age.
+On top of the existing model we used CRISPR/Cas9 to incorporate knock-out
+mutations in the tumor suppressor genes atrx or suz12 which are described
+to be involved in pediatric HGG biology. Heterozygous atrx
+loss-of-function (lof) did not impact tumor onset or penetrance of
+neither HGGs nor MPNSTs. Since a total loss of atrx was lethal in
+development, we re-injected effective atrx targeting gRNAs and Cas9 mRNA
+into the atrx+/- line to create a mosaic atrx-/- genotype. Surprisingly,
+despite a high mutation efficiency of the remaining atrx allele the
+re-injection strategy still did not alter tumor onset and penetrance in
+that model. This suggests that loss of atrx is only effective in HGGs in
+cooperation with additional hits other than tp53 and nf1. In contrast,
+loss of suz12 cooperated well with the tp53/nf1-deficient background. As
+nf1, suz12 is duplicated in zebrafish (suz12a and suz12b) resulting in 4
+alleles of each gene per cell. When at least 2 out of 4 alleles of either
+suz12a or suz12b were lost, MPNST onset was accelerated. This effect was
+much stronger in tp53-/-, nf1a+/-, nf1b-/- fish (5-7 weeks) compared to
+tp53-/-, nf1a+/+, nf1b-/- siblings (3-4 weeks). This indicates that the
+tumor supporting effect of suz12 lof increases the more nf1 levels
+decrease. However, HGG onset still remained unchanged. We hypothesize
+that efficient onset of HGGs in our model requires the presence of an
+activated oncogene. Specific missense mutations in H3F3A are reported to
+be implicated in HGG progression in children and young adults. Thus, we
+overexpressed zebrafish h3f3a-K27M or -G34R mutant sequences in the
+tp53/nf1/atrx/suz12-deficient line and are currently investigating
+possible changes in tumor biology. Our zebrafish models of pediatric HGGs
+and MPNSTs will be useful to dissect the mechanisms underlying the
+cooperation among driver mutations and for small molecule screens to
+identify specific inhibitors of cell growth and survival in these
+malignancies.
+
+

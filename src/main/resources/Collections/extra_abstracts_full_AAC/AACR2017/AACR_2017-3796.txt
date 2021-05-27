@@ -1,0 +1,74 @@
+Meeting: 2017 AACR Annual Meeting
+Title: An intravascular magnetic wire for high-throughput in vivo
+enrichment of rare circulating cancer biomarkers.
+
+
+Background: Liquid biopsies have long promised to enable earlier cancer
+diagnosis and tailored therapy. However, circulating tumor cells (CTCs)
+are extremely rare (1-10 cells per mL blood), limiting their clinical
+utility. There are too few CTCs in a standard 5-10 mL blood sample for
+culture and drug susceptibility testing, or for comprehensively profiling
+a molecularly heterogeneous cancer and its metastases for drug resistance
+mutations. To achieve large-scale CTC enrichment, new strategies are
+needed that can rapidly and effectively interrogate large blood volumes.
+
+Aim: To design a flexible magnetic wire capable of high-throughput
+intravascular enrichment and retrieval of rare biomarkers, including
+CTCs, from the entire circulating blood volume to attain a much higher
+biomarker yield for earlier cancer detection and personalized treatment.
+
+Methods: We present a promising platform for in vivo enrichment of rare
+biomarkers, the Magnetic Wire for Intravascular Retrieval and Enrichment
+(MagWIRE): a flexible, self-contained magnetic wire consisting of a
+string of small magnets with alternating polarities, achieving high local
+field gradients along its entire length to capture magnetically labeled
+targets from a large surrounding volume. The platform is proposed to work
+as follows: Blood biomarkers are immunomagnetically labeled by injecting
+a patient with antibody-coated magnetic particles (MPs), similar to
+FDA-approved Feraheme®. The MagWIRE is then inserted through a standard
+IV catheter into a superficial vein in the arm or through an existing
+chemotherapy port to magnetically capture passing MP-bound biomarkers.
+Within an hour, ~5 liters has circulated through a 2-3-mm-diameter human
+vein, allowing most of the patient’s blood volume to be sampled. The
+magnets can then be displaced from the MagWIRE sheath to elute the bound
+targets into buffer for downstream analysis. We performed
+proof-of-concept demonstrations in: 1) a closed-loop blood circulation
+system consisting of a pump, tubing, and a blood reservoir, and 2) in
+vivo within a porcine ear vein model. To model CTC capture, we targeted
+H1650 lung cancer cells with 1-μm superparamagnetic iron oxide particles
+coated with antibodies against epithelial cell adhesion molecule (EpCAM),
+a commonly used CTC marker. We couple the MagWIRE with a unique approach
+for rapid (Methods: We present a promising platform for in vivo
+enrichment of rare biomarkers, the Magnetic Wire for Intravascular
+Retrieval and Enrichment (MagWIRE): a flexible, self-contained magnetic
+wire consisting of a string of small magnets with alternating polarities,
+achieving high local field gradients along its entire length to capture
+magnetically labeled targets from a large surrounding volume. The
+platform is proposed to work as follows: Blood biomarkers are
+immunomagnetically labeled by injecting a patient with antibody-coated
+magnetic particles (MPs), similar to FDA-approved Feraheme®. The MagWIRE
+is then inserted through a standard IV catheter into a superficial vein
+in the arm or through an existing chemotherapy port to magnetically
+capture passing MP-bound biomarkers. Within an hour, ~5 liters has
+circulated through a 2-3-mm-diameter human vein, allowing most of the
+patient’s blood volume to be sampled. The magnets can then be displaced
+from the MagWIRE sheath to elute the bound targets into buffer for
+downstream analysis. We performed proof-of-concept demonstrations in: 1)
+a closed-loop blood circulation system consisting of a pump, tubing, and
+a blood reservoir, and 2) in vivo within a porcine ear vein model. To
+model CTC capture, we targeted H1650 lung cancer cells with 1-μm
+superparamagnetic iron oxide particles coated with antibodies against
+epithelial cell adhesion molecule (EpCAM), a commonly used CTC marker. We
+couple the MagWIRE with a unique approach for rapid (<10 seconds)
+magnetic labeling of CTCs in flow for immediate downstream capture by the
+wire on a single pass.
+
+Results: Considerable gains are achievable by sampling from large
+volumes, even at relatively low capture efficiencies. In our closed-loop
+setup, the MagWIRE demonstrated capture efficiencies in whole blood of
+56.14+/-15.80% for pre-labeled cells and 10.17+/-5.41% for cells labeled
+in flow. In a porcine ear model, we captured cells with efficiencies up
+to 8%, corresponding to 80-fold enrichment when integrated over a 5-liter
+blood volume compared with a 5 mL blood draw.
+
+

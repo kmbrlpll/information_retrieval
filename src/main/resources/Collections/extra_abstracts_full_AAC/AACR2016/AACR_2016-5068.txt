@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Carcinoma-associated fibroblast-derived CXCL12 enhances MDA-MB-231
+tumor cell migration though mDia2 formin suppression
+
+
+The tumor microenvironment (TME) is a heterogeneous region comprised of
+tumor cells, stromal cells, and secreted factors that make the
+environment favorable for cancer formation and progression. An important
+step in the shift to a pro-cancerous environment is the transformation of
+normal stromal fibroblasts to carcinoma-associated fibroblasts (CAFs).
+CAFs are a critical cell type to understand. They are present in a
+majority of solid tumors and can have a direct effect to enhance adjacent
+tumor cell motility via their innate ability to secret cytokines,
+chemokine and growth factors into the TME. We sought to understand how
+CAF-derived chemokines impact breast tumor cell motility through
+modification of the F-actin cytoskeleton. We collected cultured media
+(CM) from WS19T fibroblasts, a patient-derived breast tumor CAF cell
+line. CAF-CM dramatically enhanced wound-closure in MDA-MB-231
+monolayers, relative to normal fibroblast cultured media. The chemokine
+CXCL12 (SDF1 alpha) has been identified as a potential secreted
+CAF-directed signal driving tumor cell migration. To determine if CXCL12
+was the soluble factor in CAF-CM promoting tumor cell migration,
+MDA-MB-231 cells were preincubated with AMD3100, an inhibitor of the
+CXCL12 receptor, CXCR4 prior to CAF-CM application and wounding. AMD3100
+effectively blocked CAF-CM-induced MDA-MB-231 migration. CXCL12
+incubation with MDA-MB-231 cells equally promoted MDA-MB-231 wound
+closure, supporting the notion that CXCL12 is secreted by CAFs to promote
+MDA-MB-231 motility. We previously showed a link between CXCL12 directed
+CXCR4 signaling and a critical regulator of the dynamic F-actin
+cytoskeleton, mammalian Diaphanous-related formin (mDia2). This formin
+regulates the assembly and bundling of unbranched actin filaments and
+plays a role in tumor cell migration and invasion programs. Western
+blotting CAF-CM-treated MDA-MB-231 cells revealed a near complete loss of
+mDia2 protein. mDia1 and ROCK expression were unaffected with CAF-CM
+treatment. These data were consistent with treatment with a functional
+mDia FH2-domain inhibitor SMIFH2, which likewise suppresses mDia2 protein
+levels in MDA-MB-231 cells. It remains unclear if CAF-derived CXCL12
+first suppresses mDia2 FH2 activity, leading to loss of mDia2 protein,
+thus promoting tumor cell motility. Current experiments are designed to
+address this gap in the knowledge, potentially indicating a role for
+CAF-derived soluble factors in modulating mDia2 protein function and
+expression in migrating tumor cells.
+

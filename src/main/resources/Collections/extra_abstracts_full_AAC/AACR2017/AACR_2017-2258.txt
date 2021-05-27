@@ -1,0 +1,69 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genome-wide association studies of breast cancer prognosis.
+
+
+Introduction:
+
+The prognosis and response to treatment in women with breast cancer
+varies considerably after taking into account clinic-pathological
+variables. Other factors such as host genotype are also likely to be
+important. We therefore investigated the role of germline genetic
+variation on survival after breast cancer using data from the Breast
+Cancer Association Consortium.
+
+Materials and methods:
+
+We included data from ten projects in which breast cancer case cohorts
+were genotyped using arrays providing genome-wide coverage of common
+variants. The majority of samples was genotyped using the Illumina custom
+iCOGS or OncoArray chips. Data were imputed using the 1000 Genome phase 3
+as a reference panel using a two-stage procedure. We assessed the
+association between genotype and 10-year breast cancer specific survival
+for each SNP using Cox proportional hazards regression adjusted for
+principle components and stratified by country. Genotype data from 87,877
+breast cancer cases, 63,170 ER-positive and 20,297 ER-negative, with
+6,511 known breast cancer deaths were included in the analyses.
+
+Results:
+
+Preliminary analyses shows that in all invasive cases, ER-positive and
+ER-negative disease 123, 110, and 212 variants respectively, were
+associated with breast cancer-specific mortality at PPreliminary analyses
+shows that in all invasive cases, ER-positive and ER-negative disease
+123, 110, and 212 variants respectively, were associated with breast
+cancer-specific mortality at P<5x10-5. A single variant, rs1295683, was
+associated with higher mortality at genome-wide significance in all
+patients: HR=1.16 (95%CI:1.10-1.22); P=2.8x10-8 (risk allele frequency:
+0.12). We identified four variants to be associated with mortality in
+ER-negative disease at PPreliminary analyses shows that in all invasive
+cases, ER-positive and ER-negative disease 123, 110, and 212 variants
+respectively, were associated with breast cancer-specific mortality at
+P<5x10-5. A single variant, rs1295683, was associated with higher
+mortality at genome-wide significance in all patients: HR=1.16
+(95%CI:1.10-1.22); P=2.8x10-8 (risk allele frequency: 0.12). We
+identified four variants to be associated with mortality in ER-negative
+disease at P<5x10-8. The strongest association was for rs145963877:
+HR=1.32 (95%CI:1.20-1.46); P=2.3x10-8. No variant reached genome-wide
+significance for ER-positive disease; the most significant variant was
+chr7:41400313 with an HR=1.17 (95%CI:1.10-1.24); P=1.8x10-7. In addition,
+using OncoArray data, we provided independent validation of higher
+mortality of CHEK2 c.1100delC carriers compared with non-carriers
+(HR=1.56 (95%CI:1.22-2.01)), previously reported in Weischer et al JCO
+2012. Using iCOGS data, we evaluated the association between mortality
+and the polygenic risk score (PRS) based on 77 known breast cancer
+susceptibility SNPs. A higher PRS was significantly associated with lower
+breast cancer-specific mortality: HR=0.87(95%CI:0.81-0.93) (per unit of
+PRS) with a similar association in ER-negative and ER-positive disease.
+The association was attenuated after adjusting for tumor grade.
+
+Conclusion:
+
+We have identified a novel set of germline genetic variants that are
+associated with breast cancer prognosis. The effect sizes are small for
+each of the variants and unlikely to be of immediate clinical relevance.
+However, understanding of the biology that underlies the associations may
+identify novel pathways and targets for therapy. Being at higher risk of
+breast cancer, as defined by the breast cancer susceptibility PRS, is not
+associated with an adverse prognosis.
+
+

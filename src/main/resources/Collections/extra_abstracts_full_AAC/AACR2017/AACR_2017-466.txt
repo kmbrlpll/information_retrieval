@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Role of miR-15b-3p in mitoquinone induced autophagy of breast
+cancer cells.
+
+
+Mitoquinone, a redox-active mitochondrially targeted ubiquinone,
+activates autophagy more potently in breast cancer cells (MDA-MB-231)
+than in normal breast cells (MCF-12A). Mitoquinone induces the production
+of reactive oxygen species (ROS) and a concomitant activation of the
+Nrf2-dependent antioxidant response. MicroRNA are endogenous small double
+stranded RNA that bind to the 3’ UTR of several target mRNAs and
+function through translational repression or mRNA degradation. The goal
+of this study was to evaluate microRNA as a link between oxidative stress
+and autophagy signaling. We performed RNA sequencing analysis of the
+microRNAs modulated by mitoquinone treatment of MDA-MB-231 cells. miRNAs
+were identified using Illumina RNA sequencing. DEseq analysis revealed 97
+miRNAs that were differentially expressed at an α Mitoquinone, a
+redox-active mitochondrially targeted ubiquinone, activates autophagy
+more potently in breast cancer cells (MDA-MB-231) than in normal breast
+cells (MCF-12A). Mitoquinone induces the production of reactive oxygen
+species (ROS) and a concomitant activation of the Nrf2-dependent
+antioxidant response. MicroRNA are endogenous small double stranded RNA
+that bind to the 3’ UTR of several target mRNAs and function through
+translational repression or mRNA degradation. The goal of this study was
+to evaluate microRNA as a link between oxidative stress and autophagy
+signaling. We performed RNA sequencing analysis of the microRNAs
+modulated by mitoquinone treatment of MDA-MB-231 cells. miRNAs were
+identified using Illumina RNA sequencing. DEseq analysis revealed 97
+miRNAs that were differentially expressed at an α < 0.05. Within this
+set, 15 miRNAs were down-regulated by stimulation with mitoquinone making
+them attractive as potential autophagy inhibitors. We characterized the
+role of a miR-15b-3p by transfecting the cells with miR-mimic and
+anti-miR before inducing an autophagy response. Western blot analysis
+showed a reduction in the expression of the autophagy marker LC3, the
+autophagosome chaperon p62 and the transcription factor Nrf2 in presence
+of the miR-15b-3p mimic. Conversely, miR-15b-3p mimic pre-treatment
+increased the expression of the cell cycle inhibitor p27 both at the
+basal level and after mitoquinone stimulation for 48 hrs. The
+administration of the anti-miR-15b-3p did not change the expression level
+of these proteins suggesting that miR-15b-3p may work with other miRs
+toward regulating autophagy. Combining the action of miR-15b-3p mimic
+with redox active chemotherapeutic drugs could represent a novel strategy
+for breast cancer therapy by reducing survival signaling through
+autophagy.
+
+

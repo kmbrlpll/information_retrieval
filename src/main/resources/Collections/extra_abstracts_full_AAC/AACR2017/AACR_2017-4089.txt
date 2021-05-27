@@ -1,0 +1,56 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Quantitative prediction of human pharmacokinetics for
+duvortuxizumab from cynomolgus monkey data: a translational
+pharmacokinetic modeling approach.
+
+
+Duvortuxizumab (also known as JNJ-64052781 and MGD011) is a bispecific
+CD19 x CD3 DART® molecule designed to simultaneously target
+CD19-positive cells for recognition and elimination by CD3-expressing
+T-lymphocytes as effector cells. Duvortuxizumab is currently in clinical
+development for the potential treatment of B-cell malignancies. Here we
+report the results from a translational PK model that utilized
+duvortuxizumab pharmacokinetic (PK) data from cynomolgus monkeys to
+predict duvortuxizumab PK in humans.
+
+The PK of duvortuxizumab administered by intravenous infusion was
+evaluated in cynomolgus monkeys in two separate studies. Study 1
+evaluated intra-animal escalating doses from 0.5 to 100 µg/kg or
+repeated doses from 0.005 to 0.5 µg/kg administered over a period of up
+to 4 weeks. Serum concentrations of duvortuxizumab above the lower limit
+of quantification were obtained at dose levels >0.5 µg/kg. Study 2
+evaluated duvortuxizumab doses of 0.2, 2, 5, or 10 µg/kg administered
+once weekly for 4 weeks. Dose-proportional increases in maximum
+concentration (Cmax) were observed across the dose ranges evaluated, and
+no significant differences between male and female animals were observed.
+
+PK modeling analysis, which integrated data from both study 1 and study 2
+at 0.2 to 100 µg/kg dose levels, was performed to further understand the
+PK behavior of duvortuxizumab in cynomolgus monkeys. Duvortuxizumab PK
+was reasonably characterized using a two compartment model with linear
+clearance (CL) from the central compartment. Model estimated parameters
+were CL = 0.797 mL/h/kg; volume of distribution for the central
+compartment (V1) = 51.7 mL/kg; intercompartmental clearance (Q) = 2.29
+mL/h/kg; and volume of distribution for the peripheral compartment (V2) =
+88.8 mL/kg. Assuming a body weight of 3 kg and 70 kg for a cynomolgus
+monkey and a human, respectively, human PK parameters were estimated
+using an allometric scaling factor of 0.75 for CL and 1.0 for volume in
+the translational PK model.
+
+Observed duvortuxizumab PK values obtained from an ongoing,
+first-in-human (FIH), phase 1 dose-escalation trial in patients with
+relapsed or refractory B-cell malignancies (NCT02454270) were used to
+validate the translational PK model. Comparison of the predicted and
+observed duvortuxizumab PK profiles suggested that the translational PK
+model using the allometric scaling method reasonably predicted
+duvortuxizumab PK profiles in humans at multiple dose levels (15 to 100
+ng/kg).
+
+In conclusion, the developed translational PK model successfully
+predicted duvortuxizumab PK in humans and has been used to aid dose
+escalation of duvortuxizumab in the ongoing FIH study. This work
+showcases the potential of translational PK modeling in supporting the
+selection of a FIH dose escalation strategy utilizing preclinical PK
+information.
+
+

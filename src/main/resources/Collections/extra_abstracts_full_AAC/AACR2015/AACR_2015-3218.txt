@@ -1,0 +1,38 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Transcriptome characterization by RNA sequencing identifies
+molecular and clinical subgroups in high risk neuroblastoma
+
+
+Background/objectives: Neuroblastoma (NBL) is characterized with its
+heterogeneous clinical and biological behavior. Despite improvement of
+survival rate with multimodal chemo- and immunotherapy, high mortality
+and morbidity is still substantial for patients with metastatic disease.
+Previous DNA sequencing studies characterized the genetic basis of the
+disease and revealed a very low somatic mutation burden and surprisingly
+few recurrently somatic mutated genes comparing to adult solid tumors. In
+order to identify the novel molecular therapeutic target and understand
+the biology of the high-risk neuroblastoma, we investigated gene
+expression profiles of tumors from a cohort of high-risk neuroblastoma
+patient using RNA sequencing as an integral part of the Therapeutically
+Applicable Research to Generate Effective Treatments (TARGET)
+project.Methods: We performed RNA sequencing in a cohort of 150 high risk
+patients (97 survival and 53 death) using polyA selected mRNA. Gene and
+transcript isoform expression was used to correlate to the clinical
+parameters for this clinically well-annotated patient cohort. Whole exome
+sequencing (WES) data was available for 106 of the 150 patients cohort
+for combined analysis of DNA and RNA sequencing to identify expressed
+mutation.Results: On average, we found 12.5% of the human genome, which
+include 63.7% of exon, 18.0% of intron, and 4.6% of intergenic regions
+covered by RNA-seq reads in NB samples. Preliminary gene expression
+analysis showed four molecular subgroups of NB tumors with distinct
+outcomes (log-ranked p = 0.002). Sixty-two percent of somatic mutations
+identified by WES was present (>10% VAF) in the RNA transcriptome when
+the locus was expressed (10X). We found that some of the important
+pathogenic somatic mutations such as TP53 p.R243W can be only detectable
+by integrated analysis of the sequencing data of RNA and DNA, possibly
+due to low tumor purity.Future directions: We will assess the expressed
+mutations, fusion genes, mRNA expression, and splicing profiles to
+provide clinically relevant classification and offer insight into the
+tumor biology especially for those without detectable oncogenic driver
+mutation by DNA sequencing.
+

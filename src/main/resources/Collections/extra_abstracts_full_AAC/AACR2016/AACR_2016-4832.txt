@@ -1,0 +1,39 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Overcoming breast cancer chemoresistance and blocking metastasis
+by targeting RNA-binding protein HuR
+
+
+Patients with metastatic breast cancer have a dismal 5-year survival rate
+of only 24%. Chemoresistance is another contributor to the high mortality
+of advanced breast cancer. The RNA-binding protein, Hu antigen R (HuR),
+is overexpressed at all stages of breast cancer development. Cytoplasmic
+HuR accumulation correlates with high-grade malignancy, poor distant
+disease-free survival and serves as a prognostic factor for poor clinical
+outcome in breast cancer. HuR promotes tumorigenesis by promoting mRNA
+stability and translation of proteins implicated in proliferation,
+survival, angiogenesis, invasion, and metastasis. HuR also modulates
+sensitivity of breast cancer cells to chemotherapy. Taken together, HuR
+is an emerging target for breast cancer therapy, especially metastatic
+breast cancer. Using shRNA and CRISPR technologies to modulate HuR
+expression in breast cancer cells, we found that cells with HuR KD/KO
+were less invasive and more sensitive to chemotherapy. In an effort to
+discover small molecules that disrupt the HuR-mRNA interaction and block
+HuR functions in breast cancer progression, metastasis and
+chemoresistance, high throughput screening (HTS) was carried out using
+several chemical libraries (23,000 compounds) using fluorescence
+polarization (FP) assay and identified several initial hits with
+sub-micromolar inhibitory constants (Ki). Those potential disruptors were
+then validated by ALPHA assay (Amplified Luminescent Proximity
+Homogeneous Assay), confirmed by Surface Plasmon Resonance (SPR). In
+cell-based assays, top hit KH-3 and its optimized analogs, specifically
+shortened HuR target mRNA half-lifes and decreased the level of the
+encoded proteins. Moreover, those compounds inhibited invasion and
+restored chemosensitivity. qPCR arrays focusing on specific pathways
+revealed that HuR inhibitors potently upregulated metastatic suppressors
+and downregulated genes frequently overexpressed in lung metastases. In
+animal studies, KH-3 not only powerfully exhibited antitumor efficacy in
+orthotopic xenografts, but also efficiently blocked experimental
+metastasis. In conclusion, we identified potent and specific small
+molecule disrupters of HuR-mRNA interaction for potential anti-metastatic
+therapy for breast cancer with HuR overexpression.
+

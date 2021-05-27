@@ -1,0 +1,44 @@
+Meeting: 2012 AACR Annual Meeting
+Title: From genome-wide association studies (GWAS) to functional genomics
+of prostate cancer: exploring the role of candidate transcripts through
+RNAi-based analysis
+
+
+Recent genome-wide association studies (GWAS) have identified multiple
+genomic regions that harbor single nucleotide polymorphisms (SNPs)
+associated with human prostate cancer. Determining the biological basis
+of association data requires the identification of molecular phenotypes
+that correlate to these sequence variants. However, many of these
+variants are located in intergenic regions or gene deserts, making it
+difficult to identify the underlying biological mechanisms these
+association studies suggest. Two SNPS identified by prostate cancer GWAS
+include rs10486567 located within intron 2 of JAZF1 gene on chromosome
+7p15.2, and rs4430796 located on chromosome 17 near the HNF1B gene. JAZF1
+(JAZF zinc finger 1) is a putative transcriptional repressor. SNPs in
+JAZF1 have also been associated with height body stature, and risk of
+type-2 diabetes and systemic lupus erythematosus. HNF1B (HNF1 homeobox B)
+is a homeodomain containing transcription factor; SNPs at this locus show
+an inverse association with risk of type-2 diabetes and this locus has
+also been identified as associated with endometrial cancer
+susceptibility. As the function of JAZF1 and HFNB1 is poorly
+characterized we are using RNAi based loss-of-function analysis,
+initially in a prostate cancer cell line, to assess the molecular
+consequences of silencing these genes. First the transfection conditions
+for the prostate cancer cell line LNCAP were optimized for synthetic
+siRNA transfection and multiple siRNAs (from two different vendors)
+corresponding to JAZF1 and HFN1B were assessed for efficiency of gene
+specific silencing. To assess the functional consequence of silencing in
+an unbiased manner we have generated gene specific expression profiles
+for JAZF1 and HFN1B in LNCAP cells. Briefly, gene expression microarray
+analysis was conducted on RNA prepared 72 hours post siRNA transfection
+and expression profiles were generated from data using three different
+siRNAs corresponding to each gene transfected in triplicate compared to
+negative control transfected cells. Following silencing of JAZF1
+approximately 150 genes were identified as showing significant changes in
+gene expression, with over 500 other genes showing evidence of altered
+expression but not at significant level. Following silencing of HFN1B,
+over 250 genes were identified as showing significant changes in gene
+expression, with over 400 other genes showing evidence of altered
+expression but not at significant level. Further analysis and validation
+of these expression profiles is ongoing.
+

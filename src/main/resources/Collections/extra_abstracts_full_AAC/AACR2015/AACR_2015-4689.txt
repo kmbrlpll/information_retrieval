@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Targeting constitutive GLI activation in colon carcinomas and
+cancers with oncogenic KRAS signaling
+
+
+The GLI genes, GLI1 and GLI2, encode transcription factors that regulate
+target genes at the distal end of the canonical Hedgehog signaling (HH)
+pathway (SHH->PTCH->SMO->GLI), tightly regulated in embryonic
+development, tissue patterning and differentiation. In cancers, both GLI1
+and GLI2 are oncogenes, aberrantly and constitutively activated.
+Oncogene-driven signaling pathways, in particular KRAS/BRAF in colon
+cancer, circumvent the HH-GLI axis to further drive GLI activation, which
+serves as a nodal channel for oncogenic signals, and provides a pivotal
+role for GLI in cell survival. GANT61, a small molecule inhibitor of
+GLI-dependent transcription, terminates oncogenic HH-GLI and
+KRAS/BRAF-GLI signaling, inducing DNA damage and extensive cell death in
+seven human colon carcinoma cell line models examined. The overall goal
+is to understand how GANT61 induces cell death by inhibiting
+GLI-dependent transcription mechanisms. We have demonstrated that GANT61
+is: a) specific for binding to GLI, and does not bind to DNA or to other
+transcription factors; b) selective for cancer cells vs normal cells that
+lack constitutive GLI activation. Inhibition of GLI1 and GLI2 by GANT61
+rapidly reduces GLI binding to consensus sequences in target gene
+promoters and inhibits GLI-dependent transcription. Stalling of Pol II
+occurs adjacent to GLI binding regions at target gene promoters (FOXM1,
+BCL-2), associated with inhibition of GLI binding, enrichment of Pol II,
+and modification of promoter-bound pause (DSIF, NELF) or pause-release
+(P-TEFb) factors within a 300bp region of the FOXM1 promoter.
+Single-stranded DNA and RNA:DNA hybrids determining R-loop formation
+(distributed throughout the nucleoplasm) occur at sites of stalled Pol
+II, inhibited by RNAseH. Consistent with transcriptional inhibition,
+GANT61 induced DNA damage (H2AX foci) in S-phase and non-S-phase cells,
+recognized at the initiation of S-phase (G1/S), prior to the onset of
+cell death. This may be due to one of two mechanisms: 1) The GLI1 target
+gene FOXM1, and its transcriptional target CDC6, downregulated in
+GANT61-treated cells, regulate Pre-Replication Complex assembly at G1/S
+thereby inhibiting the initiation of DNA replication; this controls
+outcome of the GANT61 response, dependent on GLI; 2) Transcriptional
+R-loop formation can conflict with DNA replication in GANT61-treated
+cells. These events inhibit initiation of DNA replication from unfired
+origins at early replicons and inhibit further progression through
+S-phase. GLI1 and/or GLI2 are constitutively activated in epithelial
+cancers of the GI tract, brain tumors, melanoma, pediatric solid tumors,
+liver, lung, breast, pancreatic and prostate cancers. Further, KRAS is
+mutated in one third of all human cancers and in 50% of colon carcinomas.
+Targeting GLI therefore has the potential for high impact in
+therapeutics, and is anticipated to lead to new approaches and
+therapeutic strategies for treating cancer.
+

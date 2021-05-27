@@ -1,0 +1,37 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Metabolomic analysis of urine from patients undergoing total body
+irradiation.
+
+
+Development of biomarkers for the responses to radiation has relevance to
+assessment of patient course and outcome after radiation therapy, as well
+as to other radiologic events including accidental and terrorist. The
+purpose of this study was to extend the biomarker discovery to humans, as
+previous studies have focused on mice. Urine was collected from patients
+undergoing total body irradiation (TBI) at Memorial Sloan Kettering prior
+to bone marrow transplantation at 4-6h post irradiation (a single dose of
+125cGy) and 24h (three fractions of 125cGy each). Patient diagnoses
+include leukemias (ALL, AML, and CML), non-hodgkins lymphoma,
+myelodysplastic syndrome, aplastic anemia, and essential
+thrombocytopenia. Global metabolomic profiling was obtained through
+analysis with Ultra Performance Liquid Chromatography (UPLC) coupled to
+time-of-flight mass spectrometry (TOFMS) (Waters). Peak alignment and
+deconvolution of the chromatographic data were conducted with MarkerLynx
+software (Waters, MA). Prior to further analysis, each sample was
+normalized to its respective creatinine. Ions with non-zero abundance
+values in at least 75% of samples in both groups were analyzed for
+statistical significance via the nonparametric Kolmogorov-Smirnov test
+for equality of probability distributions on the log-transformed dataset.
+Statistical significance for ions with non-zero abundance values in at
+least 75% of samples in only one group were analyzed categorically for
+presence (i.e. non-zero abundance) via the Fisher's exact test. Biomarker
+candidates were verified by tandem mass spectrometry (MS/MS) by
+comparison to pure chemicals and quantification of the markers was
+conducted with the triple quadrupole mass spectrometer XEVO TQ MS
+(Waters). Validated and quantified biomarkers include
+L-Octanoylcarnitine, Hypoxanthine, Trimethyl-L-Lysine, Acetyl-carnitine,
+Decanoylcarnitine, Pantothenic acid, Hippuric acid, Uric acid, and
+Xanthine, and thus contribute to the development of a human metabolomic
+signature following exposure to radiation, and can now be integrated with
+features including underlying disease status, gender, age, and outcome.
+

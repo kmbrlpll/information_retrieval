@@ -1,0 +1,61 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Optimizing transducer array configuration for treatment of
+pancreatic cancer using Tumor Treating Fields (TTFields).
+
+
+Introduction
+
+TTFields is an antimitotic cancer treatment that utilizes low intensity
+(1-3 V/cm) alternating electric fields in the intermediate frequency
+(100-300 kHz) that are delivered in two orthogonal directions using 2
+pairs of transducer arrays. TTFields are currently approved for
+Glioblastoma Multiforme (GBM). A phase II clinical trial (EF-20) showed
+that TTFields in combination with gemcitabine was safe in patients with
+locally advanced pancreatic cancer.
+
+Preclinical studies show that the effect of TTFields is
+intensity-dependent with a therapeutic threshold of 1 V/cm.
+Simulation-based studies show that the field distribution changes with
+array placement. Treatment planning with arrays positioned on the scalp
+to maximize field intensity to the tumor is standard of practice when
+treating GBM. Studies to examine array layout on the abdomen to maximize
+the field distribution in this region have not been done. In the EF-20
+study, a generic layout was used. We used computer simulations to test
+how altering the transducer array layout on the mid-body alters the field
+distribution within the abdomen and pancreas.
+
+Methods
+
+To simulate delivery of TTFields to the abdomen, we used a realistic
+computerized model of a human male (DUKE 3.0 from ZMT-Zurich). Eight
+different layouts utilizing combinations of arrays with either 13 or 20
+disks placed at different locations on the abdomen were simulated. In
+order to generate TTFields, an alternating voltage difference with a peak
+to peak magnitude of 100V and a frequency of 150 KHz was imposed on the
+outer surfaces of the disks of each pair of arrays. The simulations were
+performed using ZMT's Sim4Life V3.0 electro-quasi-static solver. For each
+pair of transducer arrays, the mean field intensity in the abdomen and
+chest, and in the pancreas and liver, was calculated.
+
+Results
+
+All eight layouts delivered fields with mean intensities of about 2 V/cm
+to the abdomen. The average field intensity delivered to the pancreas and
+the liver exceeded the therapeutic threshold of 1 V/cm for all layouts.
+The highest intensities were delivered to the pancreas by layouts in
+which a 20-disk array was placed at the middle of the back, and either a
+20 disk array placed at the middle of the abdomen or a 13 disk array
+placed on the front-left side of the abdomen over the pancreas.
+Generally, field intensities in the pancreas are lower than in the rest
+of the abdomen because of the high electric conductivity of this organ.
+
+Conclusion
+
+This work shows that TTFields can be delivered to the pancreas with
+intensities well above the therapeutic threshold of 1 V/cm, and that
+altering the location of the arrays on the abdomen can influence the
+field intensity and distribution within the body. This work forms the
+basis for developing optimal strategies for delivering TTFields to the
+pancreas.
+
+

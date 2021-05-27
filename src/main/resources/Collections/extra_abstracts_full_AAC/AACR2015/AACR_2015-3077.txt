@@ -1,0 +1,99 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Dysregulation of microRNA-mRNA regulatory networks in the
+bronchial airway epithelium of smokers with lung cancer
+
+
+We have previously shown that gene expression alterations in
+cytologically normal epithelial cells from the bronchial airway can be
+used as an early detection biomarker for lung cancer in smokers. We
+hypothesize that bronchial epithelial expression of microRNAs, as
+regulators of gene expression, may also be affected by the presence of
+cancer and may regulate some of these gene expression differences.We
+propose a novel method to identify microRNAs functionally associated with
+disease that leverages the relationship between microRNA and mRNA
+expression by determining the differential connectivity (DC) of
+microRNA-mRNA association networks between disease and normal
+states.Bronchial epithelial brushes were collected from 220 former and
+current smokers who underwent bronchoscopy for suspicion of lung cancer
+(120 lung cancer patients and 100 healthy controls). For these subjects,
+we profiled microRNA expression via small RNA sequencing and gene
+expression via microarray.Each microRNA node is assigned a DC score,
+which captures the overall difference in the pairwise microRNA-gene
+correlation strengths between lung cancer and control subjects. We
+quantify the change in both the directionality and strength of the
+correlations between a microRNA and the gene nodes. Then, the observed DC
+scores are compared to the DC scores obtained with permuted class labels
+to identify microRNAs with signinficant disease-specific differences in
+microRNA-mRNA connectivity.The proposed DC method identifies 54 microRNAs
+which are significantly differentially connected in lung cancer cases
+compared to controls (FDRWe have previously shown that gene expression
+alterations in cytologically normal epithelial cells from the bronchial
+airway can be used as an early detection biomarker for lung cancer in
+smokers. We hypothesize that bronchial epithelial expression of
+microRNAs, as regulators of gene expression, may also be affected by the
+presence of cancer and may regulate some of these gene expression
+differences.We propose a novel method to identify microRNAs functionally
+associated with disease that leverages the relationship between microRNA
+and mRNA expression by determining the differential connectivity (DC) of
+microRNA-mRNA association networks between disease and normal
+states.Bronchial epithelial brushes were collected from 220 former and
+current smokers who underwent bronchoscopy for suspicion of lung cancer
+(120 lung cancer patients and 100 healthy controls). For these subjects,
+we profiled microRNA expression via small RNA sequencing and gene
+expression via microarray.Each microRNA node is assigned a DC score,
+which captures the overall difference in the pairwise microRNA-gene
+correlation strengths between lung cancer and control subjects. We
+quantify the change in both the directionality and strength of the
+correlations between a microRNA and the gene nodes. Then, the observed DC
+scores are compared to the DC scores obtained with permuted class labels
+to identify microRNAs with signinficant disease-specific differences in
+microRNA-mRNA connectivity.The proposed DC method identifies 54 microRNAs
+which are significantly differentially connected in lung cancer cases
+compared to controls (FDR<0.1). Among the 54 microRNAs we find those
+previously associated with lung cancer, such as known dysregulated
+oncomirs, regulators of drug sensitivity to anticancer agents or targets
+for DNA methylation in non-small cell lung cancers. In addition, the
+genes that are significantly correlated with the DC microRNAs are
+enriched in cancer and immune system related pathways, such as membrane
+trafficking, apoptosis, mitotic cell cycle, hemostasis, FC gamma R
+mediated phagocytosis and signaling by Rho GTPases (FDRWe have previously
+shown that gene expression alterations in cytologically normal epithelial
+cells from the bronchial airway can be used as an early detection
+biomarker for lung cancer in smokers. We hypothesize that bronchial
+epithelial expression of microRNAs, as regulators of gene expression, may
+also be affected by the presence of cancer and may regulate some of these
+gene expression differences.We propose a novel method to identify
+microRNAs functionally associated with disease that leverages the
+relationship between microRNA and mRNA expression by determining the
+differential connectivity (DC) of microRNA-mRNA association networks
+between disease and normal states.Bronchial epithelial brushes were
+collected from 220 former and current smokers who underwent bronchoscopy
+for suspicion of lung cancer (120 lung cancer patients and 100 healthy
+controls). For these subjects, we profiled microRNA expression via small
+RNA sequencing and gene expression via microarray.Each microRNA node is
+assigned a DC score, which captures the overall difference in the
+pairwise microRNA-gene correlation strengths between lung cancer and
+control subjects. We quantify the change in both the directionality and
+strength of the correlations between a microRNA and the gene nodes. Then,
+the observed DC scores are compared to the DC scores obtained with
+permuted class labels to identify microRNAs with signinficant
+disease-specific differences in microRNA-mRNA connectivity.The proposed
+DC method identifies 54 microRNAs which are significantly differentially
+connected in lung cancer cases compared to controls (FDR<0.1). Among the
+54 microRNAs we find those previously associated with lung cancer, such
+as known dysregulated oncomirs, regulators of drug sensitivity to
+anticancer agents or targets for DNA methylation in non-small cell lung
+cancers. In addition, the genes that are significantly correlated with
+the DC microRNAs are enriched in cancer and immune system related
+pathways, such as membrane trafficking, apoptosis, mitotic cell cycle,
+hemostasis, FC gamma R mediated phagocytosis and signaling by Rho GTPases
+(FDR<0.1).We propose a novel approach for integrating microRNA and gene
+expression data to identify disease-associated changes in gene regulation
+by microRNAs and show that the microRNA-mRNA networks are significantly
+different between disease and normal states. These data suggest that
+changes in microRNA expression may drive some of the gene expression
+alterations observed in the cytologically normal epithelium from the
+proximal airway of patients with lung cancer and that airway
+microRNA-mRNA expression changes may ultimately serve as a biomarker for
+lung cancer detection.
+

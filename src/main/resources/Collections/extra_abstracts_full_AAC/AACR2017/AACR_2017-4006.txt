@@ -1,0 +1,308 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Immune cell profiles and β-catenin signaling in melanoma.
+
+
+Introduction
+
+Immune profiling is a necessary step in understanding tumor
+microenvironment and predicting the response to immunotherapies.
+
+Methods
+
+We used the expression of genes exclusively expressed by immune cells in
+tumors1, to classify 703 formalin-fixed primary melanomas from the Leeds
+Melanoma Cohort. Transcriptomes were generated from tumor cores using
+Illumina DASL HT 12.4 array. In the obtained tumor subgroups with
+differing immune profiles, we tested the hypothesis that β-catenin
+signaling controls immune suppression in primary tumors as earlier
+reported in vitro and murine data2.
+
+Results
+
+We found and validated 6 tumor classes, which showed consistency with
+other published gene signatures, and predicted melanoma-specific survival
+(HR=1.8, P=0.003, adjusted for AJCC stage, site, age, sex, ulceration,
+mitotic rate, BRAF/NRAS mutation). Tumors of good prognosis expressed
+markedly a large number of markers of T cell cytotoxicity, dendritic
+cells, macrophages, NK CD56 dim cells and genes coding for checkpoint
+co-inhibitor molecules (Table 1). They also had upregulation of
+β-catenin suppressors3 and downregulated β-catenin itself (Table 1). By
+contrast, poor prognosis tumors (the largest group) lacked both innate
+and adaptive immunity, and had activation of canonical β-catenin
+signaling (CTNNB1, its targets and WNT receptors) and WNT-independent
+β-catenin signaling (Table 1).
+
+Conclusion
+
+In a large subset of this population-based cohort of primary tumors, we
+report evidence of immune evasion through β-catenin signaling pathway.
+These results obtained from archival material suggest that transcriptomic
+profiling is a viable alternative to flow cytometry in understanding
+tumor biology and in determining the effectiveness of immunotherapies.
+
+Table 1. Immune scores and β-catenin signaling in good/bad prognosis
+groups
+
+
+
+
+
+Gene expression derived characteristic
+
+Good prognosis
+
+Bad prognosis
+
+
+
+A. Immune scores from gene expression
+
+
+
+
+
+Cytotoxic T cell (e.g. GZMA, GZMH, KLRB1, KILRD1)
+
+up
+
+down
+
+
+
+Dendritic cells (e.g. CD1B, CCL13, CCL22, IDO1, IDO2)
+
+up
+
+down
+
+
+
+NK CD56 dim (e.g. IL21R, GZMB, KIR2DS5, KIR3DL1)
+
+up
+
+down
+
+
+
+Macrophages (e.g. PTGDS, GM2A, CD68, SC5, ATG7)
+
+up
+
+down
+
+
+
+B. Checkpoint molecules
+
+
+
+
+
+PDL1
+
+up
+
+down
+
+
+
+CTLA4
+
+up
+
+down
+
+
+
+VISTA
+
+up
+
+down
+
+
+
+TIM3
+
+up
+
+down
+
+
+
+LAG3
+
+up
+
+down
+
+
+
+BTLA
+
+up
+
+down
+
+
+
+C. β-catenin inhibitors
+
+up
+
+down
+
+
+
+DKK2 (secreted)
+
+up
+
+down
+
+
+
+DKK3 (secreted)
+
+up
+
+down
+
+
+
+SFRP2 (secreted)
+
+up
+
+down
+
+
+
+AXIN2 (intracellular)
+
+up
+
+down
+
+
+
+NKD2 (intracellular)
+
+up
+
+down
+
+
+
+D. β-catenin, its targets and WNT receptors
+
+
+
+
+
+CTNNB1 (β-catenin)
+
+down
+
+up
+
+
+
+DVL1, DVL2, DVL3
+
+down
+
+up
+
+
+
+TCF12, TCF1
+
+down
+
+up
+
+
+
+APC2, APC,c-MyC
+
+down
+
+up
+
+
+
+FZ5, FZ9
+
+down
+
+up
+
+
+
+E. WNT-independent β-catenin signaling
+
+
+
+
+
+FGFR4
+
+down
+
+up
+
+
+
+PYGO1
+
+down
+
+up
+
+
+
+BCL9
+
+down
+
+up
+
+
+
+FOXM1
+
+down
+
+up
+
+
+
+NUP98
+
+down
+
+up
+
+
+
+SMAD4
+
+down
+
+up
+
+
+
+
+
+References
+
+1. Bindea et al. 2013. Immunity 39 (4): 782-95.
+
+2. Spranger et al. (2015). Nature 523:231-5.
+
+3. MacDonald et al. (2009). Developmental Cell 17(1): 9-26.
+
+

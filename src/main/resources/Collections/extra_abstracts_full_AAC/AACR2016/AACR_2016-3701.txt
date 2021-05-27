@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Transcriptomic consequences of MDMX (MDM4) oncoprotein expression
+knockdown in MDMX-amplified breast cancer cells
+
+
+The tumour suppressor p53 is activated by cellular stress to induce cell
+cycle arrest and/or apoptosis. Although the TP53 gene is frequently
+mutated in cancer, approximately half of human cancers express wild type
+and functional p53. However, p53 activity is often suppressed by its
+negative regulators, MDM2 and MDMX. Small molecule antagonists have been
+developed to inhibit p53-MDM2 binding to release the growth inhibitory
+and/or pro-apoptotic functions of p53. Previous studies have indicated
+that MDMX amplification and/or increased protein expression may be
+associated with resistance to MDM2-p53 binding antagonists. However,
+specific inhibitors for MDMX have yet to be developed and an
+MDM2/MDMX-p53 co-inhibitor (RO-5963) does not show better efficacy
+against high MDMX expressing cells than single target MDM2 inhibitors. To
+better understand the cellular function and therapeutic potential of
+targeting MDMX, we have investigated the downstream transcriptomic
+consequences of knocking down MDMX expression.Knockdown of MDMX protein
+expression, demonstrated by Western blot analysis, was achieved in
+MRK-nu-1 MDMX amplified and TP53 wild-type breast carcinoma cells using
+both lentiviral shRNA and siRNA. MRK-nu-1 cell growth suppression was
+observed after knockdown of MDMX. Affymetrix Human Transcriptome Array
+2.0 was used to detect differences in the expression of full genes and
+alternatively spliced forms between negative control and MDMX knockdown
+groups. Transcriptome Analysis Console 3.0 software was used to analyse
+the microarray data to identify significant changes in gene expression,
+alternative splicing and associated functional pathways. Alterations in
+mRNA expression for a selected panel of genes was confirmed by qRT-PCR.A
+greater degree of MDMX expression knockdown was achieved with the siRNA
+(>95%) than the lentiviral shRNA (>50%) This was reflected by increased
+suppression of growth and larger changes in gene expression patterns with
+the siRNA knockdown. Although a similar set of genes was affected by both
+the siRNA and shRNA knockdown, the magnitude of changes was greater
+following the more pronounced knockdown with siRNA. The expression of a
+number of p53 transcriptional target genes was found to be altered,
+including CDKN1A, MDM2, CCNG2, RRM2B, BTG2, ZMAT3 and FAS consistent with
+a role for MDMX in suppression of p53 function in these MDMX amplified
+cells.
+

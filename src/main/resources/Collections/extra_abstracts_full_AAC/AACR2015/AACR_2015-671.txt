@@ -1,0 +1,42 @@
+Meeting: 2015 AACR Annual Meeting
+Title: BKM120-mediated G2 arrest: Structural and functional segregation
+of off-target action and PI3K inhibition
+
+
+Due to its central role in growth, proliferation, survival and migration,
+phosphoinositide 3-kinase (PI3K) is considered as an important drug
+target in oncology (1). BKM120 is one of the clinically most advanced
+PI3K inhibitors (PI3Ki), and is currently listed in more than 80 clinical
+studies aimed at attenuating tumour progression. As an off-target effect,
+BKM120 was reported to disrupt microtubules (MT) at concentrations around
+1 M (2).Here, we elucidate in detail the structural factors defining
+PI3K- and tubulin-binding of BKM120, and present a pure PI3K inhibitor
+(PQR309) and a potent MT disruptor (MTD147) differing from BKM120 by only
+1 Dalton. Separation of PI3Ki and MT disruption activities of BKM120
+allowed profiling of BKM120 against PQR309 and MTD147: cellular growth
+profiles of PQR309 clustered with other PI3Ki such as GDC0941/GDC0980,
+while BKM120 matched MTD147. Both yielded a G2/M cell cycle arrest with
+typical histone3 phosphorylation. Accumulation of G2/M arrested cells was
+already evident at concentrations yielding 50% growth inhibition.
+Interestingly, BKM120 concentrations for 50% cell growth inhibition (with
+evident G2/M arrest) ranged below or within its reported AUC0-24 levels
+at day 8 in patient plasma (3,4). This result implies that the two
+activities of BKM120 cannot be separated, thus complicating the
+understanding of drug action and impacting on the rational of combination
+therapies at relevant drug doses.Using X-ray crystallography we found
+that BKM120 binds to the colchicine pocket on -tubulin. This study
+further highlights the importance of the pyrimidine core orientation for
+tight tubulin binding. Interestingly, activities of regio-isomers of the
+pyrimidine core are inversed for PI3Ki and tubulin association, and
+modulate binding by a factor of >30x. Finally, a combination of
+biochemical, cellular and structural data suggests an inverted
+orientation of BKM120 in the catalytic cleft of PI3K as previously
+proposed (6). In summary, the dissection of BKM120 functions allows
+reassessment of its dominant activity, to increase drug safety, and to
+flexibly control PI3K and/or MT targeting in combination therapy.1. M. P.
+Wymann, R. Schneiter, Nat Rev Mol Cell Biol 9, 162 (2008).; 2. S. M.
+Brachmann et al., Mol Cancer Ther 11, 1747 (2012). 3. J. C. Bendell et
+al., J Clin Oncol 30, 282 (2012). 4. C. Saura et al., Clin Cancer Res 20,
+1935 (2014). 5. A. E. Prota et al., Science 339, 587 (2013). 6. S. M.
+Maira et al., Mol Cancer Ther 11, 317 (2012).
+

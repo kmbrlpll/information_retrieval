@@ -1,0 +1,32 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Change in serum microRNA expression during neoadjuvant
+chemoradiation for rectal cancer
+
+
+IntroductionMicroRNAs (miRNA) expression may change with treatment and
+influence responses in locally advanced rectal cancer (LARC) making them
+potentially useful predictive and prognostic biomarkers. We investigated
+112 miRNAs in serum during chemoradiation for LARC.MethodsTwenty-one
+patients with LARC treated with neoadjuvant chemoradiation were
+prospectively recruited for the study. Serum was collected at three
+time-points: 1) at diagnosis (baseline), 2) at three weeks into treatment
+and 3) at completion of chemoradiation (pre-surgery). Serum was also
+collected from 10 healthy controls. RNA extraction was performed using
+the Norgen total RNA purification kit. Reverse transcription and
+pre-amplification were performed as per the Taqman OpenArray MicroRNA
+Panels manufacturer's instructions. miRNA array qPCR was performed on 112
+miRNA targets using the QuantStudio 12K platform. Differentially
+expressed miRNAs were identified using the delta-delta-Ct method, using
+the endogenous U6 snRNA as the control. Analysis was performed in R,
+using paired t-statistics, and the Benjamini-Hochberg False Discovery
+Rate for multiple hypothesis testing adjustment, with a threshold q
+3-fold. These genes are known to target key rectal cancer genes such as
+SMAD4, BCL2, MSH2 and TGFBR2. An additional three miRNAs changed
+significantly between baseline and week 3: hsa-miR-135b*, hsa-miR-375 and
+hsa-miR-629. All except hsa-miR-135b* became less abundant.ConclusionsTen
+differentially expressed miRNAs appear downregulated during
+chemoradiation in LARC. These miRNAs have been implicated in cell
+proliferation, the epithelial-mesenchymal transition and radiation
+resistance. Further work will be undertaken to understand the functional
+implications of these changes.
+

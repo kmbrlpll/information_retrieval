@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Development of a quantitative targeted RNA-Seq methodology for use
+in differential gene expression analysis
+
+
+RNA Sequencing (RNA-Seq) uses the capabilities of Next Generation
+high-throughput sequencing (NGS) methods to provide insight into the
+transcriptome of a cell as it generates millions of reads. Whole
+transcriptome sequencing can be used to quantify gene expression on a
+transcriptome-wide scale, identify splice variants, quantify allele
+specific expression, and characterize fusion transcripts. Development of
+a highly reproducible and sensitive targeted quantitative sequencing
+method would aid in facilitating a deeper understanding and
+characterization of the roles of a specific set of genes, while enabling
+much higher sample throughput and significant cost savings relative to
+whole-transcriptome sequencing. In this study, we report a targeted
+RNA-Seq technology, QIAseq RNA, which makes use of several methodologies
+to deliver an extremely flexible, highly precise tool for characterizing
+gene expression. QIASeq RNA incorporates 12-base random molecular
+barcodes into each unique target strand which benefits quantifying gene
+expression in a given multiplexed sample. Counting the number of
+molecular tags allows one to determine the sequence coverage per target
+and adjust experimental conditions to use the read budget of any
+sequencing platform most efficiently. Using either the Illumina or Ion
+Torrent platforms, users can choose to multiplex up to 96 RNA samples
+from 12 to 1000-plex expression panels. No mRNA selection or rRNA removal
+or blocking is required. The entire protocol, from cDNA synthesis to
+finished library, which is ready for sequencing, can be accomplished in
+under one day. Custom assays for a specific target site can add the
+ability to distinguish between isoforms or identify allele specific
+expression. We explore the capabilities of this system by profiling large
+numbers of genes in a cell model system's response to small molecule
+treatment. Changes in gene expression by these treatments were measured
+by targeted RNA NGS, and fold-changes in gene expression due to chemical
+perturbation were characterized. Complex gene relationships in perturbed
+pathways were mapped using QIAGEN's Ingenuity Pathway Analysis (IPA)
+tool. The IPA tool also facilitated the elucidation of the impact of gene
+expression changes in the context of biological processes, molecular
+interactions, cellular phenotypes and disease. This article will provide
+application data for GRRC including a discussion of technical challenges
+faced when profiling large numbers of genes in a large cohort.
+

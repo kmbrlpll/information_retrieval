@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Co-expression modules as hallmarks of breast cancer survival and
+response.
+
+
+Background: Co-expression modules in cancer are cohesive groups of genes
+with highly correlated expression patterns, presumably regulating
+phenotypes important in carcinogenesis, metastasis, or response to
+treatment. With the growing database of gene expression data, it is now
+possible to deduce co-expression modules active in breast cancer
+subpopulations.Methods: We assembled 74 breast-cancer related gene
+expression datasets containing 5,500 samples altogether. Per dataset, we
+identified genes with bimodal expression analyzed using mixture-model
+clustering to ultimately find gene groups that are consistently
+co-regulated across multiple datasets. Functional and pathway enrichment
+of modules was assessed using DAVID and g:profiler software tools.
+Associations between module expression and patient outcome, chemotherapy
+response, clinical variables, epithelial vs. stromal expression,
+intrinsic subtype and other published signatures were assessed using
+standard statistical methods.Results: Our meta-analysis identified 11
+modules ranging in size from 5-200 genes. As expected, there were modules
+representing estrogen signaling, cell proliferation, and ERBB2 signaling
+that correlate with intrinsic subtype and receptor status. In addition,
+we found modules associated with immune signaling, development, histone
+modification, and the ECM. The immune modules were highly correlated to
+previously published Tcell/Bcell, STAT1, and IFN immune signatures. In
+multivariate analysis, the combination of a downregulated Tcell/Bcell
+immune module and an upregulated proliferation module associated with
+recurrence, suggesting that cancers with a high proliferation rate in the
+absence of an activated immune system are prone to recur. This
+association was especially strong in TN and basal cancers. Comparing
+modules associated with response to chemotherapy to those associated with
+the prognosis of untreated patients, the most common pattern was that of
+a module associating with good prognosis or a good response to
+chemotherapy (but not both). For instance, high expression of the
+estrogen module associates with a good prognosis but a poor response to
+chemotherapy, whereas upregulation of the proliferation module associates
+with a poor prognosis but a good response to chemotherapy. Another
+pattern we observed, of a biomarker that associates with good prognosis
+without chemotherapy and a good response to chemotherapy, was found in
+the T/B cell immune modules.Conclusion: Co-expression modules provide a
+high-level functional view of breast cancer that complements the cancer
+hallmarks. These results suggest that in some high-immune patients, the
+same host processes contributing to an excellent response to chemotherapy
+might preclude its necessity, and support a treatment strategy boosting
+anti-tumoral immunity in low-immunity patients with highly proliferating
+tumors.
+

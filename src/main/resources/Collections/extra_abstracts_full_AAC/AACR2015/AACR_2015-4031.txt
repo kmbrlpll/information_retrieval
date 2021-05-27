@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: CDK4/6 inhibition amplifies IMiD killing of myeloma cells by
+accelerating CRL4CRBN-dependent degradation of IKZF1 and IKZF3 in
+opposition to MEIS2
+
+
+The immunomodulatory drugs (IMiDs) lenalidomide (Len) and pomalidomide
+(Pom) are effective therapies for hematologic malignancies, especially
+multiple myeloma (MM). Cereblon (CRBN) is required for IMiD's
+anti-myeloma activity. Emerging evidence has established that CRBN is a
+substrate receptor of the CUL4-ROC1-DDB1-CRBN (CRL4CRBN) E3 ligase
+complex and that the homeobox transcription factor MEIS2 is an endogenous
+substrate of CRL4CRBN. IMiDs block MEIS2 from binding to CRBN, thereby
+facilitating the recruitment of transcription factors IKZF1 and IKZF3 to
+CRL4CRBN for ubiquination-proteasome degradation. IKZF1 and IKZF3 appear
+to be required for MM survival, in part by transcriptional regulation of
+IRF4.These findings, obtained in heterologous systems and MM cell lines,
+suggest that modulation of the CRL4CRBN E3 ligase is a critical early
+event in IMiD killing of MM cells. We investigated its physiologic
+relevance in primary bone marrow myeloma cells (BMMCs) in co-culture with
+HS-5 bone marrow stromal cells. We showed that IMiDs preferentially kill
+BMMC in G1 arrest and that induction of prolonged early G1 arrest (pG1)
+by selective inhibition of CDK4/CDK6 with palbociclib (PD 0332991)
+markedly enhanced Len/Pom killing of BMMCs (14/21), unless the BMMCs were
+refractory or extremely sensitive to Len (n = 7). Importantly, the IMiD
+sensitivity in BMMCs ex vivo correlates with subsequent clinical
+responses to IMiD-based therapies in vivo in 7/7 cases characterized.
+This novel finding suggests that although IMiDs target multiple cell
+types, the intrinsic IMiD sensitivity is a major determinant for the
+clinical response to IMiDs in MM.Whole transcriptome sequencing and gene
+set enrichment analysis further revealed that Len induces the interferon
+response signature genes in BMMCs, and this is enhanced by palbocicib.
+While CRBN is ubiquitously expressed, IKZF3 and IRF4 (mRNA and protein)
+and the IKZF1 protein were barely detectable in normal bone marrow plasma
+cells and prominently increased in BMMCs. Primary myeloma cells thus
+appear to be addicted to IKZF1/IKZF3-IRF4 signaling for survival, and
+IMIDs induce CRL4CRBN-mediated degradation of IKZF1 and IKZF3 to
+antagonize this survival pathway. Accordingly, palbociclib enhancement of
+Len killing was associated with rapid acceleration of IKZF1/IKZF3
+degradation, within one hour of Len treatment in BMMCs. Palbociclib acts
+in opposition of MEIS2, because MEIS2 knockdown mimicked palbociclib
+sensitization and MEIS2 reconstitution antagonized palbociclib
+sensitization.In summary, we have demonstrated that induction of pG1 by
+CDK4/6 inhibition sensitizes primary myeloma cells to IMiD killing
+through rapid acceleration of CRL4CRBN -dependent degradation of IKZF1
+and IKZF3 in opposition to MEIS2. These findings are being validated in a
+clinical trial targeting CDK4/6 with palbociclib in combination with Len
+in MM.Note: This abstract was not presented at the meeting.
+

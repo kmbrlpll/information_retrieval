@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Pin1 suppresses androgen receptor activity
+
+
+Reactivation of the androgen receptor (AR) is the hallmark of prostate
+cancer (PCa) progression to the castration resistant prostate cancer
+(CRPC) phenotype. Currently, treatment for CRPC strives to impede the
+full-length AR (AR-FL) from becoming activated through targeting the
+ligand binding domain (LBD) via androgen deprivation therapy or treatment
+with antiandrogens. However, these options can give rise to AR-variants
+(AR-Vs) that lack the LBD and are unresponsive to treatment. Therefore,
+targeting the N-terminus of AR, which is conserved between AR-FL and
+AR-Vs, is critical for identifying new treatment options. Phosphorylation
+of serine 81 (AR-pS81) in the N-terminus of AR is critical for AR
+activation, stability and recruitment to the chromatin. Similar
+phosphorylation sites can be observed in the N-terminus of both AR-FL and
+AR-Vs. Expression of Pin1, a proline isomerase, exhibits a strong
+correlation with progression and relapse of PCa. Also, suppression of
+Pin1 in PCa decreases cell proliferation rates, suggesting that Pin1 may
+play a pivotal role in PCa progression. Pin1 isomerizes proline residues
+from trans to cis when the adjacent serine/threonine residue is
+phosphorylated. Dephosphorylation by phosphatases occurs when a pS-P
+motif is in the trans conformation. Therefore, Pin1 isomerization of AR
+pS81-P82 from trans to cis could prevent dephosphorylation and result in
+constitutive or enhanced AR activity. Stable cell lines with Pin1
+knockdown were generated via shRNA targeting the 5 UTR of Pin1 that
+express either AR-FL and/or AR-Vs. Pin1 knockdown was confirmed by
+western blots, and AR activity was monitored by expression of several AR
+regulated genes. Additionally, AR recruitment to chromatin was assayed by
+ChIP and Re-Chip. Loss of Pin1 resulted in a 60% reduction of endogenous
+PSA expression, and AR was unable to induce PSA expression when treated
+with androgens. However, suppression of AR activity was not due to
+decreased recruitment of AR to chromatin. Phosphorylation of AR-pS81 was
+decreased by loss of Pin1, while protein stability and mRNA expression
+was not altered. These data suggest that Pin1 may play a critical role in
+regulating the transcriptional activity of AR by altering the
+accessibility of AR to interact with transcriptional machinery needed to
+maintain AR activity. (Funding for this project was provided by the T.J.
+Martell Foundation).
+

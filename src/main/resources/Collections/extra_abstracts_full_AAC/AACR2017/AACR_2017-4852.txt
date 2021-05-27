@@ -1,0 +1,65 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Targeting cancer progression genes upregulated in
+CREB3L1-deficient breast cancer cells.
+
+
+Introduction: Our laboratory is interested in determining ways to block
+breast cancer metastasis. We discovered that CREB3L1 (cAMP responsive
+element binding protein 3-like protein), a stress-activated transcription
+factor, acts as a metastasis suppressor in breast cancer. CREB3L1 is
+expressed ubiquitously in noncancerous human breast cells and restricts
+expression of genes that promote cell growth, angiogenesis, and
+migration. Loss of CREB3L1 expression is a frequent event in high-grade
+metastatic human breast tumors and can result in enhanced metastatic
+properties.
+
+Experimental Procedures: To establish the mechanisms by which CREB3L1
+exerts its tumor suppressive effects, a gene expression microarray
+analysis was performed to determine which genes are upregulated in
+CREB3L1-deficient breast cancer cells. Six hundred and eighty genes were
+statistically significantly upregulated at least 2-fold in all 4 of the
+CREB3L1-deficient cell lines assessed. To focus our analysis, 4 genes
+were identified as potential targets for this study, given that they have
+previously been shown to have a role in cancer progression. Knockdowns
+were generated for each of the 4 genes in a CREB3L1-deficient breast
+cancer cell line (HCC1806) and matched CREB3L1-expressing cells (HCC1806
++ HA-CREB3L1), as well as a nontumorigenic control breast cell line
+(MCF10A). To knockdown expression of each of the 4 targets, shRNA
+directed at the gene of interest was transduced via a lentiviral system
+into the cells. Cell-based assays were performed to characterize the
+properties of these cell lines, which included the Boyden chamber assay
+to measure migration, soft agar assay to assess anchorage-independent
+growth, and the MTT assay to evaluate cell proliferation.
+
+Results: Successful knockdown at both the mRNA and protein level for each
+target gene was validated using quantitative real time PCR and
+immunoblotting. Results from the MTT assay verified that knockdown of
+each of the 4 gene targets did not affect cell survival in MCF10A cells,
+confirming that these test genes are not essential for survival in
+noncancerous breast cells (p > 0.05). Similarly, knockdown of each of the
+test genes did not affect cell proliferation in HCC1806 (± CREB3L1)
+cells, except for a significant decrease in proliferation in HCC1806
+CREB3L1-deficient cells with Gene 1 knockdown (p =0.02). Preliminary
+results indicate that knockdown of Genes 1, 2, and 4 in HCC1806
+CREB3L1-deficient cells reduces cancer cell properties, including cell
+migration and anchorage-independent growth (p Results: Successful
+knockdown at both the mRNA and protein level for each target gene was
+validated using quantitative real time PCR and immunoblotting. Results
+from the MTT assay verified that knockdown of each of the 4 gene targets
+did not affect cell survival in MCF10A cells, confirming that these test
+genes are not essential for survival in noncancerous breast cells (p >
+0.05). Similarly, knockdown of each of the test genes did not affect cell
+proliferation in HCC1806 (± CREB3L1) cells, except for a significant
+decrease in proliferation in HCC1806 CREB3L1-deficient cells with Gene 1
+knockdown (p =0.02). Preliminary results indicate that knockdown of Genes
+1, 2, and 4 in HCC1806 CREB3L1-deficient cells reduces cancer cell
+properties, including cell migration and anchorage-independent growth (p
+< 0.05).
+
+Conclusions: Promising candidates will be tested in follow-up mouse
+xenograft studies. Encouraging results in these pre-clinical models would
+provide a strong rationale for the development and testing of inhibitors
+to one or more of these potential targets as a new therapeutic for the
+30% of breast cancers that are CREB3L1-deficient.
+
+

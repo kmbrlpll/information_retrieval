@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Changes in Nrdp1 regulation of ErbB3 in androgen-dependent vs.
+independent prostate cancer
+
+
+In prostate cancer, the androgen receptor (AR) is a major regulator of
+gene transcription. We previously demonstrated that the E3 ubiquitin
+ligase Nrdp1 is transcriptionally regulated by the AR [Chen, L., Cancer
+Res, 2010]. The effect of the AR on ErbB3 is mediated by Nrdp1, which
+regulates the degradation of ErbB3. Therefore, we investigated the
+function of the various domains of Nrdp1 on ErbB3 in prostate cancer.
+ErbB3 is a major factor in cell growth and proliferation so finding ways
+to regulate it would be beneficial for patient survival. We found that
+the Nrdp1 protein had two splice variants, a full length 36kDa protein
+and a C-terminal 28kDa protein. In addition, the full-length protein
+remained in the cytoplasm of LNCaP cells, which are androgen dependent,
+while the 28kDa protein went into the nucleus of C4-2 cells, an androgen
+independent subline of LNCaP cells. To further investigate the
+subcellular difference and role of these two splice variants on ErbB3, we
+used 4 flag tagged vectors that contain either full-length Nrdp1 (Nrdp1),
+an N-terminal Nrdp1 containing amino acids 1-169 (Zn), a C-terminal Nrdp1
+containing amino acids 169-317 (32) , and an Nrdp1 lacking the coiled
+coil domain (CC). We found that the CC vector caused an increase of cell
+proliferation in LNCaP cells, an androgen dependent cell line, with no to
+little change in cell proliferation in its androgen independent sub cell
+lines, LNCaP R273H (LNCaP stably transfected with a mutated p53), C4-2,
+and C4-2B, and PC3 and PC3 WT-AR cells. Despite this, we found that the
+CC protein caused a decrease of ErbB3 protein in all cell lines. We also
+performed subcellular fractionation on these cell lines transfected with
+the Nrdp1 flag vectors. All of the Nrdp1 proteins were found in the
+cytoplasm of the cell lines. In addition, the CC protein was also found
+in the nuclear fraction of LNCaP R273H, C4-2, and C4-2B, while in LNCaP
+cells the Zn protein was also found in the nuclear fraction and in PC3
+cells the 32 protein was also found in the nuclear fraction. In LNCaP
+cells, ErbB3 was found in the nucleus when transfected with Nrdp1
+protein, Zn protein, and 32 protein, but found in the cytoplasm when
+transfected with the CC protein. However, in LNCaP R273H, C4-2, and C4-2B
+cell lines, ErbB3 was found in the nucleus when transfected with all of
+the Nrdp1 vectors. Based on available data, we concluded that the coiled
+coil domain is important for ErbB3 protein regulation, but it had
+opposing effects in castration sensitive and resistant cells. In
+castration sensitive LNCaP cells, the coiled coil domain of Nrdp1 likely
+suppresses ErbB3-mediated cell proliferation by preventing ErbB3
+translocation from the nucleus to the cytoplasm. However, in castration
+resistant cells, the coiled coil domain prevents the degradation of ErbB3
+by Nrdp1. Further studies are required to determine the mechanism of
+action of the Nrdp1 coiled coil domain in these two phenotypes.
+

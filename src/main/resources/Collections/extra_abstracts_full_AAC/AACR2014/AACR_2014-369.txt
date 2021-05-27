@@ -1,0 +1,33 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Network-based stratification of thyroid cancer
+
+
+Many forms of cancer consist of multiple subtypes with different
+molecular causes and clinical outcomes. Somatic tumor genomes provide a
+rich new source of data for uncovering these subtypes, but have proven
+difficult to compare as two tumors share little in their genetic
+landscapes. Recently, we have introduced a method called network-based
+stratification (NBS) which integrates somatic tumor genomes with gene
+networks. This approach allows for stratification of cancer into
+informative subtypes by clustering together patients who have mutations
+within similar network regions. Here we apply NBS to a combination of
+whole-exome somatic mutation data, copy number aberrations and gene
+fusion events in a cohort of thyroid cancer (TC) patients, an as yet
+unpublished part of The Cancer Genome Atlas (TCGA). Using NBS combined
+with the HumanNet gene interaction network we were able to discover a
+robust cluster assignment of thyroid patients into three subtypes. These
+subtypes are found to significantly associate with histological type (X2
+P = 5.42x10-22) and are also found to be predictive multiple clinical
+variables such as predicted risk of recurrence (X2 P = 9.95x10-6,
+estimated based on standard (TNM) staging by AJCC Cancer Staging Manual.
+7th ed.), extra-thyroidal expansion(X2 P = 4.68x10-7), lymph node status
+(pathological N stage, X2 P = 9.25x10-4), and pathological T stage (X2 P
+= 4.46x10-3). In each subtype we highlight the characteristically
+perturbed genes and subnetworks (Table 1) and further explore the
+association of mRNA and protein expression to these subtypes. The study
+demonstrates the utility of combining genomic profiles with interaction
+networks, enabling the discovery of clinically meaningful mutation based
+subtypes and provides genetic based subtypes with potential clinical
+implications.
+
+

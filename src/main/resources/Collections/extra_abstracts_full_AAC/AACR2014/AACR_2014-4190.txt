@@ -1,0 +1,28 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A survey of the most common methods of group randomization and
+distribution in preclinical in vivo studies
+
+
+To more closely emulate clinical research methodology and improve
+clinical relevance, researchers are increasingly utilizing
+clinically-similar group randomization and distribution methods for
+oncology studies in animals. One common pre-clinical approach, a random
+number generator in a spreadsheet, is paradoxically the least
+clinically-relevant, and subject to manual and transcription errors. This
+method provides no easy way to exclude animals from distribution based on
+other qualitative or quantitative data parameters. Due to limitations in
+spreadsheet software, commercially available pre-clinical trial
+applications can be used to perform the most recommended randomization
+and distribution methods based on tumor volume or other parameters:
+deterministic and matched distribution, pure randomization, stratified
+sampling randomization and block randomization across multiple numeric
+parameters. Subjects may be excluded initially based on recorded
+qualitative observations, and then by acceptable value ranges for numeric
+parameters. Animals can be randomized iteratively in rolling enrollment
+studies and previously randomized subjects can be re-randomized into new
+groups as required on drug-resistance studies. ANOVA results are
+displayed instantly to ensure similarity between groups. Standardizing
+randomization and distribution using clinically relevant methods improves
+the efficiency, clinical relevance, and outcome of animal studies
+relative to spreadsheet-based methods.
+

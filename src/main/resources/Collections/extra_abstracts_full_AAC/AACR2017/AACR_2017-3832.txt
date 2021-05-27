@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Optimization strategy for fluorescent multiplex
+immunohistochemistry tissue staining.
+
+
+Introduction: Recent insights into the tumor microenvironment have fueled
+the need for additional information beyond the one or two phenotypes
+provided by traditional immunohistochemistry (IHC). As a response, manual
+and automated fluorescent multiplex immunohistochemistry (fIHC)
+techniques have been recently developed and accepted by the
+immuno-oncology space. Fluorescent multiplex immunohistochemistry (fIHC)
+assays are designed to simultaneously measure multiple biomarkers in
+tissue sections with visual context that is lost in other methods, such
+as flow cytometry. Here we describe a novel optimization strategy to
+achieve quantitative, robust, and specific multiplex fIHC staining
+results with both manual and automated multiple-color Opal procedures.
+
+Methods: Formalin-fixed paraffin-embedded samples of primary tumors were
+immunostained using Opal™ reagents both manually and on a fully
+automated Leica BOND RX™ stainer. The impact of different reagent
+concentrations and quantities were analyzed in respect to signal
+specificity and robustness, stripping efficiency, signal co-localization,
+signal to noise, and color separation. Images were acquired on a Vectra
+3.0® automated imaging system, and analyzed with inForm® software.
+
+Results: The goals of this study were two-fold:
+
+-to understand the impact of Opal reagent concentrations/quantities on
+fluorescent signal intensities acquired from cells within the context of
+tissue.
+
+-to develop an Opal reagent optimization method that yields more
+consistent, quantitative results from separated and co-localized
+fluorescent signals.
+
+We’ve applied this novel fIHC experimental approach and optimization
+strategy to Opal monoplex and multiplex assays and explored staining
+robustness, contextual specificity, staining order independence, and
+co-localized signal separation. Using the novel optimization strategy, we
+have achieved optimal staining patterns with improved confidence in the
+quantitative characteristics of the assay. Tissue sections stained after
+optimization have exhibited staining order independence and closely align
+with traditional IHC patterns.
+
+Conclusion: This novel optimization strategy, developed for Opal fIHC
+assays, is more quantitative, improves staining results, and minimizes
+interference between co-localized biomarkers.
+
+

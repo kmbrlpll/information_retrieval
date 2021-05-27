@@ -1,0 +1,122 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The mutational landscape of mucinous carcinomas of the breast
+
+
+Background: Mucinous breast carcinoma (MBC) is a special histologic type
+of breast cancer, comprising approximately 2% of all invasive breast
+carcinomas. Morphologically, MBCs are characterized by clusters of tumor
+cells floating in large amounts of extracellular mucin. MBCs are
+preferentially of low histologic grade and estrogen receptor
+(ER)-positive and HER2-negative. MBCs have been shown to lack the
+hallmark 1q gains and 16q losses found in low-grade ER-positive invasive
+ductal carcinomas of no special type (IDC-NSTs). Here we sought to
+characterize the mutational landscape and copy number alterations (CNA)
+of MBCs by whole exome sequencing analysis.Material and Methods: Frozen
+sections from 25 pure MBCs (n = 13 mucinous A (paucicellular), n = 12
+mucinous B (hypercellular)) were subjected to microdissection to ensure a
+tumor cell content >85%. In addition, five cases of mixed mucinous
+carcinomas composed of mucinous and IDC-NST components were included in
+this study. In these cases, the MBC and IDC-NST components were
+microdissected separately. DNA samples extracted from microdissected
+tumors and matched normal counterparts were subjected to whole exome
+sequencing on an Illumina HiSeq2000. Somatic single nucleotide variants
+(SNVs) were identified using MuTect and somatic insertions and deletions
+(indels) were identified using Strelka and Varscan2. Somatic CNAs were
+defined using FACETS. Mutational frequencies in MBCs were compared to
+those of luminal IDC-NSTs from The Cancer Genome Atlas.Results: A median
+of 26 (range 5-71) non-synonymous SNVs and indels were identified per
+MBC. GATA3, mutated in 28% of cases, was the only significantly mutated
+gene as defined by MutSigCV (qBackground: Mucinous breast carcinoma (MBC)
+is a special histologic type of breast cancer, comprising approximately
+2% of all invasive breast carcinomas. Morphologically, MBCs are
+characterized by clusters of tumor cells floating in large amounts of
+extracellular mucin. MBCs are preferentially of low histologic grade and
+estrogen receptor (ER)-positive and HER2-negative. MBCs have been shown
+to lack the hallmark 1q gains and 16q losses found in low-grade
+ER-positive invasive ductal carcinomas of no special type (IDC-NSTs).
+Here we sought to characterize the mutational landscape and copy number
+alterations (CNA) of MBCs by whole exome sequencing analysis.Material and
+Methods: Frozen sections from 25 pure MBCs (n = 13 mucinous A
+(paucicellular), n = 12 mucinous B (hypercellular)) were subjected to
+microdissection to ensure a tumor cell content >85%. In addition, five
+cases of mixed mucinous carcinomas composed of mucinous and IDC-NST
+components were included in this study. In these cases, the MBC and
+IDC-NST components were microdissected separately. DNA samples extracted
+from microdissected tumors and matched normal counterparts were subjected
+to whole exome sequencing on an Illumina HiSeq2000. Somatic single
+nucleotide variants (SNVs) were identified using MuTect and somatic
+insertions and deletions (indels) were identified using Strelka and
+Varscan2. Somatic CNAs were defined using FACETS. Mutational frequencies
+in MBCs were compared to those of luminal IDC-NSTs from The Cancer Genome
+Atlas.Results: A median of 26 (range 5-71) non-synonymous SNVs and indels
+were identified per MBC. GATA3, mutated in 28% of cases, was the only
+significantly mutated gene as defined by MutSigCV (q<0.1). Compared to
+IDC-NSTs of luminal molecular subtype, MBCs were found to harbor
+significantly fewer mutations in TP53 (3% vs 19%, pBackground: Mucinous
+breast carcinoma (MBC) is a special histologic type of breast cancer,
+comprising approximately 2% of all invasive breast carcinomas.
+Morphologically, MBCs are characterized by clusters of tumor cells
+floating in large amounts of extracellular mucin. MBCs are preferentially
+of low histologic grade and estrogen receptor (ER)-positive and
+HER2-negative. MBCs have been shown to lack the hallmark 1q gains and 16q
+losses found in low-grade ER-positive invasive ductal carcinomas of no
+special type (IDC-NSTs). Here we sought to characterize the mutational
+landscape and copy number alterations (CNA) of MBCs by whole exome
+sequencing analysis.Material and Methods: Frozen sections from 25 pure
+MBCs (n = 13 mucinous A (paucicellular), n = 12 mucinous B
+(hypercellular)) were subjected to microdissection to ensure a tumor cell
+content >85%. In addition, five cases of mixed mucinous carcinomas
+composed of mucinous and IDC-NST components were included in this study.
+In these cases, the MBC and IDC-NST components were microdissected
+separately. DNA samples extracted from microdissected tumors and matched
+normal counterparts were subjected to whole exome sequencing on an
+Illumina HiSeq2000. Somatic single nucleotide variants (SNVs) were
+identified using MuTect and somatic insertions and deletions (indels)
+were identified using Strelka and Varscan2. Somatic CNAs were defined
+using FACETS. Mutational frequencies in MBCs were compared to those of
+luminal IDC-NSTs from The Cancer Genome Atlas.Results: A median of 26
+(range 5-71) non-synonymous SNVs and indels were identified per MBC.
+GATA3, mutated in 28% of cases, was the only significantly mutated gene
+as defined by MutSigCV (q<0.1). Compared to IDC-NSTs of luminal molecular
+subtype, MBCs were found to harbor significantly fewer mutations in TP53
+(3% vs 19%, p<0.001) and PIK3CA (6% vs 41%, pBackground: Mucinous breast
+carcinoma (MBC) is a special histologic type of breast cancer, comprising
+approximately 2% of all invasive breast carcinomas. Morphologically, MBCs
+are characterized by clusters of tumor cells floating in large amounts of
+extracellular mucin. MBCs are preferentially of low histologic grade and
+estrogen receptor (ER)-positive and HER2-negative. MBCs have been shown
+to lack the hallmark 1q gains and 16q losses found in low-grade
+ER-positive invasive ductal carcinomas of no special type (IDC-NSTs).
+Here we sought to characterize the mutational landscape and copy number
+alterations (CNA) of MBCs by whole exome sequencing analysis.Material and
+Methods: Frozen sections from 25 pure MBCs (n = 13 mucinous A
+(paucicellular), n = 12 mucinous B (hypercellular)) were subjected to
+microdissection to ensure a tumor cell content >85%. In addition, five
+cases of mixed mucinous carcinomas composed of mucinous and IDC-NST
+components were included in this study. In these cases, the MBC and
+IDC-NST components were microdissected separately. DNA samples extracted
+from microdissected tumors and matched normal counterparts were subjected
+to whole exome sequencing on an Illumina HiSeq2000. Somatic single
+nucleotide variants (SNVs) were identified using MuTect and somatic
+insertions and deletions (indels) were identified using Strelka and
+Varscan2. Somatic CNAs were defined using FACETS. Mutational frequencies
+in MBCs were compared to those of luminal IDC-NSTs from The Cancer Genome
+Atlas.Results: A median of 26 (range 5-71) non-synonymous SNVs and indels
+were identified per MBC. GATA3, mutated in 28% of cases, was the only
+significantly mutated gene as defined by MutSigCV (q<0.1). Compared to
+IDC-NSTs of luminal molecular subtype, MBCs were found to harbor
+significantly fewer mutations in TP53 (3% vs 19%, p<0.001) and PIK3CA (6%
+vs 41%, p<0.001). Mucinous subtypes A and B did not differ in terms of
+mutations and/ or CNAs, whereas MBCs of mixed phenotype harbored a
+greater extent of genomic instability. While MBC and IDC-NST components
+of mixed MBCs shared the majority of the somatic genetic alterations,
+indicating their clonal relatedness, mutations and CNAs restricted to
+either the MBC or the IDC-NST components were also identified.
+Furthermore, CNA analysis confirmed our previous observations that MBCs,
+contrary to low-grade ER-positive IDC-NSTs, lack concurrent copy number
+gains of 1q and 16p and losses of 16q.Conclusions: Our data suggest that
+the repertoires of somatic mutations and gene CNAs of MBCs are distinct
+from those of luminal IDC-NSTs, and that MBCs are an entity distinct from
+low-grade ER-positive IDC-NSTs not only at the morphologic but also at
+the genetic level.
+

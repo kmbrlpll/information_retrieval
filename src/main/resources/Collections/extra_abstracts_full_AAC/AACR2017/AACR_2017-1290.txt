@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Association of common genetic variants with TMPRSS2 ERG fusion
+status in prostate cancer.
+
+
+Introduction and Objectives: Oncogenic activation of ERG resulting from
+prevalent gene fusions is present in two thirds of prostate cancer (CaP)
+patients of European Ancestry including Caucasian Americans (CA). Our
+laboratory and others have recently reported that major cancer driver
+genes, including ERG, show significant racial/ethnic differences in CaP
+with lower frequencies in African Americans (AA), Africans and Asians.
+Racial differences of CaP associated SNPs have also been extensively
+described. However, there is limited data on germline association with
+ERG fusion status. The goal of this study is to identify germline
+molecular determinants associating with ERG status of CaP.
+
+Methods: Blood derived genomic DNA samples were prepared from 270 AA men
+and 129 CA men treated by radical prostatectomy at Walter Reed National
+Military Medical Center (WRNMMC). ERG status was determined in whole
+mounted prostate specimens by immuno-histochemistry (IHC) for ERG protein
+expression as a surrogate for the TMPRSS2-ERG fusion. Blinded blood
+samples were genotyped for SNPs on the Illumina Golden Gate platform
+using Infinium Oncoarray, a 500K genome wide BeadChip kit from Illumina.
+Data analysis approaches included association analyses based on logistic
+regression, Principal Component Analysis (PCA) and Efficient Mixed-Model
+Association eXpedited (EMMAX) analysis. Genotype imputation analysis is
+being performed by IMPUTE2 program.
+
+Results: After applying rigorous sample and SNP QC steps on the datasets,
+SNP genotyping analysis was performed in 321 patients with 478,299 SNPs.
+Logistic regression, principal component analysis by EIGENSTRAT and a
+variance component approach, EMMAX analysis were performed to account for
+population structure. By EMMAX we identified SNPs associated with ERG
+status. The SNPs most significantly (Results: After applying rigorous
+sample and SNP QC steps on the datasets, SNP genotyping analysis was
+performed in 321 patients with 478,299 SNPs. Logistic regression,
+principal component analysis by EIGENSTRAT and a variance component
+approach, EMMAX analysis were performed to account for population
+structure. By EMMAX we identified SNPs associated with ERG status. The
+SNPs most significantly (<10-5) associated with ERG fusion status
+included rs6698333, an intron variant of Kruppel-like factor 17 (KLF17)
+and two SNPs (rs1889877, rs3798999) in the intron of adhesion G
+protein-coupled receptor B3 (ADGRB3). Fine-mapping of SNPs is underway by
+genotype imputation analysis (IMPUTE2) using the 1000 Genomes reference
+dataset, followed by independent validation.
+
+Conclusions: This study identified SNPs differentially associated with
+ERG status of CaP, a major driver oncogene in CaP. Although the
+biological significance as it relates to ERG status of CaP still needs to
+be determined, these SNPs, with independent validation, may help as
+markers in stratifying patients early (even before CaP is detected) for
+targeted prevention and treatment options.
+
+

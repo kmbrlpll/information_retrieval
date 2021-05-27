@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Hsp90 inhibition results in GR, AR and JAK protein degradation,
+decreased triple-negative breast cancer proliferation and increased
+paclitaxel sensitivity
+
+
+Glucocorticoid receptor (GR) activity in triple-negative breast cancer
+(TNBC) is associated with cell survival and chemotherapy resistance.
+Targetable molecular drivers for TNBC have been difficult to identify and
+therefore standard treatment remains limited to chemotherapy. Recently,
+new-generation small molecule Hsp90 inhibitors (e.g. ganetespib and
+NVP-AUY922) have proven to be both potent inhibitors of Hsp90 client
+proteins and far less toxic than previous Hsp90 inhibitors. Moreover,
+favorable clinical responses have been observed in some TNBC patients
+enrolled in a phase II clinical trial of ganetespib monotherapy. A
+ganetespib and paclitaxel clinical trial is ongoing in breast cancer;
+however, it is not known which Hsp90 client proteins contribute to
+increased tumor chemotherapy sensitivity.Recent studies in our lab found
+that inhibition of glucocorticoid receptor (GR) activity plays an
+important role in Hsp90 inhibitor-mediated sensitization of TNBC cells to
+paclitaxel-induced cytotoxicity. However, we also observed that following
+significant shRNA-mediated GR depletion, ganetespib still provided some
+sensitization of TNBC cells to paclitaxel. This suggests that
+inactivation of additional anti-apoptotic Hsp90 client proteins play a
+role in mediating ganetespib effects. Proteins closely associated with GR
+function that are also key Hsp90 inhibitor client proteins include the
+androgen receptor (AR, implicated in TNBC proliferation and apoptosis)
+and JAK, a component of JAK/STAT signaling pathway implicated in TNBC
+tumorigenesis and chemoresistance. Here we hypothesize that AR and
+JAK/STAT signaling have overlapping but distinct roles in Hsp90-mediated
+chemotherapy sensitization of TNBCs. Western blot analysis of TNBC
+xenografts treated with ganetespib +/- paclitaxel showed depletion of AR
+as well as JAK1 and 2. Ganetespib treatment also led to decreased levels
+of TMPRSS2 gene expression, an AR target gene. Additionally Western blot
+analysis showed decreased levels of activated phosphorylated STAT3
+transcriptional factor, a downstream mediator of JAK, following
+ganetespib treatment of TNBC cell lines. These results suggest the
+involvement of AR and JAK in mediating ganetespib mechanism of action. We
+are currently beginning to determine how AR and JAK/STAT signaling
+pathways may interact with GR signaling by establishing CRISPR/Cas9
+knockouts of GR, AR, and/or JAK in TNBC cells treated with ganetespib +/-
+paclitaxel. Understanding the relative roles of Hsp90 client proteins in
+TNBC is predicted to lead to a more rational selection of patients with
+TNBCs likely to benefit from Hsp90-inhibitor treatment.
+

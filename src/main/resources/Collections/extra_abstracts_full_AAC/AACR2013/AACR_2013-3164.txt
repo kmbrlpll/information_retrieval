@@ -1,0 +1,40 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Somatic mutation analysis pipeline for exome-sequencing data
+identifies oncogenic STAT3 mutations in T-LGL leukemia.
+
+
+Exome-sequencing of matched tumor-normal sample pairs enables the
+identification of the full set of somatically acquired mutations that
+directly affect protein function in a given tumor. Inferring the
+functional significance of coding region mutations is relatively
+straightforward compared to mutations occurring in non-coding regions.
+Furthermore, exome sequencing enables sufficient sampling depth required
+for sensitive detection of somatic mutations in tumor samples. However,
+identification of novel driver mutations remains challenging due to the
+high levels of sequencing errors observed with current next generation
+sequencing technologies and due to passenger mutations which vastly out
+number driver mutations in any given tumor. Identification of novel
+driver mutations is especially challenging in the absence of cohort
+data.To identify driving somatic events in exome sequence data, we
+developed an analytical pipeline utilizing a combination of 3rd party
+tools for sequence read processing and mutation calling. This was coupled
+to an annotation framework that aids prioritization of driver mutation
+candidates for downstream validation experiments. The annotation
+framework integrates prior knowledge from reference databases on known
+cancer genes, sequence level evolutionary conservation and functional
+consequence predictions. Gene expression data from RNA-seq of the tumor
+sample can also be integrated in the annotations.To test this pipeline,
+we performed exome sequencing of a tumor-normal sample pair from an index
+patient diagnosed with T-cell derived large granular lymphocytic leukemia
+(T-LGL), which is a rare lymphoproliferative disease of previously
+unknown pathogenesis. The analysis pipeline identified a high-ranking
+candidate mutation in STAT3. Structural analysis indicated that the
+mutation resulted in a hydrophobic substitution at the SH2 dimerization
+interface, suggesting that the mutation stabilizes the active dimer form
+through increased hydrophobic interaction between monomers. Further
+validation experiments showed STAT3 SH2 hydrophobic substitutions to be
+recurrent in T-LGL and to result in constitutive STAT3 activation [1].
+Application of the pipeline enabled identification of a novel class of
+oncogenic STAT3 SH2 domain mutations and established STAT3 as a key
+driver oncogene in T-LGL.
+

@@ -1,0 +1,61 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Size based enrichment and sorting of Ov90 cancer cells and
+clusters with a new multistage filtration cartridge reveals distinct
+phenotypes.
+
+
+Background: Circulating tumor cells (CTCs) are released in blood from the
+primary tumor, but although very heterogeneous both in size and marker
+expression, are very rare and provide information not available from the
+primary tumor. The identification of CTC cells and clusters could advance
+our understanding of metastasis and help personalize therapy.1,2 Notably,
+CTC clusters were shown to have a higher metastatic potential than single
+cells3 but the process remains poorly understood.
+
+We present a multistage filtration system with pore sizes from 20 down to
+8 μm for the size-selective enrichment of Ov90 ovarian cancer cells and
+clusters from blood. Each captured cell population was released, cultured
+and characterized independently.
+
+Methods: We developed a 3D printed multistage filtration cartridge and
+polymer filters with 20, 15, 12, 10 and 8 μm-diameter pores. Filters
+were stacked from 20 (top) to 8 μm (bottom) and used to enrich and sort
+Ov-90 cells spiked in 1:6 mL of blood:PBS. Captured cells were released
+by removing individual filters from the cartridge, reverse flowing OSE
+medium, and then cultured separately.
+
+Results: Ov-90 clusters were found mostly on the top filter (20 μm) and
+interestingly, few small clusters (3-4 cells) were found on the 8 and 10
+μm filters, suggesting alignment of cluster cells as they pass through
+the pores.4 Cell and nucleus diameters were measured, and a general
+correlation was found between filter pore size and cell and nucleus size.
+Interestingly, nucleus size was found to be the single most significant
+parameter in determining passage of single cells and small clusters
+through pores.
+
+Following cell culture, two distinct phenotypes were observed: cell
+captured on small pore filters (8-12 μm) grew primarily in a monolayer.
+Cells captured on filters with larger pores (15-20 μm) first grew as
+monolayer, but rapidly formed cell aggregates that subsequently detached
+from the surface. Staining for E-Cadherin, a cell-cell adhesion protein,
+revealed a loss of expression of cells from filter with larger pores.
+
+Conclusion: We developed a new multistage filtration method and
+selectively enriched and sorted cells based primarily on their nucleus
+size. We identified two Ov-90 populations with different growth behaviors
+with low E-cadherin expression on the cells forming clusters, which is
+known to correlate with metastasis. The application of multistage filters
+may also reveal different CTC populations based on nucleus and cell size.
+
+References:
+
+(1) Baccelli, I. et al. A. Nat. Biotech. 2013, 31, 539-544.
+
+(2) Pecot, C. V. et al. Cancer discovery 2011, 1, 580-586.
+
+(3) Cheung, K. J. et al. Proc. Natl. Acad. Sci. U.S.A. 2016, 113,
+E854-E863.
+
+(4) Au, S. H. et al. Proc. Natl. Acad. Sci. U.S.A. 2016, 113, 4947-4952.
+
+

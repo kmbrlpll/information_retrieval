@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Accurately identifying expressed somatic variants for neoantigen
+detection and immuno-oncology
+
+
+Accurate detection of somatic variants is a staple of both research and
+clinical cancer analysis, with applications ranging from detecting new
+common driver mutations in large patient cohorts to selecting therapeutic
+small molecule treatment courses for an individual patient. Recent
+research into neoantigens and immunotherapy has shown great promise as a
+precision therapeutic, and somatic variant detection by next-generation
+sequencing represents an ideal method of identifying candidate
+neoantigens. Somatic variant detection typically involves assaying the
+DNA for changes in gene sequences without assessing whether those
+variants are actually expressed in RNA. However, the expression of small
+variants is key because only expressed peptides will be displayed as
+neoantigens on the cell surface.From a technical standpoint, detection of
+somatic variants in the RNA represents additional challenges above and
+beyond those of somatic detection in DNA. The widely varying expression
+levels of cancer genes, alternative splicing, and RNA editing are all
+features that make somatic variant calling in RNA uniquely challenging.
+However, accurately detecting variants directly from expressed
+transcripts is beneficial to neoantigen prediction, and therefore we
+sought to create and validate a method for somatic variant calling in
+RNA.We have designed a highly accurate expression-based somatic variant
+detection pipeline utilizing extensive discovery and filtering methods to
+overcome the challenges inherent in RNA somatic variant calling. We
+validated our pipeline using a combination of well-characterized cell
+lines, commercially available reference standards, and real world FFPE
+patient samples. To our knowledge, this is the most extensive validation
+of its kind to date, representing over 29,158 small variants across 39
+samples. In testing, we measured our detection method at >99% sensitivity
+and >99% PPV using a combination of gold set small variants and
+orthogonal validation. This method, in combination with our validated DNA
+somatic variant calling pipeline (>99% sensitivity and >99% PPV), enables
+precise detection of variant expression levels in a given sample, even at
+low allele frequency (5%).After validating our RNA somatic variant
+calling method, we applied it to detect candidate neoantigens in patient
+tumor samples. We performed HLA typing for each sample using HLAssign
+software and predicted MHC presentation of the expressed somatic
+variants. In ongoing studies, we are validating our most promising
+putative neoantigens using orthogonal technologies and demonstrating our
+ability to detect the most promising clinically effective peptides for
+therapy.
+

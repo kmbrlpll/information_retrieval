@@ -1,0 +1,39 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Epicopy: Measuring DNA copy number variation using high-density
+methylation microarrays
+
+
+Background:Cancers exploit changes in both genomic copy number and DNA
+methylation to promote growth and escape tumor-suppressor pathways. Under
+the 2-hit hypothesis, a single gene is likely to be altered by multiple
+mechanisms at the same time and integrated analysis can sharpen the focus
+on the most likely drivers. Requiring larger amounts of input material
+and imposing additional costs may limit multiplatform analysis,
+especially in studies using archival tissues with long clinical follow-up
+information where the nucleic acids are degraded and yields are generally
+lower than are obtained from fresh tissues. Taking advantage of
+similarities between methylation arrays and SNP arrays, we developed
+Epicopy, a robust computational method to identify DNA copy number
+variation (CNV) using high-density Illumina Human Methylation 450K
+methylation microarrays, thereby delivering two complementary genetic and
+epigenetic profiles from a single chip.Methods:Epicopy was developed
+using data from thyroid carcinoma samples arrayed by The Cancer Genome
+Atlas (TCGA) and subsequently validated on breast and lung small cell
+carcinoma TCGA datasets. Using Epicopy, we identified circumstances where
+CNV information can be reliably measured by methylation
+microarrays.Results:Using TCGA SNP microarrays as the gold standard to
+assess the performance of methylation derived CNV data from the thyroid,
+breast, and lung small cell carcinoma datasets, we showed that Epicopy is
+able to detect CNVs identified by SNP arrays at a sensitivity of 0.69 and
+specificity of 0.90. Frequently occurring CNVs identified using Genomic
+Identification of Significant Targets in Cancer (GISTIC), were identified
+with even higher accuracy.Conclusion:Epicopy provides a robust method to
+obtain both copy number and methylation information from a single
+methylation microarray experiment and will add value to methylation
+microarrays at no additional cost to the user. Tools to highlight regions
+of high sensitivity and specificity will also be provided to help users
+decide on the feasibility of using Epicopy to identify CNVs in regions of
+interest. Epicopy is implemented in the R statistical language and will
+be made available as a freestanding package as part of the Bioconductor
+bioinformatics software project.
+

@@ -1,0 +1,47 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Divergence analysis with coarse coding of omics data across cancer
+phenotypes.
+
+
+Motivation: Complex cancer omics data can be difficult to interpret and
+analyze with standard statistical methods. We thereby propose an
+innovative data representation that drastically reduces complexity while
+improving usability and interpretability for complex cancer phenotype
+analysis.
+
+Method: Despite recent advances in omics technologies, the robustness of
+predictive biomarkers in cancer remains severely limited. We hypothesize
+that this is primarily due to an overemphasis on applying statistical
+learning methods without taking into consideration the underlying
+biological processes driving cancer. We therefore propose a new approach
+based on representing data based on the comparison to a baseline group.
+This results in a data format that encodes biologically meaningful
+information and can be easily analyzed. We apply this transformation to
+publicly available datasets obtained across multiple tumor types using
+different omics technologies. For each cancer phenotype considered, we
+cross-validate the learned decision rules using SVMs and random forests
+and demonstrate that there is no drop in performance despite the use of a
+simplified data representation. We also apply the Chi-squared test to our
+simplified data to select genomic features differentially associated with
+relevant cancer phenotypes. To this end we compare our method to
+traditional class comparison approaches. Overall, this analysis shows
+that omics features selected by our method provides equal or better
+classification performance than standard methods. Further, we show that
+our simplified data representation filters out much of the biologically
+irrelevant variation and that the resulting data can be successfully
+applied to gene set analysis applications, ultimately improving inference
+on disease phenotypes. For instance, by applying our method to signaling
+pathways and cancer hallmarks gene sets, we show that our approach can be
+used to detect dysregulated pathways more efficiently than with
+traditional methods.
+
+Conclusion: By comparing cancer omics data to a baseline status, we
+obtain a much simpler data representation that preserves biologically
+relevant information while eliminating much of the unwanted variance that
+is often confounding in the analysis of high-dimensional data.
+Furthermore, data represented using our approach can be easily stored and
+analyzed, and it is equivalent or superior to traditional data
+representation methods for predicting clinically relevant cancer
+phenotypes and detecting biologically relevant cancer pathways.
+
+

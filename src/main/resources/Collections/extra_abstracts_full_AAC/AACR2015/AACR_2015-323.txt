@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Spheroid-based high throughput screening for identification of
+molecules targeting different tumor microenvironment characteristics
+
+
+In recent years, cell-based evaluation of drug-induced phenotypic changes
+has become an important strategy in high throughput drug screening (HTS).
+However, due to the lack of clinically relevant in vitro models,
+phenotype-based screening has not resulted in the identification of as
+many successful compounds as initially assumed. Thus, an application of
+the long-known multicellular tumor spheroid (MCTS) model for HTS has
+recently gained attention, as MCTS mimic the complex in vivo situation
+more closely than standard monolayer cell cultures. However, due to major
+difficulties with formation of uniform spheroids in a large scale,
+application of MCTS for HTS has been limited.We focused our efforts on
+the development of spheroid-based HTS systems in 384-well format for the
+identification of molecules targeting different tumor microenvironment
+characteristics. For spheroid formation we used two colorectal cancer
+cell lines, HCT116 and HT-29, both constitutively expressing green
+fluorescent protein (GFP). During the spheroid formation process, culture
+medium was either changed every 4 days or left unchanged. This approach
+resulted in the generation of two different spheroid models from the each
+cell line - one representing tumor regions with the sufficient access to
+nutrients; the other simulating parts with more harsh conditions.
+Spheroids formed with medium change were more proliferative and less
+dependent on oxygen. By measuring spheroid GFP fluorescence intensity we
+could non-invasively monitor drug action over time. First screens
+revealed a group of drugs particularly effective in quiescent spheroids
+compared with proliferating spheroids and monolayer cell cultures. All of
+the compounds inhibited mitochondrial oxidative phosphorylation. The
+screen confirmed mitochondrial respiration as a promising target for
+treatment of dormant cells in nutrient-deprived tumor regions and
+identified molecules with previously unrecognized potential for further
+clinical advancement.Another screening system was developed to identify
+drugs that directly influence the immune components of tumor
+microenvironment. Spheroids are formed by co-culturing cancer cells with
+human primary monocytes. Over the culture period, monocytes differentiate
+into tumor-associated macrophages. First pilot experiments showed
+promising results and more extensive screens are planned.For
+characterization of drug effects at the transcriptome level, a
+spheroid-based gene expression profiling method is under development. The
+method will enable high throughput analysis of transcripts from spheroids
+treated with chemical libraries.In conclusion, we here present a novel
+approach to HTS, which by utilizing diverse MCTS models has a potential
+to identify molecules directly targeting tumor-specific microenvironment
+components.
+

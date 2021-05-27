@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Evaluating benefits of PD-L1 image analysis for the clinical
+setting.
+
+
+Tissue-based investigations can prove challenging due to complex tissue
+architecture and heterogeneous biomarker expression, visual and cognitive
+“traps” that affect interpretive precision, and subjective
+assessments that affect reproducibility. A major concern is that these
+challenges could increase the risk of failure for therapeutic/diagnostic
+co-development and clinical use, as the biomarker measurements continue
+to increase in complexity and require increasingly precise diagnostic
+cut-points.
+
+Image analysis tools have been developed to overcome some of the
+challenges for conventional anatomic pathology practices, capitalizing on
+the objectivity and computational power of a digital platform. A
+computer, however, lacks the cognitive ability and experience of a human
+to interpret tissue architecture and context. Flagship Biosciences’
+computational Tissue Analysis (cTA™) platform integrates the power of
+our tissue Image Analysis (tIA™) technology with the contextual
+experience of an anatomic pathologist to produce robust, precise,
+quantitative results that demonstrate biomarker content in the tissue
+context. Flagship Biosciences envisions the integration of our cTA™
+technology into a computer-aided clinical pathology workflow as a method
+to improve the precision of scoring for even some of the most challenging
+tissue-based biomarker measurements.
+
+In a proof-of-concept study, we evaluated the performance of manual
+versus digital scoring approaches in a cohort of non-small cell lung
+carcinoma (NSCLC) samples stained with the IHC protocol for the PD-L1
+PharmDx 28-8 complementary diagnostic. A comparison of the 2 modalities
+demonstrated that in nearly all cases, the within sample standard
+deviation of the cTA™ digital score results was less than the manual
+score (median inter-pathologist %CVs were reduced from 124.9% to 7.8% and
+intra-pathologists from 65.4% to 7.6% for manual and digital scores,
+respectively). As an additional exploratory examination, the effect of
+heterogeneity on PD-L1 interpretation was also investigated. Pathologists
+evaluated the same whole tissue slides within 5 high powered fields
+(HPFs) using both manual and cTA™ -derived scoring. Results
+demonstrated that the use of cTA™ provides improves agreement between
+HPF and whole slide assessments (absolute difference between the manual
+scores from HPF to whole slide were larger than the absolute differences
+for the digitally derived scores, at 3.14% and 8.27%, respectively).
+Taken together, these studies demonstrate that the use of cTA™ can
+significantly reduce variability in PD-L1 scoring, as compared to a
+manual scoring approach.
+
+

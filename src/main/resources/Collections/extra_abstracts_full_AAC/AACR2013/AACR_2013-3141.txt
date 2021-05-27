@@ -1,0 +1,43 @@
+Meeting: 2013 AACR Annual Meeting
+Title: High-content live-cell imaging analysis of therapeutic monoclonal
+antibody binding and potency across 240 genomically defined cancer cell
+lines.
+
+
+OncoPanelTM is a collection of 240 genomically and histologically diverse
+cancer cell lines that comprise an unparalleled platform for multiplexed
+high-content imaging analysis of potential therapeutic targets in
+oncology. High-content imaging is ideally suited to detect binding,
+localization, and trafficking of therapeutic antibodies, adding an
+important level of resolution when interpreting drug response data.
+Moreover, understanding relative antigen expression is important both to
+define the patient population most likely to benefit from therapy as well
+as to define the antigen expression threshold needed to elicit biologic
+response. Here we describe the high-throughput parallelization of
+quantitative, comparative therapeutic antibody binding measurements and
+drug response profiling across the OncoPanel using high-content imaging.
+High-quality binding data for monoclonal antibodies was achieved by
+analysis of referenced, background-subtracted fluorescence intensities on
+a per cell basis. Binding studies were performed on living cells to best
+recapitulate natural antigen-antibody interactions, and results were
+quantified and expressed as potency (EC50 values), total molecules bound
+per cell, and spatially analyzed to yield a reliable estimate of antigen
+density. Observed binding intensities were internally referenced against
+calibrated fluorescent antibody-conjugated microspheres to yield a direct
+correlation between fluorescence intensity and number of antibodies
+bound. Cellular areas were independently measured by a non-specific
+fluorescent counterstain of the plasma membrane, and cell count
+determined by nuclear staining with DAPI. The therapeutic antibodies
+Vectibix, Erbitux, and Herceptin were profiled against the OncoPanel,
+providing a rank-ordering of cell surface expression of EGFR and
+ErbB2/Her2 across 240 cancer cell lines, and defining thresholds of
+antibody binding needed to inhibit cell proliferation. Compared to mRNA
+expression by microarray, quantitative antibody binding was a superior
+predictor of biologic response. Moreover, we demonstrate that genomic
+analysis of the response to therapeutic antibodies is significantly
+improved when only antigen-positive cells are considered. Using the power
+of binding and genomics data gained from the screening of OncoPanel,
+targeted studies may be optimized to determine the most relevant cancer
+subtypes and conditions under which the activity of any monoclonal
+antibody is likely to be most effective.
+

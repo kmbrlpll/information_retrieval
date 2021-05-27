@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: FLX925 (AMG 925) is a rationally designed FLT3, CDK4/6 inhibitor
+that retains potency against clinically relevant secondary resistance
+mutations in FLT3
+
+
+Acquired secondary resistance mutations to clinically active kinase
+inhibitors remains a key obstacle between valid therapeutic hypotheses
+and meaningful patient benefit. In AML, evidence suggests that inhibition
+of FLT3 (particularly in FLT3-ITD mutated cancers) can be efficacious;
+however, relapse from complete remission is common and often rapid. As
+with other cancers driven by key oncogenic kinase mutations (e.g. BCR-ABL
+in CML), a primary mechanism of resistance is the acquisition of
+secondary resistance mutations in the oncogenic kinase themselves.
+Multiple strategies have been pursued to address such resistance,
+including the development of kinase inhibitors that either bind their
+respective targets differently or by targeting multiple important
+pathways simultaneously. Herein we describe a rationally conceived next
+generation FLT3 inhibitor, FLX925 (previously AMG 925), that was
+prospectively designed to address or avoid common resistance mechanism to
+earlier FLT3 inhibitors with its unique binding mode and potent activity
+against CDK4/CDK6.FLX925 is a potent and selective type 1 inhibitor of
+FLT3 that retains its cellular potency against clinically relevant
+secondary resistance mutations in FLT3 occurring with quizartinib or
+sorafenib treatment (FLX925 IC50: MOLM13ITD, 15 nM; MOLM13ITD/D835, 28
+nM; MV4-11ITD, 16 nM; MV4-11ITD/D835, 19 nM; MV4-11ITD/N841, 16 nM;
+MV4-11ITD/F691, 73 nM). Indeed, while compounds currently in the clinic
+became more than 200-fold less potent against a number of mutants, FLX925
+remained relatively equipotent (+/- 5-fold the parental cell line IC50)
+in these same resistant clones. This is in stark contrast to the striking
+cross-resistance observed with quizartinib in sorafenib resistant cells.
+Moreover, the few clones that grew out of a screen for resistance to
+FLX925 displayed a persistence phenotype with modestly reduced
+sensitivity to FLX925 (5-fold IC50 shift) that was rapidly reversible.
+This persistence was associated with higher FLT3 protein levels and no
+detectable secondary mutations in FLT3.In addition to its suppression of
+FLT3 signaling, FLX925 potently inhibits CDK4/CDK6, central components of
+the cell cycle machinery. This unique profile may reduce the likelihood
+of emergent resistant clones and extends the therapeutic potential of
+FLX925 to other malignancies dependent on these pathways (e.g. MCL).
+Indeed, the addition of PD0332991 (a selective CDK4/6 inhibitor) to a
+relatively selective FLT3 inhibitor reduced the frequency of acquired
+resistance in a cell based screen, relative to a FLT3 inhibitor alone.
+These data suggest the unique profile of FLX925 makes it an ideal
+inhibitor for the treatment of cancers driven by FLT3 signaling, such as
+AML. A phase I clinical trial evaluating the safety, tolerability
+pharmacokinetics and pharmacodynamics effects of FLX925 in patients with
+AML is ongoing.
+

@@ -1,0 +1,52 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Comparison of 18F-FDG and 18F-FLT PET imaging for early response
+monitoring of nanoparticle-assisted photothermal cancer therapy.
+
+
+Aim: Nanoparticle-assisted photothermal therapy relies on photo-absorbing
+agents that accumulate in tumors and upon irradiation with near-infrared
+light, generate hyperthermal temperatures sufficient to ablate
+surrounding cancerous tissue. In this study, we used small animal PET
+imaging to compare the tracers 18F-FDG and 18F-FLT, that are glucose and
+thymidine analogues respectively, for the assessment of silica-gold
+nanoshell (NS)-assisted photothermal therapy in a colorectal cancer mouse
+model.
+
+Method: Mouse colorectal tumors (CT26) were established subcutaneously in
+female Balb/c mice by inoculation of ~ 3x105 cells. When the tumors
+reached a volume of ~150 mm3, the animals were divided into treatment
+groups receiving either: NS and laser irradiation (NS group), saline and
+laser irradiation (saline group), or NS but no laser irradiation (sham
+group). 24 h after intravenous injection of either NS or saline, the
+tumors were irradiated for 5 minutes with an 807 nm diode laser with an
+intensity of 1.5 W/cm2 (day 0) meanwhile the temperature development was
+monitored using thermographic imaging. To evaluate the treatment
+response, all animals were PET/CT scanned with either 18F-FDG or 18F-FLT
+the day before treatment (baseline) and two days after treatment (day 2).
+In addition, the change in tumor volume was assessed by CT imaging on day
+7. Throughout the study, tumor growth was monitored using caliper
+measurements and animals were euthanized when the tumor volume exceeded
+1,000 mm3. Regions of interest were manually drawn on the entire tumor
+volume on co-registered PET and CT images and the PET tracer uptake
+quantified as the mean percentage of injected dose per grams of tissue
+(%ID/g).
+
+Results: During laser irradiation, NS-laden tumors reached hyperthermal
+temperatures that led to inhibited tumor growth and improved survival
+compared to the saline and sham treated groups. In the NS group, PET
+imaging showed a reduction in tumor uptake of 18F-FDG of nearly 50% at
+day 2 compared to baseline. In the saline and sham groups the tumor
+uptake of 18F-FDG was at comparable levels at baseline and day 2. In
+addition, a positive correlation was found between the change in tumor
+uptake between baseline and day 2 and the change in tumor volume on day 7
+in all animals scanned with 18F-FDG. Preliminary data from animals
+scanned with 18F-FLT indicates that the tumor uptake is also strongly
+reduced after NS-assisted photothermal therapy and that the change in
+18F-FLT uptake correlates with inhibited tumor growth on day 7.
+
+Conclusion: Both 18F-FDG and 18F-FLT PET imaging show great potential for
+early evaluation of the treatment response after nanoparticle-assisted
+photothermal therapy and preliminary data suggest that both tracers can
+be used to predict treatment outcome.
+
+

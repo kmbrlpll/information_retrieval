@@ -1,0 +1,29 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Evaluation of TBK1 as a novel cancer target in the K-Ras pathway
+
+
+TBK1 (TANK-binding kinase 1) is a serine/threonine kinase best known for
+its role in mediating the innate immune response through modulation of
+the interferon and NF-kB pathways. TBK1 has also been implicated in
+supporting cancer cell survival and transformation as the downstream
+effector of the small GTPase RalB, and is overexpressed in lung, breast
+and colon tumors. Recently, a high-throughput RNAi screen identified TBK1
+as a synthetic lethal partner of oncogenic K-Ras, suggesting that small
+molecule inhibition of TBK1 may provide a novel therapeutic strategy for
+K-Ras mutant tumors. Given the high tractability of kinases as drug
+targets, we sought to confirm that kinase inhibition recapitulated the
+synthetic lethal effects observed with shRNA silencing. We examined two
+small molecule inhibitors of TBK1, BX795 (6 nM) and GSK2292978A (4 nM),
+in a panel of lung, pancreas and colon cancer cell lines. We found only a
+small subset of lines that were sensitive to TBK1 inhibition and this
+sensitivity did not correlate with K-Ras dependence. We then used K-Ras
+and TBK1 siRNA in a similar panel of cell lines. As anticipated,
+knockdown of K-Ras using siRNA produced significant growth and signaling
+defects in K-Ras dependent cell lines. In contrast, knockdown of TBK1 did
+not result in a significant alteration of growth in any of our cell
+lines. Neither TBK1 siRNA nor TBK1 inhibitors revealed a sensitivity that
+correlated with K-Ras dependence in our lung, pancreatic, or colorectal
+cancer cell lines. Our data disputes the proposed synthetic lethal
+relationship of oncogenic K-Ras and TBK1 and does not support development
+of TBK1 inhibitors for treatment of K-Ras driven tumors.
+

@@ -1,0 +1,44 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Physiologically based pharmacokinetic model and correlative in
+vitro assessment of metabolism-based interaction between Everolimus and
+PI3K/mTOR inhibitor BEZ235
+
+
+The PI3/Akt/mTOR kinase is a key intracellular signaling pathway and
+deregulation of this signaling pathway has been implicated in
+tumorigenesis and in numerous malignancies. Everolimus (RAD) is a potent
+allosteric inhibitor of mTORC1 and BEZ235 is a novel dual PI3K/ mTOR
+inhibitor (mTORCl and mTORC2). In preclinical studies, the combination of
+BEZ235 and RAD has shown synergistic effect and a phase 1b clinical trial
+to determine the safety, pharmacokinetics (PK) and pharmacodynamics in
+subjects with advanced solid tumors was conducted at University of
+Cincinnati. Here, we explored the potential mechanism and clinical impact
+of the PK interaction of this combination using a physiologically based
+PK (PBPK) model.The dose escalation consisted of five dose levels with a
+starting oral daily doses of RAD (2.5 mg) and BEZ235 (200 mg) with 28-day
+study treatment cycles. Serial blood samples were collected on Days 1 and
+28 and plasma BEZ235 and blood RAD levels were analyzed using validated
+HPLC (with fluorescene detection) and LC/MS methods, respectively. The
+effect of BEZ235 on the expression and activity of cytochrome P450
+CYP3A4, the principal RAD metabolizing enzyme, was studied employing
+pooled human liver microsomes (HLMs) and primary human hepatocytes. HLMs
+were employed to investigate potential competitive and/or time-dependent
+inhibition (TDI) or CYP3A4 by BEZ235. Potential CYP3A4 inductive effects
+were also examined in the hepatocyte model. A PBPK model was then
+developed along with a mechanistic static model to predict the change in
+the clinical PK of RAD. Population PK (NONMEM 7.2) was employed for
+analyzing data from our clinical trials and that of published
+studies.BEZ235 was observed to be a time-dependent CYP3A4 inhibitor
+(Kinact and Ki were, 0.0175 min-1 and 5.21 M, respectively). It was also
+observed to be a mild CYP3A4 inducer (Emax, 2.78 M and EC50 ,1.96 M).
+Qualification of PBPK model for BEZ235 was performed using data from our
+clinical trial; everolimus was qualified using published data. PK
+analyses revealed that in our study the CL/F of RAD in the presence of
+BEZ235 was 10.5 1.74 L/hr which was significantly lower than the reported
+RAD CL/F of 18.8 0.98 L/hr when dosed alone. In-vitro studies and PBPK
+model suggests that TDI of CYP3A by BEZ235 may play a role in the
+observed DDI. In summary, the mechanistic model developed predicted the
+time and dose dependent effect of BEZ235 on RAD clearance and exposure.
+Our findings will aid efforts to optimize RAD and BEZ235 combination for
+future clinical trials.
+

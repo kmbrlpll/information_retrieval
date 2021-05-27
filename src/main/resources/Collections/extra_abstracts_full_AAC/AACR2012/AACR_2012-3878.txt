@@ -1,0 +1,45 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A highly sensitive assay for the discovery of inhibitors of the
+histone methyltransferase DOT1L to treat MLL-rearranged leukemia
+
+
+MLL-rearranged leukemia is an aggressive form of cancer characterized by
+specific chromosomal rearrangements of the mixed lineage leukemia (MLL)
+gene. In normal cells, MLL, a histone methyltransferase, methylates the
+lysine 4 residue on histone 3 (H3K4) and thereby regulates the expression
+of genes which control hematopoietic development. In leukemic cells,
+chromosomal rearrangements fuse the N-terminus of MLL with one of more
+than 50 partner proteins, giving rise to oncogenic fusion proteins that
+lack H3K4 methyltransferase activity. These fusion proteins
+inappropriately recruit DOT1L, which methylates H3K79, producing an
+abnormal methylation pattern and activation of genes normally suppressed
+during differentiation. Elevated expression of HOXA9 in particular leads
+to a block in normal hematopoetic differentiation and the onset of
+leukemia. A solid body of evidence has shown DOT1L to be crucial for the
+development and maintenance of MLL-rearranged leukemias; consequently, it
+is a promising target for therapeutic intervention. We have focused on
+developing an assay suitable for high-throughput screening (HTS) to
+detect compounds that inhibit DOT1L enzymatic activity. DOT1L catalyzes
+the transfer of a methyl group from S-adenosylmethionine (SAM) to H3K79
+and generates S-adenosylhomocysteine (SAH) as a byproduct. The enzyme
+displays a very low rate of methylation of histone octamers or
+nucleosomes and no activity towards individual histones or
+histone-derived peptides. Thus DOT1L HTS requires a highly sensitive
+assay that is able to accommodate protein-protein and protein-DNA
+complexes as substrates. An assay using radiolabeled SAM has sufficient
+sensitivity, but is relatively laborious and not well-suited for HTS. We
+tested several previously reported non-radioactive assay formats, but
+none enabled robust detection of DOT1L activity. Therefore, we developed
+a coupled enzyme assay in which SAH is converted to homocysteine and
+adenosine using SAH hydrolase. In a second enzyme-coupled step, adenosine
+kinase generates AMP and ADP from the SAH-derived adenosine and added
+ATP. Finally, ADP is detected using the luciferase-based Promega ADP-Glo
+assay. The luminescent signal provides a highly sensitive measure of ADP
+at a concentration as low as 10 nM. The readout is directly proportional
+to SAH production; thus DOT1L inhibitors are identified by a reduction in
+this signal. We report development of the assay, including careful
+optimization of the activity of adenosine kinase to enhance sensitivity,
+and assay validation demonstrating DOT1L inhibition by the non-selective
+SAM-competitive inhibitor sinefungin, and pilot HTS of a 2,000-compound
+library.
+

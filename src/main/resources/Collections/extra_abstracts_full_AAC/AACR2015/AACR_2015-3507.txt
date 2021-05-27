@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: APR-246 reactivates mutant p53 in non-small cell lung cancer cell
+lines and sensitizes cells for CDDP treatment under normoxic and hypoxic
+conditions
+
+
+Introduction: Tumors are often characterized by inactivating mutations in
+the TP53 gene. Mutations in this gene occur in about 50% of non-small
+cell lung cancers (NSCLC), and influence the response to common
+chemotherapeutics like CDDP (cisplatin). In addition, as hypoxic stress,
+which is often found in tumors, is able to induce p53 accumulation and
+p53 dependent apoptosis, the reactivation of mutant p53 might induce a
+strong cytotoxic effect in hypoxic tumor regions. Therefore, we treated
+NSCLC tumor cells with APR-246, a known activator of mutant p53, under
+normoxic and hypoxic conditions. In addition, we combined APR-246 with
+CDDP, to determine whether reactivation of mutant p53 could enhance the
+cytotoxic response of CDDP.Materials & Methods: The NSCLC cell line
+CRL-5908, harboring a R273H p53 mutation, was used. To determine the role
+of mutant p53 in response to APR-246, CRL-5908 was transduced with a p53
+shRNA lentiviral vector to obtain a p53 deficient sub cell line. The
+SRB-assay was used to determine the cytotoxic effect of both mono-and
+combination therapies after which possible synergism was calculated by
+the Chou-Talalay method, both under normoxic and hypoxic conditions (0%
+O2, 5% CO2, 95% N2). In addition, we determined the p53 protein level as
+well as the mRNA and protein levels of its main transcription targets
+MDM2, p21, PUMA and BAX. The induction of apoptosis and cell cycle arrest
+were determined by flowcytometric analysis.Results: Our results show a
+clear response of CRL-5908 to APR-246, which was stronger under hypoxic
+conditions compared to normoxic conditions (IC50: 9.5 2.5 vs. 16.3 3.4).
+We observed that CRL-5908 was less sensitive to CDDP monotherapy than the
+p53 wild type cell line A549 (IC50: 15.2 3.3 vs. 6.2 1.6). We were able
+to overcome this resistance to CDDP by combining the drug with APR-246
+(IC20, IC40, IC60), which resulted in CDDP IC50 values of respectively
+11.5 4.0; 5.0 2.2 and 6.5 2.0 under normoxic conditions.Discussion: Our
+initial results show that APR-246 monotherapy is promising for the
+treatment of p53 mutant NSCLC, particularly under hypoxic conditions. In
+addition, APR-246 seems to sensitize cells for CDDP treatment when
+combined simultaneously. We will further study the underlying mechanisms,
+like the activation of p53 and the transcription of its main
+transcription target MDM2, p21, PUMA and BAX as well as apoptosis and
+cell cycle arrest. Moreover, we will compare simultaneous treatment of
+CDDP and APR-246 with sequential treatment in which CDDP is followed by
+APR-246 treatment, and further sort out the response of this combination
+therapy under hypoxic conditions, as well as the role of mutant p53.
+

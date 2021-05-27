@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Functional and mechanistic characterization of oncogenic long
+intervening non-coding RNA Linc-CHD1L-1 in hepatocellular carcinoma.
+
+
+Hepatocellular carcinoma (HCC) is one of the most common and lethal
+cancers worldwide. Due to the asymptomatic nature of HCC, many patients
+were diagnosed at advance stages and available therapeutic options are
+very limited. Therefore, a better understanding of the molecular
+mechanism underlying hepatocarcinogenesis is urgently needed and is
+crucial for the development of effective treatment. Long intervening
+non-coding RNAs (lincRNAs) are emerging class of regulatory RNA involved
+in diverse molecular processes. In this study, we aimed to interrogate
+lincRNAs expression in HCC and identify novel lincRNAs that contribute to
+hepatocarcinogenesis. To investigate the global expression profile of
+lincRNAs in human HCCs, next-generation transcriptome sequencing
+(RNA-Seq) was performed in 16 pairs of HBV-associated primary HCCs and
+their corresponding non-tumorous liver tissues. Interestingly, the
+lincRNA expressions in human HCCs can be unambiguously segregated from
+their non-tumorous counterparts by unsupervised clustering analysis,
+suggesting that global lincRNA expression profiles between tumors and
+non-tumors were remarkably different. From this analysis, we identified
+linc-CHD1L-1 as the most significant up-regulated lincRNA in HCCs.
+Clinically, linc-CHD1L-1 was overexpressed in over 80% of HCC patients.
+Linc-CHD1L-1 expression level in tumors was also shown to be a promising
+marker for HCC diagnosis. Functionally, knockdown of linc-CHD1L-1 by
+shRNAs had significantly reduced HCC cell proliferation and cell
+migration in vitro. Besides, knockdown of linc-CHD1L-1 in HCC cells also
+substantially abrogated tumorigenicity in subcutaneous tumor model.
+Mechanistically, the expression of linc-CHD1L-1 was significantly and
+positively correlated to the expression of its neighboring genes located
+on the chromosome 1q. Knockout of linc-CHD1L-1 by CRISPR/Cas9 also
+significantly repressed its neighboring genes expression, suggesting that
+linc-CHD1L-1 may positively regulate gene expression in a cis-manner.
+Finally, DAVID pathway analysis performed on linc-CHD1L co-expressed
+protein coding genes further suggested that linc-CHD1L-1 was
+significantly co-expressed with genes that are involved in transcription
+and chromatin modifications. In conclusion, overexpression of
+linc-CHD1L-1 contributes to hepatocarcinogenesis by promoting HCC cell
+proliferation and migration through transcriptional and epigenetic
+mechanisms.
+
+

@@ -1,0 +1,43 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Mst2 is required for tumor progression and Yap activity
+
+
+The survival of patients with head and neck cancer has remained unchanged
+for decades [1]. Novel therapeutic approaches are needed. The
+transcription co-activator Yap is known to initiate proliferation and
+migration programs in response to cytoskeletal cues [2]. As evidence of
+the relevance of Yap in cancer increases, the lack of pharmacological
+strategies to inhibit it hinders the possibility of clinical testing. The
+main Yap regulatory signals in mammals are cytoskeletal integrity and
+cell shape [2]. Interestingly, Mst2 regulates microtubule coordination in
+parallel to kinesin Eg5 motor activity[3] and actin polymerization
+through Rac1 activation [4]. We set out to explore the role of Mst2 in
+cancer biology and the influence of its cytoskeletal effects in Yap
+activity using silencing and overexpression systems in early passage oral
+squamous cell cancer cell lines. In clinically annotated databases, high
+Mst2 expression correlated with poor prognosis in lung, breast and head
+and neck cancer. Standard in vitro experiments showed that Mst2 was
+required and promoted cell migration and invasion. Immunofluorescence
+staining quantification revealed that Mst2 was necessary for actin
+polymerization, microtubule targeting to the focal adhesions and
+microtubule distribution. These effects increased cell height and reduced
+cell spreading. In keeping with cytoskeletal and cell shape changes, in
+luciferase reporter assays Mst2 was required for Yap activation, and
+inhibition of kinesin Eg5 with Monastrol reduced Yap activity in an Mst2
+dependent manner. Confocal imaging quantification of 3D organotypic
+tumors revealed that Mst2 was required for primary tumor invasion into
+human dermis. Consistently, in an orthotopic xenograft model, tumors with
+lower Mst2 expression showed a significant reduction in circulating tumor
+DNA and lung metastasis formation. Although further preclinical studies
+are warranted, our results support the hypothesis that kinesin Eg5
+inhibitors may be used to target Yap activity in oral squamous cell
+cancers with high Mst2 expression.1. CRUK. CRUK Oral Cancer Statistics.
+2009 [cited 2013; Available from:
+http://www.cancerresearchuk.org/cancer-info/cancerstats/types/oral/].2.
+Pan, D., The hippo signaling pathway in development and cancer. Dev Cell,
+2010. 19(4): p. 491-505.3. Mardin, B.R., et al., Components of the Hippo
+pathway cooperate with Nek2 kinase to regulate centrosome disjunction.
+Nat Cell Biol, 2010. 12(12): p. 1166-76.4. Mou, F., et al., The Mst1 and
+Mst2 kinases control activation of rho family GTPases and thymic egress
+of mature thymocytes. J Exp Med, 2012. 209(4): p. 741-59.
+

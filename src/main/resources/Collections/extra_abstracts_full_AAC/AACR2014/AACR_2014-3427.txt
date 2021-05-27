@@ -1,0 +1,49 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Uncovering vulvar cancer: Integrated analysis of genomic and
+transcriptomic data
+
+
+Vulvar squamous cell carcinoma (VSCC) is a rare gynecological cancer,
+representing approximately 3-5% of genital tumors. However, its incidence
+has risen considerably and no consistent profile of this disease was
+established so far. Also, little is known about the genomic abnormalities
+of VSCC and how they correlate with gene expression. In order to verify
+which are the major genomic alterations that lead to gene expression
+abnormalities we used integrative analysis in VSCC samples. Seventeen
+frozen samples of VSCC were carried out in genome-wide expression (GWE)
+profiling using the Agilent Whole Human Genome Microarray 60K (Agilent
+Technologies, Santa Clara, CA, USA) and in Array-CGH (aCGH) using the
+Agilent Human Genome CGH Microarray 60K (Agilent Technologies, Santa
+Clara, CA, USA) following the manufacturer's protocol. Data were
+extracted and flagged with Feature Extraction version 10.5 (Agilent
+Technologies, Santa Clara, CA) and the aCGH data was processed using
+NEXUS 6.0 (BioDiscovery, Hawthorne, CA, USA). JISTIC was used to classify
+genes mapped at gains and losses in genomic regions. Differentially
+expressed genes were identified by SAM statistical test. The CONEXIC
+algorithm was applied to integrate the data and in silico functional
+analysis were performed using Ingenuity Pathways Analysis (IPA)
+(Ingenuity Systems). The aCGH analysis revealed 216 significant genomic
+alterations including 196 gains and 20 losses. GWE profile identified
+3799 differentially expressed genes in comparison with normal tissue
+including 1352 up-regulated and 2447 down-regulated. The integrated
+analysis showed that genomic and transcriptomic results were concordant
+in 47 genes, in which 46 were up regulated and involved in gain of DNA
+copy number and only 1 gene (PLXDC2) was down-regulated and associated to
+genomic loss. According to IPA analysis of the top biological functions
+associated with the 47 genes, 3 of them were related with tumor
+morphology. Also, cell death and survival and cellular function and
+maintenance were included in the list of pathways disrupted by the genes
+selected as possible drivers of VSCC. Three significant networks could be
+defined comprising these genes. The first network comprised 18 of the
+concordant genes and was associated to functions as carbohydrate
+metabolism, small molecule biochemistry, cellular function and
+maintenance. The second network (18 genes) was related to RNA
+post-transcriptional modification, developmental disorder and hereditary
+disorder. The third network (15 genes) was associated to RNA
+post-transcriptional modification, gene expression and organ development.
+Thereby, important signaling networks were found disrupted by these genes
+which could influence tumor development or progression in VSCC.
+Therefore, these genes might be useful as a first step to identify
+molecular markers to improve diagnosis and therapeutic approaches for
+this tumor.
+

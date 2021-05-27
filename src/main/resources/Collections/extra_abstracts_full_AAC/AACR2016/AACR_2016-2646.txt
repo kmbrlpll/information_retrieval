@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The unique binding mode of NTRC 0066-0, a novel inhibitor of the
+spindle assembly checkpoint kinase TTK (Mps1), leads to long target
+residence time and potent antitumor activity
+
+
+[purpose] An abnormal number of chromosomes, or aneuploidy, is a common
+feature of solid human tumors and a predictor of poor prognosis in
+breast, lung, brain and colorectal cancer. Aneuploidy is caused by
+malfunctioning of the Spindle Assembly Checkpoint (SAC), a surveillance
+mechanism that ensures the fidelity of chromosome segregation. The
+protein kinase TTK (commonly referred to as Mps1) is a component of the
+SAC. Inhibition of TTK gene expression by RNA interference and inhibition
+of TTK kinase activity by small molecule kinase inhibitors causes
+chromosome missegregation and cancer cell death.[experimental procedures]
+A novel class of compounds was identified that potently inhibits TTK
+enzyme activity and cancer cell line proliferation [1]. Its binding mode
+and that of reference inhibitors was characterized by protein
+crystallography. Binding kinetics and target residence time were
+determined by surface plasmon resonance using Biacore T200.
+Anti-proliferative activity was measured on a broad panel of cancer cell
+lines [2].[results] The clinical candidate, NTRC 0066-0, inhibits TTK
+with subnanomolar potency (IC50) in a kinase enzyme assay and is more
+than 200 times selective over 276 kinases examined, including mitotic and
+cell cycle dependent kinases (CDKs). X-ray structures of the TTK kinase
+domain in complex with NTRC 0066-0 and analogs indicate that this class
+of compounds induces a large conformational shift in the glycine-rich
+loop, invoking an inactive kinase conformation. In surface plasmon
+resonance experiments, NTRC 0066-0 exhibited slow dissociation kinetics,
+resulting in a long target residence time. Parallel surface plasmon
+resonance experiments with mitotic kinases confirmed the exquisite
+selectivity of NTRC 0066-0 for TTK over Aurora and Polo-like kinases.
+NTRC 0066-0 potently inhibited the proliferation of a wide variety of
+human cancer cell lines with potencies in the same range as marketed
+cytotoxic agents. The crystal structure, binding kinetics and cellular
+potency of NTRC 0066-0 were compared to that of other TTK inhibitors such
+as Mps1-IN-2, AZD-3146, Mps-BAY2b and Bay 1161909 as well as analogs from
+the NTRC 0066-0 series. This suggest that the unique binding mode of NTRC
+0066-0 results in long target residence time which contributes to its
+strong anti-tumor activity. In subsequent mouse xenograft models of human
+cancer cell lines, NTRC 0066-0 inhibited tumor growth as a single agent
+after oral administration at 20 mg per kg.[conclusions] NTRC 0066-0 is a
+novel TTK inhibitor with outstanding in vitro properties and potent
+anti-tumor activity in mouse xenograft models. Our data suggest that long
+target residence time corresponds with potent cellular activity for TTK
+inhibitors.References[1] Maia et al. (2015) Annals of Oncology 26,
+2180-2192; [2] Uitdehaag et al. (2014) PLOS ONE 9(3) e92146.
+

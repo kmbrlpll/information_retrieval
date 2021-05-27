@@ -1,0 +1,42 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Improving CAR T cell function by reversing the immunosuppressive
+tumor microenvironment of pancreatic cancer
+
+
+Adoptive transfer of T cells redirected to tumor-associated antigens
+(TAAs) by expression of chimeric antigen receptors (CARs) can produce
+tumor responses, even in patients with resistant malignancies. To target
+pancreatic ductal adenocarcinoma (PDAC), we generated T cells expressing
+a CAR directed to the TAA prostate stem cell antigen (PSCA). T cells
+expressing this CAR were able to kill PSCA(+) tumor cell lines CAPAN1 and
+K562-PSCA but not PSCA(-)293T cells (744%, 736% and 93% specific lysis,
+respectively, 10:1 E:T, n = 3). Although these CAR-T cells had potent
+anti-tumor activity, pancreatic tumors employ immune evasion strategies
+such as the production of inhibitory cytokines, which limit in vivo CAR-T
+cell persistence and effector function. Indeed, when we examined the
+serum of patients with pancreatic cancer (n = 8) we found the levels of
+the immunosuppressive cytokine IL4 to be elevated relative to patients
+with benign pancreatic disorders or normal healthy controls (14.2519.48
+pg/mL vs 7.289.03 vs 1.131.42 pg/mL). Thus, to protect our CAR-PSCA T
+cells from the negative influences of IL-4, we generated a chimeric
+cytokine receptor in which the IL4 receptor exodomain was fused to the
+IL7 receptor endodomain (IL4/7 ChR). Transgenic expression of this
+molecule in CAR-PSCA T cells should invert the inhibitory effects of
+tumor-derived IL4 and instead promote the proliferation of the effector
+CAR T cells. In preliminary experiments we successfully co-expressed both
+CAR-PSCA and IL4/7 ChR (47.512.3% double-positive cells, n = 4) on
+primary T cells. These T cells retained their tumor-specific activity
+(808% specific lysis against CAPAN1, 10:1 E:T, n = 3) and when cultured
+in conditions that mimic the tumor milieu (IL4 12.5 ng/ml), CAR-PSCA 4/7R
+ChR-modified T cells continued to expand (increase from 210e6 cells on
+day 0 to 5.538.4610e10 cells on day 28), unlike unmodified CAR-PSCA T
+cells which plateaued at 3.845.4310e8 cells (n = 4). Indeed, in the
+presence of IL4, transgenic cells had a selective advantage (comprising
+44.811.0% of the population on day 0 and 87.610.0% on day 28; n = 4).
+However, even after prolonged cytokine exposure these T cells remained
+both antigen- and cytokine-dependent. In conclusion, CAR-PSCA 4/7
+ChR-modified tumor-specific T cells can effectively target pancreatic
+cancer cells and should be equipped to expand, persist, and retain their
+cytotoxic function even in the presence of high levels of IL4 in the
+tumor microenvironment.
+

@@ -1,0 +1,31 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Characterizing the effects of somatic mutations in splice factors
+on the transcriptome.
+
+
+Recent studies have identified recurrent somatic mutations in splice
+factors, including SF3B1 and U2AF1, in myelodysplastic syndromes, chronic
+lymphocytic leukemias, breast cancer, and lung adenocarcinoma. In one
+study, 91 tumor and matched normal whole-exomes were sequenced from
+patients with CLL and the second most frequently mutated gene was SF3B1.
+Analysis of 187 whole-exomes in lung adenocarcinoma and matched normals
+revealed recurrent somatic mutations in the splice factor U2AF1 in 3% of
+cases. In addition to U2AF1 mutations, recurrent truncating mutations
+were observed in a putative splice factor, RBM10, in 4% of lung
+adenocarcinomas. The recurrence of somatic mutations in splice factors in
+multiple tumor types suggests that alterations in RNA splicing may play
+an important role in tumorigenesis.Although these mutations have been
+identified in cancer genomes, the effect on the cancer transcriptome has
+yet to be fully explored; therefore, we do not understand how mutations
+in splice factors can contribute to tumorigenesis. We hypothesize that
+somatic mutations in splice factors cause alterations in mRNA splicing of
+important cancer genes.We are using a computational tool called JuncBASE
+to identify alternative splicing in tumor transcriptomes from RNA-Seq
+data. We are then associating somatic mutations in splice factors, found
+from whole-exome sequencing, with splicing signatures identified through
+RNA-Seq.Preliminary results on the identification of splice events
+associated with SF3B1 mutations in CLL reveal novel isoforms of multiple
+genes specifically expressed in SF3B1 mutant samples. Additionally, we
+examined the effects of SF3B1, U2AF1, and RBM10 mutations on tumor
+transcriptomes using RNA-Seq data from The Cancer Genome Atlas.
+

@@ -1,0 +1,76 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A focused proteomics technology QUEST-MS identified a novel plasma
+prostate cancer biomarker polypeptide complementing PSA test
+
+
+Prostate cancer accounted for more than 250,000 death worldwide in 2009,
+which was the 9th highest cause of cancer related death in Japan (The
+Population Survey Report 2010, the Ministry of Health, Labor and
+Welfare). Although the widespread use of PSA test has contributed to the
+early diagnosis of prostate cancer, expanding overdiagnosis cases and
+unnecessary biopsies have emerged as a big issue. To identify novel
+plasma biomarkers that could complement the specificity of PSA test and
+improve diagnostic accuracy, especially in the early stage of prostate
+cancer, we employed a focused proteomic technology QUEST-MS (Quick
+Enrichment of Small Targets for Mass Spectrometry). The rapid 96-well
+format preparation method QUEST was simply based on sequential reversed
+phase chromatography purifications which allowed efficient enrichment of
+less than 20 kDa proteins from 116 plasma samples in a half of day, prior
+to LC/MS/MS analysis. In this biomarker screening experiment, plasma from
+24 healthy controls, 19 benign prostate hypertrophy (BPH) patients, and
+73 prostate cancer patients (Gleason score 5-10) were analyzed with
+LTQ-Orbitrap-Velos mass spectrometer. The 116 LC/MS/MS raw data were
+directly loaded onto the Expressionist proteome server platform (Genedata
+AG) and subjected to data processing, label-free quantification analysis,
+and the following biomarker discovery analysis. We extracted peptides
+demonstrating prostate cancer-specific expression patterns by
+Absent-Present Search algorithm on the Expressionist Analyst module,
+which searched all-or-nothing peptides between two clinical groups
+(healthy control + BPH vs. prostate cancer). Finally 108 peptides were
+selected from over 100,000 peptides with the criteria; detection in at
+most 1 case among 43 controls and at least 12 cases among 73 prostate
+cancer patients. Simultaneously, protein identification analysis was
+processed on the Proteome Discoverer 1.3 software (Thermo Scientific)
+using the Sequest program, resulting in 1,126 non-redundant plasma
+protein identifications with false discovery rate Prostate cancer
+accounted for more than 250,000 death worldwide in 2009, which was the
+9th highest cause of cancer related death in Japan (The Population Survey
+Report 2010, the Ministry of Health, Labor and Welfare). Although the
+widespread use of PSA test has contributed to the early diagnosis of
+prostate cancer, expanding overdiagnosis cases and unnecessary biopsies
+have emerged as a big issue. To identify novel plasma biomarkers that
+could complement the specificity of PSA test and improve diagnostic
+accuracy, especially in the early stage of prostate cancer, we employed a
+focused proteomic technology QUEST-MS (Quick Enrichment of Small Targets
+for Mass Spectrometry). The rapid 96-well format preparation method QUEST
+was simply based on sequential reversed phase chromatography
+purifications which allowed efficient enrichment of less than 20 kDa
+proteins from 116 plasma samples in a half of day, prior to LC/MS/MS
+analysis. In this biomarker screening experiment, plasma from 24 healthy
+controls, 19 benign prostate hypertrophy (BPH) patients, and 73 prostate
+cancer patients (Gleason score 5-10) were analyzed with
+LTQ-Orbitrap-Velos mass spectrometer. The 116 LC/MS/MS raw data were
+directly loaded onto the Expressionist proteome server platform (Genedata
+AG) and subjected to data processing, label-free quantification analysis,
+and the following biomarker discovery analysis. We extracted peptides
+demonstrating prostate cancer-specific expression patterns by
+Absent-Present Search algorithm on the Expressionist Analyst module,
+which searched all-or-nothing peptides between two clinical groups
+(healthy control + BPH vs. prostate cancer). Finally 108 peptides were
+selected from over 100,000 peptides with the criteria; detection in at
+most 1 case among 43 controls and at least 12 cases among 73 prostate
+cancer patients. Simultaneously, protein identification analysis was
+processed on the Proteome Discoverer 1.3 software (Thermo Scientific)
+using the Sequest program, resulting in 1,126 non-redundant plasma
+protein identifications with false discovery rate < 1%. The list included
+the identification of PSA with 4 distinct high-confidence level peptides.
+Here we would like to show a successful identification of a new prostate
+cancer biomarker candidate polypeptide which displayed the Gleason
+score-dependent escalation of its plasma level among 12 prostate cancer
+samples, and only low level detection in 1 control sample. Although the
+prostate-specific expression feature of this polypeptide was quite
+similar with PSA, the pattern of positive cases was independent. Thus,
+the integration of biomarker focusing technology QUEST-MS and the
+high-end mass spectrometer analysis might be able to reach lots of
+unidentified low abundant (around 100 pg/ml) serum/plasma biomarkers.
+

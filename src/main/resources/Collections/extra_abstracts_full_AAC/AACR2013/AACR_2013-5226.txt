@@ -1,0 +1,37 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Understanding single cell variability in oncogene induced pathway
+aberration in lung cancer.
+
+
+Progression of normal epithelial cells towards malignancy is marked by
+alteration in signaling pathways involved in cellular growth and
+development. However, at any given stage of oncogenic progression, it is
+unknown to what extent different signaling pathways are altered and
+whether the degree of signaling change is similar from cell to cell. A
+quantitative survey of signaling alterations that are associated with
+common oncogenic changes will allow us to connect the widely observed
+signaling heterogeneity in cancer to the genetic changes leading to its
+disease states.Here, we study an isogenic series of human bronchial
+epithelial cells (HBECs) that have been oncogenically transformed with
+the sequential addition of common lung cancer mutations (p53null,
+p53null+KRASV12, p53null+KRASV12+c-myc). To quantify the degree of
+signaling alteration, we performed immuno-fluorescence assays and
+acquired images of HBECs stained with signaling markers representing
+important lung cancer pathways including WNT, JAK/STAT, TGF, IFN, MAPK,
+AKT and TNF pathways. We extracted intensity-based features from
+individual cells using our in-house image analysis platform. This
+single-cell analysis revealed a high degree of signaling change within
+each of our HBEC populations, suggesting that signaling alteration can be
+different from cell to cell and from pathway to pathway.We further
+quantified the degree of pathway alteration along our sequential
+oncogenic manipulations by using standard machine learning techniques.
+Our analysis revealed significant changes in the WNT, TGF and MAPK
+pathways upon oncogenic progression. Loss of p53 alone caused a major
+shift in TGF signaling; addition of mutant KRASV12 altered the MAPK, TNF
+and JAK/STAT pathways; Addition of a third genetic manipulation, C-MYC,
+induced dramatic shifts in the WNT and IFN pathways. We are currently in
+the process of inferring crosstalk among multiple pathways in HBECs and a
+panel of ten lung cancer cell lines. Taken together, our results suggest
+that the degree of signaling alteration across diverse signaling pathways
+can be correlated with a specific oncogenic state in lung cancer.
+

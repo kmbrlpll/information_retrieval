@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: A 3D culture model for screening of cancer therapeutics
+
+
+3D cell culture models are currently of great interest to the bioscience
+community. This is most notable in the cancer biology area, where a
+growing body of evidence suggests that more relevant and translational
+observations can be made by testing compounds in a physiological relevant
+3D model compared to a 2D model. In this study, we take a kinetic,
+live-cell imaging approach to measure the growth or shrinkage of
+non-adherent tumor spheroids using Ultra Low Attachment (ULA) 96-well and
+384-well microtiter plates (Corning). These round-bottomed, hydrogel
+coated plates facilitate the formation of spheroids by promoting
+self-adherence as opposed to adherence to the plate surface. In a single
+cell type, monoculture model, A549 lung epithelial carcinoma cells
+developed into single spheroid structures in each well of 96 and 384-well
+plates within 48-96 hours in culture. In both plate types, the resulting
+spheroid size, ranging from 330 m - 600 m, was proportional to the number
+of cells (1K - 5K cells per well). Post formation, spheroids remained
+untreated or were subjected to three test agents, staurosporine,
+oxaliplatin or cycloheximide. The increase or decrease in spheroid size
+was monitored over 3 - 10 days using the IncuCyte ZOOM Live Content
+Imaging system. Using the red fluorescent channel, spheroid growth was
+analyzed using fluorescent area and intensity metrics. Whereas
+staurosporine and oxaliplatin significantly decreased spheroid size at
+high concentrations, cycloheximide treatment resulted in a cytostatic
+response, effectively inhibiting spheroid growth in a concentration
+dependent manner, while not reducing total spheroid area at any tested
+concentration. Interestingly, in side-by-side comparisons of kinetic 2D
+and 3D assays, we observed a significant, 10-fold (one log) shift in the
+pharmacology of cycloheximide. In a 3D co-culture breast cancer model,
+this study also illustrates the effect of Lapatinib on SK-BR-3 cells
+grown in the presence of mammary derived stromal cells (fibroblasts).
+Together, this study describes a kinetic, live-cell approach to measuring
+spheroid size over time, illustrates a differential response of
+cycloheximide in a 3D system compared to identically treated cells grown
+in a 2D monolayer, and details a complex co-culture method for
+elucidating the effect of Lapatinib in a physiologically relevant 3D
+model of breast cancer.
+

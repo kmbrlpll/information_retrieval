@@ -1,0 +1,45 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Ovarian cancer risk factors by histologic subtypes: evidence for
+etiologic heterogeneity
+
+
+Background: A subset of high grade serous carcinomas may arise from the
+fallopian tube, while some endometrioid and clear cell carcinomas may
+derive from endometrial tissue. Previous studies have suggested
+differences in ovarian cancer risk factors by histologic subtypes, but
+had limited sample sizes. In the Ovarian Cancer Cohort Consortium (OC3),
+we evaluated associations of reproductive, hormonal, demographic and
+lifestyle factors, and family history of cancer with ovarian cancer
+subtypes. Identification of potential differences in associations among
+subtypes is important for clarifying ovarian cancer etiology and for
+developing novel prevention and risk prediction approaches.Methods: Among
+over 1.2 million women from 21 cohort studies, 4,347 ovarian cancers with
+histology information were identified during follow-up (3223 serous, 555
+endometrioid, 316 mucinous, 253 clear cell). We used competing risks Cox
+proportional hazards regression to compute risk factor associations by
+histologic subtype. Models were stratified on study and year of birth and
+adjusted for age, parity and oral contraceptive use; subtype
+heterogeneity was evaluated by a likelihood ratio test. Unsupervised
+hierarchical clustering was used to evaluate patterns of risk factors by
+histology.Results: Most risk factors showed significant heterogeneity
+across histologic subtypes. Higher parity was most strongly associated
+with lower risks of endometrioid (RR per child: 0.79; 95%CI: 0.74-0.85)
+and clear cell (RR: 0.69; 95%CI: 0.61-0.78) carcinomas (p-het5 years) was
+associated with endometrioid carcinomas (RR: 2.23; 95% CI: 1.46-3.42) and
+serous carcinomas (RR: 1.66; 95% CI: 1.44-1.92), and inversely associated
+with clear cell carcinomas (RR: 0.43; 95% CI: 0.20-0.91; p-het = 0.001).
+Family history of breast cancer was associated with increased risk of
+serous carcinomas (RR:1.13; 95% CI:1.02-1.27) and endometrioid carcinomas
+(RR: 1.44; 95% CI: 1.12-1.87; p-het = 0.02). Smoking (per 20 pack years)
+showed a positive association with mucinous carcinomas (RR: 1.38; 95% CI:
+1.09-1.75) and an inverse association with clear cell carcinomas
+(RR:0.62; 95% CI: 0.46-0.85; p-het = 0.001). In unsupervised hierarchical
+clustering, serous and mucinous carcinomas clustered in one group and
+endometrioid and clear cell carcinomas in the other.Conclusion: Our
+results demonstrate heterogeneous associations of risk factors with
+ovarian cancer subtypes, supporting the hypothesis that the subtypes
+develop through different pathways. Most established risk factors were
+more strongly associated with non-serous carcinomas, suggesting that risk
+prediction may be more challenging for serous cancers, the most fatal
+subtype.
+

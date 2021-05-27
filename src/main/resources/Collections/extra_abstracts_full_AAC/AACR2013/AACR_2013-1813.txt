@@ -1,0 +1,76 @@
+Meeting: 2013 AACR Annual Meeting
+Title: FOXM1 target genes associated with cell cycle regulation predict
+breast cancer metastatic outcome.
+
+
+FOXM1 is a key transcription factor regulating both cell proliferation
+and DNA damage checkpoint responses; and previous studies have
+demonstrated that higher breast cancer FOXM1 expression is associated
+with worse patient survival. Despite its functional and prognostic
+significance, the FOXM1 cistrome remains largely uncharacterized. Thus,
+in this study we utilized chromatin immune-precipitation sequencing
+(CHIPseq, GenPathway) and paired-end RNA-sequencing (RNAseq, UCSC) to
+comprehensively characterize the direct FOXM1 target genes associated
+with transcriptomic differences between actively proliferating and
+non-proliferating (confluent) ER+ MCF-7 cells. CHIPseq analysis
+identified 2.5K peaks with differential FOXM1 binding (MACS, p FOXM1 is a
+key transcription factor regulating both cell proliferation and DNA
+damage checkpoint responses; and previous studies have demonstrated that
+higher breast cancer FOXM1 expression is associated with worse patient
+survival. Despite its functional and prognostic significance, the FOXM1
+cistrome remains largely uncharacterized. Thus, in this study we utilized
+chromatin immune-precipitation sequencing (CHIPseq, GenPathway) and
+paired-end RNA-sequencing (RNAseq, UCSC) to comprehensively characterize
+the direct FOXM1 target genes associated with transcriptomic differences
+between actively proliferating and non-proliferating (confluent) ER+
+MCF-7 cells. CHIPseq analysis identified 2.5K peaks with differential
+FOXM1 binding (MACS, p < 107). Peaks located within 5kb (-4.5kb to
++0.5kb) of a transcription start site were assigned to genes, yielding
+429 differentially bound genes. 5.1K genes were found to be
+differentially expressed (DESeq, BH-FDR corrected p 1.5). Of these, 145
+were differentially bound by FOXM1 and referred to as direct target
+genes. These direct targets were enriched in 43 functional categories (GO
+biological processes, KEGG, Reactome or BioCarta pathways;
+Benjamini-corrected EASE score 1.5). Of these, 145 were differentially
+bound by FOXM1 and referred to as direct target genes. These direct
+targets were enriched in 43 functional categories (GO biological
+processes, KEGG, Reactome or BioCarta pathways; Benjamini-corrected EASE
+score < 0.05) predominantly related to cell cycle and chromatin assembly.
+The remaining 4.9K differentially expressed proliferation associated
+genes with unaltered FOXM1 DNA binding, referred to as indirect targets
+and including FOXM1 itself, were enriched in a far more diverse group of
+46 functional categories including processes related to cell cycle, DNA
+repair and DNA damage response. The average expression levels of FOXM1
+direct and indirect target genes were computed in a pooled set of 683
+node-negative adjuvant chemotherapy-nave breast cancers from four public
+sources (GSE2034, GSE5327, GSE7390, NKI-295) annotated for distant
+metastasis-free survival (DMFS). Higher average expression of FOXM1
+direct and indirect target genes were associated with worse DMFS (log
+rank p value 1.5). Of these, 145 were differentially bound by FOXM1 and
+referred to as direct target genes. These direct targets were enriched in
+43 functional categories (GO biological processes, KEGG, Reactome or
+BioCarta pathways; Benjamini-corrected EASE score < 0.05) predominantly
+related to cell cycle and chromatin assembly. The remaining 4.9K
+differentially expressed proliferation associated genes with unaltered
+FOXM1 DNA binding, referred to as indirect targets and including FOXM1
+itself, were enriched in a far more diverse group of 46 functional
+categories including processes related to cell cycle, DNA repair and DNA
+damage response. The average expression levels of FOXM1 direct and
+indirect target genes were computed in a pooled set of 683 node-negative
+adjuvant chemotherapy-nave breast cancers from four public sources
+(GSE2034, GSE5327, GSE7390, NKI-295) annotated for distant
+metastasis-free survival (DMFS). Higher average expression of FOXM1
+direct and indirect target genes were associated with worse DMFS (log
+rank p value < 0.00001 for cohorts dichotomized at median average
+expression). When the dichotomized cohorts were further stratified by ER
+status, significant DMFS associations were only observed within the ER+,
+but not the ER-, subsets. However, in the latter subset there was a trend
+for worse prognosis associated with high expression of FOXM1 direct
+targets (HR = 1.6, log rank p=0.08), but not with FOXM1 indirect gene
+targets (HR=1.0, log rank p = 0.88). Altogether, these findings
+demonstrate that following induction of breast cancer cell proliferation,
+FOXM1 direct target genes are primarily associated with cell cycle
+regulation and appear to be better biomarkers of breast cancer metastatic
+outcome than proliferation associated indirect gene targets not
+associated with FOXM1 binding changes.
+

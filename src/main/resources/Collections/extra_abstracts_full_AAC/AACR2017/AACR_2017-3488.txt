@@ -1,0 +1,119 @@
+Meeting: 2017 AACR Annual Meeting
+Title: RNA-sequencing reveals etiology-specific dysregulation of
+PIWI-interacting RNAs in head and neck squamous cell carcinoma.
+
+
+Head and neck squamous cell carcinoma (HNSCC) represents the sixth
+deathliest cancer worldwide and the second fastest growing cancer in many
+developing countries. A cancer characterized by heterogeneity, HNSCCs are
+known to display varied genetic alterations based on a variety of
+epidemiological and clinical factors, including etiology, making it
+challenging to comprehensively profile and treat the disease. New studies
+have shown that non-coding RNAs (ncRNAs) may provide a promising means by
+which to explore HNSCC pathogenesis due to their diverse genetic and
+epigenetic roles and their recent emergence as potential biomarkers for
+cancer. In this study, we decided to investigate etiology-specific
+alterations of PIWI-interacting RNAs (piRNAs), the largest class of
+ncRNAs that have roles in silencing of retrotransposons, heterochromatin
+modification, and germ cell maintenance, in HNSCC. We particularly
+focused on smoking, the most prevalent risk factor of HNSCC, and HPV, the
+fastest growing cause of the disease today. Using 466 HNSCC
+RNA-sequencing datasets from The Cancer Genome Atlas (TCGA), we
+identified 58 piRNAs significantly differentially expressed in HNSCC
+current smokers vs. normal lifelong nonsmokers and 39 piRNAs
+significantly dysregulated in HNSCC HPV16(+) vs. normal HPV(-) cohorts,
+with 29 piRNAs commonly implicated in both etiologies (p Head and neck
+squamous cell carcinoma (HNSCC) represents the sixth deathliest cancer
+worldwide and the second fastest growing cancer in many developing
+countries. A cancer characterized by heterogeneity, HNSCCs are known to
+display varied genetic alterations based on a variety of epidemiological
+and clinical factors, including etiology, making it challenging to
+comprehensively profile and treat the disease. New studies have shown
+that non-coding RNAs (ncRNAs) may provide a promising means by which to
+explore HNSCC pathogenesis due to their diverse genetic and epigenetic
+roles and their recent emergence as potential biomarkers for cancer. In
+this study, we decided to investigate etiology-specific alterations of
+PIWI-interacting RNAs (piRNAs), the largest class of ncRNAs that have
+roles in silencing of retrotransposons, heterochromatin modification, and
+germ cell maintenance, in HNSCC. We particularly focused on smoking, the
+most prevalent risk factor of HNSCC, and HPV, the fastest growing cause
+of the disease today. Using 466 HNSCC RNA-sequencing datasets from The
+Cancer Genome Atlas (TCGA), we identified 58 piRNAs significantly
+differentially expressed in HNSCC current smokers vs. normal lifelong
+nonsmokers and 39 piRNAs significantly dysregulated in HNSCC HPV16(+) vs.
+normal HPV(-) cohorts, with 29 piRNAs commonly implicated in both
+etiologies (p < 0.05). Of the 58 piRNAs implicated in smoking-related
+HNSCC, 4 piRNAs were found to significantly associate with clinical
+variables and 1 transcript with patient outcome, with similar results for
+HPV-mediated piRNA dysregulation (Kruskal-Wallis, Cox regression, p Head
+and neck squamous cell carcinoma (HNSCC) represents the sixth deathliest
+cancer worldwide and the second fastest growing cancer in many developing
+countries. A cancer characterized by heterogeneity, HNSCCs are known to
+display varied genetic alterations based on a variety of epidemiological
+and clinical factors, including etiology, making it challenging to
+comprehensively profile and treat the disease. New studies have shown
+that non-coding RNAs (ncRNAs) may provide a promising means by which to
+explore HNSCC pathogenesis due to their diverse genetic and epigenetic
+roles and their recent emergence as potential biomarkers for cancer. In
+this study, we decided to investigate etiology-specific alterations of
+PIWI-interacting RNAs (piRNAs), the largest class of ncRNAs that have
+roles in silencing of retrotransposons, heterochromatin modification, and
+germ cell maintenance, in HNSCC. We particularly focused on smoking, the
+most prevalent risk factor of HNSCC, and HPV, the fastest growing cause
+of the disease today. Using 466 HNSCC RNA-sequencing datasets from The
+Cancer Genome Atlas (TCGA), we identified 58 piRNAs significantly
+differentially expressed in HNSCC current smokers vs. normal lifelong
+nonsmokers and 39 piRNAs significantly dysregulated in HNSCC HPV16(+) vs.
+normal HPV(-) cohorts, with 29 piRNAs commonly implicated in both
+etiologies (p < 0.05). Of the 58 piRNAs implicated in smoking-related
+HNSCC, 4 piRNAs were found to significantly associate with clinical
+variables and 1 transcript with patient outcome, with similar results for
+HPV-mediated piRNA dysregulation (Kruskal-Wallis, Cox regression, p <
+0.05). In particular, we recognized transcripts NONHSAT081250,
+NONHSAT123636, and NONHSAT108298 for their correlations with tumor stage,
+metastatic status, and/or anatomic site, as well as presence of common
+mutations and copy number variations in HNSCC. We then analyzed mRNA
+expression data for the same 466 samples from TCGA and found PIWI
+proteins PIWIL1 and PIWIL2 to be implicated in smoking-related and
+HPV-related HNSCCs respectively, and also to associate with piRNA
+candidate expression levels (p Head and neck squamous cell carcinoma
+(HNSCC) represents the sixth deathliest cancer worldwide and the second
+fastest growing cancer in many developing countries. A cancer
+characterized by heterogeneity, HNSCCs are known to display varied
+genetic alterations based on a variety of epidemiological and clinical
+factors, including etiology, making it challenging to comprehensively
+profile and treat the disease. New studies have shown that non-coding
+RNAs (ncRNAs) may provide a promising means by which to explore HNSCC
+pathogenesis due to their diverse genetic and epigenetic roles and their
+recent emergence as potential biomarkers for cancer. In this study, we
+decided to investigate etiology-specific alterations of PIWI-interacting
+RNAs (piRNAs), the largest class of ncRNAs that have roles in silencing
+of retrotransposons, heterochromatin modification, and germ cell
+maintenance, in HNSCC. We particularly focused on smoking, the most
+prevalent risk factor of HNSCC, and HPV, the fastest growing cause of the
+disease today. Using 466 HNSCC RNA-sequencing datasets from The Cancer
+Genome Atlas (TCGA), we identified 58 piRNAs significantly differentially
+expressed in HNSCC current smokers vs. normal lifelong nonsmokers and 39
+piRNAs significantly dysregulated in HNSCC HPV16(+) vs. normal HPV(-)
+cohorts, with 29 piRNAs commonly implicated in both etiologies (p <
+0.05). Of the 58 piRNAs implicated in smoking-related HNSCC, 4 piRNAs
+were found to significantly associate with clinical variables and 1
+transcript with patient outcome, with similar results for HPV-mediated
+piRNA dysregulation (Kruskal-Wallis, Cox regression, p < 0.05). In
+particular, we recognized transcripts NONHSAT081250, NONHSAT123636, and
+NONHSAT108298 for their correlations with tumor stage, metastatic status,
+and/or anatomic site, as well as presence of common mutations and copy
+number variations in HNSCC. We then analyzed mRNA expression data for the
+same 466 samples from TCGA and found PIWI proteins PIWIL1 and PIWIL2 to
+be implicated in smoking-related and HPV-related HNSCCs respectively, and
+also to associate with piRNA candidate expression levels (p < 0.05). We
+subsequently validated the dysregulation of all significant piRNA and
+PIWI protein candidates in vitro in cigarette-treated and HPV
+E6/E7-overexpressing normal oral epithelial cells. While a comprehensive
+understanding of the functional and mechanistic relevance of a vast
+majority of non-coding transcripts remains yet to be found, our findings
+reveal the potential of these genes to mediate a variety of
+etiology-specific clinical and genomic aberrancies in HNSCC and provide
+novel insights to thwart the progression of this disease.
+
+

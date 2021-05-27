@@ -1,0 +1,42 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Adipocytes inhibit trastuzumab-mediated ADCC via induction of GDF15
+
+
+Background : Trastuzumab is a monoclonal antibody that has been approved
+in the treatment of HER2-expressing breast cancer. Despite its efficacy,
+resistance often occurs. Little is known about the role of the tumor
+microenvironment in resistance to trastuzumab. Recent studies have shown
+rising role of adipose tissue in promoting cancer progression and
+inducing resistance to chemotherapy. Given the abundance of adipose
+tissue in breast and its proximity to cancer cells, we investigated the
+impact of adipocytes on antibody-dependent cellular cytotoxicity (ADCC),
+one of the main mechanisms of action of trastuzumab.Methods: We set up a
+co-culture system in the presence of undifferentiated or differentiated
+human multi-potent adipose-derived stem (hMADS) cells, HER2-expressing
+human breast cancer cell lines (BT474, MDA-453, SKBR3, MDA-MB-361), and
+human natural killer NK-92 expressing the Fc receptor CD16.
+Trastuzumab-mediated cytotoxicity was assessed by calcein-release assay.
+Morphological changes on cancer cells and NK-92-CD16 cells were
+investigated by microscopy and flow cytometry.Results: We found that
+adipocytes, as well as pre-adipocytes, inhibited trastuzumab-mediated
+ADCC by approximately 30%. Notably, this inhibition was enhanced in
+hypoxic conditions with 1% O2 (up to 60% inhibition). The inhibition of
+ADCC by adipose cells was not due to a titration or degradation of the
+antibody, but via factors that are secreted by adipose cells into the
+conditioned media. Analysis of cell phenotype did not reveal any
+modification of NK cell receptors (CD16, NKG2D, NKG2A, NKp30, NKp44) or
+NK cell activation markers (CD25, CD69, CD107a), nor of HER2 levels in
+the presence of adipocytes. Pre-incubation of NK cells with the
+conditioned medium from adipocytes did not alter NK cytotoxicity.
+Conversely, pre-incubation of cancer cells with adipocyte-conditioned
+medium reduced sensitivity of cancer cells to ADCC. Using transcriptomic
+approach, we found GDF15 to be rapidly up-regulated in cancer cells
+exposed to adipocyte-conditioned medium. Down-regulation of GDF15 by
+siRNA reversed the adipocyte-induced inhibition of ADCC.Conclusion:
+Adipocytes inhibit antitumor activity of trastuzumab in HER2-expressing
+breast cancer cells via secretion of factors that reduce cancer cell
+sensitivity to ADCC. Our findings underline the importance of adipose
+tissue in the resistance to trastuzumab, and suggest that development of
+approaches targeting GDF15 may sensitize cancer cells to
+trastuzumab-based therapy.
+

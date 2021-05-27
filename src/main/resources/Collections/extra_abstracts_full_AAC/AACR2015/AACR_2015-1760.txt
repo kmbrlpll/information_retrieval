@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Single cell longitudinal studies reveal cell cycle specific
+effects of selective inhibitors of nuclear export (SINE)
+
+
+Nuclear export of proteins is fundamental for cell growth and function.
+Selinexor is a SINE compound that is in clinical development for the
+treatment of different cancers. Selinexor forms a slowly reversible
+covalent bond to Exportin-1 (XPO1), preventing its association with
+protein cargos, thereby resulting in their nuclear retention. XPO1 cargos
+include the majority of tumor suppressor proteins (TSP) and cell cycle
+regulators such as p53, p21 and p27 that have key roles in cancer
+progression and drug response. It is unclear how selinexor affects cell
+cycle progression in individual cells and the subsequent stress and fate
+of those cells. To elucidate selinexor action, we developed cell lines
+that stably express fluorescent ubiquitin cell cycle reporters (FUCCI),
+and followed individual cells longitudinally using continuous time-lapse
+microscopy for 72 hours. We report that in fibrosarcoma-derived HT-1080
+cells that express wildtype p53 and p21, 20% of the initial cell
+population became arrested with >90% in G1- or S-phase and 35% died with
+nearly 70% from G1- or S-phase after a cell cycle delay or arrest. We
+also found that 45% of cells divided, but the progeny died or arrested in
+G1- or S-phase of the next cell cycle - often after cell cycle arrest or
+slowed cell cycle progression. Using FUCCI, we tracked the response of
+cells treated acutely in specific cell cycle stages. Cells treated in
+G1-phase most often arrested or died in G1- or S-phase, whereas cells
+treated in G2-phase usually progressed to cell division. As FUCCI
+revealed S-phase progression defects and associated cell death, we
+further characterized this phenotype. Using nucleotide incorporation with
+fluorescent detection, we find that as soon as 8 hours after selinexor
+fewer cells are undergoing DNA replication and those that are, are doing
+so inefficiently as both the rate and maximal levels of nucleotide
+incorporation are significantly reduced. S-phase arrest and progression
+defects may manifest as DNA double-strand breaks. We find a strong
+association between S-phase status and DNA damage. In some cells, the
+damage occurs within hours of selinexor treatment and appears as a
+striking cluster of foci. At 8 hours, nearly 50% of cells contain DNA
+damage clusters. Importantly, the damage clusters sometimes repair as
+determined by fixed cell time-course analysis and live-cell microscopy.
+We are exploring the nature of these DNA damage structures, the
+mechanisms of their formation and repair, and are also testing for
+redundancy of the cell cycle regulators in determining selinexor
+responses. In summary, selinexor is fast acting, shows cell cycle
+selectivity, and is highly effective at arresting cell growth and
+inducing apoptosis in tumor cells. These data suggest that selinexor may
+exert anti-cancer effects even on slow growing tumors where the bulk of
+the cell mass presents a G1-like state and that it likely combines well
+with other cell cycle targeted therapeutics.
+

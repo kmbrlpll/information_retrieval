@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Intracellular ATP reduction by an artificial protein as a novel
+approach to cancer therapy
+
+
+Introduction: The use of chemotherapeutic agents that target key
+metabolic processes in cancer cells is an important therapeutic strategy.
+As a result of reduced mitochondrial activity, adenine triphosphate (ATP)
+is produced mainly by aerobic glycolysis and lactic acid fermentation in
+the cytosol of cancer cells (Warburg effect). Since ATP is a vital energy
+carrier that is crucial for various biochemical reactions in cancerous
+cells, interfering with the production/availability of ATP offers a new
+approach to cancer therapy. To assess this idea, a man-made synthetic
+ATP-binding protein, DX, was tested as a novel cancer therapy.
+Hypothesis: Reduced ATP availability, due to the expression of DX in HeLa
+cells, will negatively affect cellular metabolism and viability. Methods:
+For controlled expression, DX was cloned into the pcDNA5/TO expression
+vector (with an N-terminal FLAG tag), whose expression is driven by a
+tetracycline-regulated cytomegalovirus promoter. Cultured T-REx HeLa
+cells (which stably express the tetracycline repressor protein) were
+transfected with pcDNA5/TO::DX. As a control for transfection and DX
+expression, T-REx HeLa cells were transfected with pcDNA5/TO/lacZ and
+cultured under identical conditions. The impact of DX expression on cell
+viability and morphology was assessed using a tetrazolium-based
+colorimetric cell viability assay and by light and fluorescent
+microscopy. To assess the impact of ATP depletion in combination with
+currently used anti-cancer agents on HeLa cell viability, toxicity assays
+were performed comparing Doxorubicin, Paclitaxel, or Gemcitabine
+treatment alone or in combination with DX. Results: HeLa cells expressing
+DX experienced reduced viability and altered morphology compared to cells
+expressing lacZ alone. These results suggest that ATP depletion
+potentiate cell death in HeLa cells. HeLa cells treated singly with DX do
+not possess the same level of toxicity as compared with the tested
+chemotherapy agents. Of the chemotherapy agents assayed, DX displayed a
+synergistic effect with Doxorubicin to reduce cell viability. Conclusion:
+Reduced intracellular ATP levels, mediated by a synthetic ATP-binding
+protein, negatively affects the viability of cervical cancer cells. The
+reduction in ATP, and the consequence of this on biochemical pathways and
+cell viability requires further investigation. We suggest that artificial
+proteins, such as DX, could be used to control and regulate specific
+targets in metabolic pathways and represents a new approach for cancer
+chemotherapy.
+

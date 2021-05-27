@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Additive and multiplicative gene-environment interactions for
+colorectal cancer risk.
+
+
+Background: Genetic and environmental factors influence colorectal cancer
+(CRC) risk. Previous studies have provided additional etiologic insight
+by examining multiplicative gene-environment interactions for individual
+susceptibility loci. However, individual loci confer only modest risks,
+which may limit statistical power and clinical significance. A genetic
+risk score comprising known CRC loci may provide a more comprehensive
+assessment of risk. Further, there is a paucity of data on the role of
+additive gene-environment interactions, which may have greater public
+health implications than multiplicative interactions. We thus evaluated
+both additive and multiplicative interactions between a genetic risk
+score and 15 key environmental factors on risk of CRC.Methods: We
+conducted an analysis of 10,491 CRC cases and 10,725 controls of European
+ancestry in 7 cohort and 6 case-control studies participating in the
+Genetics and Epidemiology of Colorectal Cancer Consortium (GECCO) or
+Colon Cancer Family Registry (CCFR). To provide a global measure of
+genetic predisposition, information across multiple risk variants was
+combined by calculating a genetic risk score based on 24 polymorphisms
+near 21 genetic loci identified in previous genome-wide association
+studies. For the genetic score and environmental factors, the reference
+category corresponded to that associated with lower CRC risk. We tested
+for additive interactions by estimating relative excess risk due to
+interactions (RERIs) using logistic regression; for multiplicative
+interactions we used an empirical-Bayes approach. Nominal P values 0.05
+were considered statistically significant.Results: After adjustment for
+age, sex, center, study, principal components, and total energy, as
+appropriate, we observed super-additive gene-environment interactions for
+CRC risk between the genetic risk score and body mass index (RERI=0.15;
+95% CI: 0.00-0.31), ever smoking (RERI=0.14; 95% CI: 0.00-0.28),
+pack-years of smoking (RERI=0.23; 95% CI: 0.05-0.41), postmenopausal
+hormone therapy use (RERI=0.38; 95% CI: 0.17-0.59), and intake of
+processed meat (RERI=0.23; 95% CI: 0.06-0.40). Of the 15 environmental
+risk factors, 12 showed RERIs > 0 suggesting an overall trend toward
+super-additive interactions for these factors. In addition, we observed
+evidence of sub-multiplicative interactions for use of aspirin and
+non-steroidal anti-inflammatory drugs. There were no other statistically
+significant multiplicative interactions.Conclusions: We observed evidence
+for super-additive effects of genetic predisposition and environmental
+risk factors on risk of CRC. Our findings suggest that certain
+environmental risk factors have stronger effects on absolute risk among
+individuals with higher genetic risk of CRC. If confirmed in future
+studies, these results may have implications for targeted prevention
+strategies.
+

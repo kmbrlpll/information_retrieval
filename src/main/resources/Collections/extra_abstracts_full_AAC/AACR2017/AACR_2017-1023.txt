@@ -1,0 +1,46 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Activation of proto-oncogenes by enhancer-hijacking in high‐risk
+neuroblastoma.
+
+
+Background: Neuroblastoma (NB), a neural crest-derived tumor of the
+sympathetic nervous system, is the most common extracranial solid tumor
+in children. We have previously shown that genomic rearrangements
+activate proto-oncogenic telomerase by juxtaposing active enhancer
+elements to the TERT gene in a large fraction of high-risk NBs. In the
+present study, we applied a global approach integrating whole genome
+sequencing (WGS), Chromatin immunoprecipitation sequencing (ChIP-seq) and
+RNA sequencing (RNA-seq) data of NB cells and tumors to identify further
+key oncogenes activated by enhancer-hijacking in NB.
+
+Methods: WGS was applied to search for structural rearrangements in 120
+NB tumors and five NB cell lines. Corresponding RNA-seq data were used to
+discover mono-allelic and/or outlier expression of candidate genes
+potentially involved in enhancer hijacking events. ChIP-seq of 34 NB
+tumors and 17 NB cell lines was applied to identify active enhancer
+elements in NB. Circular chromatin conformation capture sequencing
+(4C-seq) was used to confirm physical promoter-enhancer interactions in
+NB cell lines.
+
+Results: WGS analyses revealed that chromosomal rearrangements are common
+events in NB tumors and cell lines and frequently affect regions
+harboring proto-oncogenes and lineage specific enhancers. ChIP-seq
+analyses of the chromatin mark histone 3 lysine 27 acetylation (H3K27ac),
+surrogate for enhancer activity, confirmed that these rearrangements
+recurrently juxtapose active enhancer elements to oncogenes including
+MYCN and MYC in NB. Intriguingly, quantification of H3K27ac ChIP-seq
+profiles uncovered that the enhancer elements translocated to MYC were
+among the most active ones within the respective epigenomes. 4C-seq
+analyses proofed physical interactions between translocated enhancer
+elements and promoters of the respective oncogenes, which is in line with
+their elevated expression in rearranged cases.
+
+Conclusions: Our study reveals that structural rearrangements in
+high-risk neuroblastoma frequently juxtapose strong enhancers to key
+oncogenes, including MYCN and MYC, leading to physical promoter-enhancer
+interactions which likely drive overexpression of the oncogenes observed
+in rearranged cases. The common mechanism of oncogene activation by
+enhancer-hijacking may open a therapeutic window for epigenetic drugs
+including BET or CDK7 inhibitors in high-risk NBs.
+
+

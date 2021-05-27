@@ -1,0 +1,38 @@
+Meeting: 2014 AACR Annual Meeting
+Title: An integrated genomic characterization of the target of a small
+molecule identifies a novel cancer dependency
+
+
+Recent large sequencing and cancer dependency studies have accelerated
+the identification of candidate targets for precision medicine. However,
+the current drug development paradigm starting with target identification
+and validation can be slow and has thus far yielded a limited variety of
+successful targets. We sought to return to an empirical approach to drug
+discovery and performed a high throughput screen to identify small
+molecules that were both potent and selective. In a primary screen of
+2000 compounds in two cell-lines: A549 and H1734, three compounds only
+affected H1734 viability. One of which validated in a dose-response
+experiment with great potency and specificity, we called this small
+molecule Compound 1B.In an effort to identify the target of Compound 1B,
+we profiled 766 genomically-characterized cancer cell lines and found
+that approximately 4% were sensitive to our compound. Sensitivity was not
+restricted to a particular tissue of origin. Interestingly, expression of
+Phosphodiesterase 3A (PDE3A) correlated with cytotoxicity. We further
+showed that Compound 1B specifically inhibited the enzymatic activity of
+PDE3A and PDE3B in a panel of 11 different phosphodiesterase family
+members. However, only a subset of other PDE3 inhibitors shared the same
+cytotoxic phenotype of Compound 1B. In a rescue screen of 1600 bioactive
+compounds, we identified the non-lethal PDE3 inhibitors as compounds that
+were able to rescue cell death induced by Compound 1B. Biochemical assays
+showed that both Compound 1B, cytotoxic and non-cytotoxic PDE3 inhibitors
+compete for binding to PDE3A. Knockdown of PDE3A did not affect cell
+viability and inhibited response of sensitive cell lines to Compound
+1B.Thus we have identified a potent and selective small molecule that
+likely acts through PDE3A to induce cancer cell-line cytotoxicity. Our
+data suggest a hyper- or neomorphic function of PDE3A induced upon
+binding of Compound 1B. By cross-referencing integrative datasets with
+compound-sensitivity data, we show that reversal of the current
+drug-development paradigm can elucidate novel cancer targets, which are
+not yet identifiable by analysis of large next-generation sequencing
+datasets.
+

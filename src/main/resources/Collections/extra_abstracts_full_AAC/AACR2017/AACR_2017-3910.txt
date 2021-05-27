@@ -1,0 +1,43 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Analysis of metastatic potential by breast cancer type through a
+microfluidic blood-brain niche.
+
+
+Metastasis from the primary tumor site to the brain is the most lethal
+complication from advanced cancer. 15% of breast cancers metastasize in
+the brain with a median survival of 5-14 months depending on the subtype.
+Therefore it is critical to identify when a tumor has the clonal
+potential to metastasize to the brain. Current detection methods and
+treatment therapies have continued to improve but do not shed light on
+clonal metastatic potential. Models for characterizing metastatic
+potential of clonal populations currently used include murine in vivo and
+simple in vitro systems. Murine models are costly, time intensive, slow
+to manifest metastasis and are not easy to analyze. On the other hand, in
+vitro systems are faster and more cost effective but currently do not
+recapitulate the complexity of the “live” micro-environment. We have
+developed a microfluidic device that mimics the cellular and physical
+components of the human blood-brain niche to study the brain metastatic
+process. The device is composed of two chambers separate by a porous
+membrane. The top chamber and apical side of the membrane is seeded with
+human brain endothelial cells and uses flow to mimic shear stress
+encountered within the vasculature. Cancer cells are introduced into this
+chamber in which they adhere to and migrate through the endothelium into
+the bottom chamber. The bottom chamber contains astrocytes suspended in a
+collagen gel to mimic the brain stroma and provide room for invading
+cancer cells to colonize and grow. Barrier integrity is monitored using
+TEER (trans-endothelial electrical resistance), and fluctuates as the
+tight junctions of the endothelium are compromised by invading cancer
+cells. This is characterized by IF and tight junction staining.
+Throughout all time points, from introduction into the flow chamber,
+adherence to the endothelium, extravasation through the barrier,
+migration into the stroma, and proliferation the cancer cells can be
+monitored via both microscopy and TEER. We have applied this microfluidic
+blood-brain niche model to compare brain-seeking subclones of breast
+cancer cell lines of known whole exome sequence and normal-like cell
+lines (MCF10A) in terms of their ability to extravasate, migrate and
+survive in the niche. We characterize their migratory behavior from
+live-cell microscopy and correlate it to the TEER measurements to
+establish a metastatic model. We then compare metastatic markers for
+∝BBN traversing and non-traversing cells when appropriate.
+
+

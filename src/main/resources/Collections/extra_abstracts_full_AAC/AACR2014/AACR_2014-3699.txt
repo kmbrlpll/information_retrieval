@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Molecular profiling of BRAFi-resistance in melanoma cancer models
+using high-throughput sequencing in patient-derived xenografts
+
+
+Patients with metastatic V600E mutant melanomas treated with BRAF
+inhibitors (BRAFi) frequently develop resistant tumors with aggressive
+phenotypes. Furthermore, approximately 20-40% of V600E mutant tumors are
+intrinsically resistant to BRAFi. Suitable models for studying mechanisms
+of acquired and intrinsic resistance to BRAFi are therefore necessary. In
+the present study, we applied deep sequencing techniques to identify
+possible mechanisms of intrinsic and acquired resistance in our
+collection of melanoma patient-derived xenograft models (MEXFs) treated
+with BRAFi.Mutational and expression profiles in MEXFs were characterized
+by whole-exome sequencing (WES) and HG-U133 Plus 2.0 Affymetrix chips and
+correlated with BRAFi efficacy data from 3D Tumor Clonogenic Assays
+(TCA). In addition, four resistant cell lines were created by
+continuously treating 2D monolayer cultures of tumor cells with
+Vemurafenib, all of which were initially sensitive to BRAFi and carry the
+BRAF V600E mutation. Expression profiles and mutations of these cell
+lines were analyzed from RNA-seq data. Potential gene candidates
+responsible for conferring resistance were further investigated by Q-PCR
+and Western-blot experiments.WES data revealed that the number of
+mutations per model was highly variable. Some MEXFs showed a
+hyper-mutated profile (>2000 mutations) and were characterized by
+specific mutational signatures in agreement with those found in melanoma
+(Alexandrov et al, Nature, 2013). Mutation frequencies of genes typically
+mutated in melanoma are very similar to those found in The Cancer Genome
+Atlas. We observed a high correlation of mutations between our MEXFs and
+their respective cell lines. Among the models with a V600E mutation, only
+one (MEXF 462) showed resistance to BRAFi-treatment as identified by 3D
+TCA analyses. In this model, we identified gene point mutations and a
+high over-expression of EGFR, MEK1, PDGFRA and NF1 in contrast to the
+other models, suggesting a specific regulation of the RTK signaling
+pathways. In 2D assays, synergistic interaction of Vemurafenib and
+Erlotinib was shown. RNA-seq analysis of the cell line established from
+MEXF 276, in which resistance to Vemurafenib was induced, revealed around
+20% of genes being differentially expressed (FC>2) between sensitive and
+resistant cell lines. An up-regulation of EGFR was also found in this
+resistant cell line and was confirmed by Western-blot. In addition, an
+overexpression of PLAU, a biomarker of invasiveness, was identified. We
+currently perform expression profiling of three other models resistant to
+BRAFi. Preliminary results suggest different patterns of gene regulation
+involved in acquisition of resistance. A precise map of transcriptomic
+and mutational profiles of the four cell lines will be generated and we
+are investigating if invasiveness is increased upon acquisition of
+resistance.
+

@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: ASIC1 regulates neuronal differentiation of neuroblastoma through
+Notch signaling pathway
+
+
+Background: Neuroblastoma arises when neuroblasts of the sympathetic
+nervous system fails to undergo proper differentiation. The Notch
+signaling pathway is critical for cell differentiation, growth and
+proliferation. In neurons, it has been shown that up regulation of Notch
+activity either inhibited neurite extension or caused retraction of
+neurites. Conversely, inhibition of Notch1 signaling facilitated neurite
+extension. Acid-sensing ion channels (ASICs) are proton-gated cation
+channels. In addition to the role in synaptic plasticity, learning and
+memory, a good correlation has been found between ASIC1a expression and
+spine density suggesting that ASIC1a plays an important role in the
+processes of spine morphogenesis, maintenance and remodeling which are
+involved in the process of neuronal differentiation. The underlying
+mechanism however remains elusive. We hypothesize that ASIC1 regulates
+neurite growth through Notch signaling in neuroblastoma. Methods: 1) We
+employed proteomic approach and pathway analysis to examine changes in
+Notch signaling by ASIC gene deletion. By comparison adult ASIC1a-/- and
+WT mice, quantitative mass spectrometric techniques of spectral counting
+followed by analysis with SEQUEST were used to identify reliable
+proteins. 2) We determined the effects of ASIC1a on neurite growth in a
+mouse neuroblastoma cell line, NS20Y cells by down regulating ASIC1a
+expression with shRNA or inhibiting ASIC1a function with PcTX, a specific
+pharmacological inhibitor. 3) We determined the effects of DAPT, a Notch
+signal inhibitor on neuronal differentiation in NS20Y cells. Results: 1)
+The enrichment analyses by the bioinformatics system Metacore showed that
+development Notch signaling pathway (p = 1.526E-05), development
+Notch-induced epithelial-mesenchymal transition (EMT, p = 3.902E-05) and
+development Notch-mediated pathway for NF-B modulation (p = 2.323E-04)
+were changed in WT mice compared to ASIC1a-/-. 2) Down regulation of
+ASIC1a in NS20Y cells with shRNA inhibits CPT-cAMP induced neurite
+growth, while over expression of ASIC1a promotes its growth. 3) Down
+regulation of ASIC1 by shRNA increased Notch1 and its target gene
+Survivin in NS20Y cells. 4) DAPT, an inhibitor of Notch significantly
+protects inhibition of CPT-cAMP induced neurite extension by
+down-regulation of ASIC1 in NS20Y cells. Conclusion: These data indicate
+that Notch1 signaling may be required for ASIC1 mediated neurite growth
+and neuronal differentiation of neuroblastoma. Promoting neural
+differentiation of neuroblastoma in vitro provides insight into potential
+clinical applications in the treatment of patients with neuroblastoma
+(This work is supported by R01NS066027, NIMHD S21MD000101, and U54NS08932)
+

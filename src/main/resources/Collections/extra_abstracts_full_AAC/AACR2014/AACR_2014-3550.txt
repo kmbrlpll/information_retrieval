@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Inhibition of either LIN28A or ZCCHC11 (TUT4) provides distinct
+effects on the expression of the let-7 miRNA family and tumor cell
+proliferation
+
+
+The LIN28A and LIN28B oncogenes are overexpressed in about 15% of human
+cancers, and they selectively block the expression of the tumor
+suppressor miRNA let-7 family, comprising twelve members (let-7a-1, -2,
+-3, let-7b, let-7c, let-7d, let-7e, let-7f-1, -2, let-7g, let-7i and
+miR-98) expressed from eight distinct loci. Upon binding to pre-let-7,
+LIN28A recruits ZCCHC11, a 3 terminal uridylyl transferase, responsible
+for let-7 poly-uridylation and subsequent targeting of poly-uridylated
+let-7 miRNA for degradation.Expression of several let-7 miRNA family
+members was measured using quantitative RT-PCR in LIN28-positive or
+-negative tumor cell lines. In agreement with the inverse relationship
+between LIN28A/B and let-7 expression already observed by others (1), the
+lowest expression of let-7 miRNA was observed in LIN28A (e.g., IGROV-1
+and T-47D) or LIN28B (e.g., NCI-H838, Hep-G2 and NCI-H1299) positive cell
+lines, and the degree of let-7 miRNA repression in LIN28A or LIN28B
+positive cell lines was particularly prominent for miR-98, let-7i and
+let-7b family members.Although the proliferation of LIN28B-positive tumor
+cell lines was sensitive to the 3 LIN28B siRNAs tested, the expression of
+LIN28A was not required for the proliferation and survival of
+LIN28A-expressing tumor cell lines, as demonstrated with one LIN28A siRNA
+that displayed an efficient knock-down at low concentrations with minimal
+impact on the proliferation of the T-47D tumor cell line. This LIN28A
+siRNA was further demonstrated to significantly upregulate the expression
+of several let-7 miRNAs such as miR-98 or let-7i, supporting an on-target
+modulation of the pathway.We also tested several siRNAs against ZCCHC11
+uridylyl transferase, and found that the growth of either LIN28A- or
+LIN28B-positive tumor cell lines was inhibited by ZCCHC11 knockdown.
+However, ZCCHC11 protein knock-down was not able to restore let-7 miRNA
+expression, as it was seen for the LIN28A knock-down. These findings
+suggest that the role of ZCCHC11 in tumor cell lines might be more
+complex than just targeting poly-uridylated let-7 miRNA for
+degradation.Overall, our results seems to indicate that in
+LIN28A-positive tumor cell lines, LIN28A knock-down impacts let-7 miRNA
+expression, but has not a significant antiproliferative effect, whereas
+ZCCHC11 knock-down inhibits cell proliferation and this effect seems to
+be disconnected from let-7 miRNAs modulation. This lack of apparent
+effect on the expression of the miRNA let-7 expression might be related
+to the dual role of uridylyl transferases recently described for group II
+let-7 miRNAs, the mono- and poly-uridylation that leads to let-7
+biogenesis and let-7 degradation respectively (2).1- Viswanathan SR,
+Powers JT, Einhorn W, et al. Nat Genet 2009; 41: 843-848.2- Heo I, Ha M,
+Lim J et al. Cell 2012; 151: 521-532.
+

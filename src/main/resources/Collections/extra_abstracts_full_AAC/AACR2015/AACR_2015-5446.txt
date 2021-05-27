@@ -1,0 +1,37 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Continuous real-time measurement of live and dead cells in culture
+over multiple days
+
+
+Recently developed assay technologies have made it possible to use a
+multi-well plate reader to estimate the number of live or dead cells in
+culture in real time over a period of days to monitor the effects of long
+term exposure to test substances. An advantage of the real time assay
+chemistries is that the cells remain viable and available for other
+measurements. The purpose of this study was to determine if the real time
+assay methods could be multiplexed with other assay endpoints and applied
+to three dimensional (3D) culture models. The measurement of the number
+of live cells in real time is accomplished by providing a pro-substrate
+that viable cells (but not dead cells) can convert into a substrate for a
+luciferase derived from a marine shrimp. The pro-substrate and luciferase
+can be added with a single reagent addition step and because they are not
+toxic, they can be incubated with cells in culture for up to three days.
+Live cell conversion of the pro-substrate into a substrate for luciferase
+results in a luminescent signal that is proportional to the number of
+live cells. The signal diminishes immediately upon cell death. Detection
+of dead cells in real time is accomplished by using a fluorogenic DNA
+binding dye that is non-permeant and thus non-toxic to live cells. The
+dye enters dead cells that have a compromised membrane, binds to DNA, and
+becomes fluorescent. We have demonstrated that the real time assays can
+be multiplexed to measure both live and dead cells in the same sample. We
+further demonstrate the use of these assays to measure viability of cells
+in 3D spheroids formed using the hanging drop culture technique. We also
+demonstrate multiplexing of real time assays with subsequent measurement
+of apoptosis or extraction of RNA for expression studies. Utilization of
+real time assay chemistries that are non-toxic enabled repeated recording
+of data in a kinetic mode from the same sample of cells which eliminated
+the need for duplicate cultures and provided flexibility during assay
+protocol development. The ability to multiplex real time assays improved
+overall lab efficiency by eliminating the need for duplicate cultures for
+each experiment.
+

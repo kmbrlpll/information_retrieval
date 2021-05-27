@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Analysis of cis-eQTLs in normal and tumor-derived pancreatic
+tissues reveals functional insights, including for the 9q34.1 ABO
+pancreatic cancer risk locus.
+
+
+Objective: To elucidate the genetic architecture of gene expression in
+pancreatic tissues.
+
+Design: We performed expression quantitative trait locus (eQTL) and
+allele specific expression (ASE) analyses using RNA-sequence data and
+1000 Genomes (1000G) imputed GWAS genotypes from 95 fresh frozen
+histologically normal pancreatic tissue samples. Data from 115 pancreatic
+tumor-derived tissue samples from The Cancer Genome Atlas (TCGA) was
+included for comparison.
+
+Results: We identified 38,615 cis-eQTLs (corresponding to 484 Genes) in
+histologically normal tissues and 39,713 cis-eQTL (corresponding to 237
+Genes) in tumor tissues (FDRResults: We identified 38,615 cis-eQTLs
+(corresponding to 484 Genes) in histologically normal tissues and 39,713
+cis-eQTL (corresponding to 237 Genes) in tumor tissues (FDR<0.1), with
+the strongest effects seen near transcriptional start sites (TSS).
+Approximately 23% and 42% of genes with significant cis-eQTLs (eGenes)
+appeared to be specific for tumor and normal derived tissues,
+respectively. Significant enrichment of cis-eQTL variants was noted in
+noncoding regulatory regions marked by modified histones, DNAse
+hypersensitivity and bound transcription factors, in particular for
+pancreatic tissues (1.53-3.12 fold, P≤0.0001), indicating
+tissue-specific functional relevance. A common pancreatic cancer risk
+locus on 9q34.2 in the ABO gene (rs687289) was associated with ABO
+expression in histologically normal (P=5.8x10-8) and tumor-derived
+(P=8.3x10-5) pancreatic tissues. The high linkage disequilibrium (LD)
+between this variant and the O blood group generating deletion variant in
+exon 6 of ABO suggested that nonsense-mediated decay (NMD) of the “O”
+mRNA could explain the eQTL. However, knock-down of crucial NMD
+regulators did not influence decay of the ABO “O” mRNA, indicating
+that a gene regulatory element influenced by pancreatic cancer risk
+alleles may underlie the eQTL.
+
+Conclusions: We have identified cis-eQTLs representing potential
+functional regulatory variants in the pancreas and generated a rich
+dataset for further studies on gene expression and regulation in
+pancreatic tissues.
+
+

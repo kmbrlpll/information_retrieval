@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Microfluidic-based unbiased enrichment (negative selection) of
+circulating non-hematopoietic tumor cells directly from whole blood
+without centrifugation.
+
+
+The enumeration and analysis of circulating non-hematopoietic tumor cells
+(CTCs) is of increasing interest for monitoring disease progression or
+response to treatment, specifically as a companion diagnostic for new
+anti-cancer drugs, and for research into the mechanisms of disease
+progression and metastases. Ideally, CTCs would be enriched from very
+small samples, with minimal handling, high recovery, and no requirement
+for the expression of specific surface markers.Two technologies have been
+combined to meet these requirements. Hematopoietic white blood cells
+(WBCs) in whole blood were first cross-linked to magnetic particles using
+EasySep anti-CD45 TAC. The sample was diluted and placed in a magnet for
+30 min.; an outlet in the bottom of the sample tube was then opened and
+the sample flowed by gravity into a microfluidic chamber containing a
+high-precision micro-slit membrane. Red blood cells (RBCs) flowed through
+the microfluidic chamber, while larger cells such as CTCs were retained
+in the chamber. The cells in the chamber were washed with PBS and then
+identified by staining with Hoechst [nuclear], anti-cytokeratin
+antibodies [epithelial cells], and anti-CD45 antibodies [hematopoietic
+cells]. CTCs were defined as Hoechst+, cytokeratin+ and CD45-.The
+recovery of MCF-7 breast adenocarcinoma cells spiked into normal whole
+blood, at 10, 30, 50, or 100 cells / 2 mL blood was 95 23% (7 1, n=3 for
+10 cells; 24 3, n=3 for 30 cells; 57 3, n=3 for 50 cells; 113 27, n=3 for
+100 cells) and the log depletion of WBCs exceeded 2.3. The recovery of
+H1975 lung adenocarcinoma cells spiked into normal whole blood, at 10,
+30, 50, or 100 cells / 2 mL blood was 93 8% (9 1, n=3 for 10 cells; 28 3,
+n=3 for 30 cells; 48 6, n=3 for 50 cells; 94 2, n=3 for 100 cells), and
+the log depletion of WBCs exceeded 2.14.13 patient samples [10 NSCLC and
+3 CRC] were processed with this method and CTCs were detected in every
+sample. The number of CTC detected from 2 mL of blood ranged from 1 to
+51. WBC log depletion ranged from 2.01 to 2.79. No RBCs were observed on
+the membrane of the microfluidic chamber. The entire process requires 60
+minutes and could easily be automated. RBC depletion is essentially
+complete without the use of centrifugation or chemicals which may be
+deleterious to CTCs. The minimal sample handling permits high recovery of
+desired cells, allowing the detection of CTCs in much smaller samples
+than are currently used for clinical evaluation. CTCs are enriched
+without bias as to their surface antigen expression, and are not labeled
+with antibodies prior to detection. CTCs can be stained and visualized
+directly on the microfluidic chip. This unbiased enrichment approach
+could be used to assess the mutation status of CTC in real time.
+

@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: RRP1B, a hereditary metastasis modifier, mediates transcription
+and splicing to regulate mRNA expression.
+
+
+RRP1B (ribosomal RNA processing 1 homolog B) was first identified as a
+metastasis susceptibility gene in breast cancer by its association with
+the altered expression of extracellular matrix genes, which are common
+factors in metastasis predictive gene expression signatures. A
+non-synonymous polymorphism in RRP1B (1421C>T; 436P>L) is associated with
+metastasis-free survival in multiple breast cancer cohorts, representing
+over 2,000 patients. These data collectively demonstrate the clinical
+importance of RRP1B in tumor progression in breast cancer. Yet, the
+mechanism through which RRP1B alters the expression of
+survival-associated genes is unknown. Previous studies have shown that
+many RRP1B binding candidates are involved in alternative splicing, a
+method of gene expression regulation that is increasingly recognized to
+be involved in cancer progression and metastasis. One such target is
+SRSF1 (SF2/ASF), an essential splicing regulator that also functions as
+an oncogene. Since RRP1B regulates transcriptional activity, we
+hypothesized that RRP1B also regulates the expression of alternative mRNA
+isoforms through its interaction with SRSF1. Interaction between RRP1B
+and SRSF1 was verified by co-immunoprecipitation and
+co-immunofluorescence. Earlier studies demonstrated that transcription
+and mRNA splicing are co-dependent in which each process affects the
+other through either physical interaction or kinetic regulation. Given
+that RRP1B interacts with both chromatin-associated factors and splicing
+regulators, we examined whether RRP1B acts as a mediator between the two
+sets of machinery. Treatment of cells with transcriptional inhibitors
+significantly increased the interaction between RRP1B and SRSF1,
+demonstrating that the association of these two proteins is
+transcriptionally modulated. In addition, immunoprecipitation assays
+showed that RRP1B interacts with RNA polymerase II. To assess the role of
+RRP1B in the regulation of alternative isoforms, we generated
+RNA-sequencing data from control and Rrp1b-knockdown cells. Knockdown of
+Rrp1b induced a significant change in isoform expression in over 600
+genes compared to control cell lines. This was verified by qRT-PCR using
+isoform-specific primers. Pathway enrichment analyses identified genes
+involved in cell cycle and checkpoint regulation to be those most
+affected by Rrp1b knockdown. Also, knockdown of Rrp1b increased in vitro
+cell invasiveness and in vivo metastasis, confirming the role of RRP1B as
+a metastasis suppressor. Based on these findings, we propose that RRP1B
+regulates metastatic progression by altering the transcriptome through
+its interaction with transcriptional machinery as well as splicing
+regulators such as SRSF1. To the best of our knowledge, this is the first
+study to show that a metastasis susceptibility gene is directly involved
+in regulating alternative isoform expression.
+

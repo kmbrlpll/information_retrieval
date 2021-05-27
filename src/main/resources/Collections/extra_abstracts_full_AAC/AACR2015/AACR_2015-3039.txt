@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Targeting mitochondrial DNA polymerase gamma (POLG) as a novel
+therapeutic strategy for acute myeloid leukemia (AML)
+
+
+Mitochondria contain their own 16.6kb genome (mtDNA) which encodes 13
+protein-coding genes essential for electron transport chain activity. In
+mammalian cells, it is replicated solely by the nuclear-encoded
+mitochondrial DNA polymerase gamma (POLG), which exists as a heterotrimer
+with POLG2 to perform replication and repair of mtDNA. Through
+bioinformatic analyses, we observed increased POLG expression in a subset
+of AML cell lines compared to other cancer cell lines. As a subset of AML
+patients also have unique mitochondrial characteristics, including
+increased mitochondrial mass and mtDNA content compared to normal
+hematopoietic stem cells (Skrtic et. al., Cancer Cell, 20:674, 2011), we
+addressed the effects of targeting POLG as a novel therapeutic strategy
+for AML.OCI-AML2 and TEX leukemia cells were treated with the
+anti-retroviral drug 2,3-dideoxycytidine(ddC) that exhibits off-target
+inhibition of POLG catalytic activity. At concentrations as low as 200nM,
+ddC depleted mtDNA, decreased mRNA expression of mtDNA transcripts,
+reduced the expression of mitochondrial encoded proteins COX 1 and 2
+subunits that form the catalytic core of respiratory chain complex IV,
+decreased basal oxygen consumption rate (OCR), and reduced the
+proliferation and viability of AML cells. However, AML cells had large
+reserves in their mtDNA; as significant changes in mitochondrial
+proteins, metabolism, proliferation and viability were only observed with
+a threshold of >95% depletion of mtDNA. In contrast, lesser reductions in
+mtDNA content with ddC did not significantly affect levels of
+mitochondrial transcripts, metabolism, or cell viability.Next, we used a
+genetic approach and explored the impact of knocking down POLG with
+multiple independent shRNA in AML cells. POLG knockdown in OCI-AML2 cells
+depleted mtDNA content by 60% compared to controls. Consistent with the
+findings with ddC, mtDNA depletion to this extent produced only
+quantitatively minor changes in the protein expression of the
+mtDNA-encoded COX 1 and 2 and basal OCR. Despite the minimal effect on
+mitochondrial metabolism, POLG knockdown decreased the growth and
+viability of OCI-AML2 cells, and increased apoptosis, as measured by
+Annexin V staining. Results of electron microscopy analyses indicate that
+POLG knockdown disrupted mitochondrial cristae structure compared to
+controls.In summary, these results indicate that POLG plays a role in
+maintaining AML cell viability and mitochondrial structure and this
+function is independent of mtDNA replication and oxidative metabolism.
+

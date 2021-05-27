@@ -1,0 +1,96 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Shared and distinct microRNA-expression alterations in lung
+adenocarcinoma from smokers vs. nonsmokers.
+
+
+Rationale: While lung adenocarcinoma (ADC) is predominantly associated
+with the exposure to tobacco smoke, 10-15% of cases arise in never
+smokers. Small non-coding RNAs such as microRNAs (miRNAs) often act as
+oncogenes or tumor suppressors to regulate gene expression during
+disease, and may provide the critical insight needed to address the
+clinical and molecular disparities consistently observed in ADC of
+smokers and never smokers. We therefore sought to characterize the
+similarities and differences in the tumor-associated miRNA transcriptome
+between lung tumors from active, former, and never smokers.Methods: Total
+RNA was isolated from paired lung adenocarcinomas (purity 70%) and
+adjacent-normal lung tissues resected from 32 subjects with varied
+smoking statuses (n=8 active; n=11 former; n=13 never). Subjects were
+matched for gender and age. Small RNA libraries were generated and
+multiplexed 7-8 per lane for sequencing on the Illumina HiSeq 2000.
+Through a custom miRNA sequencing analysis pipeline, reads were trimmed,
+size-selected, and mapped to hg19 using Bowtie. Counts per mature miRNA
+from aligned reads were computed using Bedtools and a list of genomic
+features retrieved from miRBase v17. Differential expression analysis was
+conducted using a likelihood ratio test between two linear models: one
+adjusting for tumor and smoking status, another with an additional
+interaction term.Results: Small RNA sequencing generated an average of 10
+million high quality miRNA reads per sample. Among the 1906 mature miRNAs
+examined, 554 miRNAs had at least an average of 20 counts across all
+samples. We identified 97 miRNAs (qRationale: While lung adenocarcinoma
+(ADC) is predominantly associated with the exposure to tobacco smoke,
+10-15% of cases arise in never smokers. Small non-coding RNAs such as
+microRNAs (miRNAs) often act as oncogenes or tumor suppressors to
+regulate gene expression during disease, and may provide the critical
+insight needed to address the clinical and molecular disparities
+consistently observed in ADC of smokers and never smokers. We therefore
+sought to characterize the similarities and differences in the
+tumor-associated miRNA transcriptome between lung tumors from active,
+former, and never smokers.Methods: Total RNA was isolated from paired
+lung adenocarcinomas (purity 70%) and adjacent-normal lung tissues
+resected from 32 subjects with varied smoking statuses (n=8 active; n=11
+former; n=13 never). Subjects were matched for gender and age. Small RNA
+libraries were generated and multiplexed 7-8 per lane for sequencing on
+the Illumina HiSeq 2000. Through a custom miRNA sequencing analysis
+pipeline, reads were trimmed, size-selected, and mapped to hg19 using
+Bowtie. Counts per mature miRNA from aligned reads were computed using
+Bedtools and a list of genomic features retrieved from miRBase v17.
+Differential expression analysis was conducted using a likelihood ratio
+test between two linear models: one adjusting for tumor and smoking
+status, another with an additional interaction term.Results: Small RNA
+sequencing generated an average of 10 million high quality miRNA reads
+per sample. Among the 1906 mature miRNAs examined, 554 miRNAs had at
+least an average of 20 counts across all samples. We identified 97 miRNAs
+(q<0.0001) were differentially expressed between tumor and the
+adjacent-normal tissue, independent of smoking status. Importantly, we
+also identified 30 miRNAs (pRationale: While lung adenocarcinoma (ADC) is
+predominantly associated with the exposure to tobacco smoke, 10-15% of
+cases arise in never smokers. Small non-coding RNAs such as microRNAs
+(miRNAs) often act as oncogenes or tumor suppressors to regulate gene
+expression during disease, and may provide the critical insight needed to
+address the clinical and molecular disparities consistently observed in
+ADC of smokers and never smokers. We therefore sought to characterize the
+similarities and differences in the tumor-associated miRNA transcriptome
+between lung tumors from active, former, and never smokers.Methods: Total
+RNA was isolated from paired lung adenocarcinomas (purity 70%) and
+adjacent-normal lung tissues resected from 32 subjects with varied
+smoking statuses (n=8 active; n=11 former; n=13 never). Subjects were
+matched for gender and age. Small RNA libraries were generated and
+multiplexed 7-8 per lane for sequencing on the Illumina HiSeq 2000.
+Through a custom miRNA sequencing analysis pipeline, reads were trimmed,
+size-selected, and mapped to hg19 using Bowtie. Counts per mature miRNA
+from aligned reads were computed using Bedtools and a list of genomic
+features retrieved from miRBase v17. Differential expression analysis was
+conducted using a likelihood ratio test between two linear models: one
+adjusting for tumor and smoking status, another with an additional
+interaction term.Results: Small RNA sequencing generated an average of 10
+million high quality miRNA reads per sample. Among the 1906 mature miRNAs
+examined, 554 miRNAs had at least an average of 20 counts across all
+samples. We identified 97 miRNAs (q<0.0001) were differentially expressed
+between tumor and the adjacent-normal tissue, independent of smoking
+status. Importantly, we also identified 30 miRNAs (p<0.05) whose
+expression levels between tumor and the adjacent-normal tissue varied
+with smoking status. This included miR-1246, miR-1307 and miR-320b, which
+were up-regulated in the tumor versus adjacent-normal of current and
+former smokers, but relatively unchanged in never smokers, suggesting
+that these microRNAs are involved in smoking-specific cancer
+pathogenesis.Conclusions: Using small RNA sequencing, we have identified
+miRNAs that are markedly dysregulated in primary lung ADC tissues as
+compared to their histologically normal, adjacent counterparts. Subsets
+of these profiles are both shared and distinct between lung cancer cases
+that arise in smokers and nonsmokers. The ongoing integration of miRNA
+and large RNA sequencing data generated from these samples will inform
+our understanding of mechanisms that are specific to carcinogenesis in
+the presence or absence of tobacco smoke exposure. These results may
+yield novel targeted therapies for smoking or nonsmoking-specific ADC
+subtypes.
+

@@ -1,0 +1,39 @@
+Meeting: 2015 AACR Annual Meeting
+Title: High allele frequency of KRAS functional mutations predicts
+resistance to MEK inhibitors: Evidence from cell lines and human tumor
+xenograft models
+
+
+IntroductionKRAS mutant tumors represent a high unmet need for effective
+therapy. Even though there is no targeted therapy for KRAS, inhibitors of
+downstream targets like MEK have shown efficacy in preclinical studies.
+However, clinical trials of MEK inhibitors in KRAS-mutant tumors have not
+been successful, although there have been some responders. We sought to
+understand resistance to MEK inhibition in KRAS-mutant tumors and to
+develop biomarkers for patient stratification.ResultsUsing DNA and RNA
+sequencing data from cell lines, we found that high variant allele
+frequency (>50%) of KRAS functional mutations (G12, G13, Q61) was
+associated with baseline resistance to MEK inhibitors AZD6244 and MEK162
+across multiple tumor types. Low allele frequency of KRAS mutation was
+found to be necessary but not sufficient for sensitivity to MEK
+inhibitors, suggesting the existence of additional resistance mechanisms.
+Comparison of copy number and variant allele frequency of KRAS showed
+that MEK inhibitor-resistant cell lines have either amplified mutant
+alleles or lost WT alleles.This prediction of high KRAS mutant allele
+frequency being associated with MEKi resistance was successfully
+validated in vivo in 19 primary colorectal tumor xenograft models treated
+with MEK162. High KRAS mutant allele frequency and high KRAS expression
+were also associated with acquired resistance to BKM120+MEK162
+combination treatment in an in vivo model of HeyA8, an ovarian cell line
+with a KRAS G12D mutation.This prediction was also supported by the
+observation in a Phase II clinical trial with MEK inhibitor refametinib +
+gemcitabine in pancreatic cancer [1]. Patients with disease progression
+had a significantly higher KRAS mutant allele frequency compared to
+partial responders and stable disease.ConclusionHigh allele frequency of
+KRAS functional mutations is associated with resistance to MEK
+inhibitors. Excluding patients with high KRAS mutant allele frequency has
+the potential to improve clinical trial outcomes and benefit patients,
+with the added benefit that it may not require any additional screening
+or novel biomarkers.References[1] Reiss et al., J Clin Oncol 32:5s, 2014
+(suppl; abstr 4129)
+

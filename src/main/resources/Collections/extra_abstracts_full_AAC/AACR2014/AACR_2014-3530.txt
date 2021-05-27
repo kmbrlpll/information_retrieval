@@ -1,0 +1,30 @@
+Meeting: 2014 AACR Annual Meeting
+Title: The parathyroid hormone-related peptide region likely features
+seven discrete breast cancer susceptibility loci
+
+
+Parathyroid hormone-related protein (PTHrP), the product of the PTHLH
+gene, has long been implicated in the mechanism by which breast cancers
+establish and grow as metastases in bone. Paradoxically, a prospective
+clinical study clinical suggests that its production early in breast
+cancer in a cancer is actually protective. Multiple recent Genome-Wide
+Association Studies (GWAS) have confirmed a single susceptibility locus
+immediately upstream of the PTHLH gene to be associated with breast
+cancer. In this study we compare the findings of two GWAS, the ABCFS and
+the MCCS, along with a large imputed meta-analysis combining the ABCFS,
+BBCS, DFBBCS, MARIE, SASBAC, HEBCS, GC-HBOC, UK2, BPC3, BCFR and SardiNIA
+data. To better discern the signals of association with common variant
+Single Nucleotide Polymorphisms (SNPs) in the PTHLH gene region, we
+compare results from a conventional marginal analysis performed by plink
+with those from DepTH, a novel bootstrap permutation-based method that
+considers multiple contiguous SNPs. These are plotted on the genome and
+analysed in conjunction with hapmap, encode expression and regulation,
+genome-wide epistasis, eQTLs, and genetic data. Whereas the classic
+approach identifies only one SNP (top hit), our analysis suggests there
+are at least 7 discrete regions in and around PTHLH in which there are
+susceptibility variants, rare or common, with potentially independent
+functions on disease risk. In addition, exhaustive genome-wide epistasis
+demonstrates statistical interactions between PTHLH and multiple other
+gene regions including calcitonin and the vitamin D receptor in breast
+cancer.
+

@@ -1,0 +1,40 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Notch pathway is overexpressed and is a therapeutic target in
+clear cell renal cancer.
+
+
+Clear cell renal cell carcinoma (CCRCC) is an incurable malignancy in
+advanced stages and needs newer therapeutic targets. We conducted a
+transcriptomic analysis of CCRCCs and matched microdissected renal
+tubular controls and observed an overexpression of NOTCH ligands
+[JAGGED1, JAGGED2) and Delta like (DLL3) family of ligands] and receptors
+(NOTCH1, NOTCH2, NOTCH3 and NOTCH4) in tumor tissues. Examination of the
+TCGA RNA-Seq dataset also revealed widespread activation of NOTCH pathway
+in a large cohort of CCRCC samples. Samples with NOTCH pathway activation
+were also clinically distinct and were associated with better overall
+survival.
+
+Parallel high resolution DNA methylation and copy number analysis with
+the HELP assay demonstrated that both genetic and epigenetic alterations
+led to NOTCH pathway activation in CCRCC. NOTCH ligands, JAGGED1 was
+overexpressed and associated with loss of methylation of its intronic
+enhancer. The other NOTCH ligand, JAGGED2 was overexpressed in and
+associated with gene amplification in distinct CCRCC samples.
+
+To test the causality, we transgenically expressed the intracellular
+domain of NOTCH1 in mice renal tubules with tubule specific deletion of
+VHL. The Kspcre VHLf/f ICNotch1 mice exhibited dysplastic
+hyperproliferation of tubular epithelial cells confirming the
+procarcinogenic role of NOTCH in vivo. Alteration of cell cycle pathways
+was seen in murine renal tubular cells with NOTCH overexpression and
+molecular similarity to human tumors was observed, demonstrating that
+human CCRCC recapitulates features and gene expression changes observed
+in mice with transgenic overexpression of the Notch intracellular domain.
+
+Finally, treatment with clinical, gamma secretase inhibitor, LY3039478,
+led to inhibition of CCRCC cells in vitro and in vivo in CCRCC
+xenografts. In summary, these data reveal the mechanistic basis of NOTCH
+pathway activation in CCRCC and demonstrate this pathway to a potential
+therapeutic target.
+
+

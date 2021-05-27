@@ -1,0 +1,77 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Development of a mass spectrometry based antibody-drug conjugate
+biomarker panel
+
+
+Background: Antibody-Drug Conjugates (ADCs) are poised to become an
+extremely important class of therapeutics in oncology. By conjugating
+cytotoxic payloads to antibodies that target proteins found primarily on
+cancer cells, ADCs represent a novel mechanism for directing extremely
+toxic small molecules specifically to tumor cells. Due to the unique
+mechanism of ADCs, patient selection should involve screening not only
+for the presence of the antibody target, but also screening for the
+presence of any markers of resistance or response to the payload. Several
+proteins, such as multi-drug effluxers and tubulin-beta 3, have been
+implicated in resistance to small molecule cytotoxins and microtubule
+inhibitor drugs. OncoPlex Diagnostics has built a multiplexed ADC
+biomarker panel that simultaneously quantifies the levels of the antibody
+target and putative resistance markers for several known payloads, such
+as maytansinoids, auristatins and taxanes, as well as response markers
+for the topoisomerase inhibitor payloads SN-38 and doxorubicin.Methods:
+Liquid Tissue-Selected Reaction Monitoring (LT-SRM) is a multiplexed,
+quantitative method that uses mass spectrometry to quantify proteins
+based on a unique sequence of amino acids, and thus does not have the
+same limitations as traditional antibody-based, semi-quantitative protein
+detection methods, such as immunohistochemistry. We developed a LT-SRM
+assay to quantify protein levels of EGFR, FRalpha, Her2, CD30 and
+Mesothelin (antibody targets) and MCL1, MDR, MRP1, tubulin-beta3, Topo1
+and Topo2a (payload response and resistance markers) simultaneously from
+FFPE biopsies. Calibration curves for all the proteins in the ADC panel
+are linear over 5-orders of magnitude, with limits of detection for each
+analyte between 25 and 400 amol/ug of tissue.Results: Analysis of FFPE
+tumor tissues show a broad range of expression for the ADC proteins, with
+some tissues showing no detectable levels of some payload markers.
+Clinical analysis of FRalpha showed a range of expression from
+Background: Antibody-Drug Conjugates (ADCs) are poised to become an
+extremely important class of therapeutics in oncology. By conjugating
+cytotoxic payloads to antibodies that target proteins found primarily on
+cancer cells, ADCs represent a novel mechanism for directing extremely
+toxic small molecules specifically to tumor cells. Due to the unique
+mechanism of ADCs, patient selection should involve screening not only
+for the presence of the antibody target, but also screening for the
+presence of any markers of resistance or response to the payload. Several
+proteins, such as multi-drug effluxers and tubulin-beta 3, have been
+implicated in resistance to small molecule cytotoxins and microtubule
+inhibitor drugs. OncoPlex Diagnostics has built a multiplexed ADC
+biomarker panel that simultaneously quantifies the levels of the antibody
+target and putative resistance markers for several known payloads, such
+as maytansinoids, auristatins and taxanes, as well as response markers
+for the topoisomerase inhibitor payloads SN-38 and doxorubicin.Methods:
+Liquid Tissue-Selected Reaction Monitoring (LT-SRM) is a multiplexed,
+quantitative method that uses mass spectrometry to quantify proteins
+based on a unique sequence of amino acids, and thus does not have the
+same limitations as traditional antibody-based, semi-quantitative protein
+detection methods, such as immunohistochemistry. We developed a LT-SRM
+assay to quantify protein levels of EGFR, FRalpha, Her2, CD30 and
+Mesothelin (antibody targets) and MCL1, MDR, MRP1, tubulin-beta3, Topo1
+and Topo2a (payload response and resistance markers) simultaneously from
+FFPE biopsies. Calibration curves for all the proteins in the ADC panel
+are linear over 5-orders of magnitude, with limits of detection for each
+analyte between 25 and 400 amol/ug of tissue.Results: Analysis of FFPE
+tumor tissues show a broad range of expression for the ADC proteins, with
+some tissues showing no detectable levels of some payload markers.
+Clinical analysis of FRalpha showed a range of expression from <LOD to
+13500 amol/ug. An examination of Her2 positive tissue showed a wide range
+of Her2 expression (over 20-orders of magnitude), as well as a wide range
+of expression for the payload markers. The differences seen in the
+payload markers suggest differing responses to Her2-targeted ADCs,
+independent of Her2 levels, and indicate that different patient
+populations might respond better to different payloads, depending on
+tumor biology.Conclusions: The OncoPlexDx ADC panel can determine of a
+cutoff for expression levels of the antibody-target protein necessary for
+ADC response as well as identify markers of payload response or
+resistance to further understand how these markers affect therapeutic
+efficacy. This panel can be used to predict which patients will derive
+the most benefit from ADC therapy based on the specific biology of their
+tumor.
+

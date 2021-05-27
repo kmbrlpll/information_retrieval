@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Predicting first line tamoxifen response of recurrent ER+ breast
+cancer patients based on transcriptional activity of signaling pathways
+
+
+IntroductionGenerally, estrogen receptor positive (ER+) breast cancer
+patients are eligible for hormonal treatment, but roughly half of them
+respond, and identifying those that do remains a challenge. Predicting
+hormonal therapy response with higher specificity (without losing
+sensitivity) is of clinical value, to avoid overtreatment and enable
+consideration of alternative, more effective (targeted) drugs. We
+developed Bayesian computational model-based mRNA tests [1] to analyze
+oncogenic signal transduction pathway activity in cancer tissue samples,
+for selection of personalized therapy. Here, we show that such a test for
+the ER pathway can predict hormonal therapy response independent of
+traditional predictive factors.MethodsGene expression levels (Affymetrix
+HG-U133+PM microarrays) were used to determine transcriptional activity
+of the ER, AR, PI3K, Wnt, Hedgehog (HH), TGF and NFB pathways, as
+described earlier [1], in 132 ER+ primary breast tumor samples of
+patients who did not receive adjuvant hormonal therapy and subsequently
+relapsed and were treated with first line tamoxifen treatment. Univariate
+and multivariate Cox proportional hazards regression was used to
+associate the pathways activities with progression free survival (PFS) on
+tamoxifen treatment, together with traditional response prediction
+factors.ResultsIn 102 (77%) of the 132 samples, at least one of the seven
+pathways was found active. ER pathway activity was observed in 36 samples
+(27%). Strikingly, 76 samples (58%) had an active NFB pathway. In 37
+samples (28%), two or more pathways were active, predominantly ER with
+NFB.The probability of ER pathway activity was associated with a longer
+PFS, with a hazard ratio of 0.41 in a univariate analysis (p = 0.0039),
+while activity of the TGF pathway was associated with a shorter PFS (HR =
+2.2, p = 0.044). In a multivariate analysis using the seven pathways, ER
+pathway activity remained significant (HR = 0.44, p = 0.011), while TGF
+did not (HR = 1.67, p = 0.24). A Kaplan-Meier analysis as a function of
+ER activity gave a log-rank p-value of 0.002.A multivariate analysis for
+PFS including ER pathway activity and the traditional predictive factors
+disease free interval (2yr), site of relapse, age, menopausal status,
+ESR1 and PGR mRNA expression and Her2 status, showed that ER activity was
+independently associated with a favorable PFS (HR = 0.43, p =
+0.047).ConclusionIn ER+ breast cancer patients who did not receive
+adjuvant hormonal therapy, transcriptional ER pathway activity as
+measured by our computational ER pathway mRNA test was associated with a
+favorable outcome upon first line tamoxifen treatment. The ER pathway
+test can hence be used as an independent predictor of hormonal therapy
+response in ER+ breast cancer patients with recurrent disease.[1]
+Verhaegh W et al. Cancer Res. 2014;74:2936-45.
+

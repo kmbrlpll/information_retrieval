@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Screen for kinase inhibitors that sensitize pancreatic cancer
+cells to gemcitabine: When collateral damage is a good thing
+
+
+Kinase inhibitors are a growing class of therapeutically active agents
+that are being used in the clinic. An interesting notion is that
+inhibitors which show clinical efficacy likely do so by inhibiting not
+only their intended target but also off-target kinases. Thus, pleiotropic
+off-target effects of kinase inhibitors may be advantageous in preventing
+tumor progression. Using a panel of 160 kinase inhibitors that had been
+previously tested against a panel of 300 recombinant human kinases, we
+sought to identify kinases that sensitize PANC1 cells to a sub-lethal
+dose of gemcitabine. PANC1 cells were treated with gemcitabine (20nM) for
+24h and then treated with increasing concentrations of kinase inhibitor
+before cell viability was measured 24h later. From amongst the 160
+compounds, we identified 8 compounds that enhanced killing of
+gemcitabine-treated cells. Validation of gemcitabine sensitizers was
+confirmed by clonogenic assays. To assess mechanisms for sensitization,
+we determined the fates of cells using live cell video microscopy. We
+found that 4/8 compounds abrogated the DNA damage checkpoint induced by
+gemcitabine, and forced the cells to prematurely enter mitosis and die.
+Indeed, of the kinases inhibited by these compounds, Chk1 was
+over-represented above all others. We next queried the STRING database to
+elucidate pertinent protein-protein interactions of those kinases
+inhibited by the 8 hit compounds. We identified a signaling node
+centering on Src and related kinases that were selectively inhibited by
+Aminopurvalanol A (AMP-A) and Syk inhibitor. The importance of Src and
+its related kinases was confirmed when MEFs lacking Src, Yes and Fyn were
+found to be highly sensitive to gemcitabine compared to WT. From our in
+vitro data, the Syk inhibitor inhibited Src family kinases as expected,
+but also inhibited Chk1 (by >80%). In cells, the Syk inhibitor behaved
+more like a Chk1 inhibitor as it caused gemcitabine treated cells to
+aberrantly enter mitosis and then die. Thus, it is likely that the
+off-target inhibition of Chk1 is responsible for the gemcitabine
+sensitization. AMP-A inhibited not only cyclin dependent kinases but also
+the Src family kinases. By movie analysis we observed that AMP-A caused
+gemcitabine-treated cells to die in interphase. Which one of these family
+of kinases is responsible for sensitization is currently being
+investigated. But the results show AMP-A and the Syk inhibitor sensitize
+cells to killing through distinct mechanisms. Taken together, these
+findings demonstrate that unintended targets of kinase inhibitors may in
+fact play a greater role in achieving the desired biological effects of
+the drug. Identifying the collateral targets in vivo may reveal
+mechanisms of action of the kinase inhibitors that affects selection of
+biomarkers for drug response.
+

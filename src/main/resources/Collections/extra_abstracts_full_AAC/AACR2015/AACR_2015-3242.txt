@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Xenograft dose-response from intra-mouse dose escalation
+
+
+IntroductionXenograft response has been shown to hold predictive value
+for the clinical efficacy of a drug, but growth sensitivity to a drug
+candidate can vary widely between xenografts models. As the ability to
+test pre-clinically for broad biological activity across many xenografts
+models is often resource-limited, in this work we develop a mathematical
+approach based on evolutionary dynamics to derive dose-response
+information from a single xenograft tumor.MethodsWe propose to estimate a
+dose-response curve of xenograft growth inhibition by treating a single
+tumor with a series of different dose strengths. Exponential tumor growth
+rate (GR) may be quickly estimated to determine the inhibition effect of
+a particular exposure during week-long intervals of constant dose
+strength. We next considered the possibility of a dose strength ordering
+effect on tumor growth due to cellular heterogeneity in GR and drug
+sensitivity within a tumor. To determine to what extent dose history
+could influence the observed growth inhibition, we developed an
+evolutionary model of tumor growth for a heterogeneous population of
+cancer cells with joint-distributed clonal GR and drug sensitivities, and
+simulated tumor response to treatment for distributions having variable
+degrees of correlation. Finally, we tested the ability to estimate
+dose-response curves from single tumors in vivo compared to the typical
+method of assessing drug effect based on multiple dose-groups.ResultsFor
+the three possible orders of dosing three different treatment strengths,
+we found that the simulated study design with escalating dose intervals
+lead to the least error compared to assessing each dose in a separate
+tumor. Additionally, the discrepancy between the growth inhibition
+effects of different dose orders peaks when the correlation between GR
+and drug sensitivity decreases to negative. We then show that this study
+design allows efficient, accurate estimation of the range of
+dose-responses in a broad set of simulated tumor types (e.g.,
+fast-growing and sensitive, or slow-growing and insensitive). An in vivo
+dose-response study validates the estimation of dose-response curves from
+a single xenograft by comparing favorably with the single dose per mouse
+method.ConclusionsThe mathematical approach described here allows
+efficient estimation of a dose-response curve for a xenograft model using
+a single tumor. By reducing the resources required to determine the
+response of a single model, a molecule's anticancer effect can be tested
+against a larger sample of tumor types pre-clinically. A more accurate
+picture of a drug candidate's broad biological activity will allow for
+greater confidence in translational projections of clinical efficacy.
+

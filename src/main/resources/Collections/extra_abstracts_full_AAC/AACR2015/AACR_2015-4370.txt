@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: GSK3/ inhibition as a drug target in prostate cancer
+
+
+Despite what its namesake suggests, Glycogen Synthase Kinase 3 (GSK3) is
+a kinase that is implicated in a myriad of signalling pathways and has
+recently received considerable interest due to its conflicting roles
+oncogenesis. Though GSK3 has classically been regarded as a tumour
+suppressor due to in role in supressing WNT signalling, emerging evidence
+suggests that GSK3 also functions as a tumor promoter by facilitating
+tumor cell survival and conferring drug resistance in cancer. These tumor
+promoting effects have been partly linked to the expression of certain
+NFB target genes, whose expression in some cancers are influenced by
+direct GSK3 phosphorylation of NFB's p65 subunit. Given the complex
+interplay between GSK3 and the androgen receptor in prostate cancer
+(PCa), and the inverse correlation between the androgen receptor status
+and NFB, we investigate the potential of GSK3 inhibitors to treat and
+overcome drug resistance in PCa.A kinase inhibitor screen for 80
+compounds and additional chemical inhibitors for GSK3 was carried out
+using the JANUS Automated Workstation at the robotics facility at NUI
+Galway, Ireland. The cellular fractions for treated cells were separated
+and assessed for differences in expression between the cytoplasmic and
+nuclear compartments using western blotting. Flow cytometry and western
+blotting using antibodies for markers of apoptosis were used to assess
+for mode of cell death. Differences in gene expression of NFB target
+genes were assessed using gene specific primers for SYBR green RT-PCR.
+RNAi using siRNA directed against each of the GSK3 isoforms, and , was
+utilised for target validationThe kinase inhibitor screen demonstrated
+significant growth inhibition among all the tested PCa cell lines to the
+GSK3 inhibitor, BIO. This result was validated using two additional
+chemical GSK3 inhibitors, LiCl and CHIR99021. Expression analysis
+demonstrated aberrant NFB and GSK3 expression in the cytoplasmic and
+nuclear compartments of the cell lines that varied upon treatment with
+GSK3 inhibitors. siRNA directed against GSK3 confirmed that the effects
+of the inhibitors were GSK3 specific and demonstrated that both isoforms
+distinguished between the effects of each of the two isoforms.Our results
+suggest that GSK3 has a role in the pathogenesis of PCa. This notion is
+supported by the findings that GSK3 inhibition reduces the viability of
+PCa cells via a mechanism that is consistent with apoptosis. Furthermore,
+both NFB and GSK3 are shown to be active and aberrantly co-expressed in
+our PCa model. Collectively, these results suggest that GSK3 has an
+effect on NFB that may be independent of WNT signalling.
+

@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Targetome profiling, pathway analysis and genetic association
+study implicate miR-618 in follicular lymphomagenesis.
+
+
+Background. The advent of small non-coding RNAs as important modulators
+of cancer susceptibility and progression has gained widespread
+recognition in recent years. This growing interest has fueled a
+considerable number of molecular and epidemiological undertakings to
+elucidate the role of miRNAs in human cancers, leading to an enhanced
+understanding of miRNA function in human carcinogenesis. However, efforts
+to engage the subject using high-throughput methods remain lacking. In
+this study, we demonstrate the viability of using a high-throughput
+target-screening approach to complement more traditional epidemiological
+methods in elucidating the lymphomagenic role of miR-618, the altered
+expression of which has been found in multiple cancers.Methods. We first
+performed a high-throughput, transcriptome-wide RIP-Chip-based assay to
+identify members of the miR-618 targetome, followed by network-based
+analysis to investigate disease-relevant networks. A germline mutation
+(rs2682818) in the miR-618 precursor was then genotyped in a population
+of non-Hodgkin lymphoma cases and population-based controls, followed by
+a vector-based in vitro assay to examine the functional impact of this
+mutation on miR-618 processing efficiency.Results. Our transcriptome-wide
+target screening identified 28 potential members of the miR-618
+targetome, which we subsequently validated using a luciferase reporter
+assay. Interrogating identified targets for functional interrelatedness
+using the Ingenuity Pathway Analysis tool revealed a molecular network
+highly enriched for both B- and T-cell NHL-relevant molecules, including
+TP53 and BRCA1. Consistent with this observation, we found the presence
+of the germline polymorphism (rs2682818) in the stem-loop structure of
+the pre-miRNA to be significantly associated with both follicular (OR =
+1.65, 95% CI: 1.05 - 2.60) and T-cell NHL (OR = 5.12, 95% CI: 1.23 -
+21.40) in a population of 455 NHL cases and 527 population-based
+controls. Finally, a vector-based in vitro analysis of rs2682818s
+functional impact revealed that the variant allele resulted in reduced
+levels of miR-618, possibly by attenuating pre-miRNA processing
+efficiency. This suggests that the presence of the variant allele may act
+to disrupt miR-618s capacity to inhibit target mRNA transcripts,
+ultimately leading to the dysregulation of TP53 and BRCA1
+lymphoma-relevant pathways.Conclusion. Taken together, our findings
+implicate miR-618 in follicular and T-cell lymphomagenesis, identify
+rs2682818 as a potential biomarker for follicular and T-cell non-Hodgkin
+lymphoma, and illuminate a potential mechanism by which disease may be
+conferred. Moreover, we demonstrate the value of applying a
+high-throughput target screening technique to complement more traditional
+epidemiological methods in miRNA cancer biomarker identification.
+

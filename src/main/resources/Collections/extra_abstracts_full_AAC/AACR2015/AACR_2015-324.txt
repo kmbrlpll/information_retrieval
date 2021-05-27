@@ -1,0 +1,36 @@
+Meeting: 2015 AACR Annual Meeting
+Title: High throughput triculture: A breast cancer spheroid model for
+drug screening
+
+
+Many drugs that show promise in preclinical evaluation fail miserably
+during clinical trials, and the inability of current preclinical models
+to properly predict drug response may be attributed to oversimplified or
+non-existent tumor microenvironments. To provide a more physiologically
+predictive model for drug screening, we have developed an in vitro, 384
+well, triculture system that presents key chemical (i.e. low pH, low
+glucose, low oxygen), extracellular matrix (ECM), and cellular (tumor
+cells, stromal cells and endothelial cells) attributes of tumor tissues.
+By using ECM proteins, we can promote the proper physiology for each of
+these cell types in triculture. To evaluate interactions between each
+cell type, they are fluorescently labeled with fluorophores with
+different excitation and emission spectra; MCF7 and MDA-MB-231 human
+breast cancer cell lines express a red fluorescence protein, while human
+umbilical vein endothelial cells (HUVECs) and human adipose-derived
+mesenchymal stem cells (hMSCs) are labeled with stable lipophilic
+membrane dyes. Breast tumor microtissues spontaneously assemble when
+breast cancer cells are co-cultured with hMSCs under low adhesion
+conditions. Once formed, these microtissues are deposited onto preformed
+tubule networks comprised of HUVECs and hMSCs and are embedded within a
+hydrogel composed of ECM proteins. Cellular interactions and
+dissemination are monitored via fluorescence microscopy, and cell
+proliferation of the breast cancer cells is quantified using a
+fluorescence plate reader. The breast cancer cells exhibit cell-cell
+interactions with endothelial tubules and stromal cells, forming
+microtissues. Furthermore, the response to anti-cancer drugs, paclitaxel
+and fluorouracil, in an in vitro triculture system is similar to the
+response for the same drugs in xenografts model, unlike 2D or 3D
+monoculture. This high throughput triculture cancer model will provide
+more insight into pathological mechanisms and can better predict response
+to anti-cancer drug treatment.
+

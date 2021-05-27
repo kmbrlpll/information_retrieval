@@ -1,0 +1,91 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Prognostic biomarkers for progression-free survival in
+glioblastoma multiforme: quantitative imaging and gene expressions
+
+
+Prognostic biomarkers at initial diagnosis of untreated Glioblastoma
+Multiforme (GBM) are an important step towards development of predictive
+biomarkers in this patient pool for personalized medicine. We hypothesize
+that quantitative imaging biomarkers are independent to gene expression
+biomarkers in progression-free-survival (PFS) prognosis and overall
+survival (OS). It is known that patient with large strong enhancing tumor
+have a shorter PFS and OS. Weak enhancing tumor, which is believed to be
+more infiltrative in nature, has rarely been studied due to the
+difficulties in identifying them visually.Method: We developed an
+automated image analysis technique to quantify weak enhancing tumor,
+strongly enhancing tumor, edema and necrosis from a single source site (n
+= 25) of TCIA with gene expression from TCGA. We define tumor volume (in
+cm3) of Zone1A as the enhancing tumor plus necrosis; Zone1B as necrosis
+plus weak enhancing tumor; and Zone2 as total tumor load of necrosis,
+strong enhancing and weak enhancing tumor. Cox proportional hazard model
+was used to determine prognostic significance of imaging parameters to
+PFS and OS. Level 1 gene expression data from Affymetrix platform were
+processed in R. We filter the gene probe list to 7277 probes (31.9%)
+based on biological variability and take the probes that are >2-fold
+upregulated compared to normal control (n = 10) (t-test, pPrognostic
+biomarkers at initial diagnosis of untreated Glioblastoma Multiforme
+(GBM) are an important step towards development of predictive biomarkers
+in this patient pool for personalized medicine. We hypothesize that
+quantitative imaging biomarkers are independent to gene expression
+biomarkers in progression-free-survival (PFS) prognosis and overall
+survival (OS). It is known that patient with large strong enhancing tumor
+have a shorter PFS and OS. Weak enhancing tumor, which is believed to be
+more infiltrative in nature, has rarely been studied due to the
+difficulties in identifying them visually.Method: We developed an
+automated image analysis technique to quantify weak enhancing tumor,
+strongly enhancing tumor, edema and necrosis from a single source site (n
+= 25) of TCIA with gene expression from TCGA. We define tumor volume (in
+cm3) of Zone1A as the enhancing tumor plus necrosis; Zone1B as necrosis
+plus weak enhancing tumor; and Zone2 as total tumor load of necrosis,
+strong enhancing and weak enhancing tumor. Cox proportional hazard model
+was used to determine prognostic significance of imaging parameters to
+PFS and OS. Level 1 gene expression data from Affymetrix platform were
+processed in R. We filter the gene probe list to 7277 probes (31.9%)
+based on biological variability and take the probes that are >2-fold
+upregulated compared to normal control (n = 10) (t-test, p<0.05, multiple
+comparison corrected), resulted to 167 probes. Gene probes prognostic to
+PFS are selected based on unadjusted log-rank test (pPrognostic
+biomarkers at initial diagnosis of untreated Glioblastoma Multiforme
+(GBM) are an important step towards development of predictive biomarkers
+in this patient pool for personalized medicine. We hypothesize that
+quantitative imaging biomarkers are independent to gene expression
+biomarkers in progression-free-survival (PFS) prognosis and overall
+survival (OS). It is known that patient with large strong enhancing tumor
+have a shorter PFS and OS. Weak enhancing tumor, which is believed to be
+more infiltrative in nature, has rarely been studied due to the
+difficulties in identifying them visually.Method: We developed an
+automated image analysis technique to quantify weak enhancing tumor,
+strongly enhancing tumor, edema and necrosis from a single source site (n
+= 25) of TCIA with gene expression from TCGA. We define tumor volume (in
+cm3) of Zone1A as the enhancing tumor plus necrosis; Zone1B as necrosis
+plus weak enhancing tumor; and Zone2 as total tumor load of necrosis,
+strong enhancing and weak enhancing tumor. Cox proportional hazard model
+was used to determine prognostic significance of imaging parameters to
+PFS and OS. Level 1 gene expression data from Affymetrix platform were
+processed in R. We filter the gene probe list to 7277 probes (31.9%)
+based on biological variability and take the probes that are >2-fold
+upregulated compared to normal control (n = 10) (t-test, p<0.05, multiple
+comparison corrected), resulted to 167 probes. Gene probes prognostic to
+PFS are selected based on unadjusted log-rank test (p<0.05).Result: There
+are 19 matched cases with imaging and gene expression with one living
+patient. MGMT is methylated in 4 patients and unmethylated in 10
+patients. All cases are non-G-CIMP and IDH1 WT or unknown. The age and
+karnofsky score (kps) distribution are 5515 yo and 8511. Tumor size
+measurements are strongly prognostic for PFS adjusted by age and kps:
+Zone1A (HR = 1.04 [1.01, 1.07], p = 0.0137, log-rank p = 0.063), Zone1B
+(HR = 1.08 [1.03, 1.13], p = 0.0014, log-rank p = 0.00020), Zone 2 (HR =
+1.037 [1.012 1.063], p = 0.0034, log-rank p = 0.011). Only 18 gene probes
+are prognostic to PFS, which are CASP4, CD44, COL5A1, COL6A2, HCP5,
+IL10RB, IL15, LOXL2, LY75, PTX3, SERPINEH1, SLC16A3, STC1, TNC. These
+genes are involved in ECM-receptor interaction, focal adhesion and
+cytokine mediated inflammation pathway. After adjusting for age and kps,
+only CD44, COL5A1, COL6A2, LOXL2, IL10RB, STC1 are significant based on
+log-rank test while the HR of age and kps are not significant. Adjusting
+for age, kps and Zone1B resulted to log-rank significance of CASP4,
+LOXL2, TNC, IL10RB, IL15, PTX3, STC1, HCP5, SLC16A3, with HR significance
+of Zone1B, gene, age and sometimes kps. The mean HR of Zone1B is
+1.0850.013 and the maximum log-rank p = 0.0002567 for all these
+genes.Conclusion: Total tumor load of necrosis and weak enhancing tumor
+is a strong independent prognostic biomarker of PFS in addition to gene,
+age and kps.
+

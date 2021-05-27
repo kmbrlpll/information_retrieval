@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Comprehensive identification of miR-122 targetome in the liver and
+HCC by HITS-CLIP analysis reveals conserved regulation of AMPK signaling
+in hepatocarcinogenesis
+
+
+miR-122, a conserved liver-specific miRNA, is critical for maintaining
+liver homeostasis. Loss of miR-122 is associated with loss of hepatic
+phenotype, metastasis and poor prognosis. Recent in vivo work has
+established miR-122 as a bona fide tumor suppressor, with poorly
+differentiated, Afp-positive, high grade, spontaneous HCC observed in
+liver-specific (LKO) and germ-line (KO) miR-122 knockout mice. We
+hypothesized that the pathophysiology exhibited by KO mice would be
+mediated through de-repressed targets in KO livers and therefore,
+dysfunctional regulation of specific pathways involved in liver
+homeostasis and carcinogenesis. Although the role of miR-122 in the
+maintenance of liver homeostasis is well established, systematic and
+direct biochemical elucidation of the miR-122 target network remains
+incomplete. To this end, we performed Ago-dHITS-CLIP analysis in livers
+of 6 week-old wild type (WT) and KO mice to identify miRNA targetome in
+vivo, which revealed 1800 miR-122 binding sites, with over 30 fold
+enrichment for the miR-122 seed sequence sites in WT compared to KO
+livers. Surprisingly, a majority of miR-122 binding sites were observed
+on coding exons (40%) followed by 3-UTRs, introns and 5-UTRs. Motif
+analysis of miR-122 dependent binding sites lacking the seed sequence
+revealed a novel G-bulged motif in addition to the canonical miR-122 seed
+sequences. Moreover, the hepatic gene expression profile of these mice
+measured by RNA-seq showed up regulation of 2500 genes and down
+regulation of 1200 genes in KO livers compared to WT livers. A comparison
+of HITS-CLIP and RNA-seq data revealed that majority of miR-122 targets
+harboring canonical binding sites at their 3UTRs as well as some coding
+regions, are significantly upregulated in miR-122 KO livers without
+notable alteration in the expression of or G-bulged targets at the RNA
+level. HITS-CLIP analysis of several human HCC and matching benign liver
+tissues also identified both canonical and G-bulged targets; where the
+majority of both are located in the coding regions followed by 3UTRs.
+Association of miR-122 targets with Argonaute was precipitously reduced
+in HCCs expressing lower miR-122 levels than respective benign livers.
+Notably, though miR-122 is completely conserved and highly expressed in
+human and mouse livers, a large number of identified targets seem to be
+species-specific. Ingenuity Pathway Analysis of enriched targets revealed
+conserved pathway specific regulation in mouse and human livers. Pathways
+commonly associated with critical roles in liver carcinogenesis and liver
+metabolism, such as AMPK signaling and PI3/AKT pathways, were the major
+targets of miR-122-mediated regulation. This study suggests that miR-122
+functionality is conserved across species.
+

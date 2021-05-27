@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Development of cellular morphology-based separation system for
+three-dimensional culture.
+
+
+The present study includes proof concept of morphology-based cell
+separation and development of automatic cell separation system. 3D
+culture environment with a specific extracellular matrix regulates
+cellular function and phenotype. In addition, cancer cell morphology
+changes depending on its malignancy in 3D culture environment. The cell
+separation system in 3D culture environment should need to obtain the
+cells according to its morphology, which includes cell phenotypes.
+Recently, we developed gelatin-based photodegradable hydrogels, and
+applied this hydrogels to optical cell separation. The target cells in
+the photodegradable hydrogels were successfully separated by the optical
+cell separation, the separated cells was growth on another dish. On the
+other hand, we recently developed the predication model of stem cell
+differentiation by image analysis. The image analysis technique and the
+photodegradable gelatin hydrogels are included in the automated
+morphology-based cell separation system in the 3D culture environment.
+
+For forming cell encapsulated-photodegradable hydrogels, suspension of
+cells including heterogeneous population is mixed with pregel solutions
+and cells are encapsulated in the gelatin-based photodegradable
+hydrogels. After the culture in 3D environment, microscopic images of the
+cells are captured. The captured images are analyzed to distinguish the
+target cells from the other cells by using the image analysis algorithm,
+which we previously developed for analyzing stem cells. The hydrogels
+around the target area is irradiated with light (365nm). The cells in the
+irradiated area are collected by automated pipetting system. We developed
+automated system for this optical cell separation procedure, including
+cultivation, image acquisition, image analysis, light irradiation, and
+pipetting for cell collection.
+
+We demonstrated automated optical cell separation using the model culture
+system. Normal gastric mucosal cells were cultured in the photodegradable
+hydrogels. After cultivation for 1 week, the cells were irradiated the
+light for 5 to 20 min. The cells in the irradiated area were collected by
+automated pipetting and transferred into a collection dish. The collected
+cells were viable and attached in the collection dish after collection.
+
+We are currently developing an automated image analysis algorithm to
+distinguish cancer cells from normal cells under 3D environment. The
+automated optical cell separation system with image analysis algorithm
+will be applied to the establishment of novel cancer-cell lines from
+clinical samples such as biopsy tissue.
+
+

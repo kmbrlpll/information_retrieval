@@ -1,0 +1,34 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Development of DNA methylation biomarkers for pancreatic cancer
+diagnosis
+
+
+Pancreatic cancer is highly lethal malignancy despite the recent clinical
+advancement. Since pancreatic cancer is often difficult to diagnose,
+there is an urgent need to develop minimally invasive biomarkers for
+detection. Epigenetic alterations have emerged as a common hallmark of
+many types of human cancers as well as pancreatic cancer. The presence of
+cell-free DNA (cfDNA) in blood stream has been known and cfDNA possesses
+tumor-related genetic alterations as well as epigenetic alterations.
+Therefore, invention of blood-based DNA methylation biomarkers and their
+high-sensitive detection system might be a promising diagnostic tool for
+pancreatic cancer. In order to establish the diagnostic biomarkers,
+first, we performed genome-wide DNA methylation analysis of 38 EUS-FNA
+specimens of pancreatic cancer with clinical stage III-IV using Illumina
+Infinium HumanMethylation450 BeadChip. We further analyzed the DNA
+methylation profiles of other types of tumors in the public database,
+TCGA (The Cancer Genome Atlas), and identified five marker genes, which
+were specifically methylated in pancreatic cancers. In addition, analysis
+of DNA methylation status of pancreas cancers comparing 10 normal tissues
+in TCGA data set revealed that 99% of tumors were methylated at least one
+of the five markers (sensitivity, 98.9%; specificity, 44%). We validated
+these methylation markers in different FNA sample set (n = 19) by
+bisulfite pyrosequencing or quantitative methylation specific PCR and
+found that 18/19 (95%) cases were methylated in at least one marker (AUC
+= 0.95). Finally, we performed methylation analysis in cfDNA from
+pancreatic cancer patients. From our preliminary data, we could detect
+aberrant DNA methylation in cfDNA from pancreatic cancer patients.We
+identified potential DNA methylation biomarkers for the diagnosis of
+pancreatic cancers and these markers might be applicable for detecting
+cancer in cfDNA.
+

@@ -1,0 +1,44 @@
+Meeting: 2017 AACR Annual Meeting
+Title: MiVax: an innovative cancer neoantigen prediction system.
+
+
+T cell epitopes bearing tumor-specific mutations discovered using next
+generation sequencing stimulate T cell-mediated processes that lead to
+tumor regression. Although neoantigen prediction using computational
+methods rapidly identifies epitope candidates in the mutanome, a large
+proportion prove to be non-immunogenic. Innovative computational tools
+validated for infectious disease can be applied to enhance design of
+personalized cancer immunotherapies by classification of predicted
+epitopes according to potential for mounting a tumor-specific response.
+We developed the JanusMatrix algorithm that parses query sequences into
+MHC-facing and T cell receptor (TCR)-facing sequences and screens
+sequence databases to identify MHC ligands that share TCR faces with
+host-related proteins. A database of human protein sequences is available
+to identify tumor-specific epitopes that may reduce anti-tumor activity
+by sequences that activate regulatory T cells (Tregs) trained in the
+thymus on self-antigens. Similarly, tumor-specific epitope candidates are
+screened using databases composed of human commensal- or pathogen-derived
+sequences to identify epitopes that, respectively, may detrimentally or
+beneficially cross-react with T cells raised over the course of an
+individual’s immune history. We conducted retrospective analyses of
+cancer vaccine efficacy studies performed in mice [Kreiter et al. 2015
+Nature 520, 692-696] showing that mutanome-directed vaccines effective at
+preventing tumor growth contained higher numbers of class I and II MHC
+neo-epitopes and had lower potential to cross-react with other murine
+proteins, as identified by the MiVax platform. Likewise, an evaluation of
+mutanomes derived from non-small cell lung cancer patients [Rizvi et al.
+2014 Science 348, 124-128] revealed that improved clinical outcomes were
+observed in patients with mutanomes enriched in class I MHC neo-epitopes
+with TCR faces distinct from other self-epitopes. While retrospective in
+nature, the suite of tools used for these analyses have been extensively
+validated in prospective vaccine studies for infectious disease. Removal
+of Treg epitopes identified by JanusMatrix has led to the development of
+a novel H7N9 influenza vaccine scheduled for Phase I clinical trial.
+These results highlight the benefits of using in silico tools for the
+selection of high-value neoantigen candidates and how they can improve
+the design and efficacy of cancer vaccines. Neoantigens with low Treg
+activation potential may then be used to support development of
+personalized therapies including vaccination and in vitro expansion of
+tumor infiltrating lymphocytes for adoptive cell transfer.
+
+

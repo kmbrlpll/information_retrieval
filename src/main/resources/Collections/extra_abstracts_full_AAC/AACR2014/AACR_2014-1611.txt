@@ -1,0 +1,77 @@
+Meeting: 2014 AACR Annual Meeting
+Title: 4-protein signature predicts outcome to tamoxifen treatment in
+estrogen receptor positive recurrent breast cancer
+
+
+Tamoxifen is one of the most frequently used drugs in the treatment of
+estrogen receptor positive breast cancer. Although tamoxifen
+significantly increases patient survival in the adjuvant setting, a major
+factor that decreases its efficacy in the recurrent setting is drug
+resistance. The aim of our study is to identify a protein signature
+predicting outcome of tamoxifen treatment using high resolution mass
+spectrometry.A total of 112 snap frozen breast tumor tissues were
+gathered from patients that had received tamoxifen as first line
+treatment upon recurrence. Samples were divided into a discovery (n= 56;
+Erasmus Medical Center) and validation sets (n=56; multi-center cohort).
+Based on progression of disease from start of tamoxifen therapy, patients
+were categorized having either Good (time-to-progression; ttp>6 months)
+or Poor (ttpTamoxifen is one of the most frequently used drugs in the
+treatment of estrogen receptor positive breast cancer. Although tamoxifen
+significantly increases patient survival in the adjuvant setting, a major
+factor that decreases its efficacy in the recurrent setting is drug
+resistance. The aim of our study is to identify a protein signature
+predicting outcome of tamoxifen treatment using high resolution mass
+spectrometry.A total of 112 snap frozen breast tumor tissues were
+gathered from patients that had received tamoxifen as first line
+treatment upon recurrence. Samples were divided into a discovery (n= 56;
+Erasmus Medical Center) and validation sets (n=56; multi-center cohort).
+Based on progression of disease from start of tamoxifen therapy, patients
+were categorized having either Good (time-to-progression; ttp>6 months)
+or Poor (ttp<6 months) outcome. Approximately 4,000 tumor cells (200ng
+protein) were microdissected from each tissue, which were lysed and
+subsequently trypsin-digested. MS analyses were performed on a
+nano-liquid chromatography LTQ-Orbitrap mass spectrometer. Protein
+identification and quantitation were performed through MaxQuant.
+Significantly differentially abundant proteins (pTamoxifen is one of the
+most frequently used drugs in the treatment of estrogen receptor positive
+breast cancer. Although tamoxifen significantly increases patient
+survival in the adjuvant setting, a major factor that decreases its
+efficacy in the recurrent setting is drug resistance. The aim of our
+study is to identify a protein signature predicting outcome of tamoxifen
+treatment using high resolution mass spectrometry.A total of 112 snap
+frozen breast tumor tissues were gathered from patients that had received
+tamoxifen as first line treatment upon recurrence. Samples were divided
+into a discovery (n= 56; Erasmus Medical Center) and validation sets
+(n=56; multi-center cohort). Based on progression of disease from start
+of tamoxifen therapy, patients were categorized having either Good
+(time-to-progression; ttp>6 months) or Poor (ttp<6 months) outcome.
+Approximately 4,000 tumor cells (200ng protein) were microdissected from
+each tissue, which were lysed and subsequently trypsin-digested. MS
+analyses were performed on a nano-liquid chromatography LTQ-Orbitrap mass
+spectrometer. Protein identification and quantitation were performed
+through MaxQuant. Significantly differentially abundant proteins (p<0.05)
+were filtered through multivariate analysis and used to build a predictor
+for tamoxifen outcome.A total of 2741 proteins were identified in both
+datasets. Comparative proteome analysis showed differential expression of
+99 proteins in the discovery set. A subset of 4 proteins (PDCD4, OCIAD1,
+G3BP2, and CGN) derived from the multivariate model was selected to
+develop a predictor for tamoxifen outcome. The 4 protein abundances in
+the discovery samples were used to build a receiver operating
+characteristic curve, in which Youden J was selected as grouping cutoff.
+Group prediction was tested in the validation set through log rank test,
+which resulted in a significant ttp difference (p=0.004; HR=2.33, 95% CI
+[1.30-4.16]) between Good and Poor outcome. Our signature significantly
+predicts Poor outcome patients with 86.7% sensitivity, 41.46%
+specificity, 35.1% PPV, and 89.5% NPV in the multi-center cohort. OCIAD1,
+PDCD4, and CGN were significantly enriched in patients with Good outcome,
+while G3BP2 was more abundant in patients with Poor outcome. We are
+currently validating these results by immunohistochemistry in a large
+independent cohort. In addition, we are developing a targeted,
+multiplexed, quantitative MS-based assay for larger scale clinical
+validation.Our 4-protein signature significantly predicts outcome to
+tamoxifen treatment for recurrent breast cancer. Large scale clinical
+validation will enable more tailored treatment of breast cancer patients
+with advanced ER+ disease. In addition, our findings may help elucidate
+the mechanisms underlying endocrine therapy resistance in recurrent
+breast cancer.
+

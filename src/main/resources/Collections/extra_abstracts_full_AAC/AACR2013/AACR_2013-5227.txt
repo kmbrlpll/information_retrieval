@@ -1,0 +1,33 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Quantitative network models of signaling and drug response in
+melanoma.
+
+
+Use of targeted drug combinations are potentially key to preventing
+emergence of resistance to initially successful single agents such as RAF
+inhibitors. Thus, systematic nomination of novel drug combinations is
+important to develop effective therapeutic strategies. Here, we present
+an experimental-computational network pharmacology method to infer
+quantitative signaling networks in tumor cells, predict response to
+perturbations, and ultimately, nominate targeted drug combinations that
+will generate a desired phenotypic response. We use a series of targeted
+drugs, singly or in combination to perturb cancer cells. We measure
+quantitative proteomic (total and phoshpo-protein levels) and phenotypic
+(e.g. cell viability, apoptosis, cell cycle progression) response
+profiles to perturbations. Proteomic responses are measured with the
+reverse phase protein array technology. Next, we infer quantitative
+network models, using the response profiles as training sets. Solution
+space of all network model configurations is prohibitively large and
+Monte Carlo based inference algorithms fail to generate accurate network
+models in sizes relevant for cancer biology. In order to solve the
+inference problem, we have adapted an iterative and probabilistic
+inference algorithm, belief propagation from statistical physics.
+Resulting network models are based on simple non-linear differential
+equations and quantitatively link signaling events to phenotypic changes.
+We have generated quantitative network models of signaling in RAF
+inhibitor resistant melanoma cell lines in sizes (i.e. 100 nodes)
+unreachable by other network inference algorithms. We have nominated
+novel combination therapies through combinatorial in silico perturbations
+of all nodes in derived networks and experimentally tested the predicted
+phenotypic responses.
+

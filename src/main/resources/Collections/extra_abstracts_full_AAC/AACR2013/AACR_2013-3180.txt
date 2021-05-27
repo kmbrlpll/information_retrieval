@@ -1,0 +1,40 @@
+Meeting: 2013 AACR Annual Meeting
+Title: In vitro tool for discovering oncogenes and tumor suppressor genes
+in a system's manner.
+
+
+The molecular complexity of cancer still remains as the limiting factor
+for developing efficient therapies with minimal side effects. However,
+scientists succeeded in determining common alterations in most human
+cancer types. Each of these alterations results from disruption of an
+anti-cancer regulation mechanism and/or activation of cancer-promoting
+networks by genetic and epigenetic changes. As a consequence, cancer
+cells become capable of mimicking stem cells ability to proliferate
+indefinitely while maintaining their cellular identity, or to self-renew,
+which is crucial for any type of stem cell. Indeed, some of the networks
+which are deregulated in cancer normally regulate self-renewal in stem
+cells. However, self-renewal is tightly regulated in stem cells, while
+cancer cells manage to escape the internal and external regulation
+mechanisms. Hence, cancer cells differ from stem cells by displaying
+disruptions in feedback mechanism controlling the rate of cell division,
+aberrant differentiation programs and error-prone replication, so they
+become invasive and even metastatic. We hypothesize that the stemness
+regulatory cassette that serves limitless replicative potential and
+undifferentiated state is a measure of cancer virulence and progression.
+We believe that this gene cassette is established through different
+mechanisms in each cell type, so it can be separated from invasion and
+instability in a precise and defined manner. To test our hypotheses, we
+set up a system reconstruction model consisting of induced pluripotent
+cells and transformed cells as stem and cancer cell models respectively,
+and their source of primary mouse embryonic fibroblast cells. From this
+model system, we created a system's map for transformation using
+differential expression patterns from whole genome expression arrays. We
+discovered gene networks that are common between stem and cancer cells,
+but different from their primary cells of origin. We also found
+deregulated/activated cassettes which are unique for cancer cells and
+which are hardwired by genomic rearrangements (copy number and structural
+variations) identified by DNA paired end tag (DNA-PET) sequencing and
+single nucleotide variations using RNA sequencing. We are now
+investigating the role of candidate genes selected from this analysis in
+cancer and stem cell maintenance through a high content siRNA screening.
+

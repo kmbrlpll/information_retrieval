@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Somatic induction of bioluminescent lung tumors in mice.
+
+
+Genetically engineered (GEM) mouse models of cancer currently comprise
+the most accurate phenocopies of the human disease available to
+researchers. It is therefore highly desirable that these models be used
+beyond tumor etiology studies and to evaluate the efficacy of novel
+therapeutic treatment strategies. Complicating the application of these
+models for such purposes, however, is that tumor onset and progression
+are stochastic and cannot be visualized directly when developing within
+internal organs. Therefore it is often challenging to know when to start
+treatment or how to assess tumor response to treatment.Bioluminescence
+imaging is a highly sensitive and relatively high-throughput preclinical
+imaging modality well suited to overcoming the inherent difficulties of
+applied research with GEM's. We describe here a series of new lentiviral
+vectors that can be used to infect somatic cells in the mouse and to
+induce bioluminescent tumors, without the need to develop additional
+transgenic reporter strains of mice or extensive breeding.The basic
+vector contains a tamoxifen-inducible and self-inactivating Cre
+recombinase, as well as conditional firefly luciferase and mStrawberry
+transgenes. As proof of concept, we administered our vector (1x106
+lentiviral particles) to the lungs of mice possessing conditional
+KrasG12D and homozygously floxed p53 alleles via intranasal instillation
+in an attempt to induce bioluminescent non-small cell lung adenocarcinoma
+(NSCLC). This approach gave rise to between two and five bioluminescent
+lung lesions per mouse, some of which showed evidence of progressing from
+low to high-grade adenocarcinoma at 7 months post-vector administration
+and induction. Further, we could accelerate the development of tumors
+from KrasG12D only mice with a variant lentiviral construct that
+additionally expressed a shRNA against mouse p53. Light originating from
+infected and recombined cells increased over the course of the experiment
+in all mice, indicative of an expansion in the number of luciferase
+labeled cells and tumor development. Our imaging sensitivity was also
+very high and light could be detected and monitored at all stages
+post-Cre induction.A significant advantage of our approach to modelling
+tumorigenesis in this manner is its versatility. Spontaneous tumors can
+be induced and rendered imageable without the development or breeding of
+new transgenic reporter mouse strains. Further, the expression of
+additional tumor-related genes may be introduced (subject to virus
+packaging limits) or knocked-down in somatic cells of the base model,
+again without necessitating the development or breeding of additional
+transgenic mice. These vectors should also be useful for inducing
+imageable tumors in organs other than the lung provided that the tumor
+genetics are highly penetrant and that the cells are permissible to
+infection with a VSV-G pseudotyped lentiviral particle.
+

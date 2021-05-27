@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Evaluation of PD-L1 mRNA and protein expression in non-small cell
+lung and hepatocellular carcinoma
+
+
+SJ and BHL contributed equally to this workBACKGROUND:Tumor immunotherapy
+is a unique therapeutic modality against human cancers. The recent
+success of PD1 antibody treatments highlight the value and potential of
+this approach. While there is no definitive clinical biomarker that is
+prognostic of PD1 antibody efficacy, the presence of PD-L1 protein
+detected by immunohistochemistry has correlated positively to clinical
+responses to anti-PD1 and PD-L1 therapies. To enable broad examination of
+cancer indications for PD1/PD-L1 based therapies, we sought to evaluate
+PD-L1 expression at both the protein and mRNA level in lung and hepatic
+tumors.MATERIALS & METHODS:PD-L1 protein expression was evaluated in a
+set of formalin-fixed paraffin-embedded non-small cell lung (NSCLC)
+adenocarcinoma (ACA), NSCLC squamous cell carcinoma (SCC), and
+hepatocellular carcinoma (HCC) tumors by immunohistochemistry (IHC).
+PD-L1 expression was scored semi-quantitatively by a manual histo-score
+(H-score) methodology based on staining intensity and percentage of
+positive tumor cells. In our IHC analysis, PD-L1 positivity (PD-L1+) was
+defined as an H-score 20. In parallel, PD-L1 mRNA expression data was
+examined from The Cancer Genome Atlas (TCGA) in these same indications
+(503 NSCLC ACA, 489 NSCLC SCC, and 191 HCC) and analyzed by comparing the
+expression in matched normal tissues from TCGA.RESULTS:With RNAseq
+analysis, data was calculated as log2 (RPKM+0.1) after RSEM
+normalization, utilizing OmicSoft RNASeq pipelines across TCGA tumor
+indications. The expression of PD-L1 is elevated in NSCLC ACA and SCC,
+relative to that in HCC. By overlaying the distributions and comparing
+the expression levels across all indications in TCGA, we ranked
+overexpression profiles for PD-L1 and found the TCGA HCC cohort to have
+much reduced PD-L1 mRNA levels, with a median level of -0.8 compared to
+1.3 for ACA and 1.5 for SCC, which amounts to more than a 2-fold change
+of median level expression. With RNAseq, our analysis defines 50% of
+NSCLC adenocarcinoma, 54% of NSCLC squamous cell carcinoma, and 6% of HCC
+as high expressers for PD-L1.Tumor cell PD-L1 protein expression was
+measured in 45 lung adenocarcinoma, 47 lung squamous cell carcinoma, and
+69 hepatocellular carcinoma. 16/45 (35.6%) lung ACA, 21/47 (44.7%) lung
+SCC were PD-L1 positive. In contrast, PD-L1 positivity was seen in only
+5/69 (7.2%) HCC samples.CONCLUSIONS:In summary, with IHC and RNAseq
+analysis in large and independent human NSCLC and HCC sample sets, we
+have found PD-L1 expression to be more enriched in NSCLC than in HCC.
+Importantly, amongst the large number of samples (161 for IHC and 1183
+for RNAseq) in the 3 indications, very good concordance is observed
+between protein- and mRNA-based analyses. Our finding thus establishes
+the basis for large scale mRNA-based data mining for indications and
+patient segments enriched for responses to PD1/PD-L1-based immune
+therapies.
+

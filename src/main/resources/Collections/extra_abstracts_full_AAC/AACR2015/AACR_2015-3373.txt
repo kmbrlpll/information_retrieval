@@ -1,0 +1,37 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Identification of inflammation-related genes that regulate
+tumor-associated stemness using high-throughput siRNA screening
+
+
+Cancer associated stem cells (CSCs) are considered to be responsible for
+tumor recurrence, metastasis as well as chemoresistance. These properties
+of tumor associated stemness are maintained by specialized
+microenvironment, including inflammation which is a key component of the
+tumor microenvironment. To study the relationship between inflammation
+and stemness of CSCs, here, we established a robust high-throughput RNAi
+screen platform for a global survey of inflammation-related genes
+affecting CSCs identity via alteration of Oct4 expression. Consequently,
+we found 72 novel genes from 1027 inflammation-related genes which could
+significantly affect OCT4 expression. These genes are functionally
+distinct including cytokines, adhesion molecules, apoptotic molecules,
+kinase, metabolism-related enzymes and transcriptional factors. Further,
+we carry out a functional validation of the 72 hits by mean of
+ALDEFLUORTM assay and we demonstrate that silence genes expression of
+IL-1A, IL-1B, ICAM3, CCL16, TRAF6, PRTN3, PDE3A, BCAR1, NFKB1 and IKK- by
+siRNA would dramatically downregulate of the ALDH+ subpopulation cells.
+Moreover, we studied the functional roles of these factors on different
+kinds of tumor cell lines and mult-organ tumor tissue microarray. We
+observed that knockdown TRAF6 (TNF- receptor associated factor 6) would
+reduce the expression of stemness associated genes SOX2, OCT4, NANOG,
+LIN28b, IKK- -catenin, and abate sphere-forming ability of breast cancer
+MDA-MB-231 cells, lung cancer A549 cells, liver cancer HepG2 cells and
+colon cancer SW-480 cells. It was also found that the expression of TRAF6
+has a conspicuous relationship with multiple tumor occurrence and
+malignancy on tissue microarray. Most importantly, we found that
+knockdown the expression of TRAF6 could markedly suppressed tumor growth
+and metastasis of MDA-MB-231 in NOD/SCID mice model. Together, we
+uncovers a wealth of novel inflammatory regulators of CSCs by a
+high-throughput siRNA screen and validated the cytokine TRAF6 could
+govern tumor associated stemness in different tumors in vitro and in
+vivo, which would be a potential therapeutical target.
+

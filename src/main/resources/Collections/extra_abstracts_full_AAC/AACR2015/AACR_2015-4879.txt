@@ -1,0 +1,28 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Reducing amplification artifacts in highly multiplex amplicon
+sequencing by using molecular barcodes
+
+
+BackgroundPCR amplicon sequencing has been widely used as a targeted
+approach for both DNA and RNA sequence analysis. Highly multiplex PCR has
+further enabled the enrichment of hundreds of amplicons in one simple
+reaction. At the same time, the performance of PCR amplicon sequencing
+can be negatively affected by issues such as high duplicate reads,
+polymerase artifacts and PCR amplification bias. Recently, people have
+made good progress at addressing those shortcomings by incorporating
+molecular barcodes into PCR primer design. So far, most work has been
+demonstrated using one to a few pairs of primers, which limits the size
+of the region one can analyze at one time.ResultsWe described a simple
+protocol, which enables the use of molecular barcodes in highly multiplex
+PCR with hundreds of amplicons. Using this protocol and reference
+materials, we studied how molecular barcodes can increase the accuracy of
+variant calling at very low allelic frequency and reduce PCR
+amplification bias. We also evaluated its utility in profiling FFPE
+samples.ConclusionsWe demonstrated the successful implementation of
+molecular barcodes in highly multiplex PCR, at a scale many folds beyond
+earlier work. We showed that the new protocol combined the benefits of
+both highly multiplex PCR and molecular barcodes, i.e. the analysis of a
+very large region, low DNA input requirement, very good reproducibility
+and the ability to detect as low as 1% mutation with minimal false
+positives.
+

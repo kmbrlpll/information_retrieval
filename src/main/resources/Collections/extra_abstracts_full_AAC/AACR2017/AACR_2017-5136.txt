@@ -1,0 +1,72 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Upregulation of Salmonella motility in tumors improves dispersion,
+colonization and intracellular invasion of the bacteria.
+
+
+Diffusion limitations in tumors prevent small molecule therapies from
+reaching cancer cells located distally from vasculature. This is one
+reason why some cancers become drug resistant and relapse. To circumvent
+these diffusional limitations, Salmonella can be used as a drug delivery
+vehicle. The facultative anaerobe preferentially colonizes tumor tissue
+over normal tissue at ratios greater than 10,000:1. Moreover, flagella
+allow the bacteria to penetrate deep into tumor tissue. Finally,
+genetically modified Salmonella can invade cancer cells and deliver a
+wide range of intracellularly functioning and patient specific therapies
+(DNA, RNA, and inhibitory peptides).
+
+But, Salmonella must distribute homogeneously within tumors and invade a
+significant number of live cancer cells in order to deliver therapies
+uniformly within tumors. To enable this, we hypothesized that
+up-regulating the master motility regulator, flhDC, in Salmonella would
+improve intratumoral penetration, uniform colonization and intracellular
+invasion of cancer cells. Salmonella utilize the transcription factor
+complex, flhDC, to regulate flagella synthesis and thus, motility. This
+transcription factor complex also positively influences type three
+secretion system (T3SS) assembly, which, Salmonella use to
+intracellularly invade epithelial cells.
+
+To test this hypothesis, we created a set of synthetic gene circuits that
+use arabinose for inducible expression of flhDC, the Plac promoter for
+constitutive expression of DSRed and the PSSEJ promoter to express GFP
+when Salmonella invade tumor cells. We analyzed aqueous bacterial
+motility with video microscopy. Finally, we administered the motility
+inducible Salmonella into a tumor-on-a-chip device to examine spatial and
+temporal tumor colonization characteristics of the bacteria.
+
+In an aqueous environment, the flhDC induced Salmonella swam
+approximately 33% faster than a Salmonella control (PIn an aqueous
+environment, the flhDC induced Salmonella swam approximately 33% faster
+than a Salmonella control (P<.01). Induction of flhDC increased the
+motile fraction (15-30 micrometers/second) of bacteria two-fold (PIn an
+aqueous environment, the flhDC induced Salmonella swam approximately 33%
+faster than a Salmonella control (P<.01). Induction of flhDC increased
+the motile fraction (15-30 micrometers/second) of bacteria two-fold
+(P<.05) while also decreasing the non-motile fraction (0-15
+micrometers/second) six-fold (PIn an aqueous environment, the flhDC
+induced Salmonella swam approximately 33% faster than a Salmonella
+control (P<.01). Induction of flhDC increased the motile fraction (15-30
+micrometers/second) of bacteria two-fold (P<.05) while also decreasing
+the non-motile fraction (0-15 micrometers/second) six-fold (P<.05) when
+compared to a Salmonella control.
+
+In a microfluidic device, flhDC induced Salmonella exhibited increased
+colonization and growth in tumor tissue located far away from channels
+that were meant to resemble tumor microvasculature (PIn a microfluidic
+device, flhDC induced Salmonella exhibited increased colonization and
+growth in tumor tissue located far away from channels that were meant to
+resemble tumor microvasculature (P<.05), when compared to a control.
+Finally, flhDC induction increased tumor cell invasion approximately
+two-fold in tissue located both proximal and distal to the micro-channels
+within the microfluidic device (PIn a microfluidic device, flhDC induced
+Salmonella exhibited increased colonization and growth in tumor tissue
+located far away from channels that were meant to resemble tumor
+microvasculature (P<.05), when compared to a control. Finally, flhDC
+induction increased tumor cell invasion approximately two-fold in tissue
+located both proximal and distal to the micro-channels within the
+microfluidic device (P<.05), when compared to a control.
+
+Highly motile Salmonella could reduce the occurrence of drug resistant
+cancer relapse by delivering targeted therapies uniformly to cancer cells
+that would otherwise remain untreated with conventional therapy.
+
+

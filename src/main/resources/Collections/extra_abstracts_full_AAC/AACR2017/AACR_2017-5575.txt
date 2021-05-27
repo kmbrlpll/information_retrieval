@@ -1,0 +1,41 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Androgen receptor stimulation with 5α-dihydrotestosterone (DHT)
+decreases PD-L1 expression in androgen-responsive thyroid cancer cells.
+
+
+Thyroid cancer is the most rapidly increasing cancer in the US with
+64,300 new cases expected in 2016. However, there is a disparity in the
+incidence of thyroid cancer between females and males, with women (49,350
+expected cases) developing thyroid cancer three times more often than men
+(14,950 expected cases). Immune elimination of nascent tumor cells may
+explain the difference in disease incidence between men and women. To
+address this hypothesis, the effect of androgen on the expression of
+immune checkpoint molecules in an androgen responsive-thyroid cancer cell
+line was examined. The undifferentiated thyroid cancer cell line, 8505C,
+does not express a functional androgen receptor (AR). 84E7 is a clone of
+8505C that was transfected with an AR containing plasmid resulting in
+constitutively expressed AR. Transcriptome analysis via RNASeq was
+performed on 8505C and 84E7, with and without 5α-dihydrotestosterone
+(DHT) treatment. Raw sequencing reads were aligned to the UCSC hg19 human
+reference genome with Tophat, and Cufflinks was used to measure
+transcript abundances in Reads Per Kilobase of exon model per Million
+mapped reads (RPKM) as well as to find genes with statistically
+significant changes in expression. DHT treatment of 84E7 resulted in >2
+fold expression changes in 1,552 genes. We examined the immune checkpoint
+ligands expressed on 84E7 such as CD80, CD86, PD-L1, PD-L2, ICOSL, B7-H3,
+B7-H4, HVEM, 4-1BBL, OX40L, CD70, CD40, and GAL9. PD-L1 was the sole
+immune checkpoint molecule that exhibited a significant expression change
+in DHT-treated 84E7 cells with a 1.8 log2 fold decrease (p=0, q=0), or
+72% reduction in mRNA content. Additional studies confirmed the RNASeq
+results and provide evidence of both qualitative (immunofluorescence) and
+quantitative (flow cytometry and western blotting) decreases in PD-L1
+expression with DHT treatment. These results are significant in that
+PD-L1 is produced by tumor cells as a strategy for subverting and evading
+the immune response, specifically T cells, allowing for continued tumor
+growth and metastases. In the thyroid, the presence of activated androgen
+receptors could lead to an environment that is more favorable for immune
+system activation and may help eliminate nascent thyroid cancer cells.
+Thus, men may experience a decreased incidence of thyroid cancer due to
+an enhanced and less inhibited anti-tumor environment.
+
+

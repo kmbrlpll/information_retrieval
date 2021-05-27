@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Systematic identification of germline mutations in
+rhabdomyosarcoma and neuroblastoma using massively paralleled sequencing
+
+
+Despite improvement of survival using multimodal chemo- and
+immunotherapy, high mortality and morbidity is still substantial for
+pediatric patients with metastatic cancers. Recent large-scale sequencing
+studies of pediatric tumors including rhabdomyosarcoma (RMS) and
+neuroblastoma (NB) have been focusing on somatic mutations, and revealed
+a low somatic mutation rate and surprisingly few recurrently somatic
+mutated genes in these childhood tumors. Currently, only a small portion
+of pediatric cancer cases can be explained by somatic driver events;
+whereas the cause for the majority of these diseases remains unknown.
+Because both these two types of tumors are uncommon, here we hypothesize
+that infrequent germline mutations (frequency5% in a normal human
+population using the 1000 Genomes data. Due to our interest in the
+enriched variants, we further required the frequencies of variants in our
+rhabdomyosarcoma and neuroblastoma patient cohorts are higher than those
+in the ESP dataset, a non-cancer control population comprising 6503
+individuals. There are 63247 SNVs fulfilled these selection criteria.
+Among them, 1589 have been reported in these pediatric cancers or in
+other malignancies in the Cancer Genome Atlas (TCGA) project; and 1178
+variants are present in the Human Gene Mutation Database (HGMD). Of these
+HGMD variants, 49 have been reported in human diseases and 34 of them are
+known disease-causing mutations for human cancers and genetic disorders
+including TP53, ALK, CHEK2, and PINK1. Interestingly, the most frequent
+germline mutations in these pediatric tumors were rarely found in the
+TCGA project which mostly consists of adult cancers. This observation
+suggests a very different genetic background of pediatric cancer patients
+from that of the adult cancers, and warrants a careful examination of
+germline mutations in these cancers. Furthermore, previous studies have
+highlighted the importance of expression of variant genes (including
+tumor suppressor genes) for identification of driver mutations in
+cancers. Therefore we will use 178 transcriptome sequencing experiments
+available for these tumors (RMS=84; NB=93) to identify expressed variants
+in tumor. Statistical and pathway analyses are currently underway to
+determine potential pathological or casual germline mutations associated
+with neuroblastoma and rhabdomyosarcoma.
+

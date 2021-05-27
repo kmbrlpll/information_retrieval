@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Interplay of human MGMT DNA repair protein with PCNA / p21cip1 and
+MGMT’s novel role as an S-phase checkpoint.
+
+
+O6-Methylguanine-DNA methyltransferase (MGMT) is a critical antimutagenic
+DNA repair protein that protects the genome and an established target for
+improving the efficacy of alkylating agents. In contrast with the
+stoichiometric repair reaction performed by a single small MW protein, we
+show for the first time that MGMT in human glioblastoma cells
+specifically associates with PCNA, p21cip1, and undergoes selective
+degradation at mid-S-phase along with replication-licensing components to
+maintain genomic integrity. First, we identified a PCNA-Interacting
+Protein (PIP box) motif between amino acids 61-70, QCTAWLNAYF in the MGMT
+protein. PCNA encircles the DNA and functions as a sliding clamp by
+interacting with DNA metabolic proteins having a PIP-box to make the
+replication processive. In p53-null H1299 lung cancer cells engineered to
+express the p21cip1, either by Tet-off conditional or lentiviral stable
+transfections, a reciprocal immunoprecipitation/western blot analyses
+using antibodies to PCNA or MGMT confirmed the specific association of
+MGMT and PCNA proteins. Expression of the CDK inhibitor p21 disrupted the
+interaction between PCNA and MGMT in cells, indicating its regulatory
+role in DNA repair during cell cycle blockade. Confocal
+immunofluorescence imaging in glioblastoma cells and isogenic HCT116
+cells with and without p21cip1 expression, showed a co-localization of
+MGMT and PCNA proteins in glioma cells; when cells were subjected to
+alkylation DNA damage, the co-localization pattern was punctate and more
+prominent, suggesting that PCNA functions to recruit the repair protein
+to the damage sites. To probe the cell-cycle dependent regulation of
+MGMT, we used synchronized human GBM cells at the G1/S boundary using
+double thymidine-block or single thymidine-mimosine blocks. Cells
+released into the S-phase showed that the MGMT disassociates from PCNA
+during the late S-phase and undergoes specific degradation before
+re-accumulating in G2/M. The replication-licensing protein Cdt1 and
+p21cip1 were also observed to undergo co-degradation in S-phase, which
+has been established as a key step in marking the replication origin
+sites. MGMT inhibition, either by O6-benzylguanine or specific shRNAs
+greatly impeded the progression of cells into the S-phase in synchronized
+cells. DNA synthesis measured by 3H-thymidine or BrdU incorporation was
+also curtailed significantly by MGMT inhibition. Furthermore, enforced
+expression of MGMT in two GBM cell lines led to a moderate
+endo-reduplication of the genome. Collectively, we show new non-repair
+functions for MGMT, its requirement for cell cycle progression and timed
+elimination to maintain genomic stability. On the clinical front, the
+observations provide a clear biochemical rationale for combining MGMT
+inhibitors (apart from the alkylators) with antimetabolites [supported by
+CPRIT grants RP130266 & RP170207 to KSS].
+
+

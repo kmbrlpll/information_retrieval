@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Evolution during propagation and treatment of patient-derived
+triple negative breast cancer xenografts
+
+
+Individual tumors, including the aggressive and difficult to treat
+triple-negative (ER-/PR-/HER2-) breast cancers (TNBCs) are heterogeneous
+collections of cells with multiple subclonal populations each
+contributing to the tumor. While subclonal heterogeneity is likely
+responsible for the development of drug resistance, identification of how
+tumor cell populations change over time has been difficult, largely
+because of the challenges in resampling tumor tissue at close time
+points. Here we quantify tumor evolution in human patient-derived
+xenografts implanted into NSG mice, which we use to test subclonal
+heterogeneity as a function of location within a tumor, propagation time,
+and drug treatment. We used high-depth (400x) sequencing of a targeted
+panel of 358 genes to quantify somatic mutation allele frequencies from 6
+spatially-separated and 8 temporally-propagated xenograft samples derived
+from the same TNBC patient tumors. Samples ranged in age from 2-4 months
+post-engraftment. Although we observed a few low frequency mutations
+distinguishing samples, overall we found that allele frequencies of
+somatic mutations were well-preserved on this time scale. We then
+generated replicate xenografts from the same patient tumor and treated
+them respectively with cisplatin, doxorubicin, cyclophosphamide,
+docetaxel, or vehicle control for 25 days. Although again somatic
+mutations showed few differences in allele frequency across samples,
+substantial variations were seen when data were analyzed for copy number
+alterations. To confirm these effects we repeated the treatments for
+xenografts derived from two additional TNBC patients. Again we observed
+strong changes in tumor heterogeneity at the copy number level. This
+effect was particularly, but not exclusively, apparent in tumors with the
+greatest response to therapy. We further verified these measurements
+through Sanger and digital PCR sequencing on the treated mice and other
+mice in the same cohorts. Using a multi-sample xenograft propagation,
+dissection, sequencing, and computational analysis protocol, we have
+shown that tumor subpopulation changes in response to treatment can be
+quantified and distinguished from spatial or temporal effects, even for
+treatment time courses as short as 1 month. In triple negative breast
+cancer these variations are most apparent at the level of copy number
+variation. Our study demonstrates how patient-derived xenografts can
+provide detailed resolution of tumor population evolution during the
+manifestation of resistance.
+

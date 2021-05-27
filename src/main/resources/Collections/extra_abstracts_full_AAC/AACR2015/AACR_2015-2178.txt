@@ -1,0 +1,29 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Comparison and interpretation of variants in RNA and DNA from
+sarcoma cancer sample
+
+
+Identification and interpretation of somatic variants using DNA from
+matched tumor/normal pairs is crucial for understanding the mechanisms
+behind cancer.Studies have shown that a large proportion of variants
+present in the DNA are not present in the RNA and vice versa due to
+RNA-editing and other unknown molecular processes. In addition, recent
+publications show that RNA-editing plays an important role in cancer.
+These findings can have strong implications for clinical diagnostics
+where correct identification and interpretation of somatic variants from
+matched tumor/normal samples is essential.In this study we will
+investigate somatic variants that are only present in the DNA or the RNA
+of pleomorphic undifferentiated sarcoma. For this approach we will first
+identify somatic variants in the DNA using Exome Sequencing data and in
+the RNA using RNA-Seq data from a matched tumor/normal pair. Somatic
+variants in DNA as well as RNA are then again filtered for germline
+variants using the DNA of the normal sample and the RNA of the normal
+sample. Somatic variants found in only DNA or only RNA are further
+investigated using Ingenuity's large Knowledge Base as well as HGMD and
+PGMD. We will show which class of proteins is mainly affected by the RNA
+editing events and which pathways are mainly affected. We will also
+highlight implications for clinical diagnostics using DNA only.The
+complete analysis will be done using the new integrated QIAGEN tool suite
+of CLC Cancer Research Workbench, Ingenuity Variant Analysis and Biobase
+Genome Trax.
+

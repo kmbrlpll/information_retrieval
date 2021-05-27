@@ -1,0 +1,40 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identifying signaling pathways associated with medulloblastoma
+subtypes from "omic" data.
+
+
+Medulloblastoma, the most common malignant pediatric brain tumor,
+comprises four subtypes classified by their distinct molecular
+signatures. Wnt and SHH subtypes up-regulate those respective signaling
+pathways, while Group 3 and Group 4 tumors are less understood and have
+the worst prognosis. Treatment is currently limited to surgical
+resection, radiation and broad-spectrum cytotoxic chemotherapy drugs that
+frequently devastate cognition in survivors. In order to develop
+patient-specific targeted therapies we need to understand the underlying
+molecular events that drive the tumor in each patient. Previously, our
+research group and others sequenced whole exomes from a total 92 primary
+tumors from patients in comparison to their matched normal blood. Over
+1,700 mutated genes were identified. The overwhelming majority of
+mutations occurred only once in the entire cohort, and just 12 genes were
+recurrently mutated with statistical significance. Statistically
+significant mutated genes include genes involved in subtype-specific
+signaling events, such Wnt and SHH which have been shown to be causative
+in those subtypes, and others are involved in chromatin and epigenetic
+regulation. The diversity of mutations makes it difficult to resolve
+which mutations drive oncogenesis, especially in Groups 3 and 4. Most
+patients in these subtypes do not harbor a mutation in one of the 12
+significantly mutated genes, leaving an open question as to why these
+patients developed cancer. The aim of this study is to employ systems
+biology to interweave singleton genes into networks to identify candidate
+drives in each patient and ultimately resolve the underlying common
+pathways that caused each cancer. We have identified singleton mutations
+in patients that substitute for the statically significant mutated genes.
+Modeling individual patient level data onto networks predicts novel
+driver events in each patient. These candidate driver events are then
+functionally validated in vitro. In addition to mutation, oncogenic
+events can occur via copy number changes, chromatin regulation,
+transcription regulation, mRNA processing, or protein degradation. We
+hypothesize that common pathways are targeted in multiple tumors of the
+same type, despite the obvious differences in the patterns of somatic
+mutations.
+

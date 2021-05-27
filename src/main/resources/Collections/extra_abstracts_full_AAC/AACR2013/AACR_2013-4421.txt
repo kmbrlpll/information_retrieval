@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Onco Vasculomics(tm): A 3-d tumor vasculature assessment
+methodology for quantifying mechanism and efficacy of discovery-stage
+anti-cancer compounds.
+
+
+Conventional methods for evaluating tumor vasculature, such as
+microvessel density, do not capture critical 3-dimensional properties
+such as their spatial distribution, tortuosity, and distribution of
+different vessel sizes on a population basis. Such parameters are
+critical for understanding the biological effects of agents targeting
+tumor vasculature by different mechanisms. To address this critical unmet
+need, we developed a novel system platform which enables high-resolution
+3-D, structural microvascular-pattern analysis and biomarker mining in
+support of preclinical and translational oncology discovery space. The
+OncoVasculomics platform captures, reconstructs, and then automatically
+and quantitatively analyzes microvascular structures and patterns
+indicative of response to targeted drug therapy.Methods: The effect of
+two different anti-angiogenic therapeutic agents, bevacizumab and
+sunitinib, were assessed using OncoVasculomicsTM platform in Colo205
+human colorectal cancer xenograft model. Animals bearing 200 mm3 sized
+tumors were treated for 7 days either with the appropriate vehicle,
+bevacizumab at 5 mg/kg (i.p. daily) or sunitinib at 30 mg/kg (p.o.
+daily). Mice were then systemically perfused with Mercox, the tissue was
+macerated and the resulting vascular tumor cast was imaged using a
+microCT. 3-dimensional tumor vascular tree was derived using proprietary
+segmentation and reconstruction software. OncoVasculomicsTM vascular
+mining software was then used to derive various vascular morphology
+parameters.Results: Mean tumor sizes did not significantly differ between
+the Bevacizumab, sutent or vehicle treatment groups at the end of the
+experiment. Whole tumor 3D micro vessel density (MVD) was similar between
+the treatment groups: vehicle (bevacizumab) 2.7+/-0.6 % of total tumor
+volume, bevacizumab 2.2+/-0.4%, vehicle (sunitinib) 2.9+/-0.3% and
+sunitinib 2.5+/-0.3%. Bevacizumab and sunitinib treatments resulted in
+20% and 16% decrease in total tumor MVD, respectively. Bevacizumab
+treatment resulted in 8.2 % cold spot or low vascular density region
+generation. In contrast, sunitinib was 5-fold more efficient in
+generating cold spots at a rate of 37% (sunitinib vs. vehicle tumors).
+Bevacizumab's anti-vascular activity targeted vessels of 28 um in
+diameter and larger. However, the majority of sunitinib's activity had
+effect on vessels 21-35 um in diameter.This study demonstrates that a
+comprehensive 3d OncoVasculomic analysis may provide important
+mechanistic and efficacy insights into the vascular effects of different
+classes of drugs targeting tumor vasculature.
+

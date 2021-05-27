@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: ERK2 functional chromatin footprints in patient-derived breast
+tumor cells predict molecular subtype, clinical outcome, and drug
+response in breast cancers
+
+
+Increased MAPK pathway activity is a major hallmark of acquired
+resistance of breast cancers to therapies and disease recurrence, and
+this oncogenic pathway is targeted in the clinic using MEK inhibitors.
+However, designing combination therapies is a challenge due to
+variability in the expression of potential partners of these kinases in
+different tumor types. For example, we have shown previously in ER(+)
+breast cancer cell lines that ERK2 localization to chromatin was dictated
+by ER, and that it marked those genes associated with ER signaling
+(Madak-Erdogan et al., Mol Cell Biol 31:226-236, 2011). In this study, we
+hypothesized that in different subtypes of ER(-) breast tumors, ERK2
+might be partnering with different transcription factors, thereby
+regulating the signaling pathways that control the phenotype of that
+particular tumor subtype. Furthermore, by identifying new cellular and
+molecular mechanisms leading to the development of resistance to
+therapies in specific tumor subtypes, it might be possible to develop
+combination therapies to improve the clinical effectiveness of treatments
+of these subtypes. Toward this goal, we obtained ERK2 cistrome
+information (by ChIP-Seq) from our previously established dissociated
+primary breast tumor cultures. These cultures represented several
+different breast cancer subtypes, including Her2 enriched, triple
+negative (basal), triple negative (Luminal B like), triple negative
+(claudin low) and triple negative (basal epithelial). We found that
+tumor-type specific ERK2 Functional Chromatin Footprints marked those
+genes that delineated the subtype of the tumor as well as patient
+clinical outcome, based on Oncomine and TCGA datasets. In addition,
+transcription factor binding motif enrichment analysis identified new
+partners and potential druggable targets for chromatin-associated ERK2.
+Comparison of the ERK2 cistrome revealed Hedgehog and NRF1 signaling
+pathways as major pathways associated with MAPK activity in the different
+tumor subtypes. We then tested several inhibitors targeting these
+pathways and showed that ERK2 occupancy indeed predicted response to
+these therapies in different tumors. Our studies reveal that monitoring
+MAPK activity on chromatin is predictive of patient outcome and tumor
+response to different therapies. This systems approach can be used to
+precisely identify the subtype of the tumor, predict outcome, and design
+personalized therapies, based on the functional partners of ERK2 in a
+particular breast tumor subtype.(Supported by grants from The Breast
+Cancer Research Foundation (BSK), NIH P50 AT006268 (BSK), NIH R01
+CA113674 (DEA), and Bankhead Coley Cancer Research Challenge Grant
+09BW-04 (DEA))
+

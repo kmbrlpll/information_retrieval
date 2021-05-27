@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: The stress response mediator ATF3 stabilizes p53 by competing with
+it for MDM2-mediated ubiquitination
+
+
+While the tumor suppressor p53 is crucial for the maintenance of genetic
+integrity upon DNA damage and oncogenic stresses, its level and activity
+are tightly controlled by a complex network largely mediated by the E3
+ubiquitin ligase MDM2. MDM2 catalyzes the addition of ubiqutin chains to
+the C-terminus of p53 and is the major ubiquitin ligase to promote
+proteosomal degradation of p53. We previously demonstrated that ATF3, a
+common stress response mediator, can bind p53 and prevent it from
+MDM2-mediated ubiquitination. As a consequence, ATF3 can stabilize p53
+upon DNA damage and prevent cells from oncogene-induced transformation by
+promoting p53-mediated senescence, in line with accumulating evidence
+supporting that ATF3 can act as a tumor suppressor. Interestingly, ATF3
+is also a bona fide substrate of MDM2, and thus, the ATF3-MDM2
+interaction can fine tune p53 activity in the DNA damage response.
+However, the mechanism by which ATF3 blocks p53 ubiquitination to
+activate the latter protein remains largely undefined. Efficient
+ubiquitination of p53 requires the binding of MDM2 to the N-terminus of
+p53, and the MDM2 binding to MDMX. Here we show that neither the p53-MDM2
+interaction nor the MDM2-MDMX interaction is disrupted by the binding of
+ATF3 to p53 or MDM2. As both ATF3 and p53 are substrates of MDM2, we
+explored a possibility that ATF3 competes with p53 for MDM2-mediated
+ubiquitination. By in-vitro ubiquitination assays, we identified that the
+5 lysine residues clustering in aa 100-115 of ATF3 are required for
+MDM2-mediated ubiquitination. Site-specific mutagenesis indicates that
+MDM2 mainly ubiquitinates ATF3 at lysine 107 (K107) and lysine 108 (K108)
+as MDM2 fails to add ubiquitin chains to ATF3 when these two residues
+were mutated to arginine. Importantly, while mutations at these two
+residues do not affect the ATF3 binding to MDM2 or p53, the ATF3 mutant
+devoid of ubiquitination fails to stabilize p53 and prevent p53 from
+MDM2-mediated ubiquitination. These results thus demonstrate that ATF3
+can activate p53 by competing with the tumor suppressor for MDM2-mediated
+ubiquitination.
+

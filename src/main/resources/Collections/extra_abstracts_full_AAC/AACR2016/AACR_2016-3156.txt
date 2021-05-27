@@ -1,0 +1,43 @@
+Meeting: 2016 AACR Annual Meeting
+Title: NGS-based screening for TP53 mutations in circulating cell-free
+DNA: A first step towards early detection of lung cancers
+
+
+BackgroundThe US National Lung Cancer Screening Trial (NLST) demonstrated
+in 2011 that screening with computed tomography (CT) scans could reduce
+lung cancer mortality by 20%, but with important financial costs and high
+number of false positives. The identification of novel biomarkers is a
+need to obtain the maximum benefit from CT screening. Given its
+economical and minimally invasive nature, screening for somatic mutations
+in circulating tumor DNA (ctDNA) using next-generation sequencing may
+complement existing screening tools. However, for application in early
+detection, variant detection must also be done agnostically, i.e. without
+prior knowledge from tumour tissue of the mutations expected and
+unfortunately, most currently available variant callers are not adapted
+for this task.MethodsWe performed multiplex PCR on circulating free DNA
+(cfDNA) extracted from the plasma of 35 lung squamous cell carcinoma
+(SCC) and 64 small-cell carcinoma (SCLC) patients. We additionally
+included 133 hospital controls to evaluate the specificity of ctDNA. We
+applied (>10,000X) Ion torrent targeted sequencing on the full-coding
+region of TP53 since this gene is known to be mutated in more than 70%
+and 90% of SCC and SCLC, respectively. Each amplification, library
+preparation, and sequencing was performed in duplicate to control for
+amplification and sequencing errors. Detecting mutations on ctDNA raises
+important statistical and bioinformatics challenges as it represents only
+a small fraction of cfDNA. We therefore developed and applied a method
+based on the idea that a data-derived model of sequencing errors has the
+potential to improve our ability to detect low-allelic fraction (AF)
+somatic variants.ResultsWe detected TP53 non-synonymous coding mutations
+with AFs between 0.04% and 85% (median 1.7%) in 8 (23%) SCC patients, 28
+(44%) SCLC patients, and 8 (6%) controls. We estimated odds ratios of 4.6
+(p = 0.006) for SCC and 12.0 (p = 6.710-10) for SCLC. Observations in
+controls are surprising, but in this instance there was no information
+regarding a subsequent cancer diagnosis.ConclusionWe show that it is
+possible to detect ctDNA in the cfDNA of lung cancer patients. Since only
+patients with early stage (I-IIA) SCC tumours were included, these
+results support the potential utility of the approach for early
+detection. Nevertheless, if such mutations are found prior to diagnosis
+has not been explored in a prospective study design with pre-diagnostic
+plasma samples and individuals without a cancer diagnosis through a
+follow-up period.
+

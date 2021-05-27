@@ -1,0 +1,23 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Gene expression profiling of a single laser capture microdissected
+(LCM) cell
+
+
+Laser Capture Microdissection (LCM) is a technique providing a rapid and
+reliable method to procure purified cell populations, either as multiple
+single cells or a group of cells, from a heterogenic tissue sample
+allowing a targeted approach to genomic profiling. When analyzing gene
+expression profiles from a group of cells, the average profile may not be
+a true representation of the many different profiles that could exist
+even in a pure cell population (e.g., in different states of growth,
+differentiation, or activation). As a result, the transcriptional
+variability of individual cells and any insight into the relationship
+between specific genes in single cells are lost. To fully understand the
+complexity of tissue and cellular heterogeneity, it is necessary to
+measure molecular signatures at the single cell resolution. Here we
+developed a workflow for gene expression profiling of a single LCM cell
+that can also be applied to small number of LCM cells. The ArcturusXT LCM
+system was used to harvest single cells from frozen human tumor tissue
+sample which were then processed for quantitative RT-PCR (qRT-PCR) gene
+expression analysis.
+

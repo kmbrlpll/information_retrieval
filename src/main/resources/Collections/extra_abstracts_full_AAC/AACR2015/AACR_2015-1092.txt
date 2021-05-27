@@ -1,0 +1,23 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Interpreting and navigating the TCGA in the context of the RAS
+pathway
+
+
+Analysis of large cancer data sets such as The Cancer Genome Atlas (TCGA)
+and the International Cancer Genome Consortium (ICGC) has demonstrated
+the involvement of members of the RAS signaling pathway across many
+different tumor types. In particular, KRAS mutations occur at high
+frequency in lung, colorectal and particularly pancreatic tumors. Here,
+we report an analysis of TCGA data examining several aspects of KRAS and
+RAS pathway biology in the context several of the different data types
+collected through TCGA. The findings include: A survey of the expression
+of the KRAS alternatively spliced isoforms across all of the available
+tumor types Enrichment analysis from differentially expressed genes from
+high and low expressing samples for the 4A isoform (or the 4A/4B ratio)
+Survival analysis for RAS pathway genes in the context of mutational and
+expression level status Analysis of mutations in genes from the RAS
+pathway across samples and tumor types Together, these findings
+demonstrate that large data sets like TCGA can be used to reveal novel
+insights into the function of key genes that play a role in the
+development, maintenance and progression of cancer.
+

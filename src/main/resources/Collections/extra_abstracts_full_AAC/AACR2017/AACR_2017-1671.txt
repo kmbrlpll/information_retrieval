@@ -1,0 +1,84 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Characterization of the immune landscape in stage II-III melanoma
+using qIF.
+
+
+Background: The tumor microenvironment plays a crucial role in cancer
+progression, often supporting immune evasion. This is of particular
+importance in melanoma, where immune checkpoint therapies have resulted
+in significant clinical benefit, yet only in a subset of melanoma
+patients respond. Precise biomarkers are urgently needed to characterize
+the tumor immune micro-environment, both for prognostication and to
+predict the benefit of immuno-therapeutic intervention. HLA-DR on tumor
+cells and Ki67 on cytotoxic (CD8+) T cells have been proposed as
+biomarkers of anti-PD1 activity. Quantitative immunofluorescence (qIF)
+allows for automated quantitation of phenotypes and spatial distributions
+of immune cell populations within formalin fixed paraffin embedded (FFPE)
+tissues.
+
+Methods: To characterize the tumor immune microenvironment, we screened
+databases at the Herbert Irving Cancer Center (HICC) at Columbia
+University for early stage melanoma patients with documented clinical
+follow up. We identified a preliminary population of 40 stage II-III
+melanoma patients diagnosed between 2000 and 2012. Clinical follow up was
+available on 21 patients, 12 of whom were alive with no evidence of
+recurrence, 1 who died of another malignancy, and 8 who died of melanoma.
+19 patients had more than 24 months of survival information available but
+no detailed clinical information. 5µm slides from either primary biopsy
+or subsequent wide local excision procedure were stained using qIF for
+DAPI, CD3, CD8, CD68, SOX10, HLA-DR and Ki67. Cell phenotypes within
+representative fields selected by a trained dermatopathologist (BH), were
+visualized using multispectral imaging, and analysis of spatial
+distribution of cells were analyzed using inForm image analysis software
+(Perkin Elmer), and Spotfire software (TIBCO).
+
+Results: We were able to quantify and identify coordinates for multiple
+immune cell subsets in melanoma tissues. In 21 patients with clinical
+follow up, we found that higher densities of CD3+CD8+ T cells in tumor
+and stroma trended towards correlation with non-recurrence. In addition,
+CD68+HLA-DR- predicts poor prognosis (pResults: We were able to quantify
+and identify coordinates for multiple immune cell subsets in melanoma
+tissues. In 21 patients with clinical follow up, we found that higher
+densities of CD3+CD8+ T cells in tumor and stroma trended towards
+correlation with non-recurrence. In addition, CD68+HLA-DR- predicts poor
+prognosis (p<0.05), whether in tumor or stroma. Assessment of spatial
+distribution across all 40 tumors demonstrated that CD3+CD8+ cells are
+closer to CD68+ cells and Sox10+ tumor cells when they express HLA-DR
+(pResults: We were able to quantify and identify coordinates for multiple
+immune cell subsets in melanoma tissues. In 21 patients with clinical
+follow up, we found that higher densities of CD3+CD8+ T cells in tumor
+and stroma trended towards correlation with non-recurrence. In addition,
+CD68+HLA-DR- predicts poor prognosis (p<0.05), whether in tumor or
+stroma. Assessment of spatial distribution across all 40 tumors
+demonstrated that CD3+CD8+ cells are closer to CD68+ cells and Sox10+
+tumor cells when they express HLA-DR (p<0.001). Conversely, CD3+CD8+
+cells are significantly farther from tumor cells when they express Ki-67,
+(pResults: We were able to quantify and identify coordinates for multiple
+immune cell subsets in melanoma tissues. In 21 patients with clinical
+follow up, we found that higher densities of CD3+CD8+ T cells in tumor
+and stroma trended towards correlation with non-recurrence. In addition,
+CD68+HLA-DR- predicts poor prognosis (p<0.05), whether in tumor or
+stroma. Assessment of spatial distribution across all 40 tumors
+demonstrated that CD3+CD8+ cells are closer to CD68+ cells and Sox10+
+tumor cells when they express HLA-DR (p<0.001). Conversely, CD3+CD8+
+cells are significantly farther from tumor cells when they express Ki-67,
+(p<0.001). Among patients with clinical follow up, CD3+CD8+ cells were
+closer to CD68+HLA-DR- cells in recurrent patients (p Results: We were
+able to quantify and identify coordinates for multiple immune cell
+subsets in melanoma tissues. In 21 patients with clinical follow up, we
+found that higher densities of CD3+CD8+ T cells in tumor and stroma
+trended towards correlation with non-recurrence. In addition,
+CD68+HLA-DR- predicts poor prognosis (p<0.05), whether in tumor or
+stroma. Assessment of spatial distribution across all 40 tumors
+demonstrated that CD3+CD8+ cells are closer to CD68+ cells and Sox10+
+tumor cells when they express HLA-DR (p<0.001). Conversely, CD3+CD8+
+cells are significantly farther from tumor cells when they express Ki-67,
+(p<0.001). Among patients with clinical follow up, CD3+CD8+ cells were
+closer to CD68+HLA-DR- cells in recurrent patients (p < 0.05).
+
+Conclusion: Using qIF imaging and analysis we find that density and
+spatial relationships of immune cell subsets correlates with recurrence
+status. qIF may offer the potential for the development of prognostic
+biomarkers in stage II/III melanoma.
+
+

@@ -1,0 +1,36 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Oncostatin M reduces SLUG expression in lung adenocarcinoma cells
+through STAT1-PIAS4-dependent histone deacetylation
+
+
+We previously described that mesenchymal stem cells (MSCs) secrete a
+multifunctional cytokine - Oncostatin M (OSM) which effectively inhibited
+the metastasis and growth of LAC cells, and reduce the SLUG expression,
+leading to mesenchymal-epithelial transition (MET). Our data showed that
+the OSM-dependent inhibition of SLUG is mediated by a STAT1-dependent
+pathway through a transcriptional control. Previous studies have shown
+both positive and negative role of STAT1 in transcriptional regulation of
+its downstream target genes. However, the underlying mechanism of how
+STAT1 mediates the suppression of SLUG transcription remains elusive.To
+investigate the associated effector or mediator in OSM-induced
+STAT1-dependent SLUG suppression, we knocked down PIAS4 (PIAS4-KD), a
+co-repressor of STAT1, in A549 cells using lentiviral expressed short
+hairpin RNAs (shRNA). We demonstrated that knockdown of PIAS4 reversed
+the OSM-suppressed SLUG level and resulted in a higher SLUG mRNA in
+comparison to scrambled shRNA control. Moreover, we constructed SLUG
+promoter-driven luciferase expression reporters and test the effect of
+PIAS4 on SLUG promoter activity. We observed that PIAS4-KD cells
+expressed higher SLUG promoter activity than control cells, and OSM
+treatment further augmented this difference. In contrast, reconstitution
+of PIAS4 expression in PIAS4-KD cells decreased the SLUG promoter
+activity. Chromatin immuneprecipitation assay (ChIP) revealed the binding
+of PIAS4 to SLUG promoter region one hour after OSM administration. We
+also showed OSM-induced tyrosine-phosphorylated STAT1 interacts with
+PIAS4 and HDAC1 in a co-immunoprecipitation assay. Finally, the level of
+H3K9 acetylation in SLUG promoter region decreased significantly upon OSM
+treatment, and the pan HDAC inhibitor, trichostatin A (TSA) rescues
+OSM-induced suppression of SLUG promoter activity.Our findings
+demonstrated the underlying mechanism of the tumor-suppressive effect of
+OSM, and revealed a STAT1-PIAS4-dependent regulation of SLUG promoter
+through histone deacetylation.
+

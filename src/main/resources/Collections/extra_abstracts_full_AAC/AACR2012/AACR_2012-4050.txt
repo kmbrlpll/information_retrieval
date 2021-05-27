@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Monitoring of melanoma therapy with quantitative tissue cytometry
+of a panel of apoptosis markers
+
+
+Background: Monitoring of the apoptosis is a critical part of determining
+whether certain therapeutic agents are effective. However, given the
+complexity of the up- and down-regulation of AKT and ERK pathways, it can
+be difficult to determine the state of each cell in a solid tumor section
+using single-marker staining methods. Tissue cytometry (or in situ
+cytometry) is a means of obtaining quantitative, per-cell, multi-marker
+antigen expression data from a tissue section. While determining the
+per-cell, multi-marker phenotype of samples containing whole cells has
+become a common, if not ubiquitous, part of flow cytometry and
+high-content screening, the same multi-marker analysis on samples such as
+solid tumors, bone or other solid tissues, which are not easily broken
+down into individual cells, are not easily performed. Immunohistochemical
+(IHC) and immunofluorescence (IF) methods have been developed for
+labeling such samples; however, in order to obtain quantitative
+multi-marker results from IHC and IF samples there are several challenges
+that must be overcome to give analogous tissue cytometry results.
+Methods: To address this, a tissue cytometry platform was developed that
+integrates: a) multiplexed immunofluorescence staining protocols; b) a
+multispectral imaging system (Vectra or Nuance) that to isolate IHC or IF
+marker signals from one another and, for IF, from tissue
+autofluorescence; and c) a new pattern-recognition-based image analysis
+package (inForm) for automatically performing morphologic segmentation
+and extracting data from cells-of-interest; and d) easy-to-use, optimized
+staining kits for panels of markers. For this study, a staining panel was
+developed targeting phosphoepitopes of AKT, ERK, and S6, using antibodies
+of three different isotypes, with secondaries conjugated to Alexa
+fluorophores (A488, A555, and A647). DAPI was used as a counterstain.
+Proof of principle of the suitability of the marker panel and imaging and
+analysis methods was done in cell lines, monitoring the down regulation
+of pS6 by a PI3 Kinase Inhibitor and the down regulation of pERK by a Raf
+inhibitor. Clinical samples pre- and post-case for treatment of a
+melanoma with a PIK3CA inhibitor were analyzed and both nuclear and
+cytoplasmic signal levels for all three markers obtained. Results:
+Results from cell lines matched expected down regulation. In the clinical
+samples, downregulation of pERK in melanoma was observed following
+treatment with the PLK3CA Kinase inhibitor. Conclusions: Tissue
+segmentation accuracy was estimated at greater than 90%, based on visual
+review by pathologists. Performance of the platform for automated
+multiplexed tissue cytometry analyses supports its application to routine
+clinical studies and works for both IHC and IF staining methodologies. In
+this particular example, the monitoring of apoptosis in these clinical
+samples was effective and easy to perform.
+

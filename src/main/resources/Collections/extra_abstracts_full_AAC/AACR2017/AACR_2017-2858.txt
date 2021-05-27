@@ -1,0 +1,61 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Immuno-PET with site-specific labeled 89Zr-DFO-trastuzumab
+improves immuno-reactivity and tumor uptake in a subcutaneous HER2
+positive xenograft mouse model of ovarian adenocarcinoma.
+
+
+Introduction: The combination of PET with the specificity of monoclonal
+antibodies (mAbs), immuno-PET, is an attractive approach to improve tumor
+detection and mAb quantification. 89Zirconium (89Zr) is particularly
+well-matched for the long circulatory half-life of intact mAbs.
+Previously, the use of 89Zr has been limited by the lack of suitable
+methods for stable coupling to mAbs. In addition, the conventional
+labeling strategies with random introduction of a chelator potentially
+reduce antibody binding and affinity towards target. Here we demonstrate
+the application of an enzyme- and click chemistry-mediated methodology
+for site-specifically labeled 89Zr immuno-PET imaging probes and compare
+them to a random labeled probe.
+
+Experimental procedures: Trastuzumab was conjugated to the
+p-SCN-Bn-Deferoxamine (p-SCN-Bn-DFO) chelator in three alternate ways:
+(1) randomly on lysine residues or site-specifically on enzymatically
+treated glycans using either (2) ß-galactosidase or (3) endoglycosidase
+S2. DFO-trastuzumab was radiolabeled with 89Zr (89Zr-DFO-trastuzumab) and
+injected into SK-OV-3 tumor-bearing NMRI nude mice. In addition, a
+dose-escalation study was performed with co-injection of either 100 µg
+or 500 µg of unlabeled trastuzumab. At 24, 70 and 110 hours
+post-injection, mice underwent small animal PET/CT imaging for
+longitudinal assessment. Mice were euthanized and organs resected for ex
+vivo biodistribution after the last imaging time-point. Additionally, the
+immuno-reactivity and tracer stability in buffer and plasma were assessed
+for all three tracers.
+
+Results: All tracers were found to be stable for up to 5 days
+post-labeling. PET imaging at 24, 70 and 110 hours after injection of
+89Zr-DFO-trastuzumab revealed a gradual increase in tumor uptake and
+image contrast over the time-course. At 70 hours post-injection mean
+tumor uptakes were 6.7 ± 1.7, 13.9 ± 3.3 and 15.3 ± 3.8 % injected
+dose per gram tissue (%ID/g), for random, ß-galactosidase or
+endoglycosidase S2 labeled probes, respectively. Site-specific labeling
+significantly increased tumor PET uptake (One-way ANOVA, p Results: All
+tracers were found to be stable for up to 5 days post-labeling. PET
+imaging at 24, 70 and 110 hours after injection of 89Zr-DFO-trastuzumab
+revealed a gradual increase in tumor uptake and image contrast over the
+time-course. At 70 hours post-injection mean tumor uptakes were 6.7 ±
+1.7, 13.9 ± 3.3 and 15.3 ± 3.8 % injected dose per gram tissue (%ID/g),
+for random, ß-galactosidase or endoglycosidase S2 labeled probes,
+respectively. Site-specific labeling significantly increased tumor PET
+uptake (One-way ANOVA, p < 0.0001) at all time-points compared to random
+labeling. This was further supported by an immuno-reactivity of 93% for
+site-specific labeled probes compared to 80% for the random labeled
+trastuzumab. Titration with unlabeled trastuzumab did not affect tumor
+uptake considerably and the ex vivo biodistribution confirmed the data
+obtained by in vivo PET imaging.
+
+Conclusions: 89Zr-DFO-trastuzumab is well suited for specific immuno-PET
+imaging of HER2 positive ovarian cancer and site-specific labeling of
+trastuzumab presents with markedly higher immuno-reactivity and tumor
+specificity. These findings support the further development of
+site-specific radiolabeled monoclonal antibodies for immuno-PET.
+
+

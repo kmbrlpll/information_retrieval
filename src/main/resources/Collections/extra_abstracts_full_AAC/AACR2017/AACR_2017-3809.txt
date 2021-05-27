@@ -1,0 +1,34 @@
+Meeting: 2017 AACR Annual Meeting
+Title: SWI/SNF aberrations sensitize pancreatic cancer cells to DNA
+crosslinking agents.
+
+
+While gemcitabine has been the mainstay therapy for advanced pancreatic
+cancer, newer combination regimens (e.g. FOLFIRINOX) have extended
+patient survival, though carry greater toxicity. Biomarkers are needed to
+better stratify patients for appropriate therapy. Previously, we reported
+that one-third of pancreatic cancers harbor deletions or deleterious
+mutations in key subunits of the SWItch/Sucrose NonFermentable (SWI/SNF)
+chromatin remodeling complex. The SWI/SNF complex mobilizes nucleosomes
+on DNA, and plays a key role in modulating DNA transcription and repair.
+Thus, we hypothesized that pancreatic cancers with SWI/SNF aberrations
+might exhibit compromised DNA repair, and show increased sensitivity to
+DNA damaging agents. Here, we studied pancreatic cancer cell lines with
+deficient (or else exogenously reconstituted) SWI/SNF subunits, as well
+as normal pancreatic epithelial cells (HPDE) following SWI/SNF subunit
+knockdown. Cells were challenged with DNA damaging agents, including
+those used in current combination regimens, and then cell viability
+assayed. We found that pancreatic cells with SWI/SNF dysfunction showed
+markedly increased sensitivity to DNA damaging agents, and in particular
+DNA crosslinking agents (cisplatin and oxaliplatin). Assaying clearance
+of γH2AX foci confirmed that SWI/SNF dysfunction impaired DNA damage
+response/repair. Finally, by analyzing pancreatic cancer patient data
+(TCGA), we found that pancreatic cancers with SWI/SNF deficiency (subunit
+mutation and/or decreased expression) showed a strong trend towards
+extended survival with platinum containing chemo regimens. Thus, SWI/SNF
+dysfunction sensitizes pancreatic cancer cells to DNA crosslinking
+agents, and SWI/SNF mutation status may provide a useful biomarker to
+predict which patients are likely to benefit from platinum-containing
+chemotherapy regimens.
+
+

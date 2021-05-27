@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Simultaneous multi-omic measurement of nucleic-acids and proteins
+at 800-plex using single-molecule optical barcodes: Application to cancer
+immunotherapy
+
+
+Both ENCODE and TCGA projects highlighted the value of quantifying
+multiple biomarker classes (DNA, RNA, protein) from cancer tumor samples.
+In the case of cancer immunotherapy, the importance of measuring non-DNA
+markers (e.g., mRNA and proteins) becomes crucial, since cell-signaling,
+tumor microenvironment, and protein-protein interactions dominate over
+pure SNP-based (DNA) driver mutations in determining therapeutic
+response. Combining multiple data types together into a single correlated
+analysis, however, is adversely effected by the drastically different
+methodologies utilized for measurement. For example, the fluorescence
+signal intensity obtained from a camera imaging a protein array (e.g.,
+RPPA) is very difficult to correlate directly with an RNA-Sequencing
+count of a clonally amplified, cDNA-converted, mRNA molecule. New
+developments in multiple biomarker-class optical barcode counting
+significantly reduce this problem. Recent work from the Weissleder-lab
+[1] has shown how optical barcode technology can be utilized for
+multiplexed digital counting of proteins, and be combined with
+simultaneous digital counting of nucleic-acids on a single platform.In
+this study we describe single-molecule digital counting of mRNA and
+proteins in a single simultaneous reaction using 50,000 cells as input (
+1000 cells if only protein-targets). Since multiplexed digital protein
+counting with barcodes is relatively new, a detailed comparison study
+versus flow cytometry was performed. Short photo-cleavable 60-mer
+single-stranded DNA-tags that index, and hybridize to, NanoString Optical
+barcodes were covalently labeled on the following antibody targets: EGFR,
+pEGFR, HistoneH3, CD45, FoxP3, pAKT, PCNA, GAPDH, Her3, PD-L1, pS6, Her2,
+ERK, pERK, and a rabbit monoclonal control. Single-target flow cytometry
+was performed on three cell-lines (A431, A565, H520) using the unlabeled
+primary antibodies and detected using FITC-dye labeled goat anti-rabbit.
+The flow-data were then compared to simultaneous 15-plex optical barcode
+detection. In all cases, high correlation coefficients (> 0.9) were
+obtained when comparing any single-target (flow vs. 15-plex optical
+barcode) across all cell-lines (for above-background markers).
+Additionally, post-translational modifications were both imaged (F-IHC)
+and digitally counted, revealing a high correlation in response. These
+multiplexed protein measurements can now be simultaneously combined with
+the PanCancer Immune Profiling Panel, consisting of 770 mRNAs
+representing 24 infiltrating immune cell-types, as well as a number of
+antigen processing pathways, yielding an unprecedented multi-omics
+measurement of tumor immune response.[1] Ullal et al. Science
+Translational Medicine 6:219 (Jan 15 2014)
+

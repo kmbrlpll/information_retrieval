@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Integrated genomic analysis of chromosome 11 in squamous tumors
+
+
+Background: Studies by The Cancer Genome Atlas (TCGA) and others have
+identified regions of somatic copy number alteration (SCNA) in cervical
+squamous cell carcinoma (CESC), head and neck squamous cell carcinoma
+(HNSC), and lung squamous cell carcinoma (LUSC). These three tumor types
+exhibit frequent SCNAs in chromosome 11, including focal gains in 11q13
+and 11q22, as well as broad losses in 11p and 11q22-qter. Because
+expression levels are affected by underlying genomic events, we
+hypothesized that an integrated analysis of multiple genomic data types
+would provide increased ability to identify target genes in SCNA regions
+when compared to methods based on copy number alone while providing
+insight into mechanisms regulating expression. Examination of multiple
+tumor types provides a method to validate findings.Techniques: Gene
+expression (GE), DNA copy number (CN), DNA methylation (ME), and microRNA
+expression (miR) data were obtained from the TCGA studies of CESC, HNSC,
+and LUSC. For each tumor type, univariate and multivariate linear models
+were constructed on a gene-by-gene basis to investigate the effect of
+changes in CN, ME, and miR on GE. Analysis of model output provided an
+approach to identify target genes in SCNA regions and assess the effect
+of genomic alterations on expression.Results: Genome-wide GE, CN, ME, and
+miR data were available for n = 191 (CESC), n = 453 (HNSC), and n = 326
+(LUSC) tumor samples. Univariate modeling detected a strong overall
+association between GE and CN, as measured by the coefficient of
+determination (model R2). Underlying CN events produced high model R2 for
+widely recognized genes, e.g. FADD in HNSC and LUSC, and less well-known
+genes. For example, DCUN1D5 (11q22) exhibits high model R2 in all three
+tumor types. Univariate analyses suggest that ALDH3B1 (11q13), a
+predicted target of the tumor suppressor miR-205, is epigenetically
+regulated. Most samples exhibit high expression of miR-205 and moderate
+expression of ALDH3B1, but increased ALDH3B1 levels are seen when miR-205
+levels are low. This is notable in light of the striking negative
+association between miR-205 expression and methylation levels,
+particularly in CESC and LUSC. Fanconi anemia family member FANCF lies in
+a broad region of CN loss in 11p that contains no clear driver gene.
+Whereas univariate associations between FANCF GE and CN were moderate,
+multivariate analyses highlighted this gene because of the additional
+effect of ME on GE, which was pronounced in CESC and LUSC.Conclusion:
+Linear modeling techniques provide a flexible and powerful basis for
+performing integrated analysis of genomic data. Our approach produces
+predicted results when analyzing known cancer genes, highlights lesser
+known genes for future study, provides insight into gene regulation, and
+draws attention to genes relevant in multiple tumor types.
+

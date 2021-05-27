@@ -1,0 +1,39 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Optimizing small RNAseq of archived serum samples from the Janus
+Serum Bank - a search for cancer biomarkers
+
+
+IntroductionmiRNAs are a distinct class of small non-coding RNA molecules
+that regulate the expression of protein coding genes. They are present
+and stable in the cell-free body fluids such as plasma, serum and urine.
+The Janus Serum Bank contains 317 000 serum samples and more than 61 000
+incident cancer cases diagnosed during follow-up. It is well-suited for
+studies of miRNAs as early cancer biomarkers since samples are collected
+pre-diagnostically.AimTo establish a high-throughput sequencing approach
+for obtaining high quality miRNA expression profiles from archived Janus
+serum samples stored for up to 41 years. Further aims were to assess the
+quantity and quality of small RNAs in the samples, and establish
+guidelines for the optimal sequencing depth.MethodsTotal RNA was
+extracted from eight pilot samples using Trizol and miRNeasy (Qiagen)
+columns. Sequencing libraries were made using ScriptMiner (EpiCentre) and
+the samples were sequenced on one HiSeq (Illumina) lane. After adaptor
+removal the sequences were aligned unguided to the genome. Reads mapping
+to mirBASE and Ensembl smallRNA features were counted and sequencing
+saturation curves were calculated. DESeq was used for differential
+expression analyses.ResultsHigh-throughput sequencing results from the
+Janus samples, with storage times ranging from 13 to 39 years, show that
+miRNAs are preserved in the samples. High quality miRNA expression
+profiles, including on average 641 miRNAs per sample, were obtained from
+our pilot samples. Most of the uniquely mapped reads, on average 84%, are
+miRNA. We can also identify protein coding RNAs and other groups of small
+RNA, on average respectively 9% and 6% of the uniquely mapped reads. The
+preliminary results from sequencing saturation curves, tracking miRNA
+discovery in each sample as a measure of input reads, have identified a
+guideline for optimal sequencing depth.Conclusion and future
+perspectivesHere we have shown that the stability, quantity and quantity
+of long-term stored sera from the Janus Serum Bank are sufficient for
+obtaining high-quality miRNA expression profiles. High-throughput
+sequencing approach will be used in the search for miRNA expression
+profiles as early cancer biomarkers for early diagnosis, improved therapy
+and surveillance of cancer.
+

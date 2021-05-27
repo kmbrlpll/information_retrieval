@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: BMI and esophageal adenocarcinoma survival.
+
+
+Purpose: Though BMI is a known risk factor for esophageal adenocarcinoma
+(EA), the effect of BMI on EA overall survival remains unclear.
+
+Procedures: The source population is the Esophageal Cancer Study, an
+ongoing case-control and survivorship study of esophageal cancer patients
+recruited from Massachusets General Hospital and Dana-Farber Cancer
+Institute. In September of 2004, the study introduced a new patient
+questionnaire that included questions on weight throughout adulthood. For
+this study, we restricted our analysis to Caucasian, male patients with
+histologically confirmed EA who received their initial diagnosis between
+9/1/2004 and 12/31/2014, and who were older than age 40 at time of
+diagnosis (281 patients). Our exposures of interests were BMI categories
+(30) and ΔBMI (the average BMI past the age of 40 minus BMI at time of
+diagnosis), categorized the differences into 2 (people who lost
+substantial weight). We used an extended Cox proportional hazards model
+to obtain hazard ratios (HR) of BMI at diagnosis and ΔBMI, stratifying
+baseline hazard by cancer stage, having surgery as a time dependent
+covariate, and adjusting for radiation and chemotherapy treatment, age,
+sustained inability to eat solid foods after diagnosis, and smoking
+status.
+
+Results: Of the 282 patients that met our eligibility criteria, 211 men
+with complete information available were included in the analyses, and
+there were 131 recorded events during follow-up. In this study
+population, mean age at diagnosis was 63.7 years (SD±9.8), median
+survival was 2.6 years, mean average BMI after 40 years of age was 29.0
+kg/m2(SD±4.5), and mean BMI at diagnosis was 27.4 kg/m2(SD±4.4).
+Compared to obese subjects at diagnosis, underweight, healthy weight, and
+overweight at diagnosis respectively had an adjusted hazard ratios of
+death (HR) of 2.72(95% CI: 0.59-12.45), 1.79 (95%, CI: 1.06-3.02) and
+1.08 (95% CI: 0.65-1.74) (BMI category p=0.04), likely demonstrating
+reverse causation. Adjusting for confounders, the ΔBMI model shows that
+patients who lost substantial weight by diagnosis had the highest hazard
+of death, compared to patients who gained weight in late life prior to
+diagnosis (HR=0.70, 95% CI: 0.45-1.1) and patients who lost some weight
+(HR=0.55, 95% CI: 0.35-0.9)( ΔBMI category p=0.05). The strong effect of
+ΔBMI even after adjusting for patients’ inability or lack of desire to
+eat (anorexia), implicates cachexia as a possible independent mechanism
+of this association. In addition, age at dx, stage at diagnosis, and
+surgical resection were significant predictors of overall survival.
+
+Conclusion: Substantial change in BMI prior to diagnosis indicates poor
+overall survival in middle-aged and elderly Caucasian men with esophageal
+adenocarcinoma.
+
+

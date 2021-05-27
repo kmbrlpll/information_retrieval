@@ -1,0 +1,39 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Synthetic lethal killing of RAD54B-deficient cancer cells by PARP1
+silencing and inhibition
+
+
+Colorectal Cancer (CRC) is the second leading cause of cancer-related
+deaths in North America. Currently, many chemotherapeutics are
+non-specific and preferentially kill cancer cells based on their high
+proliferation rate. However, due to the lack of tumor specificity, many
+treatments have unwanted side effects. Accordingly, identifying novel
+therapeutic strategies and drug targets that better target and combat
+cancer are needed. To address this need, synthetic lethal (SL) approaches
+are now being explored in many cancer contexts. Synthetic lethality
+refers to the lethal combination of two independently viable mutations
+and functions by exploiting the aberrant genetics contained within cancer
+cells. RAD54B is an excellent candidate to exploit using a SL paradigm as
+it normally functions in homologous recombination repair (HRR) and
+hypomorphic expression and/or function are implicated in tumorigenesis in
+a wide array of cancers. We predict that RAD54B and PARP1 are SL, as
+BRCA1 and BRCA2, which also encode functions within HRR, are SL with
+PARP1. To identify PARP1 as a novel SL interactor of RAD54B, we employed
+an established RNAi-based screening approach along with a RAD54B isogenic
+CRC model. Conceptually, following PARP1 silencing, a SL interaction will
+result in fewer cells within the RAD54B-deficient cells relative to
+RAD54B-proficient controls. Accordingly, we sought to determine whether
+PARP1 silencing or inhibition (Olaparib or BMN673) would induce selective
+killing within RAD54B-deficient HCT116 cells relative to controls. As
+predicted, PARP1 silencing with either individual or pooled siRNA
+duplexes and inhibition with both Olaparib and BMN673 was associated with
+statistically significant decreases in the number of RAD54B-deficient
+cells relative to controls. To confirm the SL interaction did not occur
+due to de novo mutations within the RAD54B-deficient cells, dual
+silencing of RAD54B and PARP1 was performed within the parental line and
+confirmed the above findings. Finally, real-time cellular analyses were
+conducted and revealed the decrease in cell numbers was due to cellular
+cytotoxicity rather than cell cycle arrest. Collectively, these data show
+that RAD54B and PARP1 are SL, and identify PARP1 is a candidate lead
+target in CRCs harboring RAD54B defects.
+

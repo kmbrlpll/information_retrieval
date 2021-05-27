@@ -1,0 +1,29 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Slide-based multi-parametric immunophenotyping of human blood
+samples by cyclic immunofluorescence using the Accucyte-CyteFinder system.
+
+
+Immunophenotyping is an approach to measuring the abundance and
+functional state of immune cells as a means to understand mechanisms of
+homeostasis, identify biomarkers of disease, and measure therapeutic and
+adverse responses to drugs such as immune checkpoint inhibitors. Such
+studies are conventionally performed using flow cytometry together with
+combinations of immunomarkers that allow for identification of cell type,
+maturation state, and activation status. Here we describe a method for
+profiling circulating human leukocytes with highly-multiplexed
+immunofluorescence microscopy. The method has distinct advantages over
+flow cytometry in that it has greater sensitivity for detecting rare cell
+populations, allows for repeat analysis and long-term storage of precious
+biological samples, and obviates the requirement for spectral
+deconvolution. Using an open-source multiplexed immunofluorescence
+protocol referred to as cyclic immunofluorescence (CycIF), and
+commercially available reagents and instruments (AccuCyte and CyteFinder;
+RareCyte Inc.), we show that imaging can provide 16-plex, single-cell
+intensity data in addition to information on cellular morphology.
+Analytic technologies borrowed from the field of mass cytometry, such as
+ViSNE and Phenograph, allow for downstream phenotypic analysis and
+high-dimensional biomarker discovery. Current efforts now aim to expand
+the number of validated immune targets and combine imaging with
+single-cell picking and sequencing technologies.
+
+

@@ -1,0 +1,81 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Age-dependent DNA methylation in normal breast epithelium and
+breast cancer
+
+
+Breast cancer risk factors include age, genetic alterations, weight, diet
+and others. More recently accumulating evidence suggests that epigenetic
+alterations are frequent and play important role in breast cancer
+development and progression. Epigenetic alterations include changes in
+DNA methylation, histone modifications and miRNA expression in the
+absence of changes in DNA sequence. The epigenetic changes in cancer
+include global loss of DNA methylation that might lead to genomic
+instability and gain of methylation at many promoters of tumor suppressor
+genes that leads to gene silencing. Interestingly, work from our own
+laboratory and others have established that in many different tissues,
+DNA methylation changes due to age have similar patterns as to changes
+that occur in cancer. Therefore, the goal of this study is to identify
+and characterize age-dependent DNA methylation changes in normal breast
+epithelium and their contribution to breast cancer development. To
+differentiate between age-dependent and independent DNA methylation
+changes, we utilized DNA extracted from 27 primary human mammary
+epithelial cells (age range 33-82 years old) derived from adjacent or
+contralateral normal mammary tissue of breast cancer patients. We
+measured DNA methylation using a highly sensitive methodology developed
+in our laboratory called Digital Restriction Enzyme Analysis of
+Methylation (DREAM). We also studied DNA methylation in six different
+breast cancer cell lines by DREAM. We also used publically available 450K
+TCGA data for 685 breast tumor and 98 normal samples. Using bioinformatic
+approach, we have defined age dependent (Spearman R > |0.38|, p Breast
+cancer risk factors include age, genetic alterations, weight, diet and
+others. More recently accumulating evidence suggests that epigenetic
+alterations are frequent and play important role in breast cancer
+development and progression. Epigenetic alterations include changes in
+DNA methylation, histone modifications and miRNA expression in the
+absence of changes in DNA sequence. The epigenetic changes in cancer
+include global loss of DNA methylation that might lead to genomic
+instability and gain of methylation at many promoters of tumor suppressor
+genes that leads to gene silencing. Interestingly, work from our own
+laboratory and others have established that in many different tissues,
+DNA methylation changes due to age have similar patterns as to changes
+that occur in cancer. Therefore, the goal of this study is to identify
+and characterize age-dependent DNA methylation changes in normal breast
+epithelium and their contribution to breast cancer development. To
+differentiate between age-dependent and independent DNA methylation
+changes, we utilized DNA extracted from 27 primary human mammary
+epithelial cells (age range 33-82 years old) derived from adjacent or
+contralateral normal mammary tissue of breast cancer patients. We
+measured DNA methylation using a highly sensitive methodology developed
+in our laboratory called Digital Restriction Enzyme Analysis of
+Methylation (DREAM). We also studied DNA methylation in six different
+breast cancer cell lines by DREAM. We also used publically available 450K
+TCGA data for 685 breast tumor and 98 normal samples. Using bioinformatic
+approach, we have defined age dependent (Spearman R > |0.38|, p <0.05)
+and independent (Spearman R 0.05) sites that exhibit DNA methylation
+changes in normal breast epithelium. Interestingly, we found that the
+age-related genes are more seeded (exhibit low level of methylation) in
+their promoter CpG islands and are enriched for polycomb group target
+genes compared to the non-age related genes (p value = 0.032).
+Furthermore, these age-related genes (for example HOXD9, TDRD10, MYOD1,
+DPYS, GDA, GIPC2, FAM162B, LAMA1, PKDREJ, etc) have increased DNA
+methylation in tumors compared to the normal samples in TCGA with a
+methylation difference of up to 50%. These changes are significantly
+different compared to not-age related genes or random genes (p0.05) sites
+that exhibit DNA methylation changes in normal breast epithelium.
+Interestingly, we found that the age-related genes are more seeded
+(exhibit low level of methylation) in their promoter CpG islands and are
+enriched for polycomb group target genes compared to the non-age related
+genes (p value = 0.032). Furthermore, these age-related genes (for
+example HOXD9, TDRD10, MYOD1, DPYS, GDA, GIPC2, FAM162B, LAMA1, PKDREJ,
+etc) have increased DNA methylation in tumors compared to the normal
+samples in TCGA with a methylation difference of up to 50%. These changes
+are significantly different compared to not-age related genes or random
+genes (p<0.0001). The age-related genes that gained DNA methylation in
+tumors in TCGA dataset, were also hypermethylated in breast cancer cell
+lines compared to immortalized human mammary epithelial cells. Thirty one
+percent of the common genes between TCGA data set and breast cancer cell
+lines, showed decreased mRNA expression in RNA-seq data available through
+the TCGA data portal. Therefore, in this study we have characterized
+age-dependent epigenetic changes in normal breast epithelium as potential
+breast cancer risk associated alterations.
+

@@ -1,0 +1,37 @@
+Meeting: 2017 AACR Annual Meeting
+Title: GRK5 promotes a mesenchymal transition in prostate cancer.
+
+
+Locally advanced and metastatic prostate cancer is incurable, despite
+decades of research targeting the activity of the androgen receptor (AR).
+Our lab previously identified G protein-coupled receptor 5 (GRK5) for its
+ability to regulate PCa progression, independent of AR activity. GRK5
+partially partitions to the nucleus, wherein it has been shown to
+regulate the transcriptome in non-PCa models. To globally elucidate the
+mechanistic impact of GRK5 on PCa progression, we are investigating the
+impact of GRK5 on the PCa transcriptome. We hypothesize that GRK5’s
+regulation of the PCa transcriptome promotes tumor progression. To assay
+the effect of GRK5 on the PCa transcriptome, RNA sequencing was performed
+in two cell lines: PC3 Control (PC3 shGFP) and PC3 GRK5 Knockdown (PC3
+shGRK5). Ontologic analysis identified the epithelial–mesenchymal
+transition (EMT) as being affected when GRK5 is depleted. The
+epithelial–mesenchymal transition (EMT) is highly associated with
+promoting PCa progression and chemoresistance, thus we selected this
+pathway for further investigation. Confirmatory western blot analysis and
+quantitative PCR (qPCR) validated that depleting GRK5 suppresses the
+expression of the mesenchymal markers Vimentin and N-Cadherin. Similarly,
+overexpression of GRK5 increases the expression of these mesenchymal
+markers. Stable overexpression of GRK5 promotes cells to develop a
+spindle-like morphology, indicative of a mesenchymal state. GRK5 mediates
+this mesenchymal transition through increasing the expression of the EMT
+transcription factor, Twist1. Further analysis identifies that GRK5
+activity promotes in vitro invasion. Cell lines overexpressing GRK5
+demonstrate an increase in resistance to docetaxel, the mainstay
+chemotherapy for advanced PCa. Overexpression of mutated forms of GRK5
+that are relegated to the nucleus are able recapitulated all aforesaid
+changes, arguing that the nuclear activity of GRK5 mediates this effect.
+Collectively, this data presents a novel mechanism promoting PCa
+progression, independent of AR activity. Future work seeks to assay the
+ability of GRK5 to promote metastasis in vivo in mouse models.
+
+

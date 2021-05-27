@@ -1,0 +1,34 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Tandem profiling of 5-methyl and 5-hydroxymethylcytosine in
+glioblastoma identifies tumor-specific distribution of
+5-hydroxymethylcytosine and associations with patient survival
+
+
+Glioblastomas exhibit widespread molecular alterations including a highly
+distorted epigenome. Genome-wide assessment of epigenetic alterations to
+cytosines in glioblastoma has largely been limited to 5-methylcytosine
+(5mC). 5-hydroxymethylcytosine (5hmC) is an additional cytosine
+modification that is deregulated in cancer, though the extent and context
+of these alterations at single cytosine resolution remain unclear.
+Through parallel processing of DNA with bisulfite and oxidative bisulfite
+treatments on Illumina 450K arrays we resolved both 5mC and 5hmC in 30
+glioblastomas. We developed and applied a novel technique for estimating
+5mC, 5hmC, and unmethylated proportions from array data to glioblastoma
+tissues and compare with normal brain tissue. Genomic distribution of
+5hmC was associated with features of transcription despite the
+glioblastoma genome being relatively depleted of 5hmC. When integrating
+5mC and 5hmC data using a Gaussian finite mixture model approach, we
+observed significant associations between 5hmC levels and gene-sets
+involved in immune and RNA regulatory processes while high 5mC classes
+were associated with receptor-mediated processes and cancer gene-sets.
+Significant differences in patient survival were observed among classes
+of 5hmC obtained from a recursively partitioned mixture model. Gene
+expression across epigenetic enzymes including methyltransferases and
+TETs was also investigated for relation with patterns and levels of 5hmC
+and 5mC. Analyses of elevated 5hmC with alternative splicing events that
+may promote disease progression are underway. Together, our results
+provide a genome-wide map of 5hmC in glioblastoma, indicate that
+transcription patterns as well as disrupted processes are associated with
+5hmC patterns, and highlight the potential clinical prognostic utility of
+5hmC in cancer.
+

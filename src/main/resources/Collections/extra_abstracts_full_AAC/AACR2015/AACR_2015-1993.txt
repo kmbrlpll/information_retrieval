@@ -1,0 +1,76 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Global correlation analysis of HOXC6 expression in ovarian cancer
+
+
+Introduction:HOXC6 is a member of the HOX gene family known to be
+dysregulated in many cancers. We previously reported gene and protein
+down-regulation of HOXC6 in ovarian cancer tissue and serum of high-grade
+serous carcinoma patients. This study evaluates the relationship of the
+HOXC6 gene expression with other genes from transcriptional microarray
+analysis of 92 ovarian tissues.Methods:Transcriptional microarray data
+from ovarian tissue was analyzed from 67 whole tissue samples and 25
+micro-dissected samples. The 25 samples consisted of 9 malignant tumor
+tissues, 9 normal epithelia (NE) tissues and 7 Benign Tumor tissues.
+Genes with significant direct or reverse correlations to HOXC6 were
+initially identified from the 67-sample set (FDR Introduction:HOXC6 is a
+member of the HOX gene family known to be dysregulated in many cancers.
+We previously reported gene and protein down-regulation of HOXC6 in
+ovarian cancer tissue and serum of high-grade serous carcinoma patients.
+This study evaluates the relationship of the HOXC6 gene expression with
+other genes from transcriptional microarray analysis of 92 ovarian
+tissues.Methods:Transcriptional microarray data from ovarian tissue was
+analyzed from 67 whole tissue samples and 25 micro-dissected samples. The
+25 samples consisted of 9 malignant tumor tissues, 9 normal epithelia
+(NE) tissues and 7 Benign Tumor tissues. Genes with significant direct or
+reverse correlations to HOXC6 were initially identified from the
+67-sample set (FDR < 0.05). Correlated genes identified in the 67-sample
+set were then reanalyzed to reconfirm their significance against the
+HOXC6 in 25-sample set (FDR Introduction:HOXC6 is a member of the HOX
+gene family known to be dysregulated in many cancers. We previously
+reported gene and protein down-regulation of HOXC6 in ovarian cancer
+tissue and serum of high-grade serous carcinoma patients. This study
+evaluates the relationship of the HOXC6 gene expression with other genes
+from transcriptional microarray analysis of 92 ovarian
+tissues.Methods:Transcriptional microarray data from ovarian tissue was
+analyzed from 67 whole tissue samples and 25 micro-dissected samples. The
+25 samples consisted of 9 malignant tumor tissues, 9 normal epithelia
+(NE) tissues and 7 Benign Tumor tissues. Genes with significant direct or
+reverse correlations to HOXC6 were initially identified from the
+67-sample set (FDR < 0.05). Correlated genes identified in the 67-sample
+set were then reanalyzed to reconfirm their significance against the
+HOXC6 in 25-sample set (FDR < 0.05). To verify validity of correlations
+in cancer, expression values of genes in this second group were compared
+between NE and malignant samples using ANOVA (FDR 2.0 were used in
+unsupervised hierarchical clustering against both NE and malignant
+samples.Results:The absolute values of correlation coefficients (|r|) in
+116 significant genes ranged from 0.43-0.81; 33 had (|r|) > 0.70, and 65
+had |FC| > 2.0. Of note because of their known association to ovarian
+cancer, this analysis revealed PBX3, MAL2, TPD52, ZEB2, PTTG1, KLK7, and
+KLK8. GO enrichment analysis identified developmental process (36 genes),
+cell differentiation (34), anatomical structure development (36), and
+regulation of signaling (27) consistent with HOXC6 known functions (FDR
+2.0 were used in unsupervised hierarchical clustering against both NE and
+malignant samples.Results:The absolute values of correlation coefficients
+(|r|) in 116 significant genes ranged from 0.43-0.81; 33 had (|r|) >
+0.70, and 65 had |FC| > 2.0. Of note because of their known association
+to ovarian cancer, this analysis revealed PBX3, MAL2, TPD52, ZEB2, PTTG1,
+KLK7, and KLK8. GO enrichment analysis identified developmental process
+(36 genes), cell differentiation (34), anatomical structure development
+(36), and regulation of signaling (27) consistent with HOXC6 known
+functions (FDR < 0.05). Protein-protein interaction networks revealed
+SMAD3 to be the central node with the largest cluster of connectivity
+linked to other HOXC6 correlated genes including PAX8, ZEB2 and UCHL5.
+Unsupervised hierarchical clustering analysis clearly distinguished
+between NE obtained from non-tumorous and NE obtained from tumorous
+tissues.Discussion:Overall this analysis demonstrates a strong
+correlation between HOXC6 expression in ovarian tissue and multiple
+developmental genes. The hierarchical clustering results may indicate
+that effects of the reported genes are not limited to the tumor tissue
+and can be traced back to normal epithelial cells. Therefore, future
+study of large sample sets of micro-dissected malignant and nearby normal
+epithelia to identify underlying developmental pathways in ovarian cancer
+will increase understanding of growth mechanisms of ovarian tumors and
+their interaction with normal cells in the microenvironment. Our previous
+work along with these new findings could potentially be used for future
+study of identifying ovarian cancer specific biomarkers.
+

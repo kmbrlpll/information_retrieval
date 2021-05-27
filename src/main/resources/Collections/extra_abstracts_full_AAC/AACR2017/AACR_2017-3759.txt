@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: PiggyBac-manufactured anti-BCMA Centyrin-based CAR-T therapeutic
+exhibits improved potency and durability.
+
+
+Chimeric antigen receptor (CAR) T cells have been extremely effective in
+treating acute lymphoblastic leukemia and have shown promise against
+other malignancies including multiple myeloma (MM). However, relatively
+poor potency and durability continue to limit efficacy. Addressing these
+shortcomings, we have developed a novel CAR-T cell therapeutic with
+enhanced stem cell memory phenotype, reduced immunogenicity, and no
+evidence of tonic activity.
+
+P-BCMA-101 employs a BCMA-specific Centyrin rather than a single chain
+variable fragment (scFv) for antigen detection and is engineered using
+piggyBac (PB). Centyrins are fully human and have similar binding
+affinities but are smaller, more thermostable and predicted to be less
+immunogenic than a scFv. Furthermore, PB modification of human T cells
+requires only in vitro transcribed mRNA and plasmid DNA, eliminating the
+need for lentivirus or γ–retrovirus and resulting in time and cost
+savings. Additionally, the increased cargo capacity of PB permits the
+incorporation of a safety switch and a selectable gene into the product.
+The former is incorporated for optional depletion in vivo in case of
+adverse events and the latter allows enrichment of CARTyrin+ cells using
+the non-genotoxic drug methotrexate (MTX), leading to greater consistency
+in patient product material.
+
+Characterization of P-BCMA-101 revealed > 70% of cells possessed a
+stem-cell memory phenotype (i.e. CD45RA+ CCR7+ CD62L+ CD95+) and >95% of
+the cells were CARTyrin+. In addition, no tonic signaling or T cell
+exhaustion was observed, highlighted by low levels of PD-1, Lag3, and
+Tim-3. Cells exhibit specific and robust in vitro target-cell killing,
+cytokine production, and proliferation in response to BCMA+ tumor cells.
+In vivo anti-tumor efficacy of P-BCMA-101 has been evaluated in NSG mice
+bearing luciferase+ MM.1S cells, an aggressive human MM-derived cell
+line, monitoring tumor growth by bioluminescent imaging (BLI). Following
+tumor implantation, animals received a single IV administration of either
+4 x 106 or 12 x 106 P-BCMA-101 cells. All untreated control animals
+succumbed to disease within four weeks of the treatment date. Conversely,
+tumor burden was reduced to the limit of detection by BLI within 7 days
+of p-BCMA-101 treatment. As opposed to lentivirus-based products in the
+same animal model, P-BCMA-101 persists and expands in the animals,
+eliminates tumors from relapse and prolong survival, with most animals
+surviving 100 days post-tumor implant. Finally, the effectiveness of the
+safety switch has been demonstrated both in vitro and in vivo.
+
+P-BCMA-101 is the first-in-class of Centyrin-based CAR therapeutics
+modified using PB and is predicted to have improved potency and
+durability given the phenotype and non-immunogenic properties of
+Centryrins. We plan to initiate a phase I clinical trial of P-BCMA-101
+for the treatment of patients with relapsed and/or refractory MM.
+
+

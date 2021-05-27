@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Prevalence of GITR expression and pharmacodynamic (PD) biomarkers
+in syngeneic tumor models treated by a GITR agonist (GITRL-Fc).
+
+
+GITRL (Glucocorticoid-Induced Tumor Necrosis Factor Receptor Ligand,
+TNFSF18) is a member of the tumor necrosis factor (TNF) ligand
+superfamily. GITRL binds and activates the co-stimulatory surface
+receptor GITR, which promotes proliferation and activation of effector T
+cells (Teff) and inhibits suppressive activity of regulatory T cells
+(Treg). It is thus hypothesized that co-stimulation of GITR by agonist
+agents will promote anti-tumor immunity. We generated a novel single-gene
+GITRL trimer fused to an immunoglobulin Fc domain (GITRL-Fc) that shows
+robust single agent antitumor efficacy and immune effects in multiple
+syngeneic mouse models, suggesting its potential benefit in cancer
+immunotherapy To investigate the prevalence of GITR expression in human
+tumors, RNA-Seq data analyses of 33 tumor types in TCGA showed GITR is
+highly expressed in a subset of solid tumors, including head & neck,
+lung, breast, esophageal, and bladder cancers. In most solid tumors, GITR
+expression correlated poorly with T cell markers, implying that GITR may
+not be exclusive to immune cells and may be expressed in tumor cells as
+well. Similar findings emerged from RNA-Seq data analysis of
+patient-derived xenograft (PDX) samples from 24 tumor types. The gene
+expression data was corroborated by immunohistochemistry (IHC) analysis
+of GITR expression in 17 tumor types which showed that in addition to
+immune cells, GITR was expressed on tumor cell membranes. A
+multi-platform approach was taken to investigate GITRL-Fc pharmacodynamic
+(PD) biomarkers in tumors and in matched whole blood samples from mice
+bearing CT26 colon, 4T1 breast, and B16F10 melanoma carcinoma models.
+Global gene expression levels were profiled by microarray on treated and
+control tissues. We also monitored the changes of immune cell populations
+and cytokine secretions by flow cytometry, Luminex and IHC. Immune gene
+changes were more robust in tumors than in blood samples. In tumor
+samples, GITRL-Fc increased the gene expression associated with T cells,
+CD8 T cells, cytotoxicity, Th1 cells, interferon gamma (IFN-γ), natural
+killer cells, Teff cells, and T cell activation markers. These gene
+changes were validated by quantitative real-time PCR. Similarly, flow
+cytometry analysis showed that GITRL-Fc promoted activation of CD4+
+effector cells, decreased Treg frequency, and increased the ratio of CD8+
+T cell/Treg in the tumor. GITRL-Fc also modulated secretion of cytokines
+in splenocytes, including an increase in IFN-γ. Taken together, the PD
+biomarker changes in immune-related gene expression, immune cell
+populations, and cytokine secretions observed in these preclinical tumor
+models are consistent with GITRL-Fc mechanism of action and demonstrated
+target engagement of GITRL-Fc. Additional approaches, including in-silico
+sorting, to monitor rare immune cell populations in tumor samples will be
+discussed.
+
+

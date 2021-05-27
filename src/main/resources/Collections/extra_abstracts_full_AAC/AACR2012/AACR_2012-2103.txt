@@ -1,0 +1,44 @@
+Meeting: 2012 AACR Annual Meeting
+Title: High resolution melting analysis: a sensitive screening method for
+the detection of MDM2 promotor SNP309
+
+
+Background: Murine double minutes-2 (MDM2) protein plays a key role in
+physiological processes like growth arrest, senescence and apoptosis.
+MDM2 negatively regulates key proteins like p53 by inhibiting its
+transcriptional activity and promoting its proteosomal degradation
+through ubiquitinylation. In turn, the MDM2 expression is regulated in
+part by a p53-responsive promotor. This negative feedback control
+mechanism assures that both p53 and MDM2 are kept at very low levels in
+proliferating cells. However, in about half of all human tumors, the
+normal regulation of p53 might be disrupted through direct overexpression
+of MDM2 caused by e.g. MDM2 gene amplification or a T to G substitution
+(SNP309) in the promotor region of MDM2. High resolution melting analysis
+(HRMA) provides a valid approach to efficiently detect DNA mutations. The
+current study aimed at validating and implementing HRMA for screening of
+colorectal cancer patients (CRC) to detect MDM2 promotor SNP309.
+Pyrosequencing was used to confirm and characterize HRMA results.
+Materials and Methods: First, HRMA sensitivity was established using a
+cell line and a FFPE (formalin-fixed paraffin embedded) dilution model.
+Then, the sensitivity of pyrosequencing to detect MDM2 promotor SNP309
+was evaluated using the same dilution models. Next, HRMA was validated on
+10 cell lines. Since the MDM2 SNP309 status for these cell lines was
+unavailable, all HRMA results were confirmed and characterized by
+pyrosequencing. Results: The cell line dilution model revealed a
+detection limit of 6% while the detection limit in a background of FFPE
+wild-type DNA was found to be 3%. The detection limit of pyrosequencing
+to analyze SNP309 in a background of wild-type cell line DNA seems to be
+between 20% and 15%. In a background of FFPE wild-type DNA, the detection
+limit seems to be 3%. HRMA revealed abnormal melting patterns in 5/10
+cell lines and pyrosequencing confirmed the presence of 2 homozygous
+(G/G) and 3 heterozygous (G/T) genotypes. Preliminary results on FFPE
+material from CRC patient samples showed abnormal melting patterns in
+6/13 samples. These are currently being confirmed using pyrosequencing.
+Discussion: HRMA was found to be a fast, efficient, sensitive and
+reproducible screening method for MDM2 promotor SNP309 detection with a
+detection limit between 3% and 6%, which is higher than that of
+conventional sequencing methods. Preliminary results indicate that HRMA
+can be used as a screening method for MDM2 SNP309 by which DNA from FFPE
+tissues can be tested. Currently, a cohort of CRC patients is being
+tested for the presence of SNP309 using HRMA and pyrosequencing.
+

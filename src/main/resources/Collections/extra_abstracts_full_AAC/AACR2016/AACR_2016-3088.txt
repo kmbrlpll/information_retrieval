@@ -1,0 +1,40 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Transcription factor as target: Novel small molecule inhibits
+FOXM1 DNA binding and oncogenic gene products
+
+
+Forkhead box M1 (FOXM1) is a transcription factor of considerable
+importance. Aberrant overabundance of FOXM1 through mutations in upstream
+regulators or gene amplification is now known to be a driving factor of
+most human cancers. Further, FOXM1 has prognostic value as expression
+correlates with severity of disease. Thus, chemical inhibition of FOXM1
+has become a major goal. To address this need, we designed a novel in
+vitro assay to detect disruption of FOXM1 DNA binding. We executed a
+screen of 400,000 compounds from the NIH Molecular Library Small Molecule
+Repository, consisting of diverse drug-like molecules intended as
+starting points for medicinal chemistry lead development. After iterative
+and orthogonal counter screens, we ultimately identified the small
+molecule FDI-6 as a potent inhibitor of FOXM1. We characterized the
+perturbation in detail by biophysical analyses and confirmed that FDI-6
+binds FOXM1 protein directly. The molecule was cytotoxic to multiple
+cancer cell lines (GI50 10M) and we demonstrated that the inhibitor
+displaces FOXM1 protein from promoters of target genes (AURKB, CCNB1,
+CDC25B) using an MCF-7 breast cancer model. To generalize the effect, we
+used chromatin immunoprecipitation and next generation sequencing
+(ChIPseq) to show that the inhibitor physically displaces FOXM1 from
+consensus binding motifs across the entire genome, reducing FOXM1 peaks
+by an average of over 60%. Transcriptome-wide expression profiling by
+RNAseq further confirmed that this displacement by FDI-6 selectively
+down-regulates the global FOXM1 transcriptional program, suppressing
+mitotic entry and cell-cycle progression. Importantly, we found that
+FDI-6 is specific for FOXM1 and has no effect on the expression of genes
+regulated by related forkhead family factors, which exhibit homology with
+the DNA binding domain of FOXM1. We are now evaluating the efficacy of
+this compound in allograft mouse models of FOXM1-driven breast cancer.
+Our study shows that the genomic interaction of this clinically important
+transcription factor can now be manipulated with small molecules to
+regulate the expression of key gene families. This improves our ability
+to probe transcription factor function, helps establish the oncogenic
+roles in different disease contexts and demonstrates clear potential for
+FOXM1 to be pursued as a clinical target in the future.
+

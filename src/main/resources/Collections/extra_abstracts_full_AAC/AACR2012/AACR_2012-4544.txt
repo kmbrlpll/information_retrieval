@@ -1,0 +1,52 @@
+Meeting: 2012 AACR Annual Meeting
+Title: On using textural information from longitudinal PET scans for
+predicting tumor response
+
+
+Purpose: Early therapy response prediction, employing biomarkers such as
+[F-18]-fluorodeoxyglucose (FDG) followed with positron emission
+tomography (PET) for imaging the tumor metabolic activity, is a very
+actively researched topic. Traditionally, only the first order intensity
+based feature estimates extracted from the longitudinal scans are used
+for the response evaluations. Nonetheless, lesion heterogeneity computed
+from the higher order textures of the baseline scan prior to treatment
+has been recently found to be correlating well with the final outcome.
+The aim of this study is to establish the significance of tumor texture
+in follow up evaluations. Methods: 15 patients suffering from metastatic
+colorectal cancer and treated with cetuximab were selected for the study.
+Baseline FDG PET scans were acquired prior to treatment and the follow up
+scanned at 1 week after 1st dose of treatment was investigated for early
+response. One to five lesions were identified per patient. Intensity
+based features (IF) computed from the standardized uptake value (SUV)
+image include SUVmax (maximum activity), SUVmean (mean activity), SUVpeak
+(highest mean activity in 1mL sphere within tumor), tumor lesion volume
+(TLV) in mL, total lesion activity (TLA), TLA = SUVmean x TLV in SUVmL
+and total lesion energy (TLE), TLE = SUVmean^2 x TLV in SUV^2mL. Texture
+covariates (TF) estimated include 11 activity level run length matrix
+(ALRL) features, 11 activity level size zone matrix (ALSZ) features, 7
+activity level co occurrence matrix (ALCM) features, 5 activity level
+difference matrix (ALDC) features and 19 activity level histogram (ALHS)
+features. Response indices (RI) were computed as the % change with
+respect to baseline after adding up covariates over all lesions per
+patient under study. The dynamic range of IF was investigated in
+baseline. A Cox proportional hazards regression model was fit with RIs
+and the time dependent receiver operating characteristics (ROC) was
+determined. Leave one-out cross validation (LOCV) was performed to
+investigate the fitting of the model. The concordance measure with the
+time to progression (TTP) was determined in each of the scenarios.
+Results: The baseline IF dynamic ranges are listed below representing
+(Median Standard Deviation, Minimum - Maximum) the respective covariates.
+SUVmax(6.33 2.34, 2.40 - 12.28). SUVpeak(4.86 2.01, 1.64 - 10.52).
+SUVmean(4.05 1.52, 1.61 - 8.39). TLV(5.71 155.91, 0.48 - 1182.42). TLA
+(29.58 872.80, 2.11 - 6620.88). TLE (152.79 5138.32, 3.55 - 38963.30).
+Cox model on LOCV with the IF only covariate set and the IF+TF set
+resulted in concordance of 0.6570 and 0.6764 resp. Conclusion: The
+results with the current data denote an added value in using textural
+information for therapy response evaluation. Moreover, therapy response
+could be predicted as early as 1 week after 1st dose of treatment from
+the feature estimates. Acknowledgements: This work is financially
+supported by KU Leuven's Concerted Research Action GOA/11/006, Research
+Foundation - Flanders (FWO), IWT Agency for Innovation by Science and
+Technology - Applied Biomedical Research (TBM) project 070717 and IBBT-KU
+Leuven Future Health Department.
+

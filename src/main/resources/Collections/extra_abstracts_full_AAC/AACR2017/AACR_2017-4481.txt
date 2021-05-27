@@ -1,0 +1,42 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Translation initiation factor DAP5 plays an essential role in
+translational control of breast cancer metastasis.
+
+
+Metastasis is the cause of 90% of cancer-related deaths. Selective mRNA
+translation has been found to be crucial for breast cancer development,
+progression and metastasis; however, there is a poor biological and
+mechanistic understanding of the role of translation in these processes.
+Our work and others have pioneered an understanding of translational
+regulation in breast cancer. We have previously shown that overexpression
+of initiation factor eIF4GI in advanced breast cancer cells selectively
+increases the translation of mRNAs encoding survival, cell cycle
+inhibition, and DNA damage and repair proteins, among other DNA
+damage-protective mRNAs. eIF4G consists of three family members: eIF4GI,
+eIF4GII, and the poorly studied eIF4G homolog, DAP5, the subject of this
+study. DAP5 lacks the N-terminal domain for eIF4E and PABP binding. DAP5
+is therefore suspected to promote eIF4E-independent or IRES-driven
+translation of mRNAs involved in cell stress and oncogenesis, but its
+role in metastasis hasn’t been investigated. We analyzed the NCI human
+tissue genome cancer atlas (TCGA) and found that higher DAP5 mRNA
+expression is strongly associated with estrogen receptor negative breast
+cancer metastasis with lower overall survival. We then engineered a
+highly metastatic breast cancer cell line MDA-MB-231TR to express
+dox-inducible shRNA to DAP5 or a non-silencing (NS) control. Tumors were
+developed in clinically relevant orthotopic mouse models, with and
+without DAP5 silencing by addition of dox to the drinking water.
+Remarkably, reduction of DAP5 expression by ~70% had no impact on primary
+tumor growth but fully eliminated metastasis to the lung. Genome-wide
+transcriptome and translatome analysis of DAP5 and in vivo
+ultraviolet-crosslinking and high-throughput sequencing (HITS-CLIP)
+identified specific mRNAs that interact directly with DAP5. A significant
+fraction of DAP5 mRNA targets are involved in cell death and survival,
+cell proliferation, cell mobility, DNA repair and translation initiation
+and do not have IRESs, suggesting a novel role for DAP5 in a
+non-classical translation initiation process upon cellular stress and
+metastasis. Our results suggest that the translation initiation factor
+DAP5 likely plays a critical role in breast cancer metastasis by a unique
+mechanism for metastasis-specific translation initiation and provides new
+concepts for therapeutic strategies involving translational regulation.
+
+

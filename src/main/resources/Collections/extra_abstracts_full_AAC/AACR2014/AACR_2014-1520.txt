@@ -1,0 +1,42 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Development of low-cost high throughput screening pipeline for
+detecting germline cancer causing mutations in Hispanic populations
+
+
+Cancer is a leading cause of non-communicable morbidity and mortality
+worldwide. Hispanics are the largest and fastest growing ethnic group in
+the U.S. and the largest population group in the Americas. Due to health
+care disparities, this population remains understudied and under-screened
+for cancer causing gene mutations. While many genes that predispose
+individuals for different cancers have been discovered, the prevalence of
+mutations in these genes remains largely undetermined in many
+populations. Developing customized screening panels and screening for
+novel variants for large population samples can be expensive and time
+consuming. We have developed a low-cost, high-throughput pipeline and
+method to screen 480 customizable amplicons (20 genes, 144Kbp) for up to
+384 samples per run. By combining a bioinformatics pipeline for design
+and analysis with Fluidigm microfluidics PCR and Illumina MiSeq, we can
+quickly screen multiple cancer panels at a high depth of coverage, at a
+low cost per sample. The amplicon design pipeline provides ability to
+develop amplicon primer sets and pooling strategies. Libraries of 384
+barcoded samples are run in a single MiSeq lane. Sequencing data is
+analyzed by an automated pipeline, which aligns using BWA-MEM, calls
+variants using VarScan 2, and annotates variants using multiple datasets
+using Annovar. We have applied these pipelines and methods to identify
+mutation in known cancer genes, such as APC, MSH2, MLH1, BRCA1, and
+BRCA2, in several hundred Hispanic individuals with familial and
+early-onset colon and breast cancer. While many of the mutations have
+been previously reported, we have identified several novel mutations that
+appear to have Amerindian origin. Moreover, a few are shared among many
+individuals in isolated geographic locations, suggesting founder effects
+are common in some of these populations. Over 50% of the patients
+screened to date have no mutations in our cancer panels; we plan to use
+these samples to screen for novel genes using whole exome or genome
+sequencing in the next phase of our study. In conclusion, we have
+developed a low-cost, high-throughput pipeline for screening customizable
+panels for known and novel mutations. Our study is an initial step to
+assess prevalence of known cancer causing genes and identify novel
+genes/mutations that contribute to different cancers in the Hispanic
+community. These discoveries provide a foundation for early detection,
+prevention, and treatment of familial cancers in Hispanic populations.
+

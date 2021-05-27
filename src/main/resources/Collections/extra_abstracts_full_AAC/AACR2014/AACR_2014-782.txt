@@ -1,0 +1,43 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Transmembrane 2-3 loop domain of the proton coupled folate
+transporter (PCFT) forms a novel reentrant loop structure and is
+functionally important
+
+
+The proton coupled folate transporter (PCFT) is a proton-folate symporter
+with a twelve transmembrane domain (TMD) structure. Human PCFT (hPCFT) is
+highly expressed in many solid tumors and has an acidic pH optimum,
+suggesting its high activity in the acidic tumor microenvironment. Our
+recent studies have focused on exploiting PCFT for targeting solid tumors
+with novel cytotoxic antifolates. Predicted topology models suggest that
+the loop domain between TMDs 2 and 3 resides in the cytosol. However,
+mutations in TMD2-3 loop residues Asp109 or Arg113 result in loss of PCFT
+activity, suggesting an important role in transport activity.
+Additionally, TMD2 may itself form a part of the substrate binding
+domain, suggesting functional importance for TMD2 residues. Using
+site-directed mutagenesis, we replaced each of the seven cysteine (cys)
+residues of hPCFT with serine, creating functional cys-less PCFT for use
+in substituted cys accessibility methods (SCAM). We then used
+site-directed mutagenesis to create 34 single cys mutants spanning TMD2
+and the TMD 2-3 loop region (positions 85-118) in a cys-less PCFT
+background. These mutants were transfected into R1-11 HeLa cells, which
+express no endogenous folate transporters. We measured [3H]methotrexate
+uptake at pH 5.5 as a readout of PCFT activity and confirmed PCFT protein
+expression by western blotting. All 34 mutants were detected on westerns
+and 29 mutants were active, while W107C, D109C, G112C, R113C, and R114C
+were inactive. Using functionally active mutants, we performed pull-down
+assays with 2-aminoethyl methanethiosulfonate-biotin (MTSEA-biotin) and
+steptavidin beads, in order to determine the aqueous accessibility of
+each mutant. We found that mutants G93C, F94W, G105C, A106C, S110C, and
+L116C reacted with MTSEA-biotin, suggesting that these residues are
+aqueous-accessible. For G93C, F94C, and L116C, MTSEA-biotin labeling was
+inhibited by pemetrexed pretreatment, and MTSEA-biotin treatment
+inhibited transport activity of G93C and F94C. Our results suggest that
+the TMD 2-3 loop domain is aqueous accessible and must form a novel
+functionally important reentrant loop structure. Additionally, residues
+located in TMD2 (Gly93 and Phe94) appear to play a key role in substrate
+binding to PCFT. Better understanding of functional and structural
+determinants of PCFT membrane transport will be critical to the
+development of novel PCFT-selective antifolate drugs for targeting solid
+tumors.
+

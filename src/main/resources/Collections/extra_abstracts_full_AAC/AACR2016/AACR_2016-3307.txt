@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Label-free high throughput microfluidic device for the isolation
+and single cell multiplex gene expression analysis of circulating tumor
+cells from breast cancer patients
+
+
+Introduction and Objective: The metastasis of cancer is preceded by the
+dissemination of cancer cells from the primary tumor site to remote sites
+via the blood circulation. The presence of circulating tumor cells (CTCs)
+in the peripheral blood represents a strong and independent prognostic
+factor for decreased disease-free and overall survival. Immune-affinity
+based capture, although being the most commonly used method for the
+isolation of CTCs, offers low throughput (1mL/hr) and have considerably
+cell loss caused by the heterogeneous expression of biomarkers on CTCs.
+Various label-free approaches utilizing the physical properties of CTCs
+have been developed to overcome the limitations, such as micro-filters,
+microscale laminar vortices, inertial migration of particles, and
+integrated systems. Here we present an inertial microfluidic-based
+separation technique for high throughput and label-free isolation of CTCs
+yielding the highest throughput with high CTC recovery and high blood
+cell removal among all the label-free technologies. The isolated CTC
+populations were further analyzed for single cell multiplex gene
+expression analysis.Methods: The PDMS-made inertial microfluidic device
+has 637 mm in length with 56 corners, 500 m in width, and 100 m in
+height. The separation of CTCs is driven by two main forces: (i) inertial
+force that focuses the cells into streamlines, and (ii) drag force from
+Dean flow that migrates the focused cells to various positions based on
+size. Device is optimized with MCF-7 and Panc-1 cell line within PBS
+buffer solution and diluted blood, and is tested in patients with breast
+cancer on an average of 5 mL of whole blood processed through double
+devices in series. CTCs isolated were analyzed for tumor specific protein
+markers and genomic characterization is done using singe cell analysis
+techniques.Results: Samples are processed through the inertial
+microfluidic device and CTCs are enriched in second outlet based on size
+difference between CTCs and blood cells. Device is optimized to operate
+at an extremely high throughput of 2500 L/min with high recovery (greater
+than 90%) and high white blood cells (WBCs) removal (5 log orders). In
+patient samples, we identified CTCs in 38 of 40 (95%) breast patients
+with metastatic disease (5.44.6 CTC/mL) with low WBC contamination
+(663647 WBC/mL). Based on the gene expression, both inter and intra
+patient heterogeneity of CTCs at the single cell level were discovered
+among the tested patient samples.Conclusion: The study of CTCs could have
+a direct impact upon society by presenting novel ways to address one of
+the major hurdles in cancer research - early detection - and will foster
+the advancement of science and engineering via the exploration of new
+druggable targets approaches and the further understanding of the
+pharmacodynamics.
+

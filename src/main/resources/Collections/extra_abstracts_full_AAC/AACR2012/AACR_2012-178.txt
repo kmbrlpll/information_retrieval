@@ -1,0 +1,39 @@
+Meeting: 2012 AACR Annual Meeting
+Title: A novel mechanism of hypoxia mediated cell cycle dysregulation:
+miR-134 targets CDKN2A
+
+
+Background: Among the various factors in the tumor microenvironment
+influencing tumor growth and progression, hypoxia plays a key role in
+promoting tumor growth and resistance to therapeutics. However, a
+mechanistic understanding of the complicated biological interplay between
+the stromal framework (hypoxia context) and malignant regions of the same
+tumor remains an unmet need. In this study, we examined the molecular
+networks of interplay between hypoxia and miRNA deregulation. Study
+methods and results: In this study, we profiled the expression of miRNAs
+in ovarian cancer cells upon exposure to hypoxia (1% O2) using microRNA
+microarray (Agilent v14). We found that significant numbers of miRNAs are
+dysregulated. In A2780 and Skov3 ovarian cancer cells, using a
+statistical cutoff (p1.5), normoxia v/s short term (48hrs) and long term
+(6 days) hypoxia exposure, we found that 23 MicroRNAs were down regulated
+whereas 11 were upregulated. Among these, miR-134 validated to be
+overexpressed under hypoxia by 3 - 4 fold in A2780 and SKOV3 ovarian
+cancer cells consistently across the short and long term time points.
+Upon bioinformatics analyses for target sites of commonly up regulated
+miRNAs, we found that miR-134 was predicted to target CDKN2A (Miranda,
+microT, PITA, RNA22, TargetScan). CDKN2A is a protein involved in cell
+cycle control, precisely regulating cell cycle G1 control through
+complexing with CDK4. Considering the fact that CDKN2A expression is lost
+in several cancer types and its correlation with the aggressive tumor
+growth, we checked expression of CDKN2A under hypoxic conditions. CDKN2A
+was down-regulated under hypoxia by 55% and was inversely correlated with
+miR-134 expression in cell lines tested. Upon transfection of A2780
+ovarian cancer cells with miR-134 microRNA mimics, we observed consistent
+down regulation of CDKN2A by >40%, compared to scrambled control
+transfected cells. This further proves the role of miR-134 in
+deregulating CDKN2A expression in ovarian cancer. Discussion: This study
+provides new insights into miRNA-134's role in regulating cell cycle in
+the context of hypoxia mediated signaling. These findings may have
+implications for new approaches targeted at curbing the deleterious
+effects of hypoxia on tumor growth.
+

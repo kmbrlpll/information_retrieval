@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identification of genomic alterations associated with metastasis
+in clear cell renal cell carcinoma
+
+
+Clear cell renal cell carcinoma (ccRCC) is the most abundant and lethal
+form of RCC and about one third of patients exhibit metastasis with poor
+prognosis. At the molecular level, metastasis is accompanied by multiple
+genetic and epigenetic alterations including genomic copy number changes.
+Identification of novel genomic markers and underlying mechanisms
+associated with metastasis could result in better therapeutic management
+of ccRCC patients. In this study, aCGH was performed using Agilent 244K
+arrays on DNA from 83 primary and 64 metastatic unmatched ccRCC
+fresh-frozen specimens and profiles were compared using Fisher's Exact
+test (FDR, p-value 0.05), with a minimum threshold difference of 15%.
+Significant copy number changes were found at 15 loci between primary and
+metastatic lesions, after excluding loci enriched in normal CNVs. Loss of
+2p16.1-p15, 2q33.1-q33.3, 3q11.1-q13.2, 3q22.3, 10q21.3-q22.1 and 11p15.4
+were more frequent in primary lesions, while nine aberrations (gain of
+5q23.3-q31.1, 7q21.3-q22.1, 16p11.2, 20q11.1-q13.12, 21p11.2-q11.1 and
+loss of 4p15.2-p14, 4q, 9p24.3-p13.3 and 18q21.2-q21.31) were more
+frequent in metastatic lesions. While some of these aberrations have
+previously been implicated in metastasis, nine were novel. In order to
+further examine the association of these aberrations with metastasis, the
+frequencies of the 15 aberrations were determined in primary ccRCCs
+publicly available from TCGA, stratified into low (stages I and II,
+n=287) and high stage groups (III and IV, n=202). Eight of the nine
+aberrations that were more frequent in metastatic lesions, were also
+observed at a higher frequency in high stage TCGA primary ccRCC (four
+were significantly higher between Stages I and IV). Little or no trend
+was observed for the six aberrations more frequent in primary lesions.In
+order to identify alterations associated with specific metastatic sites,
+aCGH profiles were compared across metastatic lesions at sites
+represented by at least 6 specimens: 15 lung, 7 bone, 6 lymph node, 6
+pancreas and 6 brain metastatic ccRCC specimens. Gain of 7q11 and
+8p12-p11, and loss of 6q14-q22 and 10q were specifically observed in lung
+metastases. Gain of chr12 and loss of chr22 were frequent in bone, loss
+of 1q32-q41 and gain of 22q11 in lymph node, and loss of 2p22.3, 8p12,
+8q12-q13 and 8q24 in pancreatic lesions. No specific aberrations were
+found in brain lesions.In conclusion, this study has confirmed known and
+identified novel genomic loci associated with metastasis in ccRCC.
+Determination of candidate genes of the aberrations will further our
+understanding of metastatic progression of ccRCC and together with
+examination of metastatic site-specific alterations, may assist in
+selecting patients with metastatic disease for appropriate targeted
+therapy and lead to improved overall survival.
+

@@ -1,0 +1,55 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Therapeutic potential of miR-195 in non-small cell lung cancer.
+
+
+Introduction: MicroRNAs (miRNAs) play important roles in nearly all
+cellular physiological and pathological pathways. Dysregulated miRNAs
+have been shown to contribute to the tumorigenesis of most cancers,
+including lung cancer. We aim to modulate miRNA activity as a potential
+therapeutic avenue either alone or in combination with other drugs.
+
+Methods: A high throughput screen with a library of 1,239 miRNA mimics
+was performed in NSCLC cells to identify miRNAs that both inhibit cancer
+cell growth and sensitize cells to microtubule-targeting agents (MTAs).
+The functions of candidate miRNA(s) were validated both in vitro and in
+vivo.
+
+Results: miR-195 causes G1 phase arrest by targeting CCND3. miR-195
+induces apoptosis and senescence and represses migration and invasion of
+NSCLC cells by targeting BIRC5. Conversely, over-expression of CCND3
+compromises the inhibition of cell growth by miR-195; over-expression of
+BIRC5 abrogates the inhibition of cell growth, migration and invasion by
+miR-195. miR-195 also synergizes with MTAs paclitaxel and eribulin to
+inhibit the growth of NSCLC cells by regulating CHEK1.
+
+Lung tumors with miR-195 over-expression grow significantly slower and
+respond better to eribulin treatment than tumors in control animals.
+Induction of miR-195 expression after tumor initiation slows tumor growth
+and that combination of doxycycline with eribulin shows stronger
+inhibition on tumor growth than eribulin. In addition, miR-195 inhibits
+lung tumor metastasis.
+
+Analysis of miRNA and gene expression profiles from TCGA shows that
+miR-195 expression is negatively correlated with that of BIRC5 and CHEK1.
+Clinical data from TCGA show that miR-195 is significantly down-regulated
+in lung tumors compared to adjacent normal tissues and that its
+down-regulation in lung cancer patients is associated with worse
+survival. TCGA data also show that BIRC5 and CHEK1 are significantly
+up-regulated in lung tumors compared to adjacent normal tissues and that
+their up-regulation is associated with worse survival.
+
+Conclusions: We report the identification of miR-195 as a tumor
+suppressor and chemotherapy sensitizer in NSCLC mediated by its
+repression of CCND3, BIRC5 and CHEK1. Mouse xenografts with miR-195
+over-expression or induced miR-195 expression indicate that tumors with
+high miR-195 expression are more sensitive to drug treatment and that
+induction of miR-195 in tumors represses tumor growth and sensitizes
+tumors to eribulin treatment. These results highlight the potential use
+of miR-195 expression level as a biomarker to predict patient response to
+MTAs and of miR-195 mimics as a therapeutic agent or adjuvant to
+chemotherapy.
+
+This project was supported by NIH R01 CA129632 and CPRIT Training Grant
+RP140105.
+
+

@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Low frequency variant detection and tissue-of-origin exploration
+using liquid biopsies.
+
+
+The promise of liquid biopsy assays lies in the non-invasive monitoring
+of diseases, such as cancer, through circulating, cell-free DNA (cfDNA)
+or circulating tumor cell DNA. This may assist in advancing early-stage
+diagnosis while simultaneously monitoring treatment response over time.
+Since these materials are often limited, most liquid biopsy assays
+incorporate targeted sequencing to enable cost-effective deep coverage of
+target loci for detection of low frequency pathogenic variants. Yet a
+critical aspect in attaining the necessary sensitivity is an assay that
+produces uniform, comprehensive coverage from low DNA input quantities.
+We have developed a liquid biopsy workflow to enable low frequency
+variant detection from a 10 mL blood draw using the Promega Maxwell RSC
+combined with Swift Biosciences Accel-NGS 2S® library preparation
+methodologies. In addition, we explore whether methylation patterns of
+the extracted cfDNA possess information of the tissue-of-origin.
+
+Whole blood samples were collected in Streck cell-free DNA BCT vials from
+patients with late stage cancer and cfDNA was extracted with the Promega
+Maxwell RSC. This instrument yielded DNA outputs ranging from 8-32 ng,
+with a size profile defined by a predominant peak of ~170bp and a mean
+Alu repeat qPCR integrity score of 0.22, characteristic of high quality
+cfDNA lacking cellular DNA content. A total of 20 ng cfDNA was used to
+make an Accel-NGS 2S Hyb library followed by hybridization capture using
+Agilent SureSelect Human All Exon probes. The Accel-NGS 2S Hyb Kit
+exhibits a 90% library conversion rate with cfDNA and provides high
+complexity libraries with uniform target coverage. In addition, molecular
+barcodes were incorporated to label each library molecule uniquely prior
+to PCR amplification. These molecular barcodes were utilized for accurate
+removal of PCR duplicates while simultaneously preserving naturally
+occurring fragmentation and strand duplicates to maximize data recovery.
+Secondly, these barcoded molecules were grouped to generate consensus
+sequences after removal of false positives originating from PCR and
+sequencing errors. Variant calling was performed using Vardict and Lofreq
+enabling highly sensitive and precise detection of variants down to a
+0.5% allele frequency.
+
+In parallel, we have developed a workflow to determine if the epigenetic
+status of cfDNA can identify tissue-of-origin. This workflow utilizes the
+Accel-NGS Methyl-Seq DNA Library Kit to enable unbiased characterization
+from low (5 ng) cfDNA inputs. Through whole genome bisulfite sequencing,
+using a priori knowledge of differentially methylated regions
+characteristic of different human tissues, we can identify the
+predominant tissue source of cfDNA in blood.
+
+

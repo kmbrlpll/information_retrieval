@@ -1,0 +1,37 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Identification of cell signaling pathway associated miRNAs in
+cancer cells using a systems biological approach.
+
+
+MicroRNAs(miRNAs) are single-stranded, non-coding RNA molecules and on
+average only 22 nucleotides long that regulate gene expression at the
+post-transcriptional level. Target predictions of miRNA based on sequence
+are limited due to too many candidates resulting in high false positives.
+To overcome this limitation functional target prediction approaches have
+been investigated with mRNA and miRNA expression data. These approaches
+can be used in the computational assessment of functional miRNA-target
+association. However, these approaches with miRNA-mRNA association were
+not enough to verify real functional targets at protein level, which
+could affect on cell signaling pathway. Therefore, in the present study
+to compensate this limitation, we developed a novel correlation based
+approach (sequence-independence) to predict potential miRNA targets with
+genomic and proteomic data, protein, miRNA and mRNA array data, in NCI-60
+cells. To establish a prediction model for identifying the association of
+miRNA-cell signaling pathways by analyzing genomic and proteomic data, we
+performed a correlation based method among miRNA, mRNA and protein
+expression profile. Using this approach, we generated the Association
+score matrix (ASM) between miRNA and protein probes. Based on ASM, we
+finally generated the highly associated miRNAs with cell signaling
+pathways called miRNA-pathway association map (miRPM). To validate our
+approach, we used miR-500 as an example to investigate the hypothetical
+target regulation mechanisms predicted by miRPM. We confirmed in-vitro
+that mir-500 highly is associated with ERK/MAPK signaling pathway in
+melanoma and breast cancer cells. Furthermore, we found PP1/PP2 might be
+a direct target of miR-500 to regulate activating the ERK/MAPK pathway.
+In conclusion, we developed a novel expression profile based approach to
+systematically predict potential miRNA functional targets which play
+critical roles in cell signaling pathways from the NCI-60 genomic and
+proteomic data at whole genomic scale. Our approach might be applied to
+investigate the unknown regulatory role of miRNAs in signaling pathways
+and gene regulatory networks.
+

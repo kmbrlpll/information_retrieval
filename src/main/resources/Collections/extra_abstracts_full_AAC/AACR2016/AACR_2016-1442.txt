@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Comprehensive TIL profiling by simultaneous DNA barcoding of
+proteins, RNA and natively paired immune receptors from millions of
+single cells
+
+
+We present high resolution single cell profiling of tumor infiltrating
+lymphocytes (TILs) for immune research and cancer target discovery. TILs
+hold the key to understanding anti-cancer immune responses but remain
+challenging to study due to their vast range of phenotypes, functions and
+abundance. Current approaches to TIL analysis such as immune receptor
+sequencing, flow cytometry, and RNA expression profiling are limited,
+since each approach gives only partial insights into a TIL repertoire and
+their results cannot be connected at the single cell level. We therefore
+built a technology for simultaneous determination of immune receptor
+sequences, surface protein phenotypes and RNA expression profiles from
+single TILs at unprecedented scale. Able to process millions of cells per
+experiment, the throughput of our emulsion-based DNA barcoding method
+allows deep and unbiased TIL profiling directly from tumor tissue without
+the need for cell sorting, stimulation or culture.Briefly, single-cell
+dissociated biopsy tissue samples are stained with DNA-labeled surface
+marker antibodies and isolated into individual 65-pL microdroplets by a
+microfluidic emulsion chip. Within the droplets, cellular RNAs are
+reverse transcribed into cDNA, and a barcoding step attaches
+droplet-specific DNA barcodes to all of the cDNAs as well as to the DNA
+labels carried by the marker antibodies. At the end of the reaction, all
+products associated with a single input cell carry the same DNA barcode
+sequence, allowing subsequent high throughput sequencing to assign the
+products to their cell of origin. During analysis the full-length immune
+receptor pairs for each B- and T-cell are reconstructed and the marker
+antibody tags are identified and quantified along with dozens of
+additional mRNA markers, resulting in a high-dimensional dataset
+containing integrated immune receptor clone, protein marker and RNA
+expression profiles of thousands to hundreds of thousands of individual
+lymphocytes in the input sample.We have successfully applied our method
+to a variety of healthy blood and tissue samples including human cancers
+such as pancreatic, ovarian and lung cancer, profiling millions of
+B-cells and T-cells present in the samples. We identify likely
+tumor-reactive TILs by finding BCR or TCR clonal lineages associated with
+particular protein and RNA signatures, including expression of
+immunosuppression markers such as PD-1 and CTLA-4. Following candidate
+selection, full-length BCR and TCR pairs are synthesized and expressed
+for functional screening and target antigen identification. By providing
+an unprecedented view into TIL diversity across a wide range of disease
+and sample types, our platform also has widespread potential for basic
+and applied research into the patient immune response to cancer and the
+dynamics of immunotherapy.
+

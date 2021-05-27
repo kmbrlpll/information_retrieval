@@ -1,0 +1,23 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Detection of PIWI-piRNAS in the mitochondria of human normal and
+cancer cells
+
+
+Piwi-interacting RNAs (piRNAs) are a class of small non-coding RNAs that
+regulate differentiation in primordial germ cells, found mainly in the
+nucleus and cytoplasm. However, despite the essentiality of mitochondria
+to intrinsic apoptosis and energy metabolism, the presence of piRNAs (and
+their associated Piwi proteins) in this organelle remains largely
+unknown.In this study, a public database comparison of mitochondrial
+RNA-seq data from human normal (HEK293) and cancer (HeLa and 143B) cells
+revealed the presence of 29 mature piRNA sequences, with 12 of those
+piRNA sequences perfectly matching 7 tRNAs (Phe, Val, Leu, His, Ser, Glu,
+and Thr), suggesting piRNAs and tRNAs derive from a common precursor
+mitochondrial polycistronic transcript. Consistent with their known
+interaction with piRNAs, further examination revealed the presence of
+PIWI proteins in mitochondria. Moreover, the majority of the 29 piRNA
+sequences overlapped multiple longer sequences (expressed sequence tags,
+ESTs) that uniquely mapped to the mitochondrial genome. To our knowledge,
+this is the first report of Piwi and piRNAs in the mitochondria of
+mammalian normal and cancer cells.
+

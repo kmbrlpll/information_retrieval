@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Quantifying immune oncology markers across multiple tissue
+sections with digital image analysis
+
+
+Immuno-oncology (IO) approaches requires an understanding of the types of
+immune cells present in the tumor microenvironment (TME) as well as the
+precise localization of these immune cells. However, the acquisition of
+spatial IO information is technically challenging, due to the requirement
+for multiplex labeling of immune cells and the need to categorize their
+location and biomarker content simultaneously. Additionally, the
+multiplex biomarker panel must be engineered in advance based on a priori
+assumptions about the correct marker combinations and their location
+(such as the tumor epithelial nests, TME, or specifically the
+tumor-stroma interface). This limits the ability to implement novel,
+scientifically driven assessments into an existing clinical trial which
+already has defined immunohistochemistry endpoints. To meet the needs of
+IO clinical trials, Flagship Biosciences has developed a proprietary
+image analysis platform, FACTS (Feature Analysis on Complementary Tissue
+Sections), to deduce both the necessary multiplex staining information
+and the spatial context of IO markers based on the utilization of
+existing monochrome or multiplex stained slides from a clinical trial. In
+this study, we demonstrate the utility of this approach to deliver
+biologically relevant endpoints important for IO clinical trials. First,
+we performed single IO biomarker staining for CD4, CD8 and FoxP3 in
+colorectal cancer patient samples and developed a novel image analysis
+approach that allowed for the accurate quantification of multiple IO
+markers within specific margins of the tumor microenvironment across
+multiple tissue sections. For each biomarker the positive cell
+populations were binned based on distance from the tumor-TME boundary
+(i.e.% positive cells within 100M, 200M or 500M of the tumor-TME
+boundary). Next, we used computational alignment for evaluating the
+co-localization of multiple immune cell biomarkers from serial sections
+with single stains for CD4, CD8 or FoxP3. We demonstrate that the
+information extracted from multiple single stained serial sections can be
+used to generate co-localization information for multiple IO markers in a
+given patient sample. Lastly, we developed multiplex chromogenic assays
+for these same markers, analyzed the multiplex-stained slides with image
+analysis, and derived the same analysis endpoints for the multiplex
+slides to the digitally aligned individually labeled sections. The study
+found that similar interpretation of the inflammatory landscape was
+possible with multiplex-stained slides and digital alignment of
+monoplex-stained slides. In summary, this study demonstrated a novel
+image analysis approach that allows for quantification of IO markers
+utilizing clinically relevant wet assay technologies and existing IHC
+stained slides derived from an immune-oncology clinical trial.
+

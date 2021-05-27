@@ -1,0 +1,36 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Genome-Wide Gene Expression analysis and molecular portraits
+regulated by NASEp, an inhibitor of CREB and CBP interaction, in
+non-small cell lung cancer.
+
+
+Cyclic-AMP response element-binding protein (CREB)-cAMP response element
+(CRE) transcriptional pathway plays a critical role in the growth and
+survival of non-small cell lung cancer (NSCLC) cells. Recruitment of CREB
+binding protein (CBP) is essential for the transcriptional activity of
+CREB. However, there is no specific drug in use blocking CREB-CRE
+transcriptional pathway which may become a new therapeutic target in
+anti-cancer strategy. Naphthol AS-E phosphate (NASEp) was identified as
+an inhibitor of CREB transcriptional activity by binding to the KIX
+domain of CBP and blocking its access to the KID domain in CREB. Our
+objective was to identify which genes and molecular pathways could be
+affected by NASEp that may alter target molecules through the regulation
+of a subset of CRE-containing genes. The effects of the CREB inhibitor
+NASEp on A549 lung carcinoma cells were examined on an Affymetrix HuGene
+1.0 expression microarray and a list of significantly differentially
+regulated genes was generated. Gene Set Enrichment Analysis (GSEA) shows
+down-regulation of multiple cancer-related pathways including
+proliferation, RAS signaling, drug resistance and metastasis. Most
+significantly, a strong negative correlation with Rosty Cervical Cancer
+Proliferation Cluster, shows that NASEp inhibits the same set of genes
+which are up regulated by the E6 and E7 viral oncogenes. These viral
+elements are known to interact with CBP, which is the direct target of
+NASEp. Since CBP is known to be a cofactor to multiple transcription
+factors, we performed an additional round of GSEA using the motif-based
+Transcription Factor Targets gene set collection and represented the
+results using a Cytoscape network diagram to illustrate the
+multifactorial effects of NASEp. Particularly, we focused that several
+transcription factors regulating cell cycle-related genes. This study
+implicates potential combinational blockage of CREB and cell
+cycle-regulated proteins as a cancer therapy.
+

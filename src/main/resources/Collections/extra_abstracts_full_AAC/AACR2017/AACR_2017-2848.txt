@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Identifying and targeting competing endogenous RNA (ceRNAs)
+networks to inhibit lung metastasis in triple negative breast cancer.
+
+
+Introduction: Triple negative breast cancer (TNBC), the most aggressive
+breast cancer subtype, has high incidence rate of lung metastasis. Not
+only protein coding transcripts, but also non-coding transcriptome, such
+as microRNAs (miRNAs) and long non-coding RNAs (lncRNAs), have active
+roles in cancer progression and metastasis. Additionally, lncRNAs can act
+as sponges for miRNAs. Here, we aimed i) to construct the first
+mRNA-miRNA-lncRNA competing endogenous RNA (ceRNA) network controlling
+metastasis in TNBC, and ii) to prevent lung metastasis by targeting
+identified central candidate genes.
+
+Material/Method: We established primary tumor and human-in-mouse (HIM)
+and mouse-in-mouse (MIM) lung metastasis models using TNBC cell lines in
+nude and Balb/c mice, respectively. We visualized both primary and
+metastatic tumors using in vivo imaging system, harvested tumors and
+performed both RNA and small RNA sequencing. We obtained differentially
+expressed miRNAs, mRNAs and lncRNAs between primary and metastatic
+tumors. Using several bioinformatics tools, we did enrichment analyses,
+miRNA target predictions, and network construction. Identified central
+lncRNAs were overexpressed or knocked down and will be tested in in vitro
+and vivo metastasis-related assays.
+
+Results and Conclusions: We obtained 45 and 91 miRNAs which were
+differentially expressed between primary and metastatic tumors in HIM and
+MIM models, respectively. A miRNA family with an established role in
+metastasis as well as several other miRNAs was identified as highly
+differentially expressed in the same direction in both models. Moreover,
+1127 and 3350 mRNAs, and 85 and 111 lncRNAs were differentially expressed
+in HIM and MIM models, respectively. Metastasis-related processes based
+on differentially expressed mRNAs were enriched in the data. We then
+integrated these three layers of data, functional enrichments, pathway
+maps and target predictions to construct the first ceRNA network
+controlling lung metastasis in TNBCs. Currently, we are testing the
+functional roles of candidate lncRNAs in in vitro and in vivo metastasis
+assays. Ultimately, our study will uncover novel lncRNAs that can be used
+as potential targets and/or biomarkers in breast-to-lung metastasis.
+
+Funding: This study is supported by TUBITAK-CNRS Bilateral Grant with
+project number 214S364.
+
+

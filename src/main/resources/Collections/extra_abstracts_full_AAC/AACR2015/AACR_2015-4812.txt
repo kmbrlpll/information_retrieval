@@ -1,0 +1,49 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Creation of a novel gene delivery system for high throughput
+candidate oncogene validation
+
+
+IntroductionThe purpose of this study is to develop an in vivo, high
+throughput candidate oncogene validation screen, focusing specifically on
+hepatocellular carcinoma (HCC) specific oncogenes.Experimental
+ProcedureLiver cancer is globally the 6th most commonly diagnosed cancer
+and the 2nd most deadly cancer. There are few therapies available,
+especially for late stages of the disease, and most treatments only
+prolong survival by months. Although much research has been done to
+determine the mutations responsible for driving HCC, including
+large-scale analysis by TCGA, it is becoming obvious that HCC involves
+numerous cell pathways and that many driver mutations are found in a
+small percentage of tumors. As groups such as TCGA discover more
+candidate driver mutations, a high throughput method to validate those
+genes in vivo is needed. We have engineered a novel gene delivery system,
+called Ad-PB, that uses recombinant adenoviruses to deliver piggyBac
+transposons expressing individual candidate oncogenes. The piggyBac
+transposase (PBase) mediates transfer of the transposon cargo from the
+adenoviral to the host cell genome where it can be stably expressed.Our
+current screen is designed to simultaneously test 31 candidate oncogenes
+previously discovered by characterizing recurrent copy number alterations
+in tumors from patients with HCC verses matched nontumor tissue.
+Expression of these 31 genes within the piggyBac transposon is
+Cre-inducible, and each candidate is tagged with a unique barcode to
+facilitate tracking of individual genes within adenoviral pools. The
+plasmids encoding the genes are grown up using a recombinant virus
+(adenovirus) which is then pooled, purified, and injected into Alb-Cre;
+Trp53R27OH/+ mice. Expression of PBase from a separate adeno-associated
+virus mediates gene transfer into hepatocytes. Cells that express bona
+fide oncogenes will then be predisposed to HCC formation. Tumors with
+matched nontumor tissue will be analyzed using the Illumina platform to
+sequence the unique barcodes associated with each gene. Statistical
+models using sequence reads from both tumor and nontumor tissue will
+allow us to determine which candidates are enriched in tumor tissue.
+Positive controls for the screen are known oncogenes, a -cateninN90 and
+N-rasG12V that will be co-delivered using the Ad-PB
+system.ResultsPreliminary results using the Ad-PB system to deliver a
+mCherry transposon demonstrated that the Ad-PB system can cause stable
+transgene integration and expression for up to 20 weeks. In addition, a
+semi-quantitative method has been established to perform barcode scanning
+to assess the relative abundance of individual candidate genes within a
+pool of adenoviruses.ConclusionThe Ad-PB system will allow simultaneous
+validation of candidate oncogenes and although we are verifying the
+system using HCC specific oncogenes, we expect that it will be adaptable
+for many gene delivery systems.
+

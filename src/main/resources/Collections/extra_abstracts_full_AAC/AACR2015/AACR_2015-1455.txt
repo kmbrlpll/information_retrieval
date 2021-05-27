@@ -1,0 +1,67 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Next generation sequencing of human tumor xenografts is
+significantly improved by prior depletion of mouse cells
+
+
+Human tumor xenografts represent the gold standard method for research
+areas such as drug discovery, cancer stem cell biology, and metastasis
+prediction. When compared to in vitro cell culture models, human tumor
+xenografts show a higher validity for most assays (DeRose et al.,
+2011).During the growth phase in vivo, xenografted tissue is vascularized
+and infiltrated by cells of murine origin. The level of infiltration is
+highly dependent on multiple factors like tumor subtype, growth rate, and
+region of transplantation. However, even when these factors are kept
+constant, the amount and composition of infiltrating mouse cells is
+highly variable. Due to this, molecular downstream analyses such as
+microarray based expression profiling are challenged by cross
+hybridization of mouse derived molecules to human probes. In addition, a
+reduction of sensitivity caused by measuring mouse signals during
+next-generation sequencing analysis can be expected.To overcome these
+limitations, we have developed a fast and easy method allowing for the
+comprehensive depletion of all cells of mouse origin by using automated
+tissue dissociation and magnetic cell sorting (MACS). We have performed
+whole exome sequencing of bulk human tumor xenografts from lung, bladder,
+and kidney cancer, and compared the results to samples depleted of mouse
+cells. A significant increase (p Human tumor xenografts represent the
+gold standard method for research areas such as drug discovery, cancer
+stem cell biology, and metastasis prediction. When compared to in vitro
+cell culture models, human tumor xenografts show a higher validity for
+most assays (DeRose et al., 2011).During the growth phase in vivo,
+xenografted tissue is vascularized and infiltrated by cells of murine
+origin. The level of infiltration is highly dependent on multiple factors
+like tumor subtype, growth rate, and region of transplantation. However,
+even when these factors are kept constant, the amount and composition of
+infiltrating mouse cells is highly variable. Due to this, molecular
+downstream analyses such as microarray based expression profiling are
+challenged by cross hybridization of mouse derived molecules to human
+probes. In addition, a reduction of sensitivity caused by measuring mouse
+signals during next-generation sequencing analysis can be expected.To
+overcome these limitations, we have developed a fast and easy method
+allowing for the comprehensive depletion of all cells of mouse origin by
+using automated tissue dissociation and magnetic cell sorting (MACS). We
+have performed whole exome sequencing of bulk human tumor xenografts from
+lung, bladder, and kidney cancer, and compared the results to samples
+depleted of mouse cells. A significant increase (p < 0.05) in cluster
+density as well as an average increase in read counts of 33% was observed
+for the mouse cell depleted samples, indicating improved sample quality.
+Indeed, we observed a strong reduction of debris and dead cells upon the
+depletion procedure. We mapped the reads of all samples against human and
+mouse genomes and determined their putative origin. An average of 12% of
+reads derived from non-depleted samples was assigned to mouse cells. This
+amount could be reduced to 0.28% by prior depletion of mouse cells. As
+15% of the mouse-derived reads mapped erroneously to human genome (1.9%
+of total reads) in the non-depleted samples, a strong positive influence
+of mouse cell depletion (0.04% of total reads) on downstream analyses can
+be expected. The number of predicted SNPs was 2-fold higher in the
+non-depleted samples and 56% of SNPs identified in the non-depleted
+samples were not present anymore after depletion of mouse cells.
+Furthermore, the increase in coverage from 39-fold (non-depleted) to
+56-fold (depleted) resulted in a higher sensitivity of relevant SNP
+detection after mouse cell depletion. 16% of SNPs identified in the
+depleted samples were exclusively found in these samples.Taken together,
+removal of mouse cells significantly improves the analysis of human tumor
+xenografts by next generation sequencing. As this effect was observed
+although a human sequence specific selection has been carried out during
+exome enrichment, the influence on whole exome and whole transcriptome
+sequencing are expected to be even more prominent.
+

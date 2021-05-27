@@ -1,0 +1,55 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Reduced expression of histone demethylase KDM6B promotes
+pancreatic cancer progression through downregulation of C/EBP.
+
+
+It has become increasingly clear that epigenetic aberrations are involved
+in the pathogenesis of various cancer. In pancreatic cancer, however, the
+implication of epigenetic alteration remains elusive. In our screening
+analysis for epigenetic regulators that affect the phenotype of
+pancreatic cancer, we identified KDM6B/JMJD3, a H3K27me3 demethylase, as
+a candidate gene. KDM6B/JMJD3 activates INK4a/ARF locus during
+oncogene-induced senescence, thus it is supposed to suppress
+tumorigenesis; however, its role in established cancer remains unclear.
+In this study, our aim is to clarify the role of KDM6B in the progression
+of pancreatic cancer and to understand the underlying mechanisms.We
+generated pancreatic cancer cell lines stably knocked down for KDM6B by
+shRNAs. Matrigel invasion assay, soft agar colony formation assay, tumor
+sphere formation assay revealed increased invasiveness,
+anchorage-independent growth and tumorigenicity of KDM6B-knockdown (KD)
+cells, respectively. To confirm these phenotypic changes in vivo, these
+cells were xenotransplanted into nude mice. In intrasplenic injection
+experiments, mice injected with KDM6B-KD cells showed significantly
+shorter survival. When tumor cells were orthotopically implanted into the
+pancreas, mice injected with KDM6B-KD cells developed massive peritoneal
+dissemination with hemorrhagic ascites, while no mice injected with
+control cells developed peritoneal dissemination.To identify genes
+responsible for the phenotypic change, we performed cDNA microarray
+analysis. Gene set enrichment analysis (GSEA) revealed significant
+expression change of C/EBP-target genes upon KDM6B ablation. Among the
+C/EBP transcription family members, the downregulation of CEBPA, a
+putative tumor suppressor gene, was confirmed in KDM6B-KD cells. ChIP
+assay showed specific increase of H3K27me3 levels in the upstream region
+of CEBPA gene after KDM6B depletion. Notably, enforced expression of
+CEBPA rescued the increased invasiveness and tumorigenicity of KDM6B-KD
+cells, indicating that reduction of KDM6B expression in pancreatic cancer
+enhances its aggressiveness through downregulation of C/EBP.Notably, we
+identified a cell surface protein reflective of KDM6B expression and
+tumorigenic potential of pancreatic cancer cells; flow cytometry analysis
+revealed that cells with higher expression of this molecule expressed
+lower KDM6B and showed increased tumorigenicity. Immunohistochemical
+analysis of pancreatic cancer specimen showed a positive correlation
+between this marker expression and tumor grade, while KDM6B and C/EBP
+expression was seldom observed in high grade tumor.Collectively, these
+data suggest a role for the KDM6B-CEBPA axis in the regulation of
+tumorigenictiy of pancreatic cancer cells, providing a link between
+epigenetic change and pancreatic cancer progression.Citation Format:
+Keisuke Yamamoto, Keisuke Tateishi, Yotaro Kudo, Miwako Kakiuchi, Shinzo
+Yamamoto, Koji Miyabayashi, Yoshinari Asaoka, Hideaki Ijichi, Masao
+Omata, Kazuhiko Koike. Reduced expression of histone demethylase KDM6B
+promotes pancreatic cancer progression through downregulation of C/EBP.
+[abstract]. In: Proceedings of the 104th Annual Meeting of the American
+Association for Cancer Research; 2013 Apr 6-10; Washington, DC.
+Philadelphia (PA): AACR; Cancer Res 2013;73(8 Suppl):Abstract nr 2982.
+doi:10.1158/1538-7445.AM2013-2982
+

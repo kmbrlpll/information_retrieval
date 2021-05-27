@@ -1,0 +1,81 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Identification of functional risk alleles in colorectal
+cancer-associated regions in African Americans
+
+
+Background. There are disparities in both colorectal cancer (CRC)
+incidence and survival between African Americans (AAs) and Non-Hispanic
+Whites (NHWs). Genetic susceptibility factors are believed to contribute
+to CRC development but have been inadequately studied in AAs. Our
+previous work showed both shared and independent CRC-associated risk
+alleles are present in some gene regions identified in genome-wide
+association studies (GWAS) in NHWs. In the present work, using a
+functional bioinformatics approach, we searched for risk alleles in these
+regions in AAs. Methods. 10 chromosomal regions (8q23.3, 8q24.21, 10p14,
+11q23.1, 14q22.2, 15q13.3, 16q22.1, 18q21.1, 19q13.11, 20p12) from COGENT
+consortium meta-analysis were selected for DNA sequencing. Three
+additional high-interest regions were included. The region surrounding
+each associated SNP was analyzed using r2 plots, based on
+European-ancestry genotype data from HapMap Phase 3. DNAs from 63
+individuals (25 AA CRC cases and 38 AA controls) were sequenced using
+Agilent SureSelect enrichment arrays and Illumina HiSeq platform
+technology. Variants from the targeted sequencing were combined with 1000
+genomes variant data for a total of 16,193 variants. Potentially
+functional variants were identified based on the following criteria: the
+variant is (i) in a coding region, (ii) an expression quantitative trait
+locus (eQTL) or a DNAseI eQTL (DsQTL), (iii) in a miRNA binding site, and
+(iv) in a transcription factor binding site. Golden Helix software was
+used to process the data. Using the Sequenom Massarray platform, we
+genotyped variants in discovery and replication sets for a total of 1177
+AA CRC cases and 1264 AA controls. We calculated odds ratios (OR) and 95%
+confidence intervals using logistic regression, assuming an additive
+genetic model and adjusting for age, sex, and African ancestry. Results.
+We identified 81 variants in coding sequences, 82 eQTLs, 5 dsQTLs, 38
+variants in putative microRNA binding sites, 33 variants in possible
+transcription factor binding sites, and 6 variants that are in two or
+more of the preceding categories, for a total of 245 variants. After
+assay development and quality control, 163 SNPs were available for
+genetic analysis. Nominal associations (pBackground. There are
+disparities in both colorectal cancer (CRC) incidence and survival
+between African Americans (AAs) and Non-Hispanic Whites (NHWs). Genetic
+susceptibility factors are believed to contribute to CRC development but
+have been inadequately studied in AAs. Our previous work showed both
+shared and independent CRC-associated risk alleles are present in some
+gene regions identified in genome-wide association studies (GWAS) in
+NHWs. In the present work, using a functional bioinformatics approach, we
+searched for risk alleles in these regions in AAs. Methods. 10
+chromosomal regions (8q23.3, 8q24.21, 10p14, 11q23.1, 14q22.2, 15q13.3,
+16q22.1, 18q21.1, 19q13.11, 20p12) from COGENT consortium meta-analysis
+were selected for DNA sequencing. Three additional high-interest regions
+were included. The region surrounding each associated SNP was analyzed
+using r2 plots, based on European-ancestry genotype data from HapMap
+Phase 3. DNAs from 63 individuals (25 AA CRC cases and 38 AA controls)
+were sequenced using Agilent SureSelect enrichment arrays and Illumina
+HiSeq platform technology. Variants from the targeted sequencing were
+combined with 1000 genomes variant data for a total of 16,193 variants.
+Potentially functional variants were identified based on the following
+criteria: the variant is (i) in a coding region, (ii) an expression
+quantitative trait locus (eQTL) or a DNAseI eQTL (DsQTL), (iii) in a
+miRNA binding site, and (iv) in a transcription factor binding site.
+Golden Helix software was used to process the data. Using the Sequenom
+Massarray platform, we genotyped variants in discovery and replication
+sets for a total of 1177 AA CRC cases and 1264 AA controls. We calculated
+odds ratios (OR) and 95% confidence intervals using logistic regression,
+assuming an additive genetic model and adjusting for age, sex, and
+African ancestry. Results. We identified 81 variants in coding sequences,
+82 eQTLs, 5 dsQTLs, 38 variants in putative microRNA binding sites, 33
+variants in possible transcription factor binding sites, and 6 variants
+that are in two or more of the preceding categories, for a total of 245
+variants. After assay development and quality control, 163 SNPs were
+available for genetic analysis. Nominal associations (p<0.05) were
+detected between CRC and 17 variants. We have completed genetic analysis
+in the replication set for 8 of the 17 SNPs. The SNPs rs1862748 (OR,
+0.73; P = 0.001) in the CDH1 region and 16888699 (OR, 1.39; P = 0.0006)
+in the EIF3H region were statistically significant in both the discovery
+and replication series. rs1862748 has previously been associated with AA
+CRC and was identified as a eQTL for ZFP90. rs16888699 was identified as
+an eQTL for UTP23. Conclusion. Our results suggest that rs1862748 and
+rs16888699 are CRC risk alleles, validating the bioinformatics approach.
+Functional studies will are now needed to characterize the genetic
+mechanisms underlying risk.
+

@@ -1,0 +1,60 @@
+Meeting: 2014 AACR Annual Meeting
+Title: An siRNA screen identifies CHD4 as a target for epigenetic therapy
+
+
+Background and aims: In the past decade, epigenetic mechanisms in the
+regulation of tumor-specific gene expression have been elucidated
+partially, prompting the development of therapeutic approaches in cancer
+cells. In this study, we used an unbiased screen to investigate
+therapeutic targets which might be effective combination with DNMT
+inhibitors in reactivating hypermethylated genes. Methods: We screened an
+siRNA library targeting 188 gene predicted as epigenetic regulators using
+colon cancer cells that harbor a GFP locus stably integrated and silenced
+by a hypermethylated cytomegalovirus (CMV) promoter. GFP-positive cell
+percentages were measured using Guava EasyCyte Plus flow analyzer
+software. For genome wide gene expression analysis, affymetrix
+microarrays were performed. DNA methylation status was evaluated by
+pyrosequencing analysis and Digital Restriction Enzyme Analysis of
+Methylation (DREAM), based on next generation sequencing analysis. To
+access biological effect of the combination therapy, we evaluated cell
+growth using several cell lines. Results: We identified the chromodomain
+helicase DNA-binding protein 4 (CHD4) as a target; CHD4 depletion in
+combination with DNMT inhibition synergistically reactivated expression
+of GFP and endogenously methylated genes. Synergy was most pronounced for
+genes with very low basal expression. DREAM analysis revealed that
+methylated genes with promoter CpG islands were enriched among
+reactivated genes compared to background genes (57% vs 27%, PBackground
+and aims: In the past decade, epigenetic mechanisms in the regulation of
+tumor-specific gene expression have been elucidated partially, prompting
+the development of therapeutic approaches in cancer cells. In this study,
+we used an unbiased screen to investigate therapeutic targets which might
+be effective combination with DNMT inhibitors in reactivating
+hypermethylated genes. Methods: We screened an siRNA library targeting
+188 gene predicted as epigenetic regulators using colon cancer cells that
+harbor a GFP locus stably integrated and silenced by a hypermethylated
+cytomegalovirus (CMV) promoter. GFP-positive cell percentages were
+measured using Guava EasyCyte Plus flow analyzer software. For genome
+wide gene expression analysis, affymetrix microarrays were performed. DNA
+methylation status was evaluated by pyrosequencing analysis and Digital
+Restriction Enzyme Analysis of Methylation (DREAM), based on next
+generation sequencing analysis. To access biological effect of the
+combination therapy, we evaluated cell growth using several cell lines.
+Results: We identified the chromodomain helicase DNA-binding protein 4
+(CHD4) as a target; CHD4 depletion in combination with DNMT inhibition
+synergistically reactivated expression of GFP and endogenously methylated
+genes. Synergy was most pronounced for genes with very low basal
+expression. DREAM analysis revealed that methylated genes with promoter
+CpG islands were enriched among reactivated genes compared to background
+genes (57% vs 27%, P<0.0001). DNA methylation levels of reactivating
+genes after combination therapy were identical with DNMT inhibitor
+monotherapy, suggesting that siCHD4 as a supplement to DNMT inhibition
+works by a parallel, synergistic mechanism. Combination treatment
+inhibited cell growth of colon cancer cell lines better than treatment
+with a single DNMT inhibitor with minimal effects on the cell growth of
+non-cancerous cell lines. Interestingly, depletion of CHD4 alone also
+inhibited cell growth of colon cancer cell line but not of non-cancerous
+cell lines. Conclusions: Combination treatment of siCHD4 and DNMT
+inhibitor strongly reactivated hypermethylated and silenced genes in
+cancer cell lines. CHD4 inhibition is a promising new approach to
+epigenetic targeted therapy.
+

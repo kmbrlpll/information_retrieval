@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Monitoring inflammasome activation with a bioluminescent caspase-1
+assay
+
+
+Inflammatory responses and immune modulation play important and complex
+roles in cancer development and therapy, but methods to monitor caspase-1
+activity associated with inflammasome activation have been limited.
+Inflammasomes are protein complexes induced by diverse inflammatory
+stimuli. Caspase-1, an essential component of the inflammasome, is
+activated in response to these stimuli, resulting in the processing and
+release of cytokines, IL-1 and IL-18, and pyroptosis, an immunogenic form
+of cell death. Western blots and ELISA are the primary, but indirect,
+methods for monitoring caspase-1 activity currently in use. To simplify
+and provide a more direct means of detecting cell-based caspase-1
+activity, we developed a sensitive, homogeneous, plate-based assay that
+eliminates the need for significant sample processing. The assay employs
+a single-step, bioluminescent format combining a caspase-1 substrate,
+Z-WEHD-aminoluciferin, with a thermostable luciferase in an optimized
+reagent subsequently added to treated cells in an assay well. The
+coupled-enzyme system quickly reaches a steady-state between caspase
+cleavage of the substrate and luciferase conversion of the
+aminoluciferin, with light generated proportional to the amount of
+caspase-1 activity present in the sample. In addition to substrate
+selection, assay specificity for caspase-1 is conferred by inclusion of a
+proteasome inhibitor, MG132, in the reagent and by the subsequent use of
+a caspase-1 inhibitor, Ac-YVAD-CHO, to confirm activity. This approach
+enables clear determination of caspase-1 activity even in the context of
+apoptotic cells. Studies with Casp1/ cells further demonstrate the
+effectiveness of this assay system to specifically detect cell-based,
+caspase-1 activity. Using this novel assay system, caspase-1 activation
+has been quantitatively determined in THP-1 cells following treatment
+with -hemolysin, LPS, nigericin, monosodium urate crystals, R-848,
+Pam3CSK4, and flagellin. Caspase-1 activation has also been demonstrated
+in treated J774A.1 mouse macrophages, bone marrow-derived macrophages
+from mice, as well as in human primary monocytes. Of note, caspase-1
+activity can be monitored either directly in cells or released into the
+culture medium following cell treatment with various inflammatory
+stimuli. Monitoring released caspase-1 activity in supernatants is fast,
+sensitive, and nondestructive, thereby enabling subsequent multiplexing
+of the biological sample with other assays to monitor additional cell
+parameters, such as IL-1 release or cell death. Therefore, this assay
+system provides a rapid, convenient, and flexible method to specifically
+and quantitatively monitor caspase-1 activation in cells in a plate-based
+format. This will allow a more efficient and effective assessment of
+inflammasome activation as well as enable high-throughput screening for
+inflammasome modulators.
+

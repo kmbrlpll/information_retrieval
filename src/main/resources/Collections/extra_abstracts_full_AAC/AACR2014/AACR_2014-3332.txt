@@ -1,0 +1,67 @@
+Meeting: 2014 AACR Annual Meeting
+Title: HER2-dependent RNA polymerase II binding in human breast tumors
+defines a regulon including a stem cell network
+
+
+HER2-positive breast cancer accounts for approximately 25% of all cases
+and has a poor overall prognosis in spite of gains in targeted therapy.
+Multiple modes of resistance have been identified. We identified genes
+regulated in HER2 positive disease as a means of understanding the
+mechanisms of aggression and resistance to therapy. Chip-on-chip with
+anti-RNA polymerase II (POL II) in breast cancer cell lines with little
+or no HER2 expression was compared to cells with very high HER2
+expression. Compared to MCF-7 cells with little or no HER2 expression,
+cells engineered to express large amounts of HER2 exhibits new POL II
+binding to 606 identified genes. Many of these genes, 379 and 486, also
+exhibited POL II binding in two breast cancer cell lines with naturally
+occurring amplified HER2: MDA453 and BT474 respectively. These
+observations indicate that the expression of HER2 in MCF-7 cells causes a
+massive increase in the number of genes bound by POL II.We performed
+whole genome expression analysis on the three HER2+/- cells and compared
+these to expression in 812 primary tumors stratified for HER2 +/-
+expression. Genes differentially expressed dependent on HER2 status were
+overwhelmingly regulated in the same direction in MCF7HER2, MDA453 and
+BT474 cell lines and in breast cancer tissues; 273/459 (60%), 335/502
+(67%) and 349/502 (70%) respectively (Kappa 0.4, p HER2-positive breast
+cancer accounts for approximately 25% of all cases and has a poor overall
+prognosis in spite of gains in targeted therapy. Multiple modes of
+resistance have been identified. We identified genes regulated in HER2
+positive disease as a means of understanding the mechanisms of aggression
+and resistance to therapy. Chip-on-chip with anti-RNA polymerase II (POL
+II) in breast cancer cell lines with little or no HER2 expression was
+compared to cells with very high HER2 expression. Compared to MCF-7 cells
+with little or no HER2 expression, cells engineered to express large
+amounts of HER2 exhibits new POL II binding to 606 identified genes. Many
+of these genes, 379 and 486, also exhibited POL II binding in two breast
+cancer cell lines with naturally occurring amplified HER2: MDA453 and
+BT474 respectively. These observations indicate that the expression of
+HER2 in MCF-7 cells causes a massive increase in the number of genes
+bound by POL II.We performed whole genome expression analysis on the
+three HER2+/- cells and compared these to expression in 812 primary
+tumors stratified for HER2 +/- expression. Genes differentially expressed
+dependent on HER2 status were overwhelmingly regulated in the same
+direction in MCF7HER2, MDA453 and BT474 cell lines and in breast cancer
+tissues; 273/459 (60%), 335/502 (67%) and 349/502 (70%) respectively
+(Kappa 0.4, p < 0.0001). The same comparisons were performed on randomly
+selected genes and kappa values were calculated for 1000 rounds. The
+random kappa values averaged 0.05 indicating minimal false
+discovery.Second we identified genes that had HER2-dependent POLII
+binding in cell lines without significant expression. Of 737 such genes
+poised for expression, 113 were differentially expressed in breast tumors
+in a HER2 dependent manner, including a similar number of up and
+down-regulated genes in each class of tumors. We carried out pathway
+analysis of 113 poised genes identified having HER2-dependent POL II
+binding and exhibiting significant differential expression between high
+and low HER2-expressing breast cancer tissues. A pathway analysis tool
+(MetaCore) identified enrichment in GO terms for cell adhesion,
+regulation of translational initiation, inflammation, immune response
+especially for Interleukins -5 and 13, cytoskeleton remodeling, membrane
+domain ectodomain proteolysis (the proteolytic cleavage of trans membrane
+proteins and release of their extracellular domain), and development. The
+largest groups of genes are associated with stem cell and progenitor cell
+control as indicated by networks centered on NANOG and OCT3/4. Thus, the
+role of stem cells proliferation in HER2 regulated breast cancer is
+highly suggested. The massive gene regulation changes that are tissue
+context-dependent is a fundamental new insight for understanding HER2
+mechanisms in breast cancer.
+

@@ -1,0 +1,36 @@
+Meeting: 2013 AACR Annual Meeting
+Title: miR-638, a novel tumor suppressor for ER-negative breast cancer.
+
+
+MicroRNAs (miRNAs) are endogenous non-coding RNAs of 1925 nt in length,
+which regulate many protein-coding genes. miRNA dysregulation is observed
+in a variety of cancers, including breast cancer. miRNAs have emerged as
+an important set of biomarkers. miRNA profiling studies have led to the
+identification of miRNAs that are aberrantly expressed in human breast
+cancer, with miR-10b, miR-125b and miR-145 being down-regulated and
+miR-21, and 155 being up-regulated. In our previous miRNA expression
+profiling studies using microdissected FFPE tissues, we identified 8
+clusters of miRNAs, which discrete the normal and breast lesions such as
+ADH, DCIS and IDC. miR-638 is one of the differentially expressed miRNAs
+during breast cancer progression. We first sought to determine the
+expression of miR-638 in different breast cancer cell lines such as
+MCF-7, Hs578T, T47D and MDA-MB-231 using qRT-PCR, which shows a very low
+expression compared to normal tissues. This led us to hypothesize that
+miR-638 may function as a tumor suppressor during breast cancer
+development. To determine the role of miR-638 in both ER+ and ER- breast
+cancer cells, we transfected miR-638 mimic oligos and scrambled oligo
+mocks into MCF-7 (ER+), T47D (ER+), MDA-MB-231 (ER-) and Hs578T (ER-)
+cells. After 48 hours, we found that the proliferation rate was
+significantly down-regulated in ER- cells but not in ER+ cells by MTT
+assay. Our preliminary matrigel analysis shows that miR-638
+overexpressing MDA-MB-231 cells had 34 fold invasiveness decrease
+compared to the control. Further, our TargetScan analysis revealed that
+BRCA1 is one of the direct targets of miR-638 among the 30 conservative
+target genes. We found that overexpression of miR-638 resulted in an
+upregulation of BRCA1 mRNA expressions in ER- cell lines, MDA-MB-231 and
+Hs578T but not in ER+ cell lines, T47D and MCF-7. Taken together, these
+findings showed that miR-638 may function as a tumor suppressor in ER-
+breast cancer, possibly in part by upregulating BRCA1 tumor suppressor
+gene. Further functional analysis is underway to decipher the exact role
+of miR-638 in ER- breast cancer, which could become a therapeutic target.
+

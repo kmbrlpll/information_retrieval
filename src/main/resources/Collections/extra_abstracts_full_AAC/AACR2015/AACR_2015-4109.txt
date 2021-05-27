@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Clonal evolution of metastatic colorectal cancer
+
+
+Introduction: Death from colorectal cancer (CRC) occurs via sequelae of
+metastases. Our lack of understanding of the mechanisms driving
+metastatic formation is a critical barrier to the identification and
+direct targeting of critical genes and pathways. This is further
+complicated by tumor heterogeneity and subclonal architecture. To
+reconstruct the patterns of tumor evolution and metastasis in CRC, we
+have conducted the first comprehensive clonality analysis of ten
+patients.Methods: Primary tumor, metastases in multiple liver segments,
+and matched normal tissues were procured from consented patients during
+operative resection. Deep exome (200x coverage) and whole genome
+sequencing (50x coverage) were used to identify somatic mutations and
+estimate variant allele frequency (VAF) for somatic single nucleotide
+variants (SNVs). Clonal architecture and evolution models were derived
+from the SNVs by VAF-based clustering, clonal ordering, and phylogeny
+analysis.Results: Non-silent somatic alterations were enriched in genes
+known to be involved in CRC and other major cancers, including APC, TP53,
+KRAS, PIK3CA and TCF7L2. Each patient had a founding clone originating
+from the primary tumor (carrying non-silent mutations in at least one
+cancer driver gene) that survived to metastasis, possibly following
+evolution and acquisition of additional somatic mutations. Branched
+evolution was common and spatially-distinct liver metastases within the
+same patient sometimes arose from different (sub)clones in the primary
+tumor. Unique subclones appeared to arise in all metastatic samples, and
+in some cases, were shared among various metastases of the same patient.
+This suggests that one metastasis seeded another or an ancestor common to
+those metastases was present in the primary tumor or elsewhere, but not
+observed due to spatial heterogeneity. In several cases, mutations in the
+dominant clone of the primary tumor were absent from metastases,
+suggesting these were subclonal events in more aggressive cancer cells
+that arose in the primary tumor after metastasis. These additional
+somatic events may involve (possibly novel) cancer driver
+genes.Conclusions: Understanding the genomic events driving tumor
+evolution and metastasis is critical for explaining why existing
+therapies fail and determining optimal treatment strategies. Our analyses
+have outlined several clonal evolution patterns in metastatic CRC. We are
+currently using ultra-deep targeted and multi-region sequencing to
+validate genomic alterations in our CRC cohort to refine clonal evolution
+models and evaluate which subclones may be biologically relevant to
+disease progression and treatment resistance. Additionally, by revealing
+critical altered genes and pathways associated with metastatic clones we
+can improve our understanding of the mechanisms driving metastasis in CRC
+that may lead to novel targeted cancer therapies.
+

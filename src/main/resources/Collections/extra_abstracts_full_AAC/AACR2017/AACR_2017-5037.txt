@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: New concepts for quantifying the benefits of mono and combination
+therapy in an era of big data.
+
+
+I will describe new (unpublished) approaches to quantifying drug response
+at two points in the drug development pipeline: pre-clinical studies in
+cell lines and clinical trials of combination therapies in patient
+populations. Drug sensitivity and resistance in cell lines is
+conventionally quantified by IC50 or Emax values, but these measures
+suffer from a fundamental flaw when applied to growing cells: they are
+highly sensitive to cell division number, which varies with cell line,
+experimental condition, seeding density etc. The dependency of IC50 and
+Emax on division rate creates artefactual correlations between genotype
+and drug sensitivity while obscuring important biological insights and
+interfering with biomarker discovery. I will describe alternative growth
+rate inhibition (GR) metrics that are insensitive to division number and
+can directly measure both endpoint sensitivity and adaptive drug
+resistance. Theory and experiments show that GR50 and GRmax are superior
+to IC50 and Emax for assessing the effects of drugs in dividing cells. GR
+metrics promise to improve our ability to score drug sensitivity in
+specific-derived tumor cells, improves data reproducibility, and increase
+the translational potential of pharmacogenomics data.
+
+In patients, combination therapy improves tumor control compared to
+monotherapy and the development of combinations is motivated in most
+cases by pre-clinical data on synergism in cell lines. However I will
+describe a different way in which combinations can provide clinical
+benefit. Based on analysis of between-patient variability in existing
+trial data and a large set patient derived tumor xenograft (PDX) mice
+published by Gao H, Korn JM, Ferretti S, et al. (Nature medicine
+2015;21:1318-25), I will argue for a simple principle: in nearly
+two-thirds of cases analyzed, efficacious combinations work simply by
+improving the likelihood that a tumor will experience an outlier response
+to a single drug. Thus, even in the absence of additive or synergistic
+tumor inhibition, combinations are generally superior to monotherapies.
+Superiority by “independent action” provides a principle on which to
+design new combinations and a scientific rationale for the use of
+combination therapies in poorly understood cancers whenever toxicity is
+acceptable.
+
+These studies, at two different points of the drug discovery pipeline,
+illustrate the value of combining new first-principles theories about
+drug mechanism of action with “big data” that is increasingly
+available on pre-clinical and clinical drug response. Conversely, in the
+absence of conceptual innovation, we miss important mechanistic insights
+hidden in existing data. The purpose of such insights, when obtained, is
+drive new laboratory and real-world experiments. I will discuss how the
+process of coupling computation and experimentation works in practice.
+
+

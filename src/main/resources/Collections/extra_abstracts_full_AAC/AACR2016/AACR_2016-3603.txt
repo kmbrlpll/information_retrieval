@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Megabase-scale determination of complex genetic aberrations of
+primary cancer genomes at individual DNA molecule resolution
+
+
+Cancer is a disease of the genome caused by genetic aberrations such as
+point mutations and rearrangements. To identify these genetic
+aberrations, cancer studies rely on DNA sequencing of short reads from
+highly fragmented DNA molecules that are typically less than 500 bases
+long. However, genomic structural alterations and context of genetic
+aberrations are much larger and cannot be effectively analyzed. To
+characterize such alterations with completeness, the contiguous
+relationship of variants from a given chromosome homologue must be
+determined; this analysis process is referred to as genome phasing. In
+this study, we demonstrate the significant advantages of genome phasing;
+we utilize a new technology called linked-read sequencing that enables
+tracking of individual DNA sequence reads to the input high molecular
+weight DNA at single-molecule resolution through the use of barcoded
+reads. We then reconstruct at megabase-scale the complex genomic somatic
+events derived from the original paternal or maternal chromosome
+homologues and demonstrate new insight into the undiscovered details of
+cancer genome alterations. We apply this analysis to primary
+gastrointestinal cancers from surgical resections; our study is a unique
+achievement given that this type of phased genome sequencing analysis has
+only been previously conducted on cancer cell lines.For this study, we
+focus on specific categories of megabase-scale genetic aberrations: (1)
+copy number variants (CNV) derived from segmental duplications, (2)
+structural rearrangements, and (3) aneuploidy. As an example from gastric
+cancer metastases, we identified a set of unique and site-specific FGFR2
+amplification events corresponding to segmental duplications. The
+structural details of this amplification were only evident using barcoded
+sequence reads and phased analysis. Secondly, in a primary colorectal
+adenocarcinoma we resolved a complex recombination event that covered the
+majority of the chromosome 5 q-arm. It contained a set of complex
+rearrangements that are difficult to determine by short read sequencing
+but can be identified using linked reads. This rearrangement event arose
+from a combination of a 80Mb homologous recombination that contained a
+small interval 2.6Mb deletion. The allelic loss of two candidate cancer
+drivers, SMAD5 and TGFB, occurred in the affected interval. Finally, to
+assess aneuploidy we relied on the imbalanced ratios between paternal and
+maternal chromosomal homologues to generate contiguous blocks of variants
+on the order of tens and up to hundreds of megabases long. We performed
+this type of analysis on a number of cancer genomes derived from primary
+colorectal adenocarcinomas, and were able to robustly determine the
+phased single nucleotide variant content and large-scale genomic
+alterations involving entire chromosome arms.
+

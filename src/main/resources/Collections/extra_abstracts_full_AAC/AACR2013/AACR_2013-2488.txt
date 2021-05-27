@@ -1,0 +1,29 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Novel candidate protein biomarkers for cisplatin response
+prediction in non-small cell lung cancer.
+
+
+The five-year survival rate for non-small cell lung cancer (NSCLC) is
+still less than twenty percent in part due to treatment failure and lack
+of biomarkers for personalized therapy. Most NSCLC patients are treated
+by chemotherapy and cisplatin is still the major component of most
+chemotherapy regimens. However, resistance to cisplatin is a common
+phenomenon. Aim of this study was to identify protein biomarkers that can
+be used for cisplatin response prediction.The proteomes and secretomes1
+of a series of human NSCLC cell lines with a range of IC50-values for
+cisplatin (1.5 - 15 M) were analyzed by label-free proteomics based on
+GeLC-MS/MS and quantified by spectral counting. Significant differential
+expression of proteins was determined by the in-house developed
+beta-binomial statistical test2. Network and gene ontology analysis was
+performed, with STRING and DAVID respectively, to reveal cellular and
+molecular functions associated with the differential proteins.In total,
+2885 and 2342 proteins were detected in the cell lysates and secretomes,
+respectively. The proteins with significantly higher expression in the
+resistant cell lines were associated RNA processing and vesicle
+transport, while the proteins with higher expression in the sensitive
+cell lines were known to be involved in RNA splicing, DNA damage repair
+and extracellular matrix organization. The most promising candidates are
+being validated in tissues and sputum of patients with known response to
+cisplatin.1 Piersma SR et al. J Proteome Res. 2010 Apr 5;9(4):1913-22.2
+Pham TV et al. Bioinformatics. 2010 Feb 1;26(3):363-9.
+

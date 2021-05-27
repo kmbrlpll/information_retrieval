@@ -1,0 +1,53 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Loss of PARP1 in human cancer cells confers resistance to PARP
+inhibition via activation of innate immune signaling.
+
+
+Purpose: PARP inhibitors (PARPi) are FDA-approved for the treatment of
+ovarian cancer and in clinical trials for the treatment of other
+malignancies. PARPi block the catalytic site of PARP1, a poly(ADP-ribose)
+polymerase that catalyzes the repair of DNA single-strand breaks (SSBs)
+and double-strand breaks (DSBs). Although cancer cells harboring defects
+in Homologous Recombination (HR) are particularly sensitive to PARPi,
+disease progression is eventually observed due to the emergence of
+resistant cells. To address the mechanisms leading to PARPi resistance
+and identify novel preventive strategies, we have generated and
+characterized multiple human cancer cell lines genetically engineered to
+acquire PARPi resistance via depletion of PARP1.
+
+Experimental Procedures: We used CRISPR/Cas9D10A (“double nickase”)
+to introduce DSBs within exon 2 of PARP1 in human cancer cell lines
+HCT116 and HEK293T. After allowing for repair via endogenous error-prone
+pathways, single cell-derived subclones were screened by immunoblotting
+with an antibody to PARP1. PARP1 “knock out” (KO) clones were further
+analyzed for proliferation, cell cycle distribution and sensitivity to
+DNA damaging agents, including ionizing radiation (IR) and the PARPi
+olaparib. Radiation response was assessed using proliferation and
+clonogenic assays, immunofluorescence (IF) for γ-H2AX and immunoblotting
+for ATM substrates phospho-KAP1 (Ser824) and phospho-CHK2 (Thr68).
+Finally, differential gene expression between PARP1-proficient and
+deficient HCT116 and HEK293T cells was analyzed by RNA-Seq.
+
+Findings: Although genetic depletion of PARP1 initially led to
+significant death of HCT116 and HEK293T mass cultures, surviving cells
+could be isolated to establish stable PARP1 KO clones. Relative to
+PARP1-proficient controls, HCT-116PARP1-/- and HEK293TPARP1-/- cells
+exhibited decreased proliferation and clonogenic capacity in vitro and
+decreased growth in vivo. In addition, loss of PARP1 led to
+radiosensitivity and persistent activation of cell cycle checkpoints,
+delayed kinetics of γ-H2AX foci resolution and persistent ATM signaling
+after IR. In contrast, PARP1 loss induced resistance to the PARPi
+olaparib in both lines. PARP1 reconstitution using either stable or
+transient approaches resulted in only a partial rescue of these
+phenotypes. RNA-Seq analyses revealed increased expression of innate
+immune signaling and inflammatory cascades upon PARP1 loss, including
+type I/III interferons and their inducible genes.
+
+Conclusions: PARP1 KO human cancer cells may represent a valuable
+preclinical model to investigate mechanisms underlying resistance to PARP
+inhibitors observed in the clinical setting. Loss of PARP1 triggers
+activation of “viral mimicry” in cancer cells, suggesting that drugs
+targeting this pathway may synergize with PARPi to kill cancer cells and
+prevent the emergence of resistance.
+
+

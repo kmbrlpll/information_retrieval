@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Cyclooxygenase-1 gene expression contributes to multiple oncogenic
+pathways in high grade serous ovarian cancer
+
+
+Ovarian cancer is the most lethal gynecologic malignancy. Most women
+diagnosed with high grade serous ovarian cancer present with advanced
+disease characterized by widespread peritoneal carcinomatosis. Recent
+epidemiological results indicate that cyclooxygenase (COX) inhibitors
+aspirin and other non-steroidal anti-inflammatory drugs are a promising
+preventive strategy to reduce the risk of developing ovarian cancer.
+COX-1 and COX-2 catalyze the rate-limiting step in the biosynthesis of
+prostaglandins and thromboxanes, which contribute to tumorigenesis by
+promoting proliferation, escape from apoptosis, and angiogenesis.
+Emerging evidence from our group and others suggests that COX-1 is an
+important molecular target in ovarian cancer, distinguishing ovarian
+cancer from most other solid tumors, where COX-2 is the dominant isoform.
+However, the precise roles of COX-1 and COX-2 in human ovarian cancer
+remain controversial. Therefore, the aim of this study was to gain
+additional insight into COX-1 gene expression and function in human
+ovarian cancer. First, we extracted RNA-seq V2 mRNA expression data for
+COX-1 and COX-2 in the PANCAN12 tumor panel of The Cancer Genome Atlas.
+COX-1 mRNA levels were significantly higher than those of COX-2 in high
+grade serous ovarian tumors, and higher than COX-1 expression in 11 other
+solid tumor types. We confirmed these findings in a tissue microarray
+generated from 209 ovarian cancer patients. COX-1 protein was highly
+expressed in a large subset of serous tumors, with significantly lower
+COX-2 expression present. In contrast, there was markedly lower COX-1
+expression in endometrioid, mucinous and clear cell ovarian tumors
+compared to COX-2. Second, stable COX-1 knockdown in
+serous-representative OVCAR-3 cells significantly reduced cell viability
+compared to control cells. Pathway analysis from RNA-seq data revealed
+that COX-1 knockdown induced a coordinated transcriptional response
+consistent with reduced cell proliferation (eg. reduced cyclin D1 and
+increased p21 expression), cell migration/invasion (eg. reduced TGF-
+signaling and expression of MMPs), angiogenesis (eg. reduced VEGF
+expression), epithelial-mesenchymal transition (eg. increased E-cadherin
+expression and reduced BMP signaling), and NF-B signaling. Gene
+expression changes were validated by western blot. In SKOV-3 ovarian
+cancer cells stably overexpressing COX-1, opposite effects on cell
+viability and on these genes/pathways were observed. Our findings confirm
+that COX-1 is over-expressed in serous ovarian cancer, and likely plays a
+key role in tumor progression. Exploiting high COX-1 expression in
+ovarian cancer with COX-1-targeted molecules has the potential to improve
+the treatment and detection of this deadly disease.
+

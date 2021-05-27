@@ -1,0 +1,47 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Genetic predisposition to DNA double strand break repair defect
+defines a new class of familial colon cancer
+
+
+Colorectal cancer (CRC) is the second most common fatal cancer in the
+U.S., with 30% cases familial (FCRC). Genetic predispositions have only
+been defined for 25% of FCRC (including Lynch syndrome, Familial
+Adenomatous Polyposis (FAP), and MutYH polyposis). For the genetically
+undefined group (uFCRC), understanding of disease pathogenesis is
+limited, and the absence of defined defects in relevant pathways that
+could support molecular diagnosis results in under- and over-screening.
+We hypothesized that uFCRC would arise distinctly from moderately
+penetrant germline defects in repair of DNA double-strand breaks (DSBs).
+Such defects in DSB repair would lead to a moderate level of
+constitutional genomic instability (CGI) that could be assayed from
+patient peripheral blood lymphocytes (PBLs). We further hypothesized that
+such DNA lesions would often be heterozygous, associated with
+haploinsufficiency or dominant-negative effects, and would impair protein
+interactions important for DNA repair.We combined exome sequencing with
+biological assays to screen a rich resource of uFCRC clinical samples
+from the Fox Chase Cancer Center Risk Assessment Program. Exome
+sequencing of PBLs from patients (N = 25) identified a mean of 1.4 rare
+variants/patient that were 1) strongly predicted to damage protein
+function using multiple functional predictors (SIFT, Polyphen-2, Provean,
+and MutationAssessor), 2) involved in pathways that suppress DSBs, and 3)
+have not been previously implicated in CRC. Further, many of the variant
+genes were commonly mutated in CRCs and other cancers in TCGA database.
+Comparison of PBLs from patients and age- and sex- matched controls
+revealed increased DSB levels (basal and with DNA damaging agents) in
+18/25 patients vs. 1/25 normal controls (P = 0.001, AUC = 0.85). Next,
+knockdown of variant genes in HCT116 CRC cells increased DSB formation
+with or without damaging agents.As a proof-of-concept, we studied one
+patient in detail who had candidate disease-causing variants in 2 DNA
+repair genes, ERCC6 and WRN. Both variants were dysfunctional in
+biochemical tests. We established patient-derived EBV-lines and observed,
+at baseline and with several DNA damaging agents, elevated levels of H2AX
+foci and larger nuclear comets, indicative of DSBs. This phenotype could
+be rescued by expression of wild type WRN or ERCC6 and conversely induced
+by knockdown in CRC cells. Further, the patient derived lines exhibited
+reduced expression of WRN and ERCC6, implicating haploinsufficiency of
+these genes in the phenotype observed.Our data support the hypothesis
+that defects in DSB repair genes cause moderate-level CGI that commonly
+presents as uFCRC. Our studies identify novel genetic subsets of FCRC,
+and could potentially predict familial risk and improve screening and
+diagnosis.
+

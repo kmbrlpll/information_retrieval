@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: In situ delivery and production of anti-HER2 scFv
+
+
+Introduction: Trastuzumab, a monoclonal antibody targeting human
+epidermal growth factor receptor-2 (HER2), has become the main
+therapeutics for HER2-positive breast cancers. Recently, active scFvs
+(single-chain variable fragment) were produced and anti-tumor function
+like BITE (Bi-specific T cell engagers) has been added to improve the
+antitumor efficacy. On the one hand, the in situ delivery and continuous
+production of anti-cancer drugs at the tumor site will be required to
+evade adverse effects and elevate the dose of anti-cancer drugs in tumor
+tissues. We have established such in situ Delivery and continuous
+Production System (iDPS) with Bifidobacterium that can selectively target
+hypoxic microenvironment of solid cancer tissues. The purpose of the
+present study is to establish continuous production and secretion system
+for biologically active anti-HER2 scFv by Bifidobacterium.Materials and
+Methods: We constructed an expression vector of anti-HER2 scFv based on
+the cDNA sequence of anti-HER2 antibody for E. coli. The biological
+activity of the product was examined by ELISA, FACS,
+fluorescence-immunostaining and MTT assay for cell growth using
+differentially HER2-expressing human cell lines. Anti-tumor activity was
+assessed by intratumoral injection with the anti-HER2 scFv for tumors of
+a human breast cancer cell line transplanted into nude mice. We further
+modified the above vector for E. coli. to make a shuttle vector for
+Bifidobacterium. The binding activity of the product to HER2 was
+confirmed by ELISA and the primary structure was examined by
+LC-MS.Results: First, we succeeded in producing the recombinant scFv by
+E. coli, which showed specific binding to HER2. The anti-HER2 scFv
+inhibited the in vitro growth of several HER2-positive human cancer cell
+lines with the same efficiency as Trastuzumab. The intratumoral injection
+of the recombinant anti-HER2 scFv to transplanted human breast cancer
+tissues in nude mice showed a significant inhibition of the tumor growth.
+Next, to prepare iDPS of anti-HER2 scFv, we developed a recombinant
+Bifidobacterium longum to express and secrete anti-HER2 scFv, which was
+shown to bind to HER2 by ELISA, and its primary structure was confirmed
+to be the same as the recombinant anti-HER2 scFv produced by E.
+coli.Conclusion: We believe that iDPS for anti-cancer substances like
+anti-HER2 scFv can contribute to the reduction of adverse effects and a
+better-cost performance than current antibody medicines. Importantly, the
+upcoming study to modify anti-HER2 scFv to carry BITEs-like activity will
+be planned, which can provide much more therapeutic effects for not only
+breast cancers but also other cancers expressing HER2.
+

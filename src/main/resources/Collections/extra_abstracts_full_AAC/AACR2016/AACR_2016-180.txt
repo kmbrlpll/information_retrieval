@@ -1,0 +1,30 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identification and characterization of ATM substrates in mitosis
+
+
+The Ataxia-Telangiectasia Mutated (ATM) Kinase, mutation of which is
+responsible for the autosomal recessive disorder Ataxia-Telangiectasia,
+is an essential element for cells to deal with DNA double-strand breaks.
+In the absence of DNA damage, it has also been recognized that ATM has a
+role in optimizing the spindle assembly checkpoint during mitosis. In the
+process, ATM is activated at a lower level (compared to the DNA damage
+response) which requires phosphorylation by the Aurora-B kinase. Known
+ATM targets in mitosis include kinetochore proteins Bub1 and Mad1.
+However, it has become clear that ATM-mediated phosphorylation in mitosis
+is distinct from that in the DNA damage response. Therefore, we performed
+an unbiased assay to identify ATM substrates in mitosis in order to study
+the functional significance of mitotic ATM activation. To achieve our
+goal, we utilized a stable isotope labeling by amino acid (SILAC)
+/Peptide IP with phosphor-specific SQ/TQ antibodies and mass spectrometry
+(MS). About 18 proteins were identified as substrates of mitotically
+activated ATM in the assay. We then conducted bioinformatic analyses for
+the identified proteins using PANTHER and Ingenuity programs. With many
+proteins having their known functions in mitosis, we found a much smaller
+number, but highly interconnected, pool of proteins in the ATM substrate
+list as compared to that of the DNA damage response. Among them, we
+validated several phosphorylation events using an in vitro kinase assay.
+Furthermore we present data to demonstrate the functional significance of
+ATM-mediated phosphorylation. Taken together, our data provide a
+comprehensive picture of how mitotically activated ATM signals to
+downstream targets to fine-tune the mitotic checkpoint.
+

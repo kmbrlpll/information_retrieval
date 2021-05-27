@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Polycomb-mediated suppression of the voltage-gated potassium
+channel KCNA5 promotes Ewing sarcoma cell survival
+
+
+In Ewing sarcoma (ES) relapse is prevalent indicating that some cancer
+cells are resistant to treatment; however, the mechanism(s) governing
+treatment resistance and relapse are unknown. Voltage-gated potassium
+(Kv) channels play an essential role in maintaining a balance between
+cell survival and apoptosis. In particular, the Kv1.5 channel is a key
+sensor of oxygen tension and regulator of apoptosis, controlling
+potassium efflux and caspase activation. It was recently discovered that
+brain tissue can be tolerized to conditions of hypoxia and nutrient
+deprivation and that this ischemic tolerance is mediated by upregulation
+of the polycomb (PcG) protein BMI-1 and epigenetic repression of the
+Kv1.5-encoding locus KCNA5. Given that Kv1.5 expression is often
+downregulated in human cancers and that ES cells upregulate the PcG
+proteins BMI-1 and EZH2, we hypothesized that polycomb-dependent
+suppression of KCNA5 contributes to ES cell survival under conditions of
+stress. To test this hypothesis, we exposed ES and non-transformed cells
+to conditions of hypoxia (1% O2) and growth factor deprivation and
+measured cell viability in the presence and absence of potassium channel
+blockers 4-aminopyridine (4AP) and diphenyl phosphine oxide-1 (DPO-1).
+These studies were repeated in ES cells following BMI-1 knockdown,
+treatment with the EZH2 inhibitor GSK-126 and in ES cells that were
+genetically altered to ectopically express active wild-type (WT) or
+inactive (Pore-Dead (PD)) Kv1.5 channel. Chromatin immunoprecipitation
+(ChIP) was used to determine PcG protein binding at the KCNA5 locus.
+Exposure of non-transformed cells to hypoxia and growth factor
+deprivation resulted in significant cell death. In contrast, ES cell
+viability was unaffected. Significantly, however, knockdown of BMI-1 and
+inhibition of EZH2 resulted in diminished ES cell viability in conditions
+of stress and this cell death was blocked by 4AP and DPO-1. Likewise,
+pharmacologic inhibition of Kv1.5 also inhibited stress-induced death of
+non-transformed cells. ES cells transduced to ectopically express WT- but
+not PD-Kv1.5 were sensitized to stress-induced cell death and this
+reduction in cell viability was again reversed by 4AP and DPO-1. Caspase
+activation assays confirmed that cell death was mediated by apoptosis.
+Finally, ChIP studies revealed the presence of BMI-1 and the
+EZH2-dependent histone modification, H3K27me3, at the KCNA5 promoter in
+ES cells. Together these data show that ES cells are resistant to hypoxia
+and growth factor induced cell death and that this resistance is
+mechanistically linked to downregulation of Kv1.5 channel activity.
+Further, we have determined that suppression of the Kv1.5 channel is
+mediated epigenetically, by polycomb-dependent repression of the KCNA5
+locus. Together these studies reveal a novel mechanism of ES cell
+survival under conditions of physiologic stress.
+

@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Hardwiring mechanism into predicting cancer phenotypes by
+computational learning
+
+
+Rationale. Despite promising beginnings, molecular classifiers derived
+from statistical learning do not yet appear to be sufficiently mature for
+clinical use. Besides known limitations, the nearly universal absence of
+mechanistic underpinnings for such signatures represents as major barrier
+toward successful implementation of clinically useful biomarkers. To
+overcome this limitation we constrained the search for predictive models
+to those with mechanistic justification, by incorporating microRNA (miR)
+and transcription factor (TF) gene regulatory networks directly into the
+learning process of cancer phenotypes.Methods. To illustrate the impact
+of embedding such regulatory motifs into computational learning, we
+analyzed the ability to predict estrogen receptor (ER) status from
+transcriptional data. We applied this approach to two independent breast
+cancer studies used as training and validation sets respectively. This
+analysis provided a test case with well-characterized clinical
+attributes, in which the ER itself is a TF engaged in regulatory miR/TF
+motifs. We built our predictors using Top Scoring Pair (TSP), a two-gene
+parameter-free classifier returning one class (ER positive) or the other
+(ER negative) based on the relative ordering of the two genes. We
+compared classification performance between TSPs chosen from all possible
+gene pairs and TSPs constructed under network-based constraints - random
+and mechanistic TSPs respectively hereafter. Each mechanistic TSP
+consists of a gene pair: the first gene regulates a miR or a TF hub,
+which in turn regulates the second gene. We started from a network of 200
+TFs, 373 miRs, and 2772 target genes based on regulatory information from
+the miRgen v2.0 and TarBase v5.0 databases.Results. We assessed the
+classification accuracy of the TSP classifiers derived from the training
+dataset in the validation set and nearly all top-performing predictors
+were based on regulatory motifs. A Wilcoxon rank-sum test comparing the
+random classifiers with either TF or miR based TSPs had P-values of 1014
+and 1026, respectively. Most of such top mechanistic predictors involved
+the ER gene (ERS1), consistent with the underlying biology. The
+mechanistic predictor also paired ERS1 expression with genes relevant to
+the biology. For instance, TSP selected POU2F1 _ a TF member of the POU
+family also known as OCT1 _ which physically interacts with the ER itself
+and BRCA1, recruiting BRCA1 to the ESR1 promoter modulating ER
+expression. Consistent with the classifier, BRCA1-mutant breast tumors
+are typically estrogen ER negative.Conclusions. We have implemented a
+novel class of mechanistic predictors by hardwiring gene regulatory
+network information into statistical learning of cancer phenotypes. This
+approach has intrinsic added value for knowledge discovery and disease
+treatment design, and will ultimately move the field towards a successful
+transition to personalized health care.
+

@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Preclinical evaluation of imipridone ONC201 in triple negative
+breast cancer identifies predictive biomarkers and combinatorial
+opportunities.
+
+
+Background: Triple negative breast cancer (TNBC) lacks effective targeted
+therapy, leaving chemotherapy as the only therapeutic option. Metastatic
+TNBCs eventually develop resistance to chemotherapy via several
+mechanisms including apoptosis evasion, hence representing an urgent
+unmet need for novel therapies. ONC201 is a first-in-class imipridone
+that induces caspase-mediated apoptosis in multiple cancers including
+TNBC, selectively antagonizing dopamine D2-like receptors (DRD2)
+resulting in inhibition of Ras signaling and cell death. Selective
+antagonism of D2-like receptors has been shown to induce cell death in
+cancer cells via the same signaling pathways engaged by ONC201. To
+translate these early findings for breast cancers patients, more studies
+to prove ONC201’s activity and mechanism of action in breast cancers
+are needed. In this study, we tested the efficacy of ONC201 in TNBC cell
+lines, and further confirmed the mechanism of action of ONC201 by
+studying the association between DRD2/DRD5 and ONC201 efficacy.
+Additionally, we performed siRNA kinome screening to identify
+combinatorial opportunities to further enhance ONC201 efficacy in TNBC.
+
+Method: We determined the efficacy of ONC201 in 20 TNBC cell lines by
+determining the IC50. We then selected one cell line with low IC50
+(CAL51) and high IC50 (HCC70) for siRNA synthetic lethality screening via
+2D and 3D culture systems. Additionally, we correlated the IC50 with the
+mRNA expression of DRD2 measured by Affymetrix microarray on each TNBC
+cell lines with IC50 of the ONC201. Result: IC50 ranged from 2.09 to
+40μM, with median IC50 of 10μM. No correlation between Vanderbilt TNBC
+molecular subtype and IC50. 2D/3D siRNA kinome screening and Ingenuity
+pathway analysis showed PIK3, MAPK, and Ephrin receptor pathways as top
+three target candidates correlating with tumor growth inhibition efficacy
+of ONC201. The long variant of DRD2 mRNA expression and ONC201 IC50
+showed a correlation. There was a negative correlation between mRNA
+expression of DRD5 and IC50 (R2=0.3601, P=0.018).
+
+Conclusion: Our preclinical results suggest that ONC201 is active is TNBC
+cells within previously proven safe therapeutic dose and provides
+potential combinatorial opportunities with PI3K/MAPK targeted drugs.
+These results highlight the importance of targeting the dopamine receptor
+pathway for ONC201 efficacy and supports DRD5 as a potential predictive
+marker. Targeting DRD2 and apoptosis induction could be one of
+therapeutic strategy in triple negative breast cancers. Ongoing work
+involves further in vitro and in vivo studies to determine the best
+synergistic therapeutic partner and conducting a phase II single agent
+trial to study the pharmacodynamics changes induced by ONC201 in TNBC.
+
+

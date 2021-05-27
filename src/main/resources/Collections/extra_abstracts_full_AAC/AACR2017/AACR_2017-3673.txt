@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Preclinical toxicology and pharmacology for the 4-1BB/HER2
+bispecific PRS-343: A first-in-class costimulatory T cell engager.
+
+
+Background. 4-1BB (CD137) is a key costimulatory immunoreceptor and a
+highly promising therapeutic target in cancer. To overcome toxicity and
+efficacy limitations of current 4-1BB targeting antibodies, we have
+developed PRS-343, a 4-1BB/HER2 bispecific based on Anticalin®
+technology. We have previously reported on the generation and
+characterization of PRS-343 with regard to preclinical proof-of-concept
+and basic drug-like properties.1 Here, we describe the preclinical
+dataset supporting initiation of a first-in-patient trial.
+
+Methods and Results. The pharmacology of PRS-343 was investigated by ex
+vivo assays based on mixed culture of human PBMC and tumor cell lines. We
+find that 4-1BB costimulated T cells prominently increase production of
+IL-2, GM-CSF, TNF-α and IFN-γ. Using a set of immortal cancer cell
+lines spanning a range of HER2 surface copy numbers, we identified a copy
+number threshold above which PRS-343 reliably elicited T cell
+costimulation with a high potency and an EC50 in the subnanomolar range.
+PRS-343 was well tolerated in a repeat-dose study in cynomolgus monkeys,
+with no overt toxicity and no significant drug-related toxicological
+findings. Pharmacokinetic assessment confirmed dose-proportional exposure
+of the animals during the course of the study. In a mouse model of human
+PBMC-induced xenograft-vs-host disease (xGvHD), PRS-343 did not show an
+acceleration of xGvHD development, in contrast to a 4-1BB targeting
+benchmark. Again utilizing ex vivo assays, we found no PRS-343 induced T
+cell costimulation in a panel of primary cells, showing that
+physiological levels of HER2 are insufficient for activation. In a
+cytokine release assay, proinflammatory cytokine induction by PRS-343 in
+the absence of a primary TCR stimulation was negligible.
+
+Conclusion. The ex vivo experiments described indicate that HER2
+expression level is expected to be a reliable marker for patient
+stratification for PRS-343. The toxicology assessment of PRS-343
+indicates that the benign toxicity profile of trastuzumab is retained in
+PRS-343 with regard to HER2 targeting, and that PRS-343 is expected to
+elicit its costimulatory effects strictly on T cells also receiving a
+primary TCR signal and strictly localized to HER2-positive tumors. This
+is in agreement with in vivo mouse model data showing PRS-343 leads to
+tumor-localized CD8+ T cell expansion,1 and supports the potential of
+PRS-343 as an efficacious yet well tolerable 4-1BB costimulating agent.
+The reported data is the basis for the trial design of a first in patient
+Phase 1 trial with PRS-343.
+
+1Cancer Immunol Res 2016;4(11 Suppl):Abstract nr B016.
+
+

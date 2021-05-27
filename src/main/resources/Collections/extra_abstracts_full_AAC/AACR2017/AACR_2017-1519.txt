@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Estrogen receptor beta and p53 signaling crosstalk: implications
+for ER beta as a potential therapeutic target in triple negative breast
+cancer.
+
+
+Despite over 20 years of research, there is no current consensus on
+whether estrogen receptor β (ERβ) is pro- or anti-tumorigenic. With its
+expression found among all breast cancer subtypes, ERβ is a potentially
+valuable therapeutic target for breast cancers that lack effective,
+targeted therapies, especially the triple negative breast cancer (TNBC)
+subtype. In the published literature, there has been no consensus as to
+whether ERβ functions as a pro- or anti-tumorigenic protein, although a
+bifaceted role for ERβ has been proposed. Previous studies from our lab
+have shown that ERβ can directly bind and interact with p53, resulting
+in inhibition of its functions. Knockdown of ERβ in a breast cancer cell
+line with wild-type (wt) p53 (MCF-7) elicits opposite functional effects
+compared to knockdown of ERβ in a TNBC breast cancer cell line with
+mutant (mut) p53 (MDA-MB-231). Therefore, our hypothesis is that ERβ
+functions are dependent on p53 context. Besides having different p53
+statuses, these two cell systems also have many other genetic differences
+that may or may not contribute to the opposing functions of ERβ.
+Currently, we are using an isogenic cell system that allows for
+expression of different combinations of ERβ and p53 (wt or mut)
+proteins. Here, we used CRISPR/Cas9 technology to knockout (KO) the TP53
+gene in MDA-MB-231 cells, resulting in a complete absence of the
+endogenous mut-p53 protein. By transiently transfecting back in wt-p53,
+we can induce a prototypical wt-p53 response, which causes an increase in
+p53 target genes accompanied by a decrease in cell growth. Meanwhile, the
+parental cell line with endogenous mut-53 protein expression shows
+downregulation of p53 target genes and increases cell growth. This
+demonstrates that wt-p53 is still functional in the context of a cell
+that originally expressed mut-p53, and that wt-p53 and mut-p53 have
+opposing functions. In this system, we demonstrate that ERβ decreases
+p53 target gene expression and apoptosis in the wt-p53 context.
+Conversely, in the mut-p53 context, ERβ increases p53 target gene
+expression, while decreasing cell cycle progression. Taken together,
+these data support a pro-tumorigenic role of ERβ in the wt-p53 context,
+and an anti-tumorigenic role of ERβ in the mut-p53 context in our
+isogenic system. Finally, we explore the ability of ERβ ligands to
+modulate the ERβ-p53 interaction and subsequently affect p53 functions.
+We have found that two ERβ antagonists, 4-hydroxytamoxifen and PHTPP,
+have opposite effects on p53 target genes, suggesting a difference in
+their ability to modulate the ERβ-p53 interaction. Our data show that
+p53 status of the tumor should be taken into consideration for
+therapeutic targeting of ERβ in TNBC.
+
+

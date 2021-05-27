@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: RNA sequencing of bladder cancer patient-derived xenograft models
+identifies genes associated with chemoresistance.
+
+
+Background: Bladder cancer is among the top ten most common cancers, with
+about ~380,000 new cases and ~150,000 deaths per year worldwide.
+Platinum-based combination chemotherapy is commonly used to treat
+advanced bladder cancer. It has been shown that only ~50% of the patients
+with advanced bladder cancer respond to platinum-based therapy.
+
+Methods: We have utilized a patient-derived bladder cancer xenograft
+(PDX) platform to characterize the molecular mechanisms that contribute
+to resistance of gemcitabine-cisplatin combination therapy in advanced
+bladder cancer. We have also identified key regulatory pathways in our
+PDX models that can be targeted to treat chemotherapy resistant bladder
+cancer using RNAseq analysis. Transcriptome profiling of P0 (passage 0)
+bladder cancer xenograft tumors from 4 PDX lines (2 gemcitabine-cisplatin
+resistant lines and 2 drug sensitive lines) was performed by RNA-Seq
+analysis, before and after a 21-day cisplatin/gemcitabine drug treatment
+regimen.
+
+Results: The RNA-seq data has indicated significant differences between
+the transcriptional profiles of drug-sensitive and drug-resistant tumors.
+PDXs retained morphology and shared 92-97% of genetic alterations of
+parental cancer cells. We identified 333 genes >2 fold up or down
+regulated in the drug resistant tumors compared to the drug sensitive
+tumors. Significantly up-regulated genes in drug resistant tumors
+analyzed include metabolic enzymes ALDH2, ALDH3A1, ALDH4A1 and ALDH7A1,
+transporter proteins ABCA1, SLC1A4, SLC2A5, SLC30A1, SLC39A6, SLC7A5 and
+SLC9A3, Notch ligand JAG2, Growth hormone receptor GHR and transmembrane
+protein GPNMB. Consistent with the change of cell surface proteins such
+as GHR and GPNMB, the MAPK and the PI3K-AKT pathways were upregulated
+when PDXs became resistant to cisplatin treatment. Additional changes in
+gene expression based on RNA-seq data before and after drug treatment
+were also found.
+
+Conclusion: Chemoresistance to gemcitabine and cisplatin is associated
+with altered expression of several cell surface proteins and upregulation
+of the downstream signaling pathways. Targeting these cell surface
+proteins can possibly be harnessed to overcome chemoresistance. GPNMB is
+a type I transmembrane protein that has previously been shown to be
+up-regulated in many metastatic cancers including breast cancer.
+Potentially targeting GPNMB with glembatumumab vedotin, an
+antibody-drug-conjugate has shown promising results in treating several
+cancers including breast cancer and osteosarcoma. Further studies will
+elucidate whether targeting GPNMB is an effective strategy for the
+treatment of chemotherapy resistant bladder cancer.
+
+This study received funding by a developmental grant from the UCDCC. This
+work was conducted under the auspices of the USDOE by LLNL
+(DE-AC52-07NA27344). IM number: LLNL-688318
+
+

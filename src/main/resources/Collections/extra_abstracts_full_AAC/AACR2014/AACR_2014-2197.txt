@@ -1,0 +1,45 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Interaction between genetic variants in one-carbon metabolism and
+folate biomarkers on colorectal cancer risk: The Women's Health
+Initiative observational cohort
+
+
+Folate-mediated one-carbon metabolism (FOCM) is important in the
+development of colorectal cancer (CRC), but gene-nutrient interactions in
+this relationship have not been comprehensively evaluated. We
+investigated whether folate modified the association of genetic variants
+of FOCM with CRC risk. Among 821 Caucasian case/control matched pairs in
+the Women's Health Initiative observational cohort (1993-2008), we
+genotyped 453 single nucleotide polymorphisms (SNPs) tagging 227
+independent loci in 30 genes in FOCM pathways (AARS, ADH1B, ADH1C, BHMT,
+BHMT2, CBS, DHFR, DNMT1, DNMT3A, DNMT3B, EHMT1, EHMT2, FOLH1, FOLR1, GGH,
+GNMT, MAT1A, MAT2B, MTHFD1, MTHFD2, MTHFR, MTR, MTRR, PON1, PRDM2, SHMT1,
+SHMT2, SLC19A1, TCN2, and TYMS). Folate concentrations in plasma and red
+blood cell (RBC) were measured by radioassays. Multivariable conditional
+logistic regression was used to estimate odds ratios, and likelihood
+ratio tests were performed to test the differences in the associations of
+SNPs with CRC among plasma/RBC folate tertile categories. Nominal
+P-values were reported for non-synonymous and candidate SNPs. For
+tagSNPs, we used the Benjamini and Hochberg method to control false
+discovery rate (FDR) at the gene level. When comparing homozygous
+variants with wild-types, we observed higher risks of CRC associated with
+genetic variants in folate absorption and uptake in the presence of low
+(tertile 1) plasma folate concentrations: GGH (rs16930073, flanking 3UTR,
+P-interaction=0.006), FOLH1 (rs10839236, intron, candidate, P=0.018;
+rs2299650, intron, P=0.016), and FOLR1 (rs651646, intron, P=0.021). In
+other FOCM pathways (methionine/S-adenosylmethionine reactions, vitamin
+B12 transport, and DNA methylation), plasma/RBC folate also modified
+important non-synonymous and candidate SNPs in relation to CRC risk: MTRR
+(C524T [p.S202L], P=0.045), CBS (rs1801181 [p.A360A], P=0.035), TCN2
+(C776G [p.R232P], P=0.040), DNMT1 (A201G [p.I311L], P=0.016), DNMT3A
+(rs11695471 [intron 22 A>T], candidate, P=0.002), and DNMT3B (283T>C, 5
+near gene, p=0.043). In addition, interactions with plasma/RBC folate
+were observed for several variants in paraoxonase 1 (PON1), an enzyme
+generating homocysteine from homocysteine thiolactone: p.L55M (P=0.021),
+rs8491 (3UTR, P=0.037), rs854548 (3 near gene, P=0.033), rs854551 (3UTR,
+P=0.045), and rs3917527 (intron, P=0.006). All significant interactions
+with tagSNPs remained as noteworthy at the FDR 25% level. In conclusion,
+our observations highlight the importance of folate status when
+investigating FOCM-related genetic influences on CRC risk in
+postmenopausal women.
+

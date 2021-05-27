@@ -1,0 +1,30 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Comparison of variant calling from whole exome and transcriptome
+sequencing using CLC Cancer Research Workbench
+
+
+The now commonplace application of whole exome and genome sequencing in
+cancer research and diagnostics has allowed for rapid identification of
+SNPs and InDels in protein coding regions, but neither method is able to
+reveal situations of incomplete penetrance. That is, while possible
+cancer causing allele variants can be detected with these methods, this
+does not mean these alleles are actually expressed. Reasons for this are
+various and include epigenetic effects and changes, transcription
+regulation mechanisms, mRNA degradation and epistasis. By contrast,
+transcriptome sequencing (RNA-seq) can be used to identify the alleles
+being expressed. This method has the additional benefits of providing
+insight into the transcript expression levels, expressed allele isoforms
+and offers the possibility of identifying instances of fusion
+transcripts. Such knowledge about variants expressed in tumor cells is
+crucial for the identification of effective drug targets.Here, we
+illustrate the benefits of combining whole exome sequencing with RNA-seq
+by analyzing whole exome and RNA-seq datasets from uveal melanoma samples
+with our newly developed CLC Cancer Research Workbench. This software
+suite enables the complete analysis of both approaches, including variant
+calling, followed by the comparison of the called variants. The analysis
+will be carried out using user-friendly, automated workflows distributed
+with the CLC Cancer Research Workbench. In this work, we discuss and
+compare variants identified in the exome and RNA-seq datasets using our
+algorithms, and focus particularly on variants identified in the exome
+data that appear not to be expressed in the tumor samples.
+

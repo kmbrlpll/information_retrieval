@@ -1,0 +1,42 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Drug set enrichment analysis : A computational approach to
+identify functional drug sets
+
+
+Most drug-testing approaches published so far focus on identifying a
+single drug that shows favorable response and is associated with a known
+cancer biomarker such as the drug Imatinib in BCR-ABL gene fusion
+positive cells. We developed and applied drug set enrichment analysis
+(DSEA) to find enriched patterns or statistically significant
+similarities (overlaps) between the drug responses of a test sample
+against a cohort of 182 previously screened cancer samples. The samples
+studied included established (ATCC) cancer cell lines, drug-resistant
+cancer cell models, ex-vivo patient cancer cells in primary cultures,
+including conditionally reprogrammed cancer cells from patients. DSEA is
+adopting Gene Set Enrichment Analysis statistics commonly used for gene
+expression analysis to high throughput drug testing data. Our drug
+screening (Pemovska et al., Cancer Discovery, 2013) was done with a panel
+of 306 established (FDA-approved) and emerging targeted cancer drugs such
+as tyrosine-kinase inhibitors (e.g. EGFR, PDGFR, BRAF, MET), S/T-type
+inhibitors, (e.g. MEK, Plk1, Akt, Aurora, Chk1), and inhibitors of other
+pathways (HDACs, Hh, BCL2, PI3K, PARP) and many others. The readout was
+based on viability of cells after a 72 hour culture.The DSEA approach is
+based on taking the top most sensitive drugs (above a defined sensitivity
+score cut-off) in an individual cancer sample and then identifying
+overlapping drug response profiles in previously screened reference
+samples. Our hypothesis is that the most sensitive drug sets in any given
+sample tend to show similar response profiles in a cohort of similar
+samples. We convey the correlations and drug set enrichment analysis
+results as dendrogram trees, plots and tables with enrichment and
+significance scores.Interestingly, our results show that clustering of
+drug sensitivity testing data does not place all cancer cell line samples
+within well-established subgroups based on biological features or
+histological origin. We find a similar tendency in ex vivo patient
+samples. Therefore, comprehensive drug response profiles seen may reveal
+novel biological data that reflect pharmacologically-relevant, phenotypic
+cancer cell states. DSEA could also provide novel means to subtype
+previously poorly characterized cancer samples based on their drug
+response profiles and thereby in the future facilitate the choice of
+therapies to patients whose cancers repond in an atypical way as compared
+to the expectations based on anatomical origin or genomic composition.
+

@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Overexpression of chromosome 3q26-29 miRNAs in squamous cell
+carcinoma of the lung
+
+
+The amplification of the distal portion of chromosome 3q in lung cancer
+is a major signature of neoplastic transformation, particularly in the
+squamous cell carcinoma (SCC) of the lung. A number of potential drivers
+in the 3q amplicon have been identified and are proposed to contribute to
+the development of lung SCC. miRNAs have emerged as a new class of small,
+non-coding RNAs that regulate gene expression and might act as integral
+parts of the molecular architecture of oncogene and tumor suppressor
+networks in human cancer, including non-small cell lung cancer (NSCLC).
+miR 1224-5p, 1248 and 944 are located at 3q amplicon and overexpressed in
+50%, 26% and 53% of 30 primary SCCs when compared to normal tissues. The
+overexpression of these miRNAs was further validated in 237 TCGA lung SCC
+samples compared with 35 normal tissues (p=0.007, 1.18E-16 and 7.71E-20,
+respectively). The expression of the three miRNAs was higher in lung SCC
+compared to lung adenocarcinomas (p=8.19E-05, 1.04E-33 and 3.37E-95,
+respectively), suggesting unique roles of these miRNAs in the lung SCC
+development. Using miRNA mRNA target prediction tools (miRANDA and
+TargetScan) and in the combination with a literature search, we found
+RUNX1T1 and SMAD4 were candidate tumor suppressor gene target for
+miRNA-1224-5p and miRNA-1248. Downregulation of RUNX1T1 and SMAD4 were
+confirmed in TCGA lung SCC dataset. Using real-time RT-PCR, we found that
+the same three miRNAs 1224-5p, 1248 and 944 are overexpressed in 3q
+amplified lung SCC cell lines H520 and HCC95. When miRNA inhibitors were
+used to repress the expression of miR-1224-5p or miR-1248 in H520, we
+found that RUNX1T1 and SMAD4 protein expression levels were increased,
+suggesting that these tumor suppressor genes are regulated by miR-1224-5p
+or miR-1248. Lastly, knockdown of miR-1224-5p or miR-1248 using miRNA
+inhibitors led to 35-60% growth inhibition in H520 and HCC95 cells.
+Together, these results indicate potential roles for miR-1245-5p and 1248
+in regulating cell proliferation by directly targeting tumor suppressor
+genes RUNX1T1 or SMAD4 in lung SCC. This work provides, for the first
+time, evidence for overexpression of miRNAs at the 3q26-29 amplicon that
+might be implicated in the oncogenesis of lung SCC. The work is supported
+by the NIH Grant R01 CA102353 to PPM and Lung Cancer Research Foundation
+grant (2011) to JQ.Note: This abstract was not presented at the meeting.
+

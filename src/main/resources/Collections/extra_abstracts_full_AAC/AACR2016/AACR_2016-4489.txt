@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Using functional data from Roadmap Epigenomics to inform analysis
+of rare variants linked to gene expression in a large colorectal cancer
+study
+
+
+To investigate the role of low frequency and rare genetic variation in
+colorectal cancer (CRC) susceptibility, the Genetics and Epidemiology of
+Colorectal Cancer Consortium (GECCO) and the Colorectal Cancer Family
+Registry (CCFR) conducted whole genome sequencing and imputed into
+genome-wide association studies (GWAS) of 14,718 CRC cases and 12,186
+controls. These data provide a unique opportunity to investigate rare
+variants, which contribute to the majority of the variation in the
+genome. To improve power for discovering rare CRC susceptibility variants
+(To investigate the role of low frequency and rare genetic variation in
+colorectal cancer (CRC) susceptibility, the Genetics and Epidemiology of
+Colorectal Cancer Consortium (GECCO) and the Colorectal Cancer Family
+Registry (CCFR) conducted whole genome sequencing and imputed into
+genome-wide association studies (GWAS) of 14,718 CRC cases and 12,186
+controls. These data provide a unique opportunity to investigate rare
+variants, which contribute to the majority of the variation in the
+genome. To improve power for discovering rare CRC susceptibility variants
+(<1% MAF), Roadmap Epigenomics data were used to construct biologically
+relevant testing sets of enhancers, promoters and exons for gene-based
+association testing across the genome. Since enhancers exert their
+effects by impacting expression of target genes, we defined enhancer-gene
+networks by linking enhancer(s) to target gene expression using Roadmap
+chromatin state maps and gene expression. Variants in linked enhancers
+from digestive and immune tissues were aggregated together with variants
+in the promoter and non-synonymous coding variants in the target gene. We
+tested 9,884 variant sets for association with CRC risk using the Mixed
+effects Score Test (MiST). Our most significant findings are for
+acyl-Coenzyme A dehydrogenase, C-2 to C-3 short chain precursor-ACADS (p
+= 1104), AlkB homologs, including AlkB homolog 1-ALKBH1 (p = 2104), and
+SRA stem-loop interacting RNA binding protein-SLIRP (p = 2104). We will
+replicate these findings within the Colorectal Cancer Transdisciplinary
+Study (CORECT), as well as additional samples currently genotyped in CCFR
+and GECCO (over 25,000 CRC cases and controls). Although the top findings
+are statistically non-significant in this initial dataset, each of these
+genes linked to molecular pathways implicated in CRC carcinogenesis
+(fatty acid metabolism, DNA/RNA repair, and Nuclear Receptor signaling
+pathway, which interacts with the Wnt, beta-catenin pathways to result in
+a diverse array of cellular effects including altered cellular adhesion,
+tissue morphogenesis, and oncogenesis). Our current findings suggest that
+although functional insight can improve power for novel discovery, even
+larger sample sizes and/or pathway-based analyses are necessary to
+understand the role of rare variants in CRC carcinogenesis.
+

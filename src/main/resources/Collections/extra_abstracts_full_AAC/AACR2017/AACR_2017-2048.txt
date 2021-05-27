@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Saturated fatty acids in cell membrane phospholipids play an
+important role in chemoresistance in colorectal cancer.
+
+
+[Background and Aim] Resistance to chemotherapy represents the major
+obstacle to survival in patients with chemoresistant colorectal cancer.
+Various factors, such as drug efflux, autocrine survival signaling, and
+alterations in DNA damage repair mechanisms, can contribute to
+chemoresistance; however, the actual underlying mechanism is yet to be
+elucidated. The aim of this study was to elucidate the mechanism behind
+anticancer drug resistance based on lipidomics.
+
+[Materials and Methods] 1) Spheroids were derived from three colorectal
+cancer patient-derived xenograft models (A, B, and C) that were incubated
+with chemotherapeutic agents, such as 5-fluorouracil (5-FU). We analyzed
+the response rate of spheroids under 5-FU treatment. Global lipid
+analysis was performed on 5-FU resistance spheroids (A) and sensitive
+spheroids (C) using a Q Exactive LC-MS/MS mass spectrometer, and lipid
+identification was performed using the Lipid Search software. 2) We tried
+to identify genes that were responsible for changes in phospholipid
+profiles in the cell membrane. 3) To determine phospholipid profile
+changes in the cell membrane that occur in colon cancer cell lines
+(HCT116, SW480) during anticancer drug resistance, the genes responsible
+for such resistance were knocked down using siRNA.
+
+[Results and discussion] 1) Response to 5-FU was different in individual
+spheroids. Global lipid analysis and chemosensitivity assay revealed that
+phospholipids of 5-FU resistant spheroids were rich in saturated fatty
+acids (SFAs), while those of the 5-FU sensitive spheroids were rich in
+monounsaturated fatty acids (MUFAs). 2) The enzyme stearoyl-CoA
+desaturase (SCD) converts SFAs to MUFAs in the phospholipids. Based on
+these findings we hypothesized that decreased SCD expression is possibly
+associated with chemoresistance. 3) Cell lines with SCD knock down
+demonstrated increased SFA containing phospholipids and chemoresistance
+towards 5-FU. Viable cells after the administration of the anti-cancer
+agent confirmed that the expression of CD44 was upregulated. Therefore,
+changes in the phospholipid composition of cell membranes regulate 5-FU
+resistance in colon cancer.
+
+[Conclusions] Identification and analysis of the role of membrane lipids
+has become possible using high-sensitivity and high-resolution mass
+spectrometers and the relevant software, such as Lipid Search. Changes of
+phospholipid composition regulates chemoresistance. In future,
+investigation of the pathophysiology of membrane lipids in cancer may
+help to reveal novel strategies for cancer therapy.
+
+

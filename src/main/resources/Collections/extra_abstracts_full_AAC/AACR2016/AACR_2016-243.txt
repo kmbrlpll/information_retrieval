@@ -1,0 +1,38 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Investigating microtubule growth dynamics in patient-derived
+metastatic prostate cancer cells
+
+
+Advanced prostate cancer (PC) is treated primarily by means of
+chemotherapy with one of the clinically approved microtubule
+(MT)-targeting agents (MTAs): paclitaxel, docetaxel and cabazitaxel. The
+mechanism of action of the MTAs on the cellular level is to bind to MTs
+and inhibit MT-dependent intracellular pathways, ultimately leading to
+cell death. In PC, MTAs are the only chemotherapy class shown to improve
+survival, however, there is high variability of response to MTA
+chemotherapy among patients as well as emergence of resistance to drug
+action which hampers the clinical efficacy. Clinicians need additional
+information to match individual patient tumors to the most effective
+drugs or refrain from treating patients that will not respond. However,
+the precise mechanism of action or resistance development to MTAs is not
+understood, which represents a critical gap in our knowledge to select
+the best treatment. Our hypothesis is that there are inherent differences
+in tumor MT dynamics among individual patients which dictates their
+response to treatment with specific MTAs. To this end, we envision that a
+systematic characterization of PC MT dynamics and their response to MTAs
+will allow chemotherapy customization and prolong survival. Specifically,
+our approach consists of the analysis of metastatic castrate resistant PC
+(mCRPC) organoids (Gao D. et al, 2014) derived from bone (acetabulum,
+vertebrae), soft tissue (salvage prostatectomy, lymph nodes), pleural
+effusion and circulating tumor cells biopsy samples obtained from
+metastatic patients who have received hormonal therapy and the MTA
+docetaxel or hormonal therapy alone or no treatment. We apply a
+quantitative single-cell image analysis algorithm (ClusterTrack) to
+measure a panel of twelve distinct MT dynamics parameters (a MT dynamics
+signature). Preliminary analysis suggests differences between different
+mCRPC organoids. MT tracking results indicate a correlation of decreased
+MT growth rate with increased Op18/stathmin expression. In this context,
+we hypothesize that differential expression of MT regulating genes
+affects specific parameters of MT dynamics, thus determining the
+sensitivity to MTA treatment.
+

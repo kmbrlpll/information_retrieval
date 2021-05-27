@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Using paired tissue and serum samples to characterize human lung
+cancer metabolomics with 1H HRMAS MRS.
+
+
+Purpose: We used high resolution magic angle spinning proton MRS to
+identify metabolomic profiles of lung cancer tissue and serum samples.
+Previous studies have reported that profiles for lung cancer tissue may
+be predictive of the profiles of matched serum samples. We further
+searched correlations of metabolomic data with traditional histopathology
+from the same tissue samples, and identified serum lung cancer
+metabolomic markers based on matched tissue analysis.Methods: Paired
+tissue and serum samples from 107 patients of adenocarcinoma (AC) and
+squamous cell carcinoma (SCC), and 29 serum samples from control subjects
+without lung disease, were analyzed. MR experiments were carried out on a
+Bruker AVANCE spectrometer operating at 600 MHz (14.1T) and pre-cooled to
+4C. A 4mm zirconia rotor was used with inserts to create a 10l sample
+space, and D2O was added for 2H field locking. Rotor spinning rate was
+regulated and verified by measuring the inter-SSB distances from spectra
+with an accuracy of 1.0Hz. A repetition time of 5s and 128 transients
+were used to acquire each spectrum. Spectra were collected with a
+spinning rate of 3600Hz, with a rotor synchronized CPMG filter to reduce
+broad resonances. Spectra were analyzed by an in-house MatLab based
+program. After spectroscopy, tissue samples were fixed in formalin,
+embedded in paraffin, cut into sets of 5m sections at 100m intervals, and
+stained with hematoxylin and eosin. Volume percentages of histological
+features (cancer, stroma, necrosis, lymphatic structures, and cartilage)
+were quantified by a pathologist.Results: We used Lasso, a feature
+selection method using L1 regularized linear regression, to select a
+subset of peaks from the spectral results to build a linear model to
+predict AC/SCC readings. A 2-peak model (peaks at 2.14-2.10 and 0.89-0.89
+ppm) has been identified as the most optimal model, and the predicted
+probability from this model agrees well with the AC/SCC readings. We used
+the same procedure to build predictive models for quantitative
+histopathology readings from serum and tissue samples. Out of the four
+histopathology readings (%Cancer, %Fibrosis/ Inflammation, %Necrosis and
+%Cartilage), we were able to build a model for %Fibrosis/Inflammation (p
+=1E-5) using 3 peaks from serum samples (peaks at 2.09-2.03, 1.33-1.32
+and 3.27-3.24), and a model for %cancer cells (p =0.002) using one peak
+from tissue samples (peak at 3.73-3.71). Further data analyses are still
+underway.Conclusions: These preliminary results, showing the potential to
+predict AC/SCC status with metabolomic profiles from serum, could have
+important implications in the screening for lung cancer. If patients
+could be identified by suspicious serum metabolomic profiles, and
+subsequently undergo more advanced imaging, lung cancer could be
+diagnosed at an earlier stage where effective treatment and a good
+prognosis is more likely.
+

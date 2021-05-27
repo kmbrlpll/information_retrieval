@@ -1,0 +1,70 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Prediction of breast cancer progression using nuclear morphometry
+
+
+Introduction:The progression of breast cancer (BrCa) involves nuclear
+morphometric changes, which are used in the pathological diagnosis of
+breast cancer. Although changes in nuclear morphometry (NM) contribute to
+histologic alterations observed in breast cancer, an accurate and
+autonomous quantification of NM changes have remained elusive. Here we
+created an image analysis macro to quantify changes in nuclear
+parameters, including size, shape, and DNA content and used these
+parameters to predict BrCa progression.Materials & Methods:Three tissue
+microarrays (TMAs) with 140 BrCa cases, stratified by TNM stage were used
+for this study. The TMAs were generated using 6 mm cores from primary
+tumors of a Korean cohort from Yengnam University Hospital, Daegu, South
+Korea. Specimens were obtained from surgical resection between January
+1995 and January 2004. Each case was represented by 2 cores on the TMAs.
+Clinical information were provided by the pathology reports and patients
+medical records. H&E slides were first used for pathological diagnosis of
+BrCa after which slides were scanned with the Aperio scanner and the
+image of each core was separated using Aperio ImageScope software. The
+H&E stained nuclei from the tumor core were quantified using ImagePro
+Premier 9.1 software (MediaCybernetics). For each core, data of all
+regions of interest were pooled and the covariance of each parameter was
+generated. Data were first analyzed alone and then in combination using
+multivariate logistic regression (MLR) to predict the aggressive cases or
+recurrence. For all analysis, pIntroduction:The progression of breast
+cancer (BrCa) involves nuclear morphometric changes, which are used in
+the pathological diagnosis of breast cancer. Although changes in nuclear
+morphometry (NM) contribute to histologic alterations observed in breast
+cancer, an accurate and autonomous quantification of NM changes have
+remained elusive. Here we created an image analysis macro to quantify
+changes in nuclear parameters, including size, shape, and DNA content and
+used these parameters to predict BrCa progression.Materials &
+Methods:Three tissue microarrays (TMAs) with 140 BrCa cases, stratified
+by TNM stage were used for this study. The TMAs were generated using 6 mm
+cores from primary tumors of a Korean cohort from Yengnam University
+Hospital, Daegu, South Korea. Specimens were obtained from surgical
+resection between January 1995 and January 2004. Each case was
+represented by 2 cores on the TMAs. Clinical information were provided by
+the pathology reports and patients medical records. H&E slides were first
+used for pathological diagnosis of BrCa after which slides were scanned
+with the Aperio scanner and the image of each core was separated using
+Aperio ImageScope software. The H&E stained nuclei from the tumor core
+were quantified using ImagePro Premier 9.1 software (MediaCybernetics).
+For each core, data of all regions of interest were pooled and the
+covariance of each parameter was generated. Data were first analyzed
+alone and then in combination using multivariate logistic regression
+(MLR) to predict the aggressive cases or recurrence. For all analysis,
+p<0.05 was considered statistically significant.Results:Using
+multivariate logistic regression (MLR) to differentiate aggressive BrCa
+(TNM T3 & T4) from indolent BrCa (TNM T1 & T2) on the TMAs, our H&E NM
+model generated an receiver operating characteristic curve-area under the
+curve (ROC-AUC) of 0.75 with a sensitivity of 50.9% and specificity of
+84.3% at the predictive probability cutoff of 0.50. Parameters of nuclei
+diameter, size, staining intensity, and aspect ratio contributed to the
+MLR model. In addition, our H&E NM model also showed power in the
+prediction of recurrence based on the MLR (ROC-AUC = 0.80) with a
+sensitivity of 25.9% and specificity of 96.3% at the probability cutoff
+of 0.53. Parameters of nuclei diameter, size, staining intensity, and
+cluster contributed to the MLR model. The predictive probability (PP) is
+significantly higher in the aggressive and recurrent cases based on the
+two MLR models, respectively.Conclusions:We discovered that our automated
+quantification of tissue nuclear morphometry can be used to accurately
+predict BrCa aggressiveness and recurrence in women who underwent
+surgical resection of their primary tumors. Although further confirmatory
+studies our needed, our data suggests that this tool could provide an
+accurate predictor of tumor behavior and patient prognosis that could be
+used to inform therapy for BrCa patients.
+

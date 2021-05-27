@@ -1,0 +1,48 @@
+Meeting: 2013 AACR Annual Meeting
+Title: EGFR regulates Mcl-1 dependence in chemoresistant and acquired
+ABT-737-resistant high-risk neuroblastoma (HR NB).
+
+
+Patients with HR NB initially respond to treatment yet > 60% die of
+chemoresistant disease due to inhibited apoptosis. We have shown that HR
+NBs depend on anti-apoptotic Bcl-2 or Mcl-1 to sequester the pro-death
+protein Bim for survival. Mice carrying Bcl-2 dependent NB xenografts
+were cured with the Bcl-2/Bcl-xL antagonist ABT-737 plus cytotoxics, but
+Mcl-1 dependent NBs were resistant, as ABT-737 does not target Mcl-1. We
+also showed a Bcl-2 dependent NB cell line (SMS-SAN) selected in vitro to
+resist high dose ABT-737 (SAN-ABTR) altered Bim binding from Bcl-2 to
+Mcl-1, despite persistent Bcl-2 expression. SAN-ABTR is also resistant to
+common cytotoxic drugs compared to SMS-SAN, likely through acquired Mcl-1
+dependence. As no current molecules inhibit Mcl-1 directly, we
+hypothesized that targeting pathways that regulate Mcl-1 expression will
+restore chemotherapy and Bcl-2 antagonist sensitivity in HR NB. Real time
+cell sensing (xCELLigence) showed that SAN-ABTR at steady state had a > 2
+log increase in proliferation compared to SMS-SAN. Tyrosine kinases (TK)
+enhance NB proliferation and regulate Mcl-1 in adult cancers, but how
+they regulate Bcl-2 proteins in NB is unknown. Using phospho-protein
+microarrays, we found that EGFR and its downstream effectors, AKT, ERK
+1/2, and CREB were phosphorylated in SAN-ABTR but not in SMS-SAN.
+Co-immunoprecipitation (co-IP) showed that inhibition of EGFR by shRNA in
+SAN-ABTR reverted Bim from Mcl-1 back to Bcl-2 sequestration, despite
+persistent Mcl-1 expression and restored sensitivity to ABT-737 in vitro.
+EGFR inhibition also re-sensitized SAN-ABTR to cytotoxic agents.
+Immunoblots of a panel of 12 NB cell lines characterized for Bcl-2
+dependence patterns showed EGFR to be highly expressed in Mcl-1 dependent
+NBs but not in Bcl-2 dependent NBs. We inhibited EGFR by shRNA in Mcl-1
+dependent SKNBE(2) and again Bim moved from Mcl-1 sequestration over to
+Bcl-2, suggesting a role for EGFR in de novo Mcl-1 dependence. Inhibition
+of ERK 1/2 (using UO126) resulted in enhanced sensitivity to ABT-737 in
+Mcl-1 dependent, EGFR expressing NLF cells, suggesting EGFR is regulating
+Mcl-1:Bim binding through ERK. Work is ongoing to evaluate
+post-translational modifications causing EGFR mediated Bim:Mcl-1 binding
+in NB. This data supports a role for EGFR in both pre-existing
+chemoresistance and emergent targeted therapy resistance in HR NB through
+modulation of Bcl-2 family interactions. Earlier studies suggest that
+EGFR inhibitors alone have little utility in NB treatment. Here, we
+demonstrate that Bcl-2 sequesters Bim upon EGFR inhibitor displacement of
+Bim from Mcl-1. Therefore, EGFR inhibitors will be more effective if the
+Bcl-2 survival bias is subverted using Bcl-2 antagonists. The novel
+targeted combination of EGFR and Bcl-2 blockade has the potential to
+impact the survival of patients with HR NB as well as other EGFR
+overexpressing and Mcl-1 dependent cancers.
+

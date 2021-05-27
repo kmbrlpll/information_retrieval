@@ -1,0 +1,40 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Differences of DNA methylation patterns according to histologic
+subtypes of early gastric carcinomas
+
+
+Background: The DNA methylation change is known to play a crucial role in
+early gastric carcinogenesis. However, its association with the
+histologic subtypes of EGCs has not been fully elucidated. In this study,
+we aim to know whether the subtypes of early gastric carcinomas (EGCs)
+are related to the differences of DNA methylation or not using genome
+wide methylation assay. Materials and Method: The comprehensive
+methylation analysis was performed by Illumina Infinium methylation assay
+(IIMA, 450K BeadChip kit) covering 450,000 sites on 12 tumors and 12
+matched non-tumor mucosa from 12 patients with EGC. Hisytologically, the
+EGCs were devided into intestinal type (group A, n=6) and non-intestinal
+type (group B, diffuse=4 and mixed=2). The CpG sites in 450K microarray
+chip are classified into CpG islands, shores (2kb), shelves (2kb4kb) and
+open sea (>4kb) by CpG content and neighborhood context. According to the
+functional genomic distribution they are classified into promoter, body,
+3UTR and intergenic. To determine DMRs, average -values were computed
+with -values in signal intensity of over 3000. The -value was a result
+substracted average -value of one from the other. When is over 0.2 or
+below -0.2, it was considered to be meaningful and refered to
+differentially methylated regions (DMRs) . Results: There were 484 DMRs
+in group A tumor and 208 DMRs in group B. The pattern of DMRs were
+different between two groups. In group A tumor, most of DMRs (97.73%)
+were hypermethylated and 75.26% were in CpG island. On the other hand,
+the group B tumors showed that 63.94% of DMRs were hypermethylated and
+only less than half of them (48.87%) were in CpG island. In terms of
+functional genomic distribution of DMRs, promoter (38.66%) was the most
+common site in group A while body (54.14%) was in group B. On
+Hierarchical clustering analysis, the clear grouping was made by 208 DMRs
+in three cases, two of them being mixed-type, by both correlation and
+Euclidean methods. However, no distinct grouping was found with DMRs in
+group A. Hierarchical clustering analysis of non-tumor mucosa showed a
+distinct separation between group A and B. Conclusions: DNA methylation
+pattern was distinctively different between the histologic subtype of
+EGCs. In the intestinal type of EGCs, the DNA methylation seems to be
+started in non-tumor mucosa.
+

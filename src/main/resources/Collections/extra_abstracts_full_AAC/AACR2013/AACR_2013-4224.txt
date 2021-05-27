@@ -1,0 +1,30 @@
+Meeting: 2013 AACR Annual Meeting
+Title: A quick and easy way of assembling TALE/TALEN modules for genetic
+modifications in mammalian cells .
+
+
+The transcription activator-like effectors (TALEs) are a family of
+virulence factors produced by plant bacterial pathogens, and they are
+able to regulate expression of specific host genes by binding to the
+corresponding promoter regions in a sequence-specific manner. The
+transcription activator-like effector nuclease (TALEN) is made by fusing
+a nuclease to the DNA binding modules of TALE, which would allow for
+generation of DNA deletions, knockouts or knockins. Since their
+discovery, genes from different organisms have been successfully targeted
+using designer TALEs through assembling sequence specific modules, which
+is a critical step to make TALE/TALEN vectors. However, current methods
+of assembling DNA binding modules, such as the golden-gate ligation, are
+still time consuming and labor intensive. Moreover, they are also
+technically challenging. In the present study, we adopted a single step
+approach to assemble TALE modules. For proof of principle, we used p53
+binding site (Tgacttgcatgtacatgcc) derived from the lncRNA-RoR promoter
+for proof of principle. First, we designed four gBlock DNA oligos which
+carried 30 bp overlapping between two adjacent oligos. Then, we linked
+them together by PCR and subsequently directly cloned into an expression
+vector which carries two flanking TALE sequences. To determine the
+function of this construct, we generated a reporter vector carrying this
+p53 binding site and mCherry and showed that this newly made construct
+was able to activate the mCherry reporter. Experiments are underway to
+test if the p53 specific TALE is able to activate the endogenous
+lncRNA-RoR.
+

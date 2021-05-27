@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Non-additive and interaction effects of HLA class 2 polymorphism
+contributing to risk of glioma.
+
+
+Although genome-wide association studies have identified a number of
+susceptibility loci for adult glioma, little is still known regarding
+whether polymorphisms in the human leukocyte antigen (HLA) region
+contribute risk. HLA associations have previously been reported for a
+number of malignancies, with selected HLA polymorphisms investigated in a
+subset of glioma studies. However, no systematic analysis has been
+conducted to date, and no investigation into potential non-additive
+effects of such associations has been described. In this study, we
+conducted comprehensive genetic analyses of HLA variants in the major
+histocompatibility complex (MHC) region among 1,746 adult glioma patients
+and 2,312 controls from the GliomaScan Consortium. Genotype data were
+generated with the Illumina 660-Quad array, containing 1,822 SNP probes
+across the MHC region. We imputed HLA alleles using a reference panel of
+5,225 individuals in the Type 1 Diabetes Genetics Consortium who
+underwent high-resolution HLA typing via next-generation sequencing.
+Subjects were of European-ancestry, and case-control comparisons were
+adjusted for population stratification using ancestry-informative
+principal components. Because alleles in different loci across the MHC
+region are linked, we created multi-locus haplotypes consisting of genes
+DRB1, DQA1, and DQB1. Although none of the haplotypes were associated
+with glioma in additive models, DRB1*15:01-DQA1*01:02-DQB1*06:02 showed
+an improvement in model fit after the inclusion of a non-additive term,
+which was significant after Bonferroni correction (P = 2.5x10-3).
+Furthermore, the interaction of DRB1*15:01-DQA1*01:02-DQB1*06:02 with
+haplotype DRB1*04:01-DQA1*03:01- DQB1*03:01 resulted in a 3.80-fold
+increase in the odds of glioma (P = 8.8x10-3). Our results indicate that
+the DRB1*15:01-DQA1*01:02-DQB1*06:02 haplotype contributes to the risk of
+glioma via a dominant effect, with heterozygosity conferring greater risk
+of glioma than expected from homozygote disease risk in an additive model.
+
+

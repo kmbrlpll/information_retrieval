@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Deletion of Np63 and Np73 in p53 deficient mice results in TAp63
+and TAp73 compensation of p53 tumor suppression in vivo.
+
+
+p53 tumor suppressor undergoes mutational loss in majority of cancers
+contributing to tumor formation. Therapeutic strategies are aimed towards
+p53 overexpression in tumors or to identify targets that compensate for
+p53-functional loss. p63 & p73, share structural similarities to p53,
+making them excellent candidates for therapeutic compensation of p53.
+Unlike p53, p63 and p73 do not undergo mutational loss and their role in
+tumorigenesis is being delineated. p63 and p73 have two major isoforms,
+the transactivation (TA), with activities similar to p53 and the delta
+()N- isoform with oncogenic functions. Inhibition of TAp63 and TAp73 is
+observed in cancers as a consequence of overexpression of N isoforms of
+p63 and p73. In disparity, recent studies report, tumor suppressive
+properties of Np63 and Np73 in activating genes involved in DNA repair
+and apoptosis.To define the functional roles of Np63 and Np73 in cancer,
+mouse models targeting the N isoforms were generated. We observed that,
+Np63+/- and Np73/ mice on a p53/ background had lower thymic lymphoma
+incidence compared to the p53/ mice. I found TAp63 and TAp73 up regulated
+in the double mutant mice that correspond with an increase in
+p53-downstream apoptotic (PUMA, Noxa, BAX) and cell cycle targets (p21,
+p16, PML). This suggests that ablation of N isoforms mediate TAp63 and
+TAp73 up regulation inducing apoptosis or cell cycle arrest by activation
+of p53-downstream targets. To further demonstrate this, I ablated Np63
+and Np73 in vivo in p53/- mice thymic lymphoma by administering
+adenoviral-CRE specifically to the thymus. The CRE-treated mice had a
+significant thymic lymphoma regression within 3 weeks as imaged by MRI in
+comparison to the mock-treated mouse cohorts. Additionally, RNA-Seq
+analysis from CRE-treated versus untreated mice, has identified novel
+metabolic genes with apoptotic or cell-cycle functions. We further
+report, Np63 and Np73 to bind to promoter site of TAp63 and TAp73 by
+chromatin immunoprecipitation (ChIP). This supports the notion that
+ablation of N isoforms of p63 and p73 restores the function of TAp63 and
+TAp73 thus compensating for p53-tumor suppressive function in vivo. To
+test, if ablation of N isoforms reduces tumorigenesis in human cancers,
+Np63 and Np73 were knocked down in human cancer cell lines were p53
+expression was ablated or mutated. TAp63 and TAp73 were upregulated in
+Np63/Np73 knock down human cancer cell lines. However, induction of
+apoptosis or cell-cycle arrest was observed in p53-deleted cancer cell
+lines in comparison to the p53-mutated cell lines. This highlights the
+co-repressive effect of mutant p53, preventing activation of TAp63/TAp73
+downstream targets. Current work is aimed towards overcoming mutant p53
+effect in these cancer cell lines. Thus, targeting the Np63/Np73
+compensates for p53-functional loss mediating tumor suppression.
+

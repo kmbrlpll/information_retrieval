@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Integrative tcga analyses identify key microRNAs involved in
+chemoresistance
+
+
+Objective. High-grade serous ovarian cancer (HGSOC) is the most common
+and lethal type of ovarian carcinoma. Our study aims to identify key
+microRNAs (miRs) that are responsible for promoting chemoresistance in
+HGSOC. Methods. We developed fast and robust computational algorithm to
+identify miRs that are significantly associated with improved or worsened
+survival in HGSOC patients. We subsequently used this algorithm to mine
+The Cancer Genome Atlas (TCGA) ovarian cancer database to identify miRs
+that are up-regulated in tumors from patients whose cancer had progressed
+within 6 months of diagnosis (chemoresistant group) compared to tumors
+from patients who had no disease progression for more than 2 years
+(chemosensitive group). We also constructed miRNA-mRNA functional
+networks for the key miRs identified. The biological roles of selected
+miRs were subsequently examined in multiple chemoresistant (SKOV3-TR,
+HeyA8-MDR, and A2780-CP20) ovarian cancer cell lines. Results. From our
+integrative analyses, we identified several miRs being highly
+up-regulated or down-regulated in chemoresistant HGSOC (pObjective.
+High-grade serous ovarian cancer (HGSOC) is the most common and lethal
+type of ovarian carcinoma. Our study aims to identify key microRNAs
+(miRs) that are responsible for promoting chemoresistance in HGSOC.
+Methods. We developed fast and robust computational algorithm to identify
+miRs that are significantly associated with improved or worsened survival
+in HGSOC patients. We subsequently used this algorithm to mine The Cancer
+Genome Atlas (TCGA) ovarian cancer database to identify miRs that are
+up-regulated in tumors from patients whose cancer had progressed within 6
+months of diagnosis (chemoresistant group) compared to tumors from
+patients who had no disease progression for more than 2 years
+(chemosensitive group). We also constructed miRNA-mRNA functional
+networks for the key miRs identified. The biological roles of selected
+miRs were subsequently examined in multiple chemoresistant (SKOV3-TR,
+HeyA8-MDR, and A2780-CP20) ovarian cancer cell lines. Results. From our
+integrative analyses, we identified several miRs being highly
+up-regulated or down-regulated in chemoresistant HGSOC (p<0.05, top 10%).
+To examine the functional roles of these miRs, we transfected miR mimics
+and anti-miR constructs into taxane or platinum resistant cell lines. We
+showed that anti-miR-1271 significantly enhanced the sensitivity of
+taxane-resistant cancer cells (SKOV3-TR and HeyA8-MDR) to paclitaxel and
+docetaxel treatments. In contrast, transfecting anti-miR-1271 did not
+alter the sensitivity of A2780-CP20 cells to cisplatin treatment.
+Conclusion. These data provide the first integrated and functional
+approach for overcoming chemoresistance using miRs.
+

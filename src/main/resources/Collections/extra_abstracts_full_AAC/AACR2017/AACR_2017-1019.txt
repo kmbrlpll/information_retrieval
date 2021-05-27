@@ -1,0 +1,30 @@
+Meeting: 2017 AACR Annual Meeting
+Title: In vivo CRISPR screening identifies Ptpn2 as a target for cancer
+immunotherapy.
+
+
+Despite the dramatic clinical success of cancer immunotherapy with PD-1
+checkpoint blockade, most patients don’t experience sustained clinical
+benefit, suggesting that additional therapeutic strategies are needed.
+Functional genomic screens in cancer cells to discover new therapeutic
+targets are usually carried out in vitro where interaction with the
+immune system is absent. Here we report a pooled, loss-of-function
+genetic screening approach using CRISPR/Cas9 genome editing that is
+conducted in vivo in mouse transplantable tumors treated with vaccination
+and PD-1 checkpoint blockade. We tested 2,400 genes expressed by melanoma
+cells for those that synergize with or cause resistance to checkpoint
+blockade, and recovered the known immune evasion molecules, PD-L1 and
+CD47. Loss of function of multiple genes required to sense interferon-y
+caused resistance to immunotherapy. Deletion of Ptpn2, a pleotropic
+protein tyrosine phosphatase improved response to immunotherapy. In vivo,
+Ptpn2 deficient tumors showed increased infiltration of activated CD8+T
+cells. In vitro, Ptpn2 loss by tumor cells increased antigen presentation
+to T cells. Biochemical, transcriptional and genetic epistasis
+experiments demonstrated that loss of function of Ptpn2 sensitizes tumors
+to immunotherapy by enhancing interferon-y-mediated effects on the tumor
+cell. Thus, augmenting interferon-y signaling in tumor cells could
+increase the efficacy of immunotherapy. More generally, in vivo genetic
+screens in tumor models can identify new immunotherapy targets and
+rationally prioritize combination therapies.
+
+

@@ -1,0 +1,64 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Genome-wide profiling of PAK4 DNA-binding sites and transcriptome
+reveals its potential transcriptional control on DNA repair-related genes
+in ovarian cancer cells.
+
+
+Oncogenic role of p21-activated protein 4 (PAK4) in relation to cell
+growth and migration through various signalling cascades has been well
+studied in multiple cancer types. Such role might be contributed largely
+by cytoplasmic PAK4 as most of the known PAK4 signalling events occur in
+the cytoplasm. However, recent studies have demonstrated that PAK4 is
+capable of shuttling between nucleus and cytoplasm. The precise function
+of nuclear PAK4 (nPAK4) remains substantially unexplored. We have
+previously shown that PAK4 can act as a transcription factor. Herein, we
+aim to identify nPAK4-regulated genes by delineating the PAK4-binding
+landscape in ovarian cancer genome and mapping the PAK4 transcriptome in
+ovarian cancer cells.
+
+PAK4-enriched genomic regions were identified by chromatin
+immunoprecipitation with a PAK4 antibody followed by next-generation
+sequencing (ChIP-seq) in OVCAR3 cells. PAK4 transcriptome data was
+generated using RNA extracted from SKOV3 cells stably expressing PAK4 in
+the Affymetrix GeneChIP® Human Transcriptome Array 2.0 system. Gene
+lists generated from both ChIP-seq and microarray dataset were subjected
+to pathway enrichment analysis by Partek® PathwayTM. Among the 20 most
+significantly enriched pathways from microarray studies, several pathways
+in which PAK4 has no known reported function by far have been identified.
+Notably, DNA repair pathways that are known to influence drug
+chemosensitivity in ovarian cancer, such as the nucleotide excision
+repair (p=0.008), homologous recombination (p=0.012), mismatch repair
+(p=0.018) and DNA replication (p=0.018) pathways were significantly
+enriched. In concordance with the findings, the nucleotide excision
+repair pathway was also significantly enriched (pPAK4-enriched genomic
+regions were identified by chromatin immunoprecipitation with a PAK4
+antibody followed by next-generation sequencing (ChIP-seq) in OVCAR3
+cells. PAK4 transcriptome data was generated using RNA extracted from
+SKOV3 cells stably expressing PAK4 in the Affymetrix GeneChIP® Human
+Transcriptome Array 2.0 system. Gene lists generated from both ChIP-seq
+and microarray dataset were subjected to pathway enrichment analysis by
+Partek® PathwayTM. Among the 20 most significantly enriched pathways
+from microarray studies, several pathways in which PAK4 has no known
+reported function by far have been identified. Notably, DNA repair
+pathways that are known to influence drug chemosensitivity in ovarian
+cancer, such as the nucleotide excision repair (p=0.008), homologous
+recombination (p=0.012), mismatch repair (p=0.018) and DNA replication
+(p=0.018) pathways were significantly enriched. In concordance with the
+findings, the nucleotide excision repair pathway was also significantly
+enriched (p<0.006) in the gene list derived from promoter-restricted PAK4
+binding sites in the ovarian cancer genome. Among the many candidates
+that were deregulated by PAK4, cyclin-dependent kinase 7 (CDK7), a core
+component in the CAK subcomplex crucial to nucleotide excision repair
+pathway, was further validated. The transcription start site (TSS) of
+cyclin-dependent kinase 7 (CDK7) was bound by PAK4. CDK7 mRNA expression
+was upregulated upon PAK4 overexpression. Quantitative-PCR showed
+downregulated CDK7 mRNA expression upon siRNA-mediated knockdown of PAK4
+in OVCAR3 and TUOS3. This study points to the possible role of PAK4 in
+regulating gene transcription as PAK4 is mapped to several core
+promoter/TSS regions in the ovarian cancer genome. Our findings also shed
+light into the potential role of PAK4 in regulating drug chemosensitivity
+via its transcriptional control on genes implicated in DNA repair
+pathways. We postulate CDK7 as a direct transcriptional target of PAK4
+and thereby contributes to chemoresistance in ovarian cancer cells.
+
+

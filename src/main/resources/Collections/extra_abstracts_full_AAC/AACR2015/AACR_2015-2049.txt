@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Characterization of a novel BRCA1-EGR1 interaction
+
+
+The tumor suppressor protein BRCA1 orchestrates DNA repair and cell cycle
+arrest following DNA damage, with transcriptional regulation integral to
+these processes. We have identified a novel, DNA-damage responsive,
+interaction between BRCA1 and the zinc-finger transcription factor EGR1.
+EGR1 is rapidly and transiently expressed in response to a wide variety
+of stress stimuli and growth factors, and like BRCA1, decreased
+expression of EGR1 correlates with tumor formation in mammary cell lines
+and tissues.The stress response gene, NDRG1, was identified as a
+transcriptional target of BRCA1 by microarray analysis and subsequent
+RQ-PCR validation. NDRG1 is a known suppressor of breast cancer
+metastasis and we have observed a significant reduction of NDRG1
+expression in breast cancer cell lines (relative to normal cell lines).
+Promoter analyses identified EGR1 binding motifs within the NDRG1
+proximal promoter region, and EGR1 was confirmed as the transcription
+factor of interest by promoter assays. Downregulation of either BRCA1 or
+EGR1 (using a siRNA approach) resulted in a reduction in both basal and
+DNA-damage induced NDRG1 promoter activity, suggesting a co-regulatory
+mechanism. Indeed, recruitment of BRCA1 and EGR1 to the NDRG1 promoter
+was confirmed by ChIP assays.GST-fused BRCA1 deletion constructs showed
+that EGR1 specifically interacts with a C-terminal region of BRCA1 (which
+contains both BRCT domains). However, following DNA damage, we observed
+EGR1 interaction along the entire length of the BRCA1 protein, suggesting
+that both BRCA1 and EGR1 reside within a larger transcriptional complex
+upon DNA damage. In agreement with this, siRNA knockdown of either BRCA1
+or EGR1 in breast cell lines (i) induced endogenous DNA damage
+signalling, (ii) increased intracellular ROS generation and (iii)
+upregulated numerous stress-response genes.To investigate transcriptional
+regulation downstream of this interaction we performed analyses of
+publically available ChIP-Seq data for both BRCA1 and EGR1, and
+identified a list of genomic locations (corresponding to gene promoters)
+at which both proteins localise. We will use these findings, in
+combination with our own ChIP-Seq experiments performed in the
+non-tumorigenic mammary cell line, 184A1, to investigate the roles of
+this novel complex in the maintenance of genomic stability and within
+normal breast biology.
+

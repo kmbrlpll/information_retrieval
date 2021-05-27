@@ -1,0 +1,46 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Quantitative t cell receptor (tcr) repertoire analysis by
+next-generation sequencing (ngs) in non-small cell lung cancer patients
+treated with therapeutic cancer peptide vaccines
+
+
+Cancer immunotherapy is expected to become one of the major treatment
+options of cancer, and there is lots of enthusiasm for the development of
+therapeutic cancer vaccines. To better understand the molecular mechanism
+of action of therapeutic cancer peptide vaccines and also to better
+monitor patients' immunological response as a predictive biomarker, a
+fast, sensitive, comprehensive, and quantitative method to characterize T
+lymphocytes is highly desired. However, TCR repertoire diversity and
+clonotype follow-up after cancer vaccination represent a major challenge
+due to the enormous complexity of the TCR that characterizes individual T
+cell clones. Here, we demonstrated a new high throughput sequencing
+method to investigate the detailed genetic profiling of the TCR
+repertoire of millions of peripheral T lymphocytes from non-small cell
+lung cancer (NSCLC) patients who had been treated with cancer vaccine
+cocktail of peptides derived from CDCA1, URLC10, and KIF20A. The new
+technology of cDNA sequences of TCR and chains using next generation DNA
+sequencer (Ion Torrent Personal Genome Machine (PGM) with 400bp
+sequencing chemistry) enabled us to assess the comprehensive TCR and
+repertoire information in an unbiased way. We also developed a novel
+algorithm VDJ decomposition with soft-clipping that allowed us to
+identify the rearranged V-(D)-J regions in both TCR and chains, to
+analyze non-template nucleotides added at the junction sites, and also to
+determine the exact length and sequence of the complement determining
+region 3 (CDR3). In total, 16 samples from 5 NSCLC patients with
+different time points (before and after treatment) were analyzed for both
+TCR and repertoire. We obtained average 239,689 (range: 103,851 -
+329,817) VJ identified reads for TCR sequences and 499,210 (range:
+193,753 - 982,040) VDJ identified reads for TCR sequences. Significant
+increases of specific TCR CDR3 sequences were observed in patients
+showing stable condition after vaccine treatment. In patient #1 with long
+stable disease (SD) after treatment, two enriched clones of CASSSLQNIQYF
+and CASSPSVGLAGVAQKETQYF were present after vaccine treatment, suggesting
+those clones might represent peptide-specific cytotoxic T lymphocytes.
+Similarly, enriched CDR3 clones of CASTVRQKDGYTF and CSVGAYRGETQYF were
+observed in patient #3 and #5 at SD condition. In conclusion, this
+newly-developed NGS technology with the novel algorism should contribute
+to the better understanding of the immune responses in patients treated
+with immunotherapy. Our approach can also be applied for the
+investigation of a wide range of immune-related disorders including
+rejection after organ transplantation.
+

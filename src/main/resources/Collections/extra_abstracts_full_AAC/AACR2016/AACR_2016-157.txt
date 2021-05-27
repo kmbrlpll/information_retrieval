@@ -1,0 +1,37 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Single-cell DNA sequencing identifies a late dissemination model
+in metastatic colorectal cancer
+
+
+Metastatic colorectal cancer (mCRC) is a devastating disease with only
+11% 5-year survival rate for stage IV patients. The genomic basis of
+metastasis has been difficult to study, in part due to the extensive
+intratumor heterogeneity at both the primary and metastatic tumor sites.
+Previous studies have applied bulk next-generation sequencing (NGS)
+methods, which have limited ability to resolve intratumor heterogeneity.
+To address this problem, we developed a highly-multiplexed single cell
+DNA sequencing method that combines flow-sorting of single nuclei,
+multiple-displacement-amplification, low-input library preparation,
+library barcoding, targeted capture and NGS to generate high-coverage
+data from single tumor cells. To increase throughput, we performed
+targeted single-cell DNA sequencing using a panel of 201-cancer genes to
+analyze single cells from primary tumors and liver metastases from two
+mCRC patients. In each patient, we sequenced 90 single tumor cells from
+the primary and metastatic tumor, to delineate the clonal architecture of
+the tumor and reconstruct their phylogenetic lineages. In addition, we
+sequenced populations of tumor cells at high coverage depth (200X).Our
+data identified a large number of nonsynonymous mutations that evolved in
+the root nodes during the earliest stages of primary tumor evolution and
+were maintained in all single cells during the clonal expansion of the
+tumor mass. We also identified a small number of mutations that were
+specific to the liver metastases, which are likely to play an important
+role in metastatic dissemination. Using the single cell data, we
+constructed phylogenetic trees, which revealed branched evolution at both
+organ sites. Collectively, our data suggest that both mCRC patients are
+consistent with a late-dissemination model, in which the primary tumors
+evolved for a long period of time prior to the dissemination of clones to
+distant organ sites. This model has important clinical implications, by
+suggesting that surgical intervention or therapeutic treatment of the
+primary CRC tumor can prevent metastasis, since single tumor cells do not
+disseminate at the earliest stages of tumor growth
+

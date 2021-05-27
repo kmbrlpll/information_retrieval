@@ -1,0 +1,46 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Genome-wide association analysis identified genetic markers
+associated with triptolide cellular sensitivity using HapMap LCLs as
+model system.
+
+
+Triptolide is a biological diterpenoid derived from the Chinese herb
+Tripterygium wilfordii Hook f. It has shown to have immunosuppression and
+anti-inflammation, and antineoplastic effect [Pan et al, Cancer Lett,
+20102;3,5]. The anti-tumor effects of triptolide have been shown in wide
+range of solid tumor and leukemic cell lines in vitro. Present study
+focused on identifying the genetic markers using EBV transformed
+(lymphoblast cell lines as model systems). International HapMap Project
+LCLs derived from subjects with European ancestry (CEU; n=60 unrelated)
+were obtained from the Coriell Institute for Medical Research. Genotype
+data and gene expression data on these cell lines is available
+publically. The cell lines were maintained at 370C in RPMI1640 medium
+supplemented with 2mM Glutamine. In vitro cytotoxicity was determined by
+plating LCLs in a 96 well plate at the density of 250,000 cells/mL
+followed by treatment with six different concentration of triptolide
+(500, 50, 20, 10, 6.67, and 1.3 nM) 24hr after plating. Cell viability
+was determined 48 hr post drug treatment by MTT assays. Genome-wide gene
+expression and genotype data was obtained from publically available
+source and was evaluated for identification of SNPs and/or gene
+expression signatures predictive of triptolide cellular sensitivity.
+Interestingly we observed clumping of small p-values in a region on
+chromosome 2 consisting of SNPs with smallest p-value. SNPs within this
+region on chromosome 2 spanned across many biologically and functionally
+important genes such as: genes of importance in apoptosis caspase 8,
+caspase 10 and CFLR (caspase 8 and FADD like apoptosis regulator). The
+most significant SNP rs6759004 occurred in the 3UTR of CFLAR gene and was
+associated with triptolide cytotoxicity (p=2.5E-07). SNPs in genes
+involved in DNA replication and repair as ORC2 (origin of replication
+complex subunit2); in formation of reactive oxygen species as AOX1 and
+AOX2P (aldehyde oxidase); proteins involved in transcription, RNA
+processing and splicing as protein kinase CLK1 (CDC-kine linase-1),
+NIF3L1 etc were also significantly associated with triptolide
+chemosensitivity. The two most interesting candidate markers identified
+by association of genome-wide expression with triptolide cytotoxicity
+includes JAK1, (Janus kinase 1) which is involved in JAK/STAT signaling
+and plays significant role in cell differentiation, growth,
+transformation, apoptosis, proliferation etc. and DTX1, which plays role
+in NOTCH1 signaling.Overall our results identified biomarkers of
+biological and clinical significance that predict response to triptolide
+and would be of clinical relevance to patients being treated by triptolide
+

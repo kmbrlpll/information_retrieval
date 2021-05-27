@@ -1,0 +1,49 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Differential sensitivity analysis for resistant malignancies
+(DISARM), a novel approach for drug screen analysis, identifies common
+candidate drugs across platinum-resistant cancer types.
+
+
+Resistance to therapy, including conventional chemotherapy, targeted
+therapy and immunotherapy, continues to plague cancer treatment.
+Moreover, mechanisms governing resistance are poorly characterized
+leading to a dearth of rational combinatorial and sequential treatment
+strategies. While drug response data is abundant across myriad tumor
+types and drug classes, there exists no high-throughput method to probe
+such data with a query as simple as “If tumors are resistant to drug X,
+to what drug(s) are they sensitive?”- a seemingly trivial problem beset
+by immense data sets and imprecise definitions of sensitivity and
+resistance. Here, we present DISARM, a novel approach designed
+specifically to screen for drugs that are active in spite of resistance
+to a reference drug. DISARM selects candidates based on the proportion of
+samples that are resistant to a reference drug but sensitive to a
+candidate drug with simultaneous consideration to relatively lower IC50
+values for candidate drugs and higher IC50 values for reference drugs. As
+candidates may work in only a subset of resistant models and precise
+delineation between sensitivity and resistance may vary between
+experimental settings, DISARM permits flexibility in dichotomizing drug
+data and uses grid search to optimize specifications. To illustrate, we
+analyzed publically available cell line data (IC50 data) from several
+cancer types for which platinum-based therapy is a standard of care,
+identifying multiple drugs that demonstrate activity in
+cisplatin-resistant models across tumor types such as the BCL-2 inhibitor
+obatoclax in small cell lung cancer, lung adenocarcinoma, gastric
+adenocarcinoma and bladder cancer, and the farnesyltransferase inhibitor
+tipifarnib in small cell lung cancer, bladder cancer, esophageal cancer,
+colon adenocarcinoma and head and neck squamous cell carcinoma.
+Frequently, multiple drugs from the same class were selected by DISARM
+for a single tumor type and, in these cases, we found statistically
+significant similarity between sensitive cell lines suggesting a subset
+of cisplatin-resistant cell lines that are repeatedly sensitive to a drug
+class. While translating preclinical observations into approved clinical
+use is often thwarted by an inability to identify predictive biomarkers,
+DISARM also allows us to select cell lines that are especially sensitive
+to candidate drugs or drug classes on which to perform biomarker
+analysis. To demonstrate this approach, we chose drugs with activity in
+multiple cancer types and compared mRNA and protein expression data to
+highlight potentially novel common and tumor-specific biomarkers for
+concomitant candidate drug sensitivity and cisplatin resistance. Thus,
+DISARM offers a simple yet effective approach for both drug and biomarker
+discovery within a specified clinical niche.
+
+

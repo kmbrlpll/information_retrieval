@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Mismatch repair defects and endocrine therapy resistance in
+estrogen receptor positive breast cancer.
+
+
+Estrogen receptor positive (ER+) breast cancer is treated with endocrine
+therapy but intrinsic resistance occurs in ~1/3 of patients and acquired
+resistance in ~1/5 of the remainder. While many resistance mechanisms
+have been explored, therapeutic strategies to overcome resistance in the
+clinical setting have seen mixed outcomes, and appear most effective in
+the acquired resistance setting. Understanding mechanisms of resistance
+and finding therapeutic strategies to target them, therefore, remain
+important challenges facing breast cancer researchers. In this study we
+systematically examine the role of DNA damage repair defects in inducing
+endocrine therapy resistance, a relatively understudied question of
+recent interest. We use in silico analysis of clinical datasets, in vitro
+experiments evaluating endocrine therapy resistance in response to DDR
+dysregulation in multiple breast cancer celllines, and in vivo validation
+using cellline xenograft and patient-derived xenograft models. We also
+use gene expression microarrays and RPPA data from cell lines,
+patient-derived xenografts and primary ER+ breast tumors to uncover
+therapeutic options that are validated in vitro and in vivo and
+corroborated by clinical trial data. The results of this study uncover an
+intriguing link between mismatch repair (MMR) deficiency, specifically of
+the MutL complex (MLH1/3, PMS1/2), and poor prognosis in ER+ disease. We
+find a direct role for MutL loss in endocrine therapy resistance in vitro
+and in vivo by knocking down multiple MutL genes using CRISPR and stable
+shRNA approaches validated using standard rescue experiments. We identify
+the underlying mechanism: MutL deficiency in ER+ breast cancer abrogates
+Chk2-mediated feedback inhibition of CDK4/6 that appears necessary for
+endocrine therapy responsiveness. Consequently, pharmacological targeting
+of CDK4/6 in vitro and in vivo significantly inhibits growth of endocrine
+therapy resistant MutL-deficient ER+ breast cancer cells. These results
+are corroborated by data from a neoadjuvant clinical trial demonstrating
+that cell cycle regulation of MutL-mutant tumors tends to be
+estrogen-independent but sensitive to CDK4/6 inhibitors. The results of
+this study provide important biological and clinically relevant insights.
+1) MMR deficiency is unexpectedly causal to intrinsic endocrine therapy
+resistance 2) This causal effect appears to be mediated by abrogation of
+cell cycle checkpoint activation in response to endocrine therapy 3) MMR
+deficiency in a subset of ER+ tumors explains why CDK4/6 inhibition is
+effective against some de novo endocrine therapy resistant tumors. While
+there are currently no biomarkers to guide the use of CDK4/6 inhibitors
+for ER+ breast cancer, markers of MMR dysregulation could identify
+patients in whom CDK4/6 inhibition should be used to prevent disease
+recurrence.
+
+

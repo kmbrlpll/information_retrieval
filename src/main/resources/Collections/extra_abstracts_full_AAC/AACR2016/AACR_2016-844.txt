@@ -1,0 +1,38 @@
+Meeting: 2016 AACR Annual Meeting
+Title: High-resolution microbiome profiling and meta-analysis yields
+insight into microbial consortia associated with colorectal cancer
+
+
+Colorectal cancer (CRC) continues to be the second leading cause of
+cancer-related deaths globally. While multiple environmental factors are
+associated with incidence of CRC, multiple studies have reported that CRC
+is frequently linked with an altered colonic microbiota both in terms of
+taxonomic composition as well as structural organization. However,
+differences in study design and analysis methodologies among CRC
+microbiome profiling studies have generated inconsistent findings. To
+identify bacterial taxa consistently associated with CRC, we applied a
+uniform microbiome analysis methodology to sequence datasets followed by
+meta-analysis.Raw 16S rRNA amplicon sequence datasets from 12 studies
+including two new Malaysian cohorts were collected and analyzed using the
+Resphera Insight high-resolution taxonomic assignment protocol. Taxonomic
+abundances within each dataset were then assessed for significant
+enrichment or depletion in colorectal carcinoma samples versus controls.
+Alpha diversity and differences in predicted functional capacity were
+assessed utilizing QIIME and PICRUSt, respectively.Several bacterial
+species were consistently enriched in colorectal carcinoma samples
+relative to healthy controls including Fusobacterium nucleatum,
+Fusobacterium necrophorum, Leptotrichia trevisanii, Bacteroides fragilis,
+Parvimonas micra, Peptostreptococcus stomatis, and Gemella morbillorum.
+In contrast to other studies that have generally described Fusobacteria
+as enriched in CRC relative to controls, we identified multiple
+fusobacterial members that were often not strongly linked with CRC
+including Fusobacterium varium and Cetobacterium somerae. Evaluating
+functional predictions inferred from taxonomic composition, we observed
+consistent enrichment of specific KEGG categories in CRC including
+glycosyltransferases and carbohydrate digestion and absorption.Applying a
+uniform high-resolution analysis protocol for microbiome profiling
+enabled detection of specific species that were strongly associated with
+CRC across multiple studies. These findings demonstrate that higher level
+analyses (e.g. those at the genus or family level) may be insufficient
+for detection of indicator taxa in some populations.
+

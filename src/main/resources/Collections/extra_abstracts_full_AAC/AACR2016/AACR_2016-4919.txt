@@ -1,0 +1,110 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Evaluating the gene expression of frozen tissue-derived prognostic
+signatures in FFPE colorectal cancer samples
+
+
+OBJECTIVE: Defining molecular features that can predict the recurrence of
+colorectal cancer (CRC) for stage II and stage III patients remains a
+challenging problem in cancer research. Most available clinical samples
+are Formalin Fixed and Paraffin Embedded (FFPE). Nanostring nCounter and
+Affymetrix GeneChip Human Transcriptome Array 2.0 (HTA) are the two
+platforms marketed for high throughput measurement of mRNA expression
+from FFPE tissue samples. In this study, to identify an optimal platform
+for the gene expression profiling of FFPE CRC samples, we compared the
+expression of genes that make up published frozen tissue-derived
+prognostic signatures measured by these two platforms. METHODS: FFPE
+primary tumor tissue blocks were identified from 500 patients with stage
+II or III CRC and complete pathological information. We removed samples
+with neoadjuvant therapy, inadequate clinical follow-up or tumor
+specimens, samples with failure of RNA extraction and highly degraded
+samples. We identified 194 eligible FFPE-derived CRC primary tumors with
+a 7.4-year mean follow up. To measure the gene expression of the 194
+samples, we designed a custom nCounter codeset using 536 gene elements
+from multiple published frozen tissue-derived prognostic signatures for
+CRC. We also performed gene expression profiling using the HTA platform
+on a subset of 84 of the 194 samples. For the nCounter data, samples with
+low total average count or with more than 20% genes having lower average
+count than the synthetic negative control genes were omitted to ensure
+adequate data quality. RESULTS: In total, for CRC samples from 42
+patients, the gene expression data of 516 common genes measured by both
+platforms were of sufficient quality for comparative analysis. Based on
+HTA platform-derived data, we found that (1) 36 and 97 of the 516 common
+genes are significantly associated with overall survival (OS) and
+disease-free survival (DFS) at the single gene level (FDR OBJECTIVE:
+Defining molecular features that can predict the recurrence of colorectal
+cancer (CRC) for stage II and stage III patients remains a challenging
+problem in cancer research. Most available clinical samples are Formalin
+Fixed and Paraffin Embedded (FFPE). Nanostring nCounter and Affymetrix
+GeneChip Human Transcriptome Array 2.0 (HTA) are the two platforms
+marketed for high throughput measurement of mRNA expression from FFPE
+tissue samples. In this study, to identify an optimal platform for the
+gene expression profiling of FFPE CRC samples, we compared the expression
+of genes that make up published frozen tissue-derived prognostic
+signatures measured by these two platforms. METHODS: FFPE primary tumor
+tissue blocks were identified from 500 patients with stage II or III CRC
+and complete pathological information. We removed samples with
+neoadjuvant therapy, inadequate clinical follow-up or tumor specimens,
+samples with failure of RNA extraction and highly degraded samples. We
+identified 194 eligible FFPE-derived CRC primary tumors with a 7.4-year
+mean follow up. To measure the gene expression of the 194 samples, we
+designed a custom nCounter codeset using 536 gene elements from multiple
+published frozen tissue-derived prognostic signatures for CRC. We also
+performed gene expression profiling using the HTA platform on a subset of
+84 of the 194 samples. For the nCounter data, samples with low total
+average count or with more than 20% genes having lower average count than
+the synthetic negative control genes were omitted to ensure adequate data
+quality. RESULTS: In total, for CRC samples from 42 patients, the gene
+expression data of 516 common genes measured by both platforms were of
+sufficient quality for comparative analysis. Based on HTA
+platform-derived data, we found that (1) 36 and 97 of the 516 common
+genes are significantly associated with overall survival (OS) and
+disease-free survival (DFS) at the single gene level (FDR < 0.05),
+respectively; and (2) two of the nine reported multi-gene signatures, for
+which sufficient information from the original papers enabled such
+evaluation, can divide patients into high-risk and low-risk groups with
+significantly different DFS (p 0.05). Based on nCounter platform-derived
+data, no individual gene was found to be significantly associated with
+survival at the single gene level (FDR OBJECTIVE: Defining molecular
+features that can predict the recurrence of colorectal cancer (CRC) for
+stage II and stage III patients remains a challenging problem in cancer
+research. Most available clinical samples are Formalin Fixed and Paraffin
+Embedded (FFPE). Nanostring nCounter and Affymetrix GeneChip Human
+Transcriptome Array 2.0 (HTA) are the two platforms marketed for high
+throughput measurement of mRNA expression from FFPE tissue samples. In
+this study, to identify an optimal platform for the gene expression
+profiling of FFPE CRC samples, we compared the expression of genes that
+make up published frozen tissue-derived prognostic signatures measured by
+these two platforms. METHODS: FFPE primary tumor tissue blocks were
+identified from 500 patients with stage II or III CRC and complete
+pathological information. We removed samples with neoadjuvant therapy,
+inadequate clinical follow-up or tumor specimens, samples with failure of
+RNA extraction and highly degraded samples. We identified 194 eligible
+FFPE-derived CRC primary tumors with a 7.4-year mean follow up. To
+measure the gene expression of the 194 samples, we designed a custom
+nCounter codeset using 536 gene elements from multiple published frozen
+tissue-derived prognostic signatures for CRC. We also performed gene
+expression profiling using the HTA platform on a subset of 84 of the 194
+samples. For the nCounter data, samples with low total average count or
+with more than 20% genes having lower average count than the synthetic
+negative control genes were omitted to ensure adequate data quality.
+RESULTS: In total, for CRC samples from 42 patients, the gene expression
+data of 516 common genes measured by both platforms were of sufficient
+quality for comparative analysis. Based on HTA platform-derived data, we
+found that (1) 36 and 97 of the 516 common genes are significantly
+associated with overall survival (OS) and disease-free survival (DFS) at
+the single gene level (FDR < 0.05), respectively; and (2) two of the nine
+reported multi-gene signatures, for which sufficient information from the
+original papers enabled such evaluation, can divide patients into
+high-risk and low-risk groups with significantly different DFS (p 0.05).
+Based on nCounter platform-derived data, no individual gene was found to
+be significantly associated with survival at the single gene level (FDR <
+0.05), but one of the nine published multi-gene signatures can divide
+patients into two groups with significantly different OS (p 0.05). Our
+results also showed moderate correlations between paired FFPE samples
+measured by nCounter and HTA platforms (the median correlation
+coefficient is 0.52). CONCLUSION: Our data demonstrate that while both
+platforms may identify gene or gene set expression differences associated
+with survival outcomes, the HTA appears to provide a more robust gene
+expression analysis dataset when using genes selected from published gene
+signatures.
+

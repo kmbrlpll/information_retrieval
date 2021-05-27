@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Inhibition of mTOR enhances the activity of HSP90 inhibitors in
+part through cessation of heat shock protein synthesis.
+
+
+Background: Heat shock protein 90 (HSP90) is a molecular chaperone
+required for the stability of hundreds of client proteins, many of which
+promote tumor growth. While HSP90 inactivation abrogates multiple
+oncogenic pathways, it subsequently triggers a heat shock response that
+may limit its full cytotoxic potential. To overcome this limitation, we
+sought to identify a clinically feasible method to block heat shock
+protein synthesis induced by the HSP90 inhibitor ganetespib.Results: An
+immunoassay was developed to screen a library of >300 late stage or
+approved drugs for their ability to block the upregulation of HSP70
+subsequent to HSP90 inhibition. A number of effective agents were
+identified, with the most prevalent and effective being those that target
+PI3K/mTOR signaling. Validating this result, mTOR inhibitors diminished
+ganetespib induced HSP70 and HSP90 protein levels in multiple cancer cell
+lines. To determine the mechanism of HSP regulation by mTOR inhibitors
+the expression of >80 heat shock related genes was analyzed. Inhibitors
+of mTOR had no effect on HSP RNA levels but suppressed the upregulation
+of HSP genes induced by ganetespib. Heat shock factor 1 (HSF1) is the
+major transcriptional regulator of HSP's. Under conditions of stress or
+HSP90 inhibition, HSF1 is released from repressive cytoplasmic chaperone
+complexes and translocates into the nucleus to initiate heat shock gene
+transcription. Nuclear HSF1 levels increased within 1 h of ganetespib
+exposure but were dramatically reduced in the presence of an mTOR
+inhibitor. A major function of mTOR is regulating protein synthesis
+through activation of the cap-binding protein EIF4E, therefore we
+investigated whether inhibition of protein synthesis would affect HSF1
+nuclear accumulation. Cycloheximide or an EIF4E inhibitor reduced
+ganetespib-mediated HSF1 entry into the nucleus suggesting that
+inhibition of mTOR can prevent HSP induction by blocking protein
+synthesis. Combinations of ganetespib with mTOR or dual mTOR/PI3K
+inhibitors resulted in a significant increase in anticancer activity
+compared to monotherapy in multiple in vitro and in vivo cancer
+models.Conclusions: Inhibition of mTOR counteracts ganetespib induced
+upregulation of HSP's by blocking translocation of HSF1 into the nucleus,
+an effect potentially mediated by a decrease in mTOR driven protein
+synthesis. Attenuation of heat shock response may contribute to the
+synergy observed for ganetespib and PI3K/mTOR inhibitors in preclinical
+cancer models. Targeting mTOR signaling thus represents a promising,
+clinically feasible approach to maximize the therapeutic potential of
+ganetespib.
+

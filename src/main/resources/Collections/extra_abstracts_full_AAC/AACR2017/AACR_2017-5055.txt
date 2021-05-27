@@ -1,0 +1,48 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Multiplatform metabolomics analysis of growth arrest in pancreatic
+tumor xenografts.
+
+
+R,S-4-Methoxy-1-naphthylfenoterol, MNF, inhibits the G protein-coupled
+receptor GPR55. In this study, we determine the effect of MNF on human
+PANC-1 pancreatic tumor growth in mice and apply multiplatform
+metabolomics analysis to identify pathways associated with growth arrest.
+
+Methods: Female Balb/c nude mice, 6-8 weeks old, 18-20g, were inoculated
+subcutaneously with 5 x 106 PANC-1 cells. On Day 8, mice were placed in
+groups of 10 using random block design based upon tumor volume. Mice
+received daily ip injections of vehicle or 40mgxkg-1 MNF 5 days/week for
+3 treatment cycles. Mice were monitored daily and tumor volumes measured
+at beginning and end of each dosing cycle. On Day 33, mice were
+euthanized, and plasma samples and tumors collected. Tumor tissue was
+homogenized, extracted and analyzed using liquid chromatography-QTOF-MS,
+capillary electrophoresis-TOF-MS and gas chromatography-EI-Q-MS.
+Differences between groups were evaluated by unpaired t-test or
+Mann−Whitney test with post hoc Benjamini-Hochberg correction.
+Statistical significance was set at P≤0.05. Compound identification was
+accomplished using online databases and in-house standards
+
+Results Tumor volume increased in vehicle-treated mice by ~700%, 142 ± 8
+mm3 to 957 ± 79 mm3 and only ~250% in MNF-treated mice, 143 ± 8 mm3 to
+259 ± 27 mm3. On Day 33, MNF was not detected in plasma but accumulated
+in tumor tissues, 43.9 ± 32.7 ng/g. Plasma L-lactate levels were reduced
+from 3.29 ± 0.66 mmol/L το 2.81 ± 0.60 mmol/L, P≤0.001. Differences
+in tumor tissue metabolome were observed with MNF compared to vehicle,
+which was reflected by significant, P≤0.05, changes in relative
+metabolite signals. MNF treatment was accompanied by the disruption of
+pyrimidine nucleotide biosynthesis at uridine 5'-monophosphate, UMP, and
+increased UMP degradation. Moreover, the +237% increase in ophthalmic
+acid and +95% increase in its precursor 2-aminobutyrate indicate higher
+oxidative stress and the +51% increase in 2-hydroxyproline suggest
+greater HFI-1α proteolysis upon MNF treatment.
+
+Conclusions These results are consistent with our previous observations
+in PANC-1 cells showing that GPR55 inhibition attenuates activation of
+the EGFR-MEK-ERK, Wnt-β-catenin and PI3K/AKT pathways resulting in lower
+cyclin D1 expression and halting the cell cycle in G1. The reduction in
+HIF-1α expression and glycolytic flux in MNF-treated PANC-1 cells is in
+line with the decline in L-lactate plasma levels in MNF-treated mice. The
+data from this study indicate that MNF may be useful in the treatment of
+pancreatic cancer.
+
+

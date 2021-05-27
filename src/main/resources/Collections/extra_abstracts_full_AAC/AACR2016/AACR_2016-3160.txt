@@ -1,0 +1,45 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Circulating tumor cell enrichment and dielectric manipulation for
+ultra-pure cell recovery in advanced bladder cancer
+
+
+Background: Advanced transitional cell carcinoma (TCC) of the bladder is
+a lethal malignancy with few available biomarkers to guide therapy.
+Recent evidence suggests that circulating tumor cells (CTCs) are
+detectable in TCC and may have a prognostic role; however, most studies
+to date have focused on CTC enumeration. We leveraged novel enrichment
+and capture technologies to isolate and recover ultra-pure CTC (upCTC)
+that can be used for single cell molecular analysis.Methods: Patients
+with metastatic bladder cancer were enrolled under an institutional
+review board approved pilot study. Blood samples (7.5 ml each) were drawn
+into EDTA or Cell-Free DNA blood collection tubes (Streck), and
+preliminary CTC enrichment was performed using one of 3 microfluidic
+platforms: i) EpCAM-based LiquidBiopsy system (Cynvenio); ii)
+size/deformability-based ClearCell FX system (Clearbridge); or iii)
+size/deformability-based Parsortix system (Angle). Enriched CTCs were
+labeled with Cytokeratin (CK), EpCAM, and CD45 immunofluorescent
+antibodies and Hoechst nuclear stain. Identification and recovery of
+upCTCs was performed on a DEPArray v2 system (Silicon BioSystems).
+Additional experiments using cell lines were performed to gauge the
+recovery of mRNA from rare cancer cells collected in EDTA vs.
+preservative tubes.Results: To date, samples were collected from 8
+patients of whom 5 (63%) had detectable CTCs. All 3 enrichment platforms
+successfully yielded CTC fractions from which Hoechst+/CK+/CD45- upCTCs
+were subsequently identified and recovered on the DEPArray v2 system.
+Additional cells that were Hoechst+/CK-/CD45- were identified and
+collected, and cells also were gated by integral Hoechst intensity and
+collected for correlation to aneuploidy. Comparison of mRNA recovery from
+10 cancer cells collected into EDTA vs. fixative tubes (CellSave,
+Cynvenio, Streck Cell-free RNA) demonstrated that gene expression
+readings by qPCR from rare fixed cells was feasible but associated with
+variable results, likely due to variable proteinase K reversal of
+mRNA-protein cross-linkages.Conclusion: We leveraged new techniques to
+develop and optimize a workflow for identification and collection of
+upCTCs from bladder TCC patients, and we established that gene expression
+profiling is also feasible, albeit currently is still best achieved using
+EDTA collection and not any of the available preservative tubes. Single
+upCTC molecular profiles (DNA alterations, gene expression) from patient
+samples generated using these protocols may help to elucidate mechanisms
+of disease progression and ultimately may advance the management of
+advanced bladder cancer.
+

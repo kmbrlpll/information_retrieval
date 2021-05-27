@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Metastatic and non-metastatic colorectal cancer cells
+differentially regulate fibroblast cell cycle via extracellular vesicles.
+
+
+Cancer-associated fibroblasts are critical to tumor progression. There
+exists a dynamic crosstalk between cancer and stromal compartments, which
+maintains a permissive tumor microenvironment. Extracellular vesicles
+(EVs) play a significant role in this intercellular communication.
+Colorectal cancer (CRC) cells can be categorized according to
+epithelial-mesenchymal transition (EMT) status, and therefore metastatic
+capacity. We aimed to investigate the effect of EMT on EV-mediated
+cancer-fibroblast signaling.
+
+CRC cell lines (DLD-1, HCT116, SW620 and SW480) were characterized by
+western blotting to determine EMT status. EVs were isolated from
+conditioned media by serial centrifugation and validated by transmission
+electron microscopy, western blotting and nanoparticle tracking analysis.
+Fluorescently labeled EVs and cells were detected and evaluated by flow
+cytometry and fluorescence microscopy. Increasing concentrations of EVs
+from CRC cells were co-cultured with fibroblasts for 24h.
+Activation/inhibition of signaling pathways was examined by western
+blotting. EV microRNA (miRNA) profiles were obtained, validated by qPCR
+and submitted for target and pathway analysis.
+
+DLD-1, HCT116 and SW620 cells express E-cadherin and are considered
+epithelial, whereas SW480 lacks E-cadherin, expresses ZEB-1, and is
+considered mesenchymal. EVs were spherical, enriched in ALIX, TSG101,
+CD63 and had a mean diameter of 90nm. EVs from CRC cells were shown to
+transfer directly to primary ex vivo patient-derived fibroblasts and
+fibroblast cell lines. Transfer of EVs from epithelial CRC cells
+abrogated ERK activity in fibroblasts, even at the lowest concentration,
+and was associated with reduced fibroblast proliferation, whereas EVs
+from mesenchymal cells had no effect. MiRNA profiling of EVs from
+epithelial and mesenchymal CRC cells showed a 10-fold upregulation of
+miR-143-3p in epithelial compared to mesenchymal EVs. MiRNA target
+analysis and experimental validation show that miR-143-3p directly
+targets KRAS and HRAS, providing a potential miRNA-orchestrated mechanism
+of action for the downregulation of fibroblast ERK activity in the tumor
+microenvironment.
+
+Importantly, CRC cellular ERK activity is not reflected in fibroblasts
+treated with CRC EVs, suggesting that EVs do not directly transmit ERK
+protein or mRNA. However, miRNAs are the most stable EV cargo, and we
+show that epithelial but not mesenchymal CRC EVs contain upregulated
+miRNAs, which target critical components of the ERK pathway.
+Downregulation of ERK activity has been shown to induce fibroblast
+senescence, a phenotype linked to cancer progression. We hypothesize that
+differential regulation occurs because epithelial CRC cells are
+juxtaposed with fibroblasts in the tumor core, where senescent cancer
+associated fibroblasts are frequently observed, whereas mesenchymal CRC
+cells are at the invasive front or in the circulation.
+
+

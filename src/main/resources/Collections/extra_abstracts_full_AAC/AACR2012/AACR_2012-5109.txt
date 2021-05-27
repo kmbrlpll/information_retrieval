@@ -1,0 +1,18 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Identical cancer cell lines from Sanger & Broad CCLE programs
+sometimes differ
+
+
+The Sanger Institute in the UK has an ongoing initiative termed the
+Cancer Genome Project to systematically characterize the genetics and
+genomics of 770 cancer cell lines. Similarly, the Broad Institute in the
+US collaborates on the Cancer Cell Line Encyclopedia or CCLE project,
+entailing the eventual characterization of approximately 1000 cancer cell
+lines. At present, there are over 400 cell lines shared by these two
+initiatives. As part of a number of computational efforts in cancer
+biology we have used data from these two programs and have observed some
+unexpected differences in cell lines at the DNA and/or transcript level
+as well as some phenotypic differences, and we present here an analysis
+of these results including implications to the use of cancer cell lines
+in drug discovery and the larger question of genomic stability in cancer.
+

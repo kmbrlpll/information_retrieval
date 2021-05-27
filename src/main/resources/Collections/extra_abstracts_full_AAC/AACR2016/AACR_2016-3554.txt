@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Functional disparity among BCL-2 members in tonsillar and leukemic
+B cell subsets probed by next generation BH3 mimetic profiling
+
+
+Introduction and aim. Long-lived humoral immunity, in the form of plasma
+cells (PC) and memory B cells, as well as most B cell malignancies,
+originate in the germinal center (GC). For successful therapies against
+malignant B cells it is crucial to understand their survival requirements
+in relation to their normal counterparts. It was previously shown that
+murine GC B cells depend on pro-survival protein MCL-1, but not BCL-XL,
+although both are expressed. In contrast, nave and memory B cells express
+BCL-2, and as a consequence, they are sensitive to the BH3 mimetic
+ABT-737, which blocks both BCL-2 and BCL-XL but not MCL-1. The divergent
+roles of MCL-1 and BCL-XL in GC B cells still remain unexplained, and it
+is unknown if this also holds for human B cells. We here dissect these
+aspects in human tonsillar B subsets and in chronic lymphocytic leukemia
+(CLL) cells, a B cell cancer where expression of BCL-2 members is
+influenced by signals that also occur in the normal GC.Experimental
+procedures. We used FACS sorting of tonsil B subsets, mRNA and protein
+profiling, co-culture of CLL cells, co-IP of BCL-2 members, cell death
+assays with next generation BH3 mimetics specific for BCL-2, BCL-XL or
+MCL-1 (ABT-199, WEHI-539, A-1210477).Results. Naive and memory B cells
+are mainly sensitive to specific inhibition of BCL-2 by ABT-199. In
+contrast, GC B cells and tonsil PC are insensitive to ABT-199, but
+undergo apoptosis when MCL-1 is inhibited. Tonsil PC display yet another
+profile and are remarkably sensitive to inhibition of BCL-XL. MCL-1
+expression in GC B cells is regulated post-translationally and its
+physiological importance is highlighted by exclusive binding to
+pro-apoptotic BIM. In contrast, BCL-XL is transcriptionally induced in
+the GC-light zone, and is solely bound to the weak BH3-only sensitizer
+BIK, which may explain why BCL-XL is not required for GC B cell
+survival.These approaches were extended to primary CLL cells either
+resting or stimulated via CD40, as model for circulating and lymph node
+resident cells. We showed recently that CD40 stimulation strongly induces
+MCL-1, BCL-XL and BFL-1, similar to the pattern in healthy GC B cells,
+and confers complete resistance to ABT-199, whereas untreated CLL cells
+are highly sensitive. We now demonstrate that dual or triple BH3 mimetic
+combinations are effective in killing CD40-stimulated CLL. In contrast to
+GC B cells, BIK is absent in CLL cells while NOXA is highly expressed
+and, like BIM, is bound to MCL-1. This may account for differential
+sensitivity to (combinations of) BH3 mimetics.Conclusion. Using novel BH3
+mimetics and interaction profiles, we were able to probe the contribution
+of individual BCL-2 members in survival of normal and malignant B cells.
+Our findings provide clues to determine therapeutic windows in novel
+treatment strategies in B cell and other malignancies.
+

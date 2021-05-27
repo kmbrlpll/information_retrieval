@@ -1,0 +1,44 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Efficacy of the ATP-competitive mTOR inhibitor AZD8055 in
+PTEN-wild type cancer cells
+
+
+Although the PI3K/Akt/mTOR pathway is frequently hyperactivated in human
+cancers due to the loss of function of the PTEN tumor suppressor, a
+proportion of cancer cells still carries wild type PTEN and thus the
+PI3K/Akt/mTOR pathway in these cells may remain unaltered. While it has
+been widely accepted that these cancer cells are less susceptible to the
+allosteric mTOR inhibitor rapamycin, it is unclear whether this is also
+the case for an ATP-competitive mTOR inhibitor. To address this question
+we evaluated the effects of the mTOR kinase inhibitor AZD8055 in a panel
+of wild type PTEN expressing cancer cells (6 cell lines of 4 tumor
+types). The phosphorylated Akt (S473) level was undetectable in most of
+these cells, suggesting the regular mTOR complex 1 (mTORC1) pathway and
+low mTOR complex 2 (mTORC2) activity. Cell proliferation was determined
+by WST-1 (MTT) assay and clonogenic survival was tested by colony
+formation assay. AZD8055 suppressed cell proliferation at the nanomolar
+level in a dose dependent manner, with IC50 values in a range of 635 nM
+for different cell types. In contrast, rapamycin exhibited limited
+anti-proliferative effect, with less than 50% of inhibition observed even
+with higher doses in most cell lines. Similarly, clonogenic capacity was
+impaired by AZD8055 to a greater extent than was the case for rapamycin.
+To detect the mTOR pathway alterations by drug treatment, two cell lines
+with different expression levels of mTORC1 downstream pathways were
+selected: murine mammary tumor 4T1 cells (low phosphorylated S6 and high
+phosphorylated 4E-BP1) and human breast cancer MDA-MB-231 cells (normal
+phosphorylated S6 and moderate phosphorylated 4E-BP1). While the
+phospho-S6K (T389) and phospho-S6 (S235/236) pathway was potently
+inhibited by both agents, AZD8055 displayed more striking inhibition of
+the hierarchical 4E-BP1 phosphorylation (T37/46, T70 and S65) than
+rapamycin in both cells. In addition, both rapamycin and AZD8055 slightly
+increased Akt phosphorylation (T308 or S473), suggesting that the
+activation of the feedback loop controlled by S6K was functional.
+However, the PI3K inhibitor wortmannin did not sensitize cells to either
+agent, implying such feedback-dependent activation is dispensable for
+attenuating the drug response. Taken together, these findings indicate
+that AZD8055 significantly inhibits growth and survival of cancer cells
+that have wild type PTEN and normal PI3K/Akt/mTOR signaling, an
+observation mainly associated with the comprehensive activation of
+4E-BP1. These data provide in vitro evidence in support of broadening the
+application of ATP-competitive mTOR inhibitors in cancer treatment.
+

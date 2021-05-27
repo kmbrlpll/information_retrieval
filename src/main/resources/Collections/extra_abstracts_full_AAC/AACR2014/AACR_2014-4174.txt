@@ -1,0 +1,41 @@
+Meeting: 2014 AACR Annual Meeting
+Title: An integrative genomic analysis for clinically relevant cancer
+genetic aberration and targeted therapeutic prediction
+
+
+While the genomic and genetic basis of many cancers has been partly
+elucidated, less is known about the identity of specific cancer genes
+that are associated with clinical parameters such as clinical stage,
+metastasis, and survival. To address this question, we compiled multiple
+genomic data types (mutations, copy number alterations, gene expression
+and methylation status) as well as clinical meta-data for twelve
+different cancers in the Cancer Genome Atlas Project. We used an
+elastic-net regularized regression method on the combined genomic data to
+identify genetic aberrations and their associated cancer genes that are
+indicators of clinical parameters in each cancer type. To facilitate the
+identification of clinically actionable genetic aberrations from this
+cancer genomic data, we utilized genomic and drug response data from the
+Cancer Cell Line Encyclopedia (CCLE). These expansive data sets of
+hundreds of cancer cell lines include three genomic data types
+(mutations, copy number alterations, gene expression) and drug response
+data. To demonstrate the performance and validity of this approach, we
+demonstrated that our bioinformatics pipeline successfully identified i)
+synthetic genes that have their CNVs perfectly associated with stages
+from a simulated data ii) mutations of TGFBR2, methylation of MLH1 and
+other driver genes that have genetic changes associated with colorectal
+cancer (CRC) that demonstrate microsatellite instability CRC from TCGA
+data, and iii) IDH1 that obtained mutations associated with survival
+according to glioblastoma (GBM) data. We identify the top ranked genes
+that delineate key clinical features such as survival analysis or
+clinical stages for 13 cancers. A fit of the elastic-net regularized
+regression to more than 200 samples/cancer type and integrative analysis
+of integrative genomic platforms identified the set of top gene
+predictors of clinical parameters (TCGA data) and drug response (CCLE
+data). There are several genes ranked top in multiple cancer types while
+most of them are unique to a cancer type. These results provide us with
+new insights into the underlying genetic similarities and differences
+among 13 cancers; namely, common genetic characteristics that have
+implications for clinical phenotype. Finally, we are identifying the core
+set of gene aberrations that are both clinically relevant and drug
+responsible.
+

@@ -1,0 +1,30 @@
+Meeting: 2017 AACR Annual Meeting
+Title: High-throughput and sensitive quantification of circulating tumor
+DNA.
+
+
+Circulating tumor DNA (ctDNA) has a great potential to serve as
+non-invasive biomarkers for monitoring disease progression and treatment
+response. However, its broad clinical applications have been hindered by
+sensitivity, throughput and complexity of existing ctDNA detection
+methods. Here we report an adaptation of a multiplex PCR
+pre-amplification (PreAmp) into the microfluidic multiplex PCR (MMP-Seq)
+technology for high-throughput and sensitive quantitation of ctDNA. We
+have demonstrated that PreAmp MMP-Seq enabled sensitive (down to 0.6%
+allele frequency), reproducible (R2=0.97), accurate and quantitative
+mutation detection from as low as 1.6 ng DNA input. An Empirical Bayesian
+Model has been established to estimate background error rates for every
+base of amplicons in the ctDNA panel using data from 43 normal plasmas.
+0.1-0.3% of median error rates were observed across all positions. 149
+longitudinal plasma samples from 12 ovarian and 10 pancreatic cancer
+patients of PhI DMUC5754A anti-MUC16 ADC trials were then profiled using
+PreAmp MMP-Seq. 79% (11/14) driver mutations found in tissue samples were
+also identified in matching baseline plasma samples at frequencies well
+above estimated error rates. Moreover, we found that changes of
+corresponding ctDNA concentration in post-treatment plasma samples were
+correlated with changes in tumor burdens and circulating protein marker
+levels. In conclusion, the MMP-seq PreAmp workflow provides an
+inexpensive, reproducible and flexible solution for mutation detection in
+plasma DNA samples.
+
+

@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: CXCR4 and CXCR7 homodimers and heterodimers play differential
+roles in breast cancer
+
+
+The majority of breast cancer deaths are due to the metastasis of tumor
+cells to secondary organs. One of the most studied metastatic processes
+is the migration of chemokine receptor-expressing cancer cells towards
+their ligands in other organs, a mechanism where the receptor CXCR4 and
+the chemokine CXCL12 play key roles. This process, however, may be
+affected by the expression of the atypical receptor CXCR7, which has
+recently been linked to breast cancer progression. Indeed, staining of
+CXCR7 in patient samples is strongly positive in both lobular and ductal
+breast cancers. Given CXCR7's ability to form heterodimers with CXCR4, we
+investigated how dual expression of both receptors differs from their
+lone expression in terms of their signaling and internalization
+pathways.In this study we created stable single CXCR4 or CXCR7 CHO
+transfectants or double CXCR4-CXCR7 transient transfectants to examine
+ligand-dependent receptor internalization. The presence of heterodimers
+was evaluated using fluorescence resonance energy transfer (FRET). We
+found that in CHO-CXCR4 the receptor was degraded after a 30 minute
+stimulation with 10 nM CXCL12, whilst in CHO-CXCR7 the receptor returned
+to the surface in under 2 hours, reaching higher CXCR7 levels than before
+treatment. RT-PCR data suggested that this increase was partially due to
+induction of further CXCR7 expression. When the receptors were
+coexpressed, a similar pattern could be seen, although the CXCR7
+recycling levels were not as high. CXCR4 degradation could be partially
+inhibited by pretreating cells with 1 M lactacystin, a proteasome
+inhibitor. When cells were stimulated for 1 hour with 1 nM VUF11207, a
+CXCR7 agonist, no significant effect was seen on CHO-CXCR4 whilst
+CHO-CXCR7 cells showed internalization and recycling. Supporting RT-PCR
+data showed that the agonist did not trigger CXCR7 expression like seen
+with CXCL12. Interestingly, when coexpressed, both CXCR4 and CXCR7 showed
+degradation after internalization. Similar results were observed with
+MDA-MB-231 cells transfected with CXCR4 or CXCR7.The effects of the
+binding were also assessed by measuring ERK phosphorylation by Western
+blot and cell-based ELISA. An early but transient (5-15 minutes) ERK
+activation was seen in CHO-CXCR4 cells, whilst CHO-CXCR7 cells showed a
+sustained activation of up to 2 hours. On the other hand, CHO-CXCR4-CXCR7
+cells showed a very strong phosphorylation at 5 minutes that quickly
+diminished. The role of the receptors in invasion and migration in the
+presence of CXCL12 was also assessed.In summary, this study highlights
+how CXCR4/CXCR7 heterodimerization can create a distinct signaling entity
+with unique properties and alter receptor pharmacology. This could be
+used to create therapeutic compounds to reduce breast cancer cell
+migration.
+

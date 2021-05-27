@@ -1,0 +1,43 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A novel method for isolation and genetic analysis of pure
+populations of circulating plasma cells from multiple myeloma patients
+
+
+Multiple Myeloma is bone marrow tumor that frequently results in the
+aberrant release of neoplastic plasma cells into circulation. The
+CELLSEARCH system (Janssen Diagnostics, Raritan, NJ) has been used to
+capture, enumerate, and perform FISH analysis on circulating multiple
+myeloma cells (CMMC) from patients with active multiple myeloma,
+smoldering myeloma, and MGUS (Gross, et.al. Poster #1825, ASH 2011). This
+method utilizes a blood fixative and subsequently permeabilizes the
+cells, which confounds the ability to do mRNA analysis on these samples.
+Here we present a novel method to isolate pure circulating myeloma cells
+that is compatible with downstream genetic analysis.Blood was obtained
+through a commercial vendor (Conversant Bio) from multiple myeloma
+patients. Samples were processed in parallel using the existing method
+for enumeration and a novel method for genetic profiling. For CMMC
+enumeration, blood was collected in CellSave tubes (Janssen Diagnostics)
+and CMMC were enriched using paramagnetic ferrofluid recognizing CD138
+and CS1 antigens. Cells were permeabilized and stained on the CELLSEARCH
+AUTOPREP with CD38 (PE), CD45 (APC), CD19 (APC) and DAPI. CMMC were
+enumerated using the CELLTRACKS ANALYZER II scanning platform. CMMC were
+defined as DAPI +, CD138+, CD38+, CD45-, CD19-.For genetic profiling, 4
+ml EDTA blood was enriched using CD138 and CS1 ferrofluids on the
+AUTOPREP with no subsequent permeabilization. CMMC were stained offline
+using CD38 (Texas Red), CD45 (FITC), CD19 (FITC), CD3 (FITC) and NucBlue.
+Samples were transferred to glass a bottomed petri dish and observed
+through an inverted microscope using a Texas Red/FITC dual filter,
+individual FITC and Texas red filters, and a DAPI filter. CMMC were
+defined as NucBlue+, CD138+, CD38+, CD45-, CD19-, and CD3-. Pools of
+individual CMMC were picked from the sample using an Eppendorf
+Transferman micromanipulator. For comparison, contaminating leukocytes
+were also collected for analysis. RNA from picked cells was amplified
+using the SMARTer Ultra Low Input Kit (Clontech) and qPCR was performed
+for myeloma and leukocyte specific markers.Detection of CMMC using the
+novel method for genetic profiling was found to be concordant with the
+existing method for enumeration. We found this approach to provide a deep
+and unbiased characterization of gene pathways activated in CMMC by RT
+qPCR and RNASeq. This method will have applications in longitudinal
+studies of active myeloma patients as a way to gather information about
+relapse and minimal residual disease between bone marrow draws.
+

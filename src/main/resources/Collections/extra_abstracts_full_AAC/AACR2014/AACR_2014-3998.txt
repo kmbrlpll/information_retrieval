@@ -1,0 +1,29 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Network-based identification of gene signatures of
+epithelial-mesenchymal transition in breast cancer
+
+
+Metastasis is a major cause of death in breast cancer patients. Breast
+cancer cells at the primary site gain metastatic ability through
+epithelial-mesenchymal transition (EMT). During the process, cancer cells
+lose cell-cell adhesion mediated by E-cadherin repression and gain
+motility and invasive properties to penetrate the basement membrane and
+enter the bloodstream or lymphatic system in order to travel to distant
+metastatic sites. To investigate the underlying gene regulation mechanism
+of EMT, we established an EMT gene regulatory network. We first built and
+validated an EMT signal pathway by Ingenuity Knowledge Base, a repository
+of expertly curated biological interactions and functional annotations
+from literatures. Based on gene profiling data of 590 breast cancer
+patients from The Cancer Genome Atlas (TCGA) and over 370 breast cancer
+patients from Gene Expression Omnibus (GEO), we modeled the gene
+regulation mechanism of each gene and its expression regulators in the
+EMT signal pathway in a stochastic Markov Chain model. In order to
+identify biomarkers and to determine the dynamical transition process at
+molecular level during EMT, it is important to identify the corresponding
+gene expression patterns of epithelial and mesenchymal cells. Several
+studies have already demonstrated that stable gene expression patterns
+correspond to stable cell phenotypes. In this study, we reported a
+cost-efficient computational algorithm developed to identify these stable
+gene signatures and validate them with gene expression profiles of human
+mammary epithelial cells and transduced mesenchymal cells.
+

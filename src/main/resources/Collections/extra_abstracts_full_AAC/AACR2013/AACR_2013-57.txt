@@ -1,0 +1,39 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Validation of Next Generation Sequencing technologies in
+comparison to current diagnostic gold standards for BRAF, EGFR and KRAS
+mutational analysis.
+
+
+BACKGROUND: Next Generation Sequencing (NGS) has the potential of
+becoming an important tool in clinical diagnosis and therapeutic
+decision-making in oncology owing to its enhanced sensitivity in DNA
+mutation detection, fast-turnaround of samples in comparison to current
+gold standard methods and the potential to sequence a large number of
+cancer-driving genes at the one time. We aim to test the diagnostic
+accuracy of current NGS technology in the analysis of mutations that
+represent current standard-of-care, and its reliability to generate
+concomitant information on other key genes in human oncogenesis.METHODS:
+Thirteen FFPE clinical samples (8 lung adenocarcinomas, 3 colon
+carcinomas and 2 malignant melanomas) already genotyped for EGFR, KRAS
+and BRAF mutations by current standard-of-care methods (Sanger Sequencing
+and q-PCR), were analyzed for detection of mutations in the same three
+genes using two NGS platforms and an additional 43 genes with one of
+these platforms. The results were analyzed using closed platform-specific
+proprietary bioinformatics software as well as open third party
+applications (including, among others, the Open CLC Genomics
+Workbench).RESULTS: Our results indicate that the existing format of the
+NGS technology performed well in detecting the clinically relevant
+mutations stated above, with apparent improved sensitivity, but may not
+be reliable for a broader unsupervised analysis of the wider genome in
+its current design. They also illustrate the relevance of different
+bioinformatics curation approaches, allowing different degrees of
+stringency, for the avoidance of potential false positives in the broader
+choice of genes selected, when compared with the expected mutation
+frequencies from sources such as the COSMIC database, for the tumor types
+analyzed. The systems are also able to detect other mutations outside the
+expected ones representing the current main "standard-of-care," the
+significance of which are uncertain at this point.CONCLUSIONS: Our study
+represents a diagnostically lead validation of the major strengths and
+weaknesses of this technology in its current state of development before
+consideration for diagnostic use.
+

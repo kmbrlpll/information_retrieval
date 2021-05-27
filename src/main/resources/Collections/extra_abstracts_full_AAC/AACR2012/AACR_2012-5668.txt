@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Vorinostat exposure results in differential sensitivity and
+nuclear structure normalization in an in vitro model of esophageal
+adenocarcinoma progression
+
+
+Esophageal adenocarcinoma (EA) has a poor prognosis with a five-year
+survival rate of less than 20%. Barrett's esophagus (BE), often
+consequent to chronic acid reflux, contributes to a 15-fold increased
+risk for EA. BE is a multi-stage condition that may progress through
+metaplasia and increasingly severe dysplasia to EA. The progression from
+normal squamous epithelium through BE to EA is characterized by genetic
+and nuclear structure aberrations. Histone deacetylase (HDAC) inhibitors
+are becoming increasingly popular as anticancer therapeutics. Vorinostat
+(Zolinza) is a pan-HDAC inhibitor currently approved to treat cutaneous
+T-cell lymphoma. It is under investigation in at least 81 actively
+recruiting clinical trials for various other cancer types including
+gastrointestinal cancers. We investigated the effects of vorinostat
+treatment on cell lines representative of normal squamous (EPC2),
+metaplasia (CPA) and adenocarcinoma (Flo1) of the esophageal epithelium.
+We assessed variations in viability and three-dimensional (3D) nuclear
+morphology upon drug treatment, comparing the results against vehicle
+(DMSO) control and untreated cells of all three types. A 12-point,
+three-fold, serial dilution drug-dose-response (DDR) experiment performed
+at 24, 48 and 72 hour time points indicated a differential response among
+the cell types. Flo1 cancer cells were most sensitive to the drug, with
+an IC50 value at 48 hours of 0.7928 micromolar, versus 7.536 micromolar
+for CPA and 21.49 micromolar for EPC2. After 24 hours of vorinostat
+exposure, assessment of apoptotic activity with the Caspase 3/7 Glo assay
+revealed increased apoptosis in Flo1 but not the other cells. To
+understand the morphological correlates of vorinostat treatment, we used
+micro-optical computed tomography to acquire 3D images of 200 individual,
+hematoxylin-stained, untreated and treated (48 hours at the Flo1 IC50
+dose) cells of each cell type with sub-micron, isotropic spatial
+resolution. We applied computer vision techniques to quantify 3D nuclear
+morphology and coarse chromatin organization. Treatment with vorinostat
+normalized the nuclear structure of cancer and metaplastic cells,
+reverting them to a more nearly-normal phenotype: Flo1 cells showed
+reduced cell and nuclear volumes and decreased chromatin clumpiness after
+vorinostat treatment. The same morphological trends were present but less
+pronounced in CPA cells. EPC2 cells showed minimal changes in response to
+treatment. These results support further exploration of vorinostat for
+the treatment of patients with BE and EA. Our data indicate that
+vorinostat sensitivity increases, with a corresponding increase in
+apoptosis, as cells progress from normal to esophageal adenocarcinoma.
+This increased sensitivity to the drug is accompanied by a normalization
+of nuclear architecture in surviving abnormal cells.
+

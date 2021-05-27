@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Interplay among E3 ubiquitin ligases regulate timely degradation
+of the circadian factor Period 2
+
+
+Circadian rhythms are mechanisms that measure time on a scale of about 24
+h and that adjusts our body to external environmental signals. Core
+circadian clock genes are defined as genes whose protein products are
+necessary components for the generation and regulation of circadian
+rhythms.Oscillatory rhythms are generated as result of the activation of
+positive and negative transcriptional feedback loops in which
+post-translational modifications, shuttling, and degradation are common
+themes. In mammals, the positive feedback loop involves regulation of
+bmal1 transcription. BMAL1/CLOCK selectively binds to E-box enhancers and
+drives the expression of per, cry and rev-erb genes. REV-ERBa protein
+then represses bmal1 transcription through Rev-Erba/ROR response elements
+in its promoter. Then, the level of bmal1 RNA falls, as per and cry RNA
+levels peak. Period proteins (i.e., PER1, 2, and 3) accumulate in the
+cytoplasm, becomes phosphorylated by CK1e/d, ubiquitylated and degraded.
+Later in the day, cryptochrome accumulates (i.e., CRY2), associates with
+PER2/CK1e/d and this complex translocates to the nucleus where CRY
+disrupts the CLOCK/BMAL1-associated transcriptional complex, resulting in
+the inhibition of cry, per and rev-erba and de-repression of bmal1
+transcription.In addition to the transcriptional loops, ubiquitin E3
+ligases-mediated protein degradation is critical to sustain physiological
+rhythms. The F-box proteins b-TrCP1/2 target PER1 and PER2 for
+degradation via ubiquitination. Whereas knocking down -trcp results in
+PER stabilization and period lengthening in synchronized culture cells;
+knock-out b-trcp1 mice do not display an abnormal circadian rhythmicity.
+Our findings indicate that PER2 ubiquitination engages two different
+types of E3 ligases, a process that directly influences the timely
+control of PER2 accumulation in the nucleus. Our data show that the mouse
+double-minute 2 homolog (Mdm2) RING finger E3 ligase binds to PER2 in
+multiple regions including an overlapping site with b-TrCP. We determined
+that PER2 is a specific substrate for Mdm2 and that PER2's
+polyubiquitination occurs both in vitro and in cells. Accordingly,
+overexpression Mdm2 results in the decrease of PER2 half-life, whereas,
+down-regulation of Mdm2 by siRNA increases PER2 stability. Furthermore,
+we found Mdm2-dependent post-translational modification of PER2 directly
+influences the amplitude of the circadian oscillatory response in
+synchronized cells and that both, b-TrCP and Mdm2 target PER2 at
+different circadian times. Overall, our findings support a model in
+which, the rate of nuclear degradation of PER2 leads to slow accumulation
+of the protein in the nucleus and, later in the day, to a temporal switch
+in which b-TrCP takes control over PER2 degradation. Thus, the
+interplaying between these two E3 ligases is indispensible for sustaining
+robust circadian oscillation.
+

@@ -1,0 +1,32 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Oncogenic miRNA miR-130a-induced inhibition of the growth
+regulator protein ZAR2 in TNBC cells
+
+
+ZAR2 is C4-type zinc-finger protein that we found to suppress the growth
+of breast tumor cells. In the dividing breast cancer cells ZAR2 is
+primarily located in the cytosol. It probably inhibits the growth of the
+tumor cells through sequence-specific capture and degradation of certain
+mRNAs which are critical for the growth of the cells. We found that the
+level of ZAR2 protein is significantly lower in the highly aggressive
+breast cancer cells of the triple negative subtype (TNBC). Forced
+expression of ZAR2 in the TNBC cells prevented the proliferation and
+invasiveness of these cells. Major objective of the research presented
+here is to understand the mechanism of suppression of ZAR2 level in the
+TNBC cells. As ZAR2 mRNA levels are very similar in the TNBC and non-TNBC
+cells, we postulated that ZAR2 protein levels are down-regulated in the
+TNBC cells due to the induction of a ZAR2-targeting miRNA in these cells.
+We used computational prediction to identify potential microRNAs
+down-regulating ZAR2 in the TNBC cells. One of the major miRNAs that is
+predicted by DIANA-Tools
+(http://diana.imis.athena-innovation.gr/DianaTools/index.php?r =
+MicroT_CDS/index) to target ZAR2 mRNA is hsa-miR-130a-5p. We found that
+the level of miR-130a-5p in the TNBC cells is inversely related to the
+level of ZAR2 protein in the TNBC cells. We validated the binding of
+miR130a-5p miRISC to several specific locations at the 3-UTR of ZAR2 mRNA
+and the inhibition of translation of ZAR2 mRNA by this miRNA. We propose
+that targeted knockdown of miR130a-5p in the TNBC cells will elevate the
+level of ZAR2 protein resulting in the inhibition of the growth of these
+cells. This research is supported in part by NIH/NCIgrant1R21CA181920-01
+to GC and NIH grant 1U54RR026140 to SM.
+

@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Identification of complex oncogene signatures in human cancer
+specimens and cell lines
+
+
+Activated oncogenes are the genetic drivers of human cancer progression.
+Oncogenes become activated by structural DNA alterations including gene
+amplification and over expression, point mutations, and gene
+translocations/rearrangements. Data from existing targeted cancer
+treatments clearly show that the best response is observed when the
+activated oncogene is targeted. On the other hand, among the patients
+with activated oncogene who respond to a targeted treatment, the level
+and duration of response is highly variable. This could be explained by
+the genomic context of an activated oncogene that is unique to any given
+patient. Therefore, the ability to detect complex oncogene signatures in
+human cancer specimens is vital for better predictions of the efficacy of
+targeted agents, and to design therapeutic strategies with multiple
+targeted agents. In our laboratory, we have been working to identify
+candidate amplified and point mutated oncogenes in multiple human cancer
+specimens and cell lines. To obtain individual oncogene signatures, we
+have used high resolution aCGH coupled with a novel gene expression
+algorithm that allows for the identification of genes that are over
+expressed within amplicons in individual specimens. We have also used a
+high-throughput, mass spectrometry based method for detection of point
+mutations in oncogenes using the same specimens. These approaches have
+allowed us to identify tens to hundreds of candidate oncogenes in each
+specimen which were then refined by on-line computational tools such as
+Gene Tracker. Using this approach, we have elucidated complex oncogene
+signatures for over 50 cancer cell lines and specimens. Analysis of these
+data sets points to highly variable oncogene combinations in individual
+specimens. In other studies using a subset of breast cancers selected for
+the presence of the 8p11 amplicon, we found that even in these highly
+selected specimens, the oncogene signatures were unique to each patient.
+These signatures make clear predictions about combinations of targeted
+agents that could be considered. For example, we have observed activation
+of oncogenes in the 8p11 amplicon to be associated with other oncogenes
+such the EGFR, cdk4, MYST3, CRKL, and others. Additionally, the presence
+of PIK3CA mutations occurs variably in these specimens as well. Most of
+the breast cancer specimens and cell lines in our study have a
+well-defined signature of oncogenes, and understanding these signatures
+is important not only for the design of strategies using multiple
+targeted agents, but also for the proper interpretation of clinical trial
+results using single targeted agents. Thus, we have developed a
+high-throughput, cost effective molecular diagnostic platform that can
+accurately and rapidly identify the causal driving oncogenes in an
+individual cancer biopsy specimens and therefore can be adapted to
+analysis of large numbers of patient's specimens.
+

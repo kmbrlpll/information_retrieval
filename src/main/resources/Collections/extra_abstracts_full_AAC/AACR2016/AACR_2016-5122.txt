@@ -1,0 +1,48 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Characterization of the effects of hypoxia and hydrostatic
+pressure on the expression of immunotherapeutic targets on cell lines
+used for translational research
+
+
+INTRODUCTIONThe characterization of the tumor microenvironment includes
+mechanotransduction, hypoxia, acidosis, and tissue remodeling. These
+factors can influence the gene and protein expression of various cell
+types that make up the tumor as well as influence the selection of cells
+that can thrive in a given microenvironment; however, typical cancer cell
+culture rarely uses hypoxia and pressure nor utilizes substrates similar
+to the native extracellular matrix (ECM). We designed a system to study
+the influence of hypoxia, pressure, and native ECM conditions on cancer
+cell lines and primary cells, with the goal of creating culturing
+environments relevant for translational studies involving key
+immunotherapeutic targets.METHODSFirst, we studied how hypoxia with or
+without pressure influences cell biology and gene expression, using
+transcriptome profiling across a range of physiologically-relevant
+culturing conditions to mimic various tumor microenvironments found
+within the body. To do this, we utilized Xcell's primary cell culture
+platform that allows for the precise control of oxygen concentration
+(0.1%-20% O2) and hydrostatic pressure levels (26 to 260 mmHg / 0.5 psig
+to 5 psig). Additionally, we studied the influence of biomimetic
+substrates by ECM composition and organization (aligned or unaligned
+collagen at concentrations from 1-2.5 mg/ml +/- fibronectin 0.1-10
+microgram/ml). Cell lines studied include models for brain (U-87, A172),
+pancreatic (PANC10.05), and prostate cancer (DU-145, PC-3, 22Rv1, LNCaP).
+We performed high-resolution immunofluorescence imaging and western blot
+protein expression analysis of key targets, including immunotherapeutic
+targets CTLA-4, PD-1, and PD-L1. Finally, we applied these culturing
+conditions to characterize primary tissues obtained from cancer patients
+for studies focused on biomarker discovery, patient monitoring and
+treatment decision-making.CONCLUSIONSWe identified both common and unique
+gene expression signatures across different cells lines, with hypoxic
+conditions activating HIF1 signaling, whereas hydrostatic pressure
+resulted in restricted signatures of high clinical value. Cancer cell
+lines and PBMCs differentially express immunotherapeutic targets, at low
+oxygen and high pressure culturing conditions, resulting in reduced
+expression of key drug targets. Analysis of mRNA-seq data revealed
+alterations in gene expression profiles of immunotherapeutic and
+drug-target pathways involving CTLA-4 and AR signaling. In contrast, we
+observed increased CD47 and CD44 expression at low oxygen and high
+pressure culturing conditions in cancer cell lines and immune cells.
+Therefore, these results support the presence of physiologically-relevant
+drug targets in tumors and immune cells characterized by low oxygen and
+high interstitial fluid pressure.
+

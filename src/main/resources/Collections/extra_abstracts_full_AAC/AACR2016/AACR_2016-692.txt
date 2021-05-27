@@ -1,0 +1,41 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Identifying genes that regulate bladder cancer progression and
+invasion
+
+
+Transitional cell carcinoma (TCC) is the most common type of bladder
+cancer and can be categorized as either non-muscle invasive (Ta-T1) or
+muscle invasive (T2). Approximately 50% of bladder cancers are T1 at
+initial diagnosis; however, the recurrence rate for these tumors is high
+and they may progress into T2. In this study, we aimed to determine if
+there are specific gene expression differences between T1 vs. T2 bladder
+cancer that can help identify key regulators in bladder cancer
+progression and invasion. T1 and T2 bladder cancer tissues were subjected
+to RNA-Seq to evaluate for differences among these stages. Additionally,
+the Oncomine database was examined to further narrow down potential
+candidates that differentiate T1 from T2. These efforts led to the
+identification of an extracellular matrix glycoprotein, fibulin-3
+(FBLN3), as being highly expressed in T2 compared to T1 tissues. To
+validate these findings, FBLN3 expression was measured using qRT-PCR from
+formalin fixed and paraffin embedded tissues from patient bladder samples
+ranging from stages Ta-T4. These studies confirmed that FBLN3 expression
+was elevated in muscle-invasive compared to non-muscle invasive bladder
+cancer. Consistent with these findings, FBLN3 expression level correlated
+with the invasive ability of several bladder cancer cell lines.
+Specifically, FBLN3 expression was determined using both qRT-PCR and
+western blotting amongst the T24, UMUC-13, UMUC-3, RT4, and 5637 bladder
+cancer cell lines. The most invasive cell lines, T24 and UMUC-13,
+demonstrated the highest FBLN3 expression. In contrast, the least
+invasive cells, RT4 and 5637, demonstrated the least FBLN3 expression. To
+determine a functional role for FBLN3 in bladder cancer invasion, we
+knocked down or increased FBLN3 expression in bladder cancer cell lines
+using lentiviral transduction. Knockdown of FBLN3 expression in the T24
+and UMUC-13 cells inhibited the invasion and migration of these bladder
+cancer cells; whereas, FBLN3 overexpression in the 5637 cells promoted
+the invasiveness of the bladder cancer cells. Furthermore, cell viability
+and growth rates were not affected by manipulation of FBLN3 expression.
+Our results indicate that FBLN3 serves as a pro-invasive factor in
+bladder cancer. These findings suggest that FBLN3 could serve as (1) a
+biomarker to differentiate T1 from T2 bladder cancers and (2) a promising
+therapeutic target.
+

@@ -1,0 +1,48 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Detection of prostate cancer associated DNA hypermethylation in
+diagnostic needle biopsies: Insight into field effects and heterogeneity
+
+
+Prostate cancer (PC) is the fifth leading cause of cancer deaths among
+men worldwide and the second most common cancer form with an estimated
+1.1 million diagnoses in 2012. Diagnosis is based on histological
+evaluation of needle biopsies by a trained pathologist. Despite the high
+number of diagnoses, PC is frequently missed in the initial set of
+biopsies. Thus, in more than 15% of patients with initial negative
+biopsies, PC is found in repeat biopsies. The aim of this project was to
+evaluate if DNA methylation-based cancer field effects can be detected in
+cancer-negative prostate biopsy samples for the nine genes HAPLN3, AOX1,
+GAS6, KLF8, MOB3B, CCDC181 (C1orf114), GABRE, SLC18A2, and GSTP1, and if
+this could be a potential novel diagnostic tool. Hypermethylation of
+these genes is known to be strongly associated with PC in prostatectomy
+specimens.First, we confirmed the presence of hypermethylation of all
+genes in malignant (n = 48) compared to non-malignant biopsy tissue
+samples (n = 40) using quantitative methylation specific PCR
+(pBonferroni0.00002 in Mann Whitney U test, AUC range 0.80-0.98 in ROC
+analysis). Next, non-malignant biopsy samples from men with (n = 39) or
+without (n = 40) cancer in other biopsies were compared. Here, the
+methylation status of no single gene showed a significant correlation to
+the presence of PC in other biopsies. However, PC is a heterogeneous
+disease and a panel of markers could lead to increased sensitivity for PC
+if each marker adds little but complementary information. Indeed, a
+4-gene model (HAPLN3/GSTP1/AOX1/SLC18A2) was able to separate the 2
+groups of non-malignant samples with an AUC of 0.65 in ROC analysis (PPV
+= 100%, NPV = 59.7%), indicating the existence of an epigenetic cancer
+field effect. In our sample set, this corresponds to 12 out of 39 samples
+that would be identified as originating from PC patients based on the
+molecular analysis although no signs of malignancy were identified by
+pathology. Finally, to investigate epigenetic field effects and
+heterogeneity on a genomewide scale, we have analyzed multiple cancer
+foci, adjacent non-malignant and distant non-malignant samples from
+radical prostatectomy specimens from each of 4 patients with multifocal
+PC using the Infinium HumanMethylation450 BeadChip (Illumina). The
+results will be presented at the conference.In summary, PC-specific
+hypermethylation of all nine genes was confirmed in diagnostic needle
+biopsies. Furthermore, DNA methylation based cancer field effects were
+detected for several of these genes, and a 4-gene model with potential to
+detect non-malignant samples from PC patients based on a DNA
+hypermethylation signature was identified. The results of our study
+suggest that detection of epigenetic field effects in cancer-negative
+prostate biopsy samples may be used to increase the sensitivity for PC
+detection.
+

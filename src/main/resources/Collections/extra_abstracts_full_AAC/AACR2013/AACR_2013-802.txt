@@ -1,0 +1,45 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Development and validation of a microRNA-based diagnostic assay
+for the classification of renal cell tumors.
+
+
+Background:Renal cancers account for more than 3% of adult malignancies
+and result in more than 13,000 deaths per year in the US alone. The four
+most common types of kidney tumors include the malignant renal cell
+carcinomas: clear cell, papillary and chromophobe, as well as the benign
+oncocytoma. These histological subtypes vary in their clinical course and
+their prognosis, and different clinical strategies have been developed
+for their management. The differential diagnosis between the subtypes of
+kidney tumors based on morphology alone can be challenging, and is
+subjected to inter- and intra-observer variability. Even when utilizing
+immunohistochemistry (IHC) markers, the ability to differentiate between
+sub-types can be difficult, especially in the setting of uncommon
+morphology and biopsy sample with small amounts of tumor tissue. We
+present the development and validation of a microRNA-based test for
+classifying primary kidney tumors.Methods:181 Formalin Fixed Paraffin
+Embedded (FFPE) samples from primary kidney tumors were collected and
+reviewed by pathologists from different institutes according to
+morphology and available IHC labeling data. High-quality total RNA,
+including the well-preserved microRNA fraction, was extracted from the
+FFPE samples using a proprietary protocol. Expression levels of hundreds
+of microRNAs were profiled using a custom microarray platform. Technical
+validation of the array results was performed using qRT-PCR. A diagnostic
+assay was developed using a K-nearest neighbor algorithm that searches
+for the 5 samples in the training database (181 samples used for assay
+development) that are most similar to the tested sample. The result for
+the tested sample is defined by a majority vote of the pre-determined
+subtypes of these 5 closest neighbors. A validation set of 201
+independent samples was classified using the assay and analyzed
+blindly.Results:A set of 24 differentially expressed microRNAs were found
+to separate the four kidney tumor subtypes and were chosen as classifiers
+in the KNN algorithm. Clinical validation was performed using an
+independent, blinded sample set. The test was able to produce results for
+92% of the validation set of 201 samples with accuracy of
+95%.Conclusions: Expression levels of 24 microRNAs measured on a
+microarray platform were found to accurately differentiate the four main
+types of primary kidney tumors. These findings were the basis for the
+development and validation of a standardized diagnostic assay for the
+classification of renal cell tumors in FFPE samples from resections or
+biopsies. This assay can serve as a reliable diagnostic tool to aid
+physicians with the growing unmet need for kidney tumor classification.
+

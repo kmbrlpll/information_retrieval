@@ -1,0 +1,35 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Quantification of tumor blood perfusion of an orthotopic mouse
+model of neuroblastoma using nonlinear contrast-enhanced ultrasound
+imaging
+
+
+This study quantifies tumor perfusion in individual tumors to estimate
+blood flow and blood volume parameters of an individualized tumor
+compartment of a comprehensive physiologically-based pharmacokinetic
+model of topotecan using an orthotopic xenograft model of pediatric
+neuroblastoma. We non-invasively imaged perfusion in orthotopic
+neuroblastoma (NB5) xenograft tumors (n = 3 CD1 nude mice/time point)
+using nonlinear contrast enhanced ultrasound technique (CEUS). Tumor
+tissue and organs from the mice were harvested at predefined time-points.
+We used a programmable syringe pump to inject MicroMarker microbubbles
+via tail vein catheter and acquired images using VisualSonics VEVO 2100
+imaging system. We used the burst-replenishment technique to image tumor
+perfusion, which requires a constant concentration of microbubbles in
+blood during acquisition. To maintain a steady concentration of
+microbubbles, we programmed the pump to inject a small bolus followed by
+constant infusion. Our preliminary analysis showed that healthy kidneys
+rapidly reach a steady state in less than 1 min, significantly shorter
+than the commonly used constant infusion without an initial bolus. The
+nonlinear CEUS signal intensities of kidney cortex showed less than 20%
+variation between mice. We used a custom program to acquire the CEUS
+perfusion images over a 3D volume that included the tumor and a kidney.
+We used the kidney as a reference organ to normalize whole tumor
+perfusion data. We fitted the log-normal perfusion model to estimate
+perfusion parameters for individual tumors. Our perfusion quantification
+over the entire tumor volume represents tumor perfusion more accurately
+than the commonly used methods based on a single 2D plane without a
+reference organ. Our approach provides population estimates of blood
+perfusion based on properly normalized estimates of individual blood
+perfusion parameters.
+

@@ -1,0 +1,60 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Predicting drug sensitivity based on gene array data for cytotoxic
+chemotherapeutic agents
+
+
+The increasing availability of genetic data has led to a demand for
+robust methods to extract information and an increased need for complex
+computational analysis. The DREAM project consisted of 44 teams assessing
+various computational methods to predict drug sensitivity in 53 breast
+cancer cell lines. (Nat Biotechnol 32:1202). Results from this and other
+studies suggest that gene expression data from microarrays are one of the
+more valuable and robust data sets for predicting drug sensitivity. Whole
+exome sequencing is a valuable tool for predicting sensitivity to
+targeted agents, however the mutational spectrum is not as predictive for
+cytotoxic agents (Cancer Res 73:4372). Thus, a systematic analysis of the
+predictive ability of gene expression on cytotoxic chemotherapy drug
+sensitivity (IC50 values) using multiple cell line panels is an important
+component to understanding the versatility and applicability of gene
+expression for predicting cytotoxic drug IC50 values in tumor cells.
+Using GDSC and NCI60 cell panels, linear regression models were
+constructed to predict IC50 values from array data for 13 cytotoxic
+agents. To address the limited amount of data compared to a possible
+feature space > 22,000 genes, the methods of Principle Least Squares
+Regression (PLSR) and Principle Component Regression (PCR) were employed.
+Models were generated using four different training and validating
+scenarios to evaluate performance. Mean Absolute Differences (MAD)
+achieved between expected and predicted IC50 values as low as 11% and
+correlations as large as 0.7 (PThe increasing availability of genetic
+data has led to a demand for robust methods to extract information and an
+increased need for complex computational analysis. The DREAM project
+consisted of 44 teams assessing various computational methods to predict
+drug sensitivity in 53 breast cancer cell lines. (Nat Biotechnol
+32:1202). Results from this and other studies suggest that gene
+expression data from microarrays are one of the more valuable and robust
+data sets for predicting drug sensitivity. Whole exome sequencing is a
+valuable tool for predicting sensitivity to targeted agents, however the
+mutational spectrum is not as predictive for cytotoxic agents (Cancer Res
+73:4372). Thus, a systematic analysis of the predictive ability of gene
+expression on cytotoxic chemotherapy drug sensitivity (IC50 values) using
+multiple cell line panels is an important component to understanding the
+versatility and applicability of gene expression for predicting cytotoxic
+drug IC50 values in tumor cells. Using GDSC and NCI60 cell panels, linear
+regression models were constructed to predict IC50 values from array data
+for 13 cytotoxic agents. To address the limited amount of data compared
+to a possible feature space > 22,000 genes, the methods of Principle
+Least Squares Regression (PLSR) and Principle Component Regression (PCR)
+were employed. Models were generated using four different training and
+validating scenarios to evaluate performance. Mean Absolute Differences
+(MAD) achieved between expected and predicted IC50 values as low as 11%
+and correlations as large as 0.7 (P<0.05) were achieved for some drugs.
+However, several obstacles have presented themselves. Mainly, among 35
+cell lines shared by the GDSC and NCI60 direct correlation across common
+cell lines averaged only 0.4 highlighting the challenge to obtain,
+evaluate, and address consistent data suitable for robust models.
+a Low p values of 0 correspond to p values a Low p values of 0 correspond
+to p values < 105Model Performance Metrics showing high, average, and low
+values across all thirteen drugs.In summary, PCR and PLSR based gene
+expression models predict tumor cell sensitivity to some cytotoxic drugs
+with varying degrees of accuracy.
+

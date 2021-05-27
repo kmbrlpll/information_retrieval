@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: P16INK4a over-expression sensitizes HPV(-) HNSCC to radiation
+through down-regulation of USP7
+
+
+Background: Head and neck squamous cell carcinoma (HNSCC) tumorigenesis
+induced by human papillomavirus (HPV) shows a greater clinical response
+to radiation therapy when compared to HPV negative patients. The
+underlying mechanism for this more favorable outcome is unknown, but the
+presumption is that DNA repair response must play a large role. P16INK4a
+is a known surrogate marker for HPV positivity; however the relationship
+between radiation sensitivity and P16INK4a has not been completely
+elucidated in this context. Ubiquitin specific protease 7 (USP7), also
+known as HAUSP, is a deubiquitylating enzyme that cleaves ubiquitin from
+substrates to stabilize target proteins. USP7 overexpression is a
+predictor of poor prognosis in lung carcinomas and correlates with
+disease progression and lower survival in gliomas. More recent studies
+have shown USP7 has a role in the stability of DNA damage response
+proteins such as RNF168, BRCA1 and Chk1; and USP7 knockdown has been
+shown to radio-sensitize breast cancer cells to radiation. We have
+investigated the possible role of USP7 in the radio-response of HNSCC
+cells in the context of HPV status.Methods: Four HPV(+) and four HPV(-)
+HNSCC were chosen for this study. The radio-response was determined by
+clonogenic survival assay. P16INK4a overexpression was generated using
+lentivirus. Western blot analysis was used for visualizing protein
+expression. The Cancer Genome Atlas was interrogated to examine the
+relationship between USP7 and clinical outcome.Results: Our data suggest
+P16INK4a negatively regulates USP7 and leads to the more radiosensitive
+phenotype associated with HPV(+)HNSCC. Radio-resistant HPV(-) HNSCC cell
+lines show higher levels of USP7 than HPV(+) lines and over-expression of
+P16INK4a in HPV(-) HN5 cells leads to down-regulation of USP7 and
+radio-sensitization. Conversely, P16INK4a siRNA knockdown in HPV(+)
+UMSCC-47 shows an increase of USP7 protein expression and
+radio-resistance. P22077, an inhibitor of USP7 activity, was also shown
+to radiosensitize a HPV(-) cell line. This shows proof of principle that
+inhibiting USP7 can be a viable approach to sensitizing HPV(-) HNSCC to
+radiation. USP7 overexpression was also associated with poorer overall
+survival in HNSCC.Conclusion: These results suggest that USP7 may be a
+marker of clinical radioresistance in HNSCC and that its inhibition has
+the potential to improve the treatment outcome of patients with HPV(-)
+HNSCC when combined with radiotherapy.
+

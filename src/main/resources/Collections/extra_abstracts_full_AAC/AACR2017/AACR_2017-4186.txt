@@ -1,0 +1,45 @@
+Meeting: 2017 AACR Annual Meeting
+Title: A biochemical approach to discriminate between ATP-competitive and
+non-ATP competitive protein kinase inhibitors.
+
+
+Protein kinases are central to cellular signal transduction and
+regulation of cellular processes, and are one of the most attractive
+target classes in modern drug discovery. Multiple kinase inhibitors have
+already been approved for treatment of various diseases including such
+severe conditions as cancer. The first and up to today largest group of
+drugs that effectively inhibits their respective kinase targets belong to
+the class of ATP competitive compounds. They bind into or near the ATP
+binding site of the enzymes and inhibit kinase activity by blocking
+access of ATP to the active site. Although there are numerous examples of
+highly specific ATP competitive compounds this mode of action is limited
+by several factors: The ATP binding pocket structures of kinases show a
+high degree of similarity, which makes finding highly selective compounds
+challenging. Furthermore, competing with ATP for binding to the same
+target site, compounds have to be of very high affinity due to the high
+intracellular ATP concentrations. Therefore, the interest to develop
+non-ATP competitive inhibitors has risen considerably over the last
+years. Such inhibitors bind to kinases at sites apart from the ATP
+binding site, inhibiting their activity e.g. by stabilizing an inactive
+conformation (like DFG-out state binders), displacing essential cofactors
+(like cyclins for CDKs) or by blocking activating modifications (like
+phosphorylation by upstream kinases). We present data of an in-vitro
+biochemical kinase activity assay setup which is suited to discriminate
+between ATP-competitive and non-ATP competitive inhibitors. The IC50 of
+an ATP-competitive inhibitor will increase with increasing ATP
+concentrations and the IC50 value at a given ATP concentration may be
+calculated using the equation of Cheng and Prussof:
+IC50=Ki+(Ki*[ATP]/KM[ATP] (Cheng Y., Prusoff W. H. (1973) Biochem.
+Pharmacol. 22: 3099-3108). By determining IC50 values for an inhibitor of
+a specific kinase at different ATP concentrations we examined whether the
+IC50 value changed according to the Cheng-Prusoff equation, indicating an
+ATP-competitive mode of action, or if the IC50 values remained unchanged
+in presence of elevated ATP indicating a non-ATP competitive or mixed
+type mode of action. In our assay setup we determined the IC50 values at
+ATP concentrations in a range of 0.1 to 10 fold the ATP KM of the kinase
+of interest. By comparing the results obtained for the non-ATP
+competitive MEK1 inhibitor selumetinib and the ATP competitive inhibitor
+staurosporine we could verify that our assay setup is well suited to
+discriminate between these different types of kinase inhibitors.
+
+

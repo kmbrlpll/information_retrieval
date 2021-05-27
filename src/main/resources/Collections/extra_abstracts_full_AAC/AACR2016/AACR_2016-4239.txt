@@ -1,0 +1,47 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Monitoring in vivo biodistribution of superparamagnetic
+nanoparticles using superparamagnetic relaxometry (SPMR)
+
+
+We report on the use of Superparamagnetic Relaxometry (SPMR) as a
+technique for monitoring the distribution of superparamagnetic magnetite
+(Fe3O4) nanoparticles in vivo. SPMR uses superconducting quantum
+interference device (SQUID) sensors to measure the remnant magnetization
+of nanoparticles bound to cells following a brief magnetizing pulse.
+Unbound nanoparticles are not detected, making SPMR uniquely capable of
+discriminating between nanoparticles that are circulating freely in the
+bloodstream from those that have been immobilized in organs and tissues
+throughout the body.The rate of clearance of magnetic nanoparticles from
+circulation is largely dependent on their hydrodynamic diameter and
+surface chemistry. In this study, biodistribution of PrecisionMRX
+nanoparticles with 25 nm cores and two different surface coatings were
+followed using the MRX instrument. In independent experiments, negatively
+charged carboxylate nanoparticles and methoxy-PEG (mPEG) functionalized
+nanoparticles with a near neutral charge were suspended in 100 L of
+saline. Nanoparticle suspensions were injected intravenously via tail
+vein into Balb/C mice at a dose of 5 mg/kg of body mass, while control
+mice were injected with 100 L of saline solution. Mice were measured
+individually on the MRX instrument at successive time points over the
+course of 24 hours. At selected intervals during the 24 hour period, mice
+were euthanized, exsanguinated, and organs harvested for ex vivo
+measurements on the MRX. Organs and blood were subsequently assayed for
+iron content.MRX measurements of mice injected with carboxylate
+nanoparticles showed a strong magnetic signal localized in the region of
+liver that reached a maximum several minutes after injection. The
+negative surface charge of the carboxylate nanoparticles likely resulted
+in their rapid opsonization in the blood and removal from circulation by
+phagocytic cells in the liver. Conversely, MRX measurements of mice
+injected with mPEG coated nanoparticles indicated an extended circulation
+time, with a gradually increasing magnetic signal in the liver that had
+not yet reached a maximum after four hours. Together, these experiments
+demonstrate the utility in using SPMR to measure the clearance of
+nanoparticles from the bloodstream following injection, an important
+parameter in the design of optimal coatings for in vivo diagnostic and
+therapeutic use.This work was performed, in part, at the Center for
+Integrated Nanotechnologies, an Office of Science User Facility operated
+for the U.S. Department of Energy (DOE) Office of Science. Sandia
+National Laboratories is a multi-program laboratory managed and operated
+by Sandia Corporation, a wholly owned subsidiary of Lockheed Martin
+Corporation, for the U.S. Department of Energy's National Nuclear
+Security Administration under contract DE-AC04-94AL85000.
+

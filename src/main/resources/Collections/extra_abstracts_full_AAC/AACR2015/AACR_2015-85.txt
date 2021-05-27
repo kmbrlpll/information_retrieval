@@ -1,0 +1,39 @@
+Meeting: 2015 AACR Annual Meeting
+Title: CCAAT/enhancer binding protein beta facilitates castrate-resistant
+prostate cancer cell growth and sensitivity to mTOR inhibitors
+
+
+Adaptive changes that frequently occur in castrate-resistant prostate
+cancer (CRPC) cells are genomic mutations which enhance the activity of
+the PI3K-mTOR signaling pathway. Although there have been several
+promising clinical trials for the treatment of CRPC utilizing inhibitors
+of mTOR, these efforts failed to show significant improvement of patient
+outcomes. Thus, identifying potential mechanisms of resistance to these
+agents could improve their therapeutic efficacy. CCAAT/enhancer binding
+protein beta (C/EBP) is a broadly expressed transcription factor, with
+three isoforms that are differentially translated by mTOR activity. T
+reatment of cells with mTOR inhibitors increases the translation of the
+larger C/EBP LAP isoforms and decreases the truncated LIP isoform. The
+function of C/EBP LAP has been previously associated with survival and
+cellular senescence, while the LIP isoform facilitates cell cycle
+progression. Our central hypothesis was that the differential translation
+of LAP and LIP C/EBP isoforms was essential for the survival of CRPC
+cells treated with mTOR inhibitors. We found that treatment of PC3 cells
+with mTOR inhibitors unexpectedly increased the protein levels of all
+three C/EBP isoforms, while androgen-sensitive LNCaP cells largely showed
+decreased C/EBP protein levels. However, the PI3K inhibitor LY294002,
+decreased the LIP isoform of C/EBP without affecting LAP expression in
+LNCaP and PC3 cells. C/EBP gene expression decreased in both LNCaP and
+PC3 cells in response to treatment with mTOR inhibitors. We next
+evaluated whether C/EBP facilitated cell survival during mTOR inhibition.
+We found that PC3 cells deficient in C/EBP, via shRNA knockdown or TALEN
+gene editing, were less sensitive to the mTORC1/2 inhibitor, INK128, as
+assessed by a significant increase in IC50 value determined by the WST-1
+assay. Further, suppression of C/EBP through shRNA KD or TALEN targeting
+dramatically decreased the rate of PC3 cell growth, clonogenic potential
+and induced a senescent phenotype. Intriguingly, loss of C/EBP in LNCaP
+cells increased clonogenic potential. Collectively, these data suggest
+that C/EBP has a differential role for cell growth in androgen-sensitive
+versus castrate-resistant prostate cancer and that C/EBP levels inversely
+correlate with mTOR inhibitor resistance.
+

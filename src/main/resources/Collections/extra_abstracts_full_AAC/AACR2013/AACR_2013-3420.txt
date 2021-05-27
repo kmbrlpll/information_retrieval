@@ -1,0 +1,47 @@
+Meeting: 2013 AACR Annual Meeting
+Title: The novel Chk1 inhibitor MK8776 sensitizes AML cells to HDAC
+inhibitors by targeting the intra-S checkpoint and DNA replication and
+repair.
+
+
+While histone deacetylase inhibitors (HDACIs, e.g., vorinostat) are
+approved for CTCL, they have limited single-agent activity in AML.
+Consequently, new mechanisms and targeted agents capable of improving
+HDACI anti-leukemic efficacy are urgently needed. Recently, new insights
+into HDACI mechanisms of actions have implicated interruption of DNA
+replication and DNA damage checkpoints, raising the possibility that
+agents targeting Chk1, a key modulator that monitors the DNA replication
+process and mediates activation of DNA damage checkpoints, may improve
+HDACI activity. To test this hypothesis, interactions between the novel
+Chk1 inhibitor MK8776 and the HDAC inhibitor (HDACI) vorinostat were
+examined in human AML cells harboring wild-type (wt) or deficient p53
+and/or FLT3-ITD. MK-8776 synergistically potentiated vorinostat-mediated
+apoptosis in various AML cell lines, although lethality was significantly
+more pronounced in p53-deficient cells. Notably, AML cells carrying
+FLT3-ITD were particularly sensitive to the MK8776/vorinostat regimen,
+regardless of p53 status. Synergistic interactions were associated with
+inhibition of Chk1 activity (e.g., diminished Ser296 phosphorylation),
+interference with the intra-S phase checkpoint (cell cycle analysis),
+disruption of DNA replication (EdU incorporation), and down-regulation of
+proteins involved in DNA replication (e.g., CDT1) and repair (e.g., CtIP
+and BRCA1), resulting in sharp increases in DNA damage, reflected by
+enhanced H2A.X formation and increased Chk2 Thr68 phosphorylation, and
+apoptosis. Moreover, AML cells expressing kinase-dead Chk1 (D130A) or
+Chk1 shRNA were significantly more sensitive to HDACIs compared to their
+wt-counterparts, and displayed down-regulation of CtIP and BRCA1
+phosphorylation following HDACI exposure. Interestingly, MK8776 induced
+Ser15, but not Ser20, phosphorylation and accumulation of p53 in p53-wt
+cells, events that were largely blocked by HDACIs. Moreover, p53 knock
+down by shRNA significantly sensitized these cells to MK8776 or HDACIs,
+particularly in combination. Finally, the MK8776/vorinostat regimen was
+active in primary AML blasts, particularly against CD34+/CD38-/CD123+
+populations enriched for leukemia-initiating cells. In contrast,
+identical regimens were relatively sparing toward normal cord blood CD34+
+cells. Together, these findings indicate that the novel Chk1 inhibitor
+MK8776 markedly potentiates HDACI lethality in AML cells displaying
+various genetic backgrounds through mechanisms involving disruption of
+DNA replication, the intra-S checkpoint, and DNA repair. They also argue
+that leukemic cells, and particularly those bearing oncogenic mutations
+associated with poor prognosis e.g., p53 deletion/mutation or FLT3-ITD,
+may be more susceptible than their wt-counterparts to this strategy.
+

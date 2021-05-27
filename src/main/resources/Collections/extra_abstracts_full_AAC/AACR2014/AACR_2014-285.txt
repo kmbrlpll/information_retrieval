@@ -1,0 +1,48 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Integrative analyses of genome-wide expression of miRNAs and DNA
+methylation patterns in hepatocellular carcinoma to improve functional
+biomarker identification
+
+
+Previous studies, including ours have examined aberrant expression of
+microRNAs (miRNAs) and altered DNA methylation, and several miRNAs have
+been identified as regulated by DNA methylation. However, whether this
+mechanism occurs at a genome-wide level and is related to the profiles of
+dysregulated miRNA commonly observed in hepatocellular carcinoma (HCC)
+patients is largely unknown. Using a two-phase study design, we conducted
+a genome-wide screening for miRNA expression and DNA methylation profiles
+in the tumor and adjacent non-tumor tissues from US HCC cases. The
+discovery and validation sets included, respectively, 10 and 56 paired
+tumor/non-tumor tissues. TaqMan Low Density Arrays (TLDA) covering 733
+miRNAs were used to measure expression profiles, and quantitative RT-PCR
+was used to validate candidate miRNA signatures. Infinium
+HumanMethylation 450K BeadChip arrays covering 3,439 CpG sites for 727
+miRNAs were used to determine DNA methylation patterns. Comparing
+expression profiles in HCC tumor and adjacent non-tumor tissues, we found
+that 25 miRNAs were statistically significantly different with over
+2-fold expression changes after adjusting for false discovery rate (FDR);
+a perfect classification of HCC tissues was observed. Six of the aberrant
+miRNAs were over-expressed in HCC tumor tissue (range from 2.7 to
+18-fold), while 19 miRNAs were downregulated in tumor tissue (range from
+-2.5 to -7.5-fold). Several miRNAs (miR-139, miR-196b, miR-381, miR-486
+and miR-1180) were identified for the first time as having a role in
+hepatocarcinogenesis. After Bonferroni adjustment, a total of 1,256 CpG
+sites covering 412 miRNAs showed significant differences in DNA
+methylation levels between tumor and adjacent non-tumor tissues,
+including 185 hypermethylated and 1,071 hypomethylated CpG sites in tumor
+tissues. We further conducted integrative analyses of the correlations
+between miRNAs expression and DNA methylation patterns for 222 miRNAs
+detected in over 80% of the tissue samples. As expected, inverse
+correlations were observed for 91.7% (55/60) of up-regulated miRNAs with
+a DNA hypomethylation change, and for 48.1% (78/162) of down-regulated
+miRNAs with a DNA hypermethylation change. However, for only 8 miRNAs
+(3.6%) did expression levels achieve statistically significant
+differences between tumor and non-tumor tissues in accord with DNA
+methylation alterations. A validation study of six of the candidates in
+an additional 56 paired HCC tissues confirmed the aberrant miRNAs
+expression patterns observed in tumor tissue. The inverse correlations
+between miRNAs expression and DNA methylation were concordant for all 27
+CpG sites in the 4 miRNAs (miR-18a, miR-125b-1, miR-182 and miR-199a-1).
+These data suggest that a small proportion of DNA methylation changes can
+lead to significant dysregulation of miRNAs in HCC tumor tissue.
+

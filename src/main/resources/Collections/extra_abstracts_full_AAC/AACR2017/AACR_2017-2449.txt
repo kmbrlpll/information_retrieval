@@ -1,0 +1,50 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Transcriptome and whole-genome sequencing analysis of a novel
+murine model of chronic lymphocytic leukemia.
+
+
+Large-scale cancer sequencing of primary chronic lymphocytic leukemia
+(CLL) has identified SF3B1, an RNA splicing factor, as one of the most
+frequently mutated CLL genes. SF3B1 mutations localize to a hotspot (>50%
+at K700E site) and highly co-occur with mutations in ATM or deletion of
+chromosome 11q (minimally deleted region contains ATM). How this splicing
+factor mutation alone or in cooperation with ATM deletion contributes to
+CLL remains elusive. Genetically engineered mice are powerful tools in
+understanding genetic lesions and cancer phenotypes. We therefore
+generated a mouse line that conditionally expresses heterozygous
+Sf3b1-K700E mutation. We modeled the effects of the combined alterations
+by crossing mice with conditional knockout of Atm and mice with
+Sf3b1-K700E. By breeding these mice with homozygous CD19-Cre transgenic
+mice, we achieved B cell-restricted expression of heterozygous Sf3b1
+mutation and Atm deletion. B cell co-expression of these two mutations in
+vivo led to clonal expansion of CD19+CD5+ B cells in blood, marrow and
+spleen in aged mice (18 to 24-month old) at low penetrance. No leukemia
+cells were found in the Sf3b1-K700E mice (up to 24-month old). The CLL
+cells from the double mutant mice could be engrafted in both
+immunocompetent and immunodeficient mice, with detectable disease within
+2-4 weeks following transfer, thus making this mouse line amenable to
+drug discovery and biologic investigations. To investigate how Sf3b1
+mutation and Atm deletion synergistically contribute to CLL, we asked if
+there are RNA and DNA level changes in the double mutant mice with CLL.
+First, we performed transcriptome sequencing of splenic B cell RNA
+collected from age-matched mice that either express wild-type, singly
+mutant alleles of Sf3b1 or Atm, or doubly mutant alleles with or without
+CLL-like disease. Using the tool JuncBASE, we classified and quantified
+splice variants associated with the different genetic alterations.
+Consistent with prior findings in human CLL, we observed that splice
+variants in Sf3b1-mutant mice alone were highly enriched at 3' splice
+sites. Sf3b1 and Atm doubly mutant B cells displayed a splicing pattern
+similar to that in Sf3b1 singly mutant cells. Moreover, we identified
+unique CLL splice variants in genes (Setdb2, Phf11c) previously shown to
+be associated with CLL. Next, we examined the mutation rate in DNA
+derived from splenic B cells collected from mice with a singly mutated
+allele of Sf3b1 or Atm, or with doubly mutated alleles with and without
+CLL-like disease through comparison against matched germline DNA from
+kidney by whole-genome sequencing. We have observed that co-expression of
+Sf3b1 mutation and deletion of Atm results in a higher mutation rate
+compared to singly mutant cells. Our analysis has revealed that altered
+RNA splicing and genomic instability all contribute to CLL
+leukemogenesis. We will further dissect how the two lesions contribute to
+CLL functionally using this model.
+
+

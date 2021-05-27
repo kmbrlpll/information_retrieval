@@ -1,0 +1,35 @@
+Meeting: 2017 AACR Annual Meeting
+Title: IODNE: an integrated optimization method for identifying the
+deregulated sub-network for precision medicine in cancer.
+
+
+Background and Purpose: Sub-network analysis can explore complex patterns
+of the entire molecular pathways and networks for the drug target
+identification, and therefore drug selection. Computational algorithms
+are needed to optimize the sub-network search for molecular pathways and
+networks under certain conditions.
+
+Materials and Methods: In the paper, the gene expression profile of a
+cohort breast cancer patients and protein-protein interaction (PPI)
+network are integrated with edge score and node score simultaneously. A
+novel optimization algorithm, IODNE, is developed to search for the
+optimal de-regulated subnetwork of merging gene and protein network. The
+application of IODNE is demonstrated for a sub-network of drug target
+selection in breast cancer subtypes Luminal-A/Luminal-B data from Cancer
+Genome Atlas (TCGA). Where, the PPI networks data selected from Pathway
+Commons.
+
+Results: IODNE selects sub-networks, which contain ER1/PR and HER2, the
+well-known targets in clinic Luminal-A/Luminal-B breast cancer subtypes.
+This validates the utility of IODNE. When applying IODNE to the
+triple-negative breast cancer subtype data, we identify sub-networks that
+contain genes such as ERBB2, HRAS, PGR, CAD, POLE and SLC2A1.
+
+Conclusion: Using the known drug targets in breast cancer subtypes, we
+demonstrate that IODNE is a robust and powerful algorithm to identify
+sub-networks for drug target identification. Based on the gene expression
+profiles and protein interaction networks, it detects the optimum
+deregulated subnetwork for the candidate drug target selection. The IODNE
+is promising tool for the precision medicine.
+
+

@@ -1,0 +1,89 @@
+Meeting: 2015 AACR Annual Meeting
+Title: RNA DNA divergences: An unsuspected marker of cancer genomic
+instability accurately predicts triple-negative breast cancer severity
+
+
+Next generation sequencing provides 3 measures of cancer genomic
+instability i.e. somatic DNA variations, differential gene expression and
+RNA DNA divergences (RDD). The latter reflects changes in RNA sequences
+that are not present at the DNA level. Triple negative breast cancers
+(TNBC) represent the most severe form of the disease and are currently
+not amenable to targeted therapies nor to prognosis testing. We used the
+3 measures of genomic instability to construct specific optimal
+algorithms that effectively separated 20 TNBC patients with poor or good
+clinical outcomes: 11 patients died from the disease within 1000 days
+following diagnosis of non metastatic TNBC while 9 were alive after 2500
+days of follow up. All 3 models efficiently separated these 2 clinically
+polarized groups. However, only RDD based algorithms and not those
+relying on somatic mutations and expression profiles retains performances
+in excess of 90% accuracy after statistical cross validation. The 3
+models were then applied in blind to 45 unknown patients with the same
+inclusion criteria i.e. non metastatic TNBC diagnosed before the age of
+65 irrespective of menopausal, lymph node, tumor size and ethnic origin
+or recruitment centers. Kaplan-Meier analysis showed that the RDD based
+algorithm was highly predictive of clinical outcome i.e. 100% of patients
+predicted with good outcome were alive while 80% of patients predicted
+with poor outcome died in the same time interval (pNext generation
+sequencing provides 3 measures of cancer genomic instability i.e. somatic
+DNA variations, differential gene expression and RNA DNA divergences
+(RDD). The latter reflects changes in RNA sequences that are not present
+at the DNA level. Triple negative breast cancers (TNBC) represent the
+most severe form of the disease and are currently not amenable to
+targeted therapies nor to prognosis testing. We used the 3 measures of
+genomic instability to construct specific optimal algorithms that
+effectively separated 20 TNBC patients with poor or good clinical
+outcomes: 11 patients died from the disease within 1000 days following
+diagnosis of non metastatic TNBC while 9 were alive after 2500 days of
+follow up. All 3 models efficiently separated these 2 clinically
+polarized groups. However, only RDD based algorithms and not those
+relying on somatic mutations and expression profiles retains performances
+in excess of 90% accuracy after statistical cross validation. The 3
+models were then applied in blind to 45 unknown patients with the same
+inclusion criteria i.e. non metastatic TNBC diagnosed before the age of
+65 irrespective of menopausal, lymph node, tumor size and ethnic origin
+or recruitment centers. Kaplan-Meier analysis showed that the RDD based
+algorithm was highly predictive of clinical outcome i.e. 100% of patients
+predicted with good outcome were alive while 80% of patients predicted
+with poor outcome died in the same time interval (p<10-5). Algorithm
+based on somatic mutations and expression failed to predict clinical
+outcome in Kaplan-Meier analysis of validation set (p = NS). We then
+applied RDD predictive algorithm to TNBC cell lines and found that cells
+with RDD rate leading to poor clinical outcome prediction were
+statistically significantly associated with higher invasion and migration
+capacity (pNext generation sequencing provides 3 measures of cancer
+genomic instability i.e. somatic DNA variations, differential gene
+expression and RNA DNA divergences (RDD). The latter reflects changes in
+RNA sequences that are not present at the DNA level. Triple negative
+breast cancers (TNBC) represent the most severe form of the disease and
+are currently not amenable to targeted therapies nor to prognosis
+testing. We used the 3 measures of genomic instability to construct
+specific optimal algorithms that effectively separated 20 TNBC patients
+with poor or good clinical outcomes: 11 patients died from the disease
+within 1000 days following diagnosis of non metastatic TNBC while 9 were
+alive after 2500 days of follow up. All 3 models efficiently separated
+these 2 clinically polarized groups. However, only RDD based algorithms
+and not those relying on somatic mutations and expression profiles
+retains performances in excess of 90% accuracy after statistical cross
+validation. The 3 models were then applied in blind to 45 unknown
+patients with the same inclusion criteria i.e. non metastatic TNBC
+diagnosed before the age of 65 irrespective of menopausal, lymph node,
+tumor size and ethnic origin or recruitment centers. Kaplan-Meier
+analysis showed that the RDD based algorithm was highly predictive of
+clinical outcome i.e. 100% of patients predicted with good outcome were
+alive while 80% of patients predicted with poor outcome died in the same
+time interval (p<10-5). Algorithm based on somatic mutations and
+expression failed to predict clinical outcome in Kaplan-Meier analysis of
+validation set (p = NS). We then applied RDD predictive algorithm to TNBC
+cell lines and found that cells with RDD rate leading to poor clinical
+outcome prediction were statistically significantly associated with
+higher invasion and migration capacity (p<0.001). Inactivation of the
+expression of the most important transcript contributing to the RDD model
+reversed the in vitro phenotype. Comparison of RDD events occurring in
+good an poor outcome patients showed statistically significant
+differences in affected and replacement bases between the 2 groups.
+Therefore, RDD originate in non-random defects in the transfer of
+information between DNA and RNA that strongly contribute to tumor
+severity, further identification of specific transcripts differentially
+affected by RDD rate between poor and good clinical outcome allows
+development of novel strategies for selective therapeutic intervention.
+

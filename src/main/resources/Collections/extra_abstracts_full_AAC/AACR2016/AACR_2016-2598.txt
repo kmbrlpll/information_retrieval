@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Predicting breast and ovarian cancer risks for BRCA1 and BRCA2
+mutation carriers using polygenic risk scores
+
+
+Women who carry a pathogenic mutation in the BRCA1 or BRCA2 gene are at
+high risk of breast (BC) and ovarian cancer (OC). Their clinical
+management usually includes invasive risk-reducing interventions with
+substantial side effects. Improved personalized cancer risk estimates may
+help to identify women at particularly high risk or with high risk of
+disease at early ages who may benefit from early intervention as well as
+women at lower risk who may opt to delay surgery or chemoprevention.
+Genome-wide association studies have identified >100 common genetic
+variants that are associated with BC or OC risks. Several of these
+variants are also individually associated with risk of BC or OC for BRCA1
+and BRCA2 mutation carriers. However, no study has evaluated the combined
+effects of all the known common genetic variants on BC or OC risk for
+BRCA1/2 mutation carriers.We constructed polygenic risk scores (PRS)
+based on results of genetic association studies conducted in the general
+population. Each PRS was formed by the sum of the number of risk alleles
+across the variants weighted by their log-Odds Ratio estimate from
+population-based studies of BC or OC. We investigated 3 PRS for BC
+(overall, estrogen receptor (ER) positive, and ER-negative) and one PRS
+for OC. We used data for 15,252 BRCA1 and 8,211 BRCA2 female carriers.
+The association of each PRS with BC or OC risk was evaluated using a
+weighted cohort analysis with time to diagnosis as the outcome and
+estimated the Hazard Ratios (HR) per standard deviation increase in the
+PRS.All PRS were significantly associated with cancer risks for BRCA1/2
+carriers. The PRS for ER-negative BC displayed the strongest association
+with BC risk in BRCA1 carriers (HR = 1.29 [1.25-1.33], p = 81064). In
+BRCA2 carriers, the strongest association was seen for the overall BC PRS
+(HR = 1.26 [1.21-1.31], p = 31027). The OC PRS was strongly associated
+with OC risk for both BRCA1 and BRCA2 carriers. These relative risks
+translate to large differences in absolute risks for carriers: e.g., the
+OC risk was 6% by age 80 for BRCA2 carriers at the 10th percentile of the
+OC PRS compared with 19% risk for those at the 90th percentile of PRS.Our
+findings demonstrate that BC and OC PRS derived from studies in the
+general population are predictive of cancer risks in BRCA1 and BRCA2
+carriers. Incorporation of the PRS into risk prediction models would
+improve risk prediction and hence inform decisions on cancer risk
+management.
+

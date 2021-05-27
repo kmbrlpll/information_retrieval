@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: A novel small molecule inhibitor targets the DNA double strand
+break repair protein Ku70/80
+
+
+Purpose: Non-Homologous End-Joining (NHEJ) is the primary pathway for the
+repair of DNA double strand breaks (DSBs) in human and mammalian cells.
+NHEJ is frequently upregulated in diverse solid malignancies and is a
+determining factor in the process of carcinogenesis. In addition,
+upregulation of the NHEJ pathway can reduce the efficiency of anti-cancer
+therapies including radiation or chemotherapy. Inhibition of NHEJ by
+siRNA reduces the growth of NHEJ-upregulated tumors and alleviates
+radiation-refractory disease. The Ku70/80 heterodimer is the central
+scaffolding protein of the NHEJ pathway, which recruits and activates all
+other key NHEJ factors. Therefore, Ku70/80 protein is a logical target
+for disruption of the NHEJ process.Experimental Procedures: We report the
+identification of a prospective binding pocket in the Ku70/80 crystal
+structure, located in close proximity to the DNA-binding domain and the
+Ku70/80 heterodimer interface. Based on this pocket, an idealized virtual
+ligand (protomol) was created and utilized to screen in silico an
+extensive database of small molecule compounds for potential ligands.
+Nine of the highest ranking hits were chosen for biological
+evaluation.Results: We identified one compound (designated Compound L),
+which proved capable of disrupting the in vitro binding of Ku70/80 to a
+DNA substrate in a dose-dependent manner with an IC50 of 3.5 M. In
+addition, Compound L showed dose-dependent inhibition of DNA-Dependent
+Protein Kinase Catalytic Subunit (DNA-PKCS) activity, which requires
+Ku70/80 as a co-factor with an IC50 of 2.5 M. Finally, we showed that
+Compound L synergistically sensitizes a glioblastoma cell line to
+ionizing radiation, with a marked sensitization at 20-25 M. This latter
+observation clearly demonstrates the ability of Compound L to disrupt
+NHEJ-mediated repair of radiation-induced DSBs.Conclusions: Compound L is
+an active inhibitor of the Ku70/80 heterodimer. To the best of our
+knowledge, no such compound has been reported in the peer-reviewed
+literature. The structure of Compound L will be utilized as a scaffold
+for a structure-activity relationship (SAR) based hit-to-lead drug
+development aimed at designing a novel class of anti-cancer agents
+targeting the Ku70/80 heterodimer. We predict Ku70/80 inhibitors would
+have applicability as single-modality drugs, following a synthetic
+lethality approach, or as sensitizing agents for concurrent radiation or
+chemotherapy in a variety of solid malignancies.Support: P30 CA023074.
+

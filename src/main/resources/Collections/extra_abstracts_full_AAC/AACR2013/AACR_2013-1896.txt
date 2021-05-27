@@ -1,0 +1,39 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Bioluminescent assays for investigating cell metabolism.
+
+
+Cell metabolism is an important and expanding area of research in the
+field of cancer biology. Simple, rapid assays for studying cellular
+metabolic pathways, their enzymes, metabolites and cofactors can
+facilitate these studies. We have developed two novel bioluminescent
+technologies, one for monitoring cell viability, and the other for
+monitoring changes in cellular nicotinamide adenine dinucleotides, that
+can facilitate the study of cell metabolism and its regulation.The
+bioluminescent cell viability assay is based on the metabolic activity of
+live cells. Metabolically active cells reduce a proluminogenic substrate
+in vivo which is then detected by a luciferase enzyme in the media. The
+luminescence output is correlated with the number of viable cells. The
+assay is non-toxic, sensitive (detects less than 10 cells/well) and has a
+large dynamic range (S/B>100). The key, differentiating feature of this
+assay is the incorporation of the recently developed stable and very
+bright NanoLuc luciferase and its profurimazine substrate, which allows
+changes in viability to be monitored in real-time and continuously, over
+extended periods of time, from the same sample.Three homogeneous,
+one-step, bioluminescent assays have been developed for the detection of
+nicotinamide adenine dinucleotides, specific for: (1) reduced forms NADH
+and NADPH, (2) non-phosphorylated forms NAD and NADH, and (3)
+phosphorylated forms NADP and NADPH. The assays are based on the reaction
+of the enzyme diaphorase with a proluciferin substrate, which in the
+presence of NADH or NADPH is converted to luciferin, a substrate for
+luciferase. These assays are sensitive (LOD 50 nM) and have large maximum
+signal windows (S/B > 100), two advantages over currently available
+colorimetric and fluorescent detection methods. They are also robust, and
+amenable to automated and high-throughput protocols (Z > 0.8). The high
+sensitivity, one-step reagent addition, and no requirement for sample
+processing, permit an in-well protocol for the assay of cells directly in
+culture plate wells. Changes in cellular NAD levels can be rapidly
+monitored, as demonstrated using FK866, an inhibitor of NAD biosynthesis.
+FK866 caused a decrease in NAD levels in multiple cell types with good
+signal windows (S/B > 10) and expected pharmacology (IC50 values = 1-10
+nM).
+

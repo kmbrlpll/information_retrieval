@@ -1,0 +1,48 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Inhibition of Polo-like kinase 1 as a strategy in the treatment of
+adrenocortical carcinoma
+
+
+Adrenocortical carcinoma (ACC) is an aggressive cancer with a 5-year
+survival rate of 20-30%. Mitotane is the only approved drug for the
+treatment of patients with ACC. It often carries significant toxicities
+which result in the discontinuation of treatment. There are no approved
+second line therapies. The increased incidence of ACC in the cancer
+predisposition syndrome, Li-Fraumeni, suggests the involvement of the p53
+pathway in ACC pathogenesis. Our analysis of the gene expression profiles
+of 19 ACC samples identified dysregulation of the G2/M transition and the
+activity of the p53 modulator, MDM2 as important in ACC pathogenesis.
+Polo-like kinase-1 (PLK1) is involved in the G2/M transition and acts to
+promote MDM2 activity through its phosphorylation. We observed that PLK1
+inhibition by siRNA results in up to a 70% reduction in viability in the
+ACC cell lines SW-13 and H295R. Therefore, we studied PLK1 inhibition as
+a potential therapeutic strategy. We used the small molecule inhibitor,
+BI-2536, to inhibit PLK1 function in SW-13 and H295R. Drug-dose response
+curves demonstrated that both cell lines are sensitive to pharmacological
+inhibition of PLK1 (IC50 doses of 0.0094815 M and 0.062805 M for SW-13
+and H295R, respectively.) Murine xenograft studies demonstrated that
+BI-2536 resulted in a statistically significant reduction in tumor growth
+in SW-13 but not H295R. Examination of p53 protein levels in the presence
+of the drug showed a dose-dependent reduction in p53 levels in SW-13,
+which carries a homozygous p53 mutation. The same was not true in H295R,
+which is p53 wild-type. To test the hypothesis that BI-2536 was
+decreasing mutant p53 levels by promoting its proteasomal degradation,
+both cell lines were treated with previously determined inhibitory
+concentrations of BI-2536, either alone or in combination with the
+proteasome inhibitor, MG132. Western blot analysis showed recovery of p53
+protein when cells were concomitantly treated with MG132, supporting a
+role for BI-2536 as a regulator of proteasomal degradation. Both ACC cell
+lines are relatively insensitive to MDM2 inhibition by nutlin-3 (NCI60
+GI50 values range from 4 uM to 2 uM versus ACC cell lines @13-15uM),
+possibly because PLK1 stimulates MDM2 and renders nutlin-3 ineffective.
+We therefore assessed the ability of BI-2536 to sensitize ACC cell lines
+to the effects of the MDM2 inhibitor. BI-2636 did show synergy with
+nutlin-3, shifting the IC50 in SW-13 from 19.78 M to 6.45 M and from
+12.75 M to 2.84 M in H295R. These results demonstrate that inhibition of
+PLK1 alone or in combination with an MDM2 inhibitor warrants further
+investigation as a treatment for patients with ACC. Cells with mutant p53
+are more sensitive to the growth inhibitory effects of BI-2536. In the
+context of wild-type p53, the combined inhibition of both PLK1 and MDM2
+results in loss of viability. Further clinical development of PLK1 as a
+target should take p53 mutation status into account.
+

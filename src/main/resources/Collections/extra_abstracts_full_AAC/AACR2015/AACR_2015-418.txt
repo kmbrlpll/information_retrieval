@@ -1,0 +1,46 @@
+Meeting: 2015 AACR Annual Meeting
+Title: A novel animal study software application emulates clinical trials
+by enabling the conduct of multi-center, asynchronous pre-clinical trials
+
+
+Just five percent of anticancer therapeutics are approved following
+completion of positive Phase III clinical trials. The high rate of
+failure is primarily due to insufficient demonstration of efficacy as
+opposed to toxicity. This suggests that existing pre-clinical tools and
+methods are suboptimal predictors of clinical efficacy. For this reason,
+software tools which are capable of managing and conducting multi-center
+pre-clinical trials are needed. Results from pre-clinical studies which
+closely emulate clinical trials are assumed to be more predictive of
+clinical outcome. To accrue subjects from a genetically diverse patient
+population and rapidly complete studies, clinical trials are conducted on
+a global scale at multiple sites, enrolling patients on a rolling,
+asynchronous basis. The high degree of complexity of such multi-center
+trials requires powerful software to enable rigorous scheduling practices
+and oversight as well as standardized and centralized protocol and data
+management. The use of paper-based and spreadsheet-based approaches to
+pre-clinical study conduct, has heretofore made multi-center trials with
+rolling enrollments unfeasible. This is due in large part to the
+inability of these approaches to manage study task and measurement
+schedules, their lack of a standardized, centralized protocol management
+functionality, and the lack of centralized data aggregation, processing
+and analysis capability. In addition, variability in methods of data
+collection, processing and analysis, high manual labor costs and an
+overall lack of standardized nomenclature make spreadsheet-based
+approaches likewise unsuitable for the conduct of asynchronous,
+multi-center trials. For the first time, these problems are surmountable
+with the implementation of a novel, commercially-available animal study
+workflow software and database. The application manages a trial with arms
+conducted at multiple study centers around the world. Each center has its
+own database, which is synchronized to a central database so data
+acquired at various locations can be aggregated, processed and analyzed.
+Methodologies for study conduct, analyses and reporting are detailed in a
+single, centralized protocol, ensuring consistency and uniformity of
+results across all study centers. Data from animals enrolled on a rolling
+basis may be automatically aligned relative to its respective enrollment
+day. The ability for a trial to employ transgenic animals which
+spontaneously develop tumors, or standard xenografts or patient derived
+xenografts (PDX), closely emulates the process of asynchronous subject
+accrual used in clinical trials. Additional functionalities which further
+enable or facilitate the conduct of Multi-Center Pre-clinical Trials on a
+global basis will be described.
+

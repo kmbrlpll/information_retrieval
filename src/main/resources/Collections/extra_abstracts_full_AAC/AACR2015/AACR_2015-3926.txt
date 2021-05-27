@@ -1,0 +1,40 @@
+Meeting: 2015 AACR Annual Meeting
+Title: RhoB expression is upregulated by androgen in thyroid cancer cells
+
+
+The incidence of thyroid cancer has increased three-fold over the last
+thirty years and the American Cancer Society estimates that there will be
+62,980 new cases and 1,890 deaths due to the disease in the United States
+in 2014. Papillary Thyroid Cancer (PTC) is the most common endocrine
+malignancy and develops in premenopausal women, at a four-fold higher
+incidence, than in men. However, PTC exhibits increased aggressiveness
+with poor prognosis in men diagnosed with the disease. These observations
+led us to explore the role of androgen and androgen receptor in this
+disease. Preliminary data from our lab indicates that androgen receptor
+(AR) acts as a negative regulator of growth as evidenced by a
+statistically significant decrease in proliferation upon DHT addition to
+8505c anaplastic/PTC cells stably transfected with AR. Transcriptional
+profiling using RNA-Seq and gene ontology analysis, on a 48 hour DHT
+treated 8505c-AR transfected clone, 84E7, revealed significant changes in
+the expression of genes associated with proliferation (474 genes, p =
+2.4E-24), cell cycle progression (129 genes, p = 6.54E-6) and migration
+(301 genes, p = 3.77E-30). Amongst the genes which showed the highest
+significant differential expression was RhoB, a Rho GTPase, with an
+approximately 50-fold upregulation. Rho proteins are small molecules
+belonging to the Ras superfamily, known to regulate cell morphology,
+actin/microtubule cytoskeleton reorganization along with vesicle
+trafficking. While RhoA and RhoC promote cancer progression and
+metastasis, the functions of their structural homolog, RhoB, are largely
+context dependent. Evidence has emerged that RhoB expression may support
+malignancy in certain cancers, while exhibiting a tumor-suppressor gene
+function in others. In our system, addition of DHT to 84E7 cells for
+short time periods of 1, 3 and 6 hours resulted in rapid RhoB mRNA
+upregulation by 2.5, 8, and 17 fold, respectively, compared to untreated
+cells. This quick, time-dependent increase in androgen-responsive RhoB
+may play an integral protective and reparative role which is possibly
+lost during neoplasticity of thyrocytes. Investigations into various
+pathways linking RhoB and effector proteins with carcinogenesis would be
+crucial in assessing the potential of RhoB as a bio-marker for metastatic
+PTC and thence opening avenues for development of viable therapies for
+better management of the disease.
+

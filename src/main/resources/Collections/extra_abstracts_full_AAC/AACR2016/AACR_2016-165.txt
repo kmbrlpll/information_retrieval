@@ -1,0 +1,30 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Single-cell transcriptome analysis guides tailored combinatorial
+therapeutics in refractory kidney cancer
+
+
+Metastatic renal cell carcinoma (mRCC) evolves from primary RCC (pRCC)
+and harbors multiple subpopulations with distinct molecular and
+phenotypic features. Such underlying intratumoral heterogeneity (ITH)
+imposes difficulties in designing marker-based clinical trials because
+targeted mono-therapy eliminates a specific subpopulation of tumor cells
+while leaving others unharmed. Accordingly, a rational combination
+strategy that minimizes the survival of the drug-resistant subpopulation
+in a given heterogeneous tumor is essential for long-term therapeutic
+efficacy. Here, we examined the ITH of a paired mRCC and pRCC using
+single-cell mRNA sequencing (scRNA-seq) to identify specific tumor cell
+populations with drug target pathway activation. From the single cell
+expression profiles, we found the highly activated status of the EGFR and
+Src signaling pathways in the mRCC compared to the pRCC, with supporting
+in vitro high-throughput drug screening results. Distinct features of
+intratumoral expression variability across mRCC single cells that were
+masked in the bulk measurement prompted us to test the co-targeting
+strategy for the EGFR and Src pathways with increased likelihood for
+complete response. This combinatorial strategy showed significantly
+better treatment effects on mRCC-derived xenograft platforms in vitro and
+in vivo than monotherapies. Taken together, our findings show clinical
+implications of scRNA-seq in designing effective treatment regimens for
+overcoming treatment failure to conventional monotherapies, and also
+provide novel insights to the unmet clinical needs in effective
+personalized treatments.
+

@@ -1,0 +1,44 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Next-generation sequencing (NGS) analysis from a phase II
+single-agent gedatolisib study in patients with endometrial cancer
+
+
+Genetic alterations in the PI3K pathway are abundant in endometrial
+cancer. Hence it is hypothesized that PI3K/mTOR inhibitors will have
+utility for treatment of endometrial cancer. Gedatolisib, also known as
+PF-384, is a potent and selective dual PI3K-mTOR inhibitor with broad
+anti-tumor activity in preclinical studies. Gedatolisib delivered weekly
+intravenously was investigated in a Phase II single-agent study of
+advanced endometrial cancer. The cumulative clinical benefit rate from 38
+response evaluable patients was 39.5%, comparable to historical rates
+with mTOR inhibitors. A retrospective NGS analysis of archival biopsies
+from patients in the study was conducted using the Foundation Medicine
+Inc (FMI) Foundation One Test to explore potential predictive biomarkers
+for clinical benefit. Of the 26 patient samples submitted for analysis,
+data was obtained from 19 samples of which 17 had evaluable response
+data. Of these 17 samples, 6 were from patients who exhibited progressive
+disease (PD), 6 were from patients with stable disease (SD) and 5 were
+from patients that showed a partial response (PR) to treatment. In
+general, the best responders had a low mutation load while the worst
+responders had a higher mutation load. Whether large mutation burden was
+due to mismatch-repair defects determined by MSI status of the tumors is
+currently under investigation. PTEN alterations were found in tumors from
+patients that exhibited PD and SD, but not PR. Multiple genetic
+alterations in ARID1A were observed in 3 of 6 tumors from patients with
+PD. While PIK3CA alterations were frequently present, 2 of 5 patients
+with PR and 1 with SD exhibited an activating PIK3CA mutation at H1047R.
+Among 175 genes that were observed to be mutated in the analysis of 17
+independent tumor samples, the top ranking genes associated with a
+reduction in tumor size (% change from baseline by RECIST 1.0; Wilcoxon
+rank sum test) were MAP3K1 (p = 0.027) and CTNNB1 (p = 0.050). Activating
+mutations in -catenin were observed in tumor from 3 of 5 patients with PR
+and were not present in tumor from patients with PD or SD. Tumor from a
+patient who exhibited an outlier clinical response (stayed on study after
+2 years on treatment) had an activating mutation in Akt at E17K and also
+a novel mutation in mTOR at F2184L. Computational modeling analysis
+revealed that the mutation did not have a significant impact on kinase
+structure or ligand binding. KRAS mutations did not appear to correlate
+with clinical response. This study highlights both the wealth of
+information provided by NGS analysis, but also the complexity of NGS data
+analysis and interpretation.
+

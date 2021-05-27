@@ -1,0 +1,47 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Gallium-68- and Copper-64-labeled LLP2A conjugates for PET-CT
+imaging of integrin 41 in melanoma
+
+
+Introduction:Melanoma is a malignant tumor derived from epidermal
+melanocytes, and it is known for its therapeutic resistance, aggressive
+clinical behavior, and predisposition for late metastasis. Integrin 41 is
+a transmembrane non-covalent heterodimer overexpressed in melanoma tumors
+that plays an important role in tumor growth, angiogenesis and metastasis
+by promoting adhesion and migration of cancer cells. There has been
+increasing interest in targeting this receptor for cancer imaging and
+therapy. In this study we evaluated three conjugates of a peptidomimetic
+ligand, LLP2A known to have high binding affinity for 41 for PET-CT
+imaging and potential radiotherapy.Methods:LLP2A was conjugated to three
+different chelators, CB-TE1A1P, NODAGA and DOTA, for 68Ga and 64Cu
+labeling. The conjugates were synthesized by solid phase peptide
+synthesis, purified by RP-HPLC and verified by LC-MS mass spectrometry.
+68Ga and 64Cu labeling was done in acetate buffer pH 4 for 68Ga and pH
+6.5 for 64Cu at 70C for 20 min. High Specific activity (1 mCi/g) and
+radiopurity (>98%) were achieved. Saturation binding and competitive
+binding assays with B16F10 melanoma cells determined the binding affinity
+of the compounds. The biodistributions of the LLP2A conjugates were
+evaluated in B16F10 subcutaneous tumor bearing C57BL/6 mice. PET-CT
+imaging was performed at 2, 4 and 24 h post-injection for the 64Cu
+tracers and 1h post-injection for 68Ga tracer.Results:The competitive
+binding assay indicated that Ga-NODAGA-PEG4-LLP2A had higher affinity
+(IC50 = 0.68, Ki = 0.11 nM) compared to Ga-DOTA-PEG4-LLP2A (IC50 = 9.37,
+Ki = 1.56 nM); however, biodistribution showed similar tumor uptake for
+68Ga-NODAGA-PEG4-LLP2A and 68Ga-DOTA-PEG4-LLP2A (8.7 1.3 %ID/g and 9.1
+0.9 %ID/g respectively) but less renal and liver retention for the DOTA
+conjugate. Both 64Cu-labeled CB-TE1A1P-PEG4-LLP2A and NODAGA-PEG4-LLP2A
+showed high affinity to 41 integrin with a comparable Kd (0.28 nM vs 0.23
+nM) and Bmax (296 fmol/mg vs 243 fmol/mg). The tumor uptake at 2 h
+post-injection was comparable for the two probes but
+64Cu-CB-TE1A1P-PEG4-LLP2A had higher uptake compared to
+64Cu-NODAGA-PEG4-LLP2A (16.9 2.2 %ID/g vs13.4 1.7 %ID/g). Tumor to muscle
+and tumor to blood ratios from biodistribution and PET-CT images were
+significantly higher for 64Cu-CB-TE1A1P-PEG4-LLP2A compared to
+64Cu-NODAGA-PEG4-LLP2A. In addition, liver and kidney uptake was 2-fold
+lower for 64Cu-CB-TE1A1P-PEG4-LLP2A.Conclusion:These data demonstrate
+that 68Ga-labeled DOTA, NODAGA and 64Cu-labeled CB-TE1A1P, NODAGA LLP2A
+conjugates are excellent imaging agents for melanoma or other 41-positive
+tumors, with 64Cu-CB-TE1A1P-PEG4-LLP2A being the best. These data also
+suggest the potential for radiotherapy and radiotheranostics using
+radioisotopes like Lu-177, Y-90 and Cu-67.
+

@@ -1,0 +1,47 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Tumor-suppressive function of SLC5A8 in renal cancer cells
+
+
+SLC5A8, a Na+-coupled high-affinity transporter for monocarboxylates, and
+the closely related SLC5A12, a Na+-coupled low-affinity transporter for
+monocarboxylates, are both highly expressed in kidney, where they mediate
+the reuptake of lactate and pyruvate from the glomerular filtrate. Recent
+studies have shown that SLC5A8 is a tumor-suppressor that is silenced in
+many cancers by promoter hypermethylation. We investigated if SLC5A8
+serves as a tumor suppressor in renal cancer cells (RCC). Comparison of
+the expression of SLC5A8 at the mRNA and protein levels in two RCC (A498
+& 786-0) and two normal kidney cell lines (HK-2 & HEK-293) revealed that
+the expression of SLC5A8 was significantly lower in RCC. Analysis of
+methylation status of the CpG island in the regulatory region of SLC5A8
+showed that the extent of methylation was significantly higher in the two
+RCC compared to the two normal cells. Culturing A498 cells in the
+presence of 5-aza-deoxycytidine resulted in re-expression of SLC5A8,
+confirming that the silencing of the gene is due to DNA methylation.
+Ectopic expression of SLC5A8 in A498 cells caused apoptosis when cultured
+in the presence of HDAC inhibitors butyrate and pyruvate. These data show
+that SLC5A8-mediated concentrative entry of HDAC inhibitors causes cell
+death in RCC. Interestingly, normal proximal tubular cells, which express
+SLC5A8 robustly and are exposed to pyruvate, do not undergo apoptosis;
+HDAC inhibitor-mediated apoptosis is specific to cancer cells. To
+investigate if HDAC isoforms play a role in this differential sensitivity
+of normal and RCC to pyruvate, we compared the expression of various HDAC
+isoforms in HK-2 and A498 cells by RT-PCR. The results indicated that the
+expression of HDAC1 and HDAC3 was higher in RCC compared to normal cells.
+The total HDAC enzyme activity was 2-3-fold higher in RCC compared to
+normal cells. If intracellular pyruvate is detrimental to the survival of
+tumor cells and the tumor cells silence SLC5A8 to prevent entry of
+extracellular pyruvate into cells, the levels of pyruvate inside tumor
+cells should be lower in RCC compared to normal cells. To confirm this,
+we measured pyruvate and lactate levels in normal cells and RCC and found
+that pyruvate levels were 4-fold lower while lactate was 2-fold higher in
+RCC cells compared to normal cells. Finally, to conclusively demonstrate
+the tumor-suppressive role for SLC5A8 in RCC, we performed mouse
+xenograft studies using control A498 & 786-0 cells, which do not express
+SLC5A8 constitutively, and A498 & 786-0 cells, which were made to express
+SLC5A8 by lentiviral mediated transfection of SLC5A8 cDNA. The growth of
+the tumor was significantly slower with SLC5A8-expressing cells than with
+SLC5A8-negative parent cells. These studies demonstrate that SLC5A8 is
+indeed a tumor suppressor in kidney, suggesting that pharmacological
+induction of the transporter expression in renal cancer might be a novel
+strategy for treatment of renal cancer.
+

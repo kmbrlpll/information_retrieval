@@ -1,0 +1,36 @@
+Meeting: 2014 AACR Annual Meeting
+Title: Disruption of CRAF-mediated MEK activation is required for
+effective MEK inhibition in KRAS mutant tumors
+
+
+MEK inhibitors are clinically active in BRAF V600E melanomas, but only
+marginally so in KRAS-mutant tumors. While MEK inhibitor treatment
+resulted in sustained inhibition of ERK phopshorylation in BRAF V600E
+tumors, it was associated with a rebound in ERK phosphorylation after
+prolonged exposure in KRAS mutant tumors. To understand this phenomenon,
+we performed an RNAi screen in a KRAS-mutant model and found that CRAF
+knockdown enhanced the antiproliferative effects of MEK inhibition both
+in vivo and in vitro. In agreement with previous findings, MEK inhibitor
+treatment in KRAS mutant cells resulted in CRAF reactivation and
+induction of MEK phosphorylation. However, MEK activated by CRAF was less
+susceptible to traditional MEK inhibitors, such as PD0325901, compared to
+when activated by BRAF V600E. Consistent with this observation, the
+rebound in ERK phosphorylation following MEK inhibitor treatment in KRAS
+mutant tumors was dependent on intact CRAF expression. Furthermore,
+traditional MEK inhibitors induced RAF-MEK complexes in KRAS mutant
+models, and disrupting these complexes enhanced the inhibition of
+CRAF-dependent ERK signaling. In an effort to identify more effective
+compounds we found that newer MEK inhibitors, such as trametinib and
+CH5126766, do not only target the catalytic activity of MEK, but in
+addition, they also impair its reactivation by CRAF. This occurs through
+two distinct mechanisms: trametinib disrupts RAF-MEK complex formation,
+as evidenced by co-immunoprecipitation of endogenous proteins and surface
+plasmon resonance assays with purified enzymes. Instead, CH512676 induces
+the interaction of MEK with RAF, yet it prevents the phosphorylation of
+MEK in this complex. To elucidate the mechanism responsible for the
+latter property, we determined the ternary structure of CH512676-bound
+MEK1. CH5126766 interacts with Asn 221 and Ser 222 residues in MEK1 to
+displace the activation segment and disrupt RAF-mediated phosphorylation.
+These data provide a blueprint for developing better MEK inhibitors that
+effectively inhibit ERK signaling in KRAS mutant tumors.
+

@@ -1,0 +1,29 @@
+Meeting: 2013 AACR Annual Meeting
+Title: A pro-fluorescent membrane integrity dye for the real-time
+assessment of cytotoxicity.
+
+
+Cell-based assay models are now universally employed as a routine means
+of establishing and ranking on- and off-target toxicities. It is well
+appreciated, however, that individual cytotoxic phenotypes are shaped not
+only by compound dosage, but by the length of compound-cell exposure. In
+addition to compound-specific attributes, inherent cellular factors such
+as biotransformation capacity, cell cycle susceptibility, and receptor
+expression often dictate the kinetics of cytotoxicity. Unfortunately, the
+majority of conventional cytotoxicity assays are performed at a terminal
+endpoint (48-72h) which at worst can underestimate cytotoxicity due to
+biomarker degradation, or at best, fail to reveal important features of
+the cytotoxic event which may be important for establishing
+mechanism-of-action. We have developed a pro-fluorescent, cell-impermeant
+probe which can be applied to cells at the time of dosing to report
+changes in membrane integrity as they occur in real-time. The dye enters
+cells with impaired membrane integrity, greatly enhancing fluorescence
+which is proportional to non-viable cell number. The dye can be used in
+traditional plate based formats using standard fluorometry or with image
+based readers (Essen Bioscience Incucyte) to establish the dose-dependent
+kinetics of cytotoxicity. Here we describe the dye's utility using
+mechanistically distinct cytotoxins with both cancer cell lines
+(on-target) and terminally differentiated cells (off-target) and
+correlate this dead cell fluorescence activity to other cytotoxicity
+biomarkers by same-well multiplexed methods.
+

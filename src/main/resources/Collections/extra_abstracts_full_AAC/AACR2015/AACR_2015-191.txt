@@ -1,0 +1,44 @@
+Meeting: 2015 AACR Annual Meeting
+Title: The role of microRNAs in the epigenetic silencing of CHD5, a tumor
+suppressor in neuroblastoma
+
+
+Background: Neuroblastoma (NB) is a tumor of the sympathetic nervous
+system that is the most common extracranial solid tumor of childhood. NBs
+show remarkable clinical heterogeneity, and we, along with others, have
+identified different patterns of genomic change that underlie these
+diverse clinical behaviors. We first identified 1p deletion as a
+characteristic change in advanced stage NBs. CHD5, a tumor suppressor
+gene, was first identified because of its location on 1p36. However,
+mutation of the remaining allele of CHD5 is rare in these tumors.
+Therefore, it is likely that epigenetic mechanisms play important roles
+in CHD5 downregulation. MicroRNAs (miRNAs) are small RNAs that bind to
+the 3 UTR to mediate downregulation of target gene expression by
+translational repression or cleavage of the target gene message.
+Dysregulation of CHD5 via miR-211 has been reported in colon cancer. In
+order to understand the role of miRNA regulation of CHD5 in NBs, we
+wanted to assess the function of all miRNAs that are predicted to target
+CHD5.Method/approach: We used TargetScan, miRanda, MirTarget2 and other
+prediction algorithms to identify miRNAs that were predicted to bind to
+the CHD5-3UTR. We identified 18 miRNAs that were predicted by 2 or more
+programs: miR-204-5p, -211, -216b, -17, -19ab, -20ab, -93, -106ab,
+-130ab, -301ab, -454, -519d, -3666. We used a renilla-luciferase reporter
+plasmid that contains 103 bp of the 3UTR of CHD5 targeted by all miRNAs
+except miR-204, -211, - 219b, and -3666. We also created control plasmids
+with no CHD5 3UTR insert and a mutated CHD5 3UTR with mutated miRNA
+binding sites. Allstar siRNA served as an additional negative control. We
+performed transient transfections in two NB cell lines, NLF (a MYCN
+amplified cell line) and SY5Y (a MYCN nonamplified cell line), with the
+reporter plasmid and miRNA mimic. We measured luciferase (internal
+control) and renilla (reporter) activity.Results: Our results from the
+luciferase reporter assay indicate that four miRNAs are strong candidates
+for CHD5 downregulation in NB: miR-17, -93, -20b, and miR-106b. Each
+exhibited a significant decrease of fluorescence activity in cells
+transfected with CHD5 3UTR in comparison to cells transfected with either
+of the control plasmids. Interestingly, MYCN upregulates three of the
+four miRNA candidates: miR-17, -93, & -20b. We further confirmed
+consistent downregulation of the CHD5 by all four miRNAs.Conclusion: CHD5
+expression is downregulated by miR-17, -93, -2b, and 106b. MYCN
+amplification and overexpression leads to upregulation of miR-17, -93,
+and -20b, and this may lead to down regulation of CHD5.
+

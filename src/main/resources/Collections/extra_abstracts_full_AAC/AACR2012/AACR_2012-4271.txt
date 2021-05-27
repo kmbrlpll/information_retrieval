@@ -1,0 +1,49 @@
+Meeting: 2012 AACR Annual Meeting
+Title: Fibroblast transcriptome sequencing reveals different gene
+expression profiles among distinct subtypes of breast cancer and normal
+mammary tissue
+
+
+Cancer associated fibroblasts, CAFs, is believed to actively participate
+in the growth and invasion of tumor cells by providing a unique tumor
+microenvironment, rendering increasingly clear that the development of
+cancer cannot be dissociated from its local microenvironment. However,
+neither the origin of CAFs nor the criteria to distinguish CAFs from
+normal fibroblasts has been well established. Moreover, the complex
+nature of the heterogeneity that exists both within and between breast
+cancers, particularly as related to gene expression profiling, needs more
+recognition. It must be appreciated that CAFs from different subtypes of
+breast cancers have distinct gene expression profiles as well as do CAFs
+in comparison to normal breast fibroblasts (NAFs). The identification of
+these differentially expressed genes (DEG) may shed light on the
+molecular interactions of fibroblasts with carcinoma cells and to further
+understand their signaling pathways that are actively involved. The
+advent of next generation sequence technologies and the realization that
+breast cancer is heterogeneous has shifted the focus to the
+identification of molecular markers of prognostic relevance. In the
+present study, we isolated total RNA from fibroblasts of frozen tissue
+samples of human invasive ductal breast carcinoma luminal A and triple
+negative subtypes and also from normal surrounding tissue from
+fibroadenoma lesions using laser capture microdissection. Preparing 3
+fragments cDNA libraries from fibroblast samples and sequencing on the
+Genome Sequencer FLX Titanium 454 Plataform, we obtained a
+transcriptional snapshot of CAFs and NAF. Sequencing and filtering
+(removal of adapter, polyA tail etc) of these sequences resulted in a
+total of 376,528 high quality reads with an average length of 159.43 bp.
+A total of 14,950 transcripts were sequenced and corresponded to 10,586
+genes, representing 53.72% of the human genome repertoire. The analysis
+of DEG between the distinct samples was investigated by test on
+proportions (p value 0.05 and 2.0 fold change difference in expression
+level). The comparison of expression in NAFs versus triple negative CAF
+yielded 192 DEG while NAF versus luminal A CAF revealed 88 DEG and triple
+negative CAF versus luminal A CAF presented 41 DEG. Gene ontology (GO)
+assignments and KEGG pathways classifications were performed to gain an
+overview of the biological processes in which these DEG are involved. The
+results suggest that highly specific genes are expressed in each breast
+cancer fibroblast subtype. Taken all together, genes will be selected for
+validation by RT-qPCR and tissue microarray using independent samples.
+Further understanding of detailed functional mechanisms of the
+differentially expressed genes, may thus yield additional candidates for
+prognostic and therapeutic intervention. Supported by FAPESP:05/60333-7,
+09/10088-7.
+

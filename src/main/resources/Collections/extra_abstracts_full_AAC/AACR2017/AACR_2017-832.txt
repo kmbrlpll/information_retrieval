@@ -1,0 +1,54 @@
+Meeting: 2017 AACR Annual Meeting
+Title: In vitro characterization and clinical correlation of BRCAness as
+a personalized biomarker for radiosensitization with homologous
+recombination-directed therapies.
+
+
+Introduction: BRCA1 and BRCA2 are involved in double-strand break (DSBs)
+repair via homologous recombination (HR). Clinically, BRCA1/2 mutant
+tumors show sensitivity to cisplatin, a cross-linking agent, but only
+mild sensitivity to ionizing radiation (IR). The addition of cisplatin to
+IR has been one of the largest advances in improving patient outcomes
+with radiotherapy in the past 50 years. Recently, BRCAness has been
+described wherein sporadic deficits in HR are observed in the absence of
+germline BRCA1/2 mutations. We hypothesize that BRCAness tumors also
+exhibit sensitivity to the combination of cisplatin + IR, and are a
+significant driver of the observed clinical benefit of combination
+therapy.
+
+Methods: Sensitivity to cisplatin + IR was examined in vitro and
+correlated with clinical data. Functional HR deficiency (HRD) was
+assessed in isogenic BRCA1 (H1299; lung) and BRCA2 (DLD1; colon) knockout
+pairs using 3 assays: the Rad51 foci assay, a flow-based DRGFP assay (DSB
+reporter assay) and clonogenic survival assays (CSA) with cisplatin +/-
+IR. Cancer Cell Line Encyclopedia (CCLE) data was used to identify breast
+cancer cell lines with sporadic, non-BRCA1/2 mutations. Functional HRD in
+4 breast cancer cell lines was assessed with the same 3 assays used for
+the BRCA1/2 isogenic pairs. We also examined 14 triple-negative breast
+cancer (TNBC) patients treated with neoadjuvant cisplatin + IR. Nine of
+the 14 had available tissue, which was stained for Rad51 foci.
+
+Results: Functional HRD is observed in the BRCA1/2 isogenic pairs, as
+demonstrated by the Rad51 foci and DRGFP assay results. Increased
+sensitivity to cisplatin + IR is observed in the BRCA1/2 knockout lines
+in CSA results compared to isogenic controls. A genomic scar score, LST
+(large scale transition), was generated for each line based on CCLE data,
+with higher LST scores suggesting increased genomic instability and
+therefore HRD. Four cell lines were selected for further study. Similar
+functional HRD and cisplatin + IR sensitivity is observed in 2 breast
+cancer cell lines with high LST scores, as compared to 2 with low LST
+scores. Epistasis was observed upon siBRCA1 knockdown in the 2 cell lines
+with high LST scores. Half of the 14 TNBC patients demonstrated
+pathological complete response to neoadjuvant cisplatin + IR. Nine of the
+14 patients had available tissue, of which 4 demonstrated functional HRD
+by the Rad51 foci assay.
+
+Conclusions: Multiple in vitro assays suggest that HRD tumors are much
+more sensitive to the widely used combination of cisplatin + IR as
+compared with HR proficient tumors. Data from our small cohort of
+triple-negative breast cancer patients appear concordant with these
+findings. Reliable determination of “BRCAness” tumors should identify
+a subpopulation of non-germline BRCA1/2-mutated breast cancer patients
+who may benefit from targeted therapy with cisplatin + IR.
+
+

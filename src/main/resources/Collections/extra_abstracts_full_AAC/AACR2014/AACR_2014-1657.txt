@@ -1,0 +1,44 @@
+Meeting: 2014 AACR Annual Meeting
+Title: How does the tumor microenvironment affect macrophage
+aggressiveness
+
+
+The immune system plays an important role in the development and
+progression of cancer. In fact, immune cell infiltration can affect
+malignancy progression and metastasis. Infiltration of macrophages to the
+tumor site has been shown to account for more than 50% of the tumor mass
+in some breast cancers suggesting macrophages have a significant role in
+tumor progression. Macrophages are cells derived from the myeloid lineage
+and belong to the innate immune system. They differentiate from blood
+monocytes in tissue and one of their main functions is to phagocytose
+microbes and clear cellular debris. Macrophages also play an important
+role in inflammation and the resolution of inflammation. They exhibit a
+variety of responses depending on the type of stimuli they receive,
+varying from pro-inflammatory to anti-inflammatory. Two major macrophage
+phenotypes have been proposed: M1 and M2. M1 macrophages, or classically
+activated macrophages, show a pro-inflammatory profile that is
+characterized by aggressive phagocytosis and anti-microbial properties.
+M2 macrophages, also known as alternatively activated macrophages,
+exhibit immunomodulatory, repair, and angiogenic properties.This project
+explored macrophage function by studying the aggressiveness of
+macrophages exposed to different cancer cell lines (Raji, H460, MCF7,
+MDA-MB-231, HT-29, SW620, and PC3) and their spent media. We used
+PMA-stimulated U937 cells and monocyte-derived macrophages from human
+blood as phagocytes. Macrophage aggressiveness was measured through flow
+cytometry by quantification of macrophage engulfment rates of fluorescent
+spherical beads. We found that cancer cell lines with higher
+aggressiveness had a more radical suppression of macrophage engulfment
+(81% engulfment reduction compared to control) than less aggressive cell
+lines (1% engulfment reduction compared to control). We also found that
+spent media had a lower effect on macrophage engulfment overall,
+indicating cell to cell contact is important to suppress macrophage
+engulfment. Spent media from aggressive cell lines had a similar effect
+to the cells themselves, suggesting cytokine and vesicle communication.
+We also studied how these cell lines affected macrophage polarization by
+qPCR, finding that lower engulfment rates correlate with an M2 cytokine
+profile (high IL-10, low IL-12) and higher engulfment rates correlate
+with an M1 cytokine profile (low IL-10, high IL-12). Further studies will
+help us understand more of the signals that cancer cells give to their
+environment to prevent macrophage engulfment and to help maintain an M2
+phenotype.
+

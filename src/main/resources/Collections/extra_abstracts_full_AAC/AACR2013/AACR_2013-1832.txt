@@ -1,0 +1,29 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Integrated analysis of clinical ChIPSeq data and public databases
+identified candidate long non-coding RNAs critically involved in
+gastrointestinal cancer.
+
+
+Recent work has suggested various important functions and molecular
+mechanisms for long non-coding RNAs (lncRNAs) and they are also thought
+to play critical roles in cancer. However the importance of lncRNAs in
+cancer biology is still unclear. In this study, we sought to
+comprehensively identify novel lncRNAs that are critically involved in
+tumorigenesis and progression in gastrointestinal cancer. To identify
+candidate lncRNAs, we have applied the ChIP-Seq technology to clinical
+endoscopic biopsy specimens and characterized global histone modification
+patterns in more than 30 normal tissues and cancers. We developed an
+original lncRNA database based on several public databases. We then
+examined histone methylation status around putative lncRNAs and generated
+a list of candidate lncRNAs that may be important for cancer. In order to
+narrow the list down, we also utilized publicly available ChIPSeq data as
+well as bisulfite sequencing and RNASeq data to perform integrated
+analysis. Finally we identified 10 lncRNAs that are abnormally silenced
+by DNA methylation in gastrointestinal cancer and also identified other
+10 lncRNAs that are abnormally overexpressed and potentially acting as
+oncogenic genes in cancer. We are examining gene expression level and
+epigenetic status of these lncRNAs in cancer cell lines and specimens by
+qRT-PCR, MSP, bisulfite pyro-sequencing and ChIP assay. Here we would
+like to show the advantage of making the best use of publicly available
+multi-omics data to promote long non-coding RNA research.
+

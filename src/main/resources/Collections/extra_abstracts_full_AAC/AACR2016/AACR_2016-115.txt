@@ -1,0 +1,42 @@
+Meeting: 2016 AACR Annual Meeting
+Title: In silico evaluation of DNA-damage-inducible transcript 4 gene
+(DDIT4) in the outcome of several malignant tumors
+
+
+Objectives: Although DDIT4 gene encodes a protein whose main action is to
+inhibit mTOR. There are not previous reports relating this gene with the
+clinical outcome in cancer patients. Our aim was to explore the influence
+of this gene in the clinical characteristics and the outcome of malignant
+tumors.Methods: We evaluated in an in silico study of publicly available
+datasets, influence of DDIT4 expression in the clinical outcome in terms
+of either disease-free survival (DFS), progression free survival (PFS) or
+overall survival (OS), according to the availability of this variable in
+the dataset. KM Plotter (http://kmplot.com/) and SurvExpress
+(http://bioinformatica.mty.itesm.mx/) were used to evaluate the influence
+of DDIT4 gene in the outcome (either DFS, PFS or OS). cbioportal.org was
+used to explore structural gene changes. The median of expression
+discriminate two groups at different risk. Twelve types of cancer were
+evaluated including. Acute Myeloid Leukemia, Brain Cancer, Breast Cancer,
+Bone Cancer, Cervical Cancer, Head and Neck Cancer, Hematological Cancer,
+Liver Cancer, Lung Cancer, Pancreatic Cancer, Ovarian Cancer and Prostate
+CancerResults: DDIT4 had low structural alterations rates (0-5.1%);
+however, in breast tumors xenografts, gene amplification occurs in 17.4%,
+indicating a key role in tumor progression. High levels of DDIT4 was
+significantly associated with a worse outcome in breast cancer (n =
+4142), P = 310-14 (HR = 1.64, CI95%: 1.44-1.87). In this malignancy, high
+DDIT4 expression was associated with the triple negative phenotype and
+higher pathological complete response rates. In addition High DDIT4 level
+was associated to a worse outcome in acute myeloid leukemia (n = 168), P
+= 3.4710-5 (HR = 2.31, CI95%:1.55-3.43), glioblastoma multiforme (n =
+538), P = 0.005809 (HR = 1.31, CI95%:1.08-1.59); ovarian cancer (n =
+1648), P = 0.0096 (HR = 1.2, IC95%:1.04- 1.37); head and neck squamous
+cell carcinoma (n = 283), P = 0.03347 (HR = 1.49, IC95%:1.03-2.15) and
+lung adenocarcinoma (n = 866), P = 0.0038 (HR = 1.4, CI95%: 1.02-1.91).
+In contrast, a high level of DDIT4 was associated with a better prognosis
+in gastric cancer (n = 641), P = 1.710-6 (HR = 0.62, CI95%:0.5-0.75) and
+lung squamous cell carcinoma (n = 675), P = 0.0015 (HR = 0.42,
+IC95%:0.24-0.73).Conclusion: Although DDIT4 structural alterations are
+infrequent, its dysregulation impact in the clinical outcome in several
+types of cancer. DDIT4 is an attractive target to improve the therapeutic
+strategies, mainly those related with mTOR inhibition.
+

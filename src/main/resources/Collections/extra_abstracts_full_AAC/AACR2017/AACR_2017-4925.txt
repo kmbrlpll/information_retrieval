@@ -1,0 +1,32 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Microbiome-TP53 gene interaction in human lung cancer.
+
+
+Lung cancer is the leading cancer diagnosis worldwide and the number one
+cause of cancer deaths. Exposure to cigarette smoke, the primary risk
+factor in lung cancer, reduces epithelial barrier function and increases
+susceptibility to infections. Herein, we hypothesized that somatic
+mutations together with cigarette smoke create a dysbiotic microbiota
+that is associated with lung carcinogenesis. Using lung tissue from
+controls (n=33) or cancer cases (n=143), we conducted 16S rRNA gene
+sequencing (MiSeq), with RNA-seq data from lung cancer cases in The
+Cancer Genome Atlas (n=1112) serving as the validation cohort. We
+demonstrate a lower alpha diversity in normal lung as compared to
+non-tumor adjacent or tumor tissue, indicating a shift in the overall
+microbial community in lung cancer patients as compared to those without
+cancer. Lung cancer cases were classified by the relative abundance of
+two taxa, Variovorax and Streptococcus, with an increase in Variovorax
+abundance in tumors as compared to non-tumor adjacent paired lung tissue
+(FDR corrected P=0.013). The species of Variovorax was identified
+histologically, and also by two additional 16S rRNA strategies (Resphera
+Insight analysis and PacBio sequencing). A group of taxa were associated
+with squamous cell carcinoma (SCC), of which Acidovorax were enriched in
+smokers (P =0.0013). Further, these taxa, including Acidovorax, exhibited
+higher abundance among the subset of SCC cases with TP53 mutations, an
+association not seen in adenocarcinomas (AD). Therefore, we observed a
+microbiome-gene and a microbiome-exposure interaction in SCC lung cancer
+tissue. Together, these results open the door for future biomarker
+research that could be used to improve screening and direct mechanistic
+studies of lung cancer therapy.
+
+

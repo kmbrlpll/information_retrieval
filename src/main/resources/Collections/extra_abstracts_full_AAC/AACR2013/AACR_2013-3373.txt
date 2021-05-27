@@ -1,0 +1,33 @@
+Meeting: 2013 AACR Annual Meeting
+Title: Clinical trial simulation for the individualization of docetaxel
+dosing.
+
+
+Background and objective: To evaluate if docetaxel severe neutropenia can
+be reduced by pharmacokinetic (PK) and absolute neutrophils counts (ANC)
+guided dose individualization.Methods: The incidence of Grade 4
+neutropenia following docetaxel 75 mg/m2 every 3 weeks (Arm A) or
+docetaxel individualized dose (Arm B) was predicted on the basis of the
+model proposed by Bruno [1] and Quartino [2]. Optimal sampling times for
+PK and ANC assessments after an initial test dose were determined. The
+individual model parameters estimated using the maximum a posteriori
+estimation in NONMEM 7 were used to determine the individualized
+docetaxel dose, defined as the maximum dose that yields a probability of
+neutropenia Grade 4 lower than 30%.Results: An initial dose of 50 mg/m2
+at least 2 weeks earlier, plasma concentrations collected at 1, 3 and 7 h
+after the start of the infusion, and ANC measurements determine at 0, 7,
+14, and 21 days were adequate to determine the individualized dose,
+without any carry-over effect. The neutropenia Grade 4 incidence was 55%
+and 45% in arms A and B, respectively. A sample size of 154 patients per
+arm was need to have a 82% power of detecting the effect of dose
+individualization. The average docetaxel individualized dose was 55
+mg/m2.Conclusions: Docetaxel PKPD guided dose individualization is
+potentially useful in controlling the PKPD variability and decreasing the
+incidence of neutropenia Grade 4.1.Bruno R, Vivier N, Vergniol JC, De
+Phillips SL, Montay G, Sheiner LB.A population pharmacokinetic model for
+docetaxel (Taxotere): model building and validation. J Pharmacokinet
+Biopharm. 1996; 24: 153-172.2.Quartino AL, Friberg LE, Karlsson MO. A
+simultaneous analysis of the time-course of leukocytes and neutrophils
+following docetaxel administration using a semi-mechanistic
+myelosuppression model. Invest New Drugs. 2012; 30: 833-845.
+

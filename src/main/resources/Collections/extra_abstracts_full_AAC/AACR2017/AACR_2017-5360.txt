@@ -1,0 +1,36 @@
+Meeting: 2017 AACR Annual Meeting
+Title: DNA repair increases sequencing accuracy without altering actual
+mutation frequency in clinical samples.
+
+
+Targeted cancer therapy based on genomic alterations can be remarkably
+effective. Currently, cancer genome profiling using next generation
+sequencing (NGS) is routinely applied in cancer care to guide
+personalized treatment. The accuracy of this profiling directly impacts
+therapeutic choices and the outcomes of patient care. We previously
+showed that false positive variants are abundant and can account for a
+major fraction of identified somatic variations in publicly available
+datasets (doi: http://dx.doi.org/10.1101/070334). These false positive
+variants show signs of mutagenic DNA damage. We further demonstrated that
+enzymatic DNA repair increases sequencing quality by lowering
+damage-induced background noise. Therefore, enzymatic DNA repair has the
+potential to improve sequencing accuracy, avoiding incorrect somatic
+variant calls and consequently reducing incorrect diagnostic conclusions.
+In this study, we investigated whether enzymatic DNA repair introduces
+any bias to NGS libraries using analysis by droplet digital PCR (ddPCR)
+and deep sequencing. DNA Reference Standards containing multiple common
+cancer mutations (Horizon Discovery, Inc.) were spiked into
+formalin-fixed paraffin-embedded (FFPE) DNA isolated from tumor samples
+from different tissue types at defined frequencies (0.5-10% quantified by
+ddPCR). Genotyping of the FFPE DNA ensured that they were free of any of
+the spiked-in mutations. After DNA repair and library preparation,
+mutation frequencies were quantified by ddPCR, and compared to the
+mutation levels in input DNA and control libraries without repair. Deep
+sequencing of 151 cancer genes including these spike-ins showed no
+difference in mutation frequency for the spiked-in mutations between the
+control and repair groups. However, the number of false positive variant
+calls was reduced in the repair group. Our data demonstrates that DNA
+repair significantly increases sequencing accuracy without altering the
+frequency of actual mutations in tumor samples.
+
+

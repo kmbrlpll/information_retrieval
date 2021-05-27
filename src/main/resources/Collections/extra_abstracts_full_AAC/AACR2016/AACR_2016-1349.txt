@@ -1,0 +1,44 @@
+Meeting: 2016 AACR Annual Meeting
+Title: Systematic deconvolution of kinase inhibitor profiles identifies
+synthetic lethal targets in ERBB2-mutant and BRD4-NUT rearranged cancer
+
+
+The development of targeted therapies that efficiently inhibit cancer
+signaling pathways is one of the main goals of modern precision cancer
+medicine. Consequently, genetic and biological phenotypic data of in
+vitro screens are increasingly utilized to develop compounds directed
+against distinct oncogenic alterations. However, current targeted
+therapies are often limited to small genetically defined patient cohorts
+due to the very finite number of proteins amenable to direct chemical
+inhibition. An alternative approach is the exploitation of synthetic
+lethality, i.e. inhibition of an unaltered protein required for cell
+viability in a certain genetic background. Systematic chemo-genomic
+analyses of cancer cell lines have been shown to be suitable tools for
+the identification of novel synthetic lethal dependencies in cancer (Chan
+et al. Sci Trans Med, 2011; Sos et al. PNAS, 2012; Kim et al. Cell
+2013).To systematically extend this strategy to non-small cell lung
+cancer (NSCLC) we characterized the efficacy of 1505 chemical compounds
+based on a variety of kinase inhibitor motifs in a high-throughput screen
+against 80 NSCLC cell lines. We extracted patterns of biological activity
+based on chemical and genetic information and found that potency and
+selectivity of compounds are strongly related to their molecular
+scaffold, but independent of their overall chemical complexity. We
+thereby discovered a sunitinib derivative that exhibited exquisite
+activity against ERBB2-mutant cell lines but was devoid of ERBB2 kinase
+activity. Instead a kinome scan and an shRNA screen suggested a mechanism
+of synthetic lethality by activity against NTRK family members. Moreover
+a CDK9 inhibitor was identified as selective and potent against a midline
+carcinoma cell line - a tumor entity characterized by recurrent BRD4-NUT
+gene fusions. Using additional cell lines we validated the upregulation
+of c-Fos and selective induction of apoptosis in BRD4-NUT positive
+midline carcinoma compared to control cell lines following CDK9
+inhibition. This can augment existing therapeutic approaches, which have
+primarily focused on directly targeting the fusion product with
+bromodomain inhibitors, and offers a novel target in this entity.In
+conclusion, by systematically screening a large number of compounds
+against a panel of genetically well characterized NSCLC cell lines and
+incorporating chemical information we were able to derive structure
+activity relationships and to identify potential synthetically lethal
+targets in two genetic entities in clinical need of advanced selective
+therapies.
+

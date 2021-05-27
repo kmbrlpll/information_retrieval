@@ -1,0 +1,51 @@
+Meeting: 2017 AACR Annual Meeting
+Title: Targeting the PIM protein kinases for the treatment of a T-cell
+acute lymphoblastic leukemia subset.
+
+
+While intensive chemotherapy regimens result in remission in
+approximately 80% of pediatric and 45% of adult ALL patients, new
+approaches are needed for the treatment of patients with T-cell acute
+lymphoblastic leukemia (T-ALL) who fail to achieve remission with
+chemotherapy. Early T-cell precursor (ETP) ALL, a subset of T-ALL
+associated with a higher rate of relapse and induction failure, with a
+10-year overall survival of 19% as compared with 84% for all other
+T-ALLs. PIM protein kinases are overexpressed in a number of
+hematopoietic malignancies, including ALL, with its overexpression being
+associated with poor prognosis. Pan-PIM inhibitors (PIMi) are being
+tested in clinical trials in patients with relapsed/refractory multiple
+myeloma and acute myeloid leukemia. Analysis of the effects of PIMi
+(AZD1208/LGB321) on human T-ALL cell lines demonstrated that the
+sensitive cell lines expressed higher PIM1 levels, whereas T-ALL cell
+lines with NOTCH mutations tended to have lower levels of PIM1 kinase and
+were insensitive to these inhibitors. NOTCH-mutant cells selected for
+resistance to gamma secretase inhibitors developed elevated PIM1 kinase
+levels and increased sensitivity to PIM inhibitors. Immunophenotype of
+all the PIMi insensitive cells lines was consistent with a more mature
+T-ALL phenotype. In contrast, sensitive cells, had an immature or ETP-ALL
+phenotype.
+
+Bioinformatics analysis of three independent T-ALL patient datasets
+(GSE28703, E-MEXP-313, and GSE62156) demonstrated overexpression of PIM1
+in the majority of ETP-ALLs and in a small subset of non-ETP-ALL. We also
+identified 58 genes changing significantly between PIMi sensitive versus
+insensitive cell lines that were common to the differential genes between
+ETP versus non-ETP ALL cases from GSE28703, suggesting that high PIM1
+expression along with 58 gene signature could be a driver of the ETP
+phenotype.
+
+Importantly, we have made the novel observation that, combination of
+Ponatinib, a tyrosine kinase inhibitor (TKI) with the PIMi is
+synergistically lethal to T-ALL cells with ETP phenotype. These agents
+appear to work together by inducing PARP and Caspase cleavage, sufficient
+to drive apoptosis. Following engraftment of NSG mice with H-SB2-Luc
+cells, three weeks of dual therapy with AZD1208 (30mg/kg/day) and
+Ponatinib (3mg/kg/day) significantly abrogated leukemia as evidenced by
+optical scanning for luciferase cells, and reduced number of hCD45+
+leukemic cells in the peripheral blood and bone marrow. Also, the dual
+therapy significantly prolonged the survival of the treated mice. In
+summary, our work demonstrates a strong preclinical rationale for a novel
+treatment strategy of combining PIMi and TKI to treat T-ALL patients with
+high PIM expression.
+
+

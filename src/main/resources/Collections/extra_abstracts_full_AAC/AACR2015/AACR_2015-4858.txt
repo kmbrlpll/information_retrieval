@@ -1,0 +1,39 @@
+Meeting: 2015 AACR Annual Meeting
+Title: Cloud-based variant analysis solution using control-accessed
+sequencing data
+
+
+Variation analysis plays an important role in elucidating the causes of
+various human diseases. The drastically reduced costs of genome
+sequencing driven by next generation sequence technologies now make it
+possible to analyze genetic variations with hundreds or thousands of
+samples simultaneously, but currently with the cost of ever increasing
+local storage requirements. The tera- and peta-byte scale footprint for
+sequence data imposes significant technical challenges for data
+management and analysis, including the tasks of collection, storage,
+transfer, sharing, and privacy protection. Currently, each analysis group
+facing these analysis tasks must download all the relevant sequence data
+into a local file system before variation analysis is initiated. This
+heavy-weight transaction not only slows down the pace of the analysis,
+but also creates financial burdens for researchers due to the cost of
+hardware and time required to transfer the data over typical academic
+internet connections. To overcome such limitations and explore the
+feasibility of analyzing control-accessed sequencing data in cloud
+environment while maintaining data privacy and security, here we
+introduce a cloud-based analysis framework that facilitates variation
+analysis using direct access to the NCBI Sequence Read Archive through
+NCBI sratoolkit, which allows the users to programmatically access data
+housed within SRA with encryption and decryption capabilities and
+converts it from the SRA format to the desired format for data analysis.
+A customized machine image (swift) with preconfigured tools (including
+NCBI sratoolkit) and resources essential for variant analysis has been
+created for instantiating an EC2 instance or instance cluster on Amazon
+cloud. Performance of this framework has been evaluated and compared with
+that from traditional analysis pipeline, and security handling in cloud
+environment when dealing with control-accessed sequence data has been
+addressed. We demonstrate that it is cost effective to make variant calls
+using control-accessed SRA sequence data without first transferring the
+entire set of aligned sequence data into a local storage environment,
+thereby accelerating variation discovery using control-accessed
+sequencing data.
+
