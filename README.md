@@ -8,7 +8,7 @@ Nachdem das Java JDK erfolgreich installiert wurde, benötigen Sie noch eine Ent
 
 **Importieren des Projekts in IntelliJ:** Sie können dies Projekt nach erfolgreicher Installation einfach in Ihre IntelliJ Umgebung installieren, indem Sie der folgenden Anweisung folgen: https://www.jetbrains.com/help/idea/set-up-a-git-repository.html  
 
-**Testdaten**: Aus Lizenzgründen können Sie TEstdaten für das Projekt von dieser Webseite herunterladen: https://bionlp.nlm.nih.gov/trec2017precisionmedicine/extra_abstracts.tar.gz In einem nächsten Schritt müssen Sie die Daten entpacken und in den folgenden Projektordner kopieren: src/main/resources/Collections/extra_abstracts_full_AAC
+**Testdaten**: Aus Lizenzgründen können Sie Testdaten für das Projekt nur von dieser Webseite herunterladen: https://bionlp.nlm.nih.gov/trec2017precisionmedicine/extra_abstracts.tar.gz In einem nächsten Schritt müssen Sie die Daten entpacken und in den folgenden Projektordner kopieren: src/main/resources/Collections/extra_abstracts_full_AAC
 
 
 
